@@ -1,0 +1,80 @@
+T0	Disease 72 75	XFS
+T18	Disease 480 483	XFS
+T31	Chemical 942 945	ATP
+T34	Chemical 1059 1066	calcium
+T36	Disease 1191 1194	XFS
+T37	Disease 1195 1198	XFG
+T38	Disease 1284 1287	XFS
+T39	Disease 1288 1291	XFG
+T5	Chemical 223 228	lysyl
+T6	Disease 292 295	XFS
+T7	Disease 300 303	XFG
+#1	AnnotatorNotes T0	DOID:13641
+T1	Biomarker 30 45	Genetic factors
+R1	Association Arg1:T1 Arg2:T0	
+T9	Gene-Protein 250 255	LOXL1
+#2	AnnotatorNotes T9	HGNC:6665
+T11	Gene-Protein 223 248	lysyl oxidase-like 1 gene
+#3	AnnotatorNotes T11	HGNC:6665
+T13	Biomarker 179 256	rs1048661, rs3825942, and rs2165241, of the lysyl oxidase-like 1 gene (LOXL1)
+T15	Collection 292 303	XFS and XFG
+#4	AnnotatorNotes T7	DOID:13641
+R2	Association Arg1:T13 Arg2:T15	
+T2	Gene-Protein 432 437	LOXL1
+T3	Biomarker 353 437	rs4886467, rs4558370, rs4461027, rs4886761, and rs16958477 SNPs located in the LOXL1
+R3	Risk-Factor Arg1:T3 Arg2:T18	
+T4	Gene-Protein 578 582	APOE
+#5	AnnotatorNotes T4	HGNC:613
+T8	Gene-Protein 560 576	apolipoprotein E
+#6	AnnotatorNotes T8	HGNC:613
+T10	Biomarker 529 583	rs429358 and rs7412 located on apolipoprotein E (APOE)
+T12	Biomarker 591 663	rs2107856 and rs2141388 of contactin-associated protein-like 2 (CNTNAP2)
+T14	Collection 529 1156	rs429358 and rs7412 located on apolipoprotein E (APOE) [ 7 ], rs2107856 and rs2141388 of contactin-associated protein-like 2 (CNTNAP2) [ 8 ], rs41435250 and rs893818 of LOXL1 [ 9 ], rs16958445 of TBC1 domain family member 21 (TBC1D21) [ 10 ], rs7137828 of autosomal-dominant ataxin 2 (ATXN2), rs35934224 of thioredoxin reductase 2 (TXNRD2), rs11732100 of actin filament-associated protein 1 (AFAP1), rs2472493 of ATP-binding cassette subfamily A member 1 (ABCA1), rs9897123 of growth arrest-specific 7 (GAS7) [ 11 ], rs4926244 of calcium voltage-gated channel subunit alpha1 A (CACNA1A) [ 12 ], and rs2279590 of clusterin (CLU)
+T16	Biomarker 822 868	rs35934224 of thioredoxin reductase 2 (TXNRD2)
+T17	Gene-Protein 655 662	CNTNAP2
+#7	AnnotatorNotes T17	HGNC:13830
+T19	Gene-Protein 618 653	contactin-associated protein-like 2
+#8	AnnotatorNotes T19	HGNC:13830
+T20	Gene-Protein 698 703	LOXL1
+T22	Biomarker 671 703	rs41435250 and rs893818 of LOXL1
+T23	Gene-Protein 755 762	TBC1D21
+#9	AnnotatorNotes T23	HGNC:28536
+T24	Gene-Protein 725 753	TBC1 domain family member 21
+#10	AnnotatorNotes T24	HGNC:28536
+T25	Biomarker 711 763	rs16958445 of TBC1 domain family member 21 (TBC1D21)
+T26	Gene-Protein 814 819	ATXN2
+#11	AnnotatorNotes T26	HGNC:10555
+T40	Gene-Protein 785 812	autosomal-dominant ataxin 2
+#12	AnnotatorNotes T40	HGNC:10555
+T28	Collection 1191 1198	XFS/XFG
+R4	Association Arg1:T14 Arg2:T28	
+T41	Biomarker 772 820	rs7137828 of autosomal-dominant ataxin 2 (ATXN2)
+T21	Gene-Protein 921 926	AFAP1
+#13	AnnotatorNotes T21	HGNC:24017
+T42	Gene-Protein 884 919	actin filament-associated protein 1
+#14	AnnotatorNotes T42	HGNC:24017
+T43	Biomarker 870 927	rs11732100 of actin filament-associated protein 1 (AFAP1)
+T29	Gene-Protein 861 867	TXNRD2
+#15	AnnotatorNotes T29	HGNC:18155
+T44	Gene-Protein 836 859	thioredoxin reductase 2
+#16	AnnotatorNotes T44	HGNC:18155
+T45	Biomarker 1128 1156	rs2279590 of clusterin (CLU)
+T27	Gene-Protein 1152 1155	CLU
+#17	AnnotatorNotes T27	HGNC:2095
+T46	Gene-Protein 1141 1150	clusterin
+#18	AnnotatorNotes T46	HGNC:2095
+T35	Gene-Protein 1107 1114	CACNA1A
+#19	AnnotatorNotes T35	HGNC:1388
+T47	Gene-Protein 1059 1105	calcium voltage-gated channel subunit alpha1 A
+#20	AnnotatorNotes T47	HGNC:1388
+T48	Biomarker 1046 1115	rs4926244 of calcium voltage-gated channel subunit alpha1 A (CACNA1A)
+T33	Gene-Protein 1032 1036	GAS7
+#21	AnnotatorNotes T33	HGNC:4169
+T49	Gene-Protein 1006 1030	growth arrest-specific 7
+#22	AnnotatorNotes T49	HGNC:4169
+T50	Biomarker 993 1037	rs9897123 of growth arrest-specific 7 (GAS7)
+T32	Gene-Protein 985 990	ABCA1
+#23	AnnotatorNotes T32	HGNC:29
+T51	Gene-Protein 942 983	ATP-binding cassette subfamily A member 1
+#24	AnnotatorNotes T51	HGNC:29
+T52	Biomarker 929 991	rs2472493 of ATP-binding cassette subfamily A member 1 (ABCA1)

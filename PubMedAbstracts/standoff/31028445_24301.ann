@@ -1,0 +1,45 @@
+T0	Chemical 105 112	¹⁸F-FDG
+T1	Disease 176 181	DLBCL
+T10	Disease 674 679	DLBCL
+T11	Chemical 789 796	¹⁸F-FDG
+T12	Disease 815 820	DLBCL
+T15	Disease 1111 1116	DLBCL
+T16	GeneFamily 1149 1153	P13K
+T3	Disease 342 352	MYC⁺ DLBCL
+T5	Disease 431 441	MYC− DLBCL
+T7	Chemical 553 560	glucose
+T8	Disease 571 594	MYC FISH–negative DLBCL
+#11	AnnotatorNotes T8	not found
+T2	Gene-Protein 65 68	MYC
+#1	AnnotatorNotes T2	HGNC:7553
+T6	Biomarker 65 83	MYC rearrangements
+#2	AnnotatorNotes T1	DOID:0050745
+T9	Biomarker 206 223	MYC rearrangement
+T13	Gene-Protein 206 209	MYC
+#3	AnnotatorNotes T3	not found
+T4	Gene-Protein 323 328	Ki-67
+#4	AnnotatorNotes T4	HGNC:7107
+#5	AnnotatorNotes T5	not found
+T14	Gene-Protein 571 574	MYC
+T18	Biomarker 543 567	increased glucose uptake
+T19	Biomarker 458 479	overexpression of MYC
+T20	Biomarker 633 660	high MYC protein expression
+T21	Gene-Protein 638 641	MYC
+R2	Association Arg1:T20 Arg2:T10	
+T22	Gene-Protein 762 765	MYC
+T23	Biomarker 907 925	MYC rearrangements
+T24	Gene-Protein 907 910	MYC
+T25	Biomarker 1059 1076	mutations in PTEN
+T26	Gene-Protein 1072 1076	PTEN
+#7	AnnotatorNotes T26	  HGNC:9588
+R3	Association Arg1:T25 Arg2:T15	
+#8	AnnotatorNotes T16	family:831
+T27	GeneFamily 1154 1157	AKT
+#9	AnnotatorNotes T27	family:1900
+T28	Gene-Protein 1158 1162	mTOR
+#10	AnnotatorNotes T28	HGNC:3942
+T29	Gene-Protein 342 345	MYC
+T30	Gene-Protein 431 434	MYC
+T31	Gene-Protein 476 479	MYC
+T32	Biomarker 295 338	median proliferation index (Ki-67 staining)
+R1	Association Arg1:T32 Arg2:T3	

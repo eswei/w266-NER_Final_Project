@@ -1,0 +1,75 @@
+T0	Gene-Protein 56 61	PUF60
+T1	Disease 84 97	breast cancer
+#2	AnnotatorNotes T1	DOID:1612
+T10	Disease 677 683	tumors
+#3	AnnotatorNotes T10	DOID:162
+T11	Gene-Protein 715 720	PUF60
+T12	Disease 798 805	cancers
+#5	AnnotatorNotes T12	DOID:162
+T13	Disease 814 819	NSCLC
+#6	AnnotatorNotes T13	DOID:3908
+T14	Disease 821 838	colorectal cancer
+#7	AnnotatorNotes T14	DOID:9256
+T15	Disease 844 868	hepatocellular carcinoma
+#8	AnnotatorNotes T15	DOID:684
+T17	Gene-Protein 1026 1031	PUF60
+T18	Disease 1094 1110	malignant tumors
+#10	AnnotatorNotes T18	DOID:162
+T19	Disease 1122 1134	colon cancer
+#11	AnnotatorNotes T19	DOID:219
+T2	Gene-Protein 165 170	PUF60
+T20	Disease 1139 1163	hepatocellular carcinoma
+T21	Disease 1168 1196	acute lymphoblastic leukemia
+#14	AnnotatorNotes T21	DOID:9952
+T22	Disease 1205 1216	lung cancer
+#15	AnnotatorNotes T22	DOID:1324
+T24	Disease 1313 1319	NSCLCs
+T25	Disease 1427 1432	tumor
+T26	Gene-Protein 1662 1667	PUF60
+T27	Disease 1692 1705	breast cancer
+T28	Disease 1760 1773	breast cancer
+T4	Disease 270 283	breast cancer
+T5	Gene-Protein 344 349	PUF60
+T6	Disease 420 433	breast cancer
+T7	Gene-Protein 435 440	PUF60
+T8	Chemical 514 525	amino acids
+T9	Gene-Protein 550 555	PUF60
+#1	AnnotatorNotes T0	HGNC:17042
+T3	Biomarker 56 61	PUF60
+#4	AnnotatorNotes T3	C410595
+R1	Association Arg1:T3 Arg2:T1	
+T16	Biomarker 165 185	PUF60 overexpression
+R2	Association Arg1:T16 Arg2:T4	
+T23	Biomarker 344 349	PUF60
+R3	Association Arg1:T23 Arg2:T6	
+T29	Gene-Protein 466 469	FIR
+#9	AnnotatorNotes T29	HGNC:17042
+T30	Gene-Protein 545 548	FIR
+T31	Gene-Protein 607 612	c-Myc
+#12	AnnotatorNotes T31	HGNC:7553
+T32	Gene-Protein 711 714	FIR
+T33	Gene-Protein 887 890	FIR
+T34	Biomarker 887 930	FIR is alternatively spliced lacking exon 2
+T35	Collection 798 868	cancers such as NSCLC, colorectal cancer, and hepatocellular carcinoma
+R4	Association Arg1:T34 Arg2:T35	
+T36	Gene-Protein 1001 1004	FIR
+T37	Gene-Protein 1022 1025	FIR
+T38	Biomarker 1022 1082	FIR/PUF60 and FIRΔᵉˣᵒⁿ² have been reported to be upregulated
+T39	Collection 1094 1216	malignant tumors, including colon cancer, 28 hepatocellular carcinoma, 29 acute lymphoblastic leukemia, 30 and lung cancer
+R5	Association Arg1:T38 Arg2:T39	
+T40	Biomarker 1235 1253	high expressed FIR
+T41	Gene-Protein 1250 1253	FIR
+R6	Association Arg1:T40 Arg2:T24	
+#13	AnnotatorNotes T24	DOID:3908
+T42	Gene-Protein 1356 1359	FIR
+T43	Biomarker 1356 1368	FIR variants
+T44	Biomarker 1662 1667	PUF60
+R8	Association Arg1:T44 Arg2:T27	
+T45	Gene-Protein 1534 1537	FIR
+T46	Drug 1521 1544	silencing of FIR-Δᵉˣᵒⁿ²
+#16	AnnotatorNotes T46	not found
+T47	Biomarker 607 612	c-Myc
+#17	AnnotatorNotes T47	D016271
+R7	Association Arg1:T47 Arg2:T10	
+T48	Biomarker 1678 1687	FIRΔᵉˣᵒⁿ²
+T49	Biomarker 1538 1544	Δᵉˣᵒⁿ²

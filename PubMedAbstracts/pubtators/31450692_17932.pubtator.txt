@@ -1,0 +1,44 @@
+31450692_17932|t|RSS_IDENT_p_31450692_b_1_6_4
+31450692_17932|a| Elevated lipid levels in plasma have been shown to play a role in several human diseases, and could also be related to cognitive decline. Initial studies failed to find an association between plasma lipids and MCI [ 59 ]. In 2012, Yin et al. revealed that triglycerides (TG) were negatively associated with MCI, and could preserve cognitive decline in the elderly. This study did not find any association between cholesterol and cognitive impairment [ 60 ]. In 2016, He et al. analyzed the total cholesterol (TC), high-density lipoprotein cholesterol (HDL-C), low-density lipoprotein cholesterol (LDL-C), and triglyceride (TG) levels in patients with MCI compared with healthy individuals. This study found higher TC levels in MCI individuals compared with controls; however, this finding may be contradictory. Previously, other studies revealed that high TC might have a protective effect against AD or cognitive impairment. This study observed reduced HDL-C in MCI patients, suggesting that HDL-C can prevent amyloid aggregation and cognitive impairment. A similar association was found between plasma TG levels and MCI, suggesting that TG may also have a protective effect [ 61 ]. The relationship between TGs and amyloid-β may be explained through role of TGs in the peripheral lipoprotein transport of Aβ. Further studies are required to investigate the biomarker. 
+31450692_17932	30	61	Elevated lipid levels in plasma	Biomarker
+31450692_17932	149	166	cognitive decline	Disease	DOID:1561
+31450692_17932	222	235	plasma lipids	Biomarker
+31450692_17932	229	235	lipids	Chemical
+31450692_17932	240	243	MCI	Disease	DOID:0080832
+31450692_17932	286	299	triglycerides	Chemical
+31450692_17932	286	299	triglycerides	Biomarker	D014280
+31450692_17932	337	340	MCI	Disease
+31450692_17932	337	378	MCI, and could preserve cognitive decline	Collection
+31450692_17932	361	378	cognitive decline	Disease
+31450692_17932	443	454	cholesterol	Chemical
+31450692_17932	443	454	cholesterol	Biomarker	D002784
+31450692_17932	459	479	cognitive impairment	Disease	DOID:1561
+31450692_17932	520	663	total cholesterol (TC), high-density lipoprotein cholesterol (HDL-C), low-density lipoprotein cholesterol (LDL-C), and triglyceride (TG) levels	Biomarker
+31450692_17932	526	537	cholesterol	Chemical
+31450692_17932	539	541	TC	Chemical
+31450692_17932	544	580	high-density lipoprotein cholesterol	Chemical
+31450692_17932	582	587	HDL-C	Chemical
+31450692_17932	590	625	low-density lipoprotein cholesterol	Chemical
+31450692_17932	627	632	LDL-C	Chemical
+31450692_17932	639	651	triglyceride	Chemical
+31450692_17932	653	655	TG	Chemical
+31450692_17932	681	684	MCI	Disease
+31450692_17932	737	753	higher TC levels	Biomarker
+31450692_17932	757	760	MCI	Disease
+31450692_17932	881	888	high TC	Drug	not found
+31450692_17932	928	930	AD	Disease	DOID:10652
+31450692_17932	928	954	AD or cognitive impairment	Collection
+31450692_17932	934	954	cognitive impairment	Disease
+31450692_17932	976	989	reduced HDL-C	Biomarker
+31450692_17932	993	996	MCI	Disease
+31450692_17932	1023	1028	HDL-C	Drug	not found
+31450692_17932	1065	1085	cognitive impairment	Disease
+31450692_17932	1127	1143	plasma TG levels	Biomarker
+31450692_17932	1134	1136	TG	Chemical
+31450692_17932	1148	1151	MCI	Disease
+31450692_17932	1169	1171	TG	Drug	D014280
+31450692_17932	1239	1242	TGs	Chemical
+31450692_17932	1247	1256	amyloid-β	Gene-protein	not found
+31450692_17932	1290	1293	TGs	Chemical
+31450692_17932	1337	1339	Aβ	Gene-protein	not found
+

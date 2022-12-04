@@ -1,0 +1,45 @@
+30410539_28323|t|RSS_IDENT_p_30410539_b_1_4_7
+30410539_28323|a| We observed the gradual increase in IRS-4, pIGF-1 receptor, EGF receptor, procaspase 3 and PARP, according to the severity of the disease, as measured by the TNM system. Moreover, the procaspase 3 and caspase 3 levels were higher in T3/T4 group than in Tis/2 group. In a previous study, Roy et al. have shown that procaspase 3 and caspase 3 are overexpressed in human colon carcinoma [ 38 ] and very recently Zhou et al. have observed that caspase-3 regulates the migration, invasion, and metastasis of colon cancer cells [ 39 ]. In clinical studies, low levels of caspase 3 predict favourable response to 5FU-based chemotherapy in advanced colorectal cancer [ 40 ]. Conversely, higher amounts of activated caspase 3 in the tumour predict worse treatment outcomes in patients with CRC [ 31 ]. The mechanism involved in these findings may be related to the increase in the autocrine factor PGE2 by a caspase 3 dependent mechanism, which is able to stimulate cell regrowth and angiogenesis in different types of human cancers [ 31 , 32 , 40 ]. In fact, caspase 3 overexpression is associated with unfavourable outcome to therapy in melanoma [ 41 ], and to cytotoxic therapy in head and neck squamous cell carcinoma [ 32 ] and in advanced breast cancer [ 32 ]. Our results, together with previous reports [ 42 ], suggest that in CRC tissue there is a general activation of the proteolytic enzymes. In fact, in tumoural tissue we observe a significant increase in the fragmentation of PARP, p53 and GSK-3. The first two are substrates of caspase 3 [ 43 , 44 ]; however, the third, to our knowledge, is not. 
+30410539_28323	54	125	increase in IRS-4, pIGF-1 receptor, EGF receptor, procaspase 3 and PARP	Biomarker
+30410539_28323	66	71	IRS-4	Gene-protein	HGNC:6128
+30410539_28323	73	88	pIGF-1 receptor	Gene-protein	HGNC:5465
+30410539_28323	90	102	EGF receptor	Gene-protein	HGNC:3236
+30410539_28323	104	116	procaspase 3	Gene-protein	not found
+30410539_28323	121	125	PARP	Genefamily	family:684
+30410539_28323	214	226	procaspase 3	Gene-protein
+30410539_28323	214	259	procaspase 3 and caspase 3 levels were higher	Biomarker
+30410539_28323	231	240	caspase 3	Gene-protein	HGNC:1504
+30410539_28323	283	286	Tis	Chemical
+30410539_28323	344	356	procaspase 3	Gene-protein
+30410539_28323	344	388	procaspase 3 and caspase 3 are overexpressed	Biomarker
+30410539_28323	361	370	caspase 3	Gene-protein
+30410539_28323	398	413	colon carcinoma	Disease	DOID:1520
+30410539_28323	470	479	caspase-3	Gene-protein
+30410539_28323	470	479	caspase-3	Biomarker	D053148
+30410539_28323	533	545	colon cancer	Disease	DOID:219
+30410539_28323	581	604	low levels of caspase 3	Biomarker
+30410539_28323	595	604	caspase 3	Gene-protein
+30410539_28323	636	639	5FU	Drug	CHEMBL185
+30410539_28323	662	688	advanced colorectal cancer	Disease	DOID:9256
+30410539_28323	709	746	higher amounts of activated caspase 3	Biomarker
+30410539_28323	737	746	caspase 3	Gene-protein
+30410539_28323	754	760	tumour	Disease	DOID:162
+30410539_28323	811	814	CRC	Disease	DOID:9256
+30410539_28323	886	923	increase in the autocrine factor PGE2	Biomarker
+30410539_28323	919	923	PGE2	Chemical
+30410539_28323	929	938	caspase 3	Gene-protein
+30410539_28323	1046	1053	cancers	Disease	DOID:162
+30410539_28323	1081	1090	caspase 3	Gene-protein
+30410539_28323	1081	1105	caspase 3 overexpression	Biomarker
+30410539_28323	1160	1168	melanoma	Disease	DOID:1909
+30410539_28323	1160	1279	melanoma [ 41 ], and to cytotoxic therapy in head and neck squamous cell carcinoma [ 32 ] and in advanced breast cancer	Collection
+30410539_28323	1205	1242	head and neck squamous cell carcinoma	Disease	DOID:5520
+30410539_28323	1257	1279	advanced breast cancer	Disease	DOID:1612
+30410539_28323	1356	1359	CRC	Disease
+30410539_28323	1437	1445	tumoural	Disease	DOID:162
+30410539_28323	1478	1530	increase in the fragmentation of PARP, p53 and GSK-3	Biomarker
+30410539_28323	1511	1515	PARP	Genefamily
+30410539_28323	1517	1520	p53	Gene-protein	HGNC:11998
+30410539_28323	1525	1530	GSK-3	Genefamily	not found
+30410539_28323	1564	1573	caspase 3	Gene-protein
+

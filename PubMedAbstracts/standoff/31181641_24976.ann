@@ -1,0 +1,88 @@
+T1	Disease 62 67	NAFLD
+#1	AnnotatorNotes T1	DOID:0080208
+T10	Disease 492 494	DM
+T11	Disease 612 627	hepatosteatosis
+T12	Disease 650 655	NAFLD
+T13	Disease 660 678	insulin resistance
+#5	AnnotatorNotes T13	D007333
+T15	Disease 780 787	Obesity
+#6	AnnotatorNotes T15	DOID:9970
+T17	Disease 845 850	NAFLD
+T19	Disease 948 953	NAFLD
+T2	Disease 104 109	NAFLD
+T20	Disease 971 978	obesity
+T21	Disease 983 987	T2DM
+#11	AnnotatorNotes T21	DOID:9352
+T23	Disease 1137 1144	obesity
+T24	Disease 1149 1153	T2DM
+T26	Chemical 1240 1249	aspartate
+T28	Chemical 1267 1274	alanine
+T31	Chemical 1337 1346	aspartate
+T32	Disease 1435 1440	NAFLD
+T36	Disease 1591 1598	obesity
+T37	Disease 1603 1607	T2DM
+T39	Disease 1686 1691	NAFLD
+T41	Disease 1808 1819	fatty liver
+#25	AnnotatorNotes T41	DOID:9452
+T5	Disease 225 244	fatty liver disease
+#26	AnnotatorNotes T5	DOID:9452
+T8	Disease 384 401	hepatic steatosis
+#27	AnnotatorNotes T8	DOID:9452
+T9	Disease 480 487	obesity
+#28	AnnotatorNotes T9	DOID:9970
+T3	Gene-Protein 30 36	FGF 19
+#2	AnnotatorNotes T3	HGNC:3675
+T4	Gene-Protein 315 323	FGF15/19
+#3	AnnotatorNotes T4	not found,HGNC:3675
+T6	Biomarker 30 36	FGF 19
+#4	AnnotatorNotes T6	C117476
+R1	Association Arg1:T6 Arg2:T1	
+T7	Gene-Protein 828 833	FGF19
+T14	Biomarker 114 152	increased endoplasmic reticulum stress
+R2	Association Arg1:T14 Arg2:T2	
+T16	Biomarker 169 205	chronic endoplasmic reticulum stress
+R3	Association Arg1:T16 Arg2:T5	
+T18	Biomarker 303 328	Lack of the FGF15/19 gene
+R4	Association Arg1:T18 Arg2:T8	
+T27	Gene-Protein 441 447	FGF 19
+T33	Gene-Protein 578 585	insulin
+T34	Gene-Protein 660 667	insulin
+T35	Gene-Protein 715 720	FGF19
+T38	Chemical 754 759	lipid
+T40	Biomarker 686 720	impaired hepatic response to FGF19
+T42	Biomarker 818 840	decreased FGF19 levels
+T43	Collection 650 678	NAFLD and insulin resistance
+R5	Association Arg1:T40 Arg2:T43	
+T44	Gene-Protein 924 930	FGF 19
+T22	Gene-Protein 1502 1508	FGF 19
+T45	Gene-Protein 1636 1641	FGF19
+T46	Biomarker 1626 1641	decreased FGF19
+R7	Association Arg1:T46 Arg2:T39	
+T49	Gene-Protein 1754 1760	FGF 19
+T50	GeneFamily 1240 1266	aspartate aminotransferase
+#8	AnnotatorNotes T50	not found
+T51	Gene-Protein 1267 1291	alanine aminotransferase
+#9	AnnotatorNotes T51	HGNC:4552
+T52	Gene-Protein 1337 1363	aspartate aminotransferase
+#10	AnnotatorNotes T10	DOID:9351
+T29	Biomarker 1754 1781	FGF 19 levels ≤ 49.97 pg/mL
+#12	AnnotatorNotes T11	DOID:9452
+T53	Biomarker 1230 1297	including aspartate aminotransferase/alanine aminotransferase ratio
+T54	Biomarker 1321 1331	BARD score
+T55	Biomarker 1337 1387	aspartate aminotransferase to platelet ratio index
+T56	Biomarker 1299 1319	NAFLD fibrosis score
+T57	Collection 1207 1387	liver fibrosis scores, including aspartate aminotransferase/alanine aminotransferase ratio, NAFLD fibrosis score, BARD score, and aspartate aminotransferase to platelet ratio index
+T25	Biomarker 1207 1228	liver fibrosis scores
+R8	Association Arg1:T57 Arg2:T32	
+T30	Collection 1496 1566	lower FGF 19 levels, lower body weight, and lower waist circumferences
+T58	Collection 1591 1607	obesity and T2DM
+R9	Association Arg1:T30 Arg2:T58	
+R10	Association Arg1:T29 Arg2:T41	
+#13	AnnotatorNotes T35	HGNC:3675
+T47	Biomarker 261 294	increased FFA flux into the liver
+T48	Drug 500 513	high-fat diet
+#14	AnnotatorNotes T48	D059305
+T59	Biomarker 1496 1515	lower FGF 19 levels
+T60	Biomarker 1517 1534	lower body weight
+T61	Biomarker 1540 1566	lower waist circumferences
+#7	AnnotatorNotes T33	HGNC:6081

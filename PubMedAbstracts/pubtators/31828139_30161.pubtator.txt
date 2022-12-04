@@ -1,0 +1,56 @@
+31828139_30161|t|RSS_IDENT_p_31828139_b_1_4_5
+31828139_30161|a| In accordance with previous studies, our untreated CKD rats displayed the marked elevation of serum triglycerides, NEFA, and VLDL levels. Furthermore, hepatic triglycerides and NEFA levels were also significantly higher in CKD rats. This was associated with a significant reduction in lipase enzyme activity and protein expression in the liver (hepatic lipase), heart, skeletal muscle, adipose tissue and serum. Furthermore, the CKD rats in this study showed marked downregulation of VLDL receptor in these tissues. Thus, the results presented in this study substantiate the claim that CKD-induced hypertriglyceridemia could be due, at least in part, to lipase deficiency [ 49 , 50 ]. Long-term atorvastatin administration in the CKD rats results in a significant decline in serum and hepatic triglyceride and NEFA levels, as well as serum VLDL levels. This was accompanied by the upregulation of lipase protein expression and enzyme activity in hepatic and various extrahepatic tissues. Furthermore, hypertriglyceridemia in CKD rats is associated with impaired maturation of HDL-3 to HDL-2 mediated by LCAT deficiency which further contributes to defective lipolysis and clearance of triglyceride-rich lipoproteins (i.e. VLDL and chylomicrons) in circulation. Thus, it can be postulated that improvement in hypertriglyceridemia in the atorvastatin-treated CKD rats could be due to the improvement in HDL metabolism. Several clinical trials of statins have shown the beneficial effects on serum LDL, HDL and triglyceride in nonuremic hyperlipidemic population [ 51 ]. Thus, the effects observed in the CKD rats are consistent with those founds in hyperlipidemic population. 
+31828139_30161	81	84	CKD	Disease	DOID:784
+31828139_30161	111	166	elevation of serum triglycerides, NEFA, and VLDL levels	Biomarker
+31828139_30161	130	143	triglycerides	Chemical
+31828139_30161	145	149	NEFA	Chemical
+31828139_30161	155	159	VLDL	Chemical
+31828139_30161	181	249	hepatic triglycerides and NEFA levels were also significantly higher	Biomarker
+31828139_30161	189	202	triglycerides	Chemical
+31828139_30161	207	211	NEFA	Chemical
+31828139_30161	253	256	CKD	Disease
+31828139_30161	290	440	significant reduction in lipase enzyme activity and protein expression in the liver (hepatic lipase), heart, skeletal muscle, adipose tissue and serum	Biomarker
+31828139_30161	315	321	lipase	Gene-protein
+31828139_30161	375	389	hepatic lipase	Gene-protein
+31828139_30161	459	462	CKD	Disease
+31828139_30161	496	527	downregulation of VLDL receptor	Biomarker
+31828139_30161	514	518	VLDL	Chemical
+31828139_30161	514	527	VLDL receptor	Gene-protein
+31828139_30161	616	648	CKD-induced hypertriglyceridemia	Disease	not found
+31828139_30161	684	701	lipase deficiency	Biomarker
+31828139_30161	685	690	ipase	Gene-protein
+31828139_30161	725	737	atorvastatin	Drug	CHEMBL1487
+31828139_30161	760	763	CKD	Disease
+31828139_30161	794	851	decline in serum and hepatic triglyceride and NEFA levels	Biomarker
+31828139_30161	823	835	triglyceride	Chemical
+31828139_30161	840	844	NEFA	Chemical
+31828139_30161	864	881	serum VLDL levels	Biomarker
+31828139_30161	870	874	VLDL	Chemical
+31828139_30161	927	933	lipase	Gene-protein
+31828139_30161	1031	1051	hypertriglyceridemia	Biomarker	D015228
+31828139_30161	1055	1058	CKD	Disease
+31828139_30161	1083	1120	impaired maturation of HDL-3 to HDL-2	Biomarker
+31828139_30161	1083	1148	impaired maturation of HDL-3 to HDL-2 mediated by LCAT deficiency	Collection
+31828139_30161	1106	1111	HDL-3	Chemical
+31828139_30161	1115	1120	HDL-2	Chemical
+31828139_30161	1133	1137	LCAT	Gene-protein
+31828139_30161	1133	1148	LCAT deficiency	Biomarker
+31828139_30161	1178	1197	defective lipolysis	Biomarker
+31828139_30161	1215	1245	triglyceride-rich lipoproteins	Chemical
+31828139_30161	1215	1289	triglyceride-rich lipoproteins (i.e. VLDL and chylomicrons) in circulation	Biomarker
+31828139_30161	1252	1256	VLDL	Chemical
+31828139_30161	1261	1273	chylomicrons	Chemical
+31828139_30161	1323	1358	improvement in hypertriglyceridemia	Biomarker
+31828139_30161	1366	1378	atorvastatin	Drug
+31828139_30161	1387	1390	CKD	Disease
+31828139_30161	1416	1445	improvement in HDL metabolism	Biomarker
+31828139_30161	1431	1434	HDL	Chemical
+31828139_30161	1474	1481	statins	Drug-class
+31828139_30161	1519	1550	serum LDL, HDL and triglyceride	Biomarker
+31828139_30161	1525	1528	LDL	Chemical
+31828139_30161	1530	1533	HDL	Chemical
+31828139_30161	1538	1550	triglyceride	Chemical
+31828139_30161	1554	1578	nonuremic hyperlipidemic	Disease	not found
+31828139_30161	1632	1635	CKD	Disease
+31828139_30161	1677	1691	hyperlipidemic	Disease	D015228
+

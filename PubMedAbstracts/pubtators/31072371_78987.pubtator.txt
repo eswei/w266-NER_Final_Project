@@ -1,0 +1,73 @@
+31072371_78987|t|RSS_IDENT_s_31072371_b_1_6
+31072371_78987|a| Additional files Additional file 1: Table S1. Publicly available resources utilized to download and process relevant data for multi-omics network and pathway analysis. Table S2. Clinico-pathological characteristics of patient-derived breast tissue specimen included in the study. Table S3. Oxylipin metabolites identified in patient-derived mammary tumor or adjacent normal tissues. Table S4. Discovery and validation cohorts used for multi-omics network and pathway analysis. Table S5. List of pathways upregulated in histologically classified ER−/PR−/HER2+ mammary tumor samples with mRNA expression of CYP2J2 z-score ≥ 2.0. Table S6. List of pathways upregulated in histologically classified ER+/PR+/HER2- and TPBC tumor samples with gene expression of CYP2J2 z-score ≥ 2.0. Table S7. List of pathways upregulated in histologically classified TNBC tumor samples with gene expression of CYP2J2 z-score ≥ 2.0. (DOCX 98 kb) <url> Additional file 2: Supporting information for delineation of CYP epoxygenase-associated networks as theranostic targets for metastatic triple negative breast cancer (Figures S1-S8). (PDF 28634 kb) <url> Additional file 3: Gene enrichment associations for the tumor specimens in the discovery set with mRNA expression z score of ≥2.0 for CYP2J2 and CYP2C9. (XLS 7282 kb) <url> Additional file 4: List of nodes related to processes upregulated in CYP epoxyge nase overexpressing TNBC, ER−/PR−/HER2+ and ER+/PR+/TPBC samples. (XLS 107 kb) <url> Additional file 5: Quantitative proteomic data of eight paired TNBC tumors and adjacent normal tissues using iTRAQ. (XLS 3510 kb) <url> Abbreviations AA Arachidonic acid COX Cyclooxygenase CYP Cytochrome P450 DCIS Ductal carcinoma in situ DHET Dihydroxyeicosatrienoic acids EET Epoxyeicosatrienoic acid EGFR Epidermal Growth Factor Receptor EpOME Epoxyoctadecenoic acids ER Estrogen receptor FDR False discovery rate GO Gene ontology HER2 Human epidermal growth factor receptor HETE Hydroxyeicosatetraenoic acids HIF-1α Hypoxia-inducible factor-1alpha IHC Immunohistopathological iTRAQ Isobaric tags for relative and absolute quantitation KEGG Kyoto Encyclopedia of Genes and Genome LOX Lipoxygenase LT Leukotriene MAPK Mitogen-activated protein kinase METABRIC Molecular Taxonomy of Breast Cancer International Consortium MSigDB Molecular Signatures Database NOD 1/2 Nucleotide-binding oligomerization domain-containing protein 1 NTA Network Topology-based Analysis ORA Over Representation Analysis PAM50 Prediction Analysis of Microarray 50 PGE₂ Prostaglandin E₂ PID Pathway Interaction Database PLS-DA PLS Discriminant Analysis PR Progesterone receptor sEH Soluble epoxide hydrolase TCGA The Cancer Genome Atlas TNBC Triple negative breast cancer UPLC-MS/MS Ultra-performance liquid chromatography- tandem mass spectrometry WebGestalt WEB-based GEne SeT AnaLysis Toolkit Authors’ contributions
+31072371_78987	318	326	Oxylipin	Chemical
+31072371_78987	318	338	Oxylipin metabolites	Biomarker
+31072371_78987	369	382	mammary tumor	Disease	not found
+31072371_78987	573	575	ER	Genefamily	HGNC:3467
+31072371_78987	573	600	ER−/PR−/HER2+ mammary tumor	Disease	DOID:0060076, DOID:0060078, DOID:0060079
+31072371_78987	577	579	PR	Gene-protein	HGNC:8910
+31072371_78987	581	585	HER2	Gene-protein	HGNC:3430
+31072371_78987	633	639	CYP2J2	Gene-protein	HGNC:2634
+31072371_78987	723	725	ER	Gene-protein
+31072371_78987	723	751	ER+/PR+/HER2- and TPBC tumor	Disease	DOID:0060075, DOID:0060077, DOID:0060080, not found
+31072371_78987	727	729	PR	Gene-protein
+31072371_78987	731	735	HER2	Gene-protein
+31072371_78987	784	790	CYP2J2	Gene-protein
+31072371_78987	874	878	TNBC	Disease	DOID:0060081
+31072371_78987	917	923	CYP2J2	Gene-protein
+31072371_78987	1019	1034	CYP epoxygenase	Genefamily	family:862
+31072371_78987	1082	1122	metastatic triple negative breast cancer	Disease	DOID:0060081
+31072371_78987	1217	1222	tumor	Disease	DOID:162
+31072371_78987	1295	1301	CYP2J2	Gene-protein
+31072371_78987	1306	1312	CYP2C9	Gene-protein	HGNC:2623
+31072371_78987	1435	1439	TNBC	Disease
+31072371_78987	1441	1443	ER	Gene-protein
+31072371_78987	1445	1447	PR	Gene-protein
+31072371_78987	1449	1453	HER2	Gene-protein
+31072371_78987	1459	1461	ER	Gene-protein
+31072371_78987	1463	1465	PR	Gene-protein
+31072371_78987	1563	1567	TNBC	Disease
+31072371_78987	1650	1652	AA	Chemical
+31072371_78987	1653	1669	Arachidonic acid	Chemical
+31072371_78987	1670	1673	COX	Genefamily
+31072371_78987	1674	1688	Cyclooxygenase	Genefamily
+31072371_78987	1689	1692	CYP	Genefamily
+31072371_78987	1693	1708	Cytochrome P450	Genefamily
+31072371_78987	1709	1713	DCIS	Disease	DOID:0060074
+31072371_78987	1714	1738	Ductal carcinoma in situ	Disease	DOID:0060074
+31072371_78987	1739	1743	DHET	Chemical
+31072371_78987	1744	1777	Dihydroxyeicosatrienoic acids EET	Chemical
+31072371_78987	1778	1802	Epoxyeicosatrienoic acid	Chemical
+31072371_78987	1803	1807	EGFR	Gene-protein
+31072371_78987	1808	1840	Epidermal Growth Factor Receptor	Gene-protein
+31072371_78987	1841	1846	EpOME	Chemical
+31072371_78987	1847	1870	Epoxyoctadecenoic acids	Chemical
+31072371_78987	1871	1873	ER	Genefamily
+31072371_78987	1874	1882	Estrogen	Chemical
+31072371_78987	1874	1891	Estrogen receptor	Genefamily
+31072371_78987	1934	1938	HER2	Gene-protein
+31072371_78987	1939	1977	Human epidermal growth factor receptor	Gene-protein
+31072371_78987	1978	1982	HETE	Chemical
+31072371_78987	1983	2012	Hydroxyeicosatetraenoic acids	Chemical
+31072371_78987	2013	2019	HIF-1α	Gene-protein
+31072371_78987	2020	2051	Hypoxia-inducible factor-1alpha	Gene-protein
+31072371_78987	2183	2186	LOX	Genefamily
+31072371_78987	2187	2199	Lipoxygenase	Genefamily
+31072371_78987	2200	2202	LT	Chemical
+31072371_78987	2203	2214	Leukotriene	Chemical
+31072371_78987	2215	2219	MAPK	Genefamily
+31072371_78987	2220	2252	Mitogen-activated protein kinase	Genefamily
+31072371_78987	2284	2297	Breast Cancer	Disease	DOID:1612
+31072371_78987	2360	2367	NOD 1/2	Gene-protein
+31072371_78987	2368	2430	Nucleotide-binding oligomerization domain-containing protein 1	Gene-protein
+31072371_78987	2543	2547	PGE₂	Chemical
+31072371_78987	2548	2564	Prostaglandin E₂	Chemical
+31072371_78987	2631	2633	PR	Gene-protein
+31072371_78987	2634	2646	Progesterone	Chemical
+31072371_78987	2634	2655	Progesterone receptor	Gene-protein
+31072371_78987	2656	2659	sEH	Genefamily
+31072371_78987	2660	2685	Soluble epoxide hydrolase	Genefamily
+31072371_78987	2668	2675	epoxide	Chemical
+31072371_78987	2715	2719	TNBC	Disease
+31072371_78987	2720	2749	Triple negative breast cancer	Disease	DOID:0060081
+

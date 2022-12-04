@@ -1,0 +1,40 @@
+T1	Disease 376 391	hypoalbuminemia
+T2	Disease 611 622	lung cancer
+#3	AnnotatorNotes T2	DOID:1324
+T4	Disease 901 906	NSCLC
+T8	Disease 137 142	NSCLC
+#1	AnnotatorNotes T8	DOID:3908
+T9	Biomarker 185 213	decreased serum ApoA-I level
+T10	Biomarker 218 232	poorer ECOG PS
+T11	Biomarker 320 340	poorer ECOG PS score
+#2	AnnotatorNotes T1	D034141
+R1	Association Arg1:T11 Arg2:T1	
+T12	Gene-Protein 429 435	ApoA-I
+T13	Gene-Protein 201 207	ApoA-I
+#4	AnnotatorNotes T13	HGNC:600
+T14	Biomarker 429 465	ApoA-I levels were found to be lower
+T15	Gene-Protein 483 490	albumin
+#5	AnnotatorNotes T15	HGNC:399
+T16	Biomarker 483 490	albumin
+#9	AnnotatorNotes T16	D000418
+T17	Biomarker 538 556	clinical TNM stage
+T18	Biomarker 561 581	extent of metastasis
+T19	Gene-Protein 663 669	ApoA-I
+T20	Biomarker 657 699	serum ApoA-I levels were found to be lower
+T3	Gene-Protein 847 853	ApoA-I
+T21	Biomarker 838 860	elevated ApoA-I levels
+T22	Biomarker 880 897	earlier TNM stage
+T23	Gene-Protein 948 954	ApoA-I
+T5	Biomarker 948 954	ApoA-I
+T24	Biomarker 1047 1164	Decreased matrix metalloproteinase-9 protein levels and enzyme activity combined with extracellular matrix remodeling
+#6	AnnotatorNotes T5	D016632
+T6	Biomarker 1173 1187	tumor invasion
+T7	Biomarker 1192 1208	tumor metastasis
+T25	Gene-Protein 1057 1083	matrix metalloproteinase-9
+#7	AnnotatorNotes T25	HGNC:7176
+T26	Biomarker 263 296	Weaker general physical condition
+T27	Disease 1023 1028	tumor
+#8	AnnotatorNotes T27	DOID:162
+R2	Association Arg1:T24 Arg2:T27	
+T28	Biomarker 717 755	more organ sites of distant metastasis
+T29	Biomarker 979 1006	metastasis and angiogenesis

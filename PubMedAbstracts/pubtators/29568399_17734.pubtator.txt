@@ -1,0 +1,56 @@
+29568399_17734|t|RSS_IDENT_p_29568399_b_1_3_4
+29568399_17734|a| Previously, we generated a MeS-like experimental model and found that CTBP1 and MeS increased breast tumor growth by regulating multiple genes and miRNAs involved in cell proliferation, progenitor cells phenotype, EMT, mammary development and cell communication [ 10 ]. To elucidate CTBP1 and MeS effect on BrCa progression in vivo, here we analyzed expression levels of genes involved in key steps of tumor progression in xenografts generated in the MeS-like model. Moreover, we showed that CTBP1 induced ITGB4 and PRSS2, while MeS regulated COL17A1 and FABP4 genes. In addition, MeS induced ITGB6 only in CTBP1-high expression xenografts, suggesting that CTBP1 activation by MeS could be critical for ITGB6 expression. These results support our previous studies showing that, in vivo, CTBP1 and MeS regulate the mesenchymal markers Vimentin and Slug [ 10 ]. Importantly, integrins dysregulation is associated with cancer development and progression, since these are heterodimeric cell surface receptors critical for adhesion, migration, invasion, growth, survival and differentiation [ 21 ]. Interestingly, ITGB4 constitutes a marker of basal-like tumors [ 22 ] and it is a downstream effector of cell migration mediated by the mesenchymal marker Vimentin [ 23 ], which promotes BrCa invasion through the regulation of cytoskeleton dynamics [ 24 ]. Thus, CTBP1 emerges as a master regulator of EMT in BrCa inducing Vimentin and its downstream target ITGB4. Also, ITGB6 is a known inductor of cell invasion and is a marker of poor prognosis in several cancer types, including BrCa [ 25 – 28 ]. Altogether, these results suggest that CTBP1 hyperactivation by MeS is a critical event that might be considered for prognosis assessment in BrCa patients. 
+29568399_17734	57	60	MeS	Disease	D024821
+29568399_17734	100	105	CTBP1	Gene-protein	HGNC:2494
+29568399_17734	100	105	CTBP1	Biomarker	C096794
+29568399_17734	100	113	CTBP1 and MeS	Collection
+29568399_17734	110	113	MeS	Biomarker	D024821
+29568399_17734	124	136	breast tumor	Disease	DOID:1612
+29568399_17734	313	318	CTBP1	Gene-protein
+29568399_17734	323	326	MeS	Disease
+29568399_17734	337	341	BrCa	Disease	DOID:1612
+29568399_17734	432	437	tumor	Disease	DOID:162
+29568399_17734	481	484	MeS	Disease
+29568399_17734	522	527	CTBP1	Gene-protein
+29568399_17734	536	541	ITGB4	Gene-protein	HGNC:6158
+29568399_17734	546	551	PRSS2	Gene-protein	HGNC:9483
+29568399_17734	559	562	MeS	Disease
+29568399_17734	573	580	COL17A1	Gene-protein	HGNC:2194
+29568399_17734	585	590	FABP4	Gene-protein	HGNC:3559
+29568399_17734	611	614	MeS	Disease
+29568399_17734	623	628	ITGB6	Gene-protein	HGNC:6161
+29568399_17734	637	642	CTBP1	Gene-protein
+29568399_17734	637	658	CTBP1-high expression	Biomarker
+29568399_17734	687	692	CTBP1	Gene-protein
+29568399_17734	707	710	MeS	Disease
+29568399_17734	733	738	ITGB6	Gene-protein
+29568399_17734	817	822	CTBP1	Gene-protein
+29568399_17734	827	830	MeS	Disease
+29568399_17734	864	872	Vimentin	Gene-protein	HGNC:12692
+29568399_17734	877	881	Slug	Gene-protein	HGNC:11094
+29568399_17734	903	912	integrins	Genefamily	family:597
+29568399_17734	903	926	integrins dysregulation	Biomarker
+29568399_17734	946	952	cancer	Disease	DOID:162
+29568399_17734	1139	1144	ITGB4	Gene-protein
+29568399_17734	1139	1144	ITGB4	Biomarker	C059834
+29568399_17734	1169	1186	basal-like tumors	Disease	not found
+29568399_17734	1279	1287	Vimentin	Gene-protein
+29568399_17734	1279	1287	Vimentin	Biomarker	D014746
+29568399_17734	1311	1315	BrCa	Disease
+29568399_17734	1387	1392	CTBP1	Gene-protein
+29568399_17734	1387	1392	CTBP1	Biomarker
+29568399_17734	1433	1437	BrCa	Disease
+29568399_17734	1447	1455	Vimentin	Biomarker
+29568399_17734	1447	1455	Vimentin	Gene-protein
+29568399_17734	1447	1487	Vimentin and its downstream target ITGB4	Collection
+29568399_17734	1482	1487	ITGB4	Biomarker
+29568399_17734	1482	1487	ITGB4	Gene-protein
+29568399_17734	1495	1500	ITGB6	Gene-protein
+29568399_17734	1495	1500	ITGB6	Biomarker	C072170
+29568399_17734	1583	1589	cancer	Disease
+29568399_17734	1583	1611	cancer types, including BrCa	Collection
+29568399_17734	1607	1611	BrCa	Disease
+29568399_17734	1664	1669	CTBP1	Gene-protein
+29568399_17734	1664	1692	CTBP1 hyperactivation by MeS	Biomarker
+29568399_17734	1766	1770	BrCa	Disease
+

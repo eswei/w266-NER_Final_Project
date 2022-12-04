@@ -1,0 +1,43 @@
+T0	Chemical 99 101	NO
+T11	Biomarker 550 571	severity of dysplasia
+T13	Disease 671 675	OSMF
+T14	Disease 727 747	epithelial dysplasia
+#5	AnnotatorNotes T14	not found
+T16	Chemical 817 819	NO
+T19	Disease 884 898	mammary tumors
+#9	AnnotatorNotes T19	DOID:1612
+T21	Biomarker 952 971	higher tumor grades
+T22	Chemical 1049 1051	NO
+T24	Disease 1105 1111	tumors
+#12	AnnotatorNotes T24	DOID:162
+T25	Chemical 1261 1263	NO
+T26	Biomarker 1274 1322	different histopathological grading of the tumor
+T3	Chemical 220 222	NO
+T4	Disease 262 281	differentiated OSCC
+T5	Disease 326 330	OSCC
+T7	Chemical 381 383	NO
+T9	Biomarker 396 430	decreased differentiation of tumor
+T2	Biomarker 99 117	NO level increases
+#1	AnnotatorNotes T4	DOID:0050866
+T6	Biomarker 213 239	plasma NO level comparable
+R2	Association Arg1:T6 Arg2:T4	
+#4	AnnotatorNotes T5	DOID:0050866
+T8	Gene-Protein 518 522	iNOS
+#6	AnnotatorNotes T8	HGNC:7873
+T10	Gene-Protein 656 660	iNOS
+T12	Gene-Protein 944 948	iNOS
+T15	Biomarker 369 390	increase in NO levels
+T20	Biomarker 518 533	iNOS expression
+T23	Biomarker 642 660	expression of iNOS
+T27	Biomarker 801 826	increased total NO levels
+T17	Biomarker 922 948	greater expression of iNOS
+R5	Association Arg1:T17 Arg2:T19	
+#7	AnnotatorNotes T13	DOID:5773
+T28	Biomarker 1049 1051	NO
+R6	Association Arg1:T28 Arg2:T24	
+T29	Biomarker 1261 1270	NO levels
+#11	AnnotatorNotes T28	D009569
+T30	Disease 830 855	oral precancer and cancer
+#13	AnnotatorNotes T30	not found,DOID:8618
+R7	Association Arg1:T27 Arg2:T30	
+T18	Biomarker 123 172	increasing histopathological grading of the tumor

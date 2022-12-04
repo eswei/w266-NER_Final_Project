@@ -1,0 +1,42 @@
+31781658_3110|t|RSS_IDENT_p_31781658_b_1_1_3
+31781658_3110|a| For cirrhotic patients, the increased expression of NOS and elevated NO concentration in peripheral blood are associated with a decrease in the inactivating effect of the liver on endotoxins and increased concentration of endotoxins in the blood circulation. However, the level of serum NO is estimated mainly by detecting its metabolites nitrate and nitrite, and the results can be inaccurate [ 5 , 6 ]. NO is formed in vivo from L-arginine and oxygen under the catalysis of NOS. In cirrhotic patients, the increased NO levels in pulmonary small airways and alveolar regions can lead to an increase in the eNO concentration [ 7 – 9 ]. The increase in eNO is more common in patients with decompensated cirrhosis, such as intrapulmonary vascular dilatation complicated with hyperdynamic circulatory syndrome and hepatopulmonary syndrome. The excessive elevation of eNO is predominantly associated with an increase in the release from pulmonary vascular endothelial cells, airway epithelial cells, and peripheral inflammatory cells [ 2 ]. The concentrations of eNO from different sites, such as central airway and alveoli, can be detected using different expiratory flows and operational formulas [ 8 , 10 , 11 ]. The eNO test is a noninvasive, simple, and economical method that reflects systemic inflammatory state and endothelial cell function, which may be closely related to the progression of cirrhosis [ 7 , 12 , 13 ]. Therefore, this study aimed to analyze the relationship of the eNO level with the severity of liver cirrhosis and evaluate the predictive value of eNO as a noninvasive marker for HVPG in patients with cirrhotic portal hypertension (CPH). 
+31781658_3110	34	43	cirrhotic	Disease	DOID:5082
+31781658_3110	58	85	increased expression of NOS	Biomarker
+31781658_3110	82	85	NOS	Genefamily	not found
+31781658_3110	90	135	elevated NO concentration in peripheral blood	Biomarker
+31781658_3110	99	101	NO	Chemical
+31781658_3110	158	220	decrease in the inactivating effect of the liver on endotoxins	Biomarker
+31781658_3110	225	287	increased concentration of endotoxins in the blood circulation	Biomarker
+31781658_3110	317	319	NO	Chemical
+31781658_3110	369	376	nitrate	Chemical
+31781658_3110	381	388	nitrite	Chemical
+31781658_3110	435	437	NO	Chemical
+31781658_3110	461	471	L-arginine	Chemical
+31781658_3110	476	482	oxygen	Chemical
+31781658_3110	506	509	NOS	Genefamily
+31781658_3110	514	523	cirrhotic	Disease
+31781658_3110	538	605	increased NO levels in pulmonary small airways and alveolar regions	Biomarker
+31781658_3110	548	550	NO	Chemical
+31781658_3110	621	654	increase in the eNO concentration	Biomarker
+31781658_3110	637	640	eNO	Chemical
+31781658_3110	670	685	increase in eNO	Biomarker
+31781658_3110	682	685	eNO	Chemical
+31781658_3110	718	741	decompensated cirrhosis	Disease	not found
+31781658_3110	718	865	decompensated cirrhosis, such as intrapulmonary vascular dilatation complicated with hyperdynamic circulatory syndrome and hepatopulmonary syndrome	Collection
+31781658_3110	751	785	intrapulmonary vascular dilatation	Disease	not found
+31781658_3110	803	836	hyperdynamic circulatory syndrome	Disease	not found
+31781658_3110	841	865	hepatopulmonary syndrome	Disease	DOID:900
+31781658_3110	871	897	excessive elevation of eNO	Biomarker
+31781658_3110	894	897	eNO	Chemical
+31781658_3110	934	1059	increase in the release from pulmonary vascular endothelial cells, airway epithelial cells, and peripheral inflammatory cells	Biomarker
+31781658_3110	1089	1092	eNO	Chemical
+31781658_3110	1246	1249	eNO	Chemical
+31781658_3110	1427	1436	cirrhosis	Disease	DOID:5082
+31781658_3110	1517	1520	eNO	Chemical
+31781658_3110	1517	1520	eNO	Biomarker
+31781658_3110	1548	1563	liver cirrhosis	Disease	DOID:5082
+31781658_3110	1601	1604	eNO	Chemical
+31781658_3110	1601	1604	eNO	Biomarker
+31781658_3110	1655	1684	cirrhotic portal hypertension	Disease	DOID:5082,DOID:10762
+31781658_3110	1686	1689	CPH	Disease	DOID:5082,DOID:10762
+

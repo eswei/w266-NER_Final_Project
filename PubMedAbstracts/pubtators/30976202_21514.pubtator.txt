@@ -1,0 +1,53 @@
+30976202_21514|t|RSS_IDENT_p_30976202_b_1_4_4
+30976202_21514|a| For the first time, we revealed a negative correlation between ZEB1 expression and pCR in breast cancer patients receiving NAT. We found that tumors expressing high levels of ZEB1 protein were less likely to achieve pCR after NAT. In the preclinical stage, a study from Zhang reported that ZEB1 was correlated with several chemo-resistant genes, such as ATM, CD4, and PIM3 [ 10 ]. ZEB1 expression was associated with a chemo-resistant tumor phenotype both in vitro and in vivo. Others also reported that ZEB1 promoted the DNA damage response and radio-resistance through CHK1 [ 23 ]. All this molecular evidence suggested that ZEB1 was able to undermine the sensitivity of tumors towards cytotoxic therapy, which could explain why it was more difficult for patients with high ZEB1 expression levels to achieve complete remission after NAT compared with patients with low ZEB1 expression levels. Moreover, ZEB1 expression was still a strong indicator of poor survival in breast cancer patients in our study. The fact that ZEB1 promoted EMT and facilitated tumor metastasis is probably the main underlying reason for this result. Our result is supported by research by Lin, which showed that ZEB1 and ZEB2 mRNA expression as well as protein expression were associated with poor survival in breast cancer [ 21 ]. Our result was also supported by Min, who reported that ZEB1 protein expression was associated with poor survival in TNBC [ 24 ]. The predictive role of ZEB1 is also validated in other tumors, such as ovarian carcinoma and hepatocellular carcinoma [ 25 – 27 ].
+30976202_21514	93	97	ZEB1	Gene-protein	HGNC:11642
+30976202_21514	93	108	ZEB1 expression	Biomarker
+30976202_21514	120	133	breast cancer	Disease	DOID:1612
+30976202_21514	153	156	NAT	Drug-class
+30976202_21514	172	178	tumors	Disease	DOID:162
+30976202_21514	190	209	high levels of ZEB1	Biomarker
+30976202_21514	205	209	ZEB1	Gene-protein
+30976202_21514	256	259	NAT	Drug-class
+30976202_21514	320	324	ZEB1	Gene-protein
+30976202_21514	320	324	ZEB1	Biomarker	D000071799
+30976202_21514	384	387	ATM	Gene-protein	HGNC:795
+30976202_21514	384	387	ATM	Biomarker	C576324
+30976202_21514	389	392	CD4	Gene-protein	HGNC:1678
+30976202_21514	389	392	CD4	Biomarker	D015704
+30976202_21514	398	402	PIM3	Gene-protein	HGNC:19310
+30976202_21514	398	402	PIM3	Biomarker	C499249
+30976202_21514	411	415	ZEB1	Gene-protein
+30976202_21514	411	426	ZEB1 expression	Biomarker
+30976202_21514	465	470	tumor	Disease	DOID:162
+30976202_21514	534	538	ZEB1	Gene-protein
+30976202_21514	534	538	ZEB1	Biomarker
+30976202_21514	601	605	CHK1	Gene-protein	HGNC:1925
+30976202_21514	657	661	ZEB1	Gene-protein
+30976202_21514	657	661	ZEB1	Biomarker
+30976202_21514	703	709	tumors	Disease
+30976202_21514	718	735	cytotoxic therapy	Drug-class
+30976202_21514	801	828	high ZEB1 expression levels	Biomarker
+30976202_21514	806	810	ZEB1	Gene-protein
+30976202_21514	865	868	NAT	Drug-class
+30976202_21514	897	923	low ZEB1 expression levels	Biomarker
+30976202_21514	901	905	ZEB1	Gene-protein
+30976202_21514	935	939	ZEB1	Gene-protein
+30976202_21514	935	950	ZEB1 expression	Biomarker
+30976202_21514	1000	1013	breast cancer	Disease
+30976202_21514	1051	1055	ZEB1	Gene-protein
+30976202_21514	1051	1055	ZEB1	Biomarker
+30976202_21514	1085	1090	tumor	Disease
+30976202_21514	1220	1224	ZEB1	Gene-protein
+30976202_21514	1220	1279	ZEB1 and ZEB2 mRNA expression as well as protein expression	Biomarker
+30976202_21514	1229	1233	ZEB2	Gene-protein	HGNC:14881
+30976202_21514	1318	1331	breast cancer	Disease
+30976202_21514	1396	1400	ZEB1	Gene-protein
+30976202_21514	1396	1419	ZEB1 protein expression	Biomarker
+30976202_21514	1457	1461	TNBC	Disease	DOID:0060081
+30976202_21514	1493	1497	ZEB1	Gene-protein
+30976202_21514	1493	1497	ZEB1	Biomarker
+30976202_21514	1525	1531	tumors	Disease
+30976202_21514	1526	1587	umors, such as ovarian carcinoma and hepatocellular carcinoma	Collection
+30976202_21514	1541	1558	ovarian carcinoma	Disease	DOID:4001
+30976202_21514	1563	1587	hepatocellular carcinoma	Disease	DOID:684
+

@@ -1,0 +1,114 @@
+T1	Disease 78 102	non‐melanoma skin cancer
+#1	AnnotatorNotes T1	DOID:4159
+T10	Gene-Protein 634 639	LRIG2
+T11	Disease 643 656	cutaneous SCC
+#2	AnnotatorNotes T11	not found
+T12	Disease 658 662	cSCC
+#3	AnnotatorNotes T12	not found
+T13	Chemical 844 875	7,12‐dimethylbenz(a)anthracene/
+T15	Chemical 875 912	12‐O‐tetra‐decanoylphorbol‐13‐acetate
+T16	Chemical 914 918	DMBA
+T17	Chemical 919 922	TPA
+T19	Disease 1304 1309	tumor
+#9	AnnotatorNotes T19	DOID:162
+T2	Disease 104 108	NMSC
+T20	Disease 1354 1358	cSCC
+T22	Biomarker 1444 1486	inflammation of the epidermis was enhanced
+T23	Biomarker 1539 1555	LRIG2 expression
+T24	Disease 1657 1661	cSCC
+T25	Biomarker 1686 1708	epidermal LRIG2 excess
+T26	Biomarker 1728 1763	activated EGFR/ERBB4‐MAPK signaling
+T27	Biomarker 1768 1797	accelerated tumor progression
+T29	Disease 1824 1828	NMSC
+T30	Chemical 1911 1917	serine
+T31	Chemical 1918 1927	threonine
+T32	Chemical 1947 1964	β‐mercaptoethanol
+T34	Chemical 1965 1969	BrdU
+T35	Chemical 1970 1987	bromodeoxyuridine
+T36	Biomarker 1988 2019	CASP3 caspase 3 CDH1 E‐cadherin
+T37	Disease 2025 2058	cutaneous squamous cell carcinoma
+#22	AnnotatorNotes T37	not found
+T38	Chemical 2111 2137	glyceraldehyde‐3‐phosphate
+T39	Chemical 2268 2276	loricrin
+T40	Chemical 2282 2289	leucine
+T41	Chemical 2466 2505	phosphatidylinositol 3,4,5‐triphosphate
+T5	Chemical 351 358	leucine
+T6	Disease 511 515	NMSC
+T7	Biomarker 517 556	LRIG2 was identified to be up‐regulated
+T8	Disease 577 600	squamous cell carcinoma
+#29	AnnotatorNotes T8	DOID:1749
+T9	Disease 602 605	SCC
+#30	AnnotatorNotes T9	DOID:5514
+T42	GeneFamily 181 194	ERBB receptor
+T3	Gene-Protein 407 412	LRIG2
+#4	AnnotatorNotes T3	HGNC:20889
+T4	Gene-Protein 351 405	leucine‐rich repeats and immunoglobulin‐like domains 2
+#5	AnnotatorNotes T4	HGNC:20889
+T43	GeneFamily 483 496	ERBB receptor
+T45	Gene-Protein 517 522	LRIG2
+T46	Gene-Protein 696 701	LRIG2
+T47	Gene-Protein 748 753	LRIG2
+T48	Gene-Protein 792 797	LRIG2
+T49	Gene-Protein 1135 1140	LRIG2
+T50	Gene-Protein 1024 1029	LRIG2
+T51	Gene-Protein 1494 1499	LRIG2
+T52	Gene-Protein 1841 1846	LRIG2
+T53	Gene-Protein 1539 1544	LRIG2
+T54	Gene-Protein 1696 1701	LRIG2
+T55	Gene-Protein 2343 2379	mitogen‐activated protein kinase 1/2
+T56	Gene-Protein 2335 2342	MAPK1/2
+T57	Gene-Protein 2380 2385	MKI67
+T58	Gene-Protein 2386 2420	proliferation marker protein Ki‐67
+T59	Gene-Protein 2421 2425	PCNA
+T60	Gene-Protein 2426 2460	proliferating cell nuclear antigen
+T61	Gene-Protein 2461 2465	PTEN
+T63	Gene-Protein 2561 2565	PTEN
+T64	GeneFamily 2566 2569	RAS
+T65	GeneFamily 2570 2576	GTPase
+T66	GeneFamily 2577 2580	Ras
+T67	Gene-Protein 2595 2621	SHC‐transforming protein 1
+T68	GeneFamily 2622 2626	STAT
+T69	Gene-Protein 2590 2594	SHC1
+T70	GeneFamily 2627 2675	signal transducer and activator of transcription
+T71	Gene-Protein 2676 2681	THBS1
+T72	Gene-Protein 2682 2698	thrombospondin-1
+T73	Gene-Protein 2699 2705	TUBA1A
+T74	GeneFamily 1897 1900	AKT
+T75	Gene-Protein 2706 2722	tubulin alpha‐1a
+T76	Chemical 1943 1946	BME
+T77	Gene-Protein 1988 1993	CASP3
+T78	Gene-Protein 1994 2003	caspase 3
+T79	Gene-Protein 2009 2019	E‐cadherin
+T80	Gene-Protein 2004 2008	CDH1
+T81	Gene-Protein 2277 2281	LRIG
+T82	Gene-Protein 2252 2255	KRT
+T83	Gene-Protein 2256 2263	keratin
+T84	Gene-Protein 2087 2091	EGFR
+T85	Gene-Protein 2092 2104	EGF receptor
+T86	Gene-Protein 2063 2086	epidermal growth factor
+T87	Gene-Protein 2729 2732	VIM
+T88	Gene-Protein 2733 2741	vimentin
+T90	Gene-Protein 2282 2334	leucine‐rich repeats and immunoglobulin‐like domains
+T91	Gene-Protein 2215 2228	interleukin‐6
+T92	Gene-Protein 2211 2214	IL6
+T93	Gene-Protein 2191 2210	interleukin‐1‐alpha
+T94	Gene-Protein 2186 2190	IL1A
+T95	Gene-Protein 2111 2151	glyceraldehyde‐3‐phosphate dehydrogenase
+T96	Gene-Protein 2264 2267	LOR
+T99	Gene-Protein 2105 2110	GAPDH
+T100	GeneFamily 1901 1942	RAC‐alpha serine/threonine‐protein kinase
+T101	Gene-Protein 1738 1742	EGFR
+T102	Gene-Protein 1743 1748	ERBB4
+T103	GeneFamily 1749 1753	MAPK
+T104	GeneFamily 1399 1403	ERBB
+T105	Gene-Protein 1145 1161	thrombospondin‐1
+R2	Association Arg1:T7 Arg2:T8	
+T106	Disease 705 709	cSCC
+T14	Biomarker 1494 1514	LRIG2 overexpression
+R3	Association Arg1:T23 Arg2:T24	
+T21	Biomarker 1841 1846	LRIG2
+#6	AnnotatorNotes T2	DOID:4159
+T18	Biomarker 1115 1161	interaction between LRIG2 and thrombospondin‐1
+T28	Disease 2020 2024	cSCC
+T33	Gene-Protein 2059 2062	EGF
+T44	Gene-Protein 2466 2560	phosphatidylinositol 3,4,5‐triphosphate 3‐phosphatase and dual specificity protein phosphatase

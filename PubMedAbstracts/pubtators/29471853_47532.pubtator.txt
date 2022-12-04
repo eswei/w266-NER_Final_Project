@@ -1,0 +1,56 @@
+29471853_47532|t|RSS_IDENT_p_29471853_b_1_4_7
+29471853_47532|a| Aspirin (ASA), a classic anti-inflammatory agent, has been reported to play novel roles in the reduction of incidences of cancers including breast cancer [ 26 – 28 ]. ASA treatment has many downstream, such as cyclooxygenase 2 (COX2), NF-kB, extracellular signal-related kinase (ERK), or some lncRNAs and miRNAs [ 45 , 66 – 69 ]. Our previous study has demonstrated that HBXIP can activate NF-kB and ERK [ 19 , 29 , 31 ]. Another report shows that pERK1/2 can upregulate COX2 expression for maintaining proliferation and migration of breast cancer [ 30 ], indicating that COX2 could be a downstream effector of HBXIP in cancers. Thus, we chose ASA to tackle HBXIP-mediated TAM resistance in this study. As our data showed, ASA relieved TAM resistance by inhibiting HBXIP. Our finding is consistent with a recent study in which ASA has a potential role in overcoming TAM resistance [ 70 ]. Previously, our group reported that miR-520b could directly target HBXIP in breast cancer [ 29 ]. Many studies have demonstrated that salicylates and other NSAIDs can upregulate tumor suppressor-type miRNAs to inhibit tumor progression. [ 45 , 71 ]. Here, we uncovered that ASA could suppress HBXIP via inducing miR-520b, a tumor suppressor miRNA, but the regulation mechanism of miR-520b mediated by ASA needs more investigation in the future. Oncoprotein HBXIP promotes breast cancer by regulating different cancer-related proteins [ 20 , 21 , 23 , 24 ]. We observed that treatment with ASA could result in marked suppression of breast cancer growth, which might due to the inhibition of HBXIP-promoted breast cancer progression. It is therapeutically meaningful to combine ASA with TAM to treat ER+ breast cancer with high HBXIP expression levels.
+29471853_47532	30	37	Aspirin	Drug	CHEMBL25
+29471853_47532	39	42	ASA	Drug	CHEMBL25
+29471853_47532	152	159	cancers	Disease	DOID:162
+29471853_47532	152	183	cancers including breast cancer	Collection
+29471853_47532	170	183	breast cancer	Disease	DOID:1612
+29471853_47532	197	200	ASA	Drug
+29471853_47532	240	256	cyclooxygenase 2	Gene-protein	HGNC:9605
+29471853_47532	258	262	COX2	Gene-protein	HGNC:9605
+29471853_47532	265	270	NF-kB	Genefamily	family:1254
+29471853_47532	272	307	extracellular signal-related kinase	Genefamily	not found
+29471853_47532	309	312	ERK	Genefamily	not found
+29471853_47532	401	406	HBXIP	Gene-protein	HGNC:17955
+29471853_47532	420	425	NF-kB	Genefamily
+29471853_47532	430	433	ERK	Genefamily
+29471853_47532	478	485	pERK1/2	Gene-protein	HGNC:6877, HGNC:6871
+29471853_47532	478	485	pERK1/2	Biomarker	D048052, D019950
+29471853_47532	501	505	COX2	Gene-protein
+29471853_47532	564	577	breast cancer	Disease
+29471853_47532	602	606	COX2	Gene-protein
+29471853_47532	641	646	HBXIP	Gene-protein
+29471853_47532	650	657	cancers	Disease
+29471853_47532	674	677	ASA	Drug
+29471853_47532	688	693	HBXIP	Gene-protein
+29471853_47532	703	706	TAM	Drug	CHEMBL83
+29471853_47532	753	756	ASA	Drug
+29471853_47532	766	769	TAM	Drug
+29471853_47532	795	800	HBXIP	Gene-protein
+29471853_47532	857	860	ASA	Drug
+29471853_47532	896	899	TAM	Drug
+29471853_47532	955	963	miR-520b	Rna-noncoding	HGNC:32105
+29471853_47532	986	991	HBXIP	Gene-protein
+29471853_47532	995	1008	breast cancer	Disease
+29471853_47532	1053	1064	salicylates	Drug-class
+29471853_47532	1053	1081	salicylates and other NSAIDs	Collection
+29471853_47532	1075	1081	NSAIDs	Drug-class
+29471853_47532	1137	1142	tumor	Disease	DOID:162
+29471853_47532	1193	1196	ASA	Drug
+29471853_47532	1212	1217	HBXIP	Gene-protein
+29471853_47532	1231	1239	miR-520b	Rna-noncoding
+29471853_47532	1299	1307	miR-520b	Gene-protein
+29471853_47532	1320	1323	ASA	Drug
+29471853_47532	1376	1381	HBXIP	Gene-protein
+29471853_47532	1376	1381	HBXIP	Biomarker	C110719
+29471853_47532	1391	1404	breast cancer	Disease
+29471853_47532	1429	1435	cancer	Disease
+29471853_47532	1508	1511	ASA	Drug
+29471853_47532	1550	1563	breast cancer	Disease
+29471853_47532	1609	1614	HBXIP	Gene-protein
+29471853_47532	1609	1637	HBXIP-promoted breast cancer	Disease	not found
+29471853_47532	1695	1707	ASA with TAM	Drug	CHEMBL25, CHEMBL83	Conjunction
+29471853_47532	1717	1734	ER+ breast cancer	Disease	DOID:0060075
+29471853_47532	1740	1768	high HBXIP expression levels	Biomarker
+29471853_47532	1745	1750	HBXIP	Gene-protein
+

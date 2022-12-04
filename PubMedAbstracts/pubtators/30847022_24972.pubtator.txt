@@ -1,0 +1,61 @@
+30847022_24972|t|RSS_IDENT_s_30847022_b_1_5
+30847022_24972|a| SUPPLEMENTARY MATERIALS TABLES <url> <url> <url> Abbreviations AKT Protein kinase B ARID2 AT-Rich Interaction Domain 2 BRAF Serine/threonine-protein kinase B-raf C Cysteine CI Confidence interval CLL Chronic lymphocytic leukemia CTNNB1 Catenin Beta 1 DICER1 Ribonuclease III DNA Deoxyribonucleic acid DS Dual strand E Glutamic acid GNA11 G Protein Subunit Alpha 11 GNAQ G Protein Subunit Alpha Q H Histidine hg19 human genome reference version 19 HR Hazard ratio K Lysine KIT Proto-Oncogene Receptor Tyrosine Kinase L Leucine MAP2K1/MEK/MAPK Mitogen-Activated Protein Kinase Kinase 1 NF1: Neurofibromatosis 1 NRAS neuroblastoma RAS viral oncogene homolog OS Overall survival P Proline PFS Progression-free survival PI3K Phosphoinositide 3-kinase PTEN Phosphatase And Tensin Homolog R Arginine RNA Ribonucleic acid SETD2 SET(Su(var)3-9, Enhancer-of-zeste and Trithorax) Domain Containing 2 SF3B1 Splicing factor 3B subunit 1 T Threonine TP53 Tumor protein p53 V Valine Y Tyrosine
+30847022_24972	91	94	AKT	Genefamily	family:1900
+30847022_24972	95	111	Protein kinase B	Genefamily	family:1900
+30847022_24972	112	117	ARID2	Gene-protein	HGNC:18037
+30847022_24972	118	146	AT-Rich Interaction Domain 2	Gene-protein	HGNC:18037
+30847022_24972	147	151	BRAF	Gene-protein	HGNC:1097
+30847022_24972	152	158	Serine	Chemical
+30847022_24972	152	189	Serine/threonine-protein kinase B-raf	Gene-protein	HGNC:1097
+30847022_24972	159	168	threonine	Chemical
+30847022_24972	190	191	C	Chemical
+30847022_24972	192	200	Cysteine	Chemical
+30847022_24972	224	227	CLL	Disease	DOID:1040
+30847022_24972	228	256	Chronic lymphocytic leukemia	Disease	DOID:1040
+30847022_24972	257	263	CTNNB1	Gene-protein	HGNC:2514
+30847022_24972	264	278	Catenin Beta 1	Gene-protein	HGNC:2514
+30847022_24972	279	285	DICER1	Gene-protein	HGNC:17098
+30847022_24972	286	302	Ribonuclease III	Gene-protein	HGNC:17098
+30847022_24972	346	359	Glutamic acid	Chemical
+30847022_24972	360	365	GNA11	Gene-protein	HGNC:4379
+30847022_24972	366	392	G Protein Subunit Alpha 11	Gene-protein	HGNC:4379
+30847022_24972	393	397	GNAQ	Gene-protein	HGNC:4390
+30847022_24972	398	423	G Protein Subunit Alpha Q	Gene-protein	HGNC:4390
+30847022_24972	424	425	H	Chemical
+30847022_24972	426	435	Histidine	Chemical
+30847022_24972	491	492	K	Chemical
+30847022_24972	493	499	Lysine	Chemical
+30847022_24972	500	503	KIT	Gene-protein	HGNC:6342
+30847022_24972	504	543	Proto-Oncogene Receptor Tyrosine Kinase	Gene-protein	HGNC:6342
+30847022_24972	528	536	Tyrosine	Chemical
+30847022_24972	544	545	L	Chemical
+30847022_24972	546	553	Leucine	Chemical
+30847022_24972	554	560	MAP2K1	Gene-protein	HGNC:6840
+30847022_24972	561	564	MEK	Genefamily	not found
+30847022_24972	565	569	MAPK	Genefamily	family:651
+30847022_24972	570	611	Mitogen-Activated Protein Kinase Kinase 1	Gene-protein	HGNC:6840
+30847022_24972	612	615	NF1	Gene-protein	HGNC:7765
+30847022_24972	617	636	Neurofibromatosis 1	Gene-protein	HGNC:7765
+30847022_24972	637	641	NRAS	Gene-protein	HGNC:7989
+30847022_24972	642	682	neuroblastoma RAS viral oncogene homolog	Gene-protein	HGNC:7989
+30847022_24972	703	704	P	Gene-protein
+30847022_24972	705	712	Proline	Chemical
+30847022_24972	743	747	PI3K	Genefamily	family:831
+30847022_24972	748	773	Phosphoinositide 3-kinase	Genefamily	family:831
+30847022_24972	774	778	PTEN	Gene-protein	HGNC:9588
+30847022_24972	779	809	Phosphatase And Tensin Homolog	Gene-protein	HGNC:9588
+30847022_24972	810	811	R	Chemical
+30847022_24972	812	820	Arginine	Chemical
+30847022_24972	842	847	SETD2	Gene-protein	HGNC:18420
+30847022_24972	848	916	SET(Su(var)3-9, Enhancer-of-zeste and Trithorax) Domain Containing 2	Gene-protein	HGNC:18420
+30847022_24972	917	922	SF3B1	Gene-protein	HGNC:10768
+30847022_24972	923	951	Splicing factor 3B subunit 1	Gene-protein	HGNC:10768
+30847022_24972	952	953	T	Chemical
+30847022_24972	954	963	Threonine	Chemical
+30847022_24972	964	968	TP53	Gene-protein	HGNC:11998
+30847022_24972	969	986	Tumor protein p53	Gene-protein	HGNC:11998
+30847022_24972	987	988	V	Chemical
+30847022_24972	989	995	Valine	Chemical
+30847022_24972	996	997	Y	Chemical
+30847022_24972	998	1006	Tyrosine	Chemical
+

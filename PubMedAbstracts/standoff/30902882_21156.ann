@@ -1,0 +1,94 @@
+T0	Disease 109 114	tumor
+#1	AnnotatorNotes T0	DOID:162
+T10	Chemical 799 808	glutamate
+T11	Chemical 813 817	α-KG
+T12	Disease 842 870	lincRNA-p21 overexpressed BC
+#4	AnnotatorNotes T12	not found
+T13	Disease 978 1019	lincRNA-p21 overexpressed and silenced BC
+#5	AnnotatorNotes T13	not found, not found
+T14	Chemical 1090 1099	glutamine
+T15	Disease 1141 1143	BC
+T17	Disease 1296 1298	BC
+T18	Chemical 1329 1338	glutamine
+T2	Disease 159 173	gastric cancer
+#10	AnnotatorNotes T2	DOID:10534
+T3	Disease 244 257	hypoxic tumor
+#11	AnnotatorNotes T3	not found
+T4	Disease 474 498	hepatocellular carcinoma
+#12	AnnotatorNotes T4	DOID:684
+T6	Chemical 561 568	glucose
+T7	Disease 583 588	tumor
+T8	Gene-Protein 610 613	VHL
+T9	Chemical 733 742	glutamine
+T1	Biomarker 61 72	lincRNA-p21
+T5	RNA-Noncoding 61 72	lincRNA-p21
+#2	AnnotatorNotes T5	HGNC:43652
+R1	Association Arg1:T1 Arg2:T0	
+T19	Biomarker 123 149	Down-regulated lincRNA-p21
+T20	RNA-Noncoding 138 149	lincRNA-p21
+R2	Association Arg1:T19 Arg2:T2	
+T22	Gene-Protein 208 211	YAP
+#6	AnnotatorNotes T22	HGNC:30935
+T23	Gene-Protein 227 232	Hippo
+#9	AnnotatorNotes T23	HGNC:11406
+#3	AnnotatorNotes T1	C000629607
+T16	RNA-Noncoding 265 276	lincRNA-p21
+T21	Gene-Protein 326 331	HIF-1
+#13	AnnotatorNotes T21	HGNC:18420
+T24	GeneFamily 332 335	Akt
+#15	AnnotatorNotes T24	family:1900
+T25	Gene-Protein 336 340	mTOR
+#16	AnnotatorNotes T25	HGNC:3942
+T26	Gene-Protein 341 347	P70S6K
+#17	AnnotatorNotes T26	HGNC:10436
+T27	RNA-Noncoding 374 385	LincRNA-p21
+#18	AnnotatorNotes T27	HGNC:43652
+T28	RNA-Noncoding 407 412	miR-9
+#19	AnnotatorNotes T28	family:1698
+T29	Gene-Protein 413 423	E-cadherin
+#20	AnnotatorNotes T29	HGNC:1748
+T30	Drug 374 385	LincRNA-p21
+#21	AnnotatorNotes T30	C000629607
+R3	Response Arg1:T30 Arg2:T4	
+T31	RNA-Noncoding 520 531	lincRNA-p21
+T32	Biomarker 520 531	lincRNA-p21
+#22	AnnotatorNotes T8	HGNC:12687
+T33	Gene-Protein 634 640	HIF-1α
+#23	AnnotatorNotes T33	HGNC:4910
+T34	Gene-Protein 646 649	VHL
+T35	Gene-Protein 650 656	HIF-1α
+T36	RNA-Noncoding 772 783	lincRNA-p21
+T37	RNA-Noncoding 842 853	lincRNA-p21
+T38	Biomarker 785 838	Intracellular glutamate and α-KG level were decreased
+R5	Association Arg1:T38 Arg2:T12	
+T39	RNA-Noncoding 907 918	lincRNA-p21
+T41	RNA-Noncoding 978 989	lincRNA-p21
+T43	Gene-Protein 935 938	GLS
+#24	AnnotatorNotes T43	HGNC:4331
+T44	Biomarker 935 974	GLS was down-regulated and up-regulated
+T45	RNA-Noncoding 1068 1079	lincRNA-p21
+T46	Gene-Protein 1119 1122	GLS
+T47	Biomarker 1162 1189	lowly expressed lincRNA-p21
+T48	RNA-Noncoding 1178 1189	lincRNA-p21
+T49	Biomarker 1202 1218	up-regulated GLS
+T50	Gene-Protein 1215 1218	GLS
+T51	RNA-Noncoding 1263 1274	lincRNA-p21
+T52	Gene-Protein 1289 1292	GLS
+T53	Collection 1162 1218	lowly expressed lincRNA-p21 also showed up-regulated GLS
+R7	Association Arg1:T53 Arg2:T15	
+T54	Gene-Protein 1315 1318	GLS
+T55	Gene-Protein 1378 1381	Myc
+#7	AnnotatorNotes T55	HGNC:7553
+T56	RNA-Noncoding 1418 1425	miR-23a
+#8	AnnotatorNotes T56	HGNC:31605
+T57	RNA-Noncoding 1430 1437	miR-23b
+#25	AnnotatorNotes T57	HGNC:31606
+T58	RNA-Noncoding 1473 1484	lincRNA-p21
+T59	Gene-Protein 1489 1494	c-Myc
+#26	AnnotatorNotes T59	HGNC:7553
+T60	RNA-Noncoding 1495 1504	miR-23a/b
+#27	AnnotatorNotes T60	HGNC:31605, HGNC:31606
+T61	Disease 548 579	dysregulated glucose metabolism
+#28	AnnotatorNotes T61	DOID:4194
+R4	Association Arg1:T44 Arg2:T13	
+#14	AnnotatorNotes T15	DOID:11054

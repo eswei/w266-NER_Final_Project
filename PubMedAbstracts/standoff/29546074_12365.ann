@@ -1,0 +1,74 @@
+T10	Drug 1633 1640	Matrine
+T2	Disease 325 351	advanced/metastatic cancer
+#4	AnnotatorNotes T2	not found
+T3	Disease 600 619	autoimmune diseases
+#5	AnnotatorNotes T3	DOID:417
+T4	Disease 645 665	chronic inflammation
+#6	AnnotatorNotes T4	not found
+T5	Disease 714 720	cancer
+#7	AnnotatorNotes T5	DOID:162
+T6	Disease 1045 1048	CRC
+T7	Drug 1142 1149	matrine
+T8	Disease 1556 1559	CRC
+T11	Gene-Protein 30 34	IL-6
+#3	AnnotatorNotes T11	 HGNC:6018
+T12	Gene-Protein 137 141	IL-6
+T13	Gene-Protein 361 365	IL-6
+T14	Gene-Protein 383 387	IL-6
+T15	Gene-Protein 637 641	IL-6
+T16	Gene-Protein 550 554	IL-6
+T17	Gene-Protein 680 684	IL-6
+T18	Gene-Protein 1167 1171	IL-6
+T19	Disease 429 432	CRC
+#1	AnnotatorNotes T19	DOID:9256
+T20	Biomarker 356 365	high IL-6
+R1	Association Arg1:T20 Arg2:T2	
+T21	Biomarker 383 425	IL-6 expression was significantly elevated
+R2	Association Arg1:T21 Arg2:T19	
+T22	Biomarker 515 536	lymph node metastasis
+T23	Biomarker 498 510	invasiveness
+T24	Drug-Class 545 562	Anti-IL-6 therapy
+T25	Drug 680 693	IL-6 blockade
+T26	Gene-Protein 744 749	TNF-α
+#8	AnnotatorNotes T26	HGNC:11892
+T27	Gene-Protein 855 860	TNF-α
+T28	Biomarker 855 860	TNF-α
+#9	AnnotatorNotes T28	D014409
+T29	Disease 968 971	CRC
+R4	Association Arg1:T28 Arg2:T29	
+T30	Gene-Protein 1021 1026	TNF-α
+T31	Gene-Protein 1176 1181	TNF-α
+T32	Drug-Class 1069 1085	anti-TNF therapy
+T33	Disease 1105 1108	CRC
+#10	AnnotatorNotes T7	CHEMBL204860
+T34	Disease 1185 1188	CRC
+T35	Gene-Protein 1234 1240	TGF-β1
+#12	AnnotatorNotes T35	HGNC:11766
+T36	Gene-Protein 1470 1476	TGF-β1
+T37	Disease 1486 1489	CRC
+T38	Gene-Protein 1512 1518	TGF-β1
+#11	AnnotatorNotes T10	CHEMBL204860
+T9	Gene-Protein 1656 1662	TGF-β1
+T39	Biomarker 1512 1552	TGF-β1 was increased in peripheral blood
+R5	Association Arg1:T39 Arg2:T8	
+T40	Biomarker 1596 1619	tumor size and location
+T41	Biomarker 1470 1476	TGF-β1
+#13	AnnotatorNotes T41	D053773
+R6	Association Arg1:T41 Arg2:T37	
+T42	Biomarker 1015 1026	serum TNF-α
+R7	Association Arg1:T42 Arg2:T6	
+T43	Disease 123 135	inflammation
+#14	AnnotatorNotes T43	D007249
+T44	Biomarker 30 34	IL-6
+#15	AnnotatorNotes T44	D015850
+R8	Association Arg1:T44 Arg2:T43	
+T45	Disease 269 297	tumor-promoting inflammation
+#16	AnnotatorNotes T45	not found
+T1	Disease 799 811	inflammation
+T46	Disease 226 250	colorectal tumorigenesis
+#2	AnnotatorNotes T46	DOID:9256
+T47	Biomarker 137 141	IL-6
+R9	Association Arg1:T47 Arg2:T46	
+R10	Response Arg1:T24 Arg2:T3	
+#17	AnnotatorNotes T25	not found
+R3	Response Arg1:T25 Arg2:T5	

@@ -1,0 +1,33 @@
+30847342_16430|t|RSS_IDENT_p_30847342_b_1_4_5
+30847342_16430|a| The mutation p.Cys548Tyr in KLKB1, found in two patients from family 1 and one asymptomatic mutation carrier from family 27 (F12-HAE), has been associated with KK deficiency in a compound heterozygosity with the change p.Trp402Ter ( 25 ). KK deficiency is a rare autosomal recessive condition which causes an augmented activated partial thromboplastin time, but no coagulation anomalies. Therefore, coexistence of KK deficiency could attenuate or even abolish the symptoms of HAE, since it is the key enzyme responsible for BK release. The only missense mutation found together with p.Cys548Tyr was the high frequent polymorphism p.Ser143Asn (66/78). This polymorphism was shown to cause KK deficiency with the change p.Gly125Arg, both in homozygosity ( 26 ) and lying in the apple domain 2 of the heavy chain of KK, through which kallikrein interacts with HMWK domain 6 ( 27 ). However, p.Ser143Asn was found in heterozygosity in the three patients carrying the p.Cys548Tyr, discarding the hypothesis that this association could be responsible by itself for the lack of symptoms observed in the F12-HAE carrier. Furthermore, the Cys548 lies in the catalytic domain of KK, far from the apple domain 2.
+30847342_16430	43	54	p.Cys548Tyr	Variant	p.Cys548Tyr
+30847342_16430	58	63	KLKB1	Gene-protein	HGNC:6371
+30847342_16430	155	158	F12	Gene-protein	HGNC:3530
+30847342_16430	155	162	F12-HAE	Disease	not found
+30847342_16430	190	192	KK	Genefamily	family:616
+30847342_16430	190	203	KK deficiency	Disease	not found
+30847342_16430	249	260	p.Trp402Ter	Biomarker
+30847342_16430	269	271	KK	Genefamily
+30847342_16430	269	282	KK deficiency	Disease
+30847342_16430	444	446	KK	Genefamily
+30847342_16430	444	457	KK deficiency	Disease
+30847342_16430	506	509	HAE	Disease	DOID:14735
+30847342_16430	554	556	BK	Gene-protein	HGNC:6383
+30847342_16430	613	624	p.Cys548Tyr	Biomarker
+30847342_16430	633	671	high frequent polymorphism p.Ser143Asn	Biomarker
+30847342_16430	718	720	KK	Genefamily
+30847342_16430	718	731	KK deficiency	Disease
+30847342_16430	748	759	p.Gly125Arg	Biomarker
+30847342_16430	806	839	apple domain 2 of the heavy chain	Proteindomain
+30847342_16430	843	845	KK	Genefamily
+30847342_16430	861	871	kallikrein	Genefamily	family:616
+30847342_16430	887	900	HMWK domain 6	Proteindomain
+30847342_16430	918	929	p.Ser143Asn	Biomarker
+30847342_16430	993	1004	p.Cys548Tyr	Biomarker
+30847342_16430	1126	1129	F12	Gene-protein
+30847342_16430	1126	1133	F12-HAE	Disease
+30847342_16430	1160	1166	Cys548	Chemical
+30847342_16430	1179	1195	catalytic domain	Proteindomain
+30847342_16430	1199	1201	KK	Genefamily
+30847342_16430	1216	1230	apple domain 2	Proteindomain
+

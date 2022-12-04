@@ -1,0 +1,83 @@
+T11	Drug 750 797	ectopic expression of miR‐144‐5p and miR‐144‐3p
+T12	Disease 847 851	LUSQ
+T13	Disease 863 869	cancer
+T14	Disease 918 922	LUSQ
+T17	Biomarker 1198 1221	high expression of NCS1
+T18	Disease 1282 1286	LUSQ
+T19	Biomarker 1378 1393	NCS1 expression
+T2	Disease 59 102	advanced‐stage lung squamous cell carcinoma
+#7	AnnotatorNotes T2	DOID:3907
+T20	Disease 1461 1465	LUSQ
+T21	Biomarker 1476 1498	Overexpression of NCS1
+T22	Disease 1515 1519	LUSQ
+T23	Disease 1605 1609	LUSQ
+T24	Disease 1775 1779	LUSQ
+T26	Chemical 1815 1823	dopamine
+T27	Disease 1895 1914	lung adenocarcinoma
+#13	AnnotatorNotes T27	DOID:3910
+T28	Disease 1920 1948	lung squamous cell carcinoma
+#14	AnnotatorNotes T28	DOID:3907
+T30	Chemical 1970 1977	alanine
+T31	Chemical 2039 2046	calcium
+T32	Disease 2062 2088	non‐small cell lung cancer
+#18	AnnotatorNotes T32	DOID:3908
+T33	Disease 2151 2171	renal cell carcinoma
+#19	AnnotatorNotes T33	DOID:4450
+T4	Disease 104 108	LUSQ
+T5	Disease 292 296	LUSQ
+T7	Disease 486 492	cancer
+#24	AnnotatorNotes T7	DOID:162
+T8	Biomarker 516 544	low expression of miR‐144‐5p
+T9	Disease 603 607	LUSQ
+T1	RNA-Noncoding 382 389	miR‐144
+#1	AnnotatorNotes T1	HGNC:31531
+T3	RNA-Noncoding 391 401	miR‐144‐5p
+#3	AnnotatorNotes T3	HGNC:31531
+#5	AnnotatorNotes T4	DOID:3907
+T37	RNA-Noncoding 425 435	miR‐144‐3p
+T38	Biomarker 382 482	miR‐144 (miR‐144‐5p, the passenger strand; miR‐144‐3p, the guide strand) showed decreased expression
+R1	Association Arg1:T38 Arg2:T7	
+T6	RNA-Noncoding 534 544	miR‐144‐5p
+R2	Prognostic-Poor Arg1:T8 Arg2:T9	
+T10	RNA-Noncoding 772 782	miR‐144‐5p
+T39	RNA-Noncoding 787 797	miR‐144‐3p
+#2	AnnotatorNotes T11	not found
+R3	Response Arg1:T11 Arg2:T12	
+T40	RNA-Noncoding 1019 1029	miR‐144‐5p
+T41	RNA-Noncoding 1034 1044	miR‐144‐3p
+T15	Gene-Protein 1104 1111	SLC44A5
+#4	AnnotatorNotes T15	HGNC:28524
+T42	Gene-Protein 1125 1129	NCS1
+#6	AnnotatorNotes T42	HGNC:3953
+T43	Gene-Protein 1113 1119	MARCKS
+#8	AnnotatorNotes T43	HGNC:6759
+T44	RNA-Noncoding 1174 1181	miR‐144
+T16	Gene-Protein 1217 1221	NCS1
+T45	Gene-Protein 1378 1382	NCS1
+T46	Gene-Protein 1494 1498	NCS1
+T47	Gene-Protein 2025 2029	NCS1
+R4	Prognostic-Poor Arg1:T17 Arg2:T18	
+R5	Association Arg1:T19 Arg2:T20	
+T48	Collection 1515 1609	LUSQ clinical specimens, and its aberrant expression enhanced malignant transformation of LUSQ
+R6	Association Arg1:T21 Arg2:T48	
+T49	Disease 2056 2061	NSCLC
+#9	AnnotatorNotes T49	DOID:3908
+T25	Gene-Protein 1949 1955	MARCKS
+T34	Gene-Protein 1956 2009	myristoylated alanine rich protein kinase C substrate
+T29	Gene-Protein 2030 2055	neuronal calcium sensor 1
+T50	Disease 2147 2150	RCC
+#10	AnnotatorNotes T50	DOID:4450
+T51	Gene-Protein 2235 2242	SLC44A5
+T52	Gene-Protein 2243 2276	solute carrier family 44 member 5
+#11	AnnotatorNotes T37	HGNC:31531
+T35	Gene-Protein 1795 1799	Ago2
+#12	AnnotatorNotes T35	HGNC:3263
+T54	Gene-Protein 1800 1810	Argonaute2
+#15	AnnotatorNotes T54	HGNC:3263
+T55	Gene-Protein 1811 1814	D2R
+#16	AnnotatorNotes T55	HGNC:3023
+T56	Gene-Protein 1815 1835	dopamine D2 receptor
+#17	AnnotatorNotes T56	HGNC:3023
+T57	Disease 1890 1894	LUAD
+T58	Disease 1915 1919	LUSQ
+#20	AnnotatorNotes T57	DOID:3910

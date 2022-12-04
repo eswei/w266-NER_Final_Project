@@ -1,0 +1,34 @@
+31802892_2777|t|RSS_IDENT_p_31802892_b_1_1_3
+31802892_2777|a| Long non-coding RNAs (lncRNAs) are a class >200 nucleotides (nt) and have no translation function. Previous documents revealed that lncRNAs closely associated with chromatin remodeling, transcriptional regulation, and post-transcriptional modulation and further affect cancer. 4 Long intergenic non-coding RNA 152 (LINC00152), an 828 bp lncRNA located on human chromosome 2p11.2, was discovered in the process of demethylation during liver cancer progression. 5 Plenty of evidence indicated that LINC00152 was an oncogene in various malignancies including ESCC. 6 For example, a study in gastric cancer (GC) demonstrated that LINC00152 was apparently upregulated in GC tissues and cells, and LINC00152 depletion retarded cell proliferation, migration and invasion and promoted cell apoptosis. 7 Actually, another document unraveled that LINC00152 was significantly increased in ESCC tissues and cells (EC109, EC9706, TE-1, TE-3, KYSE150, YSE450 and KYSE30), LINC00152 knockdown inhibited cell proliferation and induced apoptosis via miR-153-3p/FYN axis in ESCC. 8 However, the full regulatory network of LINC00152 in ESCC remains to be determined. 
+31802892_2777	162	169	lncRNAs	Rna-noncoding
+31802892_2777	162	169	lncRNAs	Biomarker
+31802892_2777	299	305	cancer	Disease	DOID:162
+31802892_2777	309	343	Long intergenic non-coding RNA 152	Rna-noncoding	HGNC:28717
+31802892_2777	309	343	Long intergenic non-coding RNA 152	Biomarker	C000608524
+31802892_2777	345	354	LINC00152	Rna-noncoding	HGNC:28717
+31802892_2777	464	476	liver cancer	Disease	DOID:3571
+31802892_2777	526	535	LINC00152	Rna-noncoding
+31802892_2777	586	590	ESCC	Disease	DOID:3748
+31802892_2777	618	632	gastric cancer	Disease	DOID:10534
+31802892_2777	634	636	GC	Disease	DOID:10534
+31802892_2777	656	665	LINC00152	Rna-noncoding
+31802892_2777	656	692	LINC00152 was apparently upregulated	Biomarker
+31802892_2777	696	698	GC	Disease
+31802892_2777	722	731	LINC00152	Rna-noncoding
+31802892_2777	867	876	LINC00152	Rna-noncoding
+31802892_2777	867	904	LINC00152 was significantly increased	Biomarker
+31802892_2777	908	912	ESCC	Disease
+31802892_2777	932	937	EC109	Cellline
+31802892_2777	939	945	EC9706	Cellline
+31802892_2777	947	951	TE-1	Cellline
+31802892_2777	953	957	TE-3	Cellline
+31802892_2777	959	966	KYSE150	Cellline
+31802892_2777	968	974	YSE450	Cellline
+31802892_2777	979	985	KYSE30	Cellline
+31802892_2777	988	997	LINC00152	Rna-noncoding
+31802892_2777	1063	1073	miR-153-3p	Rna-noncoding	family:1759
+31802892_2777	1074	1077	FYN	Gene-protein	HGNC:4037
+31802892_2777	1086	1090	ESCC	Disease
+31802892_2777	1134	1143	LINC00152	Rna-noncoding
+31802892_2777	1147	1151	ESCC	Disease
+

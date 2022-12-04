@@ -1,0 +1,44 @@
+31186763_2468|t|RSS_IDENT_p_31186763_b_1_1_3
+31186763_2468|a| Tumor cells are characterized by abnormally accelerated energy metabolism ( 6 ). Therefore, inhibition of energy metabolism is considered a promising treatment target for cancer therapy ( 7 ). Glucose transporter 1 (GLUT1), also termed facilitated glucose transporter member 1, is a uniporter protein that facilitates the transport of glucose to mammalian cells ( 8 ). A number of studies have reported that GLUT1 is abnormally upregulated in human cancer and promotes cancer development and progression by regulating cancer cell glucose metabolism ( 9 , 10 ). MicroRNAs (miRNAs) are critical factors in cancer biology ( 11 ). MicroRNAs in certain cases participate in cancer biology by affecting energy metabolism ( 12 ), particularly by regulating the expression of GLUT1 ( 13 ). miRNA-10a has been characterized as an oncogenic miRNA in lung cancer ( 14 ). In lung cancer, miRNA-10a is upregulated and the overexpression of miRNA-10a promotes cancer development and progression via interactions with phosphatase and tensin homolog signaling ( 14 ). However, to the best of our knowledge, no study has investigated the involvement of miRNA-10a in energy metabolism or the regulation of GLUT1 expression. The present study revealed that miRNA-10a may promote cancer cell proliferation in oral squamous cell carcinoma (OSCC), a major type of oral cancer, by serving as an upstream activator of GLUT1 and promoting glucose metabolism. 
+31186763_2468	30	35	Tumor	Disease	DOID:162
+31186763_2468	63	103	abnormally accelerated energy metabolism	Biomarker
+31186763_2468	201	207	cancer	Disease	DOID:162
+31186763_2468	223	230	Glucose	Chemical
+31186763_2468	223	244	Glucose transporter 1	Gene-protein	HGNC:11005
+31186763_2468	246	251	GLUT1	Gene-protein	HGNC:11005
+31186763_2468	278	285	glucose	Chemical
+31186763_2468	278	306	glucose transporter member 1	Gene-protein	HGNC:11005
+31186763_2468	365	372	glucose	Chemical
+31186763_2468	438	443	GLUT1	Gene-protein
+31186763_2468	438	469	GLUT1 is abnormally upregulated	Biomarker
+31186763_2468	479	485	cancer	Disease
+31186763_2468	499	505	cancer	Disease
+31186763_2468	548	554	cancer	Disease
+31186763_2468	560	567	glucose	Chemical
+31186763_2468	591	600	MicroRNAs	Biomarker	D035683
+31186763_2468	634	640	cancer	Disease
+31186763_2468	657	666	MicroRNAs	Biomarker
+31186763_2468	699	705	cancer	Disease
+31186763_2468	798	803	GLUT1	Gene-protein
+31186763_2468	812	821	miRNA-10a	Rna-noncoding
+31186763_2468	812	821	miRNA-10a	Biomarker	C547183
+31186763_2468	870	881	lung cancer	Disease	DOID:1324
+31186763_2468	893	904	lung cancer	Disease
+31186763_2468	906	915	miRNA-10a	Rna-noncoding
+31186763_2468	906	930	miRNA-10a is upregulated	Biomarker
+31186763_2468	939	966	overexpression of miRNA-10a	Biomarker
+31186763_2468	957	966	miRNA-10a	Rna-noncoding
+31186763_2468	976	982	cancer	Disease
+31186763_2468	1033	1063	phosphatase and tensin homolog	Gene-protein	HGNC:9588
+31186763_2468	1166	1175	miRNA-10a	Rna-noncoding
+31186763_2468	1218	1223	GLUT1	Gene-protein
+31186763_2468	1268	1277	miRNA-10a	Rna-noncoding
+31186763_2468	1268	1277	miRNA-10a	Biomarker
+31186763_2468	1290	1296	cancer	Disease
+31186763_2468	1290	1383	cancer cell proliferation in oral squamous cell carcinoma (OSCC), a major type of oral cancer	Collection
+31186763_2468	1319	1347	oral squamous cell carcinoma	Disease	DOID:0050866
+31186763_2468	1349	1353	OSCC	Disease	DOID:0050866
+31186763_2468	1372	1383	oral cancer	Disease	DOID:8618
+31186763_2468	1424	1429	GLUT1	Gene-protein
+31186763_2468	1444	1451	glucose	Chemical
+

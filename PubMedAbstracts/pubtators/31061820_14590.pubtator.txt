@@ -1,0 +1,47 @@
+31061820_14590|t|RSS_IDENT_p_31061820_b_1_4_4
+31061820_14590|a| Many studies have investigated the functional mechanisms of lncRNA BLACAT1 on tumorigenesis and progression in various cancers. Wnt/β-catenin signal pathway has been confirmed to be involved in the regulation of cell proliferation, migration, and invasion in certain cancers [ 25 , 26 ]. Wang et al. reported that knockdown of lncRNA BLACAT1 might inhibit the proliferation, migration, and invasion of cervical cancer cells by suppressing the activation of Wnt/β-catenin signal pathway [ 24 ]. Cdk inhibitors (CKIs) may regulate the kinase activity of Cdk/cyclin complexes and generally function as tumor suppressors. Su et al. identified that lncRNA BLACAT1 was a critical player in the cell cycle of colorectal cancer via modulating the expression of P15 (a member of CKIs family) [ 23 ]. Furthermore, a study by Ye et al. demonstrated that lncRNA BLACAT1 may promote the proliferation, migration, and invasion of non-small-cell lung cancer cell by sponging miR-144 [ 21 ], which is an important member of tumor-suppressive microRNAs [ 27 , 28 ]. Otherwise, several studies also have reported that lncRNA BLACAT1 may be involved in chemoresistance. Huang et al. indicated that lncRNA BLACAT1 could regulate autophagy and promote chemoresistance of non-small-cell lung cancer cells via miR-17/ATG7 axis [ 29 ]. Wu et al. demonstrated that BLACAT1 promoted the oxaliplatin-resistance of gastric cancer through BLACAT1/miR-361/ABCB1 regulatory pathway, providing a brand new insight for the oxaliplatin-resistance of gastric cancer [ 30 ]. All the findings concluded that lncRNA BLACAT1 might be a promising therapeutic target for cancers. 
+31061820_14590	97	104	BLACAT1	Rna-noncoding	HGNC:48597
+31061820_14590	97	104	BLACAT1	Biomarker	C000624139
+31061820_14590	149	156	cancers	Disease	DOID:162
+31061820_14590	158	161	Wnt	Genefamily	family:360
+31061820_14590	158	186	Wnt/β-catenin signal pathway	Biomarker
+31061820_14590	162	171	β-catenin	Genefamily	family:1542
+31061820_14590	297	304	cancers	Disease
+31061820_14590	344	371	knockdown of lncRNA BLACAT1	Drug	not found
+31061820_14590	364	371	BLACAT1	Rna-noncoding
+31061820_14590	432	447	cervical cancer	Disease	DOID:4362
+31061820_14590	487	490	Wnt	Genefamily
+31061820_14590	491	500	β-catenin	Genefamily
+31061820_14590	524	527	Cdk	Genefamily	family:496
+31061820_14590	524	538	Cdk inhibitors	Drug-class
+31061820_14590	540	544	CKIs	Drug-class
+31061820_14590	582	585	Cdk	Genefamily
+31061820_14590	586	592	cyclin	Genefamily	family:473
+31061820_14590	681	688	BLACAT1	Rna-noncoding
+31061820_14590	681	688	BLACAT1	Biomarker
+31061820_14590	732	749	colorectal cancer	Disease	DOID:9256
+31061820_14590	783	786	P15	Gene-protein	HGNC:1788
+31061820_14590	800	804	CKIs	Drug-class
+31061820_14590	880	887	BLACAT1	Rna-noncoding
+31061820_14590	880	887	BLACAT1	Biomarker
+31061820_14590	946	972	non-small-cell lung cancer	Disease	DOID:3908
+31061820_14590	990	997	miR-144	Rna-noncoding	HGNC:31531
+31061820_14590	1137	1144	BLACAT1	Rna-noncoding
+31061820_14590	1216	1223	BLACAT1	Rna-noncoding
+31061820_14590	1216	1223	BLACAT1	Biomarker
+31061820_14590	1280	1306	non-small-cell lung cancer	Disease
+31061820_14590	1317	1323	miR-17	Rna-noncoding	family:1703
+31061820_14590	1324	1328	ATG7	Genefamily	HGNC:16935
+31061820_14590	1370	1377	BLACAT1	Rna-noncoding
+31061820_14590	1370	1377	BLACAT1	Biomarker
+31061820_14590	1391	1402	oxaliplatin	Drug	CHEMBL414804
+31061820_14590	1417	1431	gastric cancer	Disease	DOID:10534
+31061820_14590	1440	1447	BLACAT1	Rna-noncoding
+31061820_14590	1448	1455	miR-361	Rna-noncoding	HGNC:31867
+31061820_14590	1456	1461	ABCB1	Gene-protein	HGNC:40
+31061820_14590	1520	1531	oxaliplatin	Drug
+31061820_14590	1546	1560	gastric cancer	Disease
+31061820_14590	1608	1615	BLACAT1	Rna-noncoding
+31061820_14590	1608	1615	BLACAT1	Biomarker
+31061820_14590	1660	1667	cancers	Disease
+

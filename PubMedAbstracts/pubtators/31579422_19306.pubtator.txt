@@ -1,0 +1,53 @@
+31579422_19306|t|RSS_IDENT_p_31579422_b_1_4_3
+31579422_19306|a| Previous studies have shown that miR-544 targets different genes in various cancer types. In osteosarcoma, miR-544 promotes cell proliferation by negatively regulating axin-2 ( 8 ). In hepatocellular carcinoma, it enhances immune escape through downregulation of natural cytotoxicity triggering receptor 1/NKp46 by targeting runt-related transcription factor 3 ( 9 ). miR-544 also promotes the cell proliferation and metastasis of colorectal cancer by directly targeting forkhead box O1 ( 10 ). In glioblastoma, miR-544 inhibits cell proliferation, invasion and migration and increases cell apoptosis by targeting Parkinsonism associated deglycase ( 13 ). Previous data have reported that E2F5 is overexpressed in various types of cancer, including breast cancer, epithelial ovarian cancer, ESCC, prostate cancer and hepatocellular carcinoma; it was also associated with cancer progression and prognosis ( 17 – 21 ). Certain miRNAs, such as miR-34a and miR-1179, could regulate the function of E2F5 ( 22 , 23 ). However, the mechanism of E2F5 in ESCC, as well as the correlation of miRNAs and E2F5 in ESCC, was not completely demonstrated. The present study demonstrates, for the first time, that miR-544 could negatively regulate E2F5 in ESCC by using a luciferase assay, western blot analysis and RT-qPCR. E2F5 overexpression could rescue the inhibitory effect of miR-544 mimics in ESCC cells. These data demonstrate that E2F5 is a functional target gene of miR-544. Moreover, the expression levels of miR-544 and E2F5 were negatively correlated in ESCC tissues. The function of E2F5 in drug resistance is beyond the scope of the present study; however, it will be the focus of future studies. 
+31579422_19306	63	70	miR-544	Rna-noncoding	family:1799
+31579422_19306	63	70	miR-544	Biomarker	C582640
+31579422_19306	106	112	cancer	Disease	DOID:162
+31579422_19306	123	135	osteosarcoma	Disease	DOID:3347
+31579422_19306	137	144	miR-544	Rna-noncoding
+31579422_19306	137	144	miR-544	Biomarker
+31579422_19306	198	204	axin-2	Gene-protein	HGNC:904
+31579422_19306	215	239	hepatocellular carcinoma	Disease	DOID:684
+31579422_19306	275	341	downregulation of natural cytotoxicity triggering receptor 1/NKp46	Biomarker
+31579422_19306	293	335	natural cytotoxicity triggering receptor 1	Gene-protein	HGNC:6731
+31579422_19306	336	341	NKp46	Gene-protein	HGNC:6731
+31579422_19306	355	390	runt-related transcription factor 3	Gene-protein	HGNC:10473
+31579422_19306	398	405	miR-544	Rna-noncoding
+31579422_19306	398	405	miR-544	Biomarker
+31579422_19306	461	478	colorectal cancer	Disease	DOID:9256
+31579422_19306	501	516	forkhead box O1	Gene-protein	HGNC:3819
+31579422_19306	528	540	glioblastoma	Disease	DOID:3073
+31579422_19306	542	549	miR-544	Rna-noncoding	C582640
+31579422_19306	542	549	miR-544	Drug
+31579422_19306	644	677	Parkinsonism associated deglycase	Gene-protein	HGNC:16369
+31579422_19306	719	723	E2F5	Gene-protein	HGNC:3119
+31579422_19306	719	740	E2F5 is overexpressed	Biomarker
+31579422_19306	761	767	cancer	Disease
+31579422_19306	761	871	cancer, including breast cancer, epithelial ovarian cancer, ESCC, prostate cancer and hepatocellular carcinoma	Collection
+31579422_19306	779	792	breast cancer	Disease	DOID:1612
+31579422_19306	794	819	epithelial ovarian cancer	Disease	DOID:2152
+31579422_19306	821	825	ESCC	Disease	DOID:3748
+31579422_19306	827	842	prostate cancer	Disease	DOID:10283
+31579422_19306	847	871	hepatocellular carcinoma	Disease
+31579422_19306	901	907	cancer	Disease
+31579422_19306	971	978	miR-34a	Rna-noncoding	HGNC:31635
+31579422_19306	983	991	miR-1179	Rna-noncoding	HGNC:35260
+31579422_19306	1024	1028	E2F5	Gene-protein
+31579422_19306	1068	1072	E2F5	Chemical
+31579422_19306	1076	1080	ESCC	Disease
+31579422_19306	1123	1127	E2F5	Gene-protein
+31579422_19306	1131	1135	ESCC	Disease
+31579422_19306	1227	1234	miR-544	Rna-noncoding
+31579422_19306	1261	1265	E2F5	Gene-protein
+31579422_19306	1269	1273	ESCC	Disease
+31579422_19306	1338	1342	E2F5	Gene-protein
+31579422_19306	1396	1403	miR-544	Rna-noncoding
+31579422_19306	1414	1418	ESCC	Disease
+31579422_19306	1454	1458	E2F5	Gene-protein
+31579422_19306	1490	1497	miR-544	Rna-noncoding
+31579422_19306	1513	1550	expression levels of miR-544 and E2F5	Biomarker
+31579422_19306	1534	1541	miR-544	Rna-noncoding
+31579422_19306	1546	1550	E2F5	Gene-protein
+31579422_19306	1581	1585	ESCC	Disease
+31579422_19306	1611	1615	E2F5	Gene-protein
+

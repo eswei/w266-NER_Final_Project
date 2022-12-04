@@ -1,0 +1,45 @@
+T1	Disease 299 305	cancer
+#2	AnnotatorNotes T1	DOID:162
+T10	Disease 634 636	GC
+T11	RNA-Noncoding 656 665	LINC00152
+T13	Disease 696 698	GC
+T14	RNA-Noncoding 722 731	LINC00152
+T15	RNA-Noncoding 867 876	LINC00152
+T17	Disease 908 912	ESCC
+T18	RNA-Noncoding 988 997	LINC00152
+T19	Disease 1086 1090	ESCC
+T20	RNA-Noncoding 1134 1143	LINC00152
+T21	Disease 1147 1151	ESCC
+T3	RNA-Noncoding 345 354	LINC00152
+T4	Disease 464 476	liver cancer
+#14	AnnotatorNotes T4	DOID:3571
+T5	RNA-Noncoding 526 535	LINC00152
+T8	Disease 586 590	ESCC
+T9	Disease 618 632	gastric cancer
+#18	AnnotatorNotes T9	DOID:10534
+T2	RNA-Noncoding 162 169	lncRNAs
+T6	Biomarker 162 169	lncRNAs
+R1	Association Arg1:T6 Arg2:T1	
+#1	AnnotatorNotes T3	HGNC:28717
+T12	RNA-Noncoding 309 343	Long intergenic non-coding RNA 152
+#3	AnnotatorNotes T12	HGNC:28717
+T16	Biomarker 309 343	Long intergenic non-coding RNA 152
+#4	AnnotatorNotes T16	C000608524
+R2	Association Arg1:T16 Arg2:T4	
+#6	AnnotatorNotes T10	DOID:10534
+T7	Biomarker 656 692	LINC00152 was apparently upregulated
+R4	Association Arg1:T7 Arg2:T9	
+T24	Biomarker 867 904	LINC00152 was significantly increased
+T25	CellLine 932 937	EC109
+T26	CellLine 939 945	EC9706
+T27	CellLine 947 951	TE-1
+T28	CellLine 959 966	KYSE150
+T29	CellLine 979 985	KYSE30
+T30	CellLine 968 974	YSE450
+T31	CellLine 953 957	TE-3
+R6	Association Arg1:T24 Arg2:T17	
+T32	RNA-Noncoding 1063 1073	miR-153-3p
+#7	AnnotatorNotes T32	family:1759
+T33	Gene-Protein 1074 1077	FYN
+#8	AnnotatorNotes T33	HGNC:4037
+#10	AnnotatorNotes T8	DOID:3748

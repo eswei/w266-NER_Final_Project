@@ -1,0 +1,48 @@
+31181609_3289|t|RSS_IDENT_p_31181609_b_1_1_3
+31181609_3289|a| The receptor tyrosine kinase AXL belongs to the TAM (Tyro-3, AXL, and Mer) family [ 4 ]. AXL binding to its ligand, the growth arrest-specific gene 6 (GAS6), stimulates cell proliferation and survival by triggering several signaling cascades including the mitogen-activated protein kinases (MAPK), the phosphatidylinositol 3-kinase (PI3-K)/AKT1, the Janus kinase (Jak)/ Signaling transducers and activators of transcription (Stat) and the nuclear factor kappa-light-chain-enhancer of activated B cells (NF-kB) [ 4 ] pathways. AXL was demonstrated to sustain cancer progression also independently from the expression of its ligand [ 4 ]. AXL is frequently overexpressed in human cancers [ 5 ], where it is significantly associated with a poor prognosis and therapy resistance [ 4 ]. In humans, AXL was associated with metastatic disease in lung, breast, gastric, prostate, renal cell carcinoma, and glioblastoma. Furthermore, AXL was associated to resistance to imatinib in gastrointestinal tumors, herceptin in breast cancer, and chemotherapy in acute myeloid leukemia. In addition, AXL has been demonstrated to regulate cancer angiogenesis [ 6 ]. These findings indicate that AXL displays oncogenic activities, regulating multiple key processes associated to cancer development and progression. 
+31181609_3289	34	58	receptor tyrosine kinase	Genefamily	family:321
+31181609_3289	43	51	tyrosine	Chemical
+31181609_3289	59	62	AXL	Gene-protein	HGNC:905
+31181609_3289	78	81	TAM	Gene-protein	HGNC:12446, HGNC:905, HGNC:7027
+31181609_3289	83	89	Tyro-3	Gene-protein	HGNC:12446
+31181609_3289	91	94	AXL	Gene-protein
+31181609_3289	100	103	Mer	Gene-protein	HGNC:7027
+31181609_3289	119	122	AXL	Gene-protein
+31181609_3289	150	179	growth arrest-specific gene 6	Gene-protein	HGNC:4168
+31181609_3289	181	185	GAS6	Gene-protein	HGNC:4168
+31181609_3289	286	319	mitogen-activated protein kinases	Genefamily	family:651
+31181609_3289	321	325	MAPK	Gene-protein	family:651
+31181609_3289	332	352	phosphatidylinositol	Chemical
+31181609_3289	332	361	phosphatidylinositol 3-kinase	Genefamily	family:831
+31181609_3289	363	368	PI3-K	Genefamily	family:831
+31181609_3289	370	374	AKT1	Gene-protein	HGNC:391
+31181609_3289	380	392	Janus kinase	Genefamily	family:1459
+31181609_3289	394	397	Jak	Genefamily	family:1459
+31181609_3289	400	453	Signaling transducers and activators of transcription	Genefamily	not found
+31181609_3289	455	459	Stat	Genefamily	not found
+31181609_3289	469	525	nuclear factor kappa-light-chain-enhancer of activated B	Genefamily	family:1254
+31181609_3289	533	538	NF-kB	Genefamily	family:1254
+31181609_3289	556	559	AXL	Gene-protein
+31181609_3289	556	559	AXL	Biomarker	C071031
+31181609_3289	588	594	cancer	Disease	DOID:162
+31181609_3289	667	670	AXL	Gene-protein
+31181609_3289	667	698	AXL is frequently overexpressed	Biomarker
+31181609_3289	708	715	cancers	Disease	DOID:162
+31181609_3289	823	826	AXL	Biomarker
+31181609_3289	823	826	AXL	Gene-protein
+31181609_3289	869	940	lung, breast, gastric, prostate, renal cell carcinoma, and glioblastoma	Disease	DOID:3459, DOID:5517, DOID:10286, DOID:4450, DOID:3073
+31181609_3289	955	958	AXL	Gene-protein
+31181609_3289	955	958	AXL	Biomarker
+31181609_3289	991	999	imatinib	Drug	CHEMBL941
+31181609_3289	1003	1026	gastrointestinal tumors	Disease	DOID:3119
+31181609_3289	1028	1037	herceptin	Drug	 CHEMBL1201585
+31181609_3289	1041	1054	breast cancer	Disease	DOID:1612
+31181609_3289	1060	1072	chemotherapy	Drug-class
+31181609_3289	1076	1098	acute myeloid leukemia	Disease	DOID:9119
+31181609_3289	1113	1116	AXL	Gene-protein
+31181609_3289	1113	1116	AXL	Biomarker
+31181609_3289	1151	1157	cancer	Disease
+31181609_3289	1207	1210	AXL	Gene-protein
+31181609_3289	1207	1210	AXL	Biomarker
+31181609_3289	1290	1296	cancer	Disease
+

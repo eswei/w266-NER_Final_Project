@@ -1,0 +1,45 @@
+29682207_20403|t|RSS_IDENT_p_29682207_b_1_3_6
+29682207_20403|a| Differential expression was observed in key EC-associated genes between the Caucasian and BoAA cases; however, our analysis has identified several genes that have not been previously recognised to play a role in EC carcinogenesis. UTF1 had the greatest differential RNA expression between the BoAA and Caucasian populations. Increased expression of UTF1 (resulting from hypermethylation of its promoter) has been suggested as a biomarker of cervical cancer diagnosis, with inhibition of DNA methyltransferase by 5-aza-2′-deoxycytidine (also known as Decitabine) reducing UTF1 gene methylation and expression in two cervical cancer cell lines [ 27 ]. Furthermore, SLC14A2, which was significantly higher in both BoAA and Caucasian tumours compared to Asian cases has been shown to be down-regulated in chemotherapy-resistant ovarian cancer cell lines [ 28 ], suggesting potential race-specific targets for treatment. The estrogen-target gene TFF1 was upregulated in BoAA tumors. TFF1 is known to play a role in breast cancer development [ 29 ] and bone metastasis [ 30 ], has also been suggested as a poor prognostic indicator associated with lymph node metastasis in pancreatic cancer [ 31 ]. A previous study has shown that a combination of the progestin medroxyprogesterone acetate (MPA) and the Ras inhibitor S-farnesylthiosalicylic acid (FTS, also known as Salirasib) inhibited tumor growth and enhanced type 2 EC cell death by reducing expression of ER-target genes, including TFF1 [ 32 ]. Since a large proportion of BoAA tumors are type 2 ECs, this presents a promising strategy for therapy in these patients. 
+29682207_20403	74	76	EC	Disease	DOID:1380
+29682207_20403	242	244	EC	Disease
+29682207_20403	261	265	UTF1	Gene-protein	HGNC:12634
+29682207_20403	261	310	UTF1 had the greatest differential RNA expression	Biomarker
+29682207_20403	355	383	Increased expression of UTF1	Biomarker
+29682207_20403	355	432	Increased expression of UTF1 (resulting from hypermethylation of its promoter	Collection
+29682207_20403	379	383	UTF1	Gene-protein
+29682207_20403	400	432	hypermethylation of its promoter	Biomarker
+29682207_20403	471	486	cervical cancer	Disease	DOID:4362
+29682207_20403	517	538	DNA methyltransferase	Genefamily	family:1884
+29682207_20403	542	564	5-aza-2′-deoxycytidine	Drug	CHEMBL1201129
+29682207_20403	580	590	Decitabine	Drug	CHEMBL1201129
+29682207_20403	601	605	UTF1	Gene-protein
+29682207_20403	645	660	cervical cancer	Disease
+29682207_20403	693	700	SLC14A2	Gene-protein	HGNC:10919
+29682207_20403	693	732	SLC14A2, which was significantly higher	Biomarker
+29682207_20403	760	767	tumours	Disease	DOID:162
+29682207_20403	831	843	chemotherapy	Drug-class
+29682207_20403	831	868	chemotherapy-resistant ovarian cancer	Disease	DOID:2394
+29682207_20403	950	958	estrogen	Chemical
+29682207_20403	950	991	estrogen-target gene TFF1 was upregulated	Biomarker
+29682207_20403	971	975	TFF1	Gene-protein	HGNC:11755
+29682207_20403	1000	1006	tumors	Disease
+29682207_20403	1008	1012	TFF1	Gene-protein
+29682207_20403	1008	1012	TFF1	Biomarker	C051838
+29682207_20403	1040	1053	breast cancer	Disease	DOID:1612
+29682207_20403	1040	1092	breast cancer development [ 29 ] and bone metastasis	Collection
+29682207_20403	1077	1092	bone metastasis	Disease	DOID:184
+29682207_20403	1197	1214	pancreatic cancer	Disease	DOID:1793
+29682207_20403	1276	1313	progestin medroxyprogesterone acetate	Drug	CHEMBL717
+29682207_20403	1315	1318	MPA	Drug	CHEMBL717
+29682207_20403	1328	1341	Ras inhibitor	Drug-class
+29682207_20403	1342	1370	S-farnesylthiosalicylic acid	Drug	CHEMBL23293
+29682207_20403	1372	1375	FTS	Drug	CHEMBL23293
+29682207_20403	1391	1400	Salirasib	Drug	CHEMBL23293
+29682207_20403	1412	1417	tumor	Disease	DOID:162
+29682207_20403	1412	1447	tumor growth and enhanced type 2 EC	Collection
+29682207_20403	1438	1447	type 2 EC	Disease	not found
+29682207_20403	1485	1487	ER	Genefamily	not found
+29682207_20403	1512	1516	TFF1	Gene-protein
+29682207_20403	1558	1564	tumors	Disease
+29682207_20403	1569	1579	type 2 ECs	Disease	not found
+

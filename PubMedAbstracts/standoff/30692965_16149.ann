@@ -1,0 +1,45 @@
+T0	Gene-Protein 71 76	FGF21
+T1	Gene-Protein 176 181	FGF21
+T11	Disease 781 814	non-alcoholic fatty liver disease
+#3	AnnotatorNotes T11	DOID:0080208
+T12	Disease 816 821	NAFLD
+T13	Gene-Protein 843 848	FGF21
+T14	Gene-Protein 888 893	FGF21
+T16	Disease 931 943	liver injury
+#7	AnnotatorNotes T16	DOID:3571
+T17	Gene-Protein 985 990	FGF21
+T19	Disease 1080 1085	NAFLD
+T2	Chemical 206 213	glucose
+T20	Gene-Protein 1087 1092	FGF21
+T22	Gene-Protein 1193 1198	FGF21
+T3	Gene-Protein 318 323	FGF21
+T4	Gene-Protein 367 372	FGF21
+T5	Gene-Protein 440 445	FGF21
+T6	Gene-Protein 640 645	FGF21
+T7	Disease 668 673	NAFLD
+#17	AnnotatorNotes T7	DOID:0080208
+T8	Disease 684 698	liver diseases
+#18	AnnotatorNotes T8	DOID:409
+T9	Disease 737 754	Hepatic steatosis
+#19	AnnotatorNotes T9	DOID:9452
+#1	AnnotatorNotes T0	HGNC:3678
+T10	Chemical 215 220	lipid
+T15	Chemical 99 116	metabolic hormone
+T18	Biomarker 888 893	FGF21
+#2	AnnotatorNotes T18	C000706947
+R1	Association Arg1:T18 Arg2:T16	
+T21	Gene-Protein 1061 1064	ALT
+#4	AnnotatorNotes T21	HGNC:4552
+T23	GeneFamily 1066 1069	AST
+#5	AnnotatorNotes T23	not found
+T24	Biomarker 985 1003	FGF21 serum levels
+T25	Biomarker 1087 1092	FGF21
+R2	Association Arg1:T25 Arg2:T19	
+T26	Biomarker 1187 1198	serum FGF21
+T27	Disease 1214 1226	liver damage
+#6	AnnotatorNotes T27	DOID:409
+R3	Association Arg1:T26 Arg2:T27	
+T28	Biomarker 1061 1064	ALT
+T29	Biomarker 1066 1069	AST
+#8	AnnotatorNotes T29	D001219
+#9	AnnotatorNotes T28	D000410

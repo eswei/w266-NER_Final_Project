@@ -1,0 +1,63 @@
+30333046_105|t|RSS_IDENT_p_30333046_a_1_1
+30333046_105|a| TERT promoter (TERTp) mutations are found in the majority of World Health Organization (WHO) grade IV adult IDH wild-type glioblastoma (IDH-wt GBM). Here, we characterized the subset of IDH-wt GBMs that do not have TERTp mutations. In a cohort of 121 adult grade IV gliomas, we identified 109 IDH-wt GBMs, after excluding 11 IDH-mutant cases and one H3F3A -mutant case. Within the IDH-wt cases, 16 cases (14.7%) were TERTp wild-type (TERTp-wt). None of the 16 had BRAF V600E or H3F3A G34 hotspot mutations. When compared to TERTp mutants, patients with TERTp-wt GBMs, were significantly younger at first diagnosis (53.2 years vs. 60.7 years, p = 0.0096), and were more frequently found to have cerebellar location (p = 0.0027). Notably, 9 of 16 (56%) of TERTp-wt GBMs contained a PIK3CA or PIK3R1 mutation, while only 16/93 (17%) of TERTp-mutant GBMs harbored these alterations (p = 0.0018). As expected, 8/16 (50%) of TERTp-wt GBMs harbored mutations in the BAF complex gene family (ATRX, SMARCA4, SMARCB1, and ARID1A), compared with only 8/93 (9%) of TERTp-mutant GBMs (p = 0.0003). Mutations in BAF complex and PI3K pathway genes co-occurred more frequently in TERTp-wt GBMs (p = 0.0002), an association that has been observed in other cancers, suggesting a functional interaction indicative of a distinct pathway of gliomagenesis. Overall, our finding highlights heterogeneity within WHO-defined IDH wild-type GBMs and enrichment of the TERTp-wt subset for BAF/PI3K-altered tumors, potentially comprising a distinct clinical subtype of gliomas.
+30333046_105	28	41	TERT promoter	Gene-protein	HGNC:11730
+30333046_105	28	59	TERT promoter (TERTp) mutations	Biomarker
+30333046_105	43	48	TERTp	Gene-protein	HGNC:11730
+30333046_105	121	162	grade IV adult IDH wild-type glioblastoma	Disease	not found
+30333046_105	136	139	IDH	Genefamily	family:1926
+30333046_105	164	167	IDH	Gene-protein
+30333046_105	164	174	IDH-wt GBM	Disease	DOID:0080878
+30333046_105	214	217	IDH	Genefamily
+30333046_105	214	225	IDH-wt GBMs	Disease	DOID:0080878
+30333046_105	243	248	TERTp	Gene-protein
+30333046_105	243	258	TERTp mutations	Biomarker
+30333046_105	279	301	adult grade IV gliomas	Disease	not found
+30333046_105	321	324	IDH	Genefamily
+30333046_105	321	332	IDH-wt GBMs	Disease
+30333046_105	353	356	IDH	Genefamily
+30333046_105	353	363	IDH-mutant	Biomarker
+30333046_105	378	383	H3F3A	Gene-protein	HGNC:4764
+30333046_105	378	390	H3F3A -mutan	Biomarker
+30333046_105	409	412	IDH	Genefamily
+30333046_105	445	450	TERTp	Gene-protein
+30333046_105	462	467	TERTp	Gene-protein
+30333046_105	492	496	BRAF	Gene-protein	HGNC:1097
+30333046_105	497	502	V600E	Variant	p.Val600Glu
+30333046_105	506	511	H3F3A	Gene-protein
+30333046_105	512	515	G34	Variant	p.Gly34Xaa
+30333046_105	552	557	TERTp	Gene-protein
+30333046_105	552	565	TERTp mutants	Biomarker
+30333046_105	581	586	TERTp	Gene-protein
+30333046_105	581	594	TERTp-wt GBMs	Disease	not found
+30333046_105	782	787	TERTp	Gene-protein
+30333046_105	782	795	TERTp-wt GBMs	Disease
+30333046_105	808	814	PIK3CA	Gene-protein	HGNC:8975
+30333046_105	808	833	PIK3CA or PIK3R1 mutation	Biomarker
+30333046_105	818	824	PIK3R1	Gene-protein	HGNC:8979
+30333046_105	861	866	TERTp	Gene-protein
+30333046_105	861	878	TERTp-mutant GBMs	Disease	not found
+30333046_105	947	952	TERTp	Gene-protein
+30333046_105	947	960	TERTp-wt GBMs	Disease	not found
+30333046_105	970	1047	mutations in the BAF complex gene family (ATRX, SMARCA4, SMARCB1, and ARID1A)	Biomarker
+30333046_105	987	998	BAF complex	Genefamily	family:1604
+30333046_105	1012	1016	ATRX	Gene-protein	HGNC:886
+30333046_105	1018	1025	SMARCA4	Gene-protein	HGNC:11100
+30333046_105	1027	1034	SMARCB1	Gene-protein	HGNC:11103
+30333046_105	1040	1046	ARID1A	Gene-protein	HGNC:11110
+30333046_105	1081	1086	TERTp	Gene-protein
+30333046_105	1081	1098	TERTp-mutant GBMs	Disease
+30333046_105	1113	1188	Mutations in BAF complex and PI3K pathway genes co-occurred more frequently	Biomarker
+30333046_105	1126	1137	BAF complex	Genefamily
+30333046_105	1142	1146	PI3K	Genefamily	family:831
+30333046_105	1192	1197	TERTp	Gene-protein
+30333046_105	1192	1205	TERTp-wt GBMs	Disease
+30333046_105	1192	1274	TERTp-wt GBMs (p = 0.0002), an association that has been observed in other cancers	Collection
+30333046_105	1267	1274	cancers	Disease	DOID:14566|DOID:162
+30333046_105	1428	1431	IDH	Genefamily
+30333046_105	1428	1446	IDH wild-type GBMs	Disease
+30333046_105	1469	1474	TERTp	Gene-protein
+30333046_105	1489	1492	BAF	Genefamily
+30333046_105	1489	1512	BAF/PI3K-altered tumors	Disease	not found
+30333046_105	1493	1497	PI3K	Genefamily
+30333046_105	1568	1575	gliomas	Disease	DOID:0060108
+

@@ -1,0 +1,71 @@
+T0	Chemical 204 215	aldosterone
+T1	Disease 348 351	APA
+T10	Chemical 1649 1660	aldosterone
+T11	Disease 1723 1725	PA
+T12	Disease 1824 1827	AVS
+T4	Disease 648 650	PA
+#8	AnnotatorNotes T4	DOID:12028
+T7	Disease 945 957	KCNJ5 tumors
+T8	Disease 1127 1168	APA patients with somatic KCNJ5 mutations
+T13	Gene-Protein 59 63	ACTH
+#1	AnnotatorNotes T13	HGNC:9201
+T14	Gene-Protein 230 234	ACTH
+T15	Gene-Protein 1248 1252	ACTH
+T16	Disease 119 122	APA
+T17	Biomarker 98 115	somatic mutations
+T18	Biomarker 59 78	ACTH responsiveness
+T19	Disease 253 285	ATP2B3- and CACNA1D-mutated APAs
+T20	Gene-Protein 253 259	ATP2B3
+#2	AnnotatorNotes T20	HGNC:816
+T21	Gene-Protein 265 272	CACNA1D
+#3	AnnotatorNotes T21	 HGNC:1391
+T22	Biomarker 186 244	responsiveness of aldosterone production to ACTH is higher
+T23	Disease 304 308	APAs
+T24	Gene-Protein 389 394	KCNJ5
+#5	AnnotatorNotes T24	HGNC:6266
+T25	Biomarker 389 404	KCNJ5 mutations
+T26	Disease 583 616	APA patients with KCNJ5 mutations
+T27	Gene-Protein 601 606	KCNJ5
+T3	Biomarker 538 551	larger tumors
+T28	Biomarker 511 520	young age
+T29	Biomarker 522 532	female sex
+T30	Collection 511 551	young age, female sex, and larger tumors
+R1	Association Arg1:T30 Arg2:T26	
+T2	Biomarker 875 878	age
+T31	Biomarker 880 883	sex
+T32	Gene-Protein 722 727	KCNJ5
+T33	Gene-Protein 1389 1394	KCNJ5
+T34	Gene-Protein 771 776	KCNJ5
+T35	Gene-Protein 1153 1158	KCNJ5
+T36	Gene-Protein 1003 1008	KCNJ5
+T37	Biomarker 1003 1018	KCNJ5 mutations
+T38	Biomarker 1041 1050	higher LI
+T39	Biomarker 1110 1123	LI was higher
+T40	Disease 1811 1815	APAs
+T41	Gene-Protein 1580 1587	CYP11B2
+#6	AnnotatorNotes T41	HGNC:2592
+T42	Gene-Protein 1779 1786	CYP11B2
+T43	Disease 1599 1603	APAs
+T44	Disease 771 783	KCNJ5 tumors
+#7	AnnotatorNotes T44	not found
+#12	AnnotatorNotes T16	DOID:12028
+#13	AnnotatorNotes T19	not found
+R2	Association Arg1:T22 Arg2:T19	
+#14	AnnotatorNotes T23	DOID:12028
+R3	Association Arg1:T25 Arg2:T1	
+#15	AnnotatorNotes T26	not found
+#10	AnnotatorNotes T31	D012723
+#11	AnnotatorNotes T29	D005260
+R4	Association Arg1:T39 Arg2:T8	
+T6	Biomarker 1389 1404	KCNJ5 mutations
+#16	AnnotatorNotes T8	not found
+T45	Disease 1470 1494	somatic mutations in APA
+#17	AnnotatorNotes T45	not found
+T9	Biomarker 1580 1595	CYP11B2 H-score
+T46	Biomarker 1642 1667	plasma aldosterone levels
+T47	Biomarker 1779 1807	CYP11B2 immunostaining level
+T48	Gene-Protein 945 950	KCNJ5
+T49	Disease 1419 1422	APA
+T50	Disease 1431 1434	APA
+T5	Biomarker 689 747	size of tumors harboring mutated KCNJ5 (n = 11) was larger
+R5	Association Arg1:T5 Arg2:T4	

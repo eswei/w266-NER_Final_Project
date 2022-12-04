@@ -1,0 +1,72 @@
+30619796_9661|t|RSS_IDENT_s_30619796_b_1_3
+30619796_9661|a| Discussion Phosphoinositide-3-Kinase δ Phosphoinositide-3-kinase δ (PI3Kδ) is a heterodimer comprised of the phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta isoform (p110δ) and a p85 family regulatory subunit. PI3Kδ is present predominantly in leukocytes and plays an important role in leukocyte proliferation, activation, and survival ( 2 ). Its catalytic subunit p110δ is encoded by the PIK3CD gene. Immunodeficiency caused by activating mutations in PI3KCD are referred to by the names activated phosphoionositide-3 kinase delta syndrome (APDS) and p110δ activating mutation causing senescent T-cells, lymphadenopathy and immunodeficiency (PASLI) ( 5 ). The GLU1021LYS (E1021K) mutation in the catalytic subunit results in a gain of function and is the most common mutation found in this disorder ( 1 , 2 , 5 ). Other described mutations that lead to APDS are ASN334LYS (N334K), GLU525LYS (E525K), and CYS416ARG (C416R) ( 2 – 5 ). This condition has an autosomal dominant inheritance pattern and these mutations enhance membrane association, PIP3 production, and PI3K-Akt pathway activation as well as excessive activation of mTOR ( 2 , 5 ). Subsequently it was found that PI3Kδ activation also results from splice site mutations of the PIK3R1 gene which encodes for the p85α subunit. Binding of p85α subunit to p110δ inhibits its activity ( 7 , 8 ). These patients have a similar immunological phenotype to those with PIK3CD mutations but have more systemic features including neurodevelopmental delay, growth retardation, and autoimmunity ( 7 , 8 ). These disorders are termed APDS 2 (activated phosphoinositol kinase delta syndrome, type 2 (P85 mutations) or PASLI-R1 (OMIM 616005) ( 7 , 8 ). Other mutations, for instance ones that cause hyper-IgM syndrome, also result in similar clinical phenotypes and lab findings of low IgA and IgG but normal/elevated IgM. As in our case, when CD40/CD40L and AID/UNG testing are unrevealing in a patient with immune deficiency, normal/elevated IgM, recurrent infections, and lymphadenopathy, activating PI3Kδ mutations should be considered ( 3 , 5 ).
+30619796_9661	39	66	Phosphoinositide-3-Kinase δ	Gene-protein	HGNC:8977
+30619796_9661	67	94	Phosphoinositide-3-kinase δ	Gene-protein	HGNC:8977
+30619796_9661	96	101	PI3Kδ	Gene-protein	HGNC:8977
+30619796_9661	137	174	phosphatidylinositol-4,5-bisphosphate	Chemical
+30619796_9661	137	215	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta isoform	Gene-protein	HGNC:8977
+30619796_9661	217	222	p110δ	Gene-protein	HGNC:8977
+30619796_9661	230	233	p85	Gene-protein	HGNC:8979
+30619796_9661	261	266	PI3Kδ	Gene-protein
+30619796_9661	416	421	p110δ	Gene-protein
+30619796_9661	440	446	PIK3CD	Gene-protein	HGNC:8977
+30619796_9661	453	469	Immunodeficiency	Disease	DOID:612
+30619796_9661	480	510	activating mutations in PI3KCD	Biomarker
+30619796_9661	504	510	PI3KCD	Gene-protein
+30619796_9661	540	591	activated phosphoionositide-3 kinase delta syndrome	Disease	DOID:0111936
+30619796_9661	540	692	activated phosphoionositide-3 kinase delta syndrome (APDS) and p110δ activating mutation causing senescent T-cells, lymphadenopathy and immunodeficiency	Collection
+30619796_9661	550	567	phosphoionositide	Chemical
+30619796_9661	550	576	phosphoionositide-3 kinase	Genefamily	family:831
+30619796_9661	593	597	APDS	Disease	DOID:0111936
+30619796_9661	603	608	p110δ	Gene-protein
+30619796_9661	609	692	activating mutation causing senescent T-cells, lymphadenopathy and immunodeficiency	Disease	DOID:0111936
+30619796_9661	694	699	PASLI	Disease
+30619796_9661	712	722	GLU1021LYS	Variant	p.Glu1021Lys	Gain-of-funtion
+30619796_9661	712	731	GLU1021LYS (E1021K)	Collection
+30619796_9661	724	730	E1021K	Variant	p.Glu1021Lys	Gain-of-funtion
+30619796_9661	905	909	APDS	Disease
+30619796_9661	914	923	ASN334LYS	Variant	p.Asn334Lys
+30619796_9661	914	973	ASN334LYS (N334K), GLU525LYS (E525K), and CYS416ARG (C416R)	Collection
+30619796_9661	925	930	N334K	Variant	p.Asn334Lys
+30619796_9661	933	942	GLU525LYS	Variant	p.Glu525Lys
+30619796_9661	944	949	E525K	Variant	p.Asn334Lys
+30619796_9661	956	965	CYS416ARG	Variant	p.Cys416Arg
+30619796_9661	967	972	C416R	Variant	p.Cys416Arg
+30619796_9661	1096	1100	PIP3	Chemical
+30619796_9661	1117	1121	PI3K	Genefamily	family:831
+30619796_9661	1122	1125	Akt	Genefamily	family:1900
+30619796_9661	1180	1184	mTOR	Gene-protein	HGNC:3942
+30619796_9661	1227	1232	PI3Kδ	Gene-protein
+30619796_9661	1291	1297	PIK3R1	Gene-protein	HGNC:8979
+30619796_9661	1325	1329	p85α	Gene-protein	HGNC:8979
+30619796_9661	1350	1354	p85α	Gene-protein
+30619796_9661	1366	1371	p110δ	Gene-protein
+30619796_9661	1473	1479	PIK3CD	Gene-protein
+30619796_9661	1473	1489	PIK3CD mutations	Biomarker
+30619796_9661	1532	1556	neurodevelopmental delay	Biomarker
+30619796_9661	1558	1576	growth retardation	Biomarker	D006130
+30619796_9661	1582	1594	autoimmunity	Biomarker	D015551
+30619796_9661	1633	1639	APDS 2	Disease	DOID:0111949
+30619796_9661	1641	1696	activated phosphoinositol kinase delta syndrome, type 2	Disease	DOID:0111949
+30619796_9661	1651	1666	phosphoinositol	Chemical
+30619796_9661	1698	1701	P85	Gene-protein
+30619796_9661	1698	1711	P85 mutations	Biomarker
+30619796_9661	1716	1724	PASLI-R1	Disease	DOID:0111949
+30619796_9661	1796	1814	hyper-IgM syndrome	Disease	DOID:0080544
+30619796_9661	1802	1805	IgM	Gene-protein	not found
+30619796_9661	1879	1894	low IgA and IgG	Biomarker
+30619796_9661	1883	1886	IgA	Gene-protein	not found
+30619796_9661	1891	1894	IgG	Gene-protein	not found
+30619796_9661	1899	1918	normal/elevated IgM	Biomarker
+30619796_9661	1915	1918	IgM	Gene-protein
+30619796_9661	1941	1945	CD40	Gene-protein	HGNC:11919
+30619796_9661	1946	1951	CD40L	Gene-protein	HGNC:11935
+30619796_9661	2006	2023	immune deficiency	Disease	DOID:612
+30619796_9661	2025	2044	normal/elevated IgM	Biomarker
+30619796_9661	2025	2115	normal/elevated IgM, recurrent infections, and lymphadenopathy, activating PI3Kδ mutations	Collection
+30619796_9661	2041	2044	IgM	Gene-protein
+30619796_9661	2046	2066	recurrent infections	Biomarker
+30619796_9661	2072	2087	lymphadenopathy	Biomarker	D000072281
+30619796_9661	2089	2115	activating PI3Kδ mutations	Biomarker
+30619796_9661	2100	2105	PI3Kδ	Gene-protein
+

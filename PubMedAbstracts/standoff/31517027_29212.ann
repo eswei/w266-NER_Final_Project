@@ -1,0 +1,57 @@
+T0	Disease 135 137	AD
+#1	AnnotatorNotes T0	DOID:10652
+T1	Disease 359 361	AD
+T2	Gene-Protein 739 750	siderocalin
+T3	Disease 756 775	Alzheimer's disease
+#4	AnnotatorNotes T3	DOID:10652
+T4	Disease 777 779	AD
+T5	Disease 905 907	AD
+T6	Disease 1134 1136	AD
+T7	Disease 1434 1436	AD
+T8	Chemical 1548 1552	iron
+T9	Disease 1589 1611	biomarker-confirmed AD
+T10	Gene-Protein 53 64	lipocalin-2
+#3	AnnotatorNotes T10	HGNC:6526
+T11	Biomarker 46 97	plasma lipocalin-2 levels were significantly higher
+R1	Association Arg1:T11 Arg2:T0	
+T12	Gene-Protein 218 229	lipocalin-2
+T13	Biomarker 211 236	plasma lipocalin-2 levels
+T14	Biomarker 258 273	CSF Aβ₄₂ levels
+T15	Gene-Protein 344 355	lipocalin-2
+T16	Gene-Protein 498 509	lipocalin-2
+T17	Disease 525 543	early Aβ pathology
+#2	AnnotatorNotes T17	not found
+T18	Biomarker 486 509	circulating lipocalin-2
+R2	Association Arg1:T18 Arg2:T17	
+T19	Gene-Protein 531 533	Aβ
+#9	AnnotatorNotes T19	not found
+T20	Gene-Protein 659 670	lipocalin-2
+#11	AnnotatorNotes T2	HGNC:6526
+T21	Gene-Protein 730 734	24p3
+#12	AnnotatorNotes T21	HGNC:6526
+T22	Gene-Protein 686 728	neutrophil gelatinase-associated lipocalin
+#13	AnnotatorNotes T22	HGNC:6526
+T23	Biomarker 969 987	plasma lipocalin-2
+T24	Gene-Protein 976 987	lipocalin-2
+T25	Disease 1023 1025	AD
+T26	Gene-Protein 1098 1109	lipocalin-2
+T27	Biomarker 659 670	lipocalin-2
+#5	AnnotatorNotes T27	D000071068
+T28	Biomarker 1098 1109	lipocalin-2
+R3	Association Arg1:T28 Arg2:T6	
+T29	Biomarker 1154 1172	plasma lipocalin-2
+T30	Gene-Protein 1161 1172	lipocalin-2
+T31	Disease 1213 1235	amyloid-beta pathology
+R4	Association Arg1:T29 Arg2:T31	
+T32	Gene-Protein 1213 1225	amyloid-beta
+#6	AnnotatorNotes T32	not found
+T33	Biomarker 1387 1418	cerebrospinal fluid lipocalin-2
+T34	Gene-Protein 1407 1418	lipocalin-2
+T35	Gene-Protein 1479 1490	lipocalin-2
+T36	Biomarker 1472 1490	plasma lipocalin-2
+T37	Gene-Protein 1533 1544	lipocalin-2
+T40	Biomarker 1533 1544	lipocalin-2
+T41	Gene-Protein 262 266	Aβ₄₂
+#8	AnnotatorNotes T41	not found
+#7	AnnotatorNotes T31	not found
+#10	AnnotatorNotes T9	not found

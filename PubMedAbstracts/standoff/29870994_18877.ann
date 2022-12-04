@@ -1,0 +1,40 @@
+T0	Chemical 123 125	O₂
+T10	Chemical 408 410	O₂
+T12	Disease 484 492	diabetic
+T13	Chemical 523 527	O₂.−
+T14	Chemical 529 533	H₂O₂
+T15	Chemical 707 711	H₂O₂
+T16	Chemical 791 795	H₂O₂
+T17	Disease 866 874	diabetic
+T19	Chemical 1024 1033	potassium
+T2	Chemical 175 177	O₂
+T20	Chemical 1095 1099	H₂O₂
+T21	Chemical 1105 1108	PEG
+T22	Chemical 1193 1196	PEG
+T23	Disease 1269 1277	diabetic
+T25	Chemical 1294 1298	H₂O₂
+T26	Disease 1314 1322	diabetes
+#18	AnnotatorNotes T26	not found
+T27	Disease 1362 1370	diabetic
+T29	Disease 1513 1521	diabetes
+T30	Chemical 1534 1538	H₂O₂
+T4	Chemical 185 188	PEG
+T5	Disease 236 244	diabetic
+#24	AnnotatorNotes T5	not found
+T7	Chemical 281 283	O₂
+T9	Disease 373 381	diabetic
+T1	Gene-Protein 68 72	ET-1
+#1	AnnotatorNotes T1	HGNC:3176
+T3	GeneFamily 189 192	SOD
+T18	Gene-Protein 201 205	ET-1
+T8	Gene-Protein 318 322	ET-1
+T11	Gene-Protein 428 432	ET-1
+T32	Gene-Protein 1109 1117	catalase
+T33	Gene-Protein 1197 1205	catalase
+T34	Gene-Protein 1245 1249	ET-1
+T35	Biomarker 1284 1298	Increased H₂O₂
+R1	Association Arg1:T35 Arg2:T26	
+T36	Gene-Protein 1335 1339	ET-1
+T37	Gene-Protein 1450 1454	ET-1
+T38	Biomarker 1486 1499	increased ROS
+T40	Gene-Protein 1587 1591	ET-1

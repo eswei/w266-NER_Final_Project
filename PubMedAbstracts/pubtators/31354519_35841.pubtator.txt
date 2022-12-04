@@ -1,0 +1,50 @@
+31354519_35841|t|RSS_IDENT_p_31354519_b_1_4_6
+31354519_35841|a| At present, some mechanisms of the effect of TMAO in cardiovascular diseases have been proposed. In the pathological process of atherosclerosis, TMAO accelerated endothelial dysfunction through the activation of PKC/NF-κB/VCAM-1 ( Ma et al., 2017 ). TMAO has also been found to reverse GFP-PDS-mediated endoplasmic reticulum perturbation, contributing to endoplasmic reticulum balance ( Shepshelovich et al., 2005 ). Previous studies revealed that TMAO may exacerbate cardiac fibrosis and inflammation induced by high glucose levels via upregulating the proinflammatory cytokines TNF-α and IL-1β ( Chen K. et al., 2017 ). Li et al. (2018) showed that gut microbe-derived metabolite TMAO induced transverse aortic constriction (TAC)-induced cardiac hypertrophy and fibrosis involving Smad3 signaling. The NLRP3 inflammasome has been implicated in cardiac inflammation and fibrosis. However, the biological role of the NLRP3 inflammasome in TMAO-induced cardiac fibrosis is still unclear. Our results indicated for the first time that TMAO induced cardiac fibrosis through the activation of the NLRP3 inflammasome in vivo and in vitro, suggesting that the NLRP3 inflammasome plays an important role in cardiac fibrosis after TMAO treatment. In addition, we showed that inhibition of NLRP3 could reverse TMAO-mediated cardiac fibrosis, indicating a potential target for the treatment of cardiac fibrosis. 
+31354519_35841	75	79	TMAO	Chemical
+31354519_35841	75	79	TMAO	Biomarker	C005855
+31354519_35841	83	106	cardiovascular diseases	Disease	DOID:1287
+31354519_35841	158	173	atherosclerosis	Disease	DOID:1936
+31354519_35841	175	179	TMAO	Chemical
+31354519_35841	175	179	TMAO	Biomarker
+31354519_35841	192	215	endothelial dysfunction	Disease	not found
+31354519_35841	242	245	PKC	Gene-protein	HGNC:30500
+31354519_35841	246	251	NF-κB	Genefamily	family:1254
+31354519_35841	252	258	VCAM-1	Gene-protein	HGNC:12663
+31354519_35841	280	284	TMAO	Chemical
+31354519_35841	478	482	TMAO	Chemical
+31354519_35841	478	482	TMAO	Biomarker
+31354519_35841	498	514	cardiac fibrosis	Disease	not found
+31354519_35841	498	562	cardiac fibrosis and inflammation induced by high glucose levels	Collection
+31354519_35841	519	562	inflammation induced by high glucose levels	Disease	not found
+31354519_35841	548	555	glucose	Chemical
+31354519_35841	584	609	proinflammatory cytokines	Genefamily	not found
+31354519_35841	610	615	TNF-α	Gene-protein	HGNC:11892
+31354519_35841	620	625	IL-1β	Gene-protein	HGNC:5992
+31354519_35841	712	716	TMAO	Chemical
+31354519_35841	712	716	TMAO	Biomarker
+31354519_35841	725	789	transverse aortic constriction (TAC)-induced cardiac hypertrophy	Disease	not found
+31354519_35841	725	802	transverse aortic constriction (TAC)-induced cardiac hypertrophy and fibrosis	Collection
+31354519_35841	794	802	fibrosis	Disease	D005355
+31354519_35841	813	818	Smad3	Gene-protein	HGNC:6769
+31354519_35841	834	839	NLRP3	Gene-protein	HGNC:16400
+31354519_35841	834	852	NLRP3 inflammasome	Biomarker
+31354519_35841	876	896	cardiac inflammation	Disease	not found
+31354519_35841	876	909	cardiac inflammation and fibrosis	Collection
+31354519_35841	901	909	fibrosis	Disease
+31354519_35841	947	952	NLRP3	Gene-protein
+31354519_35841	969	973	TMAO	Chemical
+31354519_35841	969	998	TMAO-induced cardiac fibrosis	Disease	not found
+31354519_35841	1063	1067	TMAO	Chemical
+31354519_35841	1063	1067	TMAO	Biomarker
+31354519_35841	1076	1092	cardiac fibrosis	Disease
+31354519_35841	1123	1128	NLRP3	Gene-protein
+31354519_35841	1184	1189	NLRP3	Gene-protein
+31354519_35841	1184	1202	NLRP3 inflammasome	Biomarker	C453881
+31354519_35841	1230	1246	cardiac fibrosis	Disease
+31354519_35841	1253	1257	TMAO	Chemical
+31354519_35841	1297	1316	inhibition of NLRP3	Drug	not found
+31354519_35841	1311	1316	NLRP3	Gene-protein
+31354519_35841	1331	1335	TMAO	Chemical
+31354519_35841	1331	1361	TMAO-mediated cardiac fibrosis	Disease	not found
+31354519_35841	1414	1430	cardiac fibrosis	Disease
+

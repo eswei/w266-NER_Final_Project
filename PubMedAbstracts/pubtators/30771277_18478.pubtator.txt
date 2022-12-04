@@ -1,0 +1,69 @@
+30771277_18478|t|RSS_IDENT_p_30771277_b_1_4_5
+30771277_18478|a| Kim [ 18 ] examined whether the rate of PD-1/PD-L1 positivity differed in patients with different types of malignant tumors. The PD-1/PD-L1 positive rate in liver cancer was significantly higher than that in breast cancer. Sunshine found that the number of PD-1⁺ T cells in gastric cancer, breast cancer, kidney cancer, melanoma, and other malignant tumors was significantly higher than that in healthy patients, and was positively correlated with tumor progression [ 8 ]. Swaika found that the expression level of sPD-1 protein was significantly increased in melanoma, as shown by ELISA [ 19 ]. Chen found that plantar injection of sPD-1 to mice quickly induced spontaneous pain and mechanical tactile allodynia and led to conditioned place preference, but the immunity indexes were not affected by sPD-1 [ 20 ]. PD-1 expression is sufficient to mask the cancer pain resulting from melanoma. After intravenous injection of nivolumab and RMP1-14, mice with melanoma developed spontaneous pain and mechanical tactile allodynia [ 21 ]. Blocking downstream signals of PD-1 also caused spontaneous pain in mice with melanoma [ 22 ]. These findings suggest that PD-L1 masks the cancer pain resulting from non-metastatic melanoma via PD-1 [ 23 ]. In the present study, the rate of PD-1 positivity on T cells in patients with liver cancer and melanoma was significantly higher than that in breast cancer patients. In patients with liver cancer and melanoma, there was no obvious pain sensation in the early stage, which may be related to the high expression of PD-L1 in liver cancer and melanoma that markedly inhibited and alleviated pain via the PD-1/PD-L1 pathway. 
+30771277_18478	62	91	rate of PD-1/PD-L1 positivity	Biomarker
+30771277_18478	70	74	PD-1	Gene-protein	HGNC:8760
+30771277_18478	75	80	PD-L1	Gene-protein	HGNC:17635
+30771277_18478	137	153	malignant tumors	Disease	DOID:162
+30771277_18478	159	163	PD-1	Gene-protein
+30771277_18478	159	163	PD-1	Biomarker	C105992
+30771277_18478	159	169	PD-1/PD-L1	Collection
+30771277_18478	164	169	PD-L1	Gene-protein
+30771277_18478	164	169	PD-L1	Biomarker	C423236
+30771277_18478	187	199	liver cancer	Disease	DOID:3571
+30771277_18478	238	251	breast cancer	Disease	DOID:1612
+30771277_18478	287	291	PD-1	Gene-protein
+30771277_18478	287	300	PD-1⁺ T cells	Biomarker
+30771277_18478	304	318	gastric cancer	Disease	DOID:10534
+30771277_18478	304	483	gastric cancer, breast cancer, kidney cancer, melanoma, and other malignant tumors was significantly higher than that in healthy patients, and was positively correlated with tumor	Collection
+30771277_18478	320	333	breast cancer	Disease
+30771277_18478	335	348	kidney cancer	Disease	DOID:263
+30771277_18478	350	358	melanoma	Disease	DOID:1909
+30771277_18478	370	386	malignant tumors	Disease
+30771277_18478	478	483	tumor	Disease	DOID:162
+30771277_18478	525	586	expression level of sPD-1 protein was significantly increased	Biomarker
+30771277_18478	545	550	sPD-1	Gene-protein	HGNC:8760
+30771277_18478	590	598	melanoma	Disease
+30771277_18478	663	668	sPD-1	Gene-protein
+30771277_18478	663	668	sPD-1	Drug	C105992
+30771277_18478	705	709	pain	Disease	D010146
+30771277_18478	705	742	pain and mechanical tactile allodynia	Collection
+30771277_18478	714	742	mechanical tactile allodynia	Disease	D006930
+30771277_18478	830	835	sPD-1	Gene-protein
+30771277_18478	844	848	PD-1	Gene-protein
+30771277_18478	844	859	PD-1 expression	Drug	not found
+30771277_18478	886	897	cancer pain	Disease	D000072716
+30771277_18478	913	921	melanoma	Disease
+30771277_18478	954	963	nivolumab	Drug	CHEMBL2108738
+30771277_18478	968	975	RMP1-14	Drug-class
+30771277_18478	987	995	melanoma	Disease
+30771277_18478	1018	1022	pain	Disease
+30771277_18478	1018	1055	pain and mechanical tactile allodynia	Collection
+30771277_18478	1027	1055	mechanical tactile allodynia	Disease
+30771277_18478	1064	1099	Blocking downstream signals of PD-1	Drug	not found
+30771277_18478	1095	1099	PD-1	Gene-protein
+30771277_18478	1124	1128	pain	Disease
+30771277_18478	1142	1150	melanoma	Disease
+30771277_18478	1187	1192	PD-L1	Gene-protein
+30771277_18478	1187	1192	PD-L1	Drug	C423236
+30771277_18478	1203	1214	cancer pain	Disease
+30771277_18478	1230	1253	non-metastatic melanoma	Disease	not found
+30771277_18478	1258	1262	PD-1	Gene-protein
+30771277_18478	1297	1331	rate of PD-1 positivity on T cells	Biomarker
+30771277_18478	1305	1309	PD-1	Gene-protein
+30771277_18478	1349	1361	liver cancer	Disease
+30771277_18478	1349	1374	liver cancer and melanoma	Collection
+30771277_18478	1366	1374	melanoma	Disease
+30771277_18478	1413	1426	breast cancer	Disease
+30771277_18478	1454	1466	liver cancer	Disease
+30771277_18478	1471	1479	melanoma	Disease
+30771277_18478	1502	1506	pain	Disease
+30771277_18478	1565	1589	high expression of PD-L1	Biomarker
+30771277_18478	1565	1589	high expression of PD-L1	Drug
+30771277_18478	1584	1589	PD-L1	Gene-protein
+30771277_18478	1593	1605	liver cancer	Disease
+30771277_18478	1593	1618	liver cancer and melanoma	Collection
+30771277_18478	1610	1618	melanoma	Disease
+30771277_18478	1658	1662	pain	Disease
+30771277_18478	1671	1675	PD-1	Gene-protein
+30771277_18478	1676	1681	PD-L1	Gene-protein
+

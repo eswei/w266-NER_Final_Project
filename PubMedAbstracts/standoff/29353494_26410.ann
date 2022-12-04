@@ -1,0 +1,127 @@
+T1	Disease 30 42	Inflammation
+#1	AnnotatorNotes T1	D007249
+T10	Disease 504 524	chronic inflammation
+T14	Disease 942 960	cholangiocarcinoma
+#4	AnnotatorNotes T14	DOID:4947
+T15	Disease 1101 1123	biliary carcinogenesis
+#5	AnnotatorNotes T15	DOID:4607
+T16	Biomarker 1139 1210	TGF-β/Smad, IL-6/STAT-3, PI3K/AKT, Wnt, RAF/MEK/MAPK, and Notch cascade
+T18	Disease 1371 1389	cholangiocarcinoma
+T19	Gene-Protein 1394 1402	Gankyrin
+T2	Disease 47 65	Cholangiocarcinoma
+#9	AnnotatorNotes T2	DOID:4947
+T20	Disease 1635 1653	cholangiocarcinoma
+T21	Disease 1703 1721	cholangiocarcinoma
+T23	Disease 1965 1968	PSC
+T24	Disease 1978 2008	Primary sclerosing cholangitis
+#14	AnnotatorNotes T24	DOID:0060643
+T27	Biomarker 2092 2104	inflammation
+T29	Biomarker 2106 2125	concentric fibrosis
+T3	Disease 127 147	chronic inflammation
+#18	AnnotatorNotes T3	not found
+T31	Biomarker 2131 2191	obliteration of the intrahepatic and extrahepatic bile ducts
+T34	Biomarker 2198 2223	concomitant ductal injury
+T36	Biomarker 2228 2248	ductal disappearance
+T37	Disease 2274 2292	cholangiocarcinoma
+T38	Biomarker 2297 2323	Multiple biliary molecules
+T39	Disease 2370 2403	cholangiocarcinoma carcinogenesis
+#23	AnnotatorNotes T39	DOID:4947
+T4	Biomarker 184 199	Chemical injury
+T40	Biomarker 2420 2453	S100A9, a calcium-binding protein
+T41	Chemical 2430 2437	calcium
+T42	Disease 2491 2494	PSC
+T6	Biomarker 201 213	inflammation
+T7	Biomarker 215 221	stones
+#30	AnnotatorNotes T7	D002137
+T8	Biomarker 279 309	pancreaticobiliary maljunction
+T5	Biomarker 226 236	infections
+#8	AnnotatorNotes T5	D007239
+T46	Collection 184 236	Chemical injury, inflammation, stones, or infections
+T9	GeneFamily 744 753	cytokines
+#2	AnnotatorNotes T9	not found
+T47	Gene-Protein 763 786	tumor necrosis factor-α
+#13	AnnotatorNotes T47	HGNC:11892
+T48	Gene-Protein 788 793	TNF-α
+#24	AnnotatorNotes T48	HGNC:11892
+T12	Gene-Protein 796 809	interleukin-6
+#3	AnnotatorNotes T12	HGNC:6018
+T49	Gene-Protein 811 815	IL-6
+#25	AnnotatorNotes T49	HGNC:6018
+T50	GeneFamily 818 846	transforming growth factor-β
+#26	AnnotatorNotes T50	family:1664
+T51	GeneFamily 848 853	TGF-β
+#28	AnnotatorNotes T51	family:1664
+T52	GeneFamily 860 890	platelet-derived growth factor
+#29	AnnotatorNotes T52	not found
+T53	GeneFamily 1139 1145	TGF-β/
+T54	GeneFamily 1164 1168	PI3K
+#31	AnnotatorNotes T54	family:831
+T55	Gene-Protein 1151 1155	IL-6
+T56	GeneFamily 1169 1172	AKT
+#32	AnnotatorNotes T56	family:1900
+T57	GeneFamily 1145 1149	Smad
+#33	AnnotatorNotes T57	family:750
+T58	Gene-Protein 1156 1162	STAT-3
+#34	AnnotatorNotes T58	HGNC:11364
+T59	GeneFamily 1174 1177	Wnt
+#35	AnnotatorNotes T59	family:360
+T60	GeneFamily 1179 1182	RAF
+#36	AnnotatorNotes T60	family:1157
+T61	GeneFamily 1183 1186	MEK
+#37	AnnotatorNotes T61	not found
+T62	GeneFamily 1187 1191	MAPK
+#38	AnnotatorNotes T62	family:651
+T63	GeneFamily 1197 1202	Notch
+#39	AnnotatorNotes T63	family:1689
+T64	Gene-Protein 1225 1229	IL-6
+T65	Gene-Protein 1285 1290	Mcl-1
+#40	AnnotatorNotes T65	HGNC:6943
+T66	Gene-Protein 1260 1283	myeloid cell leukemia 1
+#41	AnnotatorNotes T66	HGNC:6943
+T17	Gene-Protein 1315 1367	signal transducers and activators of transcription 3
+#6	AnnotatorNotes T17	HGNC:11364
+T67	Gene-Protein 1418 1423	STAT3
+#7	AnnotatorNotes T67	HGNC:11364
+T68	Gene-Protein 1683 1687	IL-6
+#10	AnnotatorNotes T19	HGNC:9555
+T69	Gene-Protein 1413 1417	IL-6
+T70	Gene-Protein 1449 1451	Rb
+#11	AnnotatorNotes T70	HGNC:9884
+T71	Gene-Protein 1524 1529	IL-6/
+T72	Gene-Protein 1529 1535	STAT-3
+T73	Gene-Protein 1615 1620	Mcl-1
+T74	Gene-Protein 1580 1584	IL-6
+T75	Gene-Protein 1585 1591	STAT-3
+T76	Gene-Protein 1469 1503	suppressor of cytokine signaling 3
+#42	AnnotatorNotes T76	HGNC:19391
+T77	Gene-Protein 1838 1842	EGFR
+#43	AnnotatorNotes T77	HGNC:3236
+T78	Disease 1973 1976	ICC
+T79	Disease 1904 1926	biliary carcinogenesis
+#44	AnnotatorNotes T23	DOID:0060643
+T25	Collection 2092 2248	inflammation, concentric fibrosis, and obliteration of the intrahepatic and extrahepatic bile ducts, with concomitant ductal injury and ductal disappearance
+R2	Association Arg1:T25 Arg2:T24	
+R3	Association Arg1:T38 Arg2:T39	
+R4	Association Arg1:T40 Arg2:T42	
+T26	Disease 2583 2616	cholangiocarcinoma carcinogenesis
+T28	Drug 2514 2544	innate natural killer immunity
+#15	AnnotatorNotes T28	not found
+R5	Protects-from Arg1:T28 Arg2:T26	
+T30	Disease 81 116	Carcinogenesis in the biliary tract
+#16	AnnotatorNotes T30	DOID:4607
+T32	Disease 613 616	ICC
+#17	AnnotatorNotes T32	DOID:4928
+T35	Biomarker 720 890	productions of multiple cytokines, such as tumor necrosis factor-α (TNF-α), interleukin-6 (IL-6), transforming growth factor-β (TGF-β), and platelet-derived growth factor
+R1	Association Arg1:T35 Arg2:T14	
+R6	Association Arg1:T16 Arg2:T15	
+T11	Biomarker 1658 1687	Epigenetic regulation by IL-6
+R7	Association Arg1:T11 Arg2:T21	
+T13	Gene-Protein 2420 2453	S100A9, a calcium-binding protein
+#12	AnnotatorNotes T13	HGNC:10499
+#19	AnnotatorNotes T40	C000628744
+T22	GeneFamily 2751 2797	major histocompatibility complex (MHC) class I
+#20	AnnotatorNotes T22	not found
+T43	Disease 2049 2074	cholestatic liver disease
+#21	AnnotatorNotes T43	DOID:13580
+T44	Disease 2634 2637	PSC
+R8	Risk-Factor Arg1:T46 Arg2:T30	

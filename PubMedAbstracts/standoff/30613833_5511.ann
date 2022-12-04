@@ -1,0 +1,74 @@
+T0	Drug 92 96	5-FU
+T1	Disease 118 121	CRC
+T10	Variant 739 744	R248W
+T12	Drug 837 841	5-FU
+T13	Variant 850 855	R248W
+T14	Chemical 969 972	Thy
+T15	Drug 1039 1043	5-FU
+T16	Disease 1051 1054	CRC
+T18	Drug 1155 1159	5-FU
+T19	Variant 1184 1189	R248W
+T2	Drug 196 200	5-FU
+T21	Drug 1423 1427	5-FU
+T22	Disease 1488 1498	CRC tumors
+#12	AnnotatorNotes T22	DOID:9256
+T23	Drug 1552 1556	5-FU
+T24	Disease 1651 1654	CRC
+T3	Disease 229 232	CRC
+T4	Drug 408 412	5-FU
+T5	Variant 521 526	R248W
+T7	Variant 590 595	R248W
+T8	Variant 621 626	R248W
+T9	Variant 667 672	R248W
+#1	AnnotatorNotes T0	CHEMBL185
+T11	Drug 77 80	F10
+T25	Drug 188 191	F10
+T17	CellLine 257 264	HCT-116
+T26	Gene-Protein 284 288	TP53
+#2	AnnotatorNotes T26	HGNC:11998
+T27	Gene-Protein 441 444	p53
+#3	AnnotatorNotes T27	HGNC:11998
+T28	Gene-Protein 1082 1085	p53
+T29	Gene-Protein 776 779	p53
+T30	Gene-Protein 585 588	p53
+T31	Gene-Protein 504 507	p53
+T32	Gene-Protein 477 480	p53
+T33	Gene-Protein 717 720	p53
+T34	CellLine 314 321	HCT-116
+T35	CellLine 430 437	HCT-116
+T36	CellLine 731 738	HCT-116
+T37	Drug 893 896	F10
+T38	Gene-Protein 820 823	p21
+T39	Gene-Protein 345 349	KRAS
+#4	AnnotatorNotes T39	HGNC:6407
+T40	CellLine 1176 1183	HCT-116
+A1	Gain-of-funtion T5
+#5	AnnotatorNotes T5	p.Arg248Trp
+T41	Drug 1002 1005	F10
+T20	Gene-Protein 1669 1673	TP53
+T42	Drug 1164 1167	F10
+T43	Drug-Class 1593 1606	polymeric FPs
+T44	Drug-Class 1266 1268	FP
+T45	Drug 1579 1582	F10
+T46	Drug 1324 1327	F10
+A2	Gain-of-funtion T19
+#6	AnnotatorNotes T1	DOID:9256
+R1	Variant-Of Arg1:T31 Arg2:T5	
+T47	Collection 590 626	R248W/+) or being inactivated (R248W
+R2	Variant-Of Arg1:T30 Arg2:T47	
+A3	Gain-of-funtion T7
+A4	Gain-of-funtion T8
+R3	Variant-Of Arg1:T33 Arg2:T9	
+R4	Variant-Of Arg1:T33 Arg2:T10	
+R5	Variant-Of Arg1:T29 Arg2:T13	
+T48	Drug-Class 920 922	FP
+R6	Variant-Of Arg1:T28 Arg2:T19	
+R7	Response Arg1:T41 Arg2:T16	
+#7	AnnotatorNotes T11	not found
+T49	Chemical 988 991	Urd
+R8	Response Arg1:T43 Arg2:T24	
+R10	Response Arg1:T45 Arg2:T24	
+T50	Disease 364 372	MSI+ CRC
+#8	AnnotatorNotes T50	not found
+T6	Biomarker 345 356	KRAS-mutant
+R9	Association Arg1:T6 Arg2:T50	

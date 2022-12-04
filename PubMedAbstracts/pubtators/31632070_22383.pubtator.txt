@@ -1,0 +1,54 @@
+31632070_22383|t|RSS_IDENT_p_31632070_b_1_4_3
+31632070_22383|a| Numerous studies have shown that ncRNAs are closely related to the regulation of various pathophysiological processes in tumors. 20 In the present study, circZNF609 was differentially expressed in GC tissues and paracancerous tissues. Its expression level was closely related to the clinical TNM stage and prognosis of GC patients, suggesting the potential diagnostic and prognostic values of circZNF609 in GC. Hence, circZNF609 is expected to be a novel hallmark for tumor diagnosis and evaluation. In vitro assay demonstrated the high expression of circZNF609 in GC, which was able to promote proliferative and migratory capacities of GC cells. Besides, numerous miRNAs are involved in tumor development by regulating cell proliferation and migration. 21 , 22 For example, miR-647 is lowly expressed in GC. Overexpression of miR-647 promotes proliferation and migration of tumor cells by regulating expression levels of ANK2, FAK, MMP2, MMP12 and CD44. 23 Previous studies have shown that miR-483-3p inhibits the progression of breast cancer by inhibiting CCNE1 expression. 15 miR-483-3p reverses EMT and inhibits gefitinib resistance by directly targeting on integrin β3 through inhibiting downstream FAK/ERK pathway. 24 In the present study, circZNF609 was confirmed for its sponge of miR-483-3p through dual-luciferase reporter gene assay and RIP assay. Overexpression of miR-483-3p could reverse the promoted cell proliferation and migration induced by the overexpressed circZNF609, suggesting that the regulatory effect of circZNF609 on GC cells was mainly through absorbing miR-483-3p. 
+31632070_22383	63	69	ncRNAs	Biomarker	D062085
+31632070_22383	63	69	ncRNAs	Rna-noncoding
+31632070_22383	151	157	tumors	Disease	DOID:162
+31632070_22383	184	194	circZNF609	Gene-protein	HGNC:29003
+31632070_22383	184	223	circZNF609 was differentially expressed	Biomarker
+31632070_22383	227	229	GC	Disease	DOID:10534
+31632070_22383	227	255	GC tissues and paracancerous	Collection
+31632070_22383	242	255	paracancerous	Disease	DOID:162
+31632070_22383	313	331	clinical TNM stage	Biomarker
+31632070_22383	349	351	GC	Disease
+31632070_22383	423	433	circZNF609	Gene-protein
+31632070_22383	423	433	circZNF609	Biomarker
+31632070_22383	437	439	GC	Disease
+31632070_22383	448	458	circZNF609	Gene-protein
+31632070_22383	448	458	circZNF609	Biomarker
+31632070_22383	498	503	tumor	Disease	DOID:162
+31632070_22383	562	591	high expression of circZNF609	Biomarker
+31632070_22383	581	591	circZNF609	Gene-protein
+31632070_22383	595	597	GC	Disease
+31632070_22383	667	669	GC	Disease
+31632070_22383	695	701	miRNAs	Biomarker	D035683
+31632070_22383	695	701	miRNAs	Rna-noncoding	family:476
+31632070_22383	718	723	tumor	Disease
+31632070_22383	805	812	miR-647	Rna-noncoding	HGNC:32903
+31632070_22383	805	831	miR-647 is lowly expressed	Biomarker
+31632070_22383	835	837	GC	Disease
+31632070_22383	839	864	Overexpression of miR-647	Biomarker
+31632070_22383	857	864	miR-647	Rna-noncoding
+31632070_22383	905	910	tumor	Disease
+31632070_22383	952	956	ANK2	Gene-protein	HGNC:493
+31632070_22383	958	961	FAK	Gene-protein	HGNC:9611
+31632070_22383	963	967	MMP2	Gene-protein	HGNC:7166
+31632070_22383	969	974	MMP12	Gene-protein	HGNC:7158
+31632070_22383	979	983	CD44	Gene-protein	HGNC:1681
+31632070_22383	1021	1031	miR-483-3p	Gene-protein	HGNC:32340
+31632070_22383	1021	1031	miR-483-3p	Drug	C548912
+31632070_22383	1060	1073	breast cancer	Disease	DOID:1612
+31632070_22383	1088	1093	CCNE1	Gene-protein	HGNC:1589
+31632070_22383	1109	1119	miR-483-3p	Rna-noncoding
+31632070_22383	1146	1155	gefitinib	Drug	CHEMBL939
+31632070_22383	1192	1203	integrin β3	Gene-protein	HGNC:6156
+31632070_22383	1234	1237	FAK	Gene-protein
+31632070_22383	1238	1241	ERK	Genefamily	not found
+31632070_22383	1276	1286	circZNF609	Gene-protein
+31632070_22383	1319	1329	miR-483-3p	Rna-noncoding
+31632070_22383	1407	1417	miR-483-3p	Rna-noncoding
+31632070_22383	1507	1517	circZNF609	Gene-protein
+31632070_22383	1539	1570	regulatory effect of circZNF609	Biomarker
+31632070_22383	1560	1570	circZNF609	Gene-protein
+31632070_22383	1574	1576	GC	Disease
+31632070_22383	1612	1622	miR-483-3p	Rna-noncoding
+

@@ -1,0 +1,44 @@
+T0	Disease 128 133	ccRCC
+#1	AnnotatorNotes T0	DOID:4467
+T11	Disease 790 795	ccRCC
+T14	Disease 983 994	ccRCC tumor
+T16	Disease 1181 1186	ccRCC
+T17	Disease 1238 1265	benign renal angiomyolipoma
+#6	AnnotatorNotes T17	DOID:8411
+T19	Disease 1392 1397	ccRCC
+T2	Gene-Protein 242 245	VHL
+T3	Disease 218 271	low-stage, low-grade or VHL alteration-positive ccRCC
+#9	AnnotatorNotes T3	not found
+T5	Disease 387 392	tumor
+#10	AnnotatorNotes T5	DOID:162
+T6	Disease 419 424	ccRCC
+T8	Disease 487 492	ccRCC
+T1	Gene-Protein 107 112	PLIN2
+#3	AnnotatorNotes T1	HGNC:248
+T4	Biomarker 107 123	PLIN2 expression
+#8	AnnotatorNotes T4	C000602982
+R1	Association Arg1:T4 Arg2:T0	
+#13	AnnotatorNotes T2	HGNC:12687
+T7	Gene-Protein 166 171	PLIN2
+T9	Biomarker 166 205	PLIN2 expression was markedly increased
+R2	Association Arg1:T9 Arg2:T3	
+T10	Gene-Protein 356 361	PLIN2
+T13	Biomarker 356 368	PLIN2 levels
+#11	AnnotatorNotes T13	C000602982
+R3	Association Arg1:T13 Arg2:T6	
+T15	Biomarker 683 706	PLIN2 was overexpressed
+T18	Gene-Protein 683 688	PLIN2
+T20	Biomarker 752 777	increased levels of PLIN2
+T21	Gene-Protein 772 777	PLIN2
+R5	Association Arg1:T20 Arg2:T11	
+T22	Gene-Protein 874 879	PLIN2
+T23	Biomarker 950 976	increased PLIN2 expression
+T24	Gene-Protein 960 965	PLIN2
+R6	Association Arg1:T23 Arg2:T14	
+T25	Biomarker 1125 1177	expression levels of PLIN2 were significantly higher
+T26	Gene-Protein 1146 1151	PLIN2
+R7	Association Arg1:T25 Arg2:T16	
+T27	Gene-Protein 1307 1312	PLIN2
+T28	Biomarker 1307 1312	PLIN2
+#2	AnnotatorNotes T28	C000602982
+R8	Association Arg1:T28 Arg2:T19	

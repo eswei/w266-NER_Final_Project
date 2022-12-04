@@ -1,0 +1,73 @@
+T0	Disease 71 77	tumors
+#1	AnnotatorNotes T0	DOID:162
+T10	Disease 534 539	tumor
+#2	AnnotatorNotes T10	DOID:162
+T12	Disease 600 611	lung cancer
+#3	AnnotatorNotes T12	DOID:1324
+T16	Disease 830 836	cancer
+T17	Disease 1026 1050	hepatocellular carcinoma
+#8	AnnotatorNotes T17	DOID:684
+T19	Disease 1094 1127	advanced HCC and capsule invasion
+#9	AnnotatorNotes T19	not found
+T2	Disease 127 161	esophageal squamous cell carcinoma
+#10	AnnotatorNotes T2	DOID:3748
+T21	Disease 1251 1260	cancerous
+#11	AnnotatorNotes T21	DOID:162
+T23	Biomarker 1387 1410	intrahepatic metastasis
+T24	Disease 1456 1459	HCC
+T26	Disease 1538 1541	HCC
+T3	Disease 163 167	ESCC
+T6	Disease 265 279	bladder cancer
+#17	AnnotatorNotes T6	DOID:11054
+T7	Disease 297 325	metastasis of bladder cancer
+#18	AnnotatorNotes T7	DOID:11054
+T8	Drug 427 438	pracinostat
+T9	Disease 470 475	tumor
+T1	Gene-Protein 30 34	ATF3
+#13	AnnotatorNotes T1	HGNC:785
+T5	Biomarker 30 34	ATF3
+#14	AnnotatorNotes T5	D051700
+R1	Association Arg1:T5 Arg2:T0	
+T11	Biomarker 107 123	ATF3 was reduced
+T18	Gene-Protein 107 111	ATF3
+#15	AnnotatorNotes T3	DOID:3748
+T4	Gene-Protein 214 218	ATF3
+T20	Disease 230 234	ESCC
+R2	Association Arg1:T11 Arg2:T2	
+T22	Drug 214 218	ATF3
+#16	AnnotatorNotes T22	D051700
+R3	Response Arg1:T22 Arg2:T20	
+T25	Gene-Protein 257 260	ID1
+#19	AnnotatorNotes T25	HGNC:5360
+T27	Gene-Protein 281 285	ATF3
+T28	Drug 281 285	ATF3
+R4	Response Arg1:T28 Arg2:T7	
+T29	Gene-Protein 376 381	actin
+#21	AnnotatorNotes T29	not found
+T30	Gene-Protein 510 514	ATF3
+T31	Biomarker 510 514	ATF3
+R5	Association Arg1:T31 Arg2:T10	
+T32	Gene-Protein 419 423	ATF3
+#22	AnnotatorNotes T8	CHEMBL1851943
+T33	Drug-Class 492 497	HDACi
+T34	Biomarker 576 596	upregulation of ATF3
+T35	Gene-Protein 592 596	ATF3
+R8	Association Arg1:T34 Arg2:T12	
+T13	Gene-Protein 678 682	ATF3
+T36	Biomarker 678 682	ATF3
+T37	Biomarker 1052 1076	ATF3 expression is lower
+T38	Gene-Protein 1052 1056	ATF3
+R10	Association Arg1:T37 Arg2:T19	
+T39	Biomarker 1214 1247	ATF3 was relatively downregulated
+T40	Gene-Protein 1214 1218	ATF3
+R11	Association Arg1:T39 Arg2:T21	
+T41	Gene-Protein 1351 1355	ATF3
+T42	Biomarker 1351 1355	ATF3
+#4	AnnotatorNotes T24	DOID:684
+T44	Gene-Protein 1518 1522	ATF3
+T45	Drug 1518 1522	ATF3
+R13	Response Arg1:T45 Arg2:T26	
+T46	Gene-Protein 340 348	gelsolin
+#5	AnnotatorNotes T46	HGNC: 4620
+R9	Prognostic-Good Arg1:T42 Arg2:T24	
+R6	Response Arg1:T8 Arg2:T9	

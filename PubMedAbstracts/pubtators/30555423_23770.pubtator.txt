@@ -1,0 +1,58 @@
+30555423_23770|t|RSS_IDENT_p_30555423_b_1_4_6
+30555423_23770|a| In adrenals, our data demonstrated a significant decrease of AlaAP and CysAP in hypothyroid rats. These results of AlaAP may indicate a longer action of Ang III due to the reduction of its metabolism which could be linked to a greater release of aldosterone from the adrenal gland ( 21 ). In addition, the reduction of CysAP may indicate a longer action of arginine-vasopressin in the adrenals of hypothyroids. These results are in agreement with those reported by Yeum et al. ( 22 ) demonstrating an increase of aquaporins in hypothyroid rat kidney. Taken together, these results may explain in part the decreased diuresis observed in hypothyroidism ( 23 , 24 ). In the adrenals of hyperthyroid rats, our data suggest a longer action of Ang I and Ang II due to the decreased activity of GluAP and AspAP. In plasma, there was an increase of AlaAP in hypothyroids which suggests a higher formation of Ang IV than in euthyroid rats. There was also a higher plasma AlaAP activity in hyperthyroids accompanied by a decrease in CysAP. According to the reported effect of Ang IV on AT₄ which reduces insulin-regulated aminopeptidase (CysAP) activity ( 7 ), these results suggest a higher formation of Ang IV which fits with the lower levels of CysAP and suggest a longer action of arginine-vasopressin in hyperthyroid subjects. These results are also in agreement with Mogulkoc and Baltaci ( 25 ) who reported increased plasma levels of arginine-vasopressin in rats with induced experimental hyperthyroidism.
+30555423_23770	79	106	decrease of AlaAP and CysAP	Biomarker
+30555423_23770	91	96	AlaAP	Gene-protein
+30555423_23770	101	106	CysAP	Gene-protein
+30555423_23770	110	121	hypothyroid	Disease	DOID:1459
+30555423_23770	145	150	AlaAP	Gene-protein
+30555423_23770	166	229	longer action of Ang III due to the reduction of its metabolism	Biomarker
+30555423_23770	183	190	Ang III	Gene-protein
+30555423_23770	257	310	greater release of aldosterone from the adrenal gland	Biomarker
+30555423_23770	276	287	aldosterone	Chemical
+30555423_23770	336	354	reduction of CysAP	Biomarker
+30555423_23770	349	354	CysAP	Gene-protein
+30555423_23770	370	423	longer action of arginine-vasopressin in the adrenals	Biomarker
+30555423_23770	387	395	arginine	Chemical
+30555423_23770	387	407	arginine-vasopressin	Gene-protein
+30555423_23770	427	439	hypothyroids	Disease	DOID:1459
+30555423_23770	531	553	increase of aquaporins	Biomarker
+30555423_23770	543	553	aquaporins	Genefamily
+30555423_23770	557	568	hypothyroid	Disease
+30555423_23770	635	653	decreased diuresis	Biomarker
+30555423_23770	666	680	hypothyroidism	Disease	DOID:1459
+30555423_23770	713	725	hyperthyroid	Disease
+30555423_23770	751	784	longer action of Ang I and Ang II	Biomarker
+30555423_23770	768	773	Ang I	Gene-protein
+30555423_23770	778	784	Ang II	Gene-protein
+30555423_23770	796	833	decreased activity of GluAP and AspAP	Biomarker
+30555423_23770	818	823	GluAP	Gene-protein
+30555423_23770	828	833	AspAP	Gene-protein
+30555423_23770	838	876	plasma, there was an increase of AlaAP	Biomarker
+30555423_23770	871	876	AlaAP	Gene-protein
+30555423_23770	880	892	hypothyroids	Disease
+30555423_23770	910	936	higher formation of Ang IV	Biomarker
+30555423_23770	930	936	Ang IV	Gene-protein
+30555423_23770	978	1006	higher plasma AlaAP activity	Biomarker
+30555423_23770	992	997	AlaAP	Gene-protein
+30555423_23770	1010	1023	hyperthyroids	Disease	DOID:7998
+30555423_23770	1041	1058	decrease in CysAP	Biomarker
+30555423_23770	1053	1058	CysAP	Gene-protein
+30555423_23770	1096	1102	Ang IV	Gene-protein
+30555423_23770	1106	1109	AT₄	Gene-protein
+30555423_23770	1124	1131	insulin	Gene-protein
+30555423_23770	1142	1156	aminopeptidase	Genefamily
+30555423_23770	1158	1163	CysAP	Gene-protein
+30555423_23770	1205	1231	higher formation of Ang IV	Biomarker
+30555423_23770	1205	1325	higher formation of Ang IV which fits with the lower levels of CysAP and suggest a longer action of arginine-vasopressin	Collection
+30555423_23770	1225	1231	Ang IV	Gene-protein
+30555423_23770	1252	1273	lower levels of CysAP	Biomarker
+30555423_23770	1268	1273	CysAP	Gene-protein
+30555423_23770	1288	1325	longer action of arginine-vasopressin	Biomarker
+30555423_23770	1305	1313	arginine	Chemical
+30555423_23770	1305	1325	arginine-vasopressin	Gene-protein
+30555423_23770	1329	1341	hyperthyroid	Disease
+30555423_23770	1434	1481	increased plasma levels of arginine-vasopressin	Biomarker
+30555423_23770	1461	1469	arginine	Chemical
+30555423_23770	1461	1481	arginine-vasopressin	Gene-protein
+30555423_23770	1516	1531	hyperthyroidism	Disease	DOID:7998
+

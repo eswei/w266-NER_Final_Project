@@ -1,0 +1,49 @@
+30209259_30591|t|RSS_IDENT_p_30209259_b_1_3_8
+30209259_30591|a| Based on our clinical and animal studies, it would appear that high phosphate intake increases the phosphate burden and the resulting phosphaturia produces secondary kidney damage by inducing tubular injury and interstitial fibrosis. Other studies have found that subjects with high serum phosphate had a higher risk for developing kidney disease ¹³ – ¹⁵ . In patients with more advanced renal disease, the progression of renal disease may be predetermined by other factors making it difficult to isolate phosphaturia as an independent factor predicting progression of renal disease. Moreover, in advanced CKD, the fractional excretion of phosphate is already very high limiting the capacity to further enhance phosphaturia. That is the reason hyperphosphatemia develops. At present, there are not studies in patients with CKD stages 2 to 3 in which the relationship between phosphaturia and progression of renal disease has been studied. In studies in patients with more advanced CKD from a variety of renal diseases and with different magnitudes of proteinuria, an effect of phosphaturia on renal disease progression has not been shown, but the limitation to further enhance phosphaturia may play a role ¹⁵ , ¹⁶ . Isakova T et al. found in patients with relatively preserved kidney function, GFR between 30 and 44 mL/min/1.73 m², that high FGF23 was associated with significantly higher risk of end-stage renal disease. Unlike FGF23, neither PTH nor FePi were associated with mortality in fully adjusted models that excluded FGF23 ¹⁶ . As compared with our patients, patients from the Isakova’s study had more advanced stage of CKD with higher levels of FGF23 and more severe cardiovascular disease. At this stage of kidney failure other factors besides proteinuria and FePi may play a more relevant role in the renal disease progression. 
+30209259_30591	93	114	high phosphate intake	Drug	not found
+30209259_30591	129	138	phosphate	Chemical
+30209259_30591	164	176	phosphaturia	Biomarker	 D007015
+30209259_30591	186	209	secondary kidney damage	Disease	not found
+30209259_30591	222	236	tubular injury	Disease	not found
+30209259_30591	241	262	interstitial fibrosis	Disease	DOID:0050855
+30209259_30591	308	328	high serum phosphate	Biomarker
+30209259_30591	319	328	phosphate	Chemical
+30209259_30591	362	376	kidney disease	Disease	DOID:557
+30209259_30591	409	431	advanced renal disease	Disease	not found
+30209259_30591	452	465	renal disease	Disease	DOID:557
+30209259_30591	535	547	phosphaturia	Biomarker
+30209259_30591	599	612	renal disease	Disease
+30209259_30591	627	639	advanced CKD	Disease	not found
+30209259_30591	645	699	fractional excretion of phosphate is already very high	Biomarker
+30209259_30591	669	678	phosphate	Chemical
+30209259_30591	741	753	phosphaturia	Disease
+30209259_30591	774	791	hyperphosphatemia	Disease	DOID:0050459
+30209259_30591	853	870	CKD stages 2 to 3	Disease	not found, not found
+30209259_30591	905	917	phosphaturia	Disease
+30209259_30591	937	950	renal disease	Disease
+30209259_30591	1002	1014	advanced CKD	Disease
+30209259_30591	1033	1047	renal diseases	Disease
+30209259_30591	1081	1092	proteinuria	Disease	DOID:576
+30209259_30591	1107	1119	phosphaturia	Disease
+30209259_30591	1123	1136	renal disease	Disease
+30209259_30591	1207	1219	phosphaturia	Disease
+30209259_30591	1297	1322	preserved kidney function	Biomarker
+30209259_30591	1297	1377	preserved kidney function, GFR between 30 and 44 mL/min/1.73 m², that high FGF23	Collection
+30209259_30591	1324	1327	GFR	Biomarker
+30209259_30591	1367	1377	high FGF23	Biomarker
+30209259_30591	1372	1377	FGF23	Gene-protein	HGNC:3680
+30209259_30591	1427	1450	end-stage renal disease	Disease	not found
+30209259_30591	1459	1464	FGF23	Gene-protein
+30209259_30591	1474	1477	PTH	Gene-protein	HGNC:9606
+30209259_30591	1482	1486	FePi	Chemical
+30209259_30591	1557	1562	FGF23	Gene-protein
+30209259_30591	1660	1663	CKD	Disease	DOID:784
+30209259_30591	1669	1691	higher levels of FGF23	Biomarker
+30209259_30591	1669	1730	higher levels of FGF23 and more severe cardiovascular disease	Collection
+30209259_30591	1686	1691	FGF23	Gene-protein
+30209259_30591	1696	1730	more severe cardiovascular disease	Biomarker
+30209259_30591	1749	1763	kidney failure	Disease	DOID:1074
+30209259_30591	1786	1797	proteinuria	Biomarker	D011507
+30209259_30591	1802	1806	FePi	Biomarker
+30209259_30591	1844	1857	renal disease	Disease
+

@@ -1,0 +1,38 @@
+31441605_28223|t|RSS_IDENT_p_31441605_b_1_5_4
+31441605_28223|a| In a previous study, miR‐497‐5p was reported as an oncogene in renal cell carcinoma (Li, Chen, et al., 2016). However, the characterization of miR‐497‐5p in HCC and its association with disease progression and development remain unclear. In this study, we found that miR‐497‐5p was downregulated in HCC tumor tissues and HCC cell lines. MiR‐497‐5p downregulation correlated with a larger tumor size (≥5 cm) (p = .003), multiple tumors (p = .018) and positive HBV DNA levels (p = .007) and predicted poor prognosis. Currently, the HBV DNA levels level is closely related to the recurrence of HCC, and it is used to predict the risk of recurrence in HBsAg‐positive HCC patients after hepatectomy. The relationship between the expression of the miR‐497‐5p and the serum AFP levels suggests that miR‐497‐5p may be a potential biomarker for diagnosing HCC. Furthermore, its close relationship with the HBV DNA levels and the degree of tumor size also indicates that miR‐497‐5p may be related to hepatocarcinogenesis. Furthermore, overexpression of miR‐497‐5p in Huh7 and HepG2 cells significantly inhibited cell proliferation and metastasis both in vitro and in vivo. These results strongly suggest thatmiR‐497‐5p has an inhibitory role in HCC. 
+31441605_28223	51	61	miR‐497‐5p	Rna-noncoding	HGNC:32088
+31441605_28223	51	61	miR‐497‐5p	Biomarker	C559640
+31441605_28223	93	113	renal cell carcinoma	Disease	DOID:4450
+31441605_28223	173	183	miR‐497‐5p	Rna-noncoding
+31441605_28223	187	190	HCC	Disease	DOID:684
+31441605_28223	297	307	miR‐497‐5p	Rna-noncoding
+31441605_28223	297	325	miR‐497‐5p was downregulated	Biomarker
+31441605_28223	329	332	HCC	Disease
+31441605_28223	351	354	HCC	Disease
+31441605_28223	367	377	MiR‐497‐5p	Rna-noncoding	HGNC:32088
+31441605_28223	367	392	MiR‐497‐5p downregulation	Biomarker
+31441605_28223	411	428	larger tumor size	Biomarker
+31441605_28223	458	464	tumors	Disease	DOID:162
+31441605_28223	480	503	positive HBV DNA levels	Biomarker
+31441605_28223	489	492	HBV	Microorganism
+31441605_28223	560	563	HBV	Microorganism
+31441605_28223	560	574	HBV DNA levels	Biomarker
+31441605_28223	621	624	HCC	Disease
+31441605_28223	678	696	HBsAg‐positive HCC	Disease	not found
+31441605_28223	754	782	expression of the miR‐497‐5p	Biomarker
+31441605_28223	772	782	miR‐497‐5p	Rna-noncoding
+31441605_28223	791	807	serum AFP levels	Biomarker
+31441605_28223	797	800	AFP	Gene-protein	HGNC:317
+31441605_28223	822	832	miR‐497‐5p	Rna-noncoding
+31441605_28223	822	832	miR‐497‐5p	Biomarker
+31441605_28223	877	880	HCC	Disease
+31441605_28223	927	930	HBV	Microorganism
+31441605_28223	927	941	HBV DNA levels	Biomarker
+31441605_28223	960	965	tumor	Disease	DOID:14566|DOID:162
+31441605_28223	991	1001	miR‐497‐5p	Rna-noncoding
+31441605_28223	1055	1083	overexpression of miR‐497‐5p	Biomarker
+31441605_28223	1073	1083	miR‐497‐5p	Rna-noncoding
+31441605_28223	1087	1091	Huh7	Cellline
+31441605_28223	1096	1101	HepG2	Cellline
+31441605_28223	1265	1268	HCC	Disease
+

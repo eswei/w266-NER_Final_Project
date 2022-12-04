@@ -1,0 +1,69 @@
+31651513_31820|t|RSS_IDENT_p_31651513_b_1_4_4
+31651513_31820|a| In this study, the expression of FINS and HOMA-IR increased in patients with diabetes and overweight/obesity, whereas that of HDL-C and adiponectin decreased; the FFA levels in patients with GDM increased. In the non-overweight/obese women, VDR mRNA, PPAR mRNA, and HOMA-IR were related to GDM, while in the women with overweight/obesity, HDL-C and FFA levels were related to GDM. VDR/PPARγ expression correlated to the glucose levels and lipid metabolism. Herrera and Desoye[ ³² ] has shown that lipid metabolism is abnormal in diabetic patients, IR exists in the adipose tissue of obese and diabetic pregnant women, and adipose tissue plays an important role in the pathogenesis of diabetes.[ ¹² ] VDR levels positively correlate with IR,[ ³³ ] Pregnant women with high pre-pregnancy BMI or GDM have impaired FFA transport at the mother-fetal interface,[ ³⁴ ]GDM and FFA levels also correlate with IR,[ ³⁵ ] adiponectin is an adipokine and an endogenous insulin sensitizer that reduces the circulating level of insulin in patients obesity and diabetes. Mousa et al[ ³⁶ ] showed that the baseline concentration of 25(OH)D negatively correlated with TC /TG and positively correlated with adiponectin in 102 high-risk women with overweight or obesity. Adiponectin can up-regulate the PPARγ expression through by regulating the insulin content and insulin secretion, and decreased levels of adiponectin in the circulation of obese individuals may be directly associated with the β-cell dysfunction in T2DM.[ ³⁷ ]
+31651513_31820	63	89	FINS and HOMA-IR increased	Biomarker
+31651513_31820	107	115	diabetes	Disease	not found
+31651513_31820	107	138	diabetes and overweight/obesity	Collection
+31651513_31820	120	130	overweight	Disease	D050177
+31651513_31820	131	138	obesity	Disease	DOID:9970
+31651513_31820	156	187	HDL-C and adiponectin decreased	Biomarker
+31651513_31820	156	203	HDL-C and adiponectin decreased; the FFA levels	Collection
+31651513_31820	166	177	adiponectin	Gene-protein	HGNC:13633
+31651513_31820	193	203	FFA levels	Biomarker
+31651513_31820	221	224	GDM	Disease	DOID:11714
+31651513_31820	271	274	VDR	Gene-protein	HGNC:12679
+31651513_31820	271	279	VDR mRNA	Biomarker
+31651513_31820	271	303	VDR mRNA, PPAR mRNA, and HOMA-IR	Collection
+31651513_31820	281	285	PPAR	Gene-protein	HGNC:9232
+31651513_31820	281	290	PPAR mRNA	Biomarker
+31651513_31820	296	303	HOMA-IR	Biomarker
+31651513_31820	320	323	GDM	Disease
+31651513_31820	349	359	overweight	Disease
+31651513_31820	360	367	obesity	Disease
+31651513_31820	369	402	HDL-C and FFA levels were related	Biomarker
+31651513_31820	406	409	GDM	Disease
+31651513_31820	411	414	VDR	Gene-protein
+31651513_31820	411	431	VDR/PPARγ expression	Biomarker
+31651513_31820	415	420	PPARγ	Gene-protein	HGNC:9236
+31651513_31820	450	457	glucose	Chemical
+31651513_31820	450	464	glucose levels	Biomarker
+31651513_31820	469	474	lipid	Chemical
+31651513_31820	469	485	lipid metabolism	Biomarker
+31651513_31820	527	555	lipid metabolism is abnormal	Biomarker
+31651513_31820	559	567	diabetic	Disease	not found
+31651513_31820	578	580	IR	Biomarker	D007333
+31651513_31820	613	646	obese and diabetic pregnant women	Disease	DOID:9970, not found
+31651513_31820	714	722	diabetes	Disease
+31651513_31820	730	733	VDR	Gene-protein
+31651513_31820	730	740	VDR levels	Biomarker
+31651513_31820	767	769	IR	Biomarker
+31651513_31820	777	826	Pregnant women with high pre-pregnancy BMI or GDM	Disease	not found, not found
+31651513_31820	832	884	impaired FFA transport at the mother-fetal interface	Biomarker
+31651513_31820	891	894	GDM	Disease
+31651513_31820	899	909	FFA levels	Biomarker
+31651513_31820	930	932	IR	Biomarker
+31651513_31820	940	951	adiponectin	Gene-protein
+31651513_31820	940	951	adiponectin	Biomarker	D052242
+31651513_31820	958	967	adipokine	Genefamily	not found
+31651513_31820	986	993	insulin	Gene-protein	HGNC:6081
+31651513_31820	1043	1050	insulin	Gene-protein
+31651513_31820	1063	1070	obesity	Disease
+31651513_31820	1063	1083	obesity and diabetes	Collection
+31651513_31820	1075	1083	diabetes	Disease
+31651513_31820	1119	1152	baseline concentration of 25(OH)D	Biomarker
+31651513_31820	1145	1152	25(OH)D	Chemical
+31651513_31820	1180	1186	TC /TG	Biomarker
+31651513_31820	1218	1229	adiponectin	Gene-protein
+31651513_31820	1218	1229	adiponectin	Biomarker
+31651513_31820	1258	1268	overweight	Disease
+31651513_31820	1272	1279	obesity	Disease
+31651513_31820	1281	1292	Adiponectin	Gene-protein	HGNC:13633
+31651513_31820	1281	1292	Adiponectin	Biomarker	D052242
+31651513_31820	1313	1318	PPARγ	Gene-protein
+31651513_31820	1356	1363	insulin	Gene-protein
+31651513_31820	1376	1383	insulin	Gene-protein
+31651513_31820	1399	1449	decreased levels of adiponectin in the circulation	Biomarker
+31651513_31820	1419	1430	adiponectin	Gene-protein
+31651513_31820	1453	1458	obese	Disease	DOID:9970
+31651513_31820	1507	1525	β-cell dysfunction	Biomarker
+31651513_31820	1529	1533	T2DM	Disease	DOID:9352
+

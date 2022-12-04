@@ -1,0 +1,33 @@
+30744098_6763|t|RSS_IDENT_p_30744098_b_1_2_3
+30744098_6763|a| IL-17 is strictly associated with allergic responses inducing proinflammatory gene expression [ 62 , 63 ], acting alone or in combination with tumor necrosis factor-α (TNF-α), IL-6, Granulocyte colony-stimulating factor (G-CSF), IL-1, chemokine (C-X-C motif) ligand 1 (CXCL1), chemokine (C-C motif) ligand 20 (CCL20), and matrix metalloproteinases [ 64 , 65 , 66 ] through the activation of NF-κB, mitogen-activated protein kinase (MAPK), and C/EBP cascades [ 67 ]. Of note, IL-17 was also shown to activate the JAK/STAT and the JAK/phosphoinositide-3-kinase (PI3K) pathways in human airway epithelial and smooth muscle cells [ 68 , 69 ]. Moreover, several studies demonstrated the ability of IL-17 to stabilize the messenger RNA (mRNA) of pro-inflammatory genes by dissociating mRNA splicing factors, thereby prolonging their half-lives and avoiding consequent degradation [ 70 , 71 ]. This interleukin is mainly produced by Th17 cells [ 72 ], but its expression can also be detected in eosinophils [ 73 ], neutrophils [ 74 ], monocytes [ 75 ], macrophages [ 76 , 77 ], and lymphocytes [ 78 , 79 , 80 ]. Of particular interest is that IL-17 was shown to be upregulated in patients with asthma [ 73 ], chronic rhinosinusitis [ 81 ], and COPD [ 82 ].
+30744098_6763	30	35	IL-17	Gene-protein	HGNC:5981
+30744098_6763	173	196	tumor necrosis factor-α	Gene-protein	HGNC:11892
+30744098_6763	198	203	TNF-α	Gene-protein	HGNC:11892
+30744098_6763	206	210	IL-6	Gene-protein	HGNC:6018
+30744098_6763	212	249	Granulocyte colony-stimulating factor	Gene-protein	HGNC:2438
+30744098_6763	251	256	G-CSF	Gene-protein	HGNC:2438
+30744098_6763	259	263	IL-1	Gene-protein	HGNC:5991
+30744098_6763	265	297	chemokine (C-X-C motif) ligand 1	Gene-protein	HGNC:4602
+30744098_6763	299	304	CXCL1	Gene-protein	HGNC:4602
+30744098_6763	307	338	chemokine (C-C motif) ligand 20	Gene-protein	HGNC:10619
+30744098_6763	340	345	CCL20	Gene-protein	HGNC:10619
+30744098_6763	352	377	matrix metalloproteinases	Genefamily	family:891
+30744098_6763	421	426	NF-κB	Genefamily	family:1254
+30744098_6763	428	460	mitogen-activated protein kinase	Genefamily	family:651
+30744098_6763	462	466	MAPK	Genefamily	family:651
+30744098_6763	473	478	C/EBP	Gene-protein	family:1165
+30744098_6763	505	510	IL-17	Gene-protein
+30744098_6763	542	545	JAK	Genefamily	family:1459
+30744098_6763	546	550	STAT	Genefamily	not found
+30744098_6763	559	562	JAK	Genefamily
+30744098_6763	563	588	phosphoinositide-3-kinase	Genefamily	family:831
+30744098_6763	590	594	PI3K	Genefamily	family:831
+30744098_6763	723	728	IL-17	Gene-protein
+30744098_6763	922	933	interleukin	Genefamily	family:601
+30744098_6763	1166	1171	IL-17	Gene-protein
+30744098_6763	1166	1199	IL-17 was shown to be upregulated	Biomarker
+30744098_6763	1217	1223	asthma	Disease	DOID:2841
+30744098_6763	1217	1271	asthma [ 73 ], chronic rhinosinusitis [ 81 ], and COPD	Collection
+30744098_6763	1232	1254	chronic rhinosinusitis	Disease	not found
+30744098_6763	1267	1271	COPD	Disease	DOID:3083
+

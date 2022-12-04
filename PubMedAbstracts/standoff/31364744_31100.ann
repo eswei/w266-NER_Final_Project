@@ -1,0 +1,57 @@
+T0	RNA-Noncoding 71 80	Linc00961
+T1	RNA-Noncoding 270 279	Linc00961
+T11	Disease 745 773	lung squamous cell carcinoma
+#4	AnnotatorNotes T11	DOID:3907
+T13	Disease 839 845	glioma
+#6	AnnotatorNotes T13	DOID:0060108
+T14	RNA-Noncoding 847 856	Linc00961
+T16	RNA-Noncoding 1061 1070	Linc00961
+T18	Disease 1106 1112	glioma
+T19	Disease 1117 1137	renal cell carcinoma
+#11	AnnotatorNotes T19	DOID:4450
+T2	Disease 316 323	cancers
+#12	AnnotatorNotes T2	DOID:162
+T20	Disease 1139 1142	RCC
+#13	AnnotatorNotes T20	DOID:4450
+T21	RNA-Noncoding 1166 1175	Linc00961
+T23	Disease 1187 1190	RCC
+T24	RNA-Noncoding 1362 1371	Linc00961
+T26	Disease 1451 1453	SM
+#18	AnnotatorNotes T26	DOID:8923
+T27	RNA-Noncoding 1455 1464	Linc00961
+T28	Disease 1529 1534	tumor
+#20	AnnotatorNotes T28	DOID:162
+T29	Disease 1545 1547	SM
+T3	RNA-Noncoding 355 364	Linc00961
+T30	Disease 1638 1640	SM
+T31	RNA-Noncoding 1685 1694	Linc00961
+T32	Disease 1717 1719	SM
+T4	Disease 417 422	NSCLC
+#26	AnnotatorNotes T4	DOID:3908
+T5	RNA-Noncoding 483 492	Linc00961
+T7	Disease 682 687	NSCLC
+T8	RNA-Noncoding 709 718	Linc00961
+#1	AnnotatorNotes T0	HGNC:27244
+T6	RNA-Noncoding 116 121	SPAAR
+#2	AnnotatorNotes T6	HGNC:27244
+T9	GeneFamily 144 158	mTOR complex 1
+#3	AnnotatorNotes T9	family:1332
+T10	Gene-Protein 667 670	Bax
+#5	AnnotatorNotes T10	HGNC:959
+T12	Biomarker 709 741	Linc00961 was also downregulated
+R1	Association Arg1:T12 Arg2:T11	
+T15	Biomarker 847 856	Linc00961
+R2	Prognostic-Poor Arg1:T15 Arg2:T13	
+T17	Drug 355 364	Linc00961
+T22	Biomarker 270 279	Linc00961
+R3	Response Arg1:T17 Arg2:T4	
+R4	Association Arg1:T22 Arg2:T2	
+T25	Drug 483 492	Linc00961
+R5	Response Arg1:T25 Arg2:T7	
+T33	Drug 1166 1175	Linc00961
+R6	Response Arg1:T33 Arg2:T19	
+T34	Collection 1529 1547	tumor growth of SM
+T35	Drug 1455 1464	Linc00961
+R7	Response Arg1:T35 Arg2:T34	
+#7	AnnotatorNotes T22	C000617133
+#8	AnnotatorNotes T17	C000617133

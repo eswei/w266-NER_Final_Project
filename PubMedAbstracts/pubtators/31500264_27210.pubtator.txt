@@ -1,0 +1,59 @@
+31500264_27210|t|RSS_IDENT_p_31500264_b_1_4_7
+31500264_27210|a| In our study, although we were limited by the cross-sectional design that precludes making causal inferences or establishing the sequence of events, we found that, in the presence of infection with H. pylori, there was higher hepcidin levels, as would be expected. Likewise, we found that hepcidin levels were lower when iron stores were low, but this was statistically significant only when children were free of H. pylori infection. In contrast to what was found when the children had both conditions, H. pylori infection and iron deficiency, in these cases the hepcidin levels were higher. These results suggest that in children with H. pylori infection, the hepcidin synthesis is upregulated regardless of their iron status. Therefore, the stimulus to the synthesis of hepcidin due to H. pylori infection is greater than iron deficiency stimulus; in children with iron deficiency who have H. pylori infection, hepcidin levels are higher than those in children with iron deficiency without H. pylori infection. If the infection is prolonged, as is common in H. pylori infection, or the individual is malnourished, the hypoferremia caused by inflammation may produce or worsen the nutritional deficiency [ 25 ]. These results could indicate that in children with iron deficiency or iron deficiency anemia and H. pylori infection, it is necessary to treat the infection first and then determine whether it is still necessary to give iron supplements. Future studies are needed to understand the hierarchical nature of hepcidin production, including production under normal and pathological conditions, also to identify cut-off values that classify low, normal, or high hepcidin status. Likewise, more research is needed to explore if other chronic inflammatory processes besides H. pylori infection are associated with iron deficiency and high production of hepcidin. 
+31500264_27210	213	237	infection with H. pylori	Disease	not found
+31500264_27210	228	237	H. pylori	Microorganism
+31500264_27210	249	271	higher hepcidin levels	Biomarker
+31500264_27210	256	264	hepcidin	Gene-protein	HGNC:15598
+31500264_27210	319	327	hepcidin	Gene-protein
+31500264_27210	319	345	hepcidin levels were lower	Biomarker
+31500264_27210	351	355	iron	Chemical
+31500264_27210	352	371	ron stores were low	Biomarker
+31500264_27210	444	463	H. pylori infection	Disease	not found
+31500264_27210	534	543	H. pylori	Microorganism
+31500264_27210	534	553	H. pylori infection	Disease
+31500264_27210	534	573	H. pylori infection and iron deficiency	Collection
+31500264_27210	558	562	iron	Chemical
+31500264_27210	558	573	iron deficiency	Disease	DOID:11758
+31500264_27210	594	602	hepcidin	Gene-protein
+31500264_27210	594	621	hepcidin levels were higher	Biomarker
+31500264_27210	667	676	H. pylori	Microorganism
+31500264_27210	667	686	H. pylori infection	Disease
+31500264_27210	692	700	hepcidin	Gene-protein
+31500264_27210	692	725	hepcidin synthesis is upregulated	Biomarker
+31500264_27210	746	750	iron	Chemical
+31500264_27210	790	811	synthesis of hepcidin	Biomarker
+31500264_27210	803	811	hepcidin	Gene-protein
+31500264_27210	819	828	H. pylori	Microorganism
+31500264_27210	819	838	H. pylori infection	Disease
+31500264_27210	855	859	iron	Chemical
+31500264_27210	855	870	iron deficiency	Disease
+31500264_27210	898	902	iron	Chemical
+31500264_27210	898	942	iron deficiency who have H. pylori infection	Disease	DOID:11758, not found	Conjunction
+31500264_27210	923	932	H. pylori	Microorganism
+31500264_27210	944	952	hepcidin	Gene-protein
+31500264_27210	944	970	hepcidin levels are higher	Biomarker
+31500264_27210	999	1003	iron	Chemical
+31500264_27210	999	1014	iron deficiency	Disease
+31500264_27210	1023	1032	H. pylori	Microorganism
+31500264_27210	1023	1042	H. pylori infection	Disease
+31500264_27210	1091	1100	H. pylori	Microorganism
+31500264_27210	1091	1110	H. pylori infection	Disease
+31500264_27210	1133	1145	malnourished	Disease	D044342
+31500264_27210	1151	1186	hypoferremia caused by inflammation	Biomarker
+31500264_27210	1213	1235	nutritional deficiency	Disease	DOID:5113
+31500264_27210	1295	1299	iron	Chemical
+31500264_27210	1295	1310	iron deficiency	Disease
+31500264_27210	1314	1318	iron	Chemical
+31500264_27210	1314	1336	iron deficiency anemia	Disease	DOID:11758
+31500264_27210	1341	1350	H. pylori	Microorganism
+31500264_27210	1341	1360	H. pylori infection	Disease
+31500264_27210	1464	1480	iron supplements	Drug
+31500264_27210	1549	1557	hepcidin	Gene-protein
+31500264_27210	1700	1708	hepcidin	Gene-protein
+31500264_27210	1810	1819	H. pylori	Microorganism
+31500264_27210	1810	1829	H. pylori infection	Disease
+31500264_27210	1850	1854	iron	Chemical
+31500264_27210	1850	1865	iron deficiency	Disease
+31500264_27210	1870	1897	high production of hepcidin	Biomarker
+31500264_27210	1889	1897	hepcidin	Gene-protein
+

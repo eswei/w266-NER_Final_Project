@@ -1,0 +1,37 @@
+31198405_28376|t|RSS_IDENT_p_31198405_b_1_4_3
+31198405_28376|a| Up to now, numerous studies show that lncRNA is frequently dysregulated in human cancers and can be used as an effective biomarker [ 18 ]. For instance, high lncRNA SNHG1 expression was positively correlated with poor outcome in colorectal cancer patients [ 19 ]. LncRNA MALAT-1 expression in serum was identified as a good distinction between hepatocellular carcinoma patients and healthy controls [ 20 ]. LncRNA CASC11 was shown to be markedly increased in osteosarcoma and predicted dismal survival [ 21 ]. Likewise, some lncRNAs related to the diagnosis or prognosis of GC have been reported, such as FLJ22763 [ 22 ], GMAN [ 23 ], ZEB1-AS1 [ 24 ] and UCA1 [ 25 ]. Herein, we found that GC patients with low TUBA4B expression displayed shorter survival time than patients with high TUBA4B expression, and the AUC value based on plasma TUBA4B expression was 0.8075 (95% CI 0.7103 to 0.9047), implying that TUBA4B is an efficacious diagnostic and prognostic biomarker for GC patients. Further large sample studies are needed to confirm our findings, and it would be worthwhile to clarify the crosstalk between TUBA4B and the above reported GC-associated lncRNAs, and whether TUBA4B can be detected in urine and exosomes.
+31198405_28376	68	74	lncRNA	Rna-noncoding	family:788
+31198405_28376	68	101	lncRNA is frequently dysregulated	Biomarker
+31198405_28376	111	118	cancers	Disease	DOID:162
+31198405_28376	183	211	high lncRNA SNHG1 expression	Biomarker
+31198405_28376	195	200	SNHG1	Rna-noncoding	HGNC:32688
+31198405_28376	259	276	colorectal cancer	Disease	DOID:9256
+31198405_28376	294	328	LncRNA MALAT-1 expression in serum	Biomarker
+31198405_28376	301	308	MALAT-1	Rna-noncoding	HGNC:29665
+31198405_28376	374	398	hepatocellular carcinoma	Disease	DOID:684
+31198405_28376	437	485	LncRNA CASC11 was shown to be markedly increased	Biomarker
+31198405_28376	444	450	CASC11	Rna-noncoding	HGNC:48939
+31198405_28376	489	501	osteosarcoma	Disease	DOID:3347
+31198405_28376	604	606	GC	Disease	DOID:10534
+31198405_28376	635	643	FLJ22763	Rna-noncoding	HGNC:53432
+31198405_28376	635	643	FLJ22763	Biomarker
+31198405_28376	635	689	FLJ22763 [ 22 ], GMAN [ 23 ], ZEB1-AS1 [ 24 ] and UCA1	Collection
+31198405_28376	652	656	GMAN	Rna-noncoding	not found
+31198405_28376	652	656	GMAN	Biomarker
+31198405_28376	665	673	ZEB1-AS1	Rna-noncoding	HGNC:42354
+31198405_28376	665	673	ZEB1-AS1	Biomarker	C000610978
+31198405_28376	685	689	UCA1	Rna-noncoding	HGNC:37126
+31198405_28376	685	689	UCA1	Biomarker	C515159
+31198405_28376	720	722	GC	Disease
+31198405_28376	737	758	low TUBA4B expression	Biomarker
+31198405_28376	741	747	TUBA4B	Rna-noncoding	HGNC:18637
+31198405_28376	810	832	high TUBA4B expression	Biomarker
+31198405_28376	815	821	TUBA4B	Rna-noncoding
+31198405_28376	868	874	TUBA4B	Rna-noncoding
+31198405_28376	938	944	TUBA4B	Rna-noncoding
+31198405_28376	938	944	TUBA4B	Biomarker
+31198405_28376	1003	1005	GC	Disease
+31198405_28376	1141	1147	TUBA4B	Rna-noncoding
+31198405_28376	1171	1173	GC	Disease
+31198405_28376	1206	1212	TUBA4B	Rna-noncoding
+

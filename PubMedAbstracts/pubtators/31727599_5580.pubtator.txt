@@ -1,0 +1,39 @@
+31727599_5580|t|RSS_IDENT_p_31727599_b_1_2_5
+31727599_5580|a| LSAMP-AS1, antisense to the mRNA of encoding limbic system-associated membrane protein, is associated with the cellular process of senescence [9] . Notably, the recurrent deletion near the LSAMP locus on the chromosome 3 (3q13.31) is prevalent in PCa malignancies [10] . miR-183 has been highlighted as an oncogene in PCa. Moreover, knockdown of miR-183 was shown to repress growth and motility in PCa cell lines along with reduced tumor growth in vivo by targeting Dkk-3 and SMAD4 [11] . DCN, a small leucine-rich proteoglycan, is a tumor suppressor in PCa. Reduced expression of DCN has been considered as an indicator of poor prognosis in patients with PCa [ 12 , 13 ]. Additionally, Merline et al. suggested that the DCN signaling can attenuate tumor growth by diminishing the abundance of oncogenic miR-21 in cancer [14] . Thus, DCN may interact with other miRNAs to control the behaviors of cancer cells. Although there is a lot of evidence demonstrating the role of lncRNAs in the development of PCa through regulation of miRNAs and mRNAs, the precise mechanism remains to be studied. In the present study, the effects of the LSAMP-AS1/miR-183–5p/DCN axis on the progression of PCa were explored. 
+31727599_5580	30	39	LSAMP-AS1	Rna-noncoding	HGNC:40350
+31727599_5580	75	116	limbic system-associated membrane protein	Gene-protein	HGNC:6705
+31727599_5580	201	260	deletion near the LSAMP locus on the chromosome 3 (3q13.31)	Biomarker
+31727599_5580	219	224	LSAMP	Gene-protein	HGNC:6705
+31727599_5580	277	280	PCa	Disease	DOID:10283
+31727599_5580	301	308	miR-183	Rna-noncoding	HGNC:31554
+31727599_5580	348	351	PCa	Disease
+31727599_5580	363	383	knockdown of miR-183	Drug	not found
+31727599_5580	376	383	miR-183	Rna-noncoding
+31727599_5580	428	431	PCa	Disease
+31727599_5580	462	467	tumor	Disease	DOID:162
+31727599_5580	496	501	Dkk-3	Gene-protein	HGNC:2893
+31727599_5580	506	511	SMAD4	Gene-protein	HGNC:6770
+31727599_5580	519	522	DCN	Gene-protein	HGNC:2705
+31727599_5580	519	522	DCN	Drug	C546878
+31727599_5580	532	539	leucine	Chemical
+31727599_5580	584	587	PCa	Disease
+31727599_5580	589	614	Reduced expression of DCN	Biomarker
+31727599_5580	611	614	DCN	Chemical
+31727599_5580	686	689	PCa	Disease
+31727599_5580	751	754	DCN	Gene-protein
+31727599_5580	751	754	DCN	Drug
+31727599_5580	779	784	tumor	Disease
+31727599_5580	779	850	tumor growth by diminishing the abundance of oncogenic miR-21 in cancer	Collection
+31727599_5580	834	840	miR-21	Rna-noncoding	HGNC:31586
+31727599_5580	844	850	cancer	Disease	DOID:162
+31727599_5580	864	867	DCN	Chemical
+31727599_5580	927	933	cancer	Disease
+31727599_5580	1003	1010	lncRNAs	Rna-noncoding
+31727599_5580	1003	1010	lncRNAs	Biomarker	D062085
+31727599_5580	1033	1036	PCa	Disease
+31727599_5580	1163	1172	LSAMP-AS1	Rna-noncoding
+31727599_5580	1163	1192	LSAMP-AS1/miR-183–5p/DCN axis	Biomarker
+31727599_5580	1173	1183	miR-183–5p	Rna-noncoding	HGNC:31554
+31727599_5580	1184	1187	DCN	Gene-protein
+31727599_5580	1215	1218	PCa	Disease
+

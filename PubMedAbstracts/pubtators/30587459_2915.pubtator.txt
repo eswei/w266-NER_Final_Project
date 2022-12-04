@@ -1,0 +1,47 @@
+30587459_2915|t|RSS_IDENT_p_30587459_b_1_1
+30587459_2915|a| Research in the context Evidence before this study Growing evidence has suggested that G-protein-coupled receptors (GPCRs) hold the significant promise for tumor imaging and targeted therapy. The G-protein-coupled receptor sphingosine 1-phosphate receptor 3 (S1PR3) has been found to play critical roles in the development and progression of several tumors through interaction with its ligand Sphingosine 1-phosphate (S1P). However, the effects of S1P/S1PR3 axis on osteosarcoma (OS) still remain elusive. Added value of this study This study investigated the expression level, biological function, downstream regulation and clinical impact of S1PR3 on OS. We observed that increased S1PR3 expression predicted poor survival rate in OS patients and promoted cell proliferation by inducing the Warburg effect in OS. In addition, we also found that S1PR3 antagonist TY52156 exhibited the synergistic inhibitory effects with methotrexate on OS cell growth. Mechanistically, we uncovered that S1P/S1PR3 axis promoted the aerobic glycolysis in OS through inhibiting the phosphorylation of Yes-associated protein (YAP) and promoting the nuclear translocation of YAP, which contributed to the formation of the YAP–c-MYC complex and enhanced transcription of the important glycolysis enzyme PGAM1. Implications of all the available evidence Our findings delineated one of the instrumental molecular mechanisms underlying the glucose metabolism reprogram in the OS and indicated that S1P/S1PR3 axis was a potential therapeutic target for patients with OS. Alt-text: Unlabelled Box 
+30587459_2915	115	142	G-protein-coupled receptors	Genefamily	family:139
+30587459_2915	115	142	G-protein-coupled receptors	Biomarker	D043562
+30587459_2915	144	149	GPCRs	Genefamily	family:139
+30587459_2915	184	189	tumor	Disease	DOID:162
+30587459_2915	224	250	G-protein-coupled receptor	Genefamily	family:139
+30587459_2915	251	274	sphingosine 1-phosphate	Chemical
+30587459_2915	251	285	sphingosine 1-phosphate receptor 3	Gene-protein	HGNC:3167
+30587459_2915	251	285	sphingosine 1-phosphate receptor 3	Biomarker	C577483
+30587459_2915	287	292	S1PR3	Gene-protein	HGNC:3167
+30587459_2915	378	384	tumors	Disease	DOID:162
+30587459_2915	421	444	Sphingosine 1-phosphate	Chemical
+30587459_2915	446	449	S1P	Chemical
+30587459_2915	476	479	S1P	Chemical
+30587459_2915	480	485	S1PR3	Gene-protein
+30587459_2915	494	506	osteosarcoma	Disease	DOID:3347
+30587459_2915	508	510	OS	Disease	DOID:3347
+30587459_2915	672	677	S1PR3	Gene-protein
+30587459_2915	681	683	OS	Disease
+30587459_2915	702	728	increased S1PR3 expression	Biomarker
+30587459_2915	712	717	S1PR3	Gene-protein
+30587459_2915	761	763	OS	Disease
+30587459_2915	839	841	OS	Disease
+30587459_2915	875	880	S1PR3	Gene-protein
+30587459_2915	875	891	S1PR3 antagonist	Drug-class
+30587459_2915	892	899	TY52156	Drug	C548679
+30587459_2915	950	962	methotrexate	Drug	CHEMBL34259
+30587459_2915	966	968	OS	Disease
+30587459_2915	1017	1020	S1P	Chemical
+30587459_2915	1017	1031	S1P/S1PR3 axis	Biomarker
+30587459_2915	1021	1026	S1PR3	Gene-protein
+30587459_2915	1067	1069	OS	Disease
+30587459_2915	1112	1134	Yes-associated protein	Gene-protein	HGNC:16262
+30587459_2915	1136	1139	YAP	Gene-protein	HGNC:16262
+30587459_2915	1184	1187	YAP	Gene-protein
+30587459_2915	1231	1234	YAP	Gene-protein
+30587459_2915	1235	1240	c-MYC	Gene-protein	HGNC:7553
+30587459_2915	1311	1316	PGAM1	Gene-protein	HGNC:8888
+30587459_2915	1445	1452	glucose	Chemical
+30587459_2915	1445	1473	glucose metabolism reprogram	Biomarker
+30587459_2915	1481	1483	OS	Disease
+30587459_2915	1503	1506	S1P	Chemical
+30587459_2915	1503	1517	S1P/S1PR3 axis	Biomarker
+30587459_2915	1507	1512	S1PR3	Gene-protein
+30587459_2915	1571	1573	OS	Disease
+

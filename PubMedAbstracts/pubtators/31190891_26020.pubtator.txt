@@ -1,0 +1,71 @@
+31190891_26020|t|RSS_IDENT_p_31190891_b_1_4_3
+31190891_26020|a| Previous reports have demonstrated that lncRNAs can exert biological effects through a number of mechanisms, including transcriptional and post-transcriptional regulation. Accumulating evidence indicates that lncRNAs are involved in carcinogenesis and cancer progression by acting as competing endogenous RNAs (ceRNAs) and sponging miRNAs. For example, lncRNA prostate cancer-associated transcript 7 (PCAT7) accelerates tumorigenesis by inhibiting miR-134-5p in NSCLC and is associated with poor prognosis. 16 LncRNA LINC00339 promotes the carcinogenesis of NSCLC by targeting FOXM1 and thus, sponging miR-145. 17 Zeng et al reported that DLX6-AS1 promotes cell proliferation, migration, and invasion of renal cell carcinoma by targeting the miR-26a/PTEN axis. 9 Li et al reported that DLX6-AS1 accelerates glioma tumorigenesis by sponging endogenous miR-197-5p to decrease its targeting of E2F1. 12 In our study, we confirmed that miR-27b-3p was a target of DLX6-AS1. Numerous studies have demonstrated that miR-27b-3p acts as a tumor suppressor in many types of cancers. 18 – 20 Sun et al reported that miR-27b-3p is downregulated in lung cancer tissues and this promotes apoptosis and suppresses cancer cell viability and survival via the downregulation of Fzd7. 21 In our study, miR-27b-3p was also shown to be downregulated in NSCLC tissues and its expression was negatively correlated with DLX6-AS1 expression. Furthermore, miR-27b-3p mimics reversed the antitumor effects of DLX6-AS1 on NSCLC. GSPT1 has been reported as an oncogene in gastric cancer, 22 colorectal cancer, 23 and breast cancer. 24 GSPT1 is a GTPase that associates with eukaryotic Release Factor 1 (eRF1) in a complex mediates that translation termination. 24 GSPT1 has been shown to play several roles in critical cellular processes such as cell cycle regulation, cytoskeleton organization and apoptosis. Sajitha et al reported that nicotine mediated invasion and migration of NSCLC cells by modulating STMN3 and GSPT1. 25 In the present study, GSPT1 was confirmed as the target mRNA of DLX6-AS1 and its expression was negatively correlated with miR-27b-3p expression in NSCLC samples. GSPT1 expression was significantly decreased in NSCLC cells after siDLX6-AS1 transfection. These results demonstrated that DLX6-AS1 exerted its tumorigenesis role by targeting miR-27b-3p/GSPT1.
+31190891_26020	239	246	lncRNAs	Biomarker	D062085
+31190891_26020	239	246	lncRNAs	Rna-noncoding	family:788
+31190891_26020	282	288	cancer	Disease	DOID:162
+31190891_26020	390	429	prostate cancer-associated transcript 7	Biomarker	C000622123
+31190891_26020	390	429	prostate cancer-associated transcript 7	Rna-noncoding	HGNC:48824
+31190891_26020	431	436	PCAT7	Rna-noncoding	HGNC:48824
+31190891_26020	478	488	miR-134-5p	Rna-noncoding	HGNC:31519
+31190891_26020	492	497	NSCLC	Disease	DOID:3908
+31190891_26020	547	556	LINC00339	Biomarker	C000629299
+31190891_26020	547	556	LINC00339	Rna-noncoding	HGNC:25011
+31190891_26020	588	593	NSCLC	Disease
+31190891_26020	607	612	FOXM1	Gene-protein	HGNC:3818
+31190891_26020	632	639	miR-145	Rna-noncoding	HGNC:31532
+31190891_26020	669	677	DLX6-AS1	Biomarker
+31190891_26020	669	677	DLX6-AS1	Rna-noncoding	HGNC:37151
+31190891_26020	734	754	renal cell carcinoma	Disease	DOID:4450
+31190891_26020	772	779	miR-26a	Rna-noncoding	not found
+31190891_26020	780	784	PTEN	Gene-protein	HGNC:9588
+31190891_26020	816	824	DLX6-AS1	Biomarker
+31190891_26020	816	824	DLX6-AS1	Rna-noncoding
+31190891_26020	837	843	glioma	Disease	D005910
+31190891_26020	881	891	miR-197-5p	Rna-noncoding	HGNC:31569
+31190891_26020	921	925	E2F1	Gene-protein	HGNC:3113
+31190891_26020	962	972	miR-27b-3p	Rna-noncoding	HGNC:31614
+31190891_26020	989	997	DLX6-AS1	Rna-noncoding
+31190891_26020	1039	1049	miR-27b-3p	Rna-noncoding
+31190891_26020	1094	1101	cancers	Disease	DOID:162
+31190891_26020	1135	1145	miR-27b-3p	Rna-noncoding
+31190891_26020	1135	1162	miR-27b-3p is downregulated	Biomarker
+31190891_26020	1166	1177	lung cancer	Disease	DOID:1324
+31190891_26020	1229	1235	cancer	Disease
+31190891_26020	1290	1294	Fzd7	Gene-protein	HGNC:4045
+31190891_26020	1313	1323	miR-27b-3p	Rna-noncoding
+31190891_26020	1313	1358	miR-27b-3p was also shown to be downregulated	Biomarker
+31190891_26020	1362	1367	NSCLC	Disease
+31190891_26020	1426	1434	DLX6-AS1	Rna-noncoding
+31190891_26020	1426	1445	DLX6-AS1 expression	Biomarker
+31190891_26020	1460	1470	miR-27b-3p	Rna-noncoding
+31190891_26020	1460	1477	miR-27b-3p mimics	Drug	not found
+31190891_26020	1512	1520	DLX6-AS1	Rna-noncoding
+31190891_26020	1512	1520	DLX6-AS1	Drug	not found
+31190891_26020	1524	1529	NSCLC	Disease
+31190891_26020	1531	1536	GSPT1	Gene-protein	HGNC:4621
+31190891_26020	1573	1587	gastric cancer	Disease	DOID:10534
+31190891_26020	1592	1609	colorectal cancer	Disease	DOID:9256
+31190891_26020	1618	1631	breast cancer	Disease	DOID:1612
+31190891_26020	1636	1641	GSPT1	Gene-protein
+31190891_26020	1647	1653	GTPase	Genefamily	not found
+31190891_26020	1675	1702	eukaryotic Release Factor 1	Gene-protein	HGNC:3477
+31190891_26020	1704	1708	eRF1	Gene-protein	HGNC:3477
+31190891_26020	1765	1770	GSPT1	Gene-protein
+31190891_26020	1939	1947	nicotine	Drug	D009538
+31190891_26020	1983	1988	NSCLC	Disease
+31190891_26020	2009	2014	STMN3	Gene-protein	HGNC:15926
+31190891_26020	2019	2024	GSPT1	Gene-protein
+31190891_26020	2051	2056	GSPT1	Gene-protein
+31190891_26020	2051	2056	GSPT1	Biomarker	C087971
+31190891_26020	2093	2101	DLX6-AS1	Rna-noncoding
+31190891_26020	2152	2162	miR-27b-3p	Rna-noncoding
+31190891_26020	2152	2162	miR-27b-3p	Biomarker	C000711187
+31190891_26020	2177	2182	NSCLC	Disease
+31190891_26020	2192	2197	GSPT1	Gene-protein
+31190891_26020	2192	2236	GSPT1 expression was significantly decreased	Biomarker
+31190891_26020	2240	2245	NSCLC	Disease
+31190891_26020	2258	2268	siDLX6-AS1	Rna-noncoding	not found
+31190891_26020	2315	2323	DLX6-AS1	Rna-noncoding
+31190891_26020	2368	2378	miR-27b-3p	Rna-noncoding
+31190891_26020	2379	2384	GSPT1	Gene-protein
+

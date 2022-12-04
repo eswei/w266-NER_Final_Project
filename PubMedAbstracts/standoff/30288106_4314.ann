@@ -1,0 +1,41 @@
+T0	Disease 112 117	tumor
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 173 197	squamous cervical cancer
+#2	AnnotatorNotes T1	DOID:3744
+T11	Disease 881 896	cervical cancer
+#3	AnnotatorNotes T11	DOID:4362
+T12	Disease 983 1007	squamous cervical cancer
+T13	CellLine 1079 1083	SiHa
+T15	CellLine 1085 1090	C-33A
+T19	Disease 1228 1252	squamous cervical cancer
+T20	Drug 1344 1353	cisplatin
+T5	Disease 343 348	tumor
+T6	Disease 371 376	tumor
+T7	Disease 455 482	cervical squamous carcinoma
+#13	AnnotatorNotes T7	DOID:3744
+T9	Disease 751 775	squamous cervical cancer
+T4	Gene-Protein 83 88	S100A
+#5	AnnotatorNotes T4	HGNC:10486
+T2	Drug-Class 229 269	cisplatin-based neoadjuvant chemotherapy
+T3	Gene-Protein 314 320	S100A9
+#6	AnnotatorNotes T3	HGNC:10499
+T8	Drug-Class 389 401	chemotherapy
+T10	Gene-Protein 828 834	S100A9
+T14	Gene-Protein 1207 1213	S100A9
+T17	Gene-Protein 1316 1322	S100A9
+T18	Gene-Protein 1129 1135	S100A9
+T21	Gene-Protein 697 703	S100A9
+T22	Gene-Protein 566 572	S100A9
+T23	Drug-Class 521 538	chemoradiotherapy
+T16	CellLine 1092 1097	CaSki
+T24	CellLine 1103 1108	MS751
+T25	CellLine 1182 1186	SiHa
+#4	AnnotatorNotes T20	CHEMBL11359
+T26	Biomarker 1207 1213	S100A9
+T27	MicroOrganism 1046 1066	human papillomavirus
+T28	Drug-Class 142 154	chemotherapy
+T29	Biomarker 697 703	S100A9
+R1	Association Arg1:T26 Arg2:T19	
+T30	Biomarker 545 572	negative staining of S100A9
+R2	Prognostic-Poor Arg1:T30 Arg2:T7	
+#7	AnnotatorNotes T29	C000628744

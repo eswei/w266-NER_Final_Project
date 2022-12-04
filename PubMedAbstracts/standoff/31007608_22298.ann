@@ -1,0 +1,80 @@
+T0	RNA-Noncoding 63 72	LINC00221
+T1	RNA-Noncoding 181 190	LINC00221
+T11	RNA-Noncoding 550 559	LINC00221
+T13	Disease 578 591	breast cancer
+#4	AnnotatorNotes T13	DOID:1612
+T14	Disease 693 706	breast cancer
+T15	RNA-Noncoding 743 752	LINC00221
+T17	Disease 772 786	gastric cancer
+#7	AnnotatorNotes T17	DOID:10534
+T2	Disease 300 303	HCC
+T23	Disease 935 949	gastric cancer
+T24	RNA-Noncoding 982 991	LINC00221
+T26	Disease 1045 1059	gastric cancer
+T28	RNA-Noncoding 1102 1111	LINC00221
+T29	Disease 1146 1160	gastric cancer
+T30	RNA-Noncoding 1192 1201	LINC00221
+T32	Disease 1256 1286	muscle-invasive bladder cancer
+#15	AnnotatorNotes T32	DOID:11054
+T34	Disease 1366 1396	muscle-invasive bladder cancer
+T35	RNA-Noncoding 1432 1441	LINC00221
+T37	Disease 1474 1477	HCC
+T39	RNA-Noncoding 1546 1555	LINC00221
+T4	RNA-Noncoding 363 372	LINC00221
+T40	Disease 1610 1613	HCC
+T41	RNA-Noncoding 1639 1648	LINC00221
+T46	Disease 1753 1756	HCC
+T7	RNA-Noncoding 460 469	LINC00221
+T9	Disease 512 517	tumor
+#27	AnnotatorNotes T9	DOID:162
+#1	AnnotatorNotes T0	 HGNC:20169
+#2	AnnotatorNotes T2	DOID:684
+T3	RNA-Noncoding 163 169	MYCNOS
+#3	AnnotatorNotes T3	HGNC:16911
+T8	RNA-Noncoding 171 179	DLX6-AS1
+#5	AnnotatorNotes T8	HGNC:37151
+T10	RNA-Noncoding 196 201	CRNDE
+#6	AnnotatorNotes T10	HGNC:37078
+T12	Biomarker 550 574	LINC00221 is upregulated
+R1	Association Arg1:T12 Arg2:T13	
+T16	Biomarker 743 768	LINC00221 is dysregulated
+R2	Association Arg1:T16 Arg2:T17	
+T18	RNA-Noncoding 817 827	hsa‑miR‑96
+#8	AnnotatorNotes T18	HGNC:31648
+T19	RNA-Noncoding 829 840	hsa‑miR‑143
+#9	AnnotatorNotes T19	HGNC:31530
+T20	RNA-Noncoding 842 853	hsa‑miR‑204
+#10	AnnotatorNotes T20	HGNC:31582
+T21	RNA-Noncoding 855 866	hsa‑miR‑372
+#11	AnnotatorNotes T21	HGNC:31786
+T22	RNA-Noncoding 868 879	hsa‑miR‑373
+#12	AnnotatorNotes T22	HGNC:31787
+T25	RNA-Noncoding 884 896	hsa‑miR‑519d
+T27	Biomarker 349 391	expression of LINC00221 is 2.4-fold higher
+T31	Disease 395 419	high-risk neuroblastomas
+R3	Association Arg1:T27 Arg2:T31	
+T5	Disease 428 451	low-risk neuroblastomas
+T6	Biomarker 460 469	LINC00221
+R4	Association Arg1:T6 Arg2:T9	
+T33	Biomarker 982 991	LINC00221
+R5	Prognostic-Poor Arg1:T33 Arg2:T26	
+T36	Biomarker 1068 1111	11‑lncRNA signature consisting of LINC00221
+R6	Association Arg1:T36 Arg2:T29	
+T38	Biomarker 1192 1201	LINC00221
+R7	Association Arg1:T38 Arg2:T32	
+T42	Biomarker 1432 1470	LINC00221 expression is 77-fold higher
+R8	Association Arg1:T42 Arg2:T37	
+T43	Biomarker 1522 1555	Increased expression of LINC00221
+R9	Prognostic-Poor Arg1:T43 Arg2:T40	
+T44	RNA-Noncoding 1686 1697	hsa-miR-182
+#13	AnnotatorNotes T44	HGNC:31553
+T45	RNA-Noncoding 1702 1712	hsa-miR-96
+#14	AnnotatorNotes T45	HGNC:31648
+#16	AnnotatorNotes T31	not found
+#17	AnnotatorNotes T5	not found
+T47	RNA-Noncoding 263 265	it
+T48	Biomarker 263 265	it
+T49	Pronoun 263 265	it
+T50	Biomarker 181 190	LINC00221
+R10	Refers-To Arg1:T49 Arg2:T50	
+R11	Association Arg1:T48 Arg2:T2	

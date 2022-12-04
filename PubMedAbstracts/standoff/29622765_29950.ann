@@ -1,0 +1,75 @@
+T0	Disease 91 100	N3 tumors
+T10	Disease 320 346	esophageal adenocarcinomas
+#2	AnnotatorNotes T10	DOID:4914
+T11	Disease 460 466	cancer
+#3	AnnotatorNotes T11	DOID:162
+T12	Disease 558 562	DGCs
+#4	AnnotatorNotes T12	DOID:0080763
+T14	Disease 750 757	cancers
+#6	AnnotatorNotes T14	DOID:162
+T17	Disease 861 876	gastric cancers
+#8	AnnotatorNotes T17	DOID:10534
+T20	Disease 1032 1055	fibromuscular dysplasia
+#9	AnnotatorNotes T20	D005352
+T21	Disease 1063 1093	short-rib polydactyly syndrome
+#10	AnnotatorNotes T21	 D012779
+T22	Disease 1111 1117	cancer
+T25	Disease 1438 1440	GC
+T26	Disease 1516 1518	GC
+T28	Disease 1656 1658	GC
+T31	Disease 1769 1772	DGC
+T4	Disease 209 218	N0 tumors
+#19	AnnotatorNotes T4	not found
+T6	Biomarker 228 300	Recurrent T > G mutations at TpT dinucleotides converting CpTpT to CpGpT
+#1	AnnotatorNotes T0	not found
+T1	Biomarker 120 199	mutation signature 17 with frequent T > C and T > G mutations at the CpTpT site
+R1	Association Arg1:T1 Arg2:T0	
+T2	Disease 354 357	GCs
+#12	AnnotatorNotes T2	DOID:10534
+T3	Collection 320 357	esophageal adenocarcinomas ⁴² and GCs
+R2	Association Arg1:T6 Arg2:T3	
+T5	Gene-Protein 480 484	TP53
+#14	AnnotatorNotes T5	 HGNC:11998
+T7	Gene-Protein 486 492	ARID1A
+#15	AnnotatorNotes T7	HGNC:11110
+T8	Gene-Protein 494 499	NCOR2
+#16	AnnotatorNotes T8	HGNC:7673
+T9	Gene-Protein 505 509	RHOA
+#18	AnnotatorNotes T9	HGNC:667
+T15	Biomarker 512 538	Frequent mutations of TP53
+T18	Gene-Protein 534 538	TP53
+T19	Gene-Protein 564 570	ARID1A
+R3	Association Arg1:T15 Arg2:T12	
+T13	Drug 564 570	ARID1A
+#5	AnnotatorNotes T13	C112476
+R4	Response Arg1:T13 Arg2:T14	
+T16	Biomarker 773 827	inactivating mutations or protein deficiency of ARID1A
+T27	Gene-Protein 821 827	ARID1A
+#7	AnnotatorNotes T27	HGNC:11110
+R5	Association Arg1:T16 Arg2:T17	
+T29	Gene-Protein 914 921	DYNC2H1
+#20	AnnotatorNotes T29	HGNC:2962
+T32	Biomarker 902 921	mutation of DYNC2H1
+T33	Biomarker 966 986	Mutations of DYNC2H1
+T34	Gene-Protein 979 986	DYNC2H1
+T35	Collection 1032 1093	fibromuscular dysplasia ⁴⁵ and short-rib polydactyly syndrome
+R6	Association Arg1:T33 Arg2:T35	
+T23	Gene-Protein 1300 1304	TP53
+T36	Gene-Protein 1309 1313	FAT4
+#11	AnnotatorNotes T36	HGNC:23109
+T37	Gene-Protein 1316 1320	FAT4
+T24	Biomarker 1316 1320	FAT4
+#13	AnnotatorNotes T24	C534294
+R7	Association Arg1:T24 Arg2:T25	
+#21	AnnotatorNotes T25	DOID:10534
+T39	Gene-Protein 1455 1459	FAT4
+T40	Biomarker 1554 1587	downregulation of FAT4 expression
+T41	Gene-Protein 1572 1576	FAT4
+R9	Prognostic-Poor Arg1:T40 Arg2:T28	
+T30	Biomarker 1695 1742	differential mutations between N0 and N3 tumors
+R10	Association Arg1:T30 Arg2:T31	
+#17	AnnotatorNotes T31	DOID:0080763
+T38	Collection 480 509	TP53, ARID1A, NCOR2, and RHOA
+T42	Variant 382 417	significantly deleterious mutations
+R8	Variant-Of Arg1:T38 Arg2:T42	
+R11	Association Arg1:T42 Arg2:T11	

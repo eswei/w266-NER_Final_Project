@@ -1,0 +1,41 @@
+29475895_42052|t|RSS_IDENT_p_29475895_b_1_4_8
+29475895_42052|a| Moreover, a significantly higher concentration of t-PA in patients with expression of Ki67 higher than 15% in relation to patients with Ki67 antigen below 14%, notwithstanding this relationship was obtained only in the study group without comorbidities. Ki67 is a proliferative activity marker applied as a marker of tumour aggressiveness and is in use to predict prognosis. Ki67 expression above 15% indicates a high mitotic index, being the percentage of cells that are in the mitosis phase, which in BrCa patients is an unfavourable factor. The potential of Ki67 expression demonstrates the tumour proliferation rate and correlates with the initiation, progression, metastasis and prognosis of BrCa [ 21 ]. t-PA leads to the development of metastasis through proteolytic degradation of the extracellular matrix. It is known that t-PA induces proliferation in a wide variety of cell types [ 19 ], including BrCa cells. Furthermore, according to clinical classification of the tumour, a significantly higher concentration of t-PA in patients with pT2 BrCa in relation to pT1 cases was noted, which is in line with Baluka et al. [ 19 ]. They observed higher t-PA concentrations in tissue homogenates in pancreatic cancer depending on the T (TNM) stage [ 19 ]. Taken together, those observations can be negative indicators due to the fact that t-PA is involved not only in the dissolution of cross-linked plasma fibrin, but also in extravascular proteolysis and tissue remodelling resulting in a pro-angiogenic profile enabling tumour invasion, cancer cell migration and spreading. Additionally, t-PA may indicate on metastatic phenotype and increased proliferation of tumour cells. All of these alterations directly contribute to enhanced cancer growth and aggressiveness [ 19 ]. A higher level of t-PA is related to poor prognosis in patients with BrCa. 
+29475895_42052	80	84	t-PA	Gene-protein	HGNC:9051
+29475895_42052	116	120	Ki67	Gene-protein	HGNC:7107
+29475895_42052	166	170	Ki67	Gene-protein
+29475895_42052	284	288	Ki67	Gene-protein
+29475895_42052	284	288	Ki67	Biomarker	C000628856
+29475895_42052	347	353	tumour	Disease	DOID:162
+29475895_42052	405	409	Ki67	Gene-protein
+29475895_42052	405	461	Ki67 expression above 15% indicates a high mitotic index	Biomarker
+29475895_42052	533	537	BrCa	Disease	DOID:1612
+29475895_42052	591	595	Ki67	Gene-protein
+29475895_42052	591	606	Ki67 expression	Biomarker
+29475895_42052	624	630	tumour	Disease
+29475895_42052	624	731	tumour proliferation rate and correlates with the initiation, progression, metastasis and prognosis of BrCa	Collection
+29475895_42052	727	731	BrCa	Disease
+29475895_42052	740	744	t-PA	Gene-protein
+29475895_42052	862	866	t-PA	Gene-protein
+29475895_42052	862	866	t-PA	Biomarker	C067262
+29475895_42052	939	943	BrCa	Disease
+29475895_42052	1008	1014	tumour	Disease
+29475895_42052	1016	1060	a significantly higher concentration of t-PA	Biomarker
+29475895_42052	1056	1060	t-PA	Gene-protein
+29475895_42052	1078	1086	pT2 BrCa	Disease
+29475895_42052	1181	1207	higher t-PA concentrations	Biomarker
+29475895_42052	1188	1192	t-PA	Gene-protein
+29475895_42052	1233	1250	pancreatic cancer	Disease	DOID:1793
+29475895_42052	1373	1377	t-PA	Gene-protein
+29475895_42052	1373	1377	t-PA	Biomarker
+29475895_42052	1441	1447	fibrin	Gene-protein	not found
+29475895_42052	1557	1563	tumour	Disease
+29475895_42052	1557	1580	tumour invasion, cancer	Collection
+29475895_42052	1574	1580	cancer	Disease	DOID:162
+29475895_42052	1625	1629	t-PA	Gene-protein
+29475895_42052	1625	1629	t-PA	Biomarker
+29475895_42052	1698	1704	tumour	Disease
+29475895_42052	1769	1775	cancer	Disease
+29475895_42052	1812	1832	higher level of t-PA	Biomarker
+29475895_42052	1828	1832	t-PA	Gene-protein
+29475895_42052	1879	1883	BrCa	Disease
+

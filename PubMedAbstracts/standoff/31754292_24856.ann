@@ -1,0 +1,67 @@
+T11	Disease 477 503	non-small cell lung cancer
+#2	AnnotatorNotes T11	DOID:3908
+T15	Disease 609 626	pancreatic cancer
+#4	AnnotatorNotes T15	DOID:1793
+T17	Disease 705 722	pancreatic cancer
+T18	CellLine 748 752	HPDE
+T2	Disease 111 118	cancers
+#7	AnnotatorNotes T2	DOID:162
+T20	Disease 1360 1377	pancreatic cancer
+T21	Disease 1398 1417	subcutaneous tumors
+#9	AnnotatorNotes T21	DOID:162
+T22	Disease 1533 1550	pancreatic cancer
+T3	Disease 123 157	esophageal squamous cell carcinoma
+#11	AnnotatorNotes T3	DOID:7051
+T6	Disease 253 257	ESCC
+T8	Disease 296 309	breast cancer
+#13	AnnotatorNotes T8	DOID:1612
+T4	RNA-Noncoding 30 37	MiR-30c
+#6	AnnotatorNotes T4	family:1741
+T5	RNA-Noncoding 173 180	miR-30c
+#12	AnnotatorNotes T5	family:1741
+T7	RNA-Noncoding 311 321	micRNA-30c
+#3	AnnotatorNotes T7	family:1741
+T9	GeneFamily 582 589	miR-30c
+T10	RNA-Noncoding 440 449	MiRNA-30c
+#5	AnnotatorNotes T10	family:1741
+T12	Gene-Protein 523 528	Rab18
+#14	AnnotatorNotes T12	HGNC:14244
+T13	RNA-Noncoding 671 678	miR-30c
+T14	RNA-Noncoding 848 855	miR-30c
+T1	RNA-Noncoding 1028 1035	miR-30c
+T16	Gene-Protein 1051 1055	TWF1
+#1	AnnotatorNotes T16	HGNC:9620
+T19	RNA-Noncoding 1112 1119	miR-30c
+T23	Gene-Protein 1079 1083	TWF1
+T24	Gene-Protein 1192 1196	TWF1
+T25	RNA-Noncoding 1241 1248	miR-30c
+T26	RNA-Noncoding 1342 1351	miRNA-30c
+T27	Gene-Protein 1275 1279	TWF1
+T28	Gene-Protein 1506 1510	TWF1
+T29	RNA-Noncoding 1460 1467	miR-30c
+T30	Biomarker 30 99	MiR-30c has been identified to be tumor suppressive and downregulated
+R1	Association Arg1:T30 Arg2:T2	
+T31	Gene-Protein 280 285	SNAI1
+#8	AnnotatorNotes T31	HGNC:11128
+#15	AnnotatorNotes T6	DOID:7051
+T32	Biomarker 159 180	downregulated miR-30c
+T33	Gene-Protein 343 384	collagen triple helix repeat containing-1
+#16	AnnotatorNotes T33	HGNC:18831
+R2	Association Arg1:T32 Arg2:T3	
+T34	Drug 311 321	micRNA-30c
+#17	AnnotatorNotes T34	C546086
+T35	Drug 440 449	MiRNA-30c
+#18	AnnotatorNotes T35	C546086
+R3	Response Arg1:T34 Arg2:T8	
+T36	Biomarker 564 589	downregulation of miR-30c
+R4	Response Arg1:T35 Arg2:T11	
+R5	Prognostic-Poor Arg1:T36 Arg2:T15	
+T37	Biomarker 671 696	miR-30c was downregulated
+R6	Association Arg1:T37 Arg2:T17	
+T38	Drug 831 855	re-expression of miR-30c
+#19	AnnotatorNotes T38	not found
+T39	Biomarker 1174 1196	overexpression of TWF1
+T40	Biomarker 1333 1351	level of miRNA-30c
+T41	Biomarker 1275 1290	TWF1 mRNA level
+T42	Drug 1460 1467	miR-30c
+R7	Response Arg1:T42 Arg2:T22	

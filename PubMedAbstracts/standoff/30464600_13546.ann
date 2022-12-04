@@ -1,0 +1,46 @@
+T1	Disease 156 163	cancers
+#1	AnnotatorNotes T1	DOID:162
+T10	Disease 744 749	tumor
+T11	Disease 844 862	blood malignancies
+#3	AnnotatorNotes T11	DOID:2531
+T13	Disease 985 988	AML
+#4	AnnotatorNotes T13	DOID:9119
+T19	Disease 1542 1545	AML
+T3	Disease 225 239	thyroid cancer
+#7	AnnotatorNotes T3	DOID:1781
+T4	Disease 338 352	thyroid cancer
+T6	Disease 427 451	hepatocellular carcinoma
+#9	AnnotatorNotes T6	DOID:684
+T7	Disease 494 499	tumor
+#10	AnnotatorNotes T7	DOID:162
+T9	Disease 667 691	hepatocellular carcinoma
+T2	RNA-Noncoding 79 85	PANDAR
+#5	AnnotatorNotes T2	HGNC:44048
+T5	RNA-Noncoding 112 118	PANDAR
+T8	Biomarker 112 118	PANDAR
+#12	AnnotatorNotes T8	C000612163
+R1	Association Arg1:T8 Arg2:T1	
+T12	RNA-Noncoding 199 205	PANDAR
+T14	Biomarker 199 221	PANDAR was upregulated
+R2	Association Arg1:T14 Arg2:T3	
+T15	Biomarker 397 423	expression level of PANDAR
+T17	RNA-Noncoding 417 423	PANDAR
+T18	Biomarker 555 579	overexpression of PANDAR
+T20	RNA-Noncoding 573 579	PANDAR
+R4	Prognostic-Poor Arg1:T18 Arg2:T9	
+T21	Biomarker 810 827	PANDAR expression
+T22	RNA-Noncoding 810 816	PANDAR
+T23	Biomarker 929 954	high expression of PANDAR
+T24	RNA-Noncoding 948 954	PANDAR
+R6	Prognostic-Poor Arg1:T23 Arg2:T13	
+T25	RNA-Noncoding 999 1005	PANDAR
+T26	RNA-Noncoding 1169 1175	PANDAR
+T27	Biomarker 1169 1186	PANDAR expression
+T28	Biomarker 1315 1342	higher expression of PANDAR
+T29	RNA-Noncoding 1336 1342	PANDAR
+T30	Biomarker 1468 1495	increased PANDAR expression
+T31	RNA-Noncoding 1478 1484	PANDAR
+R7	Risk-Factor Arg1:T30 Arg2:T19	
+T16	Biomarker 486 506	size of tumor nodule
+T32	Biomarker 508 525	vascular invasion
+T33	Biomarker 531 540	TNM stage

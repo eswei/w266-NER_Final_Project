@@ -1,0 +1,61 @@
+T0	Disease 203 216	breast cancer
+#1	AnnotatorNotes T0	DOID:1612
+T1	Drug 355 364	cisplatin
+T2	Disease 484 498	gastric cancer
+#3	AnnotatorNotes T2	DOID:10534
+T3	Disease 612 625	neuroblastoma
+#4	AnnotatorNotes T3	DOID:769
+T4	Disease 847 873	inflammatory breast cancer
+#5	AnnotatorNotes T4	DOID:6263
+T5	Disease 1165 1183	pancreatic cancers
+#6	AnnotatorNotes T5	DOID:1793
+T6	Drug 1238 1247	cisplatin
+T8	Disease 1445 1452	cancers
+#9	AnnotatorNotes T8	DOID:162
+T9	RNA-Noncoding 103 113	miR-485-5p
+#2	AnnotatorNotes T9	HGNC:32067
+T10	RNA-Noncoding 267 277	miR-485-5p
+T11	RNA-Noncoding 392 402	miR-485-5p
+T12	RNA-Noncoding 1337 1347	miR-485-5p
+T13	Drug 103 113	miR-485-5p
+#7	AnnotatorNotes T13	C556501
+R1	Response Arg1:T13 Arg2:T0	
+T14	Gene-Protein 290 294	PAK1
+#10	AnnotatorNotes T14	HGNC:8590
+T15	Drug 267 277	miR-485-5p
+#11	AnnotatorNotes T1	CHEMBL11359
+T16	Biomarker 392 402	miR-485-5p
+#12	AnnotatorNotes T16	C556501
+T17	RNA-Noncoding 533 541	miR-181c
+#13	AnnotatorNotes T17	HGNC:31552
+T18	Gene-Protein 650 655	Smad7
+#14	AnnotatorNotes T18	HGNC:6773
+R2	Prognostic-Good Arg1:T16 Arg2:T2	
+T19	Drug 533 541	miR-181c
+#15	AnnotatorNotes T19	C000608460
+R3	Response Arg1:T19 Arg2:T3	
+T20	RNA-Noncoding 706 714	miR-181c
+T21	Gene-Protein 787 791	PTEN
+#16	AnnotatorNotes T21	HGNC:9588
+T22	Gene-Protein 834 838	PTEN
+T23	CellLine 874 880	SUM149
+T24	Biomarker 706 714	miR-181c
+T25	RNA-Noncoding 914 922	miR-181c
+R4	Association Arg1:T24 Arg2:T4	
+T26	RNA-Noncoding 1352 1360	miR-181c
+T27	RNA-Noncoding 1060 1068	miR-181c
+T28	RNA-Noncoding 1157 1161	GAS5
+#17	AnnotatorNotes T28	HGNC:16355
+T29	Biomarker 1060 1068	miR-181c
+R5	Association Arg1:T29 Arg2:T5	
+R6	Mediator Arg1:T6 Arg2:T29	
+T30	Disease 1251 1277	non-small cell lung cancer
+#18	AnnotatorNotes T30	DOID:3908
+T7	Gene-Protein 1297 1320	Wnt inhibition factor 1
+#8	AnnotatorNotes T7	HGNC:18081
+T31	Gene-Protein 1400 1404	MCAK
+#19	AnnotatorNotes T31	HGNC:6393
+T32	Gene-Protein 1032 1036	Cox1
+#20	AnnotatorNotes T32	HGNC:9604
+R7	Mediated-Non-Response Arg1:T6 Arg2:T30	
+#21	AnnotatorNotes T24	C000608460

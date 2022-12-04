@@ -1,0 +1,124 @@
+T0	Chemical 48 51	LPA
+T10	Biomarker 1042 1065	high expression of ACP6
+T12	Variant 1172 1177	R273H
+T13	Variant 1182 1187	R248Q
+T15	Disease 1236 1240	OvCa
+T17	Biomarker 1384 1412	decreased expression of ACP6
+T18	Disease 1416 1432	p53 mutant tumor
+T19	Biomarker 1468 1484	high ACP6 levels
+T2	Biomarker 264 289	ACP6 was highly expressed
+T20	Chemical 1580 1583	LPA
+T21	Chemical 1612 1633	Lysophosphatidic acid
+T22	Chemical 1635 1638	LPA
+T23	Chemical 1676 1699	lysophosphatidylcholine
+T24	Chemical 1701 1704	LPC
+T25	Chemical 1707 1728	Lysophosphatidic acid
+T26	Chemical 1766 1769	LPA
+T27	Chemical 1773 1789	monoacylglycerol
+T28	Chemical 1791 1794	MAG
+T29	Chemical 1800 1819	inorganic phosphate
+T3	Disease 365 379	ovarian cancer
+#17	AnnotatorNotes T3	DOID:2394
+T30	Disease 1971 1985	ovarian tumors
+#18	AnnotatorNotes T30	DOID:2394
+T32	Disease 1987 1991	OvTu
+T33	Variant 2122 2127	R273H
+T34	Disease 2241 2246	tumor
+#21	AnnotatorNotes T34	DOID:162
+T36	Variant 2330 2335	R248Q
+T38	Variant 2448 2453	R175H
+T39	Variant 2455 2460	R249S
+T4	Variant 422 427	R273H
+T40	Variant 2465 2470	R273H
+T5	Chemical 451 454	LPA
+T6	Chemical 513 516	LPA
+T7	Variant 721 726	R273H
+T8	Chemical 758 761	LPA
+T9	Disease 954 970	p53 mutant tumor
+#26	AnnotatorNotes T9	not found
+T1	Gene-Protein 207 211	ACP6
+#1	AnnotatorNotes T1	HGNC:29609
+T41	Gene-Protein 264 268	ACP6
+T42	Gene-Protein 428 431	p53
+#2	AnnotatorNotes T42	HGNC:11998
+R1	Variant-Of Arg1:T42 Arg2:T4	
+#5	AnnotatorNotes T4	p.Arg273His
+T43	Gene-Protein 494 497	ATX
+#7	AnnotatorNotes T43	HGNC:3357
+T44	Gene-Protein 499 503	ACP6
+T45	GeneFamily 513 529	LPA phosphatases
+#8	AnnotatorNotes T45	not found
+T46	Gene-Protein 591 594	p53
+T47	CellLine 595 599	FTEC
+T48	Gene-Protein 601 605	ACP6
+T49	Biomarker 601 658	ACP6 RNA and protein expression was significantly reduced
+T50	Biomarker 662 672	mutant p53
+T51	Gene-Protein 669 672	p53
+T52	Gene-Protein 686 689	ATX
+T53	Gene-Protein 727 730	p53
+R2	Variant-Of Arg1:T53 Arg2:T7	
+T54	GeneFamily 758 774	LPA phosphatases
+T55	Gene-Protein 784 788	LPP1
+#9	AnnotatorNotes T55	HGNC:9228
+T56	Gene-Protein 790 794	LPP2
+#10	AnnotatorNotes T56	HGNC:9230
+T57	Gene-Protein 799 803	LPP3
+#11	AnnotatorNotes T57	HGNC:9229
+T58	Gene-Protein 831 834	p53
+T59	Gene-Protein 899 903	ACP6
+T60	Gene-Protein 908 911	p53
+T61	Biomarker 918 946	decreased expression of ACP6
+T62	Gene-Protein 942 946	ACP6
+T63	Gene-Protein 954 957	p53
+R3	Association Arg1:T61 Arg2:T9	
+T64	Gene-Protein 1061 1065	ACP6
+T65	Gene-Protein 1102 1105	p53
+T66	Biomarker 1095 1105	mutant p53
+T67	Gene-Protein 1117 1121	ACP6
+#3	AnnotatorNotes T13	p.Arg248Gln
+T14	Collection 1172 1187	R273H and R248Q
+R4	Variant-Of Arg1:T65 Arg2:T14	
+T16	Biomarker 1313 1326	p53 mutations
+T68	Gene-Protein 1313 1316	p53
+R5	Association Arg1:T17 Arg2:T18	
+T69	Gene-Protein 1408 1412	ACP6
+T70	Gene-Protein 1416 1419	p53
+T71	Gene-Protein 1473 1477	ACP6
+T72	Biomarker 1559 1569	Mutant p53
+T73	Gene-Protein 1566 1569	p53
+T74	Gene-Protein 1602 1606	ACP6
+T75	Gene-Protein 1655 1664	autotaxin
+#4	AnnotatorNotes T75	HGNC:3357
+T76	Gene-Protein 1666 1669	ATX
+T77	Gene-Protein 1707 1747	Lysophosphatidic acid phosphatase type 6
+#6	AnnotatorNotes T77	HGNC:29609
+T78	Gene-Protein 1749 1753	ACP6
+T79	Chemical 1821 1823	Pᵢ
+T80	Gene-Protein 1845 1849	ACP6
+#12	AnnotatorNotes T32	DOID:2394
+T31	Gene-Protein 2072 2076	ACP6
+T81	Gene-Protein 2191 2195	ACP6
+T82	Gene-Protein 2206 2209	p53
+T35	Gene-Protein 2336 2339	p53
+R6	Variant-Of Arg1:T35 Arg2:T36	
+T37	Gene-Protein 2377 2380	p53
+T83	Gene-Protein 2362 2366	ACP6
+T84	Gene-Protein 2394 2398	ACP6
+T85	Gene-Protein 2435 2438	p53
+T87	Gene-Protein 2471 2474	p53
+T88	Collection 2448 2470	R175H, R249S and R273H
+#13	AnnotatorNotes T38	p.Arg175His
+#14	AnnotatorNotes T39	p.Arg249Ser
+R7	Variant-Of Arg1:T87 Arg2:T88	
+T90	Disease 237 254	malignant ovarian
+#15	AnnotatorNotes T90	DOID:2394
+T91	Biomarker 207 222	ACP6 expression
+T92	Disease 1150 1161	serous OvCa
+#16	AnnotatorNotes T92	DOID:0050933
+#19	AnnotatorNotes T15	DOID:2394
+T11	Disease 1282 1287	HGSOC
+T93	Gene-Protein 1946 1950	ACP6
+T94	Gene-Protein 2128 2131	p53
+R8	Variant-Of Arg1:T94 Arg2:T33	
+T86	Disease 2312 2317	HGSOC
+#20	AnnotatorNotes T86	not found

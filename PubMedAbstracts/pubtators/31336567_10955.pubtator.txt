@@ -1,0 +1,58 @@
+31336567_10955|t|RSS_IDENT_p_31336567_b_1_3_3
+31336567_10955|a| Recent reports have shown TMAO to be an independent risk factor for cardiovascular disease (CVD) and established the close relationship between TMAO and CVD progression [ 4 ]. Elevated levels of TMAO are shown to promote vascular inflammation and oxidative stress, leading to atherosclerosis [ 32 , 33 , 34 ]. TMAO was also shown to promote heart failure in pressure overload-induced heart failure [ 34 ]. Endothelial dysfunction is a hallmark of vascular damage, leading to the development of atherosclerosis resulting in CVD, and is considered as an early marker for atherosclerosis. Circulating TMAO levels were shown to enhance vascular inflammation and oxidative stress and contribute to endothelial dysfunction in aged rats [ 2 ]. In addition, TMAO was shown to contribute to endothelial dysfunction via inhibiting eNOS expression and reducing NO production [ 9 , 16 , 32 , 33 ]. Both in in vivo and in vitro studies in vascular endothelium and smooth muscle cells, physiological levels of TMAO are shown to induce expression of cytokines and adhesion molecules, resulting in leukocyte recruitment and atherosclerosis. Previous work from our group has also explored the role of TMAO associated endothelial dysfunction via NLRP3 inflammasomes, suggesting the important role of TMAO in CVD progression [ 35 ]. However, the exact mechanisms for TMAO associated endothelial dysfunction resulting in cardiovascular diseases are still unclear. In this regard, the present study for the first time found that TMAO upregulated HMGB1 expression, and such increased HMGB1 contributes to the TMAO associated endothelial dysfunction. 
+31336567_10955	56	60	TMAO	Chemical
+31336567_10955	56	60	TMAO	Biomarker	C005855
+31336567_10955	98	120	cardiovascular disease	Disease	DOID:1287
+31336567_10955	122	125	CVD	Disease	DOID:1287
+31336567_10955	174	178	TMAO	Chemical
+31336567_10955	174	178	TMAO	Biomarker
+31336567_10955	183	186	CVD	Disease
+31336567_10955	206	229	Elevated levels of TMAO	Biomarker
+31336567_10955	225	229	TMAO	Chemical
+31336567_10955	251	272	vascular inflammation	Disease	not found
+31336567_10955	251	321	vascular inflammation and oxidative stress, leading to atherosclerosis	Collection
+31336567_10955	277	293	oxidative stress	Disease	D018384
+31336567_10955	306	321	atherosclerosis	Disease	DOID:1936
+31336567_10955	340	344	TMAO	Chemical
+31336567_10955	340	344	TMAO	Biomarker
+31336567_10955	371	384	heart failure	Disease	D006333
+31336567_10955	388	427	pressure overload-induced heart failure	Disease	not found
+31336567_10955	436	459	Endothelial dysfunction	Biomarker
+31336567_10955	477	492	vascular damage	Disease	not found
+31336567_10955	477	556	vascular damage, leading to the development of atherosclerosis resulting in CVD	Collection
+31336567_10955	524	539	atherosclerosis	Disease
+31336567_10955	553	556	CVD	Disease
+31336567_10955	599	614	atherosclerosis	Disease
+31336567_10955	616	639	Circulating TMAO levels	Biomarker
+31336567_10955	628	632	TMAO	Chemical
+31336567_10955	662	683	vascular inflammation	Disease	not found
+31336567_10955	662	746	vascular inflammation and oxidative stress and contribute to endothelial dysfunction	Collection
+31336567_10955	688	704	oxidative stress	Disease
+31336567_10955	723	746	endothelial dysfunction	Disease	not found
+31336567_10955	780	784	TMAO	Chemical
+31336567_10955	780	784	TMAO	Biomarker
+31336567_10955	812	835	endothelial dysfunction	Disease	not found
+31336567_10955	851	855	eNOS	Gene-protein	HGNC:7876
+31336567_10955	880	882	NO	Chemical
+31336567_10955	1002	1030	physiological levels of TMAO	Biomarker
+31336567_10955	1026	1030	TMAO	Chemical
+31336567_10955	1065	1074	cytokines	Genefamily	not found
+31336567_10955	1138	1153	atherosclerosis	Disease
+31336567_10955	1214	1218	TMAO	Chemical
+31336567_10955	1214	1253	TMAO associated endothelial dysfunction	Disease	not found
+31336567_10955	1258	1263	NLRP3	Gene-protein	HGNC:16400
+31336567_10955	1312	1316	TMAO	Chemical
+31336567_10955	1312	1316	TMAO	Biomarker	HGNC:16400
+31336567_10955	1320	1323	CVD	Disease
+31336567_10955	1378	1382	TMAO	Chemical
+31336567_10955	1378	1417	TMAO associated endothelial dysfunction	Biomarker
+31336567_10955	1431	1454	cardiovascular diseases	Disease
+31336567_10955	1538	1542	TMAO	Chemical
+31336567_10955	1538	1542	TMAO	Biomarker
+31336567_10955	1543	1571	upregulated HMGB1 expression	Biomarker
+31336567_10955	1555	1560	HMGB1	Gene-protein	HGNC:4983
+31336567_10955	1582	1597	increased HMGB1	Biomarker
+31336567_10955	1592	1597	HMGB1	Gene-protein
+31336567_10955	1617	1621	TMAO	Chemical
+31336567_10955	1617	1656	TMAO associated endothelial dysfunction	Disease	not found
+

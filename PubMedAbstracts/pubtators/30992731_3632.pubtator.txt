@@ -1,0 +1,29 @@
+30992731_3632|t|RSS_IDENT_p_30992731_b_1_1_3
+30992731_3632|a| Ring finger protein 213 (RNF213), especially the mutation of c.14576G>A, was proven to be strongly associated with MMD in Asian population, including Japanese, Korean, and Chinese [ 6 ]. Furthermore, Miyawaki et al. indicated ICASO without signs of MMD (non-MMD ICASO) was also related to the c.14576G>A variant in RNF213 [ 7 , 8 ]. Subsequently, Bang et al. not only repeatedly certified this view in Korean population [ 9 ] but also found that some RNF213 variant-related non-MMD ICASO could develop to MMD during follow-up [ 10 ]. This association of the c.14576G>A variant in RNF213 with non-MMD ICASO also has been proved in Chinese population by our previous study (unpublished data). Some researchers supposed that non-MMD with the c.14576G>A variant may be the MMD in an early stage so that we can differentiate early MMD from ICAD only by using genetic analysis [ 10 ]. However, Bang et al. recently discovered RNF213 is also a susceptibility gene for ICAD, which was confirmed by conventional angiography (absence of basal collaterals) and high-resolution MRI (HR-MRI, presence of plaque) in East Asians [ 11 ]. Therefore, only screening the RNF213 c.14576G>A variant could not accurately differentiate early MMD from atherosclerotic ICASO. 
+30992731_3632	30	53	Ring finger protein 213	Gene-protein	HGNC:14539
+30992731_3632	55	61	RNF213	Gene-protein	HGNC:14539
+30992731_3632	91	101	c.14576G>A	Variant
+30992731_3632	145	148	MMD	Disease	DOID:13099
+30992731_3632	256	261	ICASO	Disease	not found
+30992731_3632	279	282	MMD	Disease
+30992731_3632	284	297	non-MMD ICASO	Disease	not found
+30992731_3632	323	333	c.14576G>A	Variant
+30992731_3632	345	351	RNF213	Gene-protein
+30992731_3632	481	487	RNF213	Gene-protein
+30992731_3632	481	517	RNF213 variant-related non-MMD ICASO	Biomarker
+30992731_3632	535	538	MMD	Disease
+30992731_3632	588	598	c.14576G>A	Variant
+30992731_3632	610	616	RNF213	Gene-protein
+30992731_3632	622	635	non-MMD ICASO	Disease
+30992731_3632	769	779	c.14576G>A	Variant
+30992731_3632	799	802	MMD	Disease
+30992731_3632	856	859	MMD	Disease
+30992731_3632	865	869	ICAD	Disease	DOID:13089
+30992731_3632	950	956	RNF213	Gene-protein
+30992731_3632	950	956	RNF213	Biomarker
+30992731_3632	991	995	ICAD	Disease
+30992731_3632	1182	1188	RNF213	Gene-protein
+30992731_3632	1189	1199	c.14576G>A	Variant
+30992731_3632	1249	1252	MMD	Disease
+30992731_3632	1258	1279	atherosclerotic ICASO	Disease	not found
+

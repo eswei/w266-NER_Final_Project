@@ -1,0 +1,60 @@
+30034315_1488|t|RSS_IDENT_s_30034315_b_1_1
+30034315_1488|a| Introduction Breast cancer (BC) is the most prevalent malignancy in women worldwide with nearly 234,190 new cases in the United States in 2015 (Siegel et al., 2015[ 37 ]). Estrogens have an important role in the development of BC and exert their effects by binding to the estrogen receptor (ER). Two forms of human ER gene have been identified; ERα (Walter et al., 1985[ 39 ]), which was the first to be recognized, and ERβ (Mosselman et al., 1996[ 29 ]). The ERs are expressed in 60-70 % of BCs (Lim et al., 2012[ 25 ]) and ERα seems to be the predominant form (Martin et al., 1991[ 28 ]); therefore, targeting of ER is a suitable strategy for management of ER-positive BCs, and antiestrogens like tamoxifen which are used for BC therapy act through ER targeting. Although most ER-positive BCs initially respond to tamoxifen therapy, tamoxifen-resistant tumors eventually develop (Johnston, 1997[ 18 ]). This is thought to result from growth factor-induced ERα activity through activation of protein kinases resulting in phosphorylation of ERα (Katzenellenbogen et al., 1997[ 20 ]). Serine 118 (Ser118) and 167 (Ser167) are two important residues of ERα which have been indicated to be phosphorylated by mitogen-activated protein kinase/extracellular signal-regulated kinase (MAPK/ERK) and protein kinase B (AKT), respectively, and appear to be mostly related to BC resistance to tamoxifen (de Leeuw et al., 2011[ 12 ]). These residues can also be phosphorylated by several other kinases including CDK7, IKKα, GSK3β, EGFR and RET which have been shown to be responsible for phosphorylation of ERα at Ser118. p90 RSK1, casein kinase II, and RET phosphorylate ERα at Ser167 (Murphy et al., 2011[ 30 ]).
+30034315_1488	41	54	Breast cancer	Disease	DOID:1612
+30034315_1488	56	58	BC	Disease	DOID:1612
+30034315_1488	82	92	malignancy	Disease	DOID:162
+30034315_1488	200	209	Estrogens	Chemical
+30034315_1488	200	209	Estrogens	Biomarker	D004967
+30034315_1488	255	257	BC	Disease
+30034315_1488	300	308	estrogen	Chemical
+30034315_1488	300	317	estrogen receptor	Genefamily	not found
+30034315_1488	319	321	ER	Genefamily	not found
+30034315_1488	343	345	ER	Genefamily
+30034315_1488	373	376	ERα	Gene-protein	HGNC:3467
+30034315_1488	448	451	ERβ	Gene-protein	HGNC:3468
+30034315_1488	488	491	ERs	Genefamily
+30034315_1488	488	516	ERs are expressed in 60-70 %	Biomarker
+30034315_1488	520	523	BCs	Disease	DOID:1612
+30034315_1488	553	556	ERα	Gene-protein
+30034315_1488	630	645	targeting of ER	Drug	not found
+30034315_1488	643	645	ER	Genefamily
+30034315_1488	687	689	ER	Gene-protein	HGNC:3467
+30034315_1488	687	702	ER-positive BCs	Disease	DOID:0060075
+30034315_1488	708	721	antiestrogens	Drug-class
+30034315_1488	727	736	tamoxifen	Drug	CHEMBL83
+30034315_1488	756	758	BC	Disease
+30034315_1488	779	781	ER	Genefamily
+30034315_1488	807	809	ER	Gene-protein
+30034315_1488	807	822	ER-positive BCs	Disease
+30034315_1488	844	853	tamoxifen	Drug
+30034315_1488	863	872	tamoxifen	Drug
+30034315_1488	863	889	tamoxifen-resistant tumors	Disease	not found
+30034315_1488	986	989	ERα	Gene-protein
+30034315_1488	1021	1036	protein kinases	Genefamily	not found
+30034315_1488	1069	1072	ERα	Gene-protein
+30034315_1488	1112	1118	Serine	Chemical
+30034315_1488	1112	1182	Serine 118 (Ser118) and 167 (Ser167) are two important residues of ERα	Biomarker
+30034315_1488	1124	1130	Ser118	Chemical
+30034315_1488	1141	1147	Ser167	Chemical
+30034315_1488	1179	1182	ERα	Gene-protein
+30034315_1488	1233	1265	mitogen-activated protein kinase	Genefamily	family:651
+30034315_1488	1266	1303	extracellular signal-regulated kinase	Genefamily	not found
+30034315_1488	1305	1309	MAPK	Genefamily	family:651
+30034315_1488	1310	1313	ERK	Genefamily	not found
+30034315_1488	1319	1335	protein kinase B	Genefamily	family:1900
+30034315_1488	1337	1340	AKT	Genefamily	family:1900
+30034315_1488	1392	1394	BC	Disease
+30034315_1488	1409	1418	tamoxifen	Drug
+30034315_1488	1527	1531	CDK7	Gene-protein	HGNC:1778
+30034315_1488	1533	1537	IKKα	Gene-protein	HGNC:1974
+30034315_1488	1539	1544	GSK3β	Gene-protein	HGNC:4617
+30034315_1488	1546	1550	EGFR	Gene-protein	HGNC:3236
+30034315_1488	1555	1558	RET	Gene-protein	HGNC:9967
+30034315_1488	1622	1625	ERα	Gene-protein
+30034315_1488	1629	1635	Ser118	Chemical
+30034315_1488	1637	1645	p90 RSK1	Gene-protein	HGNC:10430
+30034315_1488	1647	1663	casein kinase II	Genefamily	not found
+30034315_1488	1669	1672	RET	Gene-protein
+30034315_1488	1687	1690	ERα	Gene-protein
+30034315_1488	1694	1700	Ser167	Chemical
+

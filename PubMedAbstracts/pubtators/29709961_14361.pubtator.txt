@@ -1,0 +1,42 @@
+29709961_14361|t|RSS_IDENT_p_29709961_b_1_3_5
+29709961_14361|a| Considering the clinical course of aceruloplasminemia, anemia and diabetes mellitus are the early clinical signs. In aceruloplasminemia patients, anemia appears as microcytic anemia with decreased serum iron and elevated serum ferritin levels ( 5 ). In patients with iron-deficiency anemia, the screening of the serum ferritin level is crucial. While iron-deficiency anemia results in decreased serum iron and ferritin levels, aceruloplasminemia results in elevated ferritin levels with decreased serum iron levels. In iron overload syndromes, such as aceruloplasminemia, oral iron therapy might therefore accelerate the occurrence of liver damage. Therefore, the screening of the serum ferritin levels is necessary before initiating any therapy for microcytic anemia. Additionally, diabetes mellitus needs insulin for the control of the blood glucose levels, as in insulin-dependent diabetes mellitus ( 10 , 13 , 27 ). Although the combination of several therapies has been used for the treatment of these symptoms, the effectiveness of these therapies has been shown to be poor, as in the case of phlebotomy therapy for liver hemosiderosis. Therefore, it is important to consider the possibility of aceruloplasminemia when encoutering cases with intractable anemia and diabetes mellitus in order to make an early diagnosis. 
+29709961_14361	65	83	aceruloplasminemia	Disease	DOID:0050711
+29709961_14361	85	91	anemia	Disease	DOID:2355
+29709961_14361	96	113	diabetes mellitus	Disease	DOID:9351
+29709961_14361	147	165	aceruloplasminemia	Disease
+29709961_14361	176	182	anemia	Disease
+29709961_14361	194	211	microcytic anemia	Biomarker
+29709961_14361	194	272	microcytic anemia with decreased serum iron and elevated serum ferritin levels	Collection
+29709961_14361	217	237	decreased serum iron	Biomarker
+29709961_14361	233	237	iron	Chemical
+29709961_14361	242	272	elevated serum ferritin levels	Biomarker
+29709961_14361	297	301	iron	Chemical
+29709961_14361	297	319	iron-deficiency anemia	Disease	DOID:11758
+29709961_14361	342	362	serum ferritin level	Biomarker
+29709961_14361	381	385	iron	Chemical
+29709961_14361	381	403	iron-deficiency anemia	Disease
+29709961_14361	415	455	decreased serum iron and ferritin levels	Biomarker
+29709961_14361	431	435	iron	Chemical
+29709961_14361	457	475	aceruloplasminemia	Disease
+29709961_14361	487	511	elevated ferritin levels	Biomarker
+29709961_14361	487	544	elevated ferritin levels with decreased serum iron levels	Collection
+29709961_14361	517	544	decreased serum iron levels	Biomarker
+29709961_14361	533	537	iron	Chemical
+29709961_14361	549	553	iron	Chemical
+29709961_14361	549	572	iron overload syndromes	Disease	not found
+29709961_14361	582	600	aceruloplasminemia	Biomarker	C536004
+29709961_14361	602	619	oral iron therapy	Drug
+29709961_14361	665	677	liver damage	Disease	DOID:3571
+29709961_14361	711	732	serum ferritin levels	Biomarker
+29709961_14361	780	797	microcytic anemia	Disease	DOID:11252
+29709961_14361	813	830	diabetes mellitus	Disease
+29709961_14361	837	844	insulin	Gene-protein	HGNC:6081
+29709961_14361	874	881	glucose	Chemical
+29709961_14361	896	903	insulin	Gene-protein
+29709961_14361	896	931	insulin-dependent diabetes mellitus	Disease	DOID:9744
+29709961_14361	1152	1171	liver hemosiderosis	Disease	not found
+29709961_14361	1231	1249	aceruloplasminemia	Biomarker
+29709961_14361	1278	1296	intractable anemia	Disease	DOID:2355
+29709961_14361	1278	1318	intractable anemia and diabetes mellitus	Collection
+29709961_14361	1301	1318	diabetes mellitus	Disease
+

@@ -1,0 +1,92 @@
+T12	Biomarker 242 250	pruritus
+T14	Biomarker 255 268	malabsorption
+T15	Disease 280 284	PFIC
+T19	Biomarker 381 417	Persistent or repetitive cholestasis
+T2	Disease 39 84	Progressive familial intrahepatic cholestasis
+#8	AnnotatorNotes T2	DOID:0070221
+T21	Disease 435 458	end stage liver disease
+#10	AnnotatorNotes T21	DOID:783
+T24	Disease 489 493	PFIC
+T25	Disease 559 563	PFIC
+T27	Biomarker 601 659	mutations in ATPase class I type 8B member 1 (ATP8B1) gene
+T28	Chemical 679 696	aminophospholipid
+T31	Chemical 810 813	ATP
+T32	Chemical 872 881	bile salt
+T33	Biomarker 914 995	Mutations in adenosine triphosphate-binding cassette subfamily B member 4 (ABCB4)
+T34	Chemical 927 949	adenosine triphosphate
+T37	Disease 1177 1235	PFIC 4 with low or normal levels gamma-glutamyltransferase
+T39	Biomarker 1316 1384	mutations in nuclear receptor subfamily 1, group H, member 4 (NR1H4)
+T4	Disease 86 90	PFIC
+#25	AnnotatorNotes T4	DOID:0070221
+T40	Disease 1490 1494	PFIC
+T41	Disease 1562 1566	PFIC
+T43	Disease 1621 1632	cholestasis
+#29	AnnotatorNotes T43	DOID:13580
+T44	Disease 1700 1704	PFIC
+T45	Biomarker 1731 1761	heterozygous mutations of TJP2
+T7	Biomarker 196 216	fluctuating jaundice
+T9	Biomarker 218 240	persistent cholestasis
+T1	Disease 581 587	PFIC 1
+#1	AnnotatorNotes T1	DOID:0070226
+T3	Disease 796 802	PFIC 2
+#3	AnnotatorNotes T3	DOID:0070222
+T26	Disease 1096 1102	PFIC 3
+#5	AnnotatorNotes T26	DOID:0070223
+#12	AnnotatorNotes T37	not found
+T5	Collection 196 268	fluctuating jaundice, persistent cholestasis, pruritus and malabsorption
+R1	Association Arg1:T5 Arg2:T2	
+T6	Biomarker 337 373	early-onset progressive liver damage
+#2	AnnotatorNotes T12	D011537
+T8	Gene-Protein 647 653	ATP8B1
+#4	AnnotatorNotes T8	HGNC:3706
+R2	Association Arg1:T6 Arg2:T15	
+R3	Association Arg1:T19 Arg2:T21	
+T10	Biomarker 519 538	genetic aetiologies
+R4	Association Arg1:T27 Arg2:T1	
+T11	Gene-Protein 614 645	ATPase class I type 8B member 1
+#6	AnnotatorNotes T11	HGNC:3706
+T13	Gene-Protein 751 755	FIC1
+#7	AnnotatorNotes T13	HGNC:3706
+T16	Gene-Protein 679 749	aminophospholipid flippase familial intrahepatic cholestasis-1 protein
+#9	AnnotatorNotes T16	HGNC:3706
+R5	Association Arg1:T10 Arg2:T25	
+T17	Gene-Protein 810 849	ATP binding cassette family B member 11
+#11	AnnotatorNotes T17	HGNC:42
+T18	Gene-Protein 851 857	ABCB11
+#13	AnnotatorNotes T18	HGNC:42
+T20	Biomarker 810 849	ATP binding cassette family B member 11
+R6	Association Arg1:T20 Arg2:T3	
+T22	Gene-Protein 901 905	BSEP
+#14	AnnotatorNotes T22	HGNC:42
+T23	Gene-Protein 872 899	bile salt excretion protein
+#15	AnnotatorNotes T23	HGNC:42
+R7	Association Arg1:T33 Arg2:T26	
+T29	Gene-Protein 989 994	ABCB4
+#16	AnnotatorNotes T29	HGNC:45
+T30	Gene-Protein 927 987	adenosine triphosphate-binding cassette subfamily B member 4
+#17	AnnotatorNotes T30	HGNC:45
+T35	Gene-Protein 1015 1060	multidrug resistance P-glycoprotein 3 protein
+#18	AnnotatorNotes T35	HGNC:45
+T36	Gene-Protein 1062 1066	MDR3
+#19	AnnotatorNotes T36	HGNC:45
+T46	Gene-Protein 1157 1161	TJP2
+#20	AnnotatorNotes T46	 HGNC:11828
+T47	Gene-Protein 1131 1155	tight junction protein 2
+#21	AnnotatorNotes T47	 HGNC:11828
+T48	GeneFamily 1210 1235	gamma-glutamyltransferase
+#22	AnnotatorNotes T48	family:564
+T49	GeneFamily 1237 1240	GGT
+#23	AnnotatorNotes T49	family:564
+T50	Biomarker 1110 1155	Genetic mutations in tight junction protein 2
+R8	Association Arg1:T50 Arg2:T37	
+T53	Gene-Protein 1378 1383	NR1H4
+#24	AnnotatorNotes T53	HGNC:7967
+T54	Gene-Protein 1329 1376	nuclear receptor subfamily 1, group H, member 4
+#26	AnnotatorNotes T54	HGNC:7967
+T55	Gene-Protein 1426 1429	FXR
+#27	AnnotatorNotes T55	HGNC:7967
+T56	Gene-Protein 1404 1424	farnesoid X receptor
+#30	AnnotatorNotes T56	HGNC:7967
+R10	Association Arg1:T39 Arg2:T40	
+T57	Gene-Protein 1757 1761	TJP2
+R11	Association Arg1:T45 Arg2:T44	

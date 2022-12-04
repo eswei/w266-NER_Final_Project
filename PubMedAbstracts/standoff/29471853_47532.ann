@@ -1,0 +1,80 @@
+T0	Drug 30 37	Aspirin
+T1	Disease 152 159	cancers
+#2	AnnotatorNotes T1	DOID:162
+T10	Disease 1137 1142	tumor
+#3	AnnotatorNotes T10	DOID:162
+T12	Disease 1391 1404	breast cancer
+T13	Disease 1429 1435	cancer
+T14	Drug 1508 1511	ASA
+T15	Disease 1550 1563	breast cancer
+T16	Disease 1609 1637	HBXIP-promoted breast cancer
+#9	AnnotatorNotes T16	not found
+T17	Drug 1695 1707	ASA with TAM
+T18	Disease 1717 1734	ER+ breast cancer
+T2	Disease 170 183	breast cancer
+#12	AnnotatorNotes T2	DOID:1612
+T3	Disease 564 577	breast cancer
+T4	Disease 650 657	cancers
+T5	Drug 703 706	TAM
+T6	Drug 766 769	TAM
+T7	Drug 896 899	TAM
+T8	Disease 995 1008	breast cancer
+#1	AnnotatorNotes T0	CHEMBL25
+T19	Drug 39 42	ASA
+#7	AnnotatorNotes T19	CHEMBL25
+T20	Collection 152 183	cancers including breast cancer
+R1	Protects-from Arg1:T0 Arg2:T20	
+T21	Drug 197 200	ASA
+T22	Gene-Protein 240 256	cyclooxygenase 2
+#10	AnnotatorNotes T22	HGNC:9605
+T23	Gene-Protein 258 262	COX2
+#15	AnnotatorNotes T23	HGNC:9605
+T24	GeneFamily 265 270	NF-kB
+#16	AnnotatorNotes T24	family:1254
+T25	GeneFamily 272 307	extracellular signal-related kinase
+#17	AnnotatorNotes T25	not found
+T26	GeneFamily 309 312	ERK
+#20	AnnotatorNotes T26	not found
+T27	Gene-Protein 401 406	HBXIP
+#21	AnnotatorNotes T27	HGNC:17955
+T28	GeneFamily 420 425	NF-kB
+T29	GeneFamily 430 433	ERK
+T30	Gene-Protein 478 485	pERK1/2
+#22	AnnotatorNotes T30	HGNC:6877, HGNC:6871
+T31	Biomarker 478 485	pERK1/2
+#23	AnnotatorNotes T31	D048052, D019950
+T32	Gene-Protein 501 505	COX2
+R2	Association Arg1:T31 Arg2:T3	
+T33	Gene-Protein 602 606	COX2
+T34	Gene-Protein 641 646	HBXIP
+T35	Drug 674 677	ASA
+T36	Gene-Protein 688 693	HBXIP
+#13	AnnotatorNotes T5	CHEMBL83
+T37	Drug 753 756	ASA
+T38	Gene-Protein 795 800	HBXIP
+T39	Drug 857 860	ASA
+T40	RNA-Noncoding 955 963	miR-520b
+#24	AnnotatorNotes T40	HGNC:32105
+T41	Gene-Protein 986 991	HBXIP
+T42	Drug-Class 1053 1064	salicylates
+T43	Drug-Class 1075 1081	NSAIDs
+T44	Collection 1053 1081	salicylates and other NSAIDs
+R3	Response Arg1:T44 Arg2:T10	
+T9	Gene-Protein 1376 1381	HBXIP
+T45	Biomarker 1376 1381	HBXIP
+#18	AnnotatorNotes T45	C110719
+R4	Association Arg1:T45 Arg2:T12	
+R5	Response Arg1:T14 Arg2:T15	
+T46	Gene-Protein 1609 1614	HBXIP
+A1	Conjunction T17
+#5	AnnotatorNotes T18	DOID:0060075
+T47	Gene-Protein 1745 1750	HBXIP
+R6	Mediated-Response Arg1:T17 Arg2:T18	
+T48	Biomarker 1740 1768	high HBXIP expression levels
+R7	Mediator Arg1:T17 Arg2:T48	
+#6	AnnotatorNotes T17	CHEMBL25, CHEMBL83
+T49	Drug 1193 1196	ASA
+T50	RNA-Noncoding 1231 1239	miR-520b
+T51	Gene-Protein 1212 1217	HBXIP
+T52	Gene-Protein 1299 1307	miR-520b
+T53	Drug 1320 1323	ASA

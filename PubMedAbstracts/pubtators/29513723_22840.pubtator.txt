@@ -1,0 +1,39 @@
+29513723_22840|t|RSS_IDENT_p_29513723_b_1_4_5
+29513723_22840|a| A recent study reported that the number of patients needing renal replacement therapy is increasing [ 36 ]. End-stage kidney disease is a leading cause of morbidity and mortality worldwide; thus, it is important to detect a biomarker of both the renal outcome and mortality. In addition, cardiovascular disease is frequently associated with CKD, which is important, since individuals with CKD are more likely to die of cardiovascular disease than to develop kidney failure. Indeed, the term “cardiorenal syndrome” has been increasingly used, and a new classification was proposed because a large proportion of patients admitted to hospital have various degrees of heart and kidney dysfunction [ 37 ]. As previously reported [ 13 , 18 , 19 ], the renal RI predicts the renal prognosis, cardiovascular events, and death in CKD patients. Moreover, the cystatin C concentration predicts all-cause and CVD mortality in patients with CKD [ 5 , 38 ], and cystatin C might be a biomarker of cardiac dysfunction and hypertrophy [ 6 , 22 ]. Thus, once a patient is diagnosed with CKD, the measurement of both the RI and the serum cystatin C level appears to be useful for predicting the renal outcome, cardiovascular damage, and the risk of cardiovascular events. Our findings provide valuable insight into the relationship between the cystatin C level and a renal RI of 0.66 (the median level at which worse renal and cardiovascular outcomes are predicted [ 18 ]). We reported that the cystatin C level could predict this RI value in patients with a moderate degree of accuracy (AUC = 0.882, Cut off cystatin C value: 2.04mg/L). Incidentally, the AUC values of albuminuria and BNP for predicting this value (RI 0.66) were lower than the AUC of cystatin C. 
+29513723_22840	90	115	renal replacement therapy	Drug-class
+29513723_22840	138	162	End-stage kidney disease	Biomarker	D007676
+29513723_22840	185	208	morbidity and mortality	Disease	D009017, D009026
+29513723_22840	294	303	mortality	Disease	D009017
+29513723_22840	318	340	cardiovascular disease	Biomarker	D002318
+29513723_22840	371	374	CKD	Disease	DOID:784
+29513723_22840	419	422	CKD	Disease
+29513723_22840	449	471	cardiovascular disease	Disease	DOID:1287
+29513723_22840	488	502	kidney failure	Disease	DOID:1074
+29513723_22840	522	542	cardiorenal syndrome	Disease	D059347
+29513723_22840	694	722	heart and kidney dysfunction	Disease	DOID:114, DOID:557
+29513723_22840	776	784	renal RI	Biomarker
+29513723_22840	851	854	CKD	Disease
+29513723_22840	879	889	cystatin C	Gene-protein	HGNC:2475
+29513723_22840	879	889	cystatin C	Biomarker	D055316
+29513723_22840	927	961	CVD mortality in patients with CKD	Disease	not found, DOID:784	Conjunction
+29513723_22840	927	961	CVD mortality in patients with CKD	Collection
+29513723_22840	978	988	cystatin C	Gene-protein
+29513723_22840	978	988	cystatin C	Biomarker
+29513723_22840	1013	1032	cardiac dysfunction	Disease	DOID:114
+29513723_22840	1013	1048	cardiac dysfunction and hypertrophy	Collection
+29513723_22840	1037	1048	hypertrophy	Disease	D006984
+29513723_22840	1100	1103	CKD	Disease
+29513723_22840	1109	1166	measurement of both the RI and the serum cystatin C level	Biomarker
+29513723_22840	1150	1160	cystatin C	Gene-protein
+29513723_22840	1207	1220	renal outcome	Disease	not found
+29513723_22840	1207	1283	renal outcome, cardiovascular damage, and the risk of cardiovascular events.	Collection
+29513723_22840	1222	1243	cardiovascular damage	Disease	DOID:1287
+29513723_22840	1261	1282	cardiovascular events	Disease	DOID:1287
+29513723_22840	1356	1366	cystatin C	Gene-protein
+29513723_22840	1379	1387	renal RI	Biomarker
+29513723_22840	1507	1517	cystatin C	Gene-protein
+29513723_22840	1621	1631	cystatin C	Gene-protein
+29513723_22840	1682	1693	albuminuria	Disease	DOID:576
+29513723_22840	1698	1701	BNP	Gene-protein	HGNC:7940
+29513723_22840	1765	1775	cystatin C	Gene-protein
+

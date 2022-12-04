@@ -1,0 +1,36 @@
+29879019_19902|t|RSS_IDENT_p_29879019_b_1_4_5
+29879019_19902|a| The induced sputum method is noninvasive and not limited to disease, but the operating procedures are quite stringent and complicated, since the results could be susceptible to interference.[ ²² ] In the recent years, FeNO, as a noninvasive marker of airway inflammation, has been attracted wide attention. FeNO is more convenient, rapid, reproducible, and less painful than induced sputum analysis. The NO detected in exhaled air is produced by nitric oxide synthase catalyzing L-arginine in the airway epithelium. A variety of airway inflammations can lead to elevated NO; however, they are mostly dominated by eosinophilic inflammations.[ ²³ ] In this study, after using multivariate logsitic regression, there was still difference in FeNO between the 2 groups after correcting duration of disease, FEV₁, LAMA, and smoking index: the levels of FeNO in patients with ACOS were significantly higher than those in patients with Non-ACOS, with a FeNO median in the ACOS group twice as high as that of the Non-ACOS group; FeNO was positively correlated with eosinophils in induced sputum. This result is consistent with the results of Seiichi[ ²⁴ ]; Mi-jung[ ²⁵ ] made a ROC analysis on the value of FeNO in the diagnosis of non-asthmatic eosinophilic bronchitis (NAEB), it was found that select the patients that cut point for >31.7 ppb had diagnostic value for NAEB. These results indicated that FeNO could reflect the levels of eosinophilic airway inflammation. Therefore, FeNO can be used as an indicator for evaluating airway inflammation in ACOS. Our results using ROC curve analysis showed that FeNO could be used for the diagnostic value of ACOS, the optimal cut off point was 25.50 ppb, and it had higher sensitivity and specificity. Chen et al[ ²⁶ ] found that when the cutoff point was 21.5 ppb, the sensitivity was 70% and the specificity was up to 75%, which is similar to the results of this study.
+29879019_19902	248	252	FeNO	Chemical
+29879019_19902	248	252	FeNO	Biomarker
+29879019_19902	281	300	airway inflammation	Disease	not found
+29879019_19902	337	341	FeNO	Chemical
+29879019_19902	434	436	NO	Chemical
+29879019_19902	476	488	nitric oxide	Chemical
+29879019_19902	476	497	nitric oxide synthase	Genefamily	not found
+29879019_19902	509	519	L-arginine	Chemical
+29879019_19902	559	579	airway inflammations	Disease
+29879019_19902	592	603	elevated NO	Biomarker
+29879019_19902	601	603	NO	Chemical
+29879019_19902	643	669	eosinophilic inflammations	Disease	not found
+29879019_19902	768	772	FeNO	Chemical
+29879019_19902	877	881	FeNO	Chemical
+29879019_19902	877	881	FeNO	Biomarker
+29879019_19902	899	903	ACOS	Disease	D000080445
+29879019_19902	975	979	FeNO	Chemical
+29879019_19902	975	979	FeNO	Biomarker
+29879019_19902	994	998	ACOS	Disease
+29879019_19902	1050	1054	FeNO	Chemical
+29879019_19902	1228	1232	FeNO	Chemical
+29879019_19902	1253	1290	non-asthmatic eosinophilic bronchitis	Disease	not found
+29879019_19902	1292	1296	NAEB	Disease	not found
+29879019_19902	1391	1395	NAEB	Disease
+29879019_19902	1426	1430	FeNO	Chemical
+29879019_19902	1426	1430	FeNO	Biomarker
+29879019_19902	1459	1491	eosinophilic airway inflammation	Disease	not found
+29879019_19902	1504	1508	FeNO	Chemical
+29879019_19902	1504	1508	FeNO	Biomarker
+29879019_19902	1552	1579	airway inflammation in ACOS	Disease	not found, D000080445	Conjunction
+29879019_19902	1630	1634	FeNO	Chemical
+29879019_19902	1630	1634	FeNO	Biomarker
+29879019_19902	1677	1681	ACOS	Disease
+

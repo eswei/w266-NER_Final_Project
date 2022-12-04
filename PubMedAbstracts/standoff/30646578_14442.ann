@@ -1,0 +1,79 @@
+T0	Variant 95 132	C-to-T substitution at nucleotide 667
+T10	Disease 277 289	cleft palate
+#2	AnnotatorNotes T10	DOID:674
+T11	Disease 291 314	cerebrovascular disease
+#3	AnnotatorNotes T11	DOID:6713
+T12	Disease 320 341	psychiatric disorders
+#4	AnnotatorNotes T12	D001523
+T13	Disease 370 380	depression
+#5	AnnotatorNotes T13	D003863
+T14	Disease 385 398	schizophrenia
+#6	AnnotatorNotes T14	DOID:5419
+T15	Disease 479 487	dementia
+#7	AnnotatorNotes T15	DOID:1307
+T17	Variant 612 617	C667T
+T18	Disease 636 660	senile cognitive decline
+#8	AnnotatorNotes T18	not found
+T19	Disease 681 683	AD
+T2	Variant 137 162	A-to-C at nucleotide 1298
+T21	Chemical 726 730	tHcy
+T22	Disease 735 752	incident dementia
+#11	AnnotatorNotes T22	not found
+T24	Variant 840 845	C667T
+T26	Variant 981 986	C665T
+T27	Chemical 1025 1029	tHcy
+T28	Disease 1043 1057	cognitive loss
+#14	AnnotatorNotes T28	not found
+T29	Disease 1061 1081	white matter lesions
+#15	AnnotatorNotes T29	not found
+T31	Variant 1142 1148	A1298C
+T32	Disease 1196 1198	AD
+T34	Disease 1390 1415	mild cognitive impairment
+#18	AnnotatorNotes T34	D060825
+T35	Disease 1417 1420	MCI
+T36	Disease 1425 1429	LOAD
+#20	AnnotatorNotes T36	D000544
+T37	Variant 1473 1478	C667T
+T38	Variant 1547 1553	A1298C
+T5	Disease 212 226	homocystinuria
+#21	AnnotatorNotes T5	DOID:9263
+T6	Disease 228 247	neural tube defects
+#22	AnnotatorNotes T6	DOID:0080074
+T7	Disease 249 261	preeclampsia
+#23	AnnotatorNotes T7	DOID:10591
+T8	Disease 263 272	cleft lip
+#24	AnnotatorNotes T8	DOID:9296
+T4	Gene-Protein 30 35	MTHFR
+#1	AnnotatorNotes T4	HGNC:7436
+T16	Biomarker 30 54	MTHFR gene polymorphisms
+T1	Gene-Protein 170 175	MTHFR
+T3	Collection 95 162	C-to-T substitution at nucleotide 667 and A-to-C at nucleotide 1298
+R1	Variant-Of Arg1:T1 Arg2:T3	
+R2	Association Arg1:T3 Arg2:T9	
+T9	Collection 212 398	homocystinuria, neural tube defects, preeclampsia, cleft lip and cleft palate, cerebrovascular disease, and psychiatric disorders including susceptibility to depression and schizophrenia
+T20	Biomarker 505 524	MTHFR polymorphisms
+T25	Gene-Protein 505 510	MTHFR
+T30	Gene-Protein 606 611	MTHFR
+R3	Variant-Of Arg1:T30 Arg2:T17	
+R4	Association Arg1:T17 Arg2:T18	
+T33	Biomarker 721 730	high tHcy
+R5	Association Arg1:T33 Arg2:T22	
+T23	Gene-Protein 834 839	MTHFR
+R6	Variant-Of Arg1:T23 Arg2:T24	
+T39	Gene-Protein 975 980	MTHFR
+R7	Variant-Of Arg1:T39 Arg2:T26	
+T40	Gene-Protein 1136 1141	MTHFR
+R8	Variant-Of Arg1:T40 Arg2:T31	
+R9	Association Arg1:T31 Arg2:T32	
+T41	Gene-Protein 1278 1283	MTHFR
+T42	Biomarker 1278 1298	MTHFR gene mutations
+#10	AnnotatorNotes T35	D060825
+T43	Collection 1390 1429	mild cognitive impairment (MCI) to LOAD
+R10	Association Arg1:T42 Arg2:T43	
+T44	Gene-Protein 1467 1472	MTHFR
+R11	Variant-Of Arg1:T44 Arg2:T37	
+T45	Gene-Protein 1541 1546	MTHFR
+R12	Variant-Of Arg1:T45 Arg2:T38	
+T46	Collection 1467 1553	MTHFR-C667T mutation was found in 58.5% of the patients and 41.5% had the MTHFR-A1298C
+R13	Association Arg1:T46 Arg2:T43	
+T47	Biomarker 1016 1029	elevated tHcy

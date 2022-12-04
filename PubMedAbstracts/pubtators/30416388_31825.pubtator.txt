@@ -1,0 +1,80 @@
+30416388_31825|t|RSS_IDENT_p_30416388_b_1_4_4
+30416388_31825|a| Although numerous studies have identified aberrant miRNA expression profiles in RA patients, only a few of these miRNAs have been well studied and have known targets 21 - 25 , 39 - 41 . For instance, miR-22 can target the 3'-UTR of cysteine-rich angiogenic inducer 61 (CYR61), regulating inflammation response in the synovial cells from RA patients 39 . MiR-23b can bind to the 3'-UTRs of three genes, including TGF-β-activated kinase 1/MAP3K7- binding protein 2 (TAB2), TAB3 and IKK-α, resulting in the suppression of IL-17-, TNF-α- or IL-1β-mediated activation of NF-κB 40 . In this study, we found a total of 56 miRNAs with aberrant levels in foot and ankle RA patients, only a few of which have been reported to be involved in RA pathogenesis. For instance, miR-124a acts as a negative regulator of MCP-1 in fibroblast-like synoviocytes from RA patients 42 . The DNA methylation-mediated downregulation of miR-34a in RA synovial fibroblasts can promote resistance to apoptosis by targeting X-linked inhibitor of apoptosis protein (XIAP) 43 . In addition, miR-146a is able to target tumor necrosis factor receptor-associated factor 6 (TRAF6) and IL-1 receptor-associated kinase 1 (IRAK-1) 44 . Although we only investigated the role of miR-7-5p here, we also found a few miRNAs that might target other TNF-α/NF-кB signaling members and NF-кB downstream targets by predicting their candidate targets in the miRNA database. For instance, miR-214-5p might bind to the 3'-UTR of TRAF2 (Supplementary Figure 3A), and a cluster of miRNAs, including miR-181a-5p, miR-181b-5p, miR-181c-5p and miR-181d-5p, might target the 3'-UTR of TNF-α (Supplementary Figure 3B). We are currently verifying and investigating the roles of these miRNAs in the pathogenesis of RA but do not stress their importance in the present study. In addition, among these TNF-α/NF-кB signaling members, only IκBα was downregulated in RA patients 45 , 46 . We found an upregulated miRNA, miR-16-5p, was predicted to bind to the 3'-UTR of IκBα (Supplementary Figure 3C). These results indicated that not only the downregulated miRNAs but also the upregulated miRNAs might contribute to the pathogenesis of RA. Moreover, cytokines such as TNF-α, IL-1β and IL-17 have been shown to play roles in the regulation of miRNA expression 47 - 49 . For instance, both TNF-α and IL-1β can induce miR-146a expression 50 , while IL-17 can suppress miR-23b expression in RA 40 . We did not examine whether TNF-α or IL-1β can regulate the miR-7-5p level in this study, and we will conduct these experiments in the future.
+30416388_31825	72	106	aberrant miRNA expression profiles	Biomarker
+30416388_31825	81	86	miRNA	Rna-noncoding	family:476
+30416388_31825	110	112	RA	Disease	DOID:7148
+30416388_31825	230	236	miR-22	Rna-noncoding	HGNC:31599
+30416388_31825	230	236	miR-22	Biomarker	C548375
+30416388_31825	262	270	cysteine	Chemical
+30416388_31825	262	297	cysteine-rich angiogenic inducer 61	Gene-protein	HGNC:2654
+30416388_31825	299	304	CYR61	Gene-protein	HGNC:2654
+30416388_31825	367	369	RA	Disease
+30416388_31825	384	391	MiR-23b	Rna-noncoding	HGNC:31606
+30416388_31825	442	466	TGF-β-activated kinase 1	Gene-protein	HGNC:17075
+30416388_31825	467	492	MAP3K7- binding protein 2	Gene-protein	HGNC:17075
+30416388_31825	494	498	TAB2	Gene-protein	HGNC:17075
+30416388_31825	501	505	TAB3	Gene-protein	HGNC:30681
+30416388_31825	510	515	IKK-α	Gene-protein	HGNC:1974
+30416388_31825	549	554	IL-17	Gene-protein	HGNC:5981
+30416388_31825	557	562	TNF-α	Gene-protein	HGNC:11892
+30416388_31825	567	572	IL-1β	Gene-protein	HGNC:5992
+30416388_31825	596	601	NF-κB	Genefamily	family:1254
+30416388_31825	642	672	56 miRNAs with aberrant levels	Biomarker
+30416388_31825	645	651	miRNAs	Rna-noncoding
+30416388_31825	676	693	foot and ankle RA	Disease	not found
+30416388_31825	761	763	RA	Disease
+30416388_31825	792	800	miR-124a	Biomarker	C509207
+30416388_31825	792	800	miR-124a	Rna-noncoding	not found
+30416388_31825	811	870	negative regulator of MCP-1 in fibroblast-like synoviocytes	Biomarker
+30416388_31825	833	838	MCP-1	Gene-protein	HGNC:10618
+30416388_31825	876	878	RA	Disease
+30416388_31825	897	947	DNA methylation-mediated downregulation of miR-34a	Biomarker
+30416388_31825	940	947	miR-34a	Gene-protein	HGNC:31635
+30416388_31825	951	953	RA	Disease
+30416388_31825	1024	1063	X-linked inhibitor of apoptosis protein	Gene-protein	HGNC:592
+30416388_31825	1065	1069	XIAP	Gene-protein	HGNC:592
+30416388_31825	1089	1097	miR-146a	Gene-protein	HGNC:31533
+30416388_31825	1116	1166	tumor necrosis factor receptor-associated factor 6	Gene-protein	HGNC:12036
+30416388_31825	1168	1173	TRAF6	Gene-protein	HGNC:12036
+30416388_31825	1179	1212	IL-1 receptor-associated kinase 1	Gene-protein	HGNC:6112
+30416388_31825	1214	1220	IRAK-1	Gene-protein	HGNC:6112
+30416388_31825	1269	1277	miR-7-5p	Rna-noncoding	family:1736
+30416388_31825	1335	1340	TNF-α	Gene-protein
+30416388_31825	1341	1346	NF-кB	Genefamily
+30416388_31825	1369	1374	NF-кB	Genefamily
+30416388_31825	1469	1479	miR-214-5p	Rna-noncoding	HGNC:31591
+30416388_31825	1508	1513	TRAF2	Gene-protein	HGNC:12032
+30416388_31825	1576	1587	miR-181a-5p	Rna-noncoding	not found
+30416388_31825	1589	1600	miR-181b-5p	Rna-noncoding	not found
+30416388_31825	1602	1613	miR-181c-5p	Rna-noncoding	HGNC:31552
+30416388_31825	1618	1629	miR-181d-5p	Rna-noncoding	HGNC:32089
+30416388_31825	1658	1663	TNF-α	Gene-protein
+30416388_31825	1785	1787	RA	Disease
+30416388_31825	1870	1875	TNF-α	Gene-protein
+30416388_31825	1876	1881	NF-кB	Gene-protein
+30416388_31825	1906	1910	IκBα	Gene-protein	HGNC:7797
+30416388_31825	1906	1928	IκBα was downregulated	Biomarker
+30416388_31825	1932	1934	RA	Disease
+30416388_31825	1966	1994	upregulated miRNA, miR-16-5p	Biomarker
+30416388_31825	1985	1994	miR-16-5p	Rna-noncoding	not found
+30416388_31825	2035	2039	IκBα	Rna-noncoding
+30416388_31825	2109	2129	downregulated miRNAs	Biomarker
+30416388_31825	2109	2161	downregulated miRNAs but also the upregulated miRNAs	Collection
+30416388_31825	2123	2129	miRNAs	Rna-noncoding
+30416388_31825	2143	2161	upregulated miRNAs	Biomarker
+30416388_31825	2155	2161	miRNAs	Rna-noncoding
+30416388_31825	2202	2204	RA	Disease
+30416388_31825	2216	2225	cytokines	Genefamily	not found
+30416388_31825	2234	2239	TNF-α	Gene-protein
+30416388_31825	2241	2246	IL-1β	Gene-protein
+30416388_31825	2251	2256	IL-17	Gene-protein
+30416388_31825	2354	2359	TNF-α	Gene-protein
+30416388_31825	2364	2369	IL-1β	Gene-protein
+30416388_31825	2381	2389	miR-146a	Gene-protein
+30416388_31825	2412	2417	IL-17	Gene-protein
+30416388_31825	2431	2438	miR-23b	Rna-noncoding	HGNC:31606
+30416388_31825	2453	2455	RA	Disease
+30416388_31825	2488	2493	TNF-α	Gene-protein
+30416388_31825	2497	2502	IL-1β	Gene-protein
+30416388_31825	2520	2528	miR-7-5p	Rna-noncoding
+

@@ -1,0 +1,61 @@
+T0	Gene-Protein 30 40	Glycodelin
+T1	Chemical 52 64	progesterone
+T10	Disease 763 776	breast cancer
+T11	Gene-Protein 836 846	glycodelin
+T13	Gene-Protein 890 900	glycodelin
+T14	Disease 948 980	hormone-independent malignancies
+#6	AnnotatorNotes T14	not found
+T15	Disease 988 1006	malignant melanoma
+#7	AnnotatorNotes T15	DOID:1909
+T17	Disease 1057 1087	malignant pleural mesothelioma
+#9	AnnotatorNotes T17	DOID:7474
+T18	Gene-Protein 1152 1162	glycodelin
+T19	Disease 1183 1188	NSCLC
+T2	Gene-Protein 339 349	Glycodelin
+T21	Disease 1276 1282	tumors
+#13	AnnotatorNotes T21	DOID:162
+T23	Disease 1417 1422	tumor
+#14	AnnotatorNotes T23	DOID:162
+T24	Gene-Protein 1464 1474	glycodelin
+T25	Disease 1526 1531	NSCLC
+T26	Gene-Protein 1557 1567	glycodelin
+T28	Disease 1613 1618	NSCLC
+T3	Gene-Protein 564 574	glycodelin
+T5	Disease 613 636	hormone-related cancers
+#20	AnnotatorNotes T5	not found
+T6	Disease 646 660	ovarian cancer
+#21	AnnotatorNotes T6	DOID:2394
+T7	Disease 672 685	breast cancer
+#22	AnnotatorNotes T7	DOID:1612
+T9	Disease 740 758	endometrial cancer
+#24	AnnotatorNotes T9	DOID:1380
+#1	AnnotatorNotes T0	HGNC:8573
+T4	Gene-Protein 97 101	PAEP
+#2	AnnotatorNotes T4	HGNC:8573
+T12	Gene-Protein 52 95	progesterone associated endometrial protein
+#4	AnnotatorNotes T12	HGNC:8573
+#5	AnnotatorNotes T3	HGNC:8573
+T20	Gene-Protein 1290 1294	PAEP
+T8	Biomarker 564 609	glycodelin has been shown to be overexpressed
+T22	Collection 613 685	hormone-related cancers, such as ovarian cancer [ 12 ] and breast cancer
+T27	Biomarker 1557 1567	glycodelin
+R1	Association Arg1:T27 Arg2:T28	
+T29	Biomarker 1464 1474	glycodelin
+R2	Association Arg1:T29 Arg2:T25	
+T30	Biomarker 1290 1294	PAEP
+T31	Biomarker 880 918	increased glycodelin expression levels
+T32	Disease 1015 1041	non-small cell lung cancer
+T16	Collection 948 1087	hormone-independent malignancies as the malignant melanoma [ 16 ], non-small cell lung cancer [ 17 ] and the malignant pleural mesothelioma
+R3	Association Arg1:T31 Arg2:T16	
+R4	Association Arg1:T8 Arg2:T22	
+#3	AnnotatorNotes T32	DOID:3908
+#8	AnnotatorNotes T19	DOID:3908
+R5	Association Arg1:T30 Arg2:T23	
+#10	AnnotatorNotes T30	C045246
+#11	AnnotatorNotes T29	C045246
+T33	Pronoun 1225 1229	gene
+T34	Gene-Protein 1225 1229	gene
+R6	Refers-To Arg1:T33 Arg2:T36	
+T35	Biomarker 1225 1229	gene
+R7	Association Arg1:T35 Arg2:T21	
+T36	Biomarker 1152 1162	glycodelin

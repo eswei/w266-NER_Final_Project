@@ -1,0 +1,103 @@
+T0	Chemical 184 191	Alcohol
+T10	Chemical 932 941	L-lactate
+T14	Chemical 1205 1221	Phosphoglycerate
+T15	Chemical 1236 1252	Phosphoglycerate
+T16	Chemical 1266 1274	Pyruvate
+T17	Disease 1286 1317	Proliferative vitreoretinopathy
+#9	AnnotatorNotes T17	DOID:9719
+T18	Chemical 1323 1330	Retinol
+T19	Chemical 1354 1361	Retinol
+T2	Chemical 207 214	NADP(+)
+T20	Chemical 1385 1392	Retinol
+T21	Disease 1411 1413	RD
+#14	AnnotatorNotes T21	DOID:5327
+T22	Disease 1414 1432	Retinal detachment
+#15	AnnotatorNotes T22	DOID:5327
+T23	Disease 1433 1435	RD
+T24	Disease 1436 1454	Retinal detachment
+T25	Chemical 1475 1488	Retinaldehyde
+T27	Disease 1572 1605	Rhegmatogenous retinal detachment
+#20	AnnotatorNotes T27	DOID:5327
+T28	Disease 1606 1611	RRDCD
+T3	Chemical 222 243	Fructose-bisphosphate
+T32	Chemical 1742 1749	glucose
+T33	Chemical 1917 1932	Triosephosphate
+T6	Chemical 261 269	Fructose
+T7	Chemical 270 282	bisphosphate
+T8	Chemical 506 510	ENO2
+T9	Chemical 629 648	Glucose-6-phosphate
+T34	Gene-Protein 177 183	AKR1A1
+T35	Gene-Protein 352 372	Apolipoprotein C-III
+T36	Gene-Protein 346 351	APOC3
+T37	Gene-Protein 326 345	Apolipoprotein C-II
+T38	Gene-Protein 294 299	APOA4
+T39	Gene-Protein 300 319	Apolipoprotein A-IV
+T40	Gene-Protein 453 456	C8B
+T41	Gene-Protein 457 479	Complement component 8
+T42	Gene-Protein 480 482	C9
+T43	Gene-Protein 483 505	Complement component 9
+T44	Gene-Protein 525 547	Coagulation factor XII
+T45	Gene-Protein 430 452	Complement component 8
+T46	Gene-Protein 548 550	F9
+T47	Gene-Protein 659 664	GSTP1
+T48	Gene-Protein 578 607	Fructose-1,6-bisphosphatase 1
+T49	Gene-Protein 625 628	GPI
+T50	Gene-Protein 320 325	APOC2
+T51	Gene-Protein 671 676	HIF-1
+T52	Gene-Protein 551 572	Coagulation factor IX
+T53	Gene-Protein 573 577	FBP1
+T54	Gene-Protein 677 729	Transcriptional regulator hypoxia-inducible factor-1
+T55	Gene-Protein 730 735	iTRAQ
+T56	Gene-Protein 399 402	C1R
+T57	Gene-Protein 403 425	Complement component 1
+T58	Gene-Protein 426 429	C8A
+T59	Gene-Protein 261 293	Fructose-bisphosphate aldolase C
+T60	Gene-Protein 222 254	Fructose-bisphosphate aldolase A
+T4	Gene-Protein 927 931	LDHB
+T61	Gene-Protein 932 955	L-lactate dehydrogenase
+T62	Gene-Protein 1111 1114	PDC
+T63	Gene-Protein 1115 1124	Phosducin
+T64	Gene-Protein 1231 1235	PGK1
+T65	Gene-Protein 1199 1204	PGAM1
+T66	Gene-Protein 1125 1130	PDE6G
+T67	Gene-Protein 1950 1986	Vascular endothelial growth factor A
+T68	Gene-Protein 1943 1949	VEGF-A
+T69	Gene-Protein 1987 1993	VEGF-B
+T70	Gene-Protein 1994 2030	Vascular endothelial growth factor B
+T71	Gene-Protein 1912 1916	TPI1
+T72	Gene-Protein 1917 1942	Triosephosphate isomerase
+T73	Gene-Protein 1898 1911	Transaldolase
+T74	Gene-Protein 1698 1704	SLC2A1
+T75	Gene-Protein 1705 1770	solute carrier family 2, facilitated glucose transporter member 1
+T5	Gene-Protein 184 205	Alcohol dehydrogenase
+T1	Gene-Protein 216 221	ALDOA
+T11	Gene-Protein 665 670	Gstp1
+T12	Gene-Protein 255 260	ALDOC
+T76	Gene-Protein 511 520	Enolase 2
+T77	Gene-Protein 521 524	F12
+T78	Gene-Protein 1469 1474	RLBP1
+T79	Gene-Protein 1131 1198	Retinal rod rhodopsin-sensitive cgmp 3~,5~-cyclic phosphodiesterase
+T80	Gene-Protein 1205 1230	Phosphoglycerate mutase 1
+T81	Gene-Protein 1318 1322	RBP1
+T82	Gene-Protein 1262 1265	PKM
+T83	Gene-Protein 1323 1348	Retinol-binding protein 1
+T84	Gene-Protein 1349 1353	RBP3
+T85	Gene-Protein 1354 1379	Retinol-binding protein 3
+T86	Gene-Protein 1380 1384	RBP4
+T87	Gene-Protein 1385 1410	Retinol-binding protein 4
+T88	Gene-Protein 1459 1468	Rhodopsin
+T89	Gene-Protein 1455 1458	RHO
+T90	Gene-Protein 1475 1506	Retinaldehyde-binding protein 1
+T91	Gene-Protein 1891 1897	TALDO1
+T26	Disease 1568 1571	RRD
+#1	AnnotatorNotes T26	DOID:5327
+T30	Disease 1612 1682	Rhegmatogenous retinal detachment associated with choroidal detachment
+#2	AnnotatorNotes T30	not found
+#3	AnnotatorNotes T28	not found
+T92	Gene-Protein 1683 1686	SAG
+T93	Gene-Protein 1687 1697	S-arrestin
+T31	Gene-Protein 1266 1281	Pyruvate kinase
+T94	Disease 1282 1285	PVR
+#4	AnnotatorNotes T94	DOID:9719
+T95	Gene-Protein 1236 1261	Phosphoglycerate kinase 1
+T13	Gene-Protein 629 658	Glucose-6-phosphate isomerase

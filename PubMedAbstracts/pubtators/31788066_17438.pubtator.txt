@@ -1,0 +1,45 @@
+31788066_17438|t|RSS_IDENT_p_31788066_b_1_4_4
+31788066_17438|a| TGF-β signaling inhibits tumor growth at the initial stage of cancer development but promotes tumor metastasis via EMT at later stages ( 15 ). Differential expression of TGF-β isoforms has also been observed in different stages of glioma ( 16 ). It has been reported that TGF-β may serve as a potential target for the treatment of glioma ( 14 ). The cross talk between TGF-β and lncRNAs has been extensively reported in different types of malignancy ( 17 – 19 ). However, to the best of our knowledge, studies regarding the interactions between TGF-β and lncRNAs are relatively rare. The present study identified a significant positive correlation between the plasma levels of TGF-β1 and AWPPH in patients with glioma. In addition, in vitro experiments demonstrated that AWPPH may be an upstream activator of TGF-β1 in glioma. AWPPH overexpression upregulated TGF-β1 expression in human glioma cells, while TGF-β1 treatment demonstrated no significant effects on AWPPH expression. Additionally, treatment with the TGF-β inhibitor LY2109761 significantly inhibited cell migration and invasion, and attenuated the effects of AWPPH overexpression. These data also suggest that inhibition of endogenous TGF-β may serve as a therapeutic target for glioma. 
+31788066_17438	30	35	TGF-β	Genefamily	family:1664
+31788066_17438	30	45	TGF-β signaling	Drug
+31788066_17438	30	45	TGF-β signaling	Biomarker
+31788066_17438	55	60	tumor	Disease	DOID:162
+31788066_17438	75	98	initial stage of cancer	Disease	not found
+31788066_17438	124	129	tumor	Disease	DOID:162
+31788066_17438	173	214	Differential expression of TGF-β isoforms	Biomarker
+31788066_17438	200	205	TGF-β	Genefamily
+31788066_17438	261	267	glioma	Disease	DOID:0060108
+31788066_17438	302	307	TGF-β	Genefamily
+31788066_17438	302	307	TGF-β	Biomarker	 D016212
+31788066_17438	361	367	glioma	Disease
+31788066_17438	399	404	TGF-β	Genefamily
+31788066_17438	399	404	TGF-β	Biomarker
+31788066_17438	399	416	TGF-β and lncRNAs	Collection
+31788066_17438	409	416	lncRNAs	Genefamily	family:788
+31788066_17438	409	416	lncRNAs	Biomarker
+31788066_17438	469	479	malignancy	Disease	DOID:162
+31788066_17438	575	580	TGF-β	Genefamily
+31788066_17438	707	713	TGF-β1	Gene-protein	HGNC:11766
+31788066_17438	707	713	TGF-β1	Biomarker	D053773
+31788066_17438	718	723	AWPPH	Biomarker
+31788066_17438	718	723	AWPPH	Rna-noncoding
+31788066_17438	741	747	glioma	Disease
+31788066_17438	801	806	AWPPH	Rna-noncoding
+31788066_17438	839	845	TGF-β1	Gene-protein
+31788066_17438	849	855	glioma	Disease
+31788066_17438	857	862	AWPPH	Rna-noncoding
+31788066_17438	857	877	AWPPH overexpression	Biomarker
+31788066_17438	890	896	TGF-β1	Gene-protein
+31788066_17438	890	907	TGF-β1 expression	Biomarker
+31788066_17438	917	923	glioma	Disease
+31788066_17438	937	943	TGF-β1	Gene-protein
+31788066_17438	993	998	AWPPH	Rna-noncoding
+31788066_17438	1044	1049	TGF-β	Gene-protein
+31788066_17438	1044	1059	TGF-β inhibitor	Drug-class
+31788066_17438	1060	1069	LY2109761	Drug	C530108
+31788066_17438	1153	1158	AWPPH	Rna-noncoding
+31788066_17438	1153	1173	AWPPH overexpression	Biomarker
+31788066_17438	1204	1234	inhibition of endogenous TGF-β	Drug
+31788066_17438	1229	1234	TGF-β	Gene-protein
+31788066_17438	1273	1279	glioma	Disease
+

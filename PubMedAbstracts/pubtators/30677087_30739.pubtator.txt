@@ -1,0 +1,45 @@
+30677087_30739|t|RSS_IDENT_p_30677087_b_1_4_8
+30677087_30739|a| In the present study, the low serum 25(OH)D concentration was also shown to be related to increased prevalence for both myopia and high myopia, which is consistent with previous studies using the KNHANES data [ 21 , 31 ]. Other researchers also revealed that myopes had a significantly lower blood vitamin D concentration compared with non-myopes [ 4 , 45 ], A large population-based study revealed that polymorphisms within vitamin D receptor (VDR) are related to a low-to-moderate degree of myopia [ 46 ]. As endogenous synthesis of vitamin D is induced by sunlight, it is often considered a biomarker of outdoor activity [ 46 ]. The prevalence of vitamin D insufficiency has been increasing worldwide [ 47 , 48 ]. Data from KNHANES also showed that vitamin D deficiency was highly prevalent in Korean adolescents [ 49 ], which can be explained by reduced sunlight exposure caused by high educational pressure and decreased intake of vitamin D-rich foods [ 49 , 50 ]. Given that vitamin D plays an important role in the intestinal absorption of calcium, mineral homeostasis, and bone growth in adolescence [ 51 ], it can be hypothesized that vitamin D deficiency may be associated with the development of myopia in adolescence [ 51 ]. Moreover, vitamin D deficiency can also result in the impairment of relaxation and contraction of the ciliary muscles caused by an alteration of intracellular calcium concentration, which may lead to myopia genesis [ 52 ]. Moreover, vitamin D initiates the formation of the VDR/retinoic acid heterodimer [ 53 ], which participates in the retinoscleral signal pathway that may influence myopic ocular growth [ 21 ]. The major product of novel cytochrome P450scc (CYP11A1)-initiated pathway of vitamin D₃ metabolism, 20-hydroxyvitamin D₃ (20(OH)D₃), and its metabolites may have anti-proliferative, pro-differentiation, and anti-inflammatory effects, which could prevent myopia [ 54 – 56 ]. 
+30677087_30739	56	87	low serum 25(OH)D concentration	Biomarker
+30677087_30739	66	73	25(OH)D	Chemical
+30677087_30739	150	156	myopia	Disease	DOID:11830
+30677087_30739	150	172	myopia and high myopia	Collection
+30677087_30739	161	172	high myopia	Disease	not found
+30677087_30739	289	295	myopes	Disease	DOID:11830
+30677087_30739	316	351	lower blood vitamin D concentration	Biomarker
+30677087_30739	328	337	vitamin D	Chemical
+30677087_30739	434	473	polymorphisms within vitamin D receptor	Biomarker
+30677087_30739	455	464	vitamin D	Chemical
+30677087_30739	455	473	vitamin D receptor	Gene-protein	HGNC:12679
+30677087_30739	475	478	VDR	Gene-protein	HGNC:12679
+30677087_30739	497	529	low-to-moderate degree of myopia	Disease	not found
+30677087_30739	565	574	vitamin D	Chemical
+30677087_30739	680	689	vitamin D	Chemical
+30677087_30739	680	703	vitamin D insufficiency	Disease	not found
+30677087_30739	782	791	vitamin D	Chemical
+30677087_30739	782	802	vitamin D deficiency	Disease	D014808
+30677087_30739	880	941	reduced sunlight exposure caused by high educational pressure	Biomarker
+30677087_30739	880	986	reduced sunlight exposure caused by high educational pressure and decreased intake of vitamin D-rich foods	Collection
+30677087_30739	946	986	decreased intake of vitamin D-rich foods	Biomarker
+30677087_30739	1011	1020	vitamin D	Chemical
+30677087_30739	1077	1084	calcium	Chemical
+30677087_30739	1174	1183	vitamin D	Chemical
+30677087_30739	1174	1194	vitamin D deficiency	Disease
+30677087_30739	1237	1243	myopia	Disease
+30677087_30739	1277	1286	vitamin D	Chemical
+30677087_30739	1277	1297	vitamin D deficiency	Biomarker
+30677087_30739	1277	1384	vitamin D deficiency can also result in the impairment of relaxation and contraction of the ciliary muscles	Collection
+30677087_30739	1321	1384	impairment of relaxation and contraction of the ciliary muscles	Biomarker
+30677087_30739	1426	1433	calcium	Chemical
+30677087_30739	1467	1473	myopia	Disease
+30677087_30739	1500	1509	vitamin D	Chemical
+30677087_30739	1524	1570	formation of the VDR/retinoic acid heterodimer	Biomarker
+30677087_30739	1541	1544	VDR	Gene-protein
+30677087_30739	1545	1558	retinoic acid	Chemical
+30677087_30739	1653	1673	myopic ocular growth	Disease	DOID:11830
+30677087_30739	1709	1727	cytochrome P450scc	Gene-protein	HGNC:2590
+30677087_30739	1729	1736	CYP11A1	Gene-protein	HGNC:2590
+30677087_30739	1759	1769	vitamin D₃	Chemical
+30677087_30739	1782	1834	20-hydroxyvitamin D₃ (20(OH)D₃), and its metabolites	Drug	not found
+30677087_30739	1936	1942	myopia	Disease
+

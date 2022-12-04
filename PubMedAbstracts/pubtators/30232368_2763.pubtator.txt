@@ -1,0 +1,61 @@
+30232368_2763|t|RSS_IDENT_p_30232368_b_1_1_3
+30232368_2763|a| Several genes have already been certified as causative genes in patients with autosomal recessive early-onset parkinsonism with pyramidal tract signs, including ATPase 13A2 (ATP13A2), phospholipase A2 group VI (PLA2G6) and F-box protein 7 (FBXO7). The ATP13A2 (PARK9) gene is responsible for Kufor–Rakeb syndrome (KRS), a rare hereditary form of recessive, juvenile-onset, atypical parkinsonism with pyramidal tract signs and cognitive dysfunction ⁶ . The ATP13A2 gene encodes a lysosomal P-type ATPase, its dysfunction may lead to lysosomal impairment, α-synuclein accumulation and mitochondrial dysfunction those closely associated with PD ⁷ . Many studies had reported ATP13A2 variants that might leads to higher PD risk ⁸ – ¹⁰ . The PLA2G6 (PARK14) gene encodes a group VIA calcium-independent phospholipase A2 beta enzyme, which has been proved as a pathogenic factor for neurodegenerative disorders with increased basal ganglia iron accumulation, such as infantile neuroaxonal dystrophy (INAD) and neurodegeneration with brain iron accumulation (NBIA) ¹¹ . Previous studies suggested that this gene was also associated with juvenile-onset dystonia parkinsonism and classic idiopathic PD ¹² – ¹⁵ . The FBOX7 (PARK15) gene encodes an E3 ligase, F-box only protein 7, which is involved in ubiquitin proteasome system ¹⁶ and mitochondrial maintenance ¹⁷ . Pathogenic variants in FBXO7 gene are likely to cause the EOPD in a similar way to the Parkin and PINK1 genes ¹⁷ .
+30232368_2763	108	179	autosomal recessive early-onset parkinsonism with pyramidal tract signs	Disease	not found
+30232368_2763	191	202	ATPase 13A2	Gene-protein	HGNC:30213
+30232368_2763	191	202	ATPase 13A2	Biomarker	C514983
+30232368_2763	191	268	ATPase 13A2 (ATP13A2), phospholipase A2 group VI (PLA2G6) and F-box protein 7	Collection
+30232368_2763	204	211	ATP13A2	Gene-protein	HGNC:30213
+30232368_2763	214	239	phospholipase A2 group VI	Gene-protein	HGNC:9039
+30232368_2763	214	239	phospholipase A2 group VI	Biomarker	D054522
+30232368_2763	241	247	PLA2G6	Gene-protein	HGNC:9039
+30232368_2763	253	268	F-box protein 7	Gene-protein	HGNC:13586
+30232368_2763	253	268	F-box protein 7	Biomarker	C489149
+30232368_2763	270	275	FBXO7	Gene-protein	HGNC:13586
+30232368_2763	282	289	ATP13A2	Gene-protein
+30232368_2763	282	297	ATP13A2 (PARK9)	Biomarker	C514983
+30232368_2763	291	296	PARK9	Gene-protein	HGNC:30213
+30232368_2763	322	342	Kufor–Rakeb syndrome	Disease	DOID:0060556
+30232368_2763	344	347	KRS	Disease	DOID:0060556
+30232368_2763	376	477	recessive, juvenile-onset, atypical parkinsonism with pyramidal tract signs and cognitive dysfunction	Disease	not found
+30232368_2763	486	493	ATP13A2	Gene-protein
+30232368_2763	486	549	ATP13A2 gene encodes a lysosomal P-type ATPase, its dysfunction	Biomarker
+30232368_2763	519	532	P-type ATPase	Genefamily	family:414
+30232368_2763	562	582	lysosomal impairment	Biomarker
+30232368_2763	562	638	lysosomal impairment, α-synuclein accumulation and mitochondrial dysfunction	Collection
+30232368_2763	584	595	α-synuclein	Gene-protein	HGNC:11138
+30232368_2763	584	608	α-synuclein accumulation	Biomarker
+30232368_2763	613	638	mitochondrial dysfunction	Biomarker	D028361
+30232368_2763	669	671	PD	Disease	DOID:14330
+30232368_2763	702	709	ATP13A2	Gene-protein
+30232368_2763	702	718	ATP13A2 variants	Biomarker
+30232368_2763	746	748	PD	Disease
+30232368_2763	767	773	PLA2G6	Gene-protein	HGNC:9039
+30232368_2763	767	773	PLA2G6	Biomarker	D054522
+30232368_2763	775	781	PARK14	Gene-protein	HGNC:9039
+30232368_2763	804	849	VIA calcium-independent phospholipase A2 beta	Gene-protein	HGNC:9039
+30232368_2763	808	815	calcium	Chemical
+30232368_2763	907	934	neurodegenerative disorders	Disease	DOID:1289
+30232368_2763	940	981	increased basal ganglia iron accumulation	Biomarker
+30232368_2763	964	968	iron	Chemical
+30232368_2763	991	1022	infantile neuroaxonal dystrophy	Disease	DOID:0110735
+30232368_2763	1024	1028	INAD	Disease	DOID:0110735
+30232368_2763	1034	1080	neurodegeneration with brain iron accumulation	Disease	DOID:0110734
+30232368_2763	1063	1067	iron	Chemical
+30232368_2763	1082	1086	NBIA	Disease	DOID:0110734
+30232368_2763	1160	1196	juvenile-onset dystonia parkinsonism	Disease	not found
+30232368_2763	1160	1222	juvenile-onset dystonia parkinsonism and classic idiopathic PD	Collection
+30232368_2763	1201	1222	classic idiopathic PD	Disease	not found
+30232368_2763	1237	1242	FBOX7	Gene-protein
+30232368_2763	1244	1250	PARK15	Gene-protein	HGNC:13586
+30232368_2763	1268	1277	E3 ligase	Genefamily	not found
+30232368_2763	1279	1299	F-box only protein 7	Gene-protein	HGNC:13586
+30232368_2763	1322	1331	ubiquitin	Genefamily	not found
+30232368_2763	1388	1421	Pathogenic variants in FBXO7 gene	Biomarker
+30232368_2763	1411	1416	FBXO7	Gene-protein
+30232368_2763	1446	1450	EOPD	Disease	DOID:0060894
+30232368_2763	1475	1481	Parkin	Gene-protein	HGNC:8607
+30232368_2763	1475	1481	Parkin	Biomarker	C111567
+30232368_2763	1475	1491	Parkin and PINK1	Collection
+30232368_2763	1486	1491	PINK1	Gene-protein	HGNC:14581
+30232368_2763	1486	1491	PINK1	Biomarker	C433927
+

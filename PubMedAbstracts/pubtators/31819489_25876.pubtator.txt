@@ -1,0 +1,36 @@
+31819489_25876|t|RSS_IDENT_p_31819489_b_1_4_5
+31819489_25876|a| Emerging evidence reveals that lincRNAs can act as a ceRNA to sponge miRNAs and then regulate the expression of the targets of miRNA. In this study, LINC00667 was predicted and confirmed to be a ceRNA of miR-143-3p. LINC00667 has been reported to be associated with survival of small hepatocellular carcinoma patients, 32 but its role in NSCLC remains unclear. Database analysis and RT-qPCR detection results demonstrated that LINC00667 was highly expressed in cancer tissues and NSCLC cell lines. The result of dual‑luciferase reporter assay further validated the association between LINC00667 and miR-143-3p. Moreover, we found that the expression of LINC00667 and miR-143-3p was antagonistic to each other in NSCLC cell lines. RIP analysis further confirmed the association between the two ncRNAs. The expression of RRM2 was regulated by both LINC00667 and miR-143-3p, and all three molecules synergistically control the growth of NSCLC cell lines. In vivo experiments also discovered that LINC00667 knockdown or miR-143-3p overexpression could decrease the expression of RRM2 and proliferation-related genes, therefore inhibiting the growth of tumor. Recently Zhou et al reported that LINC00667 was one of seven lincRNAs involved in the progression of NSCLS, which is consistent with our current findings. 33 
+31819489_25876	179	188	LINC00667	Rna-noncoding	HGNC:27906
+31819489_25876	234	244	miR-143-3p	Rna-noncoding	HGNC:31530
+31819489_25876	246	255	LINC00667	Rna-noncoding
+31819489_25876	246	255	LINC00667	Biomarker
+31819489_25876	314	338	hepatocellular carcinoma	Disease	DOID:684
+31819489_25876	368	373	NSCLC	Disease	DOID:3908
+31819489_25876	457	466	LINC00667	Rna-noncoding
+31819489_25876	457	487	LINC00667 was highly expressed	Biomarker
+31819489_25876	491	497	cancer	Disease	DOID:14566|DOID:162
+31819489_25876	491	515	cancer tissues and NSCLC	Collection
+31819489_25876	510	515	NSCLC	Disease
+31819489_25876	615	624	LINC00667	Rna-noncoding
+31819489_25876	615	624	LINC00667	Biomarker
+31819489_25876	629	639	miR-143-3p	Rna-noncoding
+31819489_25876	629	639	miR-143-3p	Biomarker
+31819489_25876	669	707	expression of LINC00667 and miR-143-3p	Biomarker
+31819489_25876	683	692	LINC00667	Rna-noncoding
+31819489_25876	697	707	miR-143-3p	Rna-noncoding
+31819489_25876	742	747	NSCLC	Disease
+31819489_25876	849	853	RRM2	Gene-protein	HGNC:10452
+31819489_25876	849	941	RRM2 was regulated by both LINC00667 and miR-143-3p, and all three molecules synergistically	Biomarker
+31819489_25876	876	885	LINC00667	Rna-noncoding
+31819489_25876	890	900	miR-143-3p	Rna-noncoding
+31819489_25876	964	969	NSCLC	Disease
+31819489_25876	1023	1032	LINC00667	Rna-noncoding
+31819489_25876	1023	1042	LINC00667 knockdown	Drug	not found
+31819489_25876	1023	1071	LINC00667 knockdown or miR-143-3p overexpression	Collection
+31819489_25876	1046	1056	miR-143-3p	Rna-noncoding
+31819489_25876	1046	1071	miR-143-3p overexpression	Drug	not found
+31819489_25876	1105	1109	RRM2	Gene-protein
+31819489_25876	1178	1183	tumor	Disease	DOID:162
+31819489_25876	1219	1228	LINC00667	Rna-noncoding
+31819489_25876	1219	1228	LINC00667	Biomarker
+

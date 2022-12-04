@@ -1,0 +1,38 @@
+T0	Disease 45 47	BC
+#1	AnnotatorNotes T0	DOID:1612
+T1	Gene-Protein 615 620	CD161
+T2	Gene-Protein 654 659	CD163
+T3	Gene-Protein 661 666	CD206
+T4	Gene-Protein 449 453	CD45
+#2	AnnotatorNotes T4	HGNC:9666
+T5	GeneFamily 455 458	CD3
+#3	AnnotatorNotes T5	not found
+T6	GeneFamily 460 463	CD8
+#4	AnnotatorNotes T6	not found
+T7	Gene-Protein 490 494	CD45
+T8	GeneFamily 496 499	CD3
+T9	Gene-Protein 501 504	CD4
+T10	Gene-Protein 535 539	CD45
+T11	GeneFamily 541 544	CD3
+T12	Gene-Protein 546 549	CD4
+T13	Gene-Protein 584 588	CD45
+T14	Gene-Protein 590 594	CD19
+#5	AnnotatorNotes T14	HGNC:1633
+T15	Gene-Protein 609 613	CD45
+#6	AnnotatorNotes T1	HGNC:6373
+T16	Gene-Protein 641 645	CD45
+#7	AnnotatorNotes T2	HGNC:1631
+#8	AnnotatorNotes T3	HGNC:7228
+T17	Gene-Protein 647 652	CD11b
+#9	AnnotatorNotes T17	HGNC:6149
+T18	Gene-Protein 693 698	CD11b
+T19	Gene-Protein 687 691	CD45
+T20	Gene-Protein 748 752	CD45
+T21	Gene-Protein 754 758	CD1c
+#10	AnnotatorNotes T21	HGNC:1636
+T22	Gene-Protein 786 790	CD15
+#11	AnnotatorNotes T22	HGNC:4015
+T23	Gene-Protein 780 784	CD45
+T24	GeneFamily 1134 1140	HLA-DR
+#12	AnnotatorNotes T24	not found
+#13	AnnotatorNotes T9	HGNC:1678

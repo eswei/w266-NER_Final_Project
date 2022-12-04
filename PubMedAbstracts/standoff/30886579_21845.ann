@@ -1,0 +1,88 @@
+T0	Disease 111 116	tumor
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 132 137	HNSCC
+T12	Disease 801 834	laryngeal squamous cell carcinoma
+#4	AnnotatorNotes T12	DOID:2876
+T15	Disease 920 925	HNSCC
+T18	Disease 968 974	cancer
+#8	AnnotatorNotes T18	DOID:162
+T19	Disease 1069 1074	tumor
+T20	Disease 1114 1119	HNSCC
+T21	Disease 1135 1141	tumors
+T25	Disease 1353 1367	oral carcinoma
+#12	AnnotatorNotes T25	DOID:0050866
+T26	Disease 1413 1419	tumors
+T27	Disease 1509 1514	HNSCC
+T29	Disease 1587 1592	HNSCC
+T3	Disease 239 244	HNSCC
+T31	Disease 1754 1769	cervical cancer
+#17	AnnotatorNotes T31	DOID:4362
+T4	Disease 267 272	HNSCC
+T8	Disease 441 447	tumors
+#20	AnnotatorNotes T8	DOID:162
+T2	RNA-Noncoding 190 196	HOTAIR
+#2	AnnotatorNotes T2	HGNC:33510
+T5	RNA-Noncoding 160 188	HOX transcript antisense RNA
+#6	AnnotatorNotes T5	HGNC:33510
+T6	RNA-Noncoding 334 340	HOTAIR
+T7	RNA-Noncoding 527 533	HOTAIR
+T9	RNA-Noncoding 401 407	HOTAIR
+T10	RNA-Noncoding 583 591	mir-301b
+T11	RNA-Noncoding 593 601	mir-193b
+#3	AnnotatorNotes T11	family:1761
+T13	RNA-Noncoding 607 613	mir-31
+#5	AnnotatorNotes T13	HGNC:31630
+T14	RNA-Noncoding 638 646	mir-216a
+#10	AnnotatorNotes T14	family:1763
+T16	RNA-Noncoding 648 655	mir-206
+#14	AnnotatorNotes T16	HGNC:31584
+T22	RNA-Noncoding 661 668	mir-375
+#15	AnnotatorNotes T22	HGNC:31868
+T23	RNA-Noncoding 720 732	hsa-mir-301b
+#16	AnnotatorNotes T23	 HGNC:33667
+T24	RNA-Noncoding 734 749	hsa-miR-301a-3p
+#18	AnnotatorNotes T24	HGNC:31622
+T28	Gene-Protein 862 867	Smad4
+#19	AnnotatorNotes T28	HGNC:6770
+T30	RNA-Noncoding 889 897	MiR-193b
+#21	AnnotatorNotes T30	family:1761
+T32	RNA-Noncoding 951 959	miR-193b
+T33	RNA-Noncoding 1167 1175	miR-193b
+T34	RNA-Noncoding 1248 1256	miR-193b
+T35	RNA-Noncoding 1442 1448	miR-31
+T36	RNA-Noncoding 1544 1551	miR-206
+T37	RNA-Noncoding 1556 1563	miR-375
+T38	RNA-Noncoding 1740 1750	miR-216-5p
+T39	RNA-Noncoding 1301 1307	miR-31
+T40	RNA-Noncoding 538 544	HOTTIP
+#22	AnnotatorNotes T40	HGNC:37461
+T17	Collection 111 137	tumor progression of HNSCC
+T41	Biomarker 63 69	ncRNAs
+R1	Association Arg1:T41 Arg2:T17	
+T42	Biomarker 153 188	lncRNA HOX transcript antisense RNA
+R2	Association Arg1:T42 Arg2:T3	
+T43	Biomarker 302 340	robust expression/activation of HOTAIR
+R3	Association Arg1:T43 Arg2:T4	
+T44	Biomarker 383 407	Overexpression of HOTAIR
+R4	Association Arg1:T44 Arg2:T8	
+T45	Biomarker 889 916	MiR-193b was over-expressed
+R5	Association Arg1:T45 Arg2:T15	
+T46	Biomarker 734 749	hsa-miR-301a-3p
+R6	Association Arg1:T46 Arg2:T12	
+T47	Drug 938 959	Knockdown of miR-193b
+#7	AnnotatorNotes T47	not found
+R7	Response Arg1:T47 Arg2:T18	
+T48	CellLine 963 967	FaDu
+T49	Biomarker 1152 1175	high levels of miR-193b
+T50	Collection 1114 1141	HNSCC patients whose tumors
+R8	Prognostic-Poor Arg1:T49 Arg2:T50	
+T51	Biomarker 1301 1335	miR-31 was significantly increased
+T52	Collection 1354 1419	ral carcinoma at all clinical stages, including very small tumors
+R9	Association Arg1:T51 Arg2:T52	
+T53	Biomarker 1544 1583	miR-206 and miR-375 were down-regulated
+R10	Association Arg1:T53 Arg2:T29	
+T54	Biomarker 1720 1750	expression level of miR-216-5p
+R11	Association Arg1:T54 Arg2:T31	
+#9	AnnotatorNotes T41	D062085
+#11	AnnotatorNotes T1	DOID:5520
+T55	RNA-Noncoding 63 69	ncRNAs

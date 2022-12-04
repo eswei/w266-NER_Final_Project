@@ -1,0 +1,127 @@
+T10	Biomarker 363 410	higher levels of CD2‐associated protein (CD2AP)
+T11	Disease 467 470	HCV
+T13	Chemical 874 897	adenosine monophosphate
+T14	Disease 1014 1026	HCV‐infected
+T15	Biomarker 1040 1072	CD2AP expression is up‐regulated
+T16	Disease 1152 1167	liver steatosis
+#6	AnnotatorNotes T16	DOID:9452
+T17	Disease 1223 1235	HCV‐infected
+T18	Disease 1265 1274	steatosis
+T19	Biomarker 1326 1370	CD2AP is indicated as a protein up‐regulated
+T2	Biomarker 28 69	Chronic hepatitis C virus (HCV) infection
+T20	Disease 1374 1387	HCV infection
+T21	Disease 1416 1419	HCV
+T22	Disease 1436 1445	steatosis
+T24	Disease 1536 1549	HCV infection
+T25	Chemical 1637 1647	acetyl‐CoA
+T26	Chemical 1695 1718	adenosine monophosphate
+T29	Disease 1924 1927	HCC
+T30	Disease 1928 1952	hepatocellular carcinoma
+#20	AnnotatorNotes T30	DOID:684
+T33	Disease 2141 2143	LS
+T34	Disease 2144 2159	liver steatosis
+T35	Chemical 2193 2203	oleic acid
+T4	Disease 84 93	steatosis
+#26	AnnotatorNotes T4	DOID:9452
+T7	Disease 275 288	HCV infection
+#29	AnnotatorNotes T7	DOID:1883
+T8	Disease 293 302	steatosis
+T9	Disease 339 351	HCV‐infected
+R1	Association Arg1:T2 Arg2:T4	
+T1	Chemical 151 156	lipid
+T3	Chemical 184 189	lipid
+R2	Association Arg1:T10 Arg2:T9	
+T6	Gene-Protein 404 409	CD2AP
+T36	Gene-Protein 380 402	CD2‐associated protein
+#1	AnnotatorNotes T36	HGNC:14258
+#2	AnnotatorNotes T6	HGNC:14258
+T37	Gene-Protein 633 638	CD2AP
+T38	Gene-Protein 494 499	CD2AP
+T39	Gene-Protein 1040 1045	CD2AP
+T40	Gene-Protein 1489 1494	CD2AP
+T41	Gene-Protein 1182 1187	CD2AP
+T42	Gene-Protein 1836 1841	CD2AP
+T43	Gene-Protein 1842 1864	CD2‐associated protein
+T44	GeneFamily 1865 1868	Erk
+T45	GeneFamily 1869 1906	extracellular signal‐regulated kinase
+T46	Gene-Protein 2047 2051	IRS1
+T47	Gene-Protein 2052 2080	insulin receptor substrate 1
+T49	Gene-Protein 2160 2164	NS5A
+T50	Gene-Protein 1910 1923	hemagglutinin
+T51	Biomarker 485 499	Elevated CD2AP
+T52	Biomarker 620 638	Up‐regulated CD2AP
+T53	Gene-Protein 659 685	casitas B‐lineage lymphoma
+#4	AnnotatorNotes T53	HGNC:1541
+T54	Gene-Protein 691 694	Cbl
+#5	AnnotatorNotes T54	HGNC:1541
+T55	Gene-Protein 724 752	insulin receptor substrate 1
+T56	Gene-Protein 846 850	IRS1
+#7	AnnotatorNotes T55	HGNC:6125
+T57	GeneFamily 869 872	Akt
+#9	AnnotatorNotes T57	family:1900
+T58	GeneFamily 851 867	protein kinase B
+#10	AnnotatorNotes T58	family:1900
+T59	Gene-Protein 695 700	Cbl‐b
+#11	AnnotatorNotes T59	 HGNC:1542
+T60	Gene-Protein 754 758	IRS1
+#13	AnnotatorNotes T60	HGNC:6125
+T61	Gene-Protein 786 793	insulin
+#15	AnnotatorNotes T61	HGNC:6081
+T12	GeneFamily 924 928	AMPK
+#16	AnnotatorNotes T12	not found
+T62	GeneFamily 874 922	adenosine monophosphate‐activated protein kinase
+#18	AnnotatorNotes T62	not found
+T63	Gene-Protein 930 954	hormone‐sensitive lipase
+#19	AnnotatorNotes T63	HGNC:6621
+T64	Gene-Protein 956 959	HSL
+#23	AnnotatorNotes T64	HGNC:6621
+R3	Association Arg1:T15 Arg2:T14	
+R4	Association Arg1:T15 Arg2:T16	
+T65	Biomarker 1182 1201	CD2AP up‐regulation
+R5	Association Arg1:T65 Arg2:T17	
+T66	Gene-Protein 1326 1331	CD2AP
+R6	Association Arg1:T19 Arg2:T20	
+T67	Gene-Protein 1460 1467	insulin
+T23	Drug 1479 1494	targeting CD2AP
+#8	AnnotatorNotes T23	not found
+R7	Response Arg1:T23 Arg2:T24	
+T68	Gene-Protein 1637 1668	acetyl‐CoA carboxylases 1 and 2
+T69	Gene-Protein 1630 1636	ACC1/2
+T70	GeneFamily 1669 1672	Akt
+T71	GeneFamily 1673 1689	protein kinase B
+T72	GeneFamily 1690 1694	AMPK
+T73	GeneFamily 1695 1725	adenosine monophosphate kinase
+T74	Gene-Protein 1795 1798	Cbl
+T75	Gene-Protein 1799 1804	Cbl‐b
+T76	Gene-Protein 1805 1835	casitas B‐lineage lymphoma (b)
+T27	Gene-Protein 1979 2003	hormone‐sensitive lipase
+T28	Gene-Protein 2007 2021	immunoglobulin
+T77	Gene-Protein 1975 1978	HSL
+T78	Gene-Protein 2004 2006	Ig
+T79	Gene-Protein 1907 1909	HA
+T80	Gene-Protein 1792 1794	HA
+#12	AnnotatorNotes T29	DOID:684
+#14	AnnotatorNotes T33	DOID:9452
+T31	Chemical 2190 2192	OA
+T32	Gene-Protein 2221 2224	SH3
+T48	Gene-Protein 2225 2239	Src homology 3
+T81	MicroOrganism 28 53	Chronic hepatitis C virus
+T82	MicroOrganism 55 58	HCV
+#17	AnnotatorNotes T9	DOID:1883
+T83	MicroOrganism 1953 1956	HCV
+T84	MicroOrganism 1957 1974	hepatitis C virus
+T85	MicroOrganism 275 278	HCV
+T86	MicroOrganism 339 342	HCV
+T87	MicroOrganism 1014 1017	HCV
+T88	MicroOrganism 1536 1539	HCV
+T89	MicroOrganism 1374 1377	HCV
+T90	MicroOrganism 1223 1226	HCV
+T91	MicroOrganism 1291 1294	HCV
+T5	MicroOrganism 230 233	HCV
+T92	Disease 2086 2121	Japanese fulminant hepatitis type 1
+#3	AnnotatorNotes T92	not found
+T93	Disease 2081 2085	JFH1
+#21	AnnotatorNotes T93	not found
+T94	Chemical 2122 2125	LDs
+T95	Chemical 2126 2140	lipid droplets
+T96	Gene-Protein 2165 2189	nonstructural protein 5A

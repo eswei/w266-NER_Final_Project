@@ -1,0 +1,68 @@
+29578370_21033|t|RSS_IDENT_p_29578370_b_1_5_3
+29578370_21033|a| In Hutchinson-Gilford progeria, severe premature atherosclerosis leads to myocardial infarction and strokes, the major causes of patients’ death at a mean age of 14.6 years. This has been linked to accumulation of progerin, a farnesylated mutated form of prelamin A expressed in patient's cells [ 99–101 ]. We observed, in FPLD2, that p.Arg482Trp prelamin A accumulated abnormally at the nuclear envelope and induced endothelial cell dysfunction with increased oxidative stress and cellular senescence [ 98 ]. Additionally, we recently showed that several LMNA mutations, either leading to a lipodystrophy typical of the FPLD2 type, or associated with signs of premature ageing, also triggered vascular smooth muscle cell senescence with osteoblastic transdifferentiation and calcification [ 102 ]. This could lead to early vascular calcifications, as observed in patients [ 102 ]. All together, these studies suggest that LMNA mutations responsible for lipodystrophies may directly affect the arterial wall, resulting in early atherosclerosis and vascular calcification, in addition to atherosclerotic lesions resulting from associated metabolic risk factors (Figure 4). In human induced pluripotent stem cells, p.R482W lamin A was recently shown to deregulate the network of genes involved in early vascular differentiation, which is also in favor of a cell-autonomous origin of endothelial cell dysfunction in FPLD2 [ 103 ]. This should encourage researchers to develop therapeutic strategies aiming at minimizing the cellular amount and toxicity of pathogenic A-type lamin variants, not only in Hutchinson-Gilford progeria but also in LMNA-linked lipodystrophic diseases. Figure 4. Vascular effects of LMNA mutations causing lipodystrophy. A. Prelamin-A physiologically undergoes a complex post-translational maturation process affecting its C-terminal CaaX motif. After farnesylation of the carboxy-terminal cysteine, aaX amino acids are removed, farnesyl-cysteine is carboxymethylated, then the 15 C-terminal amino acids are cleaved by the metalloprotease ZMPSTE24 to produce mature lamin A. B. Lipodystrophy-causing mutations in LMNA lead to accumulation of farnesylated prelamin A and nuclear envelope disorganization. C. Accumulation of prelamin A pathogenic variants at the nuclear envelope induces oxidative stress, inflammation and cellular senescence. These cellular alterations contribute to endothelial cell dysfunction and to osteoblastic transdifferentiation of vascular smooth muscle cell, promoting atherosclerosis and vascular calcification.
+29578370_21033	33	60	Hutchinson-Gilford progeria	Disease	DOID:3911
+29578370_21033	69	94	premature atherosclerosis	Biomarker
+29578370_21033	104	125	myocardial infarction	Disease	DOID:5844
+29578370_21033	104	137	myocardial infarction and strokes	Collection
+29578370_21033	130	137	strokes	Disease	D020521
+29578370_21033	228	305	accumulation of progerin, a farnesylated mutated form of prelamin A expressed	Biomarker
+29578370_21033	285	295	prelamin A	Gene-protein	not found
+29578370_21033	353	358	FPLD2	Disease	DOID:0070202
+29578370_21033	365	376	p.Arg482Trp	Variant	p.Arg482Trp
+29578370_21033	377	387	prelamin A	Gene-protein
+29578370_21033	447	475	endothelial cell dysfunction	Biomarker
+29578370_21033	481	531	increased oxidative stress and cellular senescence	Biomarker	D018384
+29578370_21033	586	590	LMNA	Gene-protein	HGNC:6636
+29578370_21033	586	600	LMNA mutations	Biomarker
+29578370_21033	622	635	lipodystrophy	Disease	DOID:811
+29578370_21033	622	656	lipodystrophy typical of the FPLD2	Collection
+29578370_21033	651	656	FPLD2	Disease
+29578370_21033	682	707	signs of premature ageing	Biomarker
+29578370_21033	724	801	vascular smooth muscle cell senescence with osteoblastic transdifferentiation	Biomarker
+29578370_21033	806	819	calcification	Biomarker
+29578370_21033	854	877	vascular calcifications	Disease	D061205
+29578370_21033	953	957	LMNA	Gene-protein
+29578370_21033	953	967	LMNA mutations	Biomarker
+29578370_21033	984	999	lipodystrophies	Disease	DOID:811
+29578370_21033	984	1140	lipodystrophies may directly affect the arterial wall, resulting in early atherosclerosis and vascular calcification, in addition to atherosclerotic lesions	Collection
+29578370_21033	1052	1073	early atherosclerosis	Disease	not found
+29578370_21033	1078	1100	vascular calcification	Disease
+29578370_21033	1117	1140	atherosclerotic lesions	Disease	DOID:1936
+29578370_21033	1167	1189	metabolic risk factors	Biomarker
+29578370_21033	1243	1250	p.R482W	Variant	p.Arg482Trp
+29578370_21033	1251	1258	lamin A	Gene-protein	HGNC:6636
+29578370_21033	1443	1448	FPLD2	Disease
+29578370_21033	1594	1606	A-type lamin	Gene-protein	HGNC:6636
+29578370_21033	1594	1615	A-type lamin variants	Biomarker
+29578370_21033	1629	1656	Hutchinson-Gilford progeria	Disease
+29578370_21033	1629	1704	Hutchinson-Gilford progeria but also in LMNA-linked lipodystrophic diseases	Collection
+29578370_21033	1669	1673	LMNA	Gene-protein
+29578370_21033	1669	1704	LMNA-linked lipodystrophic diseases	Disease	not found
+29578370_21033	1736	1740	LMNA	Gene-protein
+29578370_21033	1736	1750	LMNA mutations	Biomarker
+29578370_21033	1759	1772	lipodystrophy	Disease
+29578370_21033	1777	1787	Prelamin-A	Gene-protein	not found
+29578370_21033	1943	1951	cysteine	Chemical
+29578370_21033	1957	1968	amino acids	Chemical
+29578370_21033	1982	1999	farnesyl-cysteine	Chemical
+29578370_21033	2003	2020	carboxymethylated	Chemical
+29578370_21033	2034	2035	C	Chemical
+29578370_21033	2092	2100	ZMPSTE24	Gene-protein	 HGNC:12877
+29578370_21033	2119	2126	lamin A	Gene-protein
+29578370_21033	2131	2144	Lipodystrophy	Disease	DOID:811
+29578370_21033	2153	2170	mutations in LMNA	Biomarker
+29578370_21033	2166	2170	LMNA	Gene-protein
+29578370_21033	2208	2218	prelamin A	Gene-protein
+29578370_21033	2276	2286	prelamin A	Gene-protein
+29578370_21033	2276	2306	prelamin A pathogenic variants	Biomarker
+29578370_21033	2339	2355	oxidative stress	Disease
+29578370_21033	2339	2369	oxidative stress, inflammation	Collection
+29578370_21033	2357	2369	inflammation	Disease	D007249
+29578370_21033	2374	2393	cellular senescence	Biomarker	D016922
+29578370_21033	2401	2421	cellular alterations	Biomarker
+29578370_21033	2436	2464	endothelial cell dysfunction	Biomarker
+29578370_21033	2472	2536	osteoblastic transdifferentiation of vascular smooth muscle cell	Biomarker
+29578370_21033	2548	2563	atherosclerosis	Disease	DOID:1936
+29578370_21033	2548	2590	atherosclerosis and vascular calcification	Collection
+29578370_21033	2568	2590	vascular calcification	Disease
+

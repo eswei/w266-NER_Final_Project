@@ -1,0 +1,26 @@
+31671693_4353|t|RSS_IDENT_s_31671693_b_1_2
+31671693_4353|a| 2. Results 2.1. Identification of Mutations in AR and CYP11A1 Case No.1: The AR sequence of this individual revealed a novel mutation within the first exon in the N-terminal transactivation domain (NTD). Thymine deletion in the NTD (c.840delT) resulted in a frameshift and introduction of a premature stop codon at amino acid 282 (Figure 1A). Case No.2: The AR sequence of this individual revealed a mutation within the seventh exon in the ligand domain. The C>T substitution (c.2491C>T) resulted in an amino acid change from Leucine to Phenylalanine at position 831 (Figure 1B). Case No.3: Sanger sequencing did not detect a mutation in the coding region of the AR gene. Therefore, we decided to use the RNA-seq results and identify the SNP (Single Nucleotide Polymorphism) variants, because in this case we only had the RNA material. Analysis of RNA-Seq data indicated a heterozygous mutation in the CYP11A1 gene, which was subsequently confirmed by Sanger sequencing. The mutation was a G>T substitution (c.73G>T), which resulted in a frameshift and introduction of a premature stop codon at amino acid 25 referring to the reference sequence NM_000781 (Figure 1C).
+31671693_4353	62	89	Mutations in AR and CYP11A1	Biomarker
+31671693_4353	75	77	AR	Gene-protein	HGNC:644
+31671693_4353	82	89	CYP11A1	Gene-protein	HGNC:2590
+31671693_4353	105	107	AR	Gene-protein
+31671693_4353	191	192	N	Chemical
+31671693_4353	191	224	N-terminal transactivation domain	Proteindomain
+31671693_4353	226	229	NTD	Proteindomain
+31671693_4353	232	239	Thymine	Chemical
+31671693_4353	256	259	NTD	Proteindomain
+31671693_4353	261	270	c.840delT	Variant
+31671693_4353	386	388	AR	Gene-protein
+31671693_4353	468	481	ligand domain	Proteindomain
+31671693_4353	487	490	C>T	Variant
+31671693_4353	487	594	C>T substitution (c.2491C>T) resulted in an amino acid change from Leucine to Phenylalanine at position 831	Collection
+31671693_4353	505	514	c.2491C>T	Variant
+31671693_4353	531	541	amino acid	Chemical
+31671693_4353	554	594	Leucine to Phenylalanine at position 831	Variant	p.Leu831Phe
+31671693_4353	691	693	AR	Gene-protein
+31671693_4353	930	937	CYP11A1	Gene-protein
+31671693_4353	1018	1021	G>T	Variant
+31671693_4353	1018	1044	G>T substitution (c.73G>T)	Collection
+31671693_4353	1036	1043	c.73G>T	Variant
+31671693_4353	1123	1133	amino acid	Chemical
+

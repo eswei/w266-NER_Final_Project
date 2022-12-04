@@ -1,0 +1,45 @@
+31249473_25917|t|RSS_IDENT_p_31249473_b_1_4_3
+31249473_25917|a| HMGA2 is a nuclear-binding protein that plays key regulators in cell growth and invasion. In gastric cancer development and progression, HMGA2 was identified as oncogenes in previous study. Elevated HMGA2 expression levels were significantly associated with poor clinical prognosis [ 19 ]. HMGA2-FOXL2 axis regulates metastases and epithelial-to-mesenchymal transition of chemo-resistant gastric cancer [ 20 ]. HMGA2 regulates epithelial–mesenchymal transition and the acquisition of tumor stem cell properties through TWIST1 in gastric cancer [ 21 ]. HMGA2 could promote vasculogenic mimicry and tumor aggressiveness by upregulating Twist1 in gastric carcinoma [ 22 ]. In GC, the other targets of miR-503 showed little report. Li showed that upregulation of circular RNA circ-ERBB2 predicts unfavorable prognosis and facilitates the progression of gastric cancer via miR-503/CACUL1 signaling [ 23 ]. Our results indicated that HMGA2 is a target of miR-503 in GC, and HMGA2 overexpression promoted GC cell proliferation and invasion. Moreover, HMGA2 overexpression mediated the inhibiting effects by miR-503 on GC cell proliferation and invasion (Fig. 8). Fig. 8 MiR-503 suppresses cell proliferation and invasion of gastric cancer by targeting HMGA2 and inactivating WNT signaling pathway 
+31249473_25917	30	35	HMGA2	Gene-protein	HGNC:5009
+31249473_25917	123	137	gastric cancer	Disease	DOID:10534
+31249473_25917	167	172	HMGA2	Gene-protein
+31249473_25917	220	252	Elevated HMGA2 expression levels	Biomarker
+31249473_25917	229	234	HMGA2	Gene-protein
+31249473_25917	320	325	HMGA2	Gene-protein
+31249473_25917	320	346	HMGA2-FOXL2 axis regulates	Biomarker
+31249473_25917	326	331	FOXL2	Gene-protein	HGNC:1092
+31249473_25917	402	432	chemo-resistant gastric cancer	Disease	not found
+31249473_25917	441	446	HMGA2	Gene-protein
+31249473_25917	441	446	HMGA2	Biomarker	D025743
+31249473_25917	514	519	tumor	Disease	DOID:162
+31249473_25917	514	573	tumor stem cell properties through TWIST1 in gastric cancer	Collection
+31249473_25917	549	555	TWIST1	Gene-protein	HGNC:12428
+31249473_25917	559	573	gastric cancer	Disease
+31249473_25917	582	587	HMGA2	Gene-protein
+31249473_25917	582	587	HMGA2	Biomarker
+31249473_25917	651	670	upregulating Twist1	Biomarker
+31249473_25917	664	670	Twist1	Gene-protein	HGNC:12428
+31249473_25917	674	691	gastric carcinoma	Disease	DOID:5517
+31249473_25917	703	705	GC	Disease	DOID:10534
+31249473_25917	728	735	miR-503	Rna-noncoding	HGNC:32138
+31249473_25917	773	812	upregulation of circular RNA circ-ERBB2	Biomarker
+31249473_25917	807	812	ERBB2	Gene-protein	HGNC:3430
+31249473_25917	879	893	gastric cancer	Disease
+31249473_25917	898	905	miR-503	Rna-noncoding
+31249473_25917	906	912	CACUL1	Gene-protein	HGNC:23727
+31249473_25917	958	963	HMGA2	Gene-protein
+31249473_25917	979	986	miR-503	Rna-noncoding
+31249473_25917	990	992	GC	Disease
+31249473_25917	998	1003	HMGA2	Gene-protein
+31249473_25917	998	1018	HMGA2 overexpression	Biomarker
+31249473_25917	1028	1030	GC	Disease
+31249473_25917	1074	1079	HMGA2	Gene-protein
+31249473_25917	1130	1137	miR-503	Rna-noncoding
+31249473_25917	1130	1137	miR-503	Drug	C545473
+31249473_25917	1141	1143	GC	Disease
+31249473_25917	1193	1200	MiR-503	Rna-noncoding	HGNC:32138
+31249473_25917	1193	1200	MiR-503	Drug	C545473
+31249473_25917	1247	1261	gastric cancer	Disease
+31249473_25917	1275	1280	HMGA2	Gene-protein
+31249473_25917	1298	1301	WNT	Genefamily	family:360
+

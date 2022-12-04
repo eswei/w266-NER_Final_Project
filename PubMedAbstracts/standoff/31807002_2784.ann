@@ -1,0 +1,135 @@
+T0	Biomarker 270 301	miRNAs are aberrantly expressed
+T1	Disease 311 318	cancers
+#1	AnnotatorNotes T1	DOID:162
+T10	Chemical 628 639	sphingosine
+T11	Disease 716 721	tumor
+T12	Disease 813 819	glioma
+T13	Biomarker 862 869	miR-33a
+T14	Disease 927 933	glioma
+T15	Biomarker 996 1006	miR-769-5p
+T16	Disease 1025 1031	cancer
+T17	Disease 1075 1103	oral squamous cell carcinoma
+#7	AnnotatorNotes T17	DOID:0050866
+T18	Disease 1105 1109	OSCC
+T19	Biomarker 1124 1162	downregulated expression of miR-769-5p
+T2	Disease 335 340	tumor
+#9	AnnotatorNotes T2	DOID:162
+T20	Biomarker 1205 1281	increased expression of let-7d-5p combining with miR-769-5p under-expression
+T21	Disease 1310 1336	non-small cell lung cancer
+#10	AnnotatorNotes T21	DOID:3908
+T22	Disease 1338 1343	NSCLC
+#11	AnnotatorNotes T22	DOID:3908
+T23	Biomarker 1349 1392	miR-769-5p expression is frequently reduced
+T24	Disease 1396 1413	colorectal cancer
+#12	AnnotatorNotes T24	DOID:9256
+T25	Disease 1415 1418	CRC
+T27	Drug 1608 1618	miR-769-5p
+T28	Disease 1675 1680	NSCLC
+T30	Disease 1951 1956	NSCLC
+T31	Biomarker 1973 2018	miR-769-5p expression is remarkably increased
+T32	Disease 2022 2030	melanoma
+#16	AnnotatorNotes T32	DOID:1909
+T33	Disease 2047 2053	cancer
+T35	Biomarker 2130 2140	miR-769-5p
+T36	Disease 2149 2154	tumor
+T37	Disease 2173 2197	hepatocellular carcinoma
+#19	AnnotatorNotes T37	DOID:684
+T38	Disease 2199 2202	HCC
+T39	Disease 2294 2300	glioma
+T4	Disease 375 382	gliomas
+#22	AnnotatorNotes T4	DOID:0060108
+T5	Biomarker 384 390	miRNAs
+T6	Disease 439 444	tumor
+T7	Biomarker 465 504	expression of miR-708 is down-regulated
+T8	Disease 508 514	glioma
+#24	AnnotatorNotes T8	D005910
+T9	Disease 602 608	glioma
+R1	Association Arg1:T0 Arg2:T1	
+T40	RNA-Noncoding 270 276	miRNAs
+#2	AnnotatorNotes T40	family:476
+T3	RNA-Noncoding 384 390	miRNAs
+#8	AnnotatorNotes T5	D035683
+R2	Association Arg1:T5 Arg2:T4	
+T41	RNA-Noncoding 479 486	miR-708
+#13	AnnotatorNotes T41	HGNC:33654
+R3	Association Arg1:T7 Arg2:T8	
+T42	GeneFamily 666 669	AKT
+#20	AnnotatorNotes T42	family:1900
+T43	Gene-Protein 650 655	SPHK2
+#23	AnnotatorNotes T43	HGNC:18859
+T44	Gene-Protein 628 648	sphingosine kinase 2
+#25	AnnotatorNotes T44	HGNC:18859
+T45	GeneFamily 670 679	β-catenin
+#26	AnnotatorNotes T45	family:1542
+T46	RNA-Noncoding 692 700	miR-4500
+#3	AnnotatorNotes T46	HGNC:41853
+T47	Gene-Protein 801 808	IGF2BP1
+#27	AnnotatorNotes T47	HGNC:28866
+T48	Gene-Protein 748 799	insulin-like growth factor 2 mRNA-binding protein 1
+#28	AnnotatorNotes T48	HGNC:28866
+T49	RNA-Noncoding 862 869	miR-33a
+#4	AnnotatorNotes T49	HGNC:31634
+#29	AnnotatorNotes T13	C550416
+R4	Association Arg1:T13 Arg2:T14	
+T50	Gene-Protein 952 973	suppressing sirtuin 6
+#5	AnnotatorNotes T50	HGNC:14934
+T51	Gene-Protein 975 980	SIRT6
+#30	AnnotatorNotes T51	HGNC:14934
+T52	RNA-Noncoding 996 1006	miR-769-5p
+#31	AnnotatorNotes T52	HGNC:33138
+#32	AnnotatorNotes T15	C546957
+R5	Association Arg1:T15 Arg2:T16	
+#6	AnnotatorNotes T16	DOID:162
+T53	RNA-Noncoding 1152 1162	miR-769-5p
+#33	AnnotatorNotes T18	DOID:0050866
+R6	Association Arg1:T19 Arg2:T17	
+T54	RNA-Noncoding 1254 1264	miR-769-5p
+T55	RNA-Noncoding 1229 1238	let-7d-5p
+#34	AnnotatorNotes T55	HGNC:31481
+A1	Conjunction T20
+R7	Prognostic-Poor Arg1:T20 Arg2:T21	
+T56	RNA-Noncoding 1349 1359	miR-769-5p
+R8	Association Arg1:T23 Arg2:T24	
+#35	AnnotatorNotes T25	DOID:9256
+T57	Gene-Protein 1482 1507	cyclin-dependent kinase 1
+#36	AnnotatorNotes T57	HGNC:1722
+T58	Gene-Protein 1509 1513	CDK1
+#37	AnnotatorNotes T58	HGNC:1722
+T26	Gene-Protein 1583 1587	HEY1
+#38	AnnotatorNotes T26	HGNC:4880
+T59	Gene-Protein 1519 1581	hes related family bHLH transcription factor with YRPW motif 1
+#39	AnnotatorNotes T59	HGNC:4880
+T60	RNA-Noncoding 1608 1618	miR-769-5p
+#40	AnnotatorNotes T27	C546957
+R9	Response Arg1:T27 Arg2:T28	
+T61	Gene-Protein 1745 1751	TGFBR1
+#14	AnnotatorNotes T61	HGNC:11772
+T62	Gene-Protein 1701 1743	transforming growth factor beta receptor 1
+#41	AnnotatorNotes T62	HGNC:11772
+T29	RNA-Noncoding 1799 1808	LINC00460
+#42	AnnotatorNotes T29	HGNC:42809
+T63	Biomarker 1771 1808	long noncoding RNA (lncRNA) LINC00460
+R10	Association Arg1:T63 Arg2:T30	
+T64	RNA-Noncoding 1845 1855	miR-769-5p
+T65	Gene-Protein 1867 1899	epidermal growth factor receptor
+#43	AnnotatorNotes T65	HGNC:3236
+T66	Gene-Protein 1901 1905	EGFR
+#44	AnnotatorNotes T66	HGNC:3236
+T67	RNA-Noncoding 1973 1983	miR-769-5p
+R11	Association Arg1:T31 Arg2:T32	
+T68	Gene-Protein 2086 2117	glycogen synthase kinase-3 beta
+#17	AnnotatorNotes T68	HGNC:4617
+T69	Gene-Protein 2119 2124	GSK3β
+#45	AnnotatorNotes T69	HGNC:4617
+T34	RNA-Noncoding 2130 2140	miR-769-5p
+R12	Association Arg1:T35 Arg2:T37	
+#18	AnnotatorNotes T38	DOID:684
+T70	Gene-Protein 2218 2247	RING1 and YY1 binding protein
+#46	AnnotatorNotes T70	HGNC:10480
+T71	Gene-Protein 2249 2253	RYBP
+#47	AnnotatorNotes T71	HGNC:10480
+T72	RNA-Noncoding 2280 2290	miR-769-5p
+T73	Biomarker 2280 2290	miR-769-5p
+T74	Biomarker 692 700	miR-4500
+#21	AnnotatorNotes T74	C000622739
+R13	Association Arg1:T74 Arg2:T12	

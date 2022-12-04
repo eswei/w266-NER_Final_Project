@@ -1,0 +1,86 @@
+T11	Disease 1170 1183	liver disease
+#2	AnnotatorNotes T11	DOID:409
+T15	Drug 1362 1373	oxaliplatin
+T16	Disease 1343 1384	CRLM patients with oxaliplatin-induced SD
+T18	Disease 1540 1555	drug-induced SD
+T2	Drug 372 383	oxaliplatin
+T21	Drug 1638 1649	oxaliplatin
+T22	Disease 1619 1660	CRLM patients with oxaliplatin-induced SD
+T5	Disease 612 627	drug-induced SD
+T7	Disease 943 959	cardiac fibrosis
+#14	AnnotatorNotes T7	not found
+T1	GeneFamily 96 101	NOTCH
+#1	AnnotatorNotes T1	family:1689
+T3	Biomarker 96 109	NOTCH pathway
+T6	Disease 114 126	inflammation
+#4	AnnotatorNotes T6	D007249
+R1	Association Arg1:T3 Arg2:T6	
+T8	Gene-Protein 280 284	IL16
+#5	AnnotatorNotes T8	HGNC:5980
+T9	Gene-Protein 315 319	CCL2
+#6	AnnotatorNotes T9	HGNC:10618
+#7	AnnotatorNotes T2	CHEMBL414804
+T4	Biomarker 392 414	Up-regulation of TGFB1
+T10	Gene-Protein 409 414	TGFB1
+#8	AnnotatorNotes T10	HGNC:11766
+T13	Disease 156 171	drug–induced SD
+#9	AnnotatorNotes T13	not found
+T17	Biomarker 210 319	up-regulation of genes involved in inflammation and repair, including IL16 (FDR<0.05 in both models) and CCL2
+#10	AnnotatorNotes T17	D019410
+T24	Disease 439 459	anti-DLl4-induced SD
+#12	AnnotatorNotes T24	not found
+R3	Association Arg1:T4 Arg2:T24	
+T25	Gene-Protein 482 486	IL16
+T26	GeneFamily 510 518	cytokine
+#13	AnnotatorNotes T26	not found
+T27	Gene-Protein 549 552	CD4
+#15	AnnotatorNotes T27	HGNC:1678
+T28	Gene-Protein 672 676	IL16
+T29	Gene-Protein 720 724	IL16
+T30	Gene-Protein 733 737	MMP9
+#16	AnnotatorNotes T30	HGNC:7176
+T31	Gene-Protein 778 782	IL16
+T32	Biomarker 862 887	increased IL16 expression
+T33	Gene-Protein 872 876	IL16
+R4	Association Arg1:T32 Arg2:T19	
+T34	Disease 1003 1036	increased macrophage infiltration
+T35	Disease 961 997	left ventricle myocardial stiffening
+T36	Gene-Protein 1045 1049	CCL2
+T37	GeneFamily 1073 1078	NOTCH
+T38	Gene-Protein 1162 1166	DLL4
+T39	Biomarker 1162 1166	DLL4
+#18	AnnotatorNotes T39	C424126
+R5	Association Arg1:T39 Arg2:T11	
+T12	Biomarker 1249 1293	down-regulation of CCL2 chemokine expression
+T40	Gene-Protein 1268 1272	CCL2
+T41	Biomarker 1318 1339	up-regulation of CCL2
+T42	Gene-Protein 1335 1339	CCL2
+A1	Conjunction T16
+#3	AnnotatorNotes T16	DOID:9256, not found
+R6	Association Arg1:T41 Arg2:T16	
+T14	Biomarker 1400 1421	up-regulation of CCL2
+T43	Gene-Protein 1417 1421	CCL2
+T44	Disease 1435 1455	anti-DLL4-induced SD
+R7	Association Arg1:T14 Arg2:T44	
+T45	GeneFamily 1503 1508	NOTCH
+T46	Biomarker 1484 1516	involvement of the NOTCH pathway
+R8	Association Arg1:T46 Arg2:T18	
+#19	AnnotatorNotes T18	not found
+T47	Gene-Protein 1566 1570	CCL2
+A2	Conjunction T22
+T20	Biomarker 1566 1615	CCL2 has previously been shown to be up-regulated
+R9	Association Arg1:T20 Arg2:T22	
+T49	Drug-Class 333 342	anti-DLL4
+T50	Gene-Protein 338 342	DLL4
+#17	AnnotatorNotes T50	HGNC:2910
+T51	Drug-Class 439 448	anti-DLl4
+T52	Gene-Protein 444 448	DLl4
+#20	AnnotatorNotes T52	HGNC:2910
+T53	Disease 846 860	cardiotoxicity
+#21	AnnotatorNotes T53	D066126
+T54	Biomarker 778 782	IL16
+R10	Association Arg1:T54 Arg2:T53	
+R2	Association Arg1:T17 Arg2:T13	
+#11	AnnotatorNotes T35	not found
+#22	AnnotatorNotes T34	not found
+T19	Collection 943 1036	cardiac fibrosis, left ventricle myocardial stiffening, and increased macrophage infiltration

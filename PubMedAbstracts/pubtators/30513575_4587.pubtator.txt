@@ -1,0 +1,72 @@
+30513575_4587|t|RSS_IDENT_p_30513575_b_1_1_5
+30513575_4587|a| Activation of the MAPK cascade via mutations and/or rearrangements of genes REarranged during Transfection (RET), Rat sarcoma (RAS), and proto-oncogene B-Raf (BRAF) occurs in ~70% of well-differentiated TCs. Among these abnormalities, BRAF is the most frequently mutated gene in TC, and a predictor of poor clinical prognosis and recurrence [ 14 ]. TC also shows mutations in PI3-K signaling effectors, such as Phosphatase and tensin homolog (PTEN) and phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha (PIK3CA) [ 15 ]. The PI3-K pathway may also be over-activated in TC by non-mutational mechanisms, such as dysregulation of the IGF system. In fact, we have previously demonstrated that both IGFs are locally produced in TCs: IGF-1 by stromal cells and IGF-2 by malignant thyrocytes, with higher values in malignant tissues compared to normal tissue [ 16 ]. In addition, IGF-1R and IR have been found to be overexpressed, especially in PDTCs. As a consequence of this overexpression, IR/IGF-1R hybrid formation and increased IGF-1 response occur. Another important finding is that overexpressed IR is predominantly present as the fetal IR-A isoform, and that malignant thyrocytes acquire the ability to produce IGF-2. This autocrine loop involving IGF-2 and the isoform IR-A is activated in different cancers and particularly in the PDTC histotypes [ 16 , 17 , 18 ], and exerts a crucial role in regulating stem-like properties, metastases, and resistance to therapies [ 19 , 20 , 21 , 22 ]. Indeed, IR-A, IGF-1R, and their ligands IGF-1 and IGF-2 are overexpressed in human thyroid progenitor cells, with a prevalence in progenitors from TC cells, where IGF-2 exerts a role in stimulating self-renewal and thyrosphere volume [ 20 ]. Furthermore, besides the formation of IR/IGF-1R hybrid receptors, the functional crosstalk between IR-A and other tyrosine kinase receptors such as the non-integrin collagen receptor, discoidin domain receptor 1 (DDR1), the receptor for the Hepatocyte Growth Factor (HGF) Met, and other still unknown partners might add more complexity to the contribution of IR-A in TC pathogenesis.
+30513575_4587	30	60	Activation of the MAPK cascade	Biomarker
+30513575_4587	48	52	MAPK	Genefamily	family:651
+30513575_4587	65	194	mutations and/or rearrangements of genes REarranged during Transfection (RET), Rat sarcoma (RAS), and proto-oncogene B-Raf (BRAF)	Biomarker
+30513575_4587	106	136	REarranged during Transfection	Gene-protein	HGNC:9967
+30513575_4587	138	141	RET	Gene-protein	HGNC:9967
+30513575_4587	144	155	Rat sarcoma	Genefamily	family:389
+30513575_4587	157	160	RAS	Genefamily	family:389
+30513575_4587	182	187	B-Raf	Gene-protein	HGNC:1097
+30513575_4587	189	193	BRAF	Gene-protein	HGNC:1097
+30513575_4587	233	236	TCs	Disease	DOID:1781
+30513575_4587	265	269	BRAF	Gene-protein
+30513575_4587	265	305	BRAF is the most frequently mutated gene	Biomarker
+30513575_4587	309	311	TC	Disease	DOID:1781
+30513575_4587	379	381	TC	Disease
+30513575_4587	393	562	mutations in PI3-K signaling effectors, such as Phosphatase and tensin homolog (PTEN) and phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha (PIK3CA)	Biomarker
+30513575_4587	406	411	PI3-K	Genefamily	family:831
+30513575_4587	441	471	Phosphatase and tensin homolog	Gene-protein	HGNC:9588
+30513575_4587	473	477	PTEN	Gene-protein	HGNC:9588
+30513575_4587	483	520	phosphatidylinositol-4,5-bisphosphate	Chemical
+30513575_4587	483	553	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha	Gene-protein	HGNC:8975
+30513575_4587	555	561	PIK3CA	Gene-protein	HGNC:8975
+30513575_4587	575	580	PI3-K	Genefamily
+30513575_4587	575	615	PI3-K pathway may also be over-activated	Biomarker
+30513575_4587	619	621	TC	Disease
+30513575_4587	660	691	dysregulation of the IGF system	Biomarker
+30513575_4587	681	684	IGF	Genefamily	not found
+30513575_4587	744	748	IGFs	Genefamily	not found
+30513575_4587	744	769	IGFs are locally produced	Biomarker
+30513575_4587	773	776	TCs	Disease
+30513575_4587	778	783	IGF-1	Gene-protein	HGNC:5464
+30513575_4587	805	810	IGF-2	Gene-protein	HGNC:5466
+30513575_4587	923	929	IGF-1R	Gene-protein	HGNC:5465
+30513575_4587	923	972	IGF-1R and IR have been found to be overexpressed	Biomarker
+30513575_4587	934	936	IR	Gene-protein	HGNC:6091
+30513575_4587	1036	1038	IR	Gene-protein
+30513575_4587	1039	1045	IGF-1R	Gene-protein
+30513575_4587	1077	1082	IGF-1	Gene-protein
+30513575_4587	1133	1149	overexpressed IR	Biomarker
+30513575_4587	1147	1149	IR	Gene-protein
+30513575_4587	1182	1200	fetal IR-A isoform	Biomarker
+30513575_4587	1188	1192	IR-A	Gene-protein	not found
+30513575_4587	1263	1268	IGF-2	Gene-protein
+30513575_4587	1275	1339	autocrine loop involving IGF-2 and the isoform IR-A is activated	Biomarker
+30513575_4587	1300	1305	IGF-2	Gene-protein
+30513575_4587	1322	1326	IR-A	Gene-protein
+30513575_4587	1353	1360	cancers	Disease	DOID:162
+30513575_4587	1353	1389	cancers and particularly in the PDTC	Collection
+30513575_4587	1385	1389	PDTC	Disease	not found
+30513575_4587	1552	1556	IR-A	Gene-protein
+30513575_4587	1552	1617	IR-A, IGF-1R, and their ligands IGF-1 and IGF-2 are overexpressed	Biomarker
+30513575_4587	1558	1564	IGF-1R	Gene-protein
+30513575_4587	1584	1589	IGF-1	Gene-protein
+30513575_4587	1594	1599	IGF-2	Gene-protein
+30513575_4587	1691	1693	TC	Disease
+30513575_4587	1707	1712	IGF-2	Gene-protein
+30513575_4587	1824	1826	IR	Gene-protein
+30513575_4587	1827	1833	IGF-1R	Gene-protein
+30513575_4587	1885	1889	IR-A	Gene-protein
+30513575_4587	1900	1908	tyrosine	Chemical
+30513575_4587	1900	1925	tyrosine kinase receptors	Genefamily	family:321
+30513575_4587	1938	1968	non-integrin collagen receptor	Gene-protein	not found
+30513575_4587	1970	1997	discoidin domain receptor 1	Gene-protein	HGNC:2730
+30513575_4587	1999	2003	DDR1	Gene-protein	HGNC:2730
+30513575_4587	2027	2051	Hepatocyte Growth Factor	Gene-protein	HGNC:4893
+30513575_4587	2053	2056	HGF	Gene-protein	HGNC:4893
+30513575_4587	2058	2061	Met	Gene-protein	HGNC:7029
+30513575_4587	2145	2149	IR-A	Biomarker
+30513575_4587	2145	2149	IR-A	Gene-protein
+30513575_4587	2153	2155	TC	Disease
+

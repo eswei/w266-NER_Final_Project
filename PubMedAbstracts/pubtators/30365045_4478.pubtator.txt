@@ -1,0 +1,33 @@
+30365045_4478|t|RSS_IDENT_p_30365045_b_1_1_5
+30365045_4478|a| Recently, researchers have revealed that exosomal miR-155-5p served an important role in the regulation of chemoresistance. Challagundla et al ( 22 ) firstly reported that exosomal miR-155-5p mediated cross-talk between monocyte and neuroblastoma cells to promote cancer cell chemoresistance. In addition, Patel et al ( 23 ) and Mikamori et al ( 24 ) revealed that miR-155-5p expression levels were upregulated in cancer cells and their exosomes following exposure to gemcitabine. Exosomes derived from gemcitabine-treated pancreatic cancer cells mediated the acquisition of chemo-resistance via the delivery of miR-155-5p into the sensitive cells ( 23 , 24 ). Additionally, Santos et al ( 25 ) reported that doxorubicin (DOX)- and paclitaxel-resistant breast cancer cells transmitted chemoresistance to neighboring cancer cells by exosomal delivery of miR-155-5p. These findings suggested that exosomal miR-155-5p may be a very important signaling molecule to transmit chemoresistance from drug-resistant to drug-sensitive cancer cells; however, the role and mechanism of chemoresistant cancer cell-derived exosomal miR-155-5p in this process require further investigation. Whether exosomal miR-155-5p mediates the transmission of paclitaxel resistance in gastric cancer cells remains unknown. 
+30365045_4478	80	90	miR-155-5p	Rna-noncoding	HGNC:31542
+30365045_4478	202	221	exosomal miR-155-5p	Biomarker
+30365045_4478	211	221	miR-155-5p	Rna-noncoding
+30365045_4478	263	276	neuroblastoma	Disease	DOID:769
+30365045_4478	263	300	neuroblastoma cells to promote cancer	Collection
+30365045_4478	294	300	cancer	Disease	DOID:162
+30365045_4478	395	405	miR-155-5p	Rna-noncoding
+30365045_4478	395	440	miR-155-5p expression levels were upregulated	Biomarker
+30365045_4478	444	450	cancer	Disease
+30365045_4478	498	509	gemcitabine	Drug	CHEMBL888
+30365045_4478	533	544	gemcitabine	Drug
+30365045_4478	553	570	pancreatic cancer	Disease	DOID:1793
+30365045_4478	642	652	miR-155-5p	Rna-noncoding
+30365045_4478	642	652	miR-155-5p	Biomarker	C524942
+30365045_4478	739	750	doxorubicin	Drug	CHEMBL53463
+30365045_4478	739	772	doxorubicin (DOX)- and paclitaxel	Collection
+30365045_4478	739	796	doxorubicin (DOX)- and paclitaxel-resistant breast cancer	Disease	not found
+30365045_4478	752	755	DOX	Drug	CHEMBL53463
+30365045_4478	762	772	paclitaxel	Drug	CHEMBL428647
+30365045_4478	846	852	cancer	Disease
+30365045_4478	883	893	miR-155-5p	Biomarker
+30365045_4478	883	893	miR-155-5p	Rna-noncoding
+30365045_4478	925	944	exosomal miR-155-5p	Biomarker
+30365045_4478	934	944	miR-155-5p	Rna-noncoding
+30365045_4478	1054	1060	cancer	Disease
+30365045_4478	1118	1124	cancer	Disease
+30365045_4478	1138	1157	exosomal miR-155-5p	Biomarker
+30365045_4478	1213	1232	exosomal miR-155-5p	Biomarker
+30365045_4478	1262	1272	paclitaxel	Drug
+30365045_4478	1287	1301	gastric cancer	Disease	DOID:10534
+

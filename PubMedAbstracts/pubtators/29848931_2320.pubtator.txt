@@ -1,0 +1,86 @@
+29848931_2320|t|RSS_IDENT_p_29848931_b_1_1_3
+29848931_2320|a| In this study, we selected seven adipocytokine signaling pathway genes, including three peroxisome proliferator-activated receptor (PPAR) signaling pathway genes [angiopoietin-like 4 (ANGPTL4), adiponectin (ADIPOQ), and apolipoprotein A-V (APOA5)], leptin (LEP), leptin receptor (LEPR), adiponectin receptor 1 (ADIPOR1), and 5’-AMP-activated protein kinase subunit gamma-1 (PRKAG1). PPAR or adipocytokine signaling pathway genes have been reported to be significantly upregulated in ruptured plaques (5). Of the remaining lipid-related genes, angiopoietin-like 3 (ANGPTL3) is a member of the angiopoietin-like protein family, which can regulate the activity of lipoprotein lipase in the lipolytic processing of triglyceride (TG)-rich lipoproteins (6). Apolipoprotein E (APOE) regulates plasma low-density lipoprotein (LDL) levels (7-9). Paraoxonase 2 (PON2) and paraoxonase 3 (PON3) are antioxidants against atherosclerosis (10). Very-low-density-lipoprotein receptor (VLDLR) can affect the metabolism of VLDL-TGs, which are associated with CHD (11). MLX-interacting protein-like (MLXIPL) gene encodes carbohydrate response element-binding protein that has been found to be significantly associated with CHD (12). Scavenger receptor class B type 1 (SCARB1) can regulate the levels of high-density lipoprotein cholesterol (HDL-C) and thus might influence CHD incidence (13). Cholesteryl ester transfer protein (CETP) has been shown to increase the risk of CHD by disrupting the balance of HDL-C and LDL-cholesterol levels in the plasma (14). Proprotein convertase subtilisin/kexin type 9 (PCSK9) can reduce blood cholesterol levels and is associated with CHD (15). Phosphatidic acid phosphatase type 2B (PPAP2B), which catalyzes phosphoric acid hydrolysis and thus contributes to glycerophospholipid and triacylglycerol syntheses, has been shown to be associated with CHD (16, 17). 
+29848931_2320	63	76	adipocytokine	Genefamily	not found
+29848931_2320	118	160	peroxisome proliferator-activated receptor	Genefamily	not found
+29848931_2320	162	166	PPAR	Genefamily	not found
+29848931_2320	193	212	angiopoietin-like 4	Gene-protein	HGNC:16039
+29848931_2320	214	221	ANGPTL4	Gene-protein	HGNC:16039
+29848931_2320	224	235	adiponectin	Gene-protein	HGNC:13633
+29848931_2320	237	243	ADIPOQ	Gene-protein	HGNC:13633
+29848931_2320	250	268	apolipoprotein A-V	Gene-protein	HGNC:17288
+29848931_2320	270	275	APOA5	Gene-protein	HGNC:17288
+29848931_2320	279	285	leptin	Gene-protein	HGNC:6553
+29848931_2320	287	290	LEP	Gene-protein	HGNC:6553
+29848931_2320	293	308	leptin receptor	Gene-protein	HGNC:6554
+29848931_2320	310	314	LEPR	Gene-protein	HGNC:6554
+29848931_2320	317	339	adiponectin receptor 1	Gene-protein	HGNC:24040
+29848931_2320	341	348	ADIPOR1	Gene-protein	HGNC:24040
+29848931_2320	355	361	5’-AMP	Chemical
+29848931_2320	355	402	5’-AMP-activated protein kinase subunit gamma-1	Gene-protein	HGNC:9385
+29848931_2320	404	410	PRKAG1	Gene-protein	HGNC:9385
+29848931_2320	413	417	PPAR	Genefamily
+29848931_2320	413	509	PPAR or adipocytokine signaling pathway genes have been reported to be significantly upregulated	Biomarker
+29848931_2320	421	434	adipocytokine	Genefamily
+29848931_2320	513	529	ruptured plaques	Disease	not found
+29848931_2320	552	557	lipid	Chemical
+29848931_2320	573	592	angiopoietin-like 3	Gene-protein	HGNC:491
+29848931_2320	594	601	ANGPTL3	Gene-protein	HGNC:491
+29848931_2320	622	654	angiopoietin-like protein family	Genefamily	family:905
+29848931_2320	691	709	lipoprotein lipase	Gene-protein	HGNC:6677
+29848931_2320	741	776	triglyceride (TG)-rich lipoproteins	Chemical
+29848931_2320	782	798	Apolipoprotein E	Gene-protein	HGNC:613
+29848931_2320	782	798	Apolipoprotein E	Biomarker	D001057
+29848931_2320	800	804	APOE	Gene-protein	HGNC:613
+29848931_2320	823	846	low-density lipoprotein	Chemical
+29848931_2320	823	846	low-density lipoprotein	Biomarker	D008078
+29848931_2320	848	851	LDL	Chemical
+29848931_2320	867	880	Paraoxonase 2	Gene-protein	HGNC:9205
+29848931_2320	867	880	Paraoxonase 2	Biomarker	C468411
+29848931_2320	867	912	Paraoxonase 2 (PON2) and paraoxonase 3 (PON3)	Collection
+29848931_2320	882	886	PON2	Gene-protein	HGNC:9205
+29848931_2320	892	905	paraoxonase 3	Gene-protein	HGNC:9206
+29848931_2320	892	905	paraoxonase 3	Biomarker	C113656
+29848931_2320	907	911	PON3	Gene-protein	HGNC:9206
+29848931_2320	938	953	atherosclerosis	Disease	DOID:1936
+29848931_2320	960	997	Very-low-density-lipoprotein receptor	Gene-protein	HGNC:12698
+29848931_2320	999	1004	VLDLR	Gene-protein	HGNC:12698
+29848931_2320	1035	1039	VLDL	Chemical
+29848931_2320	1035	1043	VLDL-TGs	Biomarker	D008079
+29848931_2320	1040	1043	TGs	Chemical
+29848931_2320	1071	1074	CHD	Disease	DOID:3393
+29848931_2320	1081	1109	MLX-interacting protein-like	Gene-protein	HGNC:12744
+29848931_2320	1081	1109	MLX-interacting protein-like	Biomarker	C116385
+29848931_2320	1111	1117	MLXIPL	Gene-protein	HGNC:12744
+29848931_2320	1132	1144	carbohydrate	Chemical
+29848931_2320	1132	1177	carbohydrate response element-binding protein	Gene-protein	HGNC:12744
+29848931_2320	1234	1237	CHD	Disease
+29848931_2320	1244	1277	Scavenger receptor class B type 1	Gene-protein	HGNC:1664
+29848931_2320	1244	1277	Scavenger receptor class B type 1	Biomarker	C495124
+29848931_2320	1279	1285	SCARB1	Gene-protein	HGNC:1664
+29848931_2320	1304	1350	levels of high-density lipoprotein cholesterol	Biomarker
+29848931_2320	1314	1350	high-density lipoprotein cholesterol	Chemical
+29848931_2320	1352	1357	HDL-C	Chemical
+29848931_2320	1384	1387	CHD	Disease
+29848931_2320	1404	1421	Cholesteryl ester	Chemical
+29848931_2320	1404	1438	Cholesteryl ester transfer protein	Gene-protein	HGNC:1869
+29848931_2320	1404	1438	Cholesteryl ester transfer protein	Biomarker	D053480
+29848931_2320	1440	1444	CETP	Gene-protein	HGNC:1869
+29848931_2320	1485	1488	CHD	Disease
+29848931_2320	1507	1564	balance of HDL-C and LDL-cholesterol levels in the plasma	Biomarker
+29848931_2320	1518	1523	HDL-C	Chemical
+29848931_2320	1528	1543	LDL-cholesterol	Chemical
+29848931_2320	1571	1616	Proprotein convertase subtilisin/kexin type 9	Gene-protein	HGNC:20001
+29848931_2320	1571	1616	Proprotein convertase subtilisin/kexin type 9	Biomarker	C472125
+29848931_2320	1618	1623	PCSK9	Gene-protein	HGNC:20001
+29848931_2320	1629	1660	reduce blood cholesterol levels	Biomarker
+29848931_2320	1642	1653	cholesterol	Chemical
+29848931_2320	1684	1687	CHD	Disease
+29848931_2320	1694	1711	Phosphatidic acid	Chemical
+29848931_2320	1694	1731	Phosphatidic acid phosphatase type 2B	Gene-protein	HGNC:9229
+29848931_2320	1694	1731	Phosphatidic acid phosphatase type 2B	Biomarker	C521833
+29848931_2320	1733	1739	PPAP2B	Gene-protein	HGNC:9229
+29848931_2320	1758	1773	phosphoric acid	Chemical
+29848931_2320	1809	1828	glycerophospholipid	Chemical
+29848931_2320	1833	1848	triacylglycerol	Chemical
+29848931_2320	1897	1900	CHD	Disease
+

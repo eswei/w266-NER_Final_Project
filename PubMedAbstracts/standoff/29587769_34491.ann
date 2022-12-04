@@ -1,0 +1,89 @@
+T1	Disease 107 126	metabolic disorders
+#1	AnnotatorNotes T1	D008659
+T10	Disease 768 772	PCOS
+T15	Disease 1021 1030	steatosis
+#4	AnnotatorNotes T15	DOID:9452
+T16	Disease 1034 1062	nonalcoholic steatohepatitis
+#5	AnnotatorNotes T16	DOID:0080547
+T17	Disease 1067 1075	fibrosis
+#6	AnnotatorNotes T17	D005355
+T19	Disease 1173 1181	fibrosis
+T2	Disease 153 158	NAFLD
+#9	AnnotatorNotes T2	DOID:0080208
+T20	Chemical 1210 1223	triglycerides
+T23	Disease 1518 1522	PCOS
+T3	Disease 163 170	obesity
+#13	AnnotatorNotes T3	DOID:9970
+T4	Disease 195 199	PCOS
+#14	AnnotatorNotes T4	DOID:11612
+T6	Disease 351 365	non-obese PCOS
+T7	Chemical 583 590	glucose
+T8	Disease 666 717	PCOS patients with OPN levels in the third quartile
+T5	Gene-Protein 77 80	OPN
+#10	AnnotatorNotes T5	HGNC:11255
+T9	Biomarker 77 80	OPN
+#11	AnnotatorNotes T9	C582430
+T11	Collection 107 170	metabolic disorders, particularly focusing on NAFLD and obesity
+R1	Association Arg1:T9 Arg2:T11	
+T12	Gene-Protein 180 183	OPN
+T13	Gene-Protein 300 303	OPN
+T21	Biomarker 278 310	increased circulating OPN levels
+T24	Biomarker 329 347	high degree of LFC
+T25	Gene-Protein 455 458	OPN
+T26	Biomarker 531 534	BMI
+T27	Biomarker 536 539	WHR
+T28	Biomarker 583 609	glucose and insulin levels
+T29	Gene-Protein 595 602	insulin
+#15	AnnotatorNotes T29	HGNC:6081
+T30	Biomarker 611 618	HOMA-IR
+T31	Biomarker 620 622	TG
+T32	Biomarker 624 629	HDL-C
+T33	Biomarker 631 636	LDL-C
+T34	Chemical 624 629	HDL-C
+T35	Chemical 631 636	LDL-C
+T36	Biomarker 642 647	hsCRP
+T37	Gene-Protein 642 647	hsCRP
+#16	AnnotatorNotes T37	HGNC:2367
+T38	Gene-Protein 685 688	OPN
+T39	Gene-Protein 784 787	OPN
+T40	Gene-Protein 918 921	OPN
+T41	Gene-Protein 976 979	OPN
+T14	Biomarker 976 991	OPN is elevated
+T42	Collection 1021 1075	steatosis to nonalcoholic steatohepatitis and fibrosis
+R2	Association Arg1:T14 Arg2:T42	
+T43	Gene-Protein 1141 1144	OPN
+T18	Biomarker 1192 1195	BMI
+T44	Biomarker 1197 1200	age
+T45	Biomarker 1202 1205	ALT
+T46	Biomarker 1210 1236	triglycerides (BAAT) index
+T47	Biomarker 1263 1270	low BMI
+T48	Biomarker 1275 1278	age
+T22	Gene-Protein 1368 1371	OPN
+T49	Biomarker 1362 1377	serum OPN level
+T50	Biomarker 1396 1399	LFC
+T51	Biomarker 1415 1417	TG
+T52	Biomarker 1419 1426	HOMA-IR
+T53	Biomarker 1431 1434	FAI
+T54	Gene-Protein 1477 1480	OPN
+T55	Gene-Protein 1579 1586	insulin
+T56	Biomarker 1466 1487	changes in OPN levels
+R3	Association Arg1:T56 Arg2:T23	
+T57	Collection 278 347	increased circulating OPN levels associated with a high degree of LFC
+R4	Association Arg1:T57 Arg2:T6	
+T58	Biomarker 455 458	OPN
+T59	Biomarker 738 749	greater LFC
+T62	Biomarker 959 968	lower LFC
+T63	Biomarker 1088 1108	change in LFC levels
+T64	Biomarker 427 430	BMI
+#2	AnnotatorNotes T64	D015992
+T67	Biomarker 180 183	OPN
+T102	Gene-Protein 1202 1205	ALT
+T74	Chemical 620 622	TG
+T65	Biomarker 188 191	LFC
+#3	AnnotatorNotes T6	not found
+T68	Biomarker 918 928	OPN levels
+T69	Biomarker 784 794	OPN levels
+#7	AnnotatorNotes T102	HGNC:4552
+T70	Biomarker 1130 1144	decline in OPN
+R5	Risk-Factor Arg1:T59 Arg2:T8	
+#8	AnnotatorNotes T8	not found

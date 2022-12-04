@@ -1,0 +1,59 @@
+T0	Disease 101 107	cancer
+#1	AnnotatorNotes T0	DOID:162
+T12	Disease 660 677	pancreatic cancer
+#4	AnnotatorNotes T12	DOID:1793
+T13	Disease 697 703	cancer
+T14	Drug 757 766	SCH772984
+T15	Disease 772 778	cancer
+T2	Disease 201 205	PDAC
+T21	Disease 940 951	desmoplasia
+T22	Disease 973 977	PDAC
+T23	Disease 1230 1234	PDAC
+T6	Disease 396 400	PDAC
+T8	Disease 509 515	cancer
+T1	GeneFamily 74 77	RAS
+#6	AnnotatorNotes T1	family:389
+T3	GeneFamily 78 81	RAF
+#11	AnnotatorNotes T3	family:1157
+T4	GeneFamily 82 85	MEK
+#13	AnnotatorNotes T4	not found
+T5	GeneFamily 86 89	ERK
+#14	AnnotatorNotes T5	not found
+T7	Gene-Protein 126 132	ERK1/2
+#15	AnnotatorNotes T7	HGNC:6877, HGNC:6871
+T9	Gene-Protein 279 285	ERK1/2
+T19	Gene-Protein 306 312	ERK1/2
+T24	Gene-Protein 371 377	ERK1/2
+T25	Gene-Protein 478 484	ERK1/2
+T26	Gene-Protein 579 585	ERK1/2
+T27	Gene-Protein 847 853	ERK1/2
+T11	Drug-Class 743 756	ERK inhibitor
+#2	AnnotatorNotes T2	DOID:3498
+T10	Biomarker 124 143	p-ERK1/2 expression
+T16	Biomarker 357 392	activation of ERK1/2 also increased
+R1	Association Arg1:T10 Arg2:T2	
+R2	Association Arg1:T16 Arg2:T6	
+T28	Disease 539 543	PDAC
+T29	Collection 509 543	cancer–stromal interaction in PDAC
+T30	Biomarker 464 484	activation of ERK1/2
+T31	Biomarker 565 585	activation of ERK1/2
+R3	Association Arg1:T30 Arg2:T29	
+R4	Association Arg1:T31 Arg2:T12	
+#3	AnnotatorNotes T14	C587178
+#8	AnnotatorNotes T21	not found
+T32	Disease 1072 1076	PDAC
+T33	Drug-Class 1028 1046	anti-stromal drugs
+R6	Response Arg1:T33 Arg2:T32	
+T18	Drug 1154 1169	inhibiting PSCs
+R7	Response Arg1:T18 Arg2:T23	
+T20	Disease 639 643	PCCs
+T34	Disease 873 877	PCCs
+#9	AnnotatorNotes T20	DOID:1793
+T35	Disease 237 243	HMPDAC
+#10	AnnotatorNotes T35	DOID:3498
+T36	Biomarker 254 285	high levels of activated ERK1/2
+R8	Association Arg1:T36 Arg2:T35	
+#7	AnnotatorNotes T18	not found
+T37	Biomarker 879 901	Cancer-associated PSCs
+R5	Association Arg1:T37 Arg2:T17	
+T17	Collection 940 977	desmoplasia, which contribute to PDAC

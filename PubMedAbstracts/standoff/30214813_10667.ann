@@ -1,0 +1,73 @@
+T0	Disease 60 76	anorexia nervosa
+#1	AnnotatorNotes T0	DOID:8689
+T1	Chemical 98 103	4βOHC
+T10	Chemical 631 636	4βOHC
+T12	Chemical 814 819	4βOHC
+T14	Disease 872 879	Obesity
+#7	AnnotatorNotes T14	DOID:9970
+T15	Chemical 920 925	4βOHC
+T16	Chemical 980 985	4βOHC
+T17	Chemical 1013 1018	4βOHC
+T18	Chemical 1093 1098	4βOHC
+T19	Chemical 1155 1160	4βOHC
+T20	Chemical 1181 1186	27OHC
+T21	Disease 1219 1224	obese
+#15	AnnotatorNotes T21	DOID:9970
+T22	Disease 1264 1271	obesity
+T23	Chemical 1357 1362	4βOHC
+T24	Disease 1506 1511	obese
+T4	Biomarker 295 315	hypercholesterolemia
+#20	AnnotatorNotes T4	D006937
+T5	Biomarker 319 339	Hyperadiponectinemia
+T6	Chemical 414 425	cholesterol
+T7	Chemical 472 483	cholesterol
+T8	Chemical 494 499	4βOHC
+T25	Gene-Protein 218 223	CYP3A
+#2	AnnotatorNotes T25	HGNC:2635
+T26	Chemical 122 129	4βOHC/C
+T27	Gene-Protein 566 571	CYP3A
+T2	Gene-Protein 1478 1483	CYP3A
+T28	Gene-Protein 1553 1558	CYP3A
+T29	Biomarker 91 135	higher 4βOHC concentration and 4βOHC/C ratio
+R1	Association Arg1:T29 Arg2:T0	
+T30	Disease 258 274	Anorexia nervosa
+#3	AnnotatorNotes T5	D006937
+T3	Disease 361 369	anorexic
+T31	Chemical 527 534	4βOHC/C
+T9	Chemical 654 661	4βOHC/C
+R2	Association Arg1:T5 Arg2:T3	
+T11	Gene-Protein 1126 1132	CYP7A1
+#4	AnnotatorNotes T11	HGNC:2651
+T32	Gene-Protein 1137 1144	CYP27A1
+#5	AnnotatorNotes T32	 HGNC:2605
+T33	Gene-Protein 1301 1308	CYP27A1
+T34	Biomarker 1147 1160	Reduced 4βOHC
+T35	Biomarker 1165 1195	elevated plasma 27OHC levels h
+T36	Collection 1147 1193	Reduced 4βOHC and elevated plasma 27OHC levels
+T37	Biomarker 1291 1317	increased CYP27A1 activity
+R3	Association Arg1:T36 Arg2:T21	
+R4	Association Arg1:T37 Arg2:T22	
+T38	Biomarker 1436 1439	BMI
+#6	AnnotatorNotes T38	D015992
+T39	Biomarker 1449 1502	hepatic and small‐intestinal CYP3A protein expression
+T40	Biomarker 1553 1567	CYP3A activity
+T41	Biomarker 1587 1590	BMI
+#8	AnnotatorNotes T22	DOID:9970
+T42	Chemical 831 838	4βOHC/C
+T43	Biomarker 905 932	reduced plasma 4βOHC levels
+T13	Biomarker 814 844	4βOHC levels and 4βOHC/C ratio
+R5	Association Arg1:T43 Arg2:T14	
+T44	Disease 722 733	underweight
+R6	Association Arg1:T4 Arg2:T30	
+#9	AnnotatorNotes T30	DOID:8689
+#10	AnnotatorNotes T3	DOID:8689
+T45	Disease 236 247	underweight
+#11	AnnotatorNotes T45	D013851
+T46	Biomarker 404 435	increased cholesterol synthesis
+T47	Biomarker 209 232	elevated CYP3A activity
+R7	Association Arg1:T47 Arg2:T45	
+T48	Biomarker 527 540	4βOHC/C ratio
+T49	Biomarker 631 650	4βOHC concentration
+T50	Biomarker 654 667	4βOHC/C ratio
+T51	Collection 631 667	4βOHC concentration or 4βOHC/C ratio
+R8	Association Arg1:T51 Arg2:T44	

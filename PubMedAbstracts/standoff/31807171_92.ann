@@ -1,0 +1,85 @@
+T1	Disease 28 34	Glioma
+#1	AnnotatorNotes T1	DOID:0060108
+T10	Chemical 466 482	O⁶-methylguanine
+T11	Chemical 618 626	tyrosine
+T13	Biomarker 687 710	proneural tumor subtype
+T14	Biomarker 715 730	IDH1/2 mutation
+T17	Biomarker 799 878	Lower frequencies of the classical subtype, EGFRvIII mutation and TERT mutation
+T19	Biomarker 1060 1221	expression of several RTKs, including apoptosis-associated tyrosine kinase, fibroblast growth factor receptor 1 and insulin-like growth factor 1 receptor (IGF1R)
+T20	Chemical 1119 1127	tyrosine
+T21	Disease 1280 1286	glioma
+T22	Drug 1385 1397	temozolomide
+T23	Drug 1399 1402	TMZ
+T24	Biomarker 1422 1461	expression level of IGF1R was increased
+T25	Disease 1465 1471	glioma
+T26	Drug 1491 1494	TMZ
+T27	Biomarker 1520 1549	altered RTK expression levels
+T28	Disease 1583 1589	glioma
+T7	Chemical 309 319	Isocitrate
+T29	Gene-Protein 1215 1220	IGF1R
+T30	Drug-Class 129 146	chemoradiotherapy
+T3	Drug-Class 290 307	chemoradiotherapy
+T31	Gene-Protein 339 345	IDH1/2
+T32	Gene-Protein 451 455	PTEN
+T33	Gene-Protein 357 389	epidermal growth factor receptor
+T34	Gene-Protein 530 562	telomerase reverse transcriptase
+T35	Gene-Protein 564 568	TERT
+T36	GeneFamily 636 640	RTKs
+T37	GeneFamily 609 634	receptor tyrosine kinases
+T38	GeneFamily 1082 1086	RTKs
+T40	Gene-Protein 1176 1213	insulin-like growth factor 1 receptor
+T41	Gene-Protein 1136 1171	fibroblast growth factor receptor 1
+R1	Non-Response Arg1:T30 Arg2:T1	
+T2	Biomarker 109 124	invasive growth
+R2	Association Arg1:T2 Arg2:T1	
+T42	Collection 236 278	l high-grade gliomas and recurrent gliomas
+R3	Response Arg1:T3 Arg2:T42	
+T43	Gene-Protein 309 337	Isocitrate dehydrogenase 1/2
+T8	Biomarker 357 421	epidermal growth factor receptor variant III (EGFRvIII) mutation
+T44	Gene-Protein 437 440	P53
+T9	Biomarker 423 449	tumor protein P53 mutation
+T45	Biomarker 451 464	PTEN mutation
+T46	Gene-Protein 466 504	O⁶-methylguanine-DNA methyltransferase
+T47	Disease 238 256	high-grade gliomas
+T48	Gene-Protein 715 721	IDH1/2
+T49	Disease 752 768	recurrent tumors
+T4	Disease 261 278	recurrent gliomas
+T5	Biomarker 530 578	telomerase reverse transcriptase (TERT) mutation
+T6	Collection 687 730	proneural tumor subtype and IDH1/2 mutation
+T15	Gene-Protein 1296 1300	IGF1
+T39	Gene-Protein 865 869	TERT
+T50	Disease 898 914	recurrent tumors
+T18	Drug-Class 990 1007	chemoradiotherapy
+T51	Disease 783 797	initial tumors
+R4	Association Arg1:T6 Arg2:T49	
+R5	Association Arg1:T17 Arg2:T50	
+T52	Gene-Protein 1442 1447	IGF1R
+T53	GeneFamily 1528 1531	RTK
+T54	Drug-Class 1593 1610	chemoradiotherapy
+#2	AnnotatorNotes T22	CHEMBL810
+#3	AnnotatorNotes T23	CHEMBL810
+T16	GeneFamily 929 932	RTK
+#5	AnnotatorNotes T47	DOID:3070
+#6	AnnotatorNotes T4	not found
+#4	AnnotatorNotes T49	DOID:162
+#7	AnnotatorNotes T51	DOID:162
+#8	AnnotatorNotes T21	DOID:0060108
+T12	Disease 62 83	malignant brain tumor
+#9	AnnotatorNotes T12	DOID:1319
+#10	AnnotatorNotes T43	HGNC:5382, HGNC:5383
+#11	AnnotatorNotes T31	HGNC:5382, HGNC:5383
+#12	AnnotatorNotes T33	HGNC:3236
+#13	AnnotatorNotes T44	HGNC:11998
+#14	AnnotatorNotes T32	HGNC:9588
+#15	AnnotatorNotes T34	HGNC:11730
+#16	AnnotatorNotes T35	HGNC:11730
+#17	AnnotatorNotes T46	HGNC:7059
+#18	AnnotatorNotes T37	family:321
+#19	AnnotatorNotes T36	family:321
+#20	AnnotatorNotes T41	HGNC:3688
+T55	Gene-Protein 1098 1134	apoptosis-associated tyrosine kinase
+#21	AnnotatorNotes T55	HGNC:21
+#22	AnnotatorNotes T40	HGNC:5465
+#23	AnnotatorNotes T29	HGNC:5465
+#24	AnnotatorNotes T15	HGNC:5464
+T56	Biomarker 309 355	Isocitrate dehydrogenase 1/2 (IDH1/2) mutation

@@ -1,0 +1,44 @@
+T1	Variant 43 54	p.Cys548Tyr
+T10	Disease 506 509	HAE
+T11	Biomarker 613 624	p.Cys548Tyr
+T12	Biomarker 633 671	high frequent polymorphism p.Ser143Asn
+T13	Disease 718 731	KK deficiency
+T14	Biomarker 748 759	p.Gly125Arg
+T15	Biomarker 918 929	p.Ser143Asn
+T16	Biomarker 993 1004	p.Cys548Tyr
+T2	Disease 190 203	KK deficiency
+#5	AnnotatorNotes T2	not found
+T3	Biomarker 249 260	p.Trp402Ter
+T4	Disease 269 282	KK deficiency
+T9	Disease 444 457	KK deficiency
+#1	AnnotatorNotes T1	p.Cys548Tyr
+T19	Gene-Protein 58 63	KLKB1
+#3	AnnotatorNotes T19	HGNC:6371
+R1	Variant-Of Arg1:T19 Arg2:T1	
+R2	Association Arg1:T1 Arg2:T2	
+T20	Disease 155 162	F12-HAE
+#4	AnnotatorNotes T20	not found
+T21	Gene-Protein 155 158	F12
+#10	AnnotatorNotes T21	HGNC:3530
+R3	Association Arg1:T3 Arg2:T2	
+#6	AnnotatorNotes T10	DOID:14735
+T5	Gene-Protein 554 556	BK
+#7	AnnotatorNotes T5	HGNC:6383
+T6	GeneFamily 861 871	kallikrein
+#8	AnnotatorNotes T6	family:616
+T7	GeneFamily 190 192	KK
+#9	AnnotatorNotes T7	family:616
+T8	GeneFamily 269 271	KK
+T22	GeneFamily 444 446	KK
+R4	Risk-Factor Arg1:T12 Arg2:T13	
+T23	ProteinDomain 806 839	apple domain 2 of the heavy chain
+T24	ProteinDomain 887 900	HMWK domain 6
+T25	GeneFamily 718 720	KK
+T17	ProteinDomain 1179 1195	catalytic domain
+T18	ProteinDomain 1216 1230	apple domain 2
+T26	GeneFamily 843 845	KK
+R5	Risk-Factor Arg1:T14 Arg2:T13	
+T27	Disease 1126 1133	F12-HAE
+T28	Gene-Protein 1126 1129	F12
+T29	Chemical 1160 1166	Cys548
+T30	GeneFamily 1199 1201	KK

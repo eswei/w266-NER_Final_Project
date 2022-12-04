@@ -1,0 +1,86 @@
+T0	Disease 98 105	cancers
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 224 250	gallbladder adenocarcinoma
+#2	AnnotatorNotes T1	DOID:3500
+T10	Disease 1042 1063	endometrial carcinoma
+#3	AnnotatorNotes T10	DOID:2871
+T11	Disease 1185 1196	lung cancer
+#4	AnnotatorNotes T11	DOID:1324
+T12	Disease 1256 1269	bladder tumor
+#5	AnnotatorNotes T12	DOID:11054
+T2	Disease 282 297	prostate cancer
+#7	AnnotatorNotes T2	DOID:10283
+T4	Chemical 378 401	N-acetylgalactosaminide
+T5	Disease 488 501	breast cancer
+#10	AnnotatorNotes T5	DOID:1612
+T6	Disease 631 645	gastric cancer
+#11	AnnotatorNotes T6	DOID:10534
+T7	Chemical 669 677	Estrogen
+T9	Disease 848 862	gastric cancer
+T14	Gene-Protein 162 167	FCGBP
+#9	AnnotatorNotes T14	HGNC:13572
+T15	Gene-Protein 126 160	Fc fragment of IgG binding protein
+#12	AnnotatorNotes T15	HGNC:13572
+T16	Biomarker 107 160	Down-regulation of Fc fragment of IgG binding protein
+R1	Prognostic-Poor Arg1:T16 Arg2:T1	
+R2	Association Arg1:T16 Arg2:T2	
+T3	Biomarker 358 431	Upregulation of ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1
+T17	Gene-Protein 433 443	ST6GALNAC1
+#8	AnnotatorNotes T17	HGNC:23614
+T18	Gene-Protein 374 431	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1
+#15	AnnotatorNotes T18	HGNC:23614
+R3	Prognostic-Good Arg1:T3 Arg2:T5	
+T19	Drug 524 562	siRNA-mediated silencing of ST6GALNAC1
+#16	AnnotatorNotes T19	not found
+T20	Gene-Protein 552 562	ST6GALNAC1
+R4	Response Arg1:T19 Arg2:T6	
+T21	Gene-Protein 704 712	KIAA1324
+#17	AnnotatorNotes T21	HGNC:29618
+T22	Gene-Protein 669 694	Estrogen-Induced Gene 121
+#18	AnnotatorNotes T22	HGNC:29618
+T23	RNA-Noncoding 759 768	LINC00261
+#19	AnnotatorNotes T23	HGNC:16189
+T24	RNA-Noncoding 715 757	Long Intergenic Non-Protein Coding RNA 261
+#20	AnnotatorNotes T24	HGNC:16189
+T25	Gene-Protein 789 794	ITLN1
+#21	AnnotatorNotes T25	HGNC:18259
+T26	Gene-Protein 775 787	Intelectin 1
+#22	AnnotatorNotes T26	HGNC:18259
+T8	Biomarker 669 694	Estrogen-Induced Gene 121
+#13	AnnotatorNotes T8	C491832
+T29	Biomarker 715 757	Long Intergenic Non-Protein Coding RNA 261
+#24	AnnotatorNotes T29	C000623252
+T31	Biomarker 775 787	Intelectin 1
+#26	AnnotatorNotes T31	C432397
+T32	Collection 669 795	Estrogen-Induced Gene 121 Protein (KIAA1324), Long Intergenic Non-Protein Coding RNA 261 (LINC00261), and Intelectin 1 (ITLN1)
+R5	Prognostic-Poor Arg1:T32 Arg2:T9	
+T33	Biomarker 934 979	Low expression of Asparaginase-Like 1 Protein
+T34	Gene-Protein 981 987	ASRGL1
+#27	AnnotatorNotes T34	HGNC:16448
+T35	Gene-Protein 952 971	Asparaginase-Like 1
+#28	AnnotatorNotes T35	HGNC:16448
+R6	Prognostic-Poor Arg1:T33 Arg2:T10	
+T36	Gene-Protein 1098 1131	Solute carrier family 27 member 2
+#29	AnnotatorNotes T36	HGNC:10996
+T37	Gene-Protein 1133 1140	SLC27A2
+#30	AnnotatorNotes T37	HGNC:10996
+T38	Biomarker 1080 1131	reduced levels of Solute carrier family 27 member 2
+R7	Prognostic-Poor Arg1:T38 Arg2:T11	
+T39	Gene-Protein 1236 1243	SLITRK6
+#31	AnnotatorNotes T39	HGNC:23503
+T40	Gene-Protein 1205 1234	SLIT and NTRK- like protein 6
+#32	AnnotatorNotes T40	HGNC:23503
+T41	Biomarker 1205 1234	SLIT and NTRK- like protein 6
+#33	AnnotatorNotes T41	C581991
+R8	Association Arg1:T41 Arg2:T12	
+T13	Gene-Protein 1416 1424	HEPACAM2
+#6	AnnotatorNotes T13	HGNC:27364
+T42	Gene-Protein 1391 1414	HEPACAM family member 2
+#34	AnnotatorNotes T42	HGNC:27364
+T43	Gene-Protein 1477 1484	HEPACAM
+#35	AnnotatorNotes T43	HGNC:26361
+T44	Gene-Protein 1442 1475	Hepatocyte Cell Adhesion Molecule
+#36	AnnotatorNotes T44	HGNC:26361
+T45	Gene-Protein 1568 1576	HEPACAM2
+#37	AnnotatorNotes T45	HGNC:26361
+T27	Drug-Class 1351 1374	antibody-drug conjugate

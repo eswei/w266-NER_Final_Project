@@ -1,0 +1,51 @@
+T0	RNA-Noncoding 37 45	KIAA0125
+T1	Disease 174 191	Alzheimer disease
+#2	AnnotatorNotes T1	DOID:10652
+T10	RNA-Noncoding 726 734	KIAA0125
+T12	Disease 755 772	pancreatic cancer
+#4	AnnotatorNotes T12	DOID:1793
+T13	RNA-Noncoding 883 891	KIAA0125
+T14	Disease 895 901	tumors
+T15	RNA-Noncoding 1015 1023	KIAA0125
+T17	Disease 1061 1064	CRC
+T18	RNA-Noncoding 1095 1103	KIAA0125
+T19	Disease 1366 1371	tumor
+#10	AnnotatorNotes T19	DOID:162
+T2	RNA-Noncoding 243 251	KIAA0125
+T21	RNA-Noncoding 1441 1449	KIAA0125
+T22	Disease 1563 1566	CRC
+T24	RNA-Noncoding 1616 1624	KIAA0125
+T4	Disease 303 325	acute myeloid leukemia
+#15	AnnotatorNotes T4	DOID:9119
+T5	RNA-Noncoding 394 402	KIAA0125
+T6	Disease 406 412	tumors
+#17	AnnotatorNotes T6	DOID:162
+T7	Disease 459 473	ameloblastomas
+#18	AnnotatorNotes T7	DOID:0050894
+T8	RNA-Noncoding 552 560	KIAA0125
+T9	Disease 564 582	gallbladder cancer
+#20	AnnotatorNotes T9	DOID:3121
+#1	AnnotatorNotes T0	HGNC:19955
+T3	Biomarker 37 45	KIAA0125
+T11	Biomarker 243 251	KIAA0125
+R2	Association Arg1:T11 Arg2:T4	
+T16	Biomarker 394 402	KIAA0125
+T20	Pronoun 438 440	It
+T23	RNA-Noncoding 438 440	It
+R3	Refers-To Arg1:T20 Arg2:T5	
+T25	Biomarker 438 440	It
+R4	Association Arg1:T25 Arg2:T7	
+T26	Biomarker 552 560	KIAA0125
+T27	Biomarker 726 751	KIAA0125 is downregulated
+R5	Association Arg1:T27 Arg2:T12	
+T28	Biomarker 883 891	KIAA0125
+T29	Biomarker 1015 1023	KIAA0125
+T30	Drug 1077 1103	overexpression of KIAA0125
+#3	AnnotatorNotes T30	not found
+T31	CellLine 1261 1267	HCT116
+T32	CellLine 1272 1277	SW480
+T33	Biomarker 1427 1449	low expressed KIAA0125
+T34	Biomarker 1616 1624	KIAA0125
+T35	Biomarker 159 170	Abeta ratio
+R1	Association Arg1:T34 Arg2:T22	
+R6	Response Arg1:T30 Arg2:T17	

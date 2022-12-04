@@ -1,0 +1,41 @@
+31234009_21603|t|RSS_IDENT_p_31234009_b_1_3_4
+31234009_21603|a| The lncRNA UCA1 is generally regarded as an oncogene, and it is usually highly expressed in a variety of cancers, such as oral squamous cell carcinoma, ¹⁰ melanoma, ¹¹ gastric cancer, ¹² and breast cancer. ¹³ In agreement with these studies, we found that UCA1 overexpression contributed to ovarian cancer cells’ cisplatin resistance. Upregulated UCA1 expression was observed in cisplatin-resistant ovarian cancer patients compared with that in cisplatin-sensitive ovarian cancer patients. To further validate the relationship between UCA1 expression level and cisplatin resistance, we performed loss-of-function studies by knocking down UCA1 in two cisplatin-resistant ovarian cancer cell lines, A2780-DDP and SKOV-3-DDP. Meanwhile, we upregulated the UCA1 expression in cisplatin-sensitive ovarian cancer cells by establishing UCA1-overexpressing cell lines. Suppression of UCA1 significantly reduced cell growth and promoted cell apoptosis of cisplatin-resistant cells in the presence of 4 μg/mL cisplatin, compared with NC-transfected cells. However, UCA1 overexpression promoted the cisplatin-induced cell apoptosis and cell mobility of cisplatin-sensitive cells under cisplatin treatment. 
+31234009_21603	34	118	lncRNA UCA1 is generally regarded as an oncogene, and it is usually highly expressed	Biomarker
+31234009_21603	41	45	UCA1	Rna-noncoding	HGNC:37126
+31234009_21603	135	142	cancers	Disease	DOID:162
+31234009_21603	135	234	cancers, such as oral squamous cell carcinoma, ¹⁰ melanoma, ¹¹ gastric cancer, ¹² and breast cancer	Collection
+31234009_21603	152	180	oral squamous cell carcinoma	Disease	DOID:0050866
+31234009_21603	185	193	melanoma	Disease	DOID:1909
+31234009_21603	198	212	gastric cancer	Disease	DOID:10534
+31234009_21603	221	234	breast cancer	Disease	DOID:1612
+31234009_21603	286	290	UCA1	Rna-noncoding
+31234009_21603	286	305	UCA1 overexpression	Biomarker
+31234009_21603	321	335	ovarian cancer	Disease	DOID:2394
+31234009_21603	343	352	cisplatin	Drug	 CHEMBL11359
+31234009_21603	365	392	Upregulated UCA1 expression	Biomarker
+31234009_21603	377	381	UCA1	Rna-noncoding
+31234009_21603	409	418	cisplatin	Drug
+31234009_21603	409	443	cisplatin-resistant ovarian cancer	Disease	not found
+31234009_21603	475	484	cisplatin	Drug
+31234009_21603	475	509	cisplatin-sensitive ovarian cancer	Disease	not found
+31234009_21603	565	569	UCA1	Rna-noncoding
+31234009_21603	591	600	cisplatin	Drug
+31234009_21603	668	672	UCA1	Rna-noncoding
+31234009_21603	680	689	cisplatin	Drug
+31234009_21603	680	714	cisplatin-resistant ovarian cancer	Disease
+31234009_21603	727	736	A2780-DDP	Cellline
+31234009_21603	741	751	SKOV-3-DDP	Cellline
+31234009_21603	783	787	UCA1	Rna-noncoding
+31234009_21603	802	811	cisplatin	Drug
+31234009_21603	802	836	cisplatin-sensitive ovarian cancer	Disease
+31234009_21603	859	863	UCA1	Rna-noncoding
+31234009_21603	891	910	Suppression of UCA1	Drug	not found
+31234009_21603	906	910	UCA1	Rna-noncoding
+31234009_21603	976	985	cisplatin	Drug
+31234009_21603	1029	1038	cisplatin	Drug
+31234009_21603	1085	1089	UCA1	Rna-noncoding
+31234009_21603	1085	1104	UCA1 overexpression	Biomarker
+31234009_21603	1118	1127	cisplatin	Drug
+31234009_21603	1172	1181	cisplatin	Drug
+31234009_21603	1204	1213	cisplatin	Drug
+

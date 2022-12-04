@@ -1,0 +1,40 @@
+29339789_24094|t|RSS_IDENT_p_29339789_b_1_3_9
+29339789_24094|a| To further investigate the miR-155 role in exosome chemoresistance transmission, we overexpressed miR-155 in breast cancer cells which led to high miR-155 exosome level. When we cultivated these exosomes with breast cancer cells, there was also a miR-155 enrichment in recipient cells, indicating miR-155 transfer through exosomes. It has been shown that, C/EBP-β (a mediator of TGF-β) and FOXO3a are miR-155-validated targets ³⁹ , ⁴⁰ . Moreover, TGF-β is a cytokine that plays central role in EMT, is also regulated by miR-155 ⁴¹ . Indeed, the overexpression of miR-155 led to the downregulation of its target genes, in both miR-155 mimic and miR-155 mimic´ exosome co-cultured cells, confirming this regulatory effect. Despite some evidence showing that miR-155 can promotes EMT and CSC phenotypes ⁴² , ⁴³ , how miR-155 regulates EMT remains unclear. In the current work, we show that breast cancer cells overexpressing miR-155 acquired EMT properties, promoted higher migration rate, and were able to form more mammospheres, which suggest that miR-155 may regulate certain genes related to breast CSCs that are resistant to therapy. Interestingly, this landscape was also observed when the exosomes expressing high miR-155 level were endocytosed into the breast cancer cells, indicating the functional role of miR-155 exosome delivery. Mikamori et al. ⁴⁴ have reported in pancreatic ductal adenocarcinoma model, that miR-155 induces exosome secretion that causes gemcitabine resistance. In accordance to this study, our data shows that the cells that received exosomes from overexpressing miR-155 cells were significantly more resistant to DOX and PTX than cells that received exosomes from control cells, which suggests that miR-155 effectively elicits PTX resistance in breast cells via exosome uptake. 
+29339789_24094	57	64	miR-155	Rna-noncoding	HGNC:31542
+29339789_24094	128	135	miR-155	Rna-noncoding
+29339789_24094	139	152	breast cancer	Disease	DOID:1612
+29339789_24094	177	184	miR-155	Rna-noncoding
+29339789_24094	239	252	breast cancer	Disease
+29339789_24094	277	284	miR-155	Rna-noncoding
+29339789_24094	327	334	miR-155	Rna-noncoding
+29339789_24094	386	393	C/EBP-β	Gene-protein	HGNC:1834
+29339789_24094	409	414	TGF-β	Genefamily	family:1932
+29339789_24094	420	426	FOXO3a	Gene-protein	HGNC:3821
+29339789_24094	431	438	miR-155	Rna-noncoding
+29339789_24094	477	482	TGF-β	Genefamily
+29339789_24094	488	496	cytokine	Genefamily	not found
+29339789_24094	550	557	miR-155	Rna-noncoding
+29339789_24094	593	600	miR-155	Rna-noncoding
+29339789_24094	656	663	miR-155	Rna-noncoding
+29339789_24094	674	681	miR-155	Rna-noncoding
+29339789_24094	786	793	miR-155	Rna-noncoding
+29339789_24094	815	818	CSC	Disease
+29339789_24094	844	851	miR-155	Rna-noncoding
+29339789_24094	917	930	breast cancer	Disease
+29339789_24094	952	959	miR-155	Rna-noncoding
+29339789_24094	1077	1084	miR-155	Rna-noncoding
+29339789_24094	1123	1164	breast CSCs that are resistant to therapy	Disease	not found
+29339789_24094	1248	1255	miR-155	Rna-noncoding
+29339789_24094	1288	1301	breast cancer	Disease
+29339789_24094	1343	1350	miR-155	Rna-noncoding
+29339789_24094	1405	1437	pancreatic ductal adenocarcinoma	Disease	DOID:3498
+29339789_24094	1450	1457	miR-155	Rna-noncoding
+29339789_24094	1450	1457	miR-155	Biomarker
+29339789_24094	1496	1507	gemcitabine	Drug	CHEMBL888
+29339789_24094	1622	1629	miR-155	Rna-noncoding
+29339789_24094	1622	1629	miR-155	Biomarker	C524942
+29339789_24094	1673	1676	DOX	Drug	CHEMBL53463
+29339789_24094	1681	1684	PTX	Drug	CHEMBL428647
+29339789_24094	1759	1766	miR-155	Rna-noncoding
+29339789_24094	1787	1790	PTX	Drug
+

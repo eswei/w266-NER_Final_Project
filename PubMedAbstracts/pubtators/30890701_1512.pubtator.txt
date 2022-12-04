@@ -1,0 +1,54 @@
+30890701_1512|t|RSS_IDENT_s_30890701_b_1_1
+30890701_1512|a| Introduction von Hippel-Lindau (VHL) disease is an autosomal dominant disorder with a predisposition to highly vascularized tumors development. The most common VHL manifestations are hemangioblastomas of the central nervous system and retina, clear cell renal cell carcinoma (ccRCC), and pheochromocytomas ¹ . It is caused by mutations in the tumor suppressor gene VHL ¹ – ³ . VHL protein is the substrate recognition component of the E3 ligase complex, composed of Cullin-2, Rbx1, Elongin B, Elongin C, and pVHL, that participates in the oxygen-sensing system that drives Hypoxia inducible factors alpha (HIF) degradation ⁴ . When VHL gene is mutated and its function is modified or lost, HIF-1/2-α subunits are stabilized and HIF target genes become activated ⁵ , ⁶ . HIF activity is linked to tumor angiogenesis, invasion, cancer metabolic reprogramming, and metastasis ⁵ , ⁷ . Although HIF-1α and HIF-2α have been associated with poor prognosis in many human cancers ⁵ , in some tumors only one HIF-α subunit is correlated with prognosis. Moreover, in some tumor models the expression of HIF-1-α or 2-α subunits can lead to a divergent outcome ⁸ , probably caused by differential recruitment of coactivators or corepressors to HIF-targeted gene promoters and activation of non-overlapping transcriptional programs ⁴ , ⁵ , ⁸ . In RCCs, which are the leading cause of mortality among VHL patients ⁶ , cumulative evidence support the role of HIF-2 as the driving force for tumor progression ⁹ . In this regard, there is increasing number of therapies for RCCs that suppress angiogenesis through targeting HIF-VEGF signaling ⁹ , ¹⁰ . Nonetheless, the resistance to this therapy remains a major issue ⁹ and opens the question on the existence of other factors participating in this process ¹¹ .
+30890701_1512	41	58	von Hippel-Lindau	Disease	DOID:14175
+30890701_1512	60	63	VHL	Disease	DOID:14175
+30890701_1512	132	170	highly vascularized tumors development	Biomarker
+30890701_1512	188	191	VHL	Disease
+30890701_1512	211	269	hemangioblastomas of the central nervous system and retina	Biomarker
+30890701_1512	211	333	hemangioblastomas of the central nervous system and retina, clear cell renal cell carcinoma (ccRCC), and pheochromocytomas	Collection
+30890701_1512	271	302	clear cell renal cell carcinoma	Biomarker	D002292
+30890701_1512	304	309	ccRCC	Biomarker	D002292
+30890701_1512	316	333	pheochromocytomas	Biomarker	D010673
+30890701_1512	354	402	mutations in the tumor suppressor gene VHL ¹ – ³	Biomarker
+30890701_1512	393	396	VHL	Gene-protein	HGNC:12687
+30890701_1512	405	408	VHL	Gene-protein
+30890701_1512	463	480	E3 ligase complex	Genefamily	not found
+30890701_1512	494	502	Cullin-2	Gene-protein	HGNC:2552
+30890701_1512	504	508	Rbx1	Gene-protein	HGNC:9928
+30890701_1512	510	519	Elongin B	Gene-protein	HGNC:11619
+30890701_1512	521	530	Elongin C	Gene-protein	HGNC:11617
+30890701_1512	536	540	pVHL	Gene-protein	HGNC:12687
+30890701_1512	567	573	oxygen	Chemical
+30890701_1512	601	632	Hypoxia inducible factors alpha	Gene-protein	HGNC:4910
+30890701_1512	634	637	HIF	Genefamily	not found
+30890701_1512	660	663	VHL	Gene-protein
+30890701_1512	718	727	HIF-1/2-α	Gene-protein	HGNC:4910, HGNC:3374
+30890701_1512	756	759	HIF	Genefamily	not found
+30890701_1512	798	801	HIF	Genefamily
+30890701_1512	798	810	HIF activity	Biomarker
+30890701_1512	824	829	tumor	Disease	DOID:162
+30890701_1512	824	860	tumor angiogenesis, invasion, cancer	Collection
+30890701_1512	854	860	cancer	Disease	DOID:162
+30890701_1512	918	924	HIF-1α	Gene-protein	HGNC:4910
+30890701_1512	918	924	HIF-1α	Biomarker	C497442
+30890701_1512	918	935	HIF-1α and HIF-2α	Collection
+30890701_1512	929	935	HIF-2α	Gene-protein	HGNC:3374
+30890701_1512	929	935	HIF-2α	Biomarker	C105713
+30890701_1512	991	998	cancers	Disease	DOID:162
+30890701_1512	1011	1017	tumors	Disease	DOID:14566|DOID:162
+30890701_1512	1027	1032	HIF-α	Gene-protein
+30890701_1512	1027	1040	HIF-α subunit	Biomarker	C497442
+30890701_1512	1089	1094	tumor	Disease
+30890701_1512	1106	1143	expression of HIF-1-α or 2-α subunits	Biomarker
+30890701_1512	1120	1134	HIF-1-α or 2-α	Gene-protein	HGNC:4910, HGNC:3374
+30890701_1512	1259	1262	HIF	Genefamily
+30890701_1512	1361	1365	RCCs	Biomarker	D002292
+30890701_1512	1398	1417	mortality among VHL	Disease	not found
+30890701_1512	1471	1476	HIF-2	Biomarker
+30890701_1512	1471	1476	HIF-2	Genefamily	not found
+30890701_1512	1502	1507	tumor	Disease	DOID:14566|DOID:162
+30890701_1512	1584	1588	RCCs	Disease	DOID:4450
+30890701_1512	1634	1637	HIF	Genefamily
+30890701_1512	1634	1652	HIF-VEGF signaling	Biomarker
+30890701_1512	1638	1642	VEGF	Genefamily	family:1267
+

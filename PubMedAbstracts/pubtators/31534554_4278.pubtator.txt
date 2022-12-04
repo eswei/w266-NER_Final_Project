@@ -1,0 +1,61 @@
+31534554_4278|t|RSS_IDENT_p_31534554_b_1_1_4
+31534554_4278|a| Recent advancements point to a role for ATF4 mutations in mediating drug resistance in tumor cells featured by xCT overexpression 10 . Similarly, ATF4 has been proposed as a potential biomarker positively related to the efficacy of BTZ treatment 11 . The results suggest that lower expression of ATF4 is correlated with shorter progression-free survival in multiple myeloma (MM) patients. Similarly, loss of function of ATF4 plays a role in initiation of medullary thyroid cancer (MTC) 12 . This dependency prompted us to focus on whether ATF4 activation might also be a potent vulnerability for OS to perturbation after prolonged chemotherapy. RET is a receptor tyrosine kinase (RTK) that is required for normal cell development 13 . Activation of RET occurs via oncogenic mutations in multiple sporadic carcinomas, most notably those of the thyroid and lungs 14 , 15 . Therapeutic approaches targeting RET with small-molecule kinase inhibitors are being evaluated for cancers that are associated with RET mutations or increased RET expression, such as MTC, chronic myelomonocytic leukaemia (CMML), and breast and pancreatic cancers 16 - 18 . Importantly, Bagheri-Yarmand et al. 19 reported that RET contributes to cancer cell viability via the direct repression of ATF4 at the promoters of pro-apoptotic targets NOXA and PUMA. Despite the well-documented pathogenic, diagnostic and prognostic roles of RET in MTC 20 , its precise role in BTZ-induced apoptotic cell death in OS remains unknown. ATF4 was also identified as a negative regulator of RET in MTC 12 . However, the mechanistic link between ATF4 and RET signalling in OS development are still unclear. 
+31534554_4278	70	74	ATF4	Gene-protein	HGNC:786
+31534554_4278	75	84	mutations	Variant
+31534554_4278	117	122	tumor	Disease	DOID:162
+31534554_4278	176	180	ATF4	Gene-protein
+31534554_4278	176	180	ATF4	Biomarker	 D051701
+31534554_4278	262	265	BTZ	Drug	CHEMBL325041
+31534554_4278	306	330	lower expression of ATF4	Biomarker
+31534554_4278	326	330	ATF4	Gene-protein
+31534554_4278	387	403	multiple myeloma	Disease	DOID:9538
+31534554_4278	405	407	MM	Disease	DOID:9538
+31534554_4278	430	454	loss of function of ATF4	Biomarker
+31534554_4278	450	454	ATF4	Gene-protein
+31534554_4278	485	509	medullary thyroid cancer	Disease	DOID:3973
+31534554_4278	511	514	MTC	Disease	C536914
+31534554_4278	569	573	ATF4	Gene-protein
+31534554_4278	569	584	ATF4 activation	Biomarker
+31534554_4278	626	628	OS	Disease	DOID:3347
+31534554_4278	661	673	chemotherapy	Drug-class
+31534554_4278	675	678	RET	Gene-protein	HGNC:9967
+31534554_4278	684	708	receptor tyrosine kinase	Genefamily	family:321
+31534554_4278	693	701	tyrosine	Chemical
+31534554_4278	710	713	RTK	Genefamily	family:321
+31534554_4278	765	813	Activation of RET occurs via oncogenic mutations	Biomarker
+31534554_4278	779	782	RET	Gene-protein
+31534554_4278	817	845	multiple sporadic carcinomas	Disease	not found
+31534554_4278	934	937	RET	Gene-protein
+31534554_4278	943	975	small-molecule kinase inhibitors	Drug-class
+31534554_4278	1000	1007	cancers	Disease	DOID:162
+31534554_4278	1033	1036	RET	Gene-protein
+31534554_4278	1033	1046	RET mutations	Biomarker
+31534554_4278	1033	1074	RET mutations or increased RET expression	Collection
+31534554_4278	1050	1074	increased RET expression	Biomarker
+31534554_4278	1084	1087	MTC	Disease
+31534554_4278	1084	1163	MTC, chronic myelomonocytic leukaemia (CMML), and breast and pancreatic cancers	Collection
+31534554_4278	1089	1121	chronic myelomonocytic leukaemia	Disease	DOID:0080188
+31534554_4278	1123	1127	CMML	Disease	DOID:0080188
+31534554_4278	1134	1163	breast and pancreatic cancers	Disease	DOID:1612, DOID:1793
+31534554_4278	1227	1230	RET	Gene-protein
+31534554_4278	1227	1230	RET	Biomarker	C099282
+31534554_4278	1246	1252	cancer	Disease	DOID:14566|DOID:162
+31534554_4278	1297	1301	ATF4	Gene-protein
+31534554_4278	1344	1348	NOXA	Gene-protein	HGNC:9108
+31534554_4278	1353	1357	PUMA	Gene-protein	HGNC:17868
+31534554_4278	1434	1437	RET	Gene-protein
+31534554_4278	1434	1437	RET	Biomarker
+31534554_4278	1441	1444	MTC	Disease
+31534554_4278	1470	1473	BTZ	Drug
+31534554_4278	1506	1508	OS	Disease
+31534554_4278	1526	1530	ATF4	Gene-protein
+31534554_4278	1526	1530	ATF4	Biomarker	D051701
+31534554_4278	1578	1581	RET	Gene-protein
+31534554_4278	1578	1581	RET	Biomarker
+31534554_4278	1585	1588	MTC	Disease
+31534554_4278	1632	1636	ATF4	Gene-protein
+31534554_4278	1632	1636	ATF4	Biomarker
+31534554_4278	1641	1644	RET	Gene-protein
+31534554_4278	1641	1644	RET	Biomarker
+31534554_4278	1659	1661	OS	Disease
+

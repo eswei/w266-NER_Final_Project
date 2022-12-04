@@ -1,0 +1,49 @@
+T0	Disease 51 54	ACS
+T10	GeneFamily 587 590	TnI
+T11	GeneFamily 592 595	TnI
+T12	Disease 668 671	ACS
+T13	GeneFamily 690 693	TnI
+T14	GeneFamily 772 775	TnI
+T15	GeneFamily 884 887	TnI
+T16	GeneFamily 942 945	TnI
+T17	Gene-Protein 1015 1018	MPV
+T18	Disease 1022 1025	ACS
+T19	Disease 1070 1073	ACS
+T22	GeneFamily 1149 1152	TnI
+T23	Biomarker 1280 1283	MPV
+T25	Disease 1339 1342	ACS
+T26	Disease 1441 1444	ACS
+T27	Disease 1514 1517	ACS
+T28	Biomarker 1564 1567	MPV
+T3	Disease 173 176	ACS
+T30	Disease 1623 1626	ACS
+T31	Disease 1663 1679	acute chest pain
+#21	AnnotatorNotes T31	not found
+T32	GeneFamily 1728 1731	TnI
+T33	Disease 1819 1822	ACS
+T34	GeneFamily 1846 1849	TnI
+T35	Disease 1946 1949	ACS
+T4	Disease 220 223	ACS
+T5	Biomarker 391 394	MPV
+T7	GeneFamily 419 422	TnI
+T8	Disease 427 430	ACS
+#1	AnnotatorNotes T0	D054058
+T1	Biomarker 68 78	higher MPV
+R1	Association Arg1:T1 Arg2:T0	
+T2	Biomarker 125 128	MPV
+#2	AnnotatorNotes T2	D063847
+R2	Association Arg1:T2 Arg2:T3	
+T6	Biomarker 213 216	MPV
+#3	AnnotatorNotes T7	not found
+T9	Biomarker 592 595	TnI
+#4	AnnotatorNotes T9	D019210
+T20	Biomarker 1109 1152	abnormal levels of both MPV and initial TnI
+R3	Association Arg1:T20 Arg2:T19	
+R4	Diagnostic-of Arg1:T23 Arg2:T25	
+T21	Biomarker 1448 1451	MPV
+R5	Diagnostic-of Arg1:T28 Arg2:T30	
+T24	Biomarker 1720 1731	initial TnI
+T29	Biomarker 1736 1739	MPV
+T36	Collection 1720 1739	initial TnI and MPV
+R6	Association Arg1:T36 Arg2:T33	
+T37	Biomarker 780 783	MPV

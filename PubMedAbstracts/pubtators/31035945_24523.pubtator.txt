@@ -1,0 +1,32 @@
+31035945_24523|t|RSS_IDENT_p_31035945_b_1_4_6
+31035945_24523|a| In this work plasma concentrations of SCC-Ag were significantly higher in the cervical cancer group compared to the healthy controls. Our data is in agreement with the results of other researchers regarding the diagnostic usefulness of antigen SCC in this malignancy [ 65 , 66 ]. Moreover, its prognostic significance, both for the recurrence-free and overall survival, has been confirmed by other researchers in the early stages of cervical cancer [ 67 , 68 ]. Considering squamous cell cervical cancer group, the highest SE and SP was obtained for both SCC-Ag and CA 125 simultaneously and M-CSF, respectively. Suzuki et al. demonstrated that preoperative serum measurement of M-CSF combined with SCC-Ag can be selective diagnostic marker for squamous cell carcinoma arising in mature cystic teratoma of the ovary [ 69 ]. However, in our study, the greatest AUC for this type of cancer was obtained for VEGF, which is in agreement with study performed by Lebrecht et al. [ 70 ]. Analysis showed that VEGF in conjunction with SCC-Ag and CA 125 demonstrated the highest SE when assessed together. Nevertheless, some studies state that the most useful serum marker for squamous cell cervical cancer diagnosis is still SCC-Ag [ 71 , 72 ]. However, our research clearly indicated that M-CSF demonstrated higher diagnostic power in squamous cell carcinoma group compared to the commonly used tumor markers- SCC-Ag and CA 125. 
+31035945_24523	43	100	plasma concentrations of SCC-Ag were significantly higher	Biomarker
+31035945_24523	108	123	cervical cancer	Disease	DOID:4362
+31035945_24523	266	277	antigen SCC	Biomarker	C051072
+31035945_24523	286	296	malignancy	Disease	DOID:162
+31035945_24523	463	478	cervical cancer	Disease
+31035945_24523	504	533	squamous cell cervical cancer	Disease	DOID:3744
+31035945_24523	585	591	SCC-Ag	Biomarker
+31035945_24523	585	627	SCC-Ag and CA 125 simultaneously and M-CSF	Collection
+31035945_24523	596	602	CA 125	Biomarker	 D018394
+31035945_24523	596	602	CA 125	Gene-protein	HGNC:6746
+31035945_24523	622	627	M-CSF	Gene-protein	HGNC:2432
+31035945_24523	622	627	M-CSF	Biomarker	D016173
+31035945_24523	675	735	preoperative serum measurement of M-CSF combined with SCC-Ag	Biomarker
+31035945_24523	709	714	M-CSF	Gene-protein
+31035945_24523	775	845	squamous cell carcinoma arising in mature cystic teratoma of the ovary	Disease	DOID:1749, not found	Conjunction
+31035945_24523	911	917	cancer	Disease	DOID:162
+31035945_24523	935	939	VEGF	Genefamily	family:1267
+31035945_24523	1032	1036	VEGF	Genefamily
+31035945_24523	1032	1074	VEGF in conjunction with SCC-Ag and CA 125	Biomarker	Conjunction
+31035945_24523	1068	1074	CA 125	Gene-protein
+31035945_24523	1198	1227	squamous cell cervical cancer	Disease
+31035945_24523	1247	1253	SCC-Ag	Biomarker
+31035945_24523	1312	1317	M-CSF	Gene-protein
+31035945_24523	1312	1317	M-CSF	Biomarker
+31035945_24523	1358	1381	squamous cell carcinoma	Disease	DOID:1749
+31035945_24523	1418	1423	tumor	Disease	DOID:162
+31035945_24523	1433	1439	SCC-Ag	Biomarker
+31035945_24523	1444	1450	CA 125	Gene-protein
+31035945_24523	1444	1450	CA 125	Biomarker
+

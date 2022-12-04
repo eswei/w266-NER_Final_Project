@@ -1,0 +1,55 @@
+30866857_2733|t|RSS_IDENT_s_30866857_b_1_1
+30866857_2733|a| Background β2M is a nonglycosylated protein with a molecular weight of 11.8 kDa. Its serum expression levels are elevated in cancer patients, including patients with breast cancer, thyroid cancer, liver cancer, small cell lung cancer, renal cell carcinoma, prostate cancer, and gastrointestinal cancers [ 1 – 9 ]. Previous studies have demonstrated that β2M enhances the growth and survival of cancer cells through the activation of protein kinase A (PKA)/cAMP-responsive element binding protein (CREB)/vascular endothelial growth factor (VEGF) signaling pathway and cell survival signaling, including the phosphatidylinositol 3-kinase (PI3K)/Akt and extracellular signal-regulated kinase (ERK) pathways [ 10 – 13 ]. The β2M/hemochromatosis protein (HFE) complex could induce epithelial to mesenchymal transition (EMT), which promotes bone and soft tissue metastases of human prostate, breast, lung, and renal cancer cells in vivo by activating the iron-responsive hypoxia-inducible factor-1α (HIF-1α) signaling pathway [ 14 ], and β2M could promote tumor growth through the activation of the vascular endothelial growth factor receptor-2 (VEGFR-2)/Akt/mammalian target of rapamycin (mTOR) signaling pathway in ovarian cancer [ 15 ]. These findings suggest that β2M can promote tumor growth and metastases, including breast cancer, and the β2M-mediated multiple molecular signaling network is extremely complex.
+30866857_2733	39	42	β2M	Gene-protein	HGNC:914
+30866857_2733	39	42	β2M	Biomarker	D001613
+30866857_2733	113	149	serum expression levels are elevated	Biomarker
+30866857_2733	153	159	cancer	Disease	DOID:162
+30866857_2733	153	330	cancer patients, including patients with breast cancer, thyroid cancer, liver cancer, small cell lung cancer, renal cell carcinoma, prostate cancer, and gastrointestinal cancers	Collection
+30866857_2733	194	207	breast cancer	Disease	DOID:1612
+30866857_2733	209	223	thyroid cancer	Disease	DOID:1781
+30866857_2733	225	237	liver cancer	Disease	DOID:3571
+30866857_2733	239	261	small cell lung cancer	Disease	DOID:5409
+30866857_2733	263	283	renal cell carcinoma	Disease	DOID:4450
+30866857_2733	285	300	prostate cancer	Disease	DOID:10283
+30866857_2733	306	330	gastrointestinal cancers	Disease	DOID:3119
+30866857_2733	382	385	β2M	Biomarker	C000630045
+30866857_2733	382	385	β2M	Gene-protein
+30866857_2733	422	428	cancer	Disease
+30866857_2733	461	477	protein kinase A	Gene-protein	not found
+30866857_2733	479	482	PKA	Gene-protein	not found
+30866857_2733	484	488	cAMP	Chemical
+30866857_2733	484	523	cAMP-responsive element binding protein	Genefamily	family:1970
+30866857_2733	525	529	CREB	Genefamily	family:1970
+30866857_2733	531	565	vascular endothelial growth factor	Genefamily	family:1267
+30866857_2733	567	571	VEGF	Genefamily	family:1267
+30866857_2733	634	654	phosphatidylinositol	Chemical
+30866857_2733	634	663	phosphatidylinositol 3-kinase	Genefamily	family:831
+30866857_2733	665	669	PI3K	Genefamily	family:831
+30866857_2733	671	674	Akt	Genefamily	family:831
+30866857_2733	679	716	extracellular signal-regulated kinase	Genefamily	not found
+30866857_2733	718	721	ERK	Genefamily	not found
+30866857_2733	749	752	β2M	Gene-protein
+30866857_2733	749	790	β2M/hemochromatosis protein (HFE) complex	Biomarker
+30866857_2733	753	776	hemochromatosis protein	Gene-protein	HGNC:4886
+30866857_2733	778	781	HFE	Gene-protein	HGNC:4886
+30866857_2733	904	944	prostate, breast, lung, and renal cancer	Disease	DOID:10283, DOID:1612, DOID:1324, DOID:263
+30866857_2733	977	981	iron	Chemical
+30866857_2733	993	1020	hypoxia-inducible factor-1α	Gene-protein	HGNC:4910
+30866857_2733	1022	1028	HIF-1α	Gene-protein	HGNC:4910
+30866857_2733	1060	1063	β2M	Gene-protein
+30866857_2733	1060	1063	β2M	Biomarker
+30866857_2733	1078	1083	tumor	Disease	DOID:162
+30866857_2733	1121	1166	vascular endothelial growth factor receptor-2	Gene-protein	HGNC:6307
+30866857_2733	1168	1175	VEGFR-2	Gene-protein	HGNC:6307
+30866857_2733	1177	1180	Akt	Genefamily	HGNC:391
+30866857_2733	1181	1210	mammalian target of rapamycin	Gene-protein	HGNC:3942
+30866857_2733	1201	1210	rapamycin	Chemical
+30866857_2733	1212	1216	mTOR	Gene-protein	HGNC:3942
+30866857_2733	1239	1253	ovarian cancer	Disease	DOID:2394
+30866857_2733	1290	1293	β2M	Biomarker
+30866857_2733	1290	1293	β2M	Gene-protein
+30866857_2733	1306	1311	tumor	Disease
+30866857_2733	1306	1361	tumor growth and metastases, including breast cancer, a	Collection
+30866857_2733	1345	1358	breast cancer	Disease
+30866857_2733	1368	1371	β2M	Gene-protein
+

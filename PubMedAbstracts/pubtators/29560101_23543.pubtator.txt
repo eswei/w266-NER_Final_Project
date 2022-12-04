@@ -1,0 +1,65 @@
+29560101_23543|t|RSS_IDENT_p_29560101_b_1_3_3
+29560101_23543|a| The expression of HAI-1, which has an important role in ECM degradation in endometrial cancer, was obviously lower than that in normal endometrium specimens. Increased expression levels of the HAI-1 gene accompanied with decreased expression of matriptase inhibits endometrial cancer cell proliferation and invasive migration [ 19 ]. Some scholars have suggested that maintaining matriptase/HAI-1 equilibrium is crucial in the process of tumor progression. According to previous reports, matriptase/HAI-1 ratio imbalance, which includes increased expression of matriptase or decreased expression of HAI-1, may promote tumor development. In pancreatic cancer cells, increased matriptase/HAI-1 ratio by decreased HAI-1 expression levels promoted tumor invasion [ 29 ]. Similarly, increased matriptase/HAI-1 ratio with increased matriptase expression made prostate cancer more aggressive [ 14 , 25 ]. The matriptase/HAI-1 ratio declined in advanced colorectal cancer and infiltrating breast cancer, while it increased in invasive breast cancer [ 30 , 31 ]. To our knowledge, this is the first study reporting on the regulation of the matriptase/HAI-1 ratio by specific (i.e., siRNA) and non-specific (i.e., cisplatin) targeting associated with decreasing matriptase expression in endometrial cancer cells. In our previous study, we concluded that the expression of matriptase is directly and positively correlated with ovarian cellular invasion and metastasis [ 17 ]. Usage of siRNA specifically reduced matriptase expression in matriptase/HAI-1-positive RL-952 and HEC-1A cells. Although HAI-1 gene expression did not change, matriptase/HAI-1 ratio decreased from 0.77 to 0.11 after the first knockdown, and cell invasion and migration decreased significantly. 
+29560101_23543	34	53	expression of HAI-1	Biomarker
+29560101_23543	48	53	HAI-1	Gene-protein	HGNC:11246
+29560101_23543	105	123	endometrial cancer	Disease	DOID:1380
+29560101_23543	188	233	Increased expression levels of the HAI-1 gene	Drug	not found
+29560101_23543	223	228	HAI-1	Gene-protein
+29560101_23543	251	285	decreased expression of matriptase	Drug	not found
+29560101_23543	275	285	matriptase	Gene-protein	HGNC:11344
+29560101_23543	295	313	endometrial cancer	Disease
+29560101_23543	410	420	matriptase	Gene-protein
+29560101_23543	410	438	matriptase/HAI-1 equilibrium	Biomarker
+29560101_23543	421	426	HAI-1	Gene-protein
+29560101_23543	468	473	tumor	Disease	DOID:162
+29560101_23543	518	528	matriptase	Gene-protein
+29560101_23543	518	550	matriptase/HAI-1 ratio imbalance	Biomarker
+29560101_23543	518	634	matriptase/HAI-1 ratio imbalance, which includes increased expression of matriptase or decreased expression of HAI-1	Collection
+29560101_23543	529	534	HAI-1	Gene-protein
+29560101_23543	567	601	increased expression of matriptase	Biomarker
+29560101_23543	591	601	matriptase	Gene-protein
+29560101_23543	605	634	decreased expression of HAI-1	Biomarker
+29560101_23543	629	634	HAI-1	Gene-protein
+29560101_23543	648	653	tumor	Disease
+29560101_23543	670	687	pancreatic cancer	Disease	DOID:1793
+29560101_23543	695	727	increased matriptase/HAI-1 ratio	Biomarker
+29560101_23543	695	757	increased matriptase/HAI-1 ratio by decreased HAI-1 expression	Collection
+29560101_23543	705	715	matriptase	Gene-protein
+29560101_23543	716	721	HAI-1	Gene-protein
+29560101_23543	731	757	decreased HAI-1 expression	Biomarker
+29560101_23543	741	746	HAI-1	Gene-protein
+29560101_23543	774	779	tumor	Disease
+29560101_23543	808	840	increased matriptase/HAI-1 ratio	Biomarker
+29560101_23543	808	877	increased matriptase/HAI-1 ratio with increased matriptase expression	Collection
+29560101_23543	818	828	matriptase	Gene-protein
+29560101_23543	829	834	HAI-1	Gene-protein
+29560101_23543	846	877	increased matriptase expression	Biomarker
+29560101_23543	856	866	matriptase	Gene-protein
+29560101_23543	883	898	prostate cancer	Disease	DOID:10283
+29560101_23543	932	942	matriptase	Gene-protein
+29560101_23543	932	963	matriptase/HAI-1 ratio declined	Biomarker
+29560101_23543	943	948	HAI-1	Gene-protein
+29560101_23543	967	993	advanced colorectal cancer	Disease	DOID:9256
+29560101_23543	967	1024	advanced colorectal cancer and infiltrating breast cancer	Collection
+29560101_23543	998	1024	infiltrating breast cancer	Disease	not found
+29560101_23543	1048	1070	invasive breast cancer	Disease	not found
+29560101_23543	1161	1171	matriptase	Gene-protein
+29560101_23543	1161	1183	matriptase/HAI-1 ratio	Biomarker
+29560101_23543	1172	1177	HAI-1	Gene-protein
+29560101_23543	1234	1243	cisplatin	Drug	CHEMBL11359
+29560101_23543	1282	1292	matriptase	Gene-protein
+29560101_23543	1307	1325	endometrial cancer	Disease
+29560101_23543	1378	1402	expression of matriptase	Biomarker
+29560101_23543	1392	1402	matriptase	Gene-protein
+29560101_23543	1454	1486	cellular invasion and metastasis	Biomarker
+29560101_23543	1523	1552	reduced matriptase expression	Biomarker
+29560101_23543	1531	1541	matriptase	Gene-protein
+29560101_23543	1556	1566	matriptase	Gene-protein
+29560101_23543	1567	1572	HAI-1	Gene-protein
+29560101_23543	1582	1588	RL-952	Cellline
+29560101_23543	1593	1599	HEC-1A	Cellline
+29560101_23543	1616	1621	HAI-1	Gene-protein
+29560101_23543	1654	1664	matriptase	Gene-protein
+29560101_23543	1654	1686	matriptase/HAI-1 ratio decreased	Biomarker
+29560101_23543	1665	1670	HAI-1	Gene-protein
+

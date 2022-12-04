@@ -1,0 +1,66 @@
+T0	Chemical 67 77	amino acid
+T1	Chemical 341 348	leucine
+T2	Chemical 503 512	L-leucine
+T3	Chemical 537 546	L-leucine
+T4	Chemical 696 706	amino acid
+T6	Chemical 1292 1299	leucine
+T7	Gene-Protein 30 36	SLC3A2
+#1	AnnotatorNotes T7	HGNC:11026
+T8	Gene-Protein 58 62	LAT1
+#2	AnnotatorNotes T8	HGNC:11063
+T9	Gene-Protein 130 134	LAT1
+T10	Biomarker 130 175	LAT1 expression level was gradually increased
+T11	Disease 183 196	HCV infection
+#3	AnnotatorNotes T11	DOID:1883
+R1	Association Arg1:T10 Arg2:T11	
+T12	Gene-Protein 201 207	SLC3A2
+T13	Gene-Protein 208 212	LAT1
+T14	Disease 248 260	Jc1-infected
+#4	AnnotatorNotes T14	not found
+T15	Biomarker 201 244	SLC3A2/LAT1 complex level was also elevated
+R2	Association Arg1:T15 Arg2:T14	
+T16	Gene-Protein 275 279	LAT1
+T17	Gene-Protein 268 274	SLC3A2
+T18	GeneFamily 378 384	mTORC1
+#5	AnnotatorNotes T18	family:1332
+T19	Gene-Protein 437 443	SLC3A2
+T20	Gene-Protein 444 448	LAT1
+T21	Gene-Protein 467 473	SLC3A2
+T22	Gene-Protein 474 478	LAT1
+T23	Biomarker 537 590	L-leucine transport level was significantly increased
+T24	Disease 594 606	Jc1-infected
+R3	Association Arg1:T23 Arg2:T24	
+T25	Biomarker 684 716	increase in amino acid transport
+T26	Disease 720 732	HCV-infected
+R4	Association Arg1:T25 Arg2:T26	
+T27	Biomarker 753 790	enhanced SLC3A2/LAT1 expression level
+T28	Gene-Protein 762 768	SLC3A2
+T29	Gene-Protein 769 773	LAT1
+T30	GeneFamily 880 886	mTORC1
+T31	Gene-Protein 842 847	4EBP1
+#6	AnnotatorNotes T31	HGNC:3288
+T32	Gene-Protein 932 937	4EBP1
+T33	Biomarker 924 968	phospho-4EBP1 level was remarkably increased
+T34	Disease 972 985	HCV infection
+R5	Association Arg1:T33 Arg2:T34	
+T35	Gene-Protein 1010 1015	4EBP1
+T36	Gene-Protein 1073 1079	SLC3A2
+T37	Gene-Protein 1080 1084	LAT1
+T38	Biomarker 1073 1108	SLC3A2/LAT1 complex was upregulated
+T39	MicroOrganism 1112 1115	HCV
+T40	Gene-Protein 1201 1207	SLC3A2
+T41	Gene-Protein 1208 1212	LAT1
+T42	MicroOrganism 1246 1249	HCV
+T43	GeneFamily 1314 1320	mTORC1
+T44	MicroOrganism 183 186	HCV
+T45	MicroOrganism 248 251	Jc1
+T46	MicroOrganism 594 597	Jc1
+T47	MicroOrganism 720 723	HCV
+T48	MicroOrganism 972 975	HCV
+#8	AnnotatorNotes T26	DOID:1883
+T49	Disease 891 903	HCV infected
+T50	MicroOrganism 891 894	HCV
+T51	MicroOrganism 990 993	HCV
+T5	Drug 1052 1055	BCH
+#7	AnnotatorNotes T5	not found
+T52	Drug 1185 1188	BCH

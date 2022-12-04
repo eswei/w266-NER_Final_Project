@@ -1,0 +1,47 @@
+31278886_32015|t|RSS_IDENT_p_31278886_b_1_5_5
+31278886_32015|a| Lung cancer prognosis assessment is widely based on the TNM staging system, but clinical outcomes indicate that early stage lung cancer patients receiving surgical management are still at high risk of recurrence.5 While analyzing AJCC T1N0M0 stage patients, we observed that the upregulation of UCK2 resulted in poorer OS and DFS, indicating the significant role of UCK2 in the prognosis of lung cancer patients, which was confirmed by microarray assay. Moreover, the elevated expression of UCK2 was closely related with higher T stage and N stage and a higher likelihood of relapse of lung cancer, which implied that UCK2 has significant potential for prognosis monitoring. In addition, Zhou et al26 found that UCK2 could promote metastasis of hepatocellular carcinoma cells, speculating the implication of UCK2 in lung cancer metastasis. GEO31210 analysis showed a higher UCK2 expression level in EGFR‐nonmutated group compared to the EGFR‐mutated group. Lung ADC with EGFR‐activating mutations responded well to gefitinib.29 UCK2 could act as a candidate drug target site in EGFR‐nonmutated lung cancer patients. Long‐term smoking contributes to approximately 85% of lung cancer30; approximately 10%‐15% of cases are found in non‐smokers.31 Patients with smoking history had higher UCK2 expression than those with no smoking history, revealed by analysis of GEO41271, thus predicting that smoking could facilitate the expression of UCK2. Further analysis of the effect of high expression of UCK2 on smoking in lung ADC and lung SCC showed that high UCK2 expression was closely related to smoking in ADC patients but not SCC patients. 
+31278886_32015	30	41	Lung cancer	Disease	DOID:1324
+31278886_32015	154	165	lung cancer	Disease	DOID:1324
+31278886_32015	309	329	upregulation of UCK2	Biomarker
+31278886_32015	325	329	UCK2	Gene-protein	HGNC:12562
+31278886_32015	396	400	UCK2	Gene-protein
+31278886_32015	396	400	UCK2	Biomarker	C483834
+31278886_32015	421	432	lung cancer	Disease
+31278886_32015	498	525	elevated expression of UCK2	Biomarker
+31278886_32015	521	525	UCK2	Gene-protein
+31278886_32015	616	627	lung cancer	Disease
+31278886_32015	648	652	UCK2	Gene-protein
+31278886_32015	648	652	UCK2	Biomarker
+31278886_32015	742	746	UCK2	Gene-protein
+31278886_32015	742	746	UCK2	Biomarker
+31278886_32015	775	799	hepatocellular carcinoma	Disease	DOID:684
+31278886_32015	838	842	UCK2	Gene-protein
+31278886_32015	846	857	lung cancer	Disease
+31278886_32015	904	908	UCK2	Gene-protein
+31278886_32015	929	933	EGFR	Gene-protein	HGNC:3236
+31278886_32015	967	971	EGFR	Gene-protein
+31278886_32015	987	1026	Lung ADC with EGFR‐activating mutations	Disease	not found
+31278886_32015	1001	1005	EGFR	Gene-protein
+31278886_32015	1045	1054	gefitinib	Drug	CHEMBL939
+31278886_32015	1058	1062	UCK2	Gene-protein
+31278886_32015	1058	1062	UCK2	Biomarker
+31278886_32015	1108	1112	EGFR	Gene-protein
+31278886_32015	1108	1135	EGFR‐nonmutated lung cancer	Disease	not found
+31278886_32015	1146	1163	Long‐term smoking	Biomarker
+31278886_32015	1200	1211	lung cancer	Disease
+31278886_32015	1288	1303	smoking history	Biomarker
+31278886_32015	1308	1330	higher UCK2 expression	Biomarker
+31278886_32015	1315	1319	UCK2	Gene-protein
+31278886_32015	1422	1429	smoking	Biomarker
+31278886_32015	1451	1469	expression of UCK2	Biomarker
+31278886_32015	1465	1469	UCK2	Gene-protein
+31278886_32015	1505	1528	high expression of UCK2	Biomarker
+31278886_32015	1524	1528	UCK2	Gene-protein
+31278886_32015	1532	1539	smoking	Biomarker
+31278886_32015	1543	1551	lung ADC	Disease	DOID:3910
+31278886_32015	1556	1564	lung SCC	Disease	DOID:3907
+31278886_32015	1577	1597	high UCK2 expression	Biomarker
+31278886_32015	1582	1586	UCK2	Gene-protein
+31278886_32015	1632	1635	ADC	Disease	DOID:299
+31278886_32015	1653	1656	SCC	Disease	DOID:1749
+

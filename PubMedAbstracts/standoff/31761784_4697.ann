@@ -1,0 +1,50 @@
+T0	Disease 35 48	breast cancer
+#1	AnnotatorNotes T0	DOID:1612
+T1	Gene-Protein 62 68	MAP2K4
+T10	Gene-Protein 548 554	MAP2K4
+T11	Disease 597 610	breast cancer
+T12	Gene-Protein 679 685	MAP2K4
+T13	Disease 689 702	breast cancer
+T14	Disease 728 742	ovarian cancer
+#7	AnnotatorNotes T14	DOID:2394
+T15	Disease 747 766	lung adenocarcinoma
+#8	AnnotatorNotes T15	DOID:3910
+T16	Gene-Protein 767 773	MAP2K4
+T17	Gene-Protein 811 817	MAP2K4
+T18	Disease 829 842	breast cancer
+T19	Gene-Protein 989 995	MAP2K4
+T20	Disease 999 1012	breast cancer
+T21	Gene-Protein 1091 1097	MAP2K4
+T22	Disease 1175 1188	breast cancer
+T23	Gene-Protein 1235 1241	MAP2K4
+T25	Disease 1316 1329	breast cancer
+T3	Gene-Protein 174 180	MAP2K4
+T4	Disease 273 286	breast cancer
+T5	Gene-Protein 338 344	MAP2K4
+T6	Gene-Protein 410 416	MAP2K4
+T7	Disease 420 442	invasive breast cancer
+#23	AnnotatorNotes T7	not found
+T8	Gene-Protein 475 481	MAP2K4
+#2	AnnotatorNotes T1	HGNC:6844
+T9	Biomarker 174 180	MAP2K4
+T24	Biomarker 338 344	MAP2K4
+T26	Biomarker 410 416	MAP2K4
+T27	Biomarker 475 481	MAP2K4
+T28	Biomarker 548 554	MAP2K4
+T29	Biomarker 679 685	MAP2K4
+R1	Association Arg1:T29 Arg2:T13	
+T30	Biomarker 767 773	MAP2K4
+T31	Biomarker 811 817	MAP2K4
+R2	Association Arg1:T31 Arg2:T18	
+T32	Biomarker 989 995	MAP2K4
+T33	Biomarker 1091 1097	MAP2K4
+T34	GeneFamily 1127 1131	PI3K
+#4	AnnotatorNotes T34	family:831
+T35	GeneFamily 1132 1135	AKT
+#5	AnnotatorNotes T35	family:1900
+T36	Gene-Protein 1163 1171	Vimentin
+#6	AnnotatorNotes T36	HGNC:12692
+T37	Biomarker 1235 1241	MAP2K4
+R3	Association Arg1:T37 Arg2:T25	
+#3	AnnotatorNotes T9	C482559
+R4	Association Arg1:T9 Arg2:T4	

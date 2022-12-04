@@ -1,0 +1,59 @@
+29698489_47349|t|RSS_IDENT_s_29698489_b_1_3_6
+29698489_47349|a| Phenotypic overlap with other autophagy disorders The phenotype of AP-4 deficient mice and humans overlaps with that of other conditions caused by mutations in components of the autophagy machinery. Particularly relevant is the finding that mice with a brain-specific KO of ATG9A exhibit poor roratod performance, dysgenesis of the corpus callosum, and calbindin-positive spheroids in DCN [ 44 ], similarly to the AP-4 ε KO mice described here. These observations support the functional connection of AP-4 with ATG9A. Nevertheless, ATG9A KO is more deleterious than AP-4 ε or β4 KO, as ATG9A KO die embryonically or perinatally, depending on the mouse strain and whether the KO is general or CNS-specific [ 44 , 45 , 46 ]. Complete absence of ATG9A thus has a worse outcome than its retention at the TGN. This could be because the compensatory increase in ATG9A levels in AP-4 ε KO neurons allows for some ATG9A to reach pre-autophagosomal structures and thus maintain a certain level of autophagy in the absence of AP-4. Mutations in other autophagy proteins also cause some of the defects observed in AP-4-deficient humans and mice. For example, SPG49 is another form of complicated spastic paraplegia caused by mutation of the TECPR2 gene encoding an LC3B-interacting protein [ 47 ]. SPG49 patients also exhibit thin corpus callosum and neuroaxonal dystrophy [ 47 ]. Likewise, patients with Vici syndrome, a multisystem disorder caused by mutations in the autophagosome-lysosome tethering protein EPG5 [ 48 , 49 , 50 ], have callosal agenesis, developmental delay, microcephaly, and seizures [ 51 ]. EPG5 KO mice also show degeneration of corticospinal tracts [ 52 ]. Finally, KO of genes encoding the autophagy proteins ATG5 [ 41 ], ATG7 [ 42 ], RB1CC1 29] or WDR45 [ 53 ] in the mouse all cause motor and behavioral abnormalities, axonal swellings, accumulation of neuronal inclusion bodies and axonal degeneration. These observations highlight common features between AP-4 deficiency and primary autophagy disorders, suggesting related mechanisms of pathogenesis and supporting another alternative classification of AP-4 deficiency syndrome as a congenital disorder of autophagy [ 54 ].
+29698489_47349	60	79	autophagy disorders	Disease	not found
+29698489_47349	97	101	AP-4	Gene-protein	HGNC:11745
+29698489_47349	177	227	mutations in components of the autophagy machinery	Biomarker
+29698489_47349	304	309	ATG9A	Gene-protein
+29698489_47349	318	342	poor roratod performance	Biomarker
+29698489_47349	344	377	dysgenesis of the corpus callosum	Biomarker
+29698489_47349	383	392	calbindin	Gene-protein
+29698489_47349	383	411	calbindin-positive spheroids	Biomarker
+29698489_47349	444	450	AP-4 ε	Gene-protein
+29698489_47349	531	535	AP-4	Gene-protein
+29698489_47349	541	546	ATG9A	Gene-protein
+29698489_47349	562	567	ATG9A	Gene-protein
+29698489_47349	596	608	AP-4 ε or β4	Gene-protein
+29698489_47349	616	621	ATG9A	Gene-protein
+29698489_47349	773	778	ATG9A	Gene-protein
+29698489_47349	886	891	ATG9A	Gene-protein
+29698489_47349	902	908	AP-4 ε	Gene-protein
+29698489_47349	936	941	ATG9A	Gene-protein
+29698489_47349	1046	1050	AP-4	Gene-protein
+29698489_47349	1052	1089	Mutations in other autophagy proteins	Biomarker
+29698489_47349	1133	1137	AP-4	Gene-protein
+29698489_47349	1178	1183	SPG49	Disease	DOID:0110801
+29698489_47349	1215	1233	spastic paraplegia	Disease	DOID:2476
+29698489_47349	1244	1280	mutation of the TECPR2 gene encoding	Biomarker
+29698489_47349	1260	1266	TECPR2	Gene-protein	HGNC:19957
+29698489_47349	1284	1288	LC3B	Gene-protein	HGNC:13352
+29698489_47349	1317	1322	SPG49	Disease
+29698489_47349	1345	1365	thin corpus callosum	Biomarker
+29698489_47349	1345	1391	thin corpus callosum and neuroaxonal dystrophy	Collection
+29698489_47349	1370	1391	neuroaxonal dystrophy	Biomarker	D019150
+29698489_47349	1424	1437	Vici syndrome	Disease	DOID:0060356
+29698489_47349	1441	1461	multisystem disorder	Disease	not found
+29698489_47349	1472	1534	mutations in the autophagosome-lysosome tethering protein EPG5	Biomarker
+29698489_47349	1472	1624	mutations in the autophagosome-lysosome tethering protein EPG5 [ 48 , 49 , 50 ], have callosal agenesis, developmental delay, microcephaly, and seizures	Collection
+29698489_47349	1530	1534	EPG5	Gene-protein	HGNC:29331
+29698489_47349	1558	1575	callosal agenesis	Biomarker	D061085
+29698489_47349	1577	1596	developmental delay	Biomarker	not found
+29698489_47349	1598	1610	microcephaly	Biomarker	D008831
+29698489_47349	1616	1624	seizures	Biomarker	D012640
+29698489_47349	1633	1637	EPG5	Gene-protein
+29698489_47349	1710	1799	KO of genes encoding the autophagy proteins ATG5 [ 41 ], ATG7 [ 42 ], RB1CC1 29] or WDR45	Drug	not found
+29698489_47349	1754	1758	ATG5	Gene-protein
+29698489_47349	1767	1771	ATG7	Gene-protein
+29698489_47349	1780	1786	RB1CC1	Gene-protein
+29698489_47349	1794	1799	WDR45	Gene-protein
+29698489_47349	1830	1864	motor and behavioral abnormalities	Disease	not found, not found
+29698489_47349	1830	1949	motor and behavioral abnormalities, axonal swellings, accumulation of neuronal inclusion bodies and axonal degeneration	Collection
+29698489_47349	1866	1882	axonal swellings	Disease
+29698489_47349	1884	1925	accumulation of neuronal inclusion bodies	Disease
+29698489_47349	1930	1949	axonal degeneration	Disease	not found
+29698489_47349	2004	2008	AP-4	Gene-protein
+29698489_47349	2004	2019	AP-4 deficiency	Disease
+29698489_47349	2024	2051	primary autophagy disorders	Disease	not found
+29698489_47349	2152	2156	AP-4	Gene-protein
+29698489_47349	2152	2176	AP-4 deficiency syndrome	Disease	not found
+29698489_47349	2182	2214	congenital disorder of autophagy	Disease	not found
+

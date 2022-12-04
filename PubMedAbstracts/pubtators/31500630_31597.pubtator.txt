@@ -1,0 +1,56 @@
+31500630_31597|t|RSS_IDENT_p_31500630_b_1_4_3
+31500630_31597|a| In our previous studies, we classified that IGF-1 induced the dephosphorylation of PTEN and up-regulated cellular invasiveness and proliferation through PI3K–PTEN–Akt–NFkappaB signaling pathway. We also found a negative correlation between PTEN expression and liver metastasis in pancreatic cancer cells. Knockdown of PTEN enhanced the invasiveness and proliferation of pancreatic cancer cells [ 22 , 23 ]. Several studies have demonstrated that the overexpression of PTEN inhibits cell growth in a variety of cancer cell lines [ 24 ]. Furthermore, it is well known that PTEN is suppressed in a variety of cancers and that PTEN protein plays an important role in the carcinogenesis of multiple human cancer cells, including colorectal cancer [ 25 ]. PTEN expression is decreased in colorectal cancers compared with its expression in polyps and normal mucosa. This is consistent with evidence suggesting that PTEN expression is decreased in approximately 40% colorectal cancers, often in association with a PTEN mutation or deletion [ 26 ]. In addition to colorectal cancer, the loss or reduced expression of PTEN has been found to occur in other cancers, most notably breast, prostate and gastric carcinomas [ 27 , 28 ]. Furthermore, the expression of PTEN protein was found to be decreased in the distal colon and rectum in animal studies overexpression of PTEN in colorectal cancer cells has been found to result in cell cycle arrest and enhanced cell death through the inhibition of PI3K [ 29 ]. It is interesting to speculate whether decreased PTEN expression may contribute to propensity for cancer in the more distal colon and rectum. In our results, the expression levels of PTEN mRNA is significantly reduced in highly liver metastatic colon cancer cell line HT-29 than in low liver metastatic colon cancer cell lines CaCo-2 and Colo320. 
+31500630_31597	74	79	IGF-1	Gene-protein	HGNC:5464
+31500630_31597	113	117	PTEN	Gene-protein	HGNC:9588
+31500630_31597	183	187	PI3K	Genefamily	family:831
+31500630_31597	188	192	PTEN	Gene-protein
+31500630_31597	193	196	Akt	Genefamily	family:1900
+31500630_31597	197	205	NFkappaB	Genefamily	family:1254
+31500630_31597	270	274	PTEN	Gene-protein
+31500630_31597	270	285	PTEN expression	Biomarker
+31500630_31597	290	306	liver metastasis	Biomarker
+31500630_31597	310	327	pancreatic cancer	Disease	DOID:1793
+31500630_31597	335	361	Knockdown of PTEN enhanced	Drug
+31500630_31597	348	352	PTEN	Gene-protein
+31500630_31597	400	417	pancreatic cancer	Disease
+31500630_31597	480	502	overexpression of PTEN	Drug	not found
+31500630_31597	498	502	PTEN	Gene-protein
+31500630_31597	540	546	cancer	Disease	DOID:162
+31500630_31597	601	605	PTEN	Gene-protein
+31500630_31597	601	619	PTEN is suppressed	Biomarker
+31500630_31597	636	643	cancers	Disease	DOID:162
+31500630_31597	653	657	PTEN	Gene-protein
+31500630_31597	653	657	PTEN	Biomarker	C494929
+31500630_31597	730	736	cancer	Disease
+31500630_31597	730	771	cancer cells, including colorectal cancer	Collection
+31500630_31597	754	771	colorectal cancer	Disease	DOID:9256
+31500630_31597	780	784	PTEN	Gene-protein
+31500630_31597	780	808	PTEN expression is decreased	Biomarker
+31500630_31597	812	830	colorectal cancers	Disease	DOID:9256
+31500630_31597	938	942	PTEN	Gene-protein
+31500630_31597	938	966	PTEN expression is decreased	Biomarker
+31500630_31597	988	1006	colorectal cancers	Disease
+31500630_31597	1036	1040	PTEN	Gene-protein
+31500630_31597	1037	1061	TEN mutation or deletion	Biomarker
+31500630_31597	1085	1102	colorectal cancer	Disease
+31500630_31597	1108	1142	loss or reduced expression of PTEN	Biomarker
+31500630_31597	1138	1142	PTEN	Gene-protein
+31500630_31597	1176	1183	cancers	Disease
+31500630_31597	1176	1237	cancers, most notably breast, prostate and gastric carcinomas	Collection
+31500630_31597	1198	1237	breast, prostate and gastric carcinomas	Disease	DOID:3459,DOID:10286,DOID:5517
+31500630_31597	1282	1286	PTEN	Gene-protein
+31500630_31597	1370	1392	overexpression of PTEN	Drug	not found
+31500630_31597	1388	1392	PTEN	Gene-protein
+31500630_31597	1396	1413	colorectal cancer	Disease
+31500630_31597	1516	1520	PI3K	Genefamily
+31500630_31597	1568	1593	decreased PTEN expression	Biomarker
+31500630_31597	1578	1582	PTEN	Gene-protein
+31500630_31597	1627	1633	cancer	Disease
+31500630_31597	1691	1746	expression levels of PTEN mRNA is significantly reduced	Biomarker
+31500630_31597	1712	1716	PTEN	Gene-protein
+31500630_31597	1750	1786	highly liver metastatic colon cancer	Disease	not found
+31500630_31597	1797	1802	HT-29	Cellline
+31500630_31597	1811	1844	low liver metastatic colon cancer	Disease	not found
+31500630_31597	1856	1862	CaCo-2	Cellline
+31500630_31597	1867	1874	Colo320	Cellline
+

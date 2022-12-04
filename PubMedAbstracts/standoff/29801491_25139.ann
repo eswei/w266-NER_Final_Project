@@ -1,0 +1,54 @@
+T0	Chemical 54 56	Hg
+T1	Disease 110 113	CVD
+T10	Chemical 544 546	Hg
+T11	Disease 573 595	coronary heart disease
+#4	AnnotatorNotes T11	DOID:3393
+T12	Disease 597 603	stroke
+T13	Disease 607 629	cardiovascular disease
+#6	AnnotatorNotes T13	DOID:1287
+T18	Disease 727 754	acute myocardial infarction
+#10	AnnotatorNotes T18	DOID:9408
+T19	Disease 770 776	stroke
+T23	Chemical 931 932	S
+T24	Chemical 933 935	Hg
+T25	Disease 985 994	fatal AMI
+#16	AnnotatorNotes T25	not found
+T27	Disease 1061 1067	stroke
+T3	Chemical 159 161	Hg
+T33	Disease 1155 1161	stroke
+T4	Chemical 300 307	mercury
+T40	Disease 1351 1357	stroke
+T6	Disease 362 374	hypertension
+#32	AnnotatorNotes T6	DOID:10763
+T7	Disease 379 400	myocardial infarction
+#33	AnnotatorNotes T7	DOID:5844
+T8	Disease 404 410	angina
+#34	AnnotatorNotes T8	not found
+T9	Disease 443 449	stroke
+#35	AnnotatorNotes T9	D020521
+T2	Biomarker 54 65	Hg exposure
+R1	Association Arg1:T2 Arg2:T1	
+T5	Collection 362 410	hypertension and myocardial infarction or angina
+T16	Biomarker 300 320	mercury in the blood
+R2	Association Arg1:T16 Arg2:T5	
+T22	Chemical 896 900	S-Hg
+T14	Biomarker 699 703	S-Hg
+R3	Risk-Reduce Arg1:T14 Arg2:T18	
+T15	Biomarker 1333 1337	S-Hg
+T17	Biomarker 1342 1346	U-Hg
+T20	Collection 1333 1346	S-Hg and U-Hg
+R4	Association Arg1:T20 Arg2:T40	
+T21	Drug 1095 1099	S-Hg
+T26	Drug 1104 1108	U-Hg
+#1	AnnotatorNotes T26	not found
+T29	Collection 1095 1108	S-Hg and U-Hg
+R5	Protects-from Arg1:T29 Arg2:T33	
+T28	Disease 1027 1057	nonfatal myocardial infarction
+#3	AnnotatorNotes T1	DOID:1287
+#5	AnnotatorNotes T28	not found
+T30	Biomarker 544 560	Hg level in nail
+T31	Biomarker 922 942	, higher S-Hg levels
+R6	Risk-Reduce Arg1:T31 Arg2:T25	
+T32	Biomarker 187 216	increased cardiovascular risk
+T34	Biomarker 149 182	levels of Hg in the hair or nails
+R8	Association Arg1:T34 Arg2:T1	

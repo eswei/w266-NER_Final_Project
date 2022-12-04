@@ -1,0 +1,18 @@
+31584877_34236|t|RSS_IDENT_s_31584877_b_1_4_6
+31584877_34236|a| Identification and validation of the hub genes We analyzed the relative importance of the DEmRNAs using the STRING database (<url>) [ 47 ], which contains 9,643,763 proteins from 2,031 organisms and 1,380,838,440 interactions. We constructed the PPI network using the Cytoscape software. The genes were ranked using the cytoHubba plug-in in Cytoscape [ 48 ]. We identified the hub genes by integrating the results of the GO, KEGG and PPI network analyses. The expression of 4 circRNAs (circ-HIBADH, circ-UBAP2, circ-TADA2A, and circ-CLEC17A), 3 miRNAs (has-miR-214, has-mir-324-3p, and has-miR-494) and 5 hub genes (CXCR4,HIF1A, ZEB1, SDC1 and TWIST1) were compared between the PAAD and the normal pancreatic tissues from the GEO dataset. The GEPIA (<url>) [ 49 ] and THPA database (<url>) [ 50 ] were used to validate the transcript (mRNA) and the protein levels of the hub genes. Differentially expressed genes were identified by applying the criteria of |log 2 FC| > 1 and P value < 0.05. Moreover, we compared the expression of the four circRNAs in men and women using the GSE79634 database that provides gender-based information for PAAD patients.
+31584877_34236	490	681	expression of 4 circRNAs (circ-HIBADH, circ-UBAP2, circ-TADA2A, and circ-CLEC17A), 3 miRNAs (has-miR-214, has-mir-324-3p, and has-miR-494) and 5 hub genes (CXCR4,HIF1A, ZEB1, SDC1 and TWIST1)	Biomarker
+31584877_34236	516	527	circ-HIBADH	Rna-noncoding	not found
+31584877_34236	529	539	circ-UBAP2	Rna-noncoding	not found
+31584877_34236	541	552	circ-TADA2A	Rna-noncoding	not found
+31584877_34236	558	570	circ-CLEC17A	Rna-noncoding	not found
+31584877_34236	587	594	miR-214	Rna-noncoding	HGNC:31591
+31584877_34236	600	610	mir-324-3p	Rna-noncoding	HGNC:31767
+31584877_34236	620	627	miR-494	Rna-noncoding	HGNC:32084
+31584877_34236	646	651	CXCR4	Gene-protein	HGNC:2561
+31584877_34236	652	657	HIF1A	Gene-protein	HGNC:4910
+31584877_34236	659	663	ZEB1	Gene-protein	HGNC:11642
+31584877_34236	665	669	SDC1	Gene-protein	HGNC:10658
+31584877_34236	674	680	TWIST1	Gene-protein	HGNC:12428
+31584877_34236	708	712	PAAD	Disease	DOID:4074
+31584877_34236	1168	1172	PAAD	Disease
+

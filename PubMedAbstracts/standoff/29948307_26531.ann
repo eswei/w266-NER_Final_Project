@@ -1,0 +1,43 @@
+T0	Chemical 145 147	Cr
+T1	Disease 168 183	Alport syndrome
+#2	AnnotatorNotes T1	DOID:10983
+T10	Chemical 886 888	Cr
+T11	Disease 1007 1010	CKD
+T13	Chemical 1043 1045	Cr
+T15	Chemical 1132 1134	Cr
+T18	Chemical 1395 1397	Cr
+T19	Disease 1442 1453	proteinuria
+#8	AnnotatorNotes T19	DOID:576
+T2	Disease 275 278	CKD
+#9	AnnotatorNotes T2	DOID:784
+T21	Chemical 1467 1469	Cr
+T22	Disease 1507 1518	proteinuria
+T24	Chemical 1624 1626	Cr
+T4	Chemical 435 437	Cr
+T5	Chemical 551 553	Cr
+T6	Chemical 703 705	Cr
+T8	Disease 829 845	higher CKD stage
+#18	AnnotatorNotes T8	DOID:784
+T7	Disease 1678 1726	CKD progression in patients with Alport syndrome
+#1	AnnotatorNotes T7	DOID:784,DOID:10983
+T9	Biomarker 1619 1626	uEGF/Cr
+R2	Association Arg1:T9 Arg2:T7	
+T12	Biomarker 881 888	uEGF/Cr
+T14	Gene-Protein 140 144	uEGF
+T16	Gene-Protein 546 550	uEGF
+T17	Gene-Protein 430 434	uEGF
+T20	Gene-Protein 698 702	uEGF
+T23	Gene-Protein 1038 1042	uEGF
+T25	Gene-Protein 1127 1131	uEGF
+T26	Gene-Protein 1390 1394	uEGF
+T27	Gene-Protein 1462 1466	uEGF
+T28	Gene-Protein 1619 1623	uEGF
+T29	Gene-Protein 881 885	uEGF
+T30	Biomarker 140 147	uEGF/Cr
+T31	Biomarker 1462 1469	uEGF/Cr
+T32	Biomarker 1390 1397	uEGF/Cr
+T33	Biomarker 1121 1134	Lower uEGF/Cr
+T34	Biomarker 698 705	uEGF/Cr
+T35	Biomarker 430 437	uEGF/Cr
+#3	AnnotatorNotes T14	not found
+T36	Biomarker 546 555	uEGF/Cr’s

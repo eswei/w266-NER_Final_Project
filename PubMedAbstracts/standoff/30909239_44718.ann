@@ -1,0 +1,60 @@
+T1	Disease 55 57	DS
+T10	Disease 540 542	AD
+T11	Biomarker 555 578	frequency of ɛ2 alleles
+T12	Disease 582 584	DS
+T14	Disease 758 766	dementia
+T15	Biomarker 802 872	correlation between TREM2-T, HLA-DR-A, Tau-H1, and ApoE-ɛ4 (T-A-H1-ɛ4)
+T16	Disease 892 900	dementia
+#6	AnnotatorNotes T16	DOID:1307
+T17	Biomarker 916 964	TREM2-C, HLA-DR-G, Tau-H2, and ApoE-ɛ2 haplotype
+T2	Variant 97 115	TREM2-C/T mutation
+T3	Disease 172 174	AD
+#10	AnnotatorNotes T3	DOID:0110035
+T4	Disease 198 200	DS
+T5	Variant 243 247	R47H
+T6	Disease 331 339	dementia
+#12	AnnotatorNotes T6	DOID:1307
+T7	Disease 357 359	DS
+T8	Disease 459 467	dementia
+T9	Variant 485 494	ɛ2 allele
+#1	AnnotatorNotes T1	DOID:14250
+T21	Gene-Protein 97 102	TREM2
+#3	AnnotatorNotes T21	HGNC:17761
+R2	Association Arg1:T2 Arg2:T1	
+R3	Association Arg1:T2 Arg2:T3	
+T22	Gene-Protein 237 242	TREM2
+T23	Gene-Protein 822 827	TREM2
+R4	Variant-Of Arg1:T22 Arg2:T5	
+R5	Risk-Reduce Arg1:T9 Arg2:T10	
+T24	Gene-Protein 284 288	ApoE
+#2	AnnotatorNotes T24	HGNC:613
+T25	Gene-Protein 414 418	ApoE
+T26	Gene-Protein 480 484	ApoE
+#5	AnnotatorNotes T26	HGNC:613
+R6	Association Arg1:T11 Arg2:T12	
+T13	Biomarker 632 720	DS participants above 50 years of age who were either carrying ɛ3/ɛ3 or ɛ3/ɛ2 haplotypes
+R7	Association Arg1:T13 Arg2:T14	
+T27	Gene-Protein 853 860	ApoE-ɛ4
+#7	AnnotatorNotes T27	HGNC:613
+T28	Gene-Protein 831 839	HLA-DR-A
+#8	AnnotatorNotes T28	HGNC:4947
+T29	Gene-Protein 947 954	ApoE-ɛ2
+T30	Gene-Protein 841 847	Tau-H1
+#9	AnnotatorNotes T30	not found
+T33	Gene-Protein 916 921	TREM2
+#11	AnnotatorNotes T5	p.Arg47His
+R1	Risk-Factor Arg1:T15 Arg2:T16	
+R8	Risk-Reduce Arg1:T17 Arg2:T16	
+T31	Gene-Protein 925 934	HLA-DR-G,
+#13	AnnotatorNotes T31	HGNC:1697
+T32	Gene-Protein 935 941	Tau-H2
+#14	AnnotatorNotes T32	not found
+R9	Variant-Of Arg1:T26 Arg2:T9	
+T18	Variant 290 295	ɛ3/ɛ4
+R10	Variant-Of Arg1:T24 Arg2:T18	
+T19	Collection 237 296	TREM2 R47H (T allele) who was heterozygous for ApoE (ɛ3/ɛ4)
+R11	Association Arg1:T19 Arg2:T4	
+R12	Association Arg1:T19 Arg2:T6	
+T34	Variant 420 425	ɛ3/ɛ3
+R13	Variant-Of Arg1:T25 Arg2:T34	
+R14	Association Arg1:T34 Arg2:T7	

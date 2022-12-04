@@ -1,0 +1,98 @@
+T1	Variant 65 73	rs738409
+T10	Disease 403 411	fibrosis
+#1	AnnotatorNotes T10	DOID:0050855
+T12	Disease 417 441	hepatocellular carcinoma
+#3	AnnotatorNotes T12	DOID:684
+T14	Variant 526 534	rs738409
+T15	Variant 651 659	rs738409
+T18	Disease 910 938	nonalcoholic steatohepatitis
+#6	AnnotatorNotes T18	DOID:0080547
+T19	Disease 943 957	liver fibrosis
+#7	AnnotatorNotes T19	DOID:0050855
+T2	Variant 74 77	C>G
+T20	Variant 1025 1042	rs738409 G allele
+T22	Disease 1064 1072	diabetes
+#8	AnnotatorNotes T22	not found
+T23	Disease 1198 1230	nonalcoholic fatty liver disease
+#9	AnnotatorNotes T23	DOID:0080208
+T24	Disease 1232 1246	liver fibrosis
+T25	Disease 1252 1260	diabetes
+T27	Chemical 1342 1353	cholesterol
+T28	Variant 1527 1544	rs738409 G allele
+T30	Disease 1561 1583	coronary heart disease
+#14	AnnotatorNotes T30	DOID:3393
+T31	Variant 1775 1792	rs738409 G allele
+T33	Disease 1812 1825	liver disease
+#15	AnnotatorNotes T33	DOID:409
+T34	Disease 1946 1949	CAD
+T35	Disease 1950 1973	coronary artery disease
+T36	Disease 2011 2014	CHD
+#18	AnnotatorNotes T36	DOID:3393
+T37	Disease 2015 2037	coronary heart disease
+T38	Disease 2095 2100	NAFLD
+#20	AnnotatorNotes T38	DOID:0080208
+T39	Disease 2101 2133	nonalcoholic fatty liver disease
+T4	Chemical 185 194	isoleucin
+T40	Disease 2134 2138	NASH
+#23	AnnotatorNotes T40	DOID:0080547
+T41	Disease 2139 2167	nonalcoholic steatohepatitis
+T5	Chemical 198 208	methionine
+T6	Variant 221 226	I148M
+T8	Chemical 320 332	triglyceride
+T9	Disease 386 401	liver steatosis
+#27	AnnotatorNotes T9	DOID:9452
+T42	Gene-Protein 133 139	PNPLA3
+#12	AnnotatorNotes T42	HGNC:18590
+T43	Collection 65 77	rs738409 C>G
+T44	Gene-Protein 85 131	patatin‐like phospholipase domain containing 3
+#13	AnnotatorNotes T44	HGNC:18590
+T45	Gene-Protein 230 236	PNPLA3
+#16	AnnotatorNotes T6	p.Ile148Met
+T46	Biomarker 296 343	impaired hepatocellular triglyceride hydrolysis
+T13	Collection 386 441	liver steatosis, fibrosis, and hepatocellular carcinoma
+T11	Gene-Protein 519 525	PNPLA3
+T47	Gene-Protein 644 650	PNPLA3
+T48	Gene-Protein 877 883	PNPLA3
+T49	Gene-Protein 1284 1290	PNPLA3
+R3	Variant-Of Arg1:T11 Arg2:T14	
+R4	Variant-Of Arg1:T47 Arg2:T15	
+T16	Variant 884 904	rs738409 GG genotype
+T50	Collection 910 957	nonalcoholic steatohepatitis and liver fibrosis
+T17	Gene-Protein 1018 1024	PNPLA3
+R6	Association Arg1:T20 Arg2:T22	
+T21	Biomarker 1266 1299	minor G allele of PNPLA3 rs738409
+T26	Collection 1198 1260	nonalcoholic fatty liver disease, liver fibrosis, and diabetes
+R7	Association Arg1:T21 Arg2:T26	
+T51	Biomarker 1330 1353	total serum cholesterol
+T52	Biomarker 1358 1394	low‐density lipoprotein serum levels
+T29	Gene-Protein 1520 1526	PNPLA3
+T53	Gene-Protein 1663 1669	TM6SF2
+#2	AnnotatorNotes T53	HGNC:11861
+T54	Gene-Protein 1625 1661	transmembrane 6 superfamily member 2
+#4	AnnotatorNotes T54	HGNC:11861
+T55	Gene-Protein 1768 1774	PNPLA3
+R8	Association Arg1:T31 Arg2:T33	
+T56	Biomarker 1853 1879	benign cardiovascular risk
+T57	Gene-Protein 2168 2174	PNPLA3
+#5	AnnotatorNotes T34	DOID:3393
+T58	Gene-Protein 2283 2289	TM6SF2
+T59	Gene-Protein 2290 2326	transmembrane 6 superfamily member 2
+T60	Gene-Protein 2175 2221	patatin‐like phospholipase domain containing 3
+R9	Variant-Of Arg1:T44 Arg2:T6	
+R5	Variant-Of Arg1:T48 Arg2:T16	
+R10	Association Arg1:T16 Arg2:T50	
+R11	Variant-Of Arg1:T17 Arg2:T20	
+R12	Association Arg1:T28 Arg2:T30	
+T3	Chemical 2038 2041	HDL
+T61	Chemical 2042 2066	high‐density lipoprotein
+T62	Chemical 2067 2070	LDL
+T63	Chemical 2071 2094	low‐density lipoprotein
+T64	Chemical 2327 2331	VLDL
+T65	Chemical 2332 2360	very low‐density lipoprotein
+R1	Variant-Of Arg1:T44 Arg2:T43	
+A1	Loss-of-funtion T6
+R13	Association Arg1:T6 Arg2:T13	
+R2	Variant-Of Arg1:T29 Arg2:T28	
+T7	Variant 1671 1684	167 K variant
+R14	Variant-Of Arg1:T54 Arg2:T7	
+R15	Variant-Of Arg1:T55 Arg2:T31	

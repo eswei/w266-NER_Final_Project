@@ -1,0 +1,47 @@
+T0	Disease 74 77	CVD
+T1	Chemical 120 124	SDMA
+T11	Chemical 705 715	creatinine
+T13	Chemical 750 754	SDMA
+T14	Disease 775 787	hypertension
+T15	Disease 795 797	RA
+#6	AnnotatorNotes T15	DOID:7148
+T16	Chemical 836 840	SDMA
+T18	Chemical 924 928	SDMA
+T19	Disease 979 991	hypertension
+T20	Disease 996 1010	hyperlipidemia
+#10	AnnotatorNotes T20	DOID:1168
+T22	Chemical 1036 1040	SDMA
+T24	Disease 1226 1229	CVD
+T25	Chemical 1278 1282	SDMA
+T27	Disease 1354 1356	RA
+T28	Chemical 1446 1450	SDMA
+T29	Disease 1467 1479	hypertension
+T3	Chemical 239 243	SDMA
+T30	Disease 1484 1498	hyperlipidemia
+T31	Disease 1516 1518	RA
+T4	Disease 289 292	CVD
+T5	Chemical 344 348	SDMA
+T7	Disease 354 357	CVD
+T8	Disease 391 403	hypertension
+#24	AnnotatorNotes T8	DOID:10763
+T9	Chemical 471 475	SDMA
+#1	AnnotatorNotes T0	DOID:1287
+T2	Chemical 39 43	ADMA
+T6	Biomarker 39 43	ADMA
+T10	Biomarker 223 243	elevated plasma SDMA
+R1	Association Arg1:T6 Arg2:T0	
+R2	Risk-Factor Arg1:T10 Arg2:T4	
+T12	Collection 354 404	CVD risk factors, in particular with hypertension,
+T17	Collection 775 797	hypertension in the RA
+T21	Biomarker 741 769	elevated SDMA was associated
+R3	Association Arg1:T21 Arg2:T17	
+T33	Biomarker 1278 1282	SDMA
+R5	Risk-Factor Arg1:T33 Arg2:T27	
+T34	Chemical 1051 1055	ADMA
+T35	Biomarker 1051 1055	ADMA
+T36	Biomarker 1057 1062	ArgMI
+T37	Biomarker 1068 1072	GABR
+#2	AnnotatorNotes T6	C018524
+T23	Biomarker 344 348	SDMA
+#3	AnnotatorNotes T23	C024917
+R6	Association Arg1:T23 Arg2:T12	

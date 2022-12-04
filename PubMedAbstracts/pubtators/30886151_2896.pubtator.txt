@@ -1,0 +1,48 @@
+30886151_2896|t|RSS_IDENT_p_30886151_b_1_1_4
+30886151_2896|a| Due to ICI’s promising therapeutic effects, most studies have focused on communication between tumor cells and T-cells. However, few studies have been conducted on the tumor cell-intrinsic signaling of PD-L1 and PD-L2. Recent findings ⁶ , ⁷ have reported that a minor subset of patients treated with PD-L1/PD-1 mAb therapy responded with rapid disease progression patterns. One reason for this may be the PD-1/PD-L1 axis-mediated inherent functions in tumor cells and PD-1/PD-L1 blockade may affect the tumor cell-intrinsic signaling network, enhancing tumor growth or progress. This suggests that ICI treatment effects may be associated with tumor cell-intrinsic signaling of PD-L1 and PD-L2. Previous studies have demonstrated that PD-L1 and PD-L2 are correlated with multiple tumor phenotypes, including epithelial–mesenchymal transition (EMT), proliferation, and autophagy ⁸ – ¹¹ . The current study indicates that PD-L1 mRNA expression is detected in osteosarcoma ¹² . Metastatic, but not primary, osteosarcoma tumors express PD-L1 ¹³ , ¹⁴ , whereas recent studies show that PD-L1 is detected in primary osteosarcoma, with no significant differences between primary and metastatic osteosarcoma ¹⁵ , ¹⁶ . Moreover, PD-L1 may be correlated with immune suppression, cisplatin resistance, and metastasis-related pathway activation in osteosarcoma by datamining and bioinformatics analyses ¹⁶ . Compared with PD-L1, the functional significance of PD-L2 in tumor cells has been scarcely investigated. To our knowledge, there is no relevant literature reporting on the tumor intrinsic signaling effects of PD-L2 in osteosarcoma. 
+30886151_2896	37	42	ICI’s	Drug-class
+30886151_2896	125	130	tumor	Disease	DOID:162
+30886151_2896	198	203	tumor	Disease
+30886151_2896	232	237	PD-L1	Gene-protein	HGNC:17635
+30886151_2896	242	247	PD-L2	Gene-protein	HGNC:18731
+30886151_2896	330	344	PD-L1/PD-1 mAb	Gene-protein	not found
+30886151_2896	330	352	PD-L1/PD-1 mAb therapy	Drug-class
+30886151_2896	435	439	PD-1	Gene-protein	HGNC:8760
+30886151_2896	435	450	PD-1/PD-L1 axis	Biomarker
+30886151_2896	440	445	PD-L1	Gene-protein
+30886151_2896	482	487	tumor	Disease
+30886151_2896	498	502	PD-1	Gene-protein
+30886151_2896	503	508	PD-L1	Gene-protein
+30886151_2896	533	538	tumor	Disease
+30886151_2896	583	588	tumor	Disease
+30886151_2896	628	631	ICI	Drug-class
+30886151_2896	673	678	tumor	Disease
+30886151_2896	707	712	PD-L1	Gene-protein
+30886151_2896	717	722	PD-L2	Gene-protein
+30886151_2896	764	769	PD-L1	Gene-protein
+30886151_2896	764	769	PD-L1	Biomarker	D061027
+30886151_2896	764	779	PD-L1 and PD-L2	Collection
+30886151_2896	774	779	PD-L2	Gene-protein
+30886151_2896	774	779	PD-L2	Biomarker	D061027
+30886151_2896	809	814	tumor	Disease
+30886151_2896	949	954	PD-L1	Gene-protein
+30886151_2896	949	970	PD-L1 mRNA expression	Biomarker
+30886151_2896	986	998	osteosarcoma	Disease	DOID:3347
+30886151_2896	1004	1045	Metastatic, but not primary, osteosarcoma	Disease	DOID:3347
+30886151_2896	1061	1066	PD-L1	Biomarker
+30886151_2896	1061	1066	PD-L1	Gene-protein
+30886151_2896	1110	1115	PD-L1	Gene-protein
+30886151_2896	1110	1115	PD-L1	Biomarker
+30886151_2896	1131	1151	primary osteosarcoma	Disease	DOID:3347
+30886151_2896	1193	1228	primary and metastatic osteosarcoma	Disease	DOID:3347
+30886151_2896	1249	1254	PD-L1	Gene-protein
+30886151_2896	1249	1254	PD-L1	Biomarker
+30886151_2896	1298	1307	cisplatin	Drug	CHEMBL11359
+30886151_2896	1365	1377	osteosarcoma	Disease
+30886151_2896	1439	1443	PD-L	Gene-protein
+30886151_2896	1477	1482	PD-L2	Gene-protein
+30886151_2896	1486	1491	tumor	Disease
+30886151_2896	1597	1602	tumor	Disease
+30886151_2896	1634	1639	PD-L2	Gene-protein
+30886151_2896	1643	1655	osteosarcoma	Disease
+

@@ -1,0 +1,105 @@
+T12	Drug 529 544	Dexmedetomidine
+T13	Gene-Protein 548 554	irisin
+T15	Disease 714 728	intestinal I/R
+#7	AnnotatorNotes T15	D015427
+T16	Chemical 799 806	diamine
+T17	Chemical 822 831	aspartate
+T18	Chemical 856 863	alanine
+T19	Chemical 892 899	lactate
+T2	Disease 28 59	Intestinal ischemia/reperfusion
+#12	AnnotatorNotes T2	D015427
+T21	Chemical 1096 1119	reactive oxygen species
+T22	Chemical 1127 1142	malondialdehyde
+T23	Chemical 1144 1147	MDA
+T25	Chemical 1322 1332	superoxide
+T27	Drug 1405 1420	dexmedetomidine
+T28	Disease 1517 1520	I/R
+T29	Drug 1527 1542	Dexmedetomidine
+T30	Disease 1574 1586	liver injury
+T32	Gene-Protein 1737 1743	irisin
+T33	Drug 1737 1743	irisin
+T34	Drug 1788 1803	dexmedetomidine
+T5	Biomarker 147 173	abnormal energy metabolism
+T6	Biomarker 178 190	liver injury
+T7	Drug 338 353	dexmedetomidine
+T8	Disease 357 369	liver injury
+#32	AnnotatorNotes T8	DOID:409
+T9	Disease 377 391	intestinal I/R
+#33	AnnotatorNotes T9	D015427
+T3	Disease 61 64	I/R
+#2	AnnotatorNotes T3	D015427
+T1	Biomarker 92 120	high morbidity and mortality
+#1	AnnotatorNotes T7	CHEMBL778
+#4	AnnotatorNotes T12	CHEMBL778
+#3	AnnotatorNotes T13	HGNC:20240
+T4	Gene-Protein 799 814	diamine oxidase
+#5	AnnotatorNotes T4	HGNC:80
+T10	Gene-Protein 816 819	DAO
+#8	AnnotatorNotes T10	HGNC:80
+T11	GeneFamily 822 848	aspartate aminotransferase
+#9	AnnotatorNotes T11	not found
+T37	GeneFamily 850 853	AST
+#10	AnnotatorNotes T37	not found
+T38	Gene-Protein 856 880	alanine aminotransferase
+#11	AnnotatorNotes T38	HGNC:4552
+T39	Gene-Protein 882 885	ALT
+#13	AnnotatorNotes T39	HGNC:4552
+T40	GeneFamily 892 913	lactate dehydrogenase
+#14	AnnotatorNotes T40	not found
+T41	GeneFamily 915 918	LDH
+#15	AnnotatorNotes T41	not found
+T42	Gene-Protein 953 959	irisin
+T20	Gene-Protein 969 978	caspase-3
+#17	AnnotatorNotes T20	HGNC:1504
+T43	Gene-Protein 980 983	Bax
+#19	AnnotatorNotes T43	HGNC:959
+T44	Gene-Protein 989 994	NLRP3
+#21	AnnotatorNotes T44	HGNC:16400
+T45	Gene-Protein 1030 1035	NLRP3
+T46	Gene-Protein 1046 1055	caspase-1
+#24	AnnotatorNotes T46	HGNC:1499
+T47	Gene-Protein 1210 1230	interleukin- (IL-) 6
+#25	AnnotatorNotes T47	HGNC:6018
+T48	Gene-Protein 1173 1204	tumor necrosis factor- (TNF-) α
+#27	AnnotatorNotes T48	HGNC:11892
+T24	Gene-Protein 1150 1165	myeloperoxidase
+#16	AnnotatorNotes T24	HGNC:7218
+T49	Gene-Protein 1167 1170	MPO
+#28	AnnotatorNotes T49	HGNC:7218
+T50	Gene-Protein 1037 1040	ASC
+#29	AnnotatorNotes T50	HGNC:16608
+T51	GeneFamily 1344 1347	SOD
+#30	AnnotatorNotes T51	family:1929
+T52	GeneFamily 1322 1342	superoxide dismutase
+#31	AnnotatorNotes T52	family:1929
+T53	Disease 1374 1388	intestinal I/R
+T26	Gene-Protein 1293 1298	Bcl-2
+#18	AnnotatorNotes T26	HGNC:990
+T54	Gene-Protein 1591 1596	NLRP3
+T55	Disease 1811 1842	intestinal ischemia/reperfusion
+T35	Gene-Protein 1672 1678	irisin
+T36	Gene-Protein 1476 1482	irisin
+T57	Gene-Protein 1268 1274	irisin
+R2	Response Arg1:T27 Arg2:T28	
+T58	Drug 548 576	irisin-neutralizing antibody
+#20	AnnotatorNotes T58	not found
+T14	Biomarker 662 697	severe intestine and liver injuries
+T59	Biomarker 1262 1367	serum irisin level and hepatic Bcl-2 protein expression and superoxide dismutase (SOD) activity decreased
+T60	Biomarker 945 1247	hepatic irisin, cleaved caspase-3, Bax, and NLRP3 inflammasome components (including NLRP3, ASC, and caspase-1), protein expressions, apoptotic index, reactive oxygen species (ROS), malondialdehyde (MDA), myeloperoxidase (MPO), tumor necrosis factor- (TNF-) α, and interleukin- (IL-) 6 levels increased
+R3	Association Arg1:T59 Arg2:T53	
+R4	Association Arg1:T60 Arg2:T53	
+R5	Association Arg1:T14 Arg2:T15	
+T61	Disease 1628 1642	intestinal I/R
+R6	Protects-from Arg1:T29 Arg2:T30	
+T31	Drug 1672 1700	irisin-neutralizing antibody
+#6	AnnotatorNotes T33	C577593
+R7	Synergy-Response Arg1:T33 Arg2:T55	
+R8	Synergy-Response Arg1:T34 Arg2:T55	
+T56	Collection 92 191	high morbidity and mortality, is also accompanied with abnormal energy metabolism and liver injury.
+R1	Association Arg1:T56 Arg2:T2	
+T62	Gene-Protein 192 198	Irisin
+#22	AnnotatorNotes T62	HGNC:20240
+T63	Biomarker 781 926	increase in serum diamine oxidase (DAO), aspartate aminotransferase (AST), alanine aminotransferase (ALT), and lactate dehydrogenase (LDH) levels
+T64	Chemical 1121 1124	ROS
+T65	Biomarker 1476 1489	irisin levels
+R9	Response Arg1:T31 Arg2:T61	

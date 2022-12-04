@@ -1,0 +1,56 @@
+T1	Chemical 44 50	7α-HCO
+T10	Chemical 495 501	7α-HCO
+T11	Chemical 503 515	7α,12α-diHCO
+T13	Chemical 521 532	7α,27-diHCO
+T14	Disease 562 566	NASH
+T16	Chemical 620 629	bile acid
+T17	Disease 656 660	NASH
+T19	Chemical 691 697	24S-HC
+T2	Chemical 88 97	bile acid
+T20	Disease 733 737	NASH
+T22	Chemical 739 745	24S-HC
+T23	Chemical 792 803	cholesterol
+T24	Chemical 890 896	24S-HC
+T25	Chemical 984 1005	24-hydroxycholesterol
+T26	Chemical 1035 1046	7α,24S-diHC
+T28	Chemical 1059 1069	bile acids
+T29	Chemical 1105 1110	24-HC
+T30	Disease 1156 1160	NASH
+T32	Chemical 1179 1184	24-HC
+T33	Disease 1201 1205	NASH
+T34	Chemical 1255 1261	24S-HC
+T35	Chemical 1325 1331	24R-HC
+T38	Chemical 1400 1411	7α,24S-diHC
+T4	Disease 205 209	NASH
+#30	AnnotatorNotes T4	DOID:0080547
+T40	Disease 1537 1541	NASH
+T6	Chemical 318 327	bile acid
+T7	Disease 360 364	NASH
+T9	Chemical 458 463	7α-HC
+T3	Biomarker 139 187	serum level of 7α-HCO is significantly increased
+T5	Chemical 154 160	7α-HCO
+R1	Association Arg1:T3 Arg2:T4	
+T8	Biomarker 263 288	mRNA expression of CYP7A1
+T15	Gene-Protein 282 288	CYP7A1
+#1	AnnotatorNotes T15	HGNC:2651
+R2	Association Arg1:T8 Arg2:T7	
+T18	Biomarker 449 558	level of 7α-HC and its downstream metabolites 7α-HCO, 7α,12α-diHCO, and 7α,27-diHCO were significantly higher
+R3	Association Arg1:T18 Arg2:T14	
+T12	Biomarker 604 639	upregulation of bile acid synthesis
+R4	Association Arg1:T12 Arg2:T17	
+T31	Biomarker 679 708	increase of 24S-HC and 24R-HC
+T37	Chemical 702 708	24R-HC
+R5	Association Arg1:T31 Arg2:T20	
+T21	Gene-Protein 821 828	CYP46A1
+#2	AnnotatorNotes T21	HGNC:2641
+T41	Gene-Protein 792 819	cholesterol 24S-hydroxylase
+#3	AnnotatorNotes T41	HGNC:2641
+T42	Gene-Protein 1023 1030	CYP39A1
+#4	AnnotatorNotes T42	HGNC:17449
+T43	Gene-Protein 984 1021	24-hydroxycholesterol 7-α-hydroxylase
+#5	AnnotatorNotes T43	HGNC:17449
+T27	Biomarker 1105 1118	24-HC epimers
+T44	Biomarker 1179 1197	24-HC accumulation
+R6	Association Arg1:T44 Arg2:T33	
+T36	Gene-Protein 1509 1516	CYP39A1
+T39	Biomarker 1509 1533	CYP39A1 is downregulated

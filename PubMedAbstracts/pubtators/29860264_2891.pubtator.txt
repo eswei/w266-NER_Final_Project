@@ -1,0 +1,43 @@
+29860264_2891|t|RSS_IDENT_p_29860264_b_1_1_3
+29860264_2891|a| The family of transient receptor potential (TRP) channels are essential mediators of signaling pathways involved in cellular functions and associated with progression and treatment of various cancers [ 14 ]. As a member of the TRP family, transient receptor potential melastatin 8 (TRPM8) is a Ca²⁺-permeable cation channel [ 15 ] and is required for the transduction of moderately cold temperatures [ 16 , 17 ]. Initially, human TRPM8 was known as trp-p8 and has been identified to have a high expression level in prostate cancer [ 18 ]. Moreover, increased expression of TRPM8 was found in prostate cancer cells and it emerged as a promising prognostic marker in prostate cancer [ 19 ]. In fact, more and more reports have suggested that TRPM8 plays vital functions in carcinogenesis of many cancers, including melanoma [ 20 ], bladder cancer [ 21 ], oral cancer [ 22 ], lung cancer, colon cancer, and breast cancer [ 18 ]. More importantly, studies on the relationship between TRPM8 and tumors reveal that high expression of TRPM8 appears to be associated with poor prognosis [ 23 , 24 ]. Hence, TRPM8 had been reported to be a valuable prognostic biomarker and might be a potential treatment target [ 25 ]. It has reported that TRPM8 expression is elevated in PC, and the aberrantly over-expressed TRPM8 is required for cellular proliferation and invasion [ 26 , 27 ]. However, its clinical significance in prognosis for PC has not been previously reported. The present study investigated the potential of TRPM8 as a prognostic biomarker in PC patients. 
+29860264_2891	44	87	transient receptor potential (TRP) channels	Genefamily	family:249
+29860264_2891	44	87	transient receptor potential (TRP) channels	Biomarker	D050051
+29860264_2891	222	229	cancers	Disease	DOID:162
+29860264_2891	257	260	TRP	Genefamily	family:249
+29860264_2891	269	310	transient receptor potential melastatin 8	Gene-protein	HGNC:17961
+29860264_2891	312	317	TRPM8	Gene-protein	HGNC:17961
+29860264_2891	324	328	Ca²⁺	Chemical
+29860264_2891	324	353	Ca²⁺-permeable cation channel	Genefamily	not found
+29860264_2891	460	465	TRPM8	Gene-protein
+29860264_2891	460	541	TRPM8 was known as trp-p8 and has been identified to have a high expression level	Biomarker
+29860264_2891	479	485	trp-p8	Gene-protein	HGNC:17961
+29860264_2891	545	560	prostate cancer	Disease	DOID:10283
+29860264_2891	579	608	increased expression of TRPM8	Biomarker
+29860264_2891	603	608	TRPM8	Gene-protein
+29860264_2891	622	637	prostate cancer	Disease
+29860264_2891	695	710	prostate cancer	Disease
+29860264_2891	770	775	TRPM8	Gene-protein
+29860264_2891	770	775	TRPM8	Biomarker	C425966
+29860264_2891	824	831	cancers	Disease	DOID:162
+29860264_2891	824	947	cancers, including melanoma [ 20 ], bladder cancer [ 21 ], oral cancer [ 22 ], lung cancer, colon cancer, and breast cancer	Collection
+29860264_2891	843	851	melanoma	Disease	DOID:1909
+29860264_2891	860	874	bladder cancer	Disease	DOID:11054
+29860264_2891	883	894	oral cancer	Disease	DOID:8618
+29860264_2891	903	914	lung cancer	Disease	DOID:1324
+29860264_2891	916	928	colon cancer	Disease	DOID:219
+29860264_2891	934	947	breast cancer	Disease	DOID:1612
+29860264_2891	1010	1015	TRPM8	Gene-protein
+29860264_2891	1020	1026	tumors	Disease	DOID:162
+29860264_2891	1039	1063	high expression of TRPM8	Biomarker
+29860264_2891	1058	1063	TRPM8	Gene-protein
+29860264_2891	1129	1134	TRPM8	Gene-protein
+29860264_2891	1262	1267	TRPM8	Gene-protein
+29860264_2891	1262	1290	TRPM8 expression is elevated	Biomarker
+29860264_2891	1294	1296	PC	Disease	DOID:10283
+29860264_2891	1306	1337	aberrantly over-expressed TRPM8	Biomarker
+29860264_2891	1332	1337	TRPM8	Gene-protein
+29860264_2891	1455	1457	PC	Disease
+29860264_2891	1540	1545	TRPM8	Gene-protein
+29860264_2891	1540	1545	TRPM8	Biomarker
+29860264_2891	1575	1577	PC	Disease
+

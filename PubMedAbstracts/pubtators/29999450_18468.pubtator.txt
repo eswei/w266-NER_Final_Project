@@ -1,0 +1,51 @@
+29999450_18468|t|RSS_IDENT_p_29999450_b_1_4_3
+29999450_18468|a| In the apolipoprotein E-/- mouse model, TRAIL deficiency has been shown to aggravate renal disease and insulin resistance. ²³ Two case-control studies conducted in Turkey and China further demonstrated that levels of sTRAIL were higher in healthy individuals than in individuals newly diagnosed with T2DM. ²⁴ – ²⁵ The latter results are consistent with our study. ²⁴ – ²⁵ In another study that was conducted in Turkey, levels of sTRAIL were found to be significantly lower in patients with DN with foot ulcers compared to healthy subjects. ¹⁵ In animal studies, an injection of SDR5 to block TRAIL accelerated autoimmune diabetes. ²⁶ Taken together, the results of these studies indicate that TRAIL may play a protective role in DN and DM. The present case-control study compared serum levels of sTRAIL and TRAIL mRNA expression in patients with DN, T2DM and control subjects. To our knowledge, this is the first study to evaluate an association between TRAIL mRNA levels in PBMCs that were collected from DN and T2DM patients. The levels of TRAIL mRNA in PBMCs and sTRAIL in sera were both significantly lower in the DN and T2DM patients compared to the CNT group, but some research results are not consistent with our results. For example, expression of TRAIL was found to be significantly higher in the kidneys of diabetic patients than in the kidneys of healthy individuals. ¹⁴ Another study reported that patients with microalbuminuria or macroalbuminuria had significantly higher serum levels of TRAIL than individuals with normal albuminuria. ²⁷ These ﬁndings suggest that TRAIL has the capacity to mediate both destructive and anti-inﬂammatory properties in DM and DN. 
+29999450_18468	37	53	apolipoprotein E	Gene-protein
+29999450_18468	70	75	TRAIL	Gene-protein
+29999450_18468	70	86	TRAIL deficiency	Biomarker
+29999450_18468	115	128	renal disease	Disease	DOID:557
+29999450_18468	115	151	renal disease and insulin resistance	Collection
+29999450_18468	133	151	insulin resistance	Disease	D007333
+29999450_18468	237	265	levels of sTRAIL were higher	Biomarker
+29999450_18468	247	253	sTRAIL	Gene-protein	HGNC:11925
+29999450_18468	330	334	T2DM	Disease	DOID:9352
+29999450_18468	449	502	levels of sTRAIL were found to be significantly lower	Biomarker
+29999450_18468	459	465	sTRAIL	Gene-protein
+29999450_18468	520	539	DN with foot ulcers	Disease	D003928, D016523	Conjunction
+29999450_18468	608	612	SDR5	Drug	not found
+29999450_18468	622	627	TRAIL	Gene-protein
+29999450_18468	640	659	autoimmune diabetes	Disease	DOID:9744
+29999450_18468	723	728	TRAIL	Gene-protein
+29999450_18468	723	728	TRAIL	Drug	D053221
+29999450_18468	759	761	DN	Disease
+29999450_18468	759	768	DN and DM	Collection
+29999450_18468	766	768	DM	Disease	DOID:9351
+29999450_18468	826	832	sTRAIL	Gene-protein
+29999450_18468	837	842	TRAIL	Gene-protein
+29999450_18468	876	878	DN	Disease
+29999450_18468	880	884	T2DM	Disease
+29999450_18468	984	989	TRAIL	Gene-protein
+29999450_18468	984	1010	TRAIL mRNA levels in PBMCs	Biomarker
+29999450_18468	1036	1038	DN	Disease
+29999450_18468	1036	1047	DN and T2DM	Collection
+29999450_18468	1043	1047	T2DM	Disease
+29999450_18468	1062	1140	levels of TRAIL mRNA in PBMCs and sTRAIL in sera were both significantly lower	Biomarker
+29999450_18468	1072	1077	TRAIL	Gene-protein
+29999450_18468	1096	1102	sTRAIL	Gene-protein
+29999450_18468	1148	1150	DN	Disease
+29999450_18468	1148	1159	DN and T2DM	Collection
+29999450_18468	1155	1159	T2DM	Disease
+29999450_18468	1272	1343	expression of TRAIL was found to be significantly higher in the kidneys	Biomarker
+29999450_18468	1286	1291	TRAIL	Gene-protein
+29999450_18468	1347	1355	diabetic	Disease	not found
+29999450_18468	1454	1470	microalbuminuria	Disease	not found
+29999450_18468	1454	1490	microalbuminuria or macroalbuminuria	Collection
+29999450_18468	1474	1490	macroalbuminuria	Disease
+29999450_18468	1509	1537	higher serum levels of TRAIL	Biomarker
+29999450_18468	1532	1537	TRAIL	Gene-protein
+29999450_18468	1610	1615	TRAIL	Gene-protein
+29999450_18468	1610	1615	TRAIL	Biomarker
+29999450_18468	1696	1698	DM	Disease
+29999450_18468	1696	1705	DM and DN	Collection
+29999450_18468	1703	1705	DN	Disease
+

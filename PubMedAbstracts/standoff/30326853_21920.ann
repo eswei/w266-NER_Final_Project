@@ -1,0 +1,70 @@
+T0	Drug 30 39	Erlotinib
+T1	Chemical 71 93	adenosine triphosphate
+T11	Variant 845 852	34G > A
+T12	Disease 879 915	skin rash of grade 2 or higher level
+#3	AnnotatorNotes T12	not found
+T16	Variant 986 993	1143C/T
+T17	Variant 995 1004	-15622C/T
+T18	Disease 1060 1078	grade 2/3 diarrhea
+#4	AnnotatorNotes T18	not found
+T20	Drug 1156 1165	erlotinib
+T21	Disease 1202 1216	hepatotoxicity
+T3	Disease 201 206	tumor
+#7	AnnotatorNotes T3	DOID:162
+T5	Drug 397 406	erlotinib
+T6	Disease 434 448	hepatotoxicity
+T7	Drug 475 484	gefitinib
+T8	Disease 562 585	hepatotoxicity in NSCLC
+#12	AnnotatorNotes T8	D056486,DOID:3908
+T9	Drug 675 684	erlotinib
+T2	Gene-Protein 125 130	ABCB1
+#1	AnnotatorNotes T2	HGNC:40
+T10	Gene-Protein 132 137	ABCG2
+#2	AnnotatorNotes T10	HGNC:74
+T13	Gene-Protein 143 149	ABCC10
+#5	AnnotatorNotes T13	HGNC:52
+T14	GeneFamily 71 123	adenosine triphosphate-binding cassette transporters
+#6	AnnotatorNotes T14	family:417
+#8	AnnotatorNotes T0	CHEMBL553
+T15	Gene-Protein 159 164	ABCG2
+T19	Gene-Protein 169 174	ABCB1
+T22	Gene-Protein 298 303	ABCG2
+T23	Gene-Protein 308 313	ABCB1
+T24	Gene-Protein 362 367	ABCG2
+T25	Gene-Protein 372 377	ABCB1
+#9	AnnotatorNotes T5	CHEMBL553
+T26	Gene-Protein 1117 1122	ABCG2
+T27	Gene-Protein 944 949	ABCG2
+T28	Gene-Protein 979 984	ABCG2
+T29	Gene-Protein 839 844	ABCG2
+T30	Biomarker 159 164	ABCG2
+#10	AnnotatorNotes T30	D000070997
+T31	Biomarker 169 174	ABCB1
+#11	AnnotatorNotes T31	D020168
+T32	Drug-Class 270 274	PPIs
+T33	Drug-Class 279 293	H2-antagonists
+T4	Drug-Class 298 324	ABCG2 and ABCB1 inhibitors
+R1	Causes Arg1:T5 Arg2:T6	
+#13	AnnotatorNotes T7	CHEMBL939
+T34	Drug-Class 507 511	PPIs
+T35	Drug-Class 516 530	H2-antagonists
+T36	Collection 507 530	PPIs and H2-antagonists
+R2	Causes Arg1:T36 Arg2:T8	
+R3	Causes Arg1:T7 Arg2:T8	
+T37	GeneFamily 655 671	ABC transporters
+#14	AnnotatorNotes T37	family:417
+T38	Variant 639 651	polymorphism
+R4	Variant-Of Arg1:T37 Arg2:T38	
+R5	Variant-Of Arg1:T29 Arg2:T11	
+R6	Association Arg1:T11 Arg2:T12	
+T39	Variant 950 961	-15,622 T/T
+R7	Variant-Of Arg1:T27 Arg2:T39	
+T40	Collection 986 1004	1143C/T, -15622C/T
+R8	Variant-Of Arg1:T28 Arg2:T40	
+T41	Collection 944 1005	ABCG2 -15,622 T/T polymorphism and ABCG2 (1143C/T, -15622C/T)
+R9	Association Arg1:T41 Arg2:T18	
+R10	Causes Arg1:T20 Arg2:T21	
+T42	Biomarker 1117 1122	ABCG2
+#15	AnnotatorNotes T6	D056486
+A1	Conjunction T8
+T43	Disease 777 791	hepatotoxicity

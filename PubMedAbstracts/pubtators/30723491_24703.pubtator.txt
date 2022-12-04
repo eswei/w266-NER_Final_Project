@@ -1,0 +1,35 @@
+30723491_24703|t|RSS_IDENT_p_30723491_b_1_4_4
+30723491_24703|a| To further explore the function of LINC00941 in GC, LINC00941 co-expression network was constructed by combining LINC00941 with dysregulated coding genes in GC using R package WCGNA. After hierarchical clustering and dynamic tree cutting, LINC00941 co-expression module was identified. The dysregulated coding genes in the module was applied to explore the function of LINC00941 via the functional enrichment analysis. The results of GO terms and KEGG pathways were mainly enriched in cell proliferation, cell migration, and tumor metastasis. Our findings indicated that LINC00941 might play an important oncogenic function in GC. LINC00941 located in the 12p11.21 region of the human genome and also known as lncRNA-MUF. In lung adenocarcinoma, survival of patients was negatively associated with high expression of LINC00941 which modulates focal adhesion and PI3K-AKT signaling pathway ( Wang et al., 2018 ). In hepatocellular carcinoma, high expression of LINC00941 significantly promoted EMT and malignant capacity tissues and correlated with poor prognosis ( Yan et al., 2017 ). LINC00941 was differentially expressed in TGF-β1-activated A549 cells compared with those in normal controls ( Liu H. et al., 2017 ) and was up-regulated upon treatment of colon cancer cells with chemotherapeutic drugs ( Zinovieva et al., 2018 ). In GC, LINC00941 is up-regulated in tumor tissues ( Luo et al., 2018 ). However, in GC, the precise biological function of LINC00941 have not been characterized. 
+30723491_24703	65	74	LINC00941	Rna-noncoding	HGNC:48635
+30723491_24703	78	80	GC	Disease	DOID:10534
+30723491_24703	82	91	LINC00941	Rna-noncoding
+30723491_24703	143	152	LINC00941	Rna-noncoding
+30723491_24703	187	189	GC	Disease
+30723491_24703	269	278	LINC00941	Rna-noncoding
+30723491_24703	399	408	LINC00941	Rna-noncoding
+30723491_24703	555	560	tumor	Disease	DOID:162
+30723491_24703	601	610	LINC00941	Rna-noncoding
+30723491_24703	601	610	LINC00941	Biomarker
+30723491_24703	657	659	GC	Disease
+30723491_24703	661	670	LINC00941	Rna-noncoding
+30723491_24703	740	750	lncRNA-MUF	Rna-noncoding	HGNC:48635
+30723491_24703	755	774	lung adenocarcinoma	Disease	DOID:3910
+30723491_24703	828	856	high expression of LINC00941	Biomarker
+30723491_24703	847	856	LINC00941	Rna-noncoding
+30723491_24703	892	896	PI3K	Genefamily	family:831
+30723491_24703	897	900	AKT	Genefamily	family:1900
+30723491_24703	945	969	hepatocellular carcinoma	Disease	DOID:684
+30723491_24703	971	999	high expression of LINC00941	Biomarker
+30723491_24703	990	999	LINC00941	Rna-noncoding
+30723491_24703	1115	1124	LINC00941	Rna-noncoding
+30723491_24703	1157	1163	TGF-β1	Gene-protein	HGNC:11766
+30723491_24703	1174	1178	A549	Cellline
+30723491_24703	1287	1299	colon cancer	Disease	DOID:219
+30723491_24703	1311	1333	chemotherapeutic drugs	Drug-class
+30723491_24703	1365	1367	GC	Disease
+30723491_24703	1369	1378	LINC00941	Rna-noncoding
+30723491_24703	1369	1394	LINC00941 is up-regulated	Biomarker
+30723491_24703	1398	1403	tumor	Disease
+30723491_24703	1446	1448	GC	Disease
+30723491_24703	1485	1494	LINC00941	Rna-noncoding
+

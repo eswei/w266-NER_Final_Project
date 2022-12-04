@@ -1,0 +1,57 @@
+31261741_3409|t|RSS_IDENT_p_31261741_b_1_1_3
+31261741_3409|a| Stable over-expression of WNT11 stimulates IEC6 intestinal epithelial cell proliferation, migration, and contact-independent growth [ 7 ] and increases HCT116 cell proliferation, migration, and invasion [ 6 ], and WNT11 silencing reduces HCT116 cell migration [ 8 ]. In addition, the secreted protein AGR-2 (Anterior gradient protein 2 homolog) increases CRC cell migration by increasing WNT11 expression [ 9 ]. Wnt-11 activates intracellular kinases and transcription factors of the AP-1 (activator protein-1) and ATF/CREB (activating transcription factor/cAMP response element binding protein) families to regulate cell motility, cell–cell interactions and tissue morphogenesis. WNT11 mRNA expression is correlated with that of FZD7, raising the possibility that FZD₇ transduces Wnt-11 signals in CRC. Consistent with this, FZD7 gene silencing reduces migration of WNT11-transfected HCT116 cells [ 6 ]. However, FZD7 gene silencing also reduces Wnt-β-catenin signaling [ 10 ] and FZD₇ is also a receptor for Wnt-3A [ 11 , 12 ], which increases CRC cell proliferation [ 13 ], and for Wnt-2B, which drives the mesenchymal to epithelial transition (MET) [ 14 ]. Moreover, FZD₈ transduces Wnt-11 signals that promote prostate cancer cell migration, invasion and the epithelial mesenchymal transition (EMT) [ 15 ]. Thus, further studies are needed to establish which FZD receptor(s) transduce Wnt-11 signals in CRC. Similarly, there are several candidate Wnt-11 co-receptors that are overexpressed in CRC, including PTK7 [ 16 , 17 ] and ROR1 [ 18 ].
+31261741_3409	30	61	Stable over-expression of WNT11	Biomarker
+31261741_3409	56	61	WNT11	Gene-protein	HGNC:12776
+31261741_3409	73	77	IEC6	Cellline
+31261741_3409	182	188	HCT116	Cellline
+31261741_3409	244	249	WNT11	Gene-protein
+31261741_3409	268	274	HCT116	Cellline
+31261741_3409	331	336	AGR-2	Gene-protein	HGNC:328
+31261741_3409	331	336	AGR-2	Biomarker	C502296
+31261741_3409	338	373	Anterior gradient protein 2 homolog	Gene-protein	HGNC:328
+31261741_3409	385	388	CRC	Disease	DOID:9256
+31261741_3409	407	434	increasing WNT11 expression	Biomarker
+31261741_3409	418	423	WNT11	Gene-protein
+31261741_3409	442	448	Wnt-11	Gene-protein	HGNC:12776
+31261741_3409	459	480	intracellular kinases	Genefamily	not found
+31261741_3409	485	518	transcription factors of the AP-1	Genefamily	family:1258
+31261741_3409	520	539	activator protein-1	Genefamily	family:1258
+31261741_3409	545	548	ATF	Genefamily	not found
+31261741_3409	549	553	CREB	Genefamily	not found
+31261741_3409	555	586	activating transcription factor	Genefamily	not found
+31261741_3409	587	591	cAMP	Chemical
+31261741_3409	587	624	cAMP response element binding protein	Genefamily	not found
+31261741_3409	711	716	WNT11	Gene-protein
+31261741_3409	711	716	WNT11	Biomarker	C540523
+31261741_3409	760	764	FZD7	Gene-protein	HGNC:4045
+31261741_3409	760	764	FZD7	Biomarker	C115810
+31261741_3409	795	799	FZD₇	Gene-protein	HGNC:4045
+31261741_3409	811	817	Wnt-11	Gene-protein
+31261741_3409	829	832	CRC	Disease
+31261741_3409	856	860	FZD7	Gene-protein
+31261741_3409	897	902	WNT11	Gene-protein
+31261741_3409	915	921	HCT116	Cellline
+31261741_3409	944	948	FZD7	Gene-protein
+31261741_3409	977	980	Wnt	Genefamily	family:360
+31261741_3409	981	990	β-catenin	Genefamily	family:1542
+31261741_3409	1012	1016	FZD₇	Gene-protein	HGNC:4045
+31261741_3409	1012	1016	FZD₇	Biomarker
+31261741_3409	1040	1046	Wnt-3A	Gene-protein	HGNC:15983
+31261741_3409	1076	1079	CRC	Disease
+31261741_3409	1115	1121	Wnt-2B	Gene-protein	HGNC:12781
+31261741_3409	1201	1205	FZD₈	Gene-protein	HGNC:4046
+31261741_3409	1201	1205	FZD₈	Biomarker	C529739
+31261741_3409	1217	1223	Wnt-11	Gene-protein
+31261741_3409	1245	1260	prostate cancer	Disease	DOID:10283
+31261741_3409	1394	1409	FZD receptor(s)	Genefamily	family:286
+31261741_3409	1420	1426	Wnt-11	Gene-protein
+31261741_3409	1438	1441	CRC	Disease
+31261741_3409	1464	1524	several candidate Wnt-11 co-receptors that are overexpressed	Biomarker
+31261741_3409	1482	1488	Wnt-11	Gene-protein
+31261741_3409	1528	1531	CRC	Disease
+31261741_3409	1543	1547	PTK7	Gene-protein	HGNC:9618
+31261741_3409	1543	1547	PTK7	Biomarker	C096905
+31261741_3409	1543	1568	PTK7 [ 16 , 17 ] and ROR1	Collection
+31261741_3409	1564	1568	ROR1	Gene-protein	 HGNC:10256
+31261741_3409	1564	1568	ROR1	Biomarker	C078716
+

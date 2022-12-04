@@ -1,0 +1,88 @@
+T0	Disease 117 122	tumor
+#1	AnnotatorNotes T0	DOID:162
+T10	Chemical 693 701	tyrosine
+T13	Disease 817 845	multiple sporadic carcinomas
+#3	AnnotatorNotes T13	not found
+T15	Disease 1000 1007	cancers
+#4	AnnotatorNotes T15	DOID:162
+T18	Disease 1084 1087	MTC
+T19	Disease 1089 1121	chronic myelomonocytic leukaemia
+#6	AnnotatorNotes T19	DOID:0080188
+T2	Drug 262 265	BTZ
+T20	Disease 1123 1127	CMML
+T21	Disease 1134 1163	breast and pancreatic cancers
+#9	AnnotatorNotes T21	DOID:1612, DOID:1793
+T22	Disease 1246 1252	cancer
+#10	AnnotatorNotes T22	DOID:14566|DOID:162
+T23	Gene-Protein 1353 1357	PUMA
+T24	Drug 1470 1473	BTZ
+T25	Disease 1506 1508	OS
+T27	Disease 1659 1661	OS
+T4	Disease 387 403	multiple myeloma
+#15	AnnotatorNotes T4	DOID:9538
+T6	Disease 405 407	MM
+#17	AnnotatorNotes T6	DOID:9538
+T8	Disease 485 509	medullary thyroid cancer
+#18	AnnotatorNotes T8	DOID:3973
+T9	Disease 511 514	MTC
+T1	Gene-Protein 70 74	ATF4
+#2	AnnotatorNotes T1	HGNC:786
+T3	Variant 75 84	mutations
+T7	Gene-Protein 176 180	ATF4
+#5	AnnotatorNotes T2	CHEMBL325041
+T11	Biomarker 306 330	lower expression of ATF4
+T12	Gene-Protein 326 330	ATF4
+R1	Prognostic-Poor Arg1:T11 Arg2:T4	
+T5	Gene-Protein 450 454	ATF4
+T14	Biomarker 430 454	loss of function of ATF4
+R2	Association Arg1:T14 Arg2:T8	
+#7	AnnotatorNotes T9	C536914
+T16	Gene-Protein 675 678	RET
+#8	AnnotatorNotes T16	HGNC:9967
+T17	GeneFamily 684 708	receptor tyrosine kinase
+#11	AnnotatorNotes T17	family:321
+T26	GeneFamily 710 713	RTK
+#12	AnnotatorNotes T26	family:321
+T28	Gene-Protein 779 782	RET
+T29	Biomarker 765 813	Activation of RET occurs via oncogenic mutations
+R3	Association Arg1:T29 Arg2:T13	
+T30	Gene-Protein 934 937	RET
+T31	Drug-Class 943 975	small-molecule kinase inhibitors
+T32	Gene-Protein 1033 1036	RET
+T33	Biomarker 1033 1046	RET mutations
+T34	Biomarker 1050 1074	increased RET expression
+T35	Collection 1033 1074	RET mutations or increased RET expression
+R4	Association Arg1:T35 Arg2:T15	
+T36	Collection 1084 1163	MTC, chronic myelomonocytic leukaemia (CMML), and breast and pancreatic cancers
+R5	Association Arg1:T35 Arg2:T36	
+#13	AnnotatorNotes T20	DOID:0080188
+T37	Gene-Protein 1227 1230	RET
+T38	Biomarker 1227 1230	RET
+#14	AnnotatorNotes T38	C099282
+R6	Association Arg1:T38 Arg2:T22	
+T39	Gene-Protein 1297 1301	ATF4
+T40	Gene-Protein 1344 1348	NOXA
+#16	AnnotatorNotes T40	HGNC:9108
+#19	AnnotatorNotes T23	HGNC:17868
+T41	Gene-Protein 1434 1437	RET
+T42	Biomarker 1434 1437	RET
+T43	Disease 1441 1444	MTC
+R7	Association Arg1:T42 Arg2:T43	
+T44	Gene-Protein 1526 1530	ATF4
+T45	Gene-Protein 1578 1581	RET
+T46	Disease 1585 1588	MTC
+T47	Biomarker 1578 1581	RET
+T48	Biomarker 1526 1530	ATF4
+#21	AnnotatorNotes T48	D051701
+T49	Gene-Protein 1632 1636	ATF4
+T50	Gene-Protein 1641 1644	RET
+T51	Biomarker 1641 1644	RET
+T52	Biomarker 1632 1636	ATF4
+T53	Biomarker 176 180	ATF4
+T54	Gene-Protein 569 573	ATF4
+T55	Biomarker 569 584	ATF4 activation
+T56	Disease 626 628	OS
+T57	Drug-Class 661 673	chemotherapy
+#20	AnnotatorNotes T56	DOID:3347
+R8	Variant-Of Arg1:T1 Arg2:T3	
+#22	AnnotatorNotes T53	 D051701

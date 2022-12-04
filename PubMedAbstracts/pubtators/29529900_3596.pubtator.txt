@@ -1,0 +1,39 @@
+29529900_3596|t|RSS_IDENT_p_29529900_b_1_1_4
+29529900_3596|a| There are many polymorphic regions in VDR, among which Fok1, Bsm1, Apa1, and Taq1 are the most extensively studied in American (Hispanic white, nonhispanic white, and Caucasian) and Asians (Iranian and Egyptian) populations. ¹⁹ – ²⁴ Attention focuses on the role of single nucleotide polymorphisms (SNPs) in VDR that are associated with the development of a wide range of pathological conditions, including type 2 diabetes mellitus, prostate cancer, and BC ¹⁸ – ²⁰ . However, limited studies are available on the Pakistani population. ²⁵ Studies of Jordanian populations reveal a statistically significant difference between VDR Taq1 variants and 25(OH)D among women with BC. ²¹ Bsm1 and Cdx2 polymorphisms are significantly associated with women with BC living in Southeastern Iran. ²⁰ The Fok1 SNP in BC plays a protective role, whereas the Bsm1 SNP is not associated with BC among women living in the Iranian city of Urmia. ²² Among Egyptian women, the Bsm1 “B” allele and “Bb” variants of VDR may represent a risk factor for susceptibility to the development of BC. ²³ In contrast, a meta-analysis shows no association of VDR SNPs (Fok1, Bsm1, Taq1, and Apa1) with risk of BC in a general population or in a Caucasian population. ²⁴ Among Pakistanis who are BRCA1/2 non-carriers, the Bsm1 “b” allele is associated with an increased risk of BC”. ²⁵ Although the associations of VDR Fok1 and Bsm1 SNPs with the risk of BC have been investigated, no study, to our knowledge, investigated the relationship between the VDR Tru9I polymorphism and the premenopausal risk of BC. Therefore, the present study was designed detect an association between the novel low penetrance VDR Tru9I SNP and BC among premenopausal women of Pakistan. 
+29529900_3596	68	71	VDR	Gene-protein	HGNC:12679
+29529900_3596	296	341	single nucleotide polymorphisms (SNPs) in VDR	Biomarker
+29529900_3596	338	341	VDR	Gene-protein
+29529900_3596	437	461	type 2 diabetes mellitus	Disease	DOID:9352
+29529900_3596	437	486	type 2 diabetes mellitus, prostate cancer, and BC	Collection
+29529900_3596	463	478	prostate cancer	Disease	DOID:10283
+29529900_3596	484	486	BC	Disease	DOID:1612
+29529900_3596	655	658	VDR	Gene-protein
+29529900_3596	655	672	VDR Taq1 variants	Biomarker
+29529900_3596	655	684	VDR Taq1 variants and 25(OH)D	Collection
+29529900_3596	677	684	25(OH)D	Chemical
+29529900_3596	677	684	25(OH)D	Biomarker	D002112
+29529900_3596	702	704	BC	Disease
+29529900_3596	709	736	Bsm1 and Cdx2 polymorphisms	Biomarker
+29529900_3596	782	784	BC	Disease
+29529900_3596	821	829	Fok1 SNP	Drug	not found
+29529900_3596	833	835	BC	Disease
+29529900_3596	873	881	Bsm1 SNP	Biomarker
+29529900_3596	905	907	BC	Disease
+29529900_3596	986	1026	Bsm1 “B” allele and “Bb” variants of VDR	Biomarker
+29529900_3596	1023	1026	VDR	Gene-protein
+29529900_3596	1096	1098	BC	Disease
+29529900_3596	1156	1193	VDR SNPs (Fok1, Bsm1, Taq1, and Apa1)	Biomarker
+29529900_3596	1207	1209	BC	Disease
+29529900_3596	1292	1299	BRCA1/2	Gene-protein	HGNC:1100, HGNC:1101
+29529900_3596	1318	1333	Bsm1 “b” allele	Biomarker
+29529900_3596	1374	1376	BC	Disease
+29529900_3596	1411	1414	VDR	Gene-protein
+29529900_3596	1411	1433	VDR Fok1 and Bsm1 SNPs	Biomarker
+29529900_3596	1451	1453	BC	Disease
+29529900_3596	1548	1551	VDR	Gene-protein
+29529900_3596	1548	1570	VDR Tru9I polymorphism	Biomarker
+29529900_3596	1601	1603	BC	Disease
+29529900_3596	1687	1715	low penetrance VDR Tru9I SNP	Biomarker
+29529900_3596	1702	1705	VDR	Gene-protein
+29529900_3596	1720	1722	BC	Disease
+

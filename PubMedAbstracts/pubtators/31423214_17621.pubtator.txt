@@ -1,0 +1,43 @@
+31423214_17621|t|RSS_IDENT_p_31423214_b_1_4_3
+31423214_17621|a| The miR-125a/let-7e/miR-99b cluster or its members may be involved in human pathological processes. miR-99b/let-7e/miR-125a cluster may promote metastasis in esophageal squamous cell carcinoma (ESCC) ( 25 ). Overexpression of this miRNA cluster was demonstrated to induce ESCC cell migration and invasion in vitro, and experimental metastasis in vivo ( 25 ). The miR-125a/let-7e/miR-99b cluster members were also shown to be upregulated in synovial sarcomas, however only two cluster members, let-7e and miR-99b, promoted cancer cell proliferation ( 26 ). Similarly, two cluster members, miR-99b and miR-125a, were previously implicated in the pathogenesis of cystic fibrosis ( 21 ). Decreased expression level of miR-125a, but not of miR-99b or let-7e, was identified in hepatocellular carcinoma biopsies compared with normal liver tissues, and predicted poor prognosis of patients with hepatocellular carcinoma ( 27 ). miR-125a-5p has been reported to be a potential tumor suppressor in lung carcinoma cells ( 28 ), retinoblastoma ( 29 ) and cervical carcinoma ( 30 ). All of these studies support that these miRNAs may have diverse functions in disease. In accordance with the aforementioned studies, the results of the present study demonstrated that the expression of miR-125a-5p was downregulated in GC tissues compared with adjacent normal tissues. 
+31423214_17621	34	42	miR-125a	Rna-noncoding	HGNC:31505
+31423214_17621	43	49	let-7e	Rna-noncoding	HGNC:31482
+31423214_17621	50	57	miR-99b	Rna-noncoding	HGNC:31651
+31423214_17621	130	137	miR-99b	Rna-noncoding
+31423214_17621	130	161	miR-99b/let-7e/miR-125a cluster	Biomarker
+31423214_17621	138	144	let-7e	Rna-noncoding
+31423214_17621	145	153	miR-125a	Rna-noncoding
+31423214_17621	188	222	esophageal squamous cell carcinoma	Disease	DOID:3748
+31423214_17621	224	228	ESCC	Disease	DOID:3748
+31423214_17621	302	306	ESCC	Disease
+31423214_17621	393	401	miR-125a	Rna-noncoding
+31423214_17621	393	466	miR-125a/let-7e/miR-99b cluster members were also shown to be upregulated	Biomarker
+31423214_17621	402	408	let-7e	Rna-noncoding
+31423214_17621	409	416	miR-99b	Rna-noncoding
+31423214_17621	470	487	synovial sarcomas	Disease	DOID:5485
+31423214_17621	523	529	let-7e	Rna-noncoding
+31423214_17621	523	529	let-7e	Biomarker	C583909
+31423214_17621	523	541	let-7e and miR-99b	Collection
+31423214_17621	534	541	miR-99b	Biomarker	C573158
+31423214_17621	534	541	miR-99b	Rna-noncoding
+31423214_17621	552	558	cancer	Disease	DOID:162
+31423214_17621	618	625	miR-99b	Rna-noncoding
+31423214_17621	618	625	miR-99b	Biomarker
+31423214_17621	618	638	miR-99b and miR-125a	Collection
+31423214_17621	630	638	miR-125a	Rna-noncoding
+31423214_17621	630	638	miR-125a	Biomarker	 C531888
+31423214_17621	690	705	cystic fibrosis	Disease	DOID:1485
+31423214_17621	714	752	Decreased expression level of miR-125a	Biomarker
+31423214_17621	744	752	miR-125a	Rna-noncoding
+31423214_17621	765	772	miR-99b	Rna-noncoding
+31423214_17621	776	782	let-7e	Rna-noncoding
+31423214_17621	802	826	hepatocellular carcinoma	Disease	DOID:684
+31423214_17621	918	942	hepatocellular carcinoma	Disease
+31423214_17621	951	962	miR-125a-5p	Rna-noncoding	HGNC:31505
+31423214_17621	1019	1033	lung carcinoma	Disease	DOID:3905
+31423214_17621	1048	1062	retinoblastoma	Disease	DOID:768
+31423214_17621	1074	1092	cervical carcinoma	Disease	DOID:2893
+31423214_17621	1303	1314	miR-125a-5p	Rna-noncoding
+31423214_17621	1303	1332	miR-125a-5p was downregulated	Biomarker
+31423214_17621	1336	1338	GC	Disease	DOID:10534
+

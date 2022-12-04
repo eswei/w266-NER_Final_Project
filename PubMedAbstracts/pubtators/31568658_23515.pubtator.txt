@@ -1,0 +1,62 @@
+31568658_23515|t|RSS_IDENT_p_31568658_b_1_4_9
+31568658_23515|a| Our current results also demonstrated that LCN2 deletion attenuates the occurrence of T2 hyperintensities, BBB disruption, oligodendrocyte loss, and myelin degradation in the hyperacute (4 hours) phase after SAH. LCN2 deficiency has also been found to reduce BBB disruption and neuroinflammation and oxidative stress at 24 hours after ICH, thrombin induced hydrocephalus and SAH.8, 21, 22 The exact mechanisms by which LCN2 is involved in BBB disruption, oligodendrocyte injury, and myelin damage are still unclear. Some studies on ischemic stroke have proposed a hypoxia—HIF‐1α‐LCN2—vascular endothelial growth factor (VEGF)A axis signaling mechanism.23 The HIF‐1α‐LCN2 signaling pathway plays an important role in cancer and acute kidney injury.24, 25 SAH causes a hypoxic state in acute phase due to elevated ICP and decreased CBF.2 Numerous studies have reported that HIF‐1α is expressed in brain in rat models of SAH.26, 27, 28 VEGFA is a potent regulator of endothelial permeability and disruption of the hypoxia—HIF‐1 α‐LCN2—VEGFA axis may help preserve BBB permeability. Furthermore, the current study found that oligodendrocytes express the LCN2 receptor, 24p3R as well as LCN2 itself. LCN2 via its receptor may be involved in cellular iron uptake after hemorrhage potentially causing iron toxicity.21 Alternately, 24p3R was also expressed on microglial cells suggesting that LCN2 may have a role in SAH‐induced neuroinflammation. However, recent studies showed that endothelial cells also can express 24p3R29 and LCN2 may help to maintain BBB integrity in brain ischemia.30 
+31568658_23515	73	77	LCN2	Gene-protein	HGNC:6526
+31568658_23515	73	86	LCN2 deletion	Drug	not found
+31568658_23515	116	135	T2 hyperintensities	Disease	not found
+31568658_23515	116	241	T2 hyperintensities, BBB disruption, oligodendrocyte loss, and myelin degradation in the hyperacute (4 hours) phase after SAH	Collection
+31568658_23515	137	151	BBB disruption	Disease	not found
+31568658_23515	153	173	oligodendrocyte loss	Disease	not found
+31568658_23515	179	241	myelin degradation in the hyperacute (4 hours) phase after SAH	Disease	not found
+31568658_23515	243	247	LCN2	Gene-protein
+31568658_23515	243	258	LCN2 deficiency	Drug	not found
+31568658_23515	289	303	BBB disruption	Disease
+31568658_23515	289	408	BBB disruption and neuroinflammation and oxidative stress at 24 hours after ICH, thrombin induced hydrocephalus and SAH	Collection
+31568658_23515	308	325	neuroinflammation	Disease	not found
+31568658_23515	330	368	oxidative stress at 24 hours after ICH	Disease	not found
+31568658_23515	370	378	thrombin	Gene-protein	HGNC:3535
+31568658_23515	370	400	thrombin induced hydrocephalus	Disease	not found
+31568658_23515	405	408	SAH	Disease	D013345
+31568658_23515	449	453	LCN2	Gene-protein
+31568658_23515	449	453	LCN2	Biomarker	C489506
+31568658_23515	469	483	BBB disruption	Disease
+31568658_23515	469	526	BBB disruption, oligodendrocyte injury, and myelin damage	Collection
+31568658_23515	485	507	oligodendrocyte injury	Disease
+31568658_23515	513	526	myelin damage	Disease	not found
+31568658_23515	562	577	ischemic stroke	Disease	D000083242
+31568658_23515	594	671	hypoxia—HIF‐1α‐LCN2—vascular endothelial growth factor (VEGF)A axis signaling	Biomarker
+31568658_23515	602	608	HIF‐1α	Gene-protein	HGNC:4910
+31568658_23515	609	613	LCN2	Gene-protein
+31568658_23515	614	656	vascular endothelial growth factor (VEGF)A	Gene-protein	HGNC:12680
+31568658_23515	689	695	HIF‐1α	Gene-protein
+31568658_23515	689	718	HIF‐1α‐LCN2 signaling pathway	Biomarker
+31568658_23515	696	700	LCN2	Gene-protein
+31568658_23515	746	752	cancer	Disease	DOID:162
+31568658_23515	746	776	cancer and acute kidney injury	Collection
+31568658_23515	757	776	acute kidney injury	Disease	DOID:3021
+31568658_23515	784	787	SAH	Disease
+31568658_23515	833	845	elevated ICP	Biomarker
+31568658_23515	833	863	elevated ICP and decreased CBF	Collection
+31568658_23515	850	863	decreased CBF	Biomarker
+31568658_23515	902	908	HIF‐1α	Gene-protein
+31568658_23515	902	930	HIF‐1α is expressed in brain	Biomarker
+31568658_23515	948	951	SAH	Disease
+31568658_23515	963	968	VEGFA	Gene-protein
+31568658_23515	1041	1048	hypoxia	Biomarker	D000860
+31568658_23515	1049	1056	HIF‐1 α	Gene-protein
+31568658_23515	1057	1061	LCN2	Gene-protein
+31568658_23515	1062	1067	VEGFA	Gene-protein
+31568658_23515	1180	1193	LCN2 receptor	Gene-protein	HGNC:23095
+31568658_23515	1195	1200	24p3R	Gene-protein	HGNC:23095
+31568658_23515	1212	1216	LCN2	Gene-protein
+31568658_23515	1225	1229	LCN2	Gene-protein
+31568658_23515	1275	1279	iron	Chemical
+31568658_23515	1293	1303	hemorrhage	Disease	D006470
+31568658_23515	1324	1328	iron	Chemical
+31568658_23515	1354	1359	24p3R	Gene-protein
+31568658_23515	1415	1419	LCN2	Gene-protein
+31568658_23515	1415	1419	LCN2	Biomarker
+31568658_23515	1439	1468	SAH‐induced neuroinflammation	Disease	not found
+31568658_23515	1553	1557	LCN2	Gene-protein
+31568658_23515	1553	1557	LCN2	Biomarker	C489506
+31568658_23515	1596	1610	brain ischemia	Disease	DOID:2316
+

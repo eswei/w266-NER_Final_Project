@@ -1,0 +1,58 @@
+30153273_29176|t|RSS_IDENT_p_30153273_b_1_5_3
+30153273_29176|a| The present study showed that obesity occurred after treatment of folate deficient diet in mice. CFD also led to lipid metabolism disorders. It was recognized that folate and phosphatidylcholine metabolism are inter-related. An animal study showed that folate deficiency decreased flux through phosphatidylethanolamine N-methyltransferase, an enzyme that synthesizes phosphatidylcholine via the methylation of phosphatidylethanolamine [ 31 ]. Phosphatidylcholine is a major component of VLDL, which transport triglycerides out of liver [ 32 ]. Therefore, decreased phosphatidylcholine levels would lead to the reduction of VLDL in the liver tissues and the accumulation of hepatic triglycerides [ 33 ]. The present study showed increased serum triglycerides and VLDL levels. In cystathionine beta-synthase-deficient mice, an animal model for hyperhomocysteinemia, elevated serum homocysteine levels inhibited intravascular VLDL lipolysis, resulting in elevated serum VLDL levels [ 34 ]. Previous studies demonstrated that lower phosphatidylcholine promoted Srebp1 proteolytic maturation and its target gene expression, including Acc1 and Fasn, two rate-limiting enzymes for fatty acid synthesis [ 35 – 37 ]. In agreement with these results, Yu X et al. showed that folate supplement decreased the expression of Fasn mRNA [ 38 ]. However, CFD decreased the fatty acid transporter Cd36 mRNA [ 39 ]. These results suggested that CFD increased hepatic fatty acid synthesis whereas limited lipid transporting out of the liver. Moreover, histopathology showed that hepatic lipid accumulation, a known determinant of insulin resistance, was observed in the CFD group. These results suggested that CFD induced lipid metabolism disorders, which may be related to insulin resistance. 
+30153273_29176	60	67	obesity	Disease	DOID:9970
+30153273_29176	83	112	treatment of folate deficient	Drug	not found
+30153273_29176	127	130	CFD	Biomarker
+30153273_29176	143	169	lipid metabolism disorders	Disease	DOID:3146
+30153273_29176	194	200	folate	Chemical
+30153273_29176	205	224	phosphatidylcholine	Chemical
+30153273_29176	283	289	folate	Chemical
+30153273_29176	324	348	phosphatidylethanolamine	Chemical
+30153273_29176	324	368	phosphatidylethanolamine N-methyltransferase	Gene-protein
+30153273_29176	397	416	phosphatidylcholine	Chemical
+30153273_29176	440	464	phosphatidylethanolamine	Chemical
+30153273_29176	473	492	Phosphatidylcholine	Chemical
+30153273_29176	517	521	VLDL	Chemical
+30153273_29176	539	552	triglycerides	Chemical
+30153273_29176	585	621	decreased phosphatidylcholine levels	Biomarker
+30153273_29176	595	614	phosphatidylcholine	Chemical
+30153273_29176	640	678	reduction of VLDL in the liver tissues	Biomarker
+30153273_29176	653	657	VLDL	Chemical
+30153273_29176	687	724	accumulation of hepatic triglycerides	Biomarker
+30153273_29176	711	724	triglycerides	Chemical
+30153273_29176	758	803	increased serum triglycerides and VLDL levels	Biomarker
+30153273_29176	774	787	triglycerides	Chemical
+30153273_29176	792	796	VLDL	Chemical
+30153273_29176	808	821	cystathionine	Chemical
+30153273_29176	808	835	cystathionine beta-synthase	Gene-protein
+30153273_29176	808	845	cystathionine beta-synthase-deficient	Biomarker
+30153273_29176	872	892	hyperhomocysteinemia	Disease	DOID:9279
+30153273_29176	894	928	elevated serum homocysteine levels	Biomarker
+30153273_29176	909	921	homocysteine	Chemical
+30153273_29176	953	957	VLDL	Chemical
+30153273_29176	982	1008	elevated serum VLDL levels	Biomarker
+30153273_29176	997	1001	VLDL	Chemical
+30153273_29176	1052	1077	lower phosphatidylcholine	Biomarker
+30153273_29176	1058	1077	phosphatidylcholine	Chemical
+30153273_29176	1087	1093	Srebp1	Gene-protein
+30153273_29176	1159	1163	Acc1	Gene-protein
+30153273_29176	1168	1172	Fasn	Gene-protein
+30153273_29176	1295	1301	folate	Chemical
+30153273_29176	1341	1345	Fasn	Gene-protein
+30153273_29176	1368	1371	CFD	Disease	not found
+30153273_29176	1386	1396	fatty acid	Chemical
+30153273_29176	1409	1413	Cd36	Gene-protein
+30153273_29176	1456	1459	CFD	Disease
+30153273_29176	1460	1498	increased hepatic fatty acid synthesis	Biomarker
+30153273_29176	1589	1615	hepatic lipid accumulation	Biomarker
+30153273_29176	1597	1602	lipid	Chemical
+30153273_29176	1640	1647	insulin	Gene-protein	HGNC:6081
+30153273_29176	1640	1658	insulin resistance	Disease	D007333
+30153273_29176	1640	1683	insulin resistance, was observed in the CFD	Collection
+30153273_29176	1680	1683	CFD	Disease
+30153273_29176	1720	1723	CFD	Biomarker
+30153273_29176	1732	1758	lipid metabolism disorders	Disease
+30153273_29176	1732	1802	lipid metabolism disorders, which may be related to insulin resistance	Collection
+30153273_29176	1784	1791	insulin	Gene-protein
+30153273_29176	1784	1802	insulin resistance	Disease
+

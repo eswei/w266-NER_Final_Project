@@ -1,0 +1,74 @@
+T11	Disease 1008 1012	OSCC
+T16	Disease 1331 1337	cancer
+T19	Disease 1458 1464	cancer
+T2	Disease 435 442	cancers
+#6	AnnotatorNotes T2	DOID:162
+T21	Gene-Protein 1484 1492	Vimentin
+T24	Disease 1611 1618	cancers
+T4	Disease 647 654	cancers
+T6	Disease 734 758	hepatocellular carcinoma
+#13	AnnotatorNotes T6	DOID:684
+T7	Disease 770 804	esophageal squamous cell carcinoma
+#14	AnnotatorNotes T7	DOID:7051
+T9	Disease 861 872	OSCC cancer
+#15	AnnotatorNotes T9	DOID:0050866
+T3	Gene-Protein 59 64	Smad2
+#2	AnnotatorNotes T3	HGNC:6768
+T8	Gene-Protein 290 295	Smad2
+T10	Gene-Protein 195 200	Smad2
+T12	Gene-Protein 205 210	Smad4
+#4	AnnotatorNotes T12	HGNC:6770
+T13	RNA-Noncoding 93 103	miR-18a-5p
+#8	AnnotatorNotes T13	HGNC:31548
+T14	RNA-Noncoding 145 155	miR-18a-5p
+T15	Gene-Protein 255 260	Smad7
+#16	AnnotatorNotes T15	HGNC:6773
+T18	Gene-Protein 300 305	Smad4
+T22	Gene-Protein 450 455	Smad7
+T1	Gene-Protein 349 355	TGF-β1
+#1	AnnotatorNotes T1	HGNC:11766
+T23	GeneFamily 356 360	Smad
+#17	AnnotatorNotes T23	family:750
+T25	Gene-Protein 569 575	TGF-β1
+T27	GeneFamily 933 937	Smad
+T28	Gene-Protein 926 932	TGF-β1
+T29	RNA-Noncoding 1054 1064	miR-18a-5p
+T30	RNA-Noncoding 1172 1182	miR-18a-5p
+T31	Drug-Class 1172 1192	miR-18a-5p inhibitor
+T32	RNA-Noncoding 838 848	miR-18a-5p
+T33	Gene-Protein 1143 1153	E-cadherin
+#18	AnnotatorNotes T33	HGNC:1748
+T34	Gene-Protein 1120 1128	vimentin
+#19	AnnotatorNotes T34	 HGNC:12692
+T35	RNA-Noncoding 1894 1904	miR-18a-5p
+T36	Gene-Protein 1667 1677	E-cadherin
+T37	Gene-Protein 1744 1750	TGF-β1
+T38	GeneFamily 1751 1755	Smad
+T20	GeneFamily 1098 1108	collagen I
+#7	AnnotatorNotes T20	not found
+T26	GeneFamily 1253 1263	collagen I
+T39	Gene-Protein 1110 1115	α-SMA
+#10	AnnotatorNotes T39	HGNC:11117
+T40	Gene-Protein 1379 1384	α-SMA
+#20	AnnotatorNotes T21	HGNC:12692
+T41	Biomarker 1875 1904	high expression of miR-18a-5p
+T42	Collection 647 804	cancers, such as breast ( 16 ), prostate ( 17 ), and gastric cancer ( 18 ), as well as hepatocellular carcinoma ( 19 ) and esophageal squamous cell carcinoma
+T43	Disease 664 714	breast ( 16 ), prostate ( 17 ), and gastric cancer
+T5	Biomarker 1484 1602	Vimentin is now being perceived as a canonical prognostic marker and has been revealed to have a high expression level
+R1	Association Arg1:T5 Arg2:T24	
+T44	Biomarker 1379 1384	α-SMA
+R2	Association Arg1:T44 Arg2:T19	
+T17	Biomarker 1253 1263	collagen I
+R3	Association Arg1:T17 Arg2:T16	
+T45	GeneFamily 576 580	Smad
+T46	Biomarker 569 598	TGF-β1/Smad signaling pathway
+T47	Biomarker 838 848	miR-18a-5p
+R4	Association Arg1:T47 Arg2:T9	
+#3	AnnotatorNotes T43	DOID:1612,DOID:10283,DOID:10534
+#5	AnnotatorNotes T44	C541116
+#9	AnnotatorNotes T17	D024042
+#11	AnnotatorNotes T47	C524941
+R6	Association Arg1:T46 Arg2:T42	
+#12	AnnotatorNotes T11	DOID:0050866
+#21	AnnotatorNotes T16	DOID:162
+R5	Prognostic-Poor Arg1:T41 Arg2:T24	

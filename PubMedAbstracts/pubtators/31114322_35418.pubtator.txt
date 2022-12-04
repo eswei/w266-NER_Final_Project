@@ -1,0 +1,42 @@
+31114322_35418|t|RSS_IDENT_p_31114322_b_1_4_4
+31114322_35418|a| miR-944 plays tumor-suppressive or tumor-promoting activities during carcinogenesis and cancer progression. For example, miR-944 upregulation inhibits the metastasis of colorectal cancer cells by regulating the MACC1/Met/AKT signaling pathway. 18 miR-944 directly targets EPHA7 to suppress cell proliferation in non-small cell lung cancer. 19 In contrast, the resumption of miR-944 expression increases cell growth and metastasis and improves the cytotoxicity of cisplatin in breast cancer by regulating the BNIP3-MMP-caspase-3 pathway. 22 miR-944 also acts as an oncogenic miRNA in endometrial 20 and cervical 21 cancers. A previous study also reported that miR-944 knockdown restrained the proliferation of Hep3B cells. 36 However, the specific roles of miR-944 in HCC are not well established. In this study, we demonstrated that miR-944 overexpression attenuated HCC cell proliferation, clone formation, metastasis, and EMT and increased apoptosis, whereas miR-944 silencing led to the opposite results. Additionally, ectopic miR-944 expression hindered HCC tumor growth in vivo. These findings support the notion that miR-944 may be an attractive target when treating patients with this deadly disease. 
+31114322_35418	30	37	miR-944	Rna-noncoding	HGNC:33690
+31114322_35418	65	70	tumor	Disease	DOID:162
+31114322_35418	118	124	cancer	Disease	DOID:162
+31114322_35418	151	158	miR-944	Rna-noncoding
+31114322_35418	151	171	miR-944 upregulation	Drug
+31114322_35418	199	216	colorectal cancer	Disease	DOID:9256
+31114322_35418	241	246	MACC1	Gene-protein	HGNC:30215
+31114322_35418	247	250	Met	Gene-protein	HGNC:7029
+31114322_35418	251	254	AKT	Genefamily	family:1900
+31114322_35418	277	284	miR-944	Rna-noncoding
+31114322_35418	277	284	miR-944	Drug	C000603398
+31114322_35418	302	307	EPHA7	Gene-protein	HGNC:3390
+31114322_35418	342	368	non-small cell lung cancer	Disease	DOID:3908
+31114322_35418	404	411	miR-944	Rna-noncoding
+31114322_35418	404	422	miR-944 expression	Biomarker
+31114322_35418	493	502	cisplatin	Drug	CHEMBL11359
+31114322_35418	506	519	breast cancer	Disease	DOID:1612
+31114322_35418	538	543	BNIP3	Gene-protein	HGNC:1084
+31114322_35418	544	547	MMP	Genefamily	family:891
+31114322_35418	548	557	caspase-3	Gene-protein	HGNC:1504
+31114322_35418	570	577	miR-944	Rna-noncoding
+31114322_35418	570	577	miR-944	Biomarker	C000603398
+31114322_35418	613	651	endometrial 20 and cervical 21 cancers	Disease	DOID:1380, DOID:4362
+31114322_35418	689	696	miR-944	Rna-noncoding
+31114322_35418	689	706	miR-944 knockdown	Drug	not found
+31114322_35418	739	744	Hep3B	Cellline
+31114322_35418	786	793	miR-944	Rna-noncoding
+31114322_35418	786	793	miR-944	Biomarker
+31114322_35418	797	800	HCC	Disease	DOID:684
+31114322_35418	863	870	miR-944	Rna-noncoding
+31114322_35418	863	885	miR-944 overexpression	Drug	not found
+31114322_35418	897	900	HCC	Disease
+31114322_35418	991	998	miR-944	Rna-noncoding
+31114322_35418	1052	1078	ectopic miR-944 expression	Drug	not found
+31114322_35418	1060	1067	miR-944	Rna-noncoding
+31114322_35418	1088	1091	HCC	Disease
+31114322_35418	1092	1097	tumor	Disease	DOID:162
+31114322_35418	1153	1160	miR-944	Rna-noncoding
+31114322_35418	1153	1160	miR-944	Biomarker
+

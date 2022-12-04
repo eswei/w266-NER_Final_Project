@@ -1,0 +1,83 @@
+T1	Disease 28 51	Frontotemporal dementia
+#1	AnnotatorNotes T1	DOID:9255
+T10	Disease 299 302	MND
+T11	Disease 305 335	progressive supranuclear palsy
+#3	AnnotatorNotes T11	DOID:678
+T14	Disease 337 340	PSP
+T15	Disease 347 368	corticobasal syndrome
+#6	AnnotatorNotes T15	not found
+T17	Disease 370 373	CBS
+#7	AnnotatorNotes T17	not found
+T18	Disease 405 408	FTD
+T19	Disease 447 480	frontotemporal lobar degeneration
+#9	AnnotatorNotes T19	DOID:9255
+T2	Disease 53 56	FTD
+#10	AnnotatorNotes T2	DOID:9255
+T20	Disease 482 486	FTLD
+T21	Disease 516 524	FTLD-tau
+T24	Biomarker 670 721	microtubule-associated protein tau (MAPT) mutations
+T25	Disease 665 668	FTD
+T26	Disease 728 736	FTLD-tau
+T28	Disease 825 833	FTLD-TDP
+T29	Biomarker 841 846	svPPA
+T3	Disease 98 120	behavioral variant FTD
+T31	Disease 885 893	FTLD-TDP
+T34	Disease 908 916	FTLD-tau
+T35	Disease 974 979	bvFTD
+T4	Disease 122 127	bvFTD
+#24	AnnotatorNotes T4	not found
+T5	Disease 137 165	primary progressive aphasias
+#25	AnnotatorNotes T5	D018888
+T7	Disease 167 171	PPAs
+#27	AnnotatorNotes T7	D018888
+T9	Disease 277 297	Motor neuron disease
+#29	AnnotatorNotes T9	DOID:231
+#2	AnnotatorNotes T3	not found
+T6	Disease 196 201	svPPA
+#5	AnnotatorNotes T6	not found
+T36	Disease 227 233	nfvPPA
+#11	AnnotatorNotes T36	not found
+T37	Disease 263 268	lvPPA
+#15	AnnotatorNotes T37	not found
+#16	AnnotatorNotes T10	DOID:231
+#4	AnnotatorNotes T14	DOID:678
+#8	AnnotatorNotes T20	DOID:9255
+T8	Gene-Protein 511 514	tau
+#18	AnnotatorNotes T8	HGNC:6893
+T12	Gene-Protein 521 524	tau
+T13	Gene-Protein 527 553	TAR DNA-binding protein 43
+#22	AnnotatorNotes T13	HGNC:11571
+T16	Gene-Protein 560 563	TDP
+#26	AnnotatorNotes T16	HGNC:11571
+T38	Gene-Protein 569 585	fused in sarcoma
+#28	AnnotatorNotes T38	HGNC:4010
+T22	Gene-Protein 603 606	FUS
+T39	Disease 598 606	FTLD-FUS
+#12	AnnotatorNotes T21	not found
+T23	Disease 555 563	FTLD-TDP
+#13	AnnotatorNotes T23	not found
+#30	AnnotatorNotes T39	not found
+R1	Association Arg1:T24 Arg2:T26	
+T40	Gene-Protein 733 736	tau
+T41	Gene-Protein 670 704	microtubule-associated protein tau
+#21	AnnotatorNotes T41	HGNC:6893
+T42	Gene-Protein 706 710	MAPT
+#31	AnnotatorNotes T42	HGNC:6893
+T43	Biomarker 742 818	progranulin (GRN) and chromosome 9 open reading frame 72 (C9orf72) mutations
+T44	Gene-Protein 742 753	progranulin
+#14	AnnotatorNotes T44	HGNC:4601
+T45	Gene-Protein 755 758	GRN
+#32	AnnotatorNotes T45	HGNC:4601
+T46	Gene-Protein 800 807	C9orf72
+#33	AnnotatorNotes T46	HGNC:28337
+T47	Gene-Protein 764 798	chromosome 9 open reading frame 72
+#34	AnnotatorNotes T47	HGNC:28337
+R2	Association Arg1:T43 Arg2:T28	
+T27	Gene-Protein 830 833	TDP
+T30	Biomarker 851 858	FTD-MND
+T32	Collection 841 858	svPPA and FTD-MND
+R3	Association Arg1:T32 Arg2:T31	
+T48	Gene-Protein 890 893	TDP
+T49	Gene-Protein 913 916	tau
+T33	Biomarker 899 902	PSP
+R4	Association Arg1:T33 Arg2:T34	

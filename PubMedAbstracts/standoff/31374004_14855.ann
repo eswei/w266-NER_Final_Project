@@ -1,0 +1,64 @@
+T1	Disease 107 116	psoriatic
+#1	AnnotatorNotes T1	DOID:8893
+T11	Disease 720 729	psoriatic
+T13	Disease 886 901	atherosclerosis
+T14	Chemical 925 936	cholesterol
+T17	Disease 1424 1433	psoriasis
+T20	Disease 1578 1587	psoriasis
+T3	Chemical 325 336	cholesterol
+T5	Disease 450 465	atherosclerosis
+#8	AnnotatorNotes T5	DOID:1936
+T8	Disease 603 638	cardiovascular disease in psoriatic
+#9	AnnotatorNotes T8	DOID:1287, DOID:8893
+T2	Biomarker 43 76	elevated levels of apoA1 and apoB
+R1	Association Arg1:T2 Arg2:T1	
+T4	Biomarker 393 413	lower level of apoA1
+R2	Risk-Factor Arg1:T4 Arg2:T5	
+T6	Gene-Protein 62 67	apoA1
+#4	AnnotatorNotes T6	HGNC:600
+T7	Gene-Protein 72 76	apoB
+#7	AnnotatorNotes T7	HGNC:603
+T10	Biomarker 237 272	decreased levels of apolipoproteins
+T12	GeneFamily 257 272	apolipoproteins
+#11	AnnotatorNotes T12	family:405
+T15	Gene-Protein 280 285	ApoA1
+T16	Gene-Protein 408 413	apoA1
+T18	Gene-Protein 492 497	apoA1
+A1	Conjunction T8
+T9	Biomarker 471 525	lower serum level of apoA1 in the inflammatory tissues
+R3	Risk-Factor Arg1:T9 Arg2:T8	
+T19	Biomarker 544 572	reduction of circulating HDL
+T21	Chemical 569 572	HDL
+T22	Gene-Protein 673 678	apoA1
+T23	Biomarker 673 712	apoA1 level was significantly decreased
+R4	Association Arg1:T23 Arg2:T11	
+T24	Gene-Protein 783 788	apoA1
+T25	Biomarker 783 788	apoA1
+#2	AnnotatorNotes T25	 D016632
+T26	Chemical 793 796	HDL
+T27	Biomarker 793 796	HDL
+#10	AnnotatorNotes T27	D008075
+T28	Biomarker 822 844	elevated level of apoB
+T29	Gene-Protein 840 844	apoB
+R5	Risk-Factor Arg1:T28 Arg2:T13	
+T30	Gene-Protein 983 987	apoB
+T31	Gene-Protein 1088 1092	ApoE
+#3	AnnotatorNotes T31	HGNC:613
+T32	Chemical 1208 1210	TG
+T33	Chemical 1215 1218	LDL
+T34	Biomarker 1268 1301	downregulation of apoE expression
+T35	Gene-Protein 1331 1335	apoE
+T36	Gene-Protein 1286 1290	apoE
+T37	Gene-Protein 1393 1397	apoE
+T38	Biomarker 1393 1397	apoE
+#12	AnnotatorNotes T38	D001057
+R6	Association Arg1:T38 Arg2:T17	
+T39	Gene-Protein 1476 1480	apoE
+T40	Biomarker 1512 1524	levels of TG
+T41	Chemical 1522 1524	TG
+T42	Gene-Protein 1620 1624	apoE
+T43	Biomarker 1620 1624	apoE
+#5	AnnotatorNotes T15	HGNC:600
+T44	Biomarker 974 987	level of apoB
+T45	Biomarker 1310 1335	normalization of the apoE
+#6	AnnotatorNotes T17	DOID:8893

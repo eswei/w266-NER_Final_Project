@@ -1,0 +1,38 @@
+30760928_14715|t|RSS_IDENT_p_30760928_b_1_8
+30760928_14715|a| Cancer-associated alterations in metabolic enzymes influence the levels of metabolic intermediates and may thereby impact non-metabolic cellular functions such as signaling and the epigenetic state ⁵ , ¹³ . For example, succinate and fumarate accumulate in cancers with SDH or FH mutations and may exert their pro-tumorigenic effects by acting as epigenetic modulators ²² , ²³ . Here, we find that ALK+ ALCLs lose squalene monooxygenase activity and accumulate squalene, a metabolite with antioxidant-like properties (Fig. 4f). As activation of cellular antioxidant defenses is selected for in some tumor types ²⁴ or under certain stresses ²¹ , ²⁵ , ²⁶ and may protect cancer cells from ferroptosis ²⁷ , SQLE suppression may be an additional mechanism underlying this cancer hallmark. Future work is required to understand the role of squalene accumulation in cancer initiation and progression. Additionally, our work identifies cholesterol auxotrophy of ALK+ ALCLs as a targetable metabolic liability and adds ALCLs to the small list of cancers that are selectively auxotrophic for a particular nutrient. As a block in LDL uptake inhibits the growth of ALCL tumors in our pre-clinical PDX models, inhibitors of LDLR, or approaches that decrease serum cholesterol without increasing tumor LDLR levels, might have value in the clinic ²⁸ . Lastly, the workflow we describe can serve as a generalizable approach for identifying additional nutrient dependencies and protumorigenic metabolites across cancer types. 
+30760928_14715	28	34	Cancer	Disease	DOID:162
+30760928_14715	248	257	succinate	Chemical
+30760928_14715	248	281	succinate and fumarate accumulate	Biomarker
+30760928_14715	262	270	fumarate	Chemical
+30760928_14715	285	317	cancers with SDH or FH mutations	Disease	not found
+30760928_14715	298	301	SDH	Genefamily	family:641
+30760928_14715	305	307	FH	Gene-protein	HGNC:3700
+30760928_14715	426	429	ALK	Gene-protein	HGNC:427
+30760928_14715	426	436	ALK+ ALCLs	Disease	not found
+30760928_14715	437	473	lose squalene monooxygenase activity	Biomarker
+30760928_14715	437	497	lose squalene monooxygenase activity and accumulate squalene	Collection
+30760928_14715	442	450	squalene	Chemical
+30760928_14715	442	464	squalene monooxygenase	Gene-protein	HGNC:11279
+30760928_14715	478	497	accumulate squalene	Biomarker
+30760928_14715	489	497	squalene	Chemical
+30760928_14715	559	602	activation of cellular antioxidant defenses	Biomarker
+30760928_14715	627	632	tumor	Disease	DOID:162
+30760928_14715	697	703	cancer	Disease	DOID:162
+30760928_14715	732	736	SQLE	Gene-protein	HGNC:11279
+30760928_14715	732	748	SQLE suppression	Biomarker
+30760928_14715	796	802	cancer	Disease
+30760928_14715	863	871	squalene	Chemical
+30760928_14715	863	884	squalene accumulation	Biomarker
+30760928_14715	888	894	cancer	Disease
+30760928_14715	957	968	cholesterol	Chemical
+30760928_14715	983	986	ALK	Gene-protein
+30760928_14715	983	993	ALK+ ALCLs	Disease
+30760928_14715	1039	1044	ALCLs	Disease	DOID:0050744
+30760928_14715	1066	1073	cancers	Disease	DOID:162
+30760928_14715	1139	1158	block in LDL uptake	Drug	not found
+30760928_14715	1182	1186	ALCL	Disease	DOID:0050744
+30760928_14715	1226	1244	inhibitors of LDLR	Drug-class
+30760928_14715	1280	1291	cholesterol	Chemical
+30760928_14715	1311	1316	tumor	Disease
+30760928_14715	1524	1530	cancer	Disease
+

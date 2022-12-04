@@ -1,0 +1,59 @@
+T1	Disease 317 322	tumor
+#2	AnnotatorNotes T1	DOID:162
+T10	Disease 832 845	breast cancer
+#3	AnnotatorNotes T10	DOID:1612
+T11	Disease 932 937	tumor
+T12	Drug 1085 1096	gemcitabine
+T13	Disease 1111 1116	tumor
+T14	Disease 1126 1143	pancreatic cancer
+#7	AnnotatorNotes T14	DOID:1793
+T15	Drug 1250 1260	paclitaxel
+T16	Disease 1275 1289	ovarian cancer
+#9	AnnotatorNotes T16	DOID:2394
+T19	Disease 1411 1416	tumor
+T2	Disease 391 394	HNC
+T20	Disease 1552 1557	tumor
+T22	Disease 1648 1672	hepatocellular carcinoma
+#13	AnnotatorNotes T22	DOID:684
+T23	Disease 1674 1677	HCC
+T26	Disease 1838 1841	HNC
+T3	Disease 531 536	tumor
+T6	Disease 679 684	tumor
+#5	AnnotatorNotes T23	DOID:684
+T9	Biomarker 338 361	dysregulation of miRNAs
+R1	Association Arg1:T9 Arg2:T2	
+T7	RNA-Noncoding 801 806	miR-9
+#6	AnnotatorNotes T7	family:1698
+T8	Biomarker 801 828	miR-9, which is upregulated
+R3	Association Arg1:T8 Arg2:T10	
+T17	RNA-Noncoding 905 910	miR-9
+T18	RNA-Noncoding 1045 1053	miR-146a
+#4	AnnotatorNotes T18	family:1716
+T21	Biomarker 1024 1053	CAF-derived exosomal miR-146a
+#8	AnnotatorNotes T12	CHEMBL888
+T24	RNA-Noncoding 1233 1239	miR-21
+R4	Mediated-Non-Response Arg1:T12 Arg2:T14	
+R5	Mediator Arg1:T12 Arg2:T21	
+#10	AnnotatorNotes T15	CHEMBL428647
+T25	Biomarker 1197 1239	exosomal transfer of stroma-derived miR-21
+R6	Mediated-Non-Response Arg1:T15 Arg2:T16	
+R7	Mediator Arg1:T15 Arg2:T25	
+T28	Gene-Protein 1309 1314	APAF1
+#11	AnnotatorNotes T28	HGNC:576
+T29	Biomarker 1350 1354	CAFs
+T30	Biomarker 1481 1528	loss of specific miRNAs in the exosomes of CAFs
+R8	Association Arg1:T30 Arg2:T20	
+R9	Association Arg1:T29 Arg2:T19	
+T31	RNA-Noncoding 1616 1624	miR-320a
+#12	AnnotatorNotes T31	family:1804
+T32	Biomarker 1599 1632	loss of exosomal miR-320a in CAFs
+T33	Gene-Protein 1736 1740	PBX3
+#14	AnnotatorNotes T33	HGNC:8634
+R10	Association Arg1:T32 Arg2:T22	
+T34	Biomarker 1771 1811	loss of specific exosomal miRNAs in CAFs
+T27	Biomarker 226 232	miRNAs
+T35	Gene-Protein 965 975	E-cadherin
+#1	AnnotatorNotes T35	HGNC:1748
+R12	Association Arg1:T27 Arg2:T1	
+#16	AnnotatorNotes T27	D035683
+#15	AnnotatorNotes T2	DOID:11934

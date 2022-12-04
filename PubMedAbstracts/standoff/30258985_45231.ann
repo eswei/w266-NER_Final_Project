@@ -1,0 +1,48 @@
+T0	Drug 90 99	rapamycin
+T1	Drug 221 230	rapamycin
+T10	Drug 821 829	AZD-8055
+T11	Drug 834 840	OSI-27
+T12	Drug 1069 1077	AZD-8055
+T13	Drug 1100 1106	OSI-27
+T15	Drug 1288 1296	AZD-8055
+T16	Drug 1306 1313	OSI-027
+T17	Chemical 1321 1327	serine
+T18	Chemical 1328 1337	threonine
+T19	Chemical 1342 1350	tyrosine
+T2	Chemical 249 256	Ser²⁰³⁵
+T3	Drug 257 266	rapamycin
+T4	Chemical 296 305	rapamycin
+T5	Drug 410 419	rapamycin
+T6	Drug 445 454	rapamycin
+T8	Drug 637 646	rapamycin
+#1	AnnotatorNotes T0	CHEMBL413
+T20	GeneFamily 69 75	mTORC3
+#2	AnnotatorNotes T20	not found
+T21	Gene-Protein 110 114	mTOR
+#3	AnnotatorNotes T21	HGNC:3942
+T22	GeneFamily 171 177	mTORC2
+#4	AnnotatorNotes T22	family:1333
+T23	ProteinDomain 288 334	FKBP-12–rapamycin binding (FRB) domain of mTOR
+T24	Gene-Protein 394 401	FKBP-12
+#5	AnnotatorNotes T24	HGNC:3711
+T25	GeneFamily 489 495	mTORC2
+T26	GeneFamily 562 568	mTORC3
+T27	GeneFamily 608 614	mTORC3
+T28	GeneFamily 661 667	mTORC2
+T29	GeneFamily 764 770	mTORC3
+T30	Drug-Class 794 820	ATP-competitive inhibitors
+#6	AnnotatorNotes T10	CHEMBL1801204
+#8	AnnotatorNotes T11	not found
+T9	Gene-Protein 844 848	mTOR
+T31	Gene-Protein 966 970	mTOR
+T32	Gene-Protein 1132 1136	mTOR
+T33	Gene-Protein 1146 1151	PI3Kα
+#9	AnnotatorNotes T33	HGNC:8975
+T34	Gene-Protein 1153 1158	PI3Kβ
+#10	AnnotatorNotes T34	HGNC:8976
+T35	Gene-Protein 1160 1165	PI3Kγ
+#11	AnnotatorNotes T35	HGNC:8978
+T36	GeneFamily 1174 1178	PI3K
+#12	AnnotatorNotes T36	family:831
+T37	Gene-Protein 1217 1246	ataxia telangiectasia mutated
+#13	AnnotatorNotes T37	HGNC:795

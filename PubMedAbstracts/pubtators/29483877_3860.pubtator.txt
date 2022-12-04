@@ -1,0 +1,31 @@
+29483877_3860|t|RSS_IDENT_p_29483877_b_1_1_4
+29483877_3860|a| In addition, several non-genetic diseases are associated with aortic damage, and the etiology can therefore be multifactorial (Hendel et al., 2015 ). Oxidative stress(OS), the degree of inflammation and edema may contribute to the progression of aortic tissue damage associated with endothelial dysfunction (Soto et al., 2016a ). In a preliminary study of our group, we evaluated the involvement of OS in different aortopathies in humans and correlated it with sub-endothelial basement membrane proteins and found the existence of dysfunction and progression of aortic damage (Soto et al., 2014 ). In another study, we showed that OS in MFS is associated with alterations in enzymes that employ glutathione, leading to increased chronic inflammation (Zúñiga-Muñoz et al., 2017 ). Furthermore, the vasomotor function in Marfan thoracic aorta is associated with an imbalance in the synthesis of thromboxane A₂ (TXA₂) and prostacyclin derived from the differential protein expression of cyclooxygenase (COXs) isoforms (Chung et al., 2007b ). Levels of prostaglandin E₂ (PGE₂), TXA₂, and IL-6 were significant higher in aortic aneurysms and were associate with overexpression in the aneurysmal wall of the inflammatory cyclooxygenase 2 (COX2) (Cheuk and Cheng, 2007 ). 
+29483877_3860	51	71	non-genetic diseases	Biomarker
+29483877_3860	92	105	aortic damage	Disease	DOID:520
+29483877_3860	180	196	Oxidative stress	Biomarker	D018384
+29483877_3860	180	238	Oxidative stress(OS), the degree of inflammation and edema	Collection
+29483877_3860	197	199	OS	Biomarker	D018384
+29483877_3860	206	238	degree of inflammation and edema	Biomarker
+29483877_3860	276	336	aortic tissue damage associated with endothelial dysfunction	Disease	not found
+29483877_3860	429	431	OS	Biomarker
+29483877_3860	445	457	aortopathies	Disease	not found
+29483877_3860	592	605	aortic damage	Disease
+29483877_3860	661	663	OS	Biomarker
+29483877_3860	667	670	MFS	Disease	DOID:14323
+29483877_3860	690	736	alterations in enzymes that employ glutathione	Biomarker
+29483877_3860	725	736	glutathione	Chemical
+29483877_3860	759	779	chronic inflammation	Disease	D007249
+29483877_3860	923	937	thromboxane A₂	Chemical
+29483877_3860	939	943	TXA₂	Chemical
+29483877_3860	949	961	prostacyclin	Chemical
+29483877_3860	1014	1044	cyclooxygenase (COXs) isoforms	Genefamily	not found
+29483877_3860	1069	1142	Levels of prostaglandin E₂ (PGE₂), TXA₂, and IL-6 were significant higher	Biomarker
+29483877_3860	1079	1095	prostaglandin E₂	Chemical
+29483877_3860	1097	1101	PGE₂	Chemical
+29483877_3860	1104	1108	TXA₂	Chemical
+29483877_3860	1114	1118	IL-6	Gene-protein	HGNC:6018
+29483877_3860	1146	1162	aortic aneurysms	Disease	DOID:3627
+29483877_3860	1187	1261	overexpression in the aneurysmal wall of the inflammatory cyclooxygenase 2	Biomarker
+29483877_3860	1245	1261	cyclooxygenase 2	Gene-protein	HGNC:9605
+29483877_3860	1263	1267	COX2	Gene-protein	HGNC:9605
+

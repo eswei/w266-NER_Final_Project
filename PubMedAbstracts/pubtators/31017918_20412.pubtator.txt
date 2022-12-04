@@ -1,0 +1,40 @@
+31017918_20412|t|RSS_IDENT_p_31017918_b_1_4_3
+31017918_20412|a| In our study, 86.9% patients had normal or elevated e-GFR. Out of the total 351 subjects, 62.7% were affected by vitamin D deficiency or insufficiency. In two Chinese cross-sectional surveys among diabetic inpatients, the proportions of subjects with 25OHD levels < 25 mmol/L and < 50 nmol/L were 59.7% and 83.5%, respectively [ 34 – 35 ]. These findings demonstrated that vitamin D deficiency or insufficiency is quite common among Chinese patients with type 2 diabetes. Moreover, greater prevalence of vitamin D deficiency or insufficiency is observed in women, which is consistent with several epidemiologic surveys [ 36 – 37 ]. It is speculated that more indoor work, less outdoor activities, and less sun exposure among women are possible causes. Further, patients with microalbuminuria had a higher prevalence of vitamin D insufficiency or deficiency compared to those with normoalbuminuria; in addition, patients with macroalbuminuria had more severe vitamin D insufficiency or deficiency. Multivariate regression analysis showed that gender, hypertension, increased systolic blood pressure, poor glycemic control, hyperuricemia, and low 25OHD levels were independent risk factors for albuminuria in type 2 diabetic patients. Of note, type 2 diabetes patients with low vitamin D levels were at a 62% higher risk of albuminuria as compared to vitamin D sufficient patients. Adjustment for potential confounders did not attenuate this association, which suggests that low vitamin D level may be a risk factor for albuminuria, an established and modifiable risk factor for kidney disease in the general population. These findings are consistent with those of a previous Chinese cross-sectional survey that showed a close relationship between the serum 25OHD levels and UACR level in patients with type 2 diabetes [ 35 ]. 
+31017918_20412	73	87	elevated e-GFR	Biomarker
+31017918_20412	143	152	vitamin D	Chemical
+31017918_20412	143	180	vitamin D deficiency or insufficiency	Disease	D014808, not found
+31017918_20412	227	235	diabetic	Disease	not found
+31017918_20412	281	286	25OHD	Chemical
+31017918_20412	403	412	vitamin D	Chemical
+31017918_20412	403	440	vitamin D deficiency or insufficiency	Biomarker	D014808, not found
+31017918_20412	485	500	type 2 diabetes	Disease	DOID:9352
+31017918_20412	534	543	vitamin D	Chemical
+31017918_20412	534	571	vitamin D deficiency or insufficiency	Disease
+31017918_20412	805	821	microalbuminuria	Disease	not found
+31017918_20412	828	886	higher prevalence of vitamin D insufficiency or deficiency	Biomarker
+31017918_20412	849	858	vitamin D	Chemical
+31017918_20412	955	971	macroalbuminuria	Disease	not found
+31017918_20412	981	1025	severe vitamin D insufficiency or deficiency	Biomarker
+31017918_20412	988	997	vitamin D	Chemical
+31017918_20412	1072	1078	gender	Biomarker	D005783
+31017918_20412	1072	1187	gender, hypertension, increased systolic blood pressure, poor glycemic control, hyperuricemia, and low 25OHD levels	Collection
+31017918_20412	1080	1092	hypertension	Biomarker	D006973
+31017918_20412	1094	1127	increased systolic blood pressure	Biomarker
+31017918_20412	1129	1150	poor glycemic control	Biomarker
+31017918_20412	1152	1165	hyperuricemia	Biomarker	D033461
+31017918_20412	1171	1187	low 25OHD levels	Biomarker
+31017918_20412	1175	1180	25OHD	Chemical
+31017918_20412	1222	1252	albuminuria in type 2 diabetic	Disease	D000419,DOID:9352
+31017918_20412	1272	1322	type 2 diabetes patients with low vitamin D levels	Biomarker
+31017918_20412	1306	1315	vitamin D	Chemical
+31017918_20412	1352	1363	albuminuria	Disease
+31017918_20412	1379	1388	vitamin D	Chemical
+31017918_20412	1503	1522	low vitamin D level	Biomarker
+31017918_20412	1507	1516	vitamin D	Chemical
+31017918_20412	1548	1559	albuminuria	Disease	D000419
+31017918_20412	1607	1621	kidney disease	Disease	DOID:557
+31017918_20412	1780	1798	serum 25OHD levels	Biomarker
+31017918_20412	1786	1791	25OHD	Chemical
+31017918_20412	1803	1813	UACR level	Biomarker
+31017918_20412	1831	1846	type 2 diabetes	Disease
+

@@ -1,0 +1,44 @@
+T0	Chemical 45 56	vitamin B12
+T1	Disease 108 121	TC deficiency
+#2	AnnotatorNotes T1	DOID:0050818
+T10	Chemical 619 637	methylmalonic acid
+T11	Chemical 674 685	vitamin B12
+T12	Disease 674 696	vitamin B12 deficiency
+#5	AnnotatorNotes T12	DOID:0050731
+T13	Disease 721 734	TC deficiency
+T14	Chemical 884 896	homocysteine
+T15	Chemical 1009 1020	vitamin B12
+T16	Chemical 1050 1062	homocysteine
+T17	Disease 1086 1099	TC deficiency
+T18	Disease 1207 1220	TC deficiency
+T19	Chemical 1244 1256	homocysteine
+T2	Chemical 184 195	vitamin B12
+T3	Disease 290 303	TC deficiency
+T4	Chemical 343 354	vitamin B12
+T6	Disease 404 416	TC-deficient
+#17	AnnotatorNotes T6	DOID:0050818
+T7	Chemical 435 446	vitamin B12
+T8	Chemical 523 532	cobalamin
+T9	Chemical 602 614	Homocysteine
+T20	Biomarker 39 63	serum vitamin B12 levels
+T5	Biomarker 431 453	low vitamin B12 levels
+R1	Association Arg1:T5 Arg2:T6	
+T21	Biomarker 989 1026	normal or low serum vitamin B12 level
+T22	Biomarker 1032 1068	slightly elevated homocysteine level
+T23	Biomarker 884 903	homocysteine levels
+T24	Biomarker 602 644	Homocysteine and methylmalonic acid levels
+T25	Biomarker 513 539	low serum cobalamin level,
+T26	Biomarker 318 354	low level of circulating vitamin B12
+T27	Gene-Protein 223 234	haptocorrin
+#1	AnnotatorNotes T27	HGNC:11652
+T28	GeneFamily 247 261	transcobalamin
+#3	AnnotatorNotes T28	not found
+R2	Association Arg1:T24 Arg2:T12	
+T29	Gene-Protein 108 110	TC
+#4	AnnotatorNotes T29	 HGNC:11653
+T30	Gene-Protein 290 292	TC
+T31	Gene-Protein 721 723	TC
+T32	Gene-Protein 404 406	TC
+T33	Gene-Protein 1207 1209	TC
+T35	Gene-Protein 1086 1088	TC
+T34	Collection 989 1068	normal or low serum vitamin B12 level or a slightly elevated homocysteine level

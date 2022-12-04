@@ -1,0 +1,75 @@
+T1	Disease 28 51	Osteogenesis imperfecta
+#1	AnnotatorNotes T1	DOID:12347
+T10	Disease 228 230	OI
+T11	Biomarker 246 335	heterozygous mutation in collagen α-1(I) chain (COL1A1) or collagen α-2(I) chain (COL1A2)
+T13	Chemical 420 432	N-propeptide
+T14	Biomarker 491 533	Point mutations in the N-propeptide domain
+T15	Chemical 514 515	N
+T16	Disease 552 554	OI
+T17	Variant 618 626	c.281T>A
+T19	Variant 628 638	p.Val94Asp
+T2	Disease 53 55	OI
+#7	AnnotatorNotes T2	DOID:12347
+T23	Chemical 690 691	N
+T24	Disease 742 752	type IV OI
+#11	AnnotatorNotes T24	DOID:0110340
+T26	Variant 770 790	N-terminal mutations
+T27	Disease 811 813	OI
+T28	Collection 811 836	OI/Ehlers-Danlos syndrome
+T29	Disease 814 836	Ehlers-Danlos syndrome
+#15	AnnotatorNotes T29	DOID:13359
+T3	Disease 67 86	congenital disorder
+#16	AnnotatorNotes T3	DOID:0080015
+T30	Disease 838 841	EDS
+#17	AnnotatorNotes T30	DOID:13359
+T31	Disease 919 922	EDS
+T32	Chemical 946 956	phosphorus
+T33	Disease 1220 1222	OI
+T34	Disease 1305 1333	collagen-associated diseases
+#21	AnnotatorNotes T34	DOID:854
+T35	Disease 1368 1370	OI
+T7	Biomarker 154 168	bone deformity
+T8	Biomarker 170 183	short stature
+#27	AnnotatorNotes T8	D004392
+T4	Biomarker 185 191	dentin
+#3	AnnotatorNotes T4	D003804
+T5	Biomarker 193 201	ligament
+#4	AnnotatorNotes T5	D008022
+T6	Biomarker 206 226	blue-gray eye sclera
+T9	Collection 104 226	bone fragility and fractures, and associated with bone deformity, short stature, dentin, ligament and blue-gray eye sclera
+R1	Association Arg1:T9 Arg2:T1	
+T36	Gene-Protein 294 300	COL1A1
+#2	AnnotatorNotes T36	HGNC:2197
+T37	Gene-Protein 271 292	collagen α-1(I) chain
+#5	AnnotatorNotes T37	HGNC:2197
+T38	Gene-Protein 328 334	COL1A2
+#10	AnnotatorNotes T38	HGNC:2198
+T39	Gene-Protein 305 326	collagen α-2(I) chain
+#12	AnnotatorNotes T39	HGNC:2198
+R2	Risk-Factor Arg1:T11 Arg2:T10	
+T12	GeneFamily 481 489	collagen
+T41	GeneFamily 383 399	Collagen α chain
+#23	AnnotatorNotes T41	not found
+T42	ProteinDomain 514 533	N-propeptide domain
+R3	Association Arg1:T14 Arg2:T16	
+#6	AnnotatorNotes T19	p.Val94Asp
+T18	GeneFamily 704 719	type I collagen
+T20	Collection 618 639	c.281T>A (p.Val94Asp)
+R4	Variant-Of Arg1:T18 Arg2:T20	
+R5	Association Arg1:T20 Arg2:T24	
+R6	Association Arg1:T26 Arg2:T28	
+T21	Biomarker 931 979	level of serum phosphorus of the patient was low
+T22	GeneFamily 1118 1123	COL1A
+T43	Biomarker 1156 1189	genetic and environmental factors
+R7	Association Arg1:T43 Arg2:T33	
+T44	GeneFamily 354 381	α chains of type I collagen
+#8	AnnotatorNotes T44	not found
+#9	AnnotatorNotes T12	family:490
+#13	AnnotatorNotes T18	not found
+#14	AnnotatorNotes T22	not found
+T40	GeneFamily 1305 1313	collagen
+T45	Biomarker 104 118	bone fragility
+T46	Biomarker 123 132	fractures
+#18	AnnotatorNotes T46	D050723
+T47	ProteinDomain 663 686	von Willebrand C domain
+R8	Variant-Of Arg1:T18 Arg2:T26	

@@ -1,0 +1,44 @@
+31647781_11365|t|RSS_IDENT_s_31647781_b_1_2_5
+31647781_11365|a| Increased NOTCH3 signaling in CADASIL VSMCs. To evaluate whether NOTCH3 mutation is associated with impaired Notch3 function and signaling, we assessed Notch3 receptor and Notch3 ECD (Notch3ᴱCᴰ) levels as well as NOTCH3-downstream gene targets in VSMCs from control and CADASIL patients. CADASIL VSMCs exhibited increased Notch3ᴱCᴰ accumulation (Figure 3A). Protein levels of Notch3 transmembrane/cytosolic fragment (TMIC) and NOTCH3 receptor gene expression were increased in CADASIL VSMCs relative to controls (Figure 3, B and C). Following receptor cleavage, the Notch3 ICD (Notch3ᴵCᴰ) translocates to the nucleus, where it activates the transcription of Notch target genes, including hairy/enhancer-of-split related with YRPW motif–like protein (HEYL), nuclear receptor–interacting protein 2 (Nrip2), and glutamate receptor–interacting protein 2 (Grip2), which are involved in cell fate regulation. HEYL mRNA expression was increased in CADASIL VSMCs (Figure 3D). Expression of NOTCH3 and HEYL mRNA in CADASIL VSMCs was decreased to control levels when cells were pretreated with a γ-secretase inhibitor (GSI), which inhibits Notch3 activation (Figure 3, C and D). No significant changes were observed for Nrip2 and Grip2 mRNA levels (Figure 3, E and F).
+31647781_11365	30	56	Increased NOTCH3 signaling	Biomarker
+31647781_11365	40	46	NOTCH3	Gene-protein	HGNC:7883
+31647781_11365	60	67	CADASIL	Disease	DOID:13945
+31647781_11365	95	101	NOTCH3	Gene-protein
+31647781_11365	95	110	NOTCH3 mutation	Biomarker
+31647781_11365	130	168	impaired Notch3 function and signaling	Biomarker
+31647781_11365	139	145	Notch3	Gene-protein	HGNC:7883
+31647781_11365	182	197	Notch3 receptor	Gene-protein	HGNC:7883
+31647781_11365	202	212	Notch3 ECD	Proteindomain
+31647781_11365	214	223	Notch3ᴱCᴰ	Proteindomain
+31647781_11365	243	249	NOTCH3	Gene-protein
+31647781_11365	300	307	CADASIL	Disease
+31647781_11365	318	325	CADASIL	Disease
+31647781_11365	342	374	increased Notch3ᴱCᴰ accumulation	Biomarker
+31647781_11365	352	361	Notch3ᴱCᴰ	Proteindomain
+31647781_11365	388	503	Protein levels of Notch3 transmembrane/cytosolic fragment (TMIC) and NOTCH3 receptor gene expression were increased	Biomarker
+31647781_11365	406	412	Notch3	Gene-protein
+31647781_11365	457	472	NOTCH3 receptor	Gene-protein
+31647781_11365	507	514	CADASIL	Disease
+31647781_11365	596	606	Notch3 ICD	Proteindomain
+31647781_11365	608	617	Notch3ᴵCᴰ	Proteindomain
+31647781_11365	688	693	Notch	Genefamily	not found
+31647781_11365	718	778	hairy/enhancer-of-split related with YRPW motif–like protein	Gene-protein	HGNC:4882
+31647781_11365	780	784	HEYL	Gene-protein	HGNC:4882
+31647781_11365	787	825	nuclear receptor–interacting protein 2	Gene-protein	HGNC:23078
+31647781_11365	827	832	Nrip2	Gene-protein	HGNC:23078
+31647781_11365	839	848	glutamate	Chemical
+31647781_11365	839	879	glutamate receptor–interacting protein 2	Gene-protein	HGNC:23841
+31647781_11365	881	886	Grip2	Gene-protein	HGNC:23841
+31647781_11365	933	937	HEYL	Gene-protein
+31647781_11365	933	967	HEYL mRNA expression was increased	Biomarker
+31647781_11365	971	978	CADASIL	Disease
+31647781_11365	998	1032	Expression of NOTCH3 and HEYL mRNA	Biomarker
+31647781_11365	1012	1018	NOTCH3	Gene-protein
+31647781_11365	1023	1027	HEYL	Gene-protein
+31647781_11365	1036	1043	CADASIL	Disease
+31647781_11365	1116	1137	γ-secretase inhibitor	Drug-class
+31647781_11365	1139	1142	GSI	Drug-class
+31647781_11365	1160	1166	Notch3	Gene-protein
+31647781_11365	1240	1245	Nrip2	Gene-protein
+31647781_11365	1250	1255	Grip2	Gene-protein
+

@@ -1,0 +1,75 @@
+T0	RNA-Noncoding 280 289	Linc01234
+T11	Disease 1063 1069	cancer
+#3	AnnotatorNotes T11	DOID:162
+T14	Disease 1191 1203	Osteosarcoma
+#4	AnnotatorNotes T14	DOID:3347
+T17	Disease 1382 1385	CRC
+T18	Disease 1427 1430	CRC
+T2	Disease 299 313	gastric cancer
+#7	AnnotatorNotes T2	DOID:10534
+T21	Disease 1603 1606	CRC
+T23	Disease 1774 1777	CRC
+T4	Disease 393 413	CRC liver metastasis
+T5	Disease 563 577	gastric cancer
+T7	Disease 698 701	CRC
+T9	Disease 959 965	tumors
+#13	AnnotatorNotes T9	DOID:162
+#1	AnnotatorNotes T0	HGNC:49757
+T1	Biomarker 280 289	Linc01234
+R1	Association Arg1:T1 Arg2:T2	
+T3	RNA-Noncoding 355 365	miR-204-5p
+#5	AnnotatorNotes T3	HGNC:31582
+T6	RNA-Noncoding 378 383	UICLM
+#6	AnnotatorNotes T6	HGNC:54869
+#8	AnnotatorNotes T4	not found
+T8	Biomarker 378 383	UICLM
+R2	Association Arg1:T8 Arg2:T4	
+T12	RNA-Noncoding 429 436	miR-215
+#9	AnnotatorNotes T12	HGNC:31592
+T13	Gene-Protein 467 471	ZEB1
+#10	AnnotatorNotes T13	HGNC:11642
+T15	RNA-Noncoding 484 493	HOXA11-AS
+#12	AnnotatorNotes T15	HGNC:24957
+T16	Biomarker 484 493	HOXA11-AS
+R3	Association Arg1:T16 Arg2:T5	
+T19	RNA-Noncoding 551 559	miR-1297
+#14	AnnotatorNotes T19	HGNC:35289
+T20	RNA-Noncoding 619 628	ZNFX1-AS1
+#15	AnnotatorNotes T20	HGNC:33101
+T22	Biomarker 619 628	ZNFX1-AS1
+#16	AnnotatorNotes T22	C000611949
+R4	Association Arg1:T22 Arg2:T7	
+T24	Gene-Protein 690 694	Ago2
+#17	AnnotatorNotes T24	HGNC:3263
+T25	RNA-Noncoding 738 747	ZNFX1-AS1
+T26	RNA-Noncoding 864 871	miR-144
+#18	AnnotatorNotes T26	HGNC:31531
+T27	RNA-Noncoding 894 903	ZNFX1-AS1
+T28	RNA-Noncoding 905 912	miR-144
+T29	Biomarker 905 947	miR-144 has been found to be downregulated
+R5	Association Arg1:T29 Arg2:T9	
+T30	RNA-Noncoding 1046 1053	miR-144
+T31	Drug 1046 1053	miR-144
+R7	Response Arg1:T31 Arg2:T11	
+T32	Gene-Protein 1094 1101	ADAMTS5
+#19	AnnotatorNotes T32	HGNC:221
+T33	Gene-Protein 1106 1112	ADAM10
+#20	AnnotatorNotes T33	HGNC:188
+T34	Biomarker 1161 1187	miR-144 was down-regulated
+T35	RNA-Noncoding 1161 1168	miR-144
+R8	Association Arg1:T34 Arg2:T14	
+T36	RNA-Noncoding 1231 1238	miR-144
+T37	RNA-Noncoding 1338 1345	miR-144
+T38	Biomarker 1338 1378	miR-144 was significantly down-regulated
+#21	AnnotatorNotes T7	DOID:9256
+R9	Association Arg1:T38 Arg2:T17	
+T39	RNA-Noncoding 1409 1416	miR-144
+T40	Biomarker 1557 1583	down-regulation of miR-144
+T41	RNA-Noncoding 1576 1583	miR-144
+R10	Association Arg1:T40 Arg2:T21	
+T42	RNA-Noncoding 1720 1729	ZNFX1-AS1
+T43	RNA-Noncoding 1734 1741	miR-144
+T44	Biomarker 1693 1741	interaction between lncRNA ZNFX1-AS1 and miR-144
+R11	Association Arg1:T44 Arg2:T23	
+T45	Gene-Protein 1641 1645	mTOR
+#11	AnnotatorNotes T45	HGNC:3942

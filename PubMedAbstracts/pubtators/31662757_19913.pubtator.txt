@@ -1,0 +1,55 @@
+31662757_19913|t|RSS_IDENT_p_31662757_b_1_4_5
+31662757_19913|a| We observed reduced miR-181a expression was in ABC-type DLBCL cells, whereas miR-181b expression was similar in ABC and GCB cell lines. In vivo and in vitro studies showed that exogenous overexpression of miR-181a significantly inhibited tumor growth by inhibiting CARD11. CARD11 is the only lymphocyte-specific member of the membrane-associated guanylate kinase family that acts at the intersection of the BCR and TCR signaling pathways. CARD11 was mutated and highly expressed in ABC DLBCL, which further activated the NF-κB pathway leading to increased nuclear transcription of various target genes including BCL2, API2, and BCLX [ 23 ]. In a Middle Eastern population, high CARD11 mRNA and protein expression were related to the prognosis of DLBCL [ 24 ]. Shigeo et al. found that the overexpression of CARD11 and CARD9 was associated with gastric B lymphoma [ 25 ]. Ngo et al. performed loss of function screen of 2500 genes in DLBCL and found that CARD11, MALT1, and BCL-10 were critical genes for tumor cell survival and proliferation with CARD11 playing a key role in ABC-DLBCL [ 26 ]. Moreover, higher CARD11 mRNA levels were observed in ABC-DLBCL biopsy specimens than that in GCB-DLBCL specimens. It was postulated that CARD11 enabled cell survival through BCL10-dependent IKK activation in ABC-DLBCL. Furthermore, since CARD11 is only expressed in lymphoid tissues, it is an attractive therapeutic target for ABC-DLBCL [ 27 ].
+31662757_19913	42	69	reduced miR-181a expression	Biomarker
+31662757_19913	50	58	miR-181a	Rna-noncoding	HGNC:31549
+31662757_19913	77	91	ABC-type DLBCL	Disease	not found
+31662757_19913	107	115	miR-181b	Rna-noncoding	not found
+31662757_19913	107	126	miR-181b expression	Biomarker
+31662757_19913	207	243	exogenous overexpression of miR-181a	Drug	not found
+31662757_19913	235	243	miR-181a	Rna-noncoding
+31662757_19913	268	273	tumor	Disease	DOID:162
+31662757_19913	295	301	CARD11	Gene-protein	HGNC:16393
+31662757_19913	303	309	CARD11	Gene-protein
+31662757_19913	356	392	membrane-associated guanylate kinase	Genefamily	family:904
+31662757_19913	376	385	guanylate	Chemical
+31662757_19913	437	440	BCR	Genefamily	not found
+31662757_19913	445	448	TCR	Genefamily	family:370
+31662757_19913	469	475	CARD11	Gene-protein
+31662757_19913	469	508	CARD11 was mutated and highly expressed	Biomarker
+31662757_19913	512	521	ABC DLBCL	Disease	not found
+31662757_19913	551	556	NF-κB	Genefamily	family:1254
+31662757_19913	642	646	BCL2	Gene-protein	HGNC:990
+31662757_19913	648	652	API2	Gene-protein	HGNC:591
+31662757_19913	658	662	BCLX	Gene-protein	HGNC:992
+31662757_19913	703	742	high CARD11 mRNA and protein expression	Biomarker
+31662757_19913	708	714	CARD11	Gene-protein
+31662757_19913	776	781	DLBCL	Disease	DOID:0050745
+31662757_19913	819	853	overexpression of CARD11 and CARD9	Biomarker
+31662757_19913	837	843	CARD11	Gene-protein
+31662757_19913	848	853	CARD9	Gene-protein	HGNC:16391
+31662757_19913	874	892	gastric B lymphoma	Disease	DOID:10540
+31662757_19913	922	959	loss of function screen of 2500 genes	Biomarker
+31662757_19913	963	968	DLBCL	Disease
+31662757_19913	984	990	CARD11	Gene-protein
+31662757_19913	984	990	CARD11	Biomarker	C426242
+31662757_19913	984	1009	CARD11, MALT1, and BCL-10	Collection
+31662757_19913	992	997	MALT1	Gene-protein	HGNC:6819
+31662757_19913	992	997	MALT1	Biomarker	D000074884
+31662757_19913	1003	1009	BCL-10	Gene-protein	HGNC:993
+31662757_19913	1003	1009	BCL-10	Biomarker	D000074018
+31662757_19913	1034	1039	tumor	Disease
+31662757_19913	1077	1083	CARD11	Biomarker
+31662757_19913	1077	1083	CARD11	Gene-protein
+31662757_19913	1106	1115	ABC-DLBCL	Disease	not found
+31662757_19913	1134	1159	higher CARD11 mRNA levels	Biomarker
+31662757_19913	1141	1147	CARD11	Gene-protein
+31662757_19913	1177	1186	ABC-DLBCL	Disease
+31662757_19913	1217	1226	GCB-DLBCL	Disease	not found
+31662757_19913	1261	1267	CARD11	Gene-protein
+31662757_19913	1298	1303	BCL10	Gene-protein
+31662757_19913	1314	1317	IKK	Genefamily	family:1817
+31662757_19913	1332	1341	ABC-DLBCL	Disease
+31662757_19913	1362	1368	CARD11	Gene-protein
+31662757_19913	1362	1386	CARD11 is only expressed	Biomarker
+31662757_19913	1451	1460	ABC-DLBCL	Disease
+

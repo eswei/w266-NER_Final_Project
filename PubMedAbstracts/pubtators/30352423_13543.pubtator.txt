@@ -1,0 +1,23 @@
+30352423_13543|t|RSS_IDENT_s_30352423_b_1_4
+30352423_13543|a| Discussion A few cases of CAH-associated adrenal myelolipoma have been reported previously with most of them caused by 21-OH deficiency. The second most common cause was 17-OH deficiency ( 11 ). In the current report, two patients in family 1 presented with CAH-associated giant adrenal myelolipomas secondary to 21-OH deficiency caused by a compound heterozygous mutation (c.293-13C>G/c.518T>A, p.I173N). Three patients in family 2 presented with CAH-associated adrenal myelolipomas because of 17-OH deficiency resulting from a compound heterozygous mutation (c.1118A>T, p.H373L/c.1459_1467del9, p.D487_F489del). All the four mutations have been reported to be associated with CAH, respectively ( 12 , 13 , 14 , 15 ). However, no adrenal myelolipoma was found with single mutations. Here, we firstly described these two compound heterozygous mutations in two unrelated families and found that only these compound heterozygous mutations, but not the single mutation, in the CYP genes can result in adrenal myelolipomas.
+30352423_13543	54	88	CAH-associated adrenal myelolipoma	Disease	not found
+30352423_13543	147	152	21-OH	Chemical
+30352423_13543	147	163	21-OH deficiency	Biomarker
+30352423_13543	198	203	17-OH	Chemical
+30352423_13543	198	214	17-OH deficiency	Biomarker
+30352423_13543	286	327	CAH-associated giant adrenal myelolipomas	Disease	not found
+30352423_13543	341	346	21-OH	Chemical
+30352423_13543	341	357	21-OH deficiency	Disease	not found
+30352423_13543	341	432	21-OH deficiency caused by a compound heterozygous mutation (c.293-13C>G/c.518T>A, p.I173N)	Collection
+30352423_13543	370	432	compound heterozygous mutation (c.293-13C>G/c.518T>A, p.I173N)	Biomarker
+30352423_13543	476	511	CAH-associated adrenal myelolipomas	Disease
+30352423_13543	523	528	17-OH	Chemical
+30352423_13543	523	539	17-OH deficiency	Disease	not found
+30352423_13543	523	639	17-OH deficiency resulting from a compound heterozygous mutation (c.1118A>T, p.H373L/c.1459_1467del9, p.D487_F489del	Collection
+30352423_13543	557	640	compound heterozygous mutation (c.1118A>T, p.H373L/c.1459_1467del9, p.D487_F489del)	Biomarker
+30352423_13543	706	709	CAH	Disease	DOID:0050811
+30352423_13543	759	778	adrenal myelolipoma	Disease	not found
+30352423_13543	933	1011	compound heterozygous mutations, but not the single mutation, in the CYP genes	Biomarker
+30352423_13543	1002	1005	CYP	Genefamily	family:862
+30352423_13543	1026	1046	adrenal myelolipomas	Disease	DOID:656
+

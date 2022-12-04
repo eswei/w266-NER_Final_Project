@@ -1,0 +1,45 @@
+29902993_3913|t|RSS_IDENT_p_29902993_b_1_1_3
+29902993_3913|a| Dyslipidemia has been independently linked with breast cancer development [ 10 ], but studies are conflicting [ 11 ]. Moreover, dyslipidemia is strongly associated with obesity. Recently, patients` body mass index (BMI) at diagnosis was observed to be differently distributed across breast cancer molecular subtypes, and obese women were more likely to have TNBC [ 12 ], also supported by others [ 13 , 14 ]. Of note, obesity has been linked to increased risk of recurrence and breast cancer specific mortality [ 15 , 16 ]. However, a survival study newly demonstrated an association between pre-diagnostic obesity and worse outcome only among patients with Luminal A disease [ 17 ]. Moreover, previous studies have shown inconsistent results on pre-diagnostic obesity and TNBC prognosis [ 18 , 19 ], suggesting there may be other metabolic mechanisms driving the carcinogenesis in more aggressive tumors. Triglycerides serve as an independent source for fatty acid oxidation [ 20 ], an important process promoting cell proliferation and tumor growth [ 21 ], proposing a carcinogenic potential of triglycerides. However, the relationship between pre-diagnostic triglycerides and breast cancer development by molecular subtype remains unclear [ 22 ]. Moreover, cholesterol has been suggested to play a role in breast cancer progression [ 23 ]. Conversely, high density lipoprotein (HDL)-cholesterol possesses anti-inflammatory properties [ 24 ], and has been inversely associated with breast cancer risk [ 25 ], and suggestively breast cancer survival [ 22 ]. We have previously observed that low HDL-cholesterol may be associated with higher estrogen levels and absolute mammographic density [ 26 – 28 ]. In addition, different lipoprotein subfractions vary by progesterone receptor expression [ 29 ], suggesting the influence of HDL-cholesterol on breast cancer prognosis may differ by breast cancer phenotype [ 30 ]. 
+29902993_3913	30	42	Dyslipidemia	Biomarker	D050171
+29902993_3913	78	91	breast cancer	Disease	DOID:1612
+29902993_3913	158	170	dyslipidemia	Biomarker	D050171
+29902993_3913	199	206	obesity	Disease	DOID:9970
+29902993_3913	228	243	body mass index	Biomarker	D015992
+29902993_3913	245	248	BMI	Biomarker	D015992
+29902993_3913	313	326	breast cancer	Disease
+29902993_3913	351	356	obese	Biomarker	D009765
+29902993_3913	388	392	TNBC	Disease	DOID:0060081
+29902993_3913	448	455	obesity	Biomarker	D009765
+29902993_3913	508	540	breast cancer specific mortality	Disease	not found
+29902993_3913	622	644	pre-diagnostic obesity	Biomarker
+29902993_3913	688	705	Luminal A disease	Disease	DOID:0060548
+29902993_3913	791	798	obesity	Biomarker
+29902993_3913	803	807	TNBC	Disease
+29902993_3913	917	934	aggressive tumors	Disease	not found
+29902993_3913	936	949	Triglycerides	Chemical
+29902993_3913	985	995	fatty acid	Chemical
+29902993_3913	985	1005	fatty acid oxidation	Biomarker
+29902993_3913	1068	1073	tumor	Disease	DOID:162
+29902993_3913	1127	1140	triglycerides	Chemical
+29902993_3913	1127	1140	triglycerides	Biomarker	D014280
+29902993_3913	1176	1204	pre-diagnostic triglycerides	Biomarker
+29902993_3913	1191	1204	triglycerides	Chemical
+29902993_3913	1209	1222	breast cancer	Disease
+29902993_3913	1290	1301	cholesterol	Chemical
+29902993_3913	1290	1301	cholesterol	Biomarker	D002784
+29902993_3913	1339	1352	breast cancer	Disease
+29902993_3913	1385	1427	high density lipoprotein (HDL)-cholesterol	Chemical
+29902993_3913	1385	1427	high density lipoprotein (HDL)-cholesterol	Biomarker	D008076
+29902993_3913	1514	1527	breast cancer	Disease
+29902993_3913	1558	1571	breast cancer	Disease
+29902993_3913	1622	1641	low HDL-cholesterol	Biomarker
+29902993_3913	1626	1641	HDL-cholesterol	Chemical
+29902993_3913	1665	1687	higher estrogen levels	Biomarker
+29902993_3913	1672	1680	estrogen	Chemical
+29902993_3913	1791	1803	progesterone	Chemical
+29902993_3913	1791	1812	progesterone receptor	Gene-protein	  HGNC:8910
+29902993_3913	1860	1875	HDL-cholesterol	Chemical
+29902993_3913	1860	1875	HDL-cholesterol	Biomarker
+29902993_3913	1879	1892	breast cancer	Disease
+29902993_3913	1917	1930	breast cancer	Disease
+

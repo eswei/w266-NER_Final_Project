@@ -1,0 +1,47 @@
+31118680_24406|t|RSS_IDENT_p_31118680_b_1_4_4
+31118680_24406|a| In addition, our study further observed that MCL-1 overexpression was associated with NPM1 mutation, which was a favorable prognostic indicator in AML and frequently occurred in patients with normal karyotype. 39 In some studies, AML patients with NPM1 mutation appeared to benefit from ATRA as an adjunct to conventional chemotherapy. 40 , 41 Moreover, it was reported that AML cells carrying NPM1 mutation were more sensitive to ATO, because of the expression of NPM1 mutant protein and its acquired C-terminus cysteine 288. 42 Martelli et al also showed that ATO/ATRA induced proteasome-dependent degradation of NPM1 leukemic protein leading to cell growth inhibition and apoptosis in NPM1-mutated AML. 43 Although a large number of findings suggest that the NPM1 mutation has a favorable effect on the outcome for AML. 44 – 47 Falini et al found that NPM1 exon 12 mutations which caused cytoplasmic dislocation of NPM were related to the malignant clone and leukemogenesis. 48 Moreover, a study conducted by Konoplev et al suggested that NPM1 mutations did not impact OS and event-free survival (EFS) in AML patients. 49 However, Verhaak et al demonstrated that patients with intermediate cytogenetic risk AML with NPM1 mutations had a significantly better OS and EFS than those without NPM1 mutations. 44 Further studies are needed to confirm and reveal the underlying association between MCL-1 expression and NPM1 mutation. 
+31118680_24406	75	80	MCL-1	Gene-protein	HGNC:6943
+31118680_24406	75	95	MCL-1 overexpression	Biomarker
+31118680_24406	116	120	NPM1	Gene-protein	HGNC:7910
+31118680_24406	116	129	NPM1 mutation	Biomarker
+31118680_24406	177	180	AML	Disease	DOID:9119
+31118680_24406	260	291	AML patients with NPM1 mutation	Disease	not found
+31118680_24406	278	282	NPM1	Gene-protein
+31118680_24406	317	321	ATRA	Drug	CHEMBL38
+31118680_24406	339	364	conventional chemotherapy	Drug-class
+31118680_24406	405	437	AML cells carrying NPM1 mutation	Disease	not found
+31118680_24406	424	428	NPM1	Gene-protein
+31118680_24406	461	464	ATO	Drug	CHEMBL2362016
+31118680_24406	481	555	expression of NPM1 mutant protein and its acquired C-terminus cysteine 288	Biomarker
+31118680_24406	495	499	NPM1	Gene-protein
+31118680_24406	543	551	cysteine	Chemical
+31118680_24406	592	595	ATO	Drug
+31118680_24406	592	600	ATO/ATRA	Collection
+31118680_24406	596	600	ATRA	Drug
+31118680_24406	645	649	NPM1	Gene-protein
+31118680_24406	650	658	leukemic	Disease	DOID:12972
+31118680_24406	718	722	NPM1	Gene-protein
+31118680_24406	718	734	NPM1-mutated AML	Disease	not found
+31118680_24406	792	796	NPM1	Gene-protein
+31118680_24406	792	805	NPM1 mutation	Biomarker
+31118680_24406	848	851	AML	Disease
+31118680_24406	885	889	NPM1	Gene-protein
+31118680_24406	885	906	NPM1 exon 12 mutation	Biomarker
+31118680_24406	921	951	cytoplasmic dislocation of NPM	Biomarker
+31118680_24406	948	951	NPM	Gene-protein	 HGNC:7910
+31118680_24406	972	981	malignant	Disease	DOID:162
+31118680_24406	972	1006	malignant clone and leukemogenesis	Collection
+31118680_24406	992	1006	leukemogenesis	Disease	not found
+31118680_24406	1072	1076	NPM1	Gene-protein
+31118680_24406	1072	1086	NPM1 mutations	Biomarker
+31118680_24406	1138	1141	AML	Disease
+31118680_24406	1210	1243	intermediate cytogenetic risk AML	Disease	not found
+31118680_24406	1249	1253	NPM1	Gene-protein
+31118680_24406	1249	1263	NPM1 mutations	Biomarker
+31118680_24406	1321	1325	NPM1	Gene-protein
+31118680_24406	1321	1335	NPM1 mutations	Biomarker
+31118680_24406	1424	1429	MCL-1	Gene-protein
+31118680_24406	1424	1440	MCL-1 expression	Biomarker
+31118680_24406	1445	1449	NPM1	Gene-protein
+31118680_24406	1445	1458	NPM1 mutation	Biomarker
+

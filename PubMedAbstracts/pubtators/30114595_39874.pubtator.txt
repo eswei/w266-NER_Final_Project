@@ -1,0 +1,83 @@
+30114595_39874|t|RSS_IDENT_s_30114595_b_1_4_4
+30114595_39874|a| Whole Exome Sequencing Data Analysis Mutations that were previously reported in developing metastatic colorectal cancer were screened. The proposed functions of mutations and references are listed in Supplementary Table 9 [26] , [27] , [28] , [29] , [30] , [31] , [32] . CTNNB1 codes β-catenin, which plays a major role in Wnt signaling, and its status is closely related to distant metastasis. SNU-2335A harbored c.1974C>A/p.Asp658Glu missense mutation in CTNNB1, which was not detected in its paired metastatic cell lines. The c.1974C>A/p.Asp658Glu missense mutation was reported previously, but its functional role has not been discovered. Although all cell lines had MSH3 missense mutations, cells were identified as microsatellite stable. According to dbSNP database, clinical significance of one mutation (c.235A>G/p.Ile79Val) was known to be benign, and that of other two mutations (c.2846A>G/p.Gln949Arg and c.3133G>A/p.Ala1045Thr) was unknown. Even though c.3133G>A/p.Ala1045Thr mutation was reported to increase cancer risk in multiple organs such as colorectal cancer, breast cancer, prostate cancer, ovarian cancer, and esophageal cancer [33] , none was reported to be related with inactivation of MSH3. One missense mutation in the CYP2A7 was shared in all three peritoneal metastatic cell lines. CYP2A7 is expressed mainly in liver tissue, and its role in colorectal cancer remains unclear. We took advantage of publically available cancer cell line database (canSAR) and drew comparison between mutational status of CYP2A7 gene and CNN3 expression level. Although the genomic positions of mutation were various, missense mutations of CYP2A7 were found in SNU-1040 (c.306C>T/p.Gly102Gly), SNU-C5 (c.164A>T/p.Tyr55Phe), and HCT-15 (c.230G>A/p.Arg77Gln) cell lines among 14 available CRC cell lines from the canSAR database. These cell lines had relatively high CNN3 level compared to the rest of 11 cell lines analyzed (Figure 2A). This may imply that mutational status of CYP2A7 gene is connected to augmented CNN3 expression. We also compared our WES data to findings by Nicholas E. Navin’s lab which reported genomic alterations in distant metastases in a single cell level [34] . They detected 13 mutations that were exclusively found in primary CRC and 37 mutations that were selectively harbored in metastatic cells by deep-exome sequencing. Although genomic positions of each mutation varied, 5 genes were found to have missense mutations in our primary CRC cell lines, and 9 genes were found to have missense mutations in our peritoneal metastasis cell lines (Supplementary Table 10-15). They also reported genes that mediated clonal evolution in the metastatic site by ultra-deep targeted sequencing. We screened the variant allele frequency of those genes in our primary CRC and peritoneal metastasis cell lines (Supplementary Tables 16-18). In SNU-2414 set, PIK3CG and LINGO2 mutations were detected in primary CRC, and SPEN mutation was found in metastasis cell line, which was concordant with their findings. Moreover, variant allele frequencies of three missense mutations in EYS gene (c.5705A>T, c.4256T>C, c.1712A>G) were changed from ~0.5 in SNU-2414A to 1 in SNU-2414B, which may indicate clonal evolution at metastatic site. The potential role of EYS gene in metastasis should be elucidated.
+30114595_39874	121	149	metastatic colorectal cancer	Disease	DOID:9256
+30114595_39874	301	307	CTNNB1	Gene-protein	HGNC:2514
+30114595_39874	314	323	β-catenin	Genefamily	family:1542
+30114595_39874	353	356	Wnt	Genefamily	family:360
+30114595_39874	425	434	SNU-2335A	Cellline
+30114595_39874	444	453	c.1974C>A	Variant
+30114595_39874	444	465	c.1974C>A/p.Asp658Glu	Collection
+30114595_39874	454	465	p.Asp658Glu	Variant	p.Asp658Glu
+30114595_39874	487	493	CTNNB1	Gene-protein
+30114595_39874	559	568	c.1974C>A	Variant
+30114595_39874	559	580	c.1974C>A/p.Asp658Glu	Collection
+30114595_39874	569	580	p.Asp658Glu	Variant
+30114595_39874	701	705	MSH3	Gene-protein	HGNC:7326
+30114595_39874	701	724	MSH3 missense mutations	Biomarker
+30114595_39874	751	772	microsatellite stable	Biomarker
+30114595_39874	842	850	c.235A>G	Variant
+30114595_39874	842	968	c.235A>G/p.Ile79Val) was known to be benign, and that of other two mutations (c.2846A>G/p.Gln949Arg and c.3133G>A/p.Ala1045Thr	Collection
+30114595_39874	851	861	p.Ile79Val	Variant	p.Ile79Val
+30114595_39874	920	929	c.2846A>G	Variant
+30114595_39874	930	941	p.Gln949Arg	Variant	p.Gln949Arg
+30114595_39874	946	955	c.3133G>A	Variant
+30114595_39874	956	968	p.Ala1045Thr	Variant	p.Ala1045Thr
+30114595_39874	995	1004	c.3133G>A	Variant
+30114595_39874	995	1017	c.3133G>A/p.Ala1045Thr	Collection
+30114595_39874	1005	1017	p.Ala1045Thr	Variant
+30114595_39874	1052	1058	cancer	Disease	DOID:162
+30114595_39874	1091	1108	colorectal cancer	Disease	DOID:9256
+30114595_39874	1091	1179	colorectal cancer, breast cancer, prostate cancer, ovarian cancer, and esophageal cancer	Collection
+30114595_39874	1110	1123	breast cancer	Disease	DOID:1612
+30114595_39874	1125	1140	prostate cancer	Disease	DOID:10283
+30114595_39874	1142	1156	ovarian cancer	Disease	DOID:2394
+30114595_39874	1162	1179	esophageal cancer	Disease	DOID:5041
+30114595_39874	1224	1244	inactivation of MSH3	Biomarker
+30114595_39874	1240	1244	MSH3	Gene-protein
+30114595_39874	1250	1281	missense mutation in the CYP2A7	Biomarker
+30114595_39874	1275	1281	CYP2A7	Gene-protein	HGNC:2611
+30114595_39874	1340	1346	CYP2A7	Gene-protein
+30114595_39874	1400	1417	colorectal cancer	Disease
+30114595_39874	1477	1483	cancer	Disease
+30114595_39874	1561	1567	CYP2A7	Gene-protein
+30114595_39874	1577	1581	CNN3	Gene-protein	HGNC:2157
+30114595_39874	1679	1685	CYP2A7	Gene-protein
+30114595_39874	1700	1708	SNU-1040	Cellline
+30114595_39874	1710	1718	c.306C>T	Variant
+30114595_39874	1710	1730	c.306C>T/p.Gly102Gly	Collection
+30114595_39874	1719	1730	p.Gly102Gly	Variant	p.Gly102Gly
+30114595_39874	1733	1739	SNU-C5	Cellline
+30114595_39874	1741	1749	c.164A>T	Variant
+30114595_39874	1741	1760	c.164A>T/p.Tyr55Phe	Collection
+30114595_39874	1750	1760	p.Tyr55Phe	Variant	p.Tyr55Phe
+30114595_39874	1767	1773	HCT-15	Cellline
+30114595_39874	1775	1783	c.230G>A	Variant
+30114595_39874	1775	1794	c.230G>A/p.Arg77Gln	Collection
+30114595_39874	1784	1794	p.Arg77Gln	Variant	p.Arg77Gln
+30114595_39874	1826	1829	CRC	Disease	DOID:9256
+30114595_39874	1899	1914	high CNN3 level	Biomarker
+30114595_39874	1904	1908	CNN3	Gene-protein
+30114595_39874	1995	2027	mutational status of CYP2A7 gene	Biomarker
+30114595_39874	2016	2022	CYP2A7	Gene-protein
+30114595_39874	2044	2069	augmented CNN3 expression	Biomarker
+30114595_39874	2054	2058	CNN3	Gene-protein
+30114595_39874	2293	2296	CRC	Disease
+30114595_39874	2504	2507	CRC	Disease
+30114595_39874	2824	2827	CRC	Disease
+30114595_39874	2832	2853	peritoneal metastasis	Disease	DOID:1725
+30114595_39874	2898	2906	SNU-2414	Cellline
+30114595_39874	2912	2918	PIK3CG	Gene-protein	HGNC:8978
+30114595_39874	2912	2939	PIK3CG and LINGO2 mutations	Biomarker
+30114595_39874	2923	2929	LINGO2	Gene-protein	HGNC:21207
+30114595_39874	2965	2968	CRC	Disease
+30114595_39874	2974	2978	SPEN	Gene-protein	HGNC:17575
+30114595_39874	2974	2987	SPEN mutation	Biomarker
+30114595_39874	3133	3136	EYS	Gene-protein	HGNC:21555
+30114595_39874	3143	3152	c.5705A>T	Variant
+30114595_39874	3143	3174	c.5705A>T, c.4256T>C, c.1712A>G	Collection
+30114595_39874	3154	3163	c.4256T>C	Variant
+30114595_39874	3165	3174	c.1712A>G	Variant
+30114595_39874	3202	3211	SNU-2414A	Cellline
+30114595_39874	3220	3229	SNU-2414B	Cellline
+30114595_39874	3309	3312	EYS	Gene-protein
+

@@ -1,0 +1,66 @@
+T3	Chemical 321 351	cyclic adenosine monophosphate
+T4	Chemical 353 357	cAMP
+T7	Gene-Protein 281 308	glycogen synthase kinase-3β
+#1	AnnotatorNotes T7	HGNC:4617
+T8	Gene-Protein 310 315	GSK3β
+#2	AnnotatorNotes T8	HGNC:4617
+T9	GeneFamily 321 385	cyclic adenosine monophosphate (cAMP)-dependent protein kinase A
+#3	AnnotatorNotes T9	not found
+T10	GeneFamily 387 390	PKA
+#4	AnnotatorNotes T10	not found
+T11	GeneFamily 582 591	ubiquitin
+#5	AnnotatorNotes T11	not found
+T12	GeneFamily 699 708	Ubiquitin
+#6	AnnotatorNotes T12	not found
+T13	GeneFamily 810 813	Gli
+#7	AnnotatorNotes T13	not found
+T14	GeneFamily 852 855	Gli
+T16	GeneFamily 520 522	E2
+#9	AnnotatorNotes T16	family:102
+T17	GeneFamily 493 495	E1
+#10	AnnotatorNotes T17	family:100
+T18	GeneFamily 886 896	E3 ligases
+T19	GeneFamily 914 925	RING-Cullin
+#11	AnnotatorNotes T19	not found
+T20	Gene-Protein 956 961	βTrCP
+#12	AnnotatorNotes T20	HGNC:1144
+T21	GeneFamily 531 542	ligase (E3)
+#13	AnnotatorNotes T21	not found
+T22	Gene-Protein 942 949	Cullin1
+#14	AnnotatorNotes T22	 HGNC:2551
+T23	GeneFamily 1208 1218	E3 ligases
+T24	GeneFamily 1136 1155	E3 ubiquitin ligase
+T25	Gene-Protein 1283 1287	Gli2
+#15	AnnotatorNotes T25	HGNC:4318
+T26	Gene-Protein 1292 1296	Gli3
+#16	AnnotatorNotes T26	HGNC:4319
+T27	Gene-Protein 1331 1335	Gli1
+#17	AnnotatorNotes T27	HGNC:4317
+T6	Gene-Protein 966 973	Cullin3
+#18	AnnotatorNotes T6	HGNC:2553
+T28	Gene-Protein 987 991	SPOP
+#19	AnnotatorNotes T28	HGNC:11254
+T29	GeneFamily 1097 1122	histone acetyltransferase
+#20	AnnotatorNotes T29	not found
+T30	GeneFamily 1010 1014	HECT
+#21	AnnotatorNotes T30	family:1959
+T31	Gene-Protein 1031 1035	Itch
+#22	AnnotatorNotes T31	HGNC:13890
+T32	Gene-Protein 1060 1064	PCAF
+#23	AnnotatorNotes T32	HGNC:8638
+T33	Gene-Protein 1066 1092	P300/CBP-associated factor
+#24	AnnotatorNotes T33	HGNC:8638
+T34	Gene-Protein 139 142	Shh
+#25	AnnotatorNotes T34	HGNC:10848
+#26	AnnotatorNotes T24	not found
+#27	AnnotatorNotes T18	not found
+T1	Gene-Protein 181 185	SuFu
+T2	Gene-Protein 257 261	SuFu
+T5	Gene-Protein 115 119	SuFu
+#8	AnnotatorNotes T5	HGNC:16466
+T15	Gene-Protein 404 408	SuFu
+T35	Gene-Protein 950 955	Slimb
+T36	Gene-Protein 974 977	HIB
+T37	Gene-Protein 978 986	Roadkill
+T38	GeneFamily 674 688	26S proteasome
+#28	AnnotatorNotes T38	not found

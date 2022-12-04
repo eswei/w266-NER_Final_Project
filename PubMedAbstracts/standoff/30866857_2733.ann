@@ -1,0 +1,91 @@
+T1	Biomarker 113 149	serum expression levels are elevated
+T10	Biomarker 382 385	β2M
+T11	Disease 422 428	cancer
+T13	Chemical 484 488	cAMP
+T14	Chemical 634 654	phosphatidylinositol
+T2	Disease 153 159	cancer
+#8	AnnotatorNotes T2	DOID:162
+T20	Chemical 977 981	iron
+T21	Disease 1078 1083	tumor
+#10	AnnotatorNotes T21	DOID:162
+T23	Chemical 1201 1210	rapamycin
+T24	Disease 1239 1253	ovarian cancer
+#12	AnnotatorNotes T24	DOID:2394
+T25	Biomarker 1290 1293	β2M
+T26	Disease 1306 1311	tumor
+T27	Disease 1345 1358	breast cancer
+T3	Disease 194 207	breast cancer
+#15	AnnotatorNotes T3	DOID:1612
+T4	Disease 209 223	thyroid cancer
+#16	AnnotatorNotes T4	DOID:1781
+T5	Disease 225 237	liver cancer
+#17	AnnotatorNotes T5	DOID:3571
+T6	Disease 239 261	small cell lung cancer
+#18	AnnotatorNotes T6	DOID:5409
+T7	Disease 263 283	renal cell carcinoma
+#19	AnnotatorNotes T7	DOID:4450
+T8	Disease 285 300	prostate cancer
+#20	AnnotatorNotes T8	DOID:10283
+T9	Disease 306 330	gastrointestinal cancers
+#21	AnnotatorNotes T9	DOID:3119
+T28	Gene-Protein 39 42	β2M
+#2	AnnotatorNotes T28	HGNC:914
+T29	Collection 153 330	cancer patients, including patients with breast cancer, thyroid cancer, liver cancer, small cell lung cancer, renal cell carcinoma, prostate cancer, and gastrointestinal cancers
+T30	Gene-Protein 382 385	β2M
+R2	Association Arg1:T10 Arg2:T11	
+T12	Gene-Protein 461 477	protein kinase A
+T31	Gene-Protein 479 482	PKA
+T32	GeneFamily 484 523	cAMP-responsive element binding protein
+T33	Gene-Protein 749 752	β2M
+T34	GeneFamily 665 669	PI3K
+T35	GeneFamily 634 663	phosphatidylinositol 3-kinase
+T36	GeneFamily 718 721	ERK
+T37	GeneFamily 671 674	Akt
+T38	GeneFamily 679 716	extracellular signal-regulated kinase
+T39	Gene-Protein 1168 1175	VEGFR-2
+T40	Gene-Protein 1121 1166	vascular endothelial growth factor receptor-2
+T41	Gene-Protein 993 1020	hypoxia-inducible factor-1α
+T42	Gene-Protein 1022 1028	HIF-1α
+T43	Gene-Protein 753 776	hemochromatosis protein
+T44	Gene-Protein 778 781	HFE
+T16	Gene-Protein 1060 1063	β2M
+T17	Gene-Protein 1290 1293	β2M
+T18	Gene-Protein 1368 1371	β2M
+T45	Gene-Protein 1212 1216	mTOR
+T46	Gene-Protein 1181 1210	mammalian target of rapamycin
+T47	GeneFamily 1177 1180	Akt
+#1	AnnotatorNotes T10	C000630045
+T48	GeneFamily 567 571	VEGF
+T49	GeneFamily 531 565	vascular endothelial growth factor
+T50	GeneFamily 525 529	CREB
+T15	Disease 904 944	prostate, breast, lung, and renal cancer
+#3	AnnotatorNotes T15	DOID:10283, DOID:1612, DOID:1324, DOID:263
+T19	Collection 1306 1361	tumor growth and metastases, including breast cancer, a
+R3	Risk-Factor Arg1:T25 Arg2:T19	
+T22	Biomarker 749 790	β2M/hemochromatosis protein (HFE) complex
+R4	Association Arg1:T22 Arg2:T15	
+T51	Biomarker 1060 1063	β2M
+R5	Association Arg1:T51 Arg2:T24	
+#4	AnnotatorNotes T50	family:1970
+#5	AnnotatorNotes T32	family:1970
+#6	AnnotatorNotes T38	not found
+#7	AnnotatorNotes T49	family:1267
+#9	AnnotatorNotes T48	family:1267
+#11	AnnotatorNotes T35	family:831
+#13	AnnotatorNotes T37	family:831
+#14	AnnotatorNotes T36	not found
+#22	AnnotatorNotes T34	family:831
+#23	AnnotatorNotes T44	HGNC:4886
+#24	AnnotatorNotes T43	HGNC:4886
+#25	AnnotatorNotes T41	HGNC:4910
+#26	AnnotatorNotes T42	HGNC:4910
+#27	AnnotatorNotes T40	HGNC:6307
+#28	AnnotatorNotes T39	HGNC:6307
+#29	AnnotatorNotes T46	HGNC:3942
+#30	AnnotatorNotes T45	HGNC:3942
+#31	AnnotatorNotes T47	HGNC:391
+#32	AnnotatorNotes T12	not found
+#33	AnnotatorNotes T31	not found
+T52	Biomarker 39 42	β2M
+#34	AnnotatorNotes T52	D001613
+R1	Association Arg1:T52 Arg2:T29	

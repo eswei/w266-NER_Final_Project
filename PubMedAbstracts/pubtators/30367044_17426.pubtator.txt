@@ -1,0 +1,86 @@
+30367044_17426|t|RSS_IDENT_s_30367044_b_1_2_8
+30367044_17426|a| Identification of mutations related to NASH-HCC in mice Several of the mutated genes we identified in murine NASH-HCCs have been reported as drivers in other human cancers, such as Mtor ¹³ , Sdk1 ¹⁴ , Braf ¹⁵ , Pik3cb ¹⁶ , Ctnnd1 ¹⁷ , Ctnna3 ¹⁸ , Akt3 ¹⁹ , and Nos2 ²⁰ . We identified 82 genes to be recurrently mutated in two or more NASH-HCCs (Fig. 5c; Supplementary Data 2); these included two genes mutated in 4/5 NASH-HCCs (Ryr1 and Sdk1); 8 genes mutated in 3/5 NASH-HCCs (Epha8, Pcdh15, Fat2, Cep152, Ttn, Rxfp1, Aox3l1 and Pkd1l3) and 71 genes mutated in 2/5 NASH-HCCs (notably Mtor, Ryr2, Cacna1h, Col7a1, Fcgbp, Adam29, Gpr98 and Pclo). Only 2 of the 82 genes (Ttn and Obscn) were also mutated in one HF-associated steatosis-HCC each, and only one gene (Kif3c) was recurrently mutated in steatosis-HCCs. These results suggested that mutations of these known or potential cancer driver genes contribute to the development of cholesterol-associated NASH-HCC. The recurrent mutations suggest that Mtor and Sdk1 may also function as cancer drivers in NASH-HCC, while other recurrently mutated genes could represent novel candidates associated with NASH-HCC.
+30367044_17426	69	77	NASH-HCC	Disease	DOID:0080547, DOID:684	Conjunction
+30367044_17426	139	148	NASH-HCCs	Disease	Conjunction
+30367044_17426	194	201	cancers	Disease	DOID:14566|DOID:162
+30367044_17426	211	215	Mtor	Gene-protein
+30367044_17426	211	215	Mtor	Biomarker
+30367044_17426	211	295	Mtor ¹³ , Sdk1 ¹⁴ , Braf ¹⁵ , Pik3cb ¹⁶ , Ctnnd1 ¹⁷ , Ctnna3 ¹⁸ , Akt3 ¹⁹ , and Nos2	Collection
+30367044_17426	221	225	Sdk1	Gene-protein
+30367044_17426	221	225	Sdk1	Biomarker
+30367044_17426	231	235	Braf	Gene-protein
+30367044_17426	231	235	Braf	Biomarker
+30367044_17426	241	247	Pik3cb	Gene-protein
+30367044_17426	241	247	Pik3cb	Biomarker
+30367044_17426	253	259	Ctnnd1	Gene-protein
+30367044_17426	253	259	Ctnnd1	Biomarker
+30367044_17426	265	271	Ctnna3	Gene-protein
+30367044_17426	265	271	Ctnna3	Biomarker
+30367044_17426	277	281	Akt3	Gene-protein
+30367044_17426	277	281	Akt3	Biomarker
+30367044_17426	291	295	Nos2	Gene-protein
+30367044_17426	291	295	Nos2	Biomarker
+30367044_17426	315	349	82 genes to be recurrently mutated	Biomarker
+30367044_17426	365	374	NASH-HCCs	Disease	Conjunction
+30367044_17426	448	457	NASH-HCCs	Disease	Conjunction
+30367044_17426	459	463	Ryr1	Gene-protein
+30367044_17426	459	463	Ryr1	Biomarker
+30367044_17426	459	472	Ryr1 and Sdk1	Collection
+30367044_17426	468	472	Sdk1	Gene-protein
+30367044_17426	468	472	Sdk1	Biomarker
+30367044_17426	498	507	NASH-HCCs	Disease	Conjunction
+30367044_17426	509	514	Epha8	Gene-protein
+30367044_17426	509	514	Epha8	Biomarker
+30367044_17426	509	567	Epha8, Pcdh15, Fat2, Cep152, Ttn, Rxfp1, Aox3l1 and Pkd1l3	Collection
+30367044_17426	516	522	Pcdh15	Gene-protein
+30367044_17426	516	522	Pcdh15	Biomarker
+30367044_17426	524	528	Fat2	Gene-protein
+30367044_17426	524	528	Fat2	Biomarker
+30367044_17426	530	536	Cep152	Gene-protein
+30367044_17426	530	536	Cep152	Biomarker
+30367044_17426	538	541	Ttn	Gene-protein
+30367044_17426	538	541	Ttn	Biomarker
+30367044_17426	543	548	Rxfp1	Gene-protein
+30367044_17426	543	548	Rxfp1	Biomarker
+30367044_17426	550	556	Aox3l1	Gene-protein
+30367044_17426	550	556	Aox3l1	Biomarker
+30367044_17426	561	567	Pkd1l3	Gene-protein
+30367044_17426	561	567	Pkd1l3	Biomarker
+30367044_17426	597	606	NASH-HCCs	Disease	Conjunction
+30367044_17426	616	620	Mtor	Biomarker
+30367044_17426	616	620	Mtor	Gene-protein
+30367044_17426	616	674	Mtor, Ryr2, Cacna1h, Col7a1, Fcgbp, Adam29, Gpr98 and Pclo	Collection
+30367044_17426	622	626	Ryr2	Gene-protein
+30367044_17426	622	626	Ryr2	Biomarker
+30367044_17426	628	635	Cacna1h	Gene-protein
+30367044_17426	628	635	Cacna1h	Biomarker
+30367044_17426	637	643	Col7a1	Gene-protein
+30367044_17426	637	643	Col7a1	Biomarker
+30367044_17426	645	650	Fcgbp	Gene-protein
+30367044_17426	645	650	Fcgbp	Biomarker
+30367044_17426	652	658	Adam29	Gene-protein
+30367044_17426	652	658	Adam29	Biomarker
+30367044_17426	660	665	Gpr98	Gene-protein
+30367044_17426	660	665	Gpr98	Biomarker
+30367044_17426	670	674	Pclo	Gene-protein
+30367044_17426	670	674	Pclo	Biomarker
+30367044_17426	701	704	Ttn	Gene-protein
+30367044_17426	701	704	Ttn	Biomarker
+30367044_17426	701	714	Ttn and Obscn	Collection
+30367044_17426	709	714	Obscn	Gene-protein
+30367044_17426	709	714	Obscn	Biomarker
+30367044_17426	741	768	HF-associated steatosis-HCC	Disease	not found, DOID:684	Conjunction
+30367044_17426	793	824	(Kif3c) was recurrently mutated	Biomarker
+30367044_17426	794	799	Kif3c	Gene-protein
+30367044_17426	828	842	steatosis-HCCs	Disease	DOID:9452, DOID:684	Conjunction
+30367044_17426	873	930	mutations of these known or potential cancer driver genes	Biomarker
+30367044_17426	964	975	cholesterol	Chemical
+30367044_17426	964	995	cholesterol-associated NASH-HCC	Disease	not found, not found	Conjunction
+30367044_17426	1001	1047	recurrent mutations suggest that Mtor and Sdk1	Biomarker
+30367044_17426	1034	1038	Mtor	Gene-protein
+30367044_17426	1043	1047	Sdk1	Gene-protein
+30367044_17426	1069	1075	cancer	Disease	DOID:162
+30367044_17426	1087	1095	NASH-HCC	Disease	Conjunction
+30367044_17426	1109	1134	recurrently mutated genes	Biomarker
+30367044_17426	1184	1192	NASH-HCC	Disease	Conjunction
+

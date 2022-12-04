@@ -1,0 +1,59 @@
+T1	Disease 80 83	AMI
+T10	Biomarker 480 495	Vγ1 > Vγ3 > Vγ2
+T11	Gene-Protein 486 489	Vγ3
+T12	Biomarker 535 578	restricted expression of TCR Vδ subfamilies
+T13	Disease 593 596	AMI
+T14	Biomarker 611 656	expression frequencies of TCR Vδ7 and TCR Vδ6
+T15	Disease 660 663	AMI
+T17	Disease 815 818	AMI
+T18	Biomarker 829 858	High expression of Foxp3 gene
+T19	Disease 872 875	AMI
+T2	Biomarker 118 161	restrictive expression of TCR γδ repertoire
+T20	Biomarker 889 914	high expression of IL-17A
+T21	Disease 928 931	AMI
+T3	Biomarker 166 202	alteration expression of IL-17A gene
+T4	Disease 267 270	AMI
+T5	Biomarker 285 339	expression levels of TCR Vγ1, Vγ2, and Vγ3 subfamilies
+T6	Disease 343 346	AMI
+T7	Biomarker 418 456	expression pattern was Vγ1 > Vγ2 > Vγ3
+T8	Gene-Protein 447 450	Vγ2
+T9	Disease 460 463	AMI
+T22	GeneFamily 88 91	TCR
+#1	AnnotatorNotes T22	family:370
+T23	Gene-Protein 306 327	TCR Vγ1, Vγ2, and Vγ3
+T24	Gene-Protein 144 150	TCR γδ
+T25	Gene-Protein 191 197	IL-17A
+T26	Gene-Protein 441 444	Vγ1
+T27	Gene-Protein 453 456	Vγ3
+T28	Gene-Protein 480 483	Vγ1
+T29	Gene-Protein 492 495	Vγ2
+T30	GeneFamily 560 566	TCR Vδ
+T31	Gene-Protein 637 644	TCR Vδ7
+T32	Gene-Protein 649 656	TCR Vδ6
+T33	Gene-Protein 775 795	TCR Vδ8, Vδ4 and Vδ3
+T34	Gene-Protein 908 914	IL-17A
+T35	Gene-Protein 848 853	Foxp3
+R1	Association Arg1:T18 Arg2:T19	
+R2	Association Arg1:T20 Arg2:T21	
+T36	Biomarker 734 795	high clonal expansion frequencies of the TCR Vδ8, Vδ4 and Vδ3
+R3	Association Arg1:T36 Arg2:T17	
+R4	Association Arg1:T12 Arg2:T13	
+R5	Association Arg1:T14 Arg2:T15	
+R6	Association Arg1:T5 Arg2:T6	
+T37	Collection 118 202	restrictive expression of TCR γδ repertoire and alteration expression of IL-17A gene
+R7	Association Arg1:T37 Arg2:T4	
+#2	AnnotatorNotes T1	DOID:9408
+T38	Biomarker 88 91	TCR
+#3	AnnotatorNotes T38	D019672
+R8	Association Arg1:T38 Arg2:T1	
+#4	AnnotatorNotes T24	not found
+#5	AnnotatorNotes T25	HGNC:5981
+#6	AnnotatorNotes T23	HGNC:12284, HGNC:12287, HGNC:12288
+#7	AnnotatorNotes T27	HGNC:12288
+#8	AnnotatorNotes T8	HGNC:12287
+#9	AnnotatorNotes T26	HGNC:12284
+#10	AnnotatorNotes T30	family:374
+#11	AnnotatorNotes T31	not found
+#12	AnnotatorNotes T32	not found
+#13	AnnotatorNotes T33	not found, not found, not found
+#14	AnnotatorNotes T35	HGNC:6106

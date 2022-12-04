@@ -1,0 +1,41 @@
+30304775_17332|t|RSS_IDENT_p_30304775_b_1_3_8
+30304775_17332|a| In the present work, we studied for the first time the effect of diabetes on biochemical markers of sympathetic nerve terminals in the pineal gland. The level of NE and its precursors, DOPA and DA, were significantly reduced in diabetic pigs compared to control animals. Similarly, the content of DOPAC, a metabolite of DA, was also decreased. On the other hand, the level of VMA, a metabolite of NE, was significantly higher in diabetic pigs than in control pigs. Our results provide strong evidence that streptozotocin-induced diabetes influences sympathetic neurotransmission in the pig pineal gland. Two hypotheses related to these results should be considered. One possibility is that streptozotocin-induced diabetes leads to increased stimulation of sympathetic ganglion cells, the axons of which innervate the pineal gland. The release of NE is augmented for a long time, which is measurable as the increased level of VMA. Increased utilization of NE results in decreased levels of NE and its precursors. At the postsynaptic level, this overstimulation leads to increased levels of NAS (and perhaps melatonin for some period of time) and decreased levels of 5-HT. The second possibility is that diabetes induces pathological changes in the physiology of neurons innervating the pig pineal gland, leading to decreased synthesis and storage of catecholamines. Diabetes-induced neuropathy was observed in intrapineal nerve fibres containing tyrosine hydroxylase in rats with streptozotocin-induced diabetes [ 55 ]. The content of NE was lower in the pineal glands of diabetic Goto-Kakizaki rats than in Wistar rats [ 26 ]. Further studies are needed to explain the significance and mechanism of changes in the content of catecholamines in the pig pineal gland with diabetes.
+30304775_17332	95	103	diabetes	Disease	not found
+30304775_17332	183	254	level of NE and its precursors, DOPA and DA, were significantly reduced	Biomarker
+30304775_17332	192	194	NE	Chemical
+30304775_17332	215	219	DOPA	Chemical
+30304775_17332	224	226	DA	Chemical
+30304775_17332	258	266	diabetic	Disease	not found
+30304775_17332	316	372	content of DOPAC, a metabolite of DA, was also decreased	Biomarker
+30304775_17332	327	332	DOPAC	Chemical
+30304775_17332	350	352	DA	Chemical
+30304775_17332	397	455	level of VMA, a metabolite of NE, was significantly higher	Biomarker
+30304775_17332	406	409	VMA	Chemical
+30304775_17332	427	429	NE	Chemical
+30304775_17332	459	467	diabetic	Disease
+30304775_17332	536	550	streptozotocin	Drug	CHEMBL1651906
+30304775_17332	536	567	streptozotocin-induced diabetes	Disease	not found
+30304775_17332	720	734	streptozotocin	Drug
+30304775_17332	720	751	streptozotocin-induced diabetes	Disease
+30304775_17332	865	891	release of NE is augmented	Biomarker
+30304775_17332	876	878	NE	Chemical
+30304775_17332	936	958	increased level of VMA	Biomarker
+30304775_17332	955	958	VMA	Chemical
+30304775_17332	985	987	NE	Chemical
+30304775_17332	1019	1021	NE	Chemical
+30304775_17332	1119	1122	NAS	Chemical
+30304775_17332	1136	1145	melatonin	Chemical
+30304775_17332	1195	1199	5-HT	Chemical
+30304775_17332	1232	1240	diabetes	Disease
+30304775_17332	1379	1393	catecholamines	Chemical
+30304775_17332	1395	1422	Diabetes-induced neuropathy	Disease	not found
+30304775_17332	1475	1483	tyrosine	Chemical
+30304775_17332	1475	1495	tyrosine hydroxylase	Gene-protein
+30304775_17332	1509	1523	streptozotocin	Drug
+30304775_17332	1509	1540	streptozotocin-induced diabetes	Disease
+30304775_17332	1553	1597	content of NE was lower in the pineal glands	Biomarker
+30304775_17332	1564	1566	NE	Chemical
+30304775_17332	1601	1609	diabetic	Disease
+30304775_17332	1755	1769	catecholamines	Chemical
+30304775_17332	1799	1807	diabetes	Disease
+

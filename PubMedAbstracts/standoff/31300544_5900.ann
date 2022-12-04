@@ -1,0 +1,58 @@
+T0	Chemical 113 117	iron
+T1	Chemical 238 242	iron
+T11	Chemical 711 715	iron
+T12	Disease 726 730	HAND
+#4	AnnotatorNotes T12	not found
+T13	Gene-Protein 759 762	FHC
+T15	Disease 799 813	spine deficits
+#7	AnnotatorNotes T15	DOID:0060564
+T16	Disease 818 838	cognitive impairment
+#8	AnnotatorNotes T16	DOID:1561
+T17	Chemical 872 880	morphine
+T18	Gene-Protein 924 927	FHC
+T19	Chemical 956 960	iron
+T2	Chemical 254 258	iron
+T21	Chemical 973 977	iron
+T23	Disease 1011 1015	HAND
+T24	Chemical 1044 1052	morphine
+T25	Chemical 1100 1104	iron
+T26	Drug 1145 1153	morphine
+T27	Chemical 1161 1165	iron
+T28	Chemical 1206 1210	iron
+T29	Gene-Protein 1256 1259	FHC
+T30	Disease 1334 1347	HIV infection
+#22	AnnotatorNotes T30	DOID:526
+T31	Disease 1392 1412	cognitive impairment
+T34	Disease 1491 1495	HAND
+T7	Chemical 488 492	iron
+T8	Chemical 561 565	iron
+T9	Gene-Protein 570 573	FHC
+T4	Gene-Protein 57 62	CXCR4
+#1	AnnotatorNotes T4	HGNC:2561
+T10	GeneFamily 134 142	ferritin
+#3	AnnotatorNotes T10	family:1455
+T20	Gene-Protein 75 78	FHC
+#5	AnnotatorNotes T20	HGNC:3976
+T22	Gene-Protein 178 181	FHC
+T32	GeneFamily 306 328	inflammatory cytokines
+#9	AnnotatorNotes T32	not found
+T35	Gene-Protein 902 905	FHC
+T36	Gene-Protein 1073 1076	FHC
+T6	Biomarker 421 439	cognitive deficits
+#2	AnnotatorNotes T6	D003072,not found
+T37	Biomarker 468 518	increased levels of iron transport proteins in CSF
+T38	Biomarker 557 580	CSF iron and FHC levels
+T39	Biomarker 620 646	plasma virus detectability
+T40	Biomarker 601 615	CSF viral load
+T3	Biomarker 697 722	increased CNS iron levels
+R1	Association Arg1:T3 Arg2:T12	
+T41	Biomarker 973 991	iron dysregulation
+R2	Association Arg1:T41 Arg2:T23	
+T42	Drug-Class 1319 1325	opioid
+T43	Drug 1419 1450	targeting brain-iron metabolism
+R4	Response Arg1:T43 Arg2:T34	
+#6	AnnotatorNotes T26	CHEMBL70
+R3	Association Arg1:T3 Arg2:T33	
+T14	Disease 443 447	HAND
+R5	Association Arg1:T6 Arg2:T14	
+T33	Collection 726 838	HAND may drive the production of FHC, which could then lead to dendritic spine deficits and cognitive impairment

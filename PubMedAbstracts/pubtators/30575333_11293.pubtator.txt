@@ -1,0 +1,66 @@
+30575333_11293|t|RSS_IDENT_s_30575333_b_1_4
+30575333_11293|a| 4 DISCUSSION The main finding of this work is that therole of miR‐186 in the pathogenesis of COPD is the regulation of HIF‐1α expression. Previously, we used miRNA‐ChIP and reverse transcriptase‐polymerase chain reaction (RT‐PCR) to assess the distribution and differences in miRNA expression in the peripheral blood of COPD patients in comparison to normal subjects. The results showed 13 miRNAs were differentially expressed between COPD patients and the control subjects. Further research using RT‐PCR confirmed that the expression levels of the following seven miRNAs were significantly different: hsa‐miR‐146b‐5p, hsa‐miR‐141‐3p, hsa‐miR‐186‐5p, hsa‐miR‐4532, hsa‐miR‐4635, hsa‐miR‐2681‐3p, hsa‐miR‐4503, and hsa‐miR‐196b‐5p (Ding et al., 2016). To investigate whether these miRNAs are associated with COPD, we conducted further experiments in which miRNAs were transfected into human lung fibroblasts. The results showed that in comparison with control cells, human lung fibroblasts transfected with miR‐146b‐5p and miR‐141‐3p had decreased apoptosis and increased proliferation, and cells transfected with hsa‐miR‐186 had increased apoptosis and decreased proliferation. Cells transfected with miR‐196b‐5p showed no significant phenotypes. According to the results, miR‐146b and miR‐141 upregulation accelerated MRC‐5 cell proliferation and decreased apoptosis, and miR‐186 upregulation slowed MRC‐5 cell proliferation and increased apoptosis. The imbalance of apoptosis and proliferation in pulmonary fibroblasts is an important factor in the reconstruction of COPD airways (Zheng‐Xing, Bo, & Zhou, 2013); therefore, regulating the function of fibroblasts, including inducing apoptosis and inhibiting their proliferation, are targets of COPD treatment. Based on these previous observations, we chose miR‐186 for further study. MicroRNA‐186 (miR‐186) has turned out to be one of the most important determinants of cell proliferation in various types of cancers (Cai et al., 2013; Ruan, Xiaoting, Jun, & Hang, 2016; Zhang et al., 2010). COPD is a chronic systemic inflammatory syndrome characterized by irreversible, progressive airflow obstruction (Thorleifsson et al., 2009). HIF‐1α is a critical factor responsible for maintaining oxygen homeostasis under hypoxic conditions, and this transcription factor is thought to be associated with the development and progression of COPD (Putra et al., 2013). In recent years, HIF‐1α has emerged as a key factor in COPD. HIF‐1 also plays a major role in the expression of genes involved in inflammation, energy metabolism, angiogenesis, and airway remodeling (Balamurugan, 2016). The role of HIF in the development and progression of COPD has also been demonstrated. For instance, previous studies showed that HIF‐1 plays an important role in critical pathological processes of pulmonary heart disease in patients with hypoxic pulmonary hypertension and COPD (Fan et al., 2011; Manalo et al., 2005; Qian, Wang, Ming, & Liang, 2012; Schultz, Fanburg, & Beasley, 2006; Xie et al., 2017). Our results showed that mir‐186 has a binding site in the 3′‐UTR of HIF‐1α. We found that mir‐186 can affect apoptosis of inflammatory fibroblasts via regulation of HIF‐1α and affect the downstream signaling pathways.
+30575333_11293	90	97	miR‐186	Rna-noncoding	HGNC:31557
+30575333_11293	90	97	miR‐186	Biomarker	C533096
+30575333_11293	121	125	COPD	Disease	DOID:3083
+30575333_11293	147	153	HIF‐1α	Gene-protein	HGNC:4910
+30575333_11293	348	352	COPD	Disease
+30575333_11293	463	467	COPD	Disease
+30575333_11293	630	645	hsa‐miR‐146b‐5p	Rna-noncoding	family:1716
+30575333_11293	647	661	hsa‐miR‐141‐3p	Rna-noncoding	HGNC:31528
+30575333_11293	663	677	hsa‐miR‐186‐5p	Rna-noncoding	HGNC:31557
+30575333_11293	679	691	hsa‐miR‐4532	Rna-noncoding	HGNC:41869
+30575333_11293	693	705	hsa‐miR‐4635	Rna-noncoding	HGNC:41748
+30575333_11293	707	722	hsa‐miR‐2681‐3p	Rna-noncoding	HGNC:41532
+30575333_11293	724	736	hsa‐miR‐4503	Rna-noncoding	HGNC:41675
+30575333_11293	742	757	hsa‐miR‐196b‐5p	Rna-noncoding	HGNC:31790
+30575333_11293	835	839	COPD	Disease
+30575333_11293	1034	1045	miR‐146b‐5p	Rna-noncoding
+30575333_11293	1034	1045	miR‐146b‐5p	Biomarker	C542542
+30575333_11293	1050	1060	miR‐141‐3p	Rna-noncoding
+30575333_11293	1050	1060	miR‐141‐3p	Biomarker
+30575333_11293	1141	1152	hsa‐miR‐186	Rna-noncoding
+30575333_11293	1141	1152	hsa‐miR‐186	Biomarker	C533096
+30575333_11293	1229	1240	miR‐196b‐5p	Rna-noncoding
+30575333_11293	1301	1309	miR‐146b	Rna-noncoding	family:1716
+30575333_11293	1314	1321	miR‐141	Rna-noncoding	HGNC:31528
+30575333_11293	1347	1352	MRC‐5	Cellline
+30575333_11293	1401	1408	miR‐186	Rna-noncoding
+30575333_11293	1429	1434	MRC‐5	Cellline
+30575333_11293	1483	1548	imbalance of apoptosis and proliferation in pulmonary fibroblasts	Biomarker
+30575333_11293	1597	1601	COPD	Disease
+30575333_11293	1653	1757	regulating the function of fibroblasts, including inducing apoptosis and inhibiting their proliferation,	Biomarker
+30575333_11293	1773	1777	COPD	Disease
+30575333_11293	1836	1843	miR‐186	Rna-noncoding
+30575333_11293	1863	1875	MicroRNA‐186	Rna-noncoding	HGNC:31557
+30575333_11293	1863	1875	MicroRNA‐186	Biomarker	C533096
+30575333_11293	1877	1884	miR‐186	Rna-noncoding
+30575333_11293	1988	1995	cancers	Disease	DOID:162
+30575333_11293	2071	2075	COPD	Disease
+30575333_11293	2137	2182	irreversible, progressive airflow obstruction	Biomarker
+30575333_11293	2212	2218	HIF‐1α	Biomarker	C497442
+30575333_11293	2212	2218	HIF‐1α	Gene-protein
+30575333_11293	2268	2274	oxygen	Chemical
+30575333_11293	2411	2415	COPD	Disease
+30575333_11293	2455	2461	HIF‐1α	Biomarker
+30575333_11293	2455	2461	HIF‐1α	Gene-protein
+30575333_11293	2493	2497	COPD	Disease
+30575333_11293	2499	2504	HIF‐1	Gene-protein
+30575333_11293	2499	2504	HIF‐1	Biomarker
+30575333_11293	2568	2580	inflammation	Disease	D007249
+30575333_11293	2568	2636	inflammation, energy metabolism, angiogenesis, and airway remodeling	Collection
+30575333_11293	2619	2636	airway remodeling	Disease	D056151
+30575333_11293	2670	2673	HIF	Genefamily
+30575333_11293	2670	2673	HIF	Biomarker
+30575333_11293	2712	2716	COPD	Disease
+30575333_11293	2788	2793	HIF‐1	Biomarker
+30575333_11293	2788	2793	HIF‐1	Gene-protein
+30575333_11293	2856	2879	pulmonary heart disease	Disease	DOID:8515
+30575333_11293	2856	2936	pulmonary heart disease in patients with hypoxic pulmonary hypertension and COPD	Collection
+30575333_11293	2897	2927	hypoxic pulmonary hypertension	Disease	not found
+30575333_11293	2932	2936	COPD	Disease
+30575333_11293	3088	3095	mir‐186	Chemical
+30575333_11293	3132	3138	HIF‐1α	Gene-protein
+30575333_11293	3154	3161	mir‐186	Rna-noncoding
+30575333_11293	3229	3235	HIF‐1α	Rna-noncoding
+

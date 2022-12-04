@@ -1,0 +1,49 @@
+31530839_108|t|RSS_IDENT_p_31530839_a_1_1
+31530839_108|a| Due to the loss of DNA repair mechanisms in colorectal cancer (CRC) with microsatellite instability (MSI), somatic mutations accumulate within DNA; making them more prone to attack by tumor infiltrating lymphocytes (TIL) and macrophages. We hypothesize that MSI-High (MSI-H) patients have favorable survival due to increased tumor immunogenicity. The Cancer Genome Atlas (TCGA) was used to evaluate gene expression from 283 patients with CRC, comparing MSI-H and microsatellite stable (MSS) patients. CIBERSORT algorithm estimated the fraction of immune cell types. We found that low expression of DNA repair genes (MLH1, MLH3, PMS1, PMS2, ATR, PRKDC, ATM, BRCA2) associated with MSI-H. MSI-H was directly associated with Helper T-cells (p = 0.034) and M1 macrophages (p < 0.0001). MSI-H tumors associated with diminished intra-tumoral heterogeneity as well as higher expression of checkpoint molecules PD-1, PD-L1, CTLA4, LAG3 and TIM3 (p < 0.0001). Improved OS was seen in patients with low ATM, PMS2 and MLH3. In the TCGA CRC cohort, decreased expression of DNA repair genes associated with MSI-H. MSI-H patients had improved survival, likely due to higher TIL and M1 macrophage infiltration as well as lower intra-tumoral heterogeneity. MSI-H also associates with expression of immune checkpoint molecules with potential for development of therapeutic targets.
+31530839_108	39	68	loss of DNA repair mechanisms	Biomarker
+31530839_108	72	133	colorectal cancer (CRC) with microsatellite instability (MSI)	Disease	not found
+31530839_108	135	174	somatic mutations accumulate within DNA	Biomarker
+31530839_108	212	217	tumor	Disease	DOID:162
+31530839_108	286	294	MSI-High	Biomarker	not found
+31530839_108	286	373	MSI-High (MSI-H) patients have favorable survival due to increased tumor immunogenicity	Collection
+31530839_108	296	301	MSI-H	Biomarker	not found
+31530839_108	343	373	increased tumor immunogenicity	Biomarker
+31530839_108	466	469	CRC	Disease	DOID:9256
+31530839_108	481	486	MSI-H	Biomarker
+31530839_108	491	512	microsatellite stable	Biomarker
+31530839_108	514	517	MSS	Biomarker
+31530839_108	608	691	low expression of DNA repair genes (MLH1, MLH3, PMS1, PMS2, ATR, PRKDC, ATM, BRCA2)	Biomarker
+31530839_108	644	648	MLH1	Gene-protein	HGNC:7127
+31530839_108	650	654	MLH3	Gene-protein	HGNC:7128
+31530839_108	656	660	PMS1	Gene-protein	HGNC:9121
+31530839_108	662	666	PMS2	Gene-protein	HGNC:9122
+31530839_108	668	671	ATR	Gene-protein	HGNC:882
+31530839_108	673	678	PRKDC	Gene-protein	HGNC:9413
+31530839_108	680	683	ATM	Gene-protein	HGNC:795
+31530839_108	685	690	BRCA2	Gene-protein	HGNC:1101
+31530839_108	708	713	MSI-H	Biomarker
+31530839_108	715	720	MSI-H	Biomarker
+31530839_108	781	795	M1 macrophages	Biomarker
+31530839_108	810	822	MSI-H tumors	Disease	not found
+31530839_108	839	877	diminished intra-tumoral heterogeneity	Biomarker
+31530839_108	839	964	diminished intra-tumoral heterogeneity as well as higher expression of checkpoint molecules PD-1, PD-L1, CTLA4, LAG3 and TIM3	Collection
+31530839_108	889	964	higher expression of checkpoint molecules PD-1, PD-L1, CTLA4, LAG3 and TIM3	Biomarker
+31530839_108	931	935	PD-1	Gene-protein	HGNC:8760
+31530839_108	937	942	PD-L1	Gene-protein	HGNC:17635
+31530839_108	944	949	CTLA4	Gene-protein	 HGNC:2505
+31530839_108	951	955	LAG3	Gene-protein	HGNC:6476
+31530839_108	960	964	TIM3	Gene-protein	HGNC:18437
+31530839_108	1017	1039	low ATM, PMS2 and MLH3	Biomarker
+31530839_108	1021	1024	ATM	Gene-protein
+31530839_108	1026	1030	PMS2	Gene-protein
+31530839_108	1035	1039	MLH3	Gene-protein
+31530839_108	1053	1056	CRC	Disease
+31530839_108	1065	1105	decreased expression of DNA repair genes	Biomarker
+31530839_108	1122	1127	MSI-H	Biomarker
+31530839_108	1129	1134	MSI-H	Biomarker
+31530839_108	1181	1191	higher TIL	Biomarker
+31530839_108	1196	1222	M1 macrophage infiltration	Biomarker
+31530839_108	1234	1267	lower intra-tumoral heterogeneity	Biomarker
+31530839_108	1269	1274	MSI-H	Biomarker
+31530839_108	1296	1337	expression of immune checkpoint molecules	Biomarker
+

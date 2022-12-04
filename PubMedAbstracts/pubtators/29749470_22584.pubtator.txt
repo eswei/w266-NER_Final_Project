@@ -1,0 +1,31 @@
+29749470_22584|t|RSS_IDENT_p_29749470_b_1_4_4
+29749470_22584|a| Previous studies have provided information regarding the association between PLIN2 expression and ccRCC. A previous study reported that PLIN2 expression was markedly increased in cases of low-stage, low-grade or VHL alteration-positive ccRCC ( 32 ), which is consistent with the present findings. These results suggested that PLIN2 levels may represent the tumor differentiation status in ccRCC. By conducting high-density oligonucleotide microarrays on 33 ccRCC tissues and nine normal kidney samples, Yao et al ( 44 ) identified 149 significantly differentially expressed genes. When matching them with other microarray data, it was demonstrated that PLIN2 was overexpressed in both datasets. The present study observed increased levels of PLIN2 in clinical ccRCC tissues compared with in paired normal tissues. The mRNA expression levels of PLIN2 were further validated by TCGA database, which revealed significantly increased PLIN2 expression in 72 ccRCC tumor tissues compared with in paired normal tissues. In addition to validation at the protein level, IHC results demonstrated that the expression levels of PLIN2 were significantly higher in ccRCC tissues compared with in normal kidney tissues and benign renal angiomyolipoma tissues. These results demonstrated that PLIN2 may function as an oncogene, serving an important role in the tumorigenesis of ccRCC. 
+29749470_22584	107	112	PLIN2	Gene-protein	HGNC:248
+29749470_22584	107	123	PLIN2 expression	Biomarker	C000602982
+29749470_22584	128	133	ccRCC	Disease	DOID:4467
+29749470_22584	166	171	PLIN2	Gene-protein
+29749470_22584	166	205	PLIN2 expression was markedly increased	Biomarker
+29749470_22584	218	271	low-stage, low-grade or VHL alteration-positive ccRCC	Disease	not found
+29749470_22584	242	245	VHL	Gene-protein	HGNC:12687
+29749470_22584	356	361	PLIN2	Gene-protein
+29749470_22584	356	368	PLIN2 levels	Biomarker	C000602982
+29749470_22584	387	392	tumor	Disease	DOID:162
+29749470_22584	419	424	ccRCC	Disease
+29749470_22584	487	492	ccRCC	Disease
+29749470_22584	683	688	PLIN2	Gene-protein
+29749470_22584	683	706	PLIN2 was overexpressed	Biomarker
+29749470_22584	752	777	increased levels of PLIN2	Biomarker
+29749470_22584	772	777	PLIN2	Gene-protein
+29749470_22584	790	795	ccRCC	Disease
+29749470_22584	874	879	PLIN2	Gene-protein
+29749470_22584	950	976	increased PLIN2 expression	Biomarker
+29749470_22584	960	965	PLIN2	Gene-protein
+29749470_22584	983	994	ccRCC tumor	Disease
+29749470_22584	1125	1177	expression levels of PLIN2 were significantly higher	Biomarker
+29749470_22584	1146	1151	PLIN2	Gene-protein
+29749470_22584	1181	1186	ccRCC	Disease
+29749470_22584	1238	1265	benign renal angiomyolipoma	Disease	DOID:8411
+29749470_22584	1307	1312	PLIN2	Gene-protein
+29749470_22584	1307	1312	PLIN2	Biomarker	C000602982
+29749470_22584	1392	1397	ccRCC	Disease
+

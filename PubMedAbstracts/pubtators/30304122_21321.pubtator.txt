@@ -1,0 +1,34 @@
+30304122_21321|t|RSS_IDENT_p_30304122_b_1_4_4
+30304122_21321|a| On the other hand, high levels of mRNA and IFN-γ have been found in different samples (gingival tissue, serum, saliva, and GCF) of CP patients when compared to HS. ¹⁴ ⁻ ¹⁹ This study found high levels of IFN-γ in the gingival tissues of CP patients when compared to HS, corroborating these studies. We must highlight that only Górska, et al. ¹⁷ (2003) and Johnson, et al. ¹⁸ (2005) have detected elevated IFN-γ levels in gingival tissue samples from CP patients. These authors reported the IFN-γ levels in pg/mL; in this study we decided to report IFN-γ in pg/mg of gingival tissues by ELISA. Similarly, IFN-γ concentrations were found to be significantly higher in CP patients than in HS. Given this context, it has been described that high IFN-γ levels in the infected periodontium are associated with the progression of lesions and the severity of inflammatory diseases. ²¹ In addition, the antigen stimuli and pathways lead to chronic elevation of IFN-γ and maintain the activation of resident phagocytes in the periodontium through the secretion of metalloproteinases (MMP) and other molecules, which leads to increased bone destruction. ¹⁶ In this sense, we found a significant correlation between high IFN-γ levels in gingival tissue and clinical parameters (PD and CAL) in the CP group, confirming that elevated IFN-γ levels in CP patients are related with bone destruction in the periodontium. 
+30304122_21321	49	78	high levels of mRNA and IFN-γ	Biomarker
+30304122_21321	73	78	IFN-γ	Gene-protein	HGNC:5438
+30304122_21321	161	163	CP	Disease	DOID:824
+30304122_21321	219	263	high levels of IFN-γ in the gingival tissues	Biomarker
+30304122_21321	234	239	IFN-γ	Gene-protein
+30304122_21321	267	269	CP	Disease
+30304122_21321	426	466	elevated IFN-γ levels in gingival tissue	Biomarker
+30304122_21321	435	440	IFN-γ	Gene-protein
+30304122_21321	480	482	CP	Disease
+30304122_21321	520	525	IFN-γ	Gene-protein
+30304122_21321	578	583	IFN-γ	Gene-protein
+30304122_21321	634	639	IFN-γ	Gene-protein
+30304122_21321	634	692	IFN-γ concentrations were found to be significantly higher	Biomarker
+30304122_21321	696	698	CP	Disease
+30304122_21321	767	784	high IFN-γ levels	Biomarker
+30304122_21321	772	777	IFN-γ	Gene-protein
+30304122_21321	881	902	inflammatory diseases	Disease	not found
+30304122_21321	924	952	antigen stimuli and pathways	Biomarker
+30304122_21321	961	987	chronic elevation of IFN-γ	Biomarker
+30304122_21321	982	987	IFN-γ	Gene-protein
+30304122_21321	1084	1102	metalloproteinases	Genefamily	family:891
+30304122_21321	1104	1107	MMP	Genefamily	family:891
+30304122_21321	1155	1171	bone destruction	Disease	not found
+30304122_21321	1234	1270	high IFN-γ levels in gingival tissue	Biomarker
+30304122_21321	1239	1244	IFN-γ	Gene-protein
+30304122_21321	1275	1307	clinical parameters (PD and CAL)	Biomarker
+30304122_21321	1315	1317	CP	Disease
+30304122_21321	1350	1355	IFN-γ	Gene-protein
+30304122_21321	1350	1362	IFN-γ levels	Biomarker
+30304122_21321	1366	1368	CP	Disease
+30304122_21321	1395	1410	bone destructio	Disease
+

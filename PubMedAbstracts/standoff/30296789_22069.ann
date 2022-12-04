@@ -1,0 +1,63 @@
+T0	Drug 30 41	Alprostadil
+T1	Disease 94 118	multiple-system diseases
+#2	AnnotatorNotes T1	DOID:4752
+T10	Disease 536 540	ARDS
+T12	Disease 696 706	lung edema
+#4	AnnotatorNotes T12	DOID:11396
+T13	Drug 719 721	OA
+#5	AnnotatorNotes T13	CHEMBL8659
+T15	Disease 762 767	edema
+#7	AnnotatorNotes T15	D004487
+T18	Disease 1040 1043	ALI
+T19	Disease 1044 1048	ARDS
+T2	Drug 167 178	alprostadil
+T20	Chemical 1231 1233	OA
+T27	Disease 1538 1542	ARDS
+T28	Drug 1558 1569	Alprostadil
+T3	Disease 182 186	ARDS
+#15	AnnotatorNotes T3	DOID:11394
+T30	Drug 1797 1808	alprostadil
+T31	Disease 1812 1816	ARDS
+T4	Drug 225 236	Alprostadil
+T6	Disease 340 355	OA-induced ARDS
+#20	AnnotatorNotes T6	not found
+T8	Disease 463 478	OA-induced ARDS
+T9	Drug 521 532	Alprostadil
+#1	AnnotatorNotes T0	CHEMBL495
+R1	Response Arg1:T0 Arg2:T1	
+#8	AnnotatorNotes T2	CHEMBL495
+T5	Biomarker 546 560	lung W/D ratio
+T7	Biomarker 562 577	cytokine levels
+T11	GeneFamily 562 570	cytokine
+#3	AnnotatorNotes T11	not found
+T16	Biomarker 653 662	W/D ratio
+R2	Diagnostic-of Arg1:T16 Arg2:T12	
+T14	Chemical 340 342	OA
+T17	Chemical 463 465	OA
+R3	Causes Arg1:T13 Arg2:T15	
+T21	GeneFamily 782 790	cytokine
+T22	Gene-Protein 863 868	TNF-α
+T23	GeneFamily 883 908	pro-inflammatory cytokine
+T24	GeneFamily 951 960	cytokines
+#6	AnnotatorNotes T18	 D055371
+T25	Biomarker 863 868	TNF-α
+#9	AnnotatorNotes T25	D014409
+T26	Collection 1040 1048	ALI/ARDS
+R4	Association Arg1:T25 Arg2:T26	
+T32	GeneFamily 1385 1393	collagen
+T33	Gene-Protein 1437 1442	TNF-α
+T34	Gene-Protein 1447 1452	IL-1β
+T35	Biomarker 1423 1501	expression of TNF-α and IL-1β in the lung tissues were significantly increased
+T36	Biomarker 1511 1534	W/D ratio was increased
+T37	Collection 1423 1534	expression of TNF-α and IL-1β in the lung tissues were significantly increased, and the W/D ratio was increased
+R5	Association Arg1:T37 Arg2:T27	
+T38	Drug 1553 1555	OA
+T39	Biomarker 1616 1625	W/D ratio
+T40	Gene-Protein 1669 1674	TNF-α
+T41	Gene-Protein 1679 1684	IL-1β
+T42	Gene-Protein 1697 1705	collagen
+R6	Protects-from Arg1:T30 Arg2:T31	
+R7	Synergy-Response Arg1:T38 Arg2:T27	
+R8	Synergy-Response Arg1:T28 Arg2:T27	
+T29	GeneFamily 1126 1134	collagen
+#10	AnnotatorNotes T29	family:490

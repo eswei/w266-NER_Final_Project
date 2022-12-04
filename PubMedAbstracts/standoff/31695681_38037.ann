@@ -1,0 +1,66 @@
+T10	Disease 619 638	Alzheimer's disease
+#2	AnnotatorNotes T10	DOID:10652
+T11	Disease 640 642	AD
+#3	AnnotatorNotes T11	DOID:10652
+T12	Disease 656 690	inflammatory senile plaque lesions
+#4	AnnotatorNotes T12	not found
+T14	Disease 694 696	AD
+T16	Disease 767 780	hyperglycemia
+#7	AnnotatorNotes T16	DOID:4195
+T17	Disease 792 822	diabetic peripheral neuropathy
+#8	AnnotatorNotes T17	DOID:9743
+T19	Disease 994 1009	type 2 diabetes
+#9	AnnotatorNotes T19	DOID:9352
+T2	Disease 142 155	breast cancer
+#10	AnnotatorNotes T2	DOID:1612
+T22	Chemical 1150 1157	glucose
+T23	Chemical 1162 1169	glucose
+T25	Disease 1264 1277	hyperglycemia
+T27	Disease 1374 1391	neuroinflammation
+T29	Disease 1448 1456	diabetes
+#16	AnnotatorNotes T29	not found
+T31	Disease 1461 1487	neurodegenerative diseases
+#18	AnnotatorNotes T31	DOID:1289
+T32	Chemical 1613 1620	glucose
+T33	Chemical 1625 1632	glucose
+T36	Chemical 1725 1732	glucose
+T37	Chemical 1737 1744	glucose
+T4	Chemical 206 213	glucose
+T1	RNA-Noncoding 30 38	miR-146a
+#1	AnnotatorNotes T1	HGNC:31533
+T3	Gene-Protein 224 229	TNF-α
+#11	AnnotatorNotes T3	HGNC:11892
+T5	Gene-Protein 234 238	IL-6
+#12	AnnotatorNotes T5	HGNC:6018
+T6	Gene-Protein 264 269	IL-10
+#14	AnnotatorNotes T6	HGNC:5962
+T7	RNA-Noncoding 322 330	miR-146a
+T8	RNA-Noncoding 397 405	miR-146a
+T15	Gene-Protein 518 523	IL-10
+T18	Gene-Protein 528 533	Arg-1
+#20	AnnotatorNotes T18	HGNC:663
+T13	RNA-Noncoding 579 587	miR-146a
+T20	RNA-Noncoding 717 725	miR-146a
+T21	RNA-Noncoding 958 966	miR-146a
+T24	RNA-Noncoding 1088 1096	miR-146a
+T26	RNA-Noncoding 1333 1340	miR146a
+T28	RNA-Noncoding 1665 1673	miR-146a
+T30	RNA-Noncoding 1519 1527	miR-146a
+T34	Biomarker 1333 1340	miR146a
+T35	Collection 1374 1487	neuroinflammation and plays an important role in various diseases such as diabetes and neurodegenerative diseases
+R1	Association Arg1:T34 Arg2:T35	
+T38	RNA-Noncoding 1228 1236	miR-146a
+T39	Biomarker 944 976	expression of miR-146a in plasma
+R2	Association Arg1:T39 Arg2:T19	
+T40	Biomarker 717 762	miR-146a expression was decreased in DRG cell
+T41	RNA-Noncoding 885 893	miR-146a
+T42	Collection 767 822	hyperglycemia studies of diabetic peripheral neuropathy
+R3	Association Arg1:T40 Arg2:T42	
+T43	Biomarker 557 601	Altered expression of miR-146a in the brains
+R4	Association Arg1:T43 Arg2:T10	
+T44	Biomarker 30 38	miR-146a
+#15	AnnotatorNotes T44	C542542
+R5	Association Arg1:T44 Arg2:T2	
+#6	AnnotatorNotes T27	not found
+T45	Gene-Protein 443 451	NIFK-AS1
+#13	AnnotatorNotes T45	HGNC:27385

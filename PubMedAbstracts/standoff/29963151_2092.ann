@@ -1,0 +1,66 @@
+T1	Biomarker 30 112	MicroRNAs (miRNAs) have been reported to be unusually upregulated or downregulated
+T10	Biomarker 397 445	downregulation of miR-375, miR-302b and miR-216a
+T11	Biomarker 504 548	upregulation of miR-19, miR-92b and miR-146a
+T12	Disease 562 564	OS
+T13	Disease 629 631	OS
+T14	Biomarker 685 715	decrease of miR-202 expression
+T15	Disease 734 748	gastric cancer
+#3	AnnotatorNotes T15	DOID:10534
+T16	Disease 757 777	colorectal carcinoma
+#4	AnnotatorNotes T16	DOID:0080199
+T17	Disease 789 815	endometrial adenocarcinoma
+#5	AnnotatorNotes T17	DOID:2870
+T18	Biomarker 853 860	miR-202
+T19	Disease 893 895	OS
+T2	Disease 130 137	cancers
+#7	AnnotatorNotes T2	DOID:162
+T20	Disease 942 944	OS
+T3	Biomarker 153 175	miR-21 was upregulated
+T4	Disease 179 196	colorectal cancer
+#9	AnnotatorNotes T4	DOID:9256
+T5	Biomarker 210 235	miR-126 was downregulated
+T6	Disease 239 250	lung cancer
+#10	AnnotatorNotes T6	DOID:1324
+T7	Biomarker 272 305	dysregulated expression of miRNAs
+T8	Disease 375 382	cancers
+T9	Disease 393 395	OS
+R1	Association Arg1:T1 Arg2:T2	
+T21	RNA-Noncoding 30 39	MicroRNAs
+#1	AnnotatorNotes T21	family:476
+T22	RNA-Noncoding 41 47	miRNAs
+#2	AnnotatorNotes T22	family:476
+T23	RNA-Noncoding 153 159	miR-21
+#6	AnnotatorNotes T23	HGNC:31586
+R2	Association Arg1:T3 Arg2:T4	
+R3	Association Arg1:T5 Arg2:T6	
+T24	RNA-Noncoding 210 217	miR-126
+#8	AnnotatorNotes T24	HGNC:31508
+T25	RNA-Noncoding 299 305	miRNAs
+R4	Association Arg1:T7 Arg2:T8	
+R5	Association Arg1:T10 Arg2:T9	
+T26	RNA-Noncoding 415 422	miR-375
+#11	AnnotatorNotes T26	HGNC:31868
+T27	RNA-Noncoding 424 432	miR-302b
+#12	AnnotatorNotes T27	HGNC:31763
+T28	RNA-Noncoding 437 445	miR-216a
+#13	AnnotatorNotes T28	HGNC:31593
+R6	Association Arg1:T11 Arg2:T12	
+T29	RNA-Noncoding 520 526	miR-19
+#14	AnnotatorNotes T29	family:1704
+T30	RNA-Noncoding 528 535	miR-92b
+#15	AnnotatorNotes T30	HGNC:32920
+T31	RNA-Noncoding 540 548	miR-146a
+#16	AnnotatorNotes T31	HGNC:31533
+T32	RNA-Noncoding 585 591	miRNAs
+T33	Biomarker 585 591	miRNAs
+#17	AnnotatorNotes T33	D035683
+R7	Association Arg1:T33 Arg2:T13	
+T34	RNA-Noncoding 697 704	miR-202
+#18	AnnotatorNotes T34	HGNC:32080
+T35	Collection 734 815	gastric cancer ( 14 ), colorectal carcinoma ( 15 ) and endometrial adenocarcinoma
+R8	Association Arg1:T14 Arg2:T35	
+T36	RNA-Noncoding 853 860	miR-202
+#19	AnnotatorNotes T18	C569392
+R9	Association Arg1:T18 Arg2:T19	
+T37	RNA-Noncoding 931 938	miR-202
+#20	AnnotatorNotes T9	DOID:3347

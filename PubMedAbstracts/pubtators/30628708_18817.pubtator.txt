@@ -1,0 +1,41 @@
+30628708_18817|t|RSS_IDENT_p_30628708_b_1_4_4
+30628708_18817|a| The human ADH4 enzyme is encoded by the ADH4 gene, which maps to 4q22 within the ADH gene cluster ( 29 ). Previous studies have revealed that a ADH4 gene variant confers risk for alcohol dependence (AD) and related traits in European Americans and African Americans ( 29 ). Edenberg et al ( 30 ) reported that 16 single nucleotide polymorphisms (SNP) of ADH4, including rs2226896, are associated with AD, in an independent collaborative study on the genetics of alcoholism. Edenberg et al ( 31 ) showed that ADH4 promoter variant −75A/C (rs800759), which could alter ADH4 enzyme expression levels significantly, as well as the 159A/G variant were significantly linked to AD in European Americans and African Americans in a Brazilian population ( 31 ). Previous studies have reported that ADH4 may be associated with cluster headaches and personality traits such as agreeableness and extraversion ( 32 , 33 ). In addition, polymorphisms in the ADH4 gene are associated with a decreased risk of ovarian cancer ( 34 ) and an increased risk of upper aerodigestive tract cancer ( 35 ), which suggests that the ADH4 may be involved in tumorigenesis. Wei et al ( 36 ) found that ADH4 mRNA expression in HCC is significantly lower than that in non-cancerous tissue, and ADH4 protein expression is also reduced in HCC, which indicates that ADH4 may serve as a tumor suppressor. These findings are consistent with the results of the present study, where ADH4 was identified as a potential prognostic biomarker for HCC. 
+30628708_18817	40	44	ADH4	Gene-protein	HGNC:252
+30628708_18817	70	74	ADH4	Gene-protein
+30628708_18817	111	114	ADH	Genefamily	family:397
+30628708_18817	174	178	ADH4	Gene-protein
+30628708_18817	174	191	ADH4 gene variant	Biomarker
+30628708_18817	209	216	alcohol	Chemical
+30628708_18817	209	227	alcohol dependence	Disease	DOID:0050741
+30628708_18817	229	231	AD	Disease	DOID:0050741
+30628708_18817	340	388	16 single nucleotide polymorphisms (SNP) of ADH4	Biomarker
+30628708_18817	340	409	16 single nucleotide polymorphisms (SNP) of ADH4, including rs2226896	Collection
+30628708_18817	384	388	ADH4	Gene-protein
+30628708_18817	400	409	rs2226896	Biomarker
+30628708_18817	431	433	AD	Disease
+30628708_18817	492	502	alcoholism	Disease	DOID:0050741
+30628708_18817	538	542	ADH4	Gene-protein
+30628708_18817	538	577	ADH4 promoter variant −75A/C (rs800759)	Biomarker
+30628708_18817	538	670	ADH4 promoter variant −75A/C (rs800759), which could alter ADH4 enzyme expression levels significantly, as well as the 159A/G varian	Collection
+30628708_18817	597	601	ADH4	Gene-protein
+30628708_18817	657	671	159A/G variant	Biomarker
+30628708_18817	701	703	AD	Disease
+30628708_18817	818	822	ADH4	Gene-protein
+30628708_18817	818	822	ADH4	Biomarker	C105552
+30628708_18817	846	863	cluster headaches	Disease	D003027
+30628708_18817	952	982	polymorphisms in the ADH4 gene	Biomarker
+30628708_18817	973	977	ADH4	Gene-protein
+30628708_18817	1023	1037	ovarian cancer	Disease	DOID:2394
+30628708_18817	1070	1102	upper aerodigestive tract cancer	Disease	DOID:11934
+30628708_18817	1135	1139	ADH4	Gene-protein
+30628708_18817	1202	1206	ADH4	Gene-protein
+30628708_18817	1202	1222	ADH4 mRNA expression	Biomarker
+30628708_18817	1226	1229	HCC	Disease	DOID:684
+30628708_18817	1292	1296	ADH4	Gene-protein
+30628708_18817	1292	1331	ADH4 protein expression is also reduced	Biomarker
+30628708_18817	1335	1338	HCC	Disease
+30628708_18817	1361	1365	ADH4	Gene-protein
+30628708_18817	1474	1478	ADH4	Gene-protein
+30628708_18817	1474	1478	ADH4	Biomarker
+30628708_18817	1534	1537	HCC	Disease
+

@@ -1,0 +1,72 @@
+T11	Disease 851 879	oral squamous cell carcinoma
+#2	AnnotatorNotes T11	DOID:0050866
+T13	Disease 893 907	bladder cancer
+#4	AnnotatorNotes T13	DOID:11054
+T16	Drug 1177 1187	paclitaxel
+T17	Disease 1202 1217	prostate cancer
+#7	AnnotatorNotes T17	DOID:10283
+T18	Disease 1231 1244	breast cancer
+#8	AnnotatorNotes T18	DOID:1612
+T2	Biomarker 194 215	lymph node metastasis
+T23	Disease 1579 1596	esophageal cancer
+#11	AnnotatorNotes T23	DOID:5041
+T24	Disease 1601 1615	gastric cancer
+#12	AnnotatorNotes T24	DOID:10534
+T3	Disease 271 282	lung cancer
+#13	AnnotatorNotes T3	DOID:1324
+T8	Disease 541 565	hepatocellular carcinoma
+#16	AnnotatorNotes T8	DOID:684
+T4	Gene-Protein 83 88	KRT18
+#6	AnnotatorNotes T4	HGNC:6430
+T5	Gene-Protein 108 113	KRT18
+T9	Gene-Protein 293 298	KRT18
+T10	Gene-Protein 586 591	KRT18
+T14	Gene-Protein 398 403	KRT18
+T19	Gene-Protein 734 739	KRT18
+T20	Gene-Protein 970 975	KRT18
+T21	Gene-Protein 1622 1627	KRT18
+T25	Gene-Protein 1464 1469	KRT18
+T26	Gene-Protein 1301 1306	KRT18
+T27	Gene-Protein 1126 1131	KRT18
+T28	Biomarker 103 124	high KRT18 expression
+T29	Biomarker 217 235	distant metastasis
+T30	Biomarker 241 266	degree of differentiation
+T1	Biomarker 172 192	tumor invasion depth
+T31	Biomarker 156 170	clinical stage
+T32	Biomarker 293 309	KRT18 expression
+T33	Biomarker 346 376	clinical lymph node metastasis
+T34	Disease 441 468	high metastatic lung cancer
+#1	AnnotatorNotes T34	not found
+T6	Biomarker 398 437	KRT18 expression had 4.6-times increase
+R1	Association Arg1:T6 Arg2:T34	
+T35	Disease 493 519	low metastatic lung cancer
+#9	AnnotatorNotes T35	not found
+T7	Biomarker 576 602	levels of KRT18 expression
+T36	Biomarker 635 656	lymph node metastasis
+T37	Biomarker 661 681	aggressive phenotype
+T38	Biomarker 734 754	KRT18 overexpression
+T39	Biomarker 775 798	advanced clinical stage
+T40	Biomarker 800 820	poor differentiation
+T41	Biomarker 826 846	high invasion patter
+T12	Biomarker 970 975	KRT18
+T42	Biomarker 1107 1131	high expression of KRT18
+#3	AnnotatorNotes T16	CHEMBL428647
+R2	Mediated-Non-Response Arg1:T16 Arg2:T17	
+R3	Mediator Arg1:T16 Arg2:T42	
+T15	Biomarker 1152 1172	tumor aggressiveness
+T43	Biomarker 1282 1306	high expression of KRT18
+T44	Disease 1325 1334	luminal B
+#5	AnnotatorNotes T44	DOID:0080674
+T45	Disease 1387 1396	luminal A
+#14	AnnotatorNotes T45	DOID:0060548
+T46	Collection 1325 1396	luminal B patients from Lebanon, Tunisia, and Morocco, and in luminal A
+R4	Association Arg1:T43 Arg2:T46	
+T47	Biomarker 1464 1480	KRT18 expression
+T22	Biomarker 1512 1526	clinical stage
+T48	Biomarker 1528 1539	tumor stage
+T49	Biomarker 1545 1561	metastasis stage
+T50	Biomarker 1617 1638	high KRT18 expression
+T51	Biomarker 1675 1695	positive lymph nodes
+T52	Biomarker 1697 1720	advanced clinical stage
+#10	AnnotatorNotes T12	C488421
+R5	Association Arg1:T12 Arg2:T13	

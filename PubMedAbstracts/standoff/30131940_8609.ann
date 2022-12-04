@@ -1,0 +1,70 @@
+T0	Chemical 30 39	Guanylate
+T1	Chemical 115 124	guanylate
+T10	Chemical 1109 1113	cGMP
+T11	Chemical 1144 1147	Na⁺
+T12	Chemical 1148 1150	H⁺
+T13	Chemical 1182 1185	Na⁺
+T15	Disease 1376 1394	secretory diarrhea
+#7	AnnotatorNotes T15	DOID:0050129
+T16	Disease 1491 1513	constipation syndromes
+#8	AnnotatorNotes T16	DOID:2089
+T17	Disease 1599 1630	chronic idiopathic constipation
+#9	AnnotatorNotes T17	not found
+T18	Disease 1635 1684	constipation-predominant irritable bowel syndrome
+#10	AnnotatorNotes T18	not found
+T19	Drug 1686 1697	linaclotide
+T2	Chemical 175 184	guanylate
+T20	Drug 1739 1750	plecanatide
+T22	Drug 1818 1829	uroguanylin
+T3	Chemical 213 222	guanylate
+T4	Disease 733 752	traveler's diarrhea
+#17	AnnotatorNotes T4	not found
+T6	Chemical 847 851	cGMP
+T7	Chemical 862 866	cGMP
+T9	Chemical 1028 1030	Cl
+T23	Gene-Protein 51 57	GUCY2C
+#1	AnnotatorNotes T23	HGNC:4688
+T24	Gene-Protein 30 49	Guanylate cyclase C
+#2	AnnotatorNotes T24	HGNC:4688
+T25	Gene-Protein 63 69	GUCY2C
+T26	Gene-Protein 280 286	GUCY2C
+T27	Gene-Protein 612 618	GUCY2C
+T28	Gene-Protein 1531 1537	GUCY2C
+T29	GeneFamily 115 133	guanylate cyclases
+#3	AnnotatorNotes T29	family:819
+T30	Gene-Protein 1427 1433	GUCY2C
+T31	ProteinDomain 477 512	ligand-binding extracellular domain
+T32	ProteinDomain 549 579	intracellular catalytic domain
+T33	Biomarker 612 618	GUCY2C
+#4	AnnotatorNotes T33	C000613654
+R1	Risk-Factor Arg1:T33 Arg2:T4	
+T8	Gene-Protein 1164 1168	NHE3
+#5	AnnotatorNotes T8	HGNC:11073
+T34	Gene-Protein 1144 1162	Na⁺/H⁺ exchanger 3
+#6	AnnotatorNotes T34	HGNC:11073
+T5	Biomarker 1427 1433	GUCY2C
+R2	Association Arg1:T5 Arg2:T16	
+T14	Drug-Class 1531 1546	GUCY2C agonists
+T35	Collection 1599 1684	chronic idiopathic constipation and constipation-predominant irritable bowel syndrome
+R3	Response Arg1:T14 Arg2:T35	
+#11	AnnotatorNotes T19	CHEMBL3301675
+T36	Drug 1699 1707	Linzess™
+#12	AnnotatorNotes T36	CHEMBL3301675
+#13	AnnotatorNotes T20	CHEMBL2103867
+T37	Drug 1752 1761	Trulance™
+#14	AnnotatorNotes T37	CHEMBL2103867
+T21	Gene-Protein 1803 1809	GUYC2C
+#15	AnnotatorNotes T22	C084362
+T38	GeneFamily 167 192	soluble guanylate cyclase
+#16	AnnotatorNotes T38	family:820
+T39	GeneFamily 213 239	guanylate cyclases A and B
+#18	AnnotatorNotes T39	not found, not found
+T40	GeneFamily 147 155	cyclases
+#20	AnnotatorNotes T40	not found
+T41	ProteinDomain 804 820	catalytic domain
+T42	Gene-Protein 937 988	cystic fibrosis transmembrane conductance regulator
+#21	AnnotatorNotes T42	HGNC:1884
+T43	Gene-Protein 990 994	CFTR
+#22	AnnotatorNotes T43	HGNC:1884
+T46	Collection 1686 1761	linaclotide (Linzess™) ( 23 – 25 ) an ST analog, and plecanatide (Trulance™
+R4	Response Arg1:T46 Arg2:T35	

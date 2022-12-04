@@ -1,0 +1,58 @@
+T0	Disease 50 52	ED
+T1	Disease 56 58	DM
+T10	Biomarker 481 504	Endothelial dysfunction
+T11	Chemical 545 557	nitric oxide
+T12	Chemical 616 628	nitric oxide
+T13	Chemical 697 720	Reactive oxygen species
+T14	Chemical 857 870	peroxynitrite
+T15	Chemical 1000 1043	nicotinamide adenine dinucleotide phosphate
+T16	Chemical 1045 1050	NADPH
+T17	Disease 1123 1127	T2DM
+T18	Biomarker 1166 1189	endothelial dysfunction
+T2	Disease 135 137	DM
+T3	Disease 190 197	T1DM ED
+#15	AnnotatorNotes T3	DOID:9744,DOID:1875
+T6	Disease 261 265	T1DM
+#18	AnnotatorNotes T6	DOID:9744
+T7	Disease 270 274	T2DM
+#19	AnnotatorNotes T7	DOID:9352
+T8	Biomarker 363 386	endothelial dysfunction
+#1	AnnotatorNotes T0	DOID:1875
+#2	AnnotatorNotes T1	DOID:9351
+A1	Conjunction T3
+T21	Disease 202 209	T2DM ED
+A2	Conjunction T21
+#4	AnnotatorNotes T21	DOID:9352, DOID:1875
+T4	Disease 284 302	insulin resistance
+#5	AnnotatorNotes T4	D007333
+T5	Disease 460 467	T2DM ED
+A3	Conjunction T5
+T9	Biomarker 391 417	increased oxidative stress
+T22	Collection 363 417	endothelial dysfunction and increased oxidative stress
+R1	Association Arg1:T22 Arg2:T5	
+T23	Gene-Protein 604 637	endothelial nitric oxide synthase
+#3	AnnotatorNotes T23	HGNC:7876
+T24	Gene-Protein 639 643	eNOS
+#6	AnnotatorNotes T24	HGNC:7876
+#7	AnnotatorNotes T8	not found
+#8	AnnotatorNotes T10	not found
+T25	Chemical 754 756	NO
+T26	Chemical 559 561	NO
+T27	Chemical 820 822	NO
+T28	Gene-Protein 882 886	eNOS
+T29	Gene-Protein 949 953	eNOS
+T30	Disease 1213 1220	T2DM ED
+A4	Conjunction T30
+R2	Association Arg1:T18 Arg2:T30	
+T19	Disease 1265 1272	T2DM ED
+A5	Conjunction T19
+T20	Biomarker 969 995	increased oxidative stress
+T31	GeneFamily 1000 1059	nicotinamide adenine dinucleotide phosphate (NADPH) oxidase
+#9	AnnotatorNotes T31	not found
+T32	Gene-Protein 284 291	insulin
+#10	AnnotatorNotes T32	HGNC:6081
+T33	Chemical 682 684	NO
+T34	Chemical 722 725	ROS
+T35	Biomarker 307 322	body mass index
+#11	AnnotatorNotes T35	D015992
+T36	Biomarker 533 578	decrease in nitric oxide (NO) bioavailability

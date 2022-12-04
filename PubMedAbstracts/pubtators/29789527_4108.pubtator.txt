@@ -1,0 +1,46 @@
+29789527_4108|t|RSS_IDENT_p_29789527_b_1_1_4
+29789527_4108|a| The role of RCC1 in carcinoma is uncertain. RCC1 was identified as being overexpressed in mantle-cell lymphoma ¹⁶ . Another report showed that RCC1 expression was significantly higher in lung adenocarcinoma tissues compared with adjacent normal tissues ¹⁷ . These results suggest that RCC1 may promote cancer formation. Proteomic profiling revealed that RCC1 was decreased in HepG2 hepatoma cells induced with 6-bromine-5-hydroxy-4-methoxybenzaldehyde ¹⁸ . Another report demonstrated that RCC1 expression was significantly lower in gastric carcinoma tissues and that methylation-induced silencing of RCC1 expression was associated with tumorigenesis and depth of invasion in gastric cancer, suggesting that RCC1 may be a tumor suppressor in gastric carcinoma ¹⁹ . Genome-wide transcriptional analysis of the carboplatin response in chemo-sensitive and chemo-resistant ovarian cancer cells indicated that RCC1 expression was higher in carboplatin-sensitive cells ²⁰ . However, in colorectal carcinoma cells, RCC1 was reported to promote doxorubicin resistance ¹⁵ . All of these data indicate that differences in RCC1 expression and function may depend on the type of tumor. Importantly, whole genome expression profiling of progressive stages of cervical cancer indicated that RCC1 was overexpressed in International Federation of Gynaecology and Obstetrics (FIGO) Stage III cervical cancer tissues compared to normal cervix ²¹ . However, the role of RCC1 in cervical cancer and in HPV E7-expressing cells is largely unknown. 
+29789527_4108	42	46	RCC1	Gene-protein	HGNC:1913
+29789527_4108	50	59	carcinoma	Disease	DOID:305
+29789527_4108	74	78	RCC1	Gene-protein
+29789527_4108	74	116	RCC1 was identified as being overexpressed	Biomarker
+29789527_4108	120	140	mantle-cell lymphoma	Disease	DOID:0050746
+29789527_4108	173	177	RCC1	Gene-protein
+29789527_4108	173	213	RCC1 expression was significantly higher	Biomarker
+29789527_4108	217	236	lung adenocarcinoma	Disease	DOID:3910
+29789527_4108	315	319	RCC1	Gene-protein
+29789527_4108	315	319	RCC1	Biomarker	C062521
+29789527_4108	332	338	cancer	Disease	DOID:162
+29789527_4108	384	388	RCC1	Gene-protein
+29789527_4108	384	402	RCC1 was decreased	Biomarker
+29789527_4108	406	411	HepG2	Cellline
+29789527_4108	412	420	hepatoma	Disease	DOID:684
+29789527_4108	440	481	6-bromine-5-hydroxy-4-methoxybenzaldehyde	Drug	C515564
+29789527_4108	520	524	RCC1	Gene-protein
+29789527_4108	520	559	RCC1 expression was significantly lower	Biomarker
+29789527_4108	563	580	gastric carcinoma	Disease	DOID:5517
+29789527_4108	598	646	methylation-induced silencing of RCC1 expression	Drug	not found
+29789527_4108	631	635	RCC1	Gene-protein
+29789527_4108	706	720	gastric cancer	Disease	DOID:10534
+29789527_4108	738	742	RCC1	Gene-protein
+29789527_4108	772	789	gastric carcinoma	Disease
+29789527_4108	839	850	carboplatin	Drug	CHEMBL1351
+29789527_4108	899	913	ovarian cancer	Disease	DOID:2394
+29789527_4108	935	939	RCC1	Gene-protein
+29789527_4108	935	961	RCC1 expression was higher	Biomarker
+29789527_4108	965	976	carboplatin	Drug
+29789527_4108	1010	1030	colorectal carcinoma	Disease	DOID:0080199
+29789527_4108	1038	1042	RCC1	Gene-protein
+29789527_4108	1038	1042	RCC1	Biomarker
+29789527_4108	1067	1078	doxorubicin	Drug	CHEMBL53463
+29789527_4108	1142	1146	RCC1	Gene-protein
+29789527_4108	1142	1157	RCC1 expression	Biomarker
+29789527_4108	1197	1202	tumor	Disease	DOID:162
+29789527_4108	1276	1291	cervical cancer	Disease	DOID:4362
+29789527_4108	1307	1311	RCC1	Gene-protein
+29789527_4108	1307	1329	RCC1 was overexpressed	Biomarker
+29789527_4108	1395	1420	Stage III cervical cancer	Disease	not found
+29789527_4108	1481	1485	RCC1	Gene-protein
+29789527_4108	1489	1504	cervical cancer	Disease
+29789527_4108	1512	1518	HPV E7	Cellline
+

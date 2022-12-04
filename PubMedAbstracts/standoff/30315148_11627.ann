@@ -1,0 +1,84 @@
+T0	Disease 64 78	bladder cancer
+#1	AnnotatorNotes T0	DOID:11054
+T10	Disease 699 705	cancer
+#3	AnnotatorNotes T10	DOID:162
+T11	Disease 730 746	laryngeal cancer
+#4	AnnotatorNotes T11	DOID:2598
+T13	Disease 795 801	cancer
+T15	Disease 872 889	urothelial cancer
+#6	AnnotatorNotes T15	DOID:6933
+T18	Disease 1103 1110	cancers
+#8	AnnotatorNotes T18	DOID:162
+T19	Chemical 1383 1403	phosphatidylinositol
+T20	Disease 1435 1446	lung cancer
+#10	AnnotatorNotes T20	DOID:1324
+T22	Disease 1512 1517	tumor
+#11	AnnotatorNotes T22	DOID:162
+T3	Disease 302 305	UBC
+T5	Disease 538 541	UBC
+T6	Gene-Protein 616 620	B7H1
+T8	Disease 640 643	UBC
+#9	AnnotatorNotes T3	DOID:11054
+T1	Gene-Protein 268 272	TLR4
+#2	AnnotatorNotes T1	HGNC:11850
+T2	Gene-Protein 389 394	STAT1
+#12	AnnotatorNotes T2	HGNC:11362
+T4	GeneFamily 385 388	MEK
+#13	AnnotatorNotes T4	not found
+T7	Gene-Protein 379 384	MyD88
+#14	AnnotatorNotes T7	HGNC:7562
+T9	Gene-Protein 421 425	TLR4
+T12	GeneFamily 248 266	toll-like receptor
+#15	AnnotatorNotes T12	family:948
+T14	Gene-Protein 567 571	B7H1
+#16	AnnotatorNotes T14	HGNC:17635
+T21	Gene-Protein 662 666	B7H1
+T23	Gene-Protein 766 770	B7H1
+T16	Gene-Protein 891 895	B7H1
+T24	Gene-Protein 1076 1080	B7H1
+T25	Gene-Protein 1481 1485	B7H1
+T26	Gene-Protein 843 847	CD83
+#17	AnnotatorNotes T26	HGNC:1703
+T27	Gene-Protein 848 853	CD200
+#18	AnnotatorNotes T27	HGNC:7203
+T28	Gene-Protein 949 952	CD4
+#19	AnnotatorNotes T28	HGNC:1678
+T29	Gene-Protein 958 961	CD8
+#20	AnnotatorNotes T29	HGNC:1706
+T30	GeneFamily 1028 1037	cytokines
+#21	AnnotatorNotes T30	not found
+T31	GeneFamily 1112 1121	Cytokines
+#22	AnnotatorNotes T31	not found
+T32	Gene-Protein 1189 1194	TNF-α
+#23	AnnotatorNotes T32	HGNC:11892
+T33	Gene-Protein 1199 1204	INF-γ
+#24	AnnotatorNotes T33	HGNC:5438
+T34	Gene-Protein 1243 1248	TNF-α
+T35	Gene-Protein 1253 1258	INF-γ
+T36	Gene-Protein 1267 1272	PD-L1
+#25	AnnotatorNotes T36	HGNC:17635
+T37	GeneFamily 1356 1359	JAK
+#26	AnnotatorNotes T37	family:1459
+T38	GeneFamily 1291 1303	Janus kinase
+#27	AnnotatorNotes T38	family:1459
+T39	Gene-Protein 1304 1354	signal transducer and activator of transcription 3
+#28	AnnotatorNotes T39	HGNC:11364
+T40	Gene-Protein 1360 1365	STAT3
+#29	AnnotatorNotes T40	HGNC:11364
+T41	GeneFamily 1414 1418	PI3K
+#30	AnnotatorNotes T41	family:831
+T42	GeneFamily 1383 1412	phosphatidylinositol 3-kinase
+#31	AnnotatorNotes T42	family:831
+T43	GeneFamily 1420 1423	AKT
+#32	AnnotatorNotes T43	family:1900
+T44	Biomarker 1481 1485	B7H1
+R1	Association Arg1:T44 Arg2:T22	
+T17	Biomarker 891 924	B7H1 was expressed at high levels
+R2	Association Arg1:T17 Arg2:T15	
+T45	Biomarker 662 686	B7H1 is highly expressed
+R3	Association Arg1:T45 Arg2:T10	
+T46	Biomarker 616 620	B7H1
+R4	Association Arg1:T46 Arg2:T8	
+T47	Biomarker 248 298	toll-like receptor (TLR4) expression was decreased
+R5	Association Arg1:T47 Arg2:T3	
+#7	AnnotatorNotes T46	C423236

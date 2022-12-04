@@ -1,0 +1,43 @@
+29330520_2072|t|RSS_IDENT_p_29330520_b_1_1_3
+29330520_2072|a| Homocysteine (Hcy), a homologue of the amino acid cysteine, is a sulfurcontaining amino acid, which can be recycled to methionine or trans-sulfurated to cystathionine required for pyridoxial-5phosphate ⁴ . Raised concentration of Hcy has been suggested as an independent risk factor for stroke, especially in the Chinese hypertension patients ⁵ . The concentration of Hcy is known to be influenced by a common variant of methylenetetrahydrofolate reductase (MTHFR) C677T ⁶ , in which T/T genotype leads to a reduction in enzyme activity, resulting in decreased folate level and increased Hcy. It has been reported that the effect of Hcy on stroke was siginificantly modified by the MTHFR C677T genotype ⁷ . However, there is little study focusing on the joint effect of Hcy and MTHFR C677T with ICAS or ECAS. Hypertension has been associated with both ischemic and hemorrhagic forms of stroke, as well as with ICAS and ECAS ⁸ , ⁹ . We hereby aim to investigate the association of Hcy concentration with ICAS and ECAS in hypertensive patients without stroke in Chinese population; furthermore, we sought to examine the effect of MTHFR C677T on their relationship. 
+29330520_2072	30	42	Homocysteine	Chemical
+29330520_2072	44	47	Hcy	Chemical
+29330520_2072	80	88	cysteine	Chemical
+29330520_2072	149	159	methionine	Chemical
+29330520_2072	183	196	cystathionine	Chemical
+29330520_2072	210	231	pyridoxial-5phosphate	Chemical
+29330520_2072	236	263	Raised concentration of Hcy	Biomarker
+29330520_2072	260	263	Hcy	Chemical
+29330520_2072	317	323	stroke	Disease	D020521
+29330520_2072	351	363	hypertension	Disease	DOID:10763
+29330520_2072	398	401	Hcy	Chemical
+29330520_2072	451	476	methylenetetrahydrofolate	Chemical
+29330520_2072	451	486	methylenetetrahydrofolate reductase	Gene-protein	HGNC:7436
+29330520_2072	488	493	MTHFR	Gene-protein	HGNC:7436
+29330520_2072	495	500	C677T	Variant
+29330520_2072	514	526	T/T genotype	Biomarker
+29330520_2072	581	603	decreased folate level	Biomarker
+29330520_2072	591	597	folate	Chemical
+29330520_2072	608	621	increased Hcy	Biomarker
+29330520_2072	618	621	Hcy	Chemical
+29330520_2072	663	666	Hcy	Chemical
+29330520_2072	670	676	stroke	Disease
+29330520_2072	712	717	MTHFR	Gene-protein
+29330520_2072	718	723	C677T	Variant
+29330520_2072	800	803	Hcy	Chemical
+29330520_2072	808	813	MTHFR	Gene-protein
+29330520_2072	814	819	C677T	Variant
+29330520_2072	825	829	ICAS	Disease	not found
+29330520_2072	833	837	ECAS	Disease	not found
+29330520_2072	839	851	Hypertension	Biomarker	D006973
+29330520_2072	882	922	ischemic and hemorrhagic forms of stroke	Disease	D000083242, D000083302
+29330520_2072	882	953	ischemic and hemorrhagic forms of stroke, as well as with ICAS and ECAS	Collection
+29330520_2072	940	944	ICAS	Disease
+29330520_2072	949	953	ECAS	Disease
+29330520_2072	995	1027	association of Hcy concentration	Biomarker
+29330520_2072	1010	1013	Hcy	Chemical
+29330520_2072	1033	1062	ICAS and ECAS in hypertensive	Disease	DOID:10763	Conjunction
+29330520_2072	1080	1086	stroke	Disease
+29330520_2072	1158	1163	MTHFR	Gene-protein
+29330520_2072	1164	1169	C677T	Variant
+

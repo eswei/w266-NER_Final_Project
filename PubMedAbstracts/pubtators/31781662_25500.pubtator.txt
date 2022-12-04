@@ -1,0 +1,28 @@
+31781662_25500|t|RSS_IDENT_p_31781662_b_1_4_6
+31781662_25500|a| As the results showed in the multiple stepwise regression analysis, eGFR, a good indicator for evaluation of renal injury, was another important influencing factor of TCSS in addition to duration and genomic DNA methylation. Diabetic renal injury and neuropathy have many of the same pathological mechanisms, such as small vessel disease and inflammation [ 24 ]. So it was commonly found in clinical practice that the incidence of DPN in patients with diabetic renal injury is high [ 25 ] and the low level eGFR is closely associated with DPN [ 19 ]. Furthermore, it was reported that aberrant DNA methylation in the proximal tubules was related to diabetic nephropathy [ 26 ]. Then, we need to know if genomic DNA methylation is a specific risk factor for DPN, or just a contributing factor to all the chronic complications of diabetes. We divided the population into the nonrenal injury group and renal injury group and compared the levels of genomic DNA methylation between the two groups. The results showed that the levels of genomic DNA methylation did not alter significantly in the renal injury group, when compared to the nonrenal injury group. From the results, we consider that genomic DNA methylation is a relative specific risk factor of DPN. Regrettably, retinopathy, the classic diabetic microangiopathy, was not accounted in the present study due to conditional restrictions.
+31781662_25500	98	102	eGFR	Biomarker
+31781662_25500	139	151	renal injury	Disease	DOID:557
+31781662_25500	255	276	Diabetic renal injury	Disease	D003928
+31781662_25500	255	291	Diabetic renal injury and neuropathy	Collection
+31781662_25500	281	291	neuropathy	Disease	DOID:870
+31781662_25500	347	367	small vessel disease	Biomarker	D017566
+31781662_25500	347	384	small vessel disease and inflammation	Collection
+31781662_25500	372	384	inflammation	Biomarker	D007249
+31781662_25500	448	464	incidence of DPN	Biomarker
+31781662_25500	482	503	diabetic renal injury	Disease	D003928
+31781662_25500	527	541	low level eGFR	Biomarker
+31781662_25500	569	572	DPN	Disease	DOID:9743
+31781662_25500	615	663	aberrant DNA methylation in the proximal tubules	Biomarker
+31781662_25500	679	699	diabetic nephropathy	Disease	D003928
+31781662_25500	733	756	genomic DNA methylation	Biomarker
+31781662_25500	787	790	DPN	Disease
+31781662_25500	858	866	diabetes	Disease	not found
+31781662_25500	929	941	renal injury	Disease
+31781662_25500	965	998	levels of genomic DNA methylation	Biomarker
+31781662_25500	1051	1084	levels of genomic DNA methylation	Biomarker
+31781662_25500	1120	1132	renal injury	Disease
+31781662_25500	1219	1242	genomic DNA methylation	Biomarker
+31781662_25500	1281	1284	DPN	Disease
+31781662_25500	1299	1310	retinopathy	Disease	DOID:8947
+31781662_25500	1316	1348	classic diabetic microangiopathy	Disease	DOID:11713
+

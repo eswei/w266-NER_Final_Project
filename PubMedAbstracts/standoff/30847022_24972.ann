@@ -1,0 +1,94 @@
+T1	Chemical 152 158	Serine
+T10	Chemical 493 499	Lysine
+T11	Chemical 528 536	Tyrosine
+T12	Chemical 546 553	Leucine
+T16	Chemical 954 963	Threonine
+T18	Chemical 998 1006	Tyrosine
+T2	Chemical 159 168	threonine
+T3	Chemical 192 200	Cysteine
+T4	Disease 224 227	CLL
+#12	AnnotatorNotes T4	DOID:1040
+T5	Disease 228 256	Chronic lymphocytic leukemia
+#13	AnnotatorNotes T5	DOID:1040
+T7	Chemical 346 359	Glutamic acid
+T19	GeneFamily 91 94	AKT
+T20	GeneFamily 95 111	Protein kinase B
+T21	Gene-Protein 112 117	ARID2
+T22	Gene-Protein 118 146	AT-Rich Interaction Domain 2
+T23	Gene-Protein 147 151	BRAF
+T24	Gene-Protein 152 189	Serine/threonine-protein kinase B-raf
+T25	Gene-Protein 257 263	CTNNB1
+T26	Gene-Protein 264 278	Catenin Beta 1
+T6	Gene-Protein 360 365	GNA11
+T8	Gene-Protein 393 397	GNAQ
+T9	Gene-Protein 500 503	KIT
+T27	Gene-Protein 554 560	MAP2K1
+#1	AnnotatorNotes T27	HGNC:6840
+T28	GeneFamily 561 564	MEK
+#2	AnnotatorNotes T28	not found
+T29	GeneFamily 565 569	MAPK
+#3	AnnotatorNotes T29	family:651
+T30	Gene-Protein 570 611	Mitogen-Activated Protein Kinase Kinase 1
+#4	AnnotatorNotes T30	HGNC:6840
+T31	Gene-Protein 612 615	NF1
+#7	AnnotatorNotes T31	HGNC:7765
+T32	Gene-Protein 617 636	Neurofibromatosis 1
+#9	AnnotatorNotes T32	HGNC:7765
+T13	Gene-Protein 637 641	NRAS
+#5	AnnotatorNotes T13	HGNC:7989
+T14	Gene-Protein 642 682	neuroblastoma RAS viral oncogene homolog
+#6	AnnotatorNotes T14	HGNC:7989
+T33	GeneFamily 743 747	PI3K
+#10	AnnotatorNotes T33	family:831
+T34	GeneFamily 748 773	Phosphoinositide 3-kinase
+#11	AnnotatorNotes T34	family:831
+T35	Gene-Protein 774 778	PTEN
+#14	AnnotatorNotes T35	HGNC:9588
+T36	Gene-Protein 779 809	Phosphatase And Tensin Homolog
+#15	AnnotatorNotes T36	HGNC:9588
+T15	Gene-Protein 279 285	DICER1
+#16	AnnotatorNotes T15	HGNC:17098
+T37	Gene-Protein 917 922	SF3B1
+#17	AnnotatorNotes T37	HGNC:10768
+T38	Gene-Protein 923 951	Splicing factor 3B subunit 1
+#18	AnnotatorNotes T38	HGNC:10768
+T39	Gene-Protein 842 847	SETD2
+#19	AnnotatorNotes T39	HGNC:18420
+T40	Gene-Protein 848 916	SET(Su(var)3-9, Enhancer-of-zeste and Trithorax) Domain Containing 2
+#20	AnnotatorNotes T40	HGNC:18420
+T41	Gene-Protein 964 968	TP53
+#21	AnnotatorNotes T41	HGNC:11998
+T42	Gene-Protein 969 986	Tumor protein p53
+#22	AnnotatorNotes T42	HGNC:11998
+#8	AnnotatorNotes T8	HGNC:4390
+T17	Gene-Protein 398 423	G Protein Subunit Alpha Q
+#23	AnnotatorNotes T17	HGNC:4390
+#24	AnnotatorNotes T6	HGNC:4379
+T43	Gene-Protein 366 392	G Protein Subunit Alpha 11
+#25	AnnotatorNotes T43	HGNC:4379
+#26	AnnotatorNotes T26	HGNC:2514
+#27	AnnotatorNotes T25	HGNC:2514
+#28	AnnotatorNotes T23	HGNC:1097
+#29	AnnotatorNotes T24	HGNC:1097
+#30	AnnotatorNotes T19	family:1900
+#31	AnnotatorNotes T20	family:1900
+#32	AnnotatorNotes T21	HGNC:18037
+#33	AnnotatorNotes T22	HGNC:18037
+T44	Gene-Protein 286 302	Ribonuclease III
+#34	AnnotatorNotes T44	HGNC:17098
+T45	Chemical 491 492	K
+T46	Chemical 190 191	C
+T47	Chemical 424 425	H
+T48	Chemical 426 435	Histidine
+T49	Gene-Protein 504 543	Proto-Oncogene Receptor Tyrosine Kinase
+#35	AnnotatorNotes T9	HGNC:6342
+#36	AnnotatorNotes T49	HGNC:6342
+T50	Chemical 544 545	L
+T51	Gene-Protein 703 704	P
+T52	Chemical 705 712	Proline
+T53	Chemical 810 811	R
+T54	Chemical 812 820	Arginine
+T55	Chemical 987 988	V
+T56	Chemical 989 995	Valine
+T57	Chemical 996 997	Y
+T58	Chemical 952 953	T

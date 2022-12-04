@@ -1,0 +1,84 @@
+T1	Chemical 89 90	O
+T10	Chemical 358 359	O
+T11	Biomarker 417 423	GALNT2
+T12	Disease 467 490	hepatocelluar carcinoma
+#3	AnnotatorNotes T12	DOID:305
+T13	Disease 502 516	oral carcinoma
+#4	AnnotatorNotes T13	DOID:0050866
+T14	Biomarker 525 554	Abberant expression of GALNT3
+T15	Disease 570 575	tumor
+T16	Disease 591 602	lung cancer
+#6	AnnotatorNotes T16	DOID:1324
+T17	Disease 611 628	gastric carcinoma
+#7	AnnotatorNotes T17	DOID:5517
+T18	Disease 640 643	CRC
+T19	Biomarker 652 658	GALNT6
+T20	Disease 705 718	breast cancer
+#9	AnnotatorNotes T20	DOID:1612
+T21	Chemical 811 812	O
+T22	Chemical 997 998	O
+T23	Biomarker 1015 1107	Mucin1 (MUC1) exists as a heterodimeric transmembrane protein, and the aberrantly expression
+T24	Biomarker 1176 1189	Abnormal MUC1
+T25	Disease 1222 1239	pancreatic cancer
+#12	AnnotatorNotes T25	DOID:1793
+T26	Biomarker 1260 1264	MUC1
+T27	Disease 1328 1331	CRC
+T29	Chemical 1425 1426	O
+T3	Biomarker 160 184	abnormal O-glycosylation
+T30	Disease 1448 1473	epithelial ovarian cancer
+#15	AnnotatorNotes T30	DOID:2152
+T31	RNA-Noncoding 1540 1549	linc01296
+T32	Biomarker 1540 1574	linc01296/miR-26a/GALNT3 crosstalk
+T33	Disease 1588 1591	CRC
+T34	Chemical 1642 1643	O
+T4	Chemical 169 170	O
+T5	Disease 232 237	tumor
+#20	AnnotatorNotes T5	DOID:162
+T6	Chemical 250 253	UDP
+T7	Chemical 254 280	N-acetyl-α-D-galactosamine
+R1	Association Arg1:T3 Arg2:T5	
+T2	Collection 467 516	hepatocelluar carcinoma [ 14 ] and oral carcinoma
+R2	Association Arg1:T11 Arg2:T2	
+T9	Gene-Protein 417 423	GALNT2
+#1	AnnotatorNotes T9	HGNC:4124
+#2	AnnotatorNotes T11	C023218
+T35	Collection 570 643	tumor progression of lung cancer [ 16 ], gastric carcinoma [ 17 ] and CRC
+R3	Association Arg1:T14 Arg2:T35	
+T36	Gene-Protein 548 554	GALNT3
+#8	AnnotatorNotes T36	HGNC:4125
+T37	Gene-Protein 652 658	GALNT6
+#5	AnnotatorNotes T37	HGNC:4128
+#10	AnnotatorNotes T19	C023218
+R4	Association Arg1:T19 Arg2:T20	
+T38	GeneFamily 741 746	GALNT
+#11	AnnotatorNotes T38	family:433
+T39	GeneFamily 858 864	mucins
+#13	AnnotatorNotes T39	family:648
+T40	GeneFamily 873 879	Mucins
+#14	AnnotatorNotes T40	family:648
+T41	Gene-Protein 1023 1027	MUC1
+#16	AnnotatorNotes T41	 HGNC:7508
+T42	Gene-Protein 1015 1021	Mucin1
+#17	AnnotatorNotes T42	 HGNC:7508
+T43	Gene-Protein 1185 1189	MUC1
+T44	Gene-Protein 1260 1264	MUC1
+T45	Gene-Protein 1440 1444	MUC1
+T46	Gene-Protein 1657 1661	MUC1
+T47	Gene-Protein 1375 1381	GALNT3
+T48	Gene-Protein 1558 1564	GALNT3
+R5	Association Arg1:T24 Arg2:T25	
+R6	Association Arg1:T26 Arg2:T27	
+T49	Biomarker 1375 1381	GALNT3
+R7	Association Arg1:T49 Arg2:T30	
+#19	AnnotatorNotes T31	HGNC:32188
+T28	RNA-Noncoding 1550 1557	miR-26a
+#21	AnnotatorNotes T28	HGNC:31610
+R8	Association Arg1:T32 Arg2:T33	
+#18	AnnotatorNotes T49	C023218
+T50	GeneFamily 282 328	poly peptide-N-acetylgalactosaminyltransferase
+#22	AnnotatorNotes T50	family:433
+#23	AnnotatorNotes T18	DOID:9256
+T51	Disease 1161 1174	tumorigenesis
+#24	AnnotatorNotes T51	DOID:162
+R9	Association Arg1:T23 Arg2:T51	
+#25	AnnotatorNotes T26	D018396

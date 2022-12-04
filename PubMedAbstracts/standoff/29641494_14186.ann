@@ -1,0 +1,56 @@
+T0	Drug 81 107	maternal melatonin therapy
+T10	Disease 533 545	hypertension
+T11	Chemical 590 594	ADMA
+T12	Chemical 599 603	SDMA
+T13	Chemical 621 631	l-arginine
+T14	Chemical 635 639	ADMA
+T15	Chemical 670 674	ADMA
+T16	Chemical 679 683	SDMA
+T17	Chemical 722 732	l-arginine
+T18	Chemical 736 740	ADMA
+T19	Drug 867 876	melatonin
+T20	Chemical 895 899	ADMA
+T21	Disease 920 932	hypertension
+T22	Disease 979 991	hypertension
+T24	Chemical 1225 1242	dimethyl fumarate
+T25	Chemical 1270 1283	dexamethasone
+T26	Chemical 1345 1349	ADMA
+T27	Chemical 1354 1358	SDMA
+T28	Chemical 1396 1406	l-arginine
+T29	Chemical 1410 1414	ADMA
+T3	Chemical 193 205	l-citrulline
+T31	Chemical 1517 1521	ADMA
+T32	Chemical 1553 1555	HF
+T33	Disease 1553 1590	HF/HS-induced programmed hypertension
+#28	AnnotatorNotes T33	not found
+T4	Drug 279 288	melatonin
+T5	Biomarker 346 359	NO deficiency
+T6	Chemical 376 388	l-citrulline
+T7	Chemical 403 413	l-arginine
+T8	Disease 429 441	hypertension
+T9	Drug 489 515	maternal melatonin therapy
+T34	Disease 111 123	hypertension
+#2	AnnotatorNotes T34	DOID:10763
+R1	Protects-from Arg1:T0 Arg2:T34	
+T35	Chemical 137 139	NO
+R2	Association Arg1:T5 Arg2:T8	
+T1	Biomarker 367 413	impaired l-citrulline conversion to l-arginine
+#1	AnnotatorNotes T4	CHEMBL45
+#4	AnnotatorNotes T0	not found
+R3	Protects-from Arg1:T9 Arg2:T10	
+T2	GeneFamily 702 713	NO synthase
+#3	AnnotatorNotes T2	not found
+T36	Chemical 758 760	NO
+R4	Protects-from Arg1:T19 Arg2:T22	
+T37	Chemical 945 947	NO
+T38	Chemical 900 902	NO
+T39	Drug 1083 1109	maternal melatonin therapy
+T23	Gene-Protein 1134 1138	Nrf2
+T40	Gene-Protein 1210 1214	NRF2
+T41	Drug 1444 1470	maternal melatonin therapy
+T30	Gene-Protein 1486 1490	Nrf2
+T42	Chemical 1522 1524	NO
+T43	Chemical 1556 1558	HS
+R5	Protects-from Arg1:T41 Arg2:T33	
+T44	Chemical 165 167	HS
+T45	Chemical 162 164	HF

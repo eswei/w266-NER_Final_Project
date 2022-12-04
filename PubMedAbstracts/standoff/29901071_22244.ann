@@ -1,0 +1,81 @@
+T0	Drug 30 38	Curcumin
+T1	Disease 115 121	cancer
+#2	AnnotatorNotes T1	DOID:162
+T10	Chemical 718 721	AMP
+T11	Disease 839 851	colon cancer
+#4	AnnotatorNotes T11	DOID:219
+T12	Drug 866 874	Curcumin
+T13	Chemical 991 1011	phosphatidylinositol
+T14	Drug 1085 1093	curcumin
+T15	Drug 1162 1170	Curcumin
+T16	Disease 1237 1239	BC
+T17	Drug 1280 1288	curcumin
+T18	Disease 1314 1316	BC
+T19	Drug 1450 1458	curcumin
+T2	Drug 298 306	curcumin
+T20	Disease 1477 1479	BC
+T21	Drug 1654 1662	curcumin
+T22	Disease 1676 1678	BC
+T24	Drug 1733 1741	curcumin
+T25	Disease 1749 1751	BC
+T4	Disease 369 371	BC
+#20	AnnotatorNotes T4	DOID:11054
+T6	Drug 477 485	Curcumin
+T7	Disease 625 642	pancreatic cancer
+#23	AnnotatorNotes T7	DOID:1793
+T8	Drug 657 665	Curcumin
+T9	Drug 689 703	5-fluorouracil
+#1	AnnotatorNotes T0	CHEMBL116438
+#3	AnnotatorNotes T2	CHEMBL116438
+T23	Gene-Protein 1226 1229	YAP
+T26	Gene-Protein 1230 1233	TAZ
+T27	Gene-Protein 1054 1057	TAZ
+#7	AnnotatorNotes T27	HGNC:11577
+T28	Gene-Protein 1050 1053	YAP
+#5	AnnotatorNotes T28	HGNC:30935
+T29	Gene-Protein 596 600	Skp2
+#6	AnnotatorNotes T29	HGNC:10901
+T30	Gene-Protein 618 621	p21
+#8	AnnotatorNotes T30	HGNC:42982
+T5	Gene-Protein 915 961	p21 and p27 cyclin-dependent kinase inhibitors
+#9	AnnotatorNotes T5	HGNC:1784,HGNC:1785
+R1	Response Arg1:T0 Arg2:T1	
+T31	Drug 341 365	Bacillus Calmette-Guerin
+#10	AnnotatorNotes T31	D001500
+T32	GeneFamily 384 389	NF-κB
+#11	AnnotatorNotes T32	family:1254
+R2	Synergy-Response Arg1:T2 Arg2:T4	
+R3	Synergy-Response Arg1:T31 Arg2:T4	
+R4	Response Arg1:T6 Arg2:T7	
+#12	AnnotatorNotes T9	CHEMBL185
+T3	Gene-Protein 747 753	Unc-51
+#14	AnnotatorNotes T3	not found
+T33	Gene-Protein 977 986	cyclin D1
+#15	AnnotatorNotes T33	HGNC:1582
+T35	GeneFamily 718 746	AMP-activated protein kinase
+#16	AnnotatorNotes T35	not found
+T36	GeneFamily 1022 1026	PI3K
+#17	AnnotatorNotes T36	family:831
+T37	GeneFamily 991 1020	phosphatidylinositol-3 kinase
+#18	AnnotatorNotes T37	family:831
+T38	GeneFamily 1028 1031	Akt
+#19	AnnotatorNotes T38	family:1900
+T39	Gene-Protein 1127 1134	Notch-1
+#21	AnnotatorNotes T39	HGNC:7881
+T40	Gene-Protein 1711 1716	Trop2
+#22	AnnotatorNotes T40	HGNC:11530
+R5	Response Arg1:T17 Arg2:T18	
+T41	GeneFamily 1355 1364	β-catenin
+#24	AnnotatorNotes T41	family:1542
+T42	Gene-Protein 1199 1203	KLF5
+#25	AnnotatorNotes T42	HGNC:6349
+R6	Synergy-Response Arg1:T9 Arg2:T11	
+R7	Synergy-Response Arg1:T8 Arg2:T11	
+R9	Response Arg1:T19 Arg2:T20	
+T43	Biomarker 1050 1081	YAP/TAZ are markedly suppressed
+R10	Response Arg1:T21 Arg2:T22	
+T44	Biomarker 1113 1153	expression of Notch-1 is also suppressed
+T34	Gene-Protein 403 424	tumor necrosis factor
+#13	AnnotatorNotes T34	HGNC:11892
+T45	GeneFamily 403 468	tumor necrosis factor-related apoptosis-inducing ligand receptors
+#26	AnnotatorNotes T45	not found

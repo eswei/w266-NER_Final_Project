@@ -1,0 +1,40 @@
+31814848_19198|t|RSS_IDENT_p_31814848_b_1_4_4
+31814848_19198|a| The results of RT-qPCR demonstrated that MIR100HG expression was increased in CRC tissues compared with normal tissues. Furthermore, MIR100HG expression in advanced stage (III–IV) CRC tissues was significantly increased compared with low stage (I–II) CRC tissues, which was consistent with a previous study from The Cancer Genome Atlas data repository ( 24 ). Subsequently, the association between high MIR100HG expression and the clinicopathological characteristics of patients with CRC was investigated. Previous studies on acute megakaryoblastic leukemia, early-stage cervical cancer and head and neck squamous cell carcinoma have reported that MIR100HG overexpression accelerates tumor malignancy and is associated with poor prognosis and survival ( 21 – 23 ). Similarly, the present study reported that MIR100HG overexpression was associated with poor prognosis and survival in patients with CRC. Furthermore, univariate and multivariate Cox regression analyses demonstrated that MIR100HG expression, AJCC stage, N classification, M classification and tumor differentiation were significantly associated with DFS and OS. Subsequently, in vitro cell function assays investigated the impact of MIR100HG on the migratory and invasive capacities of CRC cells. The results demonstrated that MIR100HG upregulation enhanced CRC cell migration and invasion in vitro, and liver metastasis in vivo. These findings suggested that MIR100HG may have crucial roles in CRC invasion and liver metastasis.
+31814848_19198	71	79	MIR100HG	Rna-noncoding	HGNC:39522
+31814848_19198	71	104	MIR100HG expression was increased	Biomarker
+31814848_19198	108	111	CRC	Disease	DOID:9256
+31814848_19198	163	171	MIR100HG	Rna-noncoding
+31814848_19198	163	182	MIR100HG expression	Biomarker
+31814848_19198	186	213	advanced stage (III–IV) CRC	Disease	not found
+31814848_19198	264	284	low stage (I–II) CRC	Disease	not found
+31814848_19198	428	452	high MIR100HG expression	Biomarker
+31814848_19198	433	441	MIR100HG	Rna-noncoding
+31814848_19198	514	517	CRC	Disease
+31814848_19198	556	587	acute megakaryoblastic leukemia	Disease	D007947
+31814848_19198	556	658	acute megakaryoblastic leukemia, early-stage cervical cancer and head and neck squamous cell carcinoma	Collection
+31814848_19198	589	616	early-stage cervical cancer	Disease	not found
+31814848_19198	621	658	head and neck squamous cell carcinoma	Disease	DOID:5520
+31814848_19198	678	686	MIR100HG	Rna-noncoding
+31814848_19198	678	701	MIR100HG overexpression	Biomarker
+31814848_19198	714	719	tumor	Disease	DOID:162
+31814848_19198	838	846	MIR100HG	Rna-noncoding
+31814848_19198	838	861	MIR100HG overexpression	Biomarker
+31814848_19198	927	930	CRC	Disease
+31814848_19198	1015	1023	MIR100HG	Rna-noncoding
+31814848_19198	1015	1034	MIR100HG expression	Biomarker
+31814848_19198	1015	1108	MIR100HG expression, AJCC stage, N classification, M classification and tumor differentiation	Collection
+31814848_19198	1036	1046	AJCC stage	Biomarker
+31814848_19198	1048	1064	N classification	Biomarker
+31814848_19198	1066	1082	M classification	Biomarker
+31814848_19198	1087	1092	tumor	Disease
+31814848_19198	1087	1108	tumor differentiation	Biomarker
+31814848_19198	1227	1235	MIR100HG	Rna-noncoding
+31814848_19198	1227	1235	MIR100HG	Biomarker
+31814848_19198	1280	1283	CRC	Disease
+31814848_19198	1321	1329	MIR100HG	Rna-noncoding
+31814848_19198	1321	1342	MIR100HG upregulation	Biomarker
+31814848_19198	1352	1355	CRC	Disease
+31814848_19198	1454	1462	MIR100HG	Rna-noncoding
+31814848_19198	1454	1462	MIR100HG	Biomarker
+31814848_19198	1489	1522	CRC invasion and liver metastasis	Disease	not found
+

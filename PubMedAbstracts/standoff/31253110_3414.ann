@@ -1,0 +1,65 @@
+T0	Chemical 194 213	uridine diphosphate
+T1	Disease 283 322	Crigler-Najjar’s syndrome type I and II
+#2	AnnotatorNotes T1	DOID:3803
+T10	Variant 1369 1377	463C > A
+T11	Variant 1395 1404	521 T > C
+T12	Disease 1445 1463	hyperbilirubinemia
+T13	Variant 1483 1491	388A > G
+T2	Disease 328 345	Gilberts syndrome
+#4	AnnotatorNotes T2	DOID:2739
+T3	Chemical 759 768	bilirubin
+T4	Chemical 1037 1046	bilirubin
+T5	Disease 1071 1089	hyperbilirubinemia
+#7	AnnotatorNotes T5	DOID:2741
+T6	Disease 1098 1112	Rotor Syndrome
+#8	AnnotatorNotes T6	DOID:2741
+T8	Chemical 1181 1190	bilirubin
+T9	Variant 1347 1355	388A > G
+T14	Disease 140 144	SNNJ
+#1	AnnotatorNotes T14	DOID:2383
+T15	Biomarker 54 75	genetic polymorphisms
+R1	Association Arg1:T15 Arg2:T14	
+T16	Gene-Protein 243 249	UGT1A1
+#5	AnnotatorNotes T16	HGNC:12530
+T17	Gene-Protein 194 241	uridine diphosphate glucuronosyltransferase 1A1
+#6	AnnotatorNotes T17	HGNC:12530
+T18	Collection 283 345	Crigler-Najjar’s syndrome type I and II, and Gilberts syndrome
+T19	Biomarker 194 241	uridine diphosphate glucuronosyltransferase 1A1
+#10	AnnotatorNotes T19	C418331
+R2	Association Arg1:T19 Arg2:T18	
+T21	Gene-Protein 529 534	OATP2
+#12	AnnotatorNotes T21	HGNC:10962
+T20	Gene-Protein 550 557	SLCO1B1
+#11	AnnotatorNotes T20	HGNC:10959
+T22	Gene-Protein 559 617	solute carrier organic anion transporter family member 1b1
+#13	AnnotatorNotes T22	HGNC:10959
+T23	Gene-Protein 631 689	solute carrier organic anion transporter family member 1B1
+#14	AnnotatorNotes T23	HGNC:10959
+T25	Biomarker 1029 1056	reduced bilirubin clearance
+R3	Association Arg1:T25 Arg2:T5	
+T26	Gene-Protein 1259 1266	SLCO1B1
+T27	Gene-Protein 1271 1278	SLCO1B3
+#15	AnnotatorNotes T27	 HGNC:10961
+T7	Collection 1161 1278	elevated conjugated bilirubin, is an example of a disease frequently associated with mutations in SLCO1B1 and SLCO1B3
+T28	Biomarker 1161 1190	elevated conjugated bilirubin
+R4	Association Arg1:T7 Arg2:T6	
+T29	Biomarker 1246 1278	mutations in SLCO1B1 and SLCO1B3
+T30	Variant 1342 1345	*1B
+T31	Variant 1365 1367	*4
+T32	Gene-Protein 1335 1342	SLCO1B1
+T33	Collection 1342 1356	*1B (388A > G)
+T34	Gene-Protein 1358 1365	SLCO1B1
+T35	Collection 1365 1378	*4 (463C > A)
+R5	Variant-Of Arg1:T34 Arg2:T35	
+R6	Variant-Of Arg1:T32 Arg2:T33	
+T36	Gene-Protein 1384 1391	SLCO1B1
+T37	Variant 1391 1393	*5
+T38	Collection 1391 1405	*5 (521 T > C)
+T39	Collection 1478 1492	*1B (388A > G)
+R7	Variant-Of Arg1:T36 Arg2:T38	
+T40	Gene-Protein 1471 1478	SLCO1B1
+T41	Variant 1478 1481	*1B
+R8	Association Arg1:T39 Arg2:T12	
+R9	Variant-Of Arg1:T40 Arg2:T39	
+T42	Gene-Protein 535 542	SLCO1B1
+#3	AnnotatorNotes T42	HGNC:10959

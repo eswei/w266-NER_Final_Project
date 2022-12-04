@@ -1,0 +1,92 @@
+T1	Disease 136 164	ischaemia/reperfusion injury
+#1	AnnotatorNotes T1	D015427
+T10	Disease 1000 1016	hepatic fibrosis
+#2	AnnotatorNotes T10	DOID:5082
+T11	Chemical 1090 1107	hydrogen peroxide
+T12	Chemical 1286 1296	Superoxide
+T13	Chemical 1323 1334	Glutathione
+T14	Chemical 1336 1339	GSH
+T15	Chemical 1353 1356	GSH
+T16	Chemical 1461 1469	hydroxyl
+T17	Chemical 1479 1496	hydrogen peroxide
+T18	Chemical 1501 1511	superoxide
+T19	Biomarker 1581 1620	TGF-β1-mediated nett persistence of ROS
+T2	Chemical 524 533	ascorbate
+T20	Biomarker 1637 1656	ROS/TGF-β1 positive
+T21	Disease 1736 1744	fibrosis
+#12	AnnotatorNotes T21	D005355
+T6	Chemical 893 898	NADPH
+T7	GeneFamily 893 907	NADPH oxidases
+T9	Disease 966 995	idiopathic pulmonary fibrosis
+#15	AnnotatorNotes T9	DOID:0050156
+T22	GeneFamily 30 35	TGF-β
+#3	AnnotatorNotes T22	family:1664
+T23	Chemical 45 63	Redox fibrosis ROS
+T24	Chemical 37 40	ROS
+T25	Chemical 252 255	ROS
+T26	Gene-Protein 279 285	TGF-β1
+#4	AnnotatorNotes T26	HGNC:11766
+T27	Gene-Protein 301 307	TGF-β1
+T28	Chemical 323 326	ROS
+T29	Gene-Protein 353 359	TGF-β1
+T30	Chemical 363 366	ROS
+T31	Gene-Protein 422 428	TGF-β1
+T3	GeneFamily 559 564	TGF-β
+T32	Gene-Protein 589 595	TGF-β1
+T33	Chemical 568 571	ROS
+T34	Gene-Protein 604 610	TGF-β2
+#5	AnnotatorNotes T34	HGNC:11768
+T35	Gene-Protein 614 620	TGF-β3
+#6	AnnotatorNotes T35	HGNC:11769
+T36	Chemical 641 644	ROS
+T4	Gene-Protein 733 739	TGF-β1
+T37	GeneFamily 796 801	TGF-β
+T5	Gene-Protein 856 862	TGF-β1
+#7	AnnotatorNotes T7	not found
+T38	GeneFamily 909 912	NOX
+#8	AnnotatorNotes T38	not found
+T8	Biomarker 915 946	TGF-β1-induced NOX 4 expression
+T39	Gene-Protein 915 921	TGF-β1
+T40	Gene-Protein 930 935	NOX 4
+#9	AnnotatorNotes T40	HGNC:7891
+T41	Collection 966 1016	idiopathic pulmonary fibrosis and hepatic fibrosis
+R1	Association Arg1:T8 Arg2:T41	
+T42	Gene-Protein 1037 1041	NOX4
+T43	Gene-Protein 1018 1024	TGF-β1
+T44	Gene-Protein 1061 1065	NOX4
+T45	Gene-Protein 1131 1137	TGF-β1
+T46	Gene-Protein 1231 1237	TGF-β1
+T47	Gene-Protein 1310 1314	SOD1
+#10	AnnotatorNotes T47	HGNC:11179
+T48	Gene-Protein 1286 1308	Superoxide Dismutase 1
+#11	AnnotatorNotes T48	HGNC:11179
+T49	Gene-Protein 1317 1321	SOD2
+#13	AnnotatorNotes T49	HGNC:11180
+T50	GeneFamily 1323 1351	Glutathione (GSH) peroxidase
+#14	AnnotatorNotes T50	not found
+T51	Gene-Protein 1361 1369	Catalase
+#16	AnnotatorNotes T51	HGNC:1516
+T52	Gene-Protein 1371 1374	CTL
+#17	AnnotatorNotes T52	HGNC:1516
+T53	Gene-Protein 1549 1556	LTGF-β1
+T54	Biomarker 1524 1576	persistent activation of LTGF-β1 by oxidative stress
+T55	Gene-Protein 1581 1587	TGF-β1
+T56	Chemical 1617 1620	ROS
+T57	Chemical 1637 1640	ROS
+T58	Gene-Protein 1641 1647	TGF-β1
+T59	Disease 1717 1731	carcinogenesis
+#18	AnnotatorNotes T59	DOID:162
+T60	Collection 1717 1744	carcinogenesis and fibrosis
+T61	Collection 1524 1620	persistent activation of LTGF-β1 by oxidative stress and TGF-β1-mediated nett persistence of ROS
+R2	Association Arg1:T61 Arg2:T60	
+T62	Chemical 828 831	ROS
+T63	Chemical 1773 1776	ROS
+T64	Gene-Protein 662 671	LAP-beta1
+#19	AnnotatorNotes T64	not found
+T65	Drug-Class 180 198	ionizing radiation
+T66	Drug-Class 219 231	chemotherapy
+T67	Chemical 235 243	asbestos
+T68	Drug-Class 479 497	ionizing radiation
+T69	Disease 104 116	inflammation
+#20	AnnotatorNotes T69	D007249
+T70	Disease 1828 1836	fibrosis

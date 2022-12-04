@@ -1,0 +1,91 @@
+T1	Disease 243 253	lung tumor
+#1	AnnotatorNotes T1	DOID:1324
+T11	Disease 883 889	cancer
+#2	AnnotatorNotes T11	DOID:162
+T12	Disease 902 907	NSCLC
+T13	Disease 951 956	NSCLC
+T15	Disease 1027 1032	tumor
+#5	AnnotatorNotes T15	DOID:162
+T17	Disease 1125 1130	NSCLC
+T2	Disease 356 361	NSCLC
+#7	AnnotatorNotes T2	DOID:3908
+T20	Disease 1233 1238	NSCLC
+T21	Drug 1369 1379	gadolinium
+T23	Drug 1381 1394	ruthenium red
+T24	Drug 1400 1412	streptomycin
+T25	Disease 1608 1613	NSCLC
+T26	Disease 1748 1753	tumor
+#14	AnnotatorNotes T26	DOID:162
+T28	Disease 1869 1874	NSCLC
+T4	Disease 433 443	lung tumor
+T5	Disease 516 518	LC
+T7	Disease 601 633	radiation-induced thyroid tumors
+#18	AnnotatorNotes T7	not found
+T9	Disease 814 816	LC
+T3	Gene-Protein 30 42	PIEZO1 and 2
+#9	AnnotatorNotes T3	HGNC:28993, HGNC:26270
+T6	Gene-Protein 834 840	PIEZO2
+#10	AnnotatorNotes T6	HGNC:26270
+T10	Gene-Protein 93 99	PIEZO1
+#11	AnnotatorNotes T10	HGNC:28993
+T14	GeneFamily 338 352	PIEZO channels
+#12	AnnotatorNotes T14	not found
+T16	Biomarker 399 429	expression of PIEZOs decreased
+T18	GeneFamily 413 419	PIEZOs
+#17	AnnotatorNotes T18	not found
+R1	Association Arg1:T16 Arg2:T4	
+T19	Biomarker 477 512	impaired function of PIEZO channels
+T27	GeneFamily 498 512	PIEZO channels
+R2	Association Arg1:T19 Arg2:T5	
+#16	AnnotatorNotes T5	DOID:1324
+T29	Disease 546 548	LC
+T30	Biomarker 554 597	expression of PIEZO1 is also down-regulated
+T31	Gene-Protein 568 574	PIEZO1
+R3	Association Arg1:T30 Arg2:T29	
+R4	Association Arg1:T30 Arg2:T7	
+T8	Biomarker 692 722	decreased expression of PIEZOs
+T32	GeneFamily 716 722	PIEZOs
+T33	Gene-Protein 743 749	PIEZO1
+T34	Biomarker 743 804	PIEZO1, gene expression shows high frequency of deep deletion
+R5	Association Arg1:T34 Arg2:T9	
+T35	Biomarker 834 879	PIEZO2 expression shows a high mutation ratio
+R6	Association Arg1:T35 Arg2:T12	
+T36	GeneFamily 941 947	PIEZOs
+T37	Biomarker 941 947	PIEZOs
+R7	Association Arg1:T37 Arg2:T13	
+T38	Gene-Protein 972 984	PIEZO1 and 2
+T39	Biomarker 972 984	PIEZO1 and 2
+R8	Association Arg1:T39 Arg2:T15	
+T40	Biomarker 1050 1088	higher expression of PIEZO1 and PIEZO2
+T41	Gene-Protein 1071 1077	PIEZO1
+T42	Gene-Protein 1082 1088	PIEZO2
+R9	Prognostic-Good Arg1:T40 Arg2:T17	
+T43	Gene-Protein 1185 1197	PIEZO1 and 2
+T44	Biomarker 1185 1197	PIEZO1 and 2
+R10	Association Arg1:T44 Arg2:T20	
+T22	Drug 1251 1256	Yoda1
+#6	AnnotatorNotes T22	C000708435
+T45	Drug-Class 1328 1359	non-specific blockers of PIEZOs
+T46	GeneFamily 1353 1359	PIEZOs
+#19	AnnotatorNotes T21	CHEMBL1232993
+#20	AnnotatorNotes T23	CHEMBL2068405
+#21	AnnotatorNotes T24	 CHEMBL372795
+T47	GeneFamily 1446 1451	PIEZO
+T48	GeneFamily 1578 1584	PIEZOs
+T49	Biomarker 1578 1584	PIEZOs
+R11	Association Arg1:T49 Arg2:T25	
+T51	GeneFamily 1692 1698	PIEZOs
+T50	GeneFamily 1732 1738	PIEZOs
+T52	GeneFamily 1810 1816	PIEZOs
+T53	Drug 1788 1816	activators targetting PIEZOs
+R12	Response Arg1:T53 Arg2:T28	
+T54	Drug-Class 601 610	radiation
+T55	Drug 1667 1698	blocking the function of PIEZOs
+#8	AnnotatorNotes T55	not found
+T56	Drug 1702 1738	knockout of the expression of PIEZOs
+#13	AnnotatorNotes T56	not found
+T57	Collection 1667 1738	blocking the function of PIEZOs or knockout of the expression of PIEZOs
+R13	Causes Arg1:T57 Arg2:T26	
+T73	Drug 80 99	Knockdown of PIEZO1
+#15	AnnotatorNotes T73	not found
+#3	AnnotatorNotes T39	C515204, C000589132

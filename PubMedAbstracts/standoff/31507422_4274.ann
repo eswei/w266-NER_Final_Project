@@ -1,0 +1,48 @@
+T0	Disease 47 63	cardiac diseases
+#1	AnnotatorNotes T0	DOID:114
+T1	Chemical 127 130	Ca²
+T2	Disease 306 308	HF
+T3	Chemical 619 628	potassium
+T4	Disease 882 884	HF
+T6	Chemical 1004 1007	Ca²
+T7	Disease 1012 1014	HF
+T8	Biomarker 65 86	electrical remodeling
+#2	AnnotatorNotes T8	D064752
+T9	Biomarker 88 139	such as alterations in ion channels or Ca²⁺ cycling
+T10	Collection 65 139	electrical remodeling, such as alterations in ion channels or Ca²⁺ cycling
+R1	Association Arg1:T10 Arg2:T0	
+#3	AnnotatorNotes T2	D006333
+T11	Drug 217 254	amelioration of electrical remodeling
+#4	AnnotatorNotes T11	not found
+R2	Response Arg1:T11 Arg2:T2	
+T12	GeneFamily 364 368	KATP
+#5	AnnotatorNotes T12	not found
+T13	GeneFamily 423 435	KATP channel
+T14	Gene-Protein 560 563	IK₁
+#6	AnnotatorNotes T14	not found
+T15	GeneFamily 602 649	inward rectifier potassium (Kir) channel family
+#7	AnnotatorNotes T15	family:276
+T17	GeneFamily 686 712	Kir2.x and Kir6.x subunits
+#8	AnnotatorNotes T17	not found, not found
+T18	Biomarker 794 823	downregulation of IK₁ channel
+T19	Gene-Protein 812 823	IK₁ channel
+T20	Biomarker 738 783	Prolongation of the action potential duration
+T21	Biomarker 857 878	electrical remodeling
+T5	Gene-Protein 916 919	IK₁
+T22	Gene-Protein 967 970	IK₁
+T23	Biomarker 967 981	IK₁ is reduced
+T24	Biomarker 985 1008	elevated diastolic Ca²⁺
+T25	Gene-Protein 1055 1066	IK₁ channel
+T26	Biomarker 1091 1109	cardiac remodeling
+T27	Biomarker 1115 1151	IK₁ channel agonism or up-regulation
+T28	Drug-Class 423 444	KATP channel agonists
+T29	GeneFamily 111 123	ion channels
+#9	AnnotatorNotes T29	family:177
+#10	AnnotatorNotes T19	not found
+T16	GeneFamily 568 581	KATP channels
+#11	AnnotatorNotes T16	not found
+#12	AnnotatorNotes T13	not found
+T30	Biomarker 473 518	cardiac structural remodeling and dysfunction
+T31	GeneFamily 1115 1126	IK₁ channel
+T32	Drug-Class 1115 1134	IK₁ channel agonism
+T33	Disease 1164 1197	cardiac structure and dysfunction

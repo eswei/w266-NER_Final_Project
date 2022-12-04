@@ -1,0 +1,81 @@
+T0	Drug 30 47	Homoharringtonine
+T10	Disease 420 423	CML
+T11	Disease 537 545	leukemic
+#4	AnnotatorNotes T11	DOID:12972
+T12	Disease 602 605	CML
+T14	Drug 671 674	HHT
+T15	Drug 712 715	HHT
+T17	Disease 750 758	leukemia
+#10	AnnotatorNotes T17	DOID:1240
+T19	Drug 947 950	HHT
+T2	Drug 49 52	HHT
+T20	Chemical 1084 1092	tyrosine
+T22	Drug 1171 1174	HHT
+T24	Drug 1269 1272	HHT
+T26	Drug 1343 1346	HHT
+T28	Drug 1539 1542	HHT
+T29	Drug 1610 1618	imatinib
+T31	Variant 1633 1638	K562G
+T33	Drug 1753 1756	HHT
+T34	Drug 1820 1823	HHT
+T36	Drug 1895 1898	HHT
+T37	Disease 1902 1905	CML
+T4	Disease 221 224	CML
+#32	AnnotatorNotes T4	DOID:8552
+T6	Drug 306 309	HHT
+T7	Disease 334 337	CML
+T9	Drug 370 373	HHT
+#1	AnnotatorNotes T0	CHEMBL46286
+#2	AnnotatorNotes T2	CHEMBL46286
+T1	Drug-Class 465 469	TKIs
+T3	Drug-Class 268 272	TKIs
+T5	Gene-Protein 882 887	Mcl-1
+#3	AnnotatorNotes T5	HGNC:6943
+T8	Gene-Protein 889 893	XIAP
+#5	AnnotatorNotes T8	HGNC:592
+T13	Gene-Protein 899 902	Myc
+#6	AnnotatorNotes T13	HGNC:7553
+R1	Non-Response Arg1:T1 Arg2:T10	
+R2	Response Arg1:T9 Arg2:T10	
+T16	Gene-Protein 1037 1042	Bcl-x
+#7	AnnotatorNotes T16	HGNC:992
+T18	Gene-Protein 1047 1056	caspase-9
+#8	AnnotatorNotes T18	HGNC:1511
+T21	Gene-Protein 1070 1075	Smad3
+#9	AnnotatorNotes T21	HGNC:6769
+R3	Response Arg1:T0 Arg2:T4	
+T23	Gene-Protein 1299 1302	BCR
+#11	AnnotatorNotes T23	HGNC:1014
+T25	GeneFamily 1303 1306	ABL
+#12	AnnotatorNotes T25	family:1463
+T27	Variant 1299 1306	BCR-ABL
+R4	Variant-Of Arg1:T23 Arg2:T27	
+R5	Variant-Of Arg1:T25 Arg2:T27	
+T32	Variant 1370 1377	BCR-ABL
+T35	Gene-Protein 1370 1373	BCR
+T38	GeneFamily 1374 1377	ABL
+R6	Variant-Of Arg1:T35 Arg2:T32	
+R7	Variant-Of Arg1:T38 Arg2:T32	
+T39	Variant 1564 1571	BCR-ABL
+T40	Gene-Protein 1564 1567	BCR
+T41	GeneFamily 1568 1571	ABL
+R8	Variant-Of Arg1:T40 Arg2:T39	
+R9	Variant-Of Arg1:T41 Arg2:T39	
+T42	Variant 1714 1721	BCR-ABL
+T43	Gene-Protein 1714 1717	BCR
+T44	GeneFamily 1718 1721	ABL
+R10	Variant-Of Arg1:T43 Arg2:T42	
+R11	Variant-Of Arg1:T44 Arg2:T42	
+T45	Gene-Protein 1832 1835	BCR
+T46	GeneFamily 1836 1839	ABL
+T47	Variant 1832 1839	BCR-ABL
+R12	Variant-Of Arg1:T45 Arg2:T47	
+R13	Variant-Of Arg1:T46 Arg2:T47	
+T48	Gene-Protein 1771 1774	p62
+T49	Gene-Protein 1658 1661	p62
+T50	Disease 1610 1632	imatinib-resistant CML
+#13	AnnotatorNotes T50	not found
+#14	AnnotatorNotes T49	HGNC:11280
+#15	AnnotatorNotes T29	CHEMBL941
+#16	AnnotatorNotes T31	p.Lys562Gly
+R14	Variant-Of Arg1:T41 Arg2:T31	

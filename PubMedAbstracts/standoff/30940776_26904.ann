@@ -1,0 +1,87 @@
+T0	Disease 313 320	cancers
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 332 335	PCa
+#2	AnnotatorNotes T1	DOID:10283
+T2	Disease 686 689	PCa
+T3	Disease 755 761	cancer
+#4	AnnotatorNotes T3	DOID:162
+T4	Disease 813 824	lung cancer
+T5	Disease 946 960	bladder cancer
+#6	AnnotatorNotes T5	DOID:11054
+T6	Disease 1064 1070	glioma
+#7	AnnotatorNotes T6	DOID:0060108
+T8	Disease 1421 1427	cancer
+T9	Disease 1589 1592	PCa
+T10	Biomarker 341 369	up-regulation of lncRNA GAS5
+T11	RNA-Noncoding 365 369	GAS5
+#11	AnnotatorNotes T11	HGNC:16355
+T12	GeneFamily 401 404	AKT
+#12	AnnotatorNotes T12	family:1900
+T13	Gene-Protein 405 409	mTOR
+#13	AnnotatorNotes T13	HGNC:3942
+T14	RNA-Noncoding 447 454	miR-103
+#14	AnnotatorNotes T14	not found
+T15	RNA-Noncoding 456 462	HOTAIR
+#15	AnnotatorNotes T15	HGNC:33510
+T16	Gene-Protein 474 478	HER2
+#16	AnnotatorNotes T16	HGNC:3430
+T17	Gene-Protein 495 505	miR-331-3p
+#17	AnnotatorNotes T17	HGNC:31772
+T19	Disease 578 581	PCa
+T20	Gene-Protein 543 547	HER2
+R2	Association Arg1:T10 Arg2:T1	
+T21	RNA-Noncoding 610 614	PVT1
+#19	AnnotatorNotes T21	HGNC:9709
+T22	Biomarker 603 614	lncRNA PVT1
+T23	RNA-Noncoding 656 663	miR-186
+#20	AnnotatorNotes T23	HGNC:31557
+T24	Gene-Protein 676 682	Twist1
+#21	AnnotatorNotes T24	HGNC:12428
+R3	Association Arg1:T22 Arg2:T2	
+#22	AnnotatorNotes T22	C000609195
+T25	RNA-Noncoding 691 695	UCA1
+#23	AnnotatorNotes T25	HGNC:37126
+T26	Biomarker 691 695	UCA1
+#24	AnnotatorNotes T26	C515159
+R4	Association Arg1:T26 Arg2:T3	
+T27	RNA-Noncoding 799 803	UCA1
+T28	Biomarker 799 803	UCA1
+#5	AnnotatorNotes T4	DOID:1324
+T29	RNA-Noncoding 866 876	miRNA-193a
+#25	AnnotatorNotes T29	HGNC:31563
+T30	Gene-Protein 877 882	HMGB1
+#26	AnnotatorNotes T30	HGNC:4983
+T31	RNA-Noncoding 906 910	UCA1
+T32	Biomarker 906 910	UCA1
+R5	Association Arg1:T32 Arg2:T5	
+T33	RNA-Noncoding 969 976	miR-195
+#27	AnnotatorNotes T33	HGNC:31566
+T34	Gene-Protein 977 981	ARL2
+#28	AnnotatorNotes T34	HGNC:693
+T35	RNA-Noncoding 1021 1025	UCA1
+T36	RNA-Noncoding 1044 1051	miR-182
+#29	AnnotatorNotes T36	HGNC:31553
+T37	Biomarker 1021 1025	UCA1
+R6	Association Arg1:T37 Arg2:T6	
+T38	RNA-Noncoding 1238 1242	UCA1
+T39	Gene-Protein 1281 1286	CXCR4
+#30	AnnotatorNotes T39	HGNC:2561
+T40	RNA-Noncoding 1357 1364	MiR-204
+#31	AnnotatorNotes T40	HGNC:31582
+T7	RNA-Noncoding 1528 1532	UCA1
+T41	Biomarker 1528 1532	UCA1
+R7	Association Arg1:T41 Arg2:T9	
+T42	RNA-Noncoding 1578 1585	miR-204
+T18	Biomarker 456 462	HOTAIR
+#9	AnnotatorNotes T18	C561566
+R1	Association Arg1:T18 Arg2:T19	
+R8	Association Arg1:T28 Arg2:T4	
+T43	RNA-Noncoding 1302 1309	miR-204
+#8	AnnotatorNotes T43	HGNC:31582
+T44	RNA-Noncoding 1341 1345	UCA1
+T45	Gene-Protein 1350 1355	CXCR4
+T46	Biomarker 1357 1364	MiR-204
+#10	AnnotatorNotes T46	C549404
+R9	Association Arg1:T46 Arg2:T8	
+T47	Gene-Protein 1113 1118	iASPP
+#3	AnnotatorNotes T47	HGNC: 18838

@@ -1,0 +1,34 @@
+31421673_19076|t|RSS_IDENT_p_31421673_b_1_4_3
+31421673_19076|a| The inverse association between LDL-C level and DM among participants with desirable LDL-C concentration may be related to statin therapy. Statin therapy was associated with a 9% increased risk of incident DM, with the effect being stronger in older individuals [ 6 ]. Inhibition of 3-hydroxy-3-methylglutaryl-CoA reductase (HMGCR) increases the expression of LDL receptors in many tissues and promotes transmembrane cholesterol transport. This alteration in cholesterol transport may be involved in the pathogenesis of diabetes [ 19 ]. Nevertheless, after stratifying by the use of statin, multivariable logistic regression found that the relationship between DM and LDL-C was not affected by statins. Genetic studies have shown that the incidence of new-onset DM is associated with low LDL-C levels [ 19 , 20 ], which are consistent with a previous finding that patients with familial hypercholesterolemia were less likely to have type 2 diabetes [ 21 ]. In addition, overexpression of Niemann-Pick C1-like 1 (NPC1L1), an inhibitor of the LDL-C transporter, may suppress gluconeogenesis. In contrast, inhibiting NPC1L1 by ezetimibe, a lipid-lowering agent, may increase gluconeogenesis [ 22 ]. 
+31421673_19076	62	67	LDL-C	Chemical
+31421673_19076	62	73	LDL-C level	Biomarker
+31421673_19076	78	80	DM	Disease	DOID:9351
+31421673_19076	115	120	LDL-C	Chemical
+31421673_19076	153	159	statin	Drug-class
+31421673_19076	169	175	Statin	Drug-class
+31421673_19076	236	238	DM	Disease
+31421673_19076	313	343	3-hydroxy-3-methylglutaryl-CoA	Chemical
+31421673_19076	313	353	3-hydroxy-3-methylglutaryl-CoA reductase	Gene-protein	HGNC:5006
+31421673_19076	355	360	HMGCR	Gene-protein	HGNC:5006
+31421673_19076	390	403	LDL receptors	Genefamily	family:634
+31421673_19076	447	458	cholesterol	Chemical
+31421673_19076	475	510	alteration in cholesterol transport	Biomarker
+31421673_19076	489	500	cholesterol	Chemical
+31421673_19076	550	558	diabetes	Disease	not found
+31421673_19076	613	619	statin	Drug-class
+31421673_19076	691	693	DM	Disease
+31421673_19076	698	703	LDL-C	Chemical
+31421673_19076	724	731	statins	Drug-class
+31421673_19076	792	794	DM	Disease
+31421673_19076	814	830	low LDL-C levels	Biomarker
+31421673_19076	818	823	LDL-C	Chemical
+31421673_19076	908	937	familial hypercholesterolemia	Disease	DOID:13810
+31421673_19076	963	978	type 2 diabetes	Disease	DOID:9352
+31421673_19076	1000	1049	overexpression of Niemann-Pick C1-like 1 (NPC1L1)	Drug	not found
+31421673_19076	1018	1040	Niemann-Pick C1-like 1	Gene-protein	HGNC:7898
+31421673_19076	1042	1048	NPC1L1	Gene-protein	HGNC:7898
+31421673_19076	1054	1088	inhibitor of the LDL-C transporter	Drug-class
+31421673_19076	1144	1150	NPC1L1	Gene-protein
+31421673_19076	1154	1163	ezetimibe	Drug	CHEMBL1138
+31421673_19076	1167	1172	lipid	Chemical
+

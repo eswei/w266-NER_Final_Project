@@ -1,0 +1,69 @@
+29288563_97|t|RSS_IDENT_p_29288563_a_1_1
+29288563_97|a| Cell division cycle 37 (Cdc37) is an important partner for heat shock protein 90 (HSP90), assisting in molecular chaperone activities, particularly with regard to the regulation of protein kinases. Given its influence on cell growth pathways, Cdc37 has been discussed as a potential intermediate in carcinogenesis. However, to date, the potential functional roles and molecular mechanisms by which Cdc37 regulates cell survival in colorectal carcinoma (CRC) remain unclear. Here, we investigated the expression of Cdc37 and its clinical significance in CRC, and systematically explored the role and the underlying mechanism of Cdc37 in CRC cell survival both in vitro and in vivo. Our results showed that Cdc37 was remarkably up‐regulated in CRC, which facilitated cell survival mainly by promoting cell proliferation, G1‐S transition, and inhibiting cell apoptosis. Our data further indicated that Cdc37 increased the stability of cyclin‐dependent kinase 4 (CDK4) to activate the retinoblastoma 1 (RB1) signaling pathway, followed by increased expression of Bcl‐2 and Bcl‐xL, which ultimately promoted cell survival in CRC. Moreover, knockdown of CDK4 reversed the Cdc37‐mediated effect in promoting the progression of CRC. Our findings showed that Cdc37 played a critical role in promoting CRC cell survival by increasing CDK4 stability to activate the RB1 signaling pathway. Thereby, Cdc37 might serve as a potential therapeutic target in CRC patients. Abbreviations AR androgen receptor Cdc37 cell division cycle 37 CDK cyclin‐dependent kinase Chx cycloheximide CRC colorectal carcinoma 5‐FU fluorouracil HCC hepatocellular carcinoma HSP90 heat shock protein 90 MTS [3‐(4,5‐dimethylthiazol‐2‐yl)‐5‐(3‐carboxymethoxyphenyl)‐2‐(4‐sulfophenyl)‐2H‐tetrazolium], inner salt PI propidium iodide p‐RB phosphorylated‐retinoblastoma RB retinoblastoma
+29288563_97	28	50	Cell division cycle 37	Gene-protein	HGNC:1735
+29288563_97	52	57	Cdc37	Gene-protein	HGNC:1735
+29288563_97	87	108	heat shock protein 90	Genefamily	family:586
+29288563_97	110	115	HSP90	Genefamily	family:586
+29288563_97	271	276	Cdc37	Gene-protein
+29288563_97	271	276	Cdc37	Biomarker	C498362
+29288563_97	327	341	carcinogenesis	Disease	DOID:162
+29288563_97	426	431	Cdc37	Biomarker
+29288563_97	426	431	Cdc37	Gene-protein
+29288563_97	459	479	colorectal carcinoma	Disease	DOID:0080199
+29288563_97	481	484	CRC	Disease	DOID:0080199
+29288563_97	528	547	expression of Cdc37	Biomarker
+29288563_97	542	547	Cdc37	Gene-protein
+29288563_97	581	584	CRC	Disease
+29288563_97	655	660	Cdc37	Gene-protein
+29288563_97	655	660	Cdc37	Biomarker
+29288563_97	664	667	CRC	Disease
+29288563_97	733	738	Cdc37	Gene-protein
+29288563_97	733	766	Cdc37 was remarkably up‐regulated	Biomarker
+29288563_97	770	773	CRC	Disease
+29288563_97	927	932	Cdc37	Gene-protein
+29288563_97	927	932	Cdc37	Biomarker
+29288563_97	960	985	cyclin‐dependent kinase 4	Gene-protein	HGNC:1773
+29288563_97	987	991	CDK4	Gene-protein	HGNC:1773
+29288563_97	1009	1025	retinoblastoma 1	Gene-protein	HGNC:9884
+29288563_97	1027	1030	RB1	Gene-protein	HGNC:9884
+29288563_97	1087	1092	Bcl‐2	Gene-protein	HGNC:990
+29288563_97	1097	1103	Bcl‐xL	Gene-protein	HGNC:992
+29288563_97	1148	1151	CRC	Disease
+29288563_97	1176	1180	CDK4	Gene-protein
+29288563_97	1194	1199	Cdc37	Gene-protein
+29288563_97	1194	1199	Cdc37	Biomarker
+29288563_97	1248	1251	CRC	Disease
+29288563_97	1278	1283	Cdc37	Biomarker
+29288563_97	1278	1283	Cdc37	Gene-protein
+29288563_97	1320	1323	CRC	Disease
+29288563_97	1352	1356	CDK4	Gene-protein
+29288563_97	1383	1386	RB1	Gene-protein
+29288563_97	1415	1420	Cdc37	Biomarker
+29288563_97	1415	1420	Cdc37	Gene-protein
+29288563_97	1470	1473	CRC	Disease
+29288563_97	1498	1500	AR	Gene-protein	HGNC:644
+29288563_97	1501	1509	androgen	Chemical
+29288563_97	1501	1518	androgen receptor	Gene-protein	HGNC:644
+29288563_97	1519	1524	Cdc37	Gene-protein
+29288563_97	1525	1547	cell division cycle 37	Gene-protein	HGNC:1735
+29288563_97	1548	1551	CDK	Genefamily	family:496
+29288563_97	1552	1575	cyclin‐dependent kinase	Genefamily	family:496
+29288563_97	1576	1579	Chx	Drug	CHEMBL123292
+29288563_97	1580	1593	cycloheximide	Drug	CHEMBL123292
+29288563_97	1594	1597	CRC	Disease
+29288563_97	1598	1618	colorectal carcinoma	Disease
+29288563_97	1619	1623	5‐FU	Drug	CHEMBL185
+29288563_97	1624	1636	fluorouracil	Drug	CHEMBL185
+29288563_97	1637	1640	HCC	Disease	DOID:684
+29288563_97	1641	1665	hepatocellular carcinoma	Disease	DOID:684
+29288563_97	1666	1671	HSP90	Genefamily
+29288563_97	1672	1693	heat shock protein 90	Genefamily
+29288563_97	1694	1697	MTS	Chemical
+29288563_97	1699	1787	3‐(4,5‐dimethylthiazol‐2‐yl)‐5‐(3‐carboxymethoxyphenyl)‐2‐(4‐sulfophenyl)‐2H‐tetrazolium	Chemical
+29288563_97	1801	1803	PI	Chemical
+29288563_97	1804	1820	propidium iodide	Chemical
+29288563_97	1821	1825	p‐RB	Gene-protein	HGNC:9884
+29288563_97	1826	1855	phosphorylated‐retinoblastoma	Gene-protein	HGNC:9884
+29288563_97	1856	1858	RB	Gene-protein	HGNC:9884
+29288563_97	1859	1873	retinoblastoma	Gene-protein	HGNC:9884
+

@@ -1,0 +1,56 @@
+31336615_16288|t|RSS_IDENT_p_31336615_b_1_4_4
+31336615_16288|a| This research study did not indicate a significant impact of certain atherosclerosis complications (including coronary artery disease, atherosclerosis of cerebral arteries) and selected cardiovascular risk factors (smoking, LDL, and triglyceride concentrations) on the levels of t-PA and PAI-1. It was found that t-PA Ag and PAI-1 Ag values tended to rise along with BMI increase in the subgroups of subjects (with normal body mass, overweight, and obesity), though without statistically significant differences. However, significant positive correlations were found between t-PA Ag and BMI as well as between PAI-1 Ag and BMI. The analysis of available literature has shown that positive correlations of PAI-1 Ag and BMI concentrations were observed in patients after myocardial infarction and individuals with morbid obesity [ 13 , 14 ]. Alessi et al. explain this observation by the fact that adipose tissue in abdominal obesity is where synthesis of PAI-1 occurs [ 14 ]. No data were found about a positive correlation of t-PA Ag and BMI in the blood of both sick and healthy subjects. Indirect data, however, seem to suggest that between the concentration of t-PA Ag and BMI there is a negative correlation. This is supported by the research conducted by Abd El-Kader and Al-Jiffri, who evidenced that a low BMI in patients with simple obesity increased the levels of t-PA Ag and t-PA activity [ 15 ]. It is possible that in our research study a positive correlation of the concentration of t-PA Ag and BMI as well as PAI-1 Ag and BMI was associated with high plasma levels of PAI-1 Ag and reflects intensive formation of t-PA-PAI-1 complexes. 
+31336615_16288	99	114	atherosclerosis	Disease	DOID:1936
+31336615_16288	140	163	coronary artery disease	Disease	DOID:3393
+31336615_16288	165	201	atherosclerosis of cerebral arteries	Disease	DOID:12720
+31336615_16288	245	252	smoking	Biomarker	D012907
+31336615_16288	254	257	LDL	Chemical
+31336615_16288	254	257	LDL	Biomarker	D008078
+31336615_16288	263	275	triglyceride	Chemical
+31336615_16288	263	290	triglyceride concentrations	Biomarker
+31336615_16288	309	313	t-PA	Gene-protein	HGNC:9051
+31336615_16288	318	323	PAI-1	Gene-protein	HGNC:8583
+31336615_16288	343	347	t-PA	Gene-protein
+31336615_16288	343	350	t-PA Ag	Biomarker
+31336615_16288	355	360	PAI-1	Gene-protein
+31336615_16288	355	363	PAI-1 Ag	Biomarker
+31336615_16288	361	363	Ag	Chemical
+31336615_16288	397	409	BMI increase	Biomarker
+31336615_16288	463	473	overweight	Disease	D050177
+31336615_16288	479	486	obesity	Disease	DOID:9970
+31336615_16288	605	609	t-PA	Gene-protein
+31336615_16288	605	612	t-PA Ag	Biomarker
+31336615_16288	617	620	BMI	Biomarker	D015992
+31336615_16288	640	645	PAI-1	Gene-protein
+31336615_16288	640	648	PAI-1 Ag	Biomarker
+31336615_16288	653	656	BMI	Biomarker
+31336615_16288	735	740	PAI-1	Gene-protein
+31336615_16288	735	743	PAI-1 Ag	Biomarker
+31336615_16288	748	766	BMI concentrations	Biomarker
+31336615_16288	799	820	myocardial infarction	Disease	DOID:5844
+31336615_16288	842	856	morbid obesity	Disease	DOID:11981
+31336615_16288	944	961	abdominal obesity	Disease	D056128
+31336615_16288	984	989	PAI-1	Gene-protein
+31336615_16288	1056	1060	t-PA	Gene-protein
+31336615_16288	1056	1063	t-PA Ag	Biomarker
+31336615_16288	1068	1071	BMI	Biomarker
+31336615_16288	1194	1198	t-PA	Gene-protein
+31336615_16288	1194	1201	t-PA Ag	Biomarker
+31336615_16288	1206	1209	BMI	Biomarker
+31336615_16288	1339	1346	low BMI	Biomarker
+31336615_16288	1371	1378	obesity	Disease
+31336615_16288	1403	1407	t-PA	Gene-protein
+31336615_16288	1403	1410	t-PA Ag	Biomarker
+31336615_16288	1415	1419	t-PA	Gene-protein
+31336615_16288	1415	1419	t-PA	Biomarker
+31336615_16288	1509	1533	concentration of t-PA Ag	Biomarker
+31336615_16288	1526	1530	t-PA	Gene-protein
+31336615_16288	1538	1541	BMI	Biomarker
+31336615_16288	1553	1558	PAI-1	Gene-protein
+31336615_16288	1553	1561	PAI-1 Ag	Biomarker
+31336615_16288	1566	1569	BMI	Biomarker
+31336615_16288	1590	1620	high plasma levels of PAI-1 Ag	Biomarker
+31336615_16288	1612	1617	PAI-1	Gene-protein
+31336615_16288	1657	1661	t-PA	Gene-protein
+31336615_16288	1662	1667	PAI-1	Gene-protein
+

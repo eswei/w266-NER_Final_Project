@@ -1,0 +1,39 @@
+29801491_25139|t|RSS_IDENT_p_29801491_b_1_4_4
+29801491_25139|a| Studies have shown that Hg exposure had positive and negative associations with CVD. Positive associations between the levels of Hg in the hair or nails and increased cardiovascular risk have been reported in epidemiological studies [ 33 , 34 ]. One study reported that mercury in the blood may be associated with increased risk of hypertension and myocardial infarction or angina [ 12 ], but no association with stroke [ 12 ]. Another study among US health professionals found that no association existed between Hg level in nail and risk of coronary heart disease, stroke or cardiovascular disease [ 35 ]. By contrast, protective associations have been found between S-Hg levels and the risk of acute myocardial infarction [ 36 ] but not stroke [ 37 ] in prospective case–control studies from northern Sweden. In a cohort study of women with previously determined S-Hg in Gothenburg, Sweden, higher S-Hg levels predicted low mortality and a low risk of fatal AMI but had no predictive value for nonfatal myocardial infarction or stroke [ 38 ]. In our study, both S-Hg and U-Hg had a significantly protective effect against stroke after adjustment for sex, age, hypertension, and other key demographic characteristics. Our study is the first to document the negative associations between the levels of S-Hg and U-Hg and stroke. 
+29801491_25139	54	56	Hg	Chemical
+29801491_25139	54	65	Hg exposure	Biomarker
+29801491_25139	110	113	CVD	Disease	DOID:1287
+29801491_25139	149	182	levels of Hg in the hair or nails	Biomarker
+29801491_25139	159	161	Hg	Chemical
+29801491_25139	187	216	increased cardiovascular risk	Biomarker
+29801491_25139	300	307	mercury	Chemical
+29801491_25139	300	320	mercury in the blood	Biomarker
+29801491_25139	362	374	hypertension	Disease	DOID:10763
+29801491_25139	362	410	hypertension and myocardial infarction or angina	Collection
+29801491_25139	379	400	myocardial infarction	Disease	DOID:5844
+29801491_25139	404	410	angina	Disease	not found
+29801491_25139	443	449	stroke	Disease	D020521
+29801491_25139	544	546	Hg	Chemical
+29801491_25139	544	560	Hg level in nail	Biomarker
+29801491_25139	573	595	coronary heart disease	Disease	DOID:3393
+29801491_25139	597	603	stroke	Disease
+29801491_25139	607	629	cardiovascular disease	Disease	DOID:1287
+29801491_25139	699	703	S-Hg	Biomarker
+29801491_25139	727	754	acute myocardial infarction	Disease	DOID:9408
+29801491_25139	770	776	stroke	Disease
+29801491_25139	896	900	S-Hg	Chemical
+29801491_25139	922	942	, higher S-Hg levels	Biomarker
+29801491_25139	931	932	S	Chemical
+29801491_25139	933	935	Hg	Chemical
+29801491_25139	985	994	fatal AMI	Disease	not found
+29801491_25139	1027	1057	nonfatal myocardial infarction	Disease	not found
+29801491_25139	1061	1067	stroke	Disease
+29801491_25139	1095	1099	S-Hg	Drug
+29801491_25139	1095	1108	S-Hg and U-Hg	Collection
+29801491_25139	1104	1108	U-Hg	Drug	not found
+29801491_25139	1155	1161	stroke	Disease
+29801491_25139	1333	1337	S-Hg	Biomarker
+29801491_25139	1333	1346	S-Hg and U-Hg	Collection
+29801491_25139	1342	1346	U-Hg	Biomarker
+29801491_25139	1351	1357	stroke	Disease
+

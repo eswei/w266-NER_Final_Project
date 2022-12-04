@@ -1,0 +1,78 @@
+T1	Disease 97 100	GDM
+#1	AnnotatorNotes T1	DOID:11714
+T11	Chemical 396 400	Ca2+
+T12	Chemical 463 470	25-OH-D
+T14	Chemical 516 523	25-OH-D
+T15	Chemical 551 555	Ca2+
+T17	Chemical 594 601	25-OH-D
+T18	Disease 594 611	25-OH-D deficient
+#8	AnnotatorNotes T18	not found
+T2	Disease 105 108	SCH
+#9	AnnotatorNotes T2	not found
+T20	Disease 680 683	GDM
+T21	Disease 688 691	SCH
+T23	Chemical 812 816	VitD
+T24	Disease 812 827	VitD deficiency
+#13	AnnotatorNotes T24	D014808
+T26	Chemical 887 894	25-OH-D
+T27	Disease 898 901	GDM
+T28	Disease 906 909	SCH
+T29	Disease 957 990	humoral immune function disorders
+#17	AnnotatorNotes T29	DOID:2914
+T30	Chemical 1020 1024	VitD
+T31	Chemical 1039 1046	25-OH-D
+T32	Chemical 1065 1069	VitD
+T33	Disease 1065 1080	VitD deficiency
+#21	AnnotatorNotes T33	D014808
+T34	Disease 1115 1118	GDM
+T35	Disease 1123 1126	SCH
+T36	Chemical 1147 1151	VitD
+T37	Biomarker 1147 1162	VitD deficiency
+T39	Chemical 1189 1196	25-OH-D
+T40	Disease 1246 1249	GDM
+T41	Disease 1254 1257	SCH
+T6	Disease 221 224	GDM
+T7	Disease 229 232	SCH
+T9	Chemical 331 338	25-OH-D
+T3	GeneFamily 75 78	TSH
+#2	AnnotatorNotes T3	not found
+T22	Collection 97 108	GDM and SCH
+T38	Collection 221 232	GDM and SCH
+T42	Biomarker 319 344	increase of 25-OH-D level
+T44	GeneFamily 387 390	TSH
+T50	Biomarker 551 570	Ca2+ levels reduced
+R3	Association Arg1:T50 Arg2:T18	
+T51	Collection 680 691	GDM and SCH
+T54	Biomarker 644 676	positive rates of TPOAb and TgAb
+R4	Association Arg1:T54 Arg2:T51	
+T55	Biomarker 767 789	TPOAb or TgAb positive
+T56	Biomarker 833 855	TPOAb or TgAb negative
+R5	Association Arg1:T55 Arg2:T24	
+T52	Biomarker 887 894	25-OH-D
+T53	Collection 898 990	GDM and SCH pregnant women is at a low level, it may cause humoral immune function disorders
+R6	Association Arg1:T52 Arg2:T53	
+T57	Collection 1115 1126	GDM and SCH
+R7	Association Arg1:T37 Arg2:T57	
+T58	Collection 1246 1257	GDM and SCH
+T59	Biomarker 1183 1196	serum 25-OH-D
+R8	Association Arg1:T59 Arg2:T58	
+T60	Disease 1039 1060	25-OH-D level decline
+T61	Disease 463 480	25-OH-D deficient
+#4	AnnotatorNotes T61	not found
+T62	Biomarker 65 93	levels of TSH, FPG and HbAIc
+T75	Chemical 201 208	25-OH-D
+T76	Chemical 213 216	Ca2
+T64	Biomarker 191 217	levels of 25-OH-D and Ca2+
+T66	Biomarker 372 400	levels of FPG, TSH, and Ca2+
+T107	GeneFamily 441 444	TSH
+T109	Gene-Protein 662 667	TPOAb
+T110	Gene-Protein 672 676	TgAb
+T111	Gene-Protein 767 772	TPOAb
+T67	Biomarker 426 455	levels of FPG, TSH, and HbAIc
+T112	Gene-Protein 776 780	TgAb
+T113	Gene-Protein 833 838	TPOAb
+#6	AnnotatorNotes T109	not found
+#7	AnnotatorNotes T110	not found
+T13	Gene-Protein 842 846	TgAb
+R2	Association Arg1:T64 Arg2:T38	
+R1	Association Arg1:T62 Arg2:T22	

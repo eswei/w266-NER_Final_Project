@@ -1,0 +1,62 @@
+30584599_1542|t|RSS_IDENT_p_30584599_b_1_1
+30584599_1542|a| Neurological defects, including microcephaly, ataxia or neurodegeneration, are a hallmark for autosomal recessive mutations in individual genes encoding components of the Mre11/Rad50/Nbs1 (MRN) complex. Mutations in the NBS1 encoding gene, NBN, are associated with Nijmegen breakage syndrome (NBS) (OMIM# 251260) characterized by microcephaly, immunodeficiency, growth and intellectual disability, radiosensitivity, and cancer predisposition. ¹ – ³ Mutations in RAD50 gene RAD50 are related to NBS-like disorder (NBSLD) (OMIM# 613078). ⁴ The clinical features of patients with NBSLD are very similar to those with NBN, including microcephaly and intellectual disability but not infections, immunodeficiency, or cancer predisposition. Mutations in MRE11A homolog, double-strand break repair nuclease gene MRE11 are associated with a very rare chromosomal breakage syndrome (OMIM# 604391). The clinical features are characterized by progressive cerebellar degeneration and ionizing radiation hypersensitivity, similar to the ataxia telangiectasia (OMIM# 208900) caused by mutations in ATM, encoding ataxia telangiectasia mutated (ATM). ⁵ , ⁶ The neurologic features have a later onset, slower progression and it is referred to as ataxia-telangiectasia-like disorder (ATLD) (OMIM# 604391). ⁵ , ⁷ , ⁸ Unlike patients with ataxia telangiectasia, however, patients with ATLD show no telangiectasia or obvious immunodeficiency. ⁷ – ⁹ In 1999, first association of ATLD with mutations in MRE11 was reported, ⁵ followed by additional families with clinical features of ATLD ⁹ – ¹⁶ or NBSLD. ¹⁷
+30584599_1542	28	48	Neurological defects	Disease	not found
+30584599_1542	28	101	Neurological defects, including microcephaly, ataxia or neurodegeneration	Collection
+30584599_1542	60	72	microcephaly	Disease	DOID:10907
+30584599_1542	74	80	ataxia	Disease	D001259
+30584599_1542	84	101	neurodegeneration	Disease	D009410
+30584599_1542	122	229	autosomal recessive mutations in individual genes encoding components of the Mre11/Rad50/Nbs1 (MRN) complex	Biomarker
+30584599_1542	199	204	Mre11	Gene-protein	HGNC:7230
+30584599_1542	205	210	Rad50	Gene-protein	HGNC:9816
+30584599_1542	211	215	Nbs1	Gene-protein	HGNC:7652
+30584599_1542	217	220	MRN	Gene-protein	HGNC:7230, HGNC:9816, HGNC:7652
+30584599_1542	231	271	Mutations in the NBS1 encoding gene, NBN	Biomarker
+30584599_1542	248	252	NBS1	Gene-protein	  HGNC:7652
+30584599_1542	268	271	NBN	Gene-protein	 HGNC:7652
+30584599_1542	293	319	Nijmegen breakage syndrome	Disease	DOID:7400
+30584599_1542	321	324	NBS	Disease	DOID:7400
+30584599_1542	358	370	microcephaly	Biomarker	D008831
+30584599_1542	358	469	microcephaly, immunodeficiency, growth and intellectual disability, radiosensitivity, and cancer predisposition	Collection
+30584599_1542	372	388	immunodeficiency	Biomarker
+30584599_1542	390	424	growth and intellectual disability	Biomarker
+30584599_1542	426	442	radiosensitivity	Biomarker
+30584599_1542	448	469	cancer predisposition	Biomarker
+30584599_1542	477	500	Mutations in RAD50 gene	Biomarker
+30584599_1542	490	495	RAD50	Gene-protein	HGNC:9816
+30584599_1542	501	506	RAD50	Gene-protein
+30584599_1542	522	539	NBS-like disorder	Disease	C567767
+30584599_1542	541	546	NBSLD	Disease	C567767
+30584599_1542	605	610	NBSLD	Disease
+30584599_1542	642	645	NBN	Gene-protein
+30584599_1542	657	669	microcephaly	Biomarker
+30584599_1542	657	697	microcephaly and intellectual disability	Collection
+30584599_1542	674	697	intellectual disability	Biomarker
+30584599_1542	706	716	infections	Disease	D007239
+30584599_1542	718	734	immunodeficiency	Disease	DOID:612
+30584599_1542	739	745	cancer	Disease	DOID:162
+30584599_1542	762	837	Mutations in MRE11A homolog, double-strand break repair nuclease gene MRE11	Biomarker
+30584599_1542	775	781	MRE11A	Gene-protein	HGNC:7230
+30584599_1542	832	837	MRE11	Gene-protein	HGNC:7230
+30584599_1542	870	899	chromosomal breakage syndrome	Disease	not found
+30584599_1542	959	994	progressive cerebellar degeneration	Biomarker
+30584599_1542	959	1034	progressive cerebellar degeneration and ionizing radiation hypersensitivity	Collection
+30584599_1542	999	1034	ionizing radiation hypersensitivity	Biomarker
+30584599_1542	1051	1072	ataxia telangiectasia	Disease	DOID:12704
+30584599_1542	1098	1114	mutations in ATM	Biomarker
+30584599_1542	1111	1114	ATM	Gene-protein	HGNC:795
+30584599_1542	1125	1154	ataxia telangiectasia mutated	Gene-protein	HGNC:795
+30584599_1542	1156	1159	ATM	Gene-protein
+30584599_1542	1172	1230	neurologic features have a later onset, slower progression	Biomarker
+30584599_1542	1256	1291	ataxia-telangiectasia-like disorder	Disease	C565779
+30584599_1542	1293	1297	ATLD	Disease	C565779
+30584599_1542	1346	1367	ataxia telangiectasia	Disease
+30584599_1542	1392	1396	ATLD	Disease
+30584599_1542	1405	1419	telangiectasia	Disease	DOID:1272
+30584599_1542	1431	1447	immunodeficiency	Disease
+30584599_1542	1485	1489	ATLD	Disease
+30584599_1542	1495	1513	mutations in MRE11	Biomarker
+30584599_1542	1508	1513	MRE11	Gene-protein
+30584599_1542	1588	1592	ATLD	Disease
+30584599_1542	1588	1608	ATLD ⁹ – ¹⁶ or NBSLD	Collection
+30584599_1542	1603	1608	NBSLD	Disease
+

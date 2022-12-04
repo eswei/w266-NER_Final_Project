@@ -1,0 +1,49 @@
+30571380_33123|t|RSS_IDENT_s_30571380_b_1_4_5
+30571380_33123|a| Medical Therapy and Biomarkers Fabry patients who qualify for and receive ERT (n=37, 54%) had greater plasma levels of TNF, TNFR1, TNFR2, MMP‐2, and Lyso‐Gb₃ (P=0.025, P=0.003, P<0.001, P<0.001, and P=0.001, respectively) (Figure 9). Among patients who were prescribed either an angiotensin‐converting enzyme inhibitor or angiotensin receptor blocker (n=50, 74%), plasma MMP‐2 and MMP‐8 were elevated (P=0.027 and 0.015, respectively). Patients prescribed a statin (n=39, 57%) had significantly increased plasma levels of BNP, MR‐proANP, galectin‐1, and galectin‐3 (P=0.007, 0.001, 0.023, and 0.001, respectively), whereas patients prescribed aspirin (n=46, 68%) had significantly elevated plasma levels of BNP, MR‐proANP, and MMP‐8 (P=0.008, P=0.001, and P<0.001, respectively). Figure 9 Plasma levels of biomarkers in FD patients (n=68), in cohorts of those not receiving ERT (n=31) and those who qualify for and are receiving ERT (n=37). TNF, TNFR1, TNFR2, MMP‐2, and Lyso‐Gb₃ are elevated in FD patients undergoing ERT relative to those not receiving ERT. ERT indicates enzyme replacement therapy; FD, Fabry disease; Lyso‐Gb₃, lysoglobotriaosylceramide; MMP, matrix metalloprotease; TNF, tumor necrosis factor; TNFR, TNF receptor. **P<0.01; ***P<0.001.
+30571380_33123	61	66	Fabry	Disease	DOID:14499
+30571380_33123	104	107	ERT	Drug-class
+30571380_33123	149	152	TNF	Gene-protein	HGNC:11892
+30571380_33123	154	159	TNFR1	Gene-protein	HGNC:11916
+30571380_33123	161	166	TNFR2	Gene-protein	HGNC:11917
+30571380_33123	168	173	MMP‐2	Gene-protein	HGNC:7166
+30571380_33123	309	338	angiotensin‐converting enzyme	Gene-protein	HGNC:2707
+30571380_33123	309	348	angiotensin‐converting enzyme inhibitor	Drug-class
+30571380_33123	352	372	angiotensin receptor	Genefamily	family:221
+30571380_33123	352	380	angiotensin receptor blocker	Drug-class
+30571380_33123	394	430	plasma MMP‐2 and MMP‐8 were elevated	Biomarker
+30571380_33123	401	406	MMP‐2	Gene-protein
+30571380_33123	411	416	MMP‐8	Gene-protein	HGNC:7175
+30571380_33123	488	494	statin	Drug-class
+30571380_33123	525	594	increased plasma levels of BNP, MR‐proANP, galectin‐1, and galectin‐3	Biomarker
+30571380_33123	552	555	BNP	Gene-protein
+30571380_33123	557	566	MR‐proANP	Gene-protein	not found
+30571380_33123	568	578	galectin‐1	Gene-protein	HGNC:6561
+30571380_33123	584	594	galectin‐3	Gene-protein	HGNC:6563
+30571380_33123	673	680	aspirin	Drug	CHEMBL25
+30571380_33123	711	762	elevated plasma levels of BNP, MR‐proANP, and MMP‐8	Biomarker
+30571380_33123	737	740	BNP	Gene-protein
+30571380_33123	742	751	MR‐proANP	Gene-protein
+30571380_33123	757	762	MMP‐8	Gene-protein
+30571380_33123	850	852	FD	Disease	DOID:14499
+30571380_33123	904	907	ERT	Drug-class
+30571380_33123	959	962	ERT	Drug-class
+30571380_33123	971	974	TNF	Gene-protein
+30571380_33123	971	1022	TNF, TNFR1, TNFR2, MMP‐2, and Lyso‐Gb₃ are elevated	Biomarker
+30571380_33123	976	981	TNFR1	Gene-protein
+30571380_33123	983	988	TNFR2	Gene-protein
+30571380_33123	990	995	MMP‐2	Gene-protein
+30571380_33123	1026	1028	FD	Disease
+30571380_33123	1049	1052	ERT	Drug-class
+30571380_33123	1085	1088	ERT	Drug-class
+30571380_33123	1090	1093	ERT	Drug-class
+30571380_33123	1104	1130	enzyme replacement therapy	Drug-class
+30571380_33123	1132	1134	FD	Disease
+30571380_33123	1136	1149	Fabry disease	Disease	DOID:14499
+30571380_33123	1161	1186	lysoglobotriaosylceramide	Chemical
+30571380_33123	1188	1191	MMP	Genefamily	family:891
+30571380_33123	1193	1215	matrix metalloprotease	Genefamily	family:891
+30571380_33123	1217	1220	TNF	Gene-protein
+30571380_33123	1222	1243	tumor necrosis factor	Gene-protein	HGNC:11892
+30571380_33123	1245	1249	TNFR	Genefamily	family:782
+30571380_33123	1251	1263	TNF receptor	Genefamily	family:782
+

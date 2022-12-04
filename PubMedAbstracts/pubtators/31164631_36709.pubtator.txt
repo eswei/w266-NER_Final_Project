@@ -1,0 +1,63 @@
+31164631_36709|t|RSS_IDENT_p_31164631_b_1_4_6
+31164631_36709|a| To our best of knowledge, SPINT2 has not been reported as an independent prognostic factor in NSCLC. In current study, we also detected the SPINT2 expression by IHC tissue array analysis. We found the SPINT2 expression in NSCLC was much lower than that in the adjacent noncancerous samples. Decreased SPINT2 expression was positively correlated to tumor invasion, distant metastasis, differentiation, and AJCC 8th stage. Moreover, we found low SPINT2 expression strongly correlated with worse overall survival in NSCLC, LUAD, and LUSC patients. These patients with low SPINT2 expression had a significantly shorter overall survival time than those with high expression. When combining STYK1 and SPINT2 expression for further analyses, Kaplan–Meier survival curves showed that patients with high STYK1/low SPINT2 had the worst prognosis in NSCLC, LUAD and LUSC. This result also suggested that elevated STYK1 and decreased SPINT2 promoted NSCLC progression. Interestingly, LUAD with low STYK1/low SPINT2 showed no statistically difference of patients’ survival compared with high STYK1/high SPINT2 group; whereas LUSC with high STYK1/high SPINT2 showed better prognosis than LUSC with low STYK1/low SPINT2. These results indicated that the expression and function of STYK1 and SPITN2 may be affected and regulated by other potential signaling cascades and mechanisms in different NSCLC subtypes, which warrants further investigation.
+31164631_36709	56	62	SPINT2	Gene-protein	HGNC:11247
+31164631_36709	124	129	NSCLC	Disease	DOID:3908
+31164631_36709	170	176	SPINT2	Gene-protein
+31164631_36709	231	237	SPINT2	Gene-protein
+31164631_36709	231	248	SPINT2 expression	Biomarker
+31164631_36709	252	257	NSCLC	Disease
+31164631_36709	321	348	Decreased SPINT2 expression	Biomarker
+31164631_36709	331	337	SPINT2	Gene-protein
+31164631_36709	378	392	tumor invasion	Biomarker
+31164631_36709	394	412	distant metastasis	Biomarker
+31164631_36709	414	429	differentiation	Biomarker
+31164631_36709	435	449	AJCC 8th stage	Biomarker
+31164631_36709	470	491	low SPINT2 expression	Biomarker
+31164631_36709	474	480	SPINT2	Gene-protein
+31164631_36709	543	548	NSCLC	Disease
+31164631_36709	543	564	NSCLC, LUAD, and LUSC	Collection
+31164631_36709	550	554	LUAD	Disease	DOID:3910
+31164631_36709	560	564	LUSC	Disease	DOID:3907
+31164631_36709	595	616	low SPINT2 expression	Biomarker
+31164631_36709	599	605	SPINT2	Gene-protein
+31164631_36709	715	720	STYK1	Gene-protein	HGNC:18889
+31164631_36709	725	731	SPINT2	Gene-protein
+31164631_36709	820	830	high STYK1	Biomarker
+31164631_36709	820	841	high STYK1/low SPINT2	Collection
+31164631_36709	831	841	low SPINT2	Biomarker
+31164631_36709	835	841	SPINT2	Gene-protein
+31164631_36709	869	874	NSCLC	Disease
+31164631_36709	869	889	NSCLC, LUAD and LUSC	Collection
+31164631_36709	876	880	LUAD	Disease
+31164631_36709	885	889	LUSC	Disease
+31164631_36709	923	937	elevated STYK1	Biomarker
+31164631_36709	923	958	elevated STYK1 and decreased SPINT2	Collection
+31164631_36709	932	937	STYK1	Gene-protein
+31164631_36709	942	958	decreased SPINT2	Biomarker
+31164631_36709	952	958	SPINT2	Gene-protein
+31164631_36709	968	973	NSCLC	Disease
+31164631_36709	1002	1006	LUAD	Disease
+31164631_36709	1012	1021	low STYK1	Biomarker
+31164631_36709	1016	1021	STYK1	Gene-protein
+31164631_36709	1023	1032	ow SPINT2	Biomarker
+31164631_36709	1026	1032	SPINT2	Gene-protein
+31164631_36709	1104	1114	high STYK1	Biomarker
+31164631_36709	1115	1132	high SPINT2 group	Biomarker
+31164631_36709	1120	1126	SPINT2	Gene-protein
+31164631_36709	1142	1146	LUSC	Disease
+31164631_36709	1152	1162	high STYK1	Biomarker
+31164631_36709	1152	1174	high STYK1/high SPINT2	Collection
+31164631_36709	1157	1162	STYK1	Gene-protein
+31164631_36709	1163	1174	high SPINT2	Biomarker
+31164631_36709	1168	1174	SPINT2	Gene-protein
+31164631_36709	1204	1208	LUSC	Disease
+31164631_36709	1214	1223	low STYK1	Biomarker
+31164631_36709	1214	1234	low STYK1/low SPINT2	Collection
+31164631_36709	1218	1223	STYK1	Gene-protein
+31164631_36709	1225	1234	ow SPINT2	Biomarker
+31164631_36709	1228	1234	SPINT2	Gene-protein
+31164631_36709	1269	1312	expression and function of STYK1 and SPITN2	Biomarker
+31164631_36709	1296	1301	STYK1	Gene-protein
+31164631_36709	1306	1312	SPITN2	Gene-protein
+31164631_36709	1409	1414	NSCLC	Disease
+

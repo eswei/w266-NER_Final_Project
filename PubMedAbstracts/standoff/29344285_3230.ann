@@ -1,0 +1,83 @@
+T0	Disease 133 139	cancer
+#1	AnnotatorNotes T0	DOID:162
+T1	RNA-Noncoding 268 275	MiR-675
+T11	Disease 521 542	hepatocellular cancer
+#4	AnnotatorNotes T11	DOID:684
+T12	Disease 548 561	breast cancer
+#5	AnnotatorNotes T12	DOID:1612
+T13	Disease 574 608	esophageal squamous cell carcinoma
+#6	AnnotatorNotes T13	DOID:3748
+T15	Disease 682 698	bile duct cancer
+#7	AnnotatorNotes T15	DOID:4606
+T18	Disease 758 783	cardiomyocyte hypertrophy
+#9	AnnotatorNotes T18	not found
+T20	Disease 933 947	gastric cancer
+#10	AnnotatorNotes T20	DOID:10534
+T21	Disease 984 990	tumour
+#11	AnnotatorNotes T21	DOID:162
+T22	Disease 1164 1181	pancreatic cancer
+#12	AnnotatorNotes T22	DOID:1793
+T23	Chemical 1279 1287	formalin
+T24	Disease 1312 1316	PDAC
+T3	Disease 337 344	tumours
+#15	AnnotatorNotes T3	DOID:162
+T5	Disease 407 413	cancer
+T6	Disease 430 436	glioma
+#17	AnnotatorNotes T6	DOID:0060108
+T7	Disease 442 456	gastric cancer
+#18	AnnotatorNotes T7	DOID:10534
+T8	Disease 467 484	colorectal cancer
+#19	AnnotatorNotes T8	DOID:9256
+T9	Disease 489 515	non-small cell lung cancer
+#20	AnnotatorNotes T9	DOID:3908
+T2	RNA-Noncoding 47 50	H19
+#2	AnnotatorNotes T2	HGNC:4713
+T4	Gene-Protein 51 55	IGF2
+#13	AnnotatorNotes T4	HGNC:5466
+T14	Biomarker 39 74	loss of H19/IGF2 cluster imprinting
+T17	Disease 87 101	tumourigenesis
+#14	AnnotatorNotes T17	DOID:162
+T19	RNA-Noncoding 161 164	H19
+T25	RNA-Noncoding 182 194	microRNA-675
+#21	AnnotatorNotes T25	HGNC:33351
+T26	RNA-Noncoding 196 203	miR-675
+#22	AnnotatorNotes T26	HGNC:33351
+T27	RNA-Noncoding 263 266	H19
+T28	Biomarker 268 275	MiR-675
+R1	Association Arg1:T14 Arg2:T17	
+#23	AnnotatorNotes T28	C548379
+R2	Association Arg1:T28 Arg2:T3	
+T29	RNA-Noncoding 360 367	miR-675
+T10	Biomarker 182 194	microRNA-675
+#3	AnnotatorNotes T10	C548379
+R3	Association Arg1:T10 Arg2:T0	
+T30	Biomarker 350 395	levels of miR-675 are significantly increased
+T31	Collection 407 608	cancer tissues such as glioma 14 , gastric cancer 10 , 15 , colorectal cancer 4 , non-small cell lung cancer 16 , hepatocellular cancer 17 , breast cancer 18 , 19 and esophageal squamous cell carcinoma
+R4	Association Arg1:T30 Arg2:T31	
+T32	Biomarker 633 655	low miR-675 expression
+R5	Association Arg1:T32 Arg2:T15	
+T16	RNA-Noncoding 736 743	miR-675
+T33	Drug 736 743	miR-675
+R6	Response Arg1:T33 Arg2:T18	
+#8	AnnotatorNotes T33	C548379
+T34	RNA-Noncoding 901 908	miR-675
+T35	Drug 901 923	miR-675 overexpression
+R7	Causes Arg1:T35 Arg2:T20	
+T36	Gene-Protein 1002 1007	RUNX1
+#16	AnnotatorNotes T36	HGNC:10471
+T37	RNA-Noncoding 1075 1082	miR-675
+T38	Gene-Protein 1124 1128	ZEB1
+#24	AnnotatorNotes T38	HGNC:11642
+T39	RNA-Noncoding 1245 1252	miR-675
+T40	Disease 1257 1261	PDAC
+#25	AnnotatorNotes T40	DOID:3498
+T41	Biomarker 1245 1252	miR-675
+T42	RNA-Noncoding 1444 1451	miR-675
+T43	RNA-Noncoding 1493 1500	miR-675
+T44	Disease 1587 1591	PDAC
+T45	Biomarker 1483 1514	decreased miR-675-5p expression
+R9	Association Arg1:T45 Arg2:T44	
+T46	Biomarker 1377 1413	five differentially expressed miRNAs
+T47	Biomarker 1425 1451	increased level of miR-675
+T48	Collection 1377 1451	five differentially expressed miRNAs, including increased level of miR-675
+R10	Association Arg1:T48 Arg2:T24	

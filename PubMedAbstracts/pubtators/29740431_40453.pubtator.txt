@@ -1,0 +1,48 @@
+29740431_40453|t|RSS_IDENT_p_29740431_b_1_4_7
+29740431_40453|a| Upregulated VCAM-1 in the CSF could distinguish CLIPPERS from both HS and RMS. Increased concentration of ICAM-1 was also observed compared to HS and as a trend when compared to RMS. These are key molecules in adhesion of lymphocytes and monocytes. Pro-inflammatory cytokines, such as IL-8, increase expression of ICAM-1 and VCAM-1 by endothelial cells ( 40 ). Indeed, increased concentration of IL-8 (CXCL8) in the CSF also differentiated CLIPPERS from HS, and there was a trend of elevated levels compared to RMS. IL-8 is produced by endothelial and glial cells, and mediates chemotaxis and neutrophil effector functions; neuroprotective and neurotrophic functions of CXCL8 are also emerging ( 41 ). Another chemokine eotaxin (CCL11) was also able to separate CLIPPERS from HS and RMS. Based on these findings, we suggest that upregulation of key molecules in chemotaxis, such as VCAM-1, ICAM-1, IL-8 (CXCL8), and eotaxin (CCL11) may serve as biomarkers for differentiating CLIPPERS from RMS. Moreover, GCSF could also differentiate CLIPPERS from HS and its upregulation may be a protective mechanism in response to inflammation ( 42 ). The tyrosine kinase sFlt-1 (VEGFR-1) was downregulated compared to HS. This molecule binds free placental growth factor and vascular endothelial growth factor, suppressing the proangiogenic effects ( 43 ). Thus, downregulation of sFlt-1 in CSF may indicate a net proangiogenic function in CLIPPERS.
+29740431_40453	30	59	Upregulated VCAM-1 in the CSF	Biomarker
+29740431_40453	42	48	VCAM-1	Gene-protein	HGNC:12663
+29740431_40453	78	86	CLIPPERS	Disease	not found
+29740431_40453	104	107	RMS	Disease	DOID:2378
+29740431_40453	109	142	Increased concentration of ICAM-1	Biomarker
+29740431_40453	136	142	ICAM-1	Gene-protein	HGNC:5344
+29740431_40453	208	211	RMS	Disease
+29740431_40453	279	305	Pro-inflammatory cytokines	Genefamily	not found
+29740431_40453	315	319	IL-8	Gene-protein	HGNC:6025
+29740431_40453	344	350	ICAM-1	Gene-protein
+29740431_40453	355	361	VCAM-1	Gene-protein
+29740431_40453	399	449	increased concentration of IL-8 (CXCL8) in the CSF	Biomarker
+29740431_40453	426	430	IL-8	Gene-protein
+29740431_40453	432	437	CXCL8	Gene-protein	HGNC:6025
+29740431_40453	470	478	CLIPPERS	Disease
+29740431_40453	470	544	CLIPPERS from HS, and there was a trend of elevated levels compared to RMS	Collection
+29740431_40453	541	544	RMS	Disease
+29740431_40453	546	550	IL-8	Gene-protein
+29740431_40453	700	705	CXCL8	Gene-protein
+29740431_40453	740	749	chemokine	Genefamily	family:483
+29740431_40453	750	757	eotaxin	Gene-protein	HGNC:10610
+29740431_40453	750	757	eotaxin	Biomarker	D054413
+29740431_40453	759	764	CCL11	Gene-protein	HGNC:10610
+29740431_40453	792	800	CLIPPERS	Disease
+29740431_40453	813	816	RMS	Disease
+29740431_40453	859	953	upregulation of key molecules in chemotaxis, such as VCAM-1, ICAM-1, IL-8 (CXCL8), and eotaxin	Biomarker
+29740431_40453	912	918	VCAM-1	Gene-protein
+29740431_40453	920	926	ICAM-1	Gene-protein
+29740431_40453	928	932	IL-8	Gene-protein
+29740431_40453	934	939	CXCL8	Gene-protein
+29740431_40453	946	953	eotaxin	Gene-protein
+29740431_40453	955	960	CCL11	Gene-protein
+29740431_40453	1006	1014	CLIPPERS	Disease
+29740431_40453	1020	1023	RMS	Disease
+29740431_40453	1035	1039	GCSF	Biomarker
+29740431_40453	1065	1073	CLIPPERS	Disease
+29740431_40453	1148	1160	inflammation	Disease	D007249
+29740431_40453	1173	1181	tyrosine	Chemical
+29740431_40453	1189	1195	sFlt-1	Gene-protein	HGNC:3763
+29740431_40453	1197	1204	VEGFR-1	Gene-protein	HGNC:3763
+29740431_40453	1265	1288	placental growth factor	Gene-protein	HGNC:8893
+29740431_40453	1293	1327	vascular endothelial growth factor	Genefamily	family:1267
+29740431_40453	1381	1412	downregulation of sFlt-1 in CSF	Biomarker
+29740431_40453	1399	1405	sFlt-1	Gene-protein
+29740431_40453	1458	1466	CLIPPERS	Disease
+

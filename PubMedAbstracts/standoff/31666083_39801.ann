@@ -1,0 +1,69 @@
+T1	Disease 81 84	GDM
+#1	AnnotatorNotes T1	DOID:11714
+T10	Biomarker 484 491	obesity
+T11	Biomarker 493 497	T2DM
+#3	AnnotatorNotes T11	D003924
+T12	Biomarker 499 517	metabolic syndrome
+#4	AnnotatorNotes T12	D024821
+T13	Biomarker 523 538	atherosclerosis
+#5	AnnotatorNotes T13	D050197
+T15	Disease 627 630	GDM
+T17	Disease 788 791	GDM
+T18	Biomarker 845 852	obesity
+T2	Chemical 115 125	fatty acid
+T20	Chemical 989 998	phosphate
+T21	Chemical 1003 1012	vitamin-D
+T23	Disease 1088 1103	atherosclerosis
+#13	AnnotatorNotes T23	DOID:1936
+T24	Disease 1108 1136	left ventricular hypertrophy
+#14	AnnotatorNotes T24	D017379
+T27	Disease 1305 1308	GDM
+T3	Disease 177 184	obesity
+#17	AnnotatorNotes T3	DOID:9970
+T4	Chemical 248 255	glucose
+T5	Chemical 275 285	fatty acid
+T6	Chemical 320 327	retinol
+T8	Chemical 370 377	retinol
+T9	Disease 443 472	inflammatory chronic diseases
+#22	AnnotatorNotes T9	not found
+T7	Gene-Protein 145 150	FABP4
+#9	AnnotatorNotes T7	HGNC:3559
+T14	Gene-Protein 115 143	fatty acid-binding protein 4
+#10	AnnotatorNotes T14	HGNC:3559
+T16	Gene-Protein 347 351	RBP4
+#11	AnnotatorNotes T16	HGNC:9922
+T19	Gene-Protein 320 345	retinol-binding protein 4
+#18	AnnotatorNotes T19	HGNC:9922
+T26	Gene-Protein 578 583	FABP4
+T28	Gene-Protein 725 729	RBP4
+T29	Biomarker 115 143	fatty acid-binding protein 4
+#2	AnnotatorNotes T29	C493410
+T30	Gene-Protein 888 915	fibroblast growth factor-23
+#6	AnnotatorNotes T30	HGNC:3680
+T31	Gene-Protein 1161 1167	FGF-23
+T32	Gene-Protein 1263 1269	FGF-23
+T33	Gene-Protein 917 923	FGF-23
+#7	AnnotatorNotes T33	HGNC:3680
+T34	Biomarker 202 223	high BMI and fat mass
+T35	Chemical 238 243	lipid
+T36	Biomarker 320 345	retinol-binding protein 4
+#19	AnnotatorNotes T36	C101326
+#20	AnnotatorNotes T10	D009765
+T37	Biomarker 563 583	high levels of FABP4
+R1	Association Arg1:T37 Arg2:T15	
+T38	Biomarker 702 758	upregulation of plasma RBP4 at the 1st and 2nd trimester
+R2	Association Arg1:T38 Arg2:T17	
+T39	Biomarker 828 840	advanced age
+T41	GeneFamily 950 958	cytokine
+#8	AnnotatorNotes T41	not found
+T42	Biomarker 1248 1269	high levels of FGF-23
+T43	Biomarker 1275 1293	low of adiponectin
+T44	Biomarker 1161 1167	FGF-23
+T45	Collection 1248 1294	high levels of FGF-23 (and low of adiponectin)
+R4	Diagnostic-of Arg1:T45 Arg2:T27	
+T46	Disease 1178 1228	adverse cardiovascular outcomes in women with T2DM
+#16	AnnotatorNotes T46	not found, DOID:9352
+R5	Association Arg1:T44 Arg2:T46	
+#12	AnnotatorNotes T44	C416507
+T22	Gene-Protein 1282 1293	adiponectin
+#15	AnnotatorNotes T22	not found

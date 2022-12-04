@@ -1,0 +1,93 @@
+T1	Biomarker 56 62	Rab27A
+T10	Biomarker 624 655	elevated expression of Rab27A/B
+T11	Disease 659 665	cancer
+T12	Disease 756 764	melanoma
+#2	AnnotatorNotes T12	DOID:1909
+T13	Disease 902 908	cancer
+T14	Collection 921 938	Rab27A and Rab27B
+T15	Disease 947 953	cancer
+T16	Disease 1033 1038	tumor
+#5	AnnotatorNotes T16	DOID:162
+T17	Disease 1257 1263	cancer
+T19	Chemical 1583 1600	Poly (ADP-ribose)
+T2	Disease 94 100	cancer
+#9	AnnotatorNotes T2	DOID:162
+T3	Biomarker 165 200	elevated Rab27A/B expression levels
+T4	Disease 208 214	cancer
+T5	Disease 268 274	cancer
+T7	Biomarker 333 339	Rab27A
+T8	Biomarker 344 350	Rab27B
+T9	Disease 580 586	cancer
+T20	Gene-Protein 67 73	Rab27B
+#7	AnnotatorNotes T20	HGNC:9767
+T21	Gene-Protein 56 62	Rab27A
+#8	AnnotatorNotes T21	HGNC:9766
+T22	Biomarker 67 73	Rab27B
+#13	AnnotatorNotes T22	C512960
+#14	AnnotatorNotes T1	C066694
+T23	Gene-Protein 174 182	Rab27A/B
+#10	AnnotatorNotes T23	HGNC:9766,HGNC:9767
+R1	Association Arg1:T3 Arg2:T4	
+T6	Gene-Protein 309 319	E-cadherin
+#11	AnnotatorNotes T6	HGNC:1748
+T24	Biomarker 309 319	E-cadherin
+#15	AnnotatorNotes T24	C513384
+T25	Gene-Protein 333 339	Rab27A
+T26	Collection 295 350	microRNAs and E-cadherin [ 66 – 70 ], Rab27A and Rab27B
+T27	Gene-Protein 344 350	Rab27B
+T28	Biomarker 295 304	microRNAs
+R2	Association Arg1:T26 Arg2:T5	
+T29	RNA-Noncoding 295 304	microRNAs
+T30	Drug-Class 433 461	Rab27A/B-specific inhibitors
+T31	Gene-Protein 433 441	Rab27A/B
+T32	Gene-Protein 543 551	Rab27A/B
+T33	Drug-Class 543 568	Rab27A/B-targeting agents
+R3	Association Arg1:T10 Arg2:T11	
+T34	Gene-Protein 647 655	Rab27A/B
+T35	Gene-Protein 727 733	Rab27A
+T36	Biomarker 727 752	Rab27A gene amplification
+R4	Association Arg1:T36 Arg2:T12	
+T37	Gene-Protein 840 848	Rab27A/B
+T38	Biomarker 840 863	Rab27A/B overexpression
+T39	Gene-Protein 921 927	Rab27A
+T40	Gene-Protein 932 938	Rab27B
+T41	Biomarker 921 927	Rab27A
+T42	Biomarker 932 938	Rab27B
+R5	Association Arg1:T14 Arg2:T15	
+T43	Gene-Protein 1128 1134	Rab27A
+T44	Gene-Protein 1139 1145	Rab27B
+T18	Gene-Protein 1384 1389	MIP-2
+T45	Gene-Protein 1390 1423	Macrophage inflammatory protein 2
+T46	Gene-Protein 1424 1429	MMP-2
+T47	Gene-Protein 1430 1456	Matrix metalloproteinase 2
+T48	GeneFamily 1528 1542	Nuclear factor
+T49	GeneFamily 1525 1527	NF
+T50	GeneFamily 1578 1582	PARP
+T51	GeneFamily 1583 1611	Poly (ADP-ribose) polymerase
+T52	Gene-Protein 1621 1629	Rab27A/B
+T53	Gene-Protein 1466 1494	Mammalian uncoordinated 13–4
+T54	Gene-Protein 1652 1692	Slp homologue lacking C2 domains protein
+T55	Gene-Protein 1646 1651	Slac2
+T56	Gene-Protein 1697 1723	Synaptotagmin-like protein
+T57	Gene-Protein 1693 1696	Slp
+T58	Gene-Protein 1724 1727	TFR
+T59	Gene-Protein 1728 1750	Transferring receptors
+#1	AnnotatorNotes T29	family:476
+#3	AnnotatorNotes T28	D035683
+T60	Chemical 1364 1368	LTB4
+T61	Chemical 1369 1383	Leukotriene B4
+#4	AnnotatorNotes T45	HGNC:4603
+#6	AnnotatorNotes T18	HGNC:4603
+#12	AnnotatorNotes T46	HGNC:7166
+#16	AnnotatorNotes T47	HGNC:7166
+#17	AnnotatorNotes T53	HGNC:23147
+T62	Gene-Protein 1457 1465	Munc13–4
+#18	AnnotatorNotes T62	HGNC:23147
+#19	AnnotatorNotes T48	family:1985
+#20	AnnotatorNotes T49	family:1985
+#21	AnnotatorNotes T50	family:684
+#22	AnnotatorNotes T51	family:684
+#23	AnnotatorNotes T56	HGNC:15584
+#24	AnnotatorNotes T57	HGNC:15584
+#25	AnnotatorNotes T59	HGNC:11763
+#26	AnnotatorNotes T58	HGNC:11763

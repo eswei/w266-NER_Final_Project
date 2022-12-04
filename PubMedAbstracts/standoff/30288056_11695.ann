@@ -1,0 +1,84 @@
+T1	Disease 121 127	tumors
+#1	AnnotatorNotes T1	DOID:162
+T11	Disease 691 706	prostate cancer
+#3	AnnotatorNotes T11	DOID:10283
+T12	Disease 728 733	tumor
+#4	AnnotatorNotes T12	DOID:162
+T13	Disease 755 760	tumor
+T14	Disease 819 824	tumor
+T15	Disease 894 905	lung cancer
+#7	AnnotatorNotes T15	DOID:1324
+T16	Disease 921 955	esophageal squamous cell carcinoma
+#8	AnnotatorNotes T16	DOID:3748
+T18	Disease 1008 1013	tumor
+T20	Disease 1095 1098	RCC
+#10	AnnotatorNotes T20	DOID:4450
+T21	Disease 1145 1179	esophageal squamous cell carcinoma
+T22	Disease 1245 1248	RCC
+T25	Disease 1309 1312	RCC
+T27	Disease 1367 1373	cancer
+#14	AnnotatorNotes T27	DOID:162
+T29	Disease 1471 1483	invasive RCC
+#15	AnnotatorNotes T29	not found
+T3	Disease 185 198	breast cancer
+#16	AnnotatorNotes T3	DOID:1612
+T31	Disease 1696 1699	RCC
+T33	Disease 1792 1795	RCC
+T5	Disease 330 344	breast cancers
+#19	AnnotatorNotes T5	DOID:1612
+T7	Disease 454 467	breast cancer
+T2	Gene-Protein 63 67	CAV2
+#22	AnnotatorNotes T2	HGNC:1528
+T4	Biomarker 63 67	CAV2
+#23	AnnotatorNotes T4	C495544
+R1	Association Arg1:T4 Arg2:T1	
+T6	Gene-Protein 147 151	CAV2
+T9	Gene-Protein 206 210	CAV2
+T17	Biomarker 147 151	CAV2
+R2	Association Arg1:T17 Arg2:T3	
+T19	Biomarker 206 221	CAV2 expression
+T23	Biomarker 274 297	high histological grade
+T24	Biomarker 302 306	CAV2
+T26	Gene-Protein 302 306	CAV2
+R3	Prognostic-Poor Arg1:T24 Arg2:T5	
+T28	Biomarker 421 450	CAV2 expression is suppressed
+T30	Gene-Protein 421 425	CAV2
+R4	Association Arg1:T28 Arg2:T7	
+T8	Biomarker 517 529	reduced CAV1
+T32	Gene-Protein 525 529	CAV1
+T10	Biomarker 563 584	increasing tumor size
+T34	Biomarker 653 671	plasma CAV2 levels
+T35	Gene-Protein 660 664	CAV2
+R5	Association Arg1:T34 Arg2:T11	
+T36	Gene-Protein 711 715	CAV2
+T37	Biomarker 711 715	CAV2
+R6	Association Arg1:T37 Arg2:T12	
+T38	Gene-Protein 811 815	CAV2
+T40	Gene-Protein 843 847	CAV2
+T41	Biomarker 843 847	CAV2
+R8	Association Arg1:T41 Arg2:T15	
+T42	Biomarker 961 989	increased expression of CAV2
+T43	Gene-Protein 985 989	CAV2
+R9	Prognostic-Poor Arg1:T42 Arg2:T16	
+T44	Gene-Protein 1050 1054	CAV2
+T45	Biomarker 1050 1054	CAV2
+R10	Association Arg1:T45 Arg2:T20	
+R11	Association Arg1:T45 Arg2:T21	
+T46	Gene-Protein 1224 1228	CAV2
+T47	Biomarker 1276 1305	CAV2 had increased expression
+T48	Gene-Protein 1276 1280	CAV2
+R12	Association Arg1:T47 Arg2:T25	
+T49	Biomarker 1318 1346	increased expression of CAV2
+T50	Gene-Protein 1342 1346	CAV2
+R13	Association Arg1:T49 Arg2:T27	
+T51	Biomarker 1387 1407	CAV2 high expression
+T52	Gene-Protein 1387 1391	CAV2
+R14	Prognostic-Poor Arg1:T51 Arg2:T29	
+T53	Gene-Protein 1498 1502	CAV2
+T54	Gene-Protein 1627 1631	CAV2
+T55	Biomarker 1740 1763	high expression of CAV2
+T56	Gene-Protein 1759 1763	CAV2
+R15	Association Arg1:T55 Arg2:T33	
+T39	Drug 1617 1631	silencing CAV2
+#2	AnnotatorNotes T39	not found
+R7	Response Arg1:T39 Arg2:T31	

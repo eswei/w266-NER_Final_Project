@@ -1,0 +1,47 @@
+31818312_77604|t|RSS_IDENT_p_31818312_b_1_4_5
+31818312_77604|a| Enhanced invasiveness and metastatic abilities are regarded as the main reasons for poor prognosis in malignant tumors. In the present study, lncRNA overexpression promoted the invasiveness and metastasis of NSCLC in vitro and in vivo by sponging miRNAs. Clinically, lncRNA expression negatively correlates with the levels of miRNAs in human cancer tissues [ 3 , 30 , 33 ]. Consequently, the current study confirmed that some miRNAs were sponged by lncRNA, which in turn, promote the invasiveness and metastasis of NSCLC cells in vitro and in vivo. Recent bioinformatics analyses and luciferase reporter assays identified lncRNA MALAT1 as a potential ceRNA that sponges miR-216a-5p [ 38 ], miR-126-5p [ 39 ], and miR-328 [ 40 ] in NSCLC. Our findings suggested that MALAT1 might promote the invasiveness and metastasis of tumor cells by regulating miR-1914-3p, which agrees with previous findings [ 38 – 40 ]. In bone marrow cells, the hematopoietic deficiency of MALAT1 promotes atherosclerosis and plaque inflammation. MALAT1 upregulation also contributes to endothelial cell function and vessel growth. In human multiple myeloma, MALAT1 inhibits gene expression of proteasome subunits and triggers anti-multiple myeloma activity via LNA gapmeR antisense oligonucleotides. However, these findings were challenged by the study of Kim et al., which showed that MALAT1 is a metastasis-suppressing lncRNA that interacts with TEAD rather than a metastasis promoter in breast cancer, calling for the reconsideration of the roles of this highly abundant and conserved lncRNA. Thus, MALAT1 exerts distinct effects on different tumors. The level of this specific lncRNA might be valuable for NSCLC prognosis, and thus, further investigations of the relationship between MALAT1 and miR-1914-3p should be carried out.
+31818312_77604	30	76	Enhanced invasiveness and metastatic abilities	Biomarker
+31818312_77604	132	148	malignant tumors	Disease	DOID:162
+31818312_77604	172	178	lncRNA	Rna-noncoding	family:788
+31818312_77604	172	193	lncRNA overexpression	Biomarker
+31818312_77604	238	243	NSCLC	Disease	DOID:3908
+31818312_77604	297	303	lncRNA	Rna-noncoding
+31818312_77604	297	314	lncRNA expression	Biomarker
+31818312_77604	346	362	levels of miRNAs	Biomarker
+31818312_77604	356	362	miRNAs	Rna-noncoding	family:476
+31818312_77604	372	378	cancer	Disease	DOID:162
+31818312_77604	479	485	lncRNA	Biomarker	D062085
+31818312_77604	479	485	lncRNA	Rna-noncoding
+31818312_77604	545	550	NSCLC	Disease
+31818312_77604	659	665	MALAT1	Rna-noncoding	HGNC:29665
+31818312_77604	700	711	miR-216a-5p	Rna-noncoding	HGNC:31593
+31818312_77604	720	730	miR-126-5p	Rna-noncoding	HGNC:31508
+31818312_77604	743	750	miR-328	Rna-noncoding	HGNC:31770
+31818312_77604	761	766	NSCLC	Disease
+31818312_77604	796	802	MALAT1	Rna-noncoding
+31818312_77604	796	802	MALAT1	Biomarker	C557041
+31818312_77604	852	857	tumor	Disease	DOID:162
+31818312_77604	878	889	miR-1914-3p	Rna-noncoding	HGNC:35398
+31818312_77604	966	1000	hematopoietic deficiency of MALAT1	Biomarker
+31818312_77604	994	1000	MALAT1	Rna-noncoding
+31818312_77604	1010	1025	atherosclerosis	Disease	DOID:1936
+31818312_77604	1010	1049	atherosclerosis and plaque inflammation	Collection
+31818312_77604	1030	1049	plaque inflammation	Disease	not found
+31818312_77604	1051	1057	MALAT1	Rna-noncoding
+31818312_77604	1051	1070	MALAT1 upregulation	Biomarker
+31818312_77604	1145	1161	multiple myeloma	Disease	DOID:9538
+31818312_77604	1163	1169	MALAT1	Rna-noncoding
+31818312_77604	1266	1303	LNA gapmeR antisense oligonucleotides	Drug-class
+31818312_77604	1391	1397	MALAT1	Rna-noncoding
+31818312_77604	1391	1397	MALAT1	Biomarker
+31818312_77604	1453	1457	TEAD	Genefamily	family:1183
+31818312_77604	1495	1508	breast cancer	Disease	DOID:1612
+31818312_77604	1607	1613	MALAT1	Rna-noncoding
+31818312_77604	1607	1613	MALAT1	Biomarker
+31818312_77604	1651	1657	tumors	Disease	DOID:162
+31818312_77604	1715	1720	NSCLC	Disease
+31818312_77604	1793	1799	MALAT1	Rna-noncoding
+31818312_77604	1793	1799	MALAT1	Biomarker
+31818312_77604	1804	1815	miR-1914-3p	Rna-noncoding
+31818312_77604	1804	1815	miR-1914-3p	Biomarker	C000708429
+

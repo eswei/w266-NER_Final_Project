@@ -1,0 +1,54 @@
+T0	Disease 97 103	cancer
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 127 156	triple-negative breast cancer
+#2	AnnotatorNotes T1	DOID:0060081
+T10	Disease 659 665	cancer
+T12	Disease 978 980	EA
+T13	Chemical 1050 1053	CpG
+T14	Chemical 1100 1103	CpG
+T16	Disease 1391 1393	EA
+T18	Chemical 1696 1699	CpG
+T19	Disease 1786 1788	EA
+T4	Drug 203 212	Docetaxel
+T5	Disease 234 270	castration-resistant prostate cancer
+#13	AnnotatorNotes T5	not found
+T7	Chemical 314 320	lysine
+T8	Chemical 433 439	lysine
+T3	Gene-Protein 30 35	CENPE
+#5	AnnotatorNotes T3	HGNC:1856
+T9	Gene-Protein 164 169	CENPE
+T2	Gene-Protein 1709 1714	CENPE
+T6	Gene-Protein 1231 1236	CENPE
+T15	Gene-Protein 636 641	CENPE
+T17	Gene-Protein 535 540	CENPE
+T20	Gene-Protein 1063 1068	CENPE
+T21	Gene-Protein 494 499	CENPE
+T22	Gene-Protein 1777 1782	CENPE
+T23	Gene-Protein 1459 1464	CENPE
+#6	AnnotatorNotes T4	CHEMBL92
+T24	Gene-Protein 314 344	lysine-specific demethylase 1A
+#3	AnnotatorNotes T24	HGNC:29079
+T25	Gene-Protein 346 350	LSD1
+#7	AnnotatorNotes T25	HGNC:29079
+#4	AnnotatorNotes T12	DOID:10485
+T11	Disease 1133 1135	EA
+T26	Disease 1076 1078	EA
+T27	Biomarker 1352 1374	heterozygous loss (-1)
+R1	Association Arg1:T27 Arg2:T16	
+T28	Biomarker 1149 1186	two sites (cg27443373 and cg24651824)
+T29	Biomarker 636 655	CENPE dysregulation
+R2	Association Arg1:T29 Arg2:T10	
+T30	GeneFamily 430 432	H3
+#8	AnnotatorNotes T30	family:864
+T31	Biomarker 30 46	CENPE expression
+R3	Association Arg1:T31 Arg2:T0	
+T32	GeneFamily 422 429	histone
+T33	GeneFamily 731 738	histone
+T34	GeneFamily 364 371	histone
+#10	AnnotatorNotes T34	family:864
+T35	Gene-Protein 476 478	AR
+#9	AnnotatorNotes T35	HGNC:644
+T38	Biomarker 1262 1284	high methylation group
+T41	Biomarker 1495 1562	lower level of the average methylation of cg27443373 and cg24651824
+T42	Biomarker 1765 1782	upregulated CENPE
+R4	Association Arg1:T42 Arg2:T19	

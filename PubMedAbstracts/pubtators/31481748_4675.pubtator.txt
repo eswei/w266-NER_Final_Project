@@ -1,0 +1,100 @@
+31481748_4675|t|RSS_IDENT_p_31481748_b_1_1_5
+31481748_4675|a| Targeting microRNAs (miRNAs), or their associated regulatory networks, which are dysregulated in TNBC might represent a viable strategy for targeted therapeutics. miRNAs are short (18–23 nt) non-coding RNAs that regulate virtually all biological functions via post-transcriptional gene silencing. Altered miRNA expression is common during cancer initiation and metastasis ⁶ . A systems level analysis of miRNA expression in human breast tumours revealed that specific miRNAs may serve as potential oncogenes or tumour suppressors and function by modulating the immune response that characterizes these tumours ⁹ . In fact, miRNA expression signatures are also correlated with the hormone receptor status in breast cancer. Three classes of miRNA signatures corresponding with ER (miR-342, miR-299, miR-217, miR-190, miR-135b and miR-218), PR (miR-520g, miR-377, miR-527–518a and miR-520f-520c) and HER2 (miR-520d, miR-181c, miR-302c, miR-376b and miR-30e) have been characterized, respectively ¹⁰ . Moreover, as many as 133 miRNAs are differentially expressed between tumours and healthy tissue ⁷ . An array of studies has been published on miRNA signatures in TNBC that have elucidated the roles of miRNAs in the progression or suppression of tumors. A number of them are overexpressed, namely miR-221, miR-222, miR-100, miR-146a, miR-125b ¹¹ – ¹⁴ , miR-29a, miR-31, miR-130a, miR-140-3p, miR-455, miR-199a/b-3p ¹⁴ , miR-135-5p, miR-18-5p, miR-9-5p, miR-522-3p ¹⁵ , while miRNA genes like miR-26a ¹⁶ , miR-20a-5p ¹⁷ , miR-124 ¹⁸ , miR-200, miR-182, miR-141, miR-375, miR-203 ¹¹ – ¹³ , miR-190-5p, miR-449a ¹⁵ , have reduced expression in TNBC tumours. Among this list of differentially expressed miRNAs, we have previously demonstrated oncogenic potential for miR-138 in recurrent malignant gliomas, and were interested in exploring its roles in the context of breast cancer. In gliomas, miR-138 is transcribed by RNA Pol III ⁸ and promotes the survival of glioma stem cells ⁹ . Aberrant miR-138 expression has been reported in various cancers including anaplastic thyroid carcinoma (ATC), NSCLC, and gallbladder carcinoma ¹⁰ – ¹² . Increased expression of miR-138 in TNBC has been reported ¹¹ , ¹³ , ¹⁹ , ²⁰ . miR-138 may modulate metastasis and epithelial-mesenchymal transformation (EMT) ²¹ . By and large, epigenetic and genetic changes in cancer cells during malignant transformation alter the suite of mRNAs available as targets for miRNAs. Therefore, the cellular context-specific function of miRNAs depends on the available cohorts of downstream effectors ¹³ . Hence, we hypothesize that in breast cancer, tumour cells might differ in their behaviour, including their expression and utilization of miR-138, by subtype.
+31481748_4675	30	123	Targeting microRNAs (miRNAs), or their associated regulatory networks, which are dysregulated	Biomarker
+31481748_4675	40	49	microRNAs	Rna-noncoding	family:476
+31481748_4675	51	57	miRNAs	Rna-noncoding	family:476
+31481748_4675	127	131	TNBC	Disease	DOID:0060081
+31481748_4675	327	351	Altered miRNA expression	Biomarker
+31481748_4675	335	340	miRNA	Rna-noncoding
+31481748_4675	369	375	cancer	Disease	DOID:162
+31481748_4675	408	450	systems level analysis of miRNA expression	Biomarker
+31481748_4675	434	439	miRNA	Rna-noncoding
+31481748_4675	460	474	breast tumours	Disease	DOID:1612
+31481748_4675	541	547	tumour	Disease	DOID:162
+31481748_4675	632	639	tumours	Disease	DOID:162
+31481748_4675	653	658	miRNA	Rna-noncoding
+31481748_4675	653	680	miRNA expression signatures	Biomarker
+31481748_4675	710	733	hormone receptor status	Biomarker
+31481748_4675	737	750	breast cancer	Disease	DOID:1612
+31481748_4675	805	807	ER	Gene-protein	HGNC:3467
+31481748_4675	809	816	miR-342	Rna-noncoding
+31481748_4675	818	825	miR-299	Rna-noncoding
+31481748_4675	827	834	miR-217	Rna-noncoding
+31481748_4675	836	843	miR-190	Rna-noncoding
+31481748_4675	845	853	miR-135b	Rna-noncoding
+31481748_4675	858	865	miR-218	Rna-noncoding
+31481748_4675	868	870	PR	Gene-protein	HGNC:8910
+31481748_4675	872	880	miR-520g	Rna-noncoding
+31481748_4675	882	889	miR-377	Rna-noncoding
+31481748_4675	891	903	miR-527–518a	Rna-noncoding
+31481748_4675	908	921	miR-520f-520c	Rna-noncoding
+31481748_4675	927	931	HER2	Gene-protein	 HGNC:3430
+31481748_4675	933	941	miR-520d	Rna-noncoding
+31481748_4675	943	951	miR-181c	Rna-noncoding
+31481748_4675	953	961	miR-302c	Rna-noncoding
+31481748_4675	963	971	miR-376b	Rna-noncoding
+31481748_4675	976	983	miR-30e	Rna-noncoding
+31481748_4675	1049	1088	133 miRNAs are differentially expressed	Biomarker
+31481748_4675	1053	1059	miRNAs	Rna-noncoding
+31481748_4675	1097	1104	tumours	Disease
+31481748_4675	1170	1175	miRNA	Rna-noncoding
+31481748_4675	1170	1186	miRNA signatures	Biomarker
+31481748_4675	1190	1194	TNBC	Disease
+31481748_4675	1229	1235	miRNAs	Rna-noncoding
+31481748_4675	1229	1235	miRNAs	Biomarker
+31481748_4675	1273	1279	tumors	Disease
+31481748_4675	1302	1490	overexpressed, namely miR-221, miR-222, miR-100, miR-146a, miR-125b ¹¹ – ¹⁴ , miR-29a, miR-31, miR-130a, miR-140-3p, miR-455, miR-199a/b-3p ¹⁴ , miR-135-5p, miR-18-5p, miR-9-5p, miR-522-3p	Biomarker
+31481748_4675	1302	1664	overexpressed, namely miR-221, miR-222, miR-100, miR-146a, miR-125b ¹¹ – ¹⁴ , miR-29a, miR-31, miR-130a, miR-140-3p, miR-455, miR-199a/b-3p ¹⁴ , miR-135-5p, miR-18-5p, miR-9-5p, miR-522-3p ¹⁵ , while miRNA genes like miR-26a ¹⁶ , miR-20a-5p ¹⁷ , miR-124 ¹⁸ , miR-200, miR-182, miR-141, miR-375, miR-203 ¹¹ – ¹³ , miR-190-5p, miR-449a ¹⁵ , have reduced expression	Collection
+31481748_4675	1324	1331	miR-221	Rna-noncoding
+31481748_4675	1333	1340	miR-222	Rna-noncoding
+31481748_4675	1342	1349	miR-100	Rna-noncoding
+31481748_4675	1351	1359	miR-146a	Rna-noncoding
+31481748_4675	1361	1369	miR-125b	Rna-noncoding
+31481748_4675	1380	1387	miR-29a	Rna-noncoding
+31481748_4675	1389	1395	miR-31	Rna-noncoding
+31481748_4675	1397	1405	miR-130a	Rna-noncoding
+31481748_4675	1407	1417	miR-140-3p	Rna-noncoding
+31481748_4675	1419	1426	miR-455	Rna-noncoding
+31481748_4675	1428	1441	miR-199a/b-3p	Rna-noncoding
+31481748_4675	1447	1457	miR-135-5p	Rna-noncoding
+31481748_4675	1459	1468	miR-18-5p	Rna-noncoding
+31481748_4675	1470	1478	miR-9-5p	Rna-noncoding
+31481748_4675	1480	1490	miR-522-3p	Rna-noncoding
+31481748_4675	1502	1664	miRNA genes like miR-26a ¹⁶ , miR-20a-5p ¹⁷ , miR-124 ¹⁸ , miR-200, miR-182, miR-141, miR-375, miR-203 ¹¹ – ¹³ , miR-190-5p, miR-449a ¹⁵ , have reduced expression	Biomarker
+31481748_4675	1519	1526	miR-26a	Rna-noncoding
+31481748_4675	1532	1542	miR-20a-5p	Rna-noncoding
+31481748_4675	1548	1555	miR-124	Rna-noncoding
+31481748_4675	1561	1568	miR-200	Rna-noncoding
+31481748_4675	1570	1577	miR-182	Rna-noncoding
+31481748_4675	1579	1586	miR-141	Rna-noncoding
+31481748_4675	1588	1595	miR-375	Rna-noncoding
+31481748_4675	1597	1604	miR-203	Rna-noncoding
+31481748_4675	1615	1625	miR-190-5p	Rna-noncoding
+31481748_4675	1627	1635	miR-449a	Rna-noncoding
+31481748_4675	1668	1672	TNBC	Disease
+31481748_4675	1790	1797	miR-138	Rna-noncoding	family:1758
+31481748_4675	1811	1828	malignant gliomas	Disease	DOID:0060108
+31481748_4675	1891	1904	breast cancer	Disease
+31481748_4675	1909	1916	gliomas	Disease	DOID:0060108
+31481748_4675	1918	1925	miR-138	Biomarker
+31481748_4675	1918	1925	miR-138	Rna-noncoding
+31481748_4675	1944	1955	RNA Pol III	Genefamily	not found
+31481748_4675	1987	1993	glioma	Disease	 D005910
+31481748_4675	2009	2036	Aberrant miR-138 expression	Biomarker
+31481748_4675	2016	2025	t miR-138	Rna-noncoding
+31481748_4675	2066	2073	cancers	Disease	DOID:162
+31481748_4675	2066	2152	cancers including anaplastic thyroid carcinoma (ATC), NSCLC, and gallbladder carcinoma	Collection
+31481748_4675	2084	2112	anaplastic thyroid carcinoma	Disease	DOID:0080522
+31481748_4675	2114	2117	ATC	Disease	DOID:0080522
+31481748_4675	2120	2125	NSCLC	Disease	DOID:3908
+31481748_4675	2131	2152	gallbladder carcinoma	Disease	DOID:4948
+31481748_4675	2163	2194	Increased expression of miR-138	Biomarker
+31481748_4675	2187	2194	miR-138	Rna-noncoding
+31481748_4675	2198	2202	TNBC	Disease
+31481748_4675	2241	2248	miR-138	Biomarker
+31481748_4675	2241	2248	miR-138	Rna-noncoding
+31481748_4675	2374	2380	cancer	Disease
+31481748_4675	2629	2642	breast cancer	Disease
+31481748_4675	2644	2650	tumour	Disease
+31481748_4675	2736	2743	miR-138	Rna-noncoding
+

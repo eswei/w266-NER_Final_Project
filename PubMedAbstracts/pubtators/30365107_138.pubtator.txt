@@ -1,0 +1,86 @@
+30365107_138|t|RSS_IDENT_p_30365107_a_1_1
+30365107_138|a| Prostate cancer (PCa) remains a principal issue to be addressed in male cancer-associated mortality. Therefore, the present study aimed to examine the clinical value and associated molecular mechanism of microRNA (miR)-1 in PCa. A meta-analysis was conducted to evaluate the diagnosis of miR-1 in PCa via Gene Expression Omnibus and ArrayExpress datasets, The Cancer Genome Atlas miR-1 expression data and published literature. It was identified that expression of miR-1 was significantly downregulated in PCa. Decreased miR-1 expression possessed moderate diagnostic value, with area under the curve, sensitivity, specificity and odds ratio values at 0.73, 0.77, 0.57 and 4.60, respectively. Using bioinformatics methods, it was revealed that a number of pathways, including the ‘androgen receptor signaling pathway’, ‘androgen receptor activity’, ‘transcription factor binding’ and ‘protein processing in the endoplasmic reticulum’, were important in PCa. A total of seven hub genes, including phosphoribosylaminoimidazole carboxylase and phosphoribosylaminoimidazolesuccin ocarboxamide synthase (PAICS), cadherin 1 (CDH1), SRC proto-oncogene, non-receptor tyrosine kinase, twist family bHLH transcription factor 1 (TWIST1), ZW10 interacting kinetochore protein (ZWINT), PCNA clamp associated factor (KIAA0101) and androgen receptor, among which, five (PAICS, CDH1, TWIST1, ZWINT and KIAA0101) were significantly upregulated and negatively correlated with miR-1, were identified as key miR-1 target genes in PCa. Additionally, it was investigated whether miR-1 and its hub genes were associated with clinical features, including age, tumor status, residual tumor, lymph node metastasis, pathological T stage and prostate specific antigen level. Collectively the results suggest that miR-1 may be involved in the progression of PCa, and consequently be a promising diagnostic marker. The ‘androgen receptor signaling pathway’, ‘androgen receptor activity’, ‘transcription factor binding’ and ‘protein processing in the endoplasmic reticulum’ may be crucial interactive pathways in PCa. Furthermore, PAICS, CDH1, TWIST1, ZWINT and KIAA0101 may serve as crucial miR-1 target genes in PCa.
+30365107_138	28	43	Prostate cancer	Disease	DOID:10283
+30365107_138	45	48	PCa	Disease	DOID:10283
+30365107_138	100	106	cancer	Disease	DOID:162
+30365107_138	232	248	microRNA (miR)-1	Rna-noncoding
+30365107_138	252	255	PCa	Disease
+30365107_138	316	321	miR-1	Rna-noncoding
+30365107_138	325	328	PCa	Disease
+30365107_138	479	530	expression of miR-1 was significantly downregulated	Biomarker
+30365107_138	493	498	miR-1	Rna-noncoding
+30365107_138	534	537	PCa	Disease
+30365107_138	539	565	Decreased miR-1 expression	Biomarker
+30365107_138	549	554	miR-1	Rna-noncoding
+30365107_138	809	817	androgen	Chemical
+30365107_138	809	826	androgen receptor	Gene-protein	HGNC:644
+30365107_138	809	844	androgen receptor signaling pathway	Biomarker
+30365107_138	809	960	androgen receptor signaling pathway’, ‘androgen receptor activity’, ‘transcription factor binding’ and ‘protein processing in the endoplasmic reticulum	Collection
+30365107_138	848	856	androgen	Chemical
+30365107_138	848	865	androgen receptor	Gene-protein
+30365107_138	848	874	androgen receptor activity	Biomarker
+30365107_138	878	907	transcription factor binding’	Biomarker
+30365107_138	913	960	protein processing in the endoplasmic reticulum	Biomarker
+30365107_138	981	984	PCa	Disease
+30365107_138	1024	1052	phosphoribosylaminoimidazole	Chemical
+30365107_138	1024	1125	phosphoribosylaminoimidazole carboxylase and phosphoribosylaminoimidazolesuccin ocarboxamide synthase	Gene-protein
+30365107_138	1069	1116	phosphoribosylaminoimidazolesuccin ocarboxamide	Chemical
+30365107_138	1127	1132	PAICS	Gene-protein
+30365107_138	1135	1145	cadherin 1	Gene-protein
+30365107_138	1147	1151	CDH1	Gene-protein
+30365107_138	1154	1157	SRC	Gene-protein
+30365107_138	1174	1202	non-receptor tyrosine kinase	Gene-protein
+30365107_138	1187	1195	tyrosine	Chemical
+30365107_138	1204	1244	twist family bHLH transcription factor 1	Gene-protein
+30365107_138	1246	1252	TWIST1	Gene-protein
+30365107_138	1255	1291	ZW10 interacting kinetochore protein	Gene-protein
+30365107_138	1293	1298	ZWINT	Gene-protein
+30365107_138	1301	1329	PCNA clamp associated factor	Gene-protein
+30365107_138	1331	1339	KIAA0101	Gene-protein
+30365107_138	1345	1353	androgen	Chemical
+30365107_138	1345	1362	androgen receptor	Gene-protein
+30365107_138	1383	1388	PAICS	Gene-protein
+30365107_138	1383	1454	PAICS, CDH1, TWIST1, ZWINT and KIAA0101) were significantly upregulated	Biomarker
+30365107_138	1390	1394	CDH1	Gene-protein
+30365107_138	1396	1402	TWIST1	Gene-protein
+30365107_138	1404	1409	ZWINT	Gene-protein
+30365107_138	1414	1422	KIAA0101	Gene-protein
+30365107_138	1486	1491	miR-1	Rna-noncoding
+30365107_138	1486	1491	miR-1	Biomarker	C544547
+30365107_138	1516	1521	miR-1	Rna-noncoding
+30365107_138	1538	1541	PCa	Disease
+30365107_138	1585	1590	miR-1	Rna-noncoding
+30365107_138	1659	1662	age	Biomarker	D017668
+30365107_138	1664	1676	tumor status	Biomarker
+30365107_138	1678	1692	residual tumor	Biomarker
+30365107_138	1694	1715	lymph node metastasis	Biomarker
+30365107_138	1717	1737	pathological T stage	Biomarker
+30365107_138	1742	1767	prostate specific antigen	Gene-protein	HGNC:6364
+30365107_138	1742	1773	prostate specific antigen level	Biomarker
+30365107_138	1813	1818	miR-1	Biomarker
+30365107_138	1813	1818	miR-1	Rna-noncoding
+30365107_138	1857	1860	PCa	Disease
+30365107_138	1918	1926	androgen	Chemical
+30365107_138	1918	1935	androgen receptor	Gene-protein
+30365107_138	1918	1953	androgen receptor signaling pathway	Biomarker
+30365107_138	1918	2070	androgen receptor signaling pathway’, ‘androgen receptor activity’, ‘transcription factor binding’ and ‘protein processing in the endoplasmic reticulum’	Collection
+30365107_138	1957	1965	androgen	Chemical
+30365107_138	1957	1974	androgen receptor	Gene-protein
+30365107_138	1957	1983	androgen receptor activity	Biomarker
+30365107_138	1987	2015	transcription factor binding	Biomarker
+30365107_138	2022	2069	protein processing in the endoplasmic reticulum	Biomarker
+30365107_138	2110	2113	PCa	Disease
+30365107_138	2128	2133	PAICS	Biomarker
+30365107_138	2128	2133	PAICS	Gene-protein
+30365107_138	2128	2167	PAICS, CDH1, TWIST1, ZWINT and KIAA0101	Collection
+30365107_138	2135	2139	CDH1	Gene-protein
+30365107_138	2135	2139	CDH1	Biomarker	D064200
+30365107_138	2141	2147	TWIST1	Gene-protein
+30365107_138	2141	2147	TWIST1	Biomarker	C103173
+30365107_138	2149	2154	ZWINT	Gene-protein
+30365107_138	2149	2154	ZWINT	Biomarker	C413695
+30365107_138	2159	2167	KIAA0101	Gene-protein
+30365107_138	2159	2167	KIAA0101	Biomarker	C425208
+30365107_138	2189	2194	miR-1	Rna-noncoding
+30365107_138	2211	2214	PCa	Disease
+

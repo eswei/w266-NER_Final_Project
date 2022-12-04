@@ -1,0 +1,94 @@
+T1	Disease 116 135	T2 hyperintensities
+#1	AnnotatorNotes T1	not found
+T10	Disease 405 408	SAH
+T11	Disease 485 507	oligodendrocyte injury
+T12	Disease 513 526	myelin damage
+#4	AnnotatorNotes T12	not found
+T13	Disease 562 577	ischemic stroke
+#5	AnnotatorNotes T13	D000083242
+T16	Disease 746 752	cancer
+#6	AnnotatorNotes T16	DOID:162
+T17	Disease 757 776	acute kidney injury
+#7	AnnotatorNotes T17	DOID:3021
+T18	Disease 784 787	SAH
+T21	Disease 948 951	SAH
+T24	Chemical 1275 1279	iron
+T25	Disease 1293 1303	hemorrhage
+#13	AnnotatorNotes T25	D006470
+T26	Chemical 1324 1328	iron
+T29	Disease 1439 1468	SAH‐induced neuroinflammation
+T3	Drug 243 258	LCN2 deficiency
+#17	AnnotatorNotes T3	not found
+T30	Disease 1596 1610	brain ischemia
+#18	AnnotatorNotes T30	DOID:2316
+T6	Disease 308 325	neuroinflammation
+T9	Disease 370 400	thrombin induced hydrocephalus
+#20	AnnotatorNotes T9	not found
+T4	Gene-Protein 73 77	LCN2
+#2	AnnotatorNotes T4	HGNC:6526
+T5	Drug 73 86	LCN2 deletion
+#3	AnnotatorNotes T5	not found
+R1	Response Arg1:T5 Arg2:T2	
+T7	Gene-Protein 370 378	thrombin
+#8	AnnotatorNotes T7	HGNC:3535
+T8	Gene-Protein 243 247	LCN2
+T14	Gene-Protein 449 453	LCN2
+T15	Gene-Protein 689 695	HIF‐1α
+T19	Disease 137 151	BBB disruption
+#11	AnnotatorNotes T19	not found
+T20	Disease 153 173	oligodendrocyte loss
+#12	AnnotatorNotes T20	not found
+T23	Disease 179 241	myelin degradation in the hyperacute (4 hours) phase after SAH
+#14	AnnotatorNotes T23	not found
+#9	AnnotatorNotes T10	D013345
+T2	Collection 116 241	T2 hyperintensities, BBB disruption, oligodendrocyte loss, and myelin degradation in the hyperacute (4 hours) phase after SAH
+T27	Disease 289 303	BBB disruption
+#15	AnnotatorNotes T6	not found
+T31	Disease 330 368	oxidative stress at 24 hours after ICH
+#16	AnnotatorNotes T31	not found
+T32	Collection 289 408	BBB disruption and neuroinflammation and oxidative stress at 24 hours after ICH, thrombin induced hydrocephalus and SAH
+R2	Response Arg1:T3 Arg2:T32	
+T33	Disease 469 483	BBB disruption
+T34	Biomarker 449 453	LCN2
+#19	AnnotatorNotes T34	C489506
+T35	Collection 469 526	BBB disruption, oligodendrocyte injury, and myelin damage
+R3	Association Arg1:T34 Arg2:T35	
+T36	Gene-Protein 602 608	HIF‐1α
+#10	AnnotatorNotes T36	HGNC:4910
+T37	Gene-Protein 614 656	vascular endothelial growth factor (VEGF)A
+#21	AnnotatorNotes T37	HGNC:12680
+T38	Biomarker 594 671	hypoxia—HIF‐1α‐LCN2—vascular endothelial growth factor (VEGF)A axis signaling
+R4	Association Arg1:T38 Arg2:T13	
+T39	Biomarker 689 718	HIF‐1α‐LCN2 signaling pathway
+T40	Collection 746 776	cancer and acute kidney injury
+R5	Association Arg1:T39 Arg2:T40	
+T41	Biomarker 833 845	elevated ICP
+T42	Biomarker 850 863	decreased CBF
+T43	Collection 833 863	elevated ICP and decreased CBF
+R6	Association Arg1:T43 Arg2:T18	
+T44	Gene-Protein 902 908	HIF‐1α
+T22	Biomarker 902 930	HIF‐1α is expressed in brain
+R7	Association Arg1:T22 Arg2:T21	
+T45	Gene-Protein 963 968	VEGFA
+T46	Gene-Protein 1049 1056	HIF‐1 α
+T47	Gene-Protein 1062 1067	VEGFA
+T48	Biomarker 1041 1048	hypoxia
+#22	AnnotatorNotes T48	D000860
+T49	Gene-Protein 1180 1193	LCN2 receptor
+#23	AnnotatorNotes T49	HGNC:23095
+T50	Gene-Protein 1195 1200	24p3R
+#24	AnnotatorNotes T50	HGNC:23095
+T51	Gene-Protein 1212 1216	LCN2
+T52	Gene-Protein 1225 1229	LCN2
+T53	Gene-Protein 1354 1359	24p3R
+T54	Gene-Protein 1415 1419	LCN2
+T55	Biomarker 1415 1419	LCN2
+#25	AnnotatorNotes T29	not found
+R8	Association Arg1:T55 Arg2:T29	
+T28	Gene-Protein 1553 1557	LCN2
+T56	Gene-Protein 609 613	LCN2
+T57	Gene-Protein 696 700	LCN2
+T58	Gene-Protein 1057 1061	LCN2
+T59	Biomarker 1553 1557	LCN2
+#26	AnnotatorNotes T59	C489506
+R9	Association Arg1:T59 Arg2:T30	

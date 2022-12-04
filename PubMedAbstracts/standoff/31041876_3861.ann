@@ -1,0 +1,90 @@
+T0	Chemical 85 91	sodium
+T10	Disease 381 385	PEPD
+T13	Disease 414 428	pain disorders
+#5	AnnotatorNotes T13	DOID:0060164
+T14	Disease 439 461	small-fiber neuropathy
+#6	AnnotatorNotes T14	D000071075
+T16	Disease 463 466	SFN
+T18	Disease 530 562	congenital insensitivity to pain
+#8	AnnotatorNotes T18	D000699
+T20	Chemical 587 593	sodium
+T22	Disease 649 665	neuropathic pain
+#11	AnnotatorNotes T22	D009437
+T23	Disease 711 731	mechanical allodynia
+#12	AnnotatorNotes T23	D006930
+T25	Disease 738 757	spared nerve injury
+#14	AnnotatorNotes T25	not found
+T28	Disease 820 840	trigeminal neuralgia
+#15	AnnotatorNotes T28	DOID:12098
+T30	Disease 927 950	peripheral neuropathies
+#16	AnnotatorNotes T30	D010523
+T33	Disease 1118 1141	peripheral neuropathies
+T34	Disease 1199 1219	painful neuropathies
+#18	AnnotatorNotes T34	DOID:870
+T5	Chemical 264 270	sodium
+T6	Disease 307 332	inherited erythromelalgia
+#20	AnnotatorNotes T6	not found
+T7	Disease 334 337	IEM
+T8	Disease 347 379	paroxysmal extreme pain disorder
+#22	AnnotatorNotes T8	DOID:0111537
+T3	GeneFamily 71 100	voltage-gated sodium channels
+#1	AnnotatorNotes T3	family:184
+T4	GeneFamily 102 106	Naᵥs
+#3	AnnotatorNotes T4	family:184
+T12	Gene-Protein 224 229	SCN9A
+#7	AnnotatorNotes T12	HGNC:10597
+T15	Gene-Protein 257 278	Naᵥ1.7 sodium channel
+#10	AnnotatorNotes T15	HGNC:10597
+T17	Gene-Protein 682 688	Naᵥ1.6
+#13	AnnotatorNotes T17	HGNC:10596
+T19	Gene-Protein 875 881	Naᵥ1.8
+#19	AnnotatorNotes T19	HGNC:10582
+T21	Gene-Protein 785 791	Naᵥ1.6
+T26	Gene-Protein 999 1005	Naᵥ1.8
+T27	Gene-Protein 1037 1052	Naᵥ1.7 and −1.8
+T29	Gene-Protein 1067 1073	Naᵥ1.9
+#21	AnnotatorNotes T29	HGNC:10583
+T31	GeneFamily 1191 1195	Naᵥs
+T32	Disease 111 177	neuropathic pain syndromes associated with peripheral neuropathies
+#24	AnnotatorNotes T32	not found
+T1	Biomarker 71 100	voltage-gated sodium channels
+#2	AnnotatorNotes T1	D061566
+R1	Association Arg1:T1 Arg2:T32	
+T2	Biomarker 194 229	gain-of-function mutations in SCN9A
+R2	Risk-Factor Arg1:T2 Arg2:T35	
+#9	AnnotatorNotes T7	not found
+T35	Collection 307 467	inherited erythromelalgia (IEM), ⁸ – ¹² paroxysmal extreme pain disorder (PEPD), ¹³ – ¹⁵ and other painful pain disorders including small-fiber neuropathy (SFN)
+#23	AnnotatorNotes T10	DOID:0111537
+#4	AnnotatorNotes T16	D000071075
+T9	Variant 480 506	loss-of-function mutations
+R3	Risk-Factor Arg1:T9 Arg2:T18	
+T11	Biomarker 587 610	sodium channel isoforms
+R4	Association Arg1:T11 Arg2:T22	
+T24	Biomarker 768 800	gain-of-function Naᵥ1.6 mutation
+R5	Association Arg1:T24 Arg2:T28	
+T36	Disease 1019 1022	SFN
+T37	Biomarker 845 881	Gain-of-function mutations in Naᵥ1.8
+R6	Association Arg1:T37 Arg2:T30	
+T38	Biomarker 999 1015	Naᵥ1.8 mutations
+R7	Association Arg1:T38 Arg2:T36	
+T39	Biomarker 1054 1073	mutations in Naᵥ1.9
+R8	Association Arg1:T39 Arg2:T33	
+#17	AnnotatorNotes T27	HGNC:10597,HGNC:10582
+T40	Biomarker 1191 1195	Naᵥs
+#25	AnnotatorNotes T40	D061566
+R9	Association Arg1:T40 Arg2:T34	
+T41	Drug 682 698	Naᵥ1.6 knockdown
+#26	AnnotatorNotes T41	not found
+R10	Response Arg1:T41 Arg2:T23	
+T42	GeneFamily 1301 1311	β-subunits
+#27	AnnotatorNotes T42	family:1204
+R11	Variant-Of Arg1:T12 Arg2:T9	
+T53	Chemical 875 877	Na
+T54	Chemical 999 1001	Na
+T56	Chemical 1037 1039	Na
+T57	Chemical 1067 1069	Na
+T58	Chemical 1191 1193	Na
+T80	GeneFamily 587 601	sodium channel
+T48	Chemical 102 104	Na
+T49	Chemical 257 259	Na
+#28	AnnotatorNotes T80	family:179

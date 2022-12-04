@@ -1,0 +1,24 @@
+30646531_24310|t|RSS_IDENT_p_30646531_b_1_6_4
+30646531_24310|a| A neuroprotective response of astrocytes subjected to 8 h treatment with NMDA was reported by Jimenez-Blasco et al., (2015) [ 48 ]. In this study, stimulation with NMDA of individual astrocytes derived from astrocytic-neuronal co-cultures resulted in calcium release from astrocytic ER, pointing to a metabotropic mechanism of NMDAR activation. The downstream sequence of events commenced with activation of protein kinase Cδ. Active protein kinase Cδ promoted formation of p35/cyclin-dependent kinase-5 (Cdk5) complex that further mediated nuclear factor-erythroid 2-related factor-2 (Nrf2) translocation to the nucleus and induced the expression of antioxidant genes (glutamate-cysteine ligase, hemeoxygenase-1, NADPH quinone oxidorreductase-1) and synthesis of glutathione (GSH). The newly synthesised GSH was then transferred to the neurons, which normally have a limited ability to synthesize this antioxidant. The results are interpreted to mimic the mechanism by which astrocytes protect neurons against oxidative stress.
+30646531_24310	103	107	NMDA	Drug	CHEMBL291278
+30646531_24310	194	198	NMDA	Drug
+30646531_24310	281	288	calcium	Chemical
+30646531_24310	357	362	NMDAR	Genefamily	family:1201
+30646531_24310	438	455	protein kinase Cδ	Gene-protein	HGNC:9399
+30646531_24310	464	481	protein kinase Cδ	Gene-protein
+30646531_24310	504	507	p35	Gene-protein	HGNC:1775
+30646531_24310	508	533	cyclin-dependent kinase-5	Gene-protein	HGNC:1774
+30646531_24310	535	539	Cdk5	Gene-protein	HGNC:1774
+30646531_24310	571	614	nuclear factor-erythroid 2-related factor-2	Gene-protein	HGNC:7782
+30646531_24310	616	620	Nrf2	Gene-protein	HGNC:7782
+30646531_24310	700	709	glutamate	Chemical
+30646531_24310	700	725	glutamate-cysteine ligase	Genefamily	not found
+30646531_24310	710	718	cysteine	Chemical
+30646531_24310	727	742	hemeoxygenase-1	Gene-protein	HGNC:5013
+30646531_24310	744	749	NADPH	Chemical
+30646531_24310	744	775	NADPH quinone oxidorreductase-1	Gene-protein	HGNC:2874
+30646531_24310	750	757	quinone	Chemical
+30646531_24310	794	805	glutathione	Chemical
+30646531_24310	807	810	GSH	Chemical
+30646531_24310	835	838	GSH	Chemical
+

@@ -1,0 +1,93 @@
+T1	Disease 41 58	von Hippel-Lindau
+#1	AnnotatorNotes T1	DOID:14175
+T10	Biomarker 271 302	clear cell renal cell carcinoma
+#2	AnnotatorNotes T10	D002292
+T12	Biomarker 304 309	ccRCC
+#4	AnnotatorNotes T12	D002292
+T13	Biomarker 316 333	pheochromocytomas
+#5	AnnotatorNotes T13	D010673
+T14	Biomarker 354 402	mutations in the tumor suppressor gene VHL ¹ – ³
+T16	Gene-Protein 405 408	VHL
+T17	Chemical 567 573	oxygen
+T18	Gene-Protein 660 663	VHL
+T19	Biomarker 798 810	HIF activity
+T20	Disease 824 829	tumor
+#11	AnnotatorNotes T20	DOID:162
+T21	Disease 854 860	cancer
+#12	AnnotatorNotes T21	DOID:162
+T22	Collection 918 935	HIF-1α and HIF-2α
+T23	Disease 991 998	cancers
+#13	AnnotatorNotes T23	DOID:162
+T24	Disease 1011 1017	tumors
+#14	AnnotatorNotes T24	DOID:14566|DOID:162
+T25	Biomarker 1027 1040	HIF-α subunit
+T26	Disease 1089 1094	tumor
+T27	Biomarker 1106 1143	expression of HIF-1-α or 2-α subunits
+T28	Biomarker 1361 1365	RCCs
+#16	AnnotatorNotes T28	D002292
+T29	Disease 1398 1417	mortality among VHL
+T3	Disease 60 63	VHL
+#18	AnnotatorNotes T3	DOID:14175
+T30	Biomarker 1471 1476	HIF-2
+T31	Disease 1502 1507	tumor
+#19	AnnotatorNotes T31	DOID:14566|DOID:162
+T32	Disease 1584 1588	RCCs
+#20	AnnotatorNotes T32	DOID:4450
+T5	Biomarker 132 170	highly vascularized tumors development
+T6	Disease 188 191	VHL
+T9	Biomarker 211 269	hemangioblastomas of the central nervous system and retina
+R1	Association Arg1:T5 Arg2:T1	
+T2	Collection 211 333	hemangioblastomas of the central nervous system and retina, clear cell renal cell carcinoma (ccRCC), and pheochromocytomas
+R2	Association Arg1:T2 Arg2:T6	
+T4	Gene-Protein 393 396	VHL
+#3	AnnotatorNotes T4	HGNC:12687
+R3	Association Arg1:T14 Arg2:T6	
+T7	Gene-Protein 494 502	Cullin-2
+#6	AnnotatorNotes T7	HGNC:2552
+T8	Gene-Protein 504 508	Rbx1
+#7	AnnotatorNotes T8	HGNC:9928
+T11	Gene-Protein 510 519	Elongin B
+#8	AnnotatorNotes T11	HGNC:11619
+T15	Gene-Protein 521 530	Elongin C
+#9	AnnotatorNotes T15	HGNC:11617
+T33	Gene-Protein 536 540	pVHL
+#10	AnnotatorNotes T33	HGNC:12687
+T34	Gene-Protein 601 632	Hypoxia inducible factors alpha
+#21	AnnotatorNotes T34	HGNC:4910
+T35	GeneFamily 634 637	HIF
+#22	AnnotatorNotes T35	not found
+T37	Gene-Protein 718 727	HIF-1/2-α
+#24	AnnotatorNotes T37	HGNC:4910, HGNC:3374
+T38	GeneFamily 756 759	HIF
+#25	AnnotatorNotes T38	not found
+T39	GeneFamily 798 801	HIF
+T40	Collection 824 860	tumor angiogenesis, invasion, cancer
+R4	Association Arg1:T19 Arg2:T40	
+T41	Gene-Protein 918 924	HIF-1α
+#26	AnnotatorNotes T41	HGNC:4910
+T42	Gene-Protein 929 935	HIF-2α
+#27	AnnotatorNotes T42	HGNC:3374
+T43	Biomarker 929 935	HIF-2α
+#28	AnnotatorNotes T43	C105713
+T44	Biomarker 918 924	HIF-1α
+#29	AnnotatorNotes T44	C497442
+R5	Prognostic-Poor Arg1:T22 Arg2:T23	
+R6	Prognostic-Poor Arg1:T25 Arg2:T24	
+T45	Gene-Protein 1027 1032	HIF-α
+#30	AnnotatorNotes T25	C497442
+R7	Association Arg1:T27 Arg2:T26	
+T46	GeneFamily 1259 1262	HIF
+T47	Gene-Protein 1120 1134	HIF-1-α or 2-α
+#15	AnnotatorNotes T47	HGNC:4910, HGNC:3374
+#31	AnnotatorNotes T29	not found
+R8	Risk-Factor Arg1:T28 Arg2:T29	
+R9	Association Arg1:T30 Arg2:T31	
+T48	GeneFamily 1471 1476	HIF-2
+#32	AnnotatorNotes T48	not found
+T49	Biomarker 1634 1652	HIF-VEGF signaling
+T50	GeneFamily 1634 1637	HIF
+T51	GeneFamily 1638 1642	VEGF
+#33	AnnotatorNotes T51	family:1267
+R10	Association Arg1:T49 Arg2:T32	
+T52	GeneFamily 463 480	E3 ligase complex
+#34	AnnotatorNotes T52	not found

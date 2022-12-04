@@ -1,0 +1,45 @@
+T0	Gene-Protein 30 33	APN
+T1	Gene-Protein 269 272	APN
+T10	Disease 683 688	NAFLD
+#3	AnnotatorNotes T10	DOID:0080208
+T11	Disease 754 759	NAFLD
+T13	Disease 864 872	diabetic
+T14	Gene-Protein 1041 1044	APN
+T15	Disease 1048 1066	T1DM-induced NAFLD
+#7	AnnotatorNotes T15	not found
+T17	Gene-Protein 1127 1130	APN
+T18	Disease 1141 1159	T1DM-induced NAFLD
+T2	Chemical 303 310	glucose
+T21	Gene-Protein 1262 1265	APN
+T22	Disease 1303 1321	T1DM-induced NAFLD
+T3	Drug 353 355	AS
+#16	AnnotatorNotes T3	C553926
+T4	Chemical 387 394	glucose
+T6	Gene-Protein 423 426	APN
+T8	Chemical 497 512	free fatty acid
+#1	AnnotatorNotes T0	HGNC:13633
+T7	Disease 329 337	diabetic
+#2	AnnotatorNotes T7	not found
+T5	Gene-Protein 449 476	cannabinoid type 1 receptor
+#6	AnnotatorNotes T5	HGNC:2159
+T9	Gene-Protein 622 625	APN
+T12	Biomarker 613 625	level of APN
+R1	Risk-Reduce Arg1:T12 Arg2:T10	
+R2	Association Arg1:T12 Arg2:T11	
+T20	Gene-Protein 792 795	APN
+T24	Gene-Protein 814 817	APN
+T25	Biomarker 786 856	serum APN level and hepatic APN expression were also significantly low
+R3	Association Arg1:T25 Arg2:T13	
+T16	Drug 1127 1130	APN
+R4	Response Arg1:T16 Arg2:T18	
+T19	Gene-Protein 1195 1200	FoxO1
+#5	AnnotatorNotes T19	HGNC:3819
+T26	Biomarker 1164 1200	reduction of the expression of FoxO1
+T27	Gene-Protein 1212 1216	Akt1
+#8	AnnotatorNotes T27	HGNC:391
+T23	Gene-Protein 1294 1299	FoxO1
+T28	GeneFamily 52 61	adipokine
+#10	AnnotatorNotes T28	not found
+T29	Drug 1041 1044	APN
+#4	AnnotatorNotes T29	D052242
+R5	Response Arg1:T29 Arg2:T15	

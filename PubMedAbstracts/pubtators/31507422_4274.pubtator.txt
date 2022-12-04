@@ -1,0 +1,37 @@
+31507422_4274|t|RSS_IDENT_p_31507422_b_1_1_3
+31507422_4274|a| In some cases of cardiac diseases, electrical remodeling, such as alterations in ion channels or Ca²⁺ cycling, precedes the observed depression of mechanical performance, suggesting that amelioration of electrical remodeling might be an effective therapeutic strategy against HF ( Houser and Margulies, 2003 ; Mueller et al., 2011 ). KATP is reportedly involved in ventricular remodeling, and KATP channel agonists exert beneficial effects on cardiac structural remodeling and dysfunction ( Lee et al., 2008 ; Sun et al., 2015 ). IK₁ and KATP channels are both members of inward rectifier potassium (Kir) channel family and are respectively constituted by Kir2.x and Kir6.x subunits ( Hibino et al., 2010 ). Prolongation of the action potential duration (APD) and downregulation of IK₁ channel are well documented hallmarks of electrical remodeling in HF ( Janse, 2004 ). Inhibition of IK₁ also contributes to APD prolongation. Besides, IK₁ is reduced by elevated diastolic Ca²⁺ in HF ( Fauconnier et al., 2005 ). Therefore, IK₁ channel is probably involved in cardiac remodeling, and IK₁ channel agonism or up-regulation may improve cardiac structure and dysfunction.
+31507422_4274	47	63	cardiac diseases	Disease	DOID:114
+31507422_4274	65	86	electrical remodeling	Biomarker	D064752
+31507422_4274	65	139	electrical remodeling, such as alterations in ion channels or Ca²⁺ cycling	Collection
+31507422_4274	88	139	such as alterations in ion channels or Ca²⁺ cycling	Biomarker
+31507422_4274	111	123	ion channels	Genefamily	family:177
+31507422_4274	127	130	Ca²	Chemical
+31507422_4274	217	254	amelioration of electrical remodeling	Drug	not found
+31507422_4274	306	308	HF	Disease	D006333
+31507422_4274	364	368	KATP	Genefamily	not found
+31507422_4274	423	435	KATP channel	Genefamily	not found
+31507422_4274	423	444	KATP channel agonists	Drug-class
+31507422_4274	473	518	cardiac structural remodeling and dysfunction	Biomarker
+31507422_4274	560	563	IK₁	Gene-protein	not found
+31507422_4274	568	581	KATP channels	Genefamily	not found
+31507422_4274	602	649	inward rectifier potassium (Kir) channel family	Genefamily	family:276
+31507422_4274	619	628	potassium	Chemical
+31507422_4274	686	712	Kir2.x and Kir6.x subunits	Genefamily	not found, not found
+31507422_4274	738	783	Prolongation of the action potential duration	Biomarker
+31507422_4274	794	823	downregulation of IK₁ channel	Biomarker
+31507422_4274	812	823	IK₁ channel	Gene-protein	not found
+31507422_4274	857	878	electrical remodeling	Biomarker
+31507422_4274	882	884	HF	Disease
+31507422_4274	916	919	IK₁	Gene-protein
+31507422_4274	967	970	IK₁	Gene-protein
+31507422_4274	967	981	IK₁ is reduced	Biomarker
+31507422_4274	985	1008	elevated diastolic Ca²⁺	Biomarker
+31507422_4274	1004	1007	Ca²	Chemical
+31507422_4274	1012	1014	HF	Disease
+31507422_4274	1055	1066	IK₁ channel	Gene-protein
+31507422_4274	1091	1109	cardiac remodeling	Biomarker
+31507422_4274	1115	1126	IK₁ channel	Genefamily
+31507422_4274	1115	1134	IK₁ channel agonism	Drug-class
+31507422_4274	1115	1151	IK₁ channel agonism or up-regulation	Biomarker
+31507422_4274	1164	1197	cardiac structure and dysfunction	Disease
+

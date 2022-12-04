@@ -1,0 +1,40 @@
+31023362_3873|t|RSS_IDENT_p_31023362_b_1_1_3
+31023362_3873|a| Myeloid-derived suppressor cells (MDSCs) are defined as a heterogeneous population of immature cells derived from myeloid progenitors, which confer immune-suppressive functions [ 6 ]. Murine MDSCs are characterized by the expression of cell surface makers CD11b and Gr-1, which can be sorted into CD11b⁺Ly6CˡᵒʷLy6G⁺ granulocytic MDSCs (G-MDSCs) and CD11b⁺Ly6C⁺Ly6G− monocytic MDSCs (M-MDSCs) [ 6 , 7 ]. Some studies showed that MDSCs were involved in the disease course of SLE. The treatment of MDSCs derived from C57BL/6 mice reduced the levels of anti-dsDNA antibody in serum and proteinuria in the kidney in the lupus mice [roquin (san/san) mice] [ 8 ]. MDSCs inhibited the cytokine-mediated differentiation of naïve B cells into plasma cells and relieved the injuries of the kidney [ 9 ]. While other studies suggested that MDSCs were pro-inflammatory and could promote the disease progress in chronic inflammation conditions, Wu H et al. reported that the increased MDSCs in peripheral blood of patients are positively correlated with SLE and MDSCs promoted Th17 polarization by secreting Arg-1 in vitro [ 10 ]. In our previous research, we have found that MDSCs promoted Th17 polarization and inhibited Treg differentiation by IL-1β secretion to promote MRL/lpr lupus mice progress [ 11 ]. Meanwhile, we also found that MDSCs induced podocyte injury through increasing reactive oxygen species in lupus nephritis [ 12 ] and INK128 downregulated the expansion of MDSCs by inhibiting the mTOR pathway to relieve pristane-induced lupus development [ 13 ]. As is well known, MDSCs worked as regulators to monitor immune balance partly by the upregulation of ROS, Arg-1, and NO [ 14 ], but ROS also damaged proteins and nucleic acids and enhanced inflammation [ 15 ]. However, the involvement of MDSCs in LN progression is unclear. 
+31023362_3873	286	291	CD11b	Gene-protein
+31023362_3873	296	300	Gr-1	Gene-protein
+31023362_3873	327	332	CD11b	Gene-protein
+31023362_3873	379	384	CD11b	Gene-protein
+31023362_3873	385	389	Ly6C	Gene-protein
+31023362_3873	390	394	Ly6G	Gene-protein
+31023362_3873	458	463	MDSCs	Biomarker	D000072737
+31023362_3873	503	506	SLE	Disease	DOID:9074
+31023362_3873	612	623	proteinuria	Disease	DOID:576
+31023362_3873	645	650	lupus	Disease	DOID:9074
+31023362_3873	687	692	MDSCs	Drug
+31023362_3873	707	715	cytokine	Genefamily	not found
+31023362_3873	793	815	injuries of the kidney	Disease	DOID:557
+31023362_3873	858	863	MDSCs	Biomarker
+31023362_3873	928	948	chronic inflammation	Disease	not found
+31023362_3873	991	1026	increased MDSCs in peripheral blood	Biomarker
+31023362_3873	1070	1073	SLE	Disease
+31023362_3873	1124	1129	Arg-1	Gene-protein	HGNC:663
+31023362_3873	1192	1197	MDSCs	Biomarker
+31023362_3873	1263	1268	IL-1β	Gene-protein
+31023362_3873	1298	1303	lupus	Disease
+31023362_3873	1356	1361	MDSCs	Biomarker
+31023362_3873	1370	1385	podocyte injury	Disease	not found
+31023362_3873	1405	1428	reactive oxygen species	Chemical
+31023362_3873	1432	1447	lupus nephritis	Disease	DOID:0080162
+31023362_3873	1459	1465	INK128	Drug	CHEMBL3545097
+31023362_3873	1521	1525	mTOR	Gene-protein	HGNC:3942
+31023362_3873	1545	1553	pristane	Drug	C009042
+31023362_3873	1545	1567	pristane-induced lupus	Disease	not found
+31023362_3873	1606	1611	MDSCs	Biomarker
+31023362_3873	1689	1692	ROS	Chemical
+31023362_3873	1694	1699	Arg-1	Gene-protein
+31023362_3873	1705	1707	NO	Chemical
+31023362_3873	1720	1723	ROS	Chemical
+31023362_3873	1777	1789	inflammation	Disease	D007249
+31023362_3873	1826	1831	MDSCs	Biomarker
+31023362_3873	1835	1837	LN	Disease	DOID:0080162
+

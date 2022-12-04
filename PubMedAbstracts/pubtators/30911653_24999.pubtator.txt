@@ -1,0 +1,73 @@
+30911653_24999|t|RSS_IDENT_s_30911653_b_1_3_8
+30911653_24999|a| TGF-β, ROS and Redox fibrosis ROS are formed by mitochondrial metabolism, inflammation, oxidative stress, ischaemia/reperfusion injury or exposure to ionizing radiation, ultraviolet light, chemotherapy or asbestos [ 34 ]. ROS activate expression of TGF-β1, and activated TGF-β1 also increases ROS production. Activation of TGF-β1 by ROS appears to be direct, as release of recombinant latent TGF-β1 can occur in the absence of cellular machinery by ionizing radiation or by metal ion-catalysed ascorbate reactions. Activation of TGF-β by ROS only occurs with TGF-β1 and not TGF-β2 or TGF-β3. This is related to ROS oxidation of the LAP-beta1 protein at methionine253 [ 35 ]. The selective activation of TGF-β1 suggests specific DAMPs signalling for different latent TGF-β family members. Increased ROS production by activated TGF-β1 is mainly due to induction of NADPH oxidases (NOX). TGF-β1-induced NOX 4 expression is associated with idiopathic pulmonary fibrosis and hepatic fibrosis. TGF-β1 upregulates NOX4 expression and the NOX4-dependent generation of hydrogen peroxide, which is required for TGF-β1-induced myofibroblast differentiation, ECM production and contractility [ 35 ]. Furthermore, TGF-β1 decreases antioxidant enzyme activity including Superoxide Dismutase 1 (SOD1), SOD2, Glutathione (GSH) peroxidase, GSH and Catalase (CTL). These are particularly involved in the suppression of Fenton reaction generation of hydroxyl radical, hydrogen peroxide and superoxide [ 35 ]. The persistent activation of LTGF-β1 by oxidative stress and TGF-β1-mediated nett persistence of ROS may represent a ROS/TGF-β1 positive feedback loop, leading to amplification of cellular damage, carcinogenesis and fibrosis [ 34 ]. Such disturbance in ROS generation and scavenging is referred to as “redox-fibrosis” [ 35 ].
+30911653_24999	30	35	TGF-β	Genefamily	family:1664
+30911653_24999	37	40	ROS	Chemical
+30911653_24999	45	63	Redox fibrosis ROS	Chemical
+30911653_24999	104	116	inflammation	Disease	D007249
+30911653_24999	136	164	ischaemia/reperfusion injury	Disease	D015427
+30911653_24999	180	198	ionizing radiation	Drug-class
+30911653_24999	219	231	chemotherapy	Drug-class
+30911653_24999	235	243	asbestos	Chemical
+30911653_24999	252	255	ROS	Chemical
+30911653_24999	279	285	TGF-β1	Gene-protein	HGNC:11766
+30911653_24999	301	307	TGF-β1	Gene-protein
+30911653_24999	323	326	ROS	Chemical
+30911653_24999	353	359	TGF-β1	Gene-protein
+30911653_24999	363	366	ROS	Chemical
+30911653_24999	422	428	TGF-β1	Gene-protein
+30911653_24999	479	497	ionizing radiation	Drug-class
+30911653_24999	524	533	ascorbate	Chemical
+30911653_24999	559	564	TGF-β	Genefamily
+30911653_24999	568	571	ROS	Chemical
+30911653_24999	589	595	TGF-β1	Gene-protein
+30911653_24999	604	610	TGF-β2	Gene-protein	HGNC:11768
+30911653_24999	614	620	TGF-β3	Gene-protein	HGNC:11769
+30911653_24999	641	644	ROS	Chemical
+30911653_24999	662	671	LAP-beta1	Gene-protein	not found
+30911653_24999	733	739	TGF-β1	Gene-protein
+30911653_24999	796	801	TGF-β	Genefamily
+30911653_24999	828	831	ROS	Chemical
+30911653_24999	856	862	TGF-β1	Gene-protein
+30911653_24999	893	898	NADPH	Chemical
+30911653_24999	893	907	NADPH oxidases	Genefamily	not found
+30911653_24999	909	912	NOX	Genefamily	not found
+30911653_24999	915	921	TGF-β1	Gene-protein
+30911653_24999	915	946	TGF-β1-induced NOX 4 expression	Biomarker
+30911653_24999	930	935	NOX 4	Gene-protein	HGNC:7891
+30911653_24999	966	995	idiopathic pulmonary fibrosis	Disease	DOID:0050156
+30911653_24999	966	1016	idiopathic pulmonary fibrosis and hepatic fibrosis	Collection
+30911653_24999	1000	1016	hepatic fibrosis	Disease	DOID:5082
+30911653_24999	1018	1024	TGF-β1	Gene-protein
+30911653_24999	1037	1041	NOX4	Gene-protein
+30911653_24999	1061	1065	NOX4	Gene-protein
+30911653_24999	1090	1107	hydrogen peroxide	Chemical
+30911653_24999	1131	1137	TGF-β1	Gene-protein
+30911653_24999	1231	1237	TGF-β1	Gene-protein
+30911653_24999	1286	1296	Superoxide	Chemical
+30911653_24999	1286	1308	Superoxide Dismutase 1	Gene-protein	HGNC:11179
+30911653_24999	1310	1314	SOD1	Gene-protein	HGNC:11179
+30911653_24999	1317	1321	SOD2	Gene-protein	HGNC:11180
+30911653_24999	1323	1334	Glutathione	Chemical
+30911653_24999	1323	1351	Glutathione (GSH) peroxidase	Genefamily	not found
+30911653_24999	1336	1339	GSH	Chemical
+30911653_24999	1353	1356	GSH	Chemical
+30911653_24999	1361	1369	Catalase	Gene-protein	HGNC:1516
+30911653_24999	1371	1374	CTL	Gene-protein	HGNC:1516
+30911653_24999	1461	1469	hydroxyl	Chemical
+30911653_24999	1479	1496	hydrogen peroxide	Chemical
+30911653_24999	1501	1511	superoxide	Chemical
+30911653_24999	1524	1576	persistent activation of LTGF-β1 by oxidative stress	Biomarker
+30911653_24999	1524	1620	persistent activation of LTGF-β1 by oxidative stress and TGF-β1-mediated nett persistence of ROS	Collection
+30911653_24999	1549	1556	LTGF-β1	Gene-protein
+30911653_24999	1581	1587	TGF-β1	Gene-protein
+30911653_24999	1581	1620	TGF-β1-mediated nett persistence of ROS	Biomarker
+30911653_24999	1617	1620	ROS	Chemical
+30911653_24999	1637	1640	ROS	Chemical
+30911653_24999	1637	1656	ROS/TGF-β1 positive	Biomarker
+30911653_24999	1641	1647	TGF-β1	Gene-protein
+30911653_24999	1717	1731	carcinogenesis	Disease	DOID:162
+30911653_24999	1717	1744	carcinogenesis and fibrosis	Collection
+30911653_24999	1736	1744	fibrosis	Disease	D005355
+30911653_24999	1773	1776	ROS	Chemical
+30911653_24999	1828	1836	fibrosis	Disease
+

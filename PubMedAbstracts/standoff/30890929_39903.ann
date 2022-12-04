@@ -1,0 +1,39 @@
+T14	Disease 759 761	AD
+T19	Disease 1306 1308	AD
+T21	Disease 1386 1388	AD
+T5	Gene-Protein 278 281	tau
+T9	Gene-Protein 378 381	tau
+T3	Gene-Protein 80 88	AD P-tau
+#2	AnnotatorNotes T3	HGNC:6893
+T7	Gene-Protein 117 120	tau
+#3	AnnotatorNotes T7	GNC:6893
+T2	Biomarker 153 187	Increase of Ser422 phosphorylation
+T4	Gene-Protein 364 369	P-tau
+T8	Disease 361 363	AD
+T22	Biomarker 313 335	Ser422 phosphorylation
+R1	Association Arg1:T22 Arg2:T8	
+T23	Gene-Protein 453 456	Jnk
+#4	AnnotatorNotes T23	HGNC:6881
+T24	Gene-Protein 457 461	SAPK
+#5	AnnotatorNotes T24	HGNC:6886
+T25	Gene-Protein 494 497	PP5
+#6	AnnotatorNotes T25	HGNC:9322
+T26	Gene-Protein 485 489	PP2A
+#8	AnnotatorNotes T26	HGNC:29302
+T6	Chemical 585 587	OA
+T10	Biomarker 715 755	Ser422 is abnormally hyperphosphorylated
+R2	Association Arg1:T10 Arg2:T14	
+T11	Gene-Protein 796 799	tau
+T12	ProteinDomain 1041 1055	tau C-terminus
+T13	Gene-Protein 1133 1136	tau
+T27	Gene-Protein 1156 1164	AD P-tau
+T18	Gene-Protein 1309 1314	P-tau
+T28	Biomarker 1177 1227	Ser422 was the only site to be hyperphosphorylated
+R3	Association Arg1:T28 Arg2:T19	
+T20	Gene-Protein 1389 1394	P-tau
+T29	Gene-Protein 1415 1418	tau
+T30	Biomarker 1344 1366	Ser422 phosphorylation
+R4	Association Arg1:T30 Arg2:T21	
+T31	Gene-Protein 596 599	tau
+T32	ProteinDomain 910 936	microtubule-binding domain
+T15	ProteinDomain 1086 1112	microtubule-binding domain

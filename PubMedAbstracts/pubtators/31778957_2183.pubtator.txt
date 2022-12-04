@@ -1,0 +1,56 @@
+31778957_2183|t|RSS_IDENT_p_31778957_b_1_1_3
+31778957_2183|a| Galectin-1 (Gal-1) is a member of the galectin family of β-galactoside-binding proteins. ⁵ Previous studies have indicated that Gal-1 is highly expressed in many kinds of tumors and in the tumor stroma. 6 , 7 , 8 Since 1995, Gal-1 has been found to induce the apoptosis of T cells. Gal-1 triggers T cell apoptosis by redistributing and segregating the clustering of CD3 and CD45 and the clustering of CD7 and CD43 into membrane microdomains. ⁹ Gal-1 also acts as an antagonist in T cell receptor (TCR) signal transduction. ¹⁰ Furthermore, a previous study on head and neck cancer revealed a strong inverse correlation between Gal-1 and CD3 expression. ¹¹ The first in vivo evidence of Gal-1-mediated immune regulation and tumor immune escape was demonstrated in a study on melanoma. ¹² Gal-1 knockdown in melanoma cells slowed tumor growth by decreasing T cells apoptosis. In lung cancer, cancer-derived Gal-1 activated lung cancer-associated fibroblasts and triggered the tryptophan 2,3-dioxygenase (TDO2)/kynurenine axis, which impaired T cell differentiation and function. ¹³ In addition to tumors, high Gal-1 expression in the tumor stroma also plays a role in immunosuppression. Gal-1 is highly expressed in activated pancreatic stellate cells and induces T cell apoptosis in pancreatic cancers. ¹⁴ Stromal Gal-1 can maintain the immunosuppressive microenvironment in pancreatic cancer. Taken together, these results show that Gal-1 acts as an immune suppressor by directly promoting T cell apoptosis or indirectly impairing T cell differentiation in tumor cells and their microenvironment. Therefore, Gal-1 could be a potential therapeutic target in cancer immunotherapy. 
+31778957_2183	30	40	Galectin-1	Gene-protein	HGNC:6561
+31778957_2183	42	47	Gal-1	Gene-protein	HGNC:6561
+31778957_2183	68	76	galectin	Genefamily	family:629
+31778957_2183	87	117	β-galactoside-binding proteins	Genefamily	not found
+31778957_2183	158	163	Gal-1	Gene-protein
+31778957_2183	158	183	Gal-1 is highly expressed	Biomarker
+31778957_2183	201	207	tumors	Disease	DOID:162
+31778957_2183	255	260	Gal-1	Gene-protein
+31778957_2183	312	317	Gal-1	Gene-protein
+31778957_2183	396	399	CD3	Genefamily	not found
+31778957_2183	404	408	CD45	Gene-protein	HGNC:9666
+31778957_2183	431	434	CD7	Gene-protein	HGNC:1695
+31778957_2183	439	443	CD43	Gene-protein	HGNC:11249
+31778957_2183	474	479	Gal-1	Gene-protein
+31778957_2183	510	525	T cell receptor	Genefamily	family:370
+31778957_2183	527	530	TCR	Genefamily	family:370
+31778957_2183	589	609	head and neck cancer	Disease	DOID:11934
+31778957_2183	656	661	Gal-1	Gene-protein
+31778957_2183	656	661	Gal-1	Biomarker	D037483
+31778957_2183	666	669	CD3	Gene-protein
+31778957_2183	666	669	CD3	Biomarker	D017252
+31778957_2183	715	720	Gal-1	Gene-protein
+31778957_2183	715	720	Gal-1	Biomarker
+31778957_2183	752	757	tumor	Disease	DOID:162
+31778957_2183	803	811	melanoma	Disease	DOID:1909
+31778957_2183	816	821	Gal-1	Gene-protein
+31778957_2183	816	831	Gal-1 knockdown	Drug	not found
+31778957_2183	835	843	melanoma	Disease
+31778957_2183	857	862	tumor	Disease
+31778957_2183	906	917	lung cancer	Disease	DOID:1324
+31778957_2183	919	939	cancer-derived Gal-1	Biomarker
+31778957_2183	934	939	Gal-1	Gene-protein
+31778957_2183	950	961	lung cancer	Disease
+31778957_2183	1003	1013	tryptophan	Chemical
+31778957_2183	1003	1029	tryptophan 2,3-dioxygenase	Gene-protein	HGNC:11708
+31778957_2183	1031	1035	TDO2	Gene-protein	HGNC:11708
+31778957_2183	1037	1047	kynurenine	Chemical
+31778957_2183	1124	1130	tumors	Disease	DOID:162
+31778957_2183	1132	1153	high Gal-1 expression	Biomarker
+31778957_2183	1137	1142	Gal-1	Gene-protein
+31778957_2183	1161	1166	tumor	Disease
+31778957_2183	1214	1219	Gal-1	Gene-protein
+31778957_2183	1214	1239	Gal-1 is highly expressed	Biomarker
+31778957_2183	1311	1329	pancreatic cancers	Disease	DOID:1793
+31778957_2183	1334	1347	Stromal Gal-1	Biomarker
+31778957_2183	1342	1347	Gal-1	Gene-protein
+31778957_2183	1403	1420	pancreatic cancer	Disease	DOID:1793
+31778957_2183	1462	1467	Gal-1	Gene-protein
+31778957_2183	1462	1467	Gal-1	Biomarker
+31778957_2183	1586	1591	tumor	Disease
+31778957_2183	1637	1642	Gal-1	Gene-protein
+31778957_2183	1637	1642	Gal-1	Biomarker
+31778957_2183	1686	1692	cancer	Disease	DOID:162
+

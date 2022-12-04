@@ -1,0 +1,61 @@
+T1	Chemical 39 43	zinc
+T10	Disease 396 409	breast cancer
+#2	AnnotatorNotes T10	DOID:1612
+T11	Biomarker 436 472	downregulation of ZnT5 and ZnT6 mRNA
+T12	Gene-Protein 454 458	ZnT5
+T13	Disease 508 523	prostate cancer
+#4	AnnotatorNotes T13	DOID:10283
+T14	Biomarker 529 551	ZnT9 mRNA upregulation
+T15	Disease 568 602	stage II of prostate cancer tumors
+#5	AnnotatorNotes T15	not found
+T18	Biomarker 608 645	Significant upregulation of ZnT1 mRNA
+T19	Disease 667 682	prostate cancer
+T2	Disease 85 92	cancers
+#9	AnnotatorNotes T2	DOID:162
+T20	Disease 706 711	tumor
+T21	Biomarker 733 760	overexpression of ZnT1 mRNA
+T22	Disease 821 835	bladder cancer
+#11	AnnotatorNotes T22	DOID:11054
+T23	Biomarker 847 891	dysregulation of zinc transporter expression
+T24	Chemical 864 868	zinc
+T25	Disease 907 913	cancer
+T26	Chemical 947 951	zinc
+T27	Biomarker 947 973	zinc transporter mutations
+T28	Disease 988 994	cancer
+T3	Biomarker 138 165	decreased serum zinc levels
+T4	Chemical 154 158	zinc
+T5	Disease 169 216	breast, prostate, liver, lung and kidney cancer
+#17	AnnotatorNotes T5	DOID:1612, DOID:10283, DOID:3571, DOID:1324, DOID:263
+T6	Biomarker 221 278	Alterations in the transcript levels of zinc transporters
+T7	Chemical 261 265	zinc
+T8	Disease 319 325	cancer
+#19	AnnotatorNotes T8	DOID:162
+T9	Biomarker 340 372	overexpression of ZIP6 and ZIP10
+T29	Biomarker 30 55	Impaired zinc homeostasis
+R1	Association Arg1:T29 Arg2:T2	
+R2	Association Arg1:T3 Arg2:T5	
+R3	Association Arg1:T6 Arg2:T8	
+T30	Gene-Protein 358 362	ZIP6
+#1	AnnotatorNotes T30	HGNC:18607
+T31	Gene-Protein 367 372	ZIP10
+#3	AnnotatorNotes T31	HGNC:20861
+R4	Association Arg1:T9 Arg2:T10	
+#12	AnnotatorNotes T12	HGNC:19089
+T32	Gene-Protein 463 467	ZnT6
+#14	AnnotatorNotes T32	HGNC:19305
+R5	Association Arg1:T11 Arg2:T13	
+T33	Gene-Protein 529 533	ZnT9
+#16	AnnotatorNotes T33	HGNC:1329
+R6	Association Arg1:T14 Arg2:T15	
+T16	Gene-Protein 636 640	ZnT1
+#6	AnnotatorNotes T16	HGNC:11012
+R7	Association Arg1:T18 Arg2:T19	
+#8	AnnotatorNotes T20	DOID:162
+T34	Gene-Protein 751 755	ZnT1
+R8	Association Arg1:T21 Arg2:T22	
+T35	GeneFamily 864 880	zinc transporter
+#10	AnnotatorNotes T35	not found
+T36	GeneFamily 261 278	zinc transporters
+#18	AnnotatorNotes T36	not found
+R9	Association Arg1:T23 Arg2:T25	
+T37	GeneFamily 947 963	zinc transporter

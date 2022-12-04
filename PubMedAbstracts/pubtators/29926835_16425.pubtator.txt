@@ -1,0 +1,45 @@
+29926835_16425|t|RSS_IDENT_s_29926835_b_1_2_8
+29926835_16425|a| CRMP-2 mutant constructs and transfection of human neuroblastoma SH-SY5Ycells Human CRMP-2 with N-terminal FLAG tag cloned into pRK5 mammalian expression vector was obtained from Dr. Lisa Ooms (Department of Biochemistry and Molecular Biology, Monash University, Melbourne, Australia). Site directed mutagenesis was performed (Agilent, Santa Clara, CA, USA) to produce the following CRMP-2 mutants: T509A, T514A, S518A, S522A, and T555A using the following primers; T509A forward 5′-gtg tga agt gtc tgt ggc gcc caa gac agt cac-3′, T509A reverse 5′-gtg act gtc ttg ggc gcc aca gac act tca cac-3′, T514A forward, 5′-gcc caa gac agt cgc tcc agc ctc ctc-3′, T514A reverse 5′-gag gag gct gga gcg act gtc ttg ggc-3′, S518A forward 5’-cac tcc agc ctc cgc ggc caa gac gtc-3’, S518A reverse 5′-gac gtc ttg gcc gcg gag gct gga gtg-3′, S522A forward 5′-ctc ggc caa gac ggc tcc tgc caa gca-3′, S522A reverse 5′-tgc ttg gca gga gcc gtc ttg gcc gag-3′, T555A forward 5′-ccc gcc gca ccg ccc agc gta tc-3′, T555A reverse 5′-gat acg ctg ggc ggt gcg gcg gg-3′. The CRMP-2 mutant constructs with FLAG tag were then subcloned into pCMV-Tag5 mammalian expression vector (Agilent Technologies) containing a C-terminal Myc tag and Kanamycin resistance. Human neuroblastoma SH-SY5Y cells were cultured in 6-well plates in DMEM/F12 medium until they were 80% confluent. On the day prior to transfection, medium was replaced with OPTI-MEM antibiotic and serum free media (Invitrogen) for 24 hours. The cells in each well were then transfected using Lipofectamine 2000 (Invitrogen) with 2 μg/well of pCMV-Tag5, pCMV-Tag5-CRMP2-T555A, pCMV-Tag5-CRMP2-T514A, pCMV-Tag5-CRMP2-T509A, pCMV-Tag5-CRMP2-S518A or pCMV-Tag5-CRMP2-S522A. Cells were then treated with Aβ peptides as described earlier. Cells were lysed and proteins were collected for immunoprecipitation and western immunoblotting.
+29926835_16425	30	36	CRMP-2	Gene-protein	HGNC:3014
+29926835_16425	81	94	neuroblastoma	Disease	DOID:769
+29926835_16425	95	107	SH-SY5Ycells	Cellline
+29926835_16425	114	120	CRMP-2	Gene-protein
+29926835_16425	126	127	N	Chemical
+29926835_16425	137	141	FLAG	Chemical
+29926835_16425	413	419	CRMP-2	Gene-protein
+29926835_16425	429	434	T509A	Variant	p.Thr509Ala
+29926835_16425	429	1026	T509A, T514A, S518A, S522A, and T555A using the following primers; T509A forward 5′-gtg tga agt gtc tgt ggc gcc caa gac agt cac-3′, T509A reverse 5′-gtg act gtc ttg ggc gcc aca gac act tca cac-3′, T514A forward, 5′-gcc caa gac agt cgc tcc agc ctc ctc-3′, T514A reverse 5′-gag gag gct gga gcg act gtc ttg ggc-3′, S518A forward 5’-cac tcc agc ctc cgc ggc caa gac gtc-3’, S518A reverse 5′-gac gtc ttg gcc gcg gag gct gga gtg-3′, S522A forward 5′-ctc ggc caa gac ggc tcc tgc caa gca-3′, S522A reverse 5′-tgc ttg gca gga gcc gtc ttg gcc gag-3′, T555A forward 5′-ccc gcc gca ccg ccc agc gta tc-3′, T555A	Collection
+29926835_16425	436	441	T514A	Variant	p.Thr514Ala
+29926835_16425	443	448	S518A	Variant	p.Ser518Ala
+29926835_16425	450	455	S522A	Variant	p.Ser522Ala
+29926835_16425	461	466	T555A	Variant	p.Thr555Ala
+29926835_16425	496	501	T509A	Variant
+29926835_16425	561	566	T509A	Variant
+29926835_16425	626	631	T514A	Variant
+29926835_16425	684	689	T514A	Variant
+29926835_16425	741	746	S518A	Variant
+29926835_16425	798	803	S518A	Variant
+29926835_16425	855	860	S522A	Variant
+29926835_16425	912	917	S522A	Variant
+29926835_16425	969	974	T555A	Variant
+29926835_16425	1021	1026	T555A	Variant
+29926835_16425	1077	1083	CRMP-2	Gene-protein
+29926835_16425	1107	1111	FLAG	Chemical
+29926835_16425	1215	1216	C	Chemical
+29926835_16425	1238	1247	Kanamycin	Drug	CHEMBL1384
+29926835_16425	1266	1279	neuroblastoma	Disease
+29926835_16425	1280	1287	SH-SY5Y	Cellline
+29926835_16425	1328	1336	DMEM/F12	Chemical
+29926835_16425	1553	1571	Lipofectamine 2000	Chemical
+29926835_16425	1624	1629	CRMP2	Gene-protein
+29926835_16425	1630	1635	T555A	Variant
+29926835_16425	1647	1652	CRMP2	Gene-protein
+29926835_16425	1653	1658	T514A	Variant
+29926835_16425	1670	1675	CRMP2	Gene-protein
+29926835_16425	1676	1681	T509A	Variant
+29926835_16425	1693	1698	CRMP2	Gene-protein
+29926835_16425	1699	1704	S518A	Variant
+29926835_16425	1718	1723	CRMP2	Gene-protein
+29926835_16425	1724	1729	S522A	Variant
+29926835_16425	1760	1771	Aβ peptides	Gene-protein	HGNC:620
+

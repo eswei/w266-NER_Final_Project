@@ -1,0 +1,99 @@
+T0	Disease 137 153	malignant tumors
+#1	AnnotatorNotes T0	DOID:162
+T10	Disease 370 386	malignant tumors
+T12	Disease 478 483	tumor
+#3	AnnotatorNotes T12	DOID:162
+T14	Disease 590 598	melanoma
+T15	Disease 705 709	pain
+#5	AnnotatorNotes T15	D010146
+T16	Disease 714 742	mechanical tactile allodynia
+#6	AnnotatorNotes T16	D006930
+T18	Disease 886 897	cancer pain
+#7	AnnotatorNotes T18	D000072716
+T19	Disease 913 921	melanoma
+T2	Disease 187 199	liver cancer
+#9	AnnotatorNotes T2	DOID:3571
+T20	Disease 987 995	melanoma
+T21	Disease 1018 1022	pain
+T22	Disease 1027 1055	mechanical tactile allodynia
+T23	Disease 1124 1128	pain
+T24	Disease 1142 1150	melanoma
+T26	Disease 1203 1214	cancer pain
+T27	Disease 1230 1253	non-metastatic melanoma
+#16	AnnotatorNotes T27	not found
+T29	Disease 1349 1361	liver cancer
+T3	Disease 238 251	breast cancer
+#18	AnnotatorNotes T3	DOID:1612
+T30	Disease 1366 1374	melanoma
+T31	Disease 1413 1426	breast cancer
+T32	Disease 1454 1466	liver cancer
+T33	Disease 1471 1479	melanoma
+T35	Disease 1593 1605	liver cancer
+T36	Disease 1610 1618	melanoma
+T6	Disease 304 318	gastric cancer
+#25	AnnotatorNotes T6	DOID:10534
+T7	Disease 320 333	breast cancer
+T8	Disease 335 348	kidney cancer
+#27	AnnotatorNotes T8	DOID:263
+T9	Disease 350 358	melanoma
+#28	AnnotatorNotes T9	DOID:1909
+T1	Gene-Protein 70 74	PD-1
+#29	AnnotatorNotes T1	HGNC:8760
+T4	Gene-Protein 75 80	PD-L1
+#30	AnnotatorNotes T4	HGNC:17635
+T5	Gene-Protein 159 163	PD-1
+T11	Gene-Protein 164 169	PD-L1
+T13	Gene-Protein 1187 1192	PD-L1
+T17	Gene-Protein 1305 1309	PD-1
+T25	Gene-Protein 1676 1681	PD-L1
+T28	Gene-Protein 1671 1675	PD-1
+T34	Gene-Protein 1584 1589	PD-L1
+T37	Gene-Protein 1095 1099	PD-1
+T38	Gene-Protein 663 668	sPD-1
+T39	Gene-Protein 830 835	sPD-1
+T40	Gene-Protein 287 291	PD-1
+T41	Gene-Protein 844 848	PD-1
+T42	Gene-Protein 545 550	sPD-1
+T43	Biomarker 159 163	PD-1
+T44	Biomarker 164 169	PD-L1
+T45	Collection 159 169	PD-1/PD-L1
+R1	Association Arg1:T45 Arg2:T2	
+T46	Collection 304 483	gastric cancer, breast cancer, kidney cancer, melanoma, and other malignant tumors was significantly higher than that in healthy patients, and was positively correlated with tumor
+T47	Biomarker 287 300	PD-1⁺ T cells
+R2	Association Arg1:T47 Arg2:T46	
+T48	Biomarker 525 586	expression level of sPD-1 protein was significantly increased
+R3	Association Arg1:T48 Arg2:T14	
+T51	Drug 954 963	nivolumab
+#2	AnnotatorNotes T51	CHEMBL2108738
+T52	Gene-Protein 1258 1262	PD-1
+T53	Disease 1502 1506	pain
+T54	Biomarker 1565 1589	high expression of PD-L1
+T55	Collection 1593 1618	liver cancer and melanoma
+R5	Association Arg1:T54 Arg2:T55	
+#4	AnnotatorNotes T42	HGNC:8760
+#8	AnnotatorNotes T43	C105992
+#10	AnnotatorNotes T44	C423236
+T56	Drug-Class 968 975	RMP1-14
+T57	Collection 1018 1055	pain and mechanical tactile allodynia
+R6	Causes Arg1:T51 Arg2:T57	
+T58	Drug 1064 1099	Blocking downstream signals of PD-1
+R7	Causes Arg1:T56 Arg2:T57	
+T59	Collection 1349 1374	liver cancer and melanoma
+T60	Biomarker 1297 1331	rate of PD-1 positivity on T cells
+R9	Association Arg1:T60 Arg2:T59	
+T61	Biomarker 62 91	rate of PD-1/PD-L1 positivity
+T62	Drug 844 859	PD-1 expression
+R11	Response Arg1:T62 Arg2:T18	
+T64	Drug 1187 1192	PD-L1
+R12	Response Arg1:T64 Arg2:T26	
+T49	Drug 663 668	sPD-1
+T50	Collection 705 742	pain and mechanical tactile allodynia
+R4	Causes Arg1:T49 Arg2:T50	
+#11	AnnotatorNotes T49	C105992
+#12	AnnotatorNotes T62	not found
+#13	AnnotatorNotes T64	C423236
+#14	AnnotatorNotes T58	not found
+R8	Causes Arg1:T58 Arg2:T23	
+T63	Disease 1658 1662	pain
+T66	Drug 1565 1589	high expression of PD-L1
+R13	Response Arg1:T66 Arg2:T63	

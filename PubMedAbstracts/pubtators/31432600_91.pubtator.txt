@@ -1,0 +1,65 @@
+31432600_91|t|RSS_IDENT_p_31432600_a_1_2
+31432600_91|a| The underlying mechanisms of breast cancer cells metastasizing to distant sites are complex and multifactorial. Bone sialoprotein (BSP) and αvβ3 integrin were reported to promote the metastatic progress of breast cancer cells, particularly metastasis to bone. Most theories presume that BSP promotes breast cancer metastasis by binding to αvβ3 integrin. Interestingly, we found the αvβ3 integrin decreased in BSP silenced cells (BSPi), which have weak ability to form bone metastases. However, the relevance of their expression in primary tumor and the way they participate in metastasis are not clear. In this study, we evaluated the relationship between BSP, αvβ3 integrin levels, and the bone metastatic ability of breast cancer cells in patient tissues, and the data indicated that the αvβ3 integrin level is closely correlated to BSP level and metastatic potential. Overexpression of αvβ3 integrin in cancer cells could reverse the effect of BSPi in vitro and promote bone metastasis in a mouse model, whereas knockdown of αvβ3 integrin have effects just like BSPi. Moreover, The Cancer Genome Atlas data and RT‐PCR analysis have also shown that SPP1, KCNK2, and PTK2B might be involved in this process. Thus, we propose that αvβ3 integrin is one of the downstream factors regulated by BSP in the breast cancer‐bone metastatic cascade. Abbreviations BRCA breast invasive carcinoma BSP bone sialoprotein BSPi 231BO cells with IBSP gene silenced CT computed tomography ER estrogen receptor KCNK2 potassium two pore domain channel subfamily K member 2 OPN osteopontin PR progesterone receptor PTK2B protein tyrosine kinase 2β SPP1 secreted phosphoprotein 1 TCGA The Cancer Genome Atlas
+31432600_91	57	70	breast cancer	Disease	DOID:1612
+31432600_91	140	157	Bone sialoprotein	Gene-protein	HGNC:5341
+31432600_91	140	157	Bone sialoprotein	Biomarker	D058574
+31432600_91	140	181	Bone sialoprotein (BSP) and αvβ3 integrin	Collection
+31432600_91	159	162	BSP	Gene-protein	HGNC:5341
+31432600_91	168	181	αvβ3 integrin	Gene-protein	HGNC:6139
+31432600_91	168	181	αvβ3 integrin	Biomarker	D039302
+31432600_91	234	247	breast cancer	Disease
+31432600_91	315	318	BSP	Biomarker	D058574
+31432600_91	315	318	BSP	Gene-protein
+31432600_91	328	341	breast cancer	Disease
+31432600_91	367	380	αvβ3 integrin	Gene-protein
+31432600_91	410	423	αvβ3 integrin	Gene-protein
+31432600_91	410	433	αvβ3 integrin decreased	Biomarker
+31432600_91	437	455	BSP silenced cells	Cellline
+31432600_91	457	461	BSPi	Cellline
+31432600_91	567	572	tumor	Disease	DOID:162
+31432600_91	684	687	BSP	Gene-protein
+31432600_91	689	702	αvβ3 integrin	Gene-protein
+31432600_91	746	759	breast cancer	Disease
+31432600_91	818	831	αvβ3 integrin	Gene-protein
+31432600_91	818	837	αvβ3 integrin level	Biomarker
+31432600_91	863	866	BSP	Gene-protein
+31432600_91	863	872	BSP level	Biomarker
+31432600_91	899	930	Overexpression of αvβ3 integrin	Drug	not found
+31432600_91	917	930	αvβ3 integrin	Gene-protein
+31432600_91	934	940	cancer	Disease	DOID:162
+31432600_91	975	979	BSPi	Cellline
+31432600_91	1056	1069	αvβ3 integrin	Gene-protein
+31432600_91	1093	1097	BSPi	Cellline
+31432600_91	1179	1183	SPP1	Gene-protein	HGNC:11255
+31432600_91	1179	1183	SPP1	Biomarker	C506895
+31432600_91	1185	1190	KCNK2	Gene-protein	HGNC:6277
+31432600_91	1185	1190	KCNK2	Biomarker	C103742
+31432600_91	1196	1201	PTK2B	Gene-protein	HGNC:9612
+31432600_91	1196	1201	PTK2B	Biomarker	C103547
+31432600_91	1259	1272	αvβ3 integrin	Gene-protein
+31432600_91	1259	1322	αvβ3 integrin is one of the downstream factors regulated by BSP	Biomarker
+31432600_91	1319	1322	BSP	Gene-protein
+31432600_91	1330	1343	breast cancer	Disease
+31432600_91	1383	1387	BRCA	Genefamily
+31432600_91	1388	1413	breast invasive carcinoma	Disease
+31432600_91	1414	1417	BSP	Gene-protein
+31432600_91	1418	1435	bone sialoprotein	Gene-protein
+31432600_91	1436	1440	BSPi	Cellline
+31432600_91	1441	1476	231BO cells with IBSP gene silenced	Cellline
+31432600_91	1500	1502	ER	Genefamily	not found
+31432600_91	1503	1511	estrogen	Chemical
+31432600_91	1503	1520	estrogen receptor	Genefamily	not found
+31432600_91	1521	1526	KCNK2	Gene-protein	HGNC:6277
+31432600_91	1527	1536	potassium	Chemical
+31432600_91	1527	1581	potassium two pore domain channel subfamily K member 2	Gene-protein	HGNC:6277
+31432600_91	1582	1585	OPN	Gene-protein	HGNC:11255
+31432600_91	1586	1597	osteopontin	Gene-protein	HGNC:11255
+31432600_91	1598	1600	PR	Gene-protein	HGNC:8910
+31432600_91	1601	1613	progesterone	Chemical
+31432600_91	1601	1622	progesterone receptor	Gene-protein	HGNC:8910
+31432600_91	1623	1628	PTK2B	Gene-protein	HGNC:9612
+31432600_91	1629	1655	protein tyrosine kinase 2β	Gene-protein	HGNC:9612
+31432600_91	1637	1645	tyrosine	Chemical
+31432600_91	1656	1660	SPP1	Gene-protein	HGNC:11255
+31432600_91	1661	1686	secreted phosphoprotein 1	Gene-protein	HGNC:11255
+

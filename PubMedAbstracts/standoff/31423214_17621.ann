@@ -1,0 +1,63 @@
+T1	Disease 188 222	esophageal squamous cell carcinoma
+#1	AnnotatorNotes T1	DOID:3748
+T12	Disease 690 705	cystic fibrosis
+#2	AnnotatorNotes T12	DOID:1485
+T15	Disease 802 826	hepatocellular carcinoma
+#3	AnnotatorNotes T15	DOID:684
+T16	Disease 918 942	hepatocellular carcinoma
+T19	Disease 1019 1033	lung carcinoma
+#6	AnnotatorNotes T19	DOID:3905
+T2	Disease 224 228	ESCC
+T21	Disease 1048 1062	retinoblastoma
+#9	AnnotatorNotes T21	DOID:768
+T23	Disease 1074 1092	cervical carcinoma
+#11	AnnotatorNotes T23	DOID:2893
+T26	Disease 1336 1338	GC
+T4	Disease 302 306	ESCC
+T6	Disease 470 487	synovial sarcomas
+#14	AnnotatorNotes T6	DOID:5485
+T9	Disease 552 558	cancer
+#15	AnnotatorNotes T9	DOID:162
+T3	RNA-Noncoding 34 42	miR-125a
+#7	AnnotatorNotes T3	HGNC:31505
+T5	RNA-Noncoding 43 49	let-7e
+#10	AnnotatorNotes T5	HGNC:31482
+T7	RNA-Noncoding 50 57	miR-99b
+#12	AnnotatorNotes T7	HGNC:31651
+T8	RNA-Noncoding 130 137	miR-99b
+T10	RNA-Noncoding 138 144	let-7e
+T11	RNA-Noncoding 145 153	miR-125a
+T13	Biomarker 130 161	miR-99b/let-7e/miR-125a cluster
+R1	Association Arg1:T13 Arg2:T1	
+#13	AnnotatorNotes T2	DOID:3748
+T24	RNA-Noncoding 393 401	miR-125a
+T25	RNA-Noncoding 402 408	let-7e
+T27	RNA-Noncoding 409 416	miR-99b
+T28	Biomarker 393 466	miR-125a/let-7e/miR-99b cluster members were also shown to be upregulated
+R4	Association Arg1:T28 Arg2:T6	
+T29	RNA-Noncoding 523 529	let-7e
+T30	Biomarker 534 541	miR-99b
+#16	AnnotatorNotes T30	C573158
+T31	RNA-Noncoding 534 541	miR-99b
+T32	Biomarker 523 529	let-7e
+#17	AnnotatorNotes T32	C583909
+T33	Collection 523 541	let-7e and miR-99b
+R5	Association Arg1:T33 Arg2:T9	
+T34	RNA-Noncoding 618 625	miR-99b
+T35	RNA-Noncoding 630 638	miR-125a
+T36	Biomarker 618 625	miR-99b
+T37	Biomarker 630 638	miR-125a
+#18	AnnotatorNotes T37	 C531888
+T38	Collection 618 638	miR-99b and miR-125a
+R6	Association Arg1:T38 Arg2:T12	
+T39	Biomarker 714 752	Decreased expression level of miR-125a
+T40	RNA-Noncoding 744 752	miR-125a
+T41	RNA-Noncoding 765 772	miR-99b
+T42	RNA-Noncoding 776 782	let-7e
+R8	Prognostic-Poor Arg1:T39 Arg2:T16	
+T18	RNA-Noncoding 951 962	miR-125a-5p
+#4	AnnotatorNotes T18	HGNC:31505
+T20	Biomarker 1303 1332	miR-125a-5p was downregulated
+T22	RNA-Noncoding 1303 1314	miR-125a-5p
+R7	Association Arg1:T20 Arg2:T26	
+#5	AnnotatorNotes T26	DOID:10534

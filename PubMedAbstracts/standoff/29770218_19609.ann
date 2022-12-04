@@ -1,0 +1,75 @@
+T0	Disease 60 79	psychiatric illness
+#1	AnnotatorNotes T0	D001523
+T1	Disease 190 210	psychiatric diseases
+#2	AnnotatorNotes T1	D001523
+T10	Disease 609 612	MDD
+T12	Disease 699 712	schizophrenia
+#4	AnnotatorNotes T12	DOID:5419
+T13	Disease 954 968	mental illness
+#5	AnnotatorNotes T13	D001523
+T14	Chemical 1016 1019	MDA
+T16	Chemical 1024 1032	cortisol
+T17	Disease 1078 1094	major depression
+#8	AnnotatorNotes T17	not found
+T18	Chemical 1174 1177	MDA
+T19	Chemical 1182 1190	cortisol
+T20	Disease 1228 1231	MDD
+T22	Chemical 1280 1283	MDA
+T23	Chemical 1288 1296	cortisol
+T24	Disease 1331 1334	MDD
+T25	Chemical 1435 1438	MDA
+T27	Chemical 1443 1451	cortisol
+T28	Disease 1494 1497	MDD
+T29	Chemical 1617 1620	MDA
+T3	Chemical 283 291	estrogen
+T30	Chemical 1625 1633	cortisol
+T31	Disease 1658 1668	depression
+#21	AnnotatorNotes T31	DOID:1596
+T32	Chemical 1783 1791	cortisol
+T4	Disease 355 362	anxiety
+#23	AnnotatorNotes T4	DOID:2030
+T5	Disease 420 448	generalized anxiety disorder
+#24	AnnotatorNotes T5	DOID:14320
+T6	Disease 450 453	GAD
+T7	Disease 517 520	GAD
+T9	Chemical 602 605	MDA
+T2	Gene-Protein 304 309	GPER1
+#3	AnnotatorNotes T2	HGNC:4485
+T8	Gene-Protein 265 302	G protein-coupled estrogen receptor 1
+#6	AnnotatorNotes T8	HGNC:4485
+T15	Gene-Protein 367 381	GPER1 receptor
+#7	AnnotatorNotes T15	HGNC:4485
+T11	Biomarker 249 310	serum levels of G protein-coupled estrogen receptor 1 (GPER1)
+R1	Association Arg1:T11 Arg2:T4	
+T21	Biomarker 367 388	GPER1 receptor action
+R2	Association Arg1:T21 Arg2:T5	
+T26	GeneFamily 481 492	paraoxonase
+#9	AnnotatorNotes T26	family:463
+T33	Gene-Protein 665 674	prolidase
+#10	AnnotatorNotes T33	HGNC:8840
+T34	Biomarker 665 674	prolidase
+R3	Association Arg1:T34 Arg2:T12	
+T35	Gene-Protein 795 804	prolidase
+T36	Gene-Protein 822 830	catalase
+#11	AnnotatorNotes T36	HGNC:1516
+T37	Biomarker 1016 1039	MDA and cortisol levels
+R4	Diagnostic-of Arg1:T37 Arg2:T17	
+T38	Collection 1174 1190	MDA and cortisol
+R5	Diagnostic-of Arg1:T38 Arg2:T20	
+T39	Biomarker 1270 1296	amplified MDA and cortisol
+R6	Association Arg1:T39 Arg2:T24	
+T40	Biomarker 1435 1458	MDA and cortisol levels
+R7	Association Arg1:T40 Arg2:T28	
+#12	AnnotatorNotes T6	DOID:14320
+#13	AnnotatorNotes T10	DOID:1470
+#14	AnnotatorNotes T34	DOID:1470
+T41	Biomarker 795 804	prolidase
+T42	Biomarker 822 830	catalase
+T43	Biomarker 1174 1177	MDA
+#15	AnnotatorNotes T43	D008315
+T44	Biomarker 1182 1190	cortisol
+#16	AnnotatorNotes T44	D006854
+#17	AnnotatorNotes T42	 D002374
+T45	Biomarker 1617 1620	MDA
+T46	Biomarker 1625 1633	cortisol
+T47	Biomarker 1783 1791	cortisol

@@ -1,0 +1,73 @@
+T0	Disease 123 148	cardiomyocyte hypertrophy
+#1	AnnotatorNotes T0	not found
+T1	Disease 153 171	cardiac remodeling
+#2	AnnotatorNotes T1	not found
+T10	Disease 632 678	high glucose-induced cardiomyocyte hypertrophy
+#3	AnnotatorNotes T10	not found
+T11	Disease 823 846	cardiovascular diseases
+T13	Disease 1003 1006	AMI
+T15	Disease 1120 1123	AMI
+T16	Disease 1292 1295	AMI
+T21	Disease 1485 1488	AMI
+T3	Disease 272 291	cardiac hypertrophy
+#10	AnnotatorNotes T3	D006332
+T5	Disease 401 419	cardiac remodeling
+T8	Disease 560 583	cardiovascular diseases
+#12	AnnotatorNotes T8	DOID:1287
+T9	Chemical 637 644	glucose
+T2	RNA-Noncoding 80 86	miR-22
+#5	AnnotatorNotes T2	HGNC:31599
+T4	Collection 123 171	cardiomyocyte hypertrophy and cardiac remodeling
+T6	Biomarker 80 86	miR-22
+T7	RNA-Noncoding 1396 1405	miR-22-5p
+R1	Association Arg1:T6 Arg2:T4	
+T12	Biomarker 206 225	miR-132/212 cluster
+R2	Association Arg1:T12 Arg2:T3	
+T14	RNA-Noncoding 206 217	miR-132/212
+#6	AnnotatorNotes T14	family:1714
+T17	RNA-Noncoding 328 339	miR-132/212
+T18	Biomarker 348 355	miR-132
+R3	Association Arg1:T18 Arg2:T5	
+T19	RNA-Noncoding 446 453	miR-150
+#7	AnnotatorNotes T19	HGNC:31537
+T22	Gene-Protein 724 728	p300
+#9	AnnotatorNotes T22	HGNC:3373
+T23	Biomarker 597 604	miR-150
+T24	RNA-Noncoding 597 604	miR-150
+R4	Association Arg1:T23 Arg2:T10	
+T25	Disease 495 507	inflammation
+#13	AnnotatorNotes T25	D007249
+T26	Biomarker 446 453	miR-150
+T27	Collection 495 583	inflammation, has been implicated in the pathogenesis of various cardiovascular diseases
+T28	Biomarker 784 790	miRNAs
+R5	Association Arg1:T28 Arg2:T11	
+R6	Association Arg1:T26 Arg2:T27	
+T29	RNA-Noncoding 929 935	miR-22
+T30	RNA-Noncoding 937 944	miR-132
+T31	RNA-Noncoding 950 957	miR-150
+T32	Biomarker 908 985	expression levels of miR-22, miR-132, and miR-150 were obviously dysregulated
+T33	RNA-Noncoding 1065 1074	miR-22-5p
+T34	RNA-Noncoding 1210 1220	miR-132-5p
+T35	RNA-Noncoding 1092 1102	miR-150-3p
+T36	RNA-Noncoding 1226 1236	miR-150-3p
+T37	RNA-Noncoding 1199 1208	miR-22-5p
+T38	RNA-Noncoding 1076 1086	miR-132-5p
+T39	RNA-Noncoding 1423 1433	miR-150-3p
+T40	RNA-Noncoding 1407 1417	miR-132-5p
+T41	Biomarker 1384 1433	circulating miR-22-5p, miR-132-5p, and miR-150-3p
+R7	Association Arg1:T41 Arg2:T21	
+T20	Drug-Class 1536 1556	cardiovascular drugs
+#4	AnnotatorNotes T33	HGNC:31599
+#8	AnnotatorNotes T35	HGNC:31537
+T43	RNA-Noncoding 348 355	miR-132
+#14	AnnotatorNotes T43	HGNC:31516
+#15	AnnotatorNotes T6	C548375
+#11	AnnotatorNotes T18	C547077
+#16	AnnotatorNotes T26	C533097
+#17	AnnotatorNotes T28	D035683
+T44	RNA-Noncoding 784 790	miRNAs
+#18	AnnotatorNotes T44	family:476
+R8	Association Arg1:T32 Arg2:T13	
+#19	AnnotatorNotes T13	DOID:9408
+T42	Drug 1525 1532	heparin
+#20	AnnotatorNotes T42	D006493

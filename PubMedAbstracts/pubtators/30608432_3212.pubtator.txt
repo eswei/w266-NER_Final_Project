@@ -1,0 +1,44 @@
+30608432_3212|t|RSS_IDENT_p_30608432_b_1_1_4
+30608432_3212|a| Of note, because of lots of common risk factors, a great number of patients with CAD have varying degrees of chronic kidney disease (CKD). The heart failure caused by CAD can also lead to renal insufficiency. In addition, it is reported that CKD patients have higher risk of developing cardiovascular disease (CVD), which indicate the highly interrelated feature of them.[ ⁹ , ¹⁰ ] Ang-2, besides its role in angiogenesis, also controls the vascular inflammation[ ¹¹ ] and plays an important role in CKD. Pathophysiological characteristics of CKD, such as hypoxia, tumor necrosis factor-α (TNF-α), and reactive oxygen species (ROS), can lead to endothelial Ang-2 secretion;[ ¹¹ – ¹³ ] Serum Ang-2 levels increase with progression of CKD and are closely related to renal function.[ ¹⁴ ] Besides, serum angiopoietin-2 is associated with albuminuria and markers of systemic microinflammation in CKD patients.[ ¹⁵ ] Even in the general population, after exclusion of subjects with hypertension or diabetes mellitus, serum Ang-2 concentrations are also highly associated with the parameters of renal function.[ ¹⁶ ] In vivo, glomerular Ang-2 is increased in glomerulonephritis.[ ¹⁷ ] In renal ischemia/reperfusion injury, Ang-2 is highly expressed and involved in renal microvascular remodeling and development of fibrosis.[ ¹⁸ ] 
+30608432_3212	111	114	CAD	Disease	DOID:3393
+30608432_3212	139	161	chronic kidney disease	Biomarker	D051436
+30608432_3212	163	166	CKD	Disease	DOID:784
+30608432_3212	173	186	heart failure	Biomarker	D006333
+30608432_3212	197	200	CAD	Biomarker
+30608432_3212	218	237	renal insufficiency	Disease	D051437
+30608432_3212	272	275	CKD	Biomarker	D051436
+30608432_3212	316	338	cardiovascular disease	Disease	DOID:1287
+30608432_3212	340	343	CVD	Disease	DOID:1287
+30608432_3212	412	417	Ang-2	Gene-protein	HGNC:485
+30608432_3212	412	417	Ang-2	Biomarker
+30608432_3212	471	492	vascular inflammation	Disease	not found
+30608432_3212	471	533	vascular inflammation[ ¹¹ ] and plays an important role in CKD	Collection
+30608432_3212	530	533	CKD	Disease
+30608432_3212	573	576	CKD	Disease
+30608432_3212	586	593	hypoxia	Biomarker	D000860
+30608432_3212	595	618	tumor necrosis factor-α	Gene-protein	HGNC:11892
+30608432_3212	620	625	TNF-α	Gene-protein	HGNC:11892
+30608432_3212	632	655	reactive oxygen species	Chemical
+30608432_3212	657	660	ROS	Chemical
+30608432_3212	687	692	Ang-2	Gene-protein
+30608432_3212	715	742	Serum Ang-2 levels increase	Biomarker
+30608432_3212	721	726	Ang-2	Gene-protein
+30608432_3212	763	766	CKD	Disease
+30608432_3212	825	845	serum angiopoietin-2	Biomarker
+30608432_3212	831	845	angiopoietin-2	Gene-protein	HGNC:485
+30608432_3212	865	876	albuminuria	Disease	D000419
+30608432_3212	892	925	systemic microinflammation in CKD	Disease	not found, DOID:784	Conjunction
+30608432_3212	1007	1019	hypertension	Disease	DOID:10763
+30608432_3212	1023	1040	diabetes mellitus	Disease	DOID:9351
+30608432_3212	1042	1068	serum Ang-2 concentrations	Biomarker
+30608432_3212	1048	1053	Ang-2	Gene-protein
+30608432_3212	1150	1179	glomerular Ang-2 is increased	Biomarker
+30608432_3212	1161	1166	Ang-2	Gene-protein
+30608432_3212	1183	1201	glomerulonephritis	Disease	DOID:2921
+30608432_3212	1212	1245	renal ischemia/reperfusion injury	Disease	not found
+30608432_3212	1247	1252	Ang-2	Gene-protein
+30608432_3212	1247	1272	Ang-2 is highly expressed	Biomarker
+30608432_3212	1289	1319	renal microvascular remodeling	Disease	not found
+30608432_3212	1289	1347	renal microvascular remodeling and development of fibrosis	Collection
+30608432_3212	1339	1347	fibrosis	Disease	D005355
+

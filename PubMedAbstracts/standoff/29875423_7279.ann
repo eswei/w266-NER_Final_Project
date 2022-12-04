@@ -1,0 +1,48 @@
+T1	GeneFamily 101 104	ARS
+T10	Variant 892 910	p.(Gly578SerfsX20)
+T11	Variant 915 923	c.683C>T
+T12	Variant 924 937	p.(Pro228Leu)
+T13	Variant 1032 1050	c.2084+2_2084+3del
+T14	Variant 1061 1069	c.793C>T
+T2	Variant 290 299	c.1305G>C
+T3	Variant 318 327	c.3377dup
+T4	Variant 436 445	c.1305G>C
+T5	Variant 464 473	c.3377dup
+T6	Variant 711 720	c.3420del
+T7	Variant 739 748	c.1283C>T
+T8	Variant 749 762	p.(Pro428Leu)
+T9	Variant 864 890	c1732_1744delGGCATTGATCGAG
+T17	Gene-Protein 270 274	IARS
+#1	AnnotatorNotes T17	HGNC:5330
+T18	Variant 300 313	p.(Trp435Cys)
+T19	Variant 474 487	p.(Asn1126fs)
+#2	AnnotatorNotes T19	p.Asn1126fs
+T20	Collection 290 341	c.1305G>C p.(Trp435Cys) and c.3377dup p.(Asn1126fs)
+T21	Gene-Protein 416 420	IARS
+#3	AnnotatorNotes T18	p.Trp435Cys
+R1	Variant-Of Arg1:T17 Arg2:T20	
+T22	Variant 446 458	p.(Trp435Cys
+T23	Collection 436 486	c.1305G>C p.(Trp435Cys) and c.3377dup p.(Asn1126fs
+R2	Variant-Of Arg1:T21 Arg2:T23	
+T24	Variant 328 341	p.(Asn1126fs)
+#4	AnnotatorNotes T24	p.Asn1126fs
+T25	Gene-Protein 690 694	LARS
+#5	AnnotatorNotes T25	HGNC:6512
+#6	AnnotatorNotes T8	p.Pro428Leu
+T26	Variant 721 734	p.(Ile1141fs)
+#7	AnnotatorNotes T26	p.Ile1141fs
+T27	Collection 711 762	c.3420del p.(Ile1141fs) and c.1283C>T p.(Pro428Leu)
+R3	Variant-Of Arg1:T25 Arg2:T27	
+#8	AnnotatorNotes T10	p.Gly578SerfsTer20
+#9	AnnotatorNotes T12	p.Pro228Leu
+T28	Gene-Protein 841 845	KARS
+#10	AnnotatorNotes T28	HGNC:6215
+T29	Collection 864 937	c1732_1744delGGCATTGATCGAG, p.(Gly578SerfsX20) and c.683C>T p.(Pro228Leu)
+T30	Gene-Protein 1012 1016	QARS
+#11	AnnotatorNotes T30	HGNC:9751
+R4	Variant-Of Arg1:T28 Arg2:T29	
+T31	Collection 1032 1082	c.2084+2_2084+3del p.(?) and c.793C>T p.(Arg25Cys)
+T32	Variant 1070 1082	p.(Arg25Cys)
+#12	AnnotatorNotes T32	p.Arg25Cys
+R5	Variant-Of Arg1:T30 Arg2:T31	
+#13	AnnotatorNotes T1	family:130

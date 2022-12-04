@@ -1,0 +1,59 @@
+31807171_92|t|RSS_IDENT_p_31807171_a_1_1
+31807171_92|a| Glioma is the most common type of malignant brain tumor, and is characterized by invasive growth and chemoradiotherapy resistance. The following Cancer Genome Atlas mutation subtypes were identified in initial high-grade gliomas and recurrent gliomas treated by chemoradiotherapy: Isocitrate dehydrogenase 1/2 (IDH1/2) mutation, epidermal growth factor receptor variant III (EGFRvIII) mutation, tumor protein P53 mutation, PTEN mutation, O⁶-methylguanine-DNA methyltransferase promoter methylation and telomerase reverse transcriptase (TERT) mutation. The expression profile of 58 receptor tyrosine kinases (RTKs) were also examined. It was revealed that the proneural tumor subtype and IDH1/2 mutation are more frequent in recurrent tumors compared with initial tumors. Lower frequencies of the classical subtype, EGFRvIII mutation and TERT mutation were identified in recurrent tumors. A set of six RTK genes in which the level of expression was influenced by chemoradiotherapy was identified. Survival analysis revealed that the expression of several RTKs, including apoptosis-associated tyrosine kinase, fibroblast growth factor receptor 1 and insulin-like growth factor 1 receptor (IGF1R), was associated with patient survival. The stimulation of glioma cells by IGF1 in vitro was found to decreased the viability of the cells following treatment with temozolomide (TMZ). In addition, the expression level of IGF1R was increased in glioma cells treated with TMZ. These data suggest that altered RTK expression levels may influence the sensitivity of glioma to chemoradiotherapy.
+31807171_92	28	34	Glioma	Disease	DOID:0060108
+31807171_92	62	83	malignant brain tumor	Disease	DOID:1319
+31807171_92	109	124	invasive growth	Biomarker
+31807171_92	129	146	chemoradiotherapy	Drug-class
+31807171_92	236	278	l high-grade gliomas and recurrent gliomas	Collection
+31807171_92	238	256	high-grade gliomas	Disease	DOID:3070
+31807171_92	261	278	recurrent gliomas	Disease	not found
+31807171_92	290	307	chemoradiotherapy	Drug-class
+31807171_92	309	319	Isocitrate	Chemical
+31807171_92	309	337	Isocitrate dehydrogenase 1/2	Gene-protein	HGNC:5382, HGNC:5383
+31807171_92	309	355	Isocitrate dehydrogenase 1/2 (IDH1/2) mutation	Biomarker
+31807171_92	339	345	IDH1/2	Gene-protein	HGNC:5382, HGNC:5383
+31807171_92	357	389	epidermal growth factor receptor	Gene-protein	HGNC:3236
+31807171_92	357	421	epidermal growth factor receptor variant III (EGFRvIII) mutation	Biomarker
+31807171_92	423	449	tumor protein P53 mutation	Biomarker
+31807171_92	437	440	P53	Gene-protein	HGNC:11998
+31807171_92	451	455	PTEN	Gene-protein	HGNC:9588
+31807171_92	451	464	PTEN mutation	Biomarker
+31807171_92	466	482	O⁶-methylguanine	Chemical
+31807171_92	466	504	O⁶-methylguanine-DNA methyltransferase	Gene-protein	HGNC:7059
+31807171_92	530	562	telomerase reverse transcriptase	Gene-protein	HGNC:11730
+31807171_92	530	578	telomerase reverse transcriptase (TERT) mutation	Biomarker
+31807171_92	564	568	TERT	Gene-protein	HGNC:11730
+31807171_92	609	634	receptor tyrosine kinases	Genefamily	family:321
+31807171_92	618	626	tyrosine	Chemical
+31807171_92	636	640	RTKs	Genefamily	family:321
+31807171_92	687	710	proneural tumor subtype	Biomarker
+31807171_92	687	730	proneural tumor subtype and IDH1/2 mutation	Collection
+31807171_92	715	721	IDH1/2	Gene-protein
+31807171_92	715	730	IDH1/2 mutation	Biomarker
+31807171_92	752	768	recurrent tumors	Disease	DOID:162
+31807171_92	783	797	initial tumors	Disease	DOID:162
+31807171_92	799	878	Lower frequencies of the classical subtype, EGFRvIII mutation and TERT mutation	Biomarker
+31807171_92	865	869	TERT	Gene-protein
+31807171_92	898	914	recurrent tumors	Disease
+31807171_92	929	932	RTK	Genefamily
+31807171_92	990	1007	chemoradiotherapy	Drug-class
+31807171_92	1060	1221	expression of several RTKs, including apoptosis-associated tyrosine kinase, fibroblast growth factor receptor 1 and insulin-like growth factor 1 receptor (IGF1R)	Biomarker
+31807171_92	1082	1086	RTKs	Genefamily
+31807171_92	1098	1134	apoptosis-associated tyrosine kinase	Gene-protein	HGNC:21
+31807171_92	1119	1127	tyrosine	Chemical
+31807171_92	1136	1171	fibroblast growth factor receptor 1	Gene-protein	HGNC:3688
+31807171_92	1176	1213	insulin-like growth factor 1 receptor	Gene-protein	HGNC:5465
+31807171_92	1215	1220	IGF1R	Gene-protein	HGNC:5465
+31807171_92	1280	1286	glioma	Disease	DOID:0060108
+31807171_92	1296	1300	IGF1	Gene-protein	HGNC:5464
+31807171_92	1385	1397	temozolomide	Drug	CHEMBL810
+31807171_92	1399	1402	TMZ	Drug	CHEMBL810
+31807171_92	1422	1461	expression level of IGF1R was increased	Biomarker
+31807171_92	1442	1447	IGF1R	Gene-protein
+31807171_92	1465	1471	glioma	Disease
+31807171_92	1491	1494	TMZ	Drug
+31807171_92	1520	1549	altered RTK expression levels	Biomarker
+31807171_92	1528	1531	RTK	Genefamily
+31807171_92	1583	1589	glioma	Disease
+31807171_92	1593	1610	chemoradiotherapy	Drug-class
+

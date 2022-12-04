@@ -1,0 +1,38 @@
+30154665_21660|t|RSS_IDENT_p_30154665_b_1_4_3
+30154665_21660|a| After analysis of microarray results, we identified differentially expressed lncRNA NAP1L6 in PCa. NAP1L6 contained 33.5 kb nucleotides and was located in Xq13.2. In 2014, Gazzellone et al reported that copy number variation of NAP1L6 might be related with autism spectrum disorder in Han Chinese individuals. 23 However, it has not been reported in any of the tumor-related studies till now. In our study, NAP1L6 promoted the proliferation, migration, and invasion of PCa cells by regulating the expression of INHBA. Recently, regulative function of INHBA in cancer had attracted researchers’ attention. Si et al indicated that high expression of INHBA was an adverse prognostic factor for de novo acute myeloid leukemia. 24 In terms of solid tumors, INHBA expression levels were found to be significantly higher in cancer tissue than in adjacent normal mucosa in patients with stage II/III gastric cancer who received adjuvant chemotherapy with S-1. Moreover, results of clinicopathological data analysis demonstrated that high INHBA expression was associated with significantly poorer 5-year survival. 25 In PCa, INHBA was found to be over-expressed in high-grade disease. 26 Furthermore, Tandefelt et al reported that INHBA participated in PCa progression in in vitro biologic assays. 27 However, the specific mechanism of regulation remains to be explored. 
+30154665_21660	107	120	lncRNA NAP1L6	Biomarker
+30154665_21660	114	120	NAP1L6	Rna-noncoding	HGNC:31706
+30154665_21660	124	127	PCa	Disease	DOID:10283
+30154665_21660	129	135	NAP1L6	Rna-noncoding
+30154665_21660	154	165	nucleotides	Chemical
+30154665_21660	233	264	copy number variation of NAP1L6	Biomarker
+30154665_21660	258	264	NAP1L6	Rna-noncoding
+30154665_21660	287	311	autism spectrum disorder	Disease	DOID:0060041
+30154665_21660	391	396	tumor	Disease	DOID:162
+30154665_21660	437	443	NAP1L6	Rna-noncoding
+30154665_21660	437	443	NAP1L6	Biomarker
+30154665_21660	499	502	PCa	Disease
+30154665_21660	541	546	INHBA	Gene-protein	HGNC:6066
+30154665_21660	558	586	regulative function of INHBA	Biomarker
+30154665_21660	581	586	INHBA	Gene-protein
+30154665_21660	590	596	cancer	Disease	DOID:162
+30154665_21660	659	683	high expression of INHBA	Biomarker
+30154665_21660	678	683	INHBA	Gene-protein
+30154665_21660	721	751	de novo acute myeloid leukemia	Disease	DOID:9119
+30154665_21660	768	780	solid tumors	Disease	DOID:162
+30154665_21660	782	787	INHBA	Gene-protein
+30154665_21660	782	842	INHBA expression levels were found to be significantly highe	Biomarker
+30154665_21660	847	853	cancer	Disease
+30154665_21660	847	936	cancer tissue than in adjacent normal mucosa in patients with stage II/III gastric cancer	Collection
+30154665_21660	909	936	stage II/III gastric cancer	Disease	not found, not found
+30154665_21660	950	971	adjuvant chemotherapy	Drug-class
+30154665_21660	977	980	S-1	Drug-class
+30154665_21660	1055	1076	high INHBA expression	Biomarker
+30154665_21660	1060	1065	INHBA	Gene-protein
+30154665_21660	1141	1144	PCa	Disease
+30154665_21660	1146	1151	INHBA	Gene-protein
+30154665_21660	1146	1182	INHBA was found to be over-expressed	Biomarker
+30154665_21660	1252	1257	INHBA	Gene-protein
+30154665_21660	1252	1257	INHBA	Biomarker
+30154665_21660	1274	1277	PCa	Disease
+

@@ -1,0 +1,48 @@
+30770796_34845|t|RSS_IDENT_p_30770796_b_1_4_3
+30770796_34845|a| Recent studies indicated that lncRNAs are frequently involved in the ceRNA network, where lncRNAs could regulate the miRNA target gene expression by binding miRNA and titrating off their binding with protein-coding messengers ²⁸ , ²⁹ . For instance, Linc01234 promotes gastric cancer progression by functioning as a ceRNA of miR-204-5p ³⁰ ; lncRNA UICLM mediated CRC liver metastasis by sponging to miR-215 to regulate the expression of ZEB1 ²² ; lncRNA HOXA11-AS promotes the cell proliferation through interacting with miR-1297 in gastric cancer ³¹ . In this study, we found that lncRNA ZNFX1-AS1 was mainly located in the cytoplasm and could be enriched by Ago2 in CRC cells, which implicates that lncRNA ZNFX1-AS1 might be involved in the ceRNA network. The online bioinformatics indicated and luciferase activity assay indicated miR-144 was sponged by lncRNA ZNFX1-AS1. miR-144 has been found to be downregulated in various tumors and generally functions as a tumor suppressor. Zhang and colleagues showed that miR-144 inhibits cancer metastasis by targeting ADAMTS5 and ADAM10 ³² . In another study, Ren et al indicated that miR-144 was down-regulated in Osteosarcoma, and ectopic expression of miR-144 inhibited cell proliferation, and metastasis in vitro and in vivo ³³ . In our study, we found that miR-144 was significantly down-regulated in CRC, ectopic expression of miR-144 inhibited CRC cell proliferation, migration, and metastasis both in vitro and in vivo. In accordance with our study, Iwaya et al found that down-regulation of miR-144 is associated with CRC progression via activation of the mTOR signaling pathway ³⁴ . Our results uncover the interaction between lncRNA ZNFX1-AS1 and miR-144 in mediating the progression of CRC. 
+30770796_34845	280	289	Linc01234	Rna-noncoding	HGNC:49757
+30770796_34845	280	289	Linc01234	Biomarker
+30770796_34845	299	313	gastric cancer	Disease	DOID:10534
+30770796_34845	355	365	miR-204-5p	Rna-noncoding	HGNC:31582
+30770796_34845	378	383	UICLM	Rna-noncoding	HGNC:54869
+30770796_34845	378	383	UICLM	Biomarker
+30770796_34845	393	413	CRC liver metastasis	Disease	not found
+30770796_34845	429	436	miR-215	Rna-noncoding	HGNC:31592
+30770796_34845	467	471	ZEB1	Gene-protein	HGNC:11642
+30770796_34845	484	493	HOXA11-AS	Rna-noncoding	HGNC:24957
+30770796_34845	484	493	HOXA11-AS	Biomarker
+30770796_34845	551	559	miR-1297	Rna-noncoding	HGNC:35289
+30770796_34845	563	577	gastric cancer	Disease
+30770796_34845	619	628	ZNFX1-AS1	Rna-noncoding	HGNC:33101
+30770796_34845	619	628	ZNFX1-AS1	Biomarker	C000611949
+30770796_34845	690	694	Ago2	Gene-protein	HGNC:3263
+30770796_34845	698	701	CRC	Disease	DOID:9256
+30770796_34845	738	747	ZNFX1-AS1	Rna-noncoding
+30770796_34845	864	871	miR-144	Rna-noncoding	HGNC:31531
+30770796_34845	894	903	ZNFX1-AS1	Rna-noncoding
+30770796_34845	905	912	miR-144	Rna-noncoding
+30770796_34845	905	947	miR-144 has been found to be downregulated	Biomarker
+30770796_34845	959	965	tumors	Disease	DOID:162
+30770796_34845	1046	1053	miR-144	Rna-noncoding
+30770796_34845	1046	1053	miR-144	Drug
+30770796_34845	1063	1069	cancer	Disease	DOID:162
+30770796_34845	1094	1101	ADAMTS5	Gene-protein	HGNC:221
+30770796_34845	1106	1112	ADAM10	Gene-protein	HGNC:188
+30770796_34845	1161	1168	miR-144	Rna-noncoding
+30770796_34845	1161	1187	miR-144 was down-regulated	Biomarker
+30770796_34845	1191	1203	Osteosarcoma	Disease	DOID:3347
+30770796_34845	1231	1238	miR-144	Rna-noncoding
+30770796_34845	1338	1345	miR-144	Rna-noncoding
+30770796_34845	1338	1378	miR-144 was significantly down-regulated	Biomarker
+30770796_34845	1382	1385	CRC	Disease
+30770796_34845	1409	1416	miR-144	Rna-noncoding
+30770796_34845	1427	1430	CRC	Disease
+30770796_34845	1557	1583	down-regulation of miR-144	Biomarker
+30770796_34845	1576	1583	miR-144	Rna-noncoding
+30770796_34845	1603	1606	CRC	Disease
+30770796_34845	1641	1645	mTOR	Gene-protein	HGNC:3942
+30770796_34845	1693	1741	interaction between lncRNA ZNFX1-AS1 and miR-144	Biomarker
+30770796_34845	1720	1729	ZNFX1-AS1	Rna-noncoding
+30770796_34845	1734	1741	miR-144	Rna-noncoding
+30770796_34845	1774	1777	CRC	Disease
+

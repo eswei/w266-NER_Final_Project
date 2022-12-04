@@ -1,0 +1,70 @@
+29898809_6518|t|RSS_IDENT_p_29898809_b_1_4_3
+29898809_6518|a| Recently, pro-inflammatory cytokine interleukins (IL)-6 and IL-8 have been suggested to play roles in the invasion and metastasis of breast cancer ( 29 ). IL-6 has reportedly been correlated with TNBC progression, and clinical studies have shown increased IL-8 levels in aggressive breast tumor tissue when compared with normal breast tissue ( 30 , 31 ). Due to the importance of pro-inflammatory cytokines in TNBC invasion, in-depth study is needed to validate a better target for inflammatory signaling. Our recent studies have shown that IL-6 and IL-8 are produced through a BLT2-dependent pathway ( 6 , 32 ) (Fig. 1). Kim et al. found that BLT2 expression was increased in human TNBC cell lines, human TNBC MDA-MB-231, and MDA-MB-435 cells when compared with its expression in a human breast cancer cell line, MCF-10A. Therefore, we examined whether BLT2 can reduce the invasiveness and secretion of IL-8. MDA-MB-231 and MDA-MB-435 cells were treated with a specific BLT2 antagonist LY255283 or transfected with BLT2 small interfering RNA (siRNA). In these experiments, we demonstrated that IL-8 secretion, invasiveness in TNBC cells, and lung invasion in a TNBC xenograft mouse model are regulated in a BLT2-dependent manner. Park et al. also demonstrated that IL-6/IL-8 is downstream of the BLT2-dependent pathway in LPS-treated TNBC cell lines and an MDA-MB-231 xenograft mouse model. The activity of NF-κB is up-regulated in TNBC, and the NF-κB signaling pathway plays a crucial role in regulating the invasiveness of TNBC. In TNBC, NF-κB signaling cascades, which are related to invasion, are regulated by the BLT2-NOX-1 pathway, leading to the production of IL-6 and IL-8 in TNBC (Fig. 1). Together, these observations suggest that BLT2 plays a critical role in TNBC cell invasion and metastasis via IL-6/IL-8 up-regulation.
+29898809_6518	40	65	pro-inflammatory cytokine	Genefamily	not found
+29898809_6518	66	85	interleukins (IL)-6	Gene-protein	HGNC:6018
+29898809_6518	66	85	interleukins (IL)-6	Biomarker	D015850
+29898809_6518	66	94	interleukins (IL)-6 and IL-8	Collection
+29898809_6518	90	94	IL-8	Gene-protein	HGNC:6025
+29898809_6518	90	94	IL-8	Biomarker	D016209
+29898809_6518	163	176	breast cancer	Disease	DOID:1612
+29898809_6518	185	189	IL-6	Gene-protein
+29898809_6518	185	189	IL-6	Biomarker
+29898809_6518	226	230	TNBC	Disease	DOID:0060081
+29898809_6518	276	297	increased IL-8 levels	Biomarker
+29898809_6518	286	290	IL-8	Gene-protein
+29898809_6518	301	324	aggressive breast tumor	Disease	DOID:1612
+29898809_6518	410	436	pro-inflammatory cytokines	Genefamily	not found
+29898809_6518	410	436	pro-inflammatory cytokines	Biomarker
+29898809_6518	440	444	TNBC	Disease
+29898809_6518	571	575	IL-6	Gene-protein
+29898809_6518	580	584	IL-8	Gene-protein
+29898809_6518	608	612	BLT2	Gene-protein	HGNC:19260
+29898809_6518	674	678	BLT2	Gene-protein
+29898809_6518	674	703	BLT2 expression was increased	Biomarker
+29898809_6518	713	717	TNBC	Disease
+29898809_6518	736	740	TNBC	Disease
+29898809_6518	741	751	MDA-MB-231	Cellline
+29898809_6518	757	767	MDA-MB-435	Cellline
+29898809_6518	819	832	breast cancer	Disease
+29898809_6518	844	851	MCF-10A	Cellline
+29898809_6518	884	888	BLT2	Gene-protein
+29898809_6518	934	938	IL-8	Gene-protein
+29898809_6518	940	950	MDA-MB-231	Cellline
+29898809_6518	955	965	MDA-MB-435	Cellline
+29898809_6518	1001	1005	BLT2	Gene-protein
+29898809_6518	1001	1016	BLT2 antagonist	Drug-class
+29898809_6518	1017	1025	LY255283	Drug	CHEMBL15766
+29898809_6518	1046	1050	BLT2	Gene-protein
+29898809_6518	1046	1072	BLT2 small interfering RNA	Drug
+29898809_6518	1125	1129	IL-8	Gene-protein
+29898809_6518	1157	1161	TNBC	Disease
+29898809_6518	1192	1196	TNBC	Disease
+29898809_6518	1238	1242	BLT2	Gene-protein
+29898809_6518	1296	1300	IL-6	Gene-protein
+29898809_6518	1301	1305	IL-8	Gene-protein
+29898809_6518	1327	1331	BLT2	Gene-protein
+29898809_6518	1353	1356	LPS	Chemical
+29898809_6518	1353	1369	LPS-treated TNBC	Disease	not found
+29898809_6518	1388	1398	MDA-MB-231	Cellline
+29898809_6518	1426	1459	activity of NF-κB is up-regulated	Biomarker
+29898809_6518	1438	1443	NF-κB	Genefamily	family:1254
+29898809_6518	1463	1467	TNBC	Disease
+29898809_6518	1477	1482	NF-κB	Genefamily
+29898809_6518	1477	1500	NF-κB signaling pathway	Biomarker
+29898809_6518	1556	1560	TNBC	Disease
+29898809_6518	1565	1569	TNBC	Disease
+29898809_6518	1571	1576	NF-κB	Genefamily
+29898809_6518	1571	1595	NF-κB signaling cascades	Biomarker
+29898809_6518	1649	1653	BLT2	Gene-protein
+29898809_6518	1649	1667	BLT2-NOX-1 pathway	Biomarker
+29898809_6518	1654	1659	NOX-1	Gene-protein	HGNC:7889
+29898809_6518	1698	1702	IL-6	Gene-protein
+29898809_6518	1707	1711	IL-8	Gene-protein
+29898809_6518	1715	1719	TNBC	Disease
+29898809_6518	1772	1776	BLT2	Gene-protein
+29898809_6518	1772	1776	BLT2	Biomarker	C485878
+29898809_6518	1802	1806	TNBC	Disease
+29898809_6518	1840	1844	IL-6	Gene-protein
+29898809_6518	1840	1863	IL-6/IL-8 up-regulation	Biomarker
+29898809_6518	1845	1849	IL-8	Gene-protein
+

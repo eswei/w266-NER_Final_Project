@@ -1,0 +1,46 @@
+31409296_17392|t|RSS_IDENT_p_31409296_b_1_3_5
+31409296_17392|a| The other interesting point in our patient was the presence of CKD (eGFR 43 ml/min per 1.73 m2, Grade 3b) with nephrotic range proteinuria. Renal biopsies of our patient showed FSGS as well as juxtaglomerular apparatus hyperplasia, interstitial fibrosis, as expected in BS and GS. Besides, dominant immunoglobulins (IgM +, IgA +/−) staining along with complements (C3 +/−) was demonstrated in the mesangium and capillary wall, which correlated with scattered electron dense mesangial deposits demonstrated by electron microscopy. These are several possible explanations for pathogenetic mechanisms of the changes BS patient kidneys. One possibility is that chronic stimulation of the renin-angiotensin-aldosterone system, which increased AngiotensinIIin response to chronic renal dysfunction due to salt-losing nephropathy [ 3 , 17 ]. Another point to consider is that prolonged hypokalemia can lead to hypertrophy and renal fibrosis through activation of transforming growth factor β [ 18 ]. Moreover, other studies suggested long-term treatment with nonsteroidal anti-inflammatory drugs and prematurity are increased risk factors for CKD [ 19 , 20 ]. After discharge, our patient was treated with orally administered potassium supplements, indomethacin and spironolactone. The patient’s creatinine clearance and proteinuria showed marked improvement with these treatments. The mechanism of CKD development is multifactorial, integrated control of serum electrolyte level, angiotensin-converting enzyme inhibitor (indomethacin) and aldosterone antagonist (spironolactone) application are key to reduce and delay patients with chronic renal failure in long-term follow-up. Nonetheless, a better understanding of the mutated proteins will contribute to targeted treatment in BS. Correcting deficiencies in mutated proteins and targeting treatment on mutant gene will shed new light on new therapy. 
+31409296_17392	93	168	CKD (eGFR 43 ml/min per 1.73 m2, Grade 3b) with nephrotic range proteinuria	Disease	DOID:784, not found	Conjunction
+31409296_17392	207	211	FSGS	Biomarker
+31409296_17392	207	283	FSGS as well as juxtaglomerular apparatus hyperplasia, interstitial fibrosis	Collection
+31409296_17392	223	260	juxtaglomerular apparatus hyperplasia	Biomarker
+31409296_17392	262	283	interstitial fibrosis	Biomarker
+31409296_17392	300	302	BS	Disease	DOID:445
+31409296_17392	300	309	BS and GS	Collection
+31409296_17392	307	309	GS	Disease	DOID:0050450
+31409296_17392	329	344	immunoglobulins	Genefamily	not found
+31409296_17392	346	349	IgM	Gene-protein	not found
+31409296_17392	353	356	IgA	Gene-protein	not found
+31409296_17392	395	397	C3	Gene-protein	HGNC:1318
+31409296_17392	643	645	BS	Disease
+31409296_17392	687	750	chronic stimulation of the renin-angiotensin-aldosterone system	Biomarker
+31409296_17392	714	719	renin	Gene-protein	HGNC:9958
+31409296_17392	720	731	angiotensin	Gene-protein	HGNC:333
+31409296_17392	732	743	aldosterone	Chemical
+31409296_17392	804	821	renal dysfunction	Disease	DOID:1074
+31409296_17392	829	852	salt-losing nephropathy	Disease	not found
+31409296_17392	899	920	prolonged hypokalemia	Biomarker
+31409296_17392	933	944	hypertrophy	Disease	D006984
+31409296_17392	933	963	hypertrophy and renal fibrosis	Collection
+31409296_17392	949	963	renal fibrosis	Disease	DOID:0050855
+31409296_17392	986	1014	transforming growth factor β	Genefamily	family:1664
+31409296_17392	1082	1118	nonsteroidal anti-inflammatory drugs	Drug-class
+31409296_17392	1123	1134	prematurity	Biomarker
+31409296_17392	1166	1169	CKD	Disease	DOID:784
+31409296_17392	1249	1270	potassium supplements	Drug-class
+31409296_17392	1272	1284	indomethacin	Drug	CHEMBL6
+31409296_17392	1272	1303	indomethacin and spironolactone	Collection
+31409296_17392	1289	1303	spironolactone	Drug	 CHEMBL1393
+31409296_17392	1319	1329	creatinine	Chemical
+31409296_17392	1319	1339	creatinine clearance	Biomarker
+31409296_17392	1344	1355	proteinuria	Disease	DOID:576
+31409296_17392	1422	1425	CKD	Disease
+31409296_17392	1479	1502	serum electrolyte level	Biomarker
+31409296_17392	1504	1533	angiotensin-converting enzyme	Genefamily	not found
+31409296_17392	1504	1543	angiotensin-converting enzyme inhibitor	Drug-class
+31409296_17392	1545	1557	indomethacin	Drug
+31409296_17392	1563	1584	aldosterone antagonis	Drug-class
+31409296_17392	1587	1601	spironolactone	Drug
+31409296_17392	1657	1678	chronic renal failure	Disease	D007676
+31409296_17392	1804	1806	BS	Disease
+

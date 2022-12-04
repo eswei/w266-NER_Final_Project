@@ -1,0 +1,64 @@
+31181641_24976|t|RSS_IDENT_p_31181641_b_1_4_9
+31181641_24976|a| FGF 19 has an essential role in NAFLD. Liver specimens from patients with NAFLD had increased endoplasmic reticulum stress [ 48 , 49 ] and chronic endoplasmic reticulum stress has been linked to fatty liver disease [ 50 ] owing to increased FFA flux into the liver [ 51 ]. Lack of the FGF15/19 gene exacerbated endoplasmic reticulum stress and increased hepatic steatosis in response to a high-fat diet [ 50 ]. FGF 19 transgenic mice did not develop obesity and DM on a high-fat diet by reducing fat mass, increasing energy expenditure, increasing insulin sensitivity, and reducing hepatosteatosis [ 52 ]. Patients with NAFLD and insulin resistance had an impaired hepatic response to FGF19, leading to the dysregulation of lipid homeostasis [ 53 ]. Obesity showed an association between decreased FGF19 levels and NAFLD [ 54 ]. Our study corresponds to the above, and further investigates the FGF 19 and FLI score on NAFLD in patients with obesity and T2DM after SG. In different metabolic surgery, SG had a better capability to normalize liver function test than Roux-en-Y gastric bypass in patients with obesity and T2DM 1 year after surgery [ 55 ]. Non-invasive markers of liver fibrosis scores, including aspartate aminotransferase/alanine aminotransferase ratio, NAFLD fibrosis score, BARD score, and aspartate aminotransferase to platelet ratio index, have been used to evaluate the improvement of NAFLD after SG [ 56 ]. We also found that the FL-I group had lower FGF 19 levels, lower body weight, and lower waist circumferences among the patients with obesity and T2DM before surgery. A decreased FGF19 level might be an important risk factor for NAFLD [ 54 ]. In addition, our study suggests that the preoperative FGF 19 levels ≤ 49.97 pg/mL have a predictive role in fatty liver improvement 1 year after surgery. 
+31181641_24976	30	36	FGF 19	Gene-protein	HGNC:3675
+31181641_24976	30	36	FGF 19	Biomarker	C117476
+31181641_24976	62	67	NAFLD	Disease	DOID:0080208
+31181641_24976	104	109	NAFLD	Disease
+31181641_24976	114	152	increased endoplasmic reticulum stress	Biomarker
+31181641_24976	169	205	chronic endoplasmic reticulum stress	Biomarker
+31181641_24976	225	244	fatty liver disease	Disease	DOID:9452
+31181641_24976	261	294	increased FFA flux into the liver	Biomarker
+31181641_24976	303	328	Lack of the FGF15/19 gene	Biomarker
+31181641_24976	315	323	FGF15/19	Gene-protein	not found,HGNC:3675
+31181641_24976	384	401	hepatic steatosis	Disease	DOID:9452
+31181641_24976	441	447	FGF 19	Gene-protein
+31181641_24976	480	487	obesity	Disease	DOID:9970
+31181641_24976	492	494	DM	Disease	DOID:9351
+31181641_24976	500	513	high-fat diet	Drug	D059305
+31181641_24976	578	585	insulin	Gene-protein	HGNC:6081
+31181641_24976	612	627	hepatosteatosis	Disease	DOID:9452
+31181641_24976	650	655	NAFLD	Disease
+31181641_24976	650	678	NAFLD and insulin resistance	Collection
+31181641_24976	660	667	insulin	Gene-protein
+31181641_24976	660	678	insulin resistance	Disease	D007333
+31181641_24976	686	720	impaired hepatic response to FGF19	Biomarker
+31181641_24976	715	720	FGF19	Gene-protein	HGNC:3675
+31181641_24976	754	759	lipid	Chemical
+31181641_24976	780	787	Obesity	Disease	DOID:9970
+31181641_24976	818	840	decreased FGF19 levels	Biomarker
+31181641_24976	828	833	FGF19	Gene-protein
+31181641_24976	845	850	NAFLD	Disease
+31181641_24976	924	930	FGF 19	Gene-protein
+31181641_24976	948	953	NAFLD	Disease
+31181641_24976	971	978	obesity	Disease
+31181641_24976	983	987	T2DM	Disease	DOID:9352
+31181641_24976	1137	1144	obesity	Disease
+31181641_24976	1149	1153	T2DM	Disease
+31181641_24976	1207	1228	liver fibrosis scores	Biomarker
+31181641_24976	1207	1387	liver fibrosis scores, including aspartate aminotransferase/alanine aminotransferase ratio, NAFLD fibrosis score, BARD score, and aspartate aminotransferase to platelet ratio index	Collection
+31181641_24976	1230	1297	including aspartate aminotransferase/alanine aminotransferase ratio	Biomarker
+31181641_24976	1240	1249	aspartate	Chemical
+31181641_24976	1240	1266	aspartate aminotransferase	Genefamily	not found
+31181641_24976	1267	1274	alanine	Chemical
+31181641_24976	1267	1291	alanine aminotransferase	Gene-protein	HGNC:4552
+31181641_24976	1299	1319	NAFLD fibrosis score	Biomarker
+31181641_24976	1321	1331	BARD score	Biomarker
+31181641_24976	1337	1346	aspartate	Chemical
+31181641_24976	1337	1363	aspartate aminotransferase	Gene-protein
+31181641_24976	1337	1387	aspartate aminotransferase to platelet ratio index	Biomarker
+31181641_24976	1435	1440	NAFLD	Disease
+31181641_24976	1496	1515	lower FGF 19 levels	Biomarker
+31181641_24976	1496	1566	lower FGF 19 levels, lower body weight, and lower waist circumferences	Collection
+31181641_24976	1502	1508	FGF 19	Gene-protein
+31181641_24976	1517	1534	lower body weight	Biomarker
+31181641_24976	1540	1566	lower waist circumferences	Biomarker
+31181641_24976	1591	1598	obesity	Disease
+31181641_24976	1591	1607	obesity and T2DM	Collection
+31181641_24976	1603	1607	T2DM	Disease
+31181641_24976	1626	1641	decreased FGF19	Biomarker
+31181641_24976	1636	1641	FGF19	Gene-protein
+31181641_24976	1686	1691	NAFLD	Disease
+31181641_24976	1754	1760	FGF 19	Gene-protein
+31181641_24976	1754	1781	FGF 19 levels ≤ 49.97 pg/mL	Biomarker
+31181641_24976	1808	1819	fatty liver	Disease	DOID:9452
+

@@ -1,0 +1,76 @@
+T1	Disease 98 110	brain damage
+#1	AnnotatorNotes T1	D001930
+T10	Disease 329 351	perinatal brain injury
+#2	AnnotatorNotes T10	not found
+T11	Disease 378 389	acute death
+#3	AnnotatorNotes T11	not found
+T12	Disease 428 431	HIE
+T17	Disease 703 706	HIE
+T18	Disease 711 728	neonatal asphyxia
+#6	AnnotatorNotes T18	DOID:11088
+T2	Disease 112 118	stroke
+#7	AnnotatorNotes T2	D020521
+T21	Disease 906 909	HIE
+T22	Chemical 974 983	adenosine
+T23	Chemical 985 998	acetylcholine
+T27	Chemical 1271 1291	phosphatidylinositol
+T28	Chemical 1328 1342	diacylglycerol
+T29	Chemical 1347 1368	inositol triphosphate
+T3	Disease 124 136	neonatal HIE
+T30	Chemical 1370 1373	IP3
+T31	Chemical 1430 1434	Ca²⁺
+T32	Chemical 1504 1508	Ca²⁺
+T33	Disease 1541 1570	hypoxic ischemic brain damage
+#21	AnnotatorNotes T33	D020925
+T36	Disease 1828 1849	fetal distress in ICP
+#23	AnnotatorNotes T36	D005316, DOID:0070227
+T4	Disease 147 150	HIE
+T6	Disease 165 177	brain injury
+#26	AnnotatorNotes T6	D001930
+T8	Chemical 196 202	oxygen
+T5	Biomarker 75 78	NPY
+#4	AnnotatorNotes T5	HGNC:7955
+T7	Gene-Protein 75 78	NPY
+#5	AnnotatorNotes T7	D009478
+#9	AnnotatorNotes T3	not found
+T9	Collection 98 136	brain damage, stroke, and neonatal HIE
+R1	Association Arg1:T5 Arg2:T9	
+#10	AnnotatorNotes T4	D020925
+T13	Biomarker 188 219	reduced oxygen supply reduction
+T14	Biomarker 227 304	reduced blood supply secondary to late pregnancy, delivery or neonatal period
+T15	Collection 188 304	reduced oxygen supply reduction and/or reduced blood supply secondary to late pregnancy, delivery or neonatal period
+R2	Association Arg1:T15 Arg2:T4	
+T16	Biomarker 445 474	plasma NPY level is increased
+T19	Gene-Protein 452 455	NPY
+R3	Association Arg1:T16 Arg2:T12	
+T20	Disease 505 508	HIE
+T35	Biomarker 523 550	higher the plasma NPY level
+T38	Gene-Protein 541 544	NPY
+R4	Association Arg1:T35 Arg2:T20	
+T39	Gene-Protein 559 562	NPY
+T40	Gene-Protein 650 653	NPY
+T41	Biomarker 643 653	plasma NPY
+R5	Association Arg1:T41 Arg2:T17	
+T42	Biomarker 734 771	plasma NPY is significantly increased
+T43	Gene-Protein 741 744	NPY
+R6	Association Arg1:T42 Arg2:T18	
+T44	Gene-Protein 914 917	NPY
+T25	Drug 914 917	NPY
+T26	Gene-Protein 1237 1240	NPY
+T45	Chemical 1399 1402	IP3
+T34	Gene-Protein 1615 1618	NPY
+T46	Disease 1664 1667	ICP
+#8	AnnotatorNotes T46	DOID:0070227
+T47	Biomarker 1615 1618	NPY
+R8	Association Arg1:T47 Arg2:T46	
+T48	Gene-Protein 1698 1701	NPY
+T49	Gene-Protein 1806 1809	NPY
+A1	Conjunction T36
+T37	Biomarker 1806 1809	NPY
+R9	Association Arg1:T37 Arg2:T36	
+T50	Biomarker 1684 1755	expression of NPY in the experimental group was increased significantly
+T51	Biomarker 1399 1402	IP3
+R10	Association Arg1:T51 Arg2:T33	
+#12	AnnotatorNotes T51	D015544
+T24	Biomarker 790 830	increase of cerebral vascular resistance
+T52	Biomarker 839 870	decrease of cerebral blood flow

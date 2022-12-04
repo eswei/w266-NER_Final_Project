@@ -1,0 +1,85 @@
+T0	Chemical 46 49	hcy
+T1	Disease 54 74	hyperhomocysteinemia
+#2	AnnotatorNotes T1	DOID:9279
+T10	Biomarker 373 385	osteoporosis
+#3	AnnotatorNotes T10	D010024
+T12	Biomarker 387 398	fatty liver
+#4	AnnotatorNotes T12	D005234
+T13	Biomarker 408 430	cognitive dysfunctions
+#5	AnnotatorNotes T13	D060825
+T14	Biomarker 439 464	intellectual disabilities
+#6	AnnotatorNotes T14	D008607
+T15	Biomarker 479 500	psychiatric disorders
+#7	AnnotatorNotes T15	D001523
+T16	Biomarker 511 531	personality disorder
+#8	AnnotatorNotes T16	D010554
+T17	Biomarker 533 540	anxiety
+#9	AnnotatorNotes T17	D001007
+T18	Biomarker 542 552	depression
+#10	AnnotatorNotes T18	D003863
+T19	Biomarker 589 607	psychotic episodes
+#11	AnnotatorNotes T19	D001523
+T2	Disease 76 80	hhcy
+T20	Biomarker 620 624	Hhcy
+T23	Disease 651 677	neurodegenerative diseases
+#15	AnnotatorNotes T23	DOID:1289
+T24	Disease 686 705	Alzheimer's disease
+#16	AnnotatorNotes T24	DOID:10652
+T25	Disease 707 709	AD
+#17	AnnotatorNotes T25	DOID:0110035
+T29	Chemical 762 765	hcy
+T3	Disease 208 219	severe hhcy
+T30	Disease 797 823	neuropsychiatric disorders
+#22	AnnotatorNotes T30	not found
+T31	Disease 832 845	schizophrenia
+#23	AnnotatorNotes T31	DOID:5419
+T32	Disease 847 857	depression
+T33	Disease 859 875	bipolar disorder
+#25	AnnotatorNotes T33	DOID:3312
+T34	Disease 881 887	autism
+#26	AnnotatorNotes T34	DOID:12849
+T36	Chemical 1007 1015	tyrosine
+T37	Chemical 1043 1063	Phosphatidylinositol
+T4	Biomarker 231 245	CBS deficiency
+T6	Disease 261 275	CBS deficiency
+T7	Biomarker 339 355	vascular disease
+#32	AnnotatorNotes T7	D014652
+T8	Biomarker 357 371	ectopia lentis
+#33	AnnotatorNotes T8	 D004479
+T5	Biomarker 30 49	Elevated plasma hcy
+#1	AnnotatorNotes T2	DOID:9279
+R1	Association Arg1:T4 Arg2:T3	
+#12	AnnotatorNotes T3	DOID:9279
+T9	Biomarker 466 474	seizures
+#13	AnnotatorNotes T9	D012640
+T11	Biomarker 554 583	obsessive-compulsive behavior
+T22	Collection 339 607	vascular disease, ectopia lentis, osteoporosis, fatty liver but also cognitive dysfunctions such as intellectual disabilities, seizures and psychiatric disorders including personality disorder, anxiety, depression, obsessive-compulsive behavior, and psychotic episodes
+T21	Collection 651 710	neurodegenerative diseases such as Alzheimer's disease (AD)
+#18	AnnotatorNotes T20	D020138
+R3	Risk-Factor Arg1:T20 Arg2:T21	
+T28	Biomarker 753 771	elevated hcy level
+T27	Collection 797 887	neuropsychiatric disorders such as schizophrenia, depression, bipolar disorder, and autism
+R4	Association Arg1:T28 Arg2:T27	
+T26	Disease 927 932	hhcys
+T39	GeneFamily 998 1023	receptor tyrosine kinases
+T40	GeneFamily 1025 1028	RTK
+T41	GeneFamily 1035 1038	ERK
+T42	GeneFamily 1043 1072	Phosphatidylinositol 3-kinase
+T43	GeneFamily 1074 1078	PI3K
+T44	GeneFamily 1080 1083	Akt
+T45	Gene-Protein 1098 1131	brain-derived neurotrophic factor
+T46	Gene-Protein 1132 1136	TrkB
+T47	Gene-Protein 261 264	CBS
+#20	AnnotatorNotes T26	DOID:9279
+T48	Gene-Protein 231 234	CBS
+#19	AnnotatorNotes T48	HGNC:1550
+T38	Gene-Protein 1168 1171	CBS
+T49	Biomarker 951 1154	alterations in signaling pathways initiated by receptor tyrosine kinases (RTK), the ERK and Phosphatidylinositol 3-kinase (PI3K)/Akt pathways, and brain-derived neurotrophic factor/TrkB signaling pathway
+R6	Association Arg1:T49 Arg2:T26	
+T50	Disease 1206 1210	hhcy
+#21	AnnotatorNotes T4	D006712
+T35	Biomarker 1168 1181	CBS deficient
+R5	Association Arg1:T35 Arg2:T50	
+#14	AnnotatorNotes T6	DOID:9263
+R2	Association Arg1:T22 Arg2:T6	
+#24	AnnotatorNotes T11	D009771

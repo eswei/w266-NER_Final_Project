@@ -1,0 +1,75 @@
+T11	Disease 808 834	hepatic insulin resistance
+#3	AnnotatorNotes T11	not found
+T14	Chemical 1063 1070	glucose
+T16	Disease 1087 1105	insulin resistance
+T17	Chemical 1165 1172	glucose
+T19	RNA-Noncoding 1225 1232	MiR-215
+T21	Disease 1291 1307	malignant tumour
+#10	AnnotatorNotes T21	DOID:162
+T24	Disease 1482 1485	T2D
+#12	AnnotatorNotes T24	DOID:9352
+T4	Disease 366 394	impaired glucose homeostasis
+#14	AnnotatorNotes T4	DOID:4194
+T5	Chemical 375 382	glucose
+T6	Disease 396 410	hyperglycaemia
+#16	AnnotatorNotes T6	D006943
+T7	Disease 415 432	hyperinsulinaemia
+#17	AnnotatorNotes T7	D006946
+T8	Chemical 500 507	glucose
+T2	Gene-Protein 91 98	insulin
+#1	AnnotatorNotes T2	HGNC:6081
+T3	Disease 175 194	HFD-induced obesity
+#4	AnnotatorNotes T3	not found
+T1	RNA-Noncoding 221 228	miR-103
+T9	RNA-Noncoding 233 240	miR-107
+T10	Biomarker 200 269	expression levels of miR-103 and miR-107 were significantly increased
+R1	Association Arg1:T10 Arg2:T3	
+T12	RNA-Noncoding 309 316	miR-103
+T13	RNA-Noncoding 321 328	miR-107
+T20	Collection 366 432	impaired glucose homeostasis, hyperglycaemia and hyperinsulinaemia
+T22	Biomarker 291 328	overexpression of miR-103 and miR-107
+R2	Risk-Factor Arg1:T22 Arg2:T20	
+T26	RNA-Noncoding 471 478	miR-103
+T27	RNA-Noncoding 483 490	miR-107
+T28	Gene-Protein 524 531	insulin
+T29	Gene-Protein 576 586	caveolin-1
+#2	AnnotatorNotes T29	 HGNC:1527
+T30	Gene-Protein 651 667	insulin receptor
+T31	RNA-Noncoding 717 724	miR-103
+T32	RNA-Noncoding 729 736	miR-107
+T33	Gene-Protein 747 757	caveolin-1
+T34	Gene-Protein 991 998	insulin
+T35	RNA-Noncoding 895 902	miR-143
+T36	RNA-Noncoding 1137 1144	miR-143
+T37	Gene-Protein 1197 1204	insulin
+T38	RNA-Noncoding 1029 1036	miR-143
+T39	RNA-Noncoding 1387 1394	miR-215
+T40	RNA-Noncoding 1452 1459	miR-215
+T41	Gene-Protein 618 634	insulin receptor
+T23	Disease 945 1009	genetically altered or diet-induced models of insulin resistance
+#7	AnnotatorNotes T23	not found, not found
+T25	Biomarker 885 927	levels of miR-143 expression were elevated
+R3	Association Arg1:T25 Arg2:T23	
+T42	Drug 1011 1036	Overexpression of miR-143
+R4	Causes Arg1:T42 Arg2:T16	
+T18	Biomarker 1225 1232	MiR-215
+R5	Association Arg1:T18 Arg2:T21	
+#5	AnnotatorNotes T18	C553667
+T15	Gene-Protein 816 823	insulin
+T43	Gene-Protein 1087 1094	insulin
+T44	Drug 175 178	HFD
+#6	AnnotatorNotes T44	D059305
+#8	AnnotatorNotes T41	HGNC:6091
+#9	AnnotatorNotes T31	family:1754
+#11	AnnotatorNotes T32	HGNC:31496
+#13	AnnotatorNotes T16	D007333
+T45	Disease 1063 1082	glucose intolerance
+#15	AnnotatorNotes T45	DOID:10603
+T46	Collection 1063 1105	glucose intolerance and insulin resistance
+T47	Disease 1398 1409	fatty liver
+#18	AnnotatorNotes T47	DOID:9452
+T48	Disease 1490 1501	fatty liver
+#19	AnnotatorNotes T42	not found
+T50	Drug 699 736	overexpression of miR-103 and miR-107
+#20	AnnotatorNotes T50	not found
+R6	Causes Arg1:T50 Arg2:T11	

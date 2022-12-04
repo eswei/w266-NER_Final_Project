@@ -1,0 +1,46 @@
+30219706_3008|t|RSS_IDENT_p_30219706_b_1_1_3
+30219706_3008|a| Among the important mediators of glioblastoma cell invasion is TROY, an orphan member of the tumor necrosis factor receptor superfamily, which is widely expressed during embryonic development but whose postnatal expression is tightly regulated [5] , [6] , [7] , [8] . Increased expression of TROY has been implicated in several invasive cancers, including melanoma, nasopharyngeal carcinoma, lung cancer, colorectal cancer, and GBM [9] , [10] , [11] , [12] , [13] , [14] . We have previously shown that expression of TROY protein is low in non-neoplastic brain tissue but increases with glial tumor grade and inversely correlates with patient survival [13] . We also noted that TROY mRNA expression was elevated in invasive glioma cells relative to cells in the matched tumor core [14] . Increased expression of TROY stimulated glioma cell invasion in vitro and invasion ex vivo in brain slices, and induced astrocyte migration in situ. TROY-stimulated migration correlated with increased glioma cell resistance to temozolomide (TMZ) or radiation in vitro via activation of Akt and the nuclear factor kappa B (NF-κB) [14] . Conversely, knockdown of TROY expression inhibited glioma cell migration and increased sensitivity to TMZ [14] . Furthermore, knockdown of TROY expression alone significantly increased survival in an intracranial xenograft model [14] . Recently, we found that TROY forms a novel complex with epidermal growth factor receptor and that TROY was capable of modulating epidermal growth factor receptor signaling in GBM [15] . However, the signaling pathways and specific downstream effectors involved in TROY-stimulated cell migration and invasion remain largely undefined.
+30219706_3008	63	75	glioblastoma	Disease	DOID:3068
+30219706_3008	93	97	TROY	Gene-protein	HGNC:11915
+30219706_3008	123	165	tumor necrosis factor receptor superfamily	Genefamily	family:782
+30219706_3008	298	326	Increased expression of TROY	Biomarker
+30219706_3008	322	326	TROY	Gene-protein
+30219706_3008	358	374	invasive cancers	Disease	not found
+30219706_3008	358	461	invasive cancers, including melanoma, nasopharyngeal carcinoma, lung cancer, colorectal cancer, and GBM	Collection
+30219706_3008	386	394	melanoma	Disease	DOID:1909
+30219706_3008	396	420	nasopharyngeal carcinoma	Disease	DOID:9261
+30219706_3008	422	433	lung cancer	Disease	DOID:1324
+30219706_3008	435	452	colorectal cancer	Disease	DOID:9256
+30219706_3008	458	461	GBM	Disease	DOID:3073
+30219706_3008	533	559	expression of TROY protein	Biomarker
+30219706_3008	547	551	TROY	Gene-protein
+30219706_3008	617	628	glial tumor	Disease	DOID:0060108
+30219706_3008	708	712	TROY	Gene-protein
+30219706_3008	708	741	TROY mRNA expression was elevated	Biomarker
+30219706_3008	754	760	glioma	Disease	DOID:0060108
+30219706_3008	800	805	tumor	Disease	DOID:162
+30219706_3008	818	846	Increased expression of TROY	Biomarker
+30219706_3008	842	846	TROY	Gene-protein
+30219706_3008	858	864	glioma	Disease
+30219706_3008	967	971	TROY	Gene-protein
+30219706_3008	967	992	TROY-stimulated migration	Biomarker
+30219706_3008	1019	1025	glioma	Disease
+30219706_3008	1045	1057	temozolomide	Drug	CHEMBL810
+30219706_3008	1059	1062	TMZ	Drug	CHEMBL810
+30219706_3008	1067	1076	radiation	Drug-class
+30219706_3008	1104	1107	Akt	Genefamily	family:1900
+30219706_3008	1116	1138	nuclear factor kappa B	Genefamily	family:1254
+30219706_3008	1140	1145	NF-κB	Genefamily	family:1254
+30219706_3008	1166	1194	knockdown of TROY expression	Drug	not found
+30219706_3008	1179	1183	TROY	Gene-protein
+30219706_3008	1205	1211	glioma	Disease
+30219706_3008	1256	1259	TMZ	Drug
+30219706_3008	1293	1297	TROY	Gene-protein
+30219706_3008	1414	1418	TROY	Gene-protein
+30219706_3008	1446	1478	epidermal growth factor receptor	Gene-protein	HGNC:3236
+30219706_3008	1488	1492	TROY	Gene-protein
+30219706_3008	1488	1492	TROY	Biomarker	C411850
+30219706_3008	1519	1551	epidermal growth factor receptor	Gene-protein
+30219706_3008	1565	1568	GBM	Disease
+30219706_3008	1654	1658	TROY	Gene-protein
+

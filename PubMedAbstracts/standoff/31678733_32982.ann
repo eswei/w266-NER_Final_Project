@@ -1,0 +1,61 @@
+T0	Disease 128 163	physiologic and pathologic diseases
+#1	AnnotatorNotes T0	not found, not found
+T1	Disease 310 316	cancer
+#2	AnnotatorNotes T1	DOID:162
+T10	Drug 1276 1282	JSH-23
+T11	Disease 1374 1377	PCa
+T12	Disease 1503 1525	bone metastasis of PCa
+T2	Disease 357 363	cancer
+T3	Disease 375 380	tumor
+#7	AnnotatorNotes T3	DOID:162
+T5	Disease 542 568	bone metastasis in cancers
+#9	AnnotatorNotes T5	DOID:162
+T7	Disease 671 698	metastatic phenotype of PCa
+#11	AnnotatorNotes T7	DOID:10283
+T8	Disease 879 901	bone metastasis of PCa
+T9	Drug 1262 1271	LY2409881
+T13	GeneFamily 101 106	NF-κB
+#3	AnnotatorNotes T13	family:1254
+T14	Biomarker 101 116	NF-κB signaling
+R1	Association Arg1:T14 Arg2:T0	
+T15	GeneFamily 237 242	NF-κB
+T16	Biomarker 237 281	NF-κB signaling was constitutively activated
+R2	Association Arg1:T16 Arg2:T35	
+T17	Biomarker 475 504	activation of NF-κB signaling
+T18	GeneFamily 489 494	NF-κB
+R3	Association Arg1:T17 Arg2:T5	
+T4	GeneFamily 616 621	NF-κB
+T19	Biomarker 591 631	unrestrained activity of NF-κB signaling
+T6	Disease 727 749	bone metastasis of PCa
+#6	AnnotatorNotes T6	DOID:10283
+T20	Collection 671 749	metastatic phenotype of PCa progression, ²⁴ even in the bone metastasis of PCa
+R4	Association Arg1:T19 Arg2:T20	
+T21	GeneFamily 856 861	NF-κB
+T22	Biomarker 829 871	constitutive activation of NF-κB signaling
+R5	Association Arg1:T22 Arg2:T8	
+T23	RNA-Noncoding 971 981	miR-204-5p
+#8	AnnotatorNotes T23	HGNC:31582
+T24	Disease 1003 1022	bone metastatic PCa
+#10	AnnotatorNotes T24	DOID:10283
+T25	Biomarker 971 999	miR-204-5p was downregulated
+R6	Association Arg1:T25 Arg2:T24	
+T26	GeneFamily 1056 1061	NF-κB
+T27	GeneFamily 1148 1153	NF-κB
+T28	Gene-Protein 1175 1180	TRAF1
+#12	AnnotatorNotes T28	HGNC:12031
+T29	Gene-Protein 1182 1186	TAB3
+#13	AnnotatorNotes T29	HGNC:30681
+T30	Gene-Protein 1192 1198	MAP3K3
+#14	AnnotatorNotes T30	HGNC:6855
+T31	Disease 1202 1205	PCa
+T32	GeneFamily 1234 1239	NF-κB
+#15	AnnotatorNotes T9	C000601358
+#16	AnnotatorNotes T10	C549066
+#4	AnnotatorNotes T31	DOID:10283
+T33	Biomarker 1457 1499	constitutive activation of NF-κB signaling
+T34	GeneFamily 1484 1489	NF-κB
+R7	Association Arg1:T33 Arg2:T12	
+T35	Collection 310 380	cancer and was involved in multiple process of cancer, including tumor
+T36	RNA-Noncoding 1324 1334	miR-204-5p
+T37	Drug 1319 1334	anti-miR-204-5p
+#5	AnnotatorNotes T37	not found

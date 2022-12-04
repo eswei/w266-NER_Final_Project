@@ -1,0 +1,63 @@
+T1	Disease 120 126	cancer
+#1	AnnotatorNotes T1	DOID:162
+T12	Disease 870 876	cancer
+T13	Disease 897 904	cancers
+T14	Drug 975 978	DTX
+T15	Disease 1001 1014	breast cancer
+T18	Drug 1136 1139	DTX
+T19	Disease 1153 1156	PCa
+T2	Biomarker 184 194	aneuploidy
+#9	AnnotatorNotes T2	D000782
+T20	Drug 1207 1210	DTX
+T21	Drug 1285 1288	DTX
+T22	Disease 1303 1306	PCa
+T23	Drug 1349 1352	DTX
+T24	Disease 1349 1366	DTX-resistant PCa
+T25	Drug 1444 1447	DTX
+T26	Drug 1562 1565	DTX
+T27	Drug 1580 1583	DTX
+T28	Disease 1580 1597	DTX-resistant PCa
+T29	Disease 1674 1677	PCa
+T3	Disease 232 239	cancers
+T4	Disease 250 273	uterine cervical cancer
+#21	AnnotatorNotes T4	DOID:4362
+T5	Disease 275 288	breast cancer
+#22	AnnotatorNotes T5	DOID:1612
+T6	Disease 294 297	PCa
+#23	AnnotatorNotes T6	DOID:12549
+T8	Disease 384 390	cancer
+T9	Disease 618 624	cancer
+T10	Biomarker 30 57	Increased centrosome number
+T11	Gene-Protein 830 835	KIFC1
+T16	Gene-Protein 958 963	KIFC1
+T30	Gene-Protein 1056 1061	KIFC1
+T31	Gene-Protein 1435 1440	KIFC1
+T32	Gene-Protein 1276 1281	KIFC1
+T34	Biomarker 165 167	CA
+T35	Gene-Protein 1192 1197	KIFC1
+T36	Gene-Protein 1649 1654	KIFC1
+T37	Gene-Protein 1510 1515	KIFC1
+T38	Gene-Protein 1543 1548	KIFC1
+T39	Gene-Protein 661 685	Kinesin family member C1
+#2	AnnotatorNotes T39	HGNC:6389
+T40	Gene-Protein 687 692	KIFC1
+#4	AnnotatorNotes T40	HGNC:6389
+#3	AnnotatorNotes T3	DOID:162
+T7	Biomarker 830 850	KIFC1 is upregulated
+R3	Association Arg1:T7 Arg2:T12	
+T41	Biomarker 1056 1061	KIFC1
+R4	Prognostic-Poor Arg1:T41 Arg2:T19	
+T17	Drug-Class 1649 1664	KIFC1 inhibitor
+T42	Drug 1665 1670	CW069
+#5	AnnotatorNotes T42	C000593979
+#6	AnnotatorNotes T14	CHEMBL92
+T43	Biomarker 940 963	overexpression of KIFC1
+#7	AnnotatorNotes T41	C486566
+T44	CellLine 1226 1231	LNCaP
+T45	CellLine 1242 1247	DU145
+T46	CellLine 1378 1382	C4-2
+T47	CellLine 1393 1398	DU145
+T33	Biomarker 66 95	centrosome amplification (CA)
+T48	Collection 30 95	Increased centrosome number, called centrosome amplification (CA)
+R2	Risk-Factor Arg1:T48 Arg2:T1	
+T49	Biomarker 199 217	malignant behavior

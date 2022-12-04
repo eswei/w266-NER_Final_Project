@@ -1,0 +1,56 @@
+31664168_31451|t|RSS_IDENT_p_31664168_b_1_3_7
+31664168_31451|a| Along with alterations in the lipid profiles during aortic aneurysm development, we also demonstrated alterations in lipid profiles in normal areas of the aortic media in both TAAA and TNAA, when compared with CNTAs without vascular disease. These alterations were similar between TAAA and TNAA; therefore, these lipid alterations could represent risky transitional markers of the aortic media leading to thoracic aortic aneurysm, although we cannot rule out the possibility that these alterations may be attributed to age. During the development of thoracic aortic aneurysms, decreased ePE and increased PGD₂ and 5-LOX metabolites were also observed. In addition, increased GCers and LPCs and decreased TGs and 12- and 15-LOX metabolites were noted in the aortic media of thoracic aortic aneurysms. Extracellular signal-regulated kinase (ERK) has been shown to mediate platelet-derived growth factor-directed migration of VSMCs ³⁵ . Moreover, GCers and LPCs can activate ERK signalling in VSMCs ³⁶ , ³⁷ . Thus, increased GCers and LPCs may represent the enhanced migratory activity of VSMCs by activating ERK signalling, which indicates the status of VSMCs in the aortic media leading to thoracic aortic aneurysm development. In the normal aortic media prior to thoracic aortic aneurysm development, 5-LOX metabolites increased, but 12- and 15-LOX metabolites decreased. Although the pathological implications of these lipid alterations have not been clarified, 5-HETE and 12- HETE/15-HETE have been shown to have opposite effects on insulin secretion in isolated pancreatic islets ³⁸ . Thus, 12- and 15-HETE may also counteract 5-HETE in the initiation and development of thoracic aortic aneurysms, and imbalances may enhance the risk of initiation of thoracic aortic aneurysms. 
+31664168_31451	41	74	alterations in the lipid profiles	Biomarker
+31664168_31451	60	65	lipid	Chemical
+31664168_31451	82	97	aortic aneurysm	Disease	DOID:3627
+31664168_31451	132	161	alterations in lipid profiles	Biomarker
+31664168_31451	147	152	lipid	Chemical
+31664168_31451	206	210	TAAA	Disease	not found
+31664168_31451	215	219	TNAA	Disease	not found
+31664168_31451	254	270	vascular disease	Disease	DOID:178
+31664168_31451	311	315	TAAA	Disease
+31664168_31451	320	324	TNAA	Disease
+31664168_31451	343	348	lipid	Chemical
+31664168_31451	343	360	lipid alterations	Biomarker
+31664168_31451	435	459	thoracic aortic aneurysm	Disease	DOID:14004
+31664168_31451	580	605	thoracic aortic aneurysms	Disease	DOID:14004
+31664168_31451	607	620	decreased ePE	Biomarker
+31664168_31451	607	661	decreased ePE and increased PGD₂ and 5-LOX metabolites	Collection
+31664168_31451	617	620	ePE	Chemical
+31664168_31451	625	661	increased PGD₂ and 5-LOX metabolites	Biomarker
+31664168_31451	635	639	PGD₂	Chemical
+31664168_31451	644	661	5-LOX metabolites	Chemical
+31664168_31451	695	719	increased GCers and LPCs	Biomarker
+31664168_31451	695	768	increased GCers and LPCs and decreased TGs and 12- and 15-LOX metabolites	Collection
+31664168_31451	705	710	GCers	Chemical
+31664168_31451	715	719	LPCs	Chemical
+31664168_31451	724	768	decreased TGs and 12- and 15-LOX metabolites	Biomarker
+31664168_31451	742	768	12- and 15-LOX metabolites	Chemical
+31664168_31451	803	828	thoracic aortic aneurysms	Disease
+31664168_31451	830	867	Extracellular signal-regulated kinase	Genefamily	not found
+31664168_31451	869	872	ERK	Genefamily	not found
+31664168_31451	900	930	platelet-derived growth factor	Genefamily	not found
+31664168_31451	974	979	GCers	Chemical
+31664168_31451	984	988	LPCs	Chemical
+31664168_31451	1002	1005	ERK	Genefamily
+31664168_31451	1042	1066	increased GCers and LPCs	Biomarker
+31664168_31451	1052	1057	GCers	Chemical
+31664168_31451	1062	1066	LPCs	Chemical
+31664168_31451	1136	1139	ERK	Genefamily
+31664168_31451	1219	1243	thoracic aortic aneurysm	Disease
+31664168_31451	1293	1317	thoracic aortic aneurysm	Disease
+31664168_31451	1331	1348	5-LOX metabolites	Chemical
+31664168_31451	1331	1358	5-LOX metabolites increased	Biomarker
+31664168_31451	1364	1390	12- and 15-LOX metabolites	Chemical
+31664168_31451	1364	1400	12- and 15-LOX metabolites decreased	Biomarker
+31664168_31451	1450	1455	lipid	Chemical
+31664168_31451	1450	1467	lipid alterations	Biomarker
+31664168_31451	1493	1499	5-HETE	Chemical
+31664168_31451	1504	1512	12- HETE	Chemical
+31664168_31451	1513	1520	15-HETE	Chemical
+31664168_31451	1565	1572	insulin	Gene-protein	HGNC:6081
+31664168_31451	1624	1639	12- and 15-HETE	Chemical
+31664168_31451	1660	1666	5-HETE	Chemical
+31664168_31451	1704	1729	thoracic aortic aneurysms	Disease
+31664168_31451	1784	1809	thoracic aortic aneurysms	Disease
+

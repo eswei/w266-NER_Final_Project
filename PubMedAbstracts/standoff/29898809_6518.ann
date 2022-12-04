@@ -1,0 +1,90 @@
+T0	Disease 163 176	breast cancer
+#1	AnnotatorNotes T0	DOID:1612
+T1	Disease 301 324	aggressive breast tumor
+#2	AnnotatorNotes T1	DOID:1612
+T2	Disease 819 832	breast cancer
+T3	Drug 1017 1025	LY255283
+T4	Disease 1802 1806	TNBC
+T5	GeneFamily 40 65	pro-inflammatory cytokine
+#4	AnnotatorNotes T5	not found
+T6	Gene-Protein 66 85	interleukins (IL)-6
+#5	AnnotatorNotes T6	HGNC:6018
+T7	Biomarker 66 85	interleukins (IL)-6
+#6	AnnotatorNotes T7	D015850
+T8	Gene-Protein 90 94	IL-8
+#7	AnnotatorNotes T8	HGNC:6025
+T9	Biomarker 90 94	IL-8
+#8	AnnotatorNotes T9	D016209
+T10	Collection 66 94	interleukins (IL)-6 and IL-8
+R1	Association Arg1:T10 Arg2:T0	
+T11	Gene-Protein 185 189	IL-6
+T12	Disease 226 230	TNBC
+T13	Biomarker 185 189	IL-6
+R2	Association Arg1:T13 Arg2:T12	
+#9	AnnotatorNotes T12	DOID:0060081
+T14	Biomarker 276 297	increased IL-8 levels
+T15	Gene-Protein 286 290	IL-8
+R3	Association Arg1:T14 Arg2:T1	
+T16	GeneFamily 410 436	pro-inflammatory cytokines
+T17	Disease 440 444	TNBC
+#10	AnnotatorNotes T16	not found
+T18	Biomarker 410 436	pro-inflammatory cytokines
+R4	Association Arg1:T18 Arg2:T17	
+T19	Gene-Protein 571 575	IL-6
+T20	Gene-Protein 580 584	IL-8
+T21	Gene-Protein 608 612	BLT2
+#11	AnnotatorNotes T21	HGNC:19260
+T22	Gene-Protein 674 678	BLT2
+T23	Biomarker 674 703	BLT2 expression was increased
+T24	Disease 713 717	TNBC
+R5	Association Arg1:T23 Arg2:T24	
+T25	CellLine 741 751	MDA-MB-231
+T26	CellLine 757 767	MDA-MB-435
+T27	Disease 736 740	TNBC
+T28	CellLine 844 851	MCF-10A
+T29	Gene-Protein 884 888	BLT2
+T30	Gene-Protein 934 938	IL-8
+T31	CellLine 940 950	MDA-MB-231
+T32	CellLine 955 965	MDA-MB-435
+T33	Gene-Protein 1001 1005	BLT2
+T34	Drug-Class 1001 1016	BLT2 antagonist
+#3	AnnotatorNotes T3	CHEMBL15766
+T35	Gene-Protein 1046 1050	BLT2
+T36	Drug 1046 1072	BLT2 small interfering RNA
+T37	Gene-Protein 1125 1129	IL-8
+T39	Disease 1157 1161	TNBC
+T40	Disease 1192 1196	TNBC
+T41	Gene-Protein 1238 1242	BLT2
+T42	Gene-Protein 1296 1300	IL-6
+T43	Gene-Protein 1301 1305	IL-8
+T44	Gene-Protein 1327 1331	BLT2
+T45	Disease 1353 1369	LPS-treated TNBC
+#12	AnnotatorNotes T45	not found
+T46	Chemical 1353 1356	LPS
+T47	CellLine 1388 1398	MDA-MB-231
+T48	GeneFamily 1438 1443	NF-κB
+#13	AnnotatorNotes T48	family:1254
+T49	Disease 1463 1467	TNBC
+T50	Biomarker 1426 1459	activity of NF-κB is up-regulated
+R7	Association Arg1:T50 Arg2:T49	
+T51	GeneFamily 1477 1482	NF-κB
+T52	Disease 1556 1560	TNBC
+T53	Disease 1565 1569	TNBC
+T54	Biomarker 1571 1595	NF-κB signaling cascades
+T55	GeneFamily 1571 1576	NF-κB
+T56	Gene-Protein 1649 1653	BLT2
+T57	Gene-Protein 1654 1659	NOX-1
+#14	AnnotatorNotes T57	HGNC:7889
+T58	Gene-Protein 1698 1702	IL-6
+T59	Gene-Protein 1707 1711	IL-8
+T60	Disease 1715 1719	TNBC
+T61	Biomarker 1649 1667	BLT2-NOX-1 pathway
+T62	Gene-Protein 1772 1776	BLT2
+T63	Biomarker 1772 1776	BLT2
+#15	AnnotatorNotes T63	C485878
+R10	Association Arg1:T63 Arg2:T4	
+T64	Gene-Protein 1840 1844	IL-6
+T65	Gene-Protein 1845 1849	IL-8
+T66	Biomarker 1840 1863	IL-6/IL-8 up-regulation
+T38	Biomarker 1477 1500	NF-κB signaling pathway
+R6	Association Arg1:T38 Arg2:T52	

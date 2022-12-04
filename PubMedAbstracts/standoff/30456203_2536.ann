@@ -1,0 +1,75 @@
+T0	Chemical 70 77	calcium
+T11	Disease 546 568	acute myeloid leukemia
+#2	AnnotatorNotes T11	DOID:9119
+T12	Disease 570 573	AML
+#3	AnnotatorNotes T12	DOID:9119
+T14	Disease 655 668	breast cancer
+T17	Disease 795 808	breast cancer
+T19	Disease 845 858	breast cancer
+T2	Disease 254 260	cancer
+#7	AnnotatorNotes T2	DOID:162
+T23	Disease 1077 1090	breast cancer
+T25	Disease 1254 1267	breast cancer
+T27	Disease 1347 1353	cancer
+T28	Disease 1506 1519	breast cancer
+T4	Disease 319 331	solid tumors
+#12	AnnotatorNotes T4	DOID:162
+T5	Disease 341 378	head and neck squamous cell carcinoma
+#13	AnnotatorNotes T5	DOID:5520
+T1	Gene-Protein 30 36	S100A8
+#1	AnnotatorNotes T1	HGNC:10498
+T3	Collection 319 452	solid tumors, such as head and neck squamous cell carcinoma ( 6 ), as well as colon ( 7 ), ovarian ( 8 ), bladder, and breast cancers
+T6	Gene-Protein 186 192	S100A8
+T7	Gene-Protein 262 268	S100A8
+T10	Gene-Protein 494 500	S100A8
+T13	Gene-Protein 1475 1481	S100A8
+T15	Gene-Protein 1324 1330	S100A8
+T16	Gene-Protein 1105 1111	S100A8
+T18	Gene-Protein 1030 1036	S100A8
+T20	Gene-Protein 612 618	S100A8
+T21	Gene-Protein 677 683	S100A8
+T24	Gene-Protein 917 921	IL-6
+#14	AnnotatorNotes T24	HGNC:6018
+T22	Gene-Protein 824 833	S100A8/A9
+T26	Gene-Protein 927 932	STAT3
+#5	AnnotatorNotes T26	HGNC:11364
+T29	GeneFamily 967 971	MAPK
+#15	AnnotatorNotes T29	family:651
+T30	Biomarker 186 192	S100A8
+T31	Biomarker 262 268	S100A8
+R1	Association Arg1:T31 Arg2:T3	
+R2	Association Arg1:T30 Arg2:T2	
+T32	Biomarker 494 500	S100A8
+R3	Prognostic-Poor Arg1:T32 Arg2:T11	
+T33	Biomarker 587 618	increased mRNA levels of S100A8
+#4	AnnotatorNotes T30	D040501
+R4	Association Arg1:T33 Arg2:T14	
+T8	Gene-Protein 688 694	S100A9
+#6	AnnotatorNotes T8	HGNC:10499
+T34	Gene-Protein 922 926	JAK2
+#8	AnnotatorNotes T34	HGNC:6192
+T35	Gene-Protein 934 939	TNF-α
+#16	AnnotatorNotes T35	HGNC:11892
+T36	Gene-Protein 940 947	CXCL1/2
+#18	AnnotatorNotes T36	HGNC:4602, HGNC:4603
+T37	GeneFamily 949 954	TGF-β
+#19	AnnotatorNotes T37	family:1664
+T38	GeneFamily 956 961	NF-κB
+#20	AnnotatorNotes T38	family:1254
+T39	Biomarker 1030 1036	S100A8
+R5	Prognostic-Poor Arg1:T39 Arg2:T23	
+T40	Biomarker 1092 1176	Infiltrating S100A8+ myeloid cells coordinated by macrophage inhibitory factor (MIF)
+R6	Prognostic-Poor Arg1:T40 Arg2:T25	
+T41	Biomarker 1324 1330	S100A8
+T42	Gene-Protein 729 741	calprotectin
+#10	AnnotatorNotes T42	not found
+R7	Association Arg1:T41 Arg2:T27	
+T43	Biomarker 1475 1481	S100A8
+T44	Biomarker 824 833	S100A8/A9
+R8	Association Arg1:T44 Arg2:T19	
+T45	Disease 397 452	colon ( 7 ), ovarian ( 8 ), bladder, and breast cancers
+#11	AnnotatorNotes T45	DOID:219, DOID:2394, DOID:11054, DOID:1612
+#9	AnnotatorNotes T44	D040501, D040502
+#17	AnnotatorNotes T14	DOID:1612
+T9	Biomarker 677 741	S100A8 and S100A9 usually form a heterodimer called calprotectin
+R9	Association Arg1:T9 Arg2:T17	

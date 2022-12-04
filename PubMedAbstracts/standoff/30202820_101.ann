@@ -1,0 +1,114 @@
+T1	Disease 28 58	Primary sclerosing cholangitis
+#1	AnnotatorNotes T1	DOID:0060643
+T10	Disease 310 313	PSC
+T13	Disease 732 758	cholestatic liver diseases
+T14	Disease 979 982	PBC
+T15	Disease 1001 1004	PSC
+T16	Biomarker 1035 1155	significant increase in circulating chemokine (C‐X‐C motif) receptor 5 (CXCR5)+programmed death 1 (PD‐1) +CD4+ Tfh cells
+T17	Disease 1173 1176	PBC
+T18	Disease 1199 1202	PSC
+T19	Biomarker 1217 1334	frequency of potentially pathogenic chemokine (C‐C motif) receptor 7 (CCR7)lowCXCR5+PD‐1+CD4+ Tfh cells was increased
+T2	Disease 60 63	PSC
+T20	Disease 1431 1434	PBC
+T21	Disease 1466 1469	PBC
+T23	Disease 1717 1726	cirrhosis
+#12	AnnotatorNotes T23	D005355
+T24	Biomarker 1728 1769	Tfr cell numbers were similarly increased
+T25	Biomarker 1780 1809	Tfh/Tfr ratios were unaltered
+T26	Disease 1813 1816	PSC
+T27	Disease 1821 1824	PBC
+T28	Biomarker 1967 2024	Significant alterations occur in the Tfh cell compartment
+T29	Disease 2028 2054	cholestatic liver diseases
+T3	Disease 69 96	primary biliary cholangitis
+#16	AnnotatorNotes T3	DOID:12236
+T30	Biomarker 2072 2081	Tfh cells
+T31	Disease 2112 2115	PBC
+T32	Disease 2139 2142	PSC
+T33	Disease 2304 2307	CLD
+T35	Disease 2308 2333	cholestatic liver disease
+T36	Chemical 2473 2499	fluorescein isothiocyanate
+T37	Disease 2613 2640	primary biliary cholangitis
+T4	Disease 98 101	PBC
+T40	Chemical 2668 2681	phycoerythrin
+T41	Chemical 2682 2685	PMA
+T43	Chemical 2686 2717	phorbol 12‐myristate 13‐acetate
+T45	Disease 2718 2721	PSC
+T46	Disease 2722 2752	primary sclerosing cholangitis
+#33	AnnotatorNotes T46	DOID:14268
+T5	Disease 123 149	cholestatic liver diseases
+#35	AnnotatorNotes T5	not found
+T6	Disease 157 160	PBC
+T8	Disease 192 211	autoimmune disorder
+#38	AnnotatorNotes T8	DOID:417
+T9	Biomarker 229 288	pathognomonic autoantibodies against mitochondrial antigens
+#2	AnnotatorNotes T2	DOID:0060643
+#5	AnnotatorNotes T4	DOID:12236
+T7	Biomarker 365 401	altered immunity toward autoantigens
+T49	Gene-Protein 466 499	clusters of differentiation (CD)4
+#6	AnnotatorNotes T49	HGNC:1678
+T11	Biomarker 689 713	alterations of Tfh cells
+T12	Gene-Protein 1107 1112	CXCR5
+#3	AnnotatorNotes T12	HGNC:1060
+T50	Gene-Protein 1071 1105	chemokine (C‐X‐C motif) receptor 5
+#4	AnnotatorNotes T50	HGNC:1060
+T51	Gene-Protein 1114 1132	programmed death 1
+#7	AnnotatorNotes T51	HGNC:8760
+T52	Gene-Protein 1134 1138	PD‐1
+#8	AnnotatorNotes T52	HGNC:8760
+T53	Gene-Protein 1141 1144	CD4
+#9	AnnotatorNotes T53	HGNC:1678
+R1	Association Arg1:T16 Arg2:T17	
+T54	Gene-Protein 1253 1285	chemokine (C‐C motif) receptor 7
+#10	AnnotatorNotes T54	HGNC:1608
+T55	Gene-Protein 1286 1291	(CCR7
+#11	AnnotatorNotes T55	HGNC:1608
+T56	Gene-Protein 1306 1309	CD4
+T57	Gene-Protein 1301 1305	PD‐1
+T58	Gene-Protein 1295 1300	CXCR5
+T22	Biomarker 1471 1579	Tfh cells displayed stronger expression of the activation markers OX40 and inducible costimulator of T cells
+T59	Gene-Protein 1537 1541	OX40
+#13	AnnotatorNotes T59	HGNC:11918
+T60	Biomarker 1597 1632	anti‐anti‐mitochondrial antibody M2
+T61	Gene-Protein 1597 1632	anti‐anti‐mitochondrial antibody M2
+#14	AnnotatorNotes T61	not found
+T62	Biomarker 1637 1660	immunoglobulin M titers
+T63	GeneFamily 1637 1653	immunoglobulin M
+#17	AnnotatorNotes T63	not found
+R3	Association Arg1:T22 Arg2:T21	
+R4	Association Arg1:T22 Arg2:T23	
+T64	Collection 1813 1824	PSC and PBC
+R6	Association Arg1:T28 Arg2:T29	
+T65	Collection 2112 2142	PBC and to a lesser extend PSC
+R7	Association Arg1:T30 Arg2:T65	
+T66	Gene-Protein 2158 2161	ALP
+T67	Gene-Protein 2162 2182	alkaline phosphatase
+T68	Gene-Protein 2183 2186	AMA
+T69	Gene-Protein 2187 2214	anti‐mitochondrial antibody
+T70	Gene-Protein 2235 2239	CCR7
+T71	Gene-Protein 2240 2272	chemokine (C‐C motif) receptor 7
+T72	GeneFamily 2273 2275	CD
+T73	GeneFamily 2276 2303	clusters of differentiation
+#15	AnnotatorNotes T33	not found
+T34	Gene-Protein 2382 2387	CXCR5
+T74	Gene-Protein 2388 2427	chemokine (C‐X‐C motif) receptor type 5
+T75	Chemical 2468 2472	FITC
+T76	Gene-Protein 2500 2505	FoxP3
+T77	Gene-Protein 2506 2521	forkhead box P3
+T78	GeneFamily 2565 2575	interferon
+T79	GeneFamily 2561 2564	IFN
+T80	GeneFamily 2576 2578	Ig
+T81	GeneFamily 2579 2593	immunoglobulin
+T82	GeneFamily 2594 2596	IL
+T83	GeneFamily 2597 2608	interleukin
+T38	Disease 2609 2612	PBC
+T84	Gene-Protein 2646 2664	programmed death 1
+T85	Gene-Protein 2641 2645	PD‐1
+T39	Chemical 2665 2667	PE
+T42	Gene-Protein 1917 1931	interleukin‐21
+#18	AnnotatorNotes T42	HGNC:6005
+T44	Gene-Protein 1942 1945	CD4
+R8	Association Arg1:T9 Arg2:T6	
+T47	Collection 1728 1809	Tfr cell numbers were similarly increased; however, Tfh/Tfr ratios were unaltered
+R5	Association Arg1:T47 Arg2:T64	
+R9	Association Arg1:T19 Arg2:T48	
+T48	Collection 1173 1202	PBC but not in those with PSC

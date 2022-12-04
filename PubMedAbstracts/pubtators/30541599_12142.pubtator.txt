@@ -1,0 +1,92 @@
+30541599_12142|t|RSS_IDENT_s_30541599_b_1_3
+30541599_12142|a| Results We investigated expression levels of several different genes and gene families that are purported to impact CP structural integrity and CSF production. The SLC family of genes, for example, appears responsible for considerable ion and H₂O transport across CPE [ 25 ]. Within the SLC group, there was diversified expression in control versus AD. Certain genes for HCO₃− exchange and co-transport (SLC4 subfamily) had decreased expression in AD, including SLC4A10 (p = 0.028, log2FC = 0.039) and SLC4A5 (p = 0.004, log2FC = 1.12). Other SLC genes with decreased expression include the Na–K–Cl co-transporters SLC12A1 (p = 0.035, log2FC = 1.05) and SLC12A2 (p = 0.005, log2FC = 0.38). Table 1 compiles downregulated CP genes in the Brown-Merck database relevant to CSF production, energy production and CP structural integrity. Included in each table is the fold-change (log2 FC) in expression between AD and control. Table 1 Genes downregulated in AD CP Gene symbol Gene name p-value t-value (control relative to AD) Log2 fold change SLC family SLC26A2 Solute carrier family 26 member 2; sulfate transporter 0.0000313 5.88360095 1.43830952 SLC5A5 Solute carrier family 5 member 5; sodium/iodine cotransporter 0.0000375 5.78520397 0.75760238 SLC4A10 Solute carrier family 4 member 10: Na-dependent Cl–HCO3 exchanger 0.0275 2.44489236 0.39339524 SLC4A5 Solute carrier family 4 member 5: Na–HCO3 exchanger 0.00366 3.44425553 1.1215619 SLC12A1 Solute carrier family 12 member 1: NKCC2 Na–K–Cl cotransporter 0.0353 2.31563648 1.05009524 SLC12A2 Solute carrier family 12 member 2: NKCC1 Na–K–Cl cotransporter 0.00517 3.27527462 0.38004286 Na–K ATPase family ATP1A2 Na–K ATPase transporting subunit alpha 2 0.0387 2.26741686 0.50910238 ATP1B1 Na–K ATPase transporting subunit beta 1 0.0429 2.21376353 0.29179286 Carbonic anhydrase family CA4 Carbonic anhydrase 4 0.000139 5.08319761 0.63055238 CA2 Carbonic anhydrase 2 0.0222 2.55323972 0.30442619 CA3 Carbonic anhydrase 3 0.0391 2.26309122 0.58876429 ATP synthase family ATP5L ATP synthase, H+ transporting, mitochondrial Fo complex subunit G 0.000419 4.51769377 0.44282857 ATP23 ATP23 metallopeptidase and ATP synthase assembly factor homolog 0.000780 4.20573756 0.62625 ATP5G3 ATP synthase, H+ transporting, mitochondrial Fo complex subunit C3 (subunit 9) 0.00154 3.86838238 0.65084286 ATPAF1 ATP synthase mitochondrial F1 complex assembly factor 1 0.00269 3.59573018 0.56412619 ATP5B ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide 0.0107 2.91564259 0.45252381 Tight junction claudins CLDN18 Claudin-18 0.0105 2.92789759 0.46640476 CLDN11 Claudin-11 0.0190 2.63115902 0.64749762 CLDN5 Claudin-5 0.0399 2.25235984 0.70879524 Others APP Amyloid beta precursor protein 0.0144 2.77007349 0.41097857 Positive t values for comparisons represent gene changes decreased in AD relative to control (i.e. increased in control relative to AD). The same is true for positive log2FC values
+30541599_12142	192	195	SLC	Genefamily	family:752
+30541599_12142	271	274	H₂O	Chemical
+30541599_12142	315	318	SLC	Genefamily
+30541599_12142	377	379	AD	Disease	DOID:10652
+30541599_12142	389	472	genes for HCO₃− exchange and co-transport (SLC4 subfamily) had decreased expression	Biomarker
+30541599_12142	399	403	HCO₃	Chemical
+30541599_12142	432	436	SLC4	Genefamily	not found
+30541599_12142	476	478	AD	Disease
+30541599_12142	490	497	SLC4A10	Gene-protein	HGNC:13811
+30541599_12142	490	497	SLC4A10	Biomarker
+30541599_12142	490	536	SLC4A10 (p = 0.028, log2FC = 0.039) and SLC4A5	Collection
+30541599_12142	530	536	SLC4A5	Gene-protein	HGNC:18168
+30541599_12142	530	536	SLC4A5	Biomarker
+30541599_12142	571	574	SLC	Genefamily
+30541599_12142	619	626	Na–K–Cl	Chemical
+30541599_12142	643	650	SLC12A1	Gene-protein	HGNC:10910
+30541599_12142	682	689	SLC12A2	Gene-protein	HGNC:10911
+30541599_12142	935	937	AD	Disease
+30541599_12142	982	984	AD	Disease
+30541599_12142	1047	1049	AD	Disease
+30541599_12142	1068	1071	SLC	Genefamily
+30541599_12142	1079	1086	SLC26A2	Gene-protein
+30541599_12142	1087	1141	Solute carrier family 26 member 2; sulfate transporter	Gene-protein
+30541599_12142	1122	1129	sulfate	Chemical
+30541599_12142	1174	1180	SLC5A5	Gene-protein
+30541599_12142	1181	1242	Solute carrier family 5 member 5; sodium/iodine cotransporter	Gene-protein
+30541599_12142	1215	1221	sodium	Chemical
+30541599_12142	1222	1228	iodine	Chemical
+30541599_12142	1275	1282	SLC4A10	Gene-protein
+30541599_12142	1283	1348	Solute carrier family 4 member 10: Na-dependent Cl–HCO3 exchanger	Gene-protein
+30541599_12142	1318	1320	Na	Chemical
+30541599_12142	1331	1338	Cl–HCO3	Chemical
+30541599_12142	1378	1384	SLC4A5	Gene-protein
+30541599_12142	1385	1436	Solute carrier family 4 member 5: Na–HCO3 exchanger	Gene-protein
+30541599_12142	1419	1426	Na–HCO3	Chemical
+30541599_12142	1466	1473	SLC12A1	Gene-protein
+30541599_12142	1474	1536	Solute carrier family 12 member 1: NKCC2 Na–K–Cl cotransporter	Gene-protein
+30541599_12142	1515	1522	Na–K–Cl	Chemical
+30541599_12142	1566	1573	SLC12A2	Gene-protein
+30541599_12142	1574	1607	Solute carrier family 12 member 2	Gene-protein
+30541599_12142	1609	1614	NKCC1	Gene-protein
+30541599_12142	1615	1622	Na–K–Cl	Chemical
+30541599_12142	1615	1636	Na–K–Cl cotransporter	Gene-protein
+30541599_12142	1667	1671	Na–K	Chemical
+30541599_12142	1667	1678	Na–K ATPase	Genefamily
+30541599_12142	1686	1692	ATP1A2	Gene-protein
+30541599_12142	1693	1697	Na–K	Chemical
+30541599_12142	1693	1733	Na–K ATPase transporting subunit alpha 2	Gene-protein
+30541599_12142	1763	1769	ATP1B1	Gene-protein
+30541599_12142	1770	1774	Na–K	Chemical
+30541599_12142	1770	1809	Na–K ATPase transporting subunit beta 1	Gene-protein
+30541599_12142	1839	1857	Carbonic anhydrase	Genefamily
+30541599_12142	1865	1868	CA4	Gene-protein
+30541599_12142	1869	1889	Carbonic anhydrase 4	Gene-protein
+30541599_12142	1921	1924	CA2	Gene-protein
+30541599_12142	1925	1945	Carbonic anhydrase 2	Gene-protein
+30541599_12142	1975	1978	CA3	Gene-protein
+30541599_12142	1979	1999	Carbonic anhydrase 3	Gene-protein
+30541599_12142	2029	2032	ATP	Chemical
+30541599_12142	2029	2041	ATP synthase	Genefamily
+30541599_12142	2049	2054	ATP5L	Gene-protein
+30541599_12142	2055	2058	ATP	Chemical
+30541599_12142	2055	2118	ATP synthase, H+ transporting, mitochondrial Fo complex subunit	Gene-protein
+30541599_12142	2069	2070	H	Chemical
+30541599_12142	2152	2157	ATP23	Gene-protein
+30541599_12142	2158	2221	ATP23 metallopeptidase and ATP synthase assembly factor homolog	Gene-protein
+30541599_12142	2185	2188	ATP	Chemical
+30541599_12142	2250	2256	ATP5G3	Gene-protein
+30541599_12142	2257	2260	ATP	Chemical
+30541599_12142	2257	2335	ATP synthase, H+ transporting, mitochondrial Fo complex subunit C3 (subunit 9)	Gene-protein
+30541599_12142	2271	2273	H+	Chemical
+30541599_12142	2366	2372	ATPAF1	Gene-protein
+30541599_12142	2373	2376	ATP	Chemical
+30541599_12142	2373	2428	ATP synthase mitochondrial F1 complex assembly factor 1	Gene-protein
+30541599_12142	2459	2464	ATP5B	Gene-protein
+30541599_12142	2465	2468	ATP	Chemical
+30541599_12142	2465	2538	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide	Gene-protein
+30541599_12142	2479	2481	H+	Chemical
+30541599_12142	2568	2591	Tight junction claudins	Genefamily
+30541599_12142	2592	2598	CLDN18	Gene-protein
+30541599_12142	2599	2609	Claudin-18	Gene-protein
+30541599_12142	2639	2645	CLDN11	Gene-protein
+30541599_12142	2646	2656	Claudin-11	Gene-protein
+30541599_12142	2686	2691	CLDN5	Gene-protein
+30541599_12142	2692	2701	Claudin-5	Gene-protein
+30541599_12142	2738	2741	APP	Gene-protein
+30541599_12142	2742	2772	Amyloid beta precursor protein	Gene-protein
+30541599_12142	2872	2874	AD	Disease
+30541599_12142	2934	2936	AD	Disease
+

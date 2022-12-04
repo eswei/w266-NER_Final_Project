@@ -1,0 +1,42 @@
+T0	Disease 139 151	renal injury
+#1	AnnotatorNotes T0	DOID:557
+T10	Disease 679 699	diabetic nephropathy
+#3	AnnotatorNotes T10	D003928
+T11	Disease 787 790	DPN
+T14	Disease 858 866	diabetes
+#7	AnnotatorNotes T14	not found
+T15	Disease 929 941	renal injury
+T16	Disease 1120 1132	renal injury
+T18	Disease 1281 1284	DPN
+T2	Disease 255 276	Diabetic renal injury
+#13	AnnotatorNotes T2	D003928
+T20	Disease 1299 1310	retinopathy
+#14	AnnotatorNotes T20	DOID:8947
+T21	Disease 1316 1348	classic diabetic microangiopathy
+#15	AnnotatorNotes T21	DOID:11713
+T3	Disease 281 291	neuropathy
+#16	AnnotatorNotes T3	DOID:870
+T7	Disease 482 503	diabetic renal injury
+#20	AnnotatorNotes T7	D003928
+T8	Disease 569 572	DPN
+T22	Biomarker 98 102	eGFR
+R1	Association Arg1:T22 Arg2:T0	
+T1	Biomarker 448 464	incidence of DPN
+R2	Association Arg1:T1 Arg2:T7	
+T5	Biomarker 527 541	low level eGFR
+R3	Association Arg1:T5 Arg2:T8	
+T6	Biomarker 615 663	aberrant DNA methylation in the proximal tubules
+R4	Association Arg1:T6 Arg2:T10	
+T9	Biomarker 372 384	inflammation
+#2	AnnotatorNotes T9	D007249
+T12	Biomarker 1219 1242	genomic DNA methylation
+R5	Risk-Factor Arg1:T12 Arg2:T18	
+T13	Biomarker 1051 1084	levels of genomic DNA methylation
+T17	Biomarker 347 367	small vessel disease
+#4	AnnotatorNotes T17	D017566
+#5	AnnotatorNotes T8	DOID:9743
+T4	Biomarker 733 756	genomic DNA methylation
+T19	Biomarker 965 998	levels of genomic DNA methylation
+T23	Collection 347 384	small vessel disease and inflammation
+T24	Collection 255 291	Diabetic renal injury and neuropathy
+R6	Association Arg1:T23 Arg2:T24	

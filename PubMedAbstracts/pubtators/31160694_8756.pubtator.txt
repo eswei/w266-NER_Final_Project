@@ -1,0 +1,88 @@
+31160694_8756|t|RSS_IDENT_s_31160694_b_1_2_4
+31160694_8756|a| Assessment of HMTs and HDMs gene expression Further, we aimed to find out whether the reduction in observed H3K4me levels was due to the aberrant expression of underlying histone modifiers. Henceforth, gene expression of 13 HMTs and 7 HDMs were analyzed in 50 ccRCC patients and adjacent normal tissues using real-time PCR. The data disclosed a differential transcriptomic profile of H3K4 modifiers. Among 13 HMTs, the three genes namely MLL4, SMYD3, and ASH2 were decresed in tumor tissue as compared to normal; however, this reduction was not statistically significant (p = 0.48, 0.187, 0.429 respectively; Fig. 4a–c). On the other hand, the expression of five genes namely, MLL3, MLL5, KMT2F, KMT2G and NSD3 was augmented in ccRCC. However, this increase was not to the level of significance (p = 0.096, 0.297, 0.554, 0.466, 0.155 respectively; Fig. 4d–h). Strikingly, four genes; MLL1 (p = 0.012), MLL2 (p = 0.024), SMYD2 (p = 0.016) and NSD2 (p = 0.004) was significantly increased in ccRCC in comparison to normal tissues (Fig. 4i–l). Surprisingly, the expression of SMYD1 gene was not detected in tumor tissues or adjacent normal renal parenchyma. Figure 4 Box plots showing expression profiles of H3K4 lysine methyltransferases in normal and tumor renal tissues. Statistical analysis was obtained by one sample t-test (a) MLL4 gene (b) SMYD3 gene (c) ASH2 gene (d) MLL3 gene (e) MLL5 gene (f) KMT2F gene (g) KMT2G gene (h) NSD3 gene (i) MLL1 gene (j) MLL2 gene (k) SMYD2 gene (l) NSD2 gene. (*P < 0.05; **P < 0.01). Out of seven HDMs specific for the H3K4 position, the mRNA levels of KDM5D and LSD1 genes were non-significantly reduced in ccRCC to that of normal tissue (p = 0.166, 0.468 respectively; Fig. 5a,b). Whilst, the expression of KDM5A (p = 0.001), KDM5B (p = 0.047), LSD2 (p = 0.002), FBXL10 (p = 0.0001) and KDM5C genes was augmented in ccRCC and data were statistically significant except KDM5C (p = 0.062; Fig. 5c–g). The clustered heat map for all the 20 genes was created using MeV (Multiple Experiment Viewer; Fig. S2). Figure 5 Box plots for expression profile of H3K4 lysine methyltransferases in normal and tumor renal tissues. Statistical analysis was calculated by one sample t-test. (a) KDM5D gene (b) LSD1 gene (c) KDM5C gene (d) KDM5A gene (e) KDM5B gene (f) LSD2 gene (g) FBXL10 gene.(*P < 0.05; **P < 0.01; ***P < 0.001). Interestingly, comparative data on HMTs and HDMs genes expression revealed that higher percentage of HDMs were significantly up-regulated with a cumulative expression of about 1.31 times higher as compared to HMTs, indicating overweight of HDMs in ccRCC (p = 0.032; Fig. 6a,b). These findings revealed that up-regulation of HDMs relative to HMTs is involved in the reduction of H3K4me patterns in ccRCC. Figure 6 Bar diagram showing a comparison between histone methyltransferases and demethylases. (a) Cumulative gene expression (b) Percentage of genes significantly over-expressed. Data was analyzed by independent sample t –test (*P < 0.05).
+31160694_8756	44	48	HMTs	Genefamily	family:487
+31160694_8756	53	57	HDMs	Genefamily	family:485
+31160694_8756	116	151	reduction in observed H3K4me levels	Biomarker
+31160694_8756	167	218	aberrant expression of underlying histone modifiers	Biomarker
+31160694_8756	254	258	HMTs	Genefamily
+31160694_8756	265	269	HDMs	Genefamily
+31160694_8756	290	295	ccRCC	Disease	DOID:4450
+31160694_8756	439	443	HMTs	Genefamily
+31160694_8756	468	472	MLL4	Biomarker	C530816
+31160694_8756	468	472	MLL4	Gene-protein	HGNC:7133
+31160694_8756	468	489	MLL4, SMYD3, and ASH2	Collection
+31160694_8756	474	479	SMYD3	Gene-protein	HGNC:15513
+31160694_8756	474	479	SMYD3	Biomarker	C506278
+31160694_8756	485	489	ASH2	Gene-protein	 HGNC:739
+31160694_8756	485	489	ASH2	Biomarker
+31160694_8756	507	512	tumor	Disease	DOID:162
+31160694_8756	707	711	MLL3	Gene-protein	HGNC:13726
+31160694_8756	707	754	MLL3, MLL5, KMT2F, KMT2G and NSD3 was augmented	Biomarker
+31160694_8756	713	717	MLL5	Gene-protein	HGNC:18541
+31160694_8756	719	724	KMT2F	Gene-protein	HGNC:29010
+31160694_8756	726	731	KMT2G	Gene-protein	HGNC:29187
+31160694_8756	736	740	NSD3	Gene-protein	HGNC:12767
+31160694_8756	758	763	ccRCC	Disease
+31160694_8756	914	918	MLL1	Genefamily	not found
+31160694_8756	914	1016	MLL1 (p = 0.012), MLL2 (p = 0.024), SMYD2 (p = 0.016) and NSD2 (p = 0.004) was significantly increased	Biomarker
+31160694_8756	932	936	MLL2	Gene-protein	HGNC:7133
+31160694_8756	950	955	SMYD2	Gene-protein	HGNC:20982
+31160694_8756	972	976	NSD2	Gene-protein	HGNC:12766
+31160694_8756	1020	1025	ccRCC	Disease
+31160694_8756	1089	1113	expression of SMYD1 gene	Biomarker
+31160694_8756	1103	1108	SMYD1	Gene-protein	HGNC:20986
+31160694_8756	1134	1139	tumor	Disease
+31160694_8756	1235	1265	H3K4 lysine methyltransferases	Genefamily	not found
+31160694_8756	1240	1246	lysine	Chemical
+31160694_8756	1280	1285	tumor	Disease	DOID:162
+31160694_8756	1360	1364	MLL4	Gene-protein
+31160694_8756	1374	1379	SMYD3	Gene-protein
+31160694_8756	1389	1393	ASH2	Gene-protein
+31160694_8756	1403	1407	MLL3	Gene-protein
+31160694_8756	1417	1421	MLL5	Gene-protein
+31160694_8756	1431	1436	KMT2F	Gene-protein
+31160694_8756	1446	1451	KMT2G	Gene-protein
+31160694_8756	1461	1465	NSD3	Gene-protein
+31160694_8756	1475	1479	MLL1	Gene-protein
+31160694_8756	1489	1493	MLL2	Gene-protein
+31160694_8756	1503	1508	SMYD2	Gene-protein
+31160694_8756	1518	1522	NSD2	Gene-protein
+31160694_8756	1567	1571	HDMs	Genefamily
+31160694_8756	1608	1674	mRNA levels of KDM5D and LSD1 genes were non-significantly reduced	Biomarker
+31160694_8756	1623	1628	KDM5D	Gene-protein	HGNC:11115
+31160694_8756	1633	1637	LSD1	Gene-protein	HGNC:29079
+31160694_8756	1678	1683	ccRCC	Disease
+31160694_8756	1765	1884	expression of KDM5A (p = 0.001), KDM5B (p = 0.047), LSD2 (p = 0.002), FBXL10 (p = 0.0001) and KDM5C genes was augmented	Biomarker
+31160694_8756	1779	1784	KDM5A	Gene-protein	HGNC:9886
+31160694_8756	1798	1803	KDM5B	Gene-protein	HGNC:18039
+31160694_8756	1817	1821	LSD2	Gene-protein	HGNC:21577
+31160694_8756	1835	1841	FBXL10	Gene-protein	HGNC:13610
+31160694_8756	1859	1864	KDM5C	Gene-protein	HGNC:11114
+31160694_8756	1888	1893	ccRCC	Disease
+31160694_8756	1941	1946	KDM5C	Gene-protein	HGNC:11114
+31160694_8756	2121	2151	H3K4 lysine methyltransferases	Genefamily	not found
+31160694_8756	2126	2132	lysine	Chemical
+31160694_8756	2166	2171	tumor	Disease
+31160694_8756	2249	2254	KDM5D	Gene-protein
+31160694_8756	2264	2268	LSD1	Gene-protein
+31160694_8756	2278	2283	KDM5C	Gene-protein
+31160694_8756	2293	2298	KDM5A	Gene-protein
+31160694_8756	2308	2313	KDM5B	Gene-protein
+31160694_8756	2323	2327	LSD2	Gene-protein
+31160694_8756	2337	2343	FBXL10	Gene-protein
+31160694_8756	2423	2427	HMTs	Genefamily
+31160694_8756	2432	2436	HDMs	Genefamily
+31160694_8756	2468	2525	higher percentage of HDMs were significantly up-regulated	Biomarker
+31160694_8756	2468	2632	higher percentage of HDMs were significantly up-regulated with a cumulative expression of about 1.31 times higher as compared to HMTs, indicating overweight of HDMs	Collection
+31160694_8756	2489	2493	HDMs	Genefamily
+31160694_8756	2597	2601	HMTs	Genefamily
+31160694_8756	2614	2632	overweight of HDMs	Biomarker
+31160694_8756	2628	2632	HDMs	Genefamily
+31160694_8756	2636	2641	ccRCC	Disease
+31160694_8756	2695	2733	up-regulation of HDMs relative to HMTs	Biomarker
+31160694_8756	2712	2716	HDMs	Genefamily
+31160694_8756	2729	2733	HMTs	Genefamily
+31160694_8756	2753	2781	reduction of H3K4me patterns	Biomarker
+31160694_8756	2785	2790	ccRCC	Disease
+31160694_8756	2842	2885	histone methyltransferases and demethylases	Genefamily	family:487, family:485
+

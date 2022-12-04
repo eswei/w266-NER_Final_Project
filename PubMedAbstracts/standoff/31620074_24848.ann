@@ -1,0 +1,51 @@
+T0	Disease 63 83	stress hyperglycemia
+#1	AnnotatorNotes T0	not found
+T11	Disease 393 401	diabetes
+T12	Chemical 420 427	glucose
+T14	Disease 477 497	stress hyperglycemia
+T16	Chemical 581 588	glucose
+T17	Chemical 604 611	glucose
+T18	Disease 624 630	stroke
+#9	AnnotatorNotes T18	D020521
+T20	Disease 665 687	relative hyperglycemia
+T21	Chemical 700 707	glucose
+T23	Chemical 753 760	glucose
+T24	Chemical 802 809	glucose
+T26	Disease 924 946	absolute hyperglycemia
+#16	AnnotatorNotes T26	not found
+T28	Chemical 968 975	glucose
+T29	Disease 1017 1037	stress hyperglycemia
+T3	Disease 108 121	hyperglycemia
+#19	AnnotatorNotes T3	DOID:4195
+T31	Chemical 1128 1135	Glucose
+T32	Chemical 1177 1184	glucose
+T33	Disease 1338 1358	stress hyperglycemia
+T35	Disease 1441 1463	chronic kidney disease
+#25	AnnotatorNotes T35	DOID:784
+T36	Disease 1465 1471	anemia
+#26	AnnotatorNotes T36	DOID:2355
+T37	Disease 1476 1494	hemoglobinopathies
+#27	AnnotatorNotes T37	DOID:2860
+T39	Disease 1677 1697	stress hyperglycemia
+#28	AnnotatorNotes T39	not found
+T4	Disease 163 171	diabetes
+#29	AnnotatorNotes T4	not found
+T41	Disease 1780 1795	ischemic stroke
+#31	AnnotatorNotes T41	D000083242
+T7	Disease 239 247	diabetes
+T8	Chemical 321 328	glucose
+T9	Disease 367 387	stress hyperglycemia
+T1	Biomarker 420 442	glucose-to-HbA1c ratio
+R1	Association Arg1:T1 Arg2:T14	
+T2	Biomarker 700 722	glucose-to-HbA1c ratio
+#2	AnnotatorNotes T20	not found
+T5	Biomarker 968 987	glucose-to-GA ratio
+R2	Association Arg1:T5 Arg2:T29	
+T6	Biomarker 1057 1062	HbA1c
+R3	Association Arg1:T6 Arg2:T29	
+T10	Biomarker 1128 1150	Glucose-to-HbA1c ratio
+T13	Biomarker 1177 1196	glucose-to-GA ratio
+T15	Biomarker 1517 1522	HbA1c
+T19	Biomarker 1368 1373	HbA1c
+T22	Biomarker 1203 1208	HbA1c
+T25	Biomarker 1256 1258	GA

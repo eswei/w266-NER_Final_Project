@@ -1,0 +1,101 @@
+T1	RNA-Noncoding 30 41	MiR-181a-5p
+T10	Disease 1507 1530	autoimmune inflammation
+#1	AnnotatorNotes T10	not found
+T11	Gene-Protein 1646 1650	TAB3
+T2	RNA-Noncoding 223 234	miR-181a-3p
+T3	RNA-Noncoding 272 283	miR-181a-5p
+T4	RNA-Noncoding 288 299	miR-181a-3p
+T6	RNA-Noncoding 350 361	MiR-181a-5p
+T8	Disease 588 600	inflammation
+T9	Gene-Protein 1450 1454	TAB2
+#2	AnnotatorNotes T1	HGNC:31549
+#6	AnnotatorNotes T2	HGNC:31549
+T13	Gene-Protein 159 164	c-Fos
+#8	AnnotatorNotes T13	HGNC:3796
+T14	RNA-Noncoding 366 377	miR-181a-3p
+T5	GeneFamily 430 435	NF-κB
+#3	AnnotatorNotes T5	family:1254
+T7	Gene-Protein 467 471	TAB2
+#4	AnnotatorNotes T7	HGNC:17075
+T15	Gene-Protein 476 480	NEMO
+#9	AnnotatorNotes T15	HGNC:5961
+T16	RNA-Noncoding 557 568	miR-181a-5p
+T17	Biomarker 288 299	miR-181a-3p
+#10	AnnotatorNotes T17	C540193
+T18	Biomarker 272 283	miR-181a-5p
+T19	Disease 327 348	vascular inflammation
+#12	AnnotatorNotes T19	not found
+T20	Collection 272 299	miR-181a-5p and miR-181a-3p
+R1	Association Arg1:T20 Arg2:T19	
+T21	Drug 366 377	miR-181a-3p
+#13	AnnotatorNotes T21	C540193
+T22	Drug 350 361	MiR-181a-5p
+#14	AnnotatorNotes T22	C540193
+T23	Collection 350 377	MiR-181a-5p and miR-181a-3p
+T24	Disease 386 407	vascular inflammation
+R2	Response Arg1:T23 Arg2:T24	
+T25	Drug 557 568	miR-181a-5p
+T26	RNA-Noncoding 573 584	miR-181a-3p
+T27	Drug 573 584	miR-181a-3p
+T28	Collection 557 584	miR-181a-5p and miR-181a-3p
+R3	Response Arg1:T28 Arg2:T8	
+T29	Gene-Protein 660 664	NEMO
+T30	GeneFamily 717 741	IκB kinase (IKK) complex
+#15	AnnotatorNotes T30	family:1817
+T31	GeneFamily 785 790	NF-κB
+T32	GeneFamily 849 853	IκBs
+#16	AnnotatorNotes T32	family:1817
+T33	Disease 746 758	inflammation
+T34	Gene-Protein 888 891	p65
+#17	AnnotatorNotes T34	HGNC:9955
+T35	Gene-Protein 930 934	NEMO
+T36	Gene-Protein 1027 1032	TNF-α
+#18	AnnotatorNotes T36	HGNC:11892
+T37	GeneFamily 1049 1054	NF-κB
+T38	Gene-Protein 1079 1083	IκBα
+#19	AnnotatorNotes T38	HGNC:1974
+T39	RNA-Noncoding 1145 1156	miR-181a-3p
+T40	Gene-Protein 1185 1189	NEMO
+T41	CellLine 1193 1199	HUVECs
+T42	Gene-Protein 1275 1279	IκBα
+T43	Gene-Protein 1307 1310	p65
+T44	Gene-Protein 1229 1235	VCAM-1
+#20	AnnotatorNotes T44	HGNC:12663
+T45	Gene-Protein 1221 1227	ICAM-1
+#21	AnnotatorNotes T45	HGNC:5344
+T46	Gene-Protein 1237 1247	E-selectin
+#22	AnnotatorNotes T46	HGNC:10718
+T47	Gene-Protein 1334 1338	TAB2
+T48	Gene-Protein 1378 1382	TNFα
+T49	Gene-Protein 1387 1392	IL-1β
+#23	AnnotatorNotes T49	HGNC:5992
+#24	AnnotatorNotes T48	HGNC:11892
+T50	GeneFamily 1402 1407	NF-κB
+T51	Gene-Protein 1459 1463	TAB3
+#25	AnnotatorNotes T51	HGNC:30681
+T52	Biomarker 1459 1463	TAB3
+#26	AnnotatorNotes T52	C481053
+T53	Biomarker 1450 1454	TAB2
+#27	AnnotatorNotes T53	C410585
+T54	Collection 1450 1463	TAB2 and TAB3
+T55	RNA-Noncoding 1480 1487	miR-23b
+#28	AnnotatorNotes T55	HGNC:31606
+R4	Association Arg1:T54 Arg2:T10	
+T56	Gene-Protein 1553 1558	TNF-α
+T57	Gene-Protein 1562 1567	IL-1β
+T58	RNA-Noncoding 1612 1623	miR-181a-5p
+T59	Gene-Protein 1633 1637	TAB2
+T60	Gene-Protein 1678 1682	TNFα
+T61	GeneFamily 1693 1698	NF-κB
+T62	Disease 89 101	inflammation
+#5	AnnotatorNotes T62	D007249
+T63	Biomarker 30 41	MiR-181a-5p
+#11	AnnotatorNotes T63	C540193
+R5	Association Arg1:T63 Arg2:T62	
+T64	Disease 998 1010	inflammation
+T65	Drug 917 934	knockdown of NEMO
+#29	AnnotatorNotes T65	not found
+R6	Response Arg1:T65 Arg2:T64	
+T66	CellLine 958 964	Jurkat
+T67	Chemical 1037 1040	LPS
+#30	AnnotatorNotes T67	CHEMBL1909064

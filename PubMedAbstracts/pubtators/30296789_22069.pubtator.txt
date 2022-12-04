@@ -1,0 +1,46 @@
+30296789_22069|t|RSS_IDENT_p_30296789_b_1_4_3
+30296789_22069|a| Alprostadil is extensively used clinically for the treatment of multiple-system diseases [ 31 – 43 ]. However, the therapeutic effect of alprostadil in ARDS remains unclear. It was reported that Alprostadil exerts its effect through protecting the pulmonary vascular endothelial cells [ 8 – 10 ]. However, the OA-induced ARDS model features injury to pulmonary vascular endothelial cells [ 29 , 30 ]. Thus, in the present study, the OA-induced ARDS model was used to investigate the role of Alprostadil in ARDS. The lung W/D ratio, cytokine levels, and H&E and Masson trichrome staining of lung tissues were evaluated. The W/D ratio is considered as an indicator of lung edema [ 44 ], and OA has been reported to be able to augment edema formation and cytokine productions in the bronchoalveolar fluids of Swiss Webster mice [ 45 ]. TNF-α is known as a pro-inflammatory cytokine and can stimulate the production of other cytokines [ 46 , 47 ]. Its production has been reported to be significantly increased in ALI/ARDS patients [ 48 , 49 ]. Masson trichrome staining was performed to observe the collagen formation in bronchial airways. Our results showed typical pathological changes in the lungs of OA-administrated rats, such as marked alveolar fluid, thickening of the alveolar wall and lungs, alveolar wall disruption and leukocyte infiltration, and collagen deposition in the lungs. The expression of TNF-α and IL-1β in the lung tissues were significantly increased, and the W/D ratio was increased in ARDS rats. The OA + Alprostadil group showed clearly reduced lung damage, the W/D ratio of rat lung tissues, and the production of TNF-α and IL-1β, as well as collagen formation, as compared with the OA model group. These data indicate the protective role of alprostadil in ARDS. 
+30296789_22069	30	41	Alprostadil	Drug	CHEMBL495
+30296789_22069	94	118	multiple-system diseases	Disease	DOID:4752
+30296789_22069	167	178	alprostadil	Drug	CHEMBL495
+30296789_22069	182	186	ARDS	Disease	DOID:11394
+30296789_22069	225	236	Alprostadil	Drug
+30296789_22069	340	342	OA	Chemical
+30296789_22069	340	355	OA-induced ARDS	Disease	not found
+30296789_22069	463	465	OA	Chemical
+30296789_22069	463	478	OA-induced ARDS	Disease
+30296789_22069	521	532	Alprostadil	Drug
+30296789_22069	536	540	ARDS	Disease
+30296789_22069	546	560	lung W/D ratio	Biomarker
+30296789_22069	562	570	cytokine	Genefamily	not found
+30296789_22069	562	577	cytokine levels	Biomarker
+30296789_22069	653	662	W/D ratio	Biomarker
+30296789_22069	696	706	lung edema	Disease	DOID:11396
+30296789_22069	719	721	OA	Drug	CHEMBL8659
+30296789_22069	762	767	edema	Disease	D004487
+30296789_22069	782	790	cytokine	Genefamily
+30296789_22069	863	868	TNF-α	Gene-protein
+30296789_22069	863	868	TNF-α	Biomarker	D014409
+30296789_22069	883	908	pro-inflammatory cytokine	Genefamily
+30296789_22069	951	960	cytokines	Genefamily
+30296789_22069	1040	1043	ALI	Disease	 D055371
+30296789_22069	1040	1048	ALI/ARDS	Collection
+30296789_22069	1044	1048	ARDS	Disease
+30296789_22069	1126	1134	collagen	Genefamily	family:490
+30296789_22069	1231	1233	OA	Chemical
+30296789_22069	1385	1393	collagen	Genefamily
+30296789_22069	1423	1501	expression of TNF-α and IL-1β in the lung tissues were significantly increased	Biomarker
+30296789_22069	1423	1534	expression of TNF-α and IL-1β in the lung tissues were significantly increased, and the W/D ratio was increased	Collection
+30296789_22069	1437	1442	TNF-α	Gene-protein
+30296789_22069	1447	1452	IL-1β	Gene-protein
+30296789_22069	1511	1534	W/D ratio was increased	Biomarker
+30296789_22069	1538	1542	ARDS	Disease
+30296789_22069	1553	1555	OA	Drug
+30296789_22069	1558	1569	Alprostadil	Drug
+30296789_22069	1616	1625	W/D ratio	Biomarker
+30296789_22069	1669	1674	TNF-α	Gene-protein
+30296789_22069	1679	1684	IL-1β	Gene-protein
+30296789_22069	1697	1705	collagen	Gene-protein
+30296789_22069	1797	1808	alprostadil	Drug
+30296789_22069	1812	1816	ARDS	Disease
+

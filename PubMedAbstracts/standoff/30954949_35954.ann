@@ -1,0 +1,72 @@
+T1	Chemical 58 69	cholesterol
+T10	Biomarker 563 610	SREBP2 activity was significantly more elevated
+T11	Disease 614 617	HCC
+T15	Biomarker 811 845	higher activity of the SREBP2 gene
+T16	Disease 868 871	HCC
+T17	Biomarker 1079 1094	SREBP2 activity
+T18	Disease 1135 1138	HCC
+T2	Disease 98 122	hepatocellular carcinoma
+#8	AnnotatorNotes T2	DOID:684
+T22	Disease 1425 1431	tumour
+#11	AnnotatorNotes T22	DOID:14566|DOID:162
+T25	Chemical 1899 1909	lanosterol
+T26	Chemical 1930 1951	24-dehydrocholesterol
+T27	Disease 2056 2059	HCC
+T29	Biomarker 2147 2181	high levels of MVK, LSS and DHCR24
+T3	Disease 195 198	HCC
+T31	Biomarker 2327 2383	upregulation of SREBP2 and its transcriptional programme
+T32	Disease 2421 2424	HCC
+T4	Disease 365 368	HCC
+T6	Biomarker 439 495	SREBP2 transcriptional activity was significantly higher
+T7	Disease 499 502	HCC
+T33	Gene-Protein 177 183	SREBP2
+#1	AnnotatorNotes T33	HGNC:11290
+T34	Gene-Protein 305 311	SREBP2
+T35	Gene-Protein 439 445	SREBP2
+T36	Gene-Protein 750 756	SREBP2
+T37	Gene-Protein 1196 1202	SREBP2
+T38	Gene-Protein 834 840	SREBP2
+T39	Gene-Protein 1079 1085	SREBP2
+T40	Gene-Protein 2343 2349	SREBP2
+T41	Gene-Protein 2077 2083	SREBP2
+T42	Gene-Protein 2031 2037	SREBP2
+T43	Gene-Protein 1863 1869	SREBP2
+#2	AnnotatorNotes T3	DOID:684
+T5	Gene-Protein 1685 1691	SREBP2
+R1	Association Arg1:T6 Arg2:T7	
+T8	Gene-Protein 563 569	SREBP2
+R2	Association Arg1:T10 Arg2:T11	
+R3	Prognostic-Poor Arg1:T15 Arg2:T16	
+R4	Association Arg1:T17 Arg2:T18	
+T9	Gene-Protein 1512 1518	SREBP2
+T12	Gene-Protein 1526 1531	HMGCR
+#3	AnnotatorNotes T12	HGNC:5006
+T13	Biomarker 1659 1691	transcription activity of SREBP2
+T14	Biomarker 1700 1720	mRNA levels of HMGCR
+T20	Gene-Protein 1715 1720	HMGCR
+T21	Gene-Protein 1894 1897	MVK
+#4	AnnotatorNotes T21	HGNC:7530
+T23	Gene-Protein 1899 1918	lanosterol synthase
+#5	AnnotatorNotes T23	HGNC:6708
+T24	Gene-Protein 1920 1923	LSS
+#6	AnnotatorNotes T24	HGNC:6708
+T30	Gene-Protein 1963 1969	DHCR24
+#9	AnnotatorNotes T30	HGNC:2859
+T44	Gene-Protein 1930 1961	24-dehydrocholesterol reductase
+#10	AnnotatorNotes T44	HGNC:2859
+T45	Gene-Protein 2162 2165	MVK
+T46	Gene-Protein 2167 2170	LSS
+T47	Gene-Protein 2175 2181	DHCR24
+R5	Prognostic-Poor Arg1:T29 Arg2:T27	
+R6	Association Arg1:T31 Arg2:T32	
+T28	Biomarker 305 327	SREBP2 mRNA expression
+T48	Biomarker 1168 1202	transcriptional activity of SREBP2
+T49	Biomarker 1322 1333	tumour size
+T50	Biomarker 1338 1350	tumour grade
+T51	Biomarker 1271 1274	age
+T52	Biomarker 1276 1282	gender
+#13	AnnotatorNotes T52	D005783
+T53	Biomarker 1284 1293	aetiology
+T54	Biomarker 1295 1320	the presence of cirrhosis
+#7	AnnotatorNotes T51	D017668
+T19	Biomarker 149 183	mRNA levels and activity of SREBP2

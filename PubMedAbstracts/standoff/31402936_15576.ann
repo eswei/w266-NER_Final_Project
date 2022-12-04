@@ -1,0 +1,53 @@
+T0	Disease 240 246	cancer
+#1	AnnotatorNotes T0	DOID:162
+T2	Disease 941 946	tumor
+#3	AnnotatorNotes T2	DOID:162
+T3	Disease 1018 1024	tumors
+#4	AnnotatorNotes T3	DOID:162
+T4	Disease 1215 1222	cancers
+#5	AnnotatorNotes T4	DOID:162
+T5	Disease 1305 1329	digestive system cancers
+#6	AnnotatorNotes T5	DOID:3119
+T6	Disease 1375 1382	cancers
+T7	Disease 1428 1439	lung cancer
+#8	AnnotatorNotes T7	DOID:1324
+T8	Disease 1464 1482	lung cancer tumors
+#9	AnnotatorNotes T8	DOID:1324
+T9	Disease 1581 1606	acute leukemia depression
+#10	AnnotatorNotes T9	DOID:12603
+T10	Disease 79 84	NSCLC
+#11	AnnotatorNotes T10	DOID:3908
+T11	Gene-Protein 206 211	hOGG1
+#12	AnnotatorNotes T11	HGNC:8125
+T12	Biomarker 186 236	expression level of hOGG1 was significantly higher
+T13	Disease 288 293	NSCLC
+R1	Association Arg1:T12 Arg2:T13	
+T14	Gene-Protein 382 387	hOGG1
+T15	Disease 443 448	NSCLC
+T16	Biomarker 476 497	hOGG1 high expression
+T17	Gene-Protein 476 481	hOGG1
+T18	Biomarker 508 528	hOGG1 low expression
+T19	Gene-Protein 508 513	hOGG1
+T20	Biomarker 588 608	hOGG1 low expression
+T21	Gene-Protein 588 593	hOGG1
+T22	Biomarker 655 676	hOGG1 high expression
+T23	Gene-Protein 655 660	hOGG1
+T24	Gene-Protein 691 696	hOGG1
+T25	Disease 752 757	NSCLC
+T26	Biomarker 691 707	hOGG1 expression
+R2	Association Arg1:T26 Arg2:T25	
+T1	Gene-Protein 1095 1100	hOGG1
+T27	Biomarker 1095 1100	hOGG1
+#2	AnnotatorNotes T27	C479058
+R3	Association Arg1:T27 Arg2:T4	
+T28	Gene-Protein 1231 1236	hOGG1
+T29	Biomarker 1231 1254	hOGG1 gene polymorphism
+T30	Collection 1305 1382	digestive system cancers, closely related to the prognosis of various cancers
+R4	Association Arg1:T29 Arg2:T30	
+T31	Gene-Protein 1384 1389	hOGG1
+T32	Drug 1384 1389	hOGG1
+#13	AnnotatorNotes T32	C479058
+R5	Response Arg1:T32 Arg2:T7	
+T33	Biomarker 1538 1563	hOGG1 expression in serum
+T34	Gene-Protein 1538 1543	hOGG1
+R6	Association Arg1:T33 Arg2:T9	

@@ -1,0 +1,75 @@
+T10	Disease 684 698	gastric cancer
+#1	AnnotatorNotes T10	DOID:10534
+T11	Disease 703 728	abdominal aortic aneurysm
+#2	AnnotatorNotes T11	DOID:7693
+T12	Disease 730 733	AAA
+T15	Disease 828 843	prostate cancer
+#4	AnnotatorNotes T15	DOID:10283
+T17	Disease 964 979	prostate cancer
+T19	Disease 1109 1124	prostate cancer
+T20	Disease 1126 1141	cervical cancer
+#7	AnnotatorNotes T20	DOID:4362
+T21	Disease 1143 1164	myocardial infarction
+#8	AnnotatorNotes T21	DOID:5844
+T22	Disease 1166 1168	MI
+T23	Disease 1173 1196	coronary artery disease
+#10	AnnotatorNotes T23	DOID:3393
+T24	Disease 1198 1201	CAD
+T25	Disease 1208 1246	relapsing-remitting multiple sclerosis
+#12	AnnotatorNotes T25	DOID:2378
+T27	Disease 1248 1252	RRMS
+#14	AnnotatorNotes T27	DOID:2378
+T29	Variant 1324 1330	418G/C
+T30	Variant 1332 1338	303G/A
+T31	Disease 1374 1378	HAND
+#15	AnnotatorNotes T31	not found
+T32	Variant 1480 1486	418G/C
+T33	Variant 1491 1497	303G/A
+T34	Disease 1521 1525	HAND
+T4	Disease 462 467	tumor
+#17	AnnotatorNotes T4	DOID:162
+T5	Disease 554 569	malignant tumor
+#18	AnnotatorNotes T5	DOID:162
+T6	Disease 574 580	cancer
+#19	AnnotatorNotes T6	DOID:162
+T3	Gene-Protein 51 57	TIMP-2
+#3	AnnotatorNotes T3	HGNC:11821
+T7	Gene-Protein 123 149	matrix metalloproteinase 2
+#9	AnnotatorNotes T7	HGNC:7166
+T13	Gene-Protein 151 156	MMP-2
+#11	AnnotatorNotes T13	HGNC:7166
+T16	Gene-Protein 192 197	MMP-2
+T18	Gene-Protein 202 208	TIMP-2
+T28	Gene-Protein 303 309	TIMP-2
+T35	Biomarker 303 341	TIMP-2 (-418G/C, 303G/A) polymorphisms
+R1	Association Arg1:T35 Arg2:T4	
+T1	Biomarker 486 513	Genetic variation of TIMP-2
+T2	Gene-Protein 507 513	TIMP-2
+T36	Collection 554 580	malignant tumor and cancer
+R2	Risk-Factor Arg1:T1 Arg2:T36	
+T37	Biomarker 594 632	TIMP-2 (-418G/C, 303G/A) polymorphisms
+T38	Biomarker 637 650	haplotype CGC
+T39	Collection 594 650	TIMP-2 (-418G/C, 303G/A) polymorphisms and haplotype CGC
+T40	Collection 684 728	gastric cancer and abdominal aortic aneurysm
+#20	AnnotatorNotes T12	DOID:7693
+R3	Risk-Factor Arg1:T39 Arg2:T40	
+T8	Biomarker 748 786	The GT (TIMP-2 -418∗G/303∗T) haplotype
+T9	Gene-Protein 756 762	TIMP-2
+R4	Risk-Factor Arg1:T8 Arg2:T15	
+T14	Drug 906 928	TIMP-2 -418GC genotype
+T41	Gene-Protein 906 912	TIMP-2
+#21	AnnotatorNotes T14	not found
+R5	Protects-from Arg1:T14 Arg2:T17	
+T42	Biomarker 1056 1081	TIMP-2 gene polymorphisms
+T43	Gene-Protein 1056 1062	TIMP-2
+#5	AnnotatorNotes T22	DOID:5844
+#6	AnnotatorNotes T24	DOID:3393
+T26	Gene-Protein 1315 1321	TIMP-2
+T44	Collection 1324 1338	418G/C, 303G/A
+R6	Variant-Of Arg1:T26 Arg2:T44	
+T45	Gene-Protein 1471 1477	TIMP-2
+T46	Collection 1479 1497	-418G/C and 303G/A
+R7	Variant-Of Arg1:T45 Arg2:T46	
+T47	Variant 170 188	genetic variations
+T48	Collection 192 208	MMP-2 and TIMP-2
+R8	Variant-Of Arg1:T48 Arg2:T47	

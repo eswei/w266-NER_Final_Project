@@ -1,0 +1,29 @@
+30197668_15533|t|RSS_IDENT_p_30197668_b_1_4_3
+30197668_15533|a| miRNAs can stably exist in body fluids including serum, plasma, saliva, urine and tears ( 22 , 23 ). Furthermore, miRNAs can be easily detected in small amounts in samples and are resistant against degradation ( 24 ). These characteristics of miRNAs render them attractive as potential biomarkers ( 8 , 25 ). In the present study, we detected the level of miR-26a-5p in BC patients and our data showed that plasma miR-26a-5p was significantly increased in BC patients. Furthermore, miR-26a-5p expression was also elevated in the BC tissues compared with adjacent non-neoplastic tissues. Further analysis showed positive correlation between miR-26a-5p and clinical outcome. Compared with BC patients at Ta-T1 stage, the level of miR-26a-5p was significantly enhanced in BC patients ≥T2. Furthermore, BC patients at G3 stage demonstrated much higher plasma miR-26a-5p level than those at G1/2 stage. These data showed that miR-26a-5p positively correlated with therapy and outcome. ROC analysis indicated miR-26a-5p could differentiate BC patients from healthy controls. Additionally, Kaplan-Meier analysis demonstrated that plasma miR-26a-5p negatively correlated with survival of BC patients. These data indicated that plasma miR-26a-5p may be useful for the early detection of cancer and individualized therapies. 
+30197668_15533	386	396	miR-26a-5p	Rna-noncoding	family:1739
+30197668_15533	400	402	BC	Disease	DOID:11054
+30197668_15533	444	454	miR-26a-5p	Rna-noncoding
+30197668_15533	444	482	miR-26a-5p was significantly increased	Biomarker
+30197668_15533	486	488	BC	Disease
+30197668_15533	512	522	miR-26a-5p	Rna-noncoding
+30197668_15533	512	551	miR-26a-5p expression was also elevated	Biomarker
+30197668_15533	559	561	BC	Disease
+30197668_15533	670	680	miR-26a-5p	Rna-noncoding
+30197668_15533	717	719	BC	Disease
+30197668_15533	745	795	the level of miR-26a-5p was significantly enhanced	Biomarker
+30197668_15533	758	768	miR-26a-5p	Rna-noncoding
+30197668_15533	799	814	BC patients ≥T2	Disease
+30197668_15533	829	831	BC	Disease
+30197668_15533	844	901	G3 stage demonstrated much higher plasma miR-26a-5p level	Biomarker
+30197668_15533	885	895	miR-26a-5p	Rna-noncoding
+30197668_15533	951	961	miR-26a-5p	Rna-noncoding
+30197668_15533	1033	1043	miR-26a-5p	Rna-noncoding
+30197668_15533	1033	1043	miR-26a-5p	Biomarker	C528163
+30197668_15533	1064	1066	BC	Disease
+30197668_15533	1153	1170	plasma miR-26a-5p	Biomarker
+30197668_15533	1160	1170	miR-26a-5p	Rna-noncoding
+30197668_15533	1210	1212	BC	Disease
+30197668_15533	1249	1266	plasma miR-26a-5p	Biomarker
+30197668_15533	1256	1266	miR-26a-5p	Rna-noncoding
+30197668_15533	1308	1314	cancer	Disease	DOID:162
+

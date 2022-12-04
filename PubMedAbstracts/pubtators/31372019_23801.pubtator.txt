@@ -1,0 +1,61 @@
+31372019_23801|t|RSS_IDENT_p_31372019_b_1_4_4
+31372019_23801|a| It has been reported that hyperglycemia-induced myocardial tissue oxidative stress is associated with inflammation by overproduction of pro-inflammatory cytokines. 20 NF-κB is a pleiotropic transcription factor that controls the expression of multiple target genes and is primarily involved in inflammation. When NF-κB is blocked, oxidative stress and inflammatory responses in myocardial tissue are simultaneously reduced, and cardiac dysfunction in type 2 diabetic mice is alleviated. 21 In the heart, activation of NF-κB signaling is associated with different pathophysiological environments, including myocardial infarction, heart failure, cardiac hypertrophy and diabetic cardiomyopathy. 22 Our study found that the expression of NF-κB mRNA and protein was increased in STZ-induced diabetic rats, and GS Rg1 treatment decreased its expression, suggesting that GS Rg1 may inhibit NF-κB- mediated cardiac inflammation. At the same time, studies have shown that NF-κB transactivation and Toll-like receptor 4 (TLR4)-mediated ROS production are mechanisms of inflammatory body initiation and regulation. 23 The NLRP3 pathway affects insulin sensitivity and increases myocardial cytokine levels as well as macrophage infiltration. 24 Moreover, NLRP3 inflammatory bodies regulate downstream inflammatory events of lipotoxicity and glucose toxicity during the development of T2 DM. 25 In the present study, we found that the expression of TLR4, NLRP3 and ASC in the heart of STZ-induced diabetic rats was significantly upregulated, while GS Rg1 reduced the inflammation of the NLRP3 inflammatory body. At the same time, surprisingly, after the combination of CC, we found that CC inhibited the inhibitory effect of GS Rg1 on myocardial inflammation in DM rats mediated by NF-κB and NLRP3 inflammatory neutrophils in an AMPK-dependent manner. 
+31372019_23801	56	112	hyperglycemia-induced myocardial tissue oxidative stress	Disease	not found
+31372019_23801	132	144	inflammation	Biomarker	D007249
+31372019_23801	166	192	pro-inflammatory cytokines	Genefamily	not found
+31372019_23801	197	202	NF-κB	Genefamily	family:1254
+31372019_23801	197	202	NF-κB	Biomarker	D016328
+31372019_23801	324	336	inflammation	Disease	D007249
+31372019_23801	343	348	NF-κB	Genefamily
+31372019_23801	343	359	NF-κB is blocked	Drug	not found
+31372019_23801	361	377	oxidative stress	Disease	D018384
+31372019_23801	361	496	oxidative stress and inflammatory responses in myocardial tissue are simultaneously reduced, and cardiac dysfunction in type 2 diabetic	Collection
+31372019_23801	382	404	inflammatory responses	Disease	D007249
+31372019_23801	458	477	cardiac dysfunction	Disease	not found
+31372019_23801	481	496	type 2 diabetic	Disease	DOID:9352
+31372019_23801	534	563	activation of NF-κB signaling	Biomarker
+31372019_23801	548	553	NF-κB	Genefamily
+31372019_23801	636	657	myocardial infarction	Disease	DOID:5844
+31372019_23801	636	721	myocardial infarction, heart failure, cardiac hypertrophy and diabetic cardiomyopathy	Collection
+31372019_23801	659	672	heart failure	Disease	D006333
+31372019_23801	674	693	cardiac hypertrophy	Disease	D006332
+31372019_23801	698	721	diabetic cardiomyopathy	Disease	D058065
+31372019_23801	765	770	NF-κB	Gene-protein
+31372019_23801	765	801	NF-κB mRNA and protein was increased	Biomarker
+31372019_23801	805	808	STZ	Drug	CHEMBL1651906
+31372019_23801	805	825	STZ-induced diabetic	Disease	not found
+31372019_23801	836	842	GS Rg1	Drug	CHEMBL501637
+31372019_23801	895	901	GS Rg1	Drug
+31372019_23801	914	919	NF-κB	Genefamily
+31372019_23801	914	950	NF-κB- mediated cardiac inflammation	Disease	not found
+31372019_23801	994	999	NF-κB	Genefamily
+31372019_23801	1020	1040	Toll-like receptor 4	Gene-protein
+31372019_23801	1042	1046	TLR4	Gene-protein
+31372019_23801	1057	1060	ROS	Chemical
+31372019_23801	1142	1147	NLRP3	Gene-protein
+31372019_23801	1164	1171	insulin	Gene-protein
+31372019_23801	1209	1217	cytokine	Genefamily
+31372019_23801	1274	1279	NLRP3	Gene-protein
+31372019_23801	1274	1299	NLRP3 inflammatory bodies	Biomarker
+31372019_23801	1343	1355	lipotoxicity	Disease	not found
+31372019_23801	1343	1376	lipotoxicity and glucose toxicity	Collection
+31372019_23801	1360	1367	glucose	Chemical
+31372019_23801	1360	1376	glucose toxicity	Disease	not found
+31372019_23801	1403	1408	T2 DM	Disease	DOID:9352
+31372019_23801	1453	1499	expression of TLR4, NLRP3 and ASC in the heart	Biomarker
+31372019_23801	1467	1471	TLR4	Gene-protein
+31372019_23801	1473	1478	NLRP3	Gene-protein
+31372019_23801	1483	1486	ASC	Gene-protein
+31372019_23801	1503	1506	STZ	Drug
+31372019_23801	1503	1523	STZ-induced diabetic	Disease
+31372019_23801	1566	1572	GS Rg1	Drug
+31372019_23801	1585	1597	inflammation	Disease
+31372019_23801	1605	1610	NLRP3	Gene-protein
+31372019_23801	1687	1689	CC	Drug	CHEMBL478629
+31372019_23801	1705	1707	CC	Drug
+31372019_23801	1743	1749	GS Rg1	Drug
+31372019_23801	1753	1782	myocardial inflammation in DM	Disease	not found, DOID:9352	Conjunction
+31372019_23801	1800	1805	NF-κB	Genefamily
+31372019_23801	1810	1815	NLRP3	Genefamily
+31372019_23801	1847	1851	AMPK	Genefamily
+

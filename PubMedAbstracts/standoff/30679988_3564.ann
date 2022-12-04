@@ -1,0 +1,74 @@
+T0	Chemical 64 75	nucleotides
+T14	Disease 840 842	RB
+T19	Disease 1296 1301	tumor
+T22	Disease 1546 1548	RB
+T3	Disease 278 283	tumor
+#7	AnnotatorNotes T3	DOID:162
+T6	Disease 368 370	RB
+#9	AnnotatorNotes T6	DOID:768
+T1	RNA-Noncoding 384 395	Hsa-miR-373
+#1	AnnotatorNotes T1	HGNC:31787
+T2	RNA-Noncoding 449 461	hsa-miR-125b
+T5	RNA-Noncoding 466 476	hsa-let-7b
+#3	AnnotatorNotes T5	HGNC:31479
+T7	Gene-Protein 528 558	cell division protein kinase 6
+#5	AnnotatorNotes T7	HGNC:1744
+T8	Gene-Protein 560 583	cell division cycle 25A
+#8	AnnotatorNotes T8	HGNC:1725
+T9	Gene-Protein 588 604	lin-28 homolog A
+#10	AnnotatorNotes T9	HGNC:15986
+T10	Disease 415 417	RB
+T11	Disease 935 937	RB
+T12	Disease 1044 1046	RB
+T13	Disease 1212 1214	RB
+T15	Disease 1160 1163	RBs
+T16	Disease 1282 1284	RB
+T17	Disease 1454 1456	RB
+T18	Disease 1609 1611	RB
+T20	RNA-Noncoding 631 643	hsa-miR-181a
+#2	AnnotatorNotes T20	HGNC:31549
+T21	Gene-Protein 672 708	cyclin-dependent kinase inhibitor 1B
+#6	AnnotatorNotes T21	HGNC:1785
+T23	RNA-Noncoding 770 780	hsa-miR-25
+#11	AnnotatorNotes T23	HGNC:31609
+T24	RNA-Noncoding 782 793	hsa-miR-18a
+#12	AnnotatorNotes T24	HGNC:31548
+T25	RNA-Noncoding 798 809	hsa-miR-20a
+#13	AnnotatorNotes T25	HGNC:31577
+T26	Gene-Protein 859 870	BCL2-like 1
+#14	AnnotatorNotes T26	HGNC:992
+T27	RNA-Noncoding 892 899	miR-497
+#15	AnnotatorNotes T27	HGNC:32088
+T28	RNA-Noncoding 1033 1040	miR-143
+#16	AnnotatorNotes T28	HGNC:31530
+T29	Gene-Protein 1060 1064	CDK6
+#17	AnnotatorNotes T29	HGNC:1777
+T30	RNA-Noncoding 1079 1085	miR-31
+#18	AnnotatorNotes T30	HGNC:31630
+T31	RNA-Noncoding 1090 1098	miR-200a
+#19	AnnotatorNotes T31	HGNC:31578
+T32	RNA-Noncoding 1236 1244	miR-125b
+T33	RNA-Noncoding 1458 1466	miR-3613
+#20	AnnotatorNotes T33	HGNC:38964
+T34	Biomarker 322 343	Several critical miRs
+R1	Association Arg1:T34 Arg2:T6	
+T35	Biomarker 384 395	Hsa-miR-373
+#21	AnnotatorNotes T35	C527114
+R2	Association Arg1:T35 Arg2:T10	
+T36	Collection 770 809	hsa-miR-25, hsa-miR-18a and hsa-miR-20a
+R3	Association Arg1:T36 Arg2:T14	
+T37	Biomarker 798 809	hsa-miR-20a
+#22	AnnotatorNotes T37	C534451
+T38	Biomarker 782 793	hsa-miR-18a
+#23	AnnotatorNotes T38	C522576
+T39	Biomarker 770 780	hsa-miR-25
+#24	AnnotatorNotes T39	C543351
+T41	Biomarker 1079 1150	miR-31 and miR-200a expression was revealed to be significantly reduced
+R5	Association Arg1:T41 Arg2:T15	
+T42	Biomarker 1236 1278	miR-125b is also significantly upregulated
+R6	Association Arg1:T42 Arg2:T16	
+T43	Biomarker 1458 1466	miR-3613
+R7	Association Arg1:T43 Arg2:T22	
+T4	Drug 1033 1040	miR-143
+#4	AnnotatorNotes T4	C542359
+R4	Response Arg1:T4 Arg2:T12	

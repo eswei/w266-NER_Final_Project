@@ -1,0 +1,44 @@
+T1	Biomarker 28 108	Damage to intestinal epithelial cell (IEC) layers during intestinal inflammation
+#1	AnnotatorNotes T1	DOID:10690
+T11	Chemical 862 868	purine
+T14	Drug 1090 1110	Regnase-1 deficiency
+T15	Disease 1171 1204	intestinal inflammatory disorders
+#4	AnnotatorNotes T15	DOID:0050589
+T2	Disease 128 154	inflammatory bowel disease
+#5	AnnotatorNotes T2	DOID:0050589
+T3	Chemical 305 314	rapamycin
+T4	Chemical 327 333	purine
+T5	Chemical 353 375	dextran sulfate sodium
+T8	Disease 669 684	Chronic colitis
+#11	AnnotatorNotes T8	not found
+T9	Disease 689 694	tumor
+#12	AnnotatorNotes T9	DOID:162
+R1	Association Arg1:T1 Arg2:T2	
+T16	Gene-Protein 195 204	Regnase-1
+#2	AnnotatorNotes T16	HGNC:26259
+T17	GeneFamily 178 194	endoribonuclease
+#6	AnnotatorNotes T17	family:1687
+T18	Gene-Protein 273 277	mTOR
+#7	AnnotatorNotes T18	HGNC:3942
+T19	Gene-Protein 283 321	mechanistic target of rapamycin kinase
+#8	AnnotatorNotes T19	HGNC:3942
+T20	Disease 353 430	dextran sulfate sodium-induced intestinal epithelial injury and acute colitis
+#13	AnnotatorNotes T20	not found
+T6	Gene-Protein 432 441	Regnase-1
+T21	Gene-Protein 463 472	Regnase-1
+T22	Gene-Protein 731 740	Regnase-1
+T23	Gene-Protein 751 760	Regnase-1
+T24	GeneFamily 785 791	mTORC1
+#9	AnnotatorNotes T24	family:1332
+T25	Gene-Protein 836 845	Regnase-1
+T26	Gene-Protein 1033 1042	Regnase-1
+T10	Disease 909 921	inflammation
+#14	AnnotatorNotes T10	D007249
+T12	Disease 1011 1029	acute inflammation
+T27	GeneFamily 960 977	ectonucleotidases
+R2	Protects-from Arg1:T14 Arg2:T15	
+T13	Biomarker 936 977	increased expression of ectonucleotidases
+R3	Association Arg1:T13 Arg2:T12	
+T28	Gene-Protein 1090 1099	Regnase-1
+T29	Biomarker 463 472	Regnase-1
+#3	AnnotatorNotes T14	not found

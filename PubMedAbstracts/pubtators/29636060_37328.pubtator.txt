@@ -1,0 +1,90 @@
+29636060_37328|t|RSS_IDENT_s_29636060_b_1_5
+29636060_37328|a| Conclusion The present study demonstrates that apoC1 rs4420638A/G and -317H1/H2 genetic polymorphisms are not associated with the risk of PCOS in Chinese women. However, the apoC1 rs4420638A → G variation may potentially be linked to elevated serum LH levels, a relatively high ratio of LH to FSH, and an adverse lipid metabolic profile; and the -317 H1H1 genotype is associated with increased the ratio of apoB-PAF-AH to H-PAF-AH activity and the acne grade score in the patients with PCOS. Additionally, this study also indicates that apoC1 rs4420638A/G and -317H1/H2 genetic variations are associated with an adverse glucose and lipid metabolic profile and the rs4420638G allele increases plasma PAF-AH and apoB-PAF-AH activity in the control women. These results suggest that apoC1 rs4420638A/G and -317H1/H2 genetic variants are related to metabolic abnormalities and chronic inflammation in patients and controls, while the rs4420638A/G polymorphism might be involved in endocrine abnormalities of reproductive axis in patients. Abbreviations AI Atherogenic index apoA1 Apolipoprotein A1 apoB Apolipoprotein B apoB-PAF-AH apoB-containing lipoprotein-associated platelet activating factor acetylhydrolase apoE Apolipoprotein E BMI Body mass index DBP Diastolic blood pressure E₂ Estradiol F-G score Ferriman–Gallwey score FSH Follicle stimulating hormone Glu Glucose HDL-C High-density lipoprotein cholesterol HOMA index Homeostatic model assessment of insulin resistance H-PAF-AH HDL-associated PAF-AH Ins Insulin LDL-C Low-density lipoprotein cholesterol LH Luteinizing hormone SBP Systolic blood pressure TC Total cholesterol TG Triglycerides TT Total testosterone Authors’ contributions
+29636060_37328	75	80	apoC1	Gene-protein	HGNC:607
+29636060_37328	81	93	rs4420638A/G	Variant
+29636060_37328	81	107	rs4420638A/G and -317H1/H2	Collection
+29636060_37328	98	107	-317H1/H2	Variant
+29636060_37328	166	170	PCOS	Disease	DOID:11612
+29636060_37328	202	207	apoC1	Gene-protein
+29636060_37328	208	222	rs4420638A → G	Variant
+29636060_37328	262	286	elevated serum LH levels	Biomarker
+29636060_37328	277	279	LH	Genefamily	family:1896
+29636060_37328	301	324	high ratio of LH to FSH	Biomarker
+29636060_37328	315	317	LH	Genefamily
+29636060_37328	321	324	FSH	Genefamily	family:1896
+29636060_37328	333	364	adverse lipid metabolic profile	Biomarker
+29636060_37328	341	346	lipid	Chemical
+29636060_37328	370	392	the -317 H1H1 genotype	Biomarker
+29636060_37328	412	467	increased the ratio of apoB-PAF-AH to H-PAF-AH activity	Biomarker
+29636060_37328	435	439	apoB	Gene-protein	HGNC:603
+29636060_37328	440	446	PAF-AH	Genefamily	not found
+29636060_37328	452	458	PAF-AH	Genefamily	not found
+29636060_37328	476	492	acne grade score	Biomarker
+29636060_37328	514	518	PCOS	Disease
+29636060_37328	565	570	apoC1	Gene-protein
+29636060_37328	571	583	rs4420638A/G	Variant
+29636060_37328	571	597	rs4420638A/G and -317H1/H2	Collection
+29636060_37328	588	597	-317H1/H2	Variant
+29636060_37328	640	683	adverse glucose and lipid metabolic profile	Biomarker
+29636060_37328	648	655	glucose	Chemical
+29636060_37328	660	665	lipid	Chemical
+29636060_37328	692	701	rs4420638	Variant
+29636060_37328	710	758	increases plasma PAF-AH and apoB-PAF-AH activity	Biomarker
+29636060_37328	727	733	PAF-AH	Genefamily
+29636060_37328	738	742	apoB	Gene-protein
+29636060_37328	743	749	PAF-AH	Genefamily
+29636060_37328	808	813	apoC1	Gene-protein
+29636060_37328	814	826	rs4420638A/G	Variant
+29636060_37328	814	840	rs4420638A/G and -317H1/H2	Collection
+29636060_37328	831	840	-317H1/H2	Variant
+29636060_37328	873	896	metabolic abnormalities	Disease	not found
+29636060_37328	901	921	chronic inflammation	Disease	not found
+29636060_37328	958	970	rs4420638A/G	Variant
+29636060_37328	1005	1049	endocrine abnormalities of reproductive axis	Disease	not found
+29636060_37328	1077	1079	AI	Biomarker
+29636060_37328	1080	1097	Atherogenic index	Biomarker
+29636060_37328	1098	1103	apoA1	Gene-protein	HGNC:600
+29636060_37328	1104	1121	Apolipoprotein A1	Gene-protein	HGNC:600
+29636060_37328	1122	1126	apoB	Gene-protein
+29636060_37328	1127	1143	Apolipoprotein B	Gene-protein	HGNC:603
+29636060_37328	1144	1148	apoB	Gene-protein
+29636060_37328	1149	1155	PAF-AH	Genefamily
+29636060_37328	1156	1160	apoB	Gene-protein
+29636060_37328	1195	1237	platelet activating factor acetylhydrolase	Genefamily	not found
+29636060_37328	1238	1242	apoE	Gene-protein	HGNC:613
+29636060_37328	1243	1259	Apolipoprotein E	Gene-protein	HGNC:613
+29636060_37328	1260	1263	BMI	Biomarker	D015992
+29636060_37328	1264	1279	Body mass index	Biomarker	D015992
+29636060_37328	1280	1283	DBP	Biomarker
+29636060_37328	1284	1308	Diastolic blood pressure	Biomarker
+29636060_37328	1312	1321	Estradiol	Chemical
+29636060_37328	1322	1331	F-G score	Biomarker
+29636060_37328	1332	1354	Ferriman–Gallwey score	Biomarker
+29636060_37328	1355	1358	FSH	Genefamily
+29636060_37328	1359	1387	Follicle stimulating hormone	Genefamily	not found
+29636060_37328	1388	1391	Glu	Chemical
+29636060_37328	1392	1399	Glucose	Chemical
+29636060_37328	1400	1405	HDL-C	Chemical
+29636060_37328	1406	1442	High-density lipoprotein cholesterol	Chemical
+29636060_37328	1443	1453	HOMA index	Biomarker
+29636060_37328	1454	1504	Homeostatic model assessment of insulin resistance	Biomarker
+29636060_37328	1486	1493	insulin	Gene-protein	HGNC:6081
+29636060_37328	1486	1504	insulin resistance	Disease	D007333
+29636060_37328	1507	1513	PAF-AH	Genefamily
+29636060_37328	1514	1517	HDL	Chemical
+29636060_37328	1529	1535	PAF-AH	Genefamily
+29636060_37328	1536	1539	Ins	Gene-protein	HGNC:6081
+29636060_37328	1540	1547	Insulin	Gene-protein	HGNC:6081
+29636060_37328	1548	1553	LDL-C	Chemical
+29636060_37328	1554	1589	Low-density lipoprotein cholesterol	Chemical
+29636060_37328	1590	1592	LH	Genefamily
+29636060_37328	1593	1612	Luteinizing hormone	Genefamily	not found
+29636060_37328	1613	1616	SBP	Biomarker
+29636060_37328	1617	1640	Systolic blood pressure	Biomarker
+29636060_37328	1641	1643	TC	Chemical
+29636060_37328	1650	1661	cholesterol	Chemical
+29636060_37328	1662	1664	TG	Chemical
+29636060_37328	1665	1678	Triglycerides	Chemical
+29636060_37328	1679	1681	TT	Chemical
+29636060_37328	1682	1700	Total testosterone	Chemical
+

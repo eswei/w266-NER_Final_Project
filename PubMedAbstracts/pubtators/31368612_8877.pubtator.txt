@@ -1,0 +1,69 @@
+31368612_8877|t|RSS_IDENT_s_31368612_b_1_3
+31368612_8877|a| Anti‐cancer effectiveness of FAK inhibitors could be arrested by compensatory EGFR‐related signaling FAK is overexpressed in 80% of all solid tumors and FAK inhibitors have been considered as promising anti‐cancer drugs (Weiner et al., 1993; Owens et al., 1995; Lark et al., 2003). However, anti‐cancer clinical trials of FAK inhibitors show the limited single‐agent efficacy (Gan et al., 2012; Infante et al., 2012) and compensatory signaling has been found to be responsible for this phenomenon. In the study performed by Marlowe et al., the results confirmed that the expression of receptor tyrosine kinases (RTKs) predicted patient response to FAK‐kinase inhibitors. FAK‐kinase inhibition induced RTK activation in RTK high cancer cells while the selective pressure of FAK‐kinase inhibition was able to drive RTK low triple‐negative breast cancer cells to express human epidermal growth factor receptor 2 (HER2). The inhibition of FAK induced compensatory increases of phosphorylated EGFR (pEGFR), pHER2, pAKT, and phosphorylated extracellular signal‐regulated protein kinase (pERK). Moreover, FAK inhibition led to a paradoxical increase of phosphorylated FAK tyrosine 397 (FAK pY397), which could maintain FAK‐dependent cancer cell migration and invasion. HER2 (and potentially other RTKs) was found to bind to FAK FERM F1 lobe and promoted its proximity to FAK Y397, allowing HER2 to directly phosphorylate FAK Y397 (Marlowe et al., 2016). In addition, E‐cadherin has been reported to arrest FAK inhibitor‐induced apoptosis and support merlin‐negative malignant mesothelioma progression (Kato et al., 2017). ALDH1A3, CD44, and MDR1 were found to play a role in the cancer cell resistance to FAK autophosphorylation inhibitor Y15 and their downregulation would sensitize resistant cancer cells to Y15 (Golubovskaya et al., 2015).
+31368612_8877	57	60	FAK	Gene-protein	HGNC:9611
+31368612_8877	57	71	FAK inhibitors	Drug-class
+31368612_8877	106	110	EGFR	Gene-protein	HGNC:3236
+31368612_8877	129	132	FAK	Gene-protein
+31368612_8877	129	149	FAK is overexpressed	Biomarker
+31368612_8877	164	176	solid tumors	Disease	not found
+31368612_8877	181	184	FAK	Gene-protein
+31368612_8877	181	195	FAK inhibitors	Drug-class
+31368612_8877	230	247	anti‐cancer drugs	Drug-class
+31368612_8877	350	353	FAK	Gene-protein
+31368612_8877	350	364	FAK inhibitors	Drug-class
+31368612_8877	599	645	expression of receptor tyrosine kinases (RTKs)	Biomarker
+31368612_8877	613	638	receptor tyrosine kinases	Genefamily	family:321
+31368612_8877	622	630	tyrosine	Chemical
+31368612_8877	640	644	RTKs	Genefamily	family:321
+31368612_8877	676	686	FAK‐kinase	Genefamily	family:1644
+31368612_8877	676	697	FAK‐kinase inhibitors	Drug-class
+31368612_8877	699	702	FAK	Gene-protein
+31368612_8877	729	732	RTK	Genefamily	family:321
+31368612_8877	747	750	RTK	Genefamily
+31368612_8877	756	762	cancer	Disease	DOID:162
+31368612_8877	801	811	FAK‐kinase	Genefamily
+31368612_8877	801	822	FAK‐kinase inhibition	Drug	not found
+31368612_8877	841	844	RTK	Genefamily
+31368612_8877	849	878	triple‐negative breast cancer	Disease	DOID:0060081
+31368612_8877	902	936	epidermal growth factor receptor 2	Gene-protein	HGNC:3430
+31368612_8877	938	942	HER2	Gene-protein	HGNC:3430
+31368612_8877	963	966	FAK	Gene-protein
+31368612_8877	1016	1020	EGFR	Gene-protein
+31368612_8877	1022	1027	pEGFR	Gene-protein	HGNC:3236
+31368612_8877	1030	1035	pHER2	Gene-protein	HGNC:3430
+31368612_8877	1037	1041	pAKT	Genefamily	family:1900
+31368612_8877	1062	1107	extracellular signal‐regulated protein kinase	Genefamily	not found
+31368612_8877	1109	1113	pERK	Genefamily	not found
+31368612_8877	1126	1129	FAK	Gene-protein
+31368612_8877	1189	1192	FAK	Gene-protein
+31368612_8877	1193	1201	tyrosine	Chemical
+31368612_8877	1207	1210	FAK	Gene-protein
+31368612_8877	1240	1243	FAK	Gene-protein
+31368612_8877	1254	1260	cancer	Disease
+31368612_8877	1290	1294	HER2	Gene-protein
+31368612_8877	1318	1322	RTKs	Genefamily
+31368612_8877	1345	1348	FAK	Gene-protein
+31368612_8877	1349	1356	FERM F1	Proteindomain
+31368612_8877	1392	1395	FAK	Gene-protein
+31368612_8877	1411	1415	HER2	Gene-protein
+31368612_8877	1442	1445	FAK	Gene-protein
+31368612_8877	1488	1498	E‐cadherin	Gene-protein
+31368612_8877	1488	1498	E‐cadherin	Biomarker
+31368612_8877	1527	1530	FAK	Gene-protein
+31368612_8877	1527	1540	FAK inhibitor	Drug-class
+31368612_8877	1571	1577	merlin	Gene-protein	HGNC:7773
+31368612_8877	1571	1609	merlin‐negative malignant mesothelioma	Disease	not found
+31368612_8877	1643	1650	ALDH1A3	Gene-protein	HGNC:409
+31368612_8877	1643	1650	ALDH1A3	Biomarker
+31368612_8877	1643	1666	ALDH1A3, CD44, and MDR1	Collection
+31368612_8877	1652	1656	CD44	Gene-protein	HGNC:1681
+31368612_8877	1652	1656	CD44	Biomarker	C497483
+31368612_8877	1662	1666	MDR1	Gene-protein	HGNC:40
+31368612_8877	1662	1666	MDR1	Biomarker	C513055
+31368612_8877	1700	1706	cancer	Disease
+31368612_8877	1726	1729	FAK	Gene-protein
+31368612_8877	1726	1759	FAK autophosphorylation inhibitor	Drug-class
+31368612_8877	1760	1763	Y15	Drug	not found
+31368612_8877	1815	1821	cancer	Disease
+31368612_8877	1831	1834	Y15	Drug
+

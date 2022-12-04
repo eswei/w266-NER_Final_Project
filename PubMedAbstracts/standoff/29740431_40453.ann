@@ -1,0 +1,69 @@
+T0	Disease 78 86	CLIPPERS
+T10	Disease 1006 1014	CLIPPERS
+T11	Disease 1020 1023	RMS
+T12	Disease 1065 1073	CLIPPERS
+T14	Chemical 1173 1181	tyrosine
+T16	Disease 1458 1466	CLIPPERS
+T2	Disease 104 107	RMS
+T4	Disease 208 211	RMS
+T5	Disease 470 478	CLIPPERS
+T7	Disease 792 800	CLIPPERS
+T9	Disease 813 816	RMS
+T17	Gene-Protein 42 48	VCAM-1
+#1	AnnotatorNotes T17	HGNC:12663
+T18	Gene-Protein 355 361	VCAM-1
+T19	Gene-Protein 912 918	VCAM-1
+T20	Biomarker 30 59	Upregulated VCAM-1 in the CSF
+T21	Gene-Protein 136 142	ICAM-1
+#3	AnnotatorNotes T21	HGNC:5344
+T22	Gene-Protein 344 350	ICAM-1
+T23	Gene-Protein 920 926	ICAM-1
+T24	Biomarker 109 142	Increased concentration of ICAM-1
+T25	Gene-Protein 315 319	IL-8
+#4	AnnotatorNotes T25	HGNC:6025
+T26	GeneFamily 279 305	Pro-inflammatory cytokines
+#5	AnnotatorNotes T26	not found
+T27	Gene-Protein 426 430	IL-8
+T28	Gene-Protein 432 437	CXCL8
+#7	AnnotatorNotes T28	HGNC:6025
+T29	Gene-Protein 700 705	CXCL8
+T30	Gene-Protein 934 939	CXCL8
+T31	Gene-Protein 928 932	IL-8
+T32	Gene-Protein 759 764	CCL11
+#9	AnnotatorNotes T32	HGNC:10610
+T33	Gene-Protein 750 757	eotaxin
+#10	AnnotatorNotes T33	HGNC:10610
+T34	GeneFamily 740 749	chemokine
+#12	AnnotatorNotes T34	family:483
+T35	Gene-Protein 946 953	eotaxin
+T36	Gene-Protein 955 960	CCL11
+T37	Biomarker 1381 1412	downregulation of sFlt-1 in CSF
+R2	Association Arg1:T37 Arg2:T16	
+T38	Gene-Protein 1197 1204	VEGFR-1
+#13	AnnotatorNotes T38	HGNC:3763
+T39	Gene-Protein 1399 1405	sFlt-1
+T40	Gene-Protein 1189 1195	sFlt-1
+#15	AnnotatorNotes T40	HGNC:3763
+T41	Gene-Protein 1265 1288	placental growth factor
+#17	AnnotatorNotes T41	HGNC:8893
+T42	GeneFamily 1293 1327	vascular endothelial growth factor
+#18	AnnotatorNotes T42	family:1267
+#2	AnnotatorNotes T2	DOID:2378
+#6	AnnotatorNotes T0	not found
+T1	Disease 541 544	RMS
+T3	Biomarker 399 449	increased concentration of IL-8 (CXCL8) in the CSF
+T6	Collection 470 544	CLIPPERS from HS, and there was a trend of elevated levels compared to RMS
+R1	Association Arg1:T3 Arg2:T6	
+T8	Gene-Protein 546 550	IL-8
+T13	Biomarker 750 757	eotaxin
+T15	Biomarker 859 953	upregulation of key molecules in chemotaxis, such as VCAM-1, ICAM-1, IL-8 (CXCL8), and eotaxin
+#8	AnnotatorNotes T13	D054413
+T43	Biomarker 1035 1039	GCSF
+T44	Disease 1148 1160	inflammation
+#11	AnnotatorNotes T44	D007249
+R3	Risk-Reduce Arg1:T43 Arg2:T44	
+R4	Association Arg1:T43 Arg2:T12	
+R5	Association Arg1:T20 Arg2:T0	
+R6	Association Arg1:T13 Arg2:T7	
+R7	Association Arg1:T24 Arg2:T0	
+R8	Association Arg1:T15 Arg2:T10	

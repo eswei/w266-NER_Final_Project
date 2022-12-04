@@ -1,0 +1,57 @@
+29850501_29976|t|RSS_IDENT_p_29850501_b_2_4_4_1_1
+29850501_29976|a| ARB, angiotensin receptor blocker; ACEI, angiotensin-converting enzyme inhibitor; CCB, calcium channel blocker; CKD, chronic kidney disease; eGFR, estimated glomerular filtration rate; LDL, low-density lipoprotein; MBP, mean blood pressure; UAE, urinary albumin excretion; uα1-MG, urinary α1-microglobulin; uβ2-MG, urinary β2-microglobulin; uNAG, urinary N-acetyl-β-D-glucosaminidase; and uTFF, urinary trefoil factor. ∗Chronic glomerulonephritis includes 52 cases (42.3%) of IgA nephropathy, 27 cases (22.0%) of non-IgA mesangial nephritis, 14 cases (11.4%) of lupus nephritis, 13 cases (10.6%) of membranous nephropathy, 8 cases (6.5%) of IgA vasculitis with nephritis, 6 cases (4.9%) of focal segmental glomerulosclerosis, and 3 cases (2.3%) of membranoproliferative glomerulonephritis. ∗∗Others include 30 cases of unknown etiology without a renal biopsy; 13 cases of anti-neutrophil cytoplasmic antibody-associated vasculitis; 3 cases of polycystic kidney disease, obesity-related glomerulopathy, and solitary kidney; 2 cases of Alport syndrome and vesicoureteral reflux; and 1 case of chronic tubulointerstitial nephritis, cholesterol crystal embolization, light and heavy chain deposition disease, fibrillary glomerulonephritis, crescentic glomerulonephritis with IgA deposit, endocapillary proliferative glomerulonephritis, preeclamptic nephropathy, chronic pyelonephritis, and functional solitary kidney.
+29850501_29976	34	37	ARB	Drug-class
+29850501_29976	39	50	angiotensin	Gene-protein	not found
+29850501_29976	39	66	angiotensin receptor blocke	Drug-class
+29850501_29976	69	73	ACEI	Gene-protein
+29850501_29976	75	86	angiotensin	Gene-protein
+29850501_29976	75	114	angiotensin-converting enzyme inhibitor	Drug-class
+29850501_29976	116	119	CCB	Drug-class
+29850501_29976	121	136	calcium channel	Genefamily	family:182
+29850501_29976	121	144	calcium channel blocker	Drug-class
+29850501_29976	146	149	CKD	Disease	DOID:784
+29850501_29976	151	173	chronic kidney disease	Disease	DOID:784
+29850501_29976	175	179	eGFR	Biomarker
+29850501_29976	181	217	estimated glomerular filtration rate	Biomarker
+29850501_29976	219	222	LDL	Chemical
+29850501_29976	224	247	low-density lipoprotein	Chemical
+29850501_29976	288	295	albumin	Gene-protein	HGNC:399
+29850501_29976	307	313	uα1-MG	Gene-protein	HGNC:453
+29850501_29976	315	339	urinary α1-microglobulin	Gene-protein	HGNC:453
+29850501_29976	341	347	uβ2-MG	Gene-protein	HGNC:914
+29850501_29976	349	373	urinary β2-microglobulin	Gene-protein	HGNC:914
+29850501_29976	375	379	uNAG	Gene-protein	HGNC:7632
+29850501_29976	381	417	urinary N-acetyl-β-D-glucosaminidase	Gene-protein	HGNC:7632
+29850501_29976	389	397	N-acetyl	Chemical
+29850501_29976	423	427	uTFF	Genefamily	not found
+29850501_29976	429	451	urinary trefoil factor	Genefamily	not found
+29850501_29976	454	480	Chronic glomerulonephritis	Disease	not found
+29850501_29976	510	513	IgA	Gene-protein	not found
+29850501_29976	510	525	IgA nephropathy	Disease	DOID:2986
+29850501_29976	547	574	non-IgA mesangial nephritis	Disease	not found
+29850501_29976	551	554	IgA	Gene-protein
+29850501_29976	596	611	lupus nephritis	Disease	DOID:0080162
+29850501_29976	633	655	membranous nephropathy	Disease	DOID:10976
+29850501_29976	675	678	IgA	Gene-protein
+29850501_29976	675	704	IgA vasculitis with nephritis	Disease	DOID:11123,DOID:10952
+29850501_29976	724	758	focal segmental glomerulosclerosis	Disease	DOID:1312
+29850501_29976	782	822	membranoproliferative glomerulonephritis	Disease	DOID:2920
+29850501_29976	906	964	anti-neutrophil cytoplasmic antibody-associated vasculitis	Disease	D056648
+29850501_29976	934	942	antibody	Gene-protein	not found
+29850501_29976	977	1002	polycystic kidney disease	Disease	DOID:0080322
+29850501_29976	1004	1034	obesity-related glomerulopathy	Disease	not found
+29850501_29976	1040	1055	solitary kidney	Disease	D000075529
+29850501_29976	1068	1083	Alport syndrome	Disease	DOID:10983
+29850501_29976	1088	1109	vesicoureteral reflux	Disease	DOID:9620
+29850501_29976	1125	1161	chronic tubulointerstitial nephritis	Disease	not found
+29850501_29976	1163	1174	cholesterol	Chemical
+29850501_29976	1163	1195	cholesterol crystal embolization	Disease	DOID:1461
+29850501_29976	1197	1237	light and heavy chain deposition disease	Disease	not found
+29850501_29976	1239	1268	fibrillary glomerulonephritis	Disease	not found
+29850501_29976	1270	1299	crescentic glomerulonephritis	Disease	DOID:13139
+29850501_29976	1305	1308	IgA	Gene-protein
+29850501_29976	1318	1364	endocapillary proliferative glomerulonephritis	Disease	not found
+29850501_29976	1366	1390	preeclamptic nephropathy	Disease	not found
+29850501_29976	1392	1414	chronic pyelonephritis	Disease	DOID:1076
+29850501_29976	1420	1446	functional solitary kidney	Disease	not found
+

@@ -1,0 +1,56 @@
+T2	GeneFamily 105 114	cytokines
+T3	GeneFamily 115 125	chemokines
+T4	GeneFamily 294 303	cytokines
+T5	Gene-Protein 305 324	interleukin (IL)‐1β
+T6	Gene-Protein 326 330	IL‐6
+T7	Gene-Protein 332 361	tumor necrosis factor (TNF)‐α
+T8	Gene-Protein 367 371	IL‐7
+T9	GeneFamily 373 417	type 1 helper T cell (Th1)‐related cytokines
+T10	Gene-Protein 419 423	IL‐2
+T11	Gene-Protein 432 435	p70
+T12	Gene-Protein 425 430	IL‐12
+T13	Gene-Protein 438 443	IL‐15
+T14	Gene-Protein 449 467	interferon (IFN)‐γ
+T15	GeneFamily 469 513	type 2 helper T cell (Th2)‐related cytokines
+T16	Gene-Protein 515 519	IL‐4
+T17	Gene-Protein 521 525	IL‐5
+T18	Gene-Protein 527 531	IL‐9
+T19	Gene-Protein 533 538	IL‐10
+T20	Gene-Protein 544 549	IL‐13
+T21	GeneFamily 551 596	type 17 helper T cell (Th17)‐related cytokine
+T22	GeneFamily 605 647	follicular helper T (Tfh)‐related cytokine
+T23	Gene-Protein 598 603	IL‐17
+T24	Gene-Protein 649 654	IL‐21
+T25	GeneFamily 656 666	chemokines
+T26	Gene-Protein 668 694	C‐X‐C motif ligand (CXCL)8
+T27	Gene-Protein 695 699	IL‐8
+T28	Gene-Protein 701 706	CCL11
+T29	Gene-Protein 707 714	eotaxin
+T30	Gene-Protein 716 722	CXCL10
+T32	Gene-Protein 723 765	interferon gamma‐inducible protein (IP)‐10
+T31	Gene-Protein 767 771	CCL2
+T33	Gene-Protein 772 813	monocyte chemoattractant protein (MCP)‐1,
+T34	Gene-Protein 814 818	CCL3
+T35	Gene-Protein 819 859	macrophage inflammatory protein (MIP)‐1α
+T36	Gene-Protein 861 865	CCL4
+T37	Gene-Protein 866 872	MIP‐1β
+T38	Gene-Protein 878 882	CCL5
+T39	Gene-Protein 948 954	RANTES
+T40	Gene-Protein 883 946	regulated upon activation, normal T cell expressed and secreted
+T41	Gene-Protein 1012 1017	G‐CSF
+T42	Gene-Protein 973 1009	granulocyte colony‐stimulating facto
+T43	Gene-Protein 1020 1068	granulocyte‐macrophage colony‐stimulating factor
+T44	Gene-Protein 1070 1076	GM‐CSF
+T45	Gene-Protein 1079 1119	platelet‐derived growth factor (PDGF)‐BB
+T46	Gene-Protein 1153 1157	bFGF
+T47	Gene-Protein 1121 1151	basic fibroblast growth factor
+T1	GeneFamily 1164 1198	vascular endothelial growth factor
+T48	GeneFamily 1200 1204	VEGF
+T49	GeneFamily 1211 1237	anti‐inflammatory cytokine
+T50	Gene-Protein 1239 1263	IL‐1 receptor antagonist
+T51	Gene-Protein 1265 1271	IL‐1ra
+T52	GeneFamily 1287 1295	cytokine
+T53	GeneFamily 1601 1609	Cytokine
+T54	GeneFamily 1610 1619	chemokine
+T55	GeneFamily 2121 2129	cytokine
+T56	GeneFamily 2130 2139	chemokine

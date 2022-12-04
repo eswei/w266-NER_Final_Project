@@ -1,0 +1,99 @@
+T1	Disease 64 69	tumor
+#1	AnnotatorNotes T1	DOID:162
+T10	Biomarker 836 861	SYNE1 and STK36 mutations
+T11	Disease 877 880	GBM
+#2	AnnotatorNotes T11	DOID:3068
+T12	Variant 936 953	c.4732_4734delGTG
+T14	Disease 1124 1127	GBM
+T15	Biomarker 1136 1155	Mutations in NOTCH1
+T17	Biomarker 1248 1288	Frameshift-deletion in exon 26 of NOTCH1
+T19	Disease 1528 1546	mental retardation
+#6	AnnotatorNotes T19	D008607
+T2	GeneFamily 96 101	NOTCH
+T20	Disease 1551 1563	microcephaly
+#8	AnnotatorNotes T20	DOID:10907
+T21	Biomarker 1591 1625	alteration in chromatin remodeling
+T22	Disease 1649 1652	CPP
+T23	Disease 1701 1721	choroid plexus tumor
+#10	AnnotatorNotes T23	DOID:3540
+T24	Disease 1796 1801	tumor
+T25	Variant 1929 1937	c.967C>T
+T26	Variant 1938 1952	p. (His323Tyr)
+T27	Disease 2180 2190	GBM tumors
+T28	Biomarker 2192 2197	GATA2
+T29	Disease 2252 2278	hematopoietic malignancies
+#13	AnnotatorNotes T29	DOID:2531
+T3	Variant 271 286	c.1056_1057insG
+T4	Variant 291 306	c.1056_1057insA
+T5	Variant 441 458	c.21904_21905insG
+T6	Biomarker 635 661	Mutations in SYNE1 (ARCA1)
+T7	Disease 686 730	autosomal recessive cerebellar ataxia type-1
+#14	AnnotatorNotes T7	DOID:0111618
+T8	Disease 757 760	CPP
+T9	Biomarker 791 797	ataxia
+#16	AnnotatorNotes T9	D001259
+T30	Biomarker 96 119	NOTCH signaling pathway
+#3	AnnotatorNotes T2	family:1689
+R1	Association Arg1:T30 Arg2:T1	
+T31	Gene-Protein 259 264	PARP1
+#5	AnnotatorNotes T31	HGNC:270
+T32	Collection 271 306	c.1056_1057insG and c.1056_1057insA
+R2	Variant-Of Arg1:T31 Arg2:T32	
+T33	GeneFamily 580 584	PARP
+#7	AnnotatorNotes T33	family:684
+T34	Gene-Protein 648 653	SYNE1
+#9	AnnotatorNotes T34	HGNC:17089
+T35	Gene-Protein 655 660	ARCA1
+#15	AnnotatorNotes T35	HGNC:17089
+R3	Association Arg1:T6 Arg2:T7	
+#17	AnnotatorNotes T8	DOID:2626
+R4	Association Arg1:T9 Arg2:T8	
+T36	Gene-Protein 836 841	SYNE1
+T37	Gene-Protein 846 851	STK36
+#18	AnnotatorNotes T37	HGNC:17209
+R5	Association Arg1:T10 Arg2:T11	
+T38	Gene-Protein 928 934	NOTCH1
+#19	AnnotatorNotes T38	HGNC:7881
+T13	Variant 954 972	p. (Val1578delVal)
+#20	AnnotatorNotes T13	p.Val1578delVal
+T39	Collection 936 972	c.4732_4734delGTG p. (Val1578delVal)
+R6	Variant-Of Arg1:T38 Arg2:T39	
+T40	Gene-Protein 1149 1155	NOTCH1
+T41	Drug-Class 1213 1239	tyrosine kinase inhibitors
+T42	Gene-Protein 1282 1288	NOTCH1
+T43	Gene-Protein 1377 1382	KDM5C
+#4	AnnotatorNotes T43	HGNC:11114
+T44	Gene-Protein 1399 1437	Jumonji. AT-rich interactive domain 1c
+#21	AnnotatorNotes T44	HGNC:11114
+T45	Gene-Protein 1439 1446	JARID1C
+#22	AnnotatorNotes T45	HGNC:11114
+T18	Biomarker 1439 1446	JARID1C
+#23	AnnotatorNotes T18	C086877
+T46	GeneFamily 1460 1479	histone demethylase
+#24	AnnotatorNotes T46	family:485
+T47	Collection 1528 1563	mental retardation and microcephaly
+R7	Association Arg1:T18 Arg2:T47	
+R8	Association Arg1:T21 Arg2:T22	
+T48	Biomarker 1811 1901	mutations in enzymes responsible for chromatin remodeling, including PARP, SMARCA4 and ATM
+R9	Association Arg1:T48 Arg2:T23	
+T49	GeneFamily 1880 1884	PARP
+T50	Gene-Protein 1886 1893	SMARCA4
+#11	AnnotatorNotes T50	HGNC:11100
+T51	Gene-Protein 1898 1901	ATM
+#25	AnnotatorNotes T51	HGNC:795
+T52	Gene-Protein 1917 1922	GATA2
+#26	AnnotatorNotes T52	HGNC:4171
+T53	Collection 1929 1952	c.967C>T p. (His323Tyr)
+#27	AnnotatorNotes T26	P.His323Tyr
+R10	Variant-Of Arg1:T52 Arg2:T53	
+T54	Gene-Protein 2119 2124	GATA2
+T55	Biomarker 2085 2124	missense mutation detected in the GATA2
+#12	AnnotatorNotes T27	DOID:3068
+T16	Gene-Protein 2192 2197	GATA2
+R11	Association Arg1:T28 Arg2:T57	
+#28	AnnotatorNotes T28	C494711
+T56	Disease 2333 2355	prostate tumorigenesis
+#29	AnnotatorNotes T56	DOID:10283
+T57	Collection 2252 2355	hematopoietic malignancies, and this transcription factor has been implicated in prostate tumorigenesis
+T58	Gene-Protein 463 468	PARP1
+R12	Variant-Of Arg1:T58 Arg2:T5	

@@ -1,0 +1,53 @@
+31789418_3385|t|RSS_IDENT_p_31789418_b_1_1_4
+31789418_3385|a| Homoharringtonine (HHT), a plant alkaloid with antitumor properties, was originally identified nearly 40 years ago ( 15 ), and has been revealed to play an important role in the treatment of CML, both before and after the clinical use of TKIs ( 16 , 17 ). In 2010, the use of HHT for relapsed/refractory CML was approved by the FDA ( 18 ). HHT is an alternative treatment for patients with CML who exhibit resistance or intolerance to TKIs. The drug involves a distinct mechanism and may be able to inhibit leukemic stem cells, which play a key role in the progression of CML ( 19 ). There are different theories regarding the mechanisms of HHT. First, it is widely considered that HHT exerts a role in the treatment of leukemia. This is mainly achieved by inhibiting the synthesis of proteins associated with cell apoptosis and cell survival, such as Mcl-1, XIAP, and Myc ( 20 – 22 ). Recently, it was reported that HHT is involved in other mechanisms. For example, it can regulate alternative splicing of Bcl-x and caspase-9 and regulate Smad3 protein tyrosine kinase phosphorylation ( 23 , 24 ). Therefore, understanding the mechanism of HHT is very complex and has not been fully elucidated yet. In particular, it is unclear as to how HHT regulates the oncoprotein BCR-ABL. Although it has been reported that HHT could downregulate the BCR-ABL protein by inhibiting protein synthesis ( 25 ), it is speculated that there may be more specific mechanisms involved. In the present study, it was reported that HHT promoted oncoprotein BCR-ABL degradation and cell apoptosis in the imatinib-resistant CML K562G cell line, and the p62-mediated autophagy-lysosome pathway was involved in BCR-ABL protein degradation induced by HHT. Depletion of p62 or inhibition of autophagy not only reversed HHT-induced BCR-ABL protein degradation, but also affected cytotoxicity of HHT on CML cells. 
+31789418_3385	30	47	Homoharringtonine	Drug	CHEMBL46286
+31789418_3385	49	52	HHT	Drug	CHEMBL46286
+31789418_3385	221	224	CML	Disease	DOID:8552
+31789418_3385	268	272	TKIs	Drug-class
+31789418_3385	306	309	HHT	Drug
+31789418_3385	334	337	CML	Disease
+31789418_3385	370	373	HHT	Drug
+31789418_3385	420	423	CML	Disease
+31789418_3385	465	469	TKIs	Drug-class
+31789418_3385	537	545	leukemic	Disease	DOID:12972
+31789418_3385	602	605	CML	Disease
+31789418_3385	671	674	HHT	Drug
+31789418_3385	712	715	HHT	Drug
+31789418_3385	750	758	leukemia	Disease	DOID:1240
+31789418_3385	882	887	Mcl-1	Gene-protein	HGNC:6943
+31789418_3385	889	893	XIAP	Gene-protein	HGNC:592
+31789418_3385	899	902	Myc	Gene-protein	HGNC:7553
+31789418_3385	947	950	HHT	Drug
+31789418_3385	1037	1042	Bcl-x	Gene-protein	HGNC:992
+31789418_3385	1047	1056	caspase-9	Gene-protein	HGNC:1511
+31789418_3385	1070	1075	Smad3	Gene-protein	HGNC:6769
+31789418_3385	1084	1092	tyrosine	Chemical
+31789418_3385	1171	1174	HHT	Drug
+31789418_3385	1269	1272	HHT	Drug
+31789418_3385	1299	1302	BCR	Gene-protein	HGNC:1014
+31789418_3385	1299	1306	BCR-ABL	Variant
+31789418_3385	1303	1306	ABL	Genefamily	family:1463
+31789418_3385	1343	1346	HHT	Drug
+31789418_3385	1370	1373	BCR	Gene-protein
+31789418_3385	1370	1377	BCR-ABL	Variant
+31789418_3385	1374	1377	ABL	Genefamily
+31789418_3385	1539	1542	HHT	Drug
+31789418_3385	1564	1567	BCR	Gene-protein
+31789418_3385	1564	1571	BCR-ABL	Variant
+31789418_3385	1568	1571	ABL	Genefamily
+31789418_3385	1610	1618	imatinib	Drug	CHEMBL941
+31789418_3385	1610	1632	imatinib-resistant CML	Disease	not found
+31789418_3385	1633	1638	K562G	Variant	p.Lys562Gly
+31789418_3385	1658	1661	p62	Gene-protein	HGNC:11280
+31789418_3385	1714	1717	BCR	Gene-protein
+31789418_3385	1714	1721	BCR-ABL	Variant
+31789418_3385	1718	1721	ABL	Genefamily
+31789418_3385	1753	1756	HHT	Drug
+31789418_3385	1771	1774	p62	Gene-protein
+31789418_3385	1820	1823	HHT	Drug
+31789418_3385	1832	1835	BCR	Gene-protein
+31789418_3385	1832	1839	BCR-ABL	Variant
+31789418_3385	1836	1839	ABL	Genefamily
+31789418_3385	1895	1898	HHT	Drug
+31789418_3385	1902	1905	CML	Disease
+

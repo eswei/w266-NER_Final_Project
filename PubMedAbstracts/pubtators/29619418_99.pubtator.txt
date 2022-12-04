@@ -1,0 +1,79 @@
+29619418_99|t|RSS_IDENT_p_29619418_a_1_1
+29619418_99|a| C‐type regenerating islet derived‐3 (Reg3) lectins defend against pathogens and keep commensal bacteria at a distance. Deficiency of Reg3g and Reg3b facilitates alcohol‐induced bacterial translocation and alcoholic liver disease. Intestinal Reg3g is down‐regulated in animal models of diet‐induced obesity, but the functional consequences for nonalcoholic steatohepatitis (NASH) are unknown. The aim of this study was to investigate the role of Reg3 lectins in NASH. NASH was induced by a Western‐style fast‐food diet in mice deficient for Reg3g or Reg3b and in transgenic mice overexpressing Reg3g in intestinal epithelial cells (Reg3gTg). Glucose tolerance was assessed after 18 weeks and insulin resistance after 19 weeks of feeding. After 20 weeks, mice were assessed for features of the metabolic syndrome. Obesity was not different in genetically modified mice compared with their respective wild‐type littermates. Glucose intolerance, liver injury, hepatic inflammation, steatosis, fibrosis, and bacterial translocation to mesenteric lymph nodes and to the liver were not different in Reg3g‐deficient mice compared with wild‐type littermates. Plasma endotoxin levels were higher in Reg3g‐deficient mice. Reg3b deficiency protected against glucose intolerance, but liver disease, bacterial translocation, and plasma endotoxin levels were similar to wild‐type littermates. Absence of either REG3G or REG3B protein in the ileum was not compensated for by up‐regulation of the respective other REG3 protein. Transgenic Reg3g mice also developed liver injury, steatosis, and fibrosis similar to their wild‐type littermates. Conclusion: In contrast to alcoholic liver disease, loss of intestinal Reg3 lectins is not sufficient to aggravate diet‐induced obesity and NASH. This supports a multi‐hit pathogenesis in NASH. Only glucose metabolism is affected by Reg3b deficiency. (Hepatology Communications 2018;2:393‐406) Abbreviations AST aspartate aminotransferase Ctrl control chow FFD Western style fast food diet GTT glucose tolerance test IL interleukin ITT insulin tolerance test LPS lipopolysaccharide MLN mesenteric lymph nodes NAFLD nonalcoholic fatty liver disease NASH nonalcoholic steatohepatitis Reg3b regenerating islet‐derived protein 3 beta Reg3g regenerating islet‐derived protein 3 gamma Tg transgenic TGFβ transforming growth factor β TLR‐4 toll‐like receptor 4 TNF‐α tumor necrosis factor α WT wild type
+29619418_99	28	78	C‐type regenerating islet derived‐3 (Reg3) lectins	Genefamily	not found
+29619418_99	147	176	Deficiency of Reg3g and Reg3b	Drug	not found
+29619418_99	161	166	Reg3g	Gene-protein
+29619418_99	171	176	Reg3b	Gene-protein
+29619418_99	189	196	alcohol	Chemical
+29619418_99	233	256	alcoholic liver disease	Disease	DOID:12351
+29619418_99	258	292	Intestinal Reg3g is down‐regulated	Biomarker
+29619418_99	269	274	Reg3g	Gene-protein
+29619418_99	313	333	diet‐induced obesity	Disease	not found
+29619418_99	371	399	nonalcoholic steatohepatitis	Disease	DOID:0080547
+29619418_99	401	405	NASH	Disease	DOID:0080547
+29619418_99	473	485	Reg3 lectins	Genefamily
+29619418_99	473	485	Reg3 lectins	Biomarker
+29619418_99	489	493	NASH	Disease
+29619418_99	495	499	NASH	Disease
+29619418_99	568	573	Reg3g	Gene-protein
+29619418_99	577	582	Reg3b	Gene-protein
+29619418_99	621	626	Reg3g	Gene-protein
+29619418_99	669	676	Glucose	Chemical
+29619418_99	719	726	insulin	Gene-protein
+29619418_99	719	737	insulin resistance	Disease	D007333
+29619418_99	820	838	metabolic syndrome	Disease	D024821
+29619418_99	840	847	Obesity	Disease	DOID:9970
+29619418_99	949	956	Glucose	Chemical
+29619418_99	949	968	Glucose intolerance	Disease	DOID:10603
+29619418_99	970	982	liver injury	Disease	not found
+29619418_99	984	1004	hepatic inflammation	Disease	not found
+29619418_99	1006	1015	steatosis	Disease	DOID:9452
+29619418_99	1017	1025	fibrosis	Disease	D005355
+29619418_99	1120	1125	Reg3g	Gene-protein
+29619418_99	1178	1213	Plasma endotoxin levels were higher	Biomarker
+29619418_99	1217	1222	Reg3g	Gene-protein
+29619418_99	1239	1244	Reg3b	Gene-protein
+29619418_99	1239	1255	Reg3b deficiency	Drug	not found
+29619418_99	1274	1281	glucose	Chemical
+29619418_99	1274	1293	glucose intolerance	Disease
+29619418_99	1299	1312	liver disease	Disease	DOID:409
+29619418_99	1343	1366	plasma endotoxin levels	Biomarker
+29619418_99	1424	1429	REG3G	Gene-protein
+29619418_99	1433	1438	REG3B	Gene-protein
+29619418_99	1525	1529	REG3	Genefamily
+29619418_99	1550	1555	Reg3g	Gene-protein
+29619418_99	1576	1588	liver injury	Disease
+29619418_99	1590	1599	steatosis	Disease
+29619418_99	1605	1613	fibrosis	Disease
+29619418_99	1681	1704	alcoholic liver disease	Disease
+29619418_99	1706	1737	loss of intestinal Reg3 lectins	Biomarker
+29619418_99	1725	1737	Reg3 lectins	Genefamily
+29619418_99	1769	1789	diet‐induced obesity	Disease
+29619418_99	1794	1798	NASH	Disease
+29619418_99	1842	1846	NASH	Disease
+29619418_99	1853	1860	glucose	Chemical
+29619418_99	1887	1892	Reg3b	Gene-protein
+29619418_99	1962	1965	AST	Genefamily	not found
+29619418_99	1966	1975	aspartate	Chemical
+29619418_99	1966	1992	aspartate aminotransferase	Genefamily	not found
+29619418_99	2048	2055	glucose	Chemical
+29619418_99	2071	2073	IL	Genefamily	family:601
+29619418_99	2074	2085	interleukin	Genefamily	family:601
+29619418_99	2090	2097	insulin	Gene-protein	HGNC:6081
+29619418_99	2113	2116	LPS	Chemical
+29619418_99	2117	2135	lipopolysaccharide	Chemical
+29619418_99	2163	2168	NAFLD	Disease	DOID:0080208
+29619418_99	2169	2201	nonalcoholic fatty liver disease	Disease	DOID:0080208
+29619418_99	2202	2206	NASH	Disease
+29619418_99	2207	2235	nonalcoholic steatohepatitis	Disease
+29619418_99	2236	2241	Reg3b	Gene-protein	not found
+29619418_99	2242	2283	regenerating islet‐derived protein 3 beta	Gene-protein	not found
+29619418_99	2284	2289	Reg3g	Gene-protein	HGNC:29595
+29619418_99	2290	2332	regenerating islet‐derived protein 3 gamma	Gene-protein	HGNC:29595
+29619418_99	2347	2351	TGFβ	Genefamily	family:1664
+29619418_99	2352	2380	transforming growth factor β	Genefamily	family:1664
+29619418_99	2381	2386	TLR‐4	Gene-protein	HGNC:11850
+29619418_99	2387	2407	toll‐like receptor 4	Gene-protein	HGNC:11850
+29619418_99	2408	2413	TNF‐α	Gene-protein	HGNC:11892
+29619418_99	2414	2437	tumor necrosis factor α	Gene-protein	HGNC:11892
+

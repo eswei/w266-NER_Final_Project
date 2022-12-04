@@ -1,0 +1,75 @@
+T0	Disease 92 97	tumor
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 210 217	cancers
+#2	AnnotatorNotes T1	DOID:162
+T11	Disease 444 470	non-small cell lung cancer
+#4	AnnotatorNotes T11	DOID:3908
+T13	Disease 480 495	prostate cancer
+T15	Disease 545 560	prostate cancer
+T16	Disease 577 590	breast cancer
+T18	Disease 635 650	prostate cancer
+T19	Disease 660 673	breast cancer
+T21	Disease 783 796	breast cancer
+T22	Disease 843 861	thyroid carcinomas
+#12	AnnotatorNotes T22	DOID:1781
+T24	Disease 920 923	HCC
+T3	Disease 260 275	prostate cancer
+#17	AnnotatorNotes T3	DOID:10283
+T33	Disease 1571 1582	malignances
+#20	AnnotatorNotes T33	DOID:162
+T4	Disease 283 296	breast cancer
+#21	AnnotatorNotes T4	DOID:1612
+T5	Disease 304 315	lung cancer
+#22	AnnotatorNotes T5	DOID:1324
+T6	Disease 320 337	colorectal cancer
+#23	AnnotatorNotes T6	DOID:9256
+T9	Disease 406 436	tongue squamous cell carcinoma
+#25	AnnotatorNotes T9	DOID:0050865
+T2	Gene-Protein 135 138	HP1
+#13	AnnotatorNotes T2	HGNC:1555
+T7	Gene-Protein 242 246	CBX3
+#15	AnnotatorNotes T7	HGNC:1553
+T14	Collection 260 337	prostate cancer [14] , breast cancer [15] , lung cancer and colorectal cancer
+T8	Biomarker 219 246	Elevated expression of CBX3
+R1	Association Arg1:T8 Arg2:T14	
+T10	Gene-Protein 363 367	CBX3
+T12	Gene-Protein 513 517	CBX5
+#3	AnnotatorNotes T12	HGNC:1555
+T17	Collection 545 590	prostate cancer [19] , [20] and breast cancer
+T20	Biomarker 503 528	Increased CBX5 expression
+R2	Association Arg1:T20 Arg2:T17	
+T23	Gene-Protein 611 615	CBX1
+#5	AnnotatorNotes T23	 HGNC:1551
+T25	Collection 635 673	prostate cancer [21] and breast cancer
+T28	Biomarker 611 631	CBX1 was upregulated
+T32	Biomarker 681 715	High expression of CBX1 transcript
+R3	Association Arg1:T28 Arg2:T25	
+R4	Prognostic-Poor Arg1:T32 Arg2:T21	
+T34	Gene-Protein 823 827	CBX1
+T35	Biomarker 823 839	CBX1 was reduced
+T36	Gene-Protein 891 895	CBX1
+T37	Biomarker 891 916	CBX1 was markedly induced
+R6	Association Arg1:T37 Arg2:T24	
+T38	Gene-Protein 952 956	CBX1
+T39	Gene-Protein 1475 1478	HP1
+T40	Gene-Protein 1389 1393	CBX1
+T41	Gene-Protein 1140 1144	CBX1
+T42	Biomarker 1475 1487	HP1 proteins
+T43	Biomarker 947 983	high CBX1 mRNA or protein expression
+R5	Association Arg1:T42 Arg2:T33	
+T44	Biomarker 1389 1406	CBX1 expression a
+T45	Biomarker 1135 1155	high CBX1 expression
+R7	Association Arg1:T44 Arg2:T33	
+R8	Prognostic-Poor Arg1:T45 Arg2:T24	
+R9	Prognostic-Poor Arg1:T43 Arg2:T24	
+#6	AnnotatorNotes T24	DOID:684
+T26	Biomarker 118 147	dysregulation of HP1 proteins
+T27	Gene-Protein 700 704	CBX1
+R10	Association Arg1:T26 Arg2:T1	
+T29	Biomarker 345 367	Overexpression of CBX3
+T30	Collection 406 495	tongue squamous cell carcinoma [17] , non-small cell lung cancer [18] and prostate cancer
+R11	Prognostic-Poor Arg1:T29 Arg2:T30	
+R12	Association Arg1:T35 Arg2:T22	
+T31	Biomarker 1184 1201	larger tumor size
+T46	Biomarker 1234 1257	tumor vascular invasion
+T47	Biomarker 1203 1229	poor tumor differentiation

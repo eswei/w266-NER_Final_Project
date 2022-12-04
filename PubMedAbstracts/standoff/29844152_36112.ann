@@ -1,0 +1,73 @@
+T1	Biomarker 70 84	BH4 deficiency
+T10	Chemical 474 477	BH4
+T11	Biomarker 474 488	BH4 deficiency
+T12	Disease 664 667	AAA
+T13	Chemical 760 764	H₂O₂
+T15	Chemical 786 790	H₂O₂
+T16	Disease 842 845	AAA
+T17	Disease 873 876	AAA
+T18	Chemical 914 919	CaCl₂
+T19	Drug 948 952	H₂O₂
+T2	Disease 88 91	AAA
+T20	Disease 1146 1149	AAA
+T21	Drug 1172 1200	polyethylene glycol catalase
+T22	Disease 1284 1287	AAA
+T24	Chemical 1404 1414	superoxide
+T25	Disease 1475 1478	AAA
+T27	Chemical 1570 1574	H₂O₂
+T28	Disease 1639 1642	AAA
+T3	Biomarker 167 190	systemic BH4 deficiency
+T4	Chemical 176 179	BH4
+T7	Disease 332 335	AAA
+T8	Chemical 387 390	BH4
+T9	Biomarker 387 401	BH4 deficiency
+T6	Biomarker 50 65	eNOS uncoupling
+T14	Gene-Protein 50 54	eNOS
+#1	AnnotatorNotes T2	DOID:7693
+T23	Collection 50 84	eNOS uncoupling and BH4 deficiency
+R1	Association Arg1:T23 Arg2:T2	
+T5	Gene-Protein 224 228	Gch1
+T26	Drug 265 271	Ang II
+#2	AnnotatorNotes T26	CHEMBL3596085
+R2	Causes Arg1:T26 Arg2:T7	
+T29	Biomarker 302 327	increased eNOS uncoupling
+T30	Chemical 70 73	BH4
+T31	Drug 567 573	Ang II
+R3	Causes Arg1:T31 Arg2:T12	
+T32	Biomarker 710 725	eNOS uncoupling
+T33	Gene-Protein 710 714	eNOS
+T34	Biomarker 730 775	increased aortic eNOS-derived H₂O₂ generation
+T35	Gene-Protein 747 751	eNOS
+T36	Biomarker 777 790	Vascular H₂O₂
+R4	Association Arg1:T36 Arg2:T16	
+T37	Drug 892 898	Ang II
+T38	GeneFamily 900 908	elastase
+T39	Gene-Protein 982 987	MMP-3
+T40	Gene-Protein 989 1015	matrix metalloproteinase-3
+T41	Gene-Protein 1018 1023	MMP-9
+T42	Gene-Protein 1029 1035	MMP-12
+#3	AnnotatorNotes T19	CHEMBL71595
+R5	Causes Arg1:T19 Arg2:T20	
+T43	Gene-Protein 1192 1200	catalase
+#4	AnnotatorNotes T21	not found
+T44	Drug 1204 1230	overexpression of catalase
+#5	AnnotatorNotes T44	not found
+T45	Gene-Protein 1222 1230	catalase
+T46	Collection 1172 1230	polyethylene glycol catalase or overexpression of catalase
+R6	Response Arg1:T46 Arg2:T22	
+T47	GeneFamily 1330 1333	MMP
+T48	Biomarker 1319 1342	decreasing MMP activity
+T49	Biomarker 1377 1438	increased endothelial cell superoxide by Nox-2 overexpression
+R7	Risk-Factor Arg1:T49 Arg2:T25	
+T50	Biomarker 1543 1612	increased endothelial cell H₂O₂ production because of eNOS uncoupling
+T51	Gene-Protein 1597 1601	eNOS
+R8	Association Arg1:T50 Arg2:T28	
+T52	Disease 133 138	hph-1
+#6	AnnotatorNotes T52	not found
+T53	Disease 241 246	Hph-1
+T54	Biomarker 204 239	global reduction in Gch1 expression
+T55	Collection 167 239	systemic BH4 deficiency because of a global reduction in Gch1 expression
+R9	Association Arg1:T55 Arg2:T52	
+T56	Disease 362 367	hph-1
+R10	Association Arg1:T9 Arg2:T56	
+#7	AnnotatorNotes T53	not found

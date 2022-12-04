@@ -1,0 +1,51 @@
+31275061_4625|t|RSS_IDENT_p_31275061_b_1_1_3
+31275061_4625|a| A secretary protein, TIMP-2, is located at 17q25, which inhibits the proteolytic activity of matrix metalloproteinase 2 (MMP-2) [ 19 ]. The genetic variations of MMP-2 and TIMP-2 are linked to low transcriptional activity and with the risk of several diseases [ 20 – 23 ]. TIMP-2 (-418G/C, 303G/A) polymorphisms are located in the promoter region and known to have an influence on the transcriptional activity and occurrence of the tumor [ 20 , 24 , 25 ]. Genetic variation of TIMP-2 is also associated with the risk of the malignant tumor and cancer [ 23 , 26 ]. TIMP-2 (-418G/C, 303G/A) polymorphisms and haplotype CGC were associated with the risk of gastric cancer and abdominal aortic aneurysm (AAA) [ 27 , 28 ]. The GT (TIMP-2 -418∗G/303∗T) haplotype was associated with an increased risk of prostate cancer (OR = 1.78; 95% CI: 1.18-2.69, P = 0.006, Pc = 0.024) [ 29 ]. TIMP-2 -418GC genotype showed a protective effect against prostate cancer (32.6% vs. 14.8%, P = 0.037, OR = 0.346) [ 30 ]. Although no association of TIMP-2 gene polymorphisms with the increased risk of prostate cancer, cervical cancer, myocardial infarction (MI) or coronary artery disease (CAD), and relapsing-remitting multiple sclerosis (RRMS) was reported [ 29 , 31 – 33 ]. However, genetic variation of TIMP-2 (-418G/C, 303G/A) gene in patients with and without HAND is still unknown. Hence, the present study is projected to evaluate the genetic variants of TIMP-2 (-418G/C and 303G/A) gene with the risk of HAND from Western India. 
+31275061_4625	51	57	TIMP-2	Gene-protein	HGNC:11821
+31275061_4625	123	149	matrix metalloproteinase 2	Gene-protein	HGNC:7166
+31275061_4625	151	156	MMP-2	Gene-protein	HGNC:7166
+31275061_4625	170	188	genetic variations	Variant
+31275061_4625	192	197	MMP-2	Gene-protein
+31275061_4625	192	208	MMP-2 and TIMP-2	Collection
+31275061_4625	202	208	TIMP-2	Gene-protein
+31275061_4625	303	309	TIMP-2	Gene-protein
+31275061_4625	303	341	TIMP-2 (-418G/C, 303G/A) polymorphisms	Biomarker
+31275061_4625	462	467	tumor	Disease	DOID:162
+31275061_4625	486	513	Genetic variation of TIMP-2	Biomarker
+31275061_4625	507	513	TIMP-2	Gene-protein
+31275061_4625	554	569	malignant tumor	Disease	DOID:162
+31275061_4625	554	580	malignant tumor and cancer	Collection
+31275061_4625	574	580	cancer	Disease	DOID:162
+31275061_4625	594	632	TIMP-2 (-418G/C, 303G/A) polymorphisms	Biomarker
+31275061_4625	594	650	TIMP-2 (-418G/C, 303G/A) polymorphisms and haplotype CGC	Collection
+31275061_4625	637	650	haplotype CGC	Biomarker
+31275061_4625	684	698	gastric cancer	Disease	DOID:10534
+31275061_4625	684	728	gastric cancer and abdominal aortic aneurysm	Collection
+31275061_4625	703	728	abdominal aortic aneurysm	Disease	DOID:7693
+31275061_4625	730	733	AAA	Disease	DOID:7693
+31275061_4625	748	786	The GT (TIMP-2 -418∗G/303∗T) haplotype	Biomarker
+31275061_4625	756	762	TIMP-2	Gene-protein
+31275061_4625	828	843	prostate cancer	Disease	DOID:10283
+31275061_4625	906	912	TIMP-2	Gene-protein
+31275061_4625	906	928	TIMP-2 -418GC genotype	Drug	not found
+31275061_4625	964	979	prostate cancer	Disease
+31275061_4625	1056	1062	TIMP-2	Gene-protein
+31275061_4625	1056	1081	TIMP-2 gene polymorphisms	Biomarker
+31275061_4625	1109	1124	prostate cancer	Disease
+31275061_4625	1126	1141	cervical cancer	Disease	DOID:4362
+31275061_4625	1143	1164	myocardial infarction	Disease	DOID:5844
+31275061_4625	1166	1168	MI	Disease	DOID:5844
+31275061_4625	1173	1196	coronary artery disease	Disease	DOID:3393
+31275061_4625	1198	1201	CAD	Disease	DOID:3393
+31275061_4625	1208	1246	relapsing-remitting multiple sclerosis	Disease	DOID:2378
+31275061_4625	1248	1252	RRMS	Disease	DOID:2378
+31275061_4625	1315	1321	TIMP-2	Gene-protein
+31275061_4625	1324	1330	418G/C	Variant
+31275061_4625	1324	1338	418G/C, 303G/A	Collection
+31275061_4625	1332	1338	303G/A	Variant
+31275061_4625	1374	1378	HAND	Disease	not found
+31275061_4625	1471	1477	TIMP-2	Gene-protein
+31275061_4625	1479	1497	-418G/C and 303G/A	Collection
+31275061_4625	1480	1486	418G/C	Variant
+31275061_4625	1491	1497	303G/A	Variant
+31275061_4625	1521	1525	HAND	Disease
+

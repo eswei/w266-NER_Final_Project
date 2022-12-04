@@ -1,0 +1,48 @@
+29876326_2284|t|RSS_IDENT_p_29876326_b_1_1_4
+29876326_2284|a| Interest in endostatin, an anti-tumor molecule in cancers, has increased over the last two decades. Endostatin is described as a 22 kDa C-terminal fragment of collagen XVIII, which is a vascular and epithelial basement membrane protein( 2 , 3 ).Previous studies have demonstrated various functions of this protein. For example, endostatin can cause apoptosis of the endothelial cells and serves as a suppressor of endothelial cell migration and tumor growth ( 4 – 6 ). Indeed, endostatin interferes with tumor progression by preventing the activity of tumor growth-stimulating factors ( 7 , 8 ). Furthermore, a few studies have reported that endostatin inhibits tumor metastasis by limiting blood supply, and therefore is considered a potential anti-tumor marker in malignant tumor treatment ( 9 , 10 ). To date, many studies have investigated endostatin levels in different types of cancers such as soft tissue sarcoma, renal cell carcinoma, and ovarian carcinoma ( 11 - 13 ). In addition, the association of endostatin level with prognosis and aggressiveness of tumors has been confirmed. It has already been established that patients with poor prognosis cancers have higher serum levels of endostatin ( 14 - 16 ). Investigations into the prognostic significance of circulating endostatin levels have demonstrated the association of higher serum levels of endostatin with progressive and poorly differentiated colorectal and bladder cancers ( 17 , 18 ). It is therefore reasonable to assume that serum endostatin levels can be used as a biomarker for diagnosing and predicting the prognosis of cancers. This study was conducted to investigate the potential role of serum endostatin levels in head and neck SCC as well as the correlation between serum endostatin levels and various clinical and pathological features. 
+29876326_2284	42	52	endostatin	Drug	CHEMBL4297747
+29876326_2284	42	52	endostatin	Biomarker	D043169
+29876326_2284	42	52	endostatin	Gene-protein	HGNC:2195
+29876326_2284	80	87	cancers	Disease	DOID:162
+29876326_2284	130	140	Endostatin	Drug	CHEMBL4297747
+29876326_2284	130	140	Endostatin	Gene-protein
+29876326_2284	166	167	C	Chemical
+29876326_2284	166	203	C-terminal fragment of collagen XVIII	Proteindomain
+29876326_2284	358	368	endostatin	Drug
+29876326_2284	358	368	endostatin	Gene-protein
+29876326_2284	475	480	tumor	Disease	DOID:162
+29876326_2284	507	517	endostatin	Drug
+29876326_2284	507	517	endostatin	Gene-protein
+29876326_2284	534	539	tumor	Disease
+29876326_2284	582	587	tumor	Disease
+29876326_2284	672	682	endostatin	Drug
+29876326_2284	672	682	endostatin	Biomarker
+29876326_2284	672	682	endostatin	Gene-protein
+29876326_2284	692	697	tumor	Disease
+29876326_2284	796	811	malignant tumor	Disease	DOID:162
+29876326_2284	874	884	endostatin	Gene-protein
+29876326_2284	874	891	endostatin levels	Biomarker
+29876326_2284	914	921	cancers	Disease
+29876326_2284	930	949	soft tissue sarcoma	Disease	DOID:1115
+29876326_2284	951	971	renal cell carcinoma	Disease	DOID:4450
+29876326_2284	977	994	ovarian carcinoma	Disease	DOID:4001
+29876326_2284	1040	1050	endostatin	Gene-protein
+29876326_2284	1040	1056	endostatin level	Biomarker	D043169
+29876326_2284	1094	1100	tumors	Disease	DOID:162
+29876326_2284	1187	1194	cancers	Disease
+29876326_2284	1200	1233	higher serum levels of endostatin	Biomarker
+29876326_2284	1223	1233	endostatin	Gene-protein
+29876326_2284	1298	1327	circulating endostatin levels	Biomarker
+29876326_2284	1310	1320	endostatin	Gene-protein
+29876326_2284	1365	1398	higher serum levels of endostatin	Biomarker
+29876326_2284	1388	1398	endostatin	Gene-protein
+29876326_2284	1442	1472	colorectal and bladder cancers	Disease	DOID:9256, DOID:11054
+29876326_2284	1528	1551	serum endostatin levels	Biomarker
+29876326_2284	1534	1544	endostatin	Gene-protein
+29876326_2284	1626	1633	cancers	Disease
+29876326_2284	1697	1720	serum endostatin levels	Biomarker
+29876326_2284	1703	1713	endostatin	Gene-protein
+29876326_2284	1724	1741	head and neck SCC	Disease	DOID:5520
+29876326_2284	1777	1800	serum endostatin levels	Biomarker
+29876326_2284	1783	1793	endostatin	Gene-protein
+

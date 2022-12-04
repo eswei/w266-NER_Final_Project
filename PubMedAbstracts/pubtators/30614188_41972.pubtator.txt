@@ -1,0 +1,44 @@
+30614188_41972|t|RSS_IDENT_p_30614188_b_1_5_6
+30614188_41972|a| Recent studies have identified EPAS1 (Mathew et al., 2014), CREBBP (Kumarswamy et al., 2014), MECP2 (Volkmann et al., 2013) and TNFSF13B (Alsaleh et al., 2014) as target genes of miR‐30a‐3p. Our study showed LINC01436 acts as a ceRNA to regulate EPAS1 by sponging miR‐30a‐3p in lung cancer. EPAS1, also named HIF‐2α, was associated with therapy resistance, metastasis and poor clinical prognosis in various cancers, including lung cancer (Ma et al., 2016; Zhao et al., 2015). High EPAS1 protein levels were detected in ~ 50% of cases and were strongly correlated with poor OS in NSCLC (Giatromanolaki et al., 2001; Wu et al., 2011), suggesting that EPAS1 may directly contribute to NSCLC progression. Ectopic overexpression of non‐degradable EPAS1 proteins cooperated with RAS to promote growth of Krasᴳ¹²ᴰ‐driven murine lung tumors (Kim et al., 2009). These studies suggested that increased EPAS1 activity plays important roles in lung cancer. However, the expression and clinical significance of EPAS1 in NSCLC tissues has not been definitively established. A recent multi‐omics analysis revealed that lung tumor tissues had low EPAS1 mRNA and protein expression compared with normal tissues (Wang et al., 2018). In our present study, EPAS1 mRNA expression levels were not correlated with LINC01436 expression levels in lung tumor tissues and no difference was found for EPAS1 protein expression between lung tumor tissues and adjacent normal lung tissues (Fig. S8). Thus, additional well‐designed clinical studies are warranted to better understand the expression and clinical significance of EPAS1 in NSCLC tissues. 
+30614188_41972	61	66	EPAS1	Gene-protein	HGNC:3374
+30614188_41972	90	96	CREBBP	Gene-protein	HGNC:2348
+30614188_41972	124	129	MECP2	Gene-protein	HGNC:6990
+30614188_41972	158	166	TNFSF13B	Gene-protein	HGNC:11929
+30614188_41972	209	219	miR‐30a‐3p	Rna-noncoding	HGNC:31624
+30614188_41972	238	247	LINC01436	Rna-noncoding	HGNC:50754
+30614188_41972	276	281	EPAS1	Gene-protein
+30614188_41972	294	304	miR‐30a‐3p	Rna-noncoding
+30614188_41972	308	319	lung cancer	Disease	DOID:1324
+30614188_41972	321	326	EPAS1	Gene-protein
+30614188_41972	321	326	EPAS1	Biomarker	C105713
+30614188_41972	339	345	HIF‐2α	Gene-protein	HGNC:3374
+30614188_41972	437	444	cancers	Disease	DOID:162
+30614188_41972	437	467	cancers, including lung cancer	Collection
+30614188_41972	456	467	lung cancer	Disease
+30614188_41972	506	531	High EPAS1 protein levels	Biomarker
+30614188_41972	511	516	EPAS1	Gene-protein
+30614188_41972	609	614	NSCLC	Disease	DOID:3908
+30614188_41972	679	684	EPAS1	Gene-protein
+30614188_41972	679	684	EPAS1	Biomarker
+30614188_41972	712	717	NSCLC	Disease
+30614188_41972	731	786	Ectopic overexpression of non‐degradable EPAS1 proteins	Drug	not found
+30614188_41972	772	777	EPAS1	Gene-protein
+30614188_41972	803	806	RAS	Genefamily
+30614188_41972	828	862	Krasᴳ¹²ᴰ‐driven murine lung tumors	Disease	DOID:1324
+30614188_41972	912	936	increased EPAS1 activity	Biomarker
+30614188_41972	922	927	EPAS1	Gene-protein
+30614188_41972	962	973	lung cancer	Disease
+30614188_41972	1028	1033	EPAS1	Gene-protein
+30614188_41972	1037	1042	NSCLC	Disease
+30614188_41972	1134	1144	lung tumor	Disease
+30614188_41972	1157	1194	low EPAS1 mRNA and protein expression	Biomarker
+30614188_41972	1161	1166	EPAS1	Gene-protein
+30614188_41972	1267	1272	EPAS1	Gene-protein
+30614188_41972	1321	1330	LINC01436	Rna-noncoding
+30614188_41972	1352	1362	lung tumor	Disease
+30614188_41972	1403	1408	EPAS1	Gene-protein
+30614188_41972	1403	1427	EPAS1 protein expression	Biomarker
+30614188_41972	1436	1446	lung tumor	Disease
+30614188_41972	1626	1631	EPAS1	Gene-protein
+30614188_41972	1635	1640	NSCLC	Disease
+

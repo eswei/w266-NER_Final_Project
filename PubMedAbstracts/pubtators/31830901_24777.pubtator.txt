@@ -1,0 +1,65 @@
+31830901_24777|t|RSS_IDENT_p_31830901_b_1_4_4
+31830901_24777|a| Besides, this study testified that miR-138-5p could directly target FOXK1. It is reported that FOXK1 level was higher in liver cancer cells than in normal human hepatic cell line, FOXK1 silencing was found to repress cell viability (Cui et al. 2018 ). Moreover, FOXK1 level was elevated in glioma tissue samples and cell lines, and FOXK1 was identified to enhance cell growth in glioma (Ji and Jiang 2018 ). Interestingly, we discovered that FOXK1 level was increased in PC tissues, suggesting that FOXK1 might be employed by PC cell to stimulate cell growth. Importantly, positive correlation between MCM3AP-AS1 and FOXK1 was found, whereas negative correlation between miR-138-5p and FOXK1 was also confirmed. MCM3AP-AS1 silencing led to decreased FOXK1 level, whereas FOXK1 level was reversed in BxPC-3 cells expressing MCM3AP-AS1-silencing and miR-138-5p inhibitor. Furthermore, we also demonstrated that MCM3AP-AS1 stimulated growth and invasion in PC cells by regulating FOXK1 expression. Notably, previous studies have discovered that lncRNAs participated in the progression of tumors by targeting miRNAs and regulating FOXK1 expression. For instance, Dong et al. discovered LINC02163 could augment growth in gastric cancer cells by miR-593-3p/FOXK1 axis (Dong et al. 2018 ). Lu et al. proved LINC01503 facilitated cell proliferation and invasion in colorectal cancer via miR-4492/FOXK1 axis (Lu et al. 2018 ). Consistent with the previous studies, our study revealed that MCM3AP-AS1 promoted PC cell growth and invasion by miR-138-5p/FOXK1 in vitro and in vivo, demonstrating the significant role of MCM3AP-AS1/miR-138-5p/FOXK1 axis in PC. 
+31830901_24777	65	75	miR-138-5p	Rna-noncoding	family:1758
+31830901_24777	98	103	FOXK1	Gene-protein	HGNC:23480
+31830901_24777	125	130	FOXK1	Gene-protein
+31830901_24777	125	147	FOXK1 level was higher	Biomarker
+31830901_24777	151	163	liver cancer	Disease	DOID:3571
+31830901_24777	210	215	FOXK1	Gene-protein
+31830901_24777	210	225	FOXK1 silencing	Biomarker
+31830901_24777	292	297	FOXK1	Gene-protein
+31830901_24777	292	316	FOXK1 level was elevated	Biomarker
+31830901_24777	320	326	glioma	Disease	DOID:0060108
+31830901_24777	362	367	FOXK1	Gene-protein
+31830901_24777	362	367	FOXK1	Biomarker	C495879
+31830901_24777	409	415	glioma	Disease
+31830901_24777	472	477	FOXK1	Gene-protein
+31830901_24777	472	497	FOXK1 level was increased	Biomarker
+31830901_24777	501	503	PC	Disease	DOID:1793
+31830901_24777	529	534	FOXK1	Gene-protein
+31830901_24777	529	534	FOXK1	Biomarker
+31830901_24777	556	558	PC	Disease
+31830901_24777	632	642	MCM3AP-AS1	Gene-protein	HGNC:16417
+31830901_24777	632	642	MCM3AP-AS1	Biomarker
+31830901_24777	647	652	FOXK1	Gene-protein
+31830901_24777	647	652	FOXK1	Biomarker	C495879
+31830901_24777	701	711	miR-138-5p	Rna-noncoding
+31830901_24777	701	711	miR-138-5p	Biomarker
+31830901_24777	716	721	FOXK1	Gene-protein
+31830901_24777	716	721	FOXK1	Biomarker
+31830901_24777	742	752	MCM3AP-AS1	Gene-protein
+31830901_24777	780	785	FOXK1	Gene-protein
+31830901_24777	801	806	FOXK1	Gene-protein
+31830901_24777	829	835	BxPC-3	Cellline
+31830901_24777	853	863	MCM3AP-AS1	Gene-protein
+31830901_24777	878	888	miR-138-5p	Rna-noncoding
+31830901_24777	878	898	miR-138-5p inhibitor	Drug-class
+31830901_24777	939	949	MCM3AP-AS1	Gene-protein
+31830901_24777	939	949	MCM3AP-AS1	Biomarker
+31830901_24777	984	986	PC	Disease
+31830901_24777	1007	1012	FOXK1	Gene-protein
+31830901_24777	1072	1079	lncRNAs	Biomarker
+31830901_24777	1072	1079	lncRNAs	Rna-noncoding
+31830901_24777	1115	1121	tumors	Disease	DOID:162
+31830901_24777	1157	1162	FOXK1	Gene-protein
+31830901_24777	1212	1221	LINC02163	Rna-noncoding	HGNC:53024
+31830901_24777	1212	1221	LINC02163	Biomarker
+31830901_24777	1246	1260	gastric cancer	Disease	DOID:10534
+31830901_24777	1270	1280	miR-593-3p	Rna-noncoding	HGNC:32849
+31830901_24777	1281	1286	FOXK1	Gene-protein
+31830901_24777	1330	1339	LINC01503	Rna-noncoding	HGNC:51184
+31830901_24777	1330	1339	LINC01503	Biomarker
+31830901_24777	1387	1404	colorectal cancer	Disease	DOID:9256
+31830901_24777	1409	1417	miR-4492	Rna-noncoding	HGNC:41563
+31830901_24777	1418	1423	FOXK1	Gene-protein
+31830901_24777	1510	1520	MCM3AP-AS1	Gene-protein
+31830901_24777	1510	1520	MCM3AP-AS1	Biomarker
+31830901_24777	1530	1532	PC	Disease
+31830901_24777	1561	1571	miR-138-5p	Rna-noncoding
+31830901_24777	1572	1577	FOXK1	Gene-protein
+31830901_24777	1638	1648	MCM3AP-AS1	Gene-protein
+31830901_24777	1638	1670	MCM3AP-AS1/miR-138-5p/FOXK1 axis	Biomarker
+31830901_24777	1649	1659	miR-138-5p	Rna-noncoding
+31830901_24777	1660	1665	FOXK1	Gene-protein
+31830901_24777	1674	1676	PC	Disease
+

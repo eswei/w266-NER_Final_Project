@@ -1,0 +1,45 @@
+31253110_3414|t|RSS_IDENT_p_31253110_b_1_1_3
+31253110_3414|a| Aside from prematurity, genetic polymorphisms have been reported as an important factor in the development of SNNJ [ 4 – 6 ]. The most commonly-studied gene is the uridine diphosphate glucuronosyltransferase 1A1 (UGT1A1) that is closely associated with Crigler-Najjar’s syndrome type I and II, and Gilberts syndrome. These conditions are frequently found in Caucasian and African populations [ 7 , 8 ]. Another gene that has been gaining attention, one that is mostly found in Asian populations, is OATP2/SLCO1B1 [ 9 ]. SLCO1B1 (solute carrier organic anion transporter family member 1b1) encodes the solute carrier organic anion transporter family member 1B1 and is responsible for the absorption of unconjugated and conjugated bilirubin in the liver. This gene, located in chromosome 12p12, consists of 15 exons (1 coding exon and 1 non-coding exon) and 14 introns, as well as containing 2073 nucleotides in the gene-coding area [ 9 ]. Neonates carrying this gene polymorphism are associated with reduced bilirubin clearance which induces hyperbilirubinemia [ 10 ]. Rotor Syndrome, an autosomal recessive disease associated with elevated conjugated bilirubin, is an example of a disease frequently associated with mutations in SLCO1B1 and SLCO1B3. The most frequent polymorphisms found in this gene are SLCO1B1*1B (388A > G), SLCO1B1*4 (463C > A), and SLCO1B1*5 (521 T > C), and the most commonly associated with hyperbilirubinemia is the SLCO1B1*1B (388A > G) [ 9 , 11 – 13 ].
+31253110_3414	54	75	genetic polymorphisms	Biomarker
+31253110_3414	140	144	SNNJ	Disease	DOID:2383
+31253110_3414	194	213	uridine diphosphate	Chemical
+31253110_3414	194	241	uridine diphosphate glucuronosyltransferase 1A1	Gene-protein	HGNC:12530
+31253110_3414	194	241	uridine diphosphate glucuronosyltransferase 1A1	Biomarker	C418331
+31253110_3414	243	249	UGT1A1	Gene-protein	HGNC:12530
+31253110_3414	283	322	Crigler-Najjar’s syndrome type I and II	Disease	DOID:3803
+31253110_3414	283	345	Crigler-Najjar’s syndrome type I and II, and Gilberts syndrome	Collection
+31253110_3414	328	345	Gilberts syndrome	Disease	DOID:2739
+31253110_3414	529	534	OATP2	Gene-protein	HGNC:10962
+31253110_3414	535	542	SLCO1B1	Gene-protein	HGNC:10959
+31253110_3414	550	557	SLCO1B1	Gene-protein	HGNC:10959
+31253110_3414	559	617	solute carrier organic anion transporter family member 1b1	Gene-protein	HGNC:10959
+31253110_3414	631	689	solute carrier organic anion transporter family member 1B1	Gene-protein	HGNC:10959
+31253110_3414	759	768	bilirubin	Chemical
+31253110_3414	1029	1056	reduced bilirubin clearance	Biomarker
+31253110_3414	1037	1046	bilirubin	Chemical
+31253110_3414	1071	1089	hyperbilirubinemia	Disease	DOID:2741
+31253110_3414	1098	1112	Rotor Syndrome	Disease	DOID:2741
+31253110_3414	1161	1190	elevated conjugated bilirubin	Biomarker
+31253110_3414	1161	1278	elevated conjugated bilirubin, is an example of a disease frequently associated with mutations in SLCO1B1 and SLCO1B3	Collection
+31253110_3414	1181	1190	bilirubin	Chemical
+31253110_3414	1246	1278	mutations in SLCO1B1 and SLCO1B3	Biomarker
+31253110_3414	1259	1266	SLCO1B1	Gene-protein
+31253110_3414	1271	1278	SLCO1B3	Gene-protein	 HGNC:10961
+31253110_3414	1335	1342	SLCO1B1	Gene-protein
+31253110_3414	1342	1345	*1B	Variant
+31253110_3414	1342	1356	*1B (388A > G)	Collection
+31253110_3414	1347	1355	388A > G	Variant
+31253110_3414	1358	1365	SLCO1B1	Gene-protein
+31253110_3414	1365	1367	*4	Variant
+31253110_3414	1365	1378	*4 (463C > A)	Collection
+31253110_3414	1369	1377	463C > A	Variant
+31253110_3414	1384	1391	SLCO1B1	Gene-protein
+31253110_3414	1391	1393	*5	Variant
+31253110_3414	1391	1405	*5 (521 T > C)	Collection
+31253110_3414	1395	1404	521 T > C	Variant
+31253110_3414	1445	1463	hyperbilirubinemia	Disease
+31253110_3414	1471	1478	SLCO1B1	Gene-protein
+31253110_3414	1478	1481	*1B	Variant
+31253110_3414	1478	1492	*1B (388A > G)	Collection
+31253110_3414	1483	1491	388A > G	Variant
+

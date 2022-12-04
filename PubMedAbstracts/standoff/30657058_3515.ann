@@ -1,0 +1,78 @@
+T1	Disease 121 125	NEPC
+T10	Disease 669 689	N-Myc/Myr-Akt tumors
+#3	AnnotatorNotes T10	not found
+T11	Chemical 675 678	Myr
+T18	Drug 1016 1028	Enzalutamide
+T2	Disease 146 183	CRPC without neuroendocrine phenotype
+T22	Disease 1138 1153	prostate cancer
+#11	AnnotatorNotes T22	DOID:10283
+T25	Disease 1202 1237	N-Myc overexpressed prostate tumors
+#14	AnnotatorNotes T25	not found
+T28	Disease 1277 1312	N-Myc overexpressed prostate tumors
+T29	Drug 1371 1383	Enzalutamide
+T4	Disease 396 400	NEPC
+T8	Chemical 597 600	Myr
+#1	AnnotatorNotes T1	DOID:2992
+#2	AnnotatorNotes T2	not found
+T6	Disease 220 223	PCA
+#4	AnnotatorNotes T6	DOID:2526
+T7	Collection 121 223	NEPC [ 5 ] and up to 20% CRPC without neuroendocrine phenotype [ 13 ], they are also found in ~ 5% PCA
+T14	Gene-Protein 39 43	MYCN
+#6	AnnotatorNotes T14	HGNC:7559
+T15	Biomarker 39 62	MYCN gene amplification
+T17	Gene-Protein 70 75	N-Myc
+#7	AnnotatorNotes T17	HGNC:7559
+T20	Biomarker 70 102	N-Myc oncoprotein overexpression
+T21	Collection 39 102	MYCN gene amplification and/or N-Myc oncoprotein overexpression
+R1	Association Arg1:T21 Arg2:T7	
+T3	Gene-Protein 363 368	N-Myc
+T27	Biomarker 363 368	N-Myc
+#8	AnnotatorNotes T27	D000071447
+R2	Association Arg1:T27 Arg2:T4	
+T5	Gene-Protein 511 516	N-Myc
+T32	Biomarker 511 605	N-Myc overexpression in human prostate epithelial cells, together with activated AKT (Myr-Akt)
+T33	Disease 625 628	PCA
+T34	Disease 633 637	NEPC
+T35	Collection 625 637	PCA and NEPC
+R3	Risk-Factor Arg1:T32 Arg2:T35	
+T36	GeneFamily 592 595	AKT
+#9	AnnotatorNotes T36	family:1900
+T37	GeneFamily 601 604	Akt
+#10	AnnotatorNotes T37	family:1900
+T12	GeneFamily 679 682	Akt
+T9	Gene-Protein 669 674	N-Myc
+T13	Biomarker 735 761	low level of AR expression
+R4	Association Arg1:T13 Arg2:T10	
+T38	Gene-Protein 748 750	AR
+#5	AnnotatorNotes T38	HGNC:644
+T16	Gene-Protein 833 838	N-Myc
+T39	Gene-Protein 858 862	EZH2
+#13	AnnotatorNotes T39	HGNC:3527
+T40	Disease 893 901	CRPC-Ade
+#15	AnnotatorNotes T40	not found
+T41	Disease 905 912	CRPC-NE
+#17	AnnotatorNotes T41	not found, not found
+T42	Biomarker 833 862	N-Myc can cooperate with EZH2
+R5	Risk-Factor Arg1:T42 Arg2:T41	
+#18	AnnotatorNotes T18	CHEMBL1082407
+R6	Mediated-Non-Response Arg1:T18 Arg2:T41	
+R7	Mediator Arg1:T18 Arg2:T42	
+T19	Gene-Protein 984 986	AR
+T43	Gene-Protein 1037 1042	N-Myc
+T44	Biomarker 1037 1057	N-Myc overexpression
+T45	Disease 1071 1074	PCA
+T47	Collection 1071 1153	PCA or in CPRC stage, shuts down AR signaling that is required for prostate cancer
+R8	Association Arg1:T44 Arg2:T47	
+T48	Gene-Protein 1104 1106	AR
+T24	Gene-Protein 1202 1207	N-Myc
+T23	Drug-Class 1241 1262	AR-targeted therapies
+T49	Gene-Protein 1241 1243	AR
+T26	Collection 1330 1366	AR-targeted therapies, including ADT
+R9	Non-Response Arg1:T26 Arg2:T28	
+T50	Gene-Protein 1330 1332	AR
+T51	Drug-Class 1363 1366	ADT
+T52	Drug-Class 1330 1351	AR-targeted therapies
+R10	Non-Response Arg1:T29 Arg2:T28	
+T30	Gene-Protein 1401 1406	N-Myc
+T53	Gene-Protein 1428 1430	AR
+T31	Gene-Protein 1570 1575	N-Myc

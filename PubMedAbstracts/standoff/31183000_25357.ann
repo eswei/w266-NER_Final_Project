@@ -1,0 +1,77 @@
+T0	Disease 130 143	liver failure
+#1	AnnotatorNotes T0	D017093
+T1	Drug 206 220	trichostatin A
+T10	Disease 634 655	peripheral neuropathy
+#3	AnnotatorNotes T10	 D010523
+T12	Drug 710 718	ACY-1215
+T13	Disease 798 801	ALF
+T16	Disease 925 944	chronic hepatitis B
+#8	AnnotatorNotes T16	D019694
+T17	Disease 978 991	liver failure
+T18	Disease 1164 1177	liver failure
+T19	Disease 1346 1352	cancer
+T2	Drug 222 225	TSA
+T20	Drug 1383 1386	TSA
+T21	Disease 1420 1437	acute lung injury
+T22	Drug 1487 1502	sodium butyrate
+T24	Disease 1547 1580	myocardial remodeling in diabetic
+#17	AnnotatorNotes T24	not found, not found
+T26	Drug 1733 1745	sulforaphane
+T27	Drug 1747 1750	SFN
+T3	Disease 401 404	ALF
+T4	Disease 408 412	ACLF
+T5	Drug 476 483	CY-1215
+T6	Drug 499 511	ricolinostat
+T8	Disease 588 606	pulmonary fibrosis
+#26	AnnotatorNotes T8	DOID:3770
+T9	GeneFamily 99 103	HDAC
+#2	AnnotatorNotes T9	family:937
+T14	Drug-Class 67 113	inhibiting the activity of some HDAC molecules
+R1	Response Arg1:T14 Arg2:T0	
+T28	GeneFamily 176 180	HDAC
+T29	Drug-Class 176 205	HDAC broad-spectrum inhibitor
+#6	AnnotatorNotes T1	 CHEMBL99
+#12	AnnotatorNotes T2	 CHEMBL99
+#5	AnnotatorNotes T3	D017114
+#13	AnnotatorNotes T4	D065290
+T30	Collection 401 412	ALF or ACLF
+R2	Protects-from Arg1:T1 Arg2:T30	
+T31	Drug-Class 443 474	histone deacetylase 6 inhibitor
+T32	Gene-Protein 443 464	histone deacetylase 6
+#15	AnnotatorNotes T32	HGNC:14064
+#19	AnnotatorNotes T5	CHEMBL2364628
+#20	AnnotatorNotes T6	CHEMBL2364628
+T11	Collection 588 655	pulmonary fibrosis [ 33 ], and alleviation of peripheral neuropathy
+T33	Collection 476 511	CY-1215, also known as ricolinostat
+R3	Response Arg1:T33 Arg2:T11	
+#4	AnnotatorNotes T12	CHEMBL2364628
+T34	Gene-Protein 771 775	TLR4
+T35	GeneFamily 776 780	MAPK
+T36	GeneFamily 781 786	NF-κB
+R4	Response Arg1:T12 Arg2:T13	
+T37	Gene-Protein 865 870	HDAC1
+#21	AnnotatorNotes T37	HGNC:4852
+T38	Gene-Protein 875 880	HDAC2
+#22	AnnotatorNotes T38	HGNC:4853
+T39	Biomarker 851 903	activities of HDAC1 and HDAC2 are obviously elevated
+T15	Collection 925 991	chronic hepatitis B, especially in the patients with liver failure
+R5	Association Arg1:T39 Arg2:T15	
+T40	Drug-Class 1098 1112	HDAC inhibitor
+T41	Drug-Class 1114 1119	HDACi
+T42	Drug-Class 1250 1255	HDACi
+#7	AnnotatorNotes T21	 D055371
+T43	Drug-Class 1457 1486	HDAC broad-spectrum inhibitor
+T44	GeneFamily 1457 1461	HDAC
+#9	AnnotatorNotes T22	CHEMBL62381
+R6	Response Arg1:T22 Arg2:T24	
+T23	Gene-Protein 1616 1625	caspase 3
+T25	Drug-Class 1702 1731	HDAC broad-spectrum inhibitor
+T45	GeneFamily 1702 1706	HDAC
+#10	AnnotatorNotes T26	CHEMBL48802
+#11	AnnotatorNotes T27	CHEMBL48802
+T46	Chemical 1793 1796	LPS
+T47	Gene-Protein 1011 1016	HDAC1
+A1	Conjunction T24
+#14	AnnotatorNotes T19	DOID:162
+T7	GeneFamily 1098 1102	HDAC
+R7	Non-Response Arg1:T20 Arg2:T21	

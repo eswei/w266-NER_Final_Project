@@ -1,0 +1,51 @@
+30646578_14442|t|RSS_IDENT_p_30646578_b_1_4_4
+30646578_14442|a| MTHFR gene polymorphisms cause enzyme thermolability and involve C-to-T substitution at nucleotide 667 and A-to-C at nucleotide 1298; these MTHFR mutations have been associated with homocystinuria, neural tube defects, preeclampsia, cleft lip and cleft palate, cerebrovascular disease, and psychiatric disorders including susceptibility to depression and schizophrenia [ 39 , 40 ]. Population-based international studies showed no increased risk of dementia in subjects with MTHFR polymorphisms [ 41 , 42 ]. In Japan, Nishiyama et al. [ 43 ] found a slight association of the MTHFR-C667T polymorphism with senile cognitive decline in men but not with AD. In Australia, a causal link between high tHcy and incident dementia was demonstrated [ 44 ] but the study lacked power to determine an effect of the MTHFR-C667T genotype. In contrast, de Lau and collaborators [ 45 ] in the normal elderly population of the Rotterdam Study observed that the MTHFR-C665T genotype was associated with elevated tHcy but not with cognitive loss or white matter lesions. In a small patient population in Tunisia [ 46 ], the MTHFR-A1298C mutation was associated with susceptibility to AD. As mentioned earlier, Román [ 11 ] found a very high frequency (above 90%) of MTHFR gene mutations in an elderly population attending a memory clinic in the USA, with diagnoses ranging from mild cognitive impairment (MCI) to LOAD; about 65% had single mutations; the MTHFR-C667T mutation was found in 58.5% of the patients and 41.5% had the MTHFR-A1298C mutation whereas 20% were compound heterozygous for both mutations [ 11 ]. 
+30646578_14442	30	35	MTHFR	Gene-protein	HGNC:7436
+30646578_14442	30	54	MTHFR gene polymorphisms	Biomarker
+30646578_14442	95	132	C-to-T substitution at nucleotide 667	Variant
+30646578_14442	95	162	C-to-T substitution at nucleotide 667 and A-to-C at nucleotide 1298	Collection
+30646578_14442	137	162	A-to-C at nucleotide 1298	Variant
+30646578_14442	170	175	MTHFR	Gene-protein
+30646578_14442	212	226	homocystinuria	Disease	DOID:9263
+30646578_14442	212	398	homocystinuria, neural tube defects, preeclampsia, cleft lip and cleft palate, cerebrovascular disease, and psychiatric disorders including susceptibility to depression and schizophrenia	Collection
+30646578_14442	228	247	neural tube defects	Disease	DOID:0080074
+30646578_14442	249	261	preeclampsia	Disease	DOID:10591
+30646578_14442	263	272	cleft lip	Disease	DOID:9296
+30646578_14442	277	289	cleft palate	Disease	DOID:674
+30646578_14442	291	314	cerebrovascular disease	Disease	DOID:6713
+30646578_14442	320	341	psychiatric disorders	Disease	D001523
+30646578_14442	370	380	depression	Disease	D003863
+30646578_14442	385	398	schizophrenia	Disease	DOID:5419
+30646578_14442	479	487	dementia	Disease	DOID:1307
+30646578_14442	505	510	MTHFR	Gene-protein
+30646578_14442	505	524	MTHFR polymorphisms	Biomarker
+30646578_14442	606	611	MTHFR	Gene-protein
+30646578_14442	612	617	C667T	Variant
+30646578_14442	636	660	senile cognitive decline	Disease	not found
+30646578_14442	681	683	AD	Disease
+30646578_14442	721	730	high tHcy	Biomarker
+30646578_14442	726	730	tHcy	Chemical
+30646578_14442	735	752	incident dementia	Disease	not found
+30646578_14442	834	839	MTHFR	Gene-protein
+30646578_14442	840	845	C667T	Variant
+30646578_14442	975	980	MTHFR	Gene-protein
+30646578_14442	981	986	C665T	Variant
+30646578_14442	1016	1029	elevated tHcy	Biomarker
+30646578_14442	1025	1029	tHcy	Chemical
+30646578_14442	1043	1057	cognitive loss	Disease	not found
+30646578_14442	1061	1081	white matter lesions	Disease	not found
+30646578_14442	1136	1141	MTHFR	Gene-protein
+30646578_14442	1142	1148	A1298C	Variant
+30646578_14442	1196	1198	AD	Disease
+30646578_14442	1278	1283	MTHFR	Gene-protein
+30646578_14442	1278	1298	MTHFR gene mutations	Biomarker
+30646578_14442	1390	1415	mild cognitive impairment	Disease	D060825
+30646578_14442	1390	1429	mild cognitive impairment (MCI) to LOAD	Collection
+30646578_14442	1417	1420	MCI	Disease	D060825
+30646578_14442	1425	1429	LOAD	Disease	D000544
+30646578_14442	1467	1472	MTHFR	Gene-protein
+30646578_14442	1467	1553	MTHFR-C667T mutation was found in 58.5% of the patients and 41.5% had the MTHFR-A1298C	Collection
+30646578_14442	1473	1478	C667T	Variant
+30646578_14442	1541	1546	MTHFR	Gene-protein
+30646578_14442	1547	1553	A1298C	Variant
+

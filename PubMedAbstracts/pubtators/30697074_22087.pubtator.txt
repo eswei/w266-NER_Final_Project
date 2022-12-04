@@ -1,0 +1,53 @@
+30697074_22087|t|RSS_IDENT_p_30697074_b_1_4_3
+30697074_22087|a| To explore the effects of PUF60 in the progression of breast cancer, we carried out gain-/loss-of-function assays. Results showed that PUF60 overexpression significantly enhanced the proliferation, migration, invasion, and tumorigenesis of breast cancer cells, as well as repressed cell apoptosis, indicating that PUF60 functions as an oncogene, which promotes the malignant progression of breast cancer. PUF60 is a splicing variant of FIR that lacks the exon 5, which consists of 17 amino acids. 22 Identically to FIR, PUF60 is identified to be a transcriptional repressor of c-Myc gene, which is critically activated in tumorigenesis in various tumors, 23 – 25 and the exon 2 of FIR/PUF60 plays an indispensable role in this process. 26 However, in several kinds of cancers such as NSCLC, colorectal cancer, and hepatocellular carcinoma, 7 , 21 , 27 – 29 FIR is alternatively spliced lacking exon 2 (FIRΔᵉˣᵒⁿ²), which functions as a dominant negative form of authentic FIR. 7 Additionally, FIR/PUF60 and FIRΔᵉˣᵒⁿ² have been reported to be upregulated in various malignant tumors, including colon cancer, 28 hepatocellular carcinoma, 29 acute lymphoblastic leukemia, 30 and lung cancer. 21 For instance, high expressed FIR was significantly enriched at the invasion type of primary NSCLCs and siRNA-mediated knockdown of all FIR variants obviously decreased the speed and directional movement of tumor cells, as well as the sprouting efficiency and single cell invasiveness. 21 Noticeably, silencing of FIR-Δᵉˣᵒⁿ² alone was sufficient to reduce cell migration and invasion. 21 And in the present study, we explored the function of PUF60 only (not FIRΔᵉˣᵒⁿ²) in breast cancer progression and found it functioned as an oncogene in breast cancer. 
+30697074_22087	56	61	PUF60	Gene-protein	HGNC:17042
+30697074_22087	56	61	PUF60	Biomarker	C410595
+30697074_22087	84	97	breast cancer	Disease	DOID:1612
+30697074_22087	165	170	PUF60	Gene-protein
+30697074_22087	165	185	PUF60 overexpression	Biomarker
+30697074_22087	270	283	breast cancer	Disease
+30697074_22087	344	349	PUF60	Gene-protein
+30697074_22087	344	349	PUF60	Biomarker
+30697074_22087	420	433	breast cancer	Disease
+30697074_22087	435	440	PUF60	Gene-protein
+30697074_22087	466	469	FIR	Gene-protein	HGNC:17042
+30697074_22087	514	525	amino acids	Chemical
+30697074_22087	545	548	FIR	Gene-protein
+30697074_22087	550	555	PUF60	Gene-protein
+30697074_22087	607	612	c-Myc	Gene-protein	HGNC:7553
+30697074_22087	607	612	c-Myc	Biomarker	D016271
+30697074_22087	677	683	tumors	Disease	DOID:162
+30697074_22087	711	714	FIR	Gene-protein
+30697074_22087	715	720	PUF60	Gene-protein
+30697074_22087	798	805	cancers	Disease	DOID:162
+30697074_22087	798	868	cancers such as NSCLC, colorectal cancer, and hepatocellular carcinoma	Collection
+30697074_22087	814	819	NSCLC	Disease	DOID:3908
+30697074_22087	821	838	colorectal cancer	Disease	DOID:9256
+30697074_22087	844	868	hepatocellular carcinoma	Disease	DOID:684
+30697074_22087	887	890	FIR	Gene-protein
+30697074_22087	887	930	FIR is alternatively spliced lacking exon 2	Biomarker
+30697074_22087	1001	1004	FIR	Gene-protein
+30697074_22087	1022	1025	FIR	Gene-protein
+30697074_22087	1022	1082	FIR/PUF60 and FIRΔᵉˣᵒⁿ² have been reported to be upregulated	Biomarker
+30697074_22087	1026	1031	PUF60	Gene-protein
+30697074_22087	1094	1110	malignant tumors	Disease	DOID:162
+30697074_22087	1094	1216	malignant tumors, including colon cancer, 28 hepatocellular carcinoma, 29 acute lymphoblastic leukemia, 30 and lung cancer	Collection
+30697074_22087	1122	1134	colon cancer	Disease	DOID:219
+30697074_22087	1139	1163	hepatocellular carcinoma	Disease
+30697074_22087	1168	1196	acute lymphoblastic leukemia	Disease	DOID:9952
+30697074_22087	1205	1216	lung cancer	Disease	DOID:1324
+30697074_22087	1235	1253	high expressed FIR	Biomarker
+30697074_22087	1250	1253	FIR	Gene-protein
+30697074_22087	1313	1319	NSCLCs	Disease	DOID:3908
+30697074_22087	1356	1359	FIR	Gene-protein
+30697074_22087	1356	1368	FIR variants	Biomarker
+30697074_22087	1427	1432	tumor	Disease
+30697074_22087	1521	1544	silencing of FIR-Δᵉˣᵒⁿ²	Drug	not found
+30697074_22087	1534	1537	FIR	Gene-protein
+30697074_22087	1538	1544	Δᵉˣᵒⁿ²	Biomarker
+30697074_22087	1662	1667	PUF60	Gene-protein
+30697074_22087	1662	1667	PUF60	Biomarker
+30697074_22087	1678	1687	FIRΔᵉˣᵒⁿ²	Biomarker
+30697074_22087	1692	1705	breast cancer	Disease
+30697074_22087	1760	1773	breast cancer	Disease
+

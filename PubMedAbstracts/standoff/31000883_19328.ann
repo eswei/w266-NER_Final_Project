@@ -1,0 +1,54 @@
+T0	Gene-Protein 86 91	GDF15
+T1	Disease 110 118	cachexia
+T10	Gene-Protein 563 568	GDF15
+T11	Disease 604 606	HG
+T13	Gene-Protein 653 658	GDF15
+T14	Disease 759 761	HG
+T15	Gene-Protein 824 829	GDF15
+T16	Gene-Protein 1031 1036	GDF15
+T17	Disease 1091 1106	cancer cachexia
+T18	Disease 1178 1180	HG
+T19	Biomarker 1252 1254	HG
+T2	Disease 168 183	cancer cachexia
+#12	AnnotatorNotes T2	D002100
+T20	Disease 1277 1288	dehydration
+#13	AnnotatorNotes T20	D003681
+T21	Disease 1293 1307	undernutrition
+T22	Disease 1432 1435	NVP
+T23	Disease 1555 1576	nutrient deficiencies
+#16	AnnotatorNotes T23	not found
+T24	Gene-Protein 1706 1711	GDF15
+T25	Disease 1804 1806	HG
+T4	Disease 320 322	HG
+T6	Gene-Protein 371 376	GDF15
+T8	Disease 380 409	cancer patients with cachexia
+#1	AnnotatorNotes T0	HGNC:30142
+#2	AnnotatorNotes T1	D002100
+T3	Biomarker 63 98	increase in mean serum GDF15 levels
+R1	Association Arg1:T3 Arg2:T1	
+T5	Gene-Protein 664 670	IGFBP7
+#3	AnnotatorNotes T5	HGNC:5476
+T9	Gene-Protein 831 836	GFRAL
+#4	AnnotatorNotes T9	HGNC:32789
+T12	Gene-Protein 1716 1722	IGFBP7
+T26	Disease 268 270	HG
+T27	Disease 342 345	NVP
+T28	Disease 286 289	NVP
+#6	AnnotatorNotes T28	not found
+T29	Biomarker 347 376	Serum concentrations of GDF15
+#5	AnnotatorNotes T8	DOID:162,D002100
+R2	Association Arg1:T29 Arg2:T8	
+T7	Drug 1017 1036	inhibition of GDF15
+#7	AnnotatorNotes T21	D044342
+T30	Biomarker 1527 1545	decreased appetite
+R3	Association Arg1:T30 Arg2:T23	
+A1	Conjunction T8
+T31	Biomarker 547 568	upregulation of GDF15
+#8	AnnotatorNotes T7	not found
+T32	Biomarker 1692 1759	dual roles of GDF15 and IGFBP7 in placentation and feeding behavior
+R4	Association Arg1:T32 Arg2:T25	
+R5	Response Arg1:T7 Arg2:T17	
+#9	AnnotatorNotes T26	D006939
+#10	AnnotatorNotes T19	D006939
+T33	Collection 1277 1307	dehydration and undernutrition
+R6	Association Arg1:T19 Arg2:T33	

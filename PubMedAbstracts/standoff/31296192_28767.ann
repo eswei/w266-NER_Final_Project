@@ -1,0 +1,74 @@
+T0	Chemical 56 62	folate
+T1	Disease 144 147	MCI
+T10	Disease 580 588	diabetes
+#3	AnnotatorNotes T10	not found
+T11	Disease 609 632	cardiovascular diseases
+#4	AnnotatorNotes T11	DOID:1287
+T12	Disease 652 655	T2D
+#5	AnnotatorNotes T12	DOID:9352
+T13	Chemical 676 682	folate
+T14	Chemical 792 798	folate
+T15	Chemical 878 884	folate
+T16	Biomarker 878 895	folate deficiency
+T17	Chemical 1024 1036	homocysteine
+T18	Chemical 1062 1072	folic acid
+T19	Chemical 1254 1264	folic acid
+T2	Chemical 171 177	folate
+T20	Disease 1322 1363	ischemia-reperfusion induced liver injury
+#14	AnnotatorNotes T20	not found
+T21	Chemical 1384 1394	folic acid
+T22	Chemical 1471 1481	folic acid
+T23	Disease 1514 1517	MCI
+T26	Chemical 1626 1632	folate
+T27	Disease 1726 1747	T2D patients with MCI
+#19	AnnotatorNotes T27	DOID:9352, DOID:0080832
+T29	Chemical 1832 1838	folate
+T3	Disease 201 204	MCI
+T30	Disease 1872 1875	MCI
+T31	Disease 1927 1930	T2D
+T4	Chemical 271 277	folate
+T5	Disease 311 314	MCI
+T6	Disease 417 420	MCI
+T7	Chemical 455 461	folate
+T9	Disease 550 553	MCI
+#1	AnnotatorNotes T1	DOID:0080832
+T8	Biomarker 533 545	serum hs-CRP
+T24	Gene-Protein 542 545	CRP
+#2	AnnotatorNotes T24	HGNC:2367
+R1	Association Arg1:T8 Arg2:T9	
+T25	Biomarker 672 691	low folate subgroup
+T32	Biomarker 781 798	peripheral folate
+T33	GeneFamily 800 822	inflammatory cytokines
+#6	AnnotatorNotes T33	not found
+T34	Biomarker 800 822	inflammatory cytokines
+T35	Biomarker 827 843	cognition status
+T36	Biomarker 902 986	enhance the expression of the inflammatory mediators including IL-1β, IL-6 and TNF-α
+T37	Gene-Protein 972 976	IL-6
+#7	AnnotatorNotes T37	HGNC:6018
+T38	Gene-Protein 965 970	IL-1β
+#8	AnnotatorNotes T38	HGNC:5992
+T39	Gene-Protein 981 986	TNF-α
+#9	AnnotatorNotes T39	HGNC:11892
+T40	Chemical 1085 1103	lipopolysaccharide
+T41	Gene-Protein 1126 1131	IL-1β
+T42	Gene-Protein 1136 1141	TNF-α
+T43	GeneFamily 1165 1170	MAPKs
+#10	AnnotatorNotes T43	family:651
+T44	GeneFamily 1175 1180	NF-κB
+#11	AnnotatorNotes T44	family:1254
+T45	Gene-Protein 1306 1311	TNF-α
+T46	Gene-Protein 1447 1452	TNF-α
+T47	Gene-Protein 1556 1561	TNF-α
+T48	Gene-Protein 1566 1570	IL-6
+T49	Biomarker 1612 1639	optimal serum folate status
+T50	GeneFamily 1671 1696	proinflammatory cytokines
+#12	AnnotatorNotes T50	not found
+T51	Gene-Protein 1705 1709	IL-6
+T52	Gene-Protein 1714 1719	TNF-α
+A1	Conjunction T27
+T28	Biomarker 1826 1838	serum folate
+T53	Biomarker 119 139	inflammation markers
+T54	Biomarker 237 257	inflammation markers
+T55	Biomarker 165 183	serum folate level
+T56	Disease 1898 1910	inflammation
+#13	AnnotatorNotes T56	D007249

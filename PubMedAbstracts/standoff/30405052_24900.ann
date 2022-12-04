@@ -1,0 +1,45 @@
+T0	Disease 39 42	BrC
+#1	AnnotatorNotes T0	DOID:1612
+T12	Disease 648 672	nasopharyngeal carcinoma
+#3	AnnotatorNotes T12	DOID:9261
+T16	Disease 1004 1007	BrC
+T19	Disease 1126 1129	BrC
+T22	Disease 1369 1372	BrC
+T26	Disease 1732 1735	BrC
+T6	Disease 327 330	BrC
+T8	Disease 390 406	luminal-type BrC
+#18	AnnotatorNotes T8	not found
+T1	Gene-Protein 215 220	PSAT1
+#2	AnnotatorNotes T1	HGNC:19129
+T3	Biomarker 209 220	lower PSAT1
+T4	Gene-Protein 498 503	PSAT1
+R1	Prognostic-Poor Arg1:T3 Arg2:T0	
+T5	Gene-Protein 447 452	PSAT1
+T7	Gene-Protein 298 303	PSAT1
+T10	Gene-Protein 594 599	PSAT1
+T11	Biomarker 589 599	high PSAT1
+T9	Biomarker 298 315	PSAT1 methylation
+R2	Association Arg1:T9 Arg2:T8	
+T15	Biomarker 442 471	high PSAT1 methylation levels
+T17	Biomarker 494 509	low PSAT1 mRNAs
+R3	Prognostic-Poor Arg1:T11 Arg2:T12	
+T18	Biomarker 742 771	high FOXA1 methylation levels
+T14	Drug-Class 983 1000	endocrine therapy
+T20	Biomarker 896 912	FOXA1 expression
+R4	Mediated-Response Arg1:T14 Arg2:T16	
+R5	Mediator Arg1:T14 Arg2:T20	
+T21	Biomarker 1102 1122	FOXA1 downregulation
+R6	Association Arg1:T21 Arg2:T19	
+T23	Gene-Protein 747 752	FOXA1
+#4	AnnotatorNotes T23	HGNC:5021
+T24	Gene-Protein 896 901	FOXA1
+T27	Gene-Protein 1102 1107	FOXA1
+T28	Gene-Protein 1145 1152	RASSF1A
+#5	AnnotatorNotes T28	not found
+T29	Gene-Protein 1314 1321	RASSF1A
+T30	Biomarker 1314 1338	RASSF1A hypermethylation
+T31	Gene-Protein 1546 1553	RASSF1A
+R7	Prognostic-Poor Arg1:T30 Arg2:T22	
+T25	Gene-Protein 1700 1707	RASSF1A
+T32	Biomarker 1546 1565	RASSF1A methylation
+R8	Association Arg1:T32 Arg2:T26	

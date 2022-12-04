@@ -1,0 +1,65 @@
+T1	Disease 86 89	SAH
+T10	Disease 682 685	SAH
+T12	Biomarker 744 796	low circulating levels of lipid transporter proteins
+T13	Disease 829 843	liver diseases
+#4	AnnotatorNotes T13	DOID:409
+T14	Biomarker 854 900	low tissue expression of PON1, LDLR, and ABCA1
+T15	Biomarker 907 966	higher expression of the lipid‐uptake receptor (CD36, SRB1)
+T16	Disease 996 1019	steatosis in alcoholics
+#5	AnnotatorNotes T16	DOID:9452
+T2	Biomarker 148 225	plasma levels of PON1, APOB, APOA1, APOA2, and APOC3 were significantly lower
+T3	Biomarker 329 438	Total cholesterol, TGs, HDL cholesterol, LDL cholesterol, and VLDL cholesterol were also significantly higher
+T4	Chemical 335 346	cholesterol
+T5	Chemical 353 368	HDL cholesterol
+T6	Chemical 370 385	LDL cholesterol
+T7	Chemical 391 407	VLDL cholesterol
+T8	Disease 456 459	SAH
+T9	Biomarker 554 591	lower levels of PON1, LDLR, and ABCA1
+#1	AnnotatorNotes T1	not found
+T19	Biomarker 235 282	APOC1 and APOE levels were significantly higher
+T20	Gene-Protein 165 169	PON1
+#2	AnnotatorNotes T20	HGNC:9204
+T21	Gene-Protein 171 175	APOB
+#3	AnnotatorNotes T21	HGNC:603
+T22	Gene-Protein 177 182	APOA1
+#7	AnnotatorNotes T22	HGNC:600
+T23	Gene-Protein 184 189	APOA2
+#8	AnnotatorNotes T23	HGNC:601
+T24	Gene-Protein 195 200	APOC3
+#9	AnnotatorNotes T24	HGNC:610
+T25	Gene-Protein 235 240	APOC1
+#10	AnnotatorNotes T25	HGNC:607
+T26	Gene-Protein 245 249	APOE
+#11	AnnotatorNotes T26	HGNC:613
+T27	Collection 148 282	plasma levels of PON1, APOB, APOA1, APOA2, and APOC3 were significantly lower, whereas APOC1 and APOE levels were significantly higher
+R1	Association Arg1:T27 Arg2:T1	
+T28	Disease 295 297	AC
+#12	AnnotatorNotes T28	DOID:14018
+T29	Chemical 348 351	TGs
+R2	Association Arg1:T3 Arg2:T8	
+T30	Gene-Protein 570 574	PON1
+T31	Gene-Protein 576 580	LDLR
+#13	AnnotatorNotes T31	HGNC:6547
+T32	Gene-Protein 586 591	ABCA1
+#14	AnnotatorNotes T32	HGNC:29
+T33	Biomarker 605 651	levels of CD36, SRB1, and ABCG1 were increased
+T34	Gene-Protein 615 619	CD36
+#15	AnnotatorNotes T34	 HGNC:1663
+T35	Gene-Protein 621 625	SRB1
+#16	AnnotatorNotes T35	HGNC:1664
+T36	Gene-Protein 631 636	ABCG1
+#17	AnnotatorNotes T36	HGNC:73
+T37	Collection 554 651	lower levels of PON1, LDLR, and ABCA1, whereas the levels of CD36, SRB1, and ABCG1 were increased
+R3	Association Arg1:T37 Arg2:T10	
+R4	Association Arg1:T12 Arg2:T13	
+T11	GeneFamily 770 787	lipid transporter
+#18	AnnotatorNotes T11	not found
+T38	Gene-Protein 879 883	PON1
+T39	Gene-Protein 885 889	LDLR
+T40	Gene-Protein 895 900	ABCA1
+T41	Gene-Protein 955 959	CD36
+T42	Gene-Protein 961 965	SRB1
+T18	Collection 854 966	low tissue expression of PON1, LDLR, and ABCA1 and a higher expression of the lipid‐uptake receptor (CD36, SRB1)
+T43	GeneFamily 932 953	lipid‐uptake receptor
+#19	AnnotatorNotes T43	not found
+R5	Association Arg1:T18 Arg2:T16	

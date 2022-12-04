@@ -1,0 +1,73 @@
+T0	Drug 30 66	High-density lipoprotein cholesterol
+T1	Disease 113 128	atherosclerosis
+#2	AnnotatorNotes T1	DOID:1936
+T10	Disease 1083 1105	cardiovascular disease
+#3	AnnotatorNotes T10	DOID:1287
+T11	Disease 1107 1110	CVD
+T12	Disease 1210 1213	AMD
+T13	Disease 1268 1271	CVD
+T14	Disease 1299 1334	CRC patients with ocular metastases
+T15	Disease 1440 1443	CRC
+T2	Chemical 155 166	cholesterol
+T3	Disease 339 345	cancer
+#10	AnnotatorNotes T3	DOID:162
+T4	Disease 393 399	cancer
+T5	Disease 519 526	cancers
+T6	Disease 601 618	colorectal tumors
+#13	AnnotatorNotes T6	DOID:9256
+T8	Disease 1009 1041	age-related macular degeneration
+T9	Disease 1043 1046	AMD
+#16	AnnotatorNotes T9	DOID:10871
+#1	AnnotatorNotes T0	D008076
+R1	Protects-from Arg1:T0 Arg2:T1	
+T16	Chemical 68 71	HDL
+T17	Chemical 379 382	HDL
+T18	Biomarker 379 382	HDL
+R2	Risk-Factor Arg1:T18 Arg2:T4	
+T19	Biomarker 479 488	HDL level
+R3	Association Arg1:T19 Arg2:T5	
+T20	Chemical 479 482	HDL
+T21	Chemical 546 549	HDL
+T22	Biomarker 546 549	HDL
+R4	Association Arg1:T22 Arg2:T6	
+T23	Chemical 664 667	HDL
+T24	Biomarker 664 667	HDL
+T25	Biomarker 693 771	increased levels of anti-inflammatory cytokines such as interleukin 10 (IL-10)
+T26	GeneFamily 713 740	anti-inflammatory cytokines
+#4	AnnotatorNotes T26	not found
+T27	Gene-Protein 749 763	interleukin 10
+#6	AnnotatorNotes T27	HGNC:5962
+T28	Gene-Protein 765 770	IL-10
+#7	AnnotatorNotes T28	HGNC:5962
+T29	Gene-Protein 831 835	IL-6
+#8	AnnotatorNotes T29	HGNC:6018
+T7	GeneFamily 840 871	tumor necrosis factor receptors
+#9	AnnotatorNotes T7	family:782
+T30	Biomarker 975 985	HDL levels
+T31	Chemical 975 978	HDL
+#11	AnnotatorNotes T8	DOID:10871
+T32	Disease 1057 1064	dry eye
+#12	AnnotatorNotes T32	DOID:10140
+T33	Disease 1066 1068	DE
+#14	AnnotatorNotes T33	DOID:10140
+#15	AnnotatorNotes T11	DOID:1287
+T34	Collection 1009 1111	age-related macular degeneration (AMD), 30 – 32 dry eye (DE), 33 , 34 and cardiovascular disease (CVD)
+R5	Association Arg1:T30 Arg2:T34	
+T35	Biomarker 1153 1168	high HDL levels
+T36	Chemical 1158 1161	HDL
+R6	Risk-Factor Arg1:T35 Arg2:T12	
+T37	Disease 1261 1263	DE
+T38	Collection 1261 1271	DE and CVD
+T39	Biomarker 1230 1244	low HDL levels
+T40	Chemical 1234 1237	HDL
+R7	Association Arg1:T39 Arg2:T38	
+#5	AnnotatorNotes T14	DOID:9256, DOID:2174
+A1	Conjunction T14
+T41	Biomarker 1339 1368	increased serum levels of HDL
+T42	Chemical 1365 1368	HDL
+R8	Association Arg1:T41 Arg2:T14	
+T43	Biomarker 1415 1418	HDL
+T44	Chemical 1415 1418	HDL
+R9	Association Arg1:T43 Arg2:T15	
+#17	AnnotatorNotes T5	DOID:162
+#18	AnnotatorNotes T18	D008076

@@ -1,0 +1,100 @@
+T1	Disease 28 46	Systemic sclerosis
+#1	AnnotatorNotes T1	DOID:418
+T10	Disease 641 659	systemic sclerosis
+T11	Gene-Protein 661 669	Visfatin
+T12	Biomarker 661 669	Visfatin
+T13	Disease 704 716	skin lesions
+#4	AnnotatorNotes T13	not found
+T14	Disease 720 749	late-stage systemic sclerosis
+#5	AnnotatorNotes T14	not found
+T15	Biomarker 751 759	Chemerin
+T18	Disease 866 899	early stage of systemic sclerosis
+T19	Disease 951 965	digital ulcers
+#9	AnnotatorNotes T19	not found
+T21	Disease 1082 1085	SSc
+#11	AnnotatorNotes T21	DOID:418
+T22	Biomarker 1100 1122	Serum adipokine levels
+T23	Disease 1175 1193	systemic sclerosis
+T24	Disease 1303 1321	systemic sclerosis
+T4	Biomarker 99 111	vasculopathy
+T5	Biomarker 116 131	tissue fibrosis
+T6	Disease 332 350	systemic sclerosis
+#17	AnnotatorNotes T6	DOID:418
+T7	Disease 567 575	fibrosis
+#18	AnnotatorNotes T7	DOID:0050855
+T8	Biomarker 594 602	Resistin
+T2	Collection 99 131	vasculopathy and tissue fibrosis
+R1	Diagnostic-of Arg1:T2 Arg2:T1	
+T3	GeneFamily 163 173	adipokines
+#3	AnnotatorNotes T3	not found
+T25	GeneFamily 262 270	cytokine
+#10	AnnotatorNotes T25	not found
+T26	Biomarker 163 173	adipokines
+#14	AnnotatorNotes T26	D054392
+T27	GeneFamily 352 362	Adipokines
+#15	AnnotatorNotes T27	not found
+T28	Gene-Protein 372 378	leptin
+#16	AnnotatorNotes T28	HGNC:6553
+T29	Gene-Protein 380 391	adiponectin
+#20	AnnotatorNotes T29	 HGNC:13633
+T30	Gene-Protein 471 482	Adiponectin
+#21	AnnotatorNotes T30	 HGNC:13633
+T31	Gene-Protein 393 401	resistin
+#22	AnnotatorNotes T31	HGNC:20389
+T32	Gene-Protein 594 602	Resistin
+#23	AnnotatorNotes T32	HGNC:20389
+T33	Gene-Protein 403 410	adipsin
+#24	AnnotatorNotes T33	HGNC:2771
+T34	Gene-Protein 412 420	visfatin
+#25	AnnotatorNotes T34	HGNC:30092
+T35	Gene-Protein 424 432	chemerin
+#26	AnnotatorNotes T35	HGNC:9868
+T36	Gene-Protein 751 759	Chemerin
+#27	AnnotatorNotes T36	HGNC:9868
+#28	AnnotatorNotes T11	HGNC:30092
+T37	Gene-Protein 551 557	Leptin
+#29	AnnotatorNotes T37	HGNC:6553
+T38	Disease 580 592	inflammation
+#30	AnnotatorNotes T38	D007249
+T39	Collection 567 592	fibrosis and inflammation
+T40	Biomarker 551 557	Leptin
+#2	AnnotatorNotes T40	D020738
+R2	Association Arg1:T40 Arg2:T39	
+#19	AnnotatorNotes T8	D052243
+T9	Biomarker 617 637	vascular involvement
+#31	AnnotatorNotes T12	D054409
+T41	Collection 704 749	skin lesions in late-stage systemic sclerosis
+R3	Association Arg1:T12 Arg2:T41	
+#32	AnnotatorNotes T15	C102741
+T16	Biomarker 801 824	impaired renal function
+T42	Biomarker 829 858	development of skin sclerosis
+T17	Gene-Protein 901 907	Vaspin
+#6	AnnotatorNotes T17	HGNC:18359
+T43	Drug 901 907	Vaspin
+#7	AnnotatorNotes T43	C507339
+R4	Protects-from Arg1:T43 Arg2:T19	
+T44	Gene-Protein 996 1003	adipsin
+#8	AnnotatorNotes T44	HGNC:2771
+T45	Gene-Protein 1005 1011	apelin
+#33	AnnotatorNotes T45	HGNC:16665
+T46	Gene-Protein 1013 1020	omentin
+#34	AnnotatorNotes T46	HGNC:18259
+T47	Gene-Protein 1025 1031	CTRP-3
+#35	AnnotatorNotes T47	HGNC:14326
+T48	GeneFamily 985 995	adipokines
+T20	Collection 996 1031	adipsin, apelin, omentin and CTRP-3
+T49	Biomarker 996 1003	adipsin
+T50	Biomarker 1005 1011	apelin
+T51	Biomarker 1013 1020	omentin
+T52	Biomarker 1025 1031	CTRP-3
+R5	Association Arg1:T20 Arg2:T21	
+T53	GeneFamily 1106 1115	adipokine
+R6	Diagnostic-of Arg1:T22 Arg2:T23	
+T54	GeneFamily 1288 1298	adipokines
+#13	AnnotatorNotes T49	C493488
+#36	AnnotatorNotes T50	D000073861
+#37	AnnotatorNotes T51	C432397
+#38	AnnotatorNotes T52	C506069
+#39	AnnotatorNotes T18	not found
+T55	Disease 63 81	autoimmune disease
+#40	AnnotatorNotes T55	DOID:417

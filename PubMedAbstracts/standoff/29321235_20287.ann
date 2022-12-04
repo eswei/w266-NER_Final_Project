@@ -1,0 +1,41 @@
+T0	Chemical 53 64	¹⁸F-AV-1451
+T1	Disease 104 106	AD
+#2	AnnotatorNotes T1	DOID:10652
+T10	Chemical 1217 1228	¹⁸F-AV-1451
+T2	Biomarker 269 318	release of tau due to nonspecific neuronal injury
+T3	Chemical 434 445	¹⁸F-AV-1451
+T4	Chemical 663 674	¹⁸F-AV-1451
+T5	Disease 860 872	prodromal AD
+T6	Disease 877 888	AD dementia
+#8	AnnotatorNotes T6	not found
+T7	Chemical 984 995	¹⁸F-AV-1451
+T8	Disease 1021 1032	AD dementia
+T9	Disease 1045 1057	prodromal AD
+T12	Biomarker 81 88	CSF tau
+T13	Gene-Protein 85 88	tau
+#1	AnnotatorNotes T13	HGNC:6893
+T14	Biomarker 148 155	CSF tau
+T15	Gene-Protein 152 155	tau
+T16	Biomarker 239 261	CSF tau concentrations
+T17	Gene-Protein 243 246	tau
+T18	Gene-Protein 280 283	tau
+T19	Biomarker 399 406	CSF tau
+T20	Gene-Protein 403 406	tau
+T22	Gene-Protein 471 474	tau
+T23	Gene-Protein 525 528	tau
+T24	Gene-Protein 578 581	tau
+T25	Gene-Protein 634 637	tau
+T26	Biomarker 820 827	CSF tau
+T27	Gene-Protein 824 827	tau
+T28	Collection 860 888	prodromal AD and AD dementia
+#3	AnnotatorNotes T5	not found
+R1	Association Arg1:T26 Arg2:T28	
+T11	Gene-Protein 1369 1372	tau
+T21	Gene-Protein 1412 1415	tau
+T29	Gene-Protein 1192 1195	tau
+T30	Gene-Protein 1278 1281	tau
+T31	Gene-Protein 1116 1119	tau
+T32	Gene-Protein 765 767	Aβ
+#4	AnnotatorNotes T32	not found
+T33	Disease 37 45	dementia
+#5	AnnotatorNotes T33	DOID:1307

@@ -1,0 +1,66 @@
+T0	Chemical 72 78	serine
+T1	Chemical 79 88	threonine
+T10	Disease 933 959	non-small cell lung cancer
+#3	AnnotatorNotes T10	DOID:3908
+T12	Disease 990 1002	osteosarcoma
+#5	AnnotatorNotes T12	DOID:3347
+T13	Disease 1109 1114	tumor
+#6	AnnotatorNotes T13	DOID:162
+T14	Disease 1170 1173	CRC
+T15	Disease 1252 1258	cancer
+T16	Disease 1364 1367	CRC
+T2	Disease 293 299	cancer
+#10	AnnotatorNotes T2	DOID:162
+T3	Disease 349 355	cancer
+T4	Disease 456 471	B-cell lymphoma
+#12	AnnotatorNotes T4	DOID:707
+T5	Disease 476 490	ovarian cancer
+#13	AnnotatorNotes T5	DOID:2394
+T6	Disease 594 609	cervical cancer
+#14	AnnotatorNotes T6	DOID:4362
+T7	Disease 696 709	breast cancer
+#15	AnnotatorNotes T7	DOID:1612
+T9	Disease 909 915	cancer
+T17	GeneFamily 53 57	Plks
+#1	AnnotatorNotes T17	not found
+T18	GeneFamily 34 51	polo-like kinases
+#2	AnnotatorNotes T18	not found
+T19	Gene-Protein 335 339	Plk2
+#7	AnnotatorNotes T19	HGNC:19699
+T20	Gene-Protein 430 434	Plk2
+T21	Gene-Protein 504 508	Plk2
+T22	Gene-Protein 653 657	Plk2
+T23	Gene-Protein 775 779	Plk2
+T24	Gene-Protein 1073 1077	Plk2
+T25	Gene-Protein 813 817	Plk2
+T26	Gene-Protein 1321 1325	Plk2
+T27	Gene-Protein 1225 1229	Plk2
+T28	Gene-Protein 178 182	Plk1
+#9	AnnotatorNotes T28	HGNC:9077
+T29	Biomarker 178 182	Plk1
+#18	AnnotatorNotes T29	C090134
+R1	Association Arg1:T29 Arg2:T2	
+T30	Biomarker 385 434	predominate suppression of the expression of Plk2
+T31	Collection 456 490	B-cell lymphoma and ovarian cancer
+R2	Association Arg1:T30 Arg2:T31	
+T32	Drug-Class 551 572	chemotherapeutic drug
+R3	Mediated-Response Arg1:T32 Arg2:T6	
+T33	Biomarker 504 508	Plk2
+R4	Mediator Arg1:T32 Arg2:T33	
+T34	Biomarker 633 657	lower expression of Plk2
+R5	Prognostic-Poor Arg1:T34 Arg2:T7	
+T35	Drug-Class 721 732	irradiation
+T8	Biomarker 775 779	Plk2
+T36	Collection 909 1002	cancer cells, including non-small cell lung cancer, head and neck carcinoma, and osteosarcoma
+T37	Biomarker 813 817	Plk2
+R6	Association Arg1:T37 Arg2:T36	
+T38	Biomarker 1055 1105	protein levels of Plk2 were significantly elevated
+R7	Association Arg1:T38 Arg2:T13	
+R8	Prognostic-Poor Arg1:T38 Arg2:T14	
+T39	Biomarker 1225 1229	Plk2
+T40	Biomarker 1321 1325	Plk2
+#8	AnnotatorNotes T14	DOID:9256
+T41	Disease 961 984	head and neck carcinoma
+#11	AnnotatorNotes T41	DOID:1542
+#4	AnnotatorNotes T33	C496126
+R9	Association Arg1:T39 Arg2:T15	

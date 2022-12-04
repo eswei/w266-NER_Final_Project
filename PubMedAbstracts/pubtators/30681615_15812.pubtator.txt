@@ -1,0 +1,54 @@
+30681615_15812|t|RSS_IDENT_p_30681615_b_1_4_5
+30681615_15812|a| APOB is one of the major genes used for the molecular diagnosis of FH. The chromosomal region is located in the 2p24.1 region.[ ²¹ ]APOB was initially discovered in 1987 in phenotypic patients with FH, which revealed that FH is not related to mutations in LDLR.[ ²² ]ApoB has a specific role in FH disease, and variants in APOB typically occur in the exons. Patients with FH with a familial deficiency in APOB may have a milder form of the disease, which can affect LDLR mutations.[ ²³ ]APOB is known to be associated with FH and it very important in the diagnosis of FH disease. Patients with homozygous FH may be documented in a proband with the appearance of biallelic pathogenic variants.[ ²⁴ ] This gene encodes 2 proteins (ApoB-48 and ApoB-100), which play a major role in disease diagnosis. ApoB-48 is present in the intestine and ApoB-100 is in the liver. FH disease with APOB is confirmed by documenting 5 known mutations in ApoB-100. Each mutation blocks cholesterol in the walls of coronary arteries, increasing cholesterol levels and thus the risk of heart attack. Each mutation modifies a single protein building block in a critical region of ApoB-100. LDLs are removed from the blood by the modified proteins, leading to increased cholesterol levels. This is the major relationship between FH and APOB.[ ²⁵ ] In any population, patients with mutations in Val2095Glu may have a greater risk of developing FH disease. The 2 SNPs (rs151009667 and Val2095Glu) examined in the present study may promote FH disease development because of the appearance of homozygous and heterozygous variants. 
+30681615_15812	30	34	APOB	Gene-protein	HGNC:603
+30681615_15812	30	34	APOB	Biomarker	D001055
+30681615_15812	97	99	FH	Disease	DOID:13810
+30681615_15812	162	166	APOB	Gene-protein
+30681615_15812	162	166	APOB	Biomarker
+30681615_15812	228	230	FH	Disease
+30681615_15812	252	254	FH	Disease
+30681615_15812	273	290	mutations in LDLR	Biomarker
+30681615_15812	286	290	LDLR	Gene-protein	HGNC:6547
+30681615_15812	297	301	ApoB	Gene-protein	HGNC:603
+30681615_15812	297	301	ApoB	Biomarker
+30681615_15812	325	327	FH	Disease
+30681615_15812	341	357	variants in APOB	Biomarker
+30681615_15812	353	357	APOB	Gene-protein
+30681615_15812	402	404	FH	Disease
+30681615_15812	412	439	familial deficiency in APOB	Biomarker
+30681615_15812	496	500	LDLR	Gene-protein
+30681615_15812	496	510	LDLR mutations	Biomarker
+30681615_15812	517	521	APOB	Biomarker
+30681615_15812	517	521	APOB	Gene-protein
+30681615_15812	553	555	FH	Disease
+30681615_15812	598	600	FH	Disease
+30681615_15812	635	637	FH	Disease
+30681615_15812	692	721	biallelic pathogenic variants	Biomarker
+30681615_15812	759	766	ApoB-48	Gene-protein	HGNC:603
+30681615_15812	759	766	ApoB-48	Biomarker	D053283
+30681615_15812	759	779	ApoB-48 and ApoB-100	Collection
+30681615_15812	771	779	ApoB-100	Gene-protein	HGNC:603
+30681615_15812	771	779	ApoB-100	Biomarker	D053299
+30681615_15812	828	835	ApoB-48	Gene-protein
+30681615_15812	868	876	ApoB-100	Gene-protein
+30681615_15812	894	896	FH	Disease
+30681615_15812	910	914	APOB	Gene-protein
+30681615_15812	951	972	mutations in ApoB-100	Biomarker
+30681615_15812	964	972	ApoB-100	Gene-protein
+30681615_15812	995	1006	cholesterol	Chemical
+30681615_15812	1042	1071	increasing cholesterol levels	Biomarker
+30681615_15812	1053	1064	cholesterol	Chemical
+30681615_15812	1093	1105	heart attack	Disease	DOID:5844
+30681615_15812	1186	1194	ApoB-100	Gene-protein
+30681615_15812	1196	1200	LDLs	Chemical
+30681615_15812	1275	1286	cholesterol	Chemical
+30681615_15812	1334	1336	FH	Disease
+30681615_15812	1341	1345	APOB	Biomarker
+30681615_15812	1341	1345	APOB	Gene-protein
+30681615_15812	1399	1409	Val2095Glu	Variant	p.Val2095Glu
+30681615_15812	1448	1450	FH	Disease
+30681615_15812	1472	1483	rs151009667	Biomarker
+30681615_15812	1472	1498	rs151009667 and Val2095Glu	Collection
+30681615_15812	1488	1498	Val2095Glu	Biomarker
+30681615_15812	1542	1544	FH	Disease
+

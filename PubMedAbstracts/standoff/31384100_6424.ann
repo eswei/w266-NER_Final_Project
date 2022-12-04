@@ -1,0 +1,81 @@
+T1	Disease 78 80	HT
+#1	AnnotatorNotes T1	DOID:7188
+T10	Disease 747 766	psoriatic arthritis
+T11	Disease 771 793	ankylosing spondylitis
+#3	AnnotatorNotes T11	DOID:7147
+T12	Biomarker 826 830	HA20
+T13	Disease 881 901	autoimmune disorders
+T14	Disease 915 917	HT
+T15	Biomarker 958 1087	HLA alleles such as A2 ( 7 ), A*02:07 ( 8 ), DR3 ( 9 ), DRB1*03:01 ( 10 ), DR4 (DR53, DRB4) ( 7 - 9 ), DR5 ( 11 ), and DRB1*11:04
+T17	Biomarker 1219 1226	TNFAIP3
+T18	Variant 1285 1291	*14:03
+T19	Disease 1362 1364	GD
+#7	AnnotatorNotes T19	DOID:12361
+T2	Biomarker 284 446	polymorphisms of HLA, cytotoxic T-lymphocyte-associated protein 4 (CTLA4), protein tyrosine phosphatase non-receptor type 22 (PTPN22), or thyroglobulin (Tg) genes
+T20	Disease 1405 1407	HT
+T21	Biomarker 1456 1466	HLA allele
+T22	Disease 1505 1507	HT
+T23	Biomarker 1561 1568	TNFAIP3
+T24	Disease 1615 1617	HT
+T3	Chemical 367 375	tyrosine
+T4	Biomarker 473 481	HLA gene
+T5	Disease 513 532	autoimmune diseases
+#12	AnnotatorNotes T5	DOID:417
+T6	Disease 581 600	psoriatic arthritis
+#13	AnnotatorNotes T6	DOID:9008
+T7	Disease 602 613	spondylitis
+#14	AnnotatorNotes T7	DOID:6590
+T8	Disease 619 639	aortic insufficiency
+#15	AnnotatorNotes T8	DOID:57
+T9	Gene-Protein 709 716	HLA-B27
+T25	GeneFamily 1642 1645	HLA
+R1	Association Arg1:T23 Arg2:T24	
+T26	Gene-Protein 1561 1568	TNFAIP3
+T27	Disease 276 278	HT
+T28	GeneFamily 301 304	HLA
+#6	AnnotatorNotes T28	family:588
+T29	Gene-Protein 351 356	CTLA4
+#11	AnnotatorNotes T29	HGNC:2505
+T30	Gene-Protein 306 349	cytotoxic T-lymphocyte-associated protein 4
+#16	AnnotatorNotes T30	HGNC:2505
+T31	Gene-Protein 410 416	PTPN22
+#17	AnnotatorNotes T31	HGNC:9652
+T32	Gene-Protein 359 408	protein tyrosine phosphatase non-receptor type 22
+#18	AnnotatorNotes T32	HGNC:9652
+T33	Gene-Protein 422 435	thyroglobulin
+#19	AnnotatorNotes T33	HGNC:11764
+T34	Gene-Protein 437 439	Tg
+#20	AnnotatorNotes T34	HGNC:11764
+R2	Association Arg1:T2 Arg2:T27	
+R3	Association Arg1:T4 Arg2:T5	
+T35	GeneFamily 473 476	HLA
+T36	Biomarker 537 541	HA20
+T37	Collection 581 639	psoriatic arthritis, spondylitis, and aortic insufficiency
+R4	Association Arg1:T36 Arg2:T37	
+#21	AnnotatorNotes T9	not found
+T38	Biomarker 709 716	HLA-B27
+#22	AnnotatorNotes T38	D015796
+T39	Collection 747 793	psoriatic arthritis and ankylosing spondylitis
+R5	Association Arg1:T38 Arg2:T39	
+R6	Association Arg1:T12 Arg2:T13	
+T40	GeneFamily 910 913	HLA
+T41	Biomarker 910 913	HLA
+T42	GeneFamily 942 945	HLA
+T43	GeneFamily 958 961	HLA
+T44	Gene-Protein 1126 1133	TNFAIP3
+#2	AnnotatorNotes T44	HGNC:11896
+T45	GeneFamily 1138 1141	HLA
+T46	Gene-Protein 1219 1226	TNFAIP3
+#4	AnnotatorNotes T17	C076529
+T47	Gene-Protein 1231 1234	HLA
+T48	Biomarker 1231 1234	HLA
+R8	Risk-Factor Arg1:T18 Arg2:T19	
+T49	GeneFamily 1347 1350	HLA
+T50	GeneFamily 1456 1459	HLA
+T51	Gene-Protein 1738 1743	CTLA4
+T16	Biomarker 942 954	HLA antigens
+T52	Collection 942 1087	HLA antigens or HLA alleles such as A2 ( 7 ), A*02:07 ( 8 ), DR3 ( 9 ), DRB1*03:01 ( 10 ), DR4 (DR53, DRB4) ( 7 - 9 ), DR5 ( 11 ), and DRB1*11:04
+R7	Association Arg1:T52 Arg2:T14	
+T53	Gene-Protein 1281 1285	DRB1
+#5	AnnotatorNotes T53	HGNC:4948
+R9	Variant-Of Arg1:T53 Arg2:T18	

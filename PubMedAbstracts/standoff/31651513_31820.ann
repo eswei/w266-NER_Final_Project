@@ -1,0 +1,93 @@
+T0	Disease 107 115	diabetes
+#1	AnnotatorNotes T0	not found
+T1	Disease 120 130	overweight
+T10	Disease 714 722	diabetes
+T12	Disease 1063 1070	obesity
+T13	Disease 1075 1083	diabetes
+T14	Chemical 1145 1152	25(OH)D
+T15	Disease 1258 1268	overweight
+T16	Disease 1272 1279	obesity
+T17	Disease 1453 1458	obese
+#10	AnnotatorNotes T17	DOID:9970
+T19	Disease 1529 1533	T2DM
+#12	AnnotatorNotes T19	DOID:9352
+T2	Disease 131 138	obesity
+#13	AnnotatorNotes T2	DOID:9970
+T3	Disease 221 224	GDM
+#14	AnnotatorNotes T3	DOID:11714
+T4	Disease 349 359	overweight
+T5	Disease 360 367	obesity
+T6	Chemical 450 457	glucose
+T7	Disease 559 567	diabetic
+#18	AnnotatorNotes T7	not found
+T20	Biomarker 63 89	FINS and HOMA-IR increased
+T21	Collection 107 138	diabetes and overweight/obesity
+R1	Association Arg1:T20 Arg2:T21	
+T22	Biomarker 156 187	HDL-C and adiponectin decreased
+T23	Biomarker 193 203	FFA levels
+T24	Collection 156 203	HDL-C and adiponectin decreased; the FFA levels
+R2	Association Arg1:T24 Arg2:T3	
+T25	Collection 271 303	VDR mRNA, PPAR mRNA, and HOMA-IR
+T26	Disease 320 323	GDM
+R3	Association Arg1:T25 Arg2:T26	
+#2	AnnotatorNotes T1	D050177
+T27	Biomarker 369 402	HDL-C and FFA levels were related
+T28	Disease 406 409	GDM
+T29	Biomarker 271 279	VDR mRNA
+T30	Biomarker 281 290	PPAR mRNA
+T31	Biomarker 296 303	HOMA-IR
+R4	Association Arg1:T27 Arg2:T28	
+T32	Gene-Protein 271 274	VDR
+#7	AnnotatorNotes T32	HGNC:12679
+T33	Gene-Protein 281 285	PPAR
+#8	AnnotatorNotes T33	HGNC:9232
+T34	Gene-Protein 411 414	VDR
+T35	Gene-Protein 415 420	PPARγ
+#15	AnnotatorNotes T35	HGNC:9236
+T36	Chemical 469 474	lipid
+T37	Biomarker 450 464	glucose levels
+T38	Biomarker 411 431	VDR/PPARγ expression
+T39	Biomarker 469 485	lipid metabolism
+T40	Biomarker 527 555	lipid metabolism is abnormal
+R5	Association Arg1:T40 Arg2:T7	
+T41	Disease 613 646	obese and diabetic pregnant women
+#16	AnnotatorNotes T41	DOID:9970, not found
+T8	Biomarker 578 580	IR
+#17	AnnotatorNotes T8	D007333
+R6	Association Arg1:T8 Arg2:T41	
+T9	Gene-Protein 730 733	VDR
+T42	Biomarker 730 740	VDR levels
+T43	Biomarker 767 769	IR
+T44	Gene-Protein 986 993	insulin
+#3	AnnotatorNotes T44	HGNC:6081
+T45	Disease 891 894	GDM
+T46	Gene-Protein 940 951	adiponectin
+T47	Biomarker 1119 1152	baseline concentration of 25(OH)D
+T48	Gene-Protein 1218 1229	adiponectin
+T49	Biomarker 1218 1229	adiponectin
+T50	Biomarker 1180 1186	TC /TG
+T51	Gene-Protein 166 177	adiponectin
+#4	AnnotatorNotes T51	HGNC:13633
+T52	GeneFamily 958 967	adipokine
+#5	AnnotatorNotes T52	not found
+T53	Gene-Protein 1376 1383	insulin
+T54	Gene-Protein 1419 1430	adiponectin
+T55	Gene-Protein 1356 1363	insulin
+T56	Gene-Protein 1313 1318	PPARγ
+T57	Gene-Protein 1281 1292	Adiponectin
+#6	AnnotatorNotes T57	HGNC:13633
+T58	Gene-Protein 1043 1050	insulin
+T11	Biomarker 832 884	impaired FFA transport at the mother-fetal interface
+T60	Biomarker 899 909	FFA levels
+T61	Biomarker 930 932	IR
+T62	Biomarker 1281 1292	Adiponectin
+#9	AnnotatorNotes T62	D052242
+T63	Disease 777 826	Pregnant women with high pre-pregnancy BMI or GDM
+#11	AnnotatorNotes T63	not found, not found
+R8	Association Arg1:T11 Arg2:T63	
+T59	Biomarker 940 951	adiponectin
+#19	AnnotatorNotes T59	D052242
+T64	Collection 1063 1083	obesity and diabetes
+R9	Association Arg1:T59 Arg2:T64	
+T65	Biomarker 1399 1449	decreased levels of adiponectin in the circulation
+T18	Biomarker 1507 1525	β-cell dysfunction

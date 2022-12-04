@@ -1,0 +1,36 @@
+31073307_4349|t|RSS_IDENT_p_31073307_b_1_1_4
+31073307_4349|a| In many cases, microRNAs play essential roles in gene regulation [ 12 ]. miR-485-5p has been reported to suppress mitochondrial respiration, cell migration, and invasion in breast cancer cell lines [ 13 ]. In oral tongue squamous cells, miR-485-5p antagonizes PAK1 to reverse epithelial to mesenchymal transition and promote cisplatin-induced cell death [ 14 ]. miR-485-5p also could serve as a prognostic biomarker and associate with better survival in gastric cancer [ 15 – 17 ]. Other microRNAs like miR-181c were reported to reduce the proliferation, migration, and invasion of neuroblastoma cells through targeting Smad7 [ 18 ]. However, another report demonstrated that miR-181c functioned as an oncogene and promoted proliferation through inhibiting PTEN protein expression by targeting 3'-UTR of PTEN mRNA in inflammatory breast cancer SUM149 cells [ 19 ]. The mature form of miR-181c could also translocate into mitochondria and suppress the mitochondrial function through targeting of the mt-Cox1 gene [ 20 ]. Moreover, miR-181c was also reported to be involved in chemoresistance and antagonized long non-coding RNA GAS5 in pancreatic cancers [ 21 , 22 ]. It also contributed to the resistance of cisplatin in non-small cell lung cancer cells by targeting Wnt inhibition factor 1 [ 23 ]. Neither miR-485-5p nor miR-181c has been previously reported to target MCAK gene and reduce its expression level in cancers.
+31073307_4349	103	113	miR-485-5p	Rna-noncoding	HGNC:32067
+31073307_4349	103	113	miR-485-5p	Drug	C556501
+31073307_4349	203	216	breast cancer	Disease	DOID:1612
+31073307_4349	267	277	miR-485-5p	Rna-noncoding
+31073307_4349	267	277	miR-485-5p	Drug
+31073307_4349	290	294	PAK1	Gene-protein	HGNC:8590
+31073307_4349	355	364	cisplatin	Drug	CHEMBL11359
+31073307_4349	392	402	miR-485-5p	Rna-noncoding
+31073307_4349	392	402	miR-485-5p	Biomarker	C556501
+31073307_4349	484	498	gastric cancer	Disease	DOID:10534
+31073307_4349	533	541	miR-181c	Rna-noncoding	HGNC:31552
+31073307_4349	533	541	miR-181c	Drug	C000608460
+31073307_4349	612	625	neuroblastoma	Disease	DOID:769
+31073307_4349	650	655	Smad7	Gene-protein	HGNC:6773
+31073307_4349	706	714	miR-181c	Rna-noncoding
+31073307_4349	706	714	miR-181c	Biomarker	C000608460
+31073307_4349	787	791	PTEN	Gene-protein	HGNC:9588
+31073307_4349	834	838	PTEN	Gene-protein
+31073307_4349	847	873	inflammatory breast cancer	Disease	DOID:6263
+31073307_4349	874	880	SUM149	Cellline
+31073307_4349	914	922	miR-181c	Rna-noncoding
+31073307_4349	1032	1036	Cox1	Gene-protein	HGNC:9604
+31073307_4349	1060	1068	miR-181c	Rna-noncoding
+31073307_4349	1060	1068	miR-181c	Biomarker
+31073307_4349	1157	1161	GAS5	Rna-noncoding	HGNC:16355
+31073307_4349	1165	1183	pancreatic cancers	Disease	DOID:1793
+31073307_4349	1238	1247	cisplatin	Drug
+31073307_4349	1251	1277	non-small cell lung cancer	Disease	DOID:3908
+31073307_4349	1297	1320	Wnt inhibition factor 1	Gene-protein	HGNC:18081
+31073307_4349	1337	1347	miR-485-5p	Rna-noncoding
+31073307_4349	1352	1360	miR-181c	Rna-noncoding
+31073307_4349	1400	1404	MCAK	Gene-protein	HGNC:6393
+31073307_4349	1445	1452	cancers	Disease	DOID:162
+

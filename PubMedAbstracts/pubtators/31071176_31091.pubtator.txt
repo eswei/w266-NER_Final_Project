@@ -1,0 +1,48 @@
+31071176_31091|t|RSS_IDENT_p_31071176_b_1_4_4
+31071176_31091|a| It has been reported that activation of Akt by a PI3K dependent mechanism can stimulate translocation of the GLUT4 [ 38 ]. Here, reductions of total PI3K abundances and its phospho-PI3K p85ᵀʸʳ⁴⁵⁸/p55ᵀʸʳ¹⁹⁹ subunit were detected in the IUGR offsprings. The level of phospho-AktSᵉʳ⁴⁷³ was also reduced in the IUGR offsprings. These data implied a significant inhibition of the PI3K/Akt signaling activity in the IUGR offsprings. PTEN, as a negative regulator, is responsible for suppression of Akt activation by dephosphorylating phosphoinositide substrates [ 39 , 40 ]. As expected, a significant increase of the PTEN level was detected in the IUGR offsprings. Interestingly, it has been reported that increased PTEN expression is associated with the development of insulin resistance [ 41 ]. Loss-of-function PTEN mutations in adipose tissue results in systemic glucose tolerance and improvement of insulin sensitivity because of increased recruitment of the GLUT4 towards the membrane [ 42 ]. In glucosamine-induced insulin-resistant skeletal muscle cells, the rate of glucose uptake as well as the expression and translocation of GLUT4 were decreased, whereas the expressions of PTEN and phospho-PTEN were increased [ 43 ]. In combination with our findings, it suggests that PTEN may be a promising target for pharmacological interventions aimed at reversing insulin resistance in individuals with IUGR. 
+31071176_31091	70	73	Akt	Genefamily	family:1900
+31071176_31091	79	83	PI3K	Genefamily	family:831
+31071176_31091	139	144	GLUT4	Gene-protein	HGNC:11009
+31071176_31091	159	194	reductions of total PI3K abundances	Biomarker
+31071176_31091	159	243	reductions of total PI3K abundances and its phospho-PI3K p85ᵀʸʳ⁴⁵⁸/p55ᵀʸʳ¹⁹⁹ subunit	Collection
+31071176_31091	179	183	PI3K	Genefamily
+31071176_31091	203	243	phospho-PI3K p85ᵀʸʳ⁴⁵⁸/p55ᵀʸʳ¹⁹⁹ subunit	Biomarker
+31071176_31091	211	215	PI3K	Genefamily
+31071176_31091	265	269	IUGR	Disease	D005317
+31071176_31091	286	329	level of phospho-AktSᵉʳ⁴⁷³ was also reduced	Biomarker
+31071176_31091	295	302	phospho	Chemical
+31071176_31091	337	341	IUGR	Disease
+31071176_31091	375	432	significant inhibition of the PI3K/Akt signaling activity	Biomarker
+31071176_31091	405	409	PI3K	Genefamily
+31071176_31091	410	413	Akt	Genefamily
+31071176_31091	440	444	IUGR	Disease
+31071176_31091	457	461	PTEN	Gene-protein	HGNC:9588
+31071176_31091	522	525	Akt	Genefamily
+31071176_31091	558	574	phosphoinositide	Chemical
+31071176_31091	626	652	increase of the PTEN level	Biomarker
+31071176_31091	642	646	PTEN	Gene-protein
+31071176_31091	673	677	IUGR	Disease
+31071176_31091	731	756	increased PTEN expression	Biomarker
+31071176_31091	741	745	PTEN	Gene-protein
+31071176_31091	795	802	insulin	Gene-protein	 HGNC:6081
+31071176_31091	795	813	insulin resistance	Disease	 D007333
+31071176_31091	839	843	PTEN	Gene-protein
+31071176_31091	844	853	mutations	Variant	Loss-of-funtion
+31071176_31091	892	899	glucose	Chemical
+31071176_31091	929	936	insulin	Gene-protein
+31071176_31091	989	994	GLUT4	Gene-protein
+31071176_31091	1027	1038	glucosamine	Chemical
+31071176_31091	1027	1064	glucosamine-induced insulin-resistant	Disease	not found
+31071176_31091	1047	1054	insulin	Gene-protein
+31071176_31091	1092	1182	rate of glucose uptake as well as the expression and translocation of GLUT4 were decreased	Biomarker
+31071176_31091	1092	1247	rate of glucose uptake as well as the expression and translocation of GLUT4 were decreased, whereas the expressions of PTEN and phospho-PTEN were increased	Collection
+31071176_31091	1100	1107	glucose	Chemical
+31071176_31091	1162	1167	GLUT4	Gene-protein
+31071176_31091	1196	1247	expressions of PTEN and phospho-PTEN were increased	Biomarker
+31071176_31091	1211	1215	PTEN	Gene-protein
+31071176_31091	1220	1232	phospho-PTEN	Gene-protein	HGNC:9588
+31071176_31091	1307	1311	PTEN	Gene-protein
+31071176_31091	1307	1311	PTEN	Biomarker	C494929
+31071176_31091	1391	1398	insulin	Gene-protein
+31071176_31091	1391	1434	insulin resistance in individuals with IUGR	Disease	D007333, D005317	Conjunction
+

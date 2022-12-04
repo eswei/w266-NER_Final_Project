@@ -1,0 +1,40 @@
+30147422_17605|t|RSS_IDENT_p_30147422_b_1_4_4
+30147422_17605|a| Conversely, our study showed that G6PDH and 6PGDH were up-regulated along with increased or unchanged GR in the heart and lung of aged diabetic rats. This finding confirms our previous reports (Gök et al., 2016 ) and is consistent with reports of others showing that high glucose concentrations leads to overexpression of G6PD and augmented PPP activity in different cell types (Peiró et al., 2012). The overactivation of PPP may be linked with increased depletion of NADPH in these tissues due to chronic hyperglycemia via increased polyol pathway activity and upregulated aldose reductase (Kyselova et al., 2005 ). However, the long-term overactivation of PPP would favor the utilization of NADPH by NADPH oxidase and the excess of free radical generation would further contribute to exhausting GSH (Peiró et al., 2016 ). NADPH oxidase requires higher concentrations of NADPH to be active, as the Michaelis constant for this enzyme is five times higher than for glutathione reductase (Matsui et al., 2005 ). It has been known for many years that diabetic patients have a decreased tissue concentration of GSH and the defects in GSH-dependent antioxidant enzymatic activity have been related to diabetes-associated tissue complications (Özdemir et al., 2009 ; Raza et al., 2012 ). In this context, we recall the early reports indicating that some tissues are highly sensitive even to low levels of hyperglycemia and NADPH than other tissues (Chandrasena et al., 2008 ; Zhang et al., 2010 ). It may be reasonable to explain the differences in enzymatic activities as the tissue’s responses to aged diabetes.
+30147422_17605	64	69	G6PDH	Gene-protein
+30147422_17605	64	134	G6PDH and 6PGDH were up-regulated along with increased or unchanged GR	Biomarker
+30147422_17605	74	79	6PGDH	Gene-protein
+30147422_17605	160	173	aged diabetic	Disease	not found
+30147422_17605	297	324	high glucose concentrations	Biomarker
+30147422_17605	302	309	glucose	Chemical
+30147422_17605	334	356	overexpression of G6PD	Biomarker
+30147422_17605	352	356	G6PD	Gene-protein	HGNC:4057
+30147422_17605	361	383	augmented PPP activity	Biomarker
+30147422_17605	434	455	overactivation of PPP	Biomarker
+30147422_17605	452	455	PPP	Chemical
+30147422_17605	475	503	increased depletion of NADPH	Biomarker
+30147422_17605	498	503	NADPH	Chemical
+30147422_17605	528	549	chronic hyperglycemia	Disease	not found
+30147422_17605	554	587	increased polyol pathway activity	Biomarker
+30147422_17605	592	620	upregulated aldose reductase	Biomarker
+30147422_17605	604	610	aldose	Chemical
+30147422_17605	604	620	aldose reductase	Gene-protein	not found
+30147422_17605	660	691	long-term overactivation of PPP	Biomarker
+30147422_17605	723	728	NADPH	Chemical
+30147422_17605	732	737	NADPH	Chemical
+30147422_17605	732	745	NADPH oxidase	Genefamily	not found
+30147422_17605	827	830	GSH	Chemical
+30147422_17605	854	859	NADPH	Chemical
+30147422_17605	854	867	NADPH oxidase	Genefamily
+30147422_17605	902	907	NADPH	Chemical
+30147422_17605	994	1005	glutathione	Chemical
+30147422_17605	994	1015	glutathione reductase	Gene-protein	HGNC:4623
+30147422_17605	1078	1086	diabetic	Disease
+30147422_17605	1103	1140	decreased tissue concentration of GSH	Biomarker
+30147422_17605	1137	1140	GSH	Chemical
+30147422_17605	1149	1204	defects in GSH-dependent antioxidant enzymatic activity	Biomarker
+30147422_17605	1160	1163	GSH	Chemical
+30147422_17605	1226	1266	diabetes-associated tissue complications	Disease	not found
+30147422_17605	1429	1442	hyperglycemia	Disease	DOID:4195
+30147422_17605	1447	1452	NADPH	Chemical
+30147422_17605	1623	1636	aged diabetes	Disease	not found
+

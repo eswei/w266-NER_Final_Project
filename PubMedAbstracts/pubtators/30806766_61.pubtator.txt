@@ -1,0 +1,58 @@
+30806766_61|t|RSS_IDENT_p_30806766_a_1_1
+30806766_61|a| Systemic sclerosis is a multiorgan autoimmune disease characterized by vasculopathy and tissue fibrosis of unknown etiology. Recently, adipokines (cell signaling proteins secreted by adipose tissue) have attracted much attention as a cytokine family contributing to the various pathological processes of systemic sclerosis. Adipokines, such as leptin, adiponectin, resistin, adipsin, visfatin or chemerin are a heterogenic group of molecules. Adiponectin exhibits anti-fibrotic features and affects inflammatory reactions. Leptin promotes fibrosis and inflammation. Resistin was linked to vascular involvement in systemic sclerosis. Visfatin was associated with regression of skin lesions in late-stage systemic sclerosis. Chemerin appears as a marker of increased risk of impaired renal function and development of skin sclerosis in the early stage of systemic sclerosis. Vaspin was indicated to have a protective role in digital ulcers development. Novel adipokines—adipsin, apelin, omentin and CTRP-3—are emerging as molecules potentially involved in SSc pathogenesis. Serum adipokine levels may be used as predictive and diagnostic factors in systemic sclerosis. However, further investigations are required to establish firm correlations between distinct adipokines and systemic sclerosis.
+30806766_61	28	46	Systemic sclerosis	Disease	DOID:418
+30806766_61	63	81	autoimmune disease	Disease	DOID:417
+30806766_61	99	111	vasculopathy	Biomarker
+30806766_61	99	131	vasculopathy and tissue fibrosis	Collection
+30806766_61	116	131	tissue fibrosis	Biomarker
+30806766_61	163	173	adipokines	Genefamily	not found
+30806766_61	163	173	adipokines	Biomarker	D054392
+30806766_61	262	270	cytokine	Genefamily	not found
+30806766_61	332	350	systemic sclerosis	Disease	DOID:418
+30806766_61	352	362	Adipokines	Genefamily	not found
+30806766_61	372	378	leptin	Gene-protein	HGNC:6553
+30806766_61	380	391	adiponectin	Gene-protein	 HGNC:13633
+30806766_61	393	401	resistin	Gene-protein	HGNC:20389
+30806766_61	403	410	adipsin	Gene-protein	HGNC:2771
+30806766_61	412	420	visfatin	Gene-protein	HGNC:30092
+30806766_61	424	432	chemerin	Gene-protein	HGNC:9868
+30806766_61	471	482	Adiponectin	Gene-protein	 HGNC:13633
+30806766_61	551	557	Leptin	Gene-protein	HGNC:6553
+30806766_61	551	557	Leptin	Biomarker	D020738
+30806766_61	567	575	fibrosis	Disease	DOID:0050855
+30806766_61	567	592	fibrosis and inflammation	Collection
+30806766_61	580	592	inflammation	Disease	D007249
+30806766_61	594	602	Resistin	Biomarker	D052243
+30806766_61	594	602	Resistin	Gene-protein	HGNC:20389
+30806766_61	617	637	vascular involvement	Biomarker
+30806766_61	641	659	systemic sclerosis	Disease
+30806766_61	661	669	Visfatin	Gene-protein	HGNC:30092
+30806766_61	661	669	Visfatin	Biomarker	D054409
+30806766_61	704	716	skin lesions	Disease	not found
+30806766_61	704	749	skin lesions in late-stage systemic sclerosis	Collection
+30806766_61	720	749	late-stage systemic sclerosis	Disease	not found
+30806766_61	751	759	Chemerin	Biomarker	C102741
+30806766_61	751	759	Chemerin	Gene-protein	HGNC:9868
+30806766_61	801	824	impaired renal function	Biomarker
+30806766_61	829	858	development of skin sclerosis	Biomarker
+30806766_61	866	899	early stage of systemic sclerosis	Disease	not found
+30806766_61	901	907	Vaspin	Gene-protein	HGNC:18359
+30806766_61	901	907	Vaspin	Drug	C507339
+30806766_61	951	965	digital ulcers	Disease	not found
+30806766_61	985	995	adipokines	Genefamily
+30806766_61	996	1003	adipsin	Gene-protein	HGNC:2771
+30806766_61	996	1003	adipsin	Biomarker	C493488
+30806766_61	996	1031	adipsin, apelin, omentin and CTRP-3	Collection
+30806766_61	1005	1011	apelin	Gene-protein	HGNC:16665
+30806766_61	1005	1011	apelin	Biomarker	D000073861
+30806766_61	1013	1020	omentin	Gene-protein	HGNC:18259
+30806766_61	1013	1020	omentin	Biomarker	C432397
+30806766_61	1025	1031	CTRP-3	Gene-protein	HGNC:14326
+30806766_61	1025	1031	CTRP-3	Biomarker	C506069
+30806766_61	1082	1085	SSc	Disease	DOID:418
+30806766_61	1100	1122	Serum adipokine levels	Biomarker
+30806766_61	1106	1115	adipokine	Genefamily
+30806766_61	1175	1193	systemic sclerosis	Disease
+30806766_61	1288	1298	adipokines	Genefamily
+30806766_61	1303	1321	systemic sclerosis	Disease
+

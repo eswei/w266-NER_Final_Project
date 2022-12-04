@@ -1,0 +1,43 @@
+31174614_3000|t|RSS_IDENT_p_31174614_b_1_1_3
+31174614_3000|a| Macrophage migration inhibitory factor (MIF) is a pleiotropic protein that participates in many cellular activities and plays an essential role in regulating the inflammatory response, energy metabolism, and apoptosis. MIF has been shown to be beneficial in promoting survival of cardiomyocytes during cardiac ischemia/reperfusion (I/R) by inhibiting apoptosis, reducing ROS production and regulating glucose metabolism [ 5 – 7 ]. Previously, we have shown upregulation of MIF by hypoxia in the acute phase of stroke [ 8 , 9 ] and demonstrated the protective role of MIF in suppressing oxidative stress-induced caspase-3 activation [ 10 ]. MIF has also been identified as a PARP-1 (Poly (ADP-Ribose) Polymerase 1)-dependent AIF (apoptosis-inducing factor)-associated nuclease (PAAN), and disruption of MIF’s nuclease activity inhibited cell death induced by glutamate excitotoxicity and focal stroke [ 11 ]. In AD pathogenesis, neuronal death through apoptotic pathways is observed, and there is evidence suggesting that oxidative stress originating from dysregulation of mitochondria functions serves as a cause of apoptosis [ 12 ]. Therefore, MIF may be essential for neuronal survival during AD pathogenesis. In contrast, MIF could also play a deleterious role when overexpressed by immune cells, resulting in excessive inflammation in chronic inflammatory diseases in the systems outside of the CNS [ 13 ]. Whether MIF plays a role in initiating and/or maintaining the inflammatory status in the CNS remains unknown. In AD patients, Aβ deposits induce chronic neuroinflammation which features in the activation of resident microglia and infiltration of peripheral macrophages [ 14 ]. However, the current understanding of the expression regulation of MIF and its role in AD is limited. This study aimed to investigate how MIF would participate in these seemly paradoxical roles during AD pathogenesis. 
+31174614_3000	30	68	Macrophage migration inhibitory factor	Gene-protein	HGNC:7097
+31174614_3000	70	73	MIF	Gene-protein	HGNC:7097
+31174614_3000	249	252	MIF	Gene-protein
+31174614_3000	249	252	MIF	Biomarker	C515598
+31174614_3000	332	360	cardiac ischemia/reperfusion	Disease	not found
+31174614_3000	362	365	I/R	Disease	D015427
+31174614_3000	401	404	ROS	Chemical
+31174614_3000	431	438	glucose	Chemical
+31174614_3000	487	506	upregulation of MIF	Biomarker
+31174614_3000	503	506	MIF	Gene-protein
+31174614_3000	510	517	hypoxia	Disease	D000860
+31174614_3000	540	546	stroke	Disease	D020521
+31174614_3000	597	600	MIF	Gene-protein
+31174614_3000	641	650	caspase-3	Gene-protein	HGNC:1504
+31174614_3000	670	673	MIF	Gene-protein
+31174614_3000	704	805	PARP-1 (Poly (ADP-Ribose) Polymerase 1)-dependent AIF (apoptosis-inducing factor)-associated nuclease	Gene-protein	not found
+31174614_3000	712	729	Poly (ADP-Ribose)	Chemical
+31174614_3000	807	811	PAAN	Gene-protein	not found
+31174614_3000	832	837	MIF’s	Gene-protein	HGNC:7097
+31174614_3000	888	897	glutamate	Chemical
+31174614_3000	917	929	focal stroke	Disease	not found
+31174614_3000	941	943	AD	Disease	DOID:10652
+31174614_3000	1175	1178	MIF	Gene-protein
+31174614_3000	1175	1178	MIF	Biomarker
+31174614_3000	1225	1227	AD	Disease
+31174614_3000	1255	1258	MIF	Gene-protein
+31174614_3000	1255	1312	MIF could also play a deleterious role when overexpressed	Biomarker
+31174614_3000	1353	1365	inflammation	Disease	D007249
+31174614_3000	1353	1398	inflammation in chronic inflammatory diseases	Collection
+31174614_3000	1369	1398	chronic inflammatory diseases	Disease	not found
+31174614_3000	1449	1452	MIF	Gene-protein
+31174614_3000	1554	1556	AD	Disease
+31174614_3000	1567	1578	Aβ deposits	Biomarker
+31174614_3000	1586	1611	chronic neuroinflammation	Disease	not found
+31174614_3000	1785	1788	MIF	Gene-protein
+31174614_3000	1785	1788	MIF	Biomarker
+31174614_3000	1805	1807	AD	Disease
+31174614_3000	1856	1859	MIF	Gene-protein
+31174614_3000	1856	1859	MIF	Biomarker
+31174614_3000	1919	1921	AD	Disease
+

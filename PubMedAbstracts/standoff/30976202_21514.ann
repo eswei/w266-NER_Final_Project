@@ -1,0 +1,79 @@
+T0	Disease 120 133	breast cancer
+#1	AnnotatorNotes T0	DOID:1612
+T1	Disease 172 178	tumors
+#2	AnnotatorNotes T1	DOID:162
+T2	Disease 465 470	tumor
+#3	AnnotatorNotes T2	DOID:162
+T3	Disease 703 709	tumors
+T4	Disease 1000 1013	breast cancer
+T5	Disease 1085 1090	tumor
+T6	Disease 1318 1331	breast cancer
+T7	Disease 1525 1531	tumors
+T8	Disease 1541 1558	ovarian carcinoma
+#9	AnnotatorNotes T8	DOID:4001
+T9	Disease 1563 1587	hepatocellular carcinoma
+#10	AnnotatorNotes T9	DOID:684
+T10	Gene-Protein 93 97	ZEB1
+#11	AnnotatorNotes T10	HGNC:11642
+T11	Gene-Protein 205 209	ZEB1
+T12	Gene-Protein 901 905	ZEB1
+T13	Gene-Protein 320 324	ZEB1
+T14	Gene-Protein 657 661	ZEB1
+T15	Gene-Protein 935 939	ZEB1
+T16	Gene-Protein 1051 1055	ZEB1
+T17	Gene-Protein 1493 1497	ZEB1
+T18	Gene-Protein 1396 1400	ZEB1
+T19	Gene-Protein 1220 1224	ZEB1
+T20	Gene-Protein 534 538	ZEB1
+T21	Gene-Protein 411 415	ZEB1
+T22	Gene-Protein 384 387	ATM
+#12	AnnotatorNotes T22	HGNC:795
+T23	Gene-Protein 806 810	ZEB1
+T24	Gene-Protein 389 392	CD4
+#13	AnnotatorNotes T24	HGNC:1678
+T25	Gene-Protein 398 402	PIM3
+#14	AnnotatorNotes T25	HGNC:19310
+T26	Biomarker 190 209	high levels of ZEB1
+T27	Biomarker 320 324	ZEB1
+T28	Biomarker 384 387	ATM
+T29	Biomarker 389 392	CD4
+T30	Biomarker 398 402	PIM3
+T31	Drug-Class 256 259	NAT
+T32	Gene-Protein 601 605	CHK1
+#15	AnnotatorNotes T32	HGNC:1925
+T33	Drug-Class 153 156	NAT
+T34	Drug-Class 865 868	NAT
+T35	Gene-Protein 1229 1233	ZEB2
+#16	AnnotatorNotes T35	HGNC:14881
+T36	Biomarker 93 108	ZEB1 expression
+T37	Biomarker 411 426	ZEB1 expression
+R1	Association Arg1:T37 Arg2:T2	
+R2	Association Arg1:T36 Arg2:T0	
+T38	Biomarker 1220 1279	ZEB1 and ZEB2 mRNA expression as well as protein expression
+R3	Prognostic-Poor Arg1:T38 Arg2:T6	
+T39	Biomarker 1051 1055	ZEB1
+T40	Biomarker 935 950	ZEB1 expression
+R4	Association Arg1:T39 Arg2:T5	
+R5	Prognostic-Poor Arg1:T40 Arg2:T4	
+T41	Disease 1457 1461	TNBC
+#7	AnnotatorNotes T41	DOID:0060081
+T42	Biomarker 1396 1419	ZEB1 protein expression
+R6	Prognostic-Poor Arg1:T42 Arg2:T41	
+T43	Biomarker 1493 1497	ZEB1
+T44	Collection 1526 1587	umors, such as ovarian carcinoma and hepatocellular carcinoma
+R7	Association Arg1:T43 Arg2:T44	
+T45	Drug-Class 718 735	cytotoxic therapy
+T46	Biomarker 657 661	ZEB1
+#4	AnnotatorNotes T27	D000071799
+#8	AnnotatorNotes T28	C576324
+#17	AnnotatorNotes T29	D015704
+#18	AnnotatorNotes T30	C499249
+T47	Biomarker 534 538	ZEB1
+R9	Mediated-Non-Response Arg1:T45 Arg2:T3	
+R10	Mediator Arg1:T45 Arg2:T46	
+T48	Biomarker 897 923	low ZEB1 expression levels
+T49	Biomarker 801 828	high ZEB1 expression levels
+R11	Mediated-Non-Response Arg1:T31 Arg2:T1	
+R12	Mediator Arg1:T31 Arg2:T26	
+R8	Mediated-Non-Response Arg1:T34 Arg2:T3	
+R13	Mediator Arg1:T34 Arg2:T49	

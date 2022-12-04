@@ -1,0 +1,41 @@
+30131852_6439|t|RSS_IDENT_p_30131852_b_1_1_8
+30131852_6439|a| The DLX4 gene has two distinct splice variants, BP1 and DLX7, mapped to the same region on chromosome 17q21-22, that vary in their 5′ regions. BP1 is known to act as a putative repressor of human b-globulin, but splice variant DXL7 does not have any known repressor activity [ 25 , 26 ]. They are both expressed in the myeloid lineage but distinct roles in leukemia have not been detailed [ 25 ]. It has been demonstrated that DLX4 is significantly expressed in prostate adenocarcinoma, with higher levels correlating with Ki-67 positive cells [ 27 ]. Earlier reports showed that over expression and/or gene amplification of the DLX4 gene may be associated with tumorigenesis in estrogen negative breast cancer [ 28 , 29 ]. Interestingly, Man et al. [ 30 ] demonstrated that protein expression of DLX4 (referred to as BP-1), measured by immunohistochemistry (IHC), is significantly higher, both in intensity and percentage of cells, in IBC cases from the Inflammatory Breast Cancer Registry (IBCR) than in non-IBC cases. That study, showed that BP-1 protein levels were barely detectable in normal human breast tissues, while 21% of hyperplastic tissues, and 81% of invasive breast tissues showed high protein expression. The authors suggest that BP-1 may represent a signature marker for IBC and tumor aggression. However, here is no racial delineation provided for the subjects related to these compelling results [ 30 ]. In the present study, we aim to characterize DLX4 expression in IBC tissues from AA women. We used IHC to analyze DLX4 expression in both IBC tissues and in normal breast tissues from reduction mammoplasty, from AA women, while also looking at other clinic-pathological factors including Her2/Neu, estrogen receptor (ER) and progesterone receptor (PR) status. 
+30131852_6439	34	38	DLX4	Gene-protein	HGNC:2917
+30131852_6439	78	81	BP1	Gene-protein	HGNC:2917
+30131852_6439	86	90	DLX7	Gene-protein	HGNC:2917
+30131852_6439	173	176	BP1	Gene-protein
+30131852_6439	220	236	human b-globulin	Gene-protein	HGNC:4827
+30131852_6439	257	261	DXL7	Gene-protein
+30131852_6439	387	395	leukemia	Disease	DOID:1240
+30131852_6439	457	461	DLX4	Gene-protein
+30131852_6439	457	461	DLX4	Biomarker	C105304
+30131852_6439	492	515	prostate adenocarcinoma	Disease	DOID:2526
+30131852_6439	553	558	Ki-67	Gene-protein	HGNC:7107
+30131852_6439	553	573	Ki-67 positive cells	Biomarker
+30131852_6439	610	668	over expression and/or gene amplification of the DLX4 gene	Biomarker
+30131852_6439	659	663	DLX4	Gene-protein
+30131852_6439	709	717	estrogen	Chemical
+30131852_6439	709	740	estrogen negative breast cancer	Disease	DOID:0060076
+30131852_6439	827	831	DLX4	Gene-protein
+30131852_6439	827	831	DLX4	Biomarker
+30131852_6439	848	852	BP-1	Gene-protein	HGNC:2917
+30131852_6439	966	969	IBC	Disease	DOID:6263
+30131852_6439	1075	1079	BP-1	Gene-protein
+30131852_6439	1277	1281	BP-1	Gene-protein
+30131852_6439	1277	1281	BP-1	Biomarker	C105304
+30131852_6439	1319	1322	IBC	Disease
+30131852_6439	1319	1332	IBC and tumor	Collection
+30131852_6439	1327	1332	tumor	Disease	DOID:162
+30131852_6439	1499	1503	DLX4	Gene-protein
+30131852_6439	1518	1521	IBC	Disease
+30131852_6439	1568	1572	DLX4	Gene-protein
+30131852_6439	1592	1595	IBC	Disease
+30131852_6439	1742	1746	Her2	Gene-protein	HGNC:3430
+30131852_6439	1747	1750	Neu	Gene-protein	HGNC:3430
+30131852_6439	1752	1760	estrogen	Chemical
+30131852_6439	1752	1769	estrogen receptor	Gene-protein	 HGNC:3467
+30131852_6439	1771	1773	ER	Gene-protein	 HGNC:3467
+30131852_6439	1779	1791	progesterone	Chemical
+30131852_6439	1779	1800	progesterone receptor	Gene-protein	HGNC:8910
+30131852_6439	1802	1804	PR	Gene-protein	HGNC:8910
+

@@ -1,0 +1,51 @@
+30235330_23803|t|RSS_IDENT_p_30235330_b_1_4_3
+30235330_23803|a| It was reported that phenylalanine at position 9 in DPβ chain was reported to be independently associated with European ACPA(+)RA [ 21 ]. Glycine at position 84 in DPβ chain was also independently associated with Japanese ACPA(+)RA [ 23 ]. However, the independently associated DPB1 alleles were not reported in these studies. In the present study, glycine at position 84 in DPβ chain was independently associated with ACPA(+)RA and 84G-85G-86P-87M-96R in DPβ chain was the ACPA(+)RA susceptible haplotype. This ACPA(+)RA associated haplotype was included in DPB1*02:01, DPB1*02:02, DPB1*04:01, DPB1*04:02, and DPB1*41:01. Since the alleles other than DPB1*02:01 were not directly associated with ACPA(+)RA susceptibility (Table 2, right column), DPB1*02:01 would be mainly contributed to the risk of ACPA(+)RA among them. The independent association of phenylalanine at position 9 in DPβ chain was not confirmed in the present study, though this amino acid residue was included in DPB1*02:01 and other alleles. This could be explained by the different distribution of HLA alleles in other ethnic populations. The amino acid residues 84, 85, 86, and 87 form the pocket 1 of DP peptide-binding groove [ 34 ]. This information suggested the involvement of peptides loaded on DP2 in the generation of ACPA or rheumatoid factor.
+30235330_23803	51	64	phenylalanine	Chemical
+30235330_23803	51	91	phenylalanine at position 9 in DPβ chain	Biomarker
+30235330_23803	82	85	DPβ	Genefamily	not found
+30235330_23803	150	154	ACPA	Gene-protein	not found
+30235330_23803	150	159	ACPA(+)RA	Disease	not found
+30235330_23803	168	175	Glycine	Chemical
+30235330_23803	168	203	Glycine at position 84 in DPβ chain	Biomarker
+30235330_23803	194	197	DPβ	Genefamily
+30235330_23803	252	256	ACPA	Gene-protein
+30235330_23803	252	261	ACPA(+)RA	Disease
+30235330_23803	308	312	DPB1	Gene-protein	HGNC:4940
+30235330_23803	379	386	glycine	Chemical
+30235330_23803	379	414	glycine at position 84 in DPβ chain	Biomarker
+30235330_23803	405	408	DPβ	Genefamily
+30235330_23803	449	458	ACPA(+)RA	Disease
+30235330_23803	463	495	84G-85G-86P-87M-96R in DPβ chain	Biomarker
+30235330_23803	486	489	DPβ	Genefamily
+30235330_23803	504	508	ACPA	Gene-protein
+30235330_23803	504	513	ACPA(+)RA	Disease
+30235330_23803	542	546	ACPA	Gene-protein
+30235330_23803	542	551	ACPA(+)RA	Disease
+30235330_23803	589	593	DPB1	Gene-protein
+30235330_23803	589	651	DPB1*02:01, DPB1*02:02, DPB1*04:01, DPB1*04:02, and DPB1*41:01	Collection
+30235330_23803	593	599	*02:01	Variant
+30235330_23803	601	605	DPB1	Gene-protein
+30235330_23803	605	611	*02:02	Variant
+30235330_23803	613	617	DPB1	Gene-protein
+30235330_23803	617	623	*04:01	Variant
+30235330_23803	625	629	DPB1	Gene-protein
+30235330_23803	629	635	*04:02	Variant
+30235330_23803	641	645	DPB1	Gene-protein
+30235330_23803	645	651	*41:01	Variant
+30235330_23803	682	686	DPB1	Gene-protein
+30235330_23803	686	692	*02:01	Variant
+30235330_23803	727	731	ACPA	Gene-protein
+30235330_23803	727	736	ACPA(+)RA	Disease
+30235330_23803	777	781	DPB1	Gene-protein
+30235330_23803	781	787	*02:01	Variant
+30235330_23803	831	835	ACPA	Gene-protein
+30235330_23803	831	840	ACPA(+)RA	Disease
+30235330_23803	884	897	phenylalanine	Chemical
+30235330_23803	884	924	phenylalanine at position 9 in DPβ chain	Biomarker
+30235330_23803	915	918	DPβ	Genefamily
+30235330_23803	1012	1016	DPB1	Gene-protein
+30235330_23803	1016	1022	*02:01	Variant
+30235330_23803	1099	1102	HLA	Genefamily	family:588
+30235330_23803	1328	1332	ACPA	Gene-protein
+30235330_23803	1336	1353	rheumatoid factor	Gene-protein	not found
+

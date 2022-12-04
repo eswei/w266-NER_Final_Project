@@ -1,0 +1,70 @@
+31774629_114|t|RSS_IDENT_p_31774629_a_1_2
+31774629_114|a| Perioperative neurocognitive disorders have been widely recognized as common adverse events after surgical intervention. Aging is one of the most important independent risk factors for worsened cognitive outcome, and this deterioration is linked to exacerbated microglia‐mediated neuroinflammation in the aged brain. Under pathological stimulation, microglia are capable of polarizing toward proinflammatory M1 and anti‐inflammatory M2 phenotypes. In the present study, we examined how aging affects microglial responses and neuroinflammation following peripheral surgery. Adult (2‐3 months) and aged (18 months old) male C57/BL6 mice were subjected to tibial fracture or sham surgery. Aged mice exhibited higher level of tumor necrosis factor‐α (TNF‐α) and interleukin‐1β (IL‐1β) in the hippocampus. The expression of synaptic protein synaptophysin (SYP) was also markedly reduced in the aged brain after the surgery. Both adult and aged mice showed significant increases in M1 microglial polarization (CD16/32). In contrast, tibial fracture surgery induced a decreased M2 microglial polarization (CD206, Ym1/2, Arg1) in aged brain but enhanced M2 microglial polarization in adult brain. Aged mice have upregulated voltage‐gated proton channel (Hv1) and nicotinamide adenine dinucleotide phosphate (NADPH) oxidase subunit expression compared with adult mice. The percentage of CD16/32‐positive M1 microglia colabeling with Hv1 was higher in aged mice after tibial fracture surgery. Thus, Hv1/NADPH oxidase upregulation in the aged brain may shift the dynamic equilibrium of microglial activation toward M1 polarization and exaggerate postoperative neuroinflammatory responses after peripheral surgical intervention. Abbreviations Arg1 Arginase 1 CNS central nervous system DAPI 4′,6‐diamidino‐2‐phenylindole dMCAO distal middle cerebral artery occlusion Iba1 ionized calcium‐binding adapter molecule‐1 IL‐1β interleukin‐1β iNOS inducible nitric oxide synthase MBP myelin basic protein NADPH nicotinamide adenine dinucleotide phosphate PBS phosphate‐buffered saline PFA paraformaldehyde POCD postoperative cognitive dysfunction POD postoperative delirium PVDF polyvinylidene fluoride RIPA radioimmunoprecipitation assay SYP synaptophysin TBI traumatic brain injury TNF‐α tumor necrosis factor‐α
+31774629_114	28	66	Perioperative neurocognitive disorders	Disease	not found
+31774629_114	149	154	Aging	Biomarker	D000375
+31774629_114	289	343	microglia‐mediated neuroinflammation in the aged brain	Disease	not found
+31774629_114	514	519	aging	Biomarker	D000375
+31774629_114	553	570	neuroinflammation	Disease	not found
+31774629_114	681	696	tibial fracture	Disease	D013978
+31774629_114	750	773	tumor necrosis factor‐α	Gene-protein
+31774629_114	775	780	TNF‐α	Gene-protein
+31774629_114	786	800	interleukin‐1β	Gene-protein
+31774629_114	802	807	IL‐1β	Gene-protein
+31774629_114	864	877	synaptophysin	Gene-protein
+31774629_114	879	882	SYP	Gene-protein
+31774629_114	1032	1039	CD16/32	Gene-protein
+31774629_114	1055	1070	tibial fracture	Biomarker	D013978
+31774629_114	1089	1160	decreased M2 microglial polarization (CD206, Ym1/2, Arg1) in aged brain	Biomarker
+31774629_114	1127	1132	CD206	Gene-protein
+31774629_114	1134	1139	Ym1/2	Gene-protein
+31774629_114	1141	1145	Arg1	Gene-protein
+31774629_114	1165	1215	enhanced M2 microglial polarization in adult brain	Biomarker
+31774629_114	1244	1272	voltage‐gated proton channel	Genefamily
+31774629_114	1274	1277	Hv1	Genefamily
+31774629_114	1283	1326	nicotinamide adenine dinucleotide phosphate	Chemical
+31774629_114	1283	1342	nicotinamide adenine dinucleotide phosphate (NADPH) oxidase	Gene-protein
+31774629_114	1328	1333	NADPH	Chemical
+31774629_114	1392	1466	percentage of CD16/32‐positive M1 microglia colabeling with Hv1 was higher	Biomarker
+31774629_114	1406	1413	CD16/32	Gene-protein
+31774629_114	1452	1455	Hv1	Genefamily
+31774629_114	1470	1501	aged mice after tibial fracture	Disease
+31774629_114	1517	1520	Hv1	Genefamily
+31774629_114	1517	1565	Hv1/NADPH oxidase upregulation in the aged brain	Biomarker
+31774629_114	1521	1526	NADPH	Chemical
+31774629_114	1521	1534	NADPH oxidase	Gene-protein
+31774629_114	1677	1694	neuroinflammatory	Disease
+31774629_114	1759	1763	Arg1	Gene-protein	HGNC:663
+31774629_114	1764	1774	Arginase 1	Gene-protein	HGNC:663
+31774629_114	1802	1806	DAPI	Chemical
+31774629_114	1807	1836	4′,6‐diamidino‐2‐phenylindole	Chemical
+31774629_114	1837	1842	dMCAO	Disease	not found
+31774629_114	1843	1882	distal middle cerebral artery occlusion	Disease	not found
+31774629_114	1883	1887	Iba1	Gene-protein	HGNC:352
+31774629_114	1888	1930	ionized calcium‐binding adapter molecule‐1	Gene-protein	HGNC:352
+31774629_114	1896	1903	calcium	Chemical
+31774629_114	1931	1936	IL‐1β	Gene-protein	HGNC:5992
+31774629_114	1937	1951	interleukin‐1β	Gene-protein	HGNC:5992
+31774629_114	1952	1956	iNOS	Gene-protein	HGNC:29821
+31774629_114	1957	1988	inducible nitric oxide synthase	Gene-protein	HGNC:29821
+31774629_114	1967	1979	nitric oxide	Chemical
+31774629_114	1989	1992	MBP	Gene-protein	HGNC:6925
+31774629_114	1993	2013	myelin basic protein	Gene-protein	HGNC:6925
+31774629_114	2014	2019	NADPH	Chemical
+31774629_114	2020	2063	nicotinamide adenine dinucleotide phosphate	Chemical
+31774629_114	2064	2067	PBS	Chemical
+31774629_114	2068	2093	phosphate‐buffered saline	Chemical
+31774629_114	2094	2097	PFA	Chemical
+31774629_114	2098	2114	paraformaldehyde	Chemical
+31774629_114	2115	2119	POCD	Disease	D000079690
+31774629_114	2120	2155	postoperative cognitive dysfunction	Disease	D000079690
+31774629_114	2156	2159	POD	Disease	not found
+31774629_114	2160	2182	postoperative delirium	Disease	not found
+31774629_114	2183	2187	PVDF	Chemical
+31774629_114	2188	2211	polyvinylidene fluoride	Chemical
+31774629_114	2248	2251	SYP	Gene-protein	HGNC:11506
+31774629_114	2252	2265	synaptophysin	Gene-protein	HGNC:11506
+31774629_114	2266	2269	TBI	Disease	D000070642
+31774629_114	2270	2292	traumatic brain injury	Disease	D000070642
+31774629_114	2293	2298	TNF‐α	Gene-protein	HGNC:11892
+31774629_114	2299	2322	tumor necrosis factor‐α	Gene-protein	HGNC:11892
+

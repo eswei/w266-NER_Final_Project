@@ -1,0 +1,82 @@
+31090900_17669|t|RSS_IDENT_s_31090900_b_1_4_6
+31090900_17669|a| WGS characteristics of tumours with ‘non-BRCA1/2-like’ mutational signatures Twenty-five tumours were classified as ‘non-BRCA1/2-like’ and included 24 tumours from non-BRCA1/2 cases and a BRCA2-tumour (FBC016006, NM_000059.3, c.1310_1313delAAGA) that lacked somatic inactivation of the BRCA2 wild-type allele (supplementary Figure S9, available at Annals of Oncology online). Twenty-two tumours were ER/PR-positive; six were HER2-positive; and all were considered BRCA-proficient (Figure 3). Case FBC070169 had a strong APOBEC substitution signature accounting for 94% of the somatic mutations, yet there was no evidence of the APOBEC3A or APOBEC3B germline variants previously associated with this signature [ 15 , 16 ]. Unsupervised hierarchical clustering stratified the ‘non-BRCA1/2-like’ tumours into two groups based on the contributions of rearrangement signatures 1, 2 and 4 (Figures 3 and 4; supplementary Figure S10, available at Annals of Oncology online). Twelve tumours had either relatively quiet genomes dominated by rearrangement signature 2 (n = 9; with recurrent gain of 1q and/or loss of 16q) or rearrangement signature 1 (n = 3). The remaining thirteen tumours were younger at diagnosis (median age 44 versus 62 years) and displayed a high contribution of rearrangement signature 4, involving complex rearrangements clustered to one or a few chromosomes. These clustered events coincided with amplifications of known BC oncogenes (e.g. ZNF217, ERBB2, CCND1, MYC) [ 9 ], and in 8/13 tumours, the patterns of rearrangements suggested evidence for Breakage–Fusion–Bridge (BFB) cycles; two additional tumours had events resembling chromothripsis and BFB (Figure 4). We observed that ‘non-BRCA1/2-like’ tumours had shorter telomeres than BRCA-deficient tumours (supplementary Figure S11, available at Annals of Oncology online) raising the possibility that dicentric chromosome formation due to telomeric erosion could lead to BFB and/or chromothripsis [ 17 , 18 ]. We were unable to identify germline or somatic variants in candidate genes associated with chromosomal segregation or telomere maintenance that could potentially lead to this pattern of rearrangements. In four cases, however, we identified rare germline variants in TP53 (NM_000546.5: c.1009C>T), ATM (NM_000051.3: c.4909+1G>A) and CHEK2 (NM_007194.3: c.349A>G; NM_007194.3: c.1100delC), together with somatic loss of the wild-type allele, implying functional loss of the relevant protein (Figure 4). Figure 4. Whole-genome DNA copy number profile of non-BRCA1/2-like tumours. (A) Chromosome arm level copy number data [gains (red) and losses (blue)] across the genome in non-BRCA1/2-like tumours stratified according to rearrangement signatures 1, 2, and 4. Tumours are plotted in the same order as Figure 3. Tumours are identified which: harbour germline pathogenic variants in risk genes ATM, TP53 or CHEK2; show evidence of Break–Fusion–Bridge and/or chromothripsis; and harbour amplification of various oncogenes. (B) The distribution of histological grade was not significantly different (χ²). (C) Non-BRCA1/2-like tumours with a high proportion of rearrangement signature 4 (clustered rearrangements) were diagnosed at a significantly younger age to non-BRCA1/2 tumours with other genome characteristics (Mann -Whitney U test, two-tailed). (D) Circos plots are shown for the cases with germline variants in ATM, TP53 and CHEK2.
+31090900_17669	53	106	tumours with ‘non-BRCA1/2-like’ mutational signatures	Disease	not found
+31090900_17669	71	78	BRCA1/2	Gene-protein	HGNC:1100,HGNC:1101
+31090900_17669	119	126	tumours	Disease	DOID:162
+31090900_17669	147	163	non-BRCA1/2-like	Biomarker
+31090900_17669	151	158	BRCA1/2	Gene-protein
+31090900_17669	181	205	tumours from non-BRCA1/2	Disease
+31090900_17669	198	205	BRCA1/2	Gene-protein
+31090900_17669	218	223	BRCA2	Gene-protein	HGNC:1101
+31090900_17669	218	230	BRCA2-tumour	Disease	DOID:5683
+31090900_17669	256	274	c.1310_1313delAAGA	Variant	Loss-of-funtion
+31090900_17669	316	321	BRCA2	Gene-protein
+31090900_17669	417	444	tumours were ER/PR-positive	Disease	not found, not found, not found
+31090900_17669	430	432	ER	Genefamily	not found
+31090900_17669	433	435	PR	Gene-protein	HGNC:8910
+31090900_17669	455	459	HER2	Gene-protein	HGNC:3430
+31090900_17669	455	468	HER2-positive	Biomarker
+31090900_17669	494	498	BRCA	Genefamily	not found
+31090900_17669	494	509	BRCA-proficient	Biomarker
+31090900_17669	550	556	APOBEC	Genefamily	family:406
+31090900_17669	550	579	APOBEC substitution signature	Biomarker
+31090900_17669	658	666	APOBEC3A	Gene-protein	HGNC:17343
+31090900_17669	658	678	APOBEC3A or APOBEC3B	Collection
+31090900_17669	658	696	APOBEC3A or APOBEC3B germline variants	Biomarker
+31090900_17669	670	678	APOBEC3B	Gene-protein	HGNC:17352
+31090900_17669	804	830	‘non-BRCA1/2-like’ tumours	Disease	not found
+31090900_17669	809	816	BRCA1/2	Gene-protein
+31090900_17669	877	912	rearrangement signatures 1, 2 and 4	Biomarker
+31090900_17669	1005	1012	tumours	Disease
+31090900_17669	1062	1087	rearrangement signature 2	Biomarker
+31090900_17669	1062	1170	rearrangement signature 2 (n = 9; with recurrent gain of 1q and/or loss of 16q) or rearrangement signature 1	Collection
+31090900_17669	1101	1140	recurrent gain of 1q and/or loss of 16q	Biomarker
+31090900_17669	1145	1170	rearrangement signature 1	Biomarker
+31090900_17669	1203	1210	tumours	Disease
+31090900_17669	1285	1331	high contribution of rearrangement signature 4	Biomarker
+31090900_17669	1285	1403	high contribution of rearrangement signature 4, involving complex rearrangements clustered to one or a few chromosomes	Collection
+31090900_17669	1333	1402	involving complex rearrangements clustered to one or a few chromosome	Biomarker
+31090900_17669	1443	1457	amplifications	Variant
+31090900_17669	1467	1469	BC	Disease	DOID:1612
+31090900_17669	1486	1492	ZNF217	Gene-protein	HGNC:13009
+31090900_17669	1486	1511	ZNF217, ERBB2, CCND1, MYC	Collection
+31090900_17669	1494	1499	ERBB2	Gene-protein	HGNC:3430
+31090900_17669	1501	1506	CCND1	Gene-protein	HGNC:1582
+31090900_17669	1508	1511	MYC	Gene-protein	HGNC:7553
+31090900_17669	1532	1539	tumours	Disease
+31090900_17669	1647	1654	tumours	Disease
+31090900_17669	1677	1691	chromothripsis	Biomarker
+31090900_17669	1696	1699	BFB	Biomarker
+31090900_17669	1730	1755	non-BRCA1/2-like’ tumours	Disease
+31090900_17669	1734	1741	BRCA1/2	Gene-protein
+31090900_17669	1760	1777	shorter telomeres	Biomarker
+31090900_17669	1783	1787	BRCA	Genefamily
+31090900_17669	1783	1805	BRCA-deficient tumours	Disease	not found
+31090900_17669	2277	2281	TP53	Gene-protein	 HGNC:11998
+31090900_17669	2296	2305	c.1009C>T	Variant
+31090900_17669	2308	2311	ATM	Gene-protein	HGNC:795
+31090900_17669	2326	2337	c.4909+1G>A	Variant
+31090900_17669	2343	2348	CHEK2	Gene-protein	HGNC:16627
+31090900_17669	2363	2371	c.349A>G	Variant
+31090900_17669	2363	2396	c.349A>G; NM_007194.3: c.1100delC	Collection
+31090900_17669	2386	2396	c.1100delC	Variant
+31090900_17669	2562	2586	non-BRCA1/2-like tumours	Disease
+31090900_17669	2566	2573	BRCA1/2	Gene-protein
+31090900_17669	2683	2707	non-BRCA1/2-like tumours	Disease
+31090900_17669	2687	2695	BRCA1/2-	Gene-protein
+31090900_17669	2770	2777	Tumours	Disease	DOID:162
+31090900_17669	2821	2828	Tumours	Disease
+31090900_17669	2851	2920	harbour germline pathogenic variants in risk genes ATM, TP53 or CHEK2	Biomarker
+31090900_17669	2902	2905	ATM	Gene-protein
+31090900_17669	2907	2911	TP53	Gene-protein
+31090900_17669	2915	2920	CHEK2	Gene-protein
+31090900_17669	3115	3139	Non-BRCA1/2-like tumours	Disease	not found
+31090900_17669	3119	3126	BRCA1/2	Gene-protein
+31090900_17669	3166	3191	rearrangement signature 4	Biomarker
+31090900_17669	3193	3217	clustered rearrangements	Biomarker
+31090900_17669	3268	3287	non-BRCA1/2 tumours	Disease
+31090900_17669	3404	3444	germline variants in ATM, TP53 and CHEK2	Biomarker
+31090900_17669	3425	3428	ATM	Gene-protein
+31090900_17669	3430	3434	TP53	Gene-protein
+31090900_17669	3439	3444	CHEK2	Gene-protein
+

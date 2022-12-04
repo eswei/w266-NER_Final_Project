@@ -1,0 +1,38 @@
+29924845_31798|t|RSS_IDENT_p_29924845_b_1_4_4
+29924845_31798|a| Our data on the co-inheritance of PTPN22 variant genotype (TT) and HLA-DQ alleles show that T1DM patients who had the homozygous variant PTPN22 genotype (TT), always carried one or more of the high risk DQ alleles (DQ 2–2, 2–3, 2–5, 2–8 and 8–8, Fig 4). In Kuwaiti T1DM patients who carried the TT genotype, 93% had at least one DQ2 or a DQ8 allele. Similarly, the homozygosity for the variant PTPN22 genotype was found to be associated with one or more of the ‘high risk’ HLA-DR alleles (Fig 5). This strongly suggest that the PTPN22 gene variant (C1858T, rs2476601) along with specific HLA DQ/DR alleles (mentioned above) constitute strong risk factors in conferring susceptibility to T1DM in Kuwaiti Arabs. This is in contrast to some previous reports which showed that the strength of the association between T1DM and PTPN22 gene variant (C1858T, rs2476601), decreased in patients with high risk genotypes e.g. HLA-DR3-DQ2/DR4-DQ8 [ 49 , 60 – 61 ]. We carried out epistasis analysis to investigate gene-gene interaction between the PTPN22 and HLA-DQ/DR genotypes with regard to their impact on susceptibility to T1DM. In the case-only analytical approach employed, our data (Tables 3 and 4) highlight these two candidate genes/loci as independent determinants for susceptibility to T1DM in Kuwait Arabs. This is not surprising because of the known biological role of these two loci in the auto-immune process; HLA being involved in presenting the auto-antigens while PTPN22 gene product (LYP) serving as a key component of the intra-cellular signaling pathway [ 18 ].
+29924845_31798	64	70	PTPN22	Gene-protein	HGNC:9652
+29924845_31798	64	92	PTPN22 variant genotype (TT)	Biomarker
+29924845_31798	97	103	HLA-DQ	Genefamily	not found
+29924845_31798	97	111	HLA-DQ alleles	Biomarker
+29924845_31798	122	126	T1DM	Disease	DOID:9744
+29924845_31798	148	187	homozygous variant PTPN22 genotype (TT)	Biomarker
+29924845_31798	148	243	homozygous variant PTPN22 genotype (TT), always carried one or more of the high risk DQ alleles	Collection
+29924845_31798	167	173	PTPN22	Gene-protein
+29924845_31798	223	274	high risk DQ alleles (DQ 2–2, 2–3, 2–5, 2–8 and 8–8	Biomarker
+29924845_31798	295	299	T1DM	Disease
+29924845_31798	325	336	TT genotype	Biomarker
+29924845_31798	325	378	TT genotype, 93% had at least one DQ2 or a DQ8 allele	Collection
+29924845_31798	359	378	DQ2 or a DQ8 allele	Biomarker
+29924845_31798	416	439	variant PTPN22 genotype	Biomarker
+29924845_31798	424	430	PTPN22	Gene-protein
+29924845_31798	491	517	‘high risk’ HLA-DR alleles	Biomarker
+29924845_31798	503	509	HLA-DR	Genefamily	not found
+29924845_31798	558	564	PTPN22	Gene-protein
+29924845_31798	558	635	PTPN22 gene variant (C1858T, rs2476601) along with specific HLA DQ/DR alleles	Biomarker	Conjunction
+29924845_31798	618	627	HLA DQ/DR	Genefamily
+29924845_31798	717	721	T1DM	Disease
+29924845_31798	843	847	T1DM	Disease	DOID:0110452
+29924845_31798	852	858	PTPN22	Gene-protein
+29924845_31798	873	879	C1858T	Variant
+29924845_31798	873	890	C1858T, rs2476601	Collection
+29924845_31798	881	890	rs2476601	Variant
+29924845_31798	945	964	HLA-DR3-DQ2/DR4-DQ8	Biomarker
+29924845_31798	1066	1072	PTPN22	Gene-protein
+29924845_31798	1066	1096	PTPN22 and HLA-DQ/DR genotypes	Biomarker
+29924845_31798	1077	1086	HLA-DQ/DR	Genefamily
+29924845_31798	1146	1150	T1DM	Disease
+29924845_31798	1316	1320	T1DM	Disease
+29924845_31798	1444	1447	HLA	Genefamily	family:588
+29924845_31798	1501	1507	PTPN22	Gene-protein
+29924845_31798	1522	1525	LYP	Gene-protein	HGNC:9652
+

@@ -1,0 +1,39 @@
+31523669_17794|t|RSS_IDENT_p_31523669_b_1_4_4
+31523669_17794|a| D₂ dopamine receptor is involved in memory consolidation and memory retention ( Lénárd et al., 2017 ). Impaired D₂ dopamine receptor function is also associated with decreased physical activity ( Klinker et al., 2013 ). Decrease dopamine level was closely associated with increased D₂ dopamine receptor expression in attention-deficit hyperactivity disorder rats ( Ko et al., 2013 ). Swimming exercise improved attention deficit hyperactivity disorder symptoms by up-regulation of dopamine level and down-regulation of D₂ dopamine receptor expression in attention-deficit hyperactivity disorder rats ( Ko et al., 2013 ). Genetic variations of D₂ might be associated with memory and attention tasks following mild TBI ( McAllister et al., 2005 ). In the present study, the expressions of D₂ dopamine receptor in the PFC, striatum, hippocampus, and SN were increased following TBI. Increased D₂ dopamine receptor in the TBI rats might be considered as the compensatory mechanism for the reduced dopamine level caused by TBI. In contrast, treadmill exercise suppressed the D₂ dopamine receptor expressions in the PFC, striatum, hippocampus, and SN of TBI rats. The suppressive effect of treadmill exercise on D₂ dopamine receptor expression may be related to an improvement in memory functions of TBI rats. 
+31523669_17794	30	50	D₂ dopamine receptor	Gene-protein	HGNC:3023
+31523669_17794	33	41	dopamine	Chemical
+31523669_17794	133	171	Impaired D₂ dopamine receptor function	Biomarker
+31523669_17794	142	162	D₂ dopamine receptor	Gene-protein
+31523669_17794	145	153	dopamine	Chemical
+31523669_17794	196	223	decreased physical activity	Biomarker
+31523669_17794	250	273	Decrease dopamine level	Biomarker
+31523669_17794	259	267	dopamine	Chemical
+31523669_17794	302	343	increased D₂ dopamine receptor expression	Biomarker
+31523669_17794	312	332	D₂ dopamine receptor	Gene-protein
+31523669_17794	315	323	dopamine	Chemical
+31523669_17794	347	387	attention-deficit hyperactivity disorder	Disease	DOID:1094
+31523669_17794	441	481	attention deficit hyperactivity disorder	Disease
+31523669_17794	511	519	dopamine	Chemical
+31523669_17794	549	569	D₂ dopamine receptor	Gene-protein
+31523669_17794	552	560	dopamine	Chemical
+31523669_17794	584	624	attention-deficit hyperactivity disorder	Disease
+31523669_17794	651	675	Genetic variations of D₂	Biomarker
+31523669_17794	743	746	TBI	Disease	D000070642
+31523669_17794	802	894	expressions of D₂ dopamine receptor in the PFC, striatum, hippocampus, and SN were increased	Biomarker
+31523669_17794	817	837	D₂ dopamine receptor	Gene-protein
+31523669_17794	820	828	dopamine	Chemical
+31523669_17794	905	908	TBI	Disease
+31523669_17794	910	940	Increased D₂ dopamine receptor	Biomarker
+31523669_17794	920	940	D₂ dopamine receptor	Gene-protein
+31523669_17794	923	931	dopamine	Chemical
+31523669_17794	948	951	TBI	Disease
+31523669_17794	1015	1037	reduced dopamine level	Biomarker
+31523669_17794	1023	1031	dopamine	Chemical
+31523669_17794	1048	1051	TBI	Disease
+31523669_17794	1100	1120	D₂ dopamine receptor	Gene-protein
+31523669_17794	1103	1111	dopamine	Chemical
+31523669_17794	1178	1181	TBI	Disease
+31523669_17794	1236	1256	D₂ dopamine receptor	Gene-protein
+31523669_17794	1239	1247	dopamine	Chemical
+31523669_17794	1324	1327	TBI	Disease
+

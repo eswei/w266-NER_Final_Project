@@ -1,0 +1,83 @@
+30153650_36550|t|RSS_IDENT_s_30153650_b_1_4
+30153650_36550|a| 4 Discussion Cardiovascular diseases are closely linked to hypertension. The risk of DCM, characterized by ventricular dilatation and impaired systolic and diastolic function, is doubled when the blood pressure exceeds 160/95 mmHg [36] . A recent estimate indicated that the risk for cardiovascular disease for each 10 mm Hg increment in systolic blood pressure from baseline is 25% for women and 15% for men in the USA [37] . Genome-wide linkage studies have revealed that the loci of the human D5R (hD5R), 4p15.1–16.1, and its pseudo genes, 1q21.1 2p11.1-p11.2, are linked to essential hypertension [9] , [38] , [39] . Moreover, hD5F¹⁷³ᴸ has diminished cAMP activity and D5R function, which transgenosis in mice signifiantly inhibit endogenous D5R expression (Supplementary Fig. 1). We have found that global hD5F¹⁷³ᴸ-TG mice have high blood pressure and cardiac hypertrophy [10] . In our current study, the blood pressures of cardiac-specific hD5F¹⁷³ᴸ-TG mice were normal and not significantly different from those observed in cardiac-specific hD5ᵂᵀ-TG mice at 3 months of age (Supplementary Fig. 4A) and 4 months of age (not shown). Therefore, the DCM in cardiac-specific hD5F¹⁷³ᴸ-TG mice is a direct cardiac effect of the mutant human D5R gene rather than a compensatory dilatation due to pressure overload. We now highlight the observation that D5R is necessary for the normal expression of Nrf2 and inhibition of NADPH oxidase activity and that their dysfunctions stimulate ROS over-production and myocardial remodeling via ERK1/2/JNK pathway (Fig. 11). Fig. 11 D5R mutation induces dilated cardiomyopathy that is related to oxidative stress. D5R deficiency causes an increase in NADPH oxidase activity (I), and prevents the translocation of Nrf2 into the nucleus (II), resulting in a failure of the transcription of a number of antioxidative genes via masculoaponeurotic fibrosarcoma (MAF) and antioxidant response elements (ARE). Antioxidant proteins include NAD(P)H quinone 1 dehydrogenase (NQO1) and heme oxygenase 1 (HO1). Oxidative stress accelerates the signaling of the ERK1/2 and JNK pathway, impairing the balance between apoptosis (BCL2 associated X, apoptosis regulator [BAX]) and anti-apoptosis (B aggressive lymphoma protein 2 (BAL2, PARP14 gene). Phospholamban (PLN) is also stimulated which inhibits cardiac muscle sarcoplasmic/endoplasmic reticulum Ca²⁺-ATPase (SERCA, encoded by ATP2A2), which in turn causes cardiac remodeling and finally, dilated cardiomyopathy. D5R deficiency also allows Kelch-like ECH Associated Protein 1 (Keap1) to target Nrf2 in the cytoplasm for ubiquitination and degradation in the proteasome. Fig. 11
+30153650_36550	41	64	Cardiovascular diseases	Disease	DOID:1287
+30153650_36550	87	99	hypertension	Biomarker	D006973
+30153650_36550	113	116	DCM	Disease	DOID:12930
+30153650_36550	135	157	ventricular dilatation	Biomarker
+30153650_36550	135	202	ventricular dilatation and impaired systolic and diastolic function	Collection
+30153650_36550	162	202	impaired systolic and diastolic function	Biomarker
+30153650_36550	224	258	blood pressure exceeds 160/95 mmHg	Biomarker
+30153650_36550	312	334	cardiovascular disease	Disease	DOID:1287
+30153650_36550	339	403	each 10 mm Hg increment in systolic blood pressure from baseline	Biomarker
+30153650_36550	350	352	Hg	Chemical
+30153650_36550	506	590	loci of the human D5R (hD5R), 4p15.1–16.1, and its pseudo genes, 1q21.1 2p11.1-p11.2	Biomarker
+30153650_36550	524	527	D5R	Gene-protein	HGNC:3026
+30153650_36550	529	533	hD5R	Gene-protein	HGNC:3026
+30153650_36550	606	628	essential hypertension	Disease	DOID:10825
+30153650_36550	659	667	hD5F¹⁷³ᴸ	Biomarker
+30153650_36550	672	713	diminished cAMP activity and D5R function	Biomarker
+30153650_36550	683	687	cAMP	Chemical
+30153650_36550	701	704	D5R	Gene-protein
+30153650_36550	774	777	D5R	Gene-protein
+30153650_36550	839	847	hD5F¹⁷³ᴸ	Biomarker
+30153650_36550	861	880	high blood pressure	Biomarker
+30153650_36550	885	904	cardiac hypertrophy	Biomarker	D006332
+30153650_36550	974	982	hD5F¹⁷³ᴸ	Biomarker
+30153650_36550	1180	1183	DCM	Disease
+30153650_36550	1204	1212	hD5F¹⁷³ᴸ	Biomarker
+30153650_36550	1255	1276	mutant human D5R gene	Biomarker
+30153650_36550	1268	1271	D5R	Gene-protein
+30153650_36550	1379	1382	D5R	Biomarker
+30153650_36550	1379	1382	D5R	Gene-protein
+30153650_36550	1425	1429	Nrf2	Gene-protein
+30153650_36550	1448	1453	NADPH	Chemical
+30153650_36550	1448	1461	NADPH oxidase	Gene-protein
+30153650_36550	1509	1512	ROS	Chemical
+30153650_36550	1509	1528	ROS over-production	Biomarker
+30153650_36550	1533	1554	myocardial remodeling	Disease	not found
+30153650_36550	1559	1566	ERK1/2/	Gene-protein
+30153650_36550	1566	1569	JNK	Gene-protein
+30153650_36550	1597	1600	D5R	Gene-protein
+30153650_36550	1597	1609	D5R mutation	Biomarker
+30153650_36550	1618	1640	dilated cardiomyopathy	Disease	DOID:12930
+30153650_36550	1660	1676	oxidative stress	Biomarker	D018384
+30153650_36550	1678	1681	D5R	Gene-protein
+30153650_36550	1678	1692	D5R deficiency	Disease
+30153650_36550	1703	1737	increase in NADPH oxidase activity	Biomarker
+30153650_36550	1703	1959	increase in NADPH oxidase activity (I), and prevents the translocation of Nrf2 into the nucleus (II), resulting in a failure of the transcription of a number of antioxidative genes via masculoaponeurotic fibrosarcoma (MAF) and antioxidant response elements	Collection
+30153650_36550	1715	1720	NADPH	Chemical
+30153650_36550	1715	1728	NADPH oxidase	Gene-protein
+30153650_36550	1777	1781	Nrf2	Gene-protein
+30153650_36550	1820	1959	failure of the transcription of a number of antioxidative genes via masculoaponeurotic fibrosarcoma (MAF) and antioxidant response elements	Biomarker
+30153650_36550	1888	1919	masculoaponeurotic fibrosarcoma	Gene-protein
+30153650_36550	1921	1924	MAF	Gene-protein
+30153650_36550	1996	2011	NAD(P)H quinone	Chemical
+30153650_36550	1997	2027	AD(P)H quinone 1 dehydrogenase	Gene-protein
+30153650_36550	2029	2033	NQO1	Gene-protein
+30153650_36550	2039	2043	heme	Chemical
+30153650_36550	2039	2055	heme oxygenase 1	Gene-protein
+30153650_36550	2057	2060	HO1	Gene-protein
+30153650_36550	2063	2079	Oxidative stress	Disease	D018384
+30153650_36550	2113	2119	ERK1/2	Gene-protein
+30153650_36550	2124	2127	JNK	Gene-protein
+30153650_36550	2178	2216	BCL2 associated X, apoptosis regulator	Gene-protein
+30153650_36550	2218	2221	BAX	Gene-protein
+30153650_36550	2244	2275	B aggressive lymphoma protein 2	Gene-protein
+30153650_36550	2277	2281	BAL2	Gene-protein
+30153650_36550	2283	2289	PARP14	Gene-protein
+30153650_36550	2297	2310	Phospholamban	Gene-protein
+30153650_36550	2297	2310	Phospholamban	Biomarker	C016056
+30153650_36550	2312	2315	PLN	Gene-protein
+30153650_36550	2401	2405	Ca²⁺	Chemical
+30153650_36550	2401	2412	Ca²⁺-ATPase	Genefamily
+30153650_36550	2414	2419	SERCA	Genefamily
+30153650_36550	2432	2438	ATP2A2	Gene-protein
+30153650_36550	2462	2480	cardiac remodeling	Disease	not found
+30153650_36550	2462	2516	cardiac remodeling and finally, dilated cardiomyopathy	Collection
+30153650_36550	2494	2516	dilated cardiomyopathy	Disease
+30153650_36550	2518	2521	D5R	Gene-protein
+30153650_36550	2545	2580	Kelch-like ECH Associated Protein 1	Gene-protein
+30153650_36550	2582	2587	Keap1	Gene-protein
+30153650_36550	2599	2603	Nrf2	Gene-protein
+30153650_36550	2663	2673	proteasome	Gene-protein
+

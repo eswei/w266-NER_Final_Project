@@ -1,0 +1,71 @@
+T0	Gene-Protein 87 101	Angiotensin II
+T1	Chemical 635 646	Gallic acid
+T2	Chemical 778 782	SAHA
+T3	Disease 842 850	diabetic
+#4	AnnotatorNotes T3	not found
+T4	Disease 1007 1038	pulmonary arterial hypertension
+#5	AnnotatorNotes T4	D000081029
+T5	Drug 1083 1096	valproic acid
+T6	Disease 1222 1243	arterial hypertension
+#7	AnnotatorNotes T6	not found
+T7	Disease 1245 1267	pulmonary hypertension
+#8	AnnotatorNotes T7	DOID:6432
+T8	Disease 1272 1280	diabetes
+#9	AnnotatorNotes T8	not found
+T9	Chemical 47 50	ROS
+T10	GeneFamily 75 78	Nox
+#1	AnnotatorNotes T10	not found
+#2	AnnotatorNotes T0	not found
+T11	Gene-Protein 30 36	Ang II
+#3	AnnotatorNotes T11	not found
+T12	Chemical 110 113	ROS
+T13	Gene-Protein 235 241	Ang II
+T14	Gene-Protein 277 281	Nox1
+#6	AnnotatorNotes T14	HGNC:7889
+T15	Gene-Protein 286 290	Nox2
+#10	AnnotatorNotes T15	HGNC:2578
+T16	Gene-Protein 333 337	Nox4
+#11	AnnotatorNotes T16	HGNC:7891
+T17	Drug-Class 343 368	HDAC8-selective inhibitor
+T18	Gene-Protein 343 348	HDAC8
+#12	AnnotatorNotes T18	HGNC:13315
+T19	Gene-Protein 386 390	Nox1
+T20	Gene-Protein 395 399	Nox2
+T21	GeneFamily 437 442	HDACs
+#13	AnnotatorNotes T21	family:937
+T22	Gene-Protein 454 459	HDAC8
+T23	GeneFamily 469 472	Nox
+T24	Gene-Protein 493 497	Nox1
+T25	Gene-Protein 499 503	Nox2
+T26	Gene-Protein 509 513	Nox4
+T27	Biomarker 485 549	Cardiac Nox1, Nox2, and Nox4 mRNA levels significantly increased
+T28	Gene-Protein 677 682	HDAC8
+T29	Gene-Protein 663 668	HDAC5
+T30	Gene-Protein 670 675	HDAC7
+T31	Gene-Protein 688 693	HDAC9
+T32	Gene-Protein 707 711	Nox2
+T33	Gene-Protein 818 822	Nox1
+T34	Gene-Protein 824 828	Nox2
+T35	Gene-Protein 834 838	Nox4
+T36	Gene-Protein 873 878	HDAC1
+T37	Gene-Protein 883 888	HDAC2
+T38	Biomarker 910 957	increased expression of HDAC3, HDAC4, and HDAC5
+T39	Gene-Protein 934 939	HDAC3
+T40	Gene-Protein 941 946	HDAC4
+T41	Gene-Protein 952 957	HDAC5
+R1	Association Arg1:T38 Arg2:T4	
+T42	Gene-Protein 990 994	Nox2
+T43	Gene-Protein 999 1003	Nox4
+T44	Drug-Class 1067 1081	HDAC inhibitor
+#14	AnnotatorNotes T5	 CHEMBL109
+T45	Biomarker 1150 1167	expression of Nox
+T46	GeneFamily 1164 1167	Nox
+T47	Collection 1222 1280	arterial hypertension, pulmonary hypertension, or diabetes
+R2	Association Arg1:T45 Arg2:T47	
+T48	Drug-Class 1286 1304	pan-HDAC inhibitor
+T49	GeneFamily 1067 1071	HDAC
+#15	AnnotatorNotes T49	family:937
+T50	GeneFamily 1290 1294	HDAC
+T51	GeneFamily 1354 1357	Nox
+T52	Drug-Class 1366 1397	HDAC isoform-specific inhibitor
+T53	GeneFamily 1366 1370	HDAC

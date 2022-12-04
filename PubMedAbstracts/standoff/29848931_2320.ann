@@ -1,0 +1,144 @@
+T0	Chemical 355 361	5’-AMP
+T1	Disease 513 529	ruptured plaques
+#2	AnnotatorNotes T1	not found
+T11	Disease 1384 1387	CHD
+T12	Chemical 1404 1421	Cholesteryl ester
+T13	Disease 1485 1488	CHD
+T14	Chemical 1528 1543	LDL-cholesterol
+T17	Chemical 1642 1653	cholesterol
+T18	Disease 1684 1687	CHD
+T19	Chemical 1694 1711	Phosphatidic acid
+T21	Chemical 1758 1773	phosphoric acid
+T22	Chemical 1833 1848	triacylglycerol
+T23	Disease 1897 1900	CHD
+T3	Disease 938 953	atherosclerosis
+#15	AnnotatorNotes T3	DOID:1936
+T5	Disease 1071 1074	CHD
+#16	AnnotatorNotes T5	DOID:3393
+T7	Chemical 1132 1144	carbohydrate
+T8	Disease 1234 1237	CHD
+T4	GeneFamily 162 166	PPAR
+#1	AnnotatorNotes T4	not found
+T6	GeneFamily 118 160	peroxisome proliferator-activated receptor
+#3	AnnotatorNotes T6	not found
+T9	Gene-Protein 237 243	ADIPOQ
+#5	AnnotatorNotes T9	HGNC:13633
+T15	Gene-Protein 214 221	ANGPTL4
+#7	AnnotatorNotes T15	HGNC:16039
+T16	Gene-Protein 193 212	angiopoietin-like 4
+#8	AnnotatorNotes T16	HGNC:16039
+T20	Gene-Protein 224 235	adiponectin
+#10	AnnotatorNotes T20	HGNC:13633
+T24	Gene-Protein 270 275	APOA5
+#11	AnnotatorNotes T24	HGNC:17288
+T25	Gene-Protein 250 268	apolipoprotein A-V
+#12	AnnotatorNotes T25	HGNC:17288
+T26	Gene-Protein 287 290	LEP
+#13	AnnotatorNotes T26	HGNC:6553
+T27	Gene-Protein 279 285	leptin
+#17	AnnotatorNotes T27	HGNC:6553
+T28	Gene-Protein 310 314	LEPR
+#19	AnnotatorNotes T28	HGNC:6554
+T29	Gene-Protein 293 308	leptin receptor
+#20	AnnotatorNotes T29	HGNC:6554
+T30	Gene-Protein 341 348	ADIPOR1
+#21	AnnotatorNotes T30	HGNC:24040
+T31	Gene-Protein 317 339	adiponectin receptor 1
+#22	AnnotatorNotes T31	HGNC:24040
+T32	Gene-Protein 404 410	PRKAG1
+#23	AnnotatorNotes T32	HGNC:9385
+T33	Gene-Protein 355 402	5’-AMP-activated protein kinase subunit gamma-1
+#24	AnnotatorNotes T33	HGNC:9385
+T34	GeneFamily 413 417	PPAR
+T35	GeneFamily 421 434	adipocytokine
+T36	Biomarker 413 509	PPAR or adipocytokine signaling pathway genes have been reported to be significantly upregulated
+T37	Chemical 552 557	lipid
+T38	Gene-Protein 594 601	ANGPTL3
+#26	AnnotatorNotes T38	HGNC:491
+T39	Gene-Protein 573 592	angiopoietin-like 3
+T40	GeneFamily 622 654	angiopoietin-like protein family
+#27	AnnotatorNotes T40	family:905
+#28	AnnotatorNotes T39	HGNC:491
+T41	Gene-Protein 691 709	lipoprotein lipase
+#29	AnnotatorNotes T41	HGNC:6677
+T42	Chemical 741 776	triglyceride (TG)-rich lipoproteins
+T43	Gene-Protein 800 804	APOE
+#30	AnnotatorNotes T43	HGNC:613
+T44	Gene-Protein 782 798	Apolipoprotein E
+#31	AnnotatorNotes T44	HGNC:613
+T2	Chemical 823 846	low-density lipoprotein
+T45	Chemical 848 851	LDL
+T46	Gene-Protein 882 886	PON2
+#32	AnnotatorNotes T46	HGNC:9205
+T47	Gene-Protein 867 880	Paraoxonase 2
+#33	AnnotatorNotes T47	HGNC:9205
+T48	Gene-Protein 907 911	PON3
+#34	AnnotatorNotes T48	HGNC:9206
+T49	Gene-Protein 892 905	paraoxonase 3
+#35	AnnotatorNotes T49	HGNC:9206
+T50	Gene-Protein 999 1004	VLDLR
+#36	AnnotatorNotes T50	HGNC:12698
+T51	Gene-Protein 960 997	Very-low-density-lipoprotein receptor
+#37	AnnotatorNotes T51	HGNC:12698
+T53	Biomarker 1035 1043	VLDL-TGs
+T54	Gene-Protein 1111 1117	MLXIPL
+#38	AnnotatorNotes T54	HGNC:12744
+T55	Gene-Protein 1081 1109	MLX-interacting protein-like
+#39	AnnotatorNotes T55	HGNC:12744
+T56	Gene-Protein 1132 1177	carbohydrate response element-binding protein
+#40	AnnotatorNotes T56	HGNC:12744
+T57	Biomarker 1081 1109	MLX-interacting protein-like
+R1	Association Arg1:T53 Arg2:T5	
+R2	Association Arg1:T57 Arg2:T8	
+R3	Association Arg1:T36 Arg2:T1	
+T58	Gene-Protein 1244 1277	Scavenger receptor class B type 1
+#14	AnnotatorNotes T58	HGNC:1664
+T59	Chemical 1314 1350	high-density lipoprotein cholesterol
+T60	Chemical 1352 1357	HDL-C
+T10	Biomarker 1244 1277	Scavenger receptor class B type 1
+T61	Gene-Protein 1440 1444	CETP
+#4	AnnotatorNotes T61	HGNC:1869
+T62	Gene-Protein 1404 1438	Cholesteryl ester transfer protein
+#18	AnnotatorNotes T62	HGNC:1869
+R4	Association Arg1:T10 Arg2:T11	
+T63	Gene-Protein 1279 1285	SCARB1
+#41	AnnotatorNotes T63	HGNC:1664
+T64	Chemical 1518 1523	HDL-C
+T65	Biomarker 1404 1438	Cholesteryl ester transfer protein
+T66	Gene-Protein 1618 1623	PCSK9
+#6	AnnotatorNotes T66	HGNC:20001
+R5	Risk-Factor Arg1:T65 Arg2:T13	
+T67	Gene-Protein 1571 1616	Proprotein convertase subtilisin/kexin type 9
+#42	AnnotatorNotes T67	HGNC:20001
+T68	Biomarker 1571 1616	Proprotein convertase subtilisin/kexin type 9
+#9	AnnotatorNotes T68	C472125
+R6	Association Arg1:T68 Arg2:T18	
+T69	Gene-Protein 1733 1739	PPAP2B
+#43	AnnotatorNotes T69	HGNC:9229
+T70	Gene-Protein 1694 1731	Phosphatidic acid phosphatase type 2B
+#44	AnnotatorNotes T70	HGNC:9229
+T71	Chemical 1809 1828	glycerophospholipid
+T72	Biomarker 1694 1731	Phosphatidic acid phosphatase type 2B
+#45	AnnotatorNotes T72	C521833
+R7	Association Arg1:T72 Arg2:T23	
+T73	GeneFamily 63 76	adipocytokine
+#25	AnnotatorNotes T73	not found
+#46	AnnotatorNotes T53	D008079
+#47	AnnotatorNotes T57	C116385
+#48	AnnotatorNotes T10	C495124
+#49	AnnotatorNotes T65	D053480
+T74	Biomarker 1304 1350	levels of high-density lipoprotein cholesterol
+T75	Biomarker 1507 1564	balance of HDL-C and LDL-cholesterol levels in the plasma
+T76	Biomarker 1629 1660	reduce blood cholesterol levels
+T77	Biomarker 867 880	Paraoxonase 2
+#50	AnnotatorNotes T77	C468411
+T78	Collection 867 912	Paraoxonase 2 (PON2) and paraoxonase 3 (PON3)
+T79	Biomarker 892 905	paraoxonase 3
+#51	AnnotatorNotes T79	C113656
+R8	Association Arg1:T78 Arg2:T3	
+T80	Biomarker 782 798	Apolipoprotein E
+#52	AnnotatorNotes T80	D001057
+T81	Biomarker 823 846	low-density lipoprotein
+#53	AnnotatorNotes T81	D008078
+T90	Chemical 1035 1039	VLDL
+T91	Chemical 1040 1043	TGs

@@ -1,0 +1,83 @@
+T1	Disease 117 130	breast cancer
+#1	AnnotatorNotes T1	DOID:1612
+T10	Variant 548 556	4153delA
+T11	Variant 666 674	1100delC
+T12	Variant 676 687	IVS2 + 1G/A
+T13	Variant 689 698	del5395bp
+T14	Variant 704 709	I157T
+T15	Variant 719 731	509_510delGA
+T16	Variant 736 750	172_175delTTGT
+T17	Variant 763 785	c.1667_1667 + 3delAGTA
+T18	Disease 812 825	breast cancer
+T19	Biomarker 866 881	CHEK2 mutations
+T2	Disease 132 134	BC
+#3	AnnotatorNotes T2	DOID:1612
+T20	Disease 914 927	breast cancer
+T21	Biomarker 943 970	presence of PALB2 mutations
+T22	Disease 1000 1013	breast cancer
+T23	Biomarker 1117 1143	mutation in the RECQL gene
+T25	Disease 1198 1211	breast cancer
+T28	Disease 1299 1312	Peutz-Jeghers
+#9	AnnotatorNotes T28	DOID:3852
+T29	Biomarker 1324 1339	STK11 mutations
+T3	Disease 238 251	breast cancer
+T33	Disease 1390 1401	Li-Fraumeni
+#13	AnnotatorNotes T33	DOID:3012
+T35	Biomarker 1413 1427	TP53 mutations
+T36	Disease 1436 1438	BC
+T37	Disease 1489 1502	breast cancer
+T4	Collection 325 347	BRCA1, BRCA2 and CHEK2
+T5	Disease 358 371	breast cancer
+T6	Biomarker 394 421	Mutations in BRCA1 or BRCA2
+T7	Disease 478 491	breast cancer
+T8	Variant 529 537	5382insC
+T9	Variant 539 543	C61G
+R1	Risk-Factor Arg1:T4 Arg2:T5	
+T38	Gene-Protein 407 412	BRCA1
+T39	Gene-Protein 325 330	BRCA1
+T40	Biomarker 325 330	BRCA1
+T41	Biomarker 332 337	BRCA2
+T42	Biomarker 342 347	CHEK2
+T43	Gene-Protein 332 337	BRCA2
+T44	Gene-Protein 342 347	CHEK2
+T45	Gene-Protein 416 421	BRCA2
+R2	Risk-Factor Arg1:T6 Arg2:T7	
+T46	Gene-Protein 607 612	BRCA1
+T47	Collection 529 556	5382insC, C61G and 4153delA
+R3	Variant-Of Arg1:T46 Arg2:T47	
+T48	Gene-Protein 659 664	CHEK2
+T49	Gene-Protein 712 717	PALB2
+#12	AnnotatorNotes T49	HGNC:26144
+T50	Collection 666 709	1100delC, IVS2 + 1G/A, del5395bp, and I157T
+T51	Collection 719 750	509_510delGA and 172_175delTTGT
+T52	Gene-Protein 756 761	RECQL
+#17	AnnotatorNotes T52	HGNC:9948
+R4	Variant-Of Arg1:T52 Arg2:T17	
+R5	Risk-Factor Arg1:T19 Arg2:T20	
+R6	Risk-Factor Arg1:T21 Arg2:T22	
+T53	Gene-Protein 955 960	PALB2
+T54	Gene-Protein 866 871	CHEK2
+T55	Gene-Protein 1133 1138	RECQL
+T26	Gene-Protein 1324 1329	STK11
+#2	AnnotatorNotes T26	HGNC:11389
+R7	Risk-Factor Arg1:T29 Arg2:T28	
+T27	Gene-Protein 1413 1417	TP53
+#5	AnnotatorNotes T27	HGNC:11998
+#6	AnnotatorNotes T39	HGNC:1100
+R8	Risk-Factor Arg1:T35 Arg2:T33	
+#7	AnnotatorNotes T43	HGNC:1101
+#8	AnnotatorNotes T44	HGNC:16627
+#10	AnnotatorNotes T40	D019398
+#11	AnnotatorNotes T41	D024522
+#14	AnnotatorNotes T42	C578634
+R9	Variant-Of Arg1:T48 Arg2:T50	
+R10	Variant-Of Arg1:T49 Arg2:T51	
+#4	AnnotatorNotes T9	p.Cys61Gly
+#15	AnnotatorNotes T14	p.Ile157Thr
+R12	Association Arg1:T50 Arg2:T18	
+R11	Association Arg1:T51 Arg2:T18	
+R13	Association Arg1:T17 Arg2:T18	
+T30	Disease 1359 1361	BC
+R14	Risk-Factor Arg1:T29 Arg2:T30	
+R15	Risk-Factor Arg1:T35 Arg2:T36	
+R16	Risk-Factor Arg1:T23 Arg2:T25	

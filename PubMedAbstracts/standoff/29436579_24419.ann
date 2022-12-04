@@ -1,0 +1,47 @@
+T0	Drug 128 131	STZ
+T1	Disease 128 148	STZ-induced diabetes
+#2	AnnotatorNotes T1	not found
+T10	Gene-Protein 859 870	Podocalyxin
+T13	Disease 1007 1041	podocyte-associated renal diseases
+#4	AnnotatorNotes T13	not found
+T17	Disease 1336 1344	diabetic
+T18	Drug 1360 1363	STZ
+T4	Disease 511 519	diabetes
+#9	AnnotatorNotes T4	not found
+T6	Disease 608 634	type 1 and type 2 diabetes
+#10	AnnotatorNotes T6	DOID:9744, DOID:9352
+T7	Disease 770 778	diabetic
+#11	AnnotatorNotes T7	not found
+T8	Disease 822 836	renal diseases
+#12	AnnotatorNotes T8	DOID:557
+T9	Disease 848 850	DN
+#13	AnnotatorNotes T9	D003928
+#1	AnnotatorNotes T0	 CHEMBL1651906
+T2	Biomarker 160 214	downregulation of PODXL1 and nephrin expression levels
+T3	Gene-Protein 178 184	PODXL1
+T5	Gene-Protein 189 196	nephrin
+T11	Biomarker 231 283	upregulation of α-SMA and vimentin expression levels
+T12	Gene-Protein 247 252	α-SMA
+T15	Gene-Protein 257 265	vimentin
+T16	Collection 160 283	downregulation of PODXL1 and nephrin expression levels, as well as the upregulation of α-SMA and vimentin expression levels
+R1	Association Arg1:T16 Arg2:T1	
+T19	Gene-Protein 299 306	Nephrin
+T20	Biomarker 299 306	Nephrin
+#3	AnnotatorNotes T20	C113267
+R2	Association Arg1:T20 Arg2:T4	
+T21	Biomarker 538 574	downregulation of nephrin expression
+T22	Gene-Protein 556 563	nephrin
+R3	Association Arg1:T21 Arg2:T6	
+T23	Gene-Protein 665 672	nephrin
+T24	Biomarker 753 766	podocyte loss
+R4	Association Arg1:T24 Arg2:T25	
+T25	Collection 770 850	diabetic rats, and this loss can lead to a range of renal diseases, including DN
+T26	Gene-Protein 872 876	PODX
+T14	Biomarker 964 991	Aberrant expression of PODX
+T27	Gene-Protein 987 991	PODX
+R5	Association Arg1:T14 Arg2:T13	
+T28	Gene-Protein 1050 1056	PODXL1
+T29	Gene-Protein 1301 1307	PODXL1
+T30	Biomarker 1301 1332	PODXL1 expression was decreased
+R6	Association Arg1:T30 Arg2:T17	
+R7	Causes Arg1:T18 Arg2:T17	

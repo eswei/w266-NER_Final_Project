@@ -1,0 +1,69 @@
+T0	Disease 105 108	RCC
+#1	AnnotatorNotes T0	DOID:4450
+T10	Disease 800 808	fibrosis
+#2	AnnotatorNotes T10	D005355
+T12	Disease 851 904	glomerular and tubulointerstitial inflammatory damage
+#4	AnnotatorNotes T12	not found
+T15	Disease 1055 1062	cancers
+#7	AnnotatorNotes T15	DOID:162
+T17	Disease 1088 1105	cancer metastasis
+#9	AnnotatorNotes T17	DOID:162
+T19	Disease 1156 1162	cancer
+T2	Disease 234 250	metastatic ccRCC
+#11	AnnotatorNotes T2	DOID:4467
+T20	Disease 1276 1291	prostate cancer
+#12	AnnotatorNotes T20	DOID:10283
+T21	Chemical 1297 1305	androgen
+T23	Disease 1358 1364	cancer
+T24	Disease 1382 1399	colorectal cancer
+#15	AnnotatorNotes T24	DOID:9256
+T25	Disease 1401 1404	CRC
+T29	Disease 1470 1473	CRC
+T32	Disease 1568 1571	CRC
+T33	Disease 1644 1675	ovarian and endometrial cancers
+#23	AnnotatorNotes T33	DOID:2394, DOID:1380
+T35	Disease 1776 1779	RCC
+T6	Disease 400 403	RCC
+T1	Gene-Protein 166 192	follistatin-like protein 1
+T3	Gene-Protein 194 199	FSTL1
+#13	AnnotatorNotes T3	HGNC:3972
+#16	AnnotatorNotes T1	HGNC:3972
+T4	Biomarker 166 230	follistatin-like protein 1 (FSTL1) was frequently down-regulated
+R1	Association Arg1:T4 Arg2:T2	
+T5	Biomarker 267 318	C allele of rs1259293 in the coding region of FSLT1
+T7	Gene-Protein 313 318	FSLT1
+T18	Gene-Protein 433 438	FSTL1
+R2	Risk-Factor Arg1:T5 Arg2:T6	
+T22	Gene-Protein 475 480	FSTL1
+T26	Gene-Protein 657 662	FSTL1
+T30	Biomarker 657 662	FSTL1
+#19	AnnotatorNotes T30	C448799
+R3	Association Arg1:T30 Arg2:T9	
+T9	Collection 800 904	fibrosis, promoting cardiac function, and reducing glomerular and tubulointerstitial inflammatory damage
+T11	Gene-Protein 935 962	tumor necrosis factor alpha
+#3	AnnotatorNotes T11	HGNC:11892
+T13	Gene-Protein 964 968	TNFα
+#5	AnnotatorNotes T13	HGNC:11892
+T14	Gene-Protein 1046 1051	FSTL1
+T16	Gene-Protein 1141 1146	FSTL1
+T36	Biomarker 1141 1146	FSTL1
+R4	Association Arg1:T36 Arg2:T17	
+#6	AnnotatorNotes T19	DOID:162
+T37	GeneFamily 995 1020	proinflammatory cytokines
+#8	AnnotatorNotes T37	not found
+T38	Biomarker 1297 1338	androgen-dependent up-regulation of FSTL1
+T39	Gene-Protein 1333 1338	FSTL1
+R5	Association Arg1:T38 Arg2:T20	
+R6	Association Arg1:T38 Arg2:T23	
+#10	AnnotatorNotes T25	DOID:9256
+T28	Gene-Protein 1407 1412	FSTL1
+T41	Biomarker 1510 1532	FSTL1 is overexpressed
+T42	Gene-Protein 1510 1515	FSTL1
+T43	Drug 1407 1412	FSTL1
+#14	AnnotatorNotes T43	C448799
+R8	Response Arg1:T43 Arg2:T29	
+R9	Association Arg1:T41 Arg2:T32	
+T31	Gene-Protein 1677 1682	FSTL1
+T44	Drug 1677 1682	FSTL1
+R10	Response Arg1:T44 Arg2:T33	
+T45	Gene-Protein 1767 1772	FSTL1

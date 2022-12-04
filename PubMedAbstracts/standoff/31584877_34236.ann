@@ -1,0 +1,28 @@
+T0	Biomarker 490 681	expression of 4 circRNAs (circ-HIBADH, circ-UBAP2, circ-TADA2A, and circ-CLEC17A), 3 miRNAs (has-miR-214, has-mir-324-3p, and has-miR-494) and 5 hub genes (CXCR4,HIF1A, ZEB1, SDC1 and TWIST1)
+T1	Disease 708 712	PAAD
+T3	Disease 1168 1172	PAAD
+#1	AnnotatorNotes T1	DOID:4074
+T4	RNA-Noncoding 587 594	miR-214
+#2	AnnotatorNotes T4	HGNC:31591
+T5	RNA-Noncoding 600 610	mir-324-3p
+#3	AnnotatorNotes T5	HGNC:31767
+T6	RNA-Noncoding 620 627	miR-494
+#4	AnnotatorNotes T6	HGNC:32084
+T7	Gene-Protein 646 651	CXCR4
+#5	AnnotatorNotes T7	HGNC:2561
+T8	Gene-Protein 652 657	HIF1A
+#6	AnnotatorNotes T8	HGNC:4910
+T9	Gene-Protein 659 663	ZEB1
+#7	AnnotatorNotes T9	HGNC:11642
+T10	Gene-Protein 665 669	SDC1
+#8	AnnotatorNotes T10	HGNC:10658
+T11	Gene-Protein 674 680	TWIST1
+#9	AnnotatorNotes T11	HGNC:12428
+T2	RNA-Noncoding 516 527	circ-HIBADH
+T12	RNA-Noncoding 529 539	circ-UBAP2
+T13	RNA-Noncoding 541 552	circ-TADA2A
+T14	RNA-Noncoding 558 570	circ-CLEC17A
+#10	AnnotatorNotes T2	not found
+#11	AnnotatorNotes T12	not found
+#12	AnnotatorNotes T13	not found
+#13	AnnotatorNotes T14	not found

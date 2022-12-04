@@ -1,0 +1,55 @@
+30214813_10667|t|RSS_IDENT_p_30214813_b_1_5_5
+30214813_10667|a| In this study, we report that anorexia nervosa patients have higher 4βOHC concentration and 4βOHC/C ratio compared to normal‐weight volunteers, and hypothesize that this reflects elevated CYP3A activity in underweight patients. Anorexia nervosa patients often have hypercholesterolemia.20 Hyperadiponectinemia is known to occur in anorexic patients,21 and may be related to increased cholesterol synthesis.22 To account for impact of altered cholesterol levels on 4βOHC concentration, we consider 4βOHC/C ratio to be a more appropriate CYP3A biomarker in this study population. However, whether using 4βOHC concentration or 4βOHC/C ratio, we report approximately twice the biomarker level in underweight patients compared to normal‐weight volunteers. The normal‐weight volunteers had 4βOHC levels and 4βOHC/C ratio within the normal range.23 Obesity has been associated with reduced plasma 4βOHC levels,8 and hence emaciation could lead to increased 4βOHC levels. However, distorted 4βOHC levels could be caused by changes both in production and elimination, and 4βOHC is further metabolized via CYP7A1 and CYP27A1.3 Reduced 4βOHC and elevated plasma 27OHC levels have been reported in an obese mouse model, which could indicate that obesity is associated with increased CYP27A1 activity and therefore increased elimination of 4βOHC.24 However, Ulvestad et al. reported strong negative correlation between BMI and both hepatic and small‐intestinal CYP3A protein expression in obese patients,10 supporting our findings that CYP3A activity is correlated with BMI.
+30214813_10667	60	76	anorexia nervosa	Disease	DOID:8689
+30214813_10667	91	135	higher 4βOHC concentration and 4βOHC/C ratio	Biomarker
+30214813_10667	98	103	4βOHC	Chemical
+30214813_10667	122	129	4βOHC/C	Chemical
+30214813_10667	209	232	elevated CYP3A activity	Biomarker
+30214813_10667	218	223	CYP3A	Gene-protein	HGNC:2635
+30214813_10667	236	247	underweight	Disease	D013851
+30214813_10667	258	274	Anorexia nervosa	Disease	DOID:8689
+30214813_10667	295	315	hypercholesterolemia	Biomarker	D006937
+30214813_10667	319	339	Hyperadiponectinemia	Biomarker	D006937
+30214813_10667	361	369	anorexic	Disease	DOID:8689
+30214813_10667	404	435	increased cholesterol synthesis	Biomarker
+30214813_10667	414	425	cholesterol	Chemical
+30214813_10667	472	483	cholesterol	Chemical
+30214813_10667	494	499	4βOHC	Chemical
+30214813_10667	527	534	4βOHC/C	Chemical
+30214813_10667	527	540	4βOHC/C ratio	Biomarker
+30214813_10667	566	571	CYP3A	Gene-protein
+30214813_10667	631	636	4βOHC	Chemical
+30214813_10667	631	650	4βOHC concentration	Biomarker
+30214813_10667	631	667	4βOHC concentration or 4βOHC/C ratio	Collection
+30214813_10667	654	661	4βOHC/C	Chemical
+30214813_10667	654	667	4βOHC/C ratio	Biomarker
+30214813_10667	722	733	underweight	Disease
+30214813_10667	814	819	4βOHC	Chemical
+30214813_10667	814	844	4βOHC levels and 4βOHC/C ratio	Biomarker
+30214813_10667	831	838	4βOHC/C	Chemical
+30214813_10667	872	879	Obesity	Disease	DOID:9970
+30214813_10667	905	932	reduced plasma 4βOHC levels	Biomarker
+30214813_10667	920	925	4βOHC	Chemical
+30214813_10667	980	985	4βOHC	Chemical
+30214813_10667	1013	1018	4βOHC	Chemical
+30214813_10667	1093	1098	4βOHC	Chemical
+30214813_10667	1126	1132	CYP7A1	Gene-protein	HGNC:2651
+30214813_10667	1137	1144	CYP27A1	Gene-protein	 HGNC:2605
+30214813_10667	1147	1160	Reduced 4βOHC	Biomarker
+30214813_10667	1147	1193	Reduced 4βOHC and elevated plasma 27OHC levels	Collection
+30214813_10667	1155	1160	4βOHC	Chemical
+30214813_10667	1165	1195	elevated plasma 27OHC levels h	Biomarker
+30214813_10667	1181	1186	27OHC	Chemical
+30214813_10667	1219	1224	obese	Disease	DOID:9970
+30214813_10667	1264	1271	obesity	Disease	DOID:9970
+30214813_10667	1291	1317	increased CYP27A1 activity	Biomarker
+30214813_10667	1301	1308	CYP27A1	Gene-protein
+30214813_10667	1357	1362	4βOHC	Chemical
+30214813_10667	1436	1439	BMI	Biomarker	D015992
+30214813_10667	1449	1502	hepatic and small‐intestinal CYP3A protein expression	Biomarker
+30214813_10667	1478	1483	CYP3A	Gene-protein
+30214813_10667	1506	1511	obese	Disease
+30214813_10667	1553	1558	CYP3A	Gene-protein
+30214813_10667	1553	1567	CYP3A activity	Biomarker
+30214813_10667	1587	1590	BMI	Biomarker
+

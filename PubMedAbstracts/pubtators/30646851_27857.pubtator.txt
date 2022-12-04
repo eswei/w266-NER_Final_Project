@@ -1,0 +1,53 @@
+30646851_27857|t|RSS_IDENT_p_30646851_b_1_4_4
+30646851_27857|a| Hepcidin is not only known as the regulator of iron homeostasis, but also as a prognostic marker in cancer entities: an increase in hepcidin expression was linked to patient’s outcome in prostate cancer, breast cancer, non-Hodgkin lymphoma and RCC [ 1 – 3 , 9 – 12 ]. In patients with malignant breast cancer hepcidin serum levels were higher than in control patients [ 12 ]. Pinnix et al. have shown that human breast cancer tissue expresses hepcidin and ferroportin, the sole iron export channel in vertebrates: low ferroportin gene expression was associated with poor outcome, while a combination of high ferroportin and low hepcidin was associated with a good prognosis suggesting ferroportin may be a strong and independent predictor of prognosis in breast cancer [ 1 ]. In prostatic cancer an increase in serum hepcidin levels by 25 ng/ml predicted an increase in mortality by 10% [ 2 ]. Interestingly, human prostatic cancer cells produce hepcidin and have, as already described for breast cancer, a functional hepcidin/ferroportin regulatory axis, which contributes to prostate cancer survival [ 3 ]. In patients with colorectal cancer the expression of hepcidin in cancer tissue was related to T stage, but not to metastases [ 23 ]. In RCC, Kamai and colleagues have investigated hepcidin in a small cohort of patients suffering from RCC. The results are in line with the results obtained here: increased serum hepcidin levels were linked to metastasis of renal cell carcinoma [ 9 ]. 
+30646851_27857	30	38	Hepcidin	Gene-protein	HGNC:15598
+30646851_27857	30	38	Hepcidin	Biomarker	D064451
+30646851_27857	77	81	iron	Chemical
+30646851_27857	130	136	cancer	Disease	DOID:162
+30646851_27857	150	181	increase in hepcidin expression	Biomarker
+30646851_27857	162	170	hepcidin	Gene-protein	HGNC:15598
+30646851_27857	217	232	prostate cancer	Disease	DOID:10283
+30646851_27857	217	277	prostate cancer, breast cancer, non-Hodgkin lymphoma and RCC	Collection
+30646851_27857	234	247	breast cancer	Disease	DOID:1612
+30646851_27857	249	269	non-Hodgkin lymphoma	Disease	DOID:0060060
+30646851_27857	274	277	RCC	Disease	DOID:4450
+30646851_27857	315	338	malignant breast cancer	Disease	DOID:1612
+30646851_27857	339	347	hepcidin	Gene-protein
+30646851_27857	339	372	hepcidin serum levels were higher	Biomarker
+30646851_27857	442	455	breast cancer	Disease
+30646851_27857	473	481	hepcidin	Gene-protein
+30646851_27857	473	481	hepcidin	Biomarker	D064451
+30646851_27857	473	497	hepcidin and ferroportin	Collection
+30646851_27857	486	497	ferroportin	Genefamily	not found
+30646851_27857	486	497	ferroportin	Biomarker
+30646851_27857	508	512	iron	Chemical
+30646851_27857	544	575	low ferroportin gene expression	Biomarker
+30646851_27857	548	559	ferroportin	Genefamily
+30646851_27857	618	666	combination of high ferroportin and low hepcidin	Biomarker
+30646851_27857	638	649	ferroportin	Genefamily
+30646851_27857	658	666	hepcidin	Gene-protein
+30646851_27857	715	726	ferroportin	Genefamily
+30646851_27857	715	726	ferroportin	Biomarker
+30646851_27857	785	798	breast cancer	Disease
+30646851_27857	809	825	prostatic cancer	Disease	DOID:10283
+30646851_27857	829	855	increase in serum hepcidin	Biomarker
+30646851_27857	847	855	hepcidin	Gene-protein
+30646851_27857	945	961	prostatic cancer	Disease
+30646851_27857	976	984	hepcidin	Gene-protein
+30646851_27857	1020	1033	breast cancer	Disease
+30646851_27857	1037	1084	functional hepcidin/ferroportin regulatory axis	Biomarker
+30646851_27857	1048	1056	hepcidin	Gene-protein
+30646851_27857	1057	1068	ferroportin	Genefamily
+30646851_27857	1107	1122	prostate cancer	Disease
+30646851_27857	1156	1173	colorectal cancer	Disease	DOID:9256
+30646851_27857	1192	1200	hepcidin	Gene-protein
+30646851_27857	1192	1200	hepcidin	Biomarker
+30646851_27857	1204	1210	cancer	Disease
+30646851_27857	1275	1278	RCC	Disease
+30646851_27857	1319	1327	hepcidin	Gene-protein
+30646851_27857	1319	1327	hepcidin	Biomarker
+30646851_27857	1373	1376	RCC	Disease
+30646851_27857	1434	1465	increased serum hepcidin levels	Biomarker
+30646851_27857	1450	1458	hepcidin	Gene-protein
+30646851_27857	1495	1515	renal cell carcinoma	Disease	DOID:4450
+

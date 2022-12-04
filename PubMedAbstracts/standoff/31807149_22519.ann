@@ -1,0 +1,34 @@
+T1	Disease 123 126	DVT
+T13	Disease 921 924	DVT
+T16	Disease 1025 1028	DVT
+T18	Disease 1128 1131	DVT
+T2	Disease 187 190	DVT
+T6	Disease 382 385	DVT
+T9	Disease 476 479	DVT
+T3	RNA-Noncoding 79 89	miR-195-5p
+#1	AnnotatorNotes T3	HGNC:31566
+T4	RNA-Noncoding 310 320	miR-195-5p
+T5	RNA-Noncoding 714 724	miR-195-5p
+T8	RNA-Noncoding 529 539	miR-195-5p
+T10	RNA-Noncoding 1114 1124	miR-195-5p
+T11	RNA-Noncoding 995 1005	miR-195-5p
+T12	RNA-Noncoding 875 885	miR-195-5p
+T15	RNA-Noncoding 615 625	miR-195-5p
+#2	AnnotatorNotes T1	D020246
+T19	Biomarker 79 119	miR-195-5p was significantly upregulated
+R1	Association Arg1:T19 Arg2:T1	
+T20	Gene-Protein 281 286	Bcl-2
+#3	AnnotatorNotes T20	 HGNC:990
+T21	Gene-Protein 443 448	Bcl-2
+T22	Gene-Protein 331 336	Bcl-2
+T23	Gene-Protein 831 836	Bcl-2
+T7	Biomarker 331 378	Bcl-2 was downregulated in the peripheral blood
+R2	Association Arg1:T7 Arg2:T6	
+T14	Biomarker 425 472	downregulation of Bcl-2 in the peripheral blood
+T17	Biomarker 513 539	upregulation of miR-195-5p
+T24	Biomarker 875 885	miR-195-5p
+T25	Biomarker 995 1005	miR-195-5p
+R3	Association Arg1:T24 Arg2:T13	
+R4	Association Arg1:T25 Arg2:T16	
+T26	CellLine 786 792	HUVECs
+T27	CellLine 699 705	HUVECs

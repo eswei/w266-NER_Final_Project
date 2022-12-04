@@ -1,0 +1,50 @@
+29375300_42672|t|RSS_IDENT_p_29375300_b_1_4_5
+29375300_42672|a| As expected, KLF5 was verified to be upregulated in GECs in the present research. Recent studies have implied the involvement of KLF5 in the regulation of tumor progression. Meanwhile, increasing evidence has shown that KLF5 plays a pivotal role in endothelial cells. KLF5 has been found highly expressed in bladder carcinoma cells and downregulation of KLF5 restrains bladder carcinoma cell-induced angiogenesis ( Chen et al., 2006 ; Gao et al., 2015 ). Moreover, previous research has proven that KLF5 is upregulated in prostate cancer cells, and knockdown of KLF5 suppresses prostate cancer cell-induced angiogenesis by inhibiting AKT pathways ( Xing et al., 2014 ; Ci et al., 2015 ). Bioinformatics database predicted that KLF5 had a putative binding site of miR-211. Subsequent luciferase reporter assay confirmed that miR-211 bound to the KLF5 3′-UTR. Collectively, these results indicated that miR-211 inhibited GBM angiogenesis by targeting the 3′-UTR of KLF5. MiR-211 has been proven to affect gene expression and function by targeting the 3′-UTR. For instance, miR-211 exerts inhibitory effected on gastric cancer cell proliferation and invasion by downregulating SOX4 mRNA expression ( Wang C.Y. et al., 2015 ). In addition, miR-211 targets KCNMA1 mRNA 3′-UTR to suppress melanoma cell migration and invasion ( Mazar et al., 2010 ). Also, downregulation of miR-211 is involved in aberrant expression of the PRAME protein by targeting the PRAME mRNA 3′-UTR in melanoma cells ( Sakurai et al., 2011 ). In cervical cancer, miR-211 inhibits the invasion and epithelial-to-mesenchymal transition (EMT) of cancer cells by targeting MUC4 3′-UTR ( Xu et al., 2017 ). Consistent with the above results, we demonstrated that overexpression of miR-211 suppressed GBM angiogenesis by targeting KLF5 3′-UTR. 
+29375300_42672	43	47	KLF5	Gene-protein	HGNC:6349
+29375300_42672	159	163	KLF5	Gene-protein
+29375300_42672	159	163	KLF5	Biomarker	C492214
+29375300_42672	185	190	tumor	Disease	DOID:162
+29375300_42672	250	254	KLF5	Gene-protein
+29375300_42672	298	302	KLF5	Gene-protein
+29375300_42672	298	334	KLF5 has been found highly expressed	Biomarker
+29375300_42672	338	355	bladder carcinoma	Disease	DOID:4007
+29375300_42672	384	388	KLF5	Gene-protein
+29375300_42672	399	416	bladder carcinoma	Disease
+29375300_42672	529	533	KLF5	Gene-protein
+29375300_42672	529	548	KLF5 is upregulated	Biomarker
+29375300_42672	552	567	prostate cancer	Disease	DOID:10283
+29375300_42672	592	596	KLF5	Gene-protein
+29375300_42672	608	623	prostate cancer	Disease	DOID:10283
+29375300_42672	664	667	AKT	Genefamily	family:1900
+29375300_42672	757	761	KLF5	Gene-protein
+29375300_42672	793	800	miR-211	Rna-noncoding	HGNC:31588
+29375300_42672	854	861	miR-211	Rna-noncoding
+29375300_42672	875	879	KLF5	Gene-protein
+29375300_42672	931	938	miR-211	Rna-noncoding
+29375300_42672	931	938	miR-211	Drug	C549405
+29375300_42672	949	952	GBM	Disease	DOID:3068
+29375300_42672	993	997	KLF5	Gene-protein
+29375300_42672	999	1006	MiR-211	Rna-noncoding	HGNC:31588
+29375300_42672	1101	1108	miR-211	Rna-noncoding
+29375300_42672	1101	1108	miR-211	Drug
+29375300_42672	1139	1153	gastric cancer	Disease	DOID:10534
+29375300_42672	1204	1208	SOX4	Gene-protein	HGNC:11200
+29375300_42672	1266	1273	miR-211	Rna-noncoding
+29375300_42672	1266	1273	miR-211	Drug
+29375300_42672	1282	1288	KCNMA1	Gene-protein	HGNC:6284
+29375300_42672	1313	1321	melanoma	Disease	DOID:1909
+29375300_42672	1380	1405	downregulation of miR-211	Biomarker
+29375300_42672	1398	1405	miR-211	Rna-noncoding
+29375300_42672	1448	1453	PRAME	Gene-protein	HGNC:9336
+29375300_42672	1479	1484	PRAME	Gene-protein
+29375300_42672	1500	1508	melanoma	Disease
+29375300_42672	1544	1559	cervical cancer	Disease	DOID:4362
+29375300_42672	1561	1568	miR-211	Rna-noncoding
+29375300_42672	1561	1568	miR-211	Drug
+29375300_42672	1641	1647	cancer	Disease	DOID:162
+29375300_42672	1667	1671	MUC4	Gene-protein	HGNC:7514
+29375300_42672	1774	1781	miR-211	Rna-noncoding
+29375300_42672	1774	1781	miR-211	Drug
+29375300_42672	1793	1796	GBM	Disease
+29375300_42672	1823	1827	KLF5	Gene-protein
+

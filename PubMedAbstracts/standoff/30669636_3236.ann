@@ -1,0 +1,91 @@
+T0	Disease 30 64	Chronic skin inflammatory diseases
+#1	AnnotatorNotes T0	not found
+T10	Disease 928 967	Th2 cell-mediated inflammatory diseases
+#3	AnnotatorNotes T10	not found
+T12	Disease 977 979	AD
+T13	Chemical 1073 1083	amino acid
+T14	Disease 1284 1301	skin inflammation
+#7	AnnotatorNotes T14	DOID:2723
+T16	Disease 1361 1386	chronic skin inflammation
+#8	AnnotatorNotes T16	DOID:2723
+T19	Disease 1484 1486	AD
+T20	Disease 1520 1532	skin lesions
+#10	AnnotatorNotes T20	DOID:37
+T22	Disease 1629 1663	chronic inflammatory skin diseases
+#11	AnnotatorNotes T22	not found
+T26	Disease 1838 1863	chronic skin inflammation
+T27	Disease 1881 1883	AD
+T3	Disease 282 302	chronic inflammation
+#14	AnnotatorNotes T3	D007249
+T6	Disease 539 541	AD
+#16	AnnotatorNotes T6	DOID:3310
+T8	Disease 688 695	itching
+#17	AnnotatorNotes T8	D011537
+T1	Gene-Protein 822 826	CCR4
+#2	AnnotatorNotes T1	HGNC:1605
+T2	Gene-Protein 1177 1181	CCR4
+T4	Gene-Protein 752 757	CCL17
+#4	AnnotatorNotes T4	HGNC:10615
+T7	Gene-Protein 747 751	TARC
+#6	AnnotatorNotes T7	HGNC:10615
+T9	Gene-Protein 797 820	CC chemokine receptor 4
+#18	AnnotatorNotes T9	HGNC:1605
+T11	Gene-Protein 1044 1049	CCL22
+#19	AnnotatorNotes T11	HGNC:10621
+T15	Gene-Protein 1040 1043	MDC
+#20	AnnotatorNotes T15	HGNC:10621
+T17	Gene-Protein 1010 1038	macrophage-derived chemokine
+#21	AnnotatorNotes T17	HGNC:10621
+T18	Gene-Protein 1265 1270	CCL17
+T21	Gene-Protein 1099 1104	CCL17
+T23	Gene-Protein 1275 1280	CCL22
+T24	Gene-Protein 1418 1423	CCL17
+T25	Gene-Protein 1710 1715	CCL22
+T28	Gene-Protein 1700 1705	CCL17
+T29	Gene-Protein 1554 1559	CCL22
+T30	Biomarker 87 113	dysfunctional skin barrier
+T31	Biomarker 139 246	elevated expression of various inflammatory stimuli, specifically pro-inflammatory cytokines and chemokines
+R1	Association Arg1:T30 Arg2:T0	
+T32	GeneFamily 205 246	pro-inflammatory cytokines and chemokines
+#22	AnnotatorNotes T32	not found, not found
+T33	GeneFamily 340 350	chemokines
+#23	AnnotatorNotes T33	family:483
+T34	GeneFamily 393 403	chemokines
+T5	GeneFamily 543 553	chemokines
+T35	GeneFamily 601 627	pro-inflammatory cytokines
+#15	AnnotatorNotes T35	not found
+T36	Gene-Protein 662 666	TSLP
+#24	AnnotatorNotes T36	HGNC:30743
+T37	Gene-Protein 632 660	thymic stromal lymphopoietin
+#25	AnnotatorNotes T37	HGNC:30743
+T38	Gene-Protein 704 745	Thymus and activation-regulated chemokine
+#26	AnnotatorNotes T38	HGNC:10615
+T39	GeneFamily 771 786	f C-C chemokine
+#27	AnnotatorNotes T39	not found
+T40	GeneFamily 996 1008	CC-chemokine
+T41	GeneFamily 1321 1331	chemokines
+T42	Biomarker 1321 1331	chemokines
+T43	Collection 1838 1883	chronic skin inflammation in diseases like AD
+T45	GeneFamily 1807 1817	chemokines
+T46	Biomarker 1554 1611	CCL22 expression was increased in the epidermis and serum
+T47	Biomarker 1418 1480	CCL17 has been shown to be present at high levels in the blood
+R3	Association Arg1:T46 Arg2:T22	
+T48	Collection 1484 1532	AD patients and highly expressed in skin lesions
+R4	Association Arg1:T47 Arg2:T48	
+R5	Association Arg1:T42 Arg2:T16	
+T49	GeneFamily 1115 1125	chemokines
+T50	Biomarker 304 350	small signaling proteins, including chemokines
+R6	Association Arg1:T50 Arg2:T3	
+T51	Biomarker 704 745	Thymus and activation-regulated chemokine
+#5	AnnotatorNotes T51	D054414
+T52	Collection 928 979	Th2 cell-mediated inflammatory diseases, such as AD
+R7	Association Arg1:T51 Arg2:T52	
+T53	Biomarker 543 553	chemokines
+#9	AnnotatorNotes T53	D018925
+R8	Association Arg1:T53 Arg2:T6	
+T54	Biomarker 1700 1705	CCL17
+#12	AnnotatorNotes T54	D054414
+T55	Biomarker 1710 1715	CCL22
+#13	AnnotatorNotes T55	D054422
+T56	Collection 1700 1715	CCL17 and CCL22
+R9	Association Arg1:T56 Arg2:T43	

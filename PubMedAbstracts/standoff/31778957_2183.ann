@@ -1,0 +1,86 @@
+T0	GeneFamily 87 117	β-galactoside-binding proteins
+T10	Disease 857 862	tumor
+T11	Disease 906 917	lung cancer
+#3	AnnotatorNotes T11	DOID:1324
+T12	Biomarker 919 939	cancer-derived Gal-1
+T14	Disease 950 961	lung cancer
+T15	Chemical 1003 1013	tryptophan
+T16	Chemical 1037 1047	kynurenine
+T17	Disease 1124 1130	tumors
+T19	Disease 1161 1166	tumor
+T2	Disease 201 207	tumors
+#10	AnnotatorNotes T2	DOID:162
+T21	Disease 1311 1329	pancreatic cancers
+#11	AnnotatorNotes T21	DOID:1793
+T22	Disease 1403 1420	pancreatic cancer
+#12	AnnotatorNotes T22	DOID:1793
+T23	Disease 1586 1591	tumor
+T25	Disease 1686 1692	cancer
+#14	AnnotatorNotes T25	DOID:162
+T4	Disease 589 609	head and neck cancer
+#16	AnnotatorNotes T4	DOID:11934
+T6	Disease 752 757	tumor
+T7	Disease 803 811	melanoma
+#19	AnnotatorNotes T7	DOID:1909
+T9	Disease 835 843	melanoma
+T1	Gene-Protein 30 40	Galectin-1
+#1	AnnotatorNotes T1	HGNC:6561
+T8	Gene-Protein 42 47	Gal-1
+#6	AnnotatorNotes T8	HGNC:6561
+#7	AnnotatorNotes T0	not found
+T13	Biomarker 158 183	Gal-1 is highly expressed
+T18	Gene-Protein 158 163	Gal-1
+R1	Association Arg1:T13 Arg2:T2	
+T20	Gene-Protein 255 260	Gal-1
+T24	Gene-Protein 312 317	Gal-1
+T26	GeneFamily 396 399	CD3
+#15	AnnotatorNotes T26	not found
+T27	Gene-Protein 404 408	CD45
+#21	AnnotatorNotes T27	HGNC:9666
+T28	Gene-Protein 431 434	CD7
+#22	AnnotatorNotes T28	HGNC:1695
+T29	Gene-Protein 439 443	CD43
+#23	AnnotatorNotes T29	HGNC:11249	
+T30	Gene-Protein 474 479	Gal-1
+T31	GeneFamily 510 525	T cell receptor
+#24	AnnotatorNotes T31	family:370
+T32	GeneFamily 527 530	TCR
+#25	AnnotatorNotes T32	family:370
+T5	Gene-Protein 656 661	Gal-1
+T33	Biomarker 656 661	Gal-1
+#17	AnnotatorNotes T33	D037483
+T34	Gene-Protein 666 669	CD3
+T35	Biomarker 666 669	CD3
+#26	AnnotatorNotes T35	D017252
+T36	Gene-Protein 715 720	Gal-1
+T37	Biomarker 715 720	Gal-1
+R2	Association Arg1:T37 Arg2:T7	
+T38	Gene-Protein 816 821	Gal-1
+T39	Gene-Protein 934 939	Gal-1
+R3	Association Arg1:T12 Arg2:T11	
+T40	Gene-Protein 1031 1035	TDO2
+#2	AnnotatorNotes T40	HGNC:11708
+T41	Gene-Protein 1003 1029	tryptophan 2,3-dioxygenase
+#4	AnnotatorNotes T41	HGNC:11708
+#5	AnnotatorNotes T17	DOID:162
+T42	Biomarker 1132 1153	high Gal-1 expression
+T43	Gene-Protein 1137 1142	Gal-1
+R4	Association Arg1:T42 Arg2:T17	
+T44	Biomarker 1214 1239	Gal-1 is highly expressed
+T45	Gene-Protein 1214 1219	Gal-1
+R5	Association Arg1:T44 Arg2:T21	
+T46	Biomarker 1334 1347	Stromal Gal-1
+T47	Gene-Protein 1342 1347	Gal-1
+R6	Association Arg1:T46 Arg2:T22	
+T48	Gene-Protein 1462 1467	Gal-1
+T49	Biomarker 1462 1467	Gal-1
+R7	Association Arg1:T49 Arg2:T23	
+T50	Gene-Protein 1637 1642	Gal-1
+T51	Biomarker 1637 1642	Gal-1
+R8	Association Arg1:T51 Arg2:T25	
+#8	AnnotatorNotes T6	DOID:162
+T3	Drug 816 831	Gal-1 knockdown
+#9	AnnotatorNotes T3	not found
+R9	Response Arg1:T3 Arg2:T9	
+T52	GeneFamily 68 76	galectin
+#13	AnnotatorNotes T52	family:629

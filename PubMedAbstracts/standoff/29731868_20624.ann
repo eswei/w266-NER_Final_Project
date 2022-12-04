@@ -1,0 +1,68 @@
+T10	Disease 669 674	tumor
+#1	AnnotatorNotes T10	DOID:162
+T12	Disease 728 731	HCC
+T13	Disease 809 821	osteosarcoma
+#3	AnnotatorNotes T13	DOID:3347
+T15	Disease 873 885	osteosarcoma
+T17	Disease 934 946	osteosarcoma
+T18	Disease 1201 1213	osteosarcoma
+T2	Disease 130 146	malignant tumors
+#7	AnnotatorNotes T2	DOID:162
+T20	Drug 1330 1339	cisplatin
+T21	Disease 1343 1355	osteosarcoma
+T23	Disease 1461 1473	osteosarcoma
+T4	Disease 242 249	cancers
+#11	AnnotatorNotes T4	DOID:162
+T6	Disease 327 333	tumors
+#12	AnnotatorNotes T6	DOID:162
+T8	Disease 490 501	lung cancer
+#13	AnnotatorNotes T8	DOID:1324
+T1	RNA-Noncoding 53 60	miR-192
+#2	AnnotatorNotes T1	family:1719
+T3	Biomarker 30 60	Aberrant expression of miR-192
+R1	Risk-Factor Arg1:T3 Arg2:T2	
+T5	RNA-Noncoding 194 201	miR-192
+T7	RNA-Noncoding 454 464	miR-192-5p
+T9	RNA-Noncoding 1410 1420	miR-192-5p
+T11	RNA-Noncoding 1086 1096	miR-192-5p
+T14	RNA-Noncoding 792 799	miR-192
+T16	RNA-Noncoding 534 544	miR-192-5p
+T19	RNA-Noncoding 255 262	miR-192
+T22	Biomarker 194 233	miR-192 was significantly downregulated
+T24	Biomarker 255 262	miR-192
+R2	Association Arg1:T22 Arg2:T4	
+R3	Association Arg1:T24 Arg2:T6	
+T25	Gene-Protein 610 613	RB1
+#4	AnnotatorNotes T25	HGNC:9884
+T26	Biomarker 454 486	miR-192-5p was significantly low
+R4	Association Arg1:T26 Arg2:T8	
+T27	Gene-Protein 703 710	SLC39A6
+#5	AnnotatorNotes T27	HGNC:18607
+T28	Gene-Protein 711 716	SNAIL
+#6	AnnotatorNotes T28	HGNC:11128
+T29	Biomarker 844 869	miR-192 was downregulated
+R5	Association Arg1:T29 Arg2:T15	
+T30	RNA-Noncoding 844 851	miR-192
+T31	RNA-Noncoding 890 897	miR-192
+T32	Drug 890 897	miR-192
+T33	Drug 1070 1096	upregulation of miR-192-5p
+#8	AnnotatorNotes T33	not found
+R6	Response Arg1:T33 Arg2:T18	
+T35	Drug 1240 1250	miR-192-5p
+R7	Synergy-Response Arg1:T35 Arg2:T21	
+R8	Synergy-Response Arg1:T20 Arg2:T21	
+T34	Drug 1410 1420	miR-192-5p
+R9	Response Arg1:T34 Arg2:T23	
+T36	Drug 534 544	miR-192-5p
+T37	RNA-Noncoding 650 660	miR-192-5p
+T38	Drug 650 660	miR-192-5p
+T39	Collection 670 731	umor metastasis by targeting the SLC39A6/SNAIL pathway in HCC
+R11	Response Arg1:T38 Arg2:T39	
+T40	RNA-Noncoding 1240 1250	miR-192-5p
+#9	AnnotatorNotes T7	family:1719
+#10	AnnotatorNotes T12	DOID:684
+#14	AnnotatorNotes T24	C546783
+#15	AnnotatorNotes T36	C546783
+#16	AnnotatorNotes T20	CHEMBL11359
+R12	Response Arg1:T35 Arg2:T21	
+R10	Response Arg1:T36 Arg2:T8	

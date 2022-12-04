@@ -1,0 +1,90 @@
+T0	Variant 132 141	c.4901A>T
+T1	Disease 244 269	neurodegenerative disease
+#1	AnnotatorNotes T1	DOID:1289
+T10	Disease 997 1017	familial forms of AD
+T11	Disease 1019 1022	FAD
+#3	AnnotatorNotes T11	D000544
+T12	Disease 1128 1155	presenilin 1-associated FAD
+#4	AnnotatorNotes T12	not found
+T13	Variant 1157 1162	I202F
+T14	Variant 1220 1225	P284S
+T19	Disease 1340 1346	CAA-ri
+#7	AnnotatorNotes T19	DOID:0110198|DOID:0110201
+T5	Disease 815 817	AD
+#11	AnnotatorNotes T5	DOID:10652
+T2	Gene-Protein 73 77	ApoE
+#5	AnnotatorNotes T2	HGNC:613
+T4	Biomarker 73 93	ApoE ε4 homozygosity
+T7	Gene-Protein 111 116	SORL1
+#6	AnnotatorNotes T7	HGNC:11185
+R1	Variant-Of Arg1:T7 Arg2:T0	
+T15	Gene-Protein 308 313	SORL1
+T3	Gene-Protein 371 376	SORL1
+T17	Gene-Protein 463 468	SorLA
+#8	AnnotatorNotes T17	HGNC:11185
+T22	Gene-Protein 409 461	sorting protein-related receptor with A-type repeats
+#9	AnnotatorNotes T22	HGNC:11185
+T23	Gene-Protein 549 574	amyloid precursor protein
+#10	AnnotatorNotes T23	 HGNC:620
+T24	Gene-Protein 576 579	APP
+#12	AnnotatorNotes T24	 HGNC:620
+T25	Gene-Protein 655 660	SorLA
+T26	Gene-Protein 665 668	APP
+T27	Gene-Protein 744 747	APP
+T28	Biomarker 744 763	APP sorting pathway
+R3	Association Arg1:T28 Arg2:T5	
+T29	Disease 836 842	CAA-ri
+#13	AnnotatorNotes T29	not found
+T6	Biomarker 941 968	Spontaneous ARIA and CAA-ri
+R4	Association Arg1:T6 Arg2:T10	
+#2	AnnotatorNotes T10	D000544
+T9	Gene-Protein 1128 1140	presenilin 1
+#14	AnnotatorNotes T9	HGNC:9508
+T30	Gene-Protein 1163 1168	PSEN1
+#15	AnnotatorNotes T30	HGNC:9508
+T31	Gene-Protein 1034 1061	β-amyloid protein precursor
+#16	AnnotatorNotes T31	HGNC:620
+T32	Gene-Protein 1063 1088	amyloid protein precursor
+T33	Gene-Protein 1090 1094	AβPP
+#17	AnnotatorNotes T33	HGNC:620
+T34	Biomarker 1034 1107	β-amyloid protein precursor -amyloid protein precursor (AβPP) duplication
+R5	Association Arg1:T34 Arg2:T12	
+R6	Variant-Of Arg1:T30 Arg2:T13	
+T35	Gene-Protein 1226 1231	PSEN1
+R8	Variant-Of Arg1:T35 Arg2:T14	
+#18	AnnotatorNotes T13	p.Ile202Phe
+#19	AnnotatorNotes T14	p.Pro248Ser
+T36	Gene-Protein 1255 1260	SORL1
+T37	Biomarker 1255 1260	SORL1
+#20	AnnotatorNotes T37	C102582
+T16	Disease 1284 1290	CAA-ri
+R7	Association Arg1:T37 Arg2:T16	
+T18	Gene-Protein 1305 1310	SORL1
+T38	Biomarker 1294 1310	variant in SORL1
+R9	Risk-Factor Arg1:T38 Arg2:T19	
+T20	Disease 1520 1526	CAA-ri
+T39	Gene-Protein 1395 1399	ApoE
+T40	Biomarker 1395 1415	ApoE ε4 homozygosity
+R10	Association Arg1:T40 Arg2:T20	
+T21	Disease 1634 1640	CAA-ri
+T41	Disease 1645 1657	inflammation
+#21	AnnotatorNotes T41	D007249
+T42	Collection 1634 1657	CAA-ri and inflammation
+T43	Biomarker 1661 1701	SORL1 mutation with ApoE ε4 homozygosity
+R11	Association Arg1:T43 Arg2:T42	
+T44	Gene-Protein 1661 1666	SORL1
+T45	Gene-Protein 1681 1685	ApoE
+T46	Collection 1157 1231	I202F PSEN1 mutation) [ 12 ], and in two siblings carrying the P284S PSEN1
+R12	Association Arg1:T46 Arg2:T12	
+T47	Gene-Protein 897 899	Aβ
+T48	Gene-Protein 605 607	Aβ
+T49	Gene-Protein 1370 1372	Aβ
+T50	Gene-Protein 1460 1462	Aβ
+T51	Disease 360 362	AD
+#23	AnnotatorNotes T51	DOID:10652
+T8	Biomarker 308 327	SORL1 gene variants
+R2	Association Arg1:T8 Arg2:T51	
+R13	Association Arg1:T8 Arg2:T1	
+T52	Gene-Protein 511 513	Aβ
+#24	AnnotatorNotes T52	not found
+A1	Conjunction T43

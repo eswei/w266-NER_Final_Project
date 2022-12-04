@@ -1,0 +1,39 @@
+T0	Drug 107 116	puromycin
+T10	Chemical 1573 1588	Alexa Fluor 488
+T11	Chemical 1608 1623	Alexa Flour 555
+T2	Chemical 442 460	lipofectamine 2000
+T4	Chemical 585 596	Glutathione
+T5	Chemical 597 609	Sepharose 4B
+T8	Chemical 1464 1473	Rhodamine
+T9	Chemical 1485 1495	phalloidin
+T13	Gene-Protein 161 173	Interferon-γ
+T14	GeneFamily 178 185	laminin
+T15	Gene-Protein 236 241	TGFβ1
+T16	Drug 90 101	blasticidin
+#4	AnnotatorNotes T0	CHEMBL469912
+T1	Gene-Protein 1676 1690	anti-α-tubulin
+T3	Gene-Protein 1698 1715	anti-synaptopodin
+T6	Gene-Protein 1724 1732	anti-p38
+T7	Gene-Protein 1758 1761	HRP
+T17	Gene-Protein 1734 1756	Horseradish peroxidase
+T18	Gene-Protein 1788 1791	HRP
+T19	Drug 1734 1786	Horseradish peroxidase (HRP)-conjugated streptavidin
+#5	AnnotatorNotes T19	not found
+T20	Gene-Protein 1991 2000	anti-Rac1
+T22	Gene-Protein 2124 2137	anti-calnexin
+T23	Gene-Protein 2051 2061	anti-Hsc70
+T24	Gene-Protein 2086 2094	anti-myc
+T21	Gene-Protein 1538 1555	Rabbit anti-p-p38
+T25	Gene-Protein 1557 1572	anti-rabbit IgG
+T26	Gene-Protein 1593 1607	anti-mouse IgG
+T27	Gene-Protein 1278 1282	Cas9
+T29	Gene-Protein 962 966	Rac1
+T30	Gene-Protein 874 878	Rac1
+T12	Gene-Protein 1886 1906	anti-Trio antibodies
+T31	Gene-Protein 1803 1840	anti-rabbit and anti-mouse antibodies
+T32	Gene-Protein 2069 2078	anti-WT-1
+#1	AnnotatorNotes T16	CHEMBL476894
+#2	AnnotatorNotes T13	HGNC:5438
+#3	AnnotatorNotes T14	family:626
+#6	AnnotatorNotes T15	HGNC:11766
+#7	AnnotatorNotes T30	HGNC:9801

@@ -1,0 +1,41 @@
+31788340_12715|t|RSS_IDENT_s_31788340_b_1_4_9
+31788340_12715|a| miR-125b and AD The serum miR-125b was down-regulated in AD patients compared with that of control subjects [ 15 , 53 - 55 ]. In addition, decreased circulating miR-125b was also found in the APP/PS1 transgenic mouse models of AD [ 24 ]. In the Aβ pathological condition, the reduced expression of miR-125b is a critical event for the neurotoxic effect in cortical neurons. 17β-estradiol can protect neurons from the Aβ-peptide caused neurotoxicity via up-regulation miR-125b expression [ 56 ]. However, it is inconsistently with the protection role of miR-125b in AD. MiR-125b was found highly expression in AD patients [ 57 ]. Up-regulation of miR-125b caused tau hyperphosphorylation, inhibited cell proliferation, promoted apoptosis, induced inflammation and oxidative stress by activation of CDK5 and p35/25, p44/42-MAPK signaling pathway, and suppressed expressions of forkhead box Q1 (FOXQ1), anti-apoptotic factor Bcl-W, and sphingosine kinase 1 (SphK1) [ 57 - 59 ]. It is probably that the aberrant expression of miR-125b contributes to the neural dysfunction in AD brain.
+31788340_12715	30	38	miR-125b	Rna-noncoding
+31788340_12715	43	45	AD	Disease	DOID:10652
+31788340_12715	50	83	serum miR-125b was down-regulated	Biomarker
+31788340_12715	56	64	miR-125b	Rna-noncoding
+31788340_12715	87	89	AD	Disease
+31788340_12715	169	199	decreased circulating miR-125b	Biomarker
+31788340_12715	191	199	miR-125b	Rna-noncoding
+31788340_12715	222	225	APP	Gene-protein
+31788340_12715	226	229	PS1	Gene-protein
+31788340_12715	257	259	AD	Disease
+31788340_12715	275	277	Aβ	Gene-protein	not found
+31788340_12715	306	336	reduced expression of miR-125b	Biomarker
+31788340_12715	328	336	miR-125b	Rna-noncoding
+31788340_12715	404	417	17β-estradiol	Drug	CHEMBL135
+31788340_12715	447	457	Aβ-peptide	Gene-protein	not found
+31788340_12715	447	478	Aβ-peptide caused neurotoxicity	Disease	not found
+31788340_12715	497	505	miR-125b	Rna-noncoding
+31788340_12715	583	591	miR-125b	Drug	C531888
+31788340_12715	595	597	AD	Disease
+31788340_12715	599	607	MiR-125b	Rna-noncoding
+31788340_12715	599	635	MiR-125b was found highly expression	Biomarker
+31788340_12715	639	641	AD	Disease
+31788340_12715	659	684	Up-regulation of miR-125b	Drug
+31788340_12715	676	684	miR-125b	Rna-noncoding
+31788340_12715	692	695	tau	Gene-protein	HGNC:6893
+31788340_12715	827	831	CDK5	Gene-protein	HGNC:1774
+31788340_12715	836	842	p35/25	Gene-protein	HGNC:1775
+31788340_12715	844	855	p44/42-MAPK	Gene-protein	HGNC:6877
+31788340_12715	905	920	forkhead box Q1	Gene-protein	HGNC:20951
+31788340_12715	922	927	FOXQ1	Gene-protein	HGNC:20951
+31788340_12715	952	957	Bcl-W	Gene-protein	HGNC:995
+31788340_12715	963	974	sphingosine	Chemical
+31788340_12715	963	983	sphingosine kinase 1	Gene-protein	HGNC:11240
+31788340_12715	985	990	SphK1	Gene-protein	HGNC:11240
+31788340_12715	1029	1060	aberrant expression of miR-125b	Biomarker
+31788340_12715	1052	1060	miR-125b	Rna-noncoding
+31788340_12715	1080	1098	neural dysfunction	Biomarker
+31788340_12715	1102	1104	AD	Disease	DOID:10652
+

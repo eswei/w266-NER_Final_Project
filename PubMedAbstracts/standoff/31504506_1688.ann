@@ -1,0 +1,88 @@
+T10	Chemical 1039 1042	LPA
+T11	Chemical 1051 1058	phospho
+T14	Gene-Protein 1262 1273	follistatin
+T15	Gene-Protein 1275 1284	myostatin
+T17	Chemical 1520 1528	retinoic
+T18	Biomarker 1672 1751	staining level of vWF and two pro-angiogenic markers (NF-κB nuclear p65 and TF)
+T21	Disease 1918 1929	adenomyosis
+#11	AnnotatorNotes T21	DOID:288
+T22	Disease 2014 2025	adenomyosis
+T23	Disease 2243 2266	adenomyosis-related AUB
+#13	AnnotatorNotes T23	not found
+T24	Biomarker 2270 2282	subfertility
+T3	Biomarker 447 460	increased MVD
+T5	Biomarker 556 608	higher vascular endothelial growth factor expression
+T8	Chemical 920 929	rapamycin
+T9	Chemical 1016 1037	lysophosphatidic acid
+T25	Gene-Protein 170 174	CD31
+#2	AnnotatorNotes T25	HGNC:8823
+T26	Gene-Protein 176 180	CD34
+#3	AnnotatorNotes T26	HGNC:1662
+T27	Gene-Protein 182 203	von Willebrand Factor
+#5	AnnotatorNotes T27	HGNC:12726
+T28	Gene-Protein 205 208	vWF
+#6	AnnotatorNotes T28	HGNC:12726
+T1	Gene-Protein 213 233	factor-VIII-antibody
+#1	AnnotatorNotes T1	not found
+T29	Biomarker 316 329	increased MVD
+T2	GeneFamily 563 597	vascular endothelial growth factor
+#7	AnnotatorNotes T2	family:1267
+T4	Gene-Protein 749 770	α-smooth muscle actin
+T6	Gene-Protein 772 780	endoglin
+T7	Gene-Protein 782 789	S100A13
+T30	Gene-Protein 791 799	vimentin
+T31	GeneFamily 801 826	matrix metalloproteinases
+T32	GeneFamily 828 832	MMPs
+T33	GeneFamily 835 857	nuclear factor (NF)-kB
+T34	Gene-Protein 859 872	tissue factor
+T35	Gene-Protein 874 876	TF
+T36	Gene-Protein 879 883	DJ-1
+T37	Gene-Protein 885 929	phosphorylated mammalian target of rapamycin
+T38	Gene-Protein 931 940	activin A
+T39	Gene-Protein 942 962	folli- and myostatin
+T40	Gene-Protein 964 968	CD41
+T41	Gene-Protein 970 974	SLIT
+T42	Gene-Protein 976 988	roundabout 1
+T43	Gene-Protein 990 995	ROBO1
+T44	Gene-Protein 998 1014	cyclooxygenase-2
+T45	Gene-Protein 1044 1109	1,4-5, phospho signal transducer and activator of transcription 3
+T46	Gene-Protein 1111 1117	pSTAT3
+T47	Gene-Protein 1120 1138	interleukin (IL)-6
+T48	Gene-Protein 1140 1145	IL-22
+T49	Gene-Protein 1150 1179	transforming growth factor-β1
+T12	Gene-Protein 1235 1242	S100A13
+T13	Gene-Protein 1244 1256	MMP-2 and -9
+T50	Gene-Protein 1258 1260	TF
+T51	Gene-Protein 1286 1291	ROBO1
+T52	Gene-Protein 1293 1305	LPA1 and 4-5
+T53	Gene-Protein 1307 1313	pSTAT3
+T54	Gene-Protein 1315 1319	IL-6
+T55	Gene-Protein 1324 1329	IL-22
+T16	Gene-Protein 1432 1442	E-cadherin
+T56	Gene-Protein 1444 1494	eukaryotic translation initiation factor 3 subunit
+T57	Gene-Protein 1499 1560	gene associated with retinoic-interferon-induced mortality 19
+T58	Gene-Protein 1603 1608	IL-10
+T59	Gene-Protein 1690 1693	vWF
+T60	GeneFamily 1726 1731	NF-κB
+T61	Gene-Protein 1740 1743	p65
+T62	Gene-Protein 1748 1750	TF
+T63	Disease 1789 1800	adenomyosis
+#4	AnnotatorNotes T63	DOID:288
+T19	Biomarker 1902 1914	subfertility
+T20	Biomarker 1874 1897	markers of angiogenesis
+T64	Biomarker 1768 1771	AUB
+T65	Drug-Class 2044 2060	hormonal therapy
+T66	Drug-Class 2115 2138	angiogenesis inhibitors
+#8	AnnotatorNotes T19	D007246
+#9	AnnotatorNotes T64	D008796
+T67	Disease 333 352	ectopic endometrium
+R1	Association Arg1:T29 Arg2:T67	
+T68	Disease 612 631	ectopic endometrium
+R2	Association Arg1:T5 Arg2:T68	
+#10	AnnotatorNotes T67	not found
+T69	Disease 1198 1218	ectopic endometrium,
+T70	Biomarker 1408 1575	anti-angiogenic markers E-cadherin, eukaryotic translation initiation factor 3 subunit and gene associated with retinoic-interferon-induced mortality 19 were decreased
+T71	Disease 1579 1598	ectopic endometrium
+R3	Association Arg1:T70 Arg2:T71	
+T72	Biomarker 1227 1344	markers S100A13, MMP-2 and -9, TF, follistatin, myostatin, ROBO1, LPA1 and 4-5, pSTAT3, IL-6 and IL-22 were increased
+T73	Biomarker 1603 1608	IL-10

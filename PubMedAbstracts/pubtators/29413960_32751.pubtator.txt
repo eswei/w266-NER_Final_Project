@@ -1,0 +1,44 @@
+29413960_32751|t|RSS_IDENT_p_29413960_b_1_4_9
+29413960_32751|a| In conjunction with these observations, ethnicity and gender were found to be significant variables associated with total sulfide, ALS, and BSS with a diagnosis of CVD. Regression analyses show a significant reduction in plasma sulfide levels with onset of CVD in Caucasian patients. Notably, a significant association is observed with total sulfide, ALS, and BSS levels in females in comparison to the males in both Caucasians and African Americans. Additionally, SNP analysis of H₂S synthesis enzymes revealed that polymorphisms in CTH (but not CBS) are a potential risk factor for vascular disease development. It is known that CTH is a key enzyme for production of H₂S in the cardiovascular system. Others and we have previously reported that endogenous H₂S production is significantly reduced in CTH (CSE) deficient mice, which could translate to clinical implications for the development of vascular disease [9] , [34] . Deficiency in bioavailable sulfide may be associated with polymorphic variants of CTH as a previous report revealed an association of CTH SNP with increased serum homocysteine levels [16] . Our findings regarding CTH 1364 G-T allele frequency in patients with CVD advances the hypothesis that a CTH SNP 403Ser to 403Ile is associated with decreased sulfide bioavailability and has clinical associations in patients with chronic vascular disease conditions. However, future studies are needed to identify how this missense mutation alters enzyme function in vivo compared to a previous enzymatic study that did not find alterations in CTH pyridoxal-5’-phosphate cofactor content or steady state kinetic properties [36] . 
+29413960_32751	146	159	total sulfide	Biomarker
+29413960_32751	152	159	sulfide	Chemical
+29413960_32751	161	164	ALS	Chemical
+29413960_32751	161	164	ALS	Biomarker
+29413960_32751	170	173	BSS	Chemical
+29413960_32751	170	173	BSS	Biomarker
+29413960_32751	194	197	CVD	Disease	DOID:178
+29413960_32751	238	272	reduction in plasma sulfide levels	Biomarker
+29413960_32751	258	265	sulfide	Chemical
+29413960_32751	287	290	CVD	Disease
+29413960_32751	372	379	sulfide	Chemical
+29413960_32751	381	384	ALS	Chemical
+29413960_32751	390	393	BSS	Chemical
+29413960_32751	511	514	H₂S	Chemical
+29413960_32751	547	567	polymorphisms in CTH	Biomarker
+29413960_32751	564	567	CTH	Gene-protein	HGNC:2501
+29413960_32751	577	580	CBS	Gene-protein	HGNC:1550
+29413960_32751	614	630	vascular disease	Disease	DOID:178
+29413960_32751	661	664	CTH	Gene-protein
+29413960_32751	699	702	H₂S	Chemical
+29413960_32751	777	827	endogenous H₂S production is significantly reduced	Biomarker
+29413960_32751	788	791	H₂S	Chemical
+29413960_32751	831	834	CTH	Gene-protein
+29413960_32751	836	839	CSE	Gene-protein
+29413960_32751	927	943	vascular disease	Disease
+29413960_32751	957	991	Deficiency in bioavailable sulfide	Disease	not found
+29413960_32751	984	991	sulfide	Chemical
+29413960_32751	1015	1042	polymorphic variants of CTH	Biomarker
+29413960_32751	1039	1042	CTH	Gene-protein
+29413960_32751	1091	1094	CTH	Gene-protein
+29413960_32751	1095	1098	SNP	Variant
+29413960_32751	1120	1132	homocysteine	Chemical
+29413960_32751	1170	1173	CTH	Gene-protein
+29413960_32751	1174	1182	1364 G-T	Variant
+29413960_32751	1217	1220	CVD	Disease
+29413960_32751	1252	1255	CTH	Gene-protein
+29413960_32751	1260	1276	403Ser to 403Ile	Variant	p.Ser403Ile
+29413960_32751	1306	1313	sulfide	Chemical
+29413960_32751	1377	1401	chronic vascular disease	Disease	DOID:178
+29413960_32751	1591	1594	CTH	Gene-protein
+29413960_32751	1595	1617	pyridoxal-5’-phosphate	Chemical
+

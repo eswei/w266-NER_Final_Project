@@ -1,0 +1,139 @@
+31024988_5412|t|RSS_IDENT_s_31024988_b_1_2
+31024988_5412|a| Results Bioinformatics Identifies DEGs in LUAD and Non-malignant Tissues Four gene expression datasets of LUAD in the GEO database, including GSE7670, GSE10072, GSE68465, and GSE43458, were used for identification of genes differentially expressed in lung cancer. The intersecting part of the four sets of DEGs consisted of 48 genes, which were thought to be involved in development and progression of this malignancy (Table 1). Among the 48 DEGs, 30 were upregulated in tumor tissues (Figure 1A). Impressively, the gene ceacam5, encoding the most common serum biomarker CEA for diagnosis of lung cancer, was on the list of upregulated genes, providing convincing evidence of the efficacy of the DEG profile. Next, to gain insight into the biological roles of DEGs involved in cancer progression, we performed a Gene Ontology (GO) enrichment analysis and a protein-protein interaction (PPI) analysis. Most of the enriched GO terms belonged to the biological process category. Collagen catabolic and fibril organization processes were the two most relevant biological processes, and nearly half of the terms involved regulating collagen assembly or disassembly through proteolysis. In terms of the cellular component, the enriched GO terms were mainly related to the ECM. Of the 10 enriched GO molecular functions, 4 were associated with endopeptidase activity (Figure 1B). PPI combined with ontologic analysis revealed common pathways or processes associated with upregulated genes in LUAD (Figure 1C), including ECM-receptor interaction, bladder cancer, elevated chemokine-related signaling, protein digestion, and absorption ontologies. Besides the chemokine-signaling-related factors CXCL13 and CXCL14, most of the upregulated genes belong to the collagen and MMP families. We propose that the DEGs encoding MMPs or collagens found in this study may play critical roles in the development of LUAD. Large studies have demonstrated that MMPs and collagens contribute to the progression of cancer by modulating the tumor microenvironment. 20 , 21 , 22 MMPs, as enzymes with peptidase activity taking an active role in ECM remodeling, are thought to be key players in this process. Table 1 Common DEGs Identified in Lung Adenocarcinoma Regulation Gene Symbol DEGs upregulated COL11A1, SPINK1, MMP12, S100A2, CDH3, COL10A1, COL3A1, MMP9, AGR2, GREM1, CXCL13, TOX3, MMP7, WFDC2, COL1A1, CST1, CXCL14, TMPRSS4, COMP, SULF1, GOLM1, ABCC3, MMP11, LCN2, PPP1R14(D) FAP, ADAMDEC1, MXRA5, CEACAM5, LGSN DEGs downregulated CDH13, CTNNAL1, HL(F) SEMA5(A) NRN1, ITM2(A) GPM6(B) CX3CR1, SRPX, TSPAN7, GPC3, ADAMTS1, SOCS2, BCH(E) EDNR(B) FHL1, CPB2, CAV1 Figure 1 Identification of DEGs Based on Four Datasets of Lung Adenocarcinoma (A) Venn diagram of the overlapping parts of upregulated DEGs from four independent LUAD datasets. Thirty upregulated DEGs were common to all datasets. (B) The significantly enriched GO terms for analysis of 30 upregulated DEGs. (C) A PPI network combined with a KEGG pathway enriched in common upregulated DEGs.
+31024988_5412	70	74	LUAD	Disease	DOID:3910
+31024988_5412	134	138	LUAD	Disease
+31024988_5412	279	290	lung cancer	Disease	DOID:1324
+31024988_5412	499	504	tumor	Disease	DOID:162
+31024988_5412	544	556	gene ceacam5	Biomarker
+31024988_5412	549	556	ceacam5	Gene-protein	HGNC:1817
+31024988_5412	599	602	CEA	Gene-protein	HGNC:1817
+31024988_5412	620	631	lung cancer	Disease
+31024988_5412	805	811	cancer	Disease	DOID:162
+31024988_5412	1004	1012	Collagen	Genefamily
+31024988_5412	1155	1163	collagen	Genefamily
+31024988_5412	1365	1378	endopeptidase	Genefamily
+31024988_5412	1513	1517	LUAD	Disease
+31024988_5412	1567	1581	bladder cancer	Disease	DOID:11054
+31024988_5412	1583	1638	elevated chemokine-related signaling, protein digestion	Biomarker
+31024988_5412	1592	1601	chemokine	Genefamily
+31024988_5412	1679	1688	chemokine	Genefamily
+31024988_5412	1679	1732	chemokine-signaling-related factors CXCL13 and CXCL14	Biomarker
+31024988_5412	1715	1721	CXCL13	Gene-protein
+31024988_5412	1726	1732	CXCL14	Gene-protein
+31024988_5412	1746	1803	upregulated genes belong to the collagen and MMP families	Biomarker
+31024988_5412	1778	1786	collagen	Genefamily
+31024988_5412	1791	1794	MMP	Genefamily
+31024988_5412	1825	1856	DEGs encoding MMPs or collagens	Biomarker
+31024988_5412	1839	1843	MMPs	Genefamily
+31024988_5412	1847	1856	collagens	Genefamily
+31024988_5412	1923	1927	LUAD	Disease
+31024988_5412	1966	1970	MMPs	Biomarker
+31024988_5412	1966	1970	MMPs	Genefamily
+31024988_5412	1966	1984	MMPs and collagens	Collection
+31024988_5412	1975	1984	collagens	Biomarker
+31024988_5412	1975	1984	collagens	Genefamily
+31024988_5412	2018	2024	cancer	Disease
+31024988_5412	2080	2084	MMPs	Genefamily
+31024988_5412	2102	2111	peptidase	Genefamily
+31024988_5412	2243	2262	Lung Adenocarcinoma	Disease	DOID:3910
+31024988_5412	2303	2310	COL11A1	Gene-protein
+31024988_5412	2303	2310	COL11A1	Biomarker
+31024988_5412	2303	2521	COL11A1, SPINK1, MMP12, S100A2, CDH3, COL10A1, COL3A1, MMP9, AGR2, GREM1, CXCL13, TOX3, MMP7, WFDC2, COL1A1, CST1, CXCL14, TMPRSS4, COMP, SULF1, GOLM1, ABCC3, MMP11, LCN2, PPP1R14(D) FAP, ADAMDEC1, MXRA5, CEACAM5, LGSN	Collection
+31024988_5412	2312	2318	SPINK1	Gene-protein
+31024988_5412	2312	2318	SPINK1	Biomarker
+31024988_5412	2320	2325	MMP12	Gene-protein
+31024988_5412	2320	2325	MMP12	Biomarker
+31024988_5412	2327	2333	S100A2	Gene-protein
+31024988_5412	2327	2333	S100A2	Biomarker
+31024988_5412	2335	2339	CDH3	Gene-protein
+31024988_5412	2335	2339	CDH3	Biomarker
+31024988_5412	2341	2348	COL10A1	Gene-protein
+31024988_5412	2341	2348	COL10A1	Biomarker
+31024988_5412	2350	2356	COL3A1	Gene-protein
+31024988_5412	2350	2356	COL3A1	Biomarker
+31024988_5412	2358	2362	MMP9	Gene-protein
+31024988_5412	2358	2362	MMP9	Biomarker
+31024988_5412	2364	2368	AGR2	Gene-protein
+31024988_5412	2364	2368	AGR2	Biomarker
+31024988_5412	2370	2375	GREM1	Gene-protein
+31024988_5412	2370	2375	GREM1	Biomarker
+31024988_5412	2377	2383	CXCL13	Gene-protein
+31024988_5412	2377	2383	CXCL13	Biomarker
+31024988_5412	2385	2389	TOX3	Gene-protein
+31024988_5412	2385	2389	TOX3	Biomarker
+31024988_5412	2391	2395	MMP7	Gene-protein
+31024988_5412	2391	2395	MMP7	Biomarker
+31024988_5412	2397	2402	WFDC2	Gene-protein
+31024988_5412	2397	2402	WFDC2	Biomarker
+31024988_5412	2404	2410	COL1A1	Gene-protein
+31024988_5412	2404	2410	COL1A1	Biomarker
+31024988_5412	2412	2416	CST1	Gene-protein
+31024988_5412	2412	2416	CST1	Biomarker
+31024988_5412	2418	2424	CXCL14	Gene-protein
+31024988_5412	2418	2424	CXCL14	Biomarker
+31024988_5412	2426	2433	TMPRSS4	Gene-protein
+31024988_5412	2426	2433	TMPRSS4	Biomarker
+31024988_5412	2435	2439	COMP	Gene-protein
+31024988_5412	2435	2439	COMP	Biomarker
+31024988_5412	2441	2446	SULF1	Gene-protein
+31024988_5412	2441	2446	SULF1	Biomarker
+31024988_5412	2448	2453	GOLM1	Gene-protein
+31024988_5412	2448	2453	GOLM1	Biomarker
+31024988_5412	2455	2460	ABCC3	Gene-protein
+31024988_5412	2455	2460	ABCC3	Biomarker
+31024988_5412	2462	2467	MMP11	Gene-protein
+31024988_5412	2462	2467	MMP11	Biomarker
+31024988_5412	2469	2473	LCN2	Gene-protein
+31024988_5412	2469	2473	LCN2	Biomarker
+31024988_5412	2475	2482	PPP1R14	Gene-protein
+31024988_5412	2475	2482	PPP1R14	Biomarker
+31024988_5412	2486	2489	FAP	Gene-protein
+31024988_5412	2486	2489	FAP	Biomarker
+31024988_5412	2491	2499	ADAMDEC1	Gene-protein
+31024988_5412	2491	2499	ADAMDEC1	Biomarker
+31024988_5412	2501	2506	MXRA5	Gene-protein
+31024988_5412	2501	2506	MXRA5	Biomarker
+31024988_5412	2508	2515	CEACAM5	Gene-protein
+31024988_5412	2508	2515	CEACAM5	Biomarker
+31024988_5412	2517	2521	LGSN	Gene-protein
+31024988_5412	2517	2521	LGSN	Biomarker
+31024988_5412	2541	2546	CDH13	Gene-protein
+31024988_5412	2541	2546	CDH13	Biomarker
+31024988_5412	2541	2669	CDH13, CTNNAL1, HL(F) SEMA5(A) NRN1, ITM2(A) GPM6(B) CX3CR1, SRPX, TSPAN7, GPC3, ADAMTS1, SOCS2, BCH(E) EDNR(B) FHL1, CPB2, CAV1	Collection
+31024988_5412	2548	2555	CTNNAL1	Gene-protein
+31024988_5412	2548	2555	CTNNAL1	Biomarker
+31024988_5412	2557	2559	HL	Gene-protein
+31024988_5412	2557	2559	HL	Biomarker
+31024988_5412	2563	2568	SEMA5	Gene-protein
+31024988_5412	2563	2568	SEMA5	Biomarker
+31024988_5412	2572	2576	NRN1	Gene-protein
+31024988_5412	2572	2576	NRN1	Biomarker
+31024988_5412	2578	2582	ITM2	Gene-protein
+31024988_5412	2578	2582	ITM2	Biomarker
+31024988_5412	2586	2590	GPM6	Gene-protein
+31024988_5412	2586	2590	GPM6	Biomarker
+31024988_5412	2594	2600	CX3CR1	Gene-protein
+31024988_5412	2594	2600	CX3CR1	Biomarker
+31024988_5412	2602	2606	SRPX	Gene-protein
+31024988_5412	2602	2606	SRPX	Biomarker
+31024988_5412	2608	2614	TSPAN7	Gene-protein
+31024988_5412	2608	2614	TSPAN7	Biomarker
+31024988_5412	2616	2620	GPC3	Gene-protein
+31024988_5412	2616	2620	GPC3	Biomarker
+31024988_5412	2622	2629	ADAMTS1	Gene-protein
+31024988_5412	2622	2629	ADAMTS1	Biomarker
+31024988_5412	2631	2636	SOCS2	Gene-protein
+31024988_5412	2631	2636	SOCS2	Biomarker
+31024988_5412	2638	2641	BCH	Gene-protein
+31024988_5412	2638	2641	BCH	Biomarker
+31024988_5412	2645	2649	EDNR	Gene-protein
+31024988_5412	2645	2649	EDNR	Biomarker
+31024988_5412	2653	2657	FHL1	Gene-protein
+31024988_5412	2653	2657	FHL1	Biomarker
+31024988_5412	2659	2663	CPB2	Gene-protein
+31024988_5412	2659	2663	CPB2	Biomarker
+31024988_5412	2665	2669	CAV1	Gene-protein
+31024988_5412	2665	2669	CAV1	Biomarker
+31024988_5412	2728	2747	Lung Adenocarcinoma	Disease
+31024988_5412	2832	2836	LUAD	Disease
+

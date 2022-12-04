@@ -1,0 +1,53 @@
+31640732_3899|t|RSS_IDENT_p_31640732_b_1_1_4
+31640732_3899|a| In addition to MMPs and ADAMTS, A Disintegrin and Metalloproteinase (ADAM) family is considered to be involved in mediating ECM degradation in OA [ 19 ]. Several of the ADAM proteins are found to be up-regulated in OA. For example, ADAM10 was found to be notably up-regulated during the progression of OA, and was confirmed to be stimulated by inflammatory factor IL-1, and was considered to be involved in cartilage degeneration [ 20 , 21 ]. ADAM9, ADAM12, ADAM15, ADAM19 and ADAM23 were also found to be up-regulated in human OA cartilage [ 22 – 24 ]. Despite that the investigations of ADAM8 are majorly from the research area of tumorigenesis [ 25 , 26 ], the role of ADAM8 in OA has been included in several studies. As identified by several studies, the expression of ADAM8 was found to be elevated in OA cartilage [ 24 , 27 , 28 ]. Importantly, Zack. MD et.al indicated that ADAM8 is a fibronectinase in human OA chondrocytes, it cleaves fibronectin at the amino acid Ala (271) [ 28 ]. This ADAM8 mediated degradation of fibronectin in cartilage may contribute to OA progress directly. Besides, ADAM8 was identified to be a regulator in rheumatoid arthritis associated osteoclastogenesis and bone erosion [ 29 – 31 ]. However, the exact role of ADAM8 in regulating the degradation of ECM, including collagens and aggrecans, and in modulating OA progression is still to be elucidated.
+31640732_3899	45	49	MMPs	Genefamily	family:891
+31640732_3899	45	49	MMPs	Biomarker	D020782
+31640732_3899	54	60	ADAMTS	Genefamily	family:50
+31640732_3899	54	60	ADAMTS	Biomarker	D000071096
+31640732_3899	62	97	A Disintegrin and Metalloproteinase	Genefamily	family:47
+31640732_3899	62	97	A Disintegrin and Metalloproteinase	Biomarker	D051722
+31640732_3899	99	103	ADAM	Genefamily	family:47
+31640732_3899	154	169	ECM degradation	Biomarker
+31640732_3899	173	175	OA	Disease	DOID:8398
+31640732_3899	184	241	Several of the ADAM proteins are found to be up-regulated	Biomarker
+31640732_3899	199	203	ADAM	Genefamily
+31640732_3899	245	247	OA	Disease
+31640732_3899	262	268	ADAM10	Gene-protein	HGNC:188
+31640732_3899	262	305	ADAM10 was found to be notably up-regulated	Biomarker
+31640732_3899	332	334	OA	Disease
+31640732_3899	394	398	IL-1	Gene-protein	HGNC:5991
+31640732_3899	394	398	IL-1	Biomarker	D007375
+31640732_3899	437	459	cartilage degeneration	Biomarker
+31640732_3899	473	478	ADAM9	Gene-protein	HGNC:216
+31640732_3899	473	548	ADAM9, ADAM12, ADAM15, ADAM19 and ADAM23 were also found to be up-regulated	Biomarker
+31640732_3899	480	486	ADAM12	Gene-protein	HGNC:190
+31640732_3899	488	494	ADAM15	Gene-protein	HGNC:193
+31640732_3899	496	502	ADAM19	Gene-protein	HGNC:197
+31640732_3899	507	513	ADAM23	Gene-protein	HGNC:202
+31640732_3899	558	560	OA	Disease
+31640732_3899	619	624	ADAM8	Gene-protein	 HGNC:215
+31640732_3899	702	707	ADAM8	Gene-protein
+31640732_3899	702	707	ADAM8	Biomarker	C068490
+31640732_3899	711	713	OA	Disease
+31640732_3899	790	834	expression of ADAM8 was found to be elevated	Biomarker
+31640732_3899	804	809	ADAM8	Gene-protein
+31640732_3899	838	840	OA	Disease
+31640732_3899	912	917	ADAM8	Gene-protein
+31640732_3899	923	937	fibronectinase	Gene-protein	not found
+31640732_3899	947	949	OA	Disease
+31640732_3899	975	986	fibronectin	Gene-protein	HGNC:3778
+31640732_3899	1005	1008	Ala	Chemical
+31640732_3899	1028	1033	ADAM8	Gene-protein
+31640732_3899	1028	1082	ADAM8 mediated degradation of fibronectin in cartilage	Biomarker
+31640732_3899	1058	1069	fibronectin	Gene-protein
+31640732_3899	1101	1103	OA	Disease
+31640732_3899	1132	1137	ADAM8	Biomarker
+31640732_3899	1132	1137	ADAM8	Gene-protein
+31640732_3899	1174	1241	rheumatoid arthritis associated osteoclastogenesis and bone erosion	Disease	not found
+31640732_3899	1282	1287	ADAM8	Biomarker
+31640732_3899	1282	1287	ADAM8	Gene-protein
+31640732_3899	1306	1324	degradation of ECM	Biomarker
+31640732_3899	1336	1345	collagens	Genefamily	family:490
+31640732_3899	1350	1359	aggrecans	Gene-protein	HGNC:319
+31640732_3899	1379	1381	OA	Disease
+

@@ -1,0 +1,114 @@
+T1	Disease 53 106	tumours with ‘non-BRCA1/2-like’ mutational signatures
+#1	AnnotatorNotes T1	not found
+T10	Disease 804 830	‘non-BRCA1/2-like’ tumours
+#2	AnnotatorNotes T10	not found
+T12	Disease 1005 1012	tumours
+T13	Biomarker 1101 1140	recurrent gain of 1q and/or loss of 16q
+T14	Biomarker 1145 1170	rearrangement signature 1
+T15	Disease 1203 1210	tumours
+T16	Biomarker 1285 1331	high contribution of rearrangement signature 4
+T17	Biomarker 1333 1402	involving complex rearrangements clustered to one or a few chromosome
+T18	Disease 1467 1469	BC
+#6	AnnotatorNotes T18	DOID:1612
+T2	Disease 119 126	tumours
+T21	Disease 1532 1539	tumours
+T22	Disease 1647 1654	tumours
+T23	Disease 1730 1755	non-BRCA1/2-like’ tumours
+T26	Biomarker 1760 1777	shorter telomeres
+T27	Disease 1783 1805	BRCA-deficient tumours
+#13	AnnotatorNotes T27	not found
+T3	Disease 181 205	tumours from non-BRCA1/2
+T30	Variant 2296 2305	c.1009C>T
+T31	Variant 2326 2337	c.4909+1G>A
+T32	Variant 2363 2371	c.349A>G
+T33	Variant 2386 2396	c.1100delC
+T34	Disease 2562 2586	non-BRCA1/2-like tumours
+T36	Disease 2683 2707	non-BRCA1/2-like tumours
+T38	Disease 2770 2777	Tumours
+#21	AnnotatorNotes T38	DOID:162
+T39	Disease 2821 2828	Tumours
+T4	Disease 218 230	BRCA2-tumour
+#23	AnnotatorNotes T4	DOID:5683
+T40	Biomarker 2851 2920	harbour germline pathogenic variants in risk genes ATM, TP53 or CHEK2
+T41	Disease 3115 3139	Non-BRCA1/2-like tumours
+#24	AnnotatorNotes T41	not found
+T43	Biomarker 3193 3217	clustered rearrangements
+T44	Disease 3268 3287	non-BRCA1/2 tumours
+T46	Biomarker 3404 3444	germline variants in ATM, TP53 and CHEK2
+T6	Variant 256 274	c.1310_1313delAAGA
+T7	Disease 417 444	tumours were ER/PR-positive
+T47	Gene-Protein 71 78	BRCA1/2
+#7	AnnotatorNotes T47	HGNC:1100,HGNC:1101
+T48	Gene-Protein 151 158	BRCA1/2
+T49	Gene-Protein 198 205	BRCA1/2
+T50	Gene-Protein 218 223	BRCA2
+#8	AnnotatorNotes T50	HGNC:1101
+T51	Gene-Protein 316 321	BRCA2
+T52	Gene-Protein 433 435	PR
+#14	AnnotatorNotes T52	HGNC:8910
+T53	GeneFamily 430 432	ER
+#15	AnnotatorNotes T53	not found
+T54	Gene-Protein 455 459	HER2
+#16	AnnotatorNotes T54	HGNC:3430
+T55	GeneFamily 494 498	BRCA
+#28	AnnotatorNotes T55	not found
+T5	GeneFamily 550 556	APOBEC
+#29	AnnotatorNotes T5	family:406
+T56	Gene-Protein 658 666	APOBEC3A
+#30	AnnotatorNotes T56	HGNC:17343
+T57	Gene-Protein 670 678	APOBEC3B
+#31	AnnotatorNotes T57	HGNC:17352
+T58	Gene-Protein 809 816	BRCA1/2
+T11	Gene-Protein 1734 1741	BRCA1/2
+T24	GeneFamily 1783 1787	BRCA
+T25	Gene-Protein 1486 1492	ZNF217
+#3	AnnotatorNotes T25	HGNC:13009
+T59	Gene-Protein 1494 1499	ERBB2
+#4	AnnotatorNotes T59	HGNC:3430
+T60	Gene-Protein 1501 1506	CCND1
+#5	AnnotatorNotes T60	HGNC:1582
+T61	Gene-Protein 1508 1511	MYC
+#12	AnnotatorNotes T61	HGNC:7553
+R1	Variant-Of Arg1:T51 Arg2:T6	
+#32	AnnotatorNotes T2	DOID:162
+T8	Biomarker 658 696	APOBEC3A or APOBEC3B germline variants
+#33	AnnotatorNotes T7	not found, not found, not found
+T9	Collection 658 678	APOBEC3A or APOBEC3B
+T19	Collection 1062 1170	rearrangement signature 2 (n = 9; with recurrent gain of 1q and/or loss of 16q) or rearrangement signature 1
+T62	Collection 1285 1403	high contribution of rearrangement signature 4, involving complex rearrangements clustered to one or a few chromosomes
+R3	Association Arg1:T19 Arg2:T12	
+R4	Association Arg1:T62 Arg2:T15	
+R5	Association Arg1:T26 Arg2:T23	
+T20	Gene-Protein 2277 2281	TP53
+#9	AnnotatorNotes T20	 HGNC:11998
+T28	Gene-Protein 2308 2311	ATM
+#10	AnnotatorNotes T28	HGNC:795
+R6	Variant-Of Arg1:T20 Arg2:T30	
+T29	Gene-Protein 2343 2348	CHEK2
+#11	AnnotatorNotes T29	HGNC:16627
+R7	Variant-Of Arg1:T28 Arg2:T31	
+T63	Collection 2363 2396	c.349A>G; NM_007194.3: c.1100delC
+R8	Variant-Of Arg1:T29 Arg2:T63	
+R9	Association Arg1:T40 Arg2:T39	
+T35	Gene-Protein 2902 2905	ATM
+T37	Gene-Protein 2907 2911	TP53
+T64	Gene-Protein 2915 2920	CHEK2
+T42	Gene-Protein 2566 2573	BRCA1/2
+T65	Gene-Protein 2687 2695	BRCA1/2-
+T66	Gene-Protein 3119 3126	BRCA1/2
+T45	Gene-Protein 3425 3428	ATM
+T67	Gene-Protein 3430 3434	TP53
+T68	Gene-Protein 3439 3444	CHEK2
+A1	Loss-of-funtion T6
+T69	Biomarker 494 509	BRCA-proficient
+T70	Biomarker 3166 3191	rearrangement signature 4
+T71	Biomarker 455 468	HER2-positive
+T72	Biomarker 147 163	non-BRCA1/2-like
+T73	Biomarker 550 579	APOBEC substitution signature
+T74	Biomarker 877 912	rearrangement signatures 1, 2 and 4
+T75	Biomarker 1062 1087	rearrangement signature 2
+T76	Variant 1443 1457	amplifications
+T77	Collection 1486 1511	ZNF217, ERBB2, CCND1, MYC
+R2	Variant-Of Arg1:T77 Arg2:T76	
+T78	Biomarker 1677 1691	chromothripsis
+T79	Biomarker 1696 1699	BFB

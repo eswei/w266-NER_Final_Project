@@ -1,0 +1,39 @@
+T0	Gene-Protein 35 38	Sly
+T10	Gene-Protein 510 513	Sly
+T11	Biomarker 510 524	Sly deficiency
+T12	Gene-Protein 583 586	Sly
+T13	Disease 617 630	sperm defects
+#5	AnnotatorNotes T13	not found
+T14	Gene-Protein 655 658	Sly
+T16	Gene-Protein 745 748	SLY
+T17	Gene-Protein 817 829	SLY antibody
+T18	Gene-Protein 847 850	SLY
+T19	Gene-Protein 999 1002	SLY
+T2	Gene-Protein 163 166	Sly
+T20	Gene-Protein 1027 1030	Sly
+T22	Disease 1058 1095	sperm abnormalities in NPYq-deficient
+#14	AnnotatorNotes T22	DOID:0070183
+T24	Chemical 1122 1125	Sly
+T25	Biomarker 1122 1136	Sly deficiency
+T27	Gene-Protein 1167 1170	Sly
+T28	Gene-Protein 1171 1174	SLY
+T3	Gene-Protein 180 183	Sly
+T30	Gene-Protein 1317 1320	Sly
+T31	Gene-Protein 1336 1339	Sly
+T6	Gene-Protein 339 342	Sly
+T7	Disease 446 483	sperm abnormalities in NPYq-deficient
+#28	AnnotatorNotes T7	not found
+T1	Gene-Protein 123 127	NPYq
+T4	Gene-Protein 211 215	NPYq
+T5	Gene-Protein 251 255	NPYq
+T8	Gene-Protein 469 473	NPYq
+R1	Association Arg1:T11 Arg2:T7	
+T15	Gene-Protein 873 877	SLY1
+T26	Gene-Protein 899 903	SLY2
+T33	Gene-Protein 950 970	anti-SLY1/2 antibody
+T34	Gene-Protein 1017 1021	NPYq
+T21	Gene-Protein 1081 1085	NPYq
+R3	Association Arg1:T25 Arg2:T22	
+T23	Gene-Protein 383 387	NPYq
+T29	Gene-Protein 1189 1192	NPY
+T32	Gene-Protein 1387 1391	NPYq

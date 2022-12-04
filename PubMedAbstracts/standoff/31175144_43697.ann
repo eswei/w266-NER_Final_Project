@@ -1,0 +1,81 @@
+T0	Chemical 257 263	Serine
+T1	Chemical 264 273	Threonine
+T10	Disease 581 605	hepatocellular carcinoma
+#3	AnnotatorNotes T10	DOID:684
+T12	Disease 695 698	LAD
+#4	AnnotatorNotes T12	DOID:3910
+T13	Disease 699 718	lung adenocarcinoma
+#5	AnnotatorNotes T13	DOID:3910
+T14	Chemical 752 758	lysine
+T15	Disease 782 784	MM
+#7	AnnotatorNotes T15	DOID:9538
+T16	Disease 785 801	multiple myeloma
+#8	AnnotatorNotes T16	DOID:9538
+T18	Disease 910 913	NPC
+#9	AnnotatorNotes T18	DOID:9261
+T19	Disease 914 938	nasopharyngeal carcinoma
+#10	AnnotatorNotes T19	DOID:9261
+T2	Disease 283 285	BC
+#11	AnnotatorNotes T2	DOID:1612
+T21	Disease 939 944	NSCLC
+T22	Disease 945 971	non-small-cell lung cancer
+#14	AnnotatorNotes T22	DOID:3908
+T23	Disease 975 987	osteosarcoma
+#15	AnnotatorNotes T23	DOID:3347
+T24	Disease 988 990	PC
+T25	Disease 991 1008	pancreatic cancer
+#17	AnnotatorNotes T25	DOID:1793
+T3	Disease 286 299	Breast Cancer
+#19	AnnotatorNotes T3	DOID:1612
+T5	Disease 324 337	Breast cancer
+#21	AnnotatorNotes T5	DOID:1612
+T6	Disease 384 387	CRC
+T7	Disease 388 405	colorectal cancer
+#23	AnnotatorNotes T7	DOID:9256
+T9	Disease 562 576	gastric cancer
+#24	AnnotatorNotes T9	DOID:10534
+T28	Gene-Protein 248 252	AKT3
+T29	Gene-Protein 253 282	AKT Serine/Threonine Kinase 3
+T30	Gene-Protein 300 306	BCL2L1
+T31	Gene-Protein 307 318	BCL2 Like 1
+#1	AnnotatorNotes T6	DOID:9256
+T4	Gene-Protein 449 476	Enhancer of Zeste Homolog 2
+T8	Gene-Protein 444 448	EZH2
+T32	Gene-Protein 477 482	FEZF1
+T33	Gene-Protein 483 507	FEZ Family Zinc Finger 1
+T34	RNA-Noncoding 508 517	FEZF1-AS1
+T35	RNA-Noncoding 518 558	FEZ family Zinc Finger 1-Antisense RNA 1
+T36	Disease 559 561	GC
+#2	AnnotatorNotes T36	DOID:10534
+T37	Disease 577 580	HCC
+#6	AnnotatorNotes T37	DOID:684
+T11	Gene-Protein 606 609	HGF
+T38	Gene-Protein 610 634	Hepatocyte Growth Factor
+T39	GeneFamily 682 694	Janus Kinase
+T40	GeneFamily 678 681	JAK
+T41	RNA-Noncoding 727 746	long noncoding RNAs
+T42	RNA-Noncoding 719 726	LncRNAs
+T43	Gene-Protein 753 781	ysine-Specific Demethylase 1
+T44	Gene-Protein 747 751	LSD1
+T17	Gene-Protein 838 863	matrix Metallopeptidase 9
+T45	Gene-Protein 833 837	MMP9
+T46	Gene-Protein 802 806	MMP2
+T47	Gene-Protein 807 832	matrix Metallopeptidase 2
+T48	GeneFamily 886 891	NF-κB
+T49	GeneFamily 892 909	nuclear Factor-κB
+#12	AnnotatorNotes T21	DOID:3908
+T20	Disease 972 974	OS
+#13	AnnotatorNotes T20	DOID:3347
+#16	AnnotatorNotes T24	DOID:1793
+T50	Gene-Protein 1009 1013	PKM2
+T51	Gene-Protein 1014 1033	pyruvate Kinase M 2
+T52	Gene-Protein 1069 1074	STAT3
+T53	Gene-Protein 1075 1125	signal transducer and activator of transcription 3
+T26	Gene-Protein 1126 1130	TERT
+T54	Gene-Protein 1131 1163	telomerase reverse transcriptase
+T27	GeneFamily 1196 1200	VEGF
+T55	GeneFamily 1201 1235	Vascular Endothelial Growth Factor
+T56	Gene-Protein 1236 1240	ZO-1
+T57	Gene-Protein 1241 1258	zonula occluden-1
+T58	RNA-Noncoding 864 870	NcRNAs
+T59	RNA-Noncoding 871 885	noncoding RNAs

@@ -1,0 +1,71 @@
+T1	Disease 42 62	Diabetic Retinopathy
+#1	AnnotatorNotes T1	DOID:8947
+T10	Biomarker 1780 1914	upregulated expression of VEGF‐A, C‐C chemokine ligand (CCL)2/monocyte chemotactic protein (MCP)‐1 and intercellular adhesion molecule
+T11	Disease 1993 1995	DR
+T13	Biomarker 2037 2081	activation of tissue RAS in the diabetic eye
+T15	Disease 2158 2160	DR
+T2	Gene-Protein 515 528	angiotensin I
+T3	Biomarker 960 970	Tissue RAS
+T4	Disease 1085 1104	organ abnormalities
+#8	AnnotatorNotes T4	not found
+T7	Biomarker 1485 1560	Ang II levels were reported to significantly increase in the vitreous fluid
+T8	Disease 1564 1567	PDR
+#11	AnnotatorNotes T8	DOID:13207
+T9	Biomarker 1662 1765	significant involvement of the AngII/AT1R signaling pathway in inflammation‐related ocular angiogenesis
+T17	Gene-Protein 167 175	prorenin
+#7	AnnotatorNotes T17	not found
+T18	Gene-Protein 185 193	prorenin
+T19	Gene-Protein 358 366	prorenin
+T20	Gene-Protein 843 851	prorenin
+T21	Gene-Protein 241 246	renin
+#12	AnnotatorNotes T21	HGNC:9958
+T22	Gene-Protein 280 291	cathepsin B
+#13	AnnotatorNotes T22	HGNC:2527
+T23	Gene-Protein 418 423	renin
+T24	Gene-Protein 425 430	Renin
+#14	AnnotatorNotes T24	HGNC:9958
+T25	Gene-Protein 496 511	angiotensinogen
+#15	AnnotatorNotes T25	HGNC:333
+#16	AnnotatorNotes T2	not found
+T26	Gene-Protein 530 535	Ang I
+T27	Gene-Protein 544 573	angiotensin‐converting enzyme
+#17	AnnotatorNotes T27	HGNC:2707
+T28	Gene-Protein 601 607	Ang II
+#18	AnnotatorNotes T28	not found
+T29	Gene-Protein 693 697	AT1R
+#19	AnnotatorNotes T29	HGNC:336
+T30	Gene-Protein 669 691	Ang II type 1 receptor
+#20	AnnotatorNotes T30	HGNC:336
+T31	Gene-Protein 703 725	Ang II type 2 receptor
+#21	AnnotatorNotes T31	HGNC:338
+T32	Gene-Protein 585 599	angiotensin II
+#22	AnnotatorNotes T32	not found
+T33	Gene-Protein 863 868	renin
+T34	Disease 1059 1071	inflammation
+#23	AnnotatorNotes T34	D007249
+T5	Gene-Protein 1337 1341	AT1R
+T35	Gene-Protein 1345 1374	angiotensin‐converting enzyme
+T36	Gene-Protein 1485 1491	Ang II
+T6	GeneFamily 1612 1616	VEGF
+#2	AnnotatorNotes T6	family:1267
+T12	Gene-Protein 1699 1703	AT1R
+T16	Gene-Protein 1693 1698	AngII
+T37	Gene-Protein 1806 1812	VEGF‐A
+#3	AnnotatorNotes T37	HGNC:12680
+T38	Gene-Protein 1814 1841	C‐C chemokine ligand (CCL)2
+#5	AnnotatorNotes T38	HGNC:10618
+T39	Gene-Protein 1842 1878	monocyte chemotactic protein (MCP)‐1
+#6	AnnotatorNotes T39	HGNC:10618
+T40	Collection 1059 1104	inflammation, and various organ abnormalities
+R1	Association Arg1:T3 Arg2:T40	
+T43	Collection 1674 1914	involvement of the AngII/AT1R signaling pathway in inflammation‐related ocular angiogenesis, which causes upregulated expression of VEGF‐A, C‐C chemokine ligand (CCL)2/monocyte chemotactic protein (MCP)‐1 and intercellular adhesion molecule
+R2	Association Arg1:T43 Arg2:T11	
+R3	Association Arg1:T13 Arg2:T15	
+R4	Association Arg1:T7 Arg2:T8	
+#4	AnnotatorNotes T11	DOID:8947
+#9	AnnotatorNotes T26	not found
+T41	Drug 1323 1374	inhibition of AT1R or angiotensin‐converting enzyme
+#10	AnnotatorNotes T41	not found
+R5	Response Arg1:T41 Arg2:T11	
+T42	GeneFamily 1883 1914	intercellular adhesion molecule
+#24	AnnotatorNotes T42	family:1410

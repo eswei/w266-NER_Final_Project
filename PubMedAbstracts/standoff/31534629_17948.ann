@@ -1,0 +1,55 @@
+T0	Gene-Protein 63 66	PSA
+T1	Disease 87 102	prostate cancer
+#2	AnnotatorNotes T1	DOID:10283
+T10	Disease 702 737	cancers with reduced PSA expression
+#3	AnnotatorNotes T10	DOID:162
+T12	Gene-Protein 723 726	PSA
+T13	Disease 780 785	tumor
+T14	Gene-Protein 805 808	PSA
+T15	Gene-Protein 852 855	PSA
+T16	Gene-Protein 942 953	angiostatin
+T18	Gene-Protein 1001 1004	PSA
+T2	Disease 161 166	tumor
+#11	AnnotatorNotes T2	DOID:162
+T20	Disease 1030 1045	prostate cancer
+T21	Gene-Protein 1163 1166	PSA
+T22	Disease 1249 1263	prostate tumor
+#14	AnnotatorNotes T22	DOID:10283
+T23	Gene-Protein 1300 1303	PSA
+T25	Gene-Protein 1577 1580	PSA
+T27	Gene-Protein 1674 1677	PSA
+T28	Gene-Protein 1810 1813	PSA
+T3	Gene-Protein 244 247	PSA
+T4	Disease 319 339	PTEN deleted cancers
+#21	AnnotatorNotes T4	not found
+T7	Disease 570 590	PTEN deleted cancers
+T9	Disease 678 683	tumor
+#1	AnnotatorNotes T0	HGNC:6364
+T5	Biomarker 63 83	PSA expression level
+R1	Association Arg1:T5 Arg2:T1	
+T8	Biomarker 244 256	PSA staining
+T11	Gene-Protein 319 323	PTEN
+#4	AnnotatorNotes T11	HGNC:9588
+T17	Gene-Protein 341 345	PTEN
+T26	Biomarker 341 354	PTEN deletion
+T31	Drug 805 808	PSA
+T32	Gene-Protein 907 918	plasminogen
+#5	AnnotatorNotes T32	HGNC:9071
+T33	Chemical 903 906	Lys
+#6	AnnotatorNotes T16	not found
+T34	Biomarker 852 855	PSA
+T19	CellLine 1025 1029	PC-3
+T35	Drug 1001 1004	PSA
+T36	Drug 1163 1166	PSA
+T37	Biomarker 1300 1303	PSA
+T24	Biomarker 1570 1589	strong PSA staining
+T38	Biomarker 1674 1686	PSA staining
+T39	Biomarker 1810 1813	PSA
+R3	Prognostic-Poor Arg1:T38 Arg2:T22	
+#7	AnnotatorNotes T31	C512543
+R4	Association Arg1:T8 Arg2:T4	
+T6	Gene-Protein 570 574	PTEN
+R5	Protects-from Arg1:T31 Arg2:T13	
+R2	Response Arg1:T35 Arg2:T20	
+R6	Response Arg1:T36 Arg2:T22	
+#8	AnnotatorNotes T34	C512543

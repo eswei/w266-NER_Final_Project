@@ -1,0 +1,39 @@
+T0	Gene-Protein 137 140	APC
+T1	Gene-Protein 369 372	APC
+T10	Disease 1512 1518	tumour
+T2	Disease 381 387	tumour
+#4	AnnotatorNotes T2	DOID:162
+T3	Disease 469 475	tumour
+T5	Disease 682 688	tumour
+T7	Chemical 954 961	alcohol
+T8	Disease 1270 1276	tumour
+T9	Disease 1384 1390	tumour
+#1	AnnotatorNotes T0	HGNC:583
+T11	Biomarker 163 220	positive nodal status conferred a higher methylation rate
+T12	Biomarker 343 372	higher methylation of the APC
+T13	Biomarker 284 321	Habitual factors linked to cigarettes
+T14	Gene-Protein 434 438	MGMT
+#2	AnnotatorNotes T14	 HGNC:7059
+T15	Biomarker 434 465	MGMT methylation was diminished
+T16	Biomarker 641 672	more frequently methylated MGMT
+T17	Gene-Protein 668 672	MGMT
+T6	Biomarker 749 770	advanced tumour stage
+T18	Biomarker 793 837	higher frequency of methylation of this gene
+T19	Biomarker 919 961	patients with a history of abusing alcohol
+T20	Biomarker 969 1000	lower MGMT promoter methylation
+T21	Biomarker 593 633	Patients with a family history of cancer
+T22	Gene-Protein 975 979	MGMT
+T23	Gene-Protein 1078 1083	TIMP3
+#3	AnnotatorNotes T23	HGNC:11822
+T24	Biomarker 1242 1266	higher methylation level
+T25	Gene-Protein 1330 1334	CDH1
+#5	AnnotatorNotes T25	HGNC:1748
+T26	Biomarker 1344 1371	increased methylation level
+R1	Association Arg1:T26 Arg2:T9	
+T27	Biomarker 1452 1459	smoking
+#7	AnnotatorNotes T27	D012907
+T28	Gene-Protein 1487 1491	CDH1
+T4	Biomarker 1480 1503	higher CDH1 methylation
+R2	Association Arg1:T15 Arg2:T3	
+T29	Biomarker 1216 1232	positive N stage
+T30	Biomarker 1131 1155	higher methylation level

@@ -1,0 +1,44 @@
+30486878_34383|t|RSS_IDENT_p_30486878_b_1_4_3
+30486878_34383|a| A fairly large number of miRNAs have been found to be dysregulated in HCC and affect tumor growth, migration, invasion, and drug resistance by regulating the coding and non-coding sequences of the genes [ 28 , 29 ]. miR-663a has been proven to be abnormal in many solid tumors. However, the role of miR-663a in tumorigenesis is very complicated and may be organ-specific. miR-663a consistently suppresses tumorigenic features in breast tumors [ 14 , 30 ], colon cancer [ 31 , 32 ] pancreatic cancer [ 33 – 35 ], and glioblastoma [ 15 , 16 , 36 ], but increases carcinogenic characteristics in prostate cancer [ 21 , 37 , 38 ] and nasopharyngeal carcinoma [ 19 , 39 , 40 ]. Currently, studies of miR-663a on HCC have yielded bidirectional results. Huang Weizhen et al. found that miR-663a was significantly downregulated in HCC tissues when compared with the adjacent non-tumor tissues from the GSE21362 and TCGA databases. miR-663a inhibited HCC cell proliferation and metastasis by directly targeting HMGA2, which suggested that miR-663a may serve as an anticancer target for HCC [ 22 ]. Wang Guanyu et al. demonstrated that miR-663a was specifically downregulated and involved in the development of HBV-related HCC using microarray analyses [ 41 ]. However, Huang Yawei et al. reported that the downregulation of miR-663a suppressed HCC cell proliferation and promoted apoptosis under endoplasmic reticulum stress by directly targeting TGF-β1, indicating that miR-663a acts as an oncogene in HCC under some circumstances [ 23 ]. 
+30486878_34383	55	61	miRNAs	Genefamily	family:476
+30486878_34383	55	96	miRNAs have been found to be dysregulated	Biomarker
+30486878_34383	100	103	HCC	Disease	DOID:684
+30486878_34383	115	120	tumor	Disease	DOID:162
+30486878_34383	246	254	miR-663a	Rna-noncoding	HGNC:32919
+30486878_34383	246	285	miR-663a has been proven to be abnormal	Biomarker
+30486878_34383	294	306	solid tumors	Disease	DOID:162
+30486878_34383	329	337	miR-663a	Rna-noncoding
+30486878_34383	329	337	miR-663a	Biomarker
+30486878_34383	341	354	tumorigenesis	Disease	DOID:162
+30486878_34383	402	410	miR-663a	Rna-noncoding
+30486878_34383	459	472	breast tumors	Disease	DOID:1612
+30486878_34383	459	558	breast tumors [ 14 , 30 ], colon cancer [ 31 , 32 ] pancreatic cancer [ 33 – 35 ], and glioblastoma	Collection
+30486878_34383	486	498	colon cancer	Disease	DOID:219
+30486878_34383	511	528	pancreatic cancer	Disease	DOID:1793
+30486878_34383	546	558	glioblastoma	Disease	DOID:3068
+30486878_34383	623	638	prostate cancer	Disease	DOID:10283
+30486878_34383	623	684	prostate cancer [ 21 , 37 , 38 ] and nasopharyngeal carcinoma	Collection
+30486878_34383	660	684	nasopharyngeal carcinoma	Disease	DOID:9261
+30486878_34383	725	733	miR-663a	Biomarker
+30486878_34383	725	733	miR-663a	Rna-noncoding
+30486878_34383	737	740	HCC	Disease
+30486878_34383	809	817	miR-663a	Rna-noncoding
+30486878_34383	809	849	miR-663a was significantly downregulated	Biomarker
+30486878_34383	853	856	HCC	Disease
+30486878_34383	953	961	miR-663a	Rna-noncoding
+30486878_34383	953	961	miR-663a	Drug
+30486878_34383	972	975	HCC	Disease
+30486878_34383	1032	1037	HMGA2	Gene-protein	HGNC:5009
+30486878_34383	1060	1068	miR-663a	Rna-noncoding
+30486878_34383	1060	1068	miR-663a	Biomarker
+30486878_34383	1107	1110	HCC	Disease
+30486878_34383	1156	1164	miR-663a	Rna-noncoding
+30486878_34383	1156	1195	miR-663a was specifically downregulated	Biomarker
+30486878_34383	1231	1246	HBV-related HCC	Disease	not found
+30486878_34383	1327	1353	downregulation of miR-663a	Drug
+30486878_34383	1345	1353	miR-663a	Rna-noncoding
+30486878_34383	1365	1368	HCC	Disease
+30486878_34383	1468	1474	TGF-β1	Gene-protein	HGNC:11766
+30486878_34383	1492	1500	miR-663a	Rna-noncoding
+30486878_34383	1524	1527	HCC	Disease
+

@@ -1,0 +1,103 @@
+T1	Disease 33 60	Hutchinson-Gilford progeria
+#1	AnnotatorNotes T1	DOID:3911
+T10	Biomarker 447 475	endothelial cell dysfunction
+T11	Biomarker 586 600	LMNA mutations
+T12	Disease 622 635	lipodystrophy
+#3	AnnotatorNotes T12	DOID:811
+T13	Disease 651 656	FPLD2
+T14	Biomarker 682 707	signs of premature ageing
+T16	Biomarker 806 819	calcification
+T17	Disease 854 877	vascular calcifications
+#7	AnnotatorNotes T17	D061205
+T18	Biomarker 953 967	LMNA mutations
+T19	Disease 984 999	lipodystrophies
+#8	AnnotatorNotes T19	DOID:811
+T2	Biomarker 69 94	premature atherosclerosis
+T20	Disease 1052 1073	early atherosclerosis
+#10	AnnotatorNotes T20	not found
+T21	Disease 1078 1100	vascular calcification
+T23	Disease 1117 1140	atherosclerotic lesions
+#12	AnnotatorNotes T23	DOID:1936
+T24	Variant 1243 1250	p.R482W
+T27	Disease 1443 1448	FPLD2
+T28	Disease 1629 1656	Hutchinson-Gilford progeria
+T3	Disease 104 125	myocardial infarction
+#17	AnnotatorNotes T3	DOID:5844
+T30	Disease 1669 1704	LMNA-linked lipodystrophic diseases
+#18	AnnotatorNotes T30	not found
+T31	Biomarker 1736 1750	LMNA mutations
+T32	Disease 1759 1772	lipodystrophy
+T35	Chemical 1943 1951	cysteine
+T37	Chemical 1957 1968	amino acids
+T38	Chemical 1982 1999	farnesyl-cysteine
+T39	Chemical 2003 2020	carboxymethylated
+T4	Disease 130 137	strokes
+#27	AnnotatorNotes T4	D020521
+T40	Chemical 2034 2035	C
+T42	Disease 2131 2144	Lipodystrophy
+#30	AnnotatorNotes T42	DOID:811
+T45	Biomarker 2401 2421	cellular alterations
+T46	Biomarker 2436 2464	endothelial cell dysfunction
+T47	Disease 2548 2563	atherosclerosis
+#34	AnnotatorNotes T47	DOID:1936
+T48	Disease 2568 2590	vascular calcification
+T5	Biomarker 228 305	accumulation of progerin, a farnesylated mutated form of prelamin A expressed
+T6	Disease 353 358	FPLD2
+#36	AnnotatorNotes T6	DOID:0070202
+T7	Variant 365 376	p.Arg482Trp
+T9	Gene-Protein 377 387	prelamin A
+T49	Collection 104 137	myocardial infarction and strokes
+R1	Association Arg1:T2 Arg2:T49	
+T50	Gene-Protein 285 295	prelamin A
+#9	AnnotatorNotes T50	not found
+#20	AnnotatorNotes T7	p.Arg482Trp
+R2	Variant-Of Arg1:T9 Arg2:T7	
+R3	Association Arg1:T7 Arg2:T6	
+T8	Biomarker 481 531	increased oxidative stress and cellular senescence
+#2	AnnotatorNotes T8	D018384
+T52	Gene-Protein 586 590	LMNA
+#21	AnnotatorNotes T52	HGNC:6636
+T15	Biomarker 724 801	vascular smooth muscle cell senescence with osteoblastic transdifferentiation
+T54	Collection 622 656	lipodystrophy typical of the FPLD2
+R5	Association Arg1:T11 Arg2:T54	
+R7	Association Arg1:T11 Arg2:T17	
+T53	Gene-Protein 953 957	LMNA
+T22	Collection 984 1140	lipodystrophies may directly affect the arterial wall, resulting in early atherosclerosis and vascular calcification, in addition to atherosclerotic lesions
+R8	Association Arg1:T18 Arg2:T22	
+T55	Biomarker 1167 1189	metabolic risk factors
+R9	Association Arg1:T55 Arg2:T23	
+T25	Gene-Protein 1251 1258	lamin A
+#4	AnnotatorNotes T25	HGNC:6636
+R10	Variant-Of Arg1:T25 Arg2:T24	
+#5	AnnotatorNotes T24	p.Arg482Trp
+R11	Association Arg1:T24 Arg2:T27	
+T26	Biomarker 1594 1615	A-type lamin variants
+T29	Gene-Protein 1594 1606	A-type lamin
+#11	AnnotatorNotes T29	HGNC:6636
+T56	Collection 1629 1704	Hutchinson-Gilford progeria but also in LMNA-linked lipodystrophic diseases
+R12	Association Arg1:T26 Arg2:T56	
+T57	Gene-Protein 1736 1740	LMNA
+R13	Association Arg1:T31 Arg2:T32	
+T58	Gene-Protein 1777 1787	Prelamin-A
+#13	AnnotatorNotes T58	not found
+T36	Gene-Protein 2092 2100	ZMPSTE24
+#14	AnnotatorNotes T36	 HGNC:12877
+T59	Gene-Protein 2119 2126	lamin A
+T60	Biomarker 2153 2170	mutations in LMNA
+R14	Association Arg1:T60 Arg2:T42	
+T61	Gene-Protein 2166 2170	LMNA
+T62	Gene-Protein 2208 2218	prelamin A
+T43	Gene-Protein 2276 2286	prelamin A
+T44	Biomarker 2276 2306	prelamin A pathogenic variants
+T63	Disease 2339 2355	oxidative stress
+T64	Disease 2357 2369	inflammation
+T65	Collection 2339 2369	oxidative stress, inflammation
+R15	Association Arg1:T44 Arg2:T65	
+T66	Biomarker 2472 2536	osteoblastic transdifferentiation of vascular smooth muscle cell
+T67	Collection 2548 2590	atherosclerosis and vascular calcification
+R16	Association Arg1:T45 Arg2:T67	
+#15	AnnotatorNotes T64	D007249
+T33	Gene-Protein 1669 1673	LMNA
+R4	Association Arg1:T5 Arg2:T1	
+T34	Biomarker 2374 2393	cellular senescence
+#6	AnnotatorNotes T34	D016922

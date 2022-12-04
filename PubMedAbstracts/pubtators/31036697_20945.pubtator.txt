@@ -1,0 +1,71 @@
+31036697_20945|t|RSS_IDENT_s_31036697_b_1_2_5
+31036697_20945|a| The adenosinergic response in CPFE Using explanted lung tissue derived from upper or lower lung lobes from CPFE patients or from normal lungs that were discarded for transplantation, we evaluated mediators that are involved in the generation and degradation of adenosine, in addition to adenosine receptors. In CPFE, upper lobes often present with emphysema, whereas fibrotic deposition is more prevalent in lower lobes. Quantitative RT-PCR for the ectonucleotidases CD39 (ENTPD1) and CD73 (NT5E) (Fig. 6A,B) demonstrated increased expression of the rate limiting enzyme CD73 but not CD39 in lower lobes, but not in upper lobes, of CPFE compared to normal lung tissue (Fig. 6A,B). No differences were seen in ADA expression levels from lung tissue derived from upper or lower lobes (Fig. 6C). Equilibrative nucleoside transporters (ENT) also regulate extracellular adenosine levels whereby reduced expression is associated with increased adenosine accumulation and the development of lung injury ( Luo et al., 2016 ). However, we report no difference in ENT expression in CPFE despite a downward trend for ENT2 (SLC29A2) in lower lobes of CPFE lungs (Fig. 6D). Expression levels of adenosine receptors did not show significant alterations in ADORA1 or ADORA2A between normal and CPFE lung tissue (Fig. 6E,F). However, increased expression of ADORA2B was detected in lower lobes of CPFE compared to normal lungs, but not in tissue derived from upper lobes (Fig. 6G). Similarly to ADORA1 and ADORA2A, no significant difference in expression of ADORA3 was observed between normal and CPFE-derived lung tissue (Fig. 6H). Taken together, these results suggest that in CPFE, as in other chronic lung diseases ( Karmouty-Quintana et al., 2013b ), adenosine synthesis is increased, together with expression of its low-affinity receptor, ADORA2B. Fig. 6. The adenosinergic response in CPFE. (A-H) Lung transcript levels for CD39 (A), CD73 (B), ADA (C), ENT2 (D), ADORA1 (E), ADORA2A (F), ADORA2B (G) and ADORA3 (H) from upper lobes from normal lungs (white bars), upper lobes from CPFE lungs (light blue bars), lower lobes from normal lungs (gray bars) and lower lobes from CPFE lungs (dark blue bars). Data are mean+s.e.m. (n=3 per group). *P<0.05 (comparisons between normal and CPFE groups within upper or lower lung lobes); unpaired two-tailed Student's t-test with a Welch correction.
+31036697_20945	60	64	CPFE	Disease	DOID:3770, DOID:9675	Conjunction
+31036697_20945	137	141	CPFE	Disease	Conjunction
+31036697_20945	291	300	adenosine	Chemical
+31036697_20945	317	326	adenosine	Chemical
+31036697_20945	317	336	adenosine receptors	Genefamily	family:211
+31036697_20945	341	345	CPFE	Disease	Conjunction
+31036697_20945	347	387	upper lobes often present with emphysema	Biomarker
+31036697_20945	347	449	upper lobes often present with emphysema, whereas fibrotic deposition is more prevalent in lower lobes	Collection
+31036697_20945	397	449	fibrotic deposition is more prevalent in lower lobes	Biomarker
+31036697_20945	497	501	CD39	Gene-protein	HGNC:3363
+31036697_20945	503	509	ENTPD1	Gene-protein	HGNC:3363
+31036697_20945	515	519	CD73	Gene-protein	HGNC:8021
+31036697_20945	521	525	NT5E	Gene-protein	HGNC:8021
+31036697_20945	552	633	increased expression of the rate limiting enzyme CD73 but not CD39 in lower lobes	Biomarker
+31036697_20945	601	605	CD73	Gene-protein
+31036697_20945	614	618	CD39	Gene-protein
+31036697_20945	662	666	CPFE	Disease	Conjunction
+31036697_20945	739	742	ADA	Gene-protein	HGNC:186
+31036697_20945	739	760	ADA expression levels	Biomarker
+31036697_20945	823	860	Equilibrative nucleoside transporters	Genefamily	not found
+31036697_20945	823	860	Equilibrative nucleoside transporters	Biomarker
+31036697_20945	837	847	nucleoside	Chemical
+31036697_20945	862	865	ENT	Genefamily	not found
+31036697_20945	881	911	extracellular adenosine levels	Biomarker
+31036697_20945	895	904	adenosine	Chemical
+31036697_20945	958	990	increased adenosine accumulation	Biomarker
+31036697_20945	968	977	adenosine	Chemical
+31036697_20945	1014	1025	lung injury	Disease	D055370
+31036697_20945	1084	1087	ENT	Genefamily
+31036697_20945	1084	1098	ENT expression	Biomarker
+31036697_20945	1102	1106	CPFE	Disease	Conjunction
+31036697_20945	1117	1165	downward trend for ENT2 (SLC29A2) in lower lobes	Biomarker
+31036697_20945	1136	1140	ENT2	Gene-protein	HGNC:11004
+31036697_20945	1142	1149	SLC29A2	Gene-protein	HGNC:11004
+31036697_20945	1169	1173	CPFE	Disease	Conjunction
+31036697_20945	1191	1231	Expression levels of adenosine receptors	Biomarker
+31036697_20945	1212	1221	adenosine	Chemical
+31036697_20945	1212	1231	adenosine receptors	Genefamily
+31036697_20945	1257	1289	alterations in ADORA1 or ADORA2A	Biomarker
+31036697_20945	1272	1278	ADORA1	Gene-protein	HGNC:262
+31036697_20945	1282	1289	ADORA2A	Gene-protein	HGNC:263
+31036697_20945	1309	1313	CPFE	Disease	Conjunction
+31036697_20945	1348	1407	increased expression of ADORA2B was detected in lower lobes	Biomarker
+31036697_20945	1372	1379	ADORA2B	Gene-protein	HGNC:264
+31036697_20945	1411	1415	CPFE	Disease	Conjunction
+31036697_20945	1509	1515	ADORA1	Gene-protein
+31036697_20945	1520	1527	ADORA2A	Gene-protein
+31036697_20945	1558	1578	expression of ADORA3	Biomarker
+31036697_20945	1572	1578	ADORA3	Gene-protein	HGNC:268
+31036697_20945	1611	1615	CPFE	Disease	Conjunction
+31036697_20945	1693	1697	CPFE	Disease	Conjunction
+31036697_20945	1693	1732	CPFE, as in other chronic lung diseases	Collection
+31036697_20945	1711	1732	chronic lung diseases	Disease	not found
+31036697_20945	1770	1779	adenosine	Chemical
+31036697_20945	1770	1866	adenosine synthesis is increased, together with expression of its low-affinity receptor, ADORA2B	Biomarker
+31036697_20945	1859	1866	ADORA2B	Gene-protein
+31036697_20945	1906	1910	CPFE	Disease	Conjunction
+31036697_20945	1945	1949	CD39	Gene-protein
+31036697_20945	1955	1959	CD73	Gene-protein
+31036697_20945	1965	1968	ADA	Gene-protein
+31036697_20945	1974	1978	ENT2	Gene-protein
+31036697_20945	1984	1990	ADORA1	Gene-protein
+31036697_20945	1996	2003	ADORA2A	Gene-protein
+31036697_20945	2009	2016	ADORA2B	Gene-protein
+31036697_20945	2025	2031	ADORA3	Gene-protein
+31036697_20945	2102	2106	CPFE	Disease	Conjunction
+31036697_20945	2195	2199	CPFE	Disease	Conjunction
+31036697_20945	2302	2306	CPFE	Disease	Conjunction
+

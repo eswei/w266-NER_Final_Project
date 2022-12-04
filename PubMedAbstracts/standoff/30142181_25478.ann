@@ -1,0 +1,59 @@
+T0	Chemical 30 36	Folate
+T1	Disease 30 47	Folate deficiency
+#2	AnnotatorNotes T1	D005494
+T11	Chemical 503 509	folate
+T13	Chemical 736 743	ethanol
+T14	Chemical 794 801	ethanol
+T17	Chemical 1000 1007	alcohol
+T2	Chemical 180 187	alcohol
+T20	Disease 1081 1085	OSCC
+T22	Variant 1160 1165	C677T
+T24	Chemical 1185 1191	folate
+T25	Disease 1268 1274	glioma
+#12	AnnotatorNotes T25	D005910
+T30	Disease 1388 1450	colorectal tumor in individuals with homozygotes (TT) of C677T
+#16	AnnotatorNotes T30	not found
+T32	Disease 1520 1533	breast cancer
+#17	AnnotatorNotes T32	DOID:1612
+T5	Disease 259 286	oral and pharyngeal cancers
+#19	AnnotatorNotes T5	DOID:8618, DOID:0060119
+T6	Biomarker 63 81	MTHFR polymorphism
+T9	Gene-Protein 63 68	MTHFR
+#1	AnnotatorNotes T9	HGNC:7436
+R1	Association Arg1:T6 Arg2:T1	
+T12	Biomarker 180 187	alcohol
+T15	Biomarker 189 196	smoking
+#4	AnnotatorNotes T12	D000438
+#5	AnnotatorNotes T15	D012907
+T18	MicroOrganism 198 207	HPV virus
+T3	Drug 215 228	folate intake
+#6	AnnotatorNotes T3	not found
+R2	Protects-from Arg1:T3 Arg2:T5	
+T4	Gene-Protein 384 389	MTHFR
+T8	Gene-Protein 430 435	MTHFR
+T10	Disease 423 446	pseudo-MTHFR deficiency
+#3	AnnotatorNotes T10	not found
+T21	Drug 343 370	high folic acid consumption
+R3	Causes Arg1:T21 Arg2:T10	
+T7	Gene-Protein 490 495	MTHFR
+T23	Gene-Protein 636 641	MTHFR
+T26	Biomarker 636 657	MTHFR 677 TT genotype
+#7	AnnotatorNotes T20	DOID:0050866
+T16	Biomarker 981 1018	concomitant use of alcohol, cigarette
+T19	Gene-Protein 1252 1256	MGMT
+#8	AnnotatorNotes T19	HGNC:7059
+T31	Drug 1291 1305	Low vitamin B2
+#9	AnnotatorNotes T31	not found
+T33	Drug 1310 1324	low methionine
+#10	AnnotatorNotes T33	not found
+T27	Collection 1291 1324	Low vitamin B2 and low methionine
+R7	Causes Arg1:T27 Arg2:T30	
+T29	Gene-Protein 1621 1626	MTHFR
+T34	Biomarker 1621 1640	MTHFR polymorphisms
+T35	Biomarker 1034 1051	T allele of C677T
+T36	Collection 981 1051	concomitant use of alcohol, cigarette and possessing T allele of C677T
+R5	Association Arg1:T36 Arg2:T20	
+T39	Biomarker 1227 1256	decreased methylation of MGMT
+T38	Biomarker 1140 1191	homozygotes (TT) of C677T with low levels of folate
+T37	Biomarker 1645 1667	environmental triggers
+T41	Biomarker 914 925	TT genotype

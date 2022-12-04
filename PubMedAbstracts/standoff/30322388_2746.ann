@@ -1,0 +1,79 @@
+T0	Chemical 243 255	triglyceride
+T10	Disease 1017 1029	hypertension
+T11	Variant 1035 1042	-514C/T
+T12	Variant 1044 1053	rs1800588
+T13	Variant 1059 1066	-250G/A
+T14	Variant 1068 1077	rs2070895
+T17	Disease 1361 1388	insulin resistance syndrome
+#3	AnnotatorNotes T17	D007333
+T18	Disease 1393 1408	type 2 diabetes
+#4	AnnotatorNotes T18	DOID:9352
+T2	Disease 703 715	hypertension
+#5	AnnotatorNotes T2	DOID:10763
+T21	Disease 1465 1483	insulin resistance
+#6	AnnotatorNotes T21	D007333
+T22	Disease 1488 1500	dyslipidemia
+#7	AnnotatorNotes T22	DOID:3146
+T24	Disease 1591 1613	coronary heart disease
+#8	AnnotatorNotes T24	DOID:3393
+T25	Disease 1618 1637	cerebral infarction
+#9	AnnotatorNotes T25	DOID:3526
+T26	Disease 1700 1718	metabolic diseases
+#10	AnnotatorNotes T26	D008659
+T3	Disease 720 740	hyperhomocysteinemia
+#11	AnnotatorNotes T3	DOID:9279
+T4	Chemical 767 780	triglycerides
+T5	Chemical 789 801	triglyceride
+T7	Chemical 805 842	high-density liproprotein cholesterol
+T8	Disease 892 904	hypertension
+T1	Gene-Protein 46 50	LIPC
+#1	AnnotatorNotes T1	HGNC:6619
+T6	Gene-Protein 30 44	Hepatic lipase
+#12	AnnotatorNotes T6	HGNC:6619
+T9	GeneFamily 69 75	lipase
+#13	AnnotatorNotes T9	family:464
+T15	Gene-Protein 222 226	LIPC
+T16	Gene-Protein 235 262	hepatic triglyceride lipase
+#14	AnnotatorNotes T16	HGNC:6619
+T19	Gene-Protein 389 403	Hepatic lipase
+T23	Chemical 445 469	low-density liporprotein
+T27	Chemical 471 495	high-density lipoprotein
+T28	Chemical 541 564	low density lipoprotein
+T29	Collection 703 740	hypertension and hyperhomocysteinemia
+T30	Biomarker 608 660	lipids and lipoprotein concentrations in blood serum
+R1	Association Arg1:T30 Arg2:T29	
+T31	Biomarker 767 780	triglycerides
+#15	AnnotatorNotes T31	D014280
+T32	Biomarker 789 848	triglyceride to high-density liproprotein cholesterol ratio
+T33	Collection 767 848	triglycerides and the triglyceride to high-density liproprotein cholesterol ratio
+R2	Association Arg1:T33 Arg2:T8	
+T34	Biomarker 966 995	disruptions of hepatic lipase
+R3	Risk-Factor Arg1:T34 Arg2:T10	
+T35	Gene-Protein 981 995	hepatic lipase
+T36	Gene-Protein 1168 1172	LIPC
+T37	Collection 1035 1078	-514C/T (rs1800588) and -250G/A (rs2070895)
+R4	Variant-Of Arg1:T36 Arg2:T37	
+T38	Gene-Protein 1225 1229	LIPC
+T39	Biomarker 1225 1238	LIPC mutation
+T40	Disease 1288 1296	diseases
+#2	AnnotatorNotes T40	DOID:4
+R5	Association Arg1:T39 Arg2:T40	
+T41	Biomarker 1302 1323	-514 T allele of LIPC
+T42	Gene-Protein 1319 1323	LIPC
+T43	Collection 1361 1408	insulin resistance syndrome and type 2 diabetes
+R6	Association Arg1:T41 Arg2:T43	
+T44	Gene-Protein 1421 1425	LIPC
+T20	Biomarker 1421 1450	LIPC-250G/A loci polymorphism
+T45	Collection 1465 1500	insulin resistance and dyslipidemia
+R7	Association Arg1:T20 Arg2:T45	
+T46	Biomarker 1536 1565	mutations in the liver lipase
+T47	Gene-Protein 1553 1565	liver lipase
+#16	AnnotatorNotes T47	HGNC:6619
+T48	Collection 1591 1637	coronary heart disease and cerebral infarction
+R8	Association Arg1:T46 Arg2:T48	
+T49	Biomarker 1677 1695	LIPC polymorphisms
+T50	Gene-Protein 1677 1681	LIPC
+T51	Gene-Protein 1361 1368	insulin
+#17	AnnotatorNotes T51	HGNC:6081
+T52	Gene-Protein 1465 1472	insulin
+R9	Association Arg1:T49 Arg2:T26	

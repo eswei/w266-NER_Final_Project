@@ -1,0 +1,29 @@
+T0	Biomarker 62 89	Mutations in AR and CYP11A1
+T1	Chemical 191 192	N
+T10	Variant 554 594	Leucine to Phenylalanine at position 831
+T13	Variant 1018 1021	G>T
+T14	Variant 1036 1043	c.73G>T
+T15	Chemical 1123 1133	amino acid
+T2	Chemical 232 239	Thymine
+T3	Variant 261 270	c.840delT
+T6	Variant 487 490	C>T
+T7	Variant 505 514	c.2491C>T
+T8	Chemical 531 541	amino acid
+T16	Gene-Protein 75 77	AR
+#1	AnnotatorNotes T16	HGNC:644
+T17	Gene-Protein 82 89	CYP11A1
+#2	AnnotatorNotes T17	HGNC:2590
+T18	ProteinDomain 191 224	N-terminal transactivation domain
+T19	ProteinDomain 226 229	NTD
+T20	Gene-Protein 105 107	AR
+T21	ProteinDomain 256 259	NTD
+R1	Variant-Of Arg1:T20 Arg2:T3	
+T23	Gene-Protein 386 388	AR
+T25	ProteinDomain 468 481	ligand domain
+T5	Gene-Protein 691 693	AR
+R2	Variant-Of Arg1:T23 Arg2:T11	
+T11	Collection 487 594	C>T substitution (c.2491C>T) resulted in an amino acid change from Leucine to Phenylalanine at position 831
+T26	Gene-Protein 930 937	CYP11A1
+T27	Collection 1018 1044	G>T substitution (c.73G>T)
+R3	Variant-Of Arg1:T26 Arg2:T27	
+#3	AnnotatorNotes T10	p.Leu831Phe

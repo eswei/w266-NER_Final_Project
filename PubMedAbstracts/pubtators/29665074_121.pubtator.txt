@@ -1,0 +1,108 @@
+29665074_121|t|RSS_IDENT_p_29665074_a_1_2
+29665074_121|a| Neuroinflammation and mitochondrial dysfunction, key mechanisms in the pathogenesis of Parkinson's disease (PD), are usually explored independently. Loss‐of‐function mutations of PARK2 and PARK6, encoding the E3 ubiquitin protein ligase Parkin and the mitochondrial serine/threonine kinase PINK1, account for a large proportion of cases of autosomal recessive early‐onset PD. PINK1 and Parkin regulate mitochondrial quality control and have been linked to the modulation of innate immunity pathways. We report here an exacerbation of NLRP3 inflammasome activation by specific inducers in microglia and bone marrow‐derived macrophages from Park2−/− and Pink1−/− mice. The caspase 1‐dependent release of IL‐1β and IL‐18 was, therefore, enhanced in Park2−/− and Pink1−/− cells. This defect was confirmed in blood‐derived macrophages from patients with PARK2 mutations and was reversed by MCC950, which specifically inhibits NLRP3 inflammasome complex formation. Enhanced NLRP3 signaling in Parkin‐deficient cells was accompanied by a lack of induction of A20, a well‐known negative regulator of the NF‐κB pathway recently shown to attenuate NLRP3 inflammasome activity. We also found an inverse correlation between A20 abundance and IL‐1β release, in human macrophages challenged with NLRP3 inflammasome inducers. Overall, our observations suggest that the A20/NLRP3‐inflammasome axis participates in the pathogenesis of PARK2‐linked PD, paving the way for the exploration of its potential as a biomarker and treatment target. Abbreviations 3‐MA 3‐methyladenine A20 (=TNFAIP3) antiapoptotic signaling protein 20 AD Alzheimer disease AIM2 absent in melanoma 2 ALS Amyotrophic lateral sclerosis ASC apoptosis‐associated speck‐like protein containing carboxyl‐terminal CARD CARD Caspase activation and recruitment domain DA neurons dopaminergic neurons DAMPS damage‐associated molecular pattern DMEM Dulbecco's modified Eagle medium DREAM downstream regulatory element antagonist modulator FCS fetal calf serum GM‐CSF granulocyte‐macrophage colony‐stimulating factor HMGB1 high‐mobility group box 1 IBA‐1 ionized calcium‐binding adapter molecule 1 IKKβ inhibitor of nuclear factor kappa‐B kinase subunit beta IL interleukin LPS lipopolysaccharide MAC‐1 (=CD11B) macrophage antigen‐1 MAVS mitochondrial antiviral signaling MCP‐1 monocyte chemotactic protein 1 MPTP 1‐méthyl‐4‐phényl‐1,2,3,6‐tétrahydropyridine MQC mitochondrial quality control MW molecular weight NF‐κB nuclear factor‐kappa B NLRs nod‐like receptors NLRP1/3 NLR family, pyrin domain‐containing 1/3 NLRC4 NLR family CARD domain‐containing protein 4 PBMC peripheral blood mononuclear cell PEI polyethylenimine PD Parkinson disease O/AA oligomycin + antimycin A PD Parkinson's disease RLR RIG‐I like receptors TLRs toll‐like receptors TNFα tumor necrosis factor alpha TNFAIP3 (=A20) tumor necrosis factor alpha‐induced protein 3 USF1 upstream stimulatory factor 1
+29665074_121	28	45	Neuroinflammation	Biomarker
+29665074_121	28	75	Neuroinflammation and mitochondrial dysfunction	Collection
+29665074_121	50	75	mitochondrial dysfunction	Biomarker	D028361
+29665074_121	115	134	Parkinson's disease	Disease	DOID:14330
+29665074_121	136	138	PD	Disease	DOID:14330
+29665074_121	177	323	Loss‐of‐function mutations of PARK2 and PARK6, encoding the E3 ubiquitin protein ligase Parkin and the mitochondrial serine/threonine kinase PINK1	Biomarker
+29665074_121	207	212	PARK2	Gene-protein	HGNC:8607
+29665074_121	217	222	PARK6	Gene-protein	HGNC:14581
+29665074_121	237	271	E3 ubiquitin protein ligase Parkin	Gene-protein	HGNC:8607
+29665074_121	294	300	serine	Chemical
+29665074_121	301	310	threonine	Chemical
+29665074_121	318	323	PINK1	Gene-protein	HGNC:14581
+29665074_121	368	402	autosomal recessive early‐onset PD	Disease	not found
+29665074_121	404	409	PINK1	Gene-protein
+29665074_121	414	420	Parkin	Gene-protein	HGNC:8607
+29665074_121	562	567	NLRP3	Gene-protein
+29665074_121	667	672	Park2	Gene-protein
+29665074_121	680	685	Pink1	Gene-protein
+29665074_121	699	708	caspase 1	Gene-protein	HGNC:1499
+29665074_121	730	735	IL‐1β	Gene-protein	HGNC:5992
+29665074_121	740	745	IL‐18	Gene-protein	HGNC:5986
+29665074_121	774	779	Park2	Gene-protein
+29665074_121	787	792	Pink1	Gene-protein
+29665074_121	877	882	PARK2	Gene-protein
+29665074_121	877	892	PARK2 mutations	Biomarker
+29665074_121	913	919	MCC950	Drug	C000597426
+29665074_121	949	954	NLRP3	Gene-protein	HGNC:16400
+29665074_121	987	1011	Enhanced NLRP3 signaling	Biomarker
+29665074_121	996	1001	NLRP3	Gene-protein
+29665074_121	1015	1031	Parkin‐deficient	Disease	not found
+29665074_121	1080	1083	A20	Gene-protein	HGNC:11896
+29665074_121	1124	1129	NF‐κB	Genefamily	family:1254
+29665074_121	1166	1171	NLRP3	Gene-protein
+29665074_121	1240	1243	A20	Gene-protein
+29665074_121	1258	1263	IL‐1β	Gene-protein
+29665074_121	1310	1315	NLRP3	Gene-protein
+29665074_121	1382	1385	A20	Gene-protein
+29665074_121	1382	1422	A20/NLRP3‐inflammasome axis participates	Biomarker
+29665074_121	1386	1391	NLRP3	Gene-protein
+29665074_121	1446	1451	PARK2	Gene-protein
+29665074_121	1446	1461	PARK2‐linked PD	Disease	not found
+29665074_121	1566	1570	3‐MA	Chemical
+29665074_121	1571	1586	3‐methyladenine	Chemical
+29665074_121	1587	1590	A20	Gene-protein
+29665074_121	1593	1600	TNFAIP3	Gene-protein
+29665074_121	1602	1636	antiapoptotic signaling protein 20	Gene-protein
+29665074_121	1637	1639	AD	Disease	DOID:10652
+29665074_121	1640	1657	Alzheimer disease	Disease	DOID:10652
+29665074_121	1658	1662	AIM2	Gene-protein
+29665074_121	1663	1683	absent in melanoma 2	Gene-protein
+29665074_121	1684	1687	ALS	Genefamily
+29665074_121	1688	1717	Amyotrophic lateral sclerosis	Genefamily
+29665074_121	1718	1721	ASC	Gene-protein
+29665074_121	1722	1790	apoptosis‐associated speck‐like protein containing carboxyl‐terminal	Gene-protein
+29665074_121	1773	1781	carboxyl	Chemical
+29665074_121	1791	1795	CARD	Genefamily
+29665074_121	1796	1842	CARD Caspase activation and recruitment domain	Genefamily
+29665074_121	2033	2039	GM‐CSF	Gene-protein
+29665074_121	2040	2088	granulocyte‐macrophage colony‐stimulating factor	Gene-protein
+29665074_121	2089	2094	HMGB1	Gene-protein
+29665074_121	2095	2120	high‐mobility group box 1	Gene-protein
+29665074_121	2121	2126	IBA‐1	Gene-protein
+29665074_121	2127	2169	ionized calcium‐binding adapter molecule 1	Gene-protein
+29665074_121	2135	2142	calcium	Chemical
+29665074_121	2170	2174	IKKβ	Gene-protein
+29665074_121	2175	2230	inhibitor of nuclear factor kappa‐B kinase subunit beta	Gene-protein
+29665074_121	2231	2233	IL	Genefamily
+29665074_121	2234	2245	interleukin	Genefamily
+29665074_121	2246	2249	LPS	Chemical
+29665074_121	2250	2268	lipopolysaccharide	Chemical
+29665074_121	2269	2274	MAC‐1	Gene-protein
+29665074_121	2277	2282	CD11B	Gene-protein
+29665074_121	2284	2304	macrophage antigen‐1	Gene-protein
+29665074_121	2344	2349	MCP‐1	Gene-protein
+29665074_121	2350	2380	monocyte chemotactic protein 1	Gene-protein
+29665074_121	2381	2385	MPTP	Gene-protein
+29665074_121	2386	2430	1‐méthyl‐4‐phényl‐1,2,3,6‐tétrahydropyridine	Chemical
+29665074_121	2485	2490	NF‐κB	Genefamily
+29665074_121	2491	2513	nuclear factor‐kappa B	Genefamily
+29665074_121	2514	2518	NLRs	Genefamily
+29665074_121	2519	2537	nod‐like receptors	Genefamily
+29665074_121	2538	2545	NLRP1/3	Gene-protein
+29665074_121	2546	2585	NLR family, pyrin domain‐containing 1/3	Gene-protein
+29665074_121	2586	2591	NLRC4	Gene-protein
+29665074_121	2592	2635	NLR family CARD domain‐containing protein 4	Gene-protein
+29665074_121	2675	2678	PEI	Chemical
+29665074_121	2679	2695	polyethylenimine	Chemical
+29665074_121	2696	2698	PD	Disease
+29665074_121	2699	2716	Parkinson disease	Disease
+29665074_121	2717	2721	O/AA	Chemical
+29665074_121	2722	2732	oligomycin	Chemical
+29665074_121	2735	2746	antimycin A	Chemical
+29665074_121	2747	2749	PD	Disease
+29665074_121	2750	2769	Parkinson's disease	Disease
+29665074_121	2770	2773	RLR	Gene-protein
+29665074_121	2774	2794	RIG‐I like receptors	Gene-protein
+29665074_121	2795	2799	TLRs	Genefamily
+29665074_121	2800	2819	toll‐like receptors	Genefamily
+29665074_121	2820	2824	TNFα	Gene-protein
+29665074_121	2825	2852	tumor necrosis factor alpha	Gene-protein
+29665074_121	2853	2860	TNFAIP3	Gene-protein
+29665074_121	2863	2866	A20	Gene-protein
+29665074_121	2868	2913	tumor necrosis factor alpha‐induced protein 3	Gene-protein
+29665074_121	2914	2918	USF1	Gene-protein
+29665074_121	2919	2948	upstream stimulatory factor 1	Gene-protein
+

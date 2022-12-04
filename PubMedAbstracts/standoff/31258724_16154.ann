@@ -1,0 +1,95 @@
+T0	Disease 51 57	cancer
+#1	AnnotatorNotes T0	DOID:162
+T1	Drug 120 142	dextran sodium sulfate
+T10	Disease 431 459	oral squamous cell carcinoma
+T12	Disease 487 492	tumor
+#5	AnnotatorNotes T12	DOID:162
+T13	Disease 636 654	endometrial cancer
+#6	AnnotatorNotes T13	DOID:1380
+T15	Chemical 741 744	TPA
+T16	Disease 850 863	breast cancer
+#9	AnnotatorNotes T16	DOID:1612
+T19	Disease 1031 1048	colorectal cancer
+#10	AnnotatorNotes T19	DOID:9256
+T2	Disease 153 166	acute colitis
+#11	AnnotatorNotes T2	not found
+T21	Disease 1081 1098	colorectal cancer
+T24	Disease 1264 1270	cancer
+T25	Disease 1366 1372	cancer
+T27	Disease 1562 1568	cancer
+T29	Disease 1713 1732	laryngeal carcinoma
+#17	AnnotatorNotes T29	DOID:2600
+T3	Biomarker 184 207	intestinal inflammation
+T5	Biomarker 212 237	colitis-associated cancer
+#20	AnnotatorNotes T5	D000083023
+T7	Disease 272 300	oral squamous cell carcinoma
+#22	AnnotatorNotes T7	DOID:0050866
+T8	Gene-Protein 42 47	PSME3
+#2	AnnotatorNotes T8	HGNC:9570
+T17	Biomarker 42 47	PSME3
+#8	AnnotatorNotes T17	C099558
+R1	Association Arg1:T17 Arg2:T0	
+T18	Gene-Protein 87 92	PSME3
+T4	Collection 184 237	intestinal inflammation and colitis-associated cancer
+R2	Association Arg1:T4 Arg2:T2	
+#18	AnnotatorNotes T1	CHEMBL2108952
+R3	Causes Arg1:T1 Arg2:T2	
+T6	Biomarker 302 326	high expression of PSME3
+T20	Gene-Protein 321 326	PSME3
+R4	Prognostic-Poor Arg1:T6 Arg2:T7	
+T22	Gene-Protein 363 368	PSME3
+T26	Drug 363 378	PSME3 silencing
+#19	AnnotatorNotes T26	not found
+R5	Response Arg1:T26 Arg2:T9	
+T9	Collection 431 492	oral squamous cell carcinoma cells in vitro and reduced tumor
+T11	Gene-Protein 549 554	PSME3
+T14	Drug 549 564	PSME3 silencing
+#3	AnnotatorNotes T14	not found
+R6	Response Arg1:T14 Arg2:T13	
+T28	Gene-Protein 696 701	PSME3
+T30	Gene-Protein 771 776	PSME3
+T31	GeneFamily 816 820	MAPK
+T32	Gene-Protein 821 824	p38
+T33	Biomarker 918 954	undetectable or low PSME3 expression
+T34	Gene-Protein 938 943	PSME3
+R7	Prognostic-Good Arg1:T33 Arg2:T16	
+T35	Biomarker 1003 1024	high PSME3 expression
+T36	Gene-Protein 1008 1013	PSME3
+T37	Biomarker 1050 1077	PSME3 expression was higher
+T38	Gene-Protein 1050 1055	PSME3
+R9	Association Arg1:T37 Arg2:T21	
+T39	Biomarker 1162 1188	mutations in the TP53 gene
+T40	Gene-Protein 1179 1183	TP53
+#4	AnnotatorNotes T40	HGNC:11998
+T23	Gene-Protein 1233 1236	p53
+#7	AnnotatorNotes T23	HGNC:11998
+R10	Association Arg1:T39 Arg2:T24	
+T41	Gene-Protein 1281 1286	PSME3
+T42	Gene-Protein 1308 1311	p53
+T43	Gene-Protein 1351 1356	PSME3
+T44	Gene-Protein 1389 1393	MDM2
+#12	AnnotatorNotes T44	HGNC:6973
+T45	Gene-Protein 1403 1406	p53
+T46	Gene-Protein 1446 1449	p53
+T47	Biomarker 1487 1500	p53 mutations
+T48	Gene-Protein 1487 1490	p53
+T49	Gene-Protein 1534 1539	PSME3
+T50	Gene-Protein 1621 1626	PSME3
+T51	Gene-Protein 1644 1647	p53
+T52	Gene-Protein 1679 1682	p53
+T53	Gene-Protein 1752 1757	PSME3
+T54	Gene-Protein 1778 1781	p53
+T55	Gene-Protein 1786 1789	p21
+#13	AnnotatorNotes T55	HGNC:1784
+T56	Disease 676 694	skin tumorigenesis
+#14	AnnotatorNotes T56	DOID:4159
+T57	Biomarker 696 701	PSME3
+T58	Biomarker 1281 1286	PSME3
+T59	Biomarker 1308 1311	p53
+#15	AnnotatorNotes T59	D016159
+T60	Biomarker 1534 1550	PSME3 expression
+T61	Biomarker 1752 1757	PSME3
+T62	Biomarker 1607 1640	expression of PSME3 was increased
+T63	Biomarker 1778 1781	p53
+T64	Biomarker 1786 1789	p21
+#16	AnnotatorNotes T64	D050759

@@ -1,0 +1,36 @@
+30909239_44718|t|RSS_IDENT_p_30909239_b_1_4_5
+30909239_44718|a| As we reported, only two DS participants out of 47 who carried the TREM2-C/T mutation, and a similar frequency was previously reported in the AD population [ 48 ]. One DS participant (D4, 39 years old) with TREM2 R47H (T allele) who was heterozygous for ApoE (ɛ3/ɛ4) slowly deteriorated and developed dementia, whereas another DS participant (D7, 37 years old) who was homozygous for ApoE (ɛ3/ɛ3) but had no clinical symptoms of dementia as yet. The ApoE ɛ2 allele has been associated with a decreased risk of AD [ 49 ]. The frequency of ɛ2 alleles in DS was higher (20%), and interestingly nearly all DS participants above 50 years of age who were either carrying ɛ3/ɛ3 or ɛ3/ɛ2 haplotypes were cognitively normal or developed dementia at a much later stage. There was a correlation between TREM2-T, HLA-DR-A, Tau-H1, and ApoE-ɛ4 (T-A-H1-ɛ4) and a high-risk of dementia in contrast to TREM2-C, HLA-DR-G, Tau-H2, and ApoE-ɛ2 haplotype, which was protective (C-G-H2-ɛ2).
+30909239_44718	55	57	DS	Disease	DOID:14250
+30909239_44718	97	102	TREM2	Gene-protein	HGNC:17761
+30909239_44718	97	115	TREM2-C/T mutation	Variant
+30909239_44718	172	174	AD	Disease	DOID:0110035
+30909239_44718	198	200	DS	Disease
+30909239_44718	237	242	TREM2	Gene-protein
+30909239_44718	237	296	TREM2 R47H (T allele) who was heterozygous for ApoE (ɛ3/ɛ4)	Collection
+30909239_44718	243	247	R47H	Variant	p.Arg47His
+30909239_44718	284	288	ApoE	Gene-protein	HGNC:613
+30909239_44718	290	295	ɛ3/ɛ4	Variant
+30909239_44718	331	339	dementia	Disease	DOID:1307
+30909239_44718	357	359	DS	Disease
+30909239_44718	414	418	ApoE	Gene-protein
+30909239_44718	420	425	ɛ3/ɛ3	Variant
+30909239_44718	459	467	dementia	Disease
+30909239_44718	480	484	ApoE	Gene-protein	HGNC:613
+30909239_44718	485	494	ɛ2 allele	Variant
+30909239_44718	540	542	AD	Disease
+30909239_44718	555	578	frequency of ɛ2 alleles	Biomarker
+30909239_44718	582	584	DS	Disease
+30909239_44718	632	720	DS participants above 50 years of age who were either carrying ɛ3/ɛ3 or ɛ3/ɛ2 haplotypes	Biomarker
+30909239_44718	758	766	dementia	Disease
+30909239_44718	802	872	correlation between TREM2-T, HLA-DR-A, Tau-H1, and ApoE-ɛ4 (T-A-H1-ɛ4)	Biomarker
+30909239_44718	822	827	TREM2	Gene-protein
+30909239_44718	831	839	HLA-DR-A	Gene-protein	HGNC:4947
+30909239_44718	841	847	Tau-H1	Gene-protein	not found
+30909239_44718	853	860	ApoE-ɛ4	Gene-protein	HGNC:613
+30909239_44718	892	900	dementia	Disease	DOID:1307
+30909239_44718	916	921	TREM2	Gene-protein
+30909239_44718	916	964	TREM2-C, HLA-DR-G, Tau-H2, and ApoE-ɛ2 haplotype	Biomarker
+30909239_44718	925	934	HLA-DR-G,	Gene-protein	HGNC:1697
+30909239_44718	935	941	Tau-H2	Gene-protein	not found
+30909239_44718	947	954	ApoE-ɛ2	Gene-protein
+

@@ -1,0 +1,44 @@
+T0	Variant 91 101	c.14576G>A
+T1	Disease 145 148	MMD
+#1	AnnotatorNotes T1	DOID:13099
+T10	Variant 588 598	c.14576G>A
+T11	Disease 622 635	non-MMD ICASO
+T14	Variant 769 779	c.14576G>A
+T16	Disease 799 802	MMD
+T17	Disease 856 859	MMD
+T18	Disease 865 869	ICAD
+T19	Gene-Protein 950 956	RNF213
+T2	Disease 279 282	MMD
+T20	Disease 991 995	ICAD
+T21	Variant 1189 1199	c.14576G>A
+T22	Disease 1249 1252	MMD
+T23	Disease 1258 1279	atherosclerotic ICASO
+T4	Variant 323 333	c.14576G>A
+T6	Gene-Protein 345 351	RNF213
+T7	Biomarker 481 517	RNF213 variant-related non-MMD ICASO
+T9	Disease 535 538	MMD
+T5	Gene-Protein 55 61	RNF213
+#3	AnnotatorNotes T5	HGNC:14539
+T15	Gene-Protein 30 53	Ring finger protein 213
+#7	AnnotatorNotes T15	HGNC:14539
+R1	Variant-Of Arg1:T15 Arg2:T0	
+R2	Association Arg1:T0 Arg2:T1	
+T3	Disease 256 261	ICASO
+#8	AnnotatorNotes T3	not found
+T24	Disease 284 297	non-MMD ICASO
+#9	AnnotatorNotes T24	not found
+R3	Variant-Of Arg1:T6 Arg2:T4	
+R4	Association Arg1:T4 Arg2:T24	
+T8	Gene-Protein 481 487	RNF213
+R5	Association Arg1:T7 Arg2:T9	
+T25	Gene-Protein 610 616	RNF213
+R6	Variant-Of Arg1:T25 Arg2:T10	
+R7	Association Arg1:T10 Arg2:T11	
+R8	Association Arg1:T14 Arg2:T16	
+#2	AnnotatorNotes T18	DOID:13089
+R9	Variant-Of Arg1:T25 Arg2:T14	
+T12	Gene-Protein 1182 1188	RNF213
+R10	Variant-Of Arg1:T12 Arg2:T21	
+#4	AnnotatorNotes T23	not found
+T13	Biomarker 950 956	RNF213
+R11	Risk-Factor Arg1:T13 Arg2:T20	

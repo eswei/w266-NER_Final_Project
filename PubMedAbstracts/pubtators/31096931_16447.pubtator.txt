@@ -1,0 +1,42 @@
+31096931_16447|t|RSS_IDENT_p_31096931_b_1_4_3
+31096931_16447|a| Our results showed that 25(OH)D concentrations were lower in the GDM group than in the control group. Vitamin D deficiency was associated with insulin resistance and GDM [ 8 ]. The VDR gene has a role in the metabolic pathway of insulin [ 9 ]. VDR gene variations have beenshown to be correlated in the development, progression, and complications of T2DM [ 13 – 15 ]. The present study showed that VDR gene FokI SNPs were independently associated with an increased risk of GDM in Turkish women (β = 1.63, 95% CI: [1. 2-4.2], p = 0.012). Our study suggested that VDR gene FokI SNPs might be associated with having GDM. We found that the frequency of VDR gene ApaI, TaqI, and BsmI did not differ between women with and without GDM. VDR gene ApaI, TaqI, and BsmI SNPs were not associated with GDM. The VDR gene FokI SNP showed significant differences between women with and without GDM. VDR gene FokI (variant or heterozygotes) compared to wild-type (CC) SNP revealed a significant association. VDR gene FokI rs2228570 TT (TT vs. CC, OR = 3.95, 95% CI: [1.56–9.96], p = 0.002) and CT heterozygotes (CT vs. CC, OR = 1.84, 95% CI: [1.05–3.239, p = 0.031) were associated with having GDM, compared with the controls. VDR gene FokI SNPs might contribute to developing GDM in the Turkish population. 
+31096931_16447	54	61	25(OH)D	Chemical
+31096931_16447	54	87	25(OH)D concentrations were lower	Biomarker
+31096931_16447	95	98	GDM	Disease	DOID:11714
+31096931_16447	132	141	Vitamin D	Chemical
+31096931_16447	132	152	Vitamin D deficiency	Biomarker	D014808
+31096931_16447	173	180	insulin	Gene-protein	HGNC:6081
+31096931_16447	173	191	insulin resistance	Disease	D007333
+31096931_16447	173	199	insulin resistance and GDM	Collection
+31096931_16447	196	199	GDM	Disease
+31096931_16447	211	214	VDR	Gene-protein	HGNC:12679
+31096931_16447	259	266	insulin	Gene-protein
+31096931_16447	274	277	VDR	Gene-protein
+31096931_16447	274	293	VDR gene variations	Biomarker
+31096931_16447	380	384	T2DM	Disease	DOID:9352
+31096931_16447	428	431	VDR	Gene-protein
+31096931_16447	428	446	VDR gene FokI SNPs	Biomarker
+31096931_16447	503	506	GDM	Disease
+31096931_16447	592	595	VDR	Gene-protein
+31096931_16447	592	610	VDR gene FokI SNPs	Biomarker
+31096931_16447	643	646	GDM	Disease
+31096931_16447	679	682	VDR	Gene-protein
+31096931_16447	679	708	VDR gene ApaI, TaqI, and BsmI	Biomarker
+31096931_16447	755	758	GDM	Disease
+31096931_16447	760	763	VDR	Gene-protein
+31096931_16447	760	794	VDR gene ApaI, TaqI, and BsmI SNPs	Biomarker
+31096931_16447	820	823	GDM	Disease
+31096931_16447	829	832	VDR	Gene-protein
+31096931_16447	829	846	VDR gene FokI SNP	Biomarker
+31096931_16447	909	912	GDM	Disease
+31096931_16447	914	917	VDR	Gene-protein
+31096931_16447	914	954	VDR gene FokI (variant or heterozygotes)	Biomarker
+31096931_16447	1022	1048	VDR gene FokI rs2228570 TT	Biomarker
+31096931_16447	1022	1123	VDR gene FokI rs2228570 TT (TT vs. CC, OR = 3.95, 95% CI: [1.56–9.96], p = 0.002) and CT heterozygote	Collection
+31096931_16447	1036	1045	rs2228570	Variant
+31096931_16447	1108	1124	CT heterozygotes	Biomarker
+31096931_16447	1208	1211	GDM	Disease
+31096931_16447	1241	1244	VDR	Gene-protein
+31096931_16447	1241	1259	VDR gene FokI SNPs	Biomarker
+31096931_16447	1291	1294	GDM	Disease
+

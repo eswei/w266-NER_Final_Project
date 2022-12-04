@@ -1,0 +1,54 @@
+30197791_26792|t|RSS_IDENT_p_30197791_b_1_4_3
+30197791_26792|a| In this study, we found that the expression of PVT1 was significantly higher in tumor tissues than in normal ovarian tissues. On the contrary, the expression of miR-214 was obviously lower in tumor tissues than in normal ovarian tissues. Similar results were also found in ovarian cancer cell lines in vitro. Moreover, higher PVT1 expression was associated with advanced FIGO stage. Lower miR-214 expression was related to EOC featuring lower tumor differentiation and an advanced stage. In general, higher expression of PVT1 and lower expression of miR-214 indicated a clinically more malignant EOC, with a negative relationship between the expression of PVT1 and miR-214 in EOC tissues. Importantly, univariate survival analysis revealed that EOC patients with high PVT1 expression and low miR-214 expression were more likely to have shorter PFS and OS than those with low PVT1 expression and high miR-214 expression. Our results were quite consistent with those of previous studies. Zhang et al. ²⁰ reported that PVT1 was up-regulated in cervical cancer tissues. Enhanced expression of PVT1 was associated with larger tumor size, advanced stage, and poor prognosis of patients with cervical cancer. Kong et al. ¹⁴ indicated the overexpression of PVT1 was suggestive of a poor prognosis of gastric cancer and promoted cell proliferation through epigenetic regulation of p15 and p16. Similarly, Takahashi et al. ²¹ demonstrated that amplification of PVT1 is involved in poor prognosis via apoptosis inhibition in colorectal cancer. 
+30197791_26792	63	106	expression of PVT1 was significantly higher	Biomarker
+30197791_26792	77	81	PVT1	Gene-protein	HGNC:9709
+30197791_26792	110	115	tumor	Disease	DOID:162
+30197791_26792	177	218	expression of miR-214 was obviously lower	Biomarker
+30197791_26792	191	198	miR-214	Rna-noncoding	HGNC:31591
+30197791_26792	222	227	tumor	Disease
+30197791_26792	303	317	ovarian cancer	Disease	DOID:2394
+30197791_26792	349	371	higher PVT1 expression	Biomarker
+30197791_26792	356	360	PVT1	Gene-protein
+30197791_26792	413	437	Lower miR-214 expression	Biomarker
+30197791_26792	419	426	miR-214	Rna-noncoding
+30197791_26792	453	456	EOC	Disease	DOID:2152
+30197791_26792	473	478	tumor	Disease
+30197791_26792	530	555	higher expression of PVT1	Biomarker
+30197791_26792	530	587	higher expression of PVT1 and lower expression of miR-214	Collection
+30197791_26792	551	555	PVT1	Gene-protein
+30197791_26792	560	587	lower expression of miR-214	Biomarker
+30197791_26792	580	587	miR-214	Rna-noncoding
+30197791_26792	616	629	malignant EOC	Disease	DOID:2152
+30197791_26792	638	702	negative relationship between the expression of PVT1 and miR-214	Biomarker
+30197791_26792	686	690	PVT1	Gene-protein
+30197791_26792	695	702	miR-214	Rna-noncoding
+30197791_26792	706	709	EOC	Disease
+30197791_26792	775	778	EOC	Disease
+30197791_26792	793	813	high PVT1 expression	Biomarker
+30197791_26792	793	840	high PVT1 expression and low miR-214 expression	Collection
+30197791_26792	798	802	PVT1	Gene-protein
+30197791_26792	818	840	low miR-214 expression	Biomarker
+30197791_26792	822	829	miR-214	Rna-noncoding
+30197791_26792	901	920	low PVT1 expression	Biomarker
+30197791_26792	901	948	low PVT1 expression and high miR-214 expression	Collection
+30197791_26792	905	909	PVT1	Gene-protein
+30197791_26792	925	948	high miR-214 expression	Biomarker
+30197791_26792	930	937	miR-214	Gene-protein
+30197791_26792	1046	1050	PVT1	Gene-protein
+30197791_26792	1046	1067	PVT1 was up-regulated	Biomarker
+30197791_26792	1071	1086	cervical cancer	Disease	DOID:4362
+30197791_26792	1096	1123	Enhanced expression of PVT1	Biomarker
+30197791_26792	1119	1123	PVT1	Gene-protein
+30197791_26792	1144	1161	larger tumor size	Biomarker
+30197791_26792	1163	1177	advanced stage	Biomarker
+30197791_26792	1183	1209	poor prognosis of patients	Biomarker
+30197791_26792	1215	1230	cervical cancer	Disease	DOID:4362
+30197791_26792	1261	1283	overexpression of PVT1	Biomarker
+30197791_26792	1279	1283	PVT1	Gene-protein
+30197791_26792	1322	1336	gastric cancer	Disease	DOID:10534
+30197791_26792	1402	1405	p15	Gene-protein	HGNC:1788
+30197791_26792	1410	1413	p16	Gene-protein	HGNC:1787
+30197791_26792	1464	1485	amplification of PVT1	Biomarker
+30197791_26792	1481	1485	PVT1	Gene-protein
+30197791_26792	1544	1561	colorectal cancer	Disease	DOID:9256
+

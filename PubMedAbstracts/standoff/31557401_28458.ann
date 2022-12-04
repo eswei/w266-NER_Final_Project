@@ -1,0 +1,48 @@
+T0	RNA-Noncoding 81 90	LINC01133
+T10	RNA-Noncoding 519 528	LINC01133
+T12	Disease 561 574	breast cancer
+T13	RNA-Noncoding 624 633	LINC01133
+T15	Disease 656 673	colorectal cancer
+#5	AnnotatorNotes T15	DOID:9256
+T16	RNA-Noncoding 717 726	LINC01133
+T18	Disease 746 772	non‐small cell lung cancer
+#7	AnnotatorNotes T18	DOID:3908
+T2	Disease 152 165	breast cancer
+#9	AnnotatorNotes T2	DOID:1612
+T20	RNA-Noncoding 948 957	LINC01133
+T21	RNA-Noncoding 1034 1043	LINC01133
+T22	Disease 1047 1060	breast cancer
+T23	RNA-Noncoding 1115 1124	LINC01133
+T25	Disease 1139 1152	breast cancer
+T26	Disease 1205 1218	breast cancer
+T28	Disease 1293 1306	breast cancer
+T29	RNA-Noncoding 1371 1380	LINC01133
+T30	Disease 1470 1483	breast cancer
+T5	RNA-Noncoding 253 262	LINC01133
+T6	Disease 339 352	breast cancer
+T8	RNA-Noncoding 402 411	LINC01133
+T9	Disease 471 484	breast cancer
+#1	AnnotatorNotes T0	HGNC:49447
+T1	Biomarker 81 148	LINC01133 and founded that its expression was significantly reduced
+R1	Association Arg1:T1 Arg2:T2	
+T3	Biomarker 238 273	Down‐regulated LINC01133 expression
+R2	Prognostic-Poor Arg1:T3 Arg2:T6	
+T4	Biomarker 373 411	down‐regulated expression of LINC01133
+R3	Association Arg1:T4 Arg2:T9	
+T7	Biomarker 519 528	LINC01133
+#2	AnnotatorNotes T7	C000621545
+R4	Association Arg1:T7 Arg2:T12	
+T11	Biomarker 624 652	LINC01133 was down‐regulated
+R5	Association Arg1:T11 Arg2:T15	
+T14	Biomarker 717 742	LINC01133 was upregulated
+R6	Association Arg1:T14 Arg2:T18	
+T17	Biomarker 1115 1124	LINC01133
+R7	Association Arg1:T17 Arg2:T25	
+T19	Drug 1255 1281	overexpression of LIC01133
+#3	AnnotatorNotes T19	not found
+T24	RNA-Noncoding 1273 1281	LIC01133
+R8	Response Arg1:T19 Arg2:T28	
+T27	Biomarker 1371 1380	LINC01133
+R9	Association Arg1:T27 Arg2:T30	
+T31	Biomarker 1034 1043	LINC01133
+R10	Association Arg1:T31 Arg2:T22	

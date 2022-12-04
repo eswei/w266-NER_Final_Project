@@ -1,0 +1,41 @@
+30538440_33145|t|RSS_IDENT_p_30538440_b_1_4_5
+30538440_33145|a| Multivariate Cox regression analyses revealed that PO₂, FEV₁, and miR-190a-5p expression were independent risk factors of all-cause mortality in patients with COPD-PH. In addition, lower levels of miR-190a-5p were predictive of event-free survival in the COPD-PH subgroup, but not in the global PH group; this indicates that miR-190a-5p has a unique prognostic value in COPD-PH. COPD-related PH has been classified as group 3 “pulmonary hypertension due to lung disease and/or hypoxia,” 28 which suggests that exposure to hypoxic conditions plays a more important role in the pathophysiologic mechanism of COPD-PH than in other types of PH. This is an important reason why the circulating level of miR-190a-5p shows an independent prognostic value in patients with COPD-PH, but not in the global cohort of patients with PH. In addition, miR-190a-5p shows a negative correlation with KLF15 mRNA in patients with COPD-PH. Furthermore, higher levels of miR-190a-5p were associated with a lower PO₂ and greater severity of COPD-PH. This implies that circulating miR-190a-5p not only serves as a marker for the diagnosis and prognosis of COPD-PH, but can also be used to evaluate the severity and progression of the disease.
+30538440_33145	81	84	PO₂	Chemical
+30538440_33145	81	84	PO₂	Biomarker
+30538440_33145	81	118	PO₂, FEV₁, and miR-190a-5p expression	Collection
+30538440_33145	86	90	FEV₁	Biomarker
+30538440_33145	96	107	miR-190a-5p	Rna-noncoding	HGNC:31560
+30538440_33145	96	118	miR-190a-5p expression	Biomarker
+30538440_33145	162	196	mortality in patients with COPD-PH	Disease	D009026, DOID:3083, DOID:6432	Conjunction
+30538440_33145	211	238	lower levels of miR-190a-5p	Biomarker
+30538440_33145	227	238	miR-190a-5p	Rna-noncoding
+30538440_33145	285	292	COPD-PH	Disease	DOID:3083, DOID:6432	Conjunction
+30538440_33145	325	327	PH	Disease	DOID:6432
+30538440_33145	355	366	miR-190a-5p	Rna-noncoding
+30538440_33145	355	366	miR-190a-5p	Biomarker
+30538440_33145	400	407	COPD-PH	Disease	Conjunction
+30538440_33145	409	424	COPD-related PH	Disease	DOID:3083, DOID:6432	Conjunction
+30538440_33145	457	479	pulmonary hypertension	Disease	DOID:6432
+30538440_33145	487	499	lung disease	Disease	DOID:850
+30538440_33145	507	514	hypoxia	Disease	D000860
+30538440_33145	540	570	exposure to hypoxic conditions	Biomarker
+30538440_33145	636	643	COPD-PH	Disease	Conjunction
+30538440_33145	667	669	PH	Disease
+30538440_33145	707	739	circulating level of miR-190a-5p	Biomarker
+30538440_33145	728	739	miR-190a-5p	Rna-noncoding
+30538440_33145	795	802	COPD-PH	Disease	Conjunction
+30538440_33145	850	852	PH	Disease
+30538440_33145	867	878	miR-190a-5p	Rna-noncoding
+30538440_33145	867	878	miR-190a-5p	Biomarker
+30538440_33145	913	918	KLF15	Gene-protein	HGNC:14536
+30538440_33145	913	923	KLF15 mRNA	Biomarker
+30538440_33145	941	948	COPD-PH	Disease	Conjunction
+30538440_33145	963	991	higher levels of miR-190a-5p	Biomarker
+30538440_33145	980	991	miR-190a-5p	Rna-noncoding
+30538440_33145	1015	1024	lower PO₂	Biomarker
+30538440_33145	1021	1024	PO₂	Chemical
+30538440_33145	1049	1056	COPD-PH	Disease	Conjunction
+30538440_33145	1076	1099	circulating miR-190a-5p	Biomarker
+30538440_33145	1088	1099	miR-190a-5p	Rna-noncoding
+30538440_33145	1163	1170	COPD-PH	Disease	Conjunction
+

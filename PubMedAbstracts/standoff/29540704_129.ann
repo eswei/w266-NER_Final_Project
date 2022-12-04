@@ -1,0 +1,59 @@
+T1	Disease 28 62	Juvenile onset open-angle glaucoma
+#1	AnnotatorNotes T1	not found
+T10	Variant 769 781	c. 1150G > C
+T11	Variant 787 792	D384H
+T12	Variant 830 841	c. 985A > G
+T13	Variant 843 852	p.(R329G)
+T14	Variant 854 866	c. 1481T > G
+T15	Variant 872 877	L494W
+T16	Variant 918 930	c. 1412T > G
+T17	Variant 932 941	p.(I471S)
+T18	Variant 943 955	c. 1169G > A
+T19	Variant 957 966	p.(R390H)
+T2	Disease 64 68	JOAG
+T21	Disease 1147 1151	JOAG
+T5	Disease 234 238	JOAG
+T7	Disease 384 388	JOAG
+T8	Variant 743 755	c. 1109C > T
+T9	Variant 761 766	P370L
+#2	AnnotatorNotes T2	not found
+T3	Gene-Protein 313 317	MYOC
+#3	AnnotatorNotes T3	HGNC:7610
+T6	Gene-Protein 319 323	OPTN
+#4	AnnotatorNotes T6	HGNC:17142
+T22	Gene-Protein 325 329	NTF4
+#5	AnnotatorNotes T22	HGNC:8024
+T23	Gene-Protein 331 336	WDR36
+#6	AnnotatorNotes T23	HGNC:30696
+T24	Gene-Protein 341 347	CYP1B1
+#7	AnnotatorNotes T24	HGNC:2597
+T25	Gene-Protein 674 678	MYOC
+T26	Gene-Protein 680 684	OPTN
+T27	Gene-Protein 689 695	CYP1B1
+T28	Gene-Protein 737 741	MYOC
+#8	AnnotatorNotes T9	p.Pro370Leu
+#9	AnnotatorNotes T11	p.Asp384His
+T29	Collection 742 794	(c. 1109C > T, p. (P370L); c. 1150G > C, p. (D384H))
+R1	Variant-Of Arg1:T28 Arg2:T29	
+#10	AnnotatorNotes T13	p.Arg329Gly
+#11	AnnotatorNotes T15	p.Leu494Trp
+T30	Collection 829 879	(c. 985A > G, p.(R329G); c. 1481T > G, p. (L494W))
+T31	Gene-Protein 824 828	OPTN
+R2	Variant-Of Arg1:T31 Arg2:T30	
+T32	Collection 917 967	(c. 1412T > G, p.(I471S); c. 1169G > A, p.(R390H))
+#12	AnnotatorNotes T17	p.Ile1471Ser
+#13	AnnotatorNotes T19	p.Arg390His
+T33	Gene-Protein 910 916	CYP1B1
+R3	Variant-Of Arg1:T33 Arg2:T32	
+T34	Gene-Protein 1048 1052	NTF4
+T35	Gene-Protein 1056 1061	WDR36
+T36	Gene-Protein 1122 1126	MYOC
+T37	Gene-Protein 1128 1132	OPTN
+T38	Gene-Protein 1137 1143	CYP1B1
+T4	Biomarker 119 144	high intraocular pressure
+T39	Biomarker 149 174	severe optic nerve damage
+T40	Collection 119 174	high intraocular pressure and severe optic nerve damage
+R5	Association Arg1:T40 Arg2:T1	
+R4	Association Arg1:T32 Arg2:T21	
+R6	Association Arg1:T30 Arg2:T21	
+R7	Association Arg1:T29 Arg2:T21	

@@ -1,0 +1,40 @@
+31333472_28324|t|RSS_IDENT_p_31333472_b_1_4_3
+31333472_28324|a| P-gp can restrict the entry of various substrates, such as antidepressants, from the bloodstream into the brain. Studies on ABCB1 knockout animals have shown that ABCB1−/− mice possess higher intracerebral concentrations of escitalopram, trimipramine, amitriptyline, doxepin, venlafaxine, and paroxetine compared with those in wild-type mice ( Uhr et al., 2000 ; Uhr et al., 2002 ; Uhr et al., 2003 ). Kato et al. (2008) reported a significant association of the nonsynonymous SNP G2677T/A (rs2032582) with treatment response to paroxetine in depressed patients. Moreover, the wild variant haplotype 3435C–2677G–1236T is associated with poor response ( Kato et al., 2008 ). In contrast, Nikisch et al. (2008) found that depressed patients harboring the 2677 GG/GT genotype responded to escitalopram treatment significantly better than patients with the 2677TT genotype and suggested that this polymorphism could be used as genetic markers for predicting treatment response to escitalopram treatment in MDD (n = 15). Uhr et al. (2008) showed that polymorphisms in the ABCB1 gene predict the response to antidepressant treatment in depressed patients (n = 133) receiving drugs that have been identified as substrates of P-gp (amitriptyline, paroxetine, venlafaxine, and escitalopram). However, Mihaljevic et al. (2008) found that MDR1 variants G2677T (rs2032582) and C3435T (rs1045642) are not associated with therapeutic response to paroxetine in patients with MDD (n = 127). Furthermore, Peters et al. (2008) did not find an association between ABCB1C3435T, G2677T, and C1236T polymorphisms and response and tolerance to citalopram in a large study sample (n = 831).
+31333472_28324	30	34	P-gp	Gene-protein	HGNC:40
+31333472_28324	89	104	antidepressants	Drug-class
+31333472_28324	154	159	ABCB1	Gene-protein
+31333472_28324	193	198	ABCB1	Gene-protein
+31333472_28324	254	266	escitalopram	Drug	CHEMBL1508
+31333472_28324	268	280	trimipramine	Drug	CHEMBL644
+31333472_28324	282	295	amitriptyline	Drug	CHEMBL629
+31333472_28324	297	304	doxepin	Drug	CHEMBL1628227
+31333472_28324	306	317	venlafaxine	Drug	CHEMBL637
+31333472_28324	323	333	paroxetine	Drug	CHEMBL490
+31333472_28324	493	531	nonsynonymous SNP G2677T/A (rs2032582)	Biomarker
+31333472_28324	559	569	paroxetine	Drug	CHEMBL490
+31333472_28324	573	582	depressed	Disease	D003863
+31333472_28324	630	647	3435C–2677G–1236T	Biomarker
+31333472_28324	750	759	depressed	Disease	not found
+31333472_28324	783	802	2677 GG/GT genotype	Biomarker
+31333472_28324	816	828	escitalopram	Drug
+31333472_28324	883	898	2677TT genotype	Biomarker
+31333472_28324	1006	1018	escitalopram	Drug
+31333472_28324	1032	1035	MDD	Disease	DOID:1470
+31333472_28324	1076	1107	polymorphisms in the ABCB1 gene	Biomarker
+31333472_28324	1097	1102	ABCB1	Gene-protein
+31333472_28324	1160	1169	depressed	Disease
+31333472_28324	1254	1267	amitriptyline	Drug
+31333472_28324	1269	1279	paroxetine	Drug
+31333472_28324	1281	1292	venlafaxine	Drug
+31333472_28324	1298	1310	escitalopram	Drug
+31333472_28324	1358	1362	MDR1	Gene-protein	HGNC:40
+31333472_28324	1372	1378	G2677T	Variant
+31333472_28324	1372	1413	G2677T (rs2032582) and C3435T (rs1045642)	Collection
+31333472_28324	1380	1389	rs2032582	Variant
+31333472_28324	1395	1401	C3435T	Variant
+31333472_28324	1403	1412	rs1045642	Variant
+31333472_28324	1462	1472	paroxetine	Drug
+31333472_28324	1490	1493	MDD	Disease
+31333472_28324	1588	1620	G2677T, and C1236T polymorphisms	Biomarker
+31333472_28324	1651	1661	citalopram	Drug	CHEMBL549
+

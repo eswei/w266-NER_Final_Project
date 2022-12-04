@@ -1,0 +1,39 @@
+29464001_2503|t|RSS_IDENT_p_29464001_b_1_1_3
+29464001_2503|a| The transcription products of most genes in the human genome are non-coding RNAs (ncRNAs) 4 . Based on the length of ncRNAs fragments, they are divided into short non-coding RNAs and long non-coding RNAs (lncRNAs). The short non-coding RNAs mainly include microRNAs (miRNAs), short-interfering RNAs (siRNAs), and PIWI-interacting RNAs (piRNAs) 5 . piRNAs are a class of newly discovered small RNA molecules of 26-31nt in length and generally function by binding to the Argonaute protein family (i.e., the PIWIL protein subfamily) for gene silencing and regulation as well as maintenance of the germline DNA stability. Human PIWI protein members include: PIWIL1, PIWIL2, PIWIL3 and PIWIL4 6 . PIWI proteins find their target RNAs by using piRNAs as guides and cleave the targets through the RNase (slicer) activity of the PIWI domain. PIWIL3 expression is deregulated in multiple cancers. Recent studies of single-cell proteomics have demonstrated that PIWIL3 is highly expressed in human oocytes and is associated with development and maturation 7 . It has been reported that PIWIL3 is aberrantly expressed in breast and gastric carcinoma 8 , 9 and is related to the prognosis of breast cancer and may serve as a new indicator for prognosis 8 .PIWIL3 has been shown to be highly expressed in stage III human ovarian epithelial cancer and its metastatic tissues 10 . Also, the human protein atlas (<url>) shows that PIWIL3 is down-regulated in gliomas. Moreover, piRNA microarray analysis showed that piRNADQ570076 (referred to as piR-30188 in NCBI genebank) is down-regulated in U87 and U251 glioma cells. However, the regulatory role and potential mechanisms of PIWIL3 and piR-30188 affecting the biological behavior of glioblastoma have not been investigated.
+29464001_2503	343	347	PIWI	Genefamily	family:408
+29464001_2503	499	508	Argonaute	Genefamily	family:408
+29464001_2503	535	540	PIWIL	Genefamily	family:2038
+29464001_2503	654	658	PIWI	Genefamily
+29464001_2503	684	690	PIWIL1	Gene-protein	HGNC:9007
+29464001_2503	692	698	PIWIL2	Gene-protein	HGNC:17644
+29464001_2503	700	706	PIWIL3	Gene-protein	HGNC:18443
+29464001_2503	711	717	PIWIL4	Gene-protein	HGNC:18444
+29464001_2503	722	726	PIWI	Genefamily
+29464001_2503	851	862	PIWI domain	Proteindomain
+29464001_2503	864	870	PIWIL3	Gene-protein
+29464001_2503	864	896	PIWIL3 expression is deregulated	Biomarker
+29464001_2503	909	916	cancers	Disease	DOID:162
+29464001_2503	982	988	PIWIL3	Gene-protein
+29464001_2503	1106	1112	PIWIL3	Gene-protein
+29464001_2503	1106	1136	PIWIL3 is aberrantly expressed	Biomarker
+29464001_2503	1140	1168	breast and gastric carcinoma	Disease	DOID:3459, DOID:5517
+29464001_2503	1140	1223	breast and gastric carcinoma 8 , 9 and is related to the prognosis of breast cancer	Collection
+29464001_2503	1210	1223	breast cancer	Disease	DOID:1612
+29464001_2503	1274	1280	PIWIL3	Gene-protein
+29464001_2503	1274	1318	PIWIL3 has been shown to be highly expressed	Biomarker
+29464001_2503	1322	1363	stage III human ovarian epithelial cancer	Disease	not found
+29464001_2503	1445	1451	PIWIL3	Gene-protein
+29464001_2503	1445	1469	PIWIL3 is down-regulated	Biomarker
+29464001_2503	1473	1480	gliomas	Disease	DOID:0060108
+29464001_2503	1530	1543	piRNADQ570076	Rna-noncoding
+29464001_2503	1530	1605	piRNADQ570076 (referred to as piR-30188 in NCBI genebank) is down-regulated	Biomarker
+29464001_2503	1560	1569	piR-30188	Rna-noncoding	not found
+29464001_2503	1609	1612	U87	Cellline
+29464001_2503	1617	1621	U251	Cellline
+29464001_2503	1622	1628	glioma	Disease	DOID:0060108
+29464001_2503	1693	1699	PIWIL3	Gene-protein
+29464001_2503	1693	1699	PIWIL3	Biomarker	C556794
+29464001_2503	1704	1713	piR-30188	Rna-noncoding
+29464001_2503	1704	1713	piR-30188	Biomarker
+29464001_2503	1751	1763	glioblastoma	Disease	DOID:3068
+

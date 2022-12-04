@@ -1,0 +1,51 @@
+31322243_30323|t|RSS_IDENT_p_31322243_b_1_4_3
+31322243_30323|a| Previous studies have demonstrated that miR-543 may act as a tumor-suppressor gene or oncogene ( 43 , 44 ). Earlier research found that miR-543 exhibits low expression in glioma, and induced tumor cell apoptosis, inhibited growth, the cell cycle, migration and the invasion of cancer cells ( 45 ). In previous research, it was demonstrated that miR-543 suppressed breast cancer cell proliferation, cell cycle and induced apoptosis by the extracellular signal-regulated kinase-2 (ERK2)/mitogen-activated protein kinase (MAPK) signaling pathway, and the phosphorylation of downstream factors including RSK2 and MSK1 was impeded ( 15 ). However, the present study did not further verify whether miR-543 affects OSCC through the ERK2/MAPK signaling pathway, which will be a direction for subsequent research. In addition, miR-543 exhibited a similar decrease in colorectal cancer and inhibited the growth, invasion and metastasis of colon cancer by targeting kirsten rat sarcoma viral oncogene homolog, metastasis-associated 1 and high mobility group AT-hook 2 genes ( 46 ). However, additional studies have revealed that miR-543 is highly expressed in colorectal cancer ( 16 ). In addition, miR-543 was upregulated in lung cancer, and promoted the cell proliferation and invasion of non-small cell lung cancer by targeting phosphatase and tensin homolog protein ( 12 ). In gastric cancer and osteosarcoma, miR-543 was observed to be overexpressed and to serve as an oncogene to promote cancer cell proliferation and glycolysis ( 13 , 47 ). Furthermore, miR-543 was also found to be highly expressed in prostate cancer and was confirmed to directly target receptor-interacting serine/threonine-protein kinase 1 to promote cell proliferation and induce epithelial-mesenchymal transition, which promoted cell invasion and migration in vitro and in vivo ( 48 ).
+31322243_30323	70	77	miR-543	Rna-noncoding	HGNC:33664
+31322243_30323	166	173	miR-543	Rna-noncoding
+31322243_30323	166	197	miR-543 exhibits low expression	Drug	not found
+31322243_30323	201	207	glioma	Disease	DOID:0060108
+31322243_30323	221	226	tumor	Disease	DOID:162
+31322243_30323	307	313	cancer	Disease	DOID:162
+31322243_30323	375	382	miR-543	Rna-noncoding
+31322243_30323	375	382	miR-543	Drug	C577592
+31322243_30323	394	407	breast cancer	Disease	DOID:1612
+31322243_30323	468	507	extracellular signal-regulated kinase-2	Gene-protein	HGNC:6871
+31322243_30323	509	513	ERK2	Gene-protein	HGNC:6871
+31322243_30323	515	547	mitogen-activated protein kinase	Genefamily	family:651
+31322243_30323	549	553	MAPK	Genefamily	family:651
+31322243_30323	630	634	RSK2	Gene-protein	HGNC:10432
+31322243_30323	639	643	MSK1	Gene-protein	HGNC:10434
+31322243_30323	722	729	miR-543	Rna-noncoding
+31322243_30323	738	742	OSCC	Disease	DOID:0050866
+31322243_30323	755	759	ERK2	Gene-protein
+31322243_30323	760	764	MAPK	Genefamily
+31322243_30323	848	855	miR-543	Rna-noncoding
+31322243_30323	848	855	miR-543	Drug
+31322243_30323	888	905	colorectal cancer	Disease	DOID:9256
+31322243_30323	888	971	colorectal cancer and inhibited the growth, invasion and metastasis of colon cancer	Collection
+31322243_30323	959	971	colon cancer	Disease	DOID:219
+31322243_30323	985	1027	kirsten rat sarcoma viral oncogene homolog	Gene-protein	HGNC:6407
+31322243_30323	1029	1052	metastasis-associated 1	Gene-protein	HGNC:7410
+31322243_30323	1057	1086	high mobility group AT-hook 2	Gene-protein	HGNC:5009
+31322243_30323	1148	1155	miR-543	Rna-noncoding
+31322243_30323	1148	1175	miR-543 is highly expressed	Biomarker
+31322243_30323	1179	1196	colorectal cancer	Disease
+31322243_30323	1218	1225	miR-543	Rna-noncoding
+31322243_30323	1218	1241	miR-543 was upregulated	Biomarker
+31322243_30323	1245	1256	lung cancer	Disease	DOID:1324
+31322243_30323	1245	1336	lung cancer, and promoted the cell proliferation and invasion of non-small cell lung cancer	Collection
+31322243_30323	1310	1336	non-small cell lung cancer	Disease	DOID:3908
+31322243_30323	1350	1380	phosphatase and tensin homolog	Gene-protein	HGNC:9588
+31322243_30323	1400	1414	gastric cancer	Disease	DOID:10534
+31322243_30323	1400	1431	gastric cancer and osteosarcoma	Collection
+31322243_30323	1419	1431	osteosarcoma	Disease	DOID:3347
+31322243_30323	1433	1440	miR-543	Rna-noncoding
+31322243_30323	1433	1473	miR-543 was observed to be overexpressed	Biomarker
+31322243_30323	1513	1519	cancer	Disease
+31322243_30323	1580	1587	miR-543	Rna-noncoding
+31322243_30323	1580	1625	miR-543 was also found to be highly expressed	Biomarker
+31322243_30323	1629	1644	prostate cancer	Disease	DOID:10283
+31322243_30323	1703	1709	serine	Chemical
+31322243_30323	1703	1736	serine/threonine-protein kinase 1	Gene-protein	not found
+31322243_30323	1710	1719	threonine	Chemical
+

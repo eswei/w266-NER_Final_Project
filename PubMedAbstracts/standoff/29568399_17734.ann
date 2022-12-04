@@ -1,0 +1,81 @@
+T0	Disease 57 60	MeS
+T10	Disease 611 614	MeS
+T11	Disease 707 710	MeS
+T12	Disease 827 830	MeS
+T14	Disease 946 952	cancer
+#5	AnnotatorNotes T14	DOID:162
+T16	Disease 1169 1186	basal-like tumors
+#6	AnnotatorNotes T16	not found
+T18	Disease 1311 1315	BrCa
+T2	Biomarker 110 113	MeS
+T20	Disease 1433 1437	BrCa
+T21	Biomarker 1447 1455	Vimentin
+T23	Disease 1583 1589	cancer
+T24	Disease 1607 1611	BrCa
+T28	Disease 1766 1770	BrCa
+T3	Disease 124 136	breast tumor
+#17	AnnotatorNotes T3	DOID:1612
+T4	Disease 323 326	MeS
+T5	Disease 337 341	BrCa
+#19	AnnotatorNotes T5	DOID:1612
+T7	Disease 432 437	tumor
+#21	AnnotatorNotes T7	DOID:162
+T8	Disease 481 484	MeS
+T9	Disease 559 562	MeS
+#1	AnnotatorNotes T0	D024821
+#2	AnnotatorNotes T2	D024821
+T1	Gene-Protein 100 105	CTBP1
+#3	AnnotatorNotes T1	HGNC:2494
+T13	Biomarker 100 105	CTBP1
+#4	AnnotatorNotes T13	C096794
+T15	Collection 100 113	CTBP1 and MeS
+R1	Association Arg1:T15 Arg2:T3	
+T17	Gene-Protein 313 318	CTBP1
+T6	Gene-Protein 522 527	CTBP1
+T19	Gene-Protein 536 541	ITGB4
+T22	Gene-Protein 546 551	PRSS2
+T26	Gene-Protein 573 580	COL17A1
+T30	Gene-Protein 585 590	FABP4
+T31	Gene-Protein 623 628	ITGB6
+T32	Biomarker 637 658	CTBP1-high expression
+T33	Gene-Protein 637 642	CTBP1
+T34	Gene-Protein 687 692	CTBP1
+T35	Gene-Protein 733 738	ITGB6
+T36	Gene-Protein 817 822	CTBP1
+T37	Gene-Protein 864 872	Vimentin
+#7	AnnotatorNotes T37	HGNC:12692
+T38	Gene-Protein 877 881	Slug
+#8	AnnotatorNotes T38	HGNC:11094
+T39	Biomarker 903 926	integrins dysregulation
+T40	GeneFamily 903 912	integrins
+#9	AnnotatorNotes T40	family:597
+R2	Association Arg1:T39 Arg2:T14	
+T41	Gene-Protein 1139 1144	ITGB4
+T42	Biomarker 1139 1144	ITGB4
+#10	AnnotatorNotes T42	C059834
+R3	Association Arg1:T42 Arg2:T16	
+T43	Gene-Protein 1279 1287	Vimentin
+T44	Biomarker 1279 1287	Vimentin
+#13	AnnotatorNotes T44	D014746
+R4	Association Arg1:T44 Arg2:T18	
+T45	Gene-Protein 1387 1392	CTBP1
+T46	Biomarker 1387 1392	CTBP1
+R5	Association Arg1:T46 Arg2:T20	
+T47	Biomarker 1482 1487	ITGB4
+T48	Collection 1447 1487	Vimentin and its downstream target ITGB4
+R6	Association Arg1:T48 Arg2:T20	
+T49	Gene-Protein 1447 1455	Vimentin
+T50	Gene-Protein 1482 1487	ITGB4
+T51	Gene-Protein 1495 1500	ITGB6
+T25	Collection 1583 1611	cancer types, including BrCa
+T52	Biomarker 1495 1500	ITGB6
+R7	Association Arg1:T52 Arg2:T25	
+T53	Biomarker 1664 1692	CTBP1 hyperactivation by MeS
+R8	Association Arg1:T53 Arg2:T28	
+T27	Gene-Protein 1664 1669	CTBP1
+#11	AnnotatorNotes T19	HGNC:6158
+#12	AnnotatorNotes T22	HGNC:9483
+#14	AnnotatorNotes T26	HGNC:2194
+#15	AnnotatorNotes T30	HGNC:3559
+#16	AnnotatorNotes T31	HGNC:6161
+#18	AnnotatorNotes T52	C072170

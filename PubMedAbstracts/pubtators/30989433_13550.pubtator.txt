@@ -1,0 +1,109 @@
+30989433_13550|t|RSS_IDENT_s_30989433_b_1_3_4
+30989433_13550|a| Mutational analysis From the 42 HAS patients, 24 patients with histologically typical cases were enrolled for NGS. Additionally, we randomly chose 22 clinical parameter-matched patients with common gastric adenocarcinoma (common gastric cancer; CGC) for NGS. The genetic alterations identified are summarized in supplementary Table 3. We next aimed to investigate the genomic differences between HAS and CGC patients sharing similar clinicopathologic parameters. Among the 24 HAS and 22 CGC sample sequencing results, 1 CGC sample was detected as microsatellite instability high (MSI-H) and 1 HAS and 3 CGC samples had insufficient DNA for analysis, leaving 23 and 18 patients in the HAS and CGC groups, respectively, for NGS analysis. The matched clinicopathological parameters of the two groups are summarized in Supplementary Table 4. Normal tissue adjacent to the tumour (NAT) is commonly used as a control in cancer studies [ 14 , 15 ], so we did so in our study. After filtering shared mutations found in both tumour tissue and NAT, we identified 167 mutations in 94 genes and 168 mutations in 101 genes in HAS and CGC tumour tissues, respectively. The most frequently mutated gene in both HAS and CGC tumour samples was TP53, consistent with previous reports and the TCGA database [ 10 , 16 ]. A total of 7 of the 23 (30.4%) HAS patients and 6 of the 18 (33.3%) CGC patients harboured TP53 mutations. In addition to TP53, CEBPA, RPTOR, WISP3, MARK1, and CD3EAP were detected as high-frequency mutations in HAS (10–20%). In contrast, NF2, C8orf34, NKX2-1, GPR124, FANCA, EPHA7, and CCND2 mutations were detected more frequently in CGC (10–20%). The frequencies of the mutation sites are listed in Table 1. Table 1 High-frequency mutations identified by NGS in HAS Gene Frequency in HAS (n = 24) Frequency in TCGA Case Mutation sites in HAS TP53 7 (30.4%) 48.0% 3 c.675_677del:p.225_226del 6 c.G679C:p.G227R 8 c.G898T:p.E300X 9 c.647_649del:p.216_217del 9 c.647delT:p.I216 fs 14 c.G703T:p.V235F 18 c.443-1G > A 19 c.C551T:p.P184 L CEBPA 5 (21.7%) 0% 3 c.311_313del:p.104_105del 15 c.563_564insCTC:p.P188delinsPS 16 c.311_313del:p.104_105del 17 c.311_313del:p.104_105del 22 c.311_313del:p.104_105del RPTOR 3 (13.0%) 4.0% 9 c.A2272T:p.N758Y 16 c.G2780A:p.R927Q 19 c.C1706T:p.P569 L WISP3 2 (8.7%) 0.7% 9 c.T491A:p.V164E 22 c.C181T:p.Q61X MARK1 2 (8.7%) 2.1% 11 c.G131A:p.R44 K 23 c.G1714A:p.G572S CD3EAP 2 (8.7%) 2.4% 8 c.G522C:p.K174 N 10 c.C833T:p.P278L
+30989433_13550	62	65	HAS	Disease	not found
+30989433_13550	228	250	gastric adenocarcinoma	Disease	DOID:3717
+30989433_13550	252	273	common gastric cancer	Disease	DOID:10534
+30989433_13550	275	278	CGC	Disease	DOID:10534
+30989433_13550	426	429	HAS	Disease
+30989433_13550	434	437	CGC	Disease
+30989433_13550	506	509	HAS	Disease
+30989433_13550	517	520	CGC	Disease
+30989433_13550	550	553	CGC	Disease
+30989433_13550	577	608	microsatellite instability high	Biomarker
+30989433_13550	623	626	HAS	Disease
+30989433_13550	633	636	CGC	Disease
+30989433_13550	714	717	HAS	Disease
+30989433_13550	722	725	CGC	Disease
+30989433_13550	898	904	tumour	Disease	DOID:162
+30989433_13550	944	950	cancer	Disease	DOID:162
+30989433_13550	1046	1052	tumour	Disease
+30989433_13550	1143	1146	HAS	Disease
+30989433_13550	1151	1154	CGC	Disease
+30989433_13550	1155	1161	tumour	Disease
+30989433_13550	1226	1229	HAS	Disease
+30989433_13550	1226	1237	HAS and CGC	Collection
+30989433_13550	1234	1237	CGC	Disease
+30989433_13550	1238	1244	tumour	Disease	DOID:162
+30989433_13550	1257	1261	TP53	Gene-protein	HGNC:11998
+30989433_13550	1257	1261	TP53	Biomarker	C495901
+30989433_13550	1362	1365	HAS	Disease
+30989433_13550	1362	1402	HAS patients and 6 of the 18 (33.3%) CGC	Collection
+30989433_13550	1399	1402	CGC	Disease
+30989433_13550	1422	1426	TP53	Gene-protein
+30989433_13550	1422	1436	TP53 mutations	Biomarker
+30989433_13550	1453	1457	TP53	Gene-protein
+30989433_13550	1453	1539	TP53, CEBPA, RPTOR, WISP3, MARK1, and CD3EAP were detected as high-frequency mutations	Biomarker
+30989433_13550	1459	1464	CEBPA	Gene-protein	HGNC:1833
+30989433_13550	1466	1471	RPTOR	Gene-protein	HGNC:30287
+30989433_13550	1473	1478	WISP3	Gene-protein	HGNC:12771
+30989433_13550	1480	1485	MARK1	Gene-protein	HGNC:6896
+30989433_13550	1491	1497	CD3EAP	Gene-protein	HGNC:24219
+30989433_13550	1543	1546	HAS	Disease
+30989433_13550	1570	1573	NF2	Gene-protein	HGNC:7773
+30989433_13550	1570	1633	NF2, C8orf34, NKX2-1, GPR124, FANCA, EPHA7, and CCND2 mutations	Biomarker
+30989433_13550	1575	1582	C8orf34	Gene-protein	HGNC:30905
+30989433_13550	1584	1590	NKX2-1	Gene-protein	HGNC:11825
+30989433_13550	1592	1598	GPR124	Gene-protein	HGNC:17849
+30989433_13550	1600	1605	FANCA	Gene-protein	HGNC:3582
+30989433_13550	1607	1612	EPHA7	Gene-protein	HGNC:3390
+30989433_13550	1618	1623	CCND2	Gene-protein	HGNC:1583
+30989433_13550	1667	1670	CGC	Disease
+30989433_13550	1796	1799	HAS	Disease
+30989433_13550	1818	1821	HAS	Disease
+30989433_13550	1872	1875	HAS	Disease
+30989433_13550	1876	1880	TP53	Gene-protein
+30989433_13550	1899	1911	c.675_677del	Variant
+30989433_13550	1899	2065	c.675_677del:p.225_226del 6 c.G679C:p.G227R 8 c.G898T:p.E300X 9 c.647_649del:p.216_217del 9 c.647delT:p.I216 fs 14 c.G703T:p.V235F 18 c.443-1G > A 19 c.C551T:p.P184 L	Collection
+30989433_13550	1912	1924	p.225_226del	Variant
+30989433_13550	1927	1934	c.G679C	Variant
+30989433_13550	1935	1942	p.G227R	Variant	p.Gly227Arg
+30989433_13550	1945	1952	c.G898T	Variant
+30989433_13550	1953	1960	p.E300X	Variant	p.Glu300Xaa
+30989433_13550	1963	1975	c.647_649del	Variant
+30989433_13550	1976	1988	p.216_217del	Variant
+30989433_13550	1991	2000	c.647delT	Variant
+30989433_13550	2001	2010	p.I216 fs	Variant	p.Ile216fs
+30989433_13550	2014	2021	c.G703T	Variant
+30989433_13550	2022	2029	p.V235F	Variant	p.Val235Phe
+30989433_13550	2033	2045	c.443-1G > A	Variant
+30989433_13550	2049	2056	c.C551T	Variant
+30989433_13550	2057	2065	p.P184 L	Variant	p.Pro184Leu
+30989433_13550	2066	2071	CEBPA	Gene-protein
+30989433_13550	2087	2099	c.311_313del	Variant
+30989433_13550	2087	2233	c.311_313del:p.104_105del 15 c.563_564insCTC:p.P188delinsPS 16 c.311_313del:p.104_105del 17 c.311_313del:p.104_105del 22 c.311_313del:p.104_105del	Collection
+30989433_13550	2100	2112	p.104_105del	Variant
+30989433_13550	2116	2131	c.563_564insCTC	Variant
+30989433_13550	2132	2146	p.P188delinsPS	Variant	p.Pro188delinsProSer
+30989433_13550	2150	2162	c.311_313del	Variant
+30989433_13550	2163	2175	p.104_105del	Variant
+30989433_13550	2179	2191	c.311_313del	Variant
+30989433_13550	2192	2204	p.104_105del	Variant
+30989433_13550	2208	2220	c.311_313del	Variant
+30989433_13550	2221	2233	p.104_105del	Variant
+30989433_13550	2234	2239	RPTOR	Gene-protein
+30989433_13550	2257	2265	c.A2272T	Variant
+30989433_13550	2257	2314	c.A2272T:p.N758Y 16 c.G2780A:p.R927Q 19 c.C1706T:p.P569 L	Collection
+30989433_13550	2266	2273	p.N758Y	Variant	p.Asn758Tyr
+30989433_13550	2277	2285	c.G2780A	Variant
+30989433_13550	2286	2293	p.R927Q	Variant	p.Arg927Gln
+30989433_13550	2297	2305	c.C1706T	Variant
+30989433_13550	2306	2314	p.P569 L	Variant	p.Pro569Leu
+30989433_13550	2315	2320	WISP3	Gene-protein
+30989433_13550	2337	2344	c.T491A	Variant
+30989433_13550	2337	2370	c.T491A:p.V164E 22 c.C181T:p.Q61X	Collection
+30989433_13550	2345	2352	p.V164E	Variant	p.Val164Glu
+30989433_13550	2356	2363	c.C181T	Variant
+30989433_13550	2364	2370	p.Q61X	Variant	p.Gln61Xaa
+30989433_13550	2371	2376	MARK1	Gene-protein
+30989433_13550	2394	2401	c.G131A	Variant
+30989433_13550	2394	2429	c.G131A:p.R44 K 23 c.G1714A:p.G572S	Collection
+30989433_13550	2402	2409	p.R44 K	Variant	p.Arg44Lys
+30989433_13550	2413	2421	c.G1714A	Variant
+30989433_13550	2422	2429	p.G572S	Variant	p.Gly572Ser
+30989433_13550	2430	2436	CD3EAP	Gene-protein
+30989433_13550	2453	2460	c.G522C	Variant
+30989433_13550	2453	2488	c.G522C:p.K174 N 10 c.C833T:p.P278L	Collection
+30989433_13550	2461	2469	p.K174 N	Variant	p.Lys174Asn
+30989433_13550	2473	2480	c.C833T	Variant
+30989433_13550	2481	2488	p.P278L	Variant	p.Pro278Leu
+

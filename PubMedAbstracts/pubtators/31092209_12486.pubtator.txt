@@ -1,0 +1,56 @@
+31092209_12486|t|RSS_IDENT_p_31092209_b_1_3_4
+31092209_12486|a| Genetic detection of the patient indicated ApoE ε4 homozygosity and a variant in SORL1 (chromosome11, c.4901A>T) (Fig. 2), which was fairly rare in the normal population. Strong support for a causal involvement in neurodegenerative disease came with genetic studies associating SORL1 gene variants with the occurrence of sporadic AD [ 13 ]. SORL1 encodes a 250-kDa protein named sorting protein-related receptor with A-type repeats (SorLA), decreasing production and deposition of Aβ peptide as a proposed modulator of amyloid precursor protein (APP) processing [ 13 , 18 ]. Aβ levels are mainly determined by the kinetic of SorLA and APP interaction according to the mathematic model which supports the fact that APP sorting pathway is a very important factor in defining the risk of AD [ 13 , 19 , 20 ]. CAA-ri is thought to result from an inflammatory response to Aβ protein in the blood vessel walls [ 5 ]. Spontaneous ARIA and CAA-ri have also been described in familial forms of AD (FAD), i.e., in β-amyloid protein precursor -amyloid protein precursor (AβPP) duplication carriers [ 21 ], in presenilin 1-associated FAD (I202F PSEN1 mutation) [ 12 ], and in two siblings carrying the P284S PSEN1 mutation [ 22 ]. Thus, SORL1 may be associated with CAA-ri. A variant in SORL1 may give rise to the risk of CAA-ri via immune response to Aβ excessive deposition. ApoE ε4 homozygosity known to associate with increased burden of Aβ deposition in vessels [ 11 ] is strongly associated with CAA-ri [ 4 , 5 , 12 ] and may potentiate the intense inflammatory response [ 23 ]. Investigation of the degree of CAA-ri and inflammation in SORL1 mutation with ApoE ε4 homozygosity would be an interesting avenue for future research. 
+31092209_12486	73	77	ApoE	Gene-protein	HGNC:613
+31092209_12486	73	93	ApoE ε4 homozygosity	Biomarker
+31092209_12486	111	116	SORL1	Gene-protein	HGNC:11185
+31092209_12486	132	141	c.4901A>T	Variant
+31092209_12486	244	269	neurodegenerative disease	Disease	DOID:1289
+31092209_12486	308	313	SORL1	Gene-protein
+31092209_12486	308	327	SORL1 gene variants	Biomarker
+31092209_12486	360	362	AD	Disease	DOID:10652
+31092209_12486	371	376	SORL1	Gene-protein
+31092209_12486	409	461	sorting protein-related receptor with A-type repeats	Gene-protein	HGNC:11185
+31092209_12486	463	468	SorLA	Gene-protein	HGNC:11185
+31092209_12486	511	513	Aβ	Gene-protein	not found
+31092209_12486	549	574	amyloid precursor protein	Gene-protein	 HGNC:620
+31092209_12486	576	579	APP	Gene-protein	 HGNC:620
+31092209_12486	605	607	Aβ	Gene-protein
+31092209_12486	655	660	SorLA	Gene-protein
+31092209_12486	665	668	APP	Gene-protein
+31092209_12486	744	747	APP	Gene-protein
+31092209_12486	744	763	APP sorting pathway	Biomarker
+31092209_12486	815	817	AD	Disease	DOID:10652
+31092209_12486	836	842	CAA-ri	Disease	not found
+31092209_12486	897	899	Aβ	Gene-protein
+31092209_12486	941	968	Spontaneous ARIA and CAA-ri	Biomarker
+31092209_12486	997	1017	familial forms of AD	Disease	D000544
+31092209_12486	1019	1022	FAD	Disease	D000544
+31092209_12486	1034	1061	β-amyloid protein precursor	Gene-protein	HGNC:620
+31092209_12486	1034	1107	β-amyloid protein precursor -amyloid protein precursor (AβPP) duplication	Biomarker
+31092209_12486	1063	1088	amyloid protein precursor	Gene-protein
+31092209_12486	1090	1094	AβPP	Gene-protein	HGNC:620
+31092209_12486	1128	1140	presenilin 1	Gene-protein	HGNC:9508
+31092209_12486	1128	1155	presenilin 1-associated FAD	Disease	not found
+31092209_12486	1157	1162	I202F	Variant	p.Ile202Phe
+31092209_12486	1157	1231	I202F PSEN1 mutation) [ 12 ], and in two siblings carrying the P284S PSEN1	Collection
+31092209_12486	1163	1168	PSEN1	Gene-protein	HGNC:9508
+31092209_12486	1220	1225	P284S	Variant	p.Pro248Ser
+31092209_12486	1226	1231	PSEN1	Gene-protein
+31092209_12486	1255	1260	SORL1	Gene-protein
+31092209_12486	1255	1260	SORL1	Biomarker	C102582
+31092209_12486	1284	1290	CAA-ri	Disease
+31092209_12486	1294	1310	variant in SORL1	Biomarker
+31092209_12486	1305	1310	SORL1	Gene-protein
+31092209_12486	1340	1346	CAA-ri	Disease	DOID:0110198|DOID:0110201
+31092209_12486	1370	1372	Aβ	Gene-protein
+31092209_12486	1395	1399	ApoE	Gene-protein
+31092209_12486	1395	1415	ApoE ε4 homozygosity	Biomarker
+31092209_12486	1460	1462	Aβ	Gene-protein
+31092209_12486	1520	1526	CAA-ri	Disease
+31092209_12486	1634	1640	CAA-ri	Disease
+31092209_12486	1634	1657	CAA-ri and inflammation	Collection
+31092209_12486	1645	1657	inflammation	Disease	D007249
+31092209_12486	1661	1666	SORL1	Gene-protein
+31092209_12486	1661	1701	SORL1 mutation with ApoE ε4 homozygosity	Biomarker	Conjunction
+31092209_12486	1681	1685	ApoE	Gene-protein
+

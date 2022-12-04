@@ -1,0 +1,67 @@
+T0	Disease 222 229	cancers
+#1	AnnotatorNotes T0	DOID:162
+T10	Disease 824 831	cancers
+#2	AnnotatorNotes T10	DOID:162
+T11	Disease 843 851	melanoma
+#3	AnnotatorNotes T11	DOID:1909
+T12	Disease 860 874	bladder cancer
+#4	AnnotatorNotes T12	DOID:11054
+T13	Disease 883 894	oral cancer
+#5	AnnotatorNotes T13	DOID:8618
+T14	Disease 903 914	lung cancer
+#6	AnnotatorNotes T14	DOID:1324
+T15	Disease 916 928	colon cancer
+#7	AnnotatorNotes T15	DOID:219
+T16	Disease 934 947	breast cancer
+#8	AnnotatorNotes T16	DOID:1612
+T17	Disease 1020 1026	tumors
+#9	AnnotatorNotes T17	DOID:162
+T2	Chemical 324 328	Ca²⁺
+T21	Disease 1294 1296	PC
+T22	Disease 1455 1457	PC
+T23	Disease 1575 1577	PC
+T5	Disease 545 560	prostate cancer
+#15	AnnotatorNotes T5	DOID:10283
+T7	Disease 622 637	prostate cancer
+T8	Disease 695 710	prostate cancer
+T1	GeneFamily 44 87	transient receptor potential (TRP) channels
+#10	AnnotatorNotes T1	family:249
+T4	GeneFamily 257 260	TRP
+#11	AnnotatorNotes T4	family:249
+T6	Gene-Protein 312 317	TRPM8
+#12	AnnotatorNotes T6	HGNC:17961
+T9	Gene-Protein 269 310	transient receptor potential melastatin 8
+#13	AnnotatorNotes T9	HGNC:17961
+T18	Gene-Protein 460 465	TRPM8
+T19	Gene-Protein 479 485	trp-p8
+#14	AnnotatorNotes T19	HGNC:17961
+T3	Gene-Protein 770 775	TRPM8
+T20	Gene-Protein 1058 1063	TRPM8
+T24	Gene-Protein 1332 1337	TRPM8
+T25	Gene-Protein 1010 1015	TRPM8
+T26	Gene-Protein 603 608	TRPM8
+T27	Gene-Protein 1129 1134	TRPM8
+T28	Gene-Protein 1262 1267	TRPM8
+T29	Gene-Protein 1540 1545	TRPM8
+T30	Biomarker 1540 1545	TRPM8
+T31	Biomarker 460 541	TRPM8 was known as trp-p8 and has been identified to have a high expression level
+R1	Association Arg1:T31 Arg2:T5	
+R2	Association Arg1:T30 Arg2:T23	
+T33	Biomarker 1306 1337	aberrantly over-expressed TRPM8
+T34	Biomarker 579 608	increased expression of TRPM8
+R4	Association Arg1:T33 Arg2:T21	
+R5	Association Arg1:T34 Arg2:T7	
+T35	Collection 824 947	cancers, including melanoma [ 20 ], bladder cancer [ 21 ], oral cancer [ 22 ], lung cancer, colon cancer, and breast cancer
+T36	Biomarker 770 775	TRPM8
+R6	Association Arg1:T36 Arg2:T35	
+T37	Biomarker 1039 1063	high expression of TRPM8
+R7	Prognostic-Poor Arg1:T37 Arg2:T17	
+T39	Biomarker 44 87	transient receptor potential (TRP) channels
+R9	Association Arg1:T39 Arg2:T0	
+#16	AnnotatorNotes T39	D050051
+T40	GeneFamily 324 353	Ca²⁺-permeable cation channel
+#17	AnnotatorNotes T40	not found
+#18	AnnotatorNotes T36	C425966
+T32	Biomarker 1262 1290	TRPM8 expression is elevated
+R3	Association Arg1:T32 Arg2:T21	
+#20	AnnotatorNotes T21	DOID:10283

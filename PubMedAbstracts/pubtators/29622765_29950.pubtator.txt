@@ -1,0 +1,46 @@
+29622765_29950|t|RSS_IDENT_p_29622765_b_1_4_6
+29622765_29950|a| Mutational signature analysis also revealed unique features. N3 tumors preferentially had mutation signature 17 with frequent T > C and T > G mutations at the CpTpT site, but the N0 tumors did not. Recurrent T > G mutations at TpT dinucleotides converting CpTpT to CpGpT have been found in esophageal adenocarcinomas ⁴² and GCs ¹¹ . We also identified significantly deleterious mutations (SDMs) including some in previously known cancer genes (e.g., TP53, ARID1A, NCOR2, and RHOA). Frequent mutations of TP53 have been shown in DGCs. ARID1A, encoding a member of the SWI-SNF chromatin remodeling family, has been suggested to act as a tumor-suppressor gene by regulating the cell cycle or promoting apoptosis in various cancers ⁴³ . Recently, inactivating mutations or protein deficiency of ARID1A have frequently been observed in gastric cancers ²⁹ , ⁴⁴ . In addition, a mutation of DYNC2H1 was newly identified as an N3-specific SDM. Mutations of DYNC2H1 have been associated with the progression of fibromuscular dysplasia ⁴⁵ and short-rib polydactyly syndrome; ⁴⁶ however, its cancer-related functions have not been elaborated thoroughly. In addition, an integrated analysis of our data and the TCGA data identified additional N3-specific recurrent mutations (i.e., TP53 and FAT4). FAT4, a cadherin-related protein, has been proposed to have a tumor-suppressor role, and its mutation has been noticed in GC. Silencing of FAT4 promoted cell proliferation, invasion, and migration in GC cells ²⁸ , ⁴⁷ , ⁴⁸ . Moreover, the downregulation of FAT4 expression has been associated with lymph node metastasis and poor survival in GC patients ²⁸ . We suggest that these differential mutations between N0 and N3 tumors may play crucial roles in DGC progression; thus, they warrant further elucidation. 
+29622765_29950	91	100	N3 tumors	Disease	not found
+29622765_29950	120	199	mutation signature 17 with frequent T > C and T > G mutations at the CpTpT site	Biomarker
+29622765_29950	209	218	N0 tumors	Disease	not found
+29622765_29950	228	300	Recurrent T > G mutations at TpT dinucleotides converting CpTpT to CpGpT	Biomarker
+29622765_29950	320	346	esophageal adenocarcinomas	Disease	DOID:4914
+29622765_29950	320	357	esophageal adenocarcinomas ⁴² and GCs	Collection
+29622765_29950	354	357	GCs	Disease	DOID:10534
+29622765_29950	382	417	significantly deleterious mutations	Variant
+29622765_29950	460	466	cancer	Disease	DOID:162
+29622765_29950	480	484	TP53	Gene-protein	 HGNC:11998
+29622765_29950	480	509	TP53, ARID1A, NCOR2, and RHOA	Collection
+29622765_29950	486	492	ARID1A	Gene-protein	HGNC:11110
+29622765_29950	494	499	NCOR2	Gene-protein	HGNC:7673
+29622765_29950	505	509	RHOA	Gene-protein	HGNC:667
+29622765_29950	512	538	Frequent mutations of TP53	Biomarker
+29622765_29950	534	538	TP53	Gene-protein
+29622765_29950	558	562	DGCs	Disease	DOID:0080763
+29622765_29950	564	570	ARID1A	Gene-protein
+29622765_29950	564	570	ARID1A	Drug	C112476
+29622765_29950	750	757	cancers	Disease	DOID:162
+29622765_29950	773	827	inactivating mutations or protein deficiency of ARID1A	Biomarker
+29622765_29950	821	827	ARID1A	Gene-protein	HGNC:11110
+29622765_29950	861	876	gastric cancers	Disease	DOID:10534
+29622765_29950	902	921	mutation of DYNC2H1	Biomarker
+29622765_29950	914	921	DYNC2H1	Gene-protein	HGNC:2962
+29622765_29950	966	986	Mutations of DYNC2H1	Biomarker
+29622765_29950	979	986	DYNC2H1	Gene-protein
+29622765_29950	1032	1055	fibromuscular dysplasia	Disease	D005352
+29622765_29950	1032	1093	fibromuscular dysplasia ⁴⁵ and short-rib polydactyly syndrome	Collection
+29622765_29950	1063	1093	short-rib polydactyly syndrome	Disease	 D012779
+29622765_29950	1111	1117	cancer	Disease
+29622765_29950	1300	1304	TP53	Gene-protein
+29622765_29950	1309	1313	FAT4	Gene-protein	HGNC:23109
+29622765_29950	1316	1320	FAT4	Gene-protein
+29622765_29950	1316	1320	FAT4	Biomarker	C534294
+29622765_29950	1438	1440	GC	Disease	DOID:10534
+29622765_29950	1455	1459	FAT4	Gene-protein
+29622765_29950	1516	1518	GC	Disease
+29622765_29950	1554	1587	downregulation of FAT4 expression	Biomarker
+29622765_29950	1572	1576	FAT4	Gene-protein
+29622765_29950	1656	1658	GC	Disease
+29622765_29950	1695	1742	differential mutations between N0 and N3 tumors	Biomarker
+29622765_29950	1769	1772	DGC	Disease	DOID:0080763
+

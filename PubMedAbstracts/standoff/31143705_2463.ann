@@ -1,0 +1,84 @@
+T1	Chemical 30 48	N⁶-methyladenosine
+T10	Gene-Protein 997 1000	FTO
+T11	Gene-Protein 1143 1146	FTO
+T13	Disease 1174 1181	cancers
+#4	AnnotatorNotes T13	DOID:162
+T14	Gene-Protein 1222 1225	FTO
+T15	Disease 1249 1257	leukemic
+#6	AnnotatorNotes T15	DOID:1240
+T17	Disease 1320 1323	AML
+#8	AnnotatorNotes T17	DOID:9119
+T18	Gene-Protein 1382 1386	RARA
+T19	Chemical 1438 1458	R-2-hydroxyglutarate
+T2	Biomarker 30 48	N⁶-methyladenosine
+T20	Chemical 1460 1465	R-2HG
+T21	Biomarker 1471 1484	IDH mutations
+T22	Gene-Protein 1514 1517	FTO
+T23	Gene-Protein 1531 1534	FTO
+T25	Disease 1614 1646	cervical squamous cell carcinoma
+#15	AnnotatorNotes T25	DOID:3744
+T26	Disease 1648 1652	CSCC
+T27	Biomarker 1679 1700	overexpression of FTO
+T28	Gene-Protein 1697 1700	FTO
+T29	Disease 1713 1726	breast cancer
+#18	AnnotatorNotes T29	DOID:1612
+T3	Chemical 50 53	m⁶A
+T30	Disease 1731 1745	gastric cancer
+#20	AnnotatorNotes T30	DOID:10534
+T31	Gene-Protein 1798 1801	FTO
+T32	Disease 1868 1874	cancer
+#22	AnnotatorNotes T32	DOID:162
+T4	Disease 150 155	tumor
+#23	AnnotatorNotes T4	DOID:162
+T5	Gene-Protein 788 791	FTO
+T6	Gene-Protein 870 873	FTO
+T7	Chemical 943 949	Fe(II)
+T8	Chemical 950 965	α-ketoglutarate
+T9	Chemical 976 988	dioxygenases
+T33	Gene-Protein 423 429	METTL3
+T34	Gene-Protein 431 438	METTL14
+T35	Gene-Protein 440 444	WTAP
+T36	Gene-Protein 446 451	CBLL1
+T37	Gene-Protein 453 458	RBM15
+T38	Gene-Protein 460 466	ZC3H13
+T39	Gene-Protein 472 477	VIRMA
+T40	Gene-Protein 576 584	YTHDF1-3
+T41	Gene-Protein 586 592	YTHDC1
+T42	Gene-Protein 594 601	IGF2BPs
+T43	Gene-Protein 607 611	eIF3
+R1	Association Arg1:T2 Arg2:T4	
+T44	Gene-Protein 248 265	methyltransferase
+T45	Chemical 180 183	m⁶A
+T46	Chemical 267 270	m⁶A
+T47	GeneFamily 307 318	demethylase
+T48	Chemical 283 286	m⁶A
+T49	Chemical 389 392	m⁶A
+T50	Chemical 553 556	m⁶A
+T51	Chemical 627 630	m⁶A
+T52	Chemical 773 776	m⁶A
+T53	Gene-Protein 796 802	ALKBH5
+T54	Chemical 810 813	m⁶A
+T55	Gene-Protein 896 911	m⁶A demethylase
+T56	Chemical 896 899	m⁶A
+T57	GeneFamily 928 932	AlkB
+T58	GeneFamily 943 988	Fe(II)/α-ketoglutarate-dependent dioxygenases
+T59	Chemical 1048 1051	m⁶A
+T60	Chemical 1056 1060	m⁶Aₘ
+T61	Chemical 1090 1093	m¹A
+T16	Gene-Protein 1372 1376	ASB2
+T62	Collection 1249 1323	leukemic cell proliferation, transformation, leukemogenesis, curtailed AML
+T63	GeneFamily 1471 1474	IDH
+T24	Drug-Class 1581 1599	chemo-radiotherapy
+T64	Chemical 1548 1551	m⁶A
+T65	GeneFamily 1557 1566	β-catenin
+#1	AnnotatorNotes T26	DOID:3744
+T66	Collection 1713 1745	breast cancer and gastric cancer
+R3	Association Arg1:T27 Arg2:T66	
+T67	Biomarker 1222 1225	FTO
+R4	Association Arg1:T67 Arg2:T62	
+T68	Biomarker 1531 1534	FTO
+R5	Mediated-Non-Response Arg1:T24 Arg2:T25	
+R6	Mediator Arg1:T24 Arg2:T68	
+T69	Biomarker 1798 1801	FTO
+R7	Association Arg1:T69 Arg2:T32	
+#2	AnnotatorNotes T67	D000071516

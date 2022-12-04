@@ -1,0 +1,53 @@
+30547804_4491|t|RSS_IDENT_p_30547804_b_1_1_4
+30547804_4491|a| Glycosylation exists widely in cell biological procession. O-glycosylation is essential for diverse biologic procession. However, abnormal O-glycosylation induces invasion, metastasis and recurrence of tumor [ 12 ]. The UDP-N-acetyl-α-D-galactosamine: poly peptide-N-acetylgalactosaminyltransferase family catalyzes the initial O-linked glycosylation [ 13 ]. As a member of this family, GALNT2 is identified as an important regulator in hepatocelluar carcinoma [ 14 ] and oral carcinoma [ 15 ]. Abberant expression of GALNT3 contributes to tumor progression of lung cancer [ 16 ], gastric carcinoma [ 17 ] and CRC [ 18 ]. GALNT6 exhibits a critical role in the procession of breast cancer [ 19 ]. Moreover, the GALNT family catalyzes the active polypeptide during the formation of O-glycosylation on various proteins, including mucins [ 20 ]. Mucins are transmembrane glycoproteins majorly on the glandular or luminal epithelial cell surface, which carries plenty of O-linked glycans. Mucin1 (MUC1) exists as a heterodimeric transmembrane protein, and the aberrantly expression engages in the multiple disease evolution, including tumorigenesis. Abnormal MUC1 showed closely association with pancreatic cancer progression [ 21 ]. MUC1 was also identified as a pivotal issue for liver metastasis of CRC [ 22 ]. An overall perspective showed that GALNT3 functioned as the key enzyme catalyzed the O-glycosylated MUC1 in epithelial ovarian cancer progression [ 23 ]. However, the exactly molecular mechanism that linc01296/miR-26a/GALNT3 crosstalk mediated the CRC progression and clinical prognosis, via modifying O-glycosylated MUC1, remained unknown.
+30547804_4491	89	90	O	Chemical
+30547804_4491	160	184	abnormal O-glycosylation	Biomarker
+30547804_4491	169	170	O	Chemical
+30547804_4491	232	237	tumor	Disease	DOID:162
+30547804_4491	250	253	UDP	Chemical
+30547804_4491	254	280	N-acetyl-α-D-galactosamine	Chemical
+30547804_4491	282	328	poly peptide-N-acetylgalactosaminyltransferase	Genefamily	family:433
+30547804_4491	358	359	O	Chemical
+30547804_4491	417	423	GALNT2	Biomarker	C023218
+30547804_4491	417	423	GALNT2	Gene-protein	HGNC:4124
+30547804_4491	467	490	hepatocelluar carcinoma	Disease	DOID:305
+30547804_4491	467	516	hepatocelluar carcinoma [ 14 ] and oral carcinoma	Collection
+30547804_4491	502	516	oral carcinoma	Disease	DOID:0050866
+30547804_4491	525	554	Abberant expression of GALNT3	Biomarker
+30547804_4491	548	554	GALNT3	Gene-protein	HGNC:4125
+30547804_4491	570	575	tumor	Disease
+30547804_4491	570	643	tumor progression of lung cancer [ 16 ], gastric carcinoma [ 17 ] and CRC	Collection
+30547804_4491	591	602	lung cancer	Disease	DOID:1324
+30547804_4491	611	628	gastric carcinoma	Disease	DOID:5517
+30547804_4491	640	643	CRC	Disease	DOID:9256
+30547804_4491	652	658	GALNT6	Biomarker	C023218
+30547804_4491	652	658	GALNT6	Gene-protein	HGNC:4128
+30547804_4491	705	718	breast cancer	Disease	DOID:1612
+30547804_4491	741	746	GALNT	Genefamily	family:433
+30547804_4491	811	812	O	Chemical
+30547804_4491	858	864	mucins	Genefamily	family:648
+30547804_4491	873	879	Mucins	Genefamily	family:648
+30547804_4491	997	998	O	Chemical
+30547804_4491	1015	1021	Mucin1	Gene-protein	 HGNC:7508
+30547804_4491	1015	1107	Mucin1 (MUC1) exists as a heterodimeric transmembrane protein, and the aberrantly expression	Biomarker
+30547804_4491	1023	1027	MUC1	Gene-protein	 HGNC:7508
+30547804_4491	1161	1174	tumorigenesis	Disease	DOID:162
+30547804_4491	1176	1189	Abnormal MUC1	Biomarker
+30547804_4491	1185	1189	MUC1	Gene-protein
+30547804_4491	1222	1239	pancreatic cancer	Disease	DOID:1793
+30547804_4491	1260	1264	MUC1	Biomarker	D018396
+30547804_4491	1260	1264	MUC1	Gene-protein
+30547804_4491	1328	1331	CRC	Disease
+30547804_4491	1375	1381	GALNT3	Gene-protein
+30547804_4491	1375	1381	GALNT3	Biomarker	C023218
+30547804_4491	1425	1426	O	Chemical
+30547804_4491	1440	1444	MUC1	Gene-protein
+30547804_4491	1448	1473	epithelial ovarian cancer	Disease	DOID:2152
+30547804_4491	1540	1549	linc01296	Rna-noncoding	HGNC:32188
+30547804_4491	1540	1574	linc01296/miR-26a/GALNT3 crosstalk	Biomarker
+30547804_4491	1550	1557	miR-26a	Rna-noncoding	HGNC:31610
+30547804_4491	1558	1564	GALNT3	Gene-protein
+30547804_4491	1588	1591	CRC	Disease
+30547804_4491	1642	1643	O	Chemical
+30547804_4491	1657	1661	MUC1	Gene-protein
+

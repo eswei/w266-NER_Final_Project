@@ -1,0 +1,118 @@
+30992170_5957|t|RSS_IDENT_s_30992170_b_1_2_4
+30992170_5957|a| 2.2 Protein immunoprecipitation (IPP) IPP using [³⁵S]-methionine labelled K562 cell extract was completed as described previously [ 11 , 12 ] to detect autoantibodies against 23 known autoantigens listed in Table 2. Autoantibodies to Ro52 (TRIM-21), 3-hydroxy-3-methylglutaryl-coenzyme A reductase (HMGCR) and cytosolic 5’-nucleotidase 1A could not reliably be detected by this method and were therefore omitted from the analysis. Table 2 Autoantibody Frequency and co-existence with another autoantibody in the total cohort of 1673 patients. Table 2 Autoantigen specificity¹ Autoantibody frequency n (%) Co-Existing Autoantibody None MSA MAA Jo-1 PL7 PL12 EJ OJ KS Zo Ha SRP Mi-2 MDA5 NXP2 TIF1 SAE PMScl Ku Ro60 La snRNP Other Jo-1 306 (18.7) 245 1 4 38 13 15 5 PL7 22 (1.3) 57 (3.5) 20 2 PL12 12 (0.7) 10 1 1 EJ 5 (0.3) 2 1 2 OJ 10 (0.6) 7 (1) 1 2 KS 3 (0.2) 1 1 1 Zo 5 (0.3) 5 Ha 0 (0.0) 0 SRP 39 (2.4) 38 1 Mi-2 88 (5.4) 84 2 3 MDA5 21 (1.3) 21 NXP2 38 (2.3) 32 2 3 1 2 TIF1 114 (7.0) 105 (1) 3 5 2 SAE 42 (2.6) 41 (1) PMScl 129 (7.9) 119 1 7 2 1 Ku 24 (1.5) 13 (4) (1) (1) (2) (1) 2 3 Ro60 114 (7.0) 19 (38) (2) (1) (2) (2) (3) (3) (7) (2) 30 19 5 La 37 (2.3) 1 (13) (1) (2) (30) 2 0 U1RNP/Sm 124 (7.6) 65 (15) (1) (2) (1) (3) (5) (1) (3) (19) (2) 18 Other 54 (3.3) 28 (5) (2) (2) (5) 18 1 ¹Jo-1: histidyl-tRNA-synthetase, PL7: threonyl-tRNA-synthetase, PL12: alanyl-tRNA-synthetase, EJ: glycyl-tRNA-synthetase, OJ: isoleucyl-tRNA-synthetase, KS: asparaginyl-tRNA-synthetase, Zo: phenylalanyl-tRNA-synthetase, Ha tyrosyl-tRNA synthetase, SRP: signal recognition particle, Mi-2: nucleosome-remodelling deacetyalse complex, MDA5: melanoma differentiation-associated protein 5, NXP2: nuclear matrix protein 2, TIF1: transcriptional intermediary factor 1 alpha and/or gamma subunits, SAE: small ubiquitin-like modifier activating enzyme, PM/Scl: nucleolar macromolecular complex, Ku: DNA-binding nuclear protein complex, Ro60: SSA/Ro60, La: La/SSB, U1RNP/Sm: small nuclear RNA U1RNP and/or Sm subunits. Other includes U3RNP: small nuclear RNA U3 subunit, RNA Pol: RNA polymerase I/II/III, M2 mitochondrial antigen and topoisomerase I. Only three patients (0.18%) had more than one MSA (anti-Jo-1 coexistent with anti-OJ, anti-KS coexistent with anti-TIF1 and anti-KS coexistent with anti-SAE). Anti-PmScl is the only MAA that is not detected at all with a MSA.
+30992170_5957	78	94	[³⁵S]-methionine	Chemical
+30992170_5957	104	108	K562	Cellline
+30992170_5957	264	268	Ro52	Gene-protein	HGNC:11312
+30992170_5957	270	277	TRIM-21	Gene-protein	HGNC:11312
+30992170_5957	280	317	3-hydroxy-3-methylglutaryl-coenzyme A	Chemical
+30992170_5957	280	327	3-hydroxy-3-methylglutaryl-coenzyme A reductase	Gene-protein	HGNC:5006
+30992170_5957	329	334	HMGCR	Gene-protein	HGNC:5006
+30992170_5957	340	368	cytosolic 5’-nucleotidase 1A	Gene-protein	HGNC:17819
+30992170_5957	665	668	MSA	Genefamily
+30992170_5957	669	672	MAA	Genefamily
+30992170_5957	673	677	Jo-1	Gene-protein
+30992170_5957	678	681	PL7	Gene-protein
+30992170_5957	682	686	PL12	Gene-protein
+30992170_5957	687	689	EJ	Gene-protein
+30992170_5957	690	692	OJ	Gene-protein
+30992170_5957	693	695	KS	Gene-protein
+30992170_5957	696	698	Zo	Gene-protein
+30992170_5957	699	701	Ha	Gene-protein
+30992170_5957	702	705	SRP	Genefamily
+30992170_5957	706	710	Mi-2	Genefamily
+30992170_5957	711	715	MDA5	Gene-protein
+30992170_5957	716	720	NXP2	Gene-protein
+30992170_5957	721	725	TIF1	Gene-protein
+30992170_5957	726	729	SAE	Gene-protein
+30992170_5957	730	735	PMScl	Genefamily
+30992170_5957	736	738	Ku	Genefamily
+30992170_5957	739	743	Ro60	Gene-protein
+30992170_5957	744	746	La	Gene-protein
+30992170_5957	747	752	snRNP	Rna-noncoding
+30992170_5957	759	763	Jo-1	Gene-protein
+30992170_5957	794	797	PL7	Gene-protein
+30992170_5957	821	825	PL12	Gene-protein
+30992170_5957	842	844	EJ	Gene-protein
+30992170_5957	859	861	OJ	Gene-protein
+30992170_5957	881	885	KS 3	Gene-protein
+30992170_5957	898	900	Zo	Gene-protein
+30992170_5957	911	913	Ha	Gene-protein
+30992170_5957	924	927	SRP	Genefamily
+30992170_5957	942	946	Mi-2	Genefamily
+30992170_5957	963	967	MDA5	Gene-protein
+30992170_5957	980	984	NXP2	Gene-protein
+30992170_5957	1005	1009	TIF1	Gene-protein
+30992170_5957	1034	1037	SAE	Gene-protein
+30992170_5957	1054	1059	PMScl	Genefamily
+30992170_5957	1082	1084	Ku	Genefamily
+30992170_5957	1121	1125	Ro60	Gene-protein
+30992170_5957	1184	1186	La	Gene-protein
+30992170_5957	1220	1225	U1RNP	Rna-noncoding
+30992170_5957	1226	1232	Sm 124	Rna-noncoding
+30992170_5957	1327	1331	Jo-1	Gene-protein
+30992170_5957	1333	1341	histidyl	Chemical
+30992170_5957	1333	1357	histidyl-tRNA-synthetase	Gene-protein
+30992170_5957	1359	1362	PL7	Gene-protein
+30992170_5957	1364	1372	threonyl	Chemical
+30992170_5957	1364	1388	threonyl-tRNA-synthetase	Gene-protein
+30992170_5957	1390	1394	PL12	Gene-protein
+30992170_5957	1396	1402	alanyl	Chemical
+30992170_5957	1396	1418	alanyl-tRNA-synthetase	Gene-protein
+30992170_5957	1420	1422	EJ	Gene-protein
+30992170_5957	1424	1430	glycyl	Chemical
+30992170_5957	1424	1446	glycyl-tRNA-synthetase	Gene-protein
+30992170_5957	1448	1450	OJ	Gene-protein
+30992170_5957	1452	1461	isoleucyl	Chemical
+30992170_5957	1452	1477	isoleucyl-tRNA-synthetase	Gene-protein
+30992170_5957	1479	1481	KS	Gene-protein
+30992170_5957	1483	1494	asparaginyl	Chemical
+30992170_5957	1483	1510	asparaginyl-tRNA-synthetase	Gene-protein
+30992170_5957	1512	1514	Zo	Gene-protein
+30992170_5957	1516	1528	phenylalanyl	Chemical
+30992170_5957	1516	1544	phenylalanyl-tRNA-synthetase	Gene-protein
+30992170_5957	1546	1548	Ha	Gene-protein
+30992170_5957	1549	1572	tyrosyl-tRNA synthetase	Gene-protein
+30992170_5957	1574	1577	SRP	Genefamily
+30992170_5957	1579	1606	signal recognition particle	Genefamily
+30992170_5957	1608	1612	Mi-2	Genefamily
+30992170_5957	1614	1656	nucleosome-remodelling deacetyalse complex	Genefamily
+30992170_5957	1637	1648	deacetyalse	Chemical
+30992170_5957	1658	1662	MDA5	Gene-protein
+30992170_5957	1664	1709	melanoma differentiation-associated protein 5	Gene-protein
+30992170_5957	1711	1715	NXP2	Gene-protein
+30992170_5957	1717	1741	nuclear matrix protein 2	Gene-protein
+30992170_5957	1743	1747	TIF1	Gene-protein
+30992170_5957	1749	1814	transcriptional intermediary factor 1 alpha and/or gamma subunits	Gene-protein
+30992170_5957	1816	1819	SAE	Gene-protein
+30992170_5957	1821	1868	small ubiquitin-like modifier activating enzyme	Gene-protein
+30992170_5957	1870	1873	PM/	Genefamily
+30992170_5957	1873	1876	Scl	Genefamily
+30992170_5957	1878	1910	nucleolar macromolecular complex	Genefamily
+30992170_5957	1912	1914	Ku	Genefamily
+30992170_5957	1916	1951	DNA-binding nuclear protein complex	Genefamily
+30992170_5957	1953	1957	Ro60	Gene-protein
+30992170_5957	1959	1962	SSA	Gene-protein
+30992170_5957	1963	1967	Ro60	Gene-protein
+30992170_5957	1969	1971	La	Gene-protein
+30992170_5957	1973	1975	La	Gene-protein
+30992170_5957	1976	1979	SSB	Gene-protein
+30992170_5957	1981	1986	U1RNP	Rna-noncoding
+30992170_5957	1987	1989	Sm	Rna-noncoding
+30992170_5957	1991	2033	small nuclear RNA U1RNP and/or Sm subunits	Rna-noncoding
+30992170_5957	2050	2055	U3RNP	Rna-noncoding
+30992170_5957	2057	2085	small nuclear RNA U3 subunit	Rna-noncoding
+30992170_5957	2087	2094	RNA Pol	Genefamily
+30992170_5957	2096	2119	RNA polymerase I/II/III	Genefamily
+30992170_5957	2121	2145	M2 mitochondrial antigen	Gene-protein
+30992170_5957	2150	2165	topoisomerase I	Gene-protein
+30992170_5957	2213	2216	MSA	Genefamily
+30992170_5957	2218	2227	anti-Jo-1	Gene-protein
+30992170_5957	2244	2251	anti-OJ	Gene-protein
+30992170_5957	2253	2260	anti-KS	Gene-protein
+30992170_5957	2277	2286	anti-TIF1	Gene-protein
+30992170_5957	2291	2298	anti-KS	Gene-protein
+30992170_5957	2315	2323	anti-SAE	Gene-protein
+30992170_5957	2326	2336	Anti-PmScl	Gene-protein
+30992170_5957	2349	2352	MAA	Genefamily
+30992170_5957	2388	2391	MSA	Genefamily
+

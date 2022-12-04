@@ -1,0 +1,44 @@
+31372520_40806|t|RSS_IDENT_p_31372520_b_1_3_4
+31372520_40806|a| AMPK is a key energy sensor that not only maintains the balance of energy consumption and expenditure but also modulates cell protection against stresses and cell proliferation ⁴¹ , ⁴² . Thus, AMPK activity should be increased in ovarian cancer cells under the hypoxic ascites microenvironment because of pathogenic stresses and low oxygen content. However, it is well known that sustained high AMPK activity may inhibit mTOR signaling in tumor growth ⁴³ . In fact, as cancer cells prefer low AMPK for tumor development and metastasis, low AMPK levels commonly occur in advanced cancer cells because genetic/epigenetic progression enhances cell tolerance to stress and increases cell growth and aggressiveness ⁴⁴ , ⁴⁵ . Our study showed that ovarian cancer cells initially displayed high AMPK activity because of the change in the culture conditions from DMEM to a fatty acid-enriched medium. The high AMPK activity could protect cells against stresses from different media; however, importantly, switching to lipogenesis and lipolysis could have also had a protective effect on ovarian cancer cells. Interestingly, we found that there is an inverse relationship between ATP production and AMPK activity in ovarian cancer cells, suggesting that there is a negative feedback loop to suppress AMPK activity after prolonged culture in OCM ⁴³ . As a result, the combination of high ATP and low AMPK activity synergistically enhances ovarian cancer aggressiveness in OCM. Previous investigations have noted that low AMPK activity favors tumor progression and invasion ⁴⁶ , ⁴⁷ . Consistently, our findings using knockdown of AMPKα in ovarian cancer cells confirmed that low AMPK activity is required for ex vivo and in vivo tumor growth. 
+31372520_40806	30	34	AMPK	Genefamily	not found
+31372520_40806	223	227	AMPK	Genefamily
+31372520_40806	223	256	AMPK activity should be increased	Biomarker
+31372520_40806	260	274	ovarian cancer	Disease	DOID:2394
+31372520_40806	363	369	oxygen	Chemical
+31372520_40806	420	438	high AMPK activity	Biomarker
+31372520_40806	425	429	AMPK	Genefamily
+31372520_40806	451	455	mTOR	Gene-protein	HGNC:3942
+31372520_40806	469	474	tumor	Disease	DOID:162
+31372520_40806	499	505	cancer	Disease	DOID:162
+31372520_40806	517	527	r low AMPK	Biomarker
+31372520_40806	523	527	AMPK	Genefamily
+31372520_40806	532	537	tumor	Disease
+31372520_40806	566	581	low AMPK levels	Biomarker
+31372520_40806	570	574	AMPK	Genefamily
+31372520_40806	600	615	advanced cancer	Disease	DOID:162
+31372520_40806	772	786	ovarian cancer	Disease
+31372520_40806	813	831	high AMPK activity	Biomarker
+31372520_40806	818	822	AMPK	Genefamily
+31372520_40806	895	905	fatty acid	Chemical
+31372520_40806	927	945	high AMPK activity	Drug	not found
+31372520_40806	932	936	AMPK	Genefamily
+31372520_40806	1109	1123	ovarian cancer	Disease
+31372520_40806	1201	1204	ATP	Chemical
+31372520_40806	1201	1215	ATP production	Biomarker
+31372520_40806	1220	1224	AMPK	Genefamily
+31372520_40806	1220	1233	AMPK activity	Biomarker
+31372520_40806	1237	1251	ovarian cancer	Disease
+31372520_40806	1321	1325	AMPK	Genefamily
+31372520_40806	1388	1458	combination of high ATP and low AMPK activity synergistically enhances	Biomarker
+31372520_40806	1408	1411	ATP	Chemical
+31372520_40806	1420	1424	AMPK	Genefamily
+31372520_40806	1459	1473	ovarian cancer	Disease
+31372520_40806	1537	1554	low AMPK activity	Biomarker
+31372520_40806	1541	1545	AMPK	Genefamily
+31372520_40806	1562	1567	tumor	Disease
+31372520_40806	1649	1654	AMPKα	Gene-protein	not found
+31372520_40806	1658	1672	ovarian cancer	Disease
+31372520_40806	1694	1711	low AMPK activity	Biomarker
+31372520_40806	1698	1702	AMPK	Genefamily
+31372520_40806	1748	1753	tumor	Disease
+

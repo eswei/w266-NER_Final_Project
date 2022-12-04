@@ -1,0 +1,40 @@
+31754335_34768|t|RSS_IDENT_p_31754335_b_1_4_4
+31754335_34768|a| In recent years, miR-199a-3p has been found to play multiple roles in different diseases by targeting many genes involved in different biological processes 36 - 39 . For instance, the downregulation of miR-199a contributes to paclitaxel (PTX) resistance through targeting the oncogene Yamaguchi sarcoma viral homolog 1 (YES1) in prostate cancer 36 . MiR-199a/b-3p inhibits gastric cancer cell proliferation via downregulating the PAK4 (p21 activated kinase 4)/MEK (mitogen-activated protein kinase kinase)/MAPK (mitogen-activated protein kinase 1) signaling pathway 37 . MiR-199a-3p increases the cisplatin sensitivity of ovarian cancer cells by downregulating ITGB8 (Integrin subunit Beta 8) expression 38 . MiR-199a is downregulated in patients after coronary artery bypass graft surgery and is associated with increased SIRT1 (Sirtuin 1) level 39 . These findings clearly suggest that miR-199a-3p plays important roles in different biological processes through regulating the expression of multiple genes. However, none of these studies investigated the underlying mechanism of miR-199a-3p aberrant expression. To demonstrate the mechanism of miR-199a-3p downregulation in ALI lung tissues, we excluded the possibility of DNA methylation by treatment with a DNA methylation inhibitor AZA. Finally, we identified a transcriptional mechanism mediated by CHFTC. 
+31754335_34768	47	58	miR-199a-3p	Rna-noncoding	not found
+31754335_34768	47	58	miR-199a-3p	Biomarker	C531408
+31754335_34768	214	240	downregulation of miR-199a	Biomarker
+31754335_34768	232	240	miR-199a	Genefamily	not found
+31754335_34768	256	266	paclitaxel	Drug	CHEMBL428647
+31754335_34768	268	271	PTX	Drug	CHEMBL428647
+31754335_34768	315	348	Yamaguchi sarcoma viral homolog 1	Gene-protein	HGNC:12841
+31754335_34768	350	354	YES1	Gene-protein	HGNC:12841
+31754335_34768	359	374	prostate cancer	Disease	DOID:10283
+31754335_34768	380	393	MiR-199a/b-3p	Rna-noncoding	not found, HGNC:31573
+31754335_34768	380	393	MiR-199a/b-3p	Drug	C531408, C531408
+31754335_34768	403	417	gastric cancer	Disease	DOID:10534
+31754335_34768	460	464	PAK4	Gene-protein	HGNC:16059
+31754335_34768	466	488	p21 activated kinase 4	Gene-protein	HGNC:16059
+31754335_34768	490	493	MEK	Genefamily	family:653
+31754335_34768	495	534	mitogen-activated protein kinase kinase	Genefamily	family:653
+31754335_34768	536	540	MAPK	Genefamily	family:651
+31754335_34768	542	576	mitogen-activated protein kinase 1	Gene-protein	HGNC:6871
+31754335_34768	601	612	MiR-199a-3p	Rna-noncoding
+31754335_34768	601	612	MiR-199a-3p	Drug	C531408
+31754335_34768	627	636	cisplatin	Drug	CHEMBL11359
+31754335_34768	652	666	ovarian cancer	Disease	DOID:2394
+31754335_34768	691	696	ITGB8	Gene-protein	HGNC:6163
+31754335_34768	698	721	Integrin subunit Beta 8	Gene-protein	HGNC:6163
+31754335_34768	739	747	MiR-199a	Rna-noncoding
+31754335_34768	739	764	MiR-199a is downregulated	Biomarker
+31754335_34768	843	858	increased SIRT1	Biomarker
+31754335_34768	853	858	SIRT1	Gene-protein	HGNC:14929
+31754335_34768	860	869	Sirtuin 1	Gene-protein	HGNC:14929
+31754335_34768	918	929	miR-199a-3p	Rna-noncoding
+31754335_34768	1111	1122	miR-199a-3p	Rna-noncoding
+31754335_34768	1111	1142	miR-199a-3p aberrant expression	Biomarker
+31754335_34768	1176	1187	miR-199a-3p	Rna-noncoding
+31754335_34768	1176	1202	miR-199a-3p downregulation	Biomarker
+31754335_34768	1206	1209	ALI	Disease	D055371
+31754335_34768	1291	1316	DNA methylation inhibitor	Drug-class
+31754335_34768	1317	1320	AZA	Drug	CHEMBL1201129
+

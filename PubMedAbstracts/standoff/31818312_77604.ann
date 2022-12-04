@@ -1,0 +1,71 @@
+T0	Disease 132 148	malignant tumors
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 372 378	cancer
+#2	AnnotatorNotes T1	DOID:162
+T2	Disease 852 857	tumor
+#3	AnnotatorNotes T2	DOID:162
+T3	Disease 1010 1025	atherosclerosis
+#4	AnnotatorNotes T3	DOID:1936
+T4	Disease 1030 1049	plaque inflammation
+#5	AnnotatorNotes T4	not found
+T6	Disease 1495 1508	breast cancer
+#7	AnnotatorNotes T6	DOID:1612
+T7	Disease 1651 1657	tumors
+#8	AnnotatorNotes T7	DOID:162
+T8	Biomarker 30 76	Enhanced invasiveness and metastatic abilities
+R1	Prognostic-Poor Arg1:T8 Arg2:T0	
+T9	Biomarker 172 193	lncRNA overexpression
+T10	RNA-Noncoding 172 178	lncRNA
+#9	AnnotatorNotes T10	family:788
+T11	Disease 238 243	NSCLC
+#10	AnnotatorNotes T11	DOID:3908
+R2	Association Arg1:T9 Arg2:T11	
+T12	Biomarker 346 362	levels of miRNAs
+T13	RNA-Noncoding 356 362	miRNAs
+#11	AnnotatorNotes T13	family:476
+T14	Biomarker 297 314	lncRNA expression
+T15	RNA-Noncoding 297 303	lncRNA
+T16	Biomarker 479 485	lncRNA
+T17	RNA-Noncoding 479 485	lncRNA
+#12	AnnotatorNotes T16	D062085
+T18	Disease 545 550	NSCLC
+R3	Association Arg1:T16 Arg2:T18	
+T19	RNA-Noncoding 659 665	MALAT1
+#13	AnnotatorNotes T19	HGNC:29665
+T20	RNA-Noncoding 700 711	miR-216a-5p
+#14	AnnotatorNotes T20	HGNC:31593
+T21	RNA-Noncoding 720 730	miR-126-5p
+#15	AnnotatorNotes T21	HGNC:31508
+T22	RNA-Noncoding 743 750	miR-328
+#16	AnnotatorNotes T22	HGNC:31770
+T23	Disease 761 766	NSCLC
+T24	RNA-Noncoding 796 802	MALAT1
+T25	RNA-Noncoding 878 889	miR-1914-3p
+#17	AnnotatorNotes T25	HGNC:35398
+T26	Biomarker 796 802	MALAT1
+#18	AnnotatorNotes T26	C557041
+R4	Association Arg1:T26 Arg2:T2	
+T27	Collection 1010 1049	atherosclerosis and plaque inflammation
+T28	Biomarker 966 1000	hematopoietic deficiency of MALAT1
+T29	RNA-Noncoding 994 1000	MALAT1
+R5	Association Arg1:T28 Arg2:T27	
+T30	Biomarker 1051 1070	MALAT1 upregulation
+T31	RNA-Noncoding 1051 1057	MALAT1
+T32	RNA-Noncoding 1163 1169	MALAT1
+T33	RNA-Noncoding 1391 1397	MALAT1
+T34	GeneFamily 1453 1457	TEAD
+#19	AnnotatorNotes T34	family:1183
+T35	RNA-Noncoding 1607 1613	MALAT1
+T36	Biomarker 1607 1613	MALAT1
+R6	Association Arg1:T36 Arg2:T7	
+T37	RNA-Noncoding 1793 1799	MALAT1
+T38	Biomarker 1793 1799	MALAT1
+T39	RNA-Noncoding 1804 1815	miR-1914-3p
+T40	Disease 1715 1720	NSCLC
+T41	Biomarker 1391 1397	MALAT1
+R8	Association Arg1:T41 Arg2:T6	
+T42	Biomarker 1804 1815	miR-1914-3p
+#20	AnnotatorNotes T42	C000708429
+T43	Disease 1145 1161	multiple myeloma
+#21	AnnotatorNotes T43	DOID:9538
+T45	Drug-Class 1266 1303	LNA gapmeR antisense oligonucleotides

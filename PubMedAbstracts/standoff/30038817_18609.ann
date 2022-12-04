@@ -1,0 +1,53 @@
+T0	Chemical 81 90	uric acid
+T1	Chemical 197 206	uric acid
+T10	Disease 735 741	cancer
+T11	Disease 848 854	cancer
+T12	Disease 933 936	PCa
+#5	AnnotatorNotes T12	DOID:10283
+T14	Chemical 946 955	uric acid
+T15	Chemical 1020 1029	uric acid
+T16	Disease 1038 1053	prostate cancer
+#8	AnnotatorNotes T16	DOID:10283
+T17	Chemical 1175 1184	uric acid
+T19	Disease 1211 1226	prostate cancer
+T20	Disease 1332 1338	cancer
+T22	Chemical 1431 1440	uric acid
+T23	Disease 1462 1468	cancer
+T24	Chemical 1533 1542	uric acid
+T25	Disease 1602 1607	tumor
+#16	AnnotatorNotes T25	DOID:162
+T27	Chemical 1659 1668	uric acid
+T28	Disease 1718 1721	PCa
+T3	Chemical 361 370	uric acid
+T4	Chemical 440 449	uric acid
+T5	Disease 458 464	cancer
+#21	AnnotatorNotes T5	DOID:162
+T6	Disease 556 560	gout
+#22	AnnotatorNotes T6	DOID:13189
+T7	Chemical 612 621	uric acid
+T8	Disease 654 660	cancer
+T9	Chemical 717 726	uric acid
+T13	Disease 211 223	inflammation
+#1	AnnotatorNotes T13	D007249
+T18	Biomarker 197 206	uric acid
+T21	Gene-Protein 247 251	IL-6
+#6	AnnotatorNotes T21	HGNC:6018
+T26	Gene-Protein 253 258	TNF-α
+#7	AnnotatorNotes T26	HGNC:11892
+T29	Gene-Protein 260 287	tumor necrosis factor alpha
+#9	AnnotatorNotes T29	HGNC:11892
+T2	Gene-Protein 294 297	CRP
+#11	AnnotatorNotes T2	HGNC:2367
+T30	Biomarker 717 726	uric acid
+R2	Association Arg1:T30 Arg2:T11	
+T31	Biomarker 941 962	high uric acid levels
+R3	Association Arg1:T31 Arg2:T12	
+T32	Biomarker 1175 1184	uric acid
+R4	Association Arg1:T32 Arg2:T19	
+T33	Biomarker 1407 1447	increased extracellular uric acid levels
+R5	Association Arg1:T33 Arg2:T23	
+T34	Biomarker 1533 1542	uric acid
+R6	Association Arg1:T34 Arg2:T25	
+T35	Biomarker 1654 1675	high uric acid levels
+R7	Association Arg1:T35 Arg2:T28	
+#2	AnnotatorNotes T30	D014527

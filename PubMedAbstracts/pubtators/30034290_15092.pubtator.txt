@@ -1,0 +1,47 @@
+30034290_15092|t|RSS_IDENT_p_30034290_b_1_4_3
+30034290_15092|a| The current study investigated the numbers of circulating monocyte subpopulations and their potential association with disease severity in patients with early-stage IMN. In the study, the patients had higher CD14⁺CD163⁺ M2 monocyte counts than the HCs. Furthermore, the numbers of CD14⁺CD163⁺CD206⁺ M2 monocyte not only increased in the three subgroups of IMN but also shared the same changes in trend with disease progression. In other words, the CD206⁺ M2 cells were positively correlated with the degree of proteinuria. Similarly, a previous study has shown that CD206⁺ monocytes are associated with proteinuria in acute tubulointerstitial nephritis [ 18 ]. Therefore, our findings suggested that the increased CD14⁺CD163⁺CD206⁺ M2-like monocytes may contribute to the pathogenesis of incipient IMN in adults and could serve as a sensitive indicator for evaluating IMN severity. The mechanism may be as follows: macrophage infiltration in tubulointerstitial lesion is a common case in the pathological process in incipient IMN. And the extent of proteinuria is a major determinant of tubulointerstitial damage. We hypothesized that such damage could trigger peripheral CD14⁺CD163⁺CD206⁺ M2-like monocytes, which may be stimulated by IL-4 and IL-13 from Th2-type immune responses in IMN [ 26 , 27 ], into renal tissues and contribute to tissue repair. Although having protective effect on renal injury, M2 monocytes can secrete fibronectin involved in renal fibrosis [ 13 ]. IMN can develop into chronic kidney disease characterized by progressive renal fibrosis. It is possible that increased CD14⁺CD163⁺CD206⁺ monocytes have profibrotic effect while they ameliorate proteinuria in IMN. However, the hypothesis should be investigated in detail in future studies.
+30034290_15092	195	198	IMN	Disease	DOID:10976
+30034290_15092	231	268	higher CD14⁺CD163⁺ M2 monocyte counts	Biomarker
+30034290_15092	238	242	CD14	Gene-protein	HGNC:1628
+30034290_15092	243	248	CD163	Gene-protein	HGNC:1631
+30034290_15092	300	340	numbers of CD14⁺CD163⁺CD206⁺ M2 monocyte	Biomarker
+30034290_15092	311	315	CD14	Gene-protein
+30034290_15092	316	321	CD163	Gene-protein
+30034290_15092	322	327	CD206	Gene-protein	HGNC:7228
+30034290_15092	386	389	IMN	Disease
+30034290_15092	478	483	CD206	Gene-protein
+30034290_15092	478	493	CD206⁺ M2 cells	Biomarker
+30034290_15092	540	551	proteinuria	Disease	DOID:576
+30034290_15092	596	601	CD206	Gene-protein
+30034290_15092	596	612	CD206⁺ monocytes	Biomarker
+30034290_15092	633	682	proteinuria in acute tubulointerstitial nephritis	Disease	DOID:576, C564356	Conjunction
+30034290_15092	734	779	increased CD14⁺CD163⁺CD206⁺ M2-like monocytes	Biomarker
+30034290_15092	744	748	CD14	Gene-protein
+30034290_15092	749	754	CD163	Gene-protein
+30034290_15092	755	760	CD206	Gene-protein
+30034290_15092	828	831	IMN	Disease
+30034290_15092	898	901	IMN	Disease
+30034290_15092	945	997	macrophage infiltration in tubulointerstitial lesion	Biomarker
+30034290_15092	1056	1059	IMN	Disease
+30034290_15092	1079	1090	proteinuria	Biomarker	D011507
+30034290_15092	1117	1142	tubulointerstitial damage	Disease	not found
+30034290_15092	1202	1206	CD14	Gene-protein
+30034290_15092	1207	1212	CD163	Gene-protein
+30034290_15092	1213	1218	CD206	Gene-protein
+30034290_15092	1266	1270	IL-4	Gene-protein	HGNC:6014
+30034290_15092	1275	1280	IL-13	Gene-protein	HGNC:5973
+30034290_15092	1315	1318	IMN	Gene-protein
+30034290_15092	1421	1433	renal injury	Disease	DOID:1074
+30034290_15092	1435	1447	M2 monocytes	Biomarker
+30034290_15092	1460	1471	fibronectin	Biomarker	D005353
+30034290_15092	1460	1471	fibronectin	Gene-protein	HGNC: 3778
+30034290_15092	1484	1498	renal fibrosis	Disease	DOID:0050855
+30034290_15092	1507	1510	IMN	Biomarker	D015433
+30034290_15092	1528	1550	chronic kidney disease	Disease	DOID:784
+30034290_15092	1580	1594	renal fibrosis	Biomarker
+30034290_15092	1616	1653	increased CD14⁺CD163⁺CD206⁺ monocytes	Drug	not found
+30034290_15092	1626	1630	CD14	Gene-protein
+30034290_15092	1631	1636	CD163	Gene-protein
+30034290_15092	1637	1642	CD206	Gene-protein
+30034290_15092	1700	1718	proteinuria in IMN	Disease	DOID:576, DOID:10976	Conjunction
+

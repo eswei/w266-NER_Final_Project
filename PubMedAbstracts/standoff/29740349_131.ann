@@ -1,0 +1,82 @@
+T1	Disease 124 142	severe burn injury
+#1	AnnotatorNotes T1	D002056
+T11	Disease 772 783	burn injury
+#3	AnnotatorNotes T11	D002056
+T12	Biomarker 804 854	damage of mucosa and the alteration of TJ proteins
+T13	Biomarker 903 1086	increased intraluminal chaperone binding protein (BIP), CCAAT/enhancer-binding protein homologous protein (CHOP) and inositol-requiring enzyme 1(IRE1)/X-box binding protein 1 splicing
+T14	Chemical 1020 1028	inositol
+T16	Disease 1125 1136	burn injury
+T17	Biomarker 1158 1235	increase of autophagy related protein 5 (ATG5), Beclin 1 and LC3II/LC3I ratio
+T18	Biomarker 1274 1317	number of autophagosomes was also increased
+T2	Disease 202 213	Severe burn
+#8	AnnotatorNotes T2	D002056
+T20	Disease 1324 1335	burn injury
+T21	Biomarker 1341 1423	levels of p-PI3K(Ser191), p-PI3K(Ser262), p-AKT(Ser473), and p-mTOR were decreased
+T22	Chemical 1358 1364	Ser191
+T23	Chemical 1374 1380	Ser262
+T24	Chemical 1389 1395	Ser473
+T25	Biomarker 1450 1489	autophagy-related PI3K/AKT/mTOR pathway
+T27	Disease 1509 1550	intestinal epithelial barrier dysfunction
+#14	AnnotatorNotes T27	not found
+T28	Disease 1568 1572	burn
+#15	AnnotatorNotes T28	DOID:4331
+T3	Biomarker 312 345	endoplasmic reticulum (ER) stress
+T4	Disease 392 423	impairment of intestinal mucosa
+#17	AnnotatorNotes T4	not found
+T6	Biomarker 451 460	ER stress
+T9	Biomarker 714 751	intestinal permeability was increased
+T31	Biomarker 32 64	disruption of intestinal barrier
+R1	Association Arg1:T31 Arg2:T1	
+T32	Biomarker 225 277	disruption of intestinal tight junction (TJ) barrier
+R2	Association Arg1:T32 Arg2:T2	
+R4	Association Arg1:T9 Arg2:T11	
+R5	Association Arg1:T12 Arg2:T11	
+T5	Disease 856 867	Severe burn
+T10	Biomarker 1617 1664	ER stress and autophagy in intestinal epithelia
+T15	Biomarker 1681 1713	disruption of intestinal barrier
+T30	Disease 498 559	burn injury-induced intestinal epithelial barrier dysfunction
+#2	AnnotatorNotes T30	not found
+T7	GeneFamily 843 854	TJ proteins
+T8	Gene-Protein 1010 1014	CHOP
+T33	Gene-Protein 959 1008	CCAAT/enhancer-binding protein homologous protein
+T34	Gene-Protein 1020 1047	inositol-requiring enzyme 1
+T35	Gene-Protein 1048 1052	IRE1
+T36	Gene-Protein 1054 1077	X-box binding protein 1
+T37	Gene-Protein 1088 1092	XBP1
+T38	Gene-Protein 1199 1203	ATG5
+T39	Gene-Protein 1170 1197	autophagy related protein 5
+T40	Gene-Protein 1206 1214	Beclin 1
+T41	Gene-Protein 1256 1259	p62
+T42	GeneFamily 1353 1357	PI3K
+T43	GeneFamily 1369 1373	PI3K
+T44	GeneFamily 1385 1388	AKT
+T45	Gene-Protein 1404 1408	mTOR
+T46	GeneFamily 1468 1472	PI3K
+T47	GeneFamily 1473 1476	AKT
+T48	Gene-Protein 1477 1481	mTOR
+T49	Disease 1424 1432	postburn
+R8	Association Arg1:T21 Arg2:T49	
+T26	Collection 1509 1572	intestinal epithelial barrier dysfunction following severe burn
+R9	Association Arg1:T25 Arg2:T26	
+T50	Disease 1586 1604	severe burn injury
+R10	Association Arg1:T18 Arg2:T20	
+T19	Biomarker 1244 1259	decrease of p62
+T29	Collection 1158 1259	increase of autophagy related protein 5 (ATG5), Beclin 1 and LC3II/LC3I ratio and the decrease of p62
+R11	Association Arg1:T29 Arg2:T16	
+#6	AnnotatorNotes T3	D059865
+T51	Biomarker 350 359	autophagy
+#7	AnnotatorNotes T51	D001343
+T52	Collection 313 359	ndoplasmic reticulum (ER) stress and autophagy
+R3	Association Arg1:T52 Arg2:T4	
+T53	Biomarker 465 474	autophagy
+T54	Collection 451 474	ER stress and autophagy
+#9	AnnotatorNotes T6	D059865
+T55	Biomarker 876 885	ER stress
+T56	Collection 876 1086	ER stress, as indicated by increased intraluminal chaperone binding protein (BIP), CCAAT/enhancer-binding protein homologous protein (CHOP) and inositol-requiring enzyme 1(IRE1)/X-box binding protein 1 splicing
+R6	Association Arg1:T56 Arg2:T5	
+T57	Biomarker 1095 1104	Autophagy
+#13	AnnotatorNotes T57	D001343
+R7	Association Arg1:T57 Arg2:T16	
+T58	Gene-Protein 953 956	BIP
+T59	Gene-Protein 1219 1224	LC3II
+T60	Gene-Protein 1225 1229	LC3I

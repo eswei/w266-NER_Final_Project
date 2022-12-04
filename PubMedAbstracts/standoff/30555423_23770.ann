@@ -1,0 +1,70 @@
+T1	Biomarker 79 106	decrease of AlaAP and CysAP
+T10	Biomarker 531 553	increase of aquaporins
+T11	Disease 557 568	hypothyroid
+T12	Biomarker 635 653	decreased diuresis
+T13	Disease 666 680	hypothyroidism
+#2	AnnotatorNotes T13	DOID:1459
+T14	Disease 713 725	hyperthyroid
+T16	Gene-Protein 828 833	AspAP
+T17	Disease 880 892	hypothyroids
+T18	Biomarker 910 936	higher formation of Ang IV
+T20	Biomarker 978 1006	higher plasma AlaAP activity
+T21	Disease 1010 1023	hyperthyroids
+#9	AnnotatorNotes T21	DOID:7998
+T22	Gene-Protein 1053 1058	CysAP
+T23	Biomarker 1252 1273	lower levels of CysAP
+T25	Gene-Protein 1268 1273	CysAP
+T26	Chemical 1305 1313	arginine
+T27	Disease 1329 1341	hyperthyroid
+T28	Chemical 1461 1469	arginine
+T29	Disease 1516 1531	hyperthyroidism
+#16	AnnotatorNotes T29	DOID:7998
+T3	Gene-Protein 101 106	CysAP
+T4	Disease 110 121	hypothyroid
+#18	AnnotatorNotes T4	DOID:1459
+T5	Gene-Protein 145 150	AlaAP
+T6	Biomarker 166 229	longer action of Ang III due to the reduction of its metabolism
+T7	Chemical 276 287	aldosterone
+T8	Chemical 387 395	arginine
+T9	Disease 427 439	hypothyroids
+T30	Gene-Protein 91 96	AlaAP
+R1	Association Arg1:T1 Arg2:T4	
+T2	Gene-Protein 183 190	Ang III
+T31	Biomarker 257 310	greater release of aldosterone from the adrenal gland
+T32	Biomarker 336 354	reduction of CysAP
+T33	Gene-Protein 349 354	CysAP
+T34	Biomarker 370 423	longer action of arginine-vasopressin in the adrenals
+T35	Gene-Protein 387 407	arginine-vasopressin
+#4	AnnotatorNotes T9	DOID:1459
+R2	Association Arg1:T10 Arg2:T11	
+T36	GeneFamily 543 553	aquaporins
+R3	Association Arg1:T12 Arg2:T13	
+T37	Biomarker 751 784	longer action of Ang I and Ang II
+T38	Gene-Protein 778 784	Ang II
+T39	Gene-Protein 768 773	Ang I
+R4	Association Arg1:T37 Arg2:T14	
+T40	Gene-Protein 818 823	GluAP
+T15	Biomarker 838 876	plasma, there was an increase of AlaAP
+R5	Association Arg1:T15 Arg2:T17	
+T41	Gene-Protein 871 876	AlaAP
+T42	Gene-Protein 930 936	Ang IV
+T19	Biomarker 1041 1058	decrease in CysAP
+R6	Association Arg1:T18 Arg2:T17	
+R7	Association Arg1:T20 Arg2:T21	
+R8	Association Arg1:T19 Arg2:T21	
+T43	Gene-Protein 992 997	AlaAP
+T44	Gene-Protein 1096 1102	Ang IV
+T45	Gene-Protein 1124 1131	insulin
+T46	GeneFamily 1142 1156	aminopeptidase
+T47	Gene-Protein 1158 1163	CysAP
+T48	Biomarker 1205 1231	higher formation of Ang IV
+T49	Gene-Protein 1225 1231	Ang IV
+T24	Biomarker 1288 1325	longer action of arginine-vasopressin
+T50	Collection 1205 1325	higher formation of Ang IV which fits with the lower levels of CysAP and suggest a longer action of arginine-vasopressin
+R9	Association Arg1:T50 Arg2:T27	
+T51	Biomarker 1434 1481	increased plasma levels of arginine-vasopressin
+R10	Association Arg1:T51 Arg2:T29	
+T52	Gene-Protein 1305 1325	arginine-vasopressin
+T53	Gene-Protein 1461 1481	arginine-vasopressin
+T54	Gene-Protein 1106 1109	AT₄
+T55	Biomarker 796 833	decreased activity of GluAP and AspAP

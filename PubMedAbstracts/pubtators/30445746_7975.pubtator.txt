@@ -1,0 +1,55 @@
+30445746_7975|t|RSS_IDENT_p_30445746_b_1_1_7
+30445746_7975|a| As an acute immune response NF-κB directs the cytokines such as tumor necrosis factor (TNF) α, IL-1, IL-6 and IL-8 to the inflammatory sites. However, hyper activation of NF-κB has been contributed for the cancer cell proliferation. Therefore, NF-κB was considered to play “double edged role” in the immune system. On one hand, stimulation of NF-κB directs the leukocytes to the inflammatory sites as part of innate immunity. On the other hand, tumors can principally establish the elevated NF-κB activity by several intrinsic and extrinsic factors. Especially mutation of NF-κB and constant release of cytokines majorly contribute for the cancer progression. In the myeloid cell of the tumor environment, upstream IκB kinase (IKK2)-mediated NF-κB activity contributes to the tumor progression by inducing the secretion of cytokines and growth factors [ 19 ]. Study of prostate and breast cancer revealed occurrence of mutation in NF-κB, IKK2 as well as inhibitors IκBα and IκBε [ 20 ]. Inflammation in colon cancer is associated with the hyper activation of IKK2-induced NF-κB within intestinal epithelial cells [ 21 ]. Cellular location of NF-κB activity is fundamental for the development of liver cancer [ 22 ]. In melanoma, IKK2 and NF-κB activation is required for the tumorigenesis [ 23 ]. NF-κB activity is mainly involved in the survival of the tumor cells to prevent from the apoptotic or senescent. Therefore, suppression of NF-κB activation is considered as a central mechanism in the prohibition of tumor growth [ 24 ]. Therefore, knowledge on the mechanism of NF-κB and its interaction with the beta-catenin/cyclin D1 pathway is essential for finding the novel therapeutic agent(s). 
+30445746_7975	58	63	NF-κB	Genefamily	family:1254
+30445746_7975	76	85	cytokines	Genefamily	not found
+30445746_7975	94	123	tumor necrosis factor (TNF) α	Gene-protein	HGNC:11892
+30445746_7975	125	129	IL-1	Genefamily	not found
+30445746_7975	131	135	IL-6	Gene-protein	HGNC:6018
+30445746_7975	140	144	IL-8	Gene-protein	HGNC:6025
+30445746_7975	181	206	hyper activation of NF-κB	Biomarker
+30445746_7975	201	206	NF-κB	Genefamily
+30445746_7975	236	242	cancer	Disease	DOID:162
+30445746_7975	274	279	NF-κB	Genefamily
+30445746_7975	373	378	NF-κB	Genefamily
+30445746_7975	475	481	tumors	Disease	DOID:162
+30445746_7975	512	535	elevated NF-κB activity	Biomarker
+30445746_7975	521	526	NF-κB	Genefamily
+30445746_7975	591	608	mutation of NF-κB	Biomarker
+30445746_7975	591	642	mutation of NF-κB and constant release of cytokines	Collection
+30445746_7975	603	608	NF-κB	Genefamily
+30445746_7975	613	642	constant release of cytokines	Biomarker
+30445746_7975	633	642	cytokines	Genefamily	not found
+30445746_7975	670	676	cancer	Disease
+30445746_7975	736	786	upstream IκB kinase (IKK2)-mediated NF-κB activity	Biomarker
+30445746_7975	745	755	IκB kinase	Gene-protein	HGNC:5960
+30445746_7975	757	761	IKK2	Gene-protein	HGNC:5960
+30445746_7975	772	777	NF-κB	Genefamily
+30445746_7975	806	811	tumor	Disease
+30445746_7975	853	862	cytokines	Genefamily
+30445746_7975	899	925	prostate and breast cancer	Disease	DOID:10283, DOID:1612
+30445746_7975	949	1008	mutation in NF-κB, IKK2 as well as inhibitors IκBα and IκBε	Biomarker
+30445746_7975	961	966	NF-κB	Genefamily
+30445746_7975	968	972	IKK2	Gene-protein
+30445746_7975	995	999	IκBα	Gene-protein	HGNC:7797
+30445746_7975	1004	1008	IκBε	Gene-protein	HGNC:7799
+30445746_7975	1017	1045	Inflammation in colon cancer	Disease	D007249, DOID:219	Conjunction
+30445746_7975	1069	1107	hyper activation of IKK2-induced NF-κB	Biomarker
+30445746_7975	1089	1093	IKK2	Gene-protein
+30445746_7975	1102	1107	NF-κB	Genefamily
+30445746_7975	1151	1186	Cellular location of NF-κB activity	Biomarker
+30445746_7975	1172	1177	NF-κB	Genefamily
+30445746_7975	1225	1237	liver cancer	Disease	DOID:3571
+30445746_7975	1249	1257	melanoma	Disease	DOID:1909
+30445746_7975	1259	1263	IKK2	Gene-protein
+30445746_7975	1259	1284	IKK2 and NF-κB activation	Biomarker
+30445746_7975	1268	1273	NF-κB	Genefamily
+30445746_7975	1327	1332	NF-κB	Genefamily
+30445746_7975	1327	1341	NF-κB activity	Biomarker	D016328
+30445746_7975	1384	1389	tumor	Disease
+30445746_7975	1451	1482	suppression of NF-κB activation	Drug
+30445746_7975	1466	1471	NF-κB	Genefamily
+30445746_7975	1542	1547	tumor	Disease
+30445746_7975	1604	1609	NF-κB	Genefamily
+30445746_7975	1639	1651	beta-catenin	Genefamily	family:1542
+30445746_7975	1652	1661	cyclin D1	Gene-protein	HGNC:1582
+

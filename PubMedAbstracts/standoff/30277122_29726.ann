@@ -1,0 +1,87 @@
+T0	Chemical 124 127	ATP
+T1	Chemical 179 182	ATP
+T10	Drug 611 616	OxATP
+T12	Chemical 649 652	ETX
+T13	Disease 649 670	ETX-induced hemolysis
+T14	Chemical 678 681	ATP
+T15	Chemical 686 689	ATP
+T16	Chemical 733 736	ATP
+T17	Drug 757 762	OxATP
+T18	Chemical 820 823	ATP
+T19	Chemical 838 843	OxATP
+T2	Chemical 243 246	ATP
+T20	Chemical 877 880	ATP
+T21	Chemical 958 961	ATP
+T22	Disease 976 985	hemolysis
+T23	Chemical 998 1001	ETX
+T24	Chemical 1071 1074	ATP
+T25	Disease 1121 1130	hemolysis
+T26	Chemical 1180 1183	ATP
+T27	Chemical 1209 1212	ETX
+T28	Disease 1209 1230	ETX-induced hemolysis
+T29	Chemical 1257 1260	ETX
+T3	Disease 289 329	HlyA- and leukotoxin A-induced hemolysis
+T30	Disease 1257 1278	ETX-induced hemolysis
+T31	Chemical 1315 1318	ETX
+T32	Disease 1315 1336	ETX-induced hemolysis
+T33	Disease 1364 1404	HlyA- and leukotoxin A-induced hemolysis
+T34	Disease 1432 1441	hemolysis
+T36	Chemical 1455 1458	ATP
+T38	Chemical 1600 1603	ETX
+T39	Disease 1600 1621	ETX-induced hemolysis
+T4	Chemical 331 334	ATP
+T40	Chemical 1623 1626	ETX
+T41	Chemical 1861 1864	ATP
+T5	Chemical 365 368	ETX
+T6	Chemical 423 426	ATP
+T7	Chemical 479 482	ETX
+T8	Disease 479 500	ETX-induced hemolysis
+T9	Chemical 529 532	ATP
+T35	MicroOrganism 62 69	E. coli
+T37	MicroOrganism 92 116	A. actinomycetemcomitans
+T42	Chemical 157 162	toxin
+T43	Gene-Protein 205 209	P2X7
+#1	AnnotatorNotes T43	HGNC:8537
+T44	Gene-Protein 196 200	P2X1
+#2	AnnotatorNotes T44	HGNC:8533
+#3	AnnotatorNotes T3	not found
+T45	Biomarker 243 246	ATP
+#4	AnnotatorNotes T45	D000255
+R1	Association Arg1:T45 Arg2:T3	
+#5	AnnotatorNotes T8	not found
+T46	Gene-Protein 438 445	apyrase
+#6	AnnotatorNotes T46	not found
+T47	GeneFamily 450 460	hexokinase
+#7	AnnotatorNotes T47	not found
+T48	Drug 450 460	hexokinase
+#8	AnnotatorNotes T48	D006593
+T49	Drug 438 445	apyrase
+#9	AnnotatorNotes T49	D001081
+T50	Collection 438 460	apyrase and hexokinase
+R2	Non-Response Arg1:T50 Arg2:T8	
+T51	GeneFamily 571 583	P2 receptors
+#10	AnnotatorNotes T51	family:212
+#11	AnnotatorNotes T10	C017199
+R3	Non-Response Arg1:T10 Arg2:T13	
+T11	Gene-Protein 786 790	P2X7
+T52	Gene-Protein 858 862	P2X7
+T53	Gene-Protein 900 904	P2X7
+T54	Gene-Protein 1018 1028	pannexin 1
+#12	AnnotatorNotes T54	HGNC:8599
+T55	Biomarker 1061 1082	extent of ATP release
+R4	Association Arg1:T55 Arg2:T25	
+T56	GeneFamily 1753 1766	P2 receptor’s
+#14	AnnotatorNotes T56	family:212
+T57	GeneFamily 1802 1814	P2 receptors
+T58	Disease 1822 1831	hemolysis
+T59	Biomarker 947 961	release of ATP
+R5	Association Arg1:T59 Arg2:T22	
+T60	Biomarker 1180 1191	ATP release
+R6	Association Arg1:T60 Arg2:T28	
+T61	Biomarker 1540 1552	shear stress
+T62	Biomarker 1557 1564	hypoxia
+#15	AnnotatorNotes T62	D000860
+T63	Collection 1540 1564	shear stress and hypoxia
+R7	Association Arg1:T63 Arg2:T34	
+T95	Disease 221 230	hemolysis
+#13	AnnotatorNotes T95	D006461

@@ -1,0 +1,65 @@
+31781369_19913|t|RSS_IDENT_p_31781369_b_1_4_5
+31781369_19913|a| In clinics, the diagnosis of DOA needs to be differentiated from LHON, which is also a hereditary optic neuropathy. LHON is more common in young males and may have unilateral progression of vision loss. The fundus exam shows congested or hydropic optic disc borders and dilated peripheral capillaries in the early stage. Pale temporal optic disc and bilateral central or paracentral scotoma may be found in the later stage [ 31 ]. No gender difference was indicated in the family in this study (male-to-female ratio of 7 : 5), and the symptoms were observed in both eyes. The fundus exam of proband V-2 showed temporal pale optic disc without any congestion and no dilated peripheral capillaries. These clinical features support the initial diagnosis of DOA. Genetic tests can assist in differential diagnosis of DOA from LHON. LHON is a maternally inherited disease due to mitochondrial DNA mutation. The most common mutations are found in the NADH dehydrogenase subunit (ND) 4, ND1, and ND6 genes. Mutations in ND4 m.11778G>A, ND1 m.3460G>A, and ND6 m.14484T>C account for 50%–70%, 6%–25%, and 10%–15% of LHON patients, respectively [ 32 – 34 ]. In this study, we did not find any mtDNA mutations in LHON patients. In contrast, DOA is an autosomal inherited optic neuropathy, mainly caused by mutations of the OPA1 gene. To date, five genes (OPA1, OPA3 [ 35 ], AFG3L2 [ 36 ], DNM1L [ 37 ], and WFS1 [ 38 ]) have been identified as disease-causing genes for nonsyndromic DOA. In addition, six genetic loci have been reported to be responsible for DOA, including OPA2 (Xp11.4-p11.21), OPA4 (18q12.2-q12.3), OPA5 (22q12.1-q13.1), OPA6 (8q21-q22), OPA7 (11q14.1), and OPA8 (16q21-q22) [ 2 , 6 ]. Among them, OPA1 is the leading gene of DOA [ 39 ]. More than 280 OPA1 mutations have been reported to responsible for DOA (<url>; updated on December 30, 2018).
+31781369_19913	59	62	DOA	Disease	D029241
+31781369_19913	95	99	LHON	Disease	DOID:705
+31781369_19913	117	144	hereditary optic neuropathy	Disease	not found
+31781369_19913	146	150	LHON	Disease
+31781369_19913	194	231	unilateral progression of vision loss	Biomarker
+31781369_19913	255	295	congested or hydropic optic disc borders	Biomarker
+31781369_19913	255	330	congested or hydropic optic disc borders and dilated peripheral capillaries	Collection
+31781369_19913	300	330	dilated peripheral capillaries	Biomarker
+31781369_19913	351	375	Pale temporal optic disc	Biomarker
+31781369_19913	351	420	Pale temporal optic disc and bilateral central or paracentral scotoma	Collection
+31781369_19913	380	420	bilateral central or paracentral scotoma	Biomarker
+31781369_19913	784	787	DOA	Disease
+31781369_19913	843	846	DOA	Disease
+31781369_19913	852	856	LHON	Disease
+31781369_19913	858	862	LHON	Disease
+31781369_19913	868	896	maternally inherited disease	Disease	not found
+31781369_19913	904	930	mitochondrial DNA mutation	Biomarker
+31781369_19913	948	1028	mutations are found in the NADH dehydrogenase subunit (ND) 4, ND1, and ND6 genes	Biomarker
+31781369_19913	975	979	NADH	Chemical
+31781369_19913	975	1008	NADH dehydrogenase subunit (ND) 4	Gene-protein	HGNC:7459
+31781369_19913	1010	1013	ND1	Gene-protein	HGNC:7455
+31781369_19913	1019	1022	ND6	Gene-protein	HGNC:7462
+31781369_19913	1043	1046	ND4	Gene-protein	HGNC:7459
+31781369_19913	1043	1092	ND4 m.11778G>A, ND1 m.3460G>A, and ND6 m.14484T>C	Collection
+31781369_19913	1047	1057	m.11778G>A	Variant
+31781369_19913	1059	1062	ND1	Gene-protein
+31781369_19913	1063	1072	m.3460G>A	Variant
+31781369_19913	1078	1081	ND6	Gene-protein
+31781369_19913	1082	1092	m.14484T>C	Variant
+31781369_19913	1137	1141	LHON	Disease
+31781369_19913	1213	1228	mtDNA mutations	Biomarker
+31781369_19913	1232	1236	LHON	Disease
+31781369_19913	1260	1263	DOA	Disease
+31781369_19913	1270	1306	autosomal inherited optic neuropathy	Disease	not found
+31781369_19913	1325	1351	mutations of the OPA1 gene	Biomarker
+31781369_19913	1342	1346	OPA1	Gene-protein	HGNC:8140
+31781369_19913	1374	1378	OPA1	Gene-protein
+31781369_19913	1374	1378	OPA1	Biomarker	C415198
+31781369_19913	1374	1430	OPA1, OPA3 [ 35 ], AFG3L2 [ 36 ], DNM1L [ 37 ], and WFS1	Collection
+31781369_19913	1380	1384	OPA3	Gene-protein	HGNC:8142
+31781369_19913	1380	1384	OPA3	Biomarker	C443108
+31781369_19913	1393	1399	AFG3L2	Gene-protein	HGNC:315
+31781369_19913	1393	1399	AFG3L2	Biomarker	C120699
+31781369_19913	1408	1413	DNM1L	Gene-protein	HGNC:2973
+31781369_19913	1408	1413	DNM1L	Biomarker	C110768
+31781369_19913	1426	1430	WFS1	Gene-protein	HGNC:12762
+31781369_19913	1426	1430	WFS1	Biomarker
+31781369_19913	1489	1505	nonsyndromic DOA	Disease	not found
+31781369_19913	1520	1536	six genetic loci	Biomarker
+31781369_19913	1578	1581	DOA	Disease
+31781369_19913	1593	1597	OPA2	Biomarker
+31781369_19913	1593	1700	OPA2 (Xp11.4-p11.21), OPA4 (18q12.2-q12.3), OPA5 (22q12.1-q13.1), OPA6 (8q21-q22), OPA7 (11q14.1), and OPA8	Collection
+31781369_19913	1615	1619	OPA4	Biomarker
+31781369_19913	1637	1641	OPA5	Biomarker
+31781369_19913	1659	1663	OPA6	Biomarker
+31781369_19913	1696	1700	OPA8	Biomarker
+31781369_19913	1736	1740	OPA1	Gene-protein
+31781369_19913	1736	1740	OPA1	Biomarker
+31781369_19913	1764	1767	DOA	Disease
+31781369_19913	1786	1804	280 OPA1 mutations	Biomarker
+31781369_19913	1790	1794	OPA1	Gene-protein
+31781369_19913	1843	1846	DOA	Disease
+

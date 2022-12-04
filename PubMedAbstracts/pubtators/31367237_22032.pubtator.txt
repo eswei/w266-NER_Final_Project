@@ -1,0 +1,26 @@
+31367237_22032|t|RSS_IDENT_p_31367237_b_1_4_9
+31367237_22032|a| Nevertheless, beyond being just a clinical marker for cardiovascular diseases, visfatin plays an important role in regulating vascular inflammation and atherosclerosis. On the one hand, extracellular visfatin can promote proliferation of human vascular smooth muscle cells through a NAMPT-dependent mechanism [ 33 ]. On the other hand, growing scientific evidence supports that visfatin can promote the vascular inflammation through its immunomodulatory properties on different cell types, including vascular smooth muscle cells, endothelial cells and immune cells [ 34 – 37 ]. NAMPT has been reported to increase in inflammatory M1 macrophages compared to in anti-inflammatory M2 macrophages, suggesting that NAMPT could contribute to plaque inflammation in atherosclerotic disorders at least partly through its effect on macrophages [ 38 ]. In addition, Alexander et al. have also found that elevated level of visfatin was an independent predictor for declined numbers of non-classical endothelial progenitor cells in T2DM individuals [ 39 ]. Therefore, visfatin has emerged as a promising pharmacological target in the context of cardiovascular complications. 
+31367237_22032	84	107	cardiovascular diseases	Disease	DOID:1287
+31367237_22032	109	117	visfatin	Biomarker	 D054409
+31367237_22032	109	117	visfatin	Gene-protein	HGNC:30092
+31367237_22032	156	177	vascular inflammation	Disease	not found
+31367237_22032	156	197	vascular inflammation and atherosclerosis	Collection
+31367237_22032	182	197	atherosclerosis	Disease	DOID:1936
+31367237_22032	230	238	visfatin	Gene-protein
+31367237_22032	313	318	NAMPT	Gene-protein	HGNC:30092
+31367237_22032	408	416	visfatin	Gene-protein
+31367237_22032	408	416	visfatin	Biomarker
+31367237_22032	433	454	vascular inflammation	Disease
+31367237_22032	608	613	NAMPT	Gene-protein
+31367237_22032	740	745	NAMPT	Gene-protein
+31367237_22032	740	745	NAMPT	Biomarker
+31367237_22032	766	785	plaque inflammation	Disease	not found
+31367237_22032	766	814	plaque inflammation in atherosclerotic disorders	Collection
+31367237_22032	789	814	atherosclerotic disorders	Disease	DOID:1936
+31367237_22032	924	950	elevated level of visfatin	Biomarker
+31367237_22032	942	950	visfatin	Gene-protein
+31367237_22032	1050	1054	T2DM	Disease	DOID:9352
+31367237_22032	1086	1094	visfatin	Gene-protein
+31367237_22032	1086	1094	visfatin	Biomarker
+31367237_22032	1163	1191	cardiovascular complications	Disease	DOID:1287
+

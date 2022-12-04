@@ -1,0 +1,66 @@
+31024350_51823|t|RSS_IDENT_p_31024350_b_1_10_3
+31024350_51823|a| Increased sAPPα in autism could be a neuroinflammatory response with resultant upregulation of the non-amyloidogenic pathway. Bailey et al. ( 23 ) demonstrated increased sAPPα, neuroinflammatory GFAP and gliosis in transgenic mice designed to overexpress sAPPα in brain tissue. Upregulation of GFAP was correlated with elevations in Interleukin 6 (IL-6), gp130, and Notch1. The IL-6/gp130 pathway is considered anabolic and promotes axonal sprouting of neurons and activated astrocytes after entorhinal cortex lesion in rats ( 197 ). Furthermore, ADAM17 participates in the cleavage of inflammatory factors related to microglial activation ( 113 ) and in reaction to injury ( 118 ). A prenatal insult would also increase the expression of NMDA and glutamate receptors in the offspring. High glutamate receptors activate the ERK signaling cascade. Zeidan-Chulia et al. ( 198 ) proposed this model for autism after performing a focused microarray analysis of genes belonging to NOTCH, WNT and AD. They found upregulation of glutamate ionotropic receptor NMDA type subunit 1 (GRIN1), and MAP3K1, which activates the JNK and ERK pathways. Among their conclusions, they proposed that epigenetic stress could lead to increased NMDA receptors and increased calcium that would stimulate ERK-dependent α-secretase activity. Activation of ADAM17 by ERK (and P38 MAP kinase), for example, can activate EGF receptor signaling which leads to enhanced cell proliferation ( 152 , 153 ). Higher levels of sAPPα would then activate the PI3K/Akt/mTOR pathway also resulting in aberrant brain growth. This model applies to brain cells in general, not just white matter. However, as described above, mTOR pathways favors myelination, except for the findings that disruption of upper mTOR pathways result in hypomyelination instead of hypermyelination ( 123 ). Therefore, other pathways such as activation of ERK1/2 may be needed to explain increased white matter in autism (Figure 1).
+31024350_51823	31	46	Increased sAPPα	Biomarker
+31024350_51823	41	46	sAPPα	Gene-protein	HGNC:620
+31024350_51823	50	56	autism	Disease	DOID:12849
+31024350_51823	110	155	upregulation of the non-amyloidogenic pathway	Biomarker
+31024350_51823	191	242	increased sAPPα, neuroinflammatory GFAP and gliosis	Biomarker
+31024350_51823	201	206	sAPPα	Gene-protein
+31024350_51823	226	230	GFAP	Gene-protein
+31024350_51823	286	291	sAPPα	Gene-protein
+31024350_51823	309	329	Upregulation of GFAP	Biomarker
+31024350_51823	325	329	GFAP	Gene-protein
+31024350_51823	350	403	elevations in Interleukin 6 (IL-6), gp130, and Notch1	Biomarker
+31024350_51823	364	377	Interleukin 6	Gene-protein
+31024350_51823	379	383	IL-6	Gene-protein
+31024350_51823	386	391	gp130	Gene-protein
+31024350_51823	397	403	Notch1	Gene-protein
+31024350_51823	409	413	IL-6	Gene-protein
+31024350_51823	414	419	gp130	Gene-protein
+31024350_51823	523	547	entorhinal cortex lesion	Disease	not found
+31024350_51823	578	584	ADAM17	Gene-protein	HGNC:195
+31024350_51823	743	815	increase the expression of NMDA and glutamate receptors in the offspring	Biomarker
+31024350_51823	770	774	NMDA	Chemical
+31024350_51823	770	798	NMDA and glutamate receptors	Genefamily	family:1201, family:282
+31024350_51823	779	788	glutamate	Chemical
+31024350_51823	817	841	High glutamate receptors	Biomarker
+31024350_51823	822	831	glutamate	Chemical
+31024350_51823	822	841	glutamate receptors	Genefamily	family:282
+31024350_51823	855	858	ERK	Genefamily	not found
+31024350_51823	931	937	autism	Disease
+31024350_51823	1007	1012	NOTCH	Genefamily	family:1689
+31024350_51823	1014	1017	WNT	Genefamily	family:360
+31024350_51823	1022	1024	AD	Disease	DOID:10652
+31024350_51823	1037	1122	upregulation of glutamate ionotropic receptor NMDA type subunit 1 (GRIN1), and MAP3K1	Biomarker
+31024350_51823	1053	1062	glutamate	Chemical
+31024350_51823	1053	1102	glutamate ionotropic receptor NMDA type subunit 1	Gene-protein	HGNC:4584
+31024350_51823	1083	1087	NMDA	Chemical
+31024350_51823	1104	1109	GRIN1	Gene-protein	HGNC:4584
+31024350_51823	1116	1122	MAP3K1	Gene-protein	HGNC:6848
+31024350_51823	1144	1147	JNK	Gene-protein	HGNC:6881
+31024350_51823	1152	1155	ERK	Genefamily
+31024350_51823	1210	1227	epigenetic stress	Biomarker
+31024350_51823	1242	1266	increased NMDA receptors	Biomarker
+31024350_51823	1252	1256	NMDA	Chemical
+31024350_51823	1252	1266	NMDA receptors	Gene-protein	family:1201
+31024350_51823	1271	1288	increased calcium	Biomarker
+31024350_51823	1281	1288	calcium	Chemical
+31024350_51823	1310	1313	ERK	Genefamily
+31024350_51823	1324	1335	α-secretase	Gene-protein	not found
+31024350_51823	1360	1366	ADAM17	Gene-protein
+31024350_51823	1370	1373	ERK	Genefamily
+31024350_51823	1379	1393	P38 MAP kinase	Gene-protein	 HGNC:6876
+31024350_51823	1422	1434	EGF receptor	Gene-protein	HGNC:3236
+31024350_51823	1503	1586	Higher levels of sAPPα would then activate the PI3K/Akt/mTOR pathway also resulting	Biomarker
+31024350_51823	1520	1525	sAPPα	Gene-protein	HGNC:620
+31024350_51823	1550	1554	PI3K	Genefamily	family:831
+31024350_51823	1555	1558	Akt	Genefamily	family:1900
+31024350_51823	1559	1563	mTOR	Gene-protein	HGNC:3942
+31024350_51823	1711	1715	mTOR	Gene-protein
+31024350_51823	1774	1807	disruption of upper mTOR pathways	Biomarker
+31024350_51823	1794	1798	mTOR	Gene-protein
+31024350_51823	1905	1925	activation of ERK1/2	Biomarker
+31024350_51823	1919	1925	ERK1/2	Gene-protein	HGNC:6877, HGNC:6871
+31024350_51823	1951	1973	increased white matter	Biomarker
+31024350_51823	1977	1983	autism	Disease
+

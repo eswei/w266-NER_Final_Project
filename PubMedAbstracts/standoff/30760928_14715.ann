@@ -1,0 +1,55 @@
+T0	Disease 28 34	Cancer
+#1	AnnotatorNotes T0	DOID:162
+T1	Chemical 248 257	succinate
+T10	Disease 697 703	cancer
+T12	Disease 796 802	cancer
+T14	Chemical 863 871	squalene
+T15	Disease 888 894	cancer
+T16	Chemical 957 968	cholesterol
+T18	Disease 1039 1044	ALCLs
+#9	AnnotatorNotes T18	DOID:0050744
+T19	Disease 1066 1073	cancers
+#10	AnnotatorNotes T19	DOID:162
+T2	Chemical 262 270	fumarate
+T20	Disease 1182 1186	ALCL
+#12	AnnotatorNotes T20	DOID:0050744
+T22	Chemical 1280 1291	cholesterol
+T23	Disease 1311 1316	tumor
+T24	Disease 1524 1530	cancer
+T3	Disease 285 317	cancers with SDH or FH mutations
+#17	AnnotatorNotes T3	not found
+T4	GeneFamily 298 301	SDH
+T6	Gene-Protein 305 307	FH
+T7	Chemical 442 450	squalene
+T8	Chemical 489 497	squalene
+T9	Disease 627 632	tumor
+#22	AnnotatorNotes T9	DOID:162
+T5	Biomarker 248 281	succinate and fumarate accumulate
+R1	Association Arg1:T5 Arg2:T3	
+#2	AnnotatorNotes T4	family:641
+#6	AnnotatorNotes T6	HGNC:3700
+T17	Disease 426 436	ALK+ ALCLs
+#8	AnnotatorNotes T17	not found
+T25	Gene-Protein 426 429	ALK
+#11	AnnotatorNotes T25	HGNC:427
+T26	Gene-Protein 442 464	squalene monooxygenase
+#13	AnnotatorNotes T26	HGNC:11279
+T27	Biomarker 437 473	lose squalene monooxygenase activity
+T28	Biomarker 478 497	accumulate squalene
+T29	Collection 437 497	lose squalene monooxygenase activity and accumulate squalene
+R3	Association Arg1:T29 Arg2:T17	
+T13	Biomarker 559 602	activation of cellular antioxidant defenses
+R4	Association Arg1:T13 Arg2:T9	
+T30	Gene-Protein 732 736	SQLE
+#3	AnnotatorNotes T30	HGNC:11279
+T31	Biomarker 732 748	SQLE suppression
+R5	Association Arg1:T31 Arg2:T12	
+T32	Biomarker 863 884	squalene accumulation
+R6	Association Arg1:T32 Arg2:T15	
+T33	Disease 983 993	ALK+ ALCLs
+T34	Gene-Protein 983 986	ALK
+T35	Drug 1139 1158	block in LDL uptake
+R7	Response Arg1:T35 Arg2:T20	
+#4	AnnotatorNotes T35	not found
+T21	Drug-Class 1226 1244	inhibitors of LDLR
+#5	AnnotatorNotes T10	DOID:162

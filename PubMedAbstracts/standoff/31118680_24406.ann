@@ -1,0 +1,66 @@
+T10	Drug 592 595	ATO
+T11	Drug 596 600	ATRA
+T12	Disease 650 658	leukemic
+#3	AnnotatorNotes T12	DOID:12972
+T13	Disease 718 734	NPM1-mutated AML
+T15	Disease 848 851	AML
+T17	Gene-Protein 948 951	NPM
+T2	Disease 177 180	AML
+#8	AnnotatorNotes T2	DOID:9119
+T20	Disease 1138 1141	AML
+T21	Disease 1210 1243	intermediate cytogenetic risk AML
+T3	Disease 260 291	AML patients with NPM1 mutation
+T5	Drug 317 321	ATRA
+T6	Disease 405 437	AML cells carrying NPM1 mutation
+T8	Drug 461 464	ATO
+T9	Chemical 543 551	cysteine
+T1	Gene-Protein 75 80	MCL-1
+#1	AnnotatorNotes T1	HGNC:6943
+T4	Gene-Protein 116 120	NPM1
+#2	AnnotatorNotes T4	HGNC:7910
+T7	Gene-Protein 1249 1253	NPM1
+T14	Gene-Protein 885 889	NPM1
+T16	Gene-Protein 645 649	NPM1
+T19	Gene-Protein 424 428	NPM1
+T22	Gene-Protein 278 282	NPM1
+T24	Gene-Protein 792 796	NPM1
+T25	Gene-Protein 718 722	NPM1
+T26	Gene-Protein 1072 1076	NPM1
+T27	Gene-Protein 1445 1449	NPM1
+T28	Gene-Protein 1321 1325	NPM1
+T29	Gene-Protein 495 499	NPM1
+T30	Biomarker 116 129	NPM1 mutation
+R1	Prognostic-Good Arg1:T30 Arg2:T2	
+T31	Biomarker 75 95	MCL-1 overexpression
+#4	AnnotatorNotes T3	not found
+T32	Drug-Class 339 364	conventional chemotherapy
+#5	AnnotatorNotes T5	CHEMBL38
+R2	Synergy-Response Arg1:T5 Arg2:T3	
+#6	AnnotatorNotes T6	not found
+#7	AnnotatorNotes T8	CHEMBL2362016
+T33	Biomarker 481 555	expression of NPM1 mutant protein and its acquired C-terminus cysteine 288
+R3	Mediated-Response Arg1:T8 Arg2:T6	
+#9	AnnotatorNotes T13	not found
+T34	Collection 592 600	ATO/ATRA
+R4	Response Arg1:T34 Arg2:T13	
+T35	Biomarker 792 805	NPM1 mutation
+R5	Association Arg1:T35 Arg2:T15	
+#10	AnnotatorNotes T17	 HGNC:7910
+T36	Biomarker 885 906	NPM1 exon 12 mutation
+T37	Biomarker 921 951	cytoplasmic dislocation of NPM
+T18	Biomarker 1072 1086	NPM1 mutations
+T38	Gene-Protein 1424 1429	MCL-1
+#11	AnnotatorNotes T21	not found
+T23	Biomarker 1445 1458	NPM1 mutation
+T39	Biomarker 1424 1440	MCL-1 expression
+T40	Biomarker 1321 1335	NPM1 mutations
+R6	Mediator Arg1:T8 Arg2:T33	
+T41	Disease 992 1006	leukemogenesis
+T42	Disease 972 981	malignant
+#12	AnnotatorNotes T42	DOID:162
+#13	AnnotatorNotes T41	not found
+T43	Collection 972 1006	malignant clone and leukemogenesis
+R9	Synergy-Response Arg1:T32 Arg2:T3	
+R8	Association Arg1:T36 Arg2:T43	
+T44	Biomarker 1249 1263	NPM1 mutations
+R7	Prognostic-Good Arg1:T44 Arg2:T21	

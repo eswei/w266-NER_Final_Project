@@ -1,0 +1,48 @@
+T1	Drug-Class 218 226	platinum
+T11	Drug 732 741	cisplatin
+T12	Disease 732 755	cisplatin-resistant EOC
+T14	Drug-Class 877 885	platinum
+T15	Disease 907 910	EOC
+T17	Drug-Class 1078 1086	platinum
+T18	Disease 1101 1104	EOC
+T20	Drug-Class 1200 1208	platinum
+T21	Drug-Class 1496 1504	platinum
+T3	Drug-Class 347 355	platinum
+T5	Chemical 436 439	CpG
+T8	Drug-Class 599 607	platinum
+T9	Disease 622 625	EOC
+T2	Gene-Protein 109 114	hMSH2
+#1	AnnotatorNotes T2	HGNC:7325
+T4	Gene-Protein 139 144	Mef-2
+#2	AnnotatorNotes T4	HGNC:17940
+T6	Gene-Protein 146 150	HNFα
+#3	AnnotatorNotes T6	HGNC:11621
+T7	Gene-Protein 156 158	GR
+#4	AnnotatorNotes T7	HGNC:7978
+T13	Biomarker 267 329	hMSH2 mRNA and protein levels were significantly downregulated
+T16	Gene-Protein 267 272	hMSH2
+T19	Gene-Protein 465 470	hMSH2
+T22	Biomarker 518 585	loss of expression due to hypermethylation of hMSH2 upstream region
+T23	Gene-Protein 564 569	hMSH2
+R1	Non-Response Arg1:T8 Arg2:T9	
+#5	AnnotatorNotes T9	DOID:2152
+T24	Biomarker 662 715	hypermethylation of another essential MMR gene, hMLH1
+T25	Gene-Protein 710 715	hMLH1
+#6	AnnotatorNotes T25	HGNC:7127
+#7	AnnotatorNotes T11	CHEMBL11359
+#8	AnnotatorNotes T12	not found
+R3	Association Arg1:T24 Arg2:T12	
+T27	Gene-Protein 847 852	hMSH2
+T28	Biomarker 997 1042	hypermethylation of the hMSH2 upstream region
+T29	Gene-Protein 1021 1026	hMSH2
+R4	Non-Response Arg1:T17 Arg2:T18	
+T30	Biomarker 1139 1174	increase of hMLH1 methylation level
+T31	Gene-Protein 1151 1156	hMLH1
+T32	Biomarker 1474 1491	hMLH1 methylation
+T33	Gene-Protein 1474 1479	hMLH1
+T34	Biomarker 408 444	methylation level of − 1164 CpG site
+T35	Biomarker 465 486	hMSH2 mRNA expression
+T36	Gene-Protein 800 805	hMSH2
+T26	Biomarker 792 861	loss of hMSH2 expression caused by hypermethylation of hMSH2 promoter
+T37	Gene-Protein 1709 1714	hMLH1
+T10	Biomarker 83 171	− 1164 upstream region of hMSH2, a transcription factor Mef-2, HNFα, and GR binding site

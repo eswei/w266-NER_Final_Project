@@ -1,0 +1,54 @@
+T0	Gene-Protein 87 91	PGRN
+T1	Disease 96 103	obesity
+#2	AnnotatorNotes T1	DOID:9970
+T11	Gene-Protein 807 811	PGRN
+T12	Disease 842 847	obese
+T14	Gene-Protein 967 971	PGRN
+T15	Disease 1030 1048	metabolic syndrome
+#6	AnnotatorNotes T15	D024821
+T16	Disease 1050 1052	MS
+#7	AnnotatorNotes T16	D024821
+T17	Disease 1079 1081	MS
+T19	Gene-Protein 1207 1211	PGRN
+T20	Disease 1263 1270	obesity
+T22	Gene-Protein 1335 1339	PGRN
+T23	Disease 1343 1348	obese
+T24	Disease 1517 1522	obese
+T25	Gene-Protein 1570 1574	PGRN
+T26	Gene-Protein 1635 1639	PGRN
+T27	Gene-Protein 1731 1735	PGRN
+T28	Disease 1768 1773	obese
+T3	Gene-Protein 161 165	PGRN
+T4	Disease 205 210	obese
+#19	AnnotatorNotes T4	DOID:9970
+T5	Gene-Protein 282 286	PGRN
+T7	Disease 345 350	obese
+T8	Gene-Protein 519 523	PGRN
+T9	Gene-Protein 590 594	PGRN
+#1	AnnotatorNotes T0	HGNC:4601
+T2	Biomarker 155 201	serum PGRN concentrations were 1.5-fold higher
+R1	Association Arg1:T2 Arg2:T4	
+T6	Biomarker 326 329	BMI
+T10	Biomarker 331 333	TG
+T13	Chemical 331 333	TG
+T18	Biomarker 339 341	TC
+T21	Biomarker 282 293	PGRN levels
+T29	Biomarker 584 621	serum PGRN concentration were heavier
+T30	Biomarker 630 671	higher concentrations of serum TC and TGs
+T31	Chemical 668 671	TGs
+T32	Biomarker 795 838	circulating PGRN concentrations were higher
+R2	Association Arg1:T32 Arg2:T12	
+T33	Biomarker 907 910	BMI
+T34	Biomarker 961 1012	serum PGRN concentrations were significantly higher
+R3	Association Arg1:T34 Arg2:T15	
+T35	Biomarker 1113 1116	BMI
+T36	Biomarker 1121 1140	waist circumference
+T37	Biomarker 1185 1226	increased circulating PGRN concentrations
+R4	Association Arg1:T37 Arg2:T20	
+T38	Biomarker 1320 1339	elevated serum PGRN
+R5	Association Arg1:T38 Arg2:T23	
+T39	Biomarker 1436 1472	enhanced synthesis of this adipokine
+T40	GeneFamily 1463 1472	adipokine
+#3	AnnotatorNotes T40	not found
+R6	Association Arg1:T39 Arg2:T24	
+#4	AnnotatorNotes T6	D015992

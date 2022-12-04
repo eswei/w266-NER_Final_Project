@@ -1,0 +1,57 @@
+29575569_116|t|RSS_IDENT_p_29575569_a_1_1
+29575569_116|a| Short‐chain enoyl‐CoA hydratase (SCEH or ECHS1) deficiency is a rare inborn error of metabolism caused by biallelic mutations in the gene ECHS1 (OMIM 602292). Clinical presentation includes infantile‐onset severe developmental delay, regression, seizures, elevated lactate, and brain MRI abnormalities consistent with Leigh syndrome (LS). Characteristic abnormal biochemical findings are secondary to dysfunction of valine metabolism. We describe four patients from two consanguineous families (one Pakistani and one Irish Traveler), who presented in infancy with LS. Urine organic acid analysis by GC/MS showed increased levels of erythro‐2,3‐dihydroxy‐2‐methylbutyrate and 3‐methylglutaconate (3‐MGC). Increased urine excretion of methacrylyl‐CoA and acryloyl‐CoA related metabolites analyzed by LC‐MS/MS, were suggestive of SCEH deficiency; this was confirmed in patient fibroblasts. Both families were shown to harbor homozygous pathogenic variants in the ECHS1 gene; a c.476A > G (p.Gln159Arg) ECHS1variant in the Pakistani family and a c.538A > G, p.(Thr180Ala) ECHS1 variant in the Irish Traveler family. The c.538A > G, p.(Thr180Ala) ECHS1 variant was postulated to represent a Canadian founder mutation, but we present SNP genotyping data to support Irish ancestry of this variant with a haplotype common to the previously reported Canadian patients and our Irish Traveler family. The presence of detectable erythro‐2,3‐dihydroxy‐2‐methylbutyrate is a nonspecific marker on urine organic acid analysis but this finding, together with increased excretion of 3‐MGC, elevated plasma lactate, and normal acylcarnitine profile in patients with a Leigh‐like presentation should prompt consideration of a diagnosis of SCEH deficiency and genetic analysis of ECHS1. ECHS1 deficiency can be added to the list of conditions with 3‐MGA.
+29575569_116	28	59	Short‐chain enoyl‐CoA hydratase	Gene-protein	HGNC:3151
+29575569_116	28	86	Short‐chain enoyl‐CoA hydratase (SCEH or ECHS1) deficiency	Disease	DOID:0080154
+29575569_116	40	49	enoyl‐CoA	Chemical
+29575569_116	61	65	SCEH	Gene-protein	HGNC:3151
+29575569_116	69	74	ECHS1	Gene-protein	HGNC:3151
+29575569_116	134	171	biallelic mutations in the gene ECHS1	Biomarker
+29575569_116	166	171	ECHS1	Gene-protein
+29575569_116	218	272	infantile‐onset severe developmental delay, regression	Biomarker
+29575569_116	218	329	infantile‐onset severe developmental delay, regression, seizures, elevated lactate, and brain MRI abnormalities	Collection
+29575569_116	274	282	seizures	Biomarker	D012640
+29575569_116	284	300	elevated lactate	Biomarker
+29575569_116	293	300	lactate	Chemical
+29575569_116	306	329	brain MRI abnormalities	Biomarker
+29575569_116	346	360	Leigh syndrome	Disease	DOID:3652
+29575569_116	362	364	LS	Disease	DOID:3652
+29575569_116	429	461	dysfunction of valine metabolism	Disease	C536524
+29575569_116	444	450	valine	Chemical
+29575569_116	592	594	LS	Disease
+29575569_116	640	730	increased levels of erythro‐2,3‐dihydroxy‐2‐methylbutyrate and 3‐methylglutaconate (3‐MGC)	Biomarker
+29575569_116	660	698	erythro‐2,3‐dihydroxy‐2‐methylbutyrate	Chemical
+29575569_116	703	722	3‐methylglutaconate	Chemical
+29575569_116	724	729	3‐MGC	Chemical
+29575569_116	732	813	Increased urine excretion of methacrylyl‐CoA and acryloyl‐CoA related metabolites	Biomarker
+29575569_116	761	776	methacrylyl‐CoA	Chemical
+29575569_116	781	793	acryloyl‐CoA	Chemical
+29575569_116	855	870	SCEH deficiency	Disease	DOID:0080154
+29575569_116	988	993	ECHS1	Gene-protein
+29575569_116	1002	1012	c.476A > G	Variant
+29575569_116	1002	1026	c.476A > G (p.Gln159Arg)	Collection
+29575569_116	1014	1025	p.Gln159Arg	Variant	p.Gln159Arg
+29575569_116	1070	1080	c.538A > G	Variant
+29575569_116	1070	1095	c.538A > G, p.(Thr180Ala)	Collection
+29575569_116	1082	1094	p.(Thr180Ala	Variant	p.Thr180Ala
+29575569_116	1096	1101	ECHS1	Gene-protein
+29575569_116	1144	1154	c.538A > G	Variant
+29575569_116	1144	1169	c.538A > G, p.(Thr180Ala)	Collection
+29575569_116	1159	1168	Thr180Ala	Variant
+29575569_116	1170	1175	ECHS1	Gene-protein
+29575569_116	1422	1483	presence of detectable erythro‐2,3‐dihydroxy‐2‐methylbutyrate	Biomarker
+29575569_116	1422	1658	presence of detectable erythro‐2,3‐dihydroxy‐2‐methylbutyrate is a nonspecific marker on urine organic acid analysis but this finding, together with increased excretion of 3‐MGC, elevated plasma lactate, and normal acylcarnitine profile	Collection
+29575569_116	1445	1483	erythro‐2,3‐dihydroxy‐2‐methylbutyrate	Chemical
+29575569_116	1571	1599	increased excretion of 3‐MGC	Biomarker
+29575569_116	1594	1599	3‐MGC	Chemical
+29575569_116	1601	1624	elevated plasma lactate	Biomarker
+29575569_116	1617	1624	lactate	Chemical
+29575569_116	1630	1658	normal acylcarnitine profile	Biomarker
+29575569_116	1637	1650	acylcarnitine	Chemical
+29575569_116	1678	1683	Leigh	Disease	DOID:3652
+29575569_116	1678	1763	Leigh‐like presentation should prompt consideration of a diagnosis of SCEH deficiency	Collection
+29575569_116	1748	1763	SCEH deficiency	Disease
+29575569_116	1788	1793	ECHS1	Gene-protein
+29575569_116	1795	1800	ECHS1	Gene-protein
+29575569_116	1795	1811	ECHS1 deficiency	Disease	DOID:0080154
+29575569_116	1856	1861	3‐MGA	Chemical
+

@@ -1,0 +1,52 @@
+29351796_5610|t|RSS_IDENT_p_29351796_b_1_1_4
+29351796_5610|a| Among various regulatory mechanisms for gene expression, microRNAs (miRNAs) are highlighted as a prominent and intriguing one due to their extensive expression and functions in widespread organisms and biological activities [ 27 ], including tumourigenesis [ 28 ]. During tumourigenesis, many miRNAs undergo changes in expression, thus negatively regulating their cancer-related target genes to affect tumour phenotypes. These miRNAs are referred to as oncomiRs or tumour-suppressive miRNAs [ 28 ]. miR-22 is known as one of the most important tumour-suppressive miRNAs in many different cancer types [ 29 , 30 ]. In hepatocellular carcinoma, miR-22 suppresses cell proliferation and tumourigenicity and is correlated with patient prognosis [ 31 ]. In breast cancer, miR-22 inhibits cell invasion and migration by targeting Sp1, CD147 and GLUT1 [ 32 , 33 ]. In gastric cancer, miR-22 inhibits both tumour proliferation and metastasis by targeting MMP14 and Snail [ 34 ]. For CRC, miR-22 even has a more profound tumour-suppressive effect. miR-22 is significantly downregulated in CRC tissue compared with that in normal adjacent mucosa [ 35 ] and improves 5-FU and paclitaxel sensitivity in chemotherapy [ 36 , 37 ]. Overexpression of miR-22 inhibits HIF-1α and VEGF, thus suppressing CRC cell angiogenesis [ 38 ]. miR-22 is also activated by vitamin D and exerts anti-proliferative and anti-migratory roles in CRC cells by targeting TIAM1, MMP-2 and MMP-9 [ 39 , 40 ]. Although miR-22 shows vital significance in CRC, the exact mechanism through which miR-22 influences CRC progression is far from understood. 
+29351796_5610	394	400	cancer	Disease	DOID:162
+29351796_5610	432	438	tumour	Disease	DOID:162
+29351796_5610	483	491	oncomiRs	Rna-noncoding	not found
+29351796_5610	529	535	miR-22	Rna-noncoding	HGNC:31599
+29351796_5610	529	535	miR-22	Biomarker	C548375
+29351796_5610	593	599	miRNAs	Rna-noncoding
+29351796_5610	618	624	cancer	Disease
+29351796_5610	647	671	hepatocellular carcinoma	Disease	DOID:684
+29351796_5610	673	679	miR-22	Rna-noncoding
+29351796_5610	673	679	miR-22	Drug	C548375
+29351796_5610	782	795	breast cancer	Disease	DOID:1612
+29351796_5610	797	803	miR-22	Rna-noncoding
+29351796_5610	797	803	miR-22	Drug
+29351796_5610	854	857	Sp1	Gene-protein	HGNC:11205
+29351796_5610	859	864	CD147	Gene-protein	HGNC:1116
+29351796_5610	869	874	GLUT1	Gene-protein	HGNC:11005
+29351796_5610	891	905	gastric cancer	Disease	DOID:10534
+29351796_5610	907	913	miR-22	Rna-noncoding
+29351796_5610	907	913	miR-22	Drug
+29351796_5610	928	934	tumour	Disease
+29351796_5610	977	982	MMP14	Gene-protein	HGNC:7160
+29351796_5610	987	992	Snail	Gene-protein	HGNC:11128
+29351796_5610	1005	1008	CRC	Disease	DOID:9256
+29351796_5610	1010	1016	miR-22	Rna-noncoding
+29351796_5610	1010	1016	miR-22	Drug
+29351796_5610	1069	1075	miR-22	Rna-noncoding
+29351796_5610	1069	1075	miR-22	Drug
+29351796_5610	1069	1106	miR-22 is significantly downregulated	Biomarker
+29351796_5610	1110	1113	CRC	Disease
+29351796_5610	1186	1190	5-FU	Drug	CHEMBL185
+29351796_5610	1186	1205	5-FU and paclitaxel	Collection
+29351796_5610	1195	1205	paclitaxel	Drug	CHEMBL428647
+29351796_5610	1221	1233	chemotherapy	Drug-class
+29351796_5610	1247	1271	Overexpression of miR-22	Drug	not found
+29351796_5610	1265	1271	miR-22	Rna-noncoding
+29351796_5610	1281	1287	HIF-1α	Gene-protein	HGNC:4910
+29351796_5610	1292	1296	VEGF	Genefamily	family:1267
+29351796_5610	1315	1318	CRC	Disease
+29351796_5610	1345	1351	miR-22	Rna-noncoding
+29351796_5610	1373	1382	vitamin D	Chemical
+29351796_5610	1441	1444	CRC	Disease
+29351796_5610	1464	1469	TIAM1	Gene-protein	HGNC:11805
+29351796_5610	1471	1476	MMP-2	Gene-protein	HGNC:7166
+29351796_5610	1481	1486	MMP-9	Gene-protein	HGNC:7176
+29351796_5610	1509	1515	miR-22	Rna-noncoding
+29351796_5610	1509	1515	miR-22	Biomarker
+29351796_5610	1544	1547	CRC	Disease
+29351796_5610	1583	1589	miR-22	Rna-noncoding
+29351796_5610	1601	1604	CRC	Disease
+

@@ -1,0 +1,97 @@
+T10	Biomarker 1013 1028	chronic hypoxia
+T11	Biomarker 1049 1095	increase of hypoxia inducible factor (HIF-1 α)
+T13	Biomarker 1103 1186	increases beta-secretase for beta-site APP cleaving enzyme (BACE-1) gene expression
+T14	Disease 1659 1672	neuroblastoma
+#5	AnnotatorNotes T14	DOID:769
+T15	Biomarker 1846 1853	hypoxia
+T16	Chemical 1881 1885	zinc
+T17	Biomarker 1992 1999	hypoxia
+T18	Biomarker 2012 2073	overproduction of Aβ and its reduced degradation in the brain
+T19	Biomarker 2117 2124	hypoxia
+T20	Biomarker 2227 2230	OSA
+T21	Disease 2252 2259	hypoxia
+T22	Biomarker 2295 2350	Episodes of upper respiratory tract airways obstruction
+T24	Disease 2359 2366	hypoxia
+T25	Biomarker 2602 2609	hypoxia
+T26	Biomarker 2697 2704	hypoxia
+T27	Biomarker 2710 2736	higher Aβ 1–40 serum level
+T28	Biomarker 2738 2784	Aβ 1–40 level is not only significantly higher
+T29	Disease 2820 2839	breathing disorders
+#16	AnnotatorNotes T29	DOID:5353
+T3	Disease 548 567	Alzheimer's disease
+#17	AnnotatorNotes T3	DOID:10652
+T30	Chemical 2950 2954	SpO₂
+T4	Biomarker 601 642	higher blood level of Aβ 1–40 and Aβ 1–42
+T5	Disease 665 684	Alzheimer's disease
+T6	Biomarker 696 703	Hypoxia
+#20	AnnotatorNotes T6	D000860
+T7	Biomarker 745 788	increase of toxic Aβ 1–40 and Aβ 1–42 level
+T8	Biomarker 823 830	hypoxia
+#21	AnnotatorNotes T8	D000860
+T9	Biomarker 888 895	Hypoxia
+T31	Gene-Protein 39 41	Aβ
+#1	AnnotatorNotes T31	not found
+T32	Gene-Protein 82 107	amyloid precursor protein
+#2	AnnotatorNotes T32	HGNC:620
+T33	Gene-Protein 109 112	APP
+#7	AnnotatorNotes T33	HGNC:620
+T34	Gene-Protein 245 248	APP
+T35	Gene-Protein 266 284	α and γ secretases
+#10	AnnotatorNotes T35	not found, not found
+T1	Gene-Protein 326 334	Aβ 17–40
+T36	Gene-Protein 338 346	Aβ 17–42
+T2	Gene-Protein 442 460	secretases β and γ
+#18	AnnotatorNotes T2	not found, not found
+T37	Gene-Protein 494 501	Aβ 1–40
+T38	Gene-Protein 506 513	Aβ 1–42
+T39	Gene-Protein 623 630	Aβ 1–40
+T40	Gene-Protein 635 642	Aβ 1–42
+R1	Risk-Factor Arg1:T4 Arg2:T5	
+T41	Biomarker 810 818	Aβ level
+T42	Gene-Protein 810 812	Aβ
+T43	Biomarker 933 964	toxic Aβ 1–40 and Aβ 1–42 level
+T12	GeneFamily 1061 1085	hypoxia inducible factor
+T44	Gene-Protein 1087 1094	HIF-1 α
+T45	Gene-Protein 1113 1161	beta-secretase for beta-site APP cleaving enzyme
+T46	Gene-Protein 1163 1169	BACE-1
+T47	Gene-Protein 1251 1262	β secretase
+T48	Gene-Protein 1389 1395	BACE-1
+T49	Gene-Protein 1431 1442	β secretase
+T50	Biomarker 1514 1535	BACE-1 overexpression
+T51	Gene-Protein 1514 1520	BACE-1
+T52	Biomarker 1539 1576	increased production of toxic amyloid
+T53	Biomarker 1605 1649	hypoxia decreased ADAM-10 protein expression
+T54	Gene-Protein 1623 1630	ADAM-10
+#3	AnnotatorNotes T54	HGNC:188
+R3	Association Arg1:T53 Arg2:T14	
+T55	Gene-Protein 1692 1699	ADAM-10
+T56	Gene-Protein 1719 1730	α secretase
+T57	Biomarker 1854 1910	decreases neprilysin (NEP) zinc metalloprotease activity
+T58	Gene-Protein 1864 1874	neprilysin
+#4	AnnotatorNotes T58	HGNC:7154
+T59	Gene-Protein 1876 1879	NEP
+#6	AnnotatorNotes T59	HGNC:7154
+T60	Gene-Protein 2030 2032	Aβ
+T61	Biomarker 2104 2112	Aβ level
+T62	Gene-Protein 2104 2106	Aβ
+T63	Biomarker 2215 2223	Aβ level
+T64	Gene-Protein 2215 2217	Aβ
+#8	AnnotatorNotes T20	D020181
+R4	Association Arg1:T22 Arg2:T24	
+T23	Biomarker 2426 2454	Aβ 1–40 and 1–42 serum level
+T65	Biomarker 2578 2597	Aβ 1–40 serum level
+R7	Association Arg1:T28 Arg2:T29	
+R8	Association Arg1:T20 Arg2:T21	
+T66	Gene-Protein 763 770	Aβ 1–40
+T67	Gene-Protein 775 782	Aβ 1–42
+T68	Gene-Protein 939 946	Aβ 1–40
+T69	Gene-Protein 951 958	Aβ 1–42
+T70	Gene-Protein 2426 2442	Aβ 1–40 and 1–42
+T71	Gene-Protein 2578 2585	Aβ 1–40
+T72	Gene-Protein 2717 2724	Aβ 1–40
+T73	Gene-Protein 2738 2745	Aβ 1–40
+T74	Gene-Protein 2986 2993	Aβ 1–42
+#9	AnnotatorNotes T1	HGNC:620
+#11	AnnotatorNotes T36	HGNC:620
+#12	AnnotatorNotes T37	HGNC:620
+#13	AnnotatorNotes T38	HGNC:620

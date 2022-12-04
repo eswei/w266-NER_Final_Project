@@ -1,0 +1,44 @@
+29483574_17126|t|RSS_IDENT_p_29483574_b_1_3_3
+29483574_17126|a| Aldosterone works by up-regulating store operated Ca²⁺ entry (SOCE) with subsequent increase of cytosolic Ca²⁺ concentration ²⁰ , ²¹ , a powerful stimulator of FGF23 transcription ²² . Renal tubular NaCl wasting and subsequent stimulation of aldosterone release possibly account further for the enhanced FGF23 levels in gene targeted mice expressing WNK-resistant SPAK ²⁷ , ²⁸ or OSR1 ²⁹ , ³⁰ . FGF23 serum levels are increased in heart failure ⁹ , ¹⁰ , acute renal failure ¹¹ , chronic kidney disease ⁴ , ¹⁰ , ¹² , diabetic nephropathy ¹³ and hepatic failure ¹⁴ . In each of these disorders, serum aldosterone levels are increased ³¹ – ³⁷ . Thus, secondary hyperaldosteronism may contribute to or even account for the increased serum FGF23 levels in these disorders. Our data strongly suggest that increased FGF23 levels are a consequence of increased aldosterone levels in NCC KO mice. Vitamin D levels are similar in WT and KO mice, hence vitamin D seems not to be an important driver of FGF23 secretion in NCC KO mice. However, we find that PTH is increased in NCC KO mice, as previously reported ¹⁹ . Since PTH ³⁸ – ⁴⁰ also stimulates FGF23 secretion, PTH may contribute to the increase of FGF23 in NCC KO mice.
+29483574_17126	30	41	Aldosterone	Chemical
+29483574_17126	80	84	Ca²⁺	Chemical
+29483574_17126	136	140	Ca²⁺	Chemical
+29483574_17126	190	195	FGF23	Gene-protein	HGNC:3680
+29483574_17126	215	241	Renal tubular NaCl wasting	Disease	not found
+29483574_17126	229	233	NaCl	Chemical
+29483574_17126	272	283	aldosterone	Chemical
+29483574_17126	334	339	FGF23	Gene-protein
+29483574_17126	380	383	WNK	Genefamily
+29483574_17126	394	398	SPAK	Gene-protein
+29483574_17126	410	414	OSR1	Gene-protein
+29483574_17126	425	430	FGF23	Gene-protein
+29483574_17126	425	457	FGF23 serum levels are increased	Biomarker
+29483574_17126	461	474	heart failure	Disease	D006333
+29483574_17126	461	589	heart failure ⁹ , ¹⁰ , acute renal failure ¹¹ , chronic kidney disease ⁴ , ¹⁰ , ¹² , diabetic nephropathy ¹³ and hepatic failure	Collection
+29483574_17126	484	503	acute renal failure	Disease	DOID:3021
+29483574_17126	509	531	chronic kidney disease	Disease	DOID:784
+29483574_17126	546	566	diabetic nephropathy	Disease	D003928
+29483574_17126	574	589	hepatic failure	Disease	D017093
+29483574_17126	623	661	serum aldosterone levels are increased	Biomarker
+29483574_17126	629	640	aldosterone	Chemical
+29483574_17126	678	706	secondary hyperaldosteronism	Biomarker
+29483574_17126	749	777	increased serum FGF23 levels	Biomarker
+29483574_17126	765	770	FGF23	Gene-protein
+29483574_17126	829	851	increased FGF23 levels	Biomarker
+29483574_17126	839	844	FGF23	Gene-protein
+29483574_17126	873	901	increased aldosterone levels	Biomarker
+29483574_17126	883	894	aldosterone	Chemical
+29483574_17126	905	908	NCC	Gene-protein
+29483574_17126	918	927	Vitamin D	Chemical
+29483574_17126	918	934	Vitamin D levels	Biomarker
+29483574_17126	972	981	vitamin D	Chemical
+29483574_17126	1021	1026	FGF23	Gene-protein
+29483574_17126	1040	1043	NCC	Gene-protein
+29483574_17126	1075	1078	PTH	Gene-protein
+29483574_17126	1095	1098	NCC	Gene-protein
+29483574_17126	1142	1145	PTH	Gene-protein
+29483574_17126	1170	1175	FGF23	Gene-protein
+29483574_17126	1187	1190	PTH	Gene-protein
+29483574_17126	1225	1230	FGF23	Gene-protein
+29483574_17126	1234	1237	NCC	Gene-protein
+

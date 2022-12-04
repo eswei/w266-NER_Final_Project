@@ -1,0 +1,104 @@
+T0	Drug 28 39	Gemcitabine
+T1	Disease 86 112	advanced pancreatic cancer
+#2	AnnotatorNotes T1	not found
+T10	Drug 726 761	Overexpression of the miR‐1207 pair
+T11	Drug 804 815	gemcitabine
+T12	Drug 881 892	gemcitabine
+T15	Disease 1091 1093	PC
+T16	Drug 1147 1158	gemcitabine
+T17	Drug 1368 1379	gemcitabine
+T18	Drug 1397 1408	gemcitabine
+T19	Disease 1533 1535	PC
+T2	Disease 114 116	PC
+T20	Drug 1573 1584	gemcitabine
+T21	Biomarker 1617 1657	decreased expression of Drosha and DGCR8
+T22	Disease 1678 1683	tumor
+#13	AnnotatorNotes T22	DOID:162
+T23	Drug 1788 1799	gemcitabine
+T24	Disease 1816 1818	PC
+T25	Disease 2133 2135	PC
+T26	Disease 2136 2153	pancreatic cancer
+#17	AnnotatorNotes T26	DOID:1793
+T28	Chemical 2305 2313	tyrosine
+T3	Drug 157 168	gemcitabine
+T4	Biomarker 419 437	expression of PVT1
+T5	Drug 457 468	gemcitabine
+T6	Disease 481 483	PC
+T7	Disease 544 546	PC
+T8	Drug 566 577	gemcitabine
+T9	Drug 604 615	gemcitabine
+T29	Drug-Class 63 75	chemotherapy
+#1	AnnotatorNotes T0	CHEMBL888
+#3	AnnotatorNotes T3	CHEMBL888
+T30	RNA-Noncoding 263 267	Pvt1
+#4	AnnotatorNotes T30	HGNC:9709
+T31	RNA-Noncoding 299 303	PVT1
+#5	AnnotatorNotes T31	HGNC:9709
+T32	RNA-Noncoding 507 511	PVT1
+T33	RNA-Noncoding 636 640	PVT1
+T35	RNA-Noncoding 433 437	PVT1
+#6	AnnotatorNotes T2	DOID:1793
+T34	RNA-Noncoding 694 702	miR‐1207
+#7	AnnotatorNotes T34	HGNC:35273
+T36	RNA-Noncoding 709 723	miR‐1207‐5p/3p
+#8	AnnotatorNotes T36	HGNC:35273,HGNC:35273
+T37	RNA-Noncoding 838 852	miR‐1207‐5p/3p
+T38	RNA-Noncoding 748 756	miR‐1207
+T13	RNA-Noncoding 967 978	miR‐1207‐5p
+#9	AnnotatorNotes T13	HGNC:35273
+T39	RNA-Noncoding 983 994	miR‐1207‐3p
+#10	AnnotatorNotes T39	HGNC:35273
+T40	Gene-Protein 1006 1009	SRC
+#11	AnnotatorNotes T40	HGNC:11283
+T14	Gene-Protein 1026 1054	non‐receptor tyrosine kinase
+#12	AnnotatorNotes T14	HGNC:11283
+T41	Gene-Protein 1060 1087	ras homolog family member A
+#14	AnnotatorNotes T41	HGNC:667
+T42	Gene-Protein 1192 1198	Drosha
+#15	AnnotatorNotes T42	HGNC:17904
+T43	Gene-Protein 1167 1190	Drosha ribonuclease III
+#16	AnnotatorNotes T43	HGNC:17904
+T44	Gene-Protein 1242 1247	DGCR8
+#18	AnnotatorNotes T44	HGNC:2847
+T45	Gene-Protein 1204 1240	DGCR8 microprocessor complex subunit
+#19	AnnotatorNotes T45	HGNC:2847
+T46	RNA-Noncoding 1281 1285	PVT1
+T47	Gene-Protein 1313 1319	Drosha
+T48	RNA-Noncoding 1419 1423	PVT1
+T49	Gene-Protein 1324 1329	DGCR8
+T50	Gene-Protein 1641 1647	Drosha
+T51	Gene-Protein 1652 1657	DGCR8
+T52	CellLine 1661 1667	AsPC‐1
+R1	Mediated-Non-Response Arg1:T20 Arg2:T22	
+R2	Mediator Arg1:T20 Arg2:T21	
+T54	Drug-Class 1800 1812	chemotherapy
+T55	Gene-Protein 1904 1940	DGCR8 microprocessor complex subunit
+T56	Gene-Protein 1948 1971	Drosha ribonuclease III
+T57	Gene-Protein 1898 1903	DGCR8
+T58	Gene-Protein 1976 1998	horseradish peroxidase
+T59	Gene-Protein 1972 1975	HRP
+T60	Gene-Protein 2066 2069	MYC
+T61	Gene-Protein 2070 2088	MYC proto‐oncogene
+T62	Gene-Protein 2090 2115	bHLH transcription factor
+T63	RNA-Noncoding 2154 2158	PVT1
+T64	Gene-Protein 2222 2226	RhoA
+T65	Gene-Protein 2227 2254	ras homolog family member A
+T27	RNA-Noncoding 2159 2163	Pvt1
+T66	Gene-Protein 2268 2271	SRC
+T67	Gene-Protein 2272 2320	SRC proto‐oncogene, non‐receptor tyrosine kinase
+R3	Response Arg1:T0 Arg2:T1	
+R6	Synergy-Response Arg1:T8 Arg2:T7	
+#20	AnnotatorNotes T10	not found
+T71	Gene-Protein 1941 1947	Drosha
+#21	AnnotatorNotes T60	HGNC:7553
+#22	AnnotatorNotes T61	HGNC:7553
+#23	AnnotatorNotes T62	HGNC:7553
+#24	AnnotatorNotes T64	HGNC:667
+#25	AnnotatorNotes T65	HGNC:667
+#26	AnnotatorNotes T66	HGNC:11283
+#27	AnnotatorNotes T67	HGNC:11283
+R7	Synergy-Response Arg1:T10 Arg2:T15	
+R8	Synergy-Response Arg1:T11 Arg2:T15	
+T53	Drug 493 511	Inhibition of PVT1
+#28	AnnotatorNotes T53	not found
+R4	Synergy-Response Arg1:T53 Arg2:T7	

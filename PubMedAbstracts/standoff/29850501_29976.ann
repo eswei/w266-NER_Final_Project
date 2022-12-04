@@ -1,0 +1,92 @@
+T1	Drug-Class 116 119	CCB
+T11	Disease 596 611	lupus nephritis
+#3	AnnotatorNotes T11	DOID:0080162
+T13	Disease 633 655	membranous nephropathy
+#5	AnnotatorNotes T13	DOID:10976
+T19	Disease 724 758	focal segmental glomerulosclerosis
+#9	AnnotatorNotes T19	DOID:1312
+T22	Disease 782 822	membranoproliferative glomerulonephritis
+#12	AnnotatorNotes T22	DOID:2920
+T25	Disease 906 964	anti-neutrophil cytoplasmic antibody-associated vasculitis
+#14	AnnotatorNotes T25	D056648
+T26	Disease 977 1002	polycystic kidney disease
+#15	AnnotatorNotes T26	DOID:0080322
+T28	Disease 1004 1034	obesity-related glomerulopathy
+#17	AnnotatorNotes T28	not found
+T3	Disease 146 149	CKD
+#19	AnnotatorNotes T3	DOID:784
+T30	Disease 1040 1055	solitary kidney
+#20	AnnotatorNotes T30	D000075529
+T32	Disease 1068 1083	Alport syndrome
+#21	AnnotatorNotes T32	DOID:10983
+T34	Disease 1088 1109	vesicoureteral reflux
+#22	AnnotatorNotes T34	DOID:9620
+T36	Disease 1125 1161	chronic tubulointerstitial nephritis
+#23	AnnotatorNotes T36	not found
+T38	Chemical 1163 1174	cholesterol
+T4	Disease 151 173	chronic kidney disease
+#25	AnnotatorNotes T4	DOID:784
+T40	Disease 1163 1195	cholesterol crystal embolization
+#26	AnnotatorNotes T40	DOID:1461
+T41	Disease 1197 1237	light and heavy chain deposition disease
+#27	AnnotatorNotes T41	not found
+T44	Disease 1239 1268	fibrillary glomerulonephritis
+#29	AnnotatorNotes T44	not found
+T46	Disease 1270 1299	crescentic glomerulonephritis
+#30	AnnotatorNotes T46	DOID:13139
+T5	Chemical 389 397	N-acetyl
+T50	Disease 1318 1364	endocapillary proliferative glomerulonephritis
+#33	AnnotatorNotes T50	not found
+T52	Disease 1366 1390	preeclamptic nephropathy
+#34	AnnotatorNotes T52	not found
+T54	Disease 1392 1414	chronic pyelonephritis
+#35	AnnotatorNotes T54	DOID:1076
+T56	Disease 1420 1446	functional solitary kidney
+#36	AnnotatorNotes T56	not found
+T6	Disease 454 480	Chronic glomerulonephritis
+#37	AnnotatorNotes T6	not found
+T7	Disease 510 525	IgA nephropathy
+#38	AnnotatorNotes T7	DOID:2986
+T9	Disease 547 574	non-IgA mesangial nephritis
+#39	AnnotatorNotes T9	not found
+T58	Drug-Class 34 37	ARB
+T60	Gene-Protein 69 73	ACEI
+T61	Drug-Class 75 114	angiotensin-converting enzyme inhibitor
+T59	Drug-Class 39 66	angiotensin receptor blocke
+T62	Gene-Protein 315 339	urinary α1-microglobulin
+#1	AnnotatorNotes T62	HGNC:453
+T63	Gene-Protein 307 313	uα1-MG
+#10	AnnotatorNotes T63	HGNC:453
+T64	Gene-Protein 349 373	urinary β2-microglobulin
+#18	AnnotatorNotes T64	HGNC:914
+T65	Gene-Protein 341 347	uβ2-MG
+#24	AnnotatorNotes T65	HGNC:914
+T66	Gene-Protein 381 417	urinary N-acetyl-β-D-glucosaminidase
+#32	AnnotatorNotes T66	HGNC:7632
+T67	Gene-Protein 375 379	uNAG
+#40	AnnotatorNotes T67	HGNC:7632
+T68	GeneFamily 429 451	urinary trefoil factor
+#41	AnnotatorNotes T68	not found
+T69	GeneFamily 423 427	uTFF
+#42	AnnotatorNotes T69	not found
+T8	Disease 675 704	IgA vasculitis with nephritis
+#2	AnnotatorNotes T8	DOID:11123,DOID:10952
+T10	Biomarker 175 179	eGFR
+T12	Biomarker 181 217	estimated glomerular filtration rate
+T14	Gene-Protein 510 513	IgA
+T15	Gene-Protein 551 554	IgA
+T16	Gene-Protein 675 678	IgA
+T17	Gene-Protein 1305 1308	IgA
+T18	Gene-Protein 39 50	angiotensin
+#4	AnnotatorNotes T18	not found
+T20	Gene-Protein 75 86	angiotensin
+T21	Drug-Class 121 144	calcium channel blocker
+#6	AnnotatorNotes T14	not found
+T23	Gene-Protein 934 942	antibody
+#7	AnnotatorNotes T23	not found
+T2	GeneFamily 121 136	calcium channel
+#8	AnnotatorNotes T2	family:182
+T24	Gene-Protein 288 295	albumin
+#11	AnnotatorNotes T24	HGNC:399
+T27	Chemical 219 222	LDL
+T29	Chemical 224 247	low-density lipoprotein

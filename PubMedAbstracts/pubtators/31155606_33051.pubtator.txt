@@ -1,0 +1,43 @@
+31155606_33051|t|RSS_IDENT_p_31155606_b_1_4_9
+31155606_33051|a| We performed a DNA microarray analysis to explore biomarkers associated with NASH in STAM mice and observed significant expression changes in 46 genes in the STAM group (Table 6). Expression levels of SAA1 and SAA2, which are inflammation-related genes, were increased in the STAM group. In addition, we assayed SAA protein levels. The SAA level at 8 weeks was significantly higher in the STAM group mice than in the normal group mice (Fig. 5). It is reported that providing an HFD or an HFD with cholesterol (HFC) induces an increase in the expression levels of SAA in the liver [ 29 , 34 ]. However, expression levels of SAA in hyperlipidemic (low-density lipoprotein receptor-deficient) HFC-fed mice, which develop NASH, increase much more than those in wild-type HFC-fed C57BL/6J mice [ 34 ]. In this study, expression levels of SAA1 and SAA protein levels markedly increased about 15- and 5-fold, respectively, in the STAM mice. Therefore, we speculated that liver inflammation rather than an HFD has a great impact on the gene expression and protein levels of SAA. SAA is an acute phase protein that is produced predominantly by the liver and increases in response to inflammatory cytokines. Moreover, it exhibits significant immunological activity by inducing the synthesis of several cytokines, by being chemotactic for neutrophils and mast cells, and by activating the inflammasome cascade, which has a key role in immune activation [ 7 ]. Thus, SAA is targeted for the treatment of diseases associated with chronic inflammation [ 7 ]. The level of C-reactive protein (CRP), which can be measured in humans, increases when there is inflammation in the body. However, we cannot measure CRP in mice. Accordingly, SAA was considered a useful biomarker for evaluating inflammation in STAM mice with NASH. 
+31155606_33051	107	111	NASH	Disease	DOID:0080547
+31155606_33051	210	244	Expression levels of SAA1 and SAA2	Biomarker
+31155606_33051	231	235	SAA1	Gene-protein
+31155606_33051	240	244	SAA2	Gene-protein
+31155606_33051	256	268	inflammation	Disease	D007249
+31155606_33051	342	345	SAA	Gene-protein
+31155606_33051	366	369	SAA	Gene-protein
+31155606_33051	366	411	SAA level at 8 weeks was significantly higher	Biomarker
+31155606_33051	508	511	HFD	Drug	D059305
+31155606_33051	518	538	HFD with cholesterol	Drug	not found
+31155606_33051	540	543	HFC	Drug	not found
+31155606_33051	556	609	increase in the expression levels of SAA in the liver	Biomarker
+31155606_33051	593	596	SAA	Gene-protein
+31155606_33051	653	656	SAA	Gene-protein
+31155606_33051	653	656	SAA	Biomarker	C035165
+31155606_33051	660	727	hyperlipidemic (low-density lipoprotein receptor-deficient) HFC-fed	Disease	not found
+31155606_33051	720	723	HFC	Drug
+31155606_33051	748	752	NASH	Biomarker	D065626
+31155606_33051	797	800	HFC	Drug
+31155606_33051	842	909	expression levels of SAA1 and SAA protein levels markedly increased	Biomarker
+31155606_33051	863	867	SAA1	Gene-protein
+31155606_33051	872	875	SAA	Gene-protein
+31155606_33051	994	1012	liver inflammation	Disease	not found
+31155606_33051	1028	1031	HFD	Drug
+31155606_33051	1096	1099	SAA	Gene-protein
+31155606_33051	1101	1104	SAA	Gene-protein
+31155606_33051	1101	1104	SAA	Biomarker
+31155606_33051	1204	1226	inflammatory cytokines	Genefamily
+31155606_33051	1322	1331	cytokines	Genefamily
+31155606_33051	1485	1488	SAA	Gene-protein
+31155606_33051	1485	1488	SAA	Biomarker
+31155606_33051	1547	1567	chronic inflammation	Disease	not found
+31155606_33051	1575	1656	The level of C-reactive protein (CRP), which can be measured in humans, increases	Biomarker
+31155606_33051	1588	1606	C-reactive protein	Gene-protein
+31155606_33051	1608	1611	CRP	Gene-protein
+31155606_33051	1671	1683	inflammation	Disease
+31155606_33051	1724	1727	CRP	Gene-protein
+31155606_33051	1750	1753	SAA	Gene-protein
+31155606_33051	1750	1753	SAA	Biomarker
+31155606_33051	1803	1838	inflammation in STAM mice with NASH	Disease	 D007249, DOID:0080547
+

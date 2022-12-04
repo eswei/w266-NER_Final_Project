@@ -1,0 +1,36 @@
+30464600_13546|t|RSS_IDENT_p_30464600_b_1_4_3
+30464600_13546|a| In the studies examining the expression level of PANDAR, many reports showed that PANDAR was associated with the prognosis of cancers. For instance, Li et al found that PANDAR was upregulated in thyroid cancer tissue and cell lines, and it could be a promising therapeutic target and important biomarker for thyroid cancer. 28 Similarly, an article reported that the expression level of PANDAR in hepatocellular carcinoma was crucially associated with the size of tumor nodule, vascular invasion, and TNM stage. 29 Moreover, overexpression of PANDAR was relevant to the poorer survival and shorter recurrence duration for the disease in hepatocellular carcinoma patients, and it could be recognized as a potential tumor biomarker and therapeutic target. 29 However, the effect of PANDAR expression on prognosis in blood malignancies remains poorly defined. Findings from our study demonstrated that high expression of PANDAR indicated a poor prognosis in AML patients. PANDAR expression level influenced CR rate, with the PANDARʰⁱᵍʰ group having lower CR rate in comparison to the PANDARˡᵒʷ group. Logistic regression analysis showed that PANDAR expression was an independent prognostic factor for CR. More importantly, Kaplan–Meier survival analyses clearly showed that patients with higher expression of PANDAR had a shorter OS than those patients with lower expression. Univariate and multivariate Cox regression analyses revealed the increased PANDAR expression was an independent unfavorable risk factor in AML patients. 
+30464600_13546	79	85	PANDAR	Rna-noncoding	HGNC:44048
+30464600_13546	112	118	PANDAR	Rna-noncoding
+30464600_13546	112	118	PANDAR	Biomarker	C000612163
+30464600_13546	156	163	cancers	Disease	DOID:162
+30464600_13546	199	205	PANDAR	Rna-noncoding
+30464600_13546	199	221	PANDAR was upregulated	Biomarker
+30464600_13546	225	239	thyroid cancer	Disease	DOID:1781
+30464600_13546	338	352	thyroid cancer	Disease
+30464600_13546	397	423	expression level of PANDAR	Biomarker
+30464600_13546	417	423	PANDAR	Rna-noncoding
+30464600_13546	427	451	hepatocellular carcinoma	Disease	DOID:684
+30464600_13546	486	506	size of tumor nodule	Biomarker
+30464600_13546	494	499	tumor	Disease	DOID:162
+30464600_13546	508	525	vascular invasion	Biomarker
+30464600_13546	531	540	TNM stage	Biomarker
+30464600_13546	555	579	overexpression of PANDAR	Biomarker
+30464600_13546	573	579	PANDAR	Rna-noncoding
+30464600_13546	667	691	hepatocellular carcinoma	Disease
+30464600_13546	744	749	tumor	Disease
+30464600_13546	810	816	PANDAR	Rna-noncoding
+30464600_13546	810	827	PANDAR expression	Biomarker
+30464600_13546	844	862	blood malignancies	Disease	DOID:2531
+30464600_13546	929	954	high expression of PANDAR	Biomarker
+30464600_13546	948	954	PANDAR	Rna-noncoding
+30464600_13546	985	988	AML	Disease	DOID:9119
+30464600_13546	999	1005	PANDAR	Rna-noncoding
+30464600_13546	1169	1175	PANDAR	Rna-noncoding
+30464600_13546	1169	1186	PANDAR expression	Biomarker
+30464600_13546	1315	1342	higher expression of PANDAR	Biomarker
+30464600_13546	1336	1342	PANDAR	Rna-noncoding
+30464600_13546	1468	1495	increased PANDAR expression	Biomarker
+30464600_13546	1478	1484	PANDAR	Rna-noncoding
+30464600_13546	1542	1545	AML	Disease
+

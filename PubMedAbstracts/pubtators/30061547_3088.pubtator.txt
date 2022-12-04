@@ -1,0 +1,33 @@
+30061547_3088|t|RSS_IDENT_p_30061547_b_1_1_4
+30061547_3088|a| The link between obesity and ID may be attributable to adiposity-related inflammatory mediators on iron regulatory pathways. The proinflammatory cytokine interleukin-6 (IL-6), frequently elevated in obesity, has been shown to induce expression of hepcidin [ 13 ], a negative regulator of intestinal iron absorption, macrophage iron efflux and mobilisation of hepatic iron stores [ 14 ]. In non-pregnant obese women, hepcidin is upregulated [ 15 ]. During a healthy pregnancy, hepcidin is reduced, enabling increased iron transfer to the fetus [ 1 ]. It follows that obesity in pregnancy may lead to hepcidin excess and decreased iron transfer to the fetus. The relationship between maternal obesity, inflammation, and iron status has not been extensively examined, with recent conflicting results [ 16 , 17 , 18 , 19 , 20 ]. Studies to date have been limited by small sample sizes and a lack of consensus regarding the measurement of iron and inflammatory biomarkers. There is also a paucity of studies examining the influence of maternal obesity on neonatal iron status, with some indicating that iron status may be compromised [ 16 , 17 , 21 , 22 , 23 ], and others reporting no impact [ 18 ].
+30061547_3088	47	54	obesity	Disease	DOID:9970
+30061547_3088	59	61	ID	Disease	DOID:2355
+30061547_3088	129	133	iron	Chemical
+30061547_3088	159	183	proinflammatory cytokine	Genefamily	not found
+30061547_3088	159	225	proinflammatory cytokine interleukin-6 (IL-6), frequently elevated	Biomarker
+30061547_3088	184	197	interleukin-6	Gene-protein	HGNC:6018
+30061547_3088	199	203	IL-6	Gene-protein	HGNC:6018
+30061547_3088	229	236	obesity	Disease
+30061547_3088	277	285	hepcidin	Gene-protein	HGNC:15598
+30061547_3088	329	333	iron	Chemical
+30061547_3088	357	361	iron	Chemical
+30061547_3088	397	401	iron	Chemical
+30061547_3088	420	438	non-pregnant obese	Disease	not found
+30061547_3088	446	454	hepcidin	Gene-protein
+30061547_3088	446	469	hepcidin is upregulated	Biomarker
+30061547_3088	506	514	hepcidin	Gene-protein
+30061547_3088	546	550	iron	Chemical
+30061547_3088	596	616	obesity in pregnancy	Disease	D000079262
+30061547_3088	629	637	hepcidin	Gene-protein
+30061547_3088	629	644	hepcidin excess	Biomarker
+30061547_3088	629	685	hepcidin excess and decreased iron transfer to the fetus	Collection
+30061547_3088	649	685	decreased iron transfer to the fetus	Biomarker
+30061547_3088	659	663	iron	Chemical
+30061547_3088	712	728	maternal obesity	Disease	D000079262
+30061547_3088	730	742	inflammation	Disease	D007249
+30061547_3088	748	752	iron	Chemical
+30061547_3088	964	968	iron	Chemical
+30061547_3088	1060	1076	maternal obesity	Disease
+30061547_3088	1089	1093	iron	Chemical
+30061547_3088	1128	1132	iron	Chemical
+

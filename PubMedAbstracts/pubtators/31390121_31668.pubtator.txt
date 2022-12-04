@@ -1,0 +1,42 @@
+31390121_31668|t|RSS_IDENT_p_31390121_b_1_4_4
+31390121_31668|a| DDX56 is a member of the DDX family of proteins that make up the largest RNA helicase family and are characterized by the presence of an Asp‐Glu‐Ala‐Asp (DEAD) motif. Several DDX family members play roles in alternative splicing.18, 19 DDX5 and DDX17 contribute to tumor‐cell invasiveness by regulating alternative splicing of several DNA‐ and chromatin‐binding factors.3 Although DDX56 is reported to be required in West Nile virus infection,39 the relationship of DDX56 with malignancies remains unknown. Our clinical analysis showed that DDX56 on Ch.7p is amplified in CRC, and overexpression is associated with malignant, pathological phenotypes, such as lymphatic invasion and distant metastasis. Notably, DDX56 overexpression was an independent prognostic factor in CRC. In our experimental analysis, we found that DDX56 promotes cell proliferation by facilitating cell cycle progression, possibly by inducing splicing alteration in tumor suppressor WEE1. Furthermore, DDX56 is overexpressed in various cancers. These findings provide clinical and biological evidence that DDX56 is a novel oncogene in CRC, and may function as a driver gene in various cancers in addition to CRC. 
+31390121_31668	30	35	DDX56	Gene-protein	HGNC:18193
+31390121_31668	55	58	DDX	Genefamily	family:499
+31390121_31668	103	115	RNA helicase	Genefamily	family:1168
+31390121_31668	167	170	Asp	Chemical
+31390121_31668	171	174	Glu	Chemical
+31390121_31668	175	178	Ala	Chemical
+31390121_31668	179	182	Asp	Chemical
+31390121_31668	205	208	DDX	Genefamily
+31390121_31668	266	270	DDX5	Gene-protein	HGNC:2746
+31390121_31668	266	270	DDX5	Biomarker	C506749
+31390121_31668	266	280	DDX5 and DDX17	Collection
+31390121_31668	275	280	DDX17	Gene-protein	HGNC:2740
+31390121_31668	275	280	DDX17	Biomarker	C102004
+31390121_31668	295	300	tumor	Disease	DOID:162
+31390121_31668	411	416	DDX56	Gene-protein
+31390121_31668	411	416	DDX56	Biomarker	C410330
+31390121_31668	447	472	West Nile virus infection	Disease	D014901
+31390121_31668	496	501	DDX56	Gene-protein
+31390121_31668	496	501	DDX56	Biomarker
+31390121_31668	507	519	malignancies	Disease	DOID:162
+31390121_31668	571	576	DDX56	Gene-protein
+31390121_31668	571	598	DDX56 on Ch.7p is amplified	Biomarker
+31390121_31668	602	605	CRC	Disease	DOID:9256
+31390121_31668	689	707	lymphatic invasion	Biomarker
+31390121_31668	712	730	distant metastasis	Biomarker
+31390121_31668	741	746	DDX56	Gene-protein
+31390121_31668	741	761	DDX56 overexpression	Biomarker
+31390121_31668	802	805	CRC	Disease
+31390121_31668	851	856	DDX56	Gene-protein
+31390121_31668	986	990	WEE1	Gene-protein	HGNC:12761
+31390121_31668	1005	1010	DDX56	Gene-protein
+31390121_31668	1005	1027	DDX56 is overexpressed	Biomarker
+31390121_31668	1039	1046	cancers	Disease	DOID:162
+31390121_31668	1109	1114	DDX56	Gene-protein
+31390121_31668	1109	1114	DDX56	Biomarker
+31390121_31668	1138	1141	CRC	Disease
+31390121_31668	1188	1195	cancers	Disease
+31390121_31668	1188	1214	cancers in addition to CRC	Collection
+31390121_31668	1211	1214	CRC	Disease
+

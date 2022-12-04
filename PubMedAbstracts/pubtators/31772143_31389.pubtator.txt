@@ -1,0 +1,50 @@
+31772143_31389|t|RSS_IDENT_p_31772143_b_1_3_5
+31772143_31389|a| Last but not least, hsa_circ_0000515 acts as a sponge of miR-326 to upregulate ELK1. A more recent study identified miR-326 as a tumor suppressor in human prostatic cancer through inhibiting Mucin1 [ 35 ]. ELK1 triggers a proto-oncogene c-Fos, downstream target, by which ELK1 stimulates the growth of bladder cancer cells [ 36 ]. In line with our data that ELK1 over-expression promoted cervical cancer development, ELK1 is also able to inhibit the suppressive effects of Tanshinone I on proliferation of HeLa cells [ 37 ]. Inhibition of ELK1 is capable of suppressing thyroid cancer progression [ 38 ]. Down-regulation of ELK1 is responsible for the oncogenic role of tumor-suppressive miR-135a in breast cancer [ 39 ]. The activation of the ERK/ELK1/Snail signaling pathway underlies the promotive function of tumor-derived CXCL5 in colorectal cancer metastasis [ 40 ]. The literature mentioned above aids to supports the conclusion that hsa_circ_0000515 silencing could attenuate cervical cancer progression through miR-326-dependent ELK1 inhibition. Interestingly, ELK1 is an integration point associated with different mitogen-activated protein kinase (MAPK) signaling pathways [ 41 ]. This therefore gives rise to the highly possible involvement of potential MAPK signaling pathways in the hsa_circ_0000515/miR-326/ELK1 axis a question for the further researches. 
+31772143_31389	50	66	hsa_circ_0000515	Rna-noncoding
+31772143_31389	87	94	miR-326	Rna-noncoding	HGNC:31769
+31772143_31389	109	113	ELK1	Gene-protein	HGNC:3321
+31772143_31389	146	153	miR-326	Rna-noncoding
+31772143_31389	146	153	miR-326	Drug	C545322
+31772143_31389	185	201	prostatic cancer	Disease	DOID:10283
+31772143_31389	221	227	Mucin1	Gene-protein	HGNC:7508
+31772143_31389	236	240	ELK1	Gene-protein
+31772143_31389	267	272	c-Fos	Gene-protein	HGNC:3796
+31772143_31389	302	306	ELK1	Gene-protein
+31772143_31389	302	306	ELK1	Biomarker	C494112
+31772143_31389	332	346	bladder cancer	Disease	DOID:11054
+31772143_31389	388	392	ELK1	Gene-protein
+31772143_31389	388	408	ELK1 over-expression	Biomarker
+31772143_31389	418	433	cervical cancer	Disease	DOID:4362
+31772143_31389	447	451	ELK1	Gene-protein
+31772143_31389	503	515	Tanshinone I	Drug	CHEMBL363535
+31772143_31389	536	540	HeLa	Cellline
+31772143_31389	555	573	Inhibition of ELK1	Drug	not found
+31772143_31389	569	573	ELK1	Gene-protein
+31772143_31389	600	614	thyroid cancer	Disease	DOID:1781
+31772143_31389	635	658	Down-regulation of ELK1	Drug
+31772143_31389	654	658	ELK1	Gene-protein
+31772143_31389	718	726	miR-135a	Drug
+31772143_31389	718	728	miR-135a i	Rna-noncoding
+31772143_31389	730	743	breast cancer	Disease	DOID:1612
+31772143_31389	756	806	activation of the ERK/ELK1/Snail signaling pathway	Biomarker
+31772143_31389	774	777	ERK	Genefamily	not found
+31772143_31389	778	782	ELK1	Gene-protein
+31772143_31389	783	788	Snail	Gene-protein	HGNC:11128
+31772143_31389	843	862	tumor-derived CXCL5	Biomarker
+31772143_31389	857	862	CXCL5	Gene-protein	HGNC:10642
+31772143_31389	866	883	colorectal cancer	Disease	DOID:9256
+31772143_31389	971	987	hsa_circ_0000515	Rna-noncoding
+31772143_31389	971	997	hsa_circ_0000515 silencing	Drug	not found
+31772143_31389	1014	1029	cervical cancer	Disease
+31772143_31389	1050	1057	miR-326	Rna-noncoding
+31772143_31389	1068	1072	ELK1	Gene-protein
+31772143_31389	1100	1104	ELK1	Gene-protein
+31772143_31389	1100	1104	ELK1	Biomarker
+31772143_31389	1155	1187	mitogen-activated protein kinase	Genefamily	family:651
+31772143_31389	1155	1213	mitogen-activated protein kinase (MAPK) signaling pathways	Biomarker
+31772143_31389	1189	1193	MAPK	Genefamily	family:651
+31772143_31389	1296	1300	MAPK	Genefamily
+31772143_31389	1327	1343	hsa_circ_0000515	Rna-noncoding
+31772143_31389	1344	1351	miR-326	Rna-noncoding
+31772143_31389	1352	1356	ELK1	Gene-protein
+

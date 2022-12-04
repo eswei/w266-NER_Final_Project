@@ -1,0 +1,76 @@
+31504506_1688|t|RSS_IDENT_s_31504506_a_1_5
+31504506_1688|a| Outcomes A total of 20 articles out of 1669 hits met our selection criteria. The mean vascular density (MVD) was studied by quantification of CD31, CD34, von Willebrand Factor (vWF) or factor-VIII-antibody-stained microvessels in seven studies. All these studies reported a significantly increased MVD in ectopic endometrium, and out of the six articles that took it into account, four studies reported a significantly increased MVD in eutopic endometrium compared with control endometrium. Five articles showed a significantly higher vascular endothelial growth factor expression in ectopic endometrium and three articles in eutopic endometrium compared with control endometrium. The vascular and pro-angiogenic markers α-smooth muscle actin, endoglin, S100A13, vimentin, matrix metalloproteinases (MMPs), nuclear factor (NF)-kB, tissue factor (TF), DJ-1, phosphorylated mammalian target of rapamycin, activin A, folli- and myostatin, CD41, SLIT, roundabout 1 (ROBO1), cyclooxygenase-2, lysophosphatidic acid (LPA) 1,4-5, phospho signal transducer and activator of transcription 3 (pSTAT3), interleukin (IL)-6, IL-22 and transforming growth factor-β1 were increased in ectopic endometrium, and the markers S100A13, MMP-2 and -9, TF, follistatin, myostatin, ROBO1, LPA1 and 4-5, pSTAT3, IL-6 and IL-22 were increased in eutopic endometrium, compared with control endometrium. The anti-angiogenic markers E-cadherin, eukaryotic translation initiation factor 3 subunit and gene associated with retinoic-interferon-induced mortality 19 were decreased in ectopic endometrium and IL-10 in eutopic endometrium, compared with control endometrium. The staining level of vWF and two pro-angiogenic markers (NF-κB nuclear p65 and TF) correlated with AUB in patients with adenomyosis. We found no studies that investigated the possible relationship between markers of angiogenesis and subfertility in adenomyosis patients. Nine articles reported on direct or indirect targeting of angiogenesis in adenomyosis—either by testing hormonal therapy or herbal compounds in clinical studies or by testing angiogenesis inhibitors in preclinical studies. However, there are no clinical studies on the effectiveness of such therapy for adenomyosis-related AUB or subfertility.
+31504506_1688	170	174	CD31	Gene-protein	HGNC:8823
+31504506_1688	176	180	CD34	Gene-protein	HGNC:1662
+31504506_1688	182	203	von Willebrand Factor	Gene-protein	HGNC:12726
+31504506_1688	205	208	vWF	Gene-protein	HGNC:12726
+31504506_1688	213	233	factor-VIII-antibody	Gene-protein	not found
+31504506_1688	316	329	increased MVD	Biomarker
+31504506_1688	333	352	ectopic endometrium	Disease	not found
+31504506_1688	447	460	increased MVD	Biomarker
+31504506_1688	556	608	higher vascular endothelial growth factor expression	Biomarker
+31504506_1688	563	597	vascular endothelial growth factor	Genefamily	family:1267
+31504506_1688	612	631	ectopic endometrium	Disease
+31504506_1688	749	770	α-smooth muscle actin	Gene-protein
+31504506_1688	772	780	endoglin	Gene-protein
+31504506_1688	782	789	S100A13	Gene-protein
+31504506_1688	791	799	vimentin	Gene-protein
+31504506_1688	801	826	matrix metalloproteinases	Genefamily
+31504506_1688	828	832	MMPs	Genefamily
+31504506_1688	835	857	nuclear factor (NF)-kB	Genefamily
+31504506_1688	859	872	tissue factor	Gene-protein
+31504506_1688	874	876	TF	Gene-protein
+31504506_1688	879	883	DJ-1	Gene-protein
+31504506_1688	885	929	phosphorylated mammalian target of rapamycin	Gene-protein
+31504506_1688	920	929	rapamycin	Chemical
+31504506_1688	931	940	activin A	Gene-protein
+31504506_1688	942	962	folli- and myostatin	Gene-protein
+31504506_1688	964	968	CD41	Gene-protein
+31504506_1688	970	974	SLIT	Gene-protein
+31504506_1688	976	988	roundabout 1	Gene-protein
+31504506_1688	990	995	ROBO1	Gene-protein
+31504506_1688	998	1014	cyclooxygenase-2	Gene-protein
+31504506_1688	1016	1037	lysophosphatidic acid	Chemical
+31504506_1688	1039	1042	LPA	Chemical
+31504506_1688	1044	1109	1,4-5, phospho signal transducer and activator of transcription 3	Gene-protein
+31504506_1688	1051	1058	phospho	Chemical
+31504506_1688	1111	1117	pSTAT3	Gene-protein
+31504506_1688	1120	1138	interleukin (IL)-6	Gene-protein
+31504506_1688	1140	1145	IL-22	Gene-protein
+31504506_1688	1150	1179	transforming growth factor-β1	Gene-protein
+31504506_1688	1198	1218	ectopic endometrium,	Disease
+31504506_1688	1227	1344	markers S100A13, MMP-2 and -9, TF, follistatin, myostatin, ROBO1, LPA1 and 4-5, pSTAT3, IL-6 and IL-22 were increased	Biomarker
+31504506_1688	1235	1242	S100A13	Gene-protein
+31504506_1688	1244	1256	MMP-2 and -9	Gene-protein
+31504506_1688	1258	1260	TF	Gene-protein
+31504506_1688	1262	1273	follistatin	Gene-protein
+31504506_1688	1275	1284	myostatin	Gene-protein
+31504506_1688	1286	1291	ROBO1	Gene-protein
+31504506_1688	1293	1305	LPA1 and 4-5	Gene-protein
+31504506_1688	1307	1313	pSTAT3	Gene-protein
+31504506_1688	1315	1319	IL-6	Gene-protein
+31504506_1688	1324	1329	IL-22	Gene-protein
+31504506_1688	1408	1575	anti-angiogenic markers E-cadherin, eukaryotic translation initiation factor 3 subunit and gene associated with retinoic-interferon-induced mortality 19 were decreased	Biomarker
+31504506_1688	1432	1442	E-cadherin	Gene-protein
+31504506_1688	1444	1494	eukaryotic translation initiation factor 3 subunit	Gene-protein
+31504506_1688	1499	1560	gene associated with retinoic-interferon-induced mortality 19	Gene-protein
+31504506_1688	1520	1528	retinoic	Chemical
+31504506_1688	1579	1598	ectopic endometrium	Disease
+31504506_1688	1603	1608	IL-10	Gene-protein
+31504506_1688	1603	1608	IL-10	Biomarker
+31504506_1688	1672	1751	staining level of vWF and two pro-angiogenic markers (NF-κB nuclear p65 and TF)	Biomarker
+31504506_1688	1690	1693	vWF	Gene-protein
+31504506_1688	1726	1731	NF-κB	Genefamily
+31504506_1688	1740	1743	p65	Gene-protein
+31504506_1688	1748	1750	TF	Gene-protein
+31504506_1688	1768	1771	AUB	Biomarker	D008796
+31504506_1688	1789	1800	adenomyosis	Disease	DOID:288
+31504506_1688	1874	1897	markers of angiogenesis	Biomarker
+31504506_1688	1902	1914	subfertility	Biomarker	D007246
+31504506_1688	1918	1929	adenomyosis	Disease	DOID:288
+31504506_1688	2014	2025	adenomyosis	Disease
+31504506_1688	2044	2060	hormonal therapy	Drug-class
+31504506_1688	2115	2138	angiogenesis inhibitors	Drug-class
+31504506_1688	2243	2266	adenomyosis-related AUB	Disease	not found
+31504506_1688	2270	2282	subfertility	Biomarker
+

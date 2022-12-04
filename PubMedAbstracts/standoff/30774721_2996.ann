@@ -1,0 +1,79 @@
+T0	Chemical 534 541	glucose
+T1	Disease 621 636	type 2 diabetes
+#2	AnnotatorNotes T1	DOID:9352
+T2	Disease 658 665	obesity
+#3	AnnotatorNotes T2	DOID:9970
+T3	Chemical 801 808	glucose
+T4	Disease 1148 1170	cardiovascular disease
+#5	AnnotatorNotes T4	DOID:1287
+T5	Disease 1177 1185	diabetic
+#6	AnnotatorNotes T5	not found
+T6	Disease 1269 1291	cardiovascular disease
+T9	Disease 1600 1608	diabetic
+T10	GeneFamily 30 40	Adipokines
+#1	AnnotatorNotes T10	not found
+T11	Gene-Protein 198 205	insulin
+#4	AnnotatorNotes T11	HGNC:6081
+T12	Gene-Protein 240 251	Adiponectin
+#11	AnnotatorNotes T12	HGNC:13633
+T13	Gene-Protein 358 365	insulin
+T14	Gene-Protein 638 645	insulin
+T15	Gene-Protein 253 259	leptin
+#12	AnnotatorNotes T15	HGNC:6553
+T16	Gene-Protein 699 705	Leptin
+#13	AnnotatorNotes T16	HGNC:6553
+T17	Gene-Protein 265 273	resistin
+#14	AnnotatorNotes T17	HGNC:20389
+T18	GeneFamily 284 294	adipokines
+#15	AnnotatorNotes T18	not found
+T19	Gene-Protein 296 307	Adiponectin
+T20	Gene-Protein 474 485	adiponectin
+#16	AnnotatorNotes T20	HGNC:13633
+T21	Gene-Protein 574 585	adiponectin
+T22	Gene-Protein 880 886	Leptin
+T23	Gene-Protein 1034 1040	Leptin
+T24	Gene-Protein 1212 1218	leptin
+T25	Biomarker 1203 1225	Elevated leptin levels
+R1	Risk-Factor Arg1:T25 Arg2:T6	
+T26	Chemical 546 551	lipid
+T27	Gene-Protein 1656 1664	resistin
+T28	Gene-Protein 1293 1301	Resistin
+#17	AnnotatorNotes T28	HGNC:20389
+T29	Gene-Protein 1378 1386	resistin
+T30	GeneFamily 736 745	adipokine
+T31	GeneFamily 892 918	pro-inflammatory adipokine
+#18	AnnotatorNotes T31	not found
+T32	GeneFamily 999 1025	pro-inflammatory cytokines
+#19	AnnotatorNotes T32	not found
+T33	Gene-Protein 440 447	insulin
+T7	Disease 220 232	inflammation
+#8	AnnotatorNotes T7	D007249
+T34	Disease 390 402	inflammation
+T35	Disease 407 423	oxidative stress
+#20	AnnotatorNotes T35	D018384
+T36	Disease 638 656	insulin resistance
+#21	AnnotatorNotes T36	D007333
+T37	Disease 1414 1426	inflammation
+T38	Biomarker 1373 1393	High resistin levels
+T39	Biomarker 570 592	Low adiponectin levels
+T40	Collection 621 690	type 2 diabetes, insulin resistance, obesity, and cardiovascular risk
+R2	Association Arg1:T39 Arg2:T40	
+T41	Biomarker 1641 1671	elevated serum resistin levels
+R3	Prognostic-Poor Arg1:T41 Arg2:T9	
+T42	Drug 296 307	Adiponectin
+#7	AnnotatorNotes T42	D052242
+T44	Biomarker 30 40	Adipokines
+#10	AnnotatorNotes T44	D054392
+R5	Association Arg1:T44 Arg2:T7	
+R6	Association Arg1:T38 Arg2:T37	
+T45	Biomarker 1034 1040	Leptin
+#22	AnnotatorNotes T45	D020738
+T46	Collection 1075 1185	oxidative stress, which might explain the recently reported increases in cardiovascular disease among diabetic
+R7	Association Arg1:T45 Arg2:T46	
+T47	Biomarker 1293 1301	Resistin
+#23	AnnotatorNotes T47	D052243
+T8	Disease 671 690	cardiovascular risk
+#9	AnnotatorNotes T8	DOID:1287
+T48	Chemical 1056 1059	ROS
+T49	Chemical 1481 1484	ROS
+T50	Disease 1075 1091	oxidative stress

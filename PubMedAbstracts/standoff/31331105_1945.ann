@@ -1,0 +1,133 @@
+T10	Disease 408 410	CD
+#1	AnnotatorNotes T10	DOID:10608
+T11	Disease 416 436	autoimmune disorders
+#2	AnnotatorNotes T11	DOID:417
+T14	Disease 593 596	T1D
+T15	Biomarker 607 609	CD
+T18	Disease 631 633	CD
+T19	Biomarker 670 673	T1D
+T20	Disease 681 683	CD
+T21	Disease 688 691	T1D
+T22	Disease 862 865	T1D
+T23	Disease 903 905	CD
+T24	Biomarker 917 1004	HLA-DRB1, HLA-DQA1, and HLA-DQB1 genes display a major component of familial clustering
+T25	Disease 1013 1016	T1D
+T26	Disease 1021 1023	CD
+T27	Disease 1058 1061	T1D
+T28	Biomarker 1075 1090	DQ2.5 haplotype
+T3	Biomarker 261 294	genes encoding DR and DQ isotypes
+T30	Disease 1234 1236	CD
+T38	Disease 1909 1912	T1D
+T4	Disease 345 364	autoimmune diseases
+#16	AnnotatorNotes T4	DOID:417
+T40	Disease 2202 2205	T1D
+T42	GeneFamily 2464 2466	DQ
+T5	Disease 366 381	Type 1 diabetes
+#19	AnnotatorNotes T5	DOID:9744
+T7	Disease 383 386	T1D
+#20	AnnotatorNotes T7	DOID:9744
+T8	Disease 392 406	celiac disease
+#21	AnnotatorNotes T8	DOID:10608
+T1	GeneFamily 48 86	human leukocyte antigen (HLA) class II
+#22	AnnotatorNotes T1	not found
+T2	GeneFamily 276 278	DR
+#23	AnnotatorNotes T2	not found
+T43	GeneFamily 283 285	DQ
+#24	AnnotatorNotes T43	not found
+R1	Risk-Factor Arg1:T3 Arg2:T4	
+T6	Gene-Protein 833 840	insulin
+#4	AnnotatorNotes T6	HGNC:6081
+T9	Gene-Protein 842 848	GADA65
+#5	AnnotatorNotes T9	HGNC:4093
+T12	Gene-Protein 854 858	IA-2
+#6	AnnotatorNotes T12	HGNC:9676
+T13	GeneFamily 883 899	transglutaminase
+#7	AnnotatorNotes T13	family:773
+T16	Gene-Protein 917 925	HLA-DRB1
+#8	AnnotatorNotes T16	HGNC:4948
+T17	Gene-Protein 927 935	HLA-DQA1
+#9	AnnotatorNotes T17	HGNC:4942
+T44	Gene-Protein 941 949	HLA-DQB1
+#10	AnnotatorNotes T44	HGNC:4944
+T45	Collection 1013 1023	T1D and CD
+R4	Association Arg1:T24 Arg2:T45	
+T46	Collection 1075 1145	DQ2.5 haplotype, encoded by DQA1*05:01 and DQB1*02:01 or DQ8 haplotype
+R5	Risk-Factor Arg1:T46 Arg2:T27	
+T48	Biomarker 1245 1254	HLA-DQ2.5
+R7	Association Arg1:T48 Arg2:T30	
+T33	GeneFamily 2400 2402	DQ
+T29	Biomarker 1132 1145	DQ8 haplotype
+T34	Biomarker 1977 2013	genotypic assets of the risk alleles
+T35	Biomarker 1942 1960	haplotypic context
+T36	Collection 1942 2013	haplotypic context but also on the genotypic assets of the risk alleles
+R6	Risk-Factor Arg1:T36 Arg2:T38	
+T37	Biomarker 2057 2086	DR3/DR4 heterozygous genotype
+R9	Risk-Factor Arg1:T37 Arg2:T38	
+#11	AnnotatorNotes T19	D003922
+#3	AnnotatorNotes T15	D002446
+R2	Association Arg1:T15 Arg2:T14	
+R3	Association Arg1:T19 Arg2:T18	
+T39	Gene-Protein 1103 1107	DQA1
+T47	Variant 1107 1113	*05:01
+R10	Variant-Of Arg1:T39 Arg2:T47	
+T49	Gene-Protein 1118 1122	DQB1
+T50	Variant 1122 1128	*02:01
+R11	Variant-Of Arg1:T49 Arg2:T50	
+T51	Gene-Protein 1158 1162	DQA1
+T52	Variant 1162 1168	*03:01
+R12	Variant-Of Arg1:T51 Arg2:T52	
+T53	Gene-Protein 1173 1177	DQB1
+T54	Variant 1177 1183	*03:02
+T55	Gene-Protein 1348 1356	HLA-DRB1
+T56	Variant 1356 1359	*03
+R13	Variant-Of Arg1:T55 Arg2:T56	
+T57	Gene-Protein 1398 1406	HLA-DRB1
+T58	Variant 1406 1409	*04
+R14	Variant-Of Arg1:T57 Arg2:T58	
+T59	Gene-Protein 1471 1475	DRB1
+T60	Variant 1475 1481	*03:01
+R15	Variant-Of Arg1:T59 Arg2:T60	
+T61	Gene-Protein 1502 1506	DQA1
+T62	Variant 1506 1512	*05:01
+R16	Variant-Of Arg1:T61 Arg2:T62	
+T63	Gene-Protein 1517 1521	DQB1
+T64	Variant 1521 1527	*02:01
+R17	Variant-Of Arg1:T63 Arg2:T64	
+T65	Gene-Protein 1596 1600	DRB1
+T66	Variant 1600 1606	*04:01
+R18	Variant-Of Arg1:T65 Arg2:T66	
+T67	Gene-Protein 1627 1631	DQA1
+T68	Variant 1631 1637	*03:01
+R19	Variant-Of Arg1:T67 Arg2:T68	
+T69	Gene-Protein 1658 1662	DQB1
+T70	Variant 1662 1668	*03:01
+R20	Variant-Of Arg1:T69 Arg2:T70	
+T71	Gene-Protein 1672 1676	DQB1
+T72	Variant 1676 1682	*03:02
+R21	Variant-Of Arg1:T71 Arg2:T72	
+T73	Gene-Protein 1779 1783	DQB1
+T74	Variant 1783 1789	*03:02
+R22	Variant-Of Arg1:T73 Arg2:T74	
+T75	Gene-Protein 1850 1854	DQB1
+T76	Variant 1854 1860	*03:01
+R23	Variant-Of Arg1:T75 Arg2:T76	
+T77	Variant 2228 2234	*03:01
+T78	Gene-Protein 2224 2228	DRB1
+R24	Variant-Of Arg1:T78 Arg2:T77	
+T32	Gene-Protein 2235 2239	DQA1
+T41	Variant 2239 2245	*05:01
+R8	Variant-Of Arg1:T32 Arg2:T41	
+T79	Gene-Protein 2246 2250	DQB1
+T80	Variant 2250 2253	*02
+R25	Variant-Of Arg1:T79 Arg2:T80	
+T31	Gene-Protein 2276 2280	DRB1
+T81	Variant 2280 2286	*04:01
+R26	Variant-Of Arg1:T31 Arg2:T81	
+T82	Gene-Protein 2287 2291	DQA1
+T83	Variant 2291 2297	*03:01
+R27	Variant-Of Arg1:T82 Arg2:T83	
+T84	Gene-Protein 2298 2302	DQB1
+T85	Variant 2302 2308	*03:02
+R28	Variant-Of Arg1:T84 Arg2:T85	
+T86	Collection 2224 2308	DRB1*03:01-DQA1*05:01-DQB1*02 on one chromosome and DRB1*04:01-DQA1*03:01-DQB1*03:02
+R29	Association Arg1:T86 Arg2:T40	

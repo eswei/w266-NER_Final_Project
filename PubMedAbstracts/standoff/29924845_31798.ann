@@ -1,0 +1,49 @@
+T1	Disease 122 126	T1DM
+#1	AnnotatorNotes T1	DOID:9744
+T11	Variant 873 879	C1858T
+T12	Variant 881 890	rs2476601
+T13	Biomarker 945 964	HLA-DR3-DQ2/DR4-DQ8
+T14	Biomarker 1066 1096	PTPN22 and HLA-DQ/DR genotypes
+T15	Disease 1146 1150	T1DM
+T16	Disease 1316 1320	T1DM
+T3	Disease 295 299	T1DM
+T4	Biomarker 416 439	variant PTPN22 genotype
+T5	Biomarker 558 635	PTPN22 gene variant (C1858T, rs2476601) along with specific HLA DQ/DR alleles
+T8	Disease 717 721	T1DM
+T9	Disease 843 847	T1DM
+#7	AnnotatorNotes T9	DOID:0110452
+T17	Biomarker 64 92	PTPN22 variant genotype (TT)
+T18	Gene-Protein 64 70	PTPN22
+#8	AnnotatorNotes T18	HGNC:9652
+T19	GeneFamily 97 103	HLA-DQ
+#9	AnnotatorNotes T19	not found
+T20	Biomarker 97 111	HLA-DQ alleles
+T21	Biomarker 148 187	homozygous variant PTPN22 genotype (TT)
+T22	Gene-Protein 167 173	PTPN22
+T2	Biomarker 223 274	high risk DQ alleles (DQ 2–2, 2–3, 2–5, 2–8 and 8–8
+T23	Collection 148 243	homozygous variant PTPN22 genotype (TT), always carried one or more of the high risk DQ alleles
+R1	Association Arg1:T23 Arg2:T1	
+T25	Biomarker 325 336	TT genotype
+T26	Gene-Protein 424 430	PTPN22
+T27	Biomarker 491 517	‘high risk’ HLA-DR alleles
+T28	GeneFamily 503 509	HLA-DR
+#5	AnnotatorNotes T28	not found
+T6	Gene-Protein 558 564	PTPN22
+T7	GeneFamily 618 627	HLA DQ/DR
+A1	Conjunction T5
+R3	Risk-Factor Arg1:T5 Arg2:T8	
+T10	Gene-Protein 852 858	PTPN22
+T29	Collection 873 890	C1858T, rs2476601
+R4	Variant-Of Arg1:T10 Arg2:T29	
+R5	Association Arg1:T29 Arg2:T9	
+R6	Association Arg1:T13 Arg2:T9	
+T30	Gene-Protein 1066 1072	PTPN22
+T31	GeneFamily 1077 1086	HLA-DQ/DR
+T32	Gene-Protein 1501 1507	PTPN22
+T34	Biomarker 359 378	DQ2 or a DQ8 allele
+T35	Collection 325 378	TT genotype, 93% had at least one DQ2 or a DQ8 allele
+R2	Association Arg1:T35 Arg2:T3	
+T36	GeneFamily 1444 1447	HLA
+#2	AnnotatorNotes T36	family:588
+T37	Gene-Protein 1522 1525	LYP
+#3	AnnotatorNotes T37	HGNC:9652

@@ -1,0 +1,73 @@
+T1	Disease 92 94	EC
+#1	AnnotatorNotes T1	DOID:2871
+T11	Disease 1052 1069	pancreatic cancer
+#2	AnnotatorNotes T11	DOID:1793
+T13	Disease 1310 1325	prostate cancer
+#3	AnnotatorNotes T13	DOID:10283
+T15	Disease 1457 1469	liver cancer
+#4	AnnotatorNotes T15	DOID:3571
+T16	RNA-Noncoding 1471 1478	MiR-940
+T18	Disease 1517 1549	pancreatic ductal adenocarcinoma
+#6	AnnotatorNotes T18	DOID:3498
+T2	Disease 138 144	cancer
+#7	AnnotatorNotes T2	DOID:162
+T20	Disease 1679 1686	cancers
+T3	Disease 181 183	EC
+T4	Disease 586 588	EC
+T7	Disease 698 712	gastric cancer
+#11	AnnotatorNotes T7	DOID:10534
+T9	Disease 898 912	gastric cancer
+T5	RNA-Noncoding 60 67	miR-940
+#5	AnnotatorNotes T5	HGNC:33683
+T6	Biomarker 60 88	miR-940 was highly expressed
+R2	Prognostic-Poor Arg1:T6 Arg2:T1	
+T8	RNA-Noncoding 185 192	miR-940
+T10	RNA-Noncoding 170 177	miR-940
+T12	RNA-Noncoding 490 497	miR-940
+T14	RNA-Noncoding 336 343	miR-940
+T17	RNA-Noncoding 547 554	miR-940
+T19	RNA-Noncoding 250 257	miR-940
+T21	RNA-Noncoding 642 649	miR-940
+T22	RNA-Noncoding 1018 1025	miR-940
+T23	RNA-Noncoding 833 840	miR-940
+#9	AnnotatorNotes T16	HGNC:33683
+T24	RNA-Noncoding 1220 1227	miR-940
+T25	RNA-Noncoding 1390 1397	miR-940
+T26	RNA-Noncoding 1627 1634	miR-940
+T27	CellLine 272 278	RL95-2
+T28	CellLine 419 425	RL95-2
+T29	CellLine 441 447	RL95-2
+T30	Gene-Protein 951 956	ZNF24
+#10	AnnotatorNotes T30	HGNC:13032
+#8	AnnotatorNotes T20	DOID:162
+T31	Gene-Protein 759 784	programmed death ligand-1
+#12	AnnotatorNotes T31	HGNC:17635
+T32	Gene-Protein 1346 1351	MIEN1
+#13	AnnotatorNotes T32	HGNC:28230
+T33	Gene-Protein 1089 1094	GSK3β
+#14	AnnotatorNotes T33	HGNC:4617
+T34	Gene-Protein 1099 1104	sFRP1
+#15	AnnotatorNotes T34	HGNC:10776
+T35	Drug 1471 1478	MiR-940
+#16	AnnotatorNotes T35	C000594732
+R3	Response Arg1:T35 Arg2:T18	
+T36	Gene-Protein 1575 1580	MyD88
+#17	AnnotatorNotes T36	HGNC:7562
+T37	Gene-Protein 1448 1453	CXCR2
+#18	AnnotatorNotes T37	HGNC:6027
+T38	Drug 1390 1397	miR-940
+R4	Response Arg1:T38 Arg2:T15	
+T39	Drug 1220 1227	miR-940
+R5	Response Arg1:T39 Arg2:T13	
+T40	Biomarker 999 1025	high expression of miR-940
+R6	Association Arg1:T40 Arg2:T11	
+T41	Drug-Class 185 213	miR-940 mimics or inhibitors
+T42	Drug-Class 490 507	miR-940 inhibitor
+T43	Biomarker 642 649	miR-940
+T44	Biomarker 833 840	miR-940
+R7	Association Arg1:T43 Arg2:T7	
+R8	Association Arg1:T44 Arg2:T9	
+#19	AnnotatorNotes T39	C000594732
+#20	AnnotatorNotes T43	C000594732
+T45	Biomarker 1627 1634	miR-940
+R9	Association Arg1:T45 Arg2:T20	

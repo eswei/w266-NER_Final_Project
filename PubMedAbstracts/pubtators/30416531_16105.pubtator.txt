@@ -1,0 +1,56 @@
+30416531_16105|t|RSS_IDENT_p_30416531_b_1_4_3
+30416531_16105|a| Although APAP is a safe drug at a normal therapeutic dose, the possibility of hepatotoxicity still persists. APAP-induced liver injury is one of the best characterized systems of xenobiotic-induced liver injury for evaluating new treatment approaches [ 14 ]. After a therapeutic dose, APAP is mainly metabolized and changed into pharmacologically inactive glucuronide and sulfate conjugates, whereas a minor fraction is oxidized into a toxin that binds to the sulfhydryl group of glutathione (GSH) to form an APAP–GSH conjugate that is then excreted in the urine [ 15 ]. Excessive N-acetyl-p-benzoquinone imine formation depletes cellular GSH levels, leading to subsequent ROS-mediated lipid peroxidation and liver injury [ 2 , 16 ]. APAP-mediated liver injury is exacerbated in Nrf2-deficient animals due to reduced expressions of antioxidant genes [ 17 ] and the efflux of APAP metabolites [ 18 ]. However, liver-specific kelch-like ECH-associated protein 1 (Keap1)-deficient animals were more resistant to APAP-induced liver injury [ 19 ]. In addition, constant Nrf2 activation increased the basal hepatic GSH levels and accelerated their recovery after APAP treatment [ 20 ]. Recent data also support alleviation of APAP-induced liver injury through activation of the Nrf2 antioxidant pathway [ 21 , 22 ]. In the current study, PME induced activation of the Nrf2 pathway and decreased ROS production in vitro. In addition, PME also significantly improved the survival of mice with APAP-induced acute liver injury. Pretreatment with PME ameliorated APAP-induced liver injury, as evidenced by reliving increased plasma ALT and AST activities, and by attenuation of hepatic histological changes. Based on these findings, PME showed potential activities against APAP-induced hepatotoxicity by activating Nrf2, upregulating antioxidant defense, and reducing ROS production. 
+30416531_16105	39	43	APAP	Drug	CHEMBL112
+30416531_16105	108	122	hepatotoxicity	Disease	not found
+30416531_16105	139	143	APAP	Drug
+30416531_16105	139	164	APAP-induced liver injury	Disease	D056486
+30416531_16105	209	240	xenobiotic-induced liver injury	Disease	D056486
+30416531_16105	315	319	APAP	Drug
+30416531_16105	386	420	glucuronide and sulfate conjugates	Chemical
+30416531_16105	490	500	sulfhydryl	Chemical
+30416531_16105	510	521	glutathione	Chemical
+30416531_16105	523	526	GSH	Chemical
+30416531_16105	539	543	APAP	Drug
+30416531_16105	544	547	GSH	Chemical
+30416531_16105	611	640	N-acetyl-p-benzoquinone imine	Chemical
+30416531_16105	669	672	GSH	Chemical
+30416531_16105	703	706	ROS	Chemical
+30416531_16105	716	721	lipid	Chemical
+30416531_16105	739	751	liver injury	Disease	not found
+30416531_16105	764	768	APAP	Drug
+30416531_16105	764	790	APAP-mediated liver injury	Disease	not found
+30416531_16105	809	813	Nrf2	Gene-protein
+30416531_16105	809	823	Nrf2-deficient	Drug	not found
+30416531_16105	905	909	APAP	Drug
+30416531_16105	939	1007	liver-specific kelch-like ECH-associated protein 1 (Keap1)-deficient	Drug	not found
+30416531_16105	954	989	kelch-like ECH-associated protein 1	Gene-protein
+30416531_16105	991	996	Keap1	Gene-protein
+30416531_16105	1039	1043	APAP	Drug
+30416531_16105	1039	1064	APAP-induced liver injury	Disease
+30416531_16105	1095	1099	Nrf2	Gene-protein
+30416531_16105	1139	1142	GSH	Chemical
+30416531_16105	1187	1191	APAP	Drug
+30416531_16105	1250	1254	APAP	Drug
+30416531_16105	1250	1275	APAP-induced liver injury	Disease
+30416531_16105	1284	1326	activation of the Nrf2 antioxidant pathway	Biomarker
+30416531_16105	1302	1306	Nrf2	Gene-protein
+30416531_16105	1362	1365	PME	Gene-protein
+30416531_16105	1392	1396	Nrf2	Gene-protein
+30416531_16105	1419	1422	ROS	Chemical
+30416531_16105	1457	1460	PME	Gene-protein
+30416531_16105	1457	1460	PME	Drug	D055313
+30416531_16105	1515	1519	APAP	Drug
+30416531_16105	1515	1546	APAP-induced acute liver injury	Disease	not found
+30416531_16105	1566	1569	PME	Drug
+30416531_16105	1566	1569	PME	Gene-protein
+30416531_16105	1582	1586	APAP	Drug
+30416531_16105	1582	1607	APAP-induced liver injury	Disease
+30416531_16105	1651	1654	ALT	Gene-protein
+30416531_16105	1659	1662	AST	Genefamily
+30416531_16105	1752	1755	PME	Gene-protein
+30416531_16105	1752	1755	PME	Drug
+30416531_16105	1792	1796	APAP	Drug
+30416531_16105	1792	1819	APAP-induced hepatotoxicity	Disease	not found
+30416531_16105	1834	1838	Nrf2	Gene-protein
+30416531_16105	1887	1890	ROS	Chemical
+

@@ -1,0 +1,57 @@
+29785120_15995|t|RSS_IDENT_p_29785120_b_1_4_3
+29785120_15995|a| Previous studies have shown that NR5A2, which is also known as liver receptor homolog-1, is an important regulator of pancreatic exocrine function. 32 Lack of NR5A2, combined with pancreas-specific transcription factor 1 causes instability of pancreatic acinar cells, which increases the pancreatic injury and then causes mutations in the Kras gene. 10 , 32 – 34 As we all know, mutation of Kras is the earliest event in deterioration of pancreatic cancer. 11 We integrated the results of five studies and found a negative link between NR5A2 rs3790844 polymorphism and the risk of pancreatic cancer. However, histologic examinations show that NR5A2 is overexpressed in tumor tissues, which is quiet puzzling. 35 Although the mechanism is not clear, it does not deny our conclusion that NR5A2 is a protective factor for early pancreatic cancer. Here, we put forward several possible explanations for discussion. Overexpression of NR5A2 is also closely related to diabetes and hyperlipidemia, which are the important risk factors for pancreatic cancer, and has a positive effect on mutation of Kras later in pancreatic cancer progression. 11 , 36 , 37 Moreover, NR5A2 also contributes to other tumors. For instance, NR5A2 was reported to be involved in the metabolism of glutamine to induce hepatocellular carcinoma, while it also induces the expression and transcription of ERα and mediates the secretion of estrogen to affect the progression of breast cancer. 38 – 40 In addition, NR5A2 is overexpressed in colon cancer and osteosarcoma cells. 41 , 42 Recently, many studies have reported the relationship between the NR5A2 rs3790843, rs3790844 and rs12029406 polymorphisms and the risk of cholangiocarcinoma, gastric cancer and pancreatic cancer without consistent results. 13 , 18 – 22 , 43 In order to clarify the association, we integrated the data of pancreatic cancer for the meta-analysis. 
+29785120_15995	63	68	NR5A2	Gene-protein	HGNC:7984
+29785120_15995	93	117	liver receptor homolog-1	Gene-protein	HGNC:7984
+29785120_15995	181	250	Lack of NR5A2, combined with pancreas-specific transcription factor 1	Biomarker
+29785120_15995	189	194	NR5A2	Gene-protein
+29785120_15995	210	250	pancreas-specific transcription factor 1	Genefamily	family:1608
+29785120_15995	318	335	pancreatic injury	Disease	D010182
+29785120_15995	352	361	mutations	Variant
+29785120_15995	369	373	Kras	Gene-protein	 HGNC:6407
+29785120_15995	409	425	mutation of Kras	Biomarker
+29785120_15995	421	425	Kras	Gene-protein
+29785120_15995	468	485	pancreatic cancer	Disease	DOID:1793
+29785120_15995	566	571	NR5A2	Gene-protein
+29785120_15995	566	594	NR5A2 rs3790844 polymorphism	Biomarker
+29785120_15995	611	628	pancreatic cancer	Disease
+29785120_15995	673	678	NR5A2	Gene-protein
+29785120_15995	673	695	NR5A2 is overexpressed	Biomarker
+29785120_15995	699	704	tumor	Disease	DOID:162
+29785120_15995	816	821	NR5A2	Gene-protein
+29785120_15995	816	821	NR5A2	Drug	C082631
+29785120_15995	855	872	pancreatic cancer	Disease
+29785120_15995	941	964	Overexpression of NR5A2	Biomarker
+29785120_15995	959	964	NR5A2	Gene-protein
+29785120_15995	992	1000	diabetes	Disease	not found
+29785120_15995	992	1019	diabetes and hyperlipidemia	Collection
+29785120_15995	1005	1019	hyperlipidemia	Disease	DOID:1168
+29785120_15995	1062	1079	pancreatic cancer	Disease
+29785120_15995	1110	1118	mutation	Variant
+29785120_15995	1122	1126	Kras	Gene-protein
+29785120_15995	1136	1153	pancreatic cancer	Disease
+29785120_15995	1190	1195	NR5A2	Gene-protein
+29785120_15995	1190	1195	NR5A2	Biomarker	C082631
+29785120_15995	1222	1228	tumors	Disease
+29785120_15995	1244	1249	NR5A2	Gene-protein
+29785120_15995	1244	1249	NR5A2	Biomarker	C082631
+29785120_15995	1299	1308	glutamine	Chemical
+29785120_15995	1319	1343	hepatocellular carcinoma	Disease	DOID:684
+29785120_15995	1319	1488	hepatocellular carcinoma, while it also induces the expression and transcription of ERα and mediates the secretion of estrogen to affect the progression of breast cancer	Collection
+29785120_15995	1403	1406	ERα	Gene-protein	HGNC:3467
+29785120_15995	1437	1445	estrogen	Chemical
+29785120_15995	1475	1488	breast cancer	Disease	DOID:1612
+29785120_15995	1511	1516	NR5A2	Gene-protein
+29785120_15995	1511	1533	NR5A2 is overexpressed	Biomarker
+29785120_15995	1537	1549	colon cancer	Disease	DOID:219
+29785120_15995	1537	1566	colon cancer and osteosarcoma	Collection
+29785120_15995	1554	1566	osteosarcoma	Disease	DOID:3347
+29785120_15995	1648	1653	NR5A2	Gene-protein
+29785120_15995	1654	1663	rs3790843	Variant
+29785120_15995	1654	1689	rs3790843, rs3790844 and rs12029406	Collection
+29785120_15995	1665	1674	rs3790844	Variant
+29785120_15995	1679	1689	rs12029406	Variant
+29785120_15995	1720	1738	cholangiocarcinoma	Disease	DOID:4947
+29785120_15995	1740	1754	gastric cancer	Disease	DOID:10534
+29785120_15995	1759	1776	pancreatic cancer	Disease
+29785120_15995	1886	1903	pancreatic cancer	Disease
+

@@ -1,0 +1,67 @@
+T0	Disease 99 114	atherosclerosis
+#1	AnnotatorNotes T0	DOID:1936
+T15	Disease 799 820	myocardial infarction
+#6	AnnotatorNotes T15	DOID:5844
+T17	Disease 944 961	abdominal obesity
+#8	AnnotatorNotes T17	D056128
+T2	Disease 140 163	coronary artery disease
+#11	AnnotatorNotes T2	DOID:3393
+T21	Disease 1371 1378	obesity
+T3	Disease 165 201	atherosclerosis of cerebral arteries
+#17	AnnotatorNotes T3	DOID:12720
+T4	Chemical 263 275	triglyceride
+T7	Chemical 361 363	Ag
+T8	Disease 463 473	overweight
+T9	Disease 479 486	obesity
+#22	AnnotatorNotes T9	DOID:9970
+T1	Gene-Protein 355 360	PAI-1
+T5	Gene-Protein 735 740	PAI-1
+T10	Gene-Protein 309 313	t-PA
+#3	AnnotatorNotes T10	HGNC:9051
+T13	Gene-Protein 343 347	t-PA
+T20	Gene-Protein 605 609	t-PA
+T26	Gene-Protein 1403 1407	t-PA
+T27	Gene-Protein 1526 1530	t-PA
+T28	Gene-Protein 1194 1198	t-PA
+T29	Gene-Protein 1657 1661	t-PA
+T30	Gene-Protein 1056 1060	t-PA
+T31	Gene-Protein 1415 1419	t-PA
+T32	Gene-Protein 318 323	PAI-1
+#2	AnnotatorNotes T32	HGNC:8583
+T33	Gene-Protein 640 645	PAI-1
+T34	Gene-Protein 984 989	PAI-1
+T35	Gene-Protein 1553 1558	PAI-1
+T36	Gene-Protein 1662 1667	PAI-1
+T37	Gene-Protein 1612 1617	PAI-1
+T38	Biomarker 605 612	t-PA Ag
+T39	Biomarker 617 620	BMI
+T40	Biomarker 640 648	PAI-1 Ag
+T41	Biomarker 653 656	BMI
+T42	Biomarker 735 743	PAI-1 Ag
+T43	Biomarker 748 766	BMI concentrations
+T44	Biomarker 1056 1063	t-PA Ag
+T45	Biomarker 1068 1071	BMI
+T46	Biomarker 1194 1201	t-PA Ag
+T47	Biomarker 1206 1209	BMI
+T48	Biomarker 1339 1346	low BMI
+T49	Biomarker 1403 1410	t-PA Ag
+T50	Chemical 254 257	LDL
+#4	AnnotatorNotes T8	D050177
+T51	Disease 842 856	morbid obesity
+#5	AnnotatorNotes T51	DOID:11981
+T16	Biomarker 1415 1419	t-PA
+T52	Biomarker 1509 1533	concentration of t-PA Ag
+T53	Biomarker 1538 1541	BMI
+T54	Biomarker 1553 1561	PAI-1 Ag
+T55	Biomarker 1566 1569	BMI
+T56	Biomarker 1590 1620	high plasma levels of PAI-1 Ag
+T57	Biomarker 397 409	BMI increase
+T58	Biomarker 343 350	t-PA Ag
+T59	Biomarker 355 363	PAI-1 Ag
+T6	Biomarker 245 252	smoking
+T11	Biomarker 254 257	LDL
+T12	Biomarker 263 290	triglyceride concentrations
+R1	Association Arg1:T48 Arg2:T21	
+#7	AnnotatorNotes T6	D012907
+#9	AnnotatorNotes T39	D015992
+#10	AnnotatorNotes T11	D008078

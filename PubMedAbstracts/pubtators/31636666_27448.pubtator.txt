@@ -1,0 +1,50 @@
+31636666_27448|t|RSS_IDENT_p_31636666_b_1_4_3
+31636666_27448|a| Previous studies have reported that miR-199a-5p, functioning as a cancer suppressor, is downregulated in multiple malignant solid tumors such as hepatocarcinoma [ 7 ], colorectal cancer [ 10 ], breast cancer [ 37 ], ovarian cancer [ 8 ], osteosarcoma [ 9 ], bladder urothelial carcinoma [ 38 ], papillary thyroid carcinoma [ 39 ], and prostate adenocarcinoma [ 40 ]. Accumulating evidence has linked aberrant miR-199a-5p expression to acquired chemoresistance in some cancer types [ 9 , 14 , 15 , 17 ]. For instance, silencing of miR-199a-5p was found to be involved in chemoresistance in ovarian cancer by regulating IKKB expression [ 41 ]. Overexpression of miR-199a-5p in hepatocellular carcinoma was shown to modulate tumor cells sensitivity to doxorubicin by targeting the MET-oncogene [ 7 ]. Abnormally upregulated in CTX-resistant colon carcinoma cells, miR-199a-5p is also reported to affect cancer cell resistance by targeting PHLPP1 [ 42 ]. Although miR-199a-5p may regulate chemoresistance by targeting different genes in different cancer types, the mechanisms could be generally summarized as cell cycle arrest, proliferation decrease, invasion prevention, and apoptosis inhibition [ 7 , 8 , 35 , 41 – 43 ]. However, several recent research studies indicated that miR-199a-5p is implicated in chemoresistance of cancer cells via inhibition of autophagic pathways [ 9 , 14 ]. In this regard, autophagy is activated as a protective mechanism to mediate the acquired resistance phenotype of some cancer cells during chemotherapy. Thus, the inhibition of autophagy can resensitize previously resistant cancer cells and increase therapeutic efficacy of chemotherapy. However, data for miR-199a-5p expression and function, especially the correlation between miR-199a-5p and autophagy, in leukemia cells are very limited. 
+31636666_27448	66	77	miR-199a-5p	Rna-noncoding	not found
+31636666_27448	66	131	miR-199a-5p, functioning as a cancer suppressor, is downregulated	Biomarker
+31636666_27448	144	166	malignant solid tumors	Disease	DOID:162
+31636666_27448	144	388	malignant solid tumors such as hepatocarcinoma [ 7 ], colorectal cancer [ 10 ], breast cancer [ 37 ], ovarian cancer [ 8 ], osteosarcoma [ 9 ], bladder urothelial carcinoma [ 38 ], papillary thyroid carcinoma [ 39 ], and prostate adenocarcinoma	Collection
+31636666_27448	175	190	hepatocarcinoma	Disease	DOID:684
+31636666_27448	198	215	colorectal cancer	Disease	DOID:9256
+31636666_27448	224	237	breast cancer	Disease	DOID:1612
+31636666_27448	246	260	ovarian cancer	Disease	DOID:2394
+31636666_27448	268	280	osteosarcoma	Disease	DOID:3347
+31636666_27448	288	316	bladder urothelial carcinoma	Disease	DOID:4006
+31636666_27448	325	352	papillary thyroid carcinoma	Disease	DOID:3969
+31636666_27448	365	388	prostate adenocarcinoma	Disease	DOID:2526
+31636666_27448	430	461	aberrant miR-199a-5p expression	Biomarker
+31636666_27448	439	450	miR-199a-5p	Rna-noncoding
+31636666_27448	498	504	cancer	Disease	DOID:162
+31636666_27448	547	571	silencing of miR-199a-5p	Drug	not found
+31636666_27448	560	571	miR-199a-5p	Rna-noncoding
+31636666_27448	619	633	ovarian cancer	Disease
+31636666_27448	648	652	IKKB	Gene-protein	HGNC:5960
+31636666_27448	672	701	Overexpression of miR-199a-5p	Biomarker
+31636666_27448	705	729	hepatocellular carcinoma	Disease	DOID:684
+31636666_27448	752	757	tumor	Disease	DOID:162
+31636666_27448	779	790	doxorubicin	Drug	CHEMBL53463
+31636666_27448	808	811	MET	Gene-protein	HGNC:7029
+31636666_27448	854	857	CTX	Drug	not found
+31636666_27448	854	883	CTX-resistant colon carcinoma	Disease	not found
+31636666_27448	891	902	miR-199a-5p	Rna-noncoding
+31636666_27448	891	902	miR-199a-5p	Biomarker
+31636666_27448	930	936	cancer	Disease
+31636666_27448	966	972	PHLPP1	Gene-protein	HGNC:20610
+31636666_27448	990	1001	miR-199a-5p	Rna-noncoding
+31636666_27448	990	1001	miR-199a-5p	Biomarker	C531408
+31636666_27448	1073	1079	cancer	Disease
+31636666_27448	1306	1317	miR-199a-5p	Rna-noncoding
+31636666_27448	1306	1317	miR-199a-5p	Biomarker
+31636666_27448	1354	1360	cancer	Disease
+31636666_27448	1433	1442	autophagy	Biomarker	 D001343
+31636666_27448	1535	1541	cancer	Disease
+31636666_27448	1555	1567	chemotherapy	Drug-class
+31636666_27448	1579	1602	inhibition of autophagy	Drug	not found
+31636666_27448	1640	1646	cancer	Disease
+31636666_27448	1690	1702	chemotherapy	Drug-class
+31636666_27448	1722	1733	miR-199a-5p	Rna-noncoding
+31636666_27448	1794	1805	miR-199a-5p	Rna-noncoding
+31636666_27448	1794	1805	miR-199a-5p	Biomarker
+31636666_27448	1810	1819	autophagy	Biomarker
+31636666_27448	1824	1832	leukemia	Disease	DOID:1240
+

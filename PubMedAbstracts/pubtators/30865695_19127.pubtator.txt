@@ -1,0 +1,43 @@
+30865695_19127|t|RSS_IDENT_p_30865695_b_1_4_3
+30865695_19127|a| The present study shows for the first time that NB-UVB treatment significantly suppress elevated S100A8/A9 protein heterocomplex levels in lesional skin to levels comparable to those found in non-lesional skin. These findings are supported by corresponding changes in skin gene expression. Interestingly, our results show that treatment with NB-UVB has no significant effect on serum levels of S100A8/A9. These results suggest that elevated serum S100A8/A9 levels in individuals with psoriasis do not originate from lesional skin keratinocytes as previously suggested by Benoit et al. [ 8 ]. As proposed in earlier studies on S100A8/A9 in healthy middle-aged individuals and patients with systemic lupus erythematosus the origin of serum S100A8/A9 could be circulating neutrophils or thrombocytes. Elevated S100A8/A9 levels in these studies were associated with increased risk for cardiovascular disease [ 10 , 27 ] implicating that increased S100A8/A9 serum concentrations could be a marker of systemic inflammation rather than skin inflammation in individuals with psoriasis. Since etanercept treatment induces significant serum S100A8/A9 reduction in patients with psoriasis [ 21 ] S100A8/A9 might be involved in the systemic anti-inflammatory effect of biologics. The expression of S100A15 (Koebnerisin) and S100A7 (Psoriasin) are increased in circulating peripheral blood mononuclear cells (PBMCs) in patients with psoriasis [ 28 ]. If S100A8 and S100A9 share similar expression patterns then it is possible that PBMCs could be a source of elevated S100A8/A9 in serum. 
+30865695_19127	78	84	NB-UVB	Drug-class
+30865695_19127	118	165	elevated S100A8/A9 protein heterocomplex levels	Biomarker
+30865695_19127	127	136	S100A8/A9	Gene-protein	HGNC:10498, HGNC:10499
+30865695_19127	169	182	lesional skin	Disease	not found
+30865695_19127	372	378	NB-UVB	Drug-class
+30865695_19127	408	433	serum levels of S100A8/A9	Biomarker
+30865695_19127	424	433	S100A8/A9	Gene-protein
+30865695_19127	462	493	elevated serum S100A8/A9 levels	Biomarker
+30865695_19127	477	486	S100A8/A9	Gene-protein
+30865695_19127	514	523	psoriasis	Disease	DOID:8893
+30865695_19127	546	559	lesional skin	Disease
+30865695_19127	656	665	S100A8/A9	Gene-protein
+30865695_19127	656	665	S100A8/A9	Biomarker	C000628745,C000628744
+30865695_19127	719	747	systemic lupus erythematosus	Disease	DOID:9074
+30865695_19127	762	777	serum S100A8/A9	Biomarker
+30865695_19127	768	777	S100A8/A9	Gene-protein
+30865695_19127	828	853	Elevated S100A8/A9 levels	Biomarker
+30865695_19127	837	846	S100A8/A9	Gene-protein
+30865695_19127	911	933	cardiovascular disease	Disease	DOID:1287
+30865695_19127	963	988	increased S100A8/A9 serum	Biomarker
+30865695_19127	973	982	S100A8/A9	Gene-protein
+30865695_19127	1025	1046	systemic inflammation	Disease	not found
+30865695_19127	1059	1076	skin inflammation	Disease	DOID:2723
+30865695_19127	1097	1106	psoriasis	Disease
+30865695_19127	1114	1124	etanercept	Drug	CHEMBL1201572
+30865695_19127	1155	1179	serum S100A8/A9 reductio	Biomarker
+30865695_19127	1161	1170	S100A8/A9	Gene-protein
+30865695_19127	1198	1207	psoriasis	Disease
+30865695_19127	1215	1224	S100A8/A9	Gene-protein
+30865695_19127	1215	1224	S100A8/A9	Biomarker
+30865695_19127	1302	1432	expression of S100A15 (Koebnerisin) and S100A7 (Psoriasin) are increased in circulating peripheral blood mononuclear cells (PBMCs)	Biomarker
+30865695_19127	1316	1323	S100A15	Gene-protein	HGNC:21657
+30865695_19127	1325	1336	Koebnerisin	Gene-protein	HGNC:21657
+30865695_19127	1342	1348	S100A7	Gene-protein	HGNC:10497
+30865695_19127	1350	1359	Psoriasin	Gene-protein	HGNC:10497
+30865695_19127	1450	1459	psoriasis	Disease
+30865695_19127	1471	1477	S100A8	Gene-protein	HGNC:10498
+30865695_19127	1482	1488	S100A9	Gene-protein	HGNC:10499
+30865695_19127	1575	1593	elevated S100A8/A9	Biomarker
+30865695_19127	1584	1593	S100A8/A9	Gene-protein
+

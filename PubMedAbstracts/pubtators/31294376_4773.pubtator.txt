@@ -1,0 +1,42 @@
+31294376_4773|t|RSS_IDENT_p_31294376_b_1_3
+31294376_4773|a| Serotonin, or 5-HT, has been evaluated in IBD and in animal models of colitis. It was shown that TPH1-deficient mice, which have reduced gut 5-HT content, exhibit reduced susceptibility to experimental colitis marked by lower inflammatory cytokine production ( 14 ). Moreover, pharmacological blocking of peripheral 5-HT synthesis reduced the severity of both chemical and infection-induced intestinal inflammation ( 15 ). In IBD patients, studies have reported increased 5-HT expressing EC cell numbers and reduced 5-HTT expression, the latter particularly observed in association with inflammation in UC patients ( 16–18 ). Furthermore, a significant association between 5-HTTLPR and microscopic colitis, a type of colitis which had previously been associated with consumption of selective 5-HT reuptake inhibitors, has been reported ( 6 , 19 ). Patients with microscopic colitis and UC were found to have significantly higher serum 5-HT levels ( 19 ). An elevated level of 5-HT was also observed in a patient with collagenous colitis ( 20 ). Taken together, these findings provide compelling evidence for an important role of 5-HT in gut inflammation. Despite the importance of its cognate receptors in 5-HT signaling, only scattered observations about 5-HTRs in IBD have been previously reported by a handful of studies ( 21 , 22 ). 
+31294376_4773	28	37	Serotonin	Chemical
+31294376_4773	42	46	5-HT	Chemical
+31294376_4773	70	73	IBD	Disease	DOID:0050589
+31294376_4773	98	105	colitis	Disease	DOID:0060180
+31294376_4773	125	129	TPH1	Gene-protein
+31294376_4773	125	139	TPH1-deficient	Disease	not found
+31294376_4773	157	181	reduced gut 5-HT content	Biomarker
+31294376_4773	169	173	5-HT	Chemical
+31294376_4773	230	237	colitis	Disease
+31294376_4773	248	286	lower inflammatory cytokine production	Biomarker
+31294376_4773	254	275	inflammatory cytokine	Genefamily
+31294376_4773	305	358	pharmacological blocking of peripheral 5-HT synthesis	Biomarker
+31294376_4773	344	348	5-HT	Chemical
+31294376_4773	388	442	chemical and infection-induced intestinal inflammation	Disease	not found
+31294376_4773	454	457	IBD	Disease
+31294376_4773	490	531	increased 5-HT expressing EC cell numbers	Biomarker
+31294376_4773	490	560	increased 5-HT expressing EC cell numbers and reduced 5-HTT expression	Collection
+31294376_4773	500	504	5-HT	Chemical
+31294376_4773	536	560	reduced 5-HTT expression	Biomarker
+31294376_4773	544	549	5-HTT	Gene-protein	HGNC:11050
+31294376_4773	615	633	inflammation in UC	Disease	D007249,DOID:8577
+31294376_4773	701	709	5-HTTLPR	Biomarker
+31294376_4773	714	733	microscopic colitis	Disease	DOID:0060182
+31294376_4773	745	752	colitis	Disease
+31294376_4773	820	844	5-HT reuptake inhibitors	Drug-class
+31294376_4773	890	909	microscopic colitis	Disease
+31294376_4773	890	916	microscopic colitis and UC	Collection
+31294376_4773	914	916	UC	Disease	DOID:8577
+31294376_4773	950	974	higher serum 5-HT levels	Biomarker
+31294376_4773	963	967	5-HT	Chemical
+31294376_4773	986	1008	elevated level of 5-HT	Biomarker
+31294376_4773	1004	1008	5-HT	Chemical
+31294376_4773	1045	1064	collagenous colitis	Disease	DOID:0060183
+31294376_4773	1157	1161	5-HT	Chemical
+31294376_4773	1157	1161	5-HT	Biomarker
+31294376_4773	1165	1181	gut inflammation	Disease	DOID:10605
+31294376_4773	1234	1238	5-HT	Chemical
+31294376_4773	1284	1290	5-HTRs	Genefamily	family:171
+31294376_4773	1294	1297	IBD	Disease
+

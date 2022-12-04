@@ -1,0 +1,61 @@
+T1	Disease 332 360	cardiac ischemia/reperfusion
+#1	AnnotatorNotes T1	not found
+T10	Disease 941 943	AD
+#2	AnnotatorNotes T10	DOID:10652
+T13	Disease 1225 1227	AD
+T15	Disease 1353 1365	inflammation
+#5	AnnotatorNotes T15	D007249
+T16	Disease 1369 1398	chronic inflammatory diseases
+#6	AnnotatorNotes T16	not found
+T18	Disease 1554 1556	AD
+T19	Biomarker 1567 1578	Aβ deposits
+T2	Chemical 431 438	glucose
+T21	Disease 1586 1611	chronic neuroinflammation
+#10	AnnotatorNotes T21	not found
+T24	Disease 1805 1807	AD
+T25	Disease 1919 1921	AD
+T4	Disease 510 517	hypoxia
+#14	AnnotatorNotes T4	D000860
+T5	Disease 540 546	stroke
+#15	AnnotatorNotes T5	D020521
+T6	Chemical 712 729	Poly (ADP-Ribose)
+T7	Chemical 888 897	glutamate
+T9	Disease 917 929	focal stroke
+#18	AnnotatorNotes T9	not found
+T3	Gene-Protein 30 68	Macrophage migration inhibitory factor
+#9	AnnotatorNotes T3	HGNC:7097
+T8	Gene-Protein 70 73	MIF
+#11	AnnotatorNotes T8	HGNC:7097
+T12	Gene-Protein 249 252	MIF
+T14	Biomarker 487 506	upregulation of MIF
+T17	Gene-Protein 503 506	MIF
+R1	Association Arg1:T14 Arg2:T5	
+T20	Biomarker 249 252	MIF
+#16	AnnotatorNotes T20	C515598
+R2	Association Arg1:T20 Arg2:T1	
+T23	Gene-Protein 597 600	MIF
+T26	Gene-Protein 641 650	caspase-3
+#17	AnnotatorNotes T26	HGNC:1504
+T27	Gene-Protein 670 673	MIF
+T32	Gene-Protein 704 805	PARP-1 (Poly (ADP-Ribose) Polymerase 1)-dependent AIF (apoptosis-inducing factor)-associated nuclease
+#23	AnnotatorNotes T32	not found
+T28	Gene-Protein 807 811	PAAN
+#19	AnnotatorNotes T28	not found
+T29	Gene-Protein 832 837	MIF’s
+#20	AnnotatorNotes T29	HGNC:7097
+T11	Gene-Protein 1175 1178	MIF
+T30	Biomarker 1175 1178	MIF
+R3	Association Arg1:T30 Arg2:T13	
+T31	Biomarker 1255 1312	MIF could also play a deleterious role when overexpressed
+T33	Gene-Protein 1255 1258	MIF
+T34	Collection 1353 1398	inflammation in chronic inflammatory diseases
+R4	Association Arg1:T31 Arg2:T34	
+T35	Gene-Protein 1449 1452	MIF
+R5	Association Arg1:T19 Arg2:T21	
+T22	Gene-Protein 1785 1788	MIF
+T37	Gene-Protein 1856 1859	MIF
+T38	Biomarker 1856 1859	MIF
+T39	Chemical 401 404	ROS
+T40	Disease 362 365	I/R
+#3	AnnotatorNotes T40	D015427
+T36	Biomarker 1785 1788	MIF

@@ -1,0 +1,77 @@
+T11	Disease 751 758	cancers
+#2	AnnotatorNotes T11	DOID:162
+T12	Disease 786 802	tumor malignancy
+#3	AnnotatorNotes T12	DOID:162
+T13	Gene-Protein 1008 1018	circZNF609
+T14	Gene-Protein 1036 1046	circZNF609
+T16	Gene-Protein 1228 1238	circZNF609
+T17	Disease 1260 1273	breast cancer
+T18	Gene-Protein 1342 1352	circZNF609
+T2	Disease 212 246	esophageal squamous cell carcinoma
+#9	AnnotatorNotes T2	DOID:3748
+T20	Disease 1425 1438	breast cancer
+T21	Gene-Protein 1487 1497	circZNF609
+T23	Disease 1557 1570	breast cancer
+T3	Disease 251 266	prostate cancer
+#13	AnnotatorNotes T3	DOID:10283
+T4	Disease 271 297	non-small cell lung cancer
+#14	AnnotatorNotes T4	DOID:3908
+T5	Disease 306 323	colorectal cancer
+#15	AnnotatorNotes T5	DOID:9256
+T6	Disease 378 383	tumor
+#16	AnnotatorNotes T6	DOID:162
+T8	Disease 497 510	breast cancer
+#17	AnnotatorNotes T8	DOID:1612
+T1	RNA-Noncoding 141 151	miR-145-5p
+#1	AnnotatorNotes T1	HGNC:31532
+T7	Biomarker 141 208	miR-145-5p, a famous tumor suppressor, was frequently downregulated
+T9	Collection 212 323	esophageal squamous cell carcinoma, 27 prostate cancer, 28 non-small cell lung cancer, 29 and colorectal cancer
+R1	Association Arg1:T7 Arg2:T9	
+T10	RNA-Noncoding 357 367	miR-145-5p
+T15	Drug 357 367	miR-145-5p
+#4	AnnotatorNotes T15	C541010
+R2	Response Arg1:T15 Arg2:T6	
+T19	Gene-Protein 431 438	p70S6K1
+#5	AnnotatorNotes T19	HGNC:10436
+T22	Gene-Protein 552 559	p70S6K1
+T24	GeneFamily 574 577	AKT
+#6	AnnotatorNotes T24	family:1900
+T25	Gene-Protein 578 582	mTOR
+#8	AnnotatorNotes T25	HGNC:3942
+T26	Gene-Protein 701 708	p70S6K1
+T27	Biomarker 701 736	p70S6K1 was markedly over-expressed
+R3	Prognostic-Poor Arg1:T27 Arg2:T11	
+R4	Association Arg1:T27 Arg2:T12	
+T28	RNA-Noncoding 860 870	miR-145-5p
+T29	Gene-Protein 935 942	p70S6K1
+#11	AnnotatorNotes T13	HGNC:29003
+T30	Gene-Protein 1066 1073	p70S6K1
+T31	RNA-Noncoding 1114 1124	miR-145-5p
+T32	RNA-Noncoding 1167 1177	miR-145-5p
+T33	Gene-Protein 1194 1201	p70S6K1
+T34	RNA-Noncoding 1399 1409	miR-145-5p
+T35	Gene-Protein 1414 1421	p70S6K1
+T36	RNA-Noncoding 1498 1508	miR-145-5p
+T37	Biomarker 1498 1508	miR-145-5p
+#7	AnnotatorNotes T37	C541010
+T38	Gene-Protein 1509 1516	p70S6K1
+T39	Biomarker 1509 1516	p70S6K1
+#10	AnnotatorNotes T39	C448901
+T40	Biomarker 1487 1497	circZNF609
+T41	Collection 1487 1516	circZNF609/miR-145-5p/p70S6K1
+R5	Association Arg1:T41 Arg2:T23	
+T42	Biomarker 860 870	miR-145-5p
+#12	AnnotatorNotes T42	C541010
+T43	Biomarker 935 942	p70S6K1
+#18	AnnotatorNotes T43	C448901
+T44	Drug 986 1018	ectopic expression of circZNF609
+#19	AnnotatorNotes T44	not found
+T45	Drug 1145 1177	ectopic expression of miR-145-5p
+#20	AnnotatorNotes T45	not found
+T46	Drug 1181 1201	silencing of p70S6K1
+#21	AnnotatorNotes T46	not found
+T47	Biomarker 1228 1238	circZNF609
+R6	Association Arg1:T47 Arg2:T17	
+T48	Biomarker 1342 1352	circZNF609
+T49	Biomarker 1399 1409	miR-145-5p
+T50	Biomarker 1414 1421	p70S6K1

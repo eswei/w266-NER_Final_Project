@@ -1,0 +1,39 @@
+31652578_17197|t|RSS_IDENT_p_31652578_b_1_3_4
+31652578_17197|a| Accordingly, this study provided the first evidence that canagliflozin inhibits the progression of NASH to hepatocarcinogenesis, since the number of GS-positive tumors was significantly smaller in the continuous canagliflozin group than in the vehicle group. GS is a marker of HCC [ 19 ], so we used immunohistochemistry for GS to identify the liver tumors. We detected positive signals for GS in the tumor nodules, supporting a diagnosis of HCC. In the mammalian liver, GS catalyzes the synthesis of glutamine from glutamate and ammonia, and thus provides a source of energy for tumor cells. Immunohistochemical analysis has shown a stepwise increase of GS expression from precancerous lesions to early and advanced HCC [ 20 ]. GS-positive malignant cells are derived from GS-positive hepatocytes, suggesting that GS is a specific marker for tracing cell lineage during the process of hepatocarcinogenesis. We also found that hepatic expression of mRNA for AFP (an oncofetal protein and tumor marker) was significantly lower in the continuous canagliflozin group than in the vehicle group. AFP is known to be a marker of hepatic progenitor cells [ 21 ]. Taken together, these findings indicate that canagliflozin inhibited hepatocarcinogenesis in this mouse model of diabetes/NASH/HCC.
+31652578_17197	87	100	canagliflozin	Drug	CHEMBL2048484
+31652578_17197	129	133	NASH	Disease	DOID:0080547
+31652578_17197	137	157	hepatocarcinogenesis	Disease	DOID:3571
+31652578_17197	179	182	GS-	Gene-protein	HGNC:4341
+31652578_17197	179	197	GS-positive tumors	Disease	not found
+31652578_17197	242	255	canagliflozin	Drug
+31652578_17197	289	291	GS	Gene-protein
+31652578_17197	289	291	GS	Biomarker	D005974
+31652578_17197	307	310	HCC	Disease	DOID:684
+31652578_17197	355	357	GS	Gene-protein
+31652578_17197	374	386	liver tumors	Disease	DOID:3571
+31652578_17197	421	423	GS	Gene-protein
+31652578_17197	421	444	GS in the tumor nodules	Biomarker
+31652578_17197	472	475	HCC	Disease
+31652578_17197	501	503	GS	Gene-protein
+31652578_17197	531	540	glutamine	Chemical
+31652578_17197	546	555	glutamate	Chemical
+31652578_17197	560	567	ammonia	Chemical
+31652578_17197	610	615	tumor	Disease	DOID:162
+31652578_17197	664	698	stepwise increase of GS expression	Biomarker
+31652578_17197	685	687	GS	Gene-protein
+31652578_17197	747	750	HCC	Disease
+31652578_17197	759	761	GS	Gene-protein
+31652578_17197	804	806	GS	Gene-protein
+31652578_17197	845	847	GS	Gene-protein
+31652578_17197	845	847	GS	Biomarker
+31652578_17197	916	936	hepatocarcinogenesis	Disease	DOID:684
+31652578_17197	988	991	AFP	Gene-protein	HGNC:317
+31652578_17197	1018	1023	tumor	Disease
+31652578_17197	1074	1087	canagliflozin	Drug
+31652578_17197	1121	1124	AFP	Gene-protein
+31652578_17197	1230	1243	canagliflozin	Drug
+31652578_17197	1254	1274	hepatocarcinogenesis	Disease
+31652578_17197	1298	1306	diabetes	Disease	not found
+31652578_17197	1307	1311	NASH	Disease
+31652578_17197	1312	1315	HCC	Disease
+

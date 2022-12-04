@@ -1,0 +1,86 @@
+29505567_2858|t|RSS_IDENT_p_29505567_b_1_1_3
+29505567_2858|a| Various genetic defects are known to cause the disease [ 5 – 7 ]. Among them, inactivating mutations in the PHEX (phosphate regulating gene with homologies to endopeptidases on the X chromosome, MIM 300550) lead to X-linked HR (XLHR, MIM 307800), the most common form of hereditary hypophosphatemia [ 8 ]. More than 424 different mutations have been listed in the Human Gene Mutation Database (HGMD, <url>, accessed on Jan 17, 2018). Gain-of-function mutations at codon R176 or R179 in the proteolytic cleavage domain of FGF23 (fibroblast growth factor 23, MIM 605380) cause autosomal dominant HR (ADHR, MIM 193100) [ 9 , 10 ]. Five different mutations are currently listed in the HGMD (accessed on Jan 17, 2018). Inactivating mutations in the DMP1 (dentin matrix acidic phosphoprotein 1, MIM 600980) or ENPP1 (ectonucleotide pyrophosphatase/phosphodiesterase 1, MIM 173335) result in autosomal recessive HR type 1 (ARHR1, MIM 241520) [ 11 , 12 ] or autosomal recessive HR type 2 (ARHR2, MIM 613312) [ 13 ], respectively. The frequency of ARHR1 and ARHR2 is about the same. Currently, there are 9 different DMP1 and 8 ENPP1 mutations listed in the HGMD (accessed on Jan 17, 2018). Interestingly, ENPP1 mutations are more frequently reported in patients with idiopathic infantile arterial calcification or generalized arterial calcification of infancy (49 different mutations are listed in the HGMD), suggesting that a different pathway is involved in the generation of ARHR2 [ 14 ]. Inactivating mutations in the SLC34A1 (sodium-dependent phosphate cotransporter 2a, MIM 182309) give rise to either autosomal recessive hypophosphatemic nephrolithiasis/osteoporosis-1 (MIM 612286) [ 15 , 16 ] or Fanconi renotubular syndrome-2 (MIM 613388) [ 17 ], whereas a loss-of-function mutation in the SLC34A3 (sodium-dependent phosphate cotransporter 2c, MIM 609826) results in hereditary HR with hypercalciuria (HHRH, MIM 241530) [ 18 , 19 ]. SLC34A1 mutation also causes autosomal-recessive infantile hypercalcemia-2 (HCINF2, MIM 616963) due to renal phosphate wasting-induced overproduction of 1,25(OH)₂D₃ [ 20 ]. Unlike inactivation mutation in CYP24A1 (MIM 126065) which causes infantile hypercalcemia-1 (HCINF1) [ 21 ], patients with HCINF2 respond rapidly to phosphate supplementation [ 20 ]. Currently, there are 25 different SLC34A1 and 33 SLC34A3 mutations listed in the HGMD (accessed on Jan 17, 2018). In addition, inactivating mutations in the CLCN5 (chloride voltage-gated channel 5, MIM 300008) lead to X-linked recessive HR (XLRHR, MIM 300554) and may be part of clinical presentations in Dent disease 1 (MIM 300009) characterized by low molecular weight proteinuria, hypercalciuria, nephrocalcinosis, nephrolithiasis, and renal failure [ 22 – 24 ]. More than 250 different CLCN5 mutations are listed in the HGMD (accessed on Jan 17, 2018).
+29505567_2858	38	53	genetic defects	Biomarker
+29505567_2858	108	142	inactivating mutations in the PHEX	Biomarker
+29505567_2858	138	142	PHEX	Gene-protein	HGNC:8918
+29505567_2858	144	153	phosphate	Chemical
+29505567_2858	144	223	phosphate regulating gene with homologies to endopeptidases on the X chromosome	Gene-protein	HGNC:8918
+29505567_2858	245	256	X-linked HR	Disease	D053098
+29505567_2858	258	262	XLHR	Disease	D053098
+29505567_2858	301	328	hereditary hypophosphatemia	Disease	D053098
+29505567_2858	500	504	R176	Variant	p.Arg176Xaa	Gain-of-funtion
+29505567_2858	500	512	R176 or R179	Collection
+29505567_2858	508	512	R179	Variant	p.Arg179Xaa	Gain-of-funtion
+29505567_2858	551	556	FGF23	Gene-protein	HGNC:3680
+29505567_2858	558	585	fibroblast growth factor 23	Gene-protein	HGNC:3680
+29505567_2858	605	626	autosomal dominant HR	Disease	DOID:0050948
+29505567_2858	628	632	ADHR	Disease	DOID:0050948
+29505567_2858	744	778	Inactivating mutations in the DMP1	Biomarker
+29505567_2858	774	778	DMP1	Gene-protein	HGNC:2932
+29505567_2858	780	817	dentin matrix acidic phosphoprotein 1	Gene-protein	HGNC:2932
+29505567_2858	834	839	ENPP1	Gene-protein	HGNC:3356
+29505567_2858	841	855	ectonucleotide	Chemical
+29505567_2858	841	891	ectonucleotide pyrophosphatase/phosphodiesterase 1	Gene-protein	HGNC:3356
+29505567_2858	841	891	ectonucleotide pyrophosphatase/phosphodiesterase 1	Biomarker	C065962
+29505567_2858	915	944	autosomal recessive HR type 1	Disease	not found
+29505567_2858	946	951	ARHR1	Disease	not found
+29505567_2858	980	1009	autosomal recessive HR type 2	Disease	not found
+29505567_2858	1011	1016	ARHR2	Disease	not found
+29505567_2858	1069	1074	ARHR1	Disease
+29505567_2858	1079	1084	ARHR2	Disease
+29505567_2858	1137	1141	DMP1	Gene-protein
+29505567_2858	1137	1163	DMP1 and 8 ENPP1 mutations	Biomarker
+29505567_2858	1148	1153	ENPP1	Gene-protein
+29505567_2858	1226	1231	ENPP1	Gene-protein
+29505567_2858	1226	1241	ENPP1 mutations	Biomarker
+29505567_2858	1288	1331	idiopathic infantile arterial calcification	Disease	DOID:0050644
+29505567_2858	1288	1380	idiopathic infantile arterial calcification or generalized arterial calcification of infancy	Collection
+29505567_2858	1347	1380	arterial calcification of infancy	Disease	DOID:0050644
+29505567_2858	1499	1504	ARHR2	Disease
+29505567_2858	1513	1550	Inactivating mutations in the SLC34A1	Biomarker
+29505567_2858	1543	1550	SLC34A1	Gene-protein	HGNC:11019
+29505567_2858	1552	1558	sodium	Chemical
+29505567_2858	1552	1595	sodium-dependent phosphate cotransporter 2a	Gene-protein	 HGNC:11019
+29505567_2858	1569	1578	phosphate	Chemical
+29505567_2858	1629	1696	autosomal recessive hypophosphatemic nephrolithiasis/osteoporosis-1	Disease	DOID:0080077
+29505567_2858	1629	1755	autosomal recessive hypophosphatemic nephrolithiasis/osteoporosis-1 (MIM 612286) [ 15 , 16 ] or Fanconi renotubular syndrome-2	Collection
+29505567_2858	1725	1755	Fanconi renotubular syndrome-2	Disease	DOID:0080758
+29505567_2858	1787	1827	loss-of-function mutation in the SLC34A3	Biomarker
+29505567_2858	1820	1827	SLC34A3	Gene-protein	HGNC:20305
+29505567_2858	1829	1835	sodium	Chemical
+29505567_2858	1829	1872	sodium-dependent phosphate cotransporter 2c	Gene-protein	HGNC:20305
+29505567_2858	1846	1855	phosphate	Chemical
+29505567_2858	1897	1930	hereditary HR with hypercalciuria	Disease	DOID:0050947
+29505567_2858	1932	1936	HHRH	Disease	DOID:0050947
+29505567_2858	1963	1970	SLC34A1	Gene-protein
+29505567_2858	1963	1979	SLC34A1 mutation	Biomarker
+29505567_2858	1992	2037	autosomal-recessive infantile hypercalcemia-2	Disease	C562999
+29505567_2858	2039	2045	HCINF2	Disease	C562999
+29505567_2858	2072	2081	phosphate	Chemical
+29505567_2858	2116	2127	1,25(OH)₂D₃	Chemical
+29505567_2858	2143	2175	inactivation mutation in CYP24A1	Biomarker
+29505567_2858	2168	2175	CYP24A1	Gene-protein	HGNC:2602
+29505567_2858	2202	2227	infantile hypercalcemia-1	Disease	C562999
+29505567_2858	2229	2235	HCINF1	Disease	C562999
+29505567_2858	2259	2265	HCINF2	Disease
+29505567_2858	2285	2310	phosphate supplementation	Drug	not found
+29505567_2858	2353	2360	SLC34A1	Gene-protein
+29505567_2858	2353	2385	SLC34A1 and 33 SLC34A3 mutations	Biomarker
+29505567_2858	2368	2375	SLC34A3	Gene-protein
+29505567_2858	2446	2481	inactivating mutations in the CLCN5	Biomarker
+29505567_2858	2476	2481	CLCN5	Gene-protein	HGNC:2023
+29505567_2858	2483	2491	chloride	Chemical
+29505567_2858	2483	2515	chloride voltage-gated channel 5	Gene-protein	HGNC:2023
+29505567_2858	2537	2558	X-linked recessive HR	Disease	DOID:0080353
+29505567_2858	2537	2638	X-linked recessive HR (XLRHR, MIM 300554) and may be part of clinical presentations in Dent disease 1	Collection
+29505567_2858	2560	2565	XLRHR	Disease	DOID:0080353
+29505567_2858	2624	2638	Dent disease 1	Disease	DOID:0050699
+29505567_2858	2669	2701	low molecular weight proteinuria	Biomarker
+29505567_2858	2669	2771	low molecular weight proteinuria, hypercalciuria, nephrocalcinosis, nephrolithiasis, and renal failure	Collection
+29505567_2858	2703	2717	hypercalciuria	Biomarker	D053565
+29505567_2858	2719	2735	nephrocalcinosis	Biomarker	D009397
+29505567_2858	2737	2752	nephrolithiasis	Biomarker	D053040
+29505567_2858	2758	2771	renal failure	Biomarker	D051437
+29505567_2858	2809	2814	CLCN5	Gene-protein
+29505567_2858	2809	2824	CLCN5 mutations	Biomarker
+

@@ -1,0 +1,58 @@
+30872636_2603|t|RSS_IDENT_p_30872636_b_1_1_4
+30872636_2603|a| CUL3 is involved in multiple intracellular pathways ⁷ including those activated by Wnt/β-catenin ⁸ , Hedgehog/Gli ⁹ , NF-kB ¹⁰ , Notch ¹¹ , Keap1/Nrf2 ¹² and cell cycle proteins ⁵ , ¹³ , all reported to be critical in kidney injury and fibrosis. In humans, Cul3 mutations are associated with renal cell carcinoma ¹⁴ and cause the disease Familial Hyperkalemic Hypertension (FHHt, also known pseudohypoaldosteronism II) ¹⁵ . We previously generated doxycycline-inducible renal epithelia-specific Cul3 knockout (KS-Cul3−/−) mice to investigate mechanisms underlying FHHt ⁶ . These mice display a complex phenotype, with increased activation of the thiazide-sensitive Na⁺-Cl− cotransporter (NCC), and polyuria due to a loss of aquaporin-2 (AQP2). Chronically, they displayed histological signs of tubulointerstitial fibrosis and increased expression of the CUL3 substrate cyclin E, but the originating tubule segment, the pathways dysregulated, and the time-course of the development of renal injury were not determined. Therefore, the aims of this study were to i) identify the site of acute tubule injury upon Cul3 deletion and to characterize the time-course of its transition into CKD, thus, establishing KS-Cul3−/− mice as a novel genetic CKD model; ii) test the hypothesis that dysregulation of the cell cycle and Keap1/Nrf2 pathway precedes tubule injury, and that the cyclin E inhibitor roscovitine ameliorates kidney injury; iii) test the hypothesis that CUL3 plays a broader role in kidney disease by examining CUL3 expression in mouse models of AKI and CKD, and in fibrotic human samples. 
+30872636_2603	30	34	CUL3	Gene-protein	HGNC:2553
+30872636_2603	113	116	Wnt	Genefamily	family:360
+30872636_2603	117	126	β-catenin	Genefamily	family:1542
+30872636_2603	131	139	Hedgehog	Genefamily	not found
+30872636_2603	140	143	Gli	Gene-protein	HGNC:4317
+30872636_2603	148	153	NF-kB	Genefamily	family:1254
+30872636_2603	159	164	Notch	Genefamily	family:1689
+30872636_2603	170	175	Keap1	Gene-protein	HGNC:23177
+30872636_2603	176	180	Nrf2	Gene-protein	HGNC:7782
+30872636_2603	248	261	kidney injury	Disease	DOID:557
+30872636_2603	248	274	kidney injury and fibrosis	Collection
+30872636_2603	266	274	fibrosis	Disease	DOID:5082
+30872636_2603	287	291	Cul3	Gene-protein
+30872636_2603	287	301	Cul3 mutations	Biomarker
+30872636_2603	322	342	renal cell carcinoma	Disease	DOID:4450
+30872636_2603	322	402	renal cell carcinoma ¹⁴ and cause the disease Familial Hyperkalemic Hypertension	Collection
+30872636_2603	368	402	Familial Hyperkalemic Hypertension	Disease	C537288
+30872636_2603	404	408	FHHt	Disease	C537288
+30872636_2603	421	447	pseudohypoaldosteronism II	Disease	C537288
+30872636_2603	478	489	doxycycline	Drug	CHEMBL1433
+30872636_2603	525	529	Cul3	Gene-protein
+30872636_2603	543	547	Cul3	Gene-protein
+30872636_2603	594	598	FHHt	Disease
+30872636_2603	676	684	thiazide	Chemical
+30872636_2603	695	698	Na⁺	Chemical
+30872636_2603	695	716	Na⁺-Cl− cotransporter	Gene-protein
+30872636_2603	699	702	Cl−	Chemical
+30872636_2603	718	721	NCC	Gene-protein
+30872636_2603	728	736	polyuria	Disease	D011141
+30872636_2603	746	772	loss of aquaporin-2 (AQP2)	Biomarker
+30872636_2603	754	765	aquaporin-2	Gene-protein
+30872636_2603	767	771	AQP2	Gene-protein
+30872636_2603	824	851	tubulointerstitial fibrosis	Disease	DOID:0050855
+30872636_2603	884	888	CUL3	Gene-protein
+30872636_2603	899	907	cyclin E	Genefamily
+30872636_2603	1014	1026	renal injury	Disease	DOID:4451
+30872636_2603	1114	1133	acute tubule injury	Disease	DOID:12556
+30872636_2603	1139	1143	Cul3	Gene-protein
+30872636_2603	1139	1152	Cul3 deletion	Biomarker
+30872636_2603	1212	1215	CKD	Disease	DOID:784
+30872636_2603	1239	1243	Cul3	Gene-protein
+30872636_2603	1271	1274	CKD	Disease
+30872636_2603	1347	1352	Keap1	Gene-protein
+30872636_2603	1353	1357	Nrf2	Gene-protein
+30872636_2603	1375	1388	tubule injury	Disease	DOID:12556
+30872636_2603	1403	1411	cyclin E	Genefamily
+30872636_2603	1403	1421	cyclin E inhibitor	Drug-class
+30872636_2603	1422	1433	roscovitine	Drug	CHEMBL14762
+30872636_2603	1446	1459	kidney injury	Disease
+30872636_2603	1491	1495	CUL3	Gene-protein
+30872636_2603	1520	1534	kidney disease	Disease	DOID:557
+30872636_2603	1548	1552	CUL3	Gene-protein
+30872636_2603	1583	1586	AKI	Disease	D058186
+30872636_2603	1591	1594	CKD	Disease
+30872636_2603	1603	1611	fibrotic	Disease	DOID:5082
+

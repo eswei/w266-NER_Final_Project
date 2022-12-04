@@ -1,0 +1,41 @@
+30616330_13280|t|RSS_IDENT_p_30616330_b_1_4_3
+30616330_13280|a| CA-125 is a glycoprotein produced by the serous epithelium, and has been known as a tumor marker used for diagnosing ovarian cancer. Recently, the significance of CA-125 emerged in heart failure being associated with clinical status, hemodynamic abnormalities, and echocardiographic parameters. It has been broadly investigated in various types of heart failure such as valvular heart disease, atrial fibrillation, and heart failure with preserved ejection fraction [ 23 - 26 ]. Although the mechanism for the association between heart failure and elevated serum CA-125 level is obscure, CA-125 levels are closely related to serosal fluid accumulation and positively correlated with various inflammatory cytokines in patients with heart failure. It is hypothesized that mechanical stress, such as fluid overload, and inflammatory stimuli may initiate CA-125 synthesis in the mesothelial cells located on the surfaces of the pleura, pericardium, and peritoneum [ 27 ]. The serum level of CA-125 was higher in patients with advanced NYHA class and also associated with invasive or non-invasive findings, such as the right atrial pressure and pulmonary artery wedge pressure by cardiac catheterization or right ventricular systolic pressure by echocardiography. After medical therapy optimization in patients with chronic heart failure, CA-125 level decreased compared with the levels on the day of admission [ 12 , 13 ]. Additionally, CA-125 could be used as a prognostic factor in patients with acute and chronic heart failure [ 12 - 17 ]. CA-125 had a similar accuracy in predicting major adverse events or death alone compared with serum NT-proBNP, which is a traditional and potent prognostic biomarker of mortality and morbidity in patients with ADHF [ 28 ]. 
+30616330_13280	30	36	CA-125	Gene-protein	HGNC:15582
+30616330_13280	30	36	CA-125	Biomarker	D018394
+30616330_13280	114	119	tumor	Disease	DOID:162
+30616330_13280	114	161	tumor marker used for diagnosing ovarian cancer	Collection
+30616330_13280	147	161	ovarian cancer	Disease	DOID:2394
+30616330_13280	193	199	CA-125	Gene-protein
+30616330_13280	193	199	CA-125	Biomarker
+30616330_13280	211	224	heart failure	Disease	D006333
+30616330_13280	247	262	clinical status	Biomarker
+30616330_13280	264	289	hemodynamic abnormalities	Biomarker
+30616330_13280	295	323	echocardiographic parameters	Biomarker
+30616330_13280	378	391	heart failure	Disease
+30616330_13280	400	422	valvular heart disease	Disease	DOID:4079
+30616330_13280	424	443	atrial fibrillation	Disease	DOID:0060224
+30616330_13280	449	462	heart failure	Disease
+30616330_13280	560	573	heart failure	Disease
+30616330_13280	578	605	elevated serum CA-125 level	Biomarker
+30616330_13280	593	599	CA-125	Gene-protein
+30616330_13280	618	624	CA-125	Gene-protein
+30616330_13280	618	624	CA-125	Biomarker
+30616330_13280	721	743	inflammatory cytokines	Genefamily	not found
+30616330_13280	721	743	inflammatory cytokines	Biomarker	D016207
+30616330_13280	761	774	heart failure	Disease
+30616330_13280	881	887	CA-125	Gene-protein
+30616330_13280	1017	1023	CA-125	Gene-protein
+30616330_13280	1017	1034	CA-125 was higher	Biomarker
+30616330_13280	1295	1310	medical therapy	Drug-class
+30616330_13280	1341	1362	chronic heart failure	Disease	not found
+30616330_13280	1364	1370	CA-125	Gene-protein
+30616330_13280	1364	1386	CA-125 level decreased	Biomarker
+30616330_13280	1463	1469	CA-125	Gene-protein
+30616330_13280	1463	1469	CA-125	Biomarker
+30616330_13280	1524	1555	acute and chronic heart failure	Disease	not found, not found
+30616330_13280	1569	1575	CA-125	Gene-protein
+30616330_13280	1569	1575	CA-125	Biomarker
+30616330_13280	1669	1678	NT-proBNP	Gene-protein	not found
+30616330_13280	1669	1678	NT-proBNP	Biomarker	C109794
+30616330_13280	1779	1783	ADHF	Disease	D006333
+

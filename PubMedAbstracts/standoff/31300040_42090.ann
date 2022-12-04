@@ -1,0 +1,47 @@
+T0	Biomarker 30 45	Atherosclerosis
+#1	AnnotatorNotes T0	D050197
+T1	Disease 75 98	coronary artery disease
+#2	AnnotatorNotes T1	DOID:3393
+T2	Disease 192 202	chronic VI
+#3	AnnotatorNotes T2	not found
+T3	Disease 207 235	lipid metabolism dysfunction
+#4	AnnotatorNotes T3	DOID:3146
+T5	Disease 626 641	atherosclerosis
+#6	AnnotatorNotes T5	DOID:1936
+T6	Disease 699 702	CVD
+T7	Disease 959 974	atherosclerosis
+T8	Disease 1129 1132	CVD
+T9	Disease 1328 1331	CVD
+R1	Association Arg1:T0 Arg2:T1	
+T10	Chemical 284 307	low-density lipoprotein
+T11	Chemical 309 312	LDL
+T12	Chemical 357 360	LDL
+T13	Chemical 658 661	LDL
+T14	Chemical 511 514	LDL
+T15	Drug-Class 533 561	HMG-CoA reductase inhibitors
+T4	Drug-Class 563 570	statins
+T16	Chemical 207 212	lipid
+T17	Biomarker 254 326	abnormally elevated levels of low-density lipoprotein (LDL) in the blood
+T18	Chemical 375 380	oxLDL
+T19	Collection 192 235	chronic VI and lipid metabolism dysfunction
+R2	Association Arg1:T17 Arg2:T19	
+T20	Drug-Class 715 722	statins
+T21	Disease 778 790	inflammation
+#5	AnnotatorNotes T21	D007249
+T22	Drug 1072 1083	canakinumab
+#7	AnnotatorNotes T22	CHEMBL1201834
+T23	Drug 1033 1070	interleukin IL-1β monoclonal antibody
+#8	AnnotatorNotes T23	CHEMBL1201834
+T24	Disease 1012 1024	inflammation
+R3	Response Arg1:T23 Arg2:T24	
+R4	Response Arg1:T23 Arg2:T8	
+T25	Drug 1169 1180	Canakinumab
+#9	AnnotatorNotes T25	CHEMBL1201834
+T26	Disease 1256 1268	inflammation
+T27	Drug-Class 1352 1370	BD2-selective BETi
+T28	Drug 1371 1382	apabetalone
+#10	AnnotatorNotes T28	CHEMBL2393130
+#11	AnnotatorNotes T6	DOID:1287
+T29	Gene-Protein 533 550	HMG-CoA reductase
+#12	AnnotatorNotes T29	HGNC:5006
+T30	ProteinDomain 1352 1355	BD2

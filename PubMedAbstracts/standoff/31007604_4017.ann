@@ -1,0 +1,65 @@
+T10	Disease 858 905	SLE-related autoimmune haemolytic anaemia (AIHA
+#1	AnnotatorNotes T10	not found
+T12	Biomarker 1120 1152	elevation of plasma CCL17 levels
+T13	Disease 1194 1197	SLE
+T14	Disease 1389 1402	new-onset SLE
+T15	Biomarker 1408 1428	high levels of CCL20
+T16	Disease 1562 1565	SLE
+T3	Biomarker 241 346	IL-4, IL-6, and IL-10), Th9 (IL-9), Th17 (IL-17), and regulatory T cell (Treg) (IL-10 and TGF-β) lineages
+T4	Disease 371 374	SLE
+#7	AnnotatorNotes T4	DOID:9074
+T6	Biomarker 681 702	serum levels of MCP-1
+T8	Disease 731 746	lupus nephritis
+#9	AnnotatorNotes T8	DOID:0080162
+T9	Biomarker 754 774	High levels of sTNFR
+T17	GeneFamily 47 57	chemokines
+#2	AnnotatorNotes T17	family:483
+T18	GeneFamily 62 71	cytokines
+#10	AnnotatorNotes T18	not found
+T1	Gene-Protein 241 245	IL-4
+#11	AnnotatorNotes T1	HGNC:6014
+T19	Gene-Protein 247 251	IL-6
+#12	AnnotatorNotes T19	HGNC:6018
+T20	Gene-Protein 257 262	IL-10
+#13	AnnotatorNotes T20	HGNC:5962
+T21	Gene-Protein 270 274	IL-9
+#14	AnnotatorNotes T21	HGNC:6029
+T22	Gene-Protein 283 288	IL-17
+#15	AnnotatorNotes T22	HGNC:5981
+T23	Gene-Protein 321 326	IL-10
+T24	Gene-Protein 331 336	TGF-β
+#16	AnnotatorNotes T24	HGNC:11766
+T25	Gene-Protein 447 487	Macrophage chemotactic protein- (MCP-) 1
+#17	AnnotatorNotes T25	HGNC:10618
+T26	Gene-Protein 503 507	CCL2
+#18	AnnotatorNotes T26	HGNC:10618
+T27	Gene-Protein 697 702	MCP-1
+#19	AnnotatorNotes T27	HGNC:10618
+T7	GeneFamily 769 774	sTNFR
+#8	AnnotatorNotes T7	family:782
+T28	GeneFamily 818 831	TNF receptors
+#20	AnnotatorNotes T28	family:782
+T29	Gene-Protein 915 920	CCL17
+#21	AnnotatorNotes T29	HGNC:10615
+T30	Gene-Protein 965 969	TARC
+#22	AnnotatorNotes T30	HGNC:10615
+T31	Gene-Protein 1012 1016	CCR4
+#23	AnnotatorNotes T31	HGNC:1605
+T32	Gene-Protein 987 1010	CC chemokine receptor 4
+#24	AnnotatorNotes T32	HGNC:1605
+T33	Gene-Protein 1140 1145	CCL17
+T34	Gene-Protein 1211 1216	CCL20
+#25	AnnotatorNotes T34	HGNC:10619
+T35	Gene-Protein 1218 1224	MIP-3a
+#26	AnnotatorNotes T35	HGNC:10619
+T36	Gene-Protein 1423 1428	CCL20
+R1	Association Arg1:T15 Arg2:T14	
+T37	Biomarker 30 71	Dysregulation of chemokines and cytokines
+R2	Association Arg1:T12 Arg2:T13	
+T2	GeneFamily 1021 1039	chemokine receptor
+#3	AnnotatorNotes T2	family:189
+R3	Association Arg1:T6 Arg2:T8	
+R4	Association Arg1:T9 Arg2:T10	
+T5	Gene-Protein 228 233	IFN-γ
+#4	AnnotatorNotes T5	HGNC:5438
+#6	AnnotatorNotes T14	DOID:9074

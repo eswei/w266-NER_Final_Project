@@ -1,0 +1,100 @@
+T1	Disease 28 43	Prostate cancer
+#1	AnnotatorNotes T1	DOID:10283
+T10	Biomarker 539 565	Decreased miR-1 expression
+T11	Chemical 809 817	androgen
+T13	Chemical 848 856	androgen
+T14	Disease 981 984	PCa
+T15	Chemical 1024 1052	phosphoribosylaminoimidazole
+T16	Chemical 1069 1116	phosphoribosylaminoimidazolesuccin ocarboxamide
+T17	Chemical 1187 1195	tyrosine
+T18	Chemical 1345 1353	androgen
+T19	Biomarker 1383 1454	PAICS, CDH1, TWIST1, ZWINT and KIAA0101) were significantly upregulated
+T2	Disease 45 48	PCa
+#9	AnnotatorNotes T2	DOID:10283
+T20	Disease 1538 1541	PCa
+T23	Biomarker 1813 1818	miR-1
+T24	Disease 1857 1860	PCa
+T25	Chemical 1918 1926	androgen
+T27	Chemical 1957 1965	androgen
+T28	Disease 2110 2113	PCa
+T29	Biomarker 2128 2133	PAICS
+T31	Disease 2211 2214	PCa
+T5	Disease 252 255	PCa
+T6	Disease 325 328	PCa
+T8	Biomarker 479 530	expression of miR-1 was significantly downregulated
+T9	Disease 534 537	PCa
+T3	RNA-Noncoding 232 248	microRNA (miR)-1
+T4	RNA-Noncoding 316 321	miR-1
+R1	Association Arg1:T8 Arg2:T9	
+T7	RNA-Noncoding 549 554	miR-1
+T32	RNA-Noncoding 493 498	miR-1
+T33	Gene-Protein 809 826	androgen receptor
+#2	AnnotatorNotes T33	HGNC:644
+T34	Gene-Protein 848 865	androgen receptor
+T35	Collection 809 960	androgen receptor signaling pathway’, ‘androgen receptor activity’, ‘transcription factor binding’ and ‘protein processing in the endoplasmic reticulum
+R2	Association Arg1:T35 Arg2:T14	
+T36	Biomarker 809 844	androgen receptor signaling pathway
+T37	Biomarker 848 874	androgen receptor activity
+T38	Biomarker 878 907	transcription factor binding’
+T39	Biomarker 913 960	protein processing in the endoplasmic reticulum
+T12	Gene-Protein 1135 1145	cadherin 1
+T40	Gene-Protein 1127 1132	PAICS
+T42	Gene-Protein 1024 1125	phosphoribosylaminoimidazole carboxylase and phosphoribosylaminoimidazolesuccin ocarboxamide synthase
+T43	Gene-Protein 1147 1151	CDH1
+T44	Gene-Protein 1154 1157	SRC
+T45	Gene-Protein 1174 1202	non-receptor tyrosine kinase
+T46	Gene-Protein 1246 1252	TWIST1
+T47	Gene-Protein 1204 1244	twist family bHLH transcription factor 1
+T48	Gene-Protein 1293 1298	ZWINT
+T49	Gene-Protein 1255 1291	ZW10 interacting kinetochore protein
+T50	Gene-Protein 1331 1339	KIAA0101
+T51	Gene-Protein 1301 1329	PCNA clamp associated factor
+T52	Gene-Protein 1345 1362	androgen receptor
+T53	Gene-Protein 1383 1388	PAICS
+T54	Gene-Protein 1390 1394	CDH1
+T55	Gene-Protein 1396 1402	TWIST1
+T56	Gene-Protein 1404 1409	ZWINT
+T57	Gene-Protein 1414 1422	KIAA0101
+T58	RNA-Noncoding 1516 1521	miR-1
+T59	RNA-Noncoding 1486 1491	miR-1
+R3	Association Arg1:T19 Arg2:T20	
+T60	Biomarker 1486 1491	miR-1
+#3	AnnotatorNotes T60	C544547
+T61	RNA-Noncoding 1585 1590	miR-1
+T62	Biomarker 1659 1662	age
+T21	Biomarker 1664 1676	tumor status
+T63	Biomarker 1678 1692	residual tumor
+T22	Biomarker 1694 1715	lymph node metastasis
+T64	Biomarker 1717 1737	pathological T stage
+T65	Biomarker 1742 1773	prostate specific antigen level
+T66	RNA-Noncoding 1813 1818	miR-1
+R4	Diagnostic-of Arg1:T23 Arg2:T24	
+T67	Gene-Protein 1918 1935	androgen receptor
+T68	Gene-Protein 1957 1974	androgen receptor
+T69	Collection 1918 2070	androgen receptor signaling pathway’, ‘androgen receptor activity’, ‘transcription factor binding’ and ‘protein processing in the endoplasmic reticulum’
+T70	Biomarker 1957 1983	androgen receptor activity
+T71	Biomarker 1987 2015	transcription factor binding
+T72	Biomarker 2022 2069	protein processing in the endoplasmic reticulum
+T73	Biomarker 1918 1953	androgen receptor signaling pathway
+R5	Association Arg1:T69 Arg2:T28	
+T26	Collection 2128 2167	PAICS, CDH1, TWIST1, ZWINT and KIAA0101
+T74	Gene-Protein 2128 2133	PAICS
+T75	Gene-Protein 2135 2139	CDH1
+T76	Gene-Protein 2141 2147	TWIST1
+T77	Gene-Protein 2149 2154	ZWINT
+T78	Gene-Protein 2159 2167	KIAA0101
+T79	RNA-Noncoding 2189 2194	miR-1
+R6	Association Arg1:T26 Arg2:T31	
+T80	Biomarker 2135 2139	CDH1
+T81	Biomarker 2141 2147	TWIST1
+T82	Biomarker 2149 2154	ZWINT
+T83	Biomarker 2159 2167	KIAA0101
+T30	Disease 100 106	cancer
+#4	AnnotatorNotes T30	DOID:162
+T84	Gene-Protein 1742 1767	prostate specific antigen
+#5	AnnotatorNotes T84	HGNC:6364
+#6	AnnotatorNotes T62	D017668
+#7	AnnotatorNotes T80	D064200
+#8	AnnotatorNotes T81	C103173
+#10	AnnotatorNotes T82	C413695
+#11	AnnotatorNotes T83	C425208

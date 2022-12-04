@@ -1,0 +1,31 @@
+30665372_9858|t|RSS_IDENT_p_30665372_b_1_3_3
+30665372_9858|a| In general, each specific mutation results in a syndrome with different clinical manifestations and organ involvements [ 4 ]. Figure 1 presents the secondary structure of ApoAI, based on the UNIPROT database (<url>) and pinpoints on this pattern the exact sites of identified mutations (<url>). For example, another already described mutation in the same genetic locus of APOA1 leads to Leu60Arg amino-acid substitution and has a totally different phenotype [ 16 ]. Leu60Pro variant is associated with deposition of amyloid fibrils in the liver without renal involvement while Leu60Arg has precipitated renal dysfunction without liver involvement [ 16 ]. This is not surprising since even for identical variants, multiple genetic and environmental factors may contribute to phenotypic variation [ 17 ]. Among known mutations, eight (including Gly26Arg, Trp50Arg, Leu60Arg, Leu64Pro, Glu70_Trp72del, Asn74fs, Leu75Pro, Ala154fs) have been associated with renal involvement (with or without liver involvement) [ 8 ] and only one with isolated liver involvement (Leu60_Phe71delinsValThr). According to the initial description of a Spanish family with AApoAI amyloidosis caused by heterozygous mutation Leu60_Phe71delinsValThr [ 18 , 19 ], the diagnosis was first made in two asymptomatic females after undergoing liver biopsies due to abnormal liver function tests during routine screening. Both cases were later found to suffer from primary adrenal insufficiency, which was confirmed by blood tests (high level of ACTH and low level of cortisol) at ages 65 and 66, respectively. Fig. 1 Secondary structure of ApoAI, based on the UNIPROT database (<url>). Helix is depicted with bold blue letters and turn region with orange bold. The sites of identified mutations, as provided by <url> are shown with red boxes. The L60P mutation described in the manuscript is also shown in red characters
+30665372_9858	201	206	ApoAI	Gene-protein	HGNC:600
+30665372_9858	402	407	APOA1	Gene-protein	HGNC:600
+30665372_9858	417	425	Leu60Arg	Variant	p.Leu60Arg
+30665372_9858	496	504	Leu60Pro	Variant
+30665372_9858	496	615	Leu60Pro variant is associated with deposition of amyloid fibrils in the liver without renal involvement while Leu60Arg	Collection
+30665372_9858	532	600	deposition of amyloid fibrils in the liver without renal involvement	Biomarker
+30665372_9858	607	615	Leu60Arg	Variant
+30665372_9858	633	650	renal dysfunction	Disease	DOID:557
+30665372_9858	873	881	Gly26Arg	Variant	p.Gly26Arg
+30665372_9858	873	1114	Gly26Arg, Trp50Arg, Leu60Arg, Leu64Pro, Glu70_Trp72del, Asn74fs, Leu75Pro, Ala154fs) have been associated with renal involvement (with or without liver involvement) [ 8 ] and only one with isolated liver involvement (Leu60_Phe71delinsValThr)	Collection
+30665372_9858	883	891	Trp50Arg	Variant	p.Trp50Arg
+30665372_9858	893	901	Leu60Arg	Variant
+30665372_9858	903	911	Leu64Pro	Variant	p.Leu64Pro
+30665372_9858	913	927	Glu70_Trp72del	Variant	p.Glu70_Trp72del
+30665372_9858	929	936	Asn74fs	Variant	p.Asn74fs
+30665372_9858	938	946	Leu75Pro	Variant	p.Leu75Pro
+30665372_9858	948	956	Ala154fs	Variant	p.ALA154fs
+30665372_9858	1090	1113	Leu60_Phe71delinsValThr	Variant	p.Leu60_Phe71delinsValThr
+30665372_9858	1178	1196	AApoAI amyloidosis	Disease	D028226
+30665372_9858	1229	1252	Leu60_Phe71delinsValThr	Variant
+30665372_9858	1469	1490	adrenal insufficiency	Disease	DOID:0050546
+30665372_9858	1528	1546	high level of ACTH	Biomarker
+30665372_9858	1528	1572	high level of ACTH and low level of cortisol	Collection
+30665372_9858	1542	1546	ACTH	Gene-protein	HGNC:9201
+30665372_9858	1551	1572	low level of cortisol	Biomarker
+30665372_9858	1564	1572	cortisol	Chemical
+30665372_9858	1637	1642	ApoAI	Gene-protein
+30665372_9858	1844	1848	L60P	Variant	p.Leu60Pro
+

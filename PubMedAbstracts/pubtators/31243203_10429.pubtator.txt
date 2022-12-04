@@ -1,0 +1,41 @@
+31243203_10429|t|RSS_IDENT_p_31243203_b_1_3_4
+31243203_10429|a| The clinical manifestations and laboratory findings of EGPA could be collected into ANCA-positive and ANCA-negative EGPA, and only 40% of EGPA is ANCA-positive unlike other ANCA-associated vasculitides (AAVs), which are highly positive for ANCA. While ANCA positivity is known to be associated with the symptoms and prognosis of EGPA, it has no association with the serum IgG4 level in EGPA ( 3 , 5 ); this contradiction may be attributed to cardiovascular events (myocardial infarction, cardiac insufficiency, or arrhythmia), which account for up to 50% of deaths in EGPA and often occur in ANCA-negative cases ( 5 , 6 ). ANCA-positive EGPA is related to vasculitic syndrome, including renal, skin, and neural involvement; however, previous studies have primarily included patients with anti-MPO ANCA because anti-PR3 ANCA is rare among patients with EGPA. To our knowledge, this is the first case report of anti-PR3 ANCA-positive EGPA with cardiac tamponade. Our patient also exhibited overlapping manifestations of ANCA-positive and ANCA-negative EGPA, similar to a previously reported case with positive anti-PR3 ANCA and extensive cardiac involvement ( 7 ). 
+31243203_10429	85	89	EGPA	Disease	DOID:3049
+31243203_10429	114	118	ANCA	Gene-protein	not found
+31243203_10429	114	150	ANCA-positive and ANCA-negative EGPA	Disease	not found, not found
+31243203_10429	132	136	ANCA	Gene-protein
+31243203_10429	168	172	EGPA	Disease
+31243203_10429	176	180	ANCA	Gene-protein
+31243203_10429	176	189	ANCA-positive	Biomarker
+31243203_10429	203	207	ANCA	Gene-protein
+31243203_10429	203	231	ANCA-associated vasculitides	Disease	D056648
+31243203_10429	233	237	AAVs	Disease	D056648
+31243203_10429	250	274	highly positive for ANCA	Biomarker
+31243203_10429	270	274	ANCA	Gene-protein
+31243203_10429	282	286	ANCA	Gene-protein
+31243203_10429	282	297	ANCA positivity	Biomarker
+31243203_10429	359	363	EGPA	Disease
+31243203_10429	396	412	serum IgG4 level	Biomarker
+31243203_10429	402	406	IgG4	Gene-protein	not found
+31243203_10429	416	420	EGPA	Disease
+31243203_10429	495	516	myocardial infarction	Disease	DOID:5844
+31243203_10429	518	539	cardiac insufficiency	Disease	D006333
+31243203_10429	544	554	arrhythmia	Disease	D001145
+31243203_10429	598	602	EGPA	Disease
+31243203_10429	622	626	ANCA	Gene-protein
+31243203_10429	653	657	ANCA	Gene-protein
+31243203_10429	653	671	ANCA-positive EGPA	Disease	not found
+31243203_10429	686	705	vasculitic syndrome	Biomarker
+31243203_10429	686	752	vasculitic syndrome, including renal, skin, and neural involvement	Collection
+31243203_10429	717	752	renal, skin, and neural involvement	Biomarker
+31243203_10429	818	831	anti-MPO ANCA	Gene-protein	not found
+31243203_10429	840	853	anti-PR3 ANCA	Gene-protein	not found
+31243203_10429	882	886	EGPA	Disease
+31243203_10429	939	952	anti-PR3 ANCA	Gene-protein
+31243203_10429	939	966	anti-PR3 ANCA-positive EGPA	Disease
+31243203_10429	972	989	cardiac tamponade	Disease	DOID:115
+31243203_10429	1048	1052	ANCA	Gene-protein
+31243203_10429	1048	1084	ANCA-positive and ANCA-negative EGPA	Disease
+31243203_10429	1066	1070	ANCA	Gene-protein
+31243203_10429	1138	1151	anti-PR3 ANCA	Gene-protein
+

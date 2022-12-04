@@ -1,0 +1,59 @@
+30886579_21845|t|RSS_IDENT_p_30886579_b_1_4_5
+30886579_21845|a| Accumulative evidence shows that ncRNAs play a very important regulatory role in tumor progression of HNSCC. For instance, lncRNA HOX transcript antisense RNA (HOTAIR) was found to modulate the progression of HNSCC ( Sun et al., 2018 ). HNSCC samples showed significantly robust expression/activation of HOTAIR compared with normal squamous epithelium. Overexpression of HOTAIR promoted the growth of xenograft tumors in vivo ( Sun et al., 2018 ). In our ceRNA network, the high expression of the HOTAIR and HOTTIP are closely associated with 6 miRNAs (mir-301b, mir-193b, and mir-31 are upregulated, whilst mir-216a, mir-206, and mir-375 are downregulated). The highly homologous miRNA to hsa-mir-301b, hsa-miR-301a-3p, played a role in the emergence and development of laryngeal squamous cell carcinoma by directly regulating the Smad4 ( Lu et al., 2015 ). MiR-193b was over-expressed in HNSCC cell lines. Knockdown of miR-193b in FaDu cancer cells substantially reduced cell proliferation, migration and invasion, along with suppressed tumor formation ( Lenarduzzi et al., 2013 ). HNSCC patients whose tumors expressed high levels of miR-193b experienced a lower disease-free survival compared to patients with low miR-193b expression ( Lenarduzzi et al., 2013 ). The miR-31 was significantly increased in patients with oral carcinoma at all clinical stages, including very small tumors ( Liu et al., 2012 ), miR-31 also facilitate migration and invasion by targeting Numb in HNSCC cells ( Chou et al., 2018 ). miR-206 and miR-375 were down-regulated in HNSCC clinical specimens and cell lines ( Nohata et al., 2011 ; Liu et al., 2017 ), which is in agreement with our results. Finally, expression level of miR-216-5p in cervical cancer tissues was observably lower than that in corresponding normal tissues ( Zhu et al., 2018 ). 
+30886579_21845	63	69	ncRNAs	Biomarker	D062085
+30886579_21845	63	69	ncRNAs	Rna-noncoding
+30886579_21845	111	116	tumor	Disease	DOID:162
+30886579_21845	111	137	tumor progression of HNSCC	Collection
+30886579_21845	132	137	HNSCC	Disease	DOID:5520
+30886579_21845	153	188	lncRNA HOX transcript antisense RNA	Biomarker
+30886579_21845	160	188	HOX transcript antisense RNA	Rna-noncoding	HGNC:33510
+30886579_21845	190	196	HOTAIR	Rna-noncoding	HGNC:33510
+30886579_21845	239	244	HNSCC	Disease
+30886579_21845	267	272	HNSCC	Disease
+30886579_21845	302	340	robust expression/activation of HOTAIR	Biomarker
+30886579_21845	334	340	HOTAIR	Rna-noncoding
+30886579_21845	383	407	Overexpression of HOTAIR	Biomarker
+30886579_21845	401	407	HOTAIR	Rna-noncoding
+30886579_21845	441	447	tumors	Disease	DOID:162
+30886579_21845	527	533	HOTAIR	Rna-noncoding
+30886579_21845	538	544	HOTTIP	Rna-noncoding	HGNC:37461
+30886579_21845	583	591	mir-301b	Rna-noncoding
+30886579_21845	593	601	mir-193b	Rna-noncoding	family:1761
+30886579_21845	607	613	mir-31	Rna-noncoding	HGNC:31630
+30886579_21845	638	646	mir-216a	Rna-noncoding	family:1763
+30886579_21845	648	655	mir-206	Rna-noncoding	HGNC:31584
+30886579_21845	661	668	mir-375	Rna-noncoding	HGNC:31868
+30886579_21845	720	732	hsa-mir-301b	Rna-noncoding	 HGNC:33667
+30886579_21845	734	749	hsa-miR-301a-3p	Rna-noncoding	HGNC:31622
+30886579_21845	734	749	hsa-miR-301a-3p	Biomarker
+30886579_21845	801	834	laryngeal squamous cell carcinoma	Disease	DOID:2876
+30886579_21845	862	867	Smad4	Gene-protein	HGNC:6770
+30886579_21845	889	897	MiR-193b	Rna-noncoding	family:1761
+30886579_21845	889	916	MiR-193b was over-expressed	Biomarker
+30886579_21845	920	925	HNSCC	Disease
+30886579_21845	938	959	Knockdown of miR-193b	Drug	not found
+30886579_21845	951	959	miR-193b	Rna-noncoding
+30886579_21845	963	967	FaDu	Cellline
+30886579_21845	968	974	cancer	Disease	DOID:162
+30886579_21845	1069	1074	tumor	Disease
+30886579_21845	1114	1119	HNSCC	Disease
+30886579_21845	1114	1141	HNSCC patients whose tumors	Collection
+30886579_21845	1135	1141	tumors	Disease
+30886579_21845	1152	1175	high levels of miR-193b	Biomarker
+30886579_21845	1167	1175	miR-193b	Rna-noncoding
+30886579_21845	1248	1256	miR-193b	Rna-noncoding
+30886579_21845	1301	1307	miR-31	Rna-noncoding
+30886579_21845	1301	1335	miR-31 was significantly increased	Biomarker
+30886579_21845	1353	1367	oral carcinoma	Disease	DOID:0050866
+30886579_21845	1354	1419	ral carcinoma at all clinical stages, including very small tumors	Collection
+30886579_21845	1413	1419	tumors	Disease
+30886579_21845	1442	1448	miR-31	Rna-noncoding
+30886579_21845	1509	1514	HNSCC	Disease
+30886579_21845	1544	1551	miR-206	Rna-noncoding
+30886579_21845	1544	1583	miR-206 and miR-375 were down-regulated	Biomarker
+30886579_21845	1556	1563	miR-375	Rna-noncoding
+30886579_21845	1587	1592	HNSCC	Disease
+30886579_21845	1720	1750	expression level of miR-216-5p	Biomarker
+30886579_21845	1740	1750	miR-216-5p	Rna-noncoding
+30886579_21845	1754	1769	cervical cancer	Disease	DOID:4362
+

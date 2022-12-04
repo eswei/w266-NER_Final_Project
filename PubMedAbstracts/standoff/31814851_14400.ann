@@ -1,0 +1,53 @@
+T0	Disease 322 337	benign prostate
+#1	AnnotatorNotes T0	DOID:2883
+T1	Disease 461 467	cancer
+#2	AnnotatorNotes T1	DOID:162
+T10	Disease 1237 1248	lung cancer
+#3	AnnotatorNotes T10	DOID:1324
+T11	Disease 1253 1259	glioma
+#4	AnnotatorNotes T11	DOID:0060108
+T3	Disease 560 565	tumor
+#6	AnnotatorNotes T3	DOID:162
+T5	Disease 749 752	PCa
+T6	Disease 972 975	PCa
+T7	Chemical 1064 1076	progesterone
+T8	Chemical 1081 1089	estrogen
+T9	Disease 1170 1183	breast cancer
+#12	AnnotatorNotes T9	DOID:1612
+T12	Disease 115 118	PCa
+#10	AnnotatorNotes T12	DOID:10283
+T13	Gene-Protein 63 68	HJURP
+#11	AnnotatorNotes T13	HGNC:25444
+T14	Biomarker 63 68	HJURP
+#13	AnnotatorNotes T14	C524371
+R1	Association Arg1:T14 Arg2:T12	
+T15	Disease 235 238	PCa
+T16	Disease 296 299	PCa
+T17	Gene-Protein 215 220	HJURP
+T18	Gene-Protein 271 276	HJURP
+T19	Gene-Protein 808 813	HJURP
+T20	Gene-Protein 1030 1035	HJURP
+T21	Gene-Protein 677 682	HJURP
+T22	Gene-Protein 893 898	HJURP
+T23	Gene-Protein 535 540	HJURP
+T24	Gene-Protein 412 417	HJURP
+T25	Biomarker 215 231	HJURP expression
+R2	Association Arg1:T25 Arg2:T15	
+T26	Biomarker 271 292	HJURP was upregulated
+R3	Association Arg1:T26 Arg2:T16	
+T27	Biomarker 396 417	Upregulation of HJURP
+T28	Collection 461 517	cancer, including brain, breast, ovarian and lung cancer
+T29	Disease 479 517	brain, breast, ovarian and lung cancer
+#8	AnnotatorNotes T29	DOID:1319, DOID:1612, DOID:2394,DOID:1324
+R4	Association Arg1:T27 Arg2:T28	
+T2	Biomarker 535 540	HJURP
+R5	Association Arg1:T2 Arg2:T3	
+T30	Biomarker 661 682	upregulation of HJURP
+T4	Biomarker 703 731	aggressive tumor progression
+T31	Biomarker 803 829	high HJURP mRNA expression
+T32	Biomarker 1014 1040	upregulation of HJURP mRNA
+T33	Biomarker 1064 1105	progesterone and estrogen negative status
+T34	Collection 1237 1259	lung cancer and glioma
+R8	Prognostic-Poor Arg1:T31 Arg2:T6	
+R6	Prognostic-Poor Arg1:T33 Arg2:T9	
+R7	Prognostic-Poor Arg1:T33 Arg2:T34	

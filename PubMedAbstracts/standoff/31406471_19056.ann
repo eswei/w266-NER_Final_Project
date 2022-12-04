@@ -1,0 +1,85 @@
+T1	Disease 104 135	articular cartilage destruction
+#1	AnnotatorNotes T1	not found
+T12	Disease 941 984	KOA patients with high HbA1c concentrations
+T14	Disease 1053 1096	KOA patients with high HbA1c concentrations
+T16	Disease 1159 1161	DM
+T18	Disease 1181 1183	OA
+T19	Disease 1237 1239	DM
+T20	Biomarker 1273 1283	overweight
+T21	Biomarker 1284 1291	obesity
+#9	AnnotatorNotes T21	D009765
+T23	Disease 1337 1339	DM
+T24	Biomarker 1363 1368	obese
+#11	AnnotatorNotes T24	D009765
+T25	Disease 1407 1409	DM
+T26	Biomarker 1424 1429	obese
+T30	Disease 1560 1565	obese
+T31	Disease 1632 1642	overweight
+T32	Disease 1648 1653	obese
+T34	Disease 1754 1762	diabetic
+T35	Disease 1782 1789	obesity
+T4	Disease 296 298	OA
+#20	AnnotatorNotes T4	DOID:8398
+T7	Disease 549 592	KOA patients with high HbA1c concentrations
+T9	Disease 732 740	diabetic
+#22	AnnotatorNotes T9	not found
+T2	Biomarker 61 86	elevated MMP13 expression
+R1	Association Arg1:T2 Arg2:T1	
+T3	Gene-Protein 70 75	MMP13
+#3	AnnotatorNotes T3	HGNC:7159
+T5	Gene-Protein 282 287	Mmp13
+T6	Biomarker 267 287	overexpressing Mmp13
+R2	Association Arg1:T6 Arg2:T4	
+T8	Gene-Protein 168 173	MMP13
+T11	Biomarker 161 180	raised MMP13 levels
+T15	Gene-Protein 400 405	MMP13
+T17	Gene-Protein 410 414	TLR4
+T22	Gene-Protein 343 347	TLR4
+#5	AnnotatorNotes T22	HGNC:11850
+T27	Gene-Protein 433 438	MMP13
+T28	Biomarker 504 545	MMP13 expression was increased in the SYN
+T33	Gene-Protein 504 509	MMP13
+R3	Association Arg1:T28 Arg2:T7	
+#7	AnnotatorNotes T7	not found
+T36	Gene-Protein 611 615	TLR4
+T37	Drug-Class 611 623	TLR4 agonist
+T38	Chemical 625 628	LPS
+T39	Gene-Protein 641 646	MMP13
+T40	Gene-Protein 662 667	MMP13
+T41	Gene-Protein 699 703	TLR4
+T10	Biomarker 688 711	endogenous TLR4 ligands
+R4	Association Arg1:T10 Arg2:T9	
+T42	Gene-Protein 818 831	macroglobulin
+#2	AnnotatorNotes T42	not found
+T43	Gene-Protein 839 848	amyloid-β
+#8	AnnotatorNotes T43	not found
+T44	Biomarker 882 900	endogenous ligands
+T45	Biomarker 919 937	elevation of MMP13
+T46	Gene-Protein 932 937	MMP13
+T47	Biomarker 1000 1049	elevation of TLR4 and MMP13 expression in the SYN
+T48	Gene-Protein 1013 1017	TLR4
+T49	Gene-Protein 1022 1027	MMP13
+R6	Association Arg1:T47 Arg2:T14	
+#10	AnnotatorNotes T16	DOID:9352
+#12	AnnotatorNotes T20	D050177
+T50	Collection 1273 1291	overweight/obesity
+T51	Biomarker 1527 1554	OA patients with HbA1c ≥6.5
+R10	Association Arg1:T51 Arg2:T30	
+T29	Gene-Protein 1576 1580	TLR4
+T52	Gene-Protein 1585 1590	MMP13
+T53	Biomarker 1576 1580	TLR4
+T54	Biomarker 1585 1590	MMP13
+#4	AnnotatorNotes T53	D051197
+#13	AnnotatorNotes T54	D053509
+T13	Biomarker 1700 1732	higher TLR4 and MMP13 expression
+R11	Association Arg1:T13 Arg2:T34	
+T55	Gene-Protein 1716 1721	MMP13
+T56	Gene-Protein 1707 1711	TLR4
+T57	Biomarker 1462 1472	HbA1c ≥6.5
+T58	Biomarker 1477 1487	higher BMI
+R5	Association Arg1:T24 Arg2:T23	
+R8	Association Arg1:T26 Arg2:T25	
+R7	Association Arg1:T50 Arg2:T19	
+#6	AnnotatorNotes T31	D050177
+#14	AnnotatorNotes T30	DOID:9970
+#15	AnnotatorNotes T35	DOID:9970

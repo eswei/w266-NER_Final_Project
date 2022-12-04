@@ -1,0 +1,58 @@
+T10	Disease 930 943	schizophrenia
+T13	Disease 1070 1083	schizophrenia
+T14	Disease 1151 1168	neuroinflammation
+T15	Chemical 1263 1272	serotonin
+T17	Disease 1569 1582	schizophrenia
+T18	Biomarker 1593 1654	activation of mGlu3 receptors boosts mGlu5 receptor signaling
+T19	Disease 1806 1819	schizophrenia
+T2	Chemical 41 50	glutamate
+T21	Disease 1990 1999	psychosis
+#8	AnnotatorNotes T21	not found
+T3	Disease 130 143	schizophrenia
+#9	AnnotatorNotes T3	DOID:5419
+T5	Disease 442 455	schizophrenia
+T7	Chemical 613 621	dopamine
+T8	Disease 788 801	schizophrenia
+T9	Biomarker 803 839	mGlu5 receptors are widely expressed
+T22	GeneFamily 28 67	Metabotropic glutamate (mGlu) receptors
+#3	AnnotatorNotes T22	family:281
+T1	GeneFamily 366 379	mGlu receptor
+#4	AnnotatorNotes T1	family:281
+T4	Gene-Protein 588 603	mGlu1 receptors
+T6	Drug-Class 666 732	selective positive allosteric modulators (PAMs) of mGlu1 receptors
+R1	Response Arg1:T6 Arg2:T8	
+T23	Gene-Protein 717 732	mGlu1 receptors
+T24	Gene-Protein 803 818	mGlu5 receptors
+#10	AnnotatorNotes T24	HGNC:4597
+R2	Association Arg1:T9 Arg2:T10	
+T25	Gene-Protein 1007 1021	mGlu5 receptor
+#1	AnnotatorNotes T25	HGNC:4597
+#2	AnnotatorNotes T14	not found
+T11	Gene-Protein 1170 1185	mGlu2 receptors
+#11	AnnotatorNotes T11	HGNC:4594
+T12	Gene-Protein 1256 1281	5-HT₂A serotonin receptor
+#12	AnnotatorNotes T12	HGNC:5293
+T26	Drug-Class 1357 1382	mGlu2/3 receptor agonists
+T27	Gene-Protein 1357 1373	mGlu2/3 receptor
+T28	Gene-Protein 1487 1502	mGlu2 receptors
+T29	Gene-Protein 1321 1335	mGlu2 receptor
+T30	Gene-Protein 1512 1527	mGlu3 receptors
+#5	AnnotatorNotes T30	HGNC:4595
+T31	Gene-Protein 1630 1644	mGlu5 receptor
+T32	Gene-Protein 1787 1802	mGlu3 receptors
+T33	Gene-Protein 1944 1969	mGlu7 and mGlu8 receptors
+T34	Gene-Protein 1861 1876	mGlu4 receptors
+T35	Drug-Class 1904 1923	antipsychotic drugs
+T36	Gene-Protein 1607 1622	mGlu3 receptors
+T20	Gene-Protein 194 205	mGlu1 to −8
+T37	Gene-Protein 217 229	mGlu1 and −5
+#6	AnnotatorNotes T20	HGNC:4593,HGNC:4594,HGNC:4595,HGNC:4596,HGNC:4597,HGNC:4598,HGNC:4599,HGNC:4600
+#7	AnnotatorNotes T37	HGNC:4593,HGNC:4594,HGNC:4595,HGNC:4596,HGNC:4597
+#13	AnnotatorNotes T4	HGNC:4593
+#14	AnnotatorNotes T23	HGNC:4593
+#15	AnnotatorNotes T29	HGNC:4594
+#16	AnnotatorNotes T27	HGNC:4594, HGNC:4595
+#17	AnnotatorNotes T34	HGNC:4596
+T16	Biomarker 1861 1876	mGlu4 receptors
+R3	Association Arg1:T16 Arg2:T21	
+#18	AnnotatorNotes T16	C108823

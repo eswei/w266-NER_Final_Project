@@ -1,0 +1,49 @@
+29344653_121|t|RSS_IDENT_p_29344653_a_1_1
+29344653_121|a| Osteogenesis imperfecta (OI) is a rare congenital disorder characterized by bone fragility and fractures, and associated with bone deformity, short stature, dentin, ligament and blue-gray eye sclera. OI is caused by a heterozygous mutation in collagen α-1(I) chain (COL1A1) or collagen α-2(I) chain (COL1A2) genes that encode α chains of type I collagen. Collagen α chain peptide contains an N-propeptide, which has a role in assembly and processing of collagen. Point mutations in the N-propeptide domain appear to trigger OI. In the present study, a novel heterozygous missense mutation, c.281T>A (p.Val94Asp), was identified in the von Willebrand C domain of N-terminal of type I collagen in an individual with type IV OI. The majority of N-terminal mutations are associated with OI/Ehlers-Danlos syndrome (EDS); however, in the present study, the affected individual did not suffer from EDS and the level of serum phosphorus of the patient was low (0.67 mmol/l). A number of clinical phenotypes were observed at the same variation site or in the same region on the polypeptide chain of COL1A, which suggests that additional genetic and environmental factors may influence the severity of OI. The present study may provide insight into the phenotype-genotype association in collagen-associated diseases and improve clinical diagnosis of OI.
+29344653_121	28	51	Osteogenesis imperfecta	Disease	DOID:12347
+29344653_121	53	55	OI	Disease	DOID:12347
+29344653_121	67	86	congenital disorder	Disease	DOID:0080015
+29344653_121	104	118	bone fragility	Biomarker
+29344653_121	104	226	bone fragility and fractures, and associated with bone deformity, short stature, dentin, ligament and blue-gray eye sclera	Collection
+29344653_121	123	132	fractures	Biomarker	D050723
+29344653_121	154	168	bone deformity	Biomarker
+29344653_121	170	183	short stature	Biomarker	D004392
+29344653_121	185	191	dentin	Biomarker	D003804
+29344653_121	193	201	ligament	Biomarker	D008022
+29344653_121	206	226	blue-gray eye sclera	Biomarker
+29344653_121	228	230	OI	Disease
+29344653_121	246	335	heterozygous mutation in collagen α-1(I) chain (COL1A1) or collagen α-2(I) chain (COL1A2)	Biomarker
+29344653_121	271	292	collagen α-1(I) chain	Gene-protein	HGNC:2197
+29344653_121	294	300	COL1A1	Gene-protein	HGNC:2197
+29344653_121	305	326	collagen α-2(I) chain	Gene-protein	HGNC:2198
+29344653_121	328	334	COL1A2	Gene-protein	HGNC:2198
+29344653_121	354	381	α chains of type I collagen	Genefamily	not found
+29344653_121	383	399	Collagen α chain	Genefamily	not found
+29344653_121	420	432	N-propeptide	Chemical
+29344653_121	481	489	collagen	Genefamily	family:490
+29344653_121	491	533	Point mutations in the N-propeptide domain	Biomarker
+29344653_121	514	515	N	Chemical
+29344653_121	514	533	N-propeptide domain	Proteindomain
+29344653_121	552	554	OI	Disease
+29344653_121	618	626	c.281T>A	Variant
+29344653_121	618	639	c.281T>A (p.Val94Asp)	Collection
+29344653_121	628	638	p.Val94Asp	Variant	p.Val94Asp
+29344653_121	663	686	von Willebrand C domain	Proteindomain
+29344653_121	690	691	N	Chemical
+29344653_121	704	719	type I collagen	Genefamily	not found
+29344653_121	742	752	type IV OI	Disease	DOID:0110340
+29344653_121	770	790	N-terminal mutations	Variant
+29344653_121	811	813	OI	Disease
+29344653_121	811	836	OI/Ehlers-Danlos syndrome	Collection
+29344653_121	814	836	Ehlers-Danlos syndrome	Disease	DOID:13359
+29344653_121	838	841	EDS	Disease	DOID:13359
+29344653_121	919	922	EDS	Disease
+29344653_121	931	979	level of serum phosphorus of the patient was low	Biomarker
+29344653_121	946	956	phosphorus	Chemical
+29344653_121	1118	1123	COL1A	Genefamily	not found
+29344653_121	1156	1189	genetic and environmental factors	Biomarker
+29344653_121	1220	1222	OI	Disease
+29344653_121	1305	1313	collagen	Genefamily
+29344653_121	1305	1333	collagen-associated diseases	Disease	DOID:854
+29344653_121	1368	1370	OI	Disease
+

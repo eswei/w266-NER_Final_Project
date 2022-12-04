@@ -1,0 +1,79 @@
+T0	Disease 63 84	MPO-ANCA-related SNHL
+#1	AnnotatorNotes T0	not found
+T12	Drug 557 560	PTU
+T13	Disease 601 623	symptomatic vasculitis
+#6	AnnotatorNotes T13	not found
+T16	Biomarker 656 666	arthralgia
+T17	Biomarker 668 675	myalgia
+#10	AnnotatorNotes T17	D063806
+T18	Biomarker 681 698	cutaneous lesions
+T19	Drug 730 733	PTU
+T21	Disease 879 894	PTU-induced AAV
+T22	Drug 879 882	PTU
+T24	Drug 975 978	PTU
+T25	Disease 997 1002	OMAAV
+T26	Biomarker 1017 1038	trigeminal neuropathy
+#19	AnnotatorNotes T26	D020433
+T27	Biomarker 1094 1115	trigeminal neuropathy
+#20	AnnotatorNotes T27	D020433
+T29	Biomarker 1164 1166	HP
+T3	Drug 96 99	PTU
+T31	Biomarker 1171 1189	facial nerve palsy
+#23	AnnotatorNotes T31	D005158
+T33	Disease 1296 1299	GPA
+T34	Biomarker 1301 1352	cranial nerve involvements are commonly complicated
+T36	Biomarker 1358 1379	trigeminal neuropathy
+T37	Biomarker 1415 1475	cranial nerve manifestations are significantly less frequent
+T39	Drug 1479 1482	PTU
+T41	Disease 1565 1586	trigeminal neuropathy
+T42	Drug 1602 1605	PTU
+T43	Biomarker 1648 1669	trigeminal neuropathy
+T45	Disease 1704 1709	OMAAV
+T5	Drug 200 203	PTU
+T6	Drug 274 285	hydralazine
+T8	Drug 372 384	atorvastatin
+T9	Disease 372 418	atorvastatin-induced hearing loss and tinnitus
+#38	AnnotatorNotes T9	not found, not found
+#2	AnnotatorNotes T3	CHEMBL1518
+R1	Causes Arg1:T3 Arg2:T0	
+T1	Disease 255 272	drug-induced AAVs
+#3	AnnotatorNotes T1	not found
+#4	AnnotatorNotes T6	CHEMBL276832
+#5	AnnotatorNotes T8	CHEMBL1487
+T2	Disease 499 504	OMAAV
+T4	Disease 557 577	PTU-induced MPO-ANCA
+#12	AnnotatorNotes T4	not found
+#7	AnnotatorNotes T16	D018771
+T7	Disease 730 745	PTU-induced AAV
+#8	AnnotatorNotes T7	not found
+T10	Collection 656 698	arthralgia, myalgia, and cutaneous lesions
+R2	Association Arg1:T10 Arg2:T7	
+T11	Biomarker 820 861	ear manifestations appear less frequently
+R3	Association Arg1:T11 Arg2:T21	
+T14	Disease 914 925	primary AAV
+#11	AnnotatorNotes T14	not found
+R4	Causes Arg1:T24 Arg2:T25	
+T15	Disease 1127 1132	OMAAV
+R5	Association Arg1:T27 Arg2:T15	
+#13	AnnotatorNotes T29	D014390
+T20	Collection 1164 1189	HP and facial nerve palsy
+T23	Disease 1262 1267	OMAAV
+R6	Association Arg1:T20 Arg2:T23	
+#14	AnnotatorNotes T33	DOID:12132
+T28	Collection 1301 1379	cranial nerve involvements are commonly complicated, and trigeminal neuropathy
+R7	Association Arg1:T28 Arg2:T33	
+T30	Disease 1479 1494	PTU-induced AAV
+T32	Disease 1503 1514	primary AAV
+T35	Disease 1602 1617	PTU-induced AAV
+R8	Association Arg1:T37 Arg2:T30	
+R9	Association Arg1:T43 Arg2:T45	
+T38	Disease 156 161	OMAAV
+#15	AnnotatorNotes T38	not found
+R10	Association Arg1:T26 Arg2:T25	
+#9	AnnotatorNotes T41	D020433
+T40	Gene-Protein 63 66	MPO
+#16	AnnotatorNotes T40	HGNC:7218
+T44	Gene-Protein 569 572	MPO
+T47	Gene-Protein 573 577	ANCA
+T46	Gene-Protein 67 71	ANCA
+#17	AnnotatorNotes T46	not found

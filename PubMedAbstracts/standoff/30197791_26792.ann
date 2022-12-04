@@ -1,0 +1,74 @@
+T1	Disease 110 115	tumor
+#1	AnnotatorNotes T1	DOID:162
+T11	Disease 616 629	malignant EOC
+#2	AnnotatorNotes T11	DOID:2152
+T13	Disease 706 709	EOC
+T14	Disease 775 778	EOC
+T20	Disease 1071 1086	cervical cancer
+#6	AnnotatorNotes T20	DOID:4362
+T23	Disease 1215 1230	cervical cancer
+#8	AnnotatorNotes T23	DOID:4362
+T25	Disease 1322 1336	gastric cancer
+#9	AnnotatorNotes T25	DOID:10534
+T27	Disease 1544 1561	colorectal cancer
+#10	AnnotatorNotes T27	DOID:9256
+T3	Disease 222 227	tumor
+T4	Disease 303 317	ovarian cancer
+#12	AnnotatorNotes T4	DOID:2394
+T7	Disease 453 456	EOC
+T8	Disease 473 478	tumor
+T2	Gene-Protein 77 81	PVT1
+#3	AnnotatorNotes T2	HGNC:9709
+T5	Biomarker 63 106	expression of PVT1 was significantly higher
+R1	Association Arg1:T5 Arg2:T1	
+T6	RNA-Noncoding 191 198	miR-214
+#4	AnnotatorNotes T6	HGNC:31591
+T9	Biomarker 177 218	expression of miR-214 was obviously lower
+R2	Association Arg1:T9 Arg2:T3	
+R3	Association Arg1:T5 Arg2:T4	
+R4	Association Arg1:T9 Arg2:T4	
+T10	Biomarker 349 371	higher PVT1 expression
+T15	Gene-Protein 356 360	PVT1
+#5	AnnotatorNotes T7	DOID:2152
+T16	Biomarker 413 437	Lower miR-214 expression
+T17	RNA-Noncoding 419 426	miR-214
+R5	Association Arg1:T16 Arg2:T7	
+T18	Biomarker 530 555	higher expression of PVT1
+T19	Gene-Protein 551 555	PVT1
+T21	Biomarker 560 587	lower expression of miR-214
+T24	RNA-Noncoding 580 587	miR-214
+T12	Collection 530 587	higher expression of PVT1 and lower expression of miR-214
+R6	Association Arg1:T12 Arg2:T11	
+T26	Gene-Protein 686 690	PVT1
+T28	RNA-Noncoding 695 702	miR-214
+T29	Biomarker 793 813	high PVT1 expression
+T30	Gene-Protein 798 802	PVT1
+T31	Biomarker 818 840	low miR-214 expression
+T32	RNA-Noncoding 822 829	miR-214
+T33	Collection 793 840	high PVT1 expression and low miR-214 expression
+R7	Prognostic-Poor Arg1:T33 Arg2:T14	
+T34	Biomarker 901 920	low PVT1 expression
+T35	Gene-Protein 905 909	PVT1
+T36	Biomarker 925 948	high miR-214 expression
+T37	Gene-Protein 930 937	miR-214
+T38	Collection 901 948	low PVT1 expression and high miR-214 expression
+T39	Biomarker 1046 1067	PVT1 was up-regulated
+T40	Gene-Protein 1046 1050	PVT1
+R9	Association Arg1:T39 Arg2:T20	
+T41	Biomarker 1096 1123	Enhanced expression of PVT1
+T42	Gene-Protein 1119 1123	PVT1
+R10	Prognostic-Poor Arg1:T41 Arg2:T23	
+T22	Biomarker 1144 1161	larger tumor size
+T43	Biomarker 1261 1283	overexpression of PVT1
+T44	Gene-Protein 1279 1283	PVT1
+R11	Prognostic-Poor Arg1:T43 Arg2:T25	
+T45	Gene-Protein 1402 1405	p15
+#7	AnnotatorNotes T45	HGNC:1788
+T46	Gene-Protein 1410 1413	p16
+#11	AnnotatorNotes T46	HGNC:1787
+T47	Biomarker 1464 1485	amplification of PVT1
+T48	Gene-Protein 1481 1485	PVT1
+R12	Prognostic-Poor Arg1:T47 Arg2:T27	
+T49	Biomarker 1163 1177	advanced stage
+T50	Biomarker 1183 1209	poor prognosis of patients
+T51	Biomarker 638 702	negative relationship between the expression of PVT1 and miR-214

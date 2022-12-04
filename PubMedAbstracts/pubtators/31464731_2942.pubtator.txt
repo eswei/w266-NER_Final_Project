@@ -1,0 +1,69 @@
+31464731_2942|t|RSS_IDENT_p_31464731_b_1_1_3
+31464731_2942|a| Pentraxin 3 (PTX3) is a multimeric acute phase protein of the pentraxin superfamily that serves as a proinflammatory biomarker. It is usually secreted in several cells, including macrophages, fibroblasts, vascular smooth muscle cells, and endothelial cells [ 4 ]. In CAD patients, PTX3 is released from activated platelets and neutrophils [ 5 ] and is associated with the progress of coronary atherosclerotic lesions [ 6 ]. Galectins and β-galactoside-binding animal lectins are differentially excreted by various immune cells and by a wide range of other cells. The galectins are divided into three types: prototype, chimera, and tandem. Galectin-3 (GAL-3) is one of the chimera members. It is secreted by activated macrophages [ 7 ] and is crucial in physiological and pathological processes, including cell growth, angiogenesis, carcinogenesis, and inflammation. GAL-3 might be closely correlated with heart failure, cardiovascular death, and all-cause mortality [ 8 ]. As a well-known potent inhibitor of plasminogen activation and fibrinolysis, the concentration of plasma plasminogen activator inhibitor (PAI-1) increases in the patients with atherosclerosis [ 9 ], making it a putative CAD risk factor. Recently, retinol-binding protein-4 (RBP4) has been linked to obesity, insulin resistance, and type 2 diabetes, and it can transport the protein for vitamin A [ 10 ]. Moreover, RBP4 is crucial in the pathogenesis of arteriosclerosis in CAD patients [ 11 ]. Adiponectin (ADP) is a classical anti-inflammatory cytokine, a peptide hormone, and a member of the adipokines family that was first discovered in 1995 [ 12 ]. ADP can protect the cardiovascular systems from atherosclerosis by inhibiting the production of tumor necrosis factor-alpha (TNF-α), reducing monocyte adhesion, and repairing endothelial cells [ 13 , 14 ]. As a new member of the interleukin (IL) family, IL-37 often decreases in peripheral blood in healthy individuals. The overexpression of IL-37 in murine macrophage-like RAW264.7 cells leads to the reduction in lipopolysaccharide-stimulated proinflammatory cytokines [ 15 ]. Netrins play a vital role in cell migration and axon guidance. Netrin-1 (NTN1) is one of the five types of netrins, which acts as a bifunctional regulator in neuron migration [ 16 ]. In addition, NTN1 is involved in angiogenesis, atherosclerosis, and anti-ischemia reperfusion injury, exerting a cardioprotective effect in CAD [ 17 ].
+31464731_2942	30	41	Pentraxin 3	Gene-protein	 HGNC:9692
+31464731_2942	43	47	PTX3	Gene-protein	 HGNC:9692
+31464731_2942	92	101	pentraxin	Genefamily	family:1141
+31464731_2942	297	300	CAD	Disease	DOID:3393
+31464731_2942	311	315	PTX3	Gene-protein
+31464731_2942	311	368	PTX3 is released from activated platelets and neutrophils	Biomarker
+31464731_2942	414	446	coronary atherosclerotic lesions	Biomarker
+31464731_2942	454	463	Galectins	Genefamily	family:629
+31464731_2942	468	481	β-galactoside	Chemical
+31464731_2942	468	504	β-galactoside-binding animal lectins	Genefamily	family:629
+31464731_2942	597	606	galectins	Genefamily	family:629
+31464731_2942	669	679	Galectin-3	Gene-protein	HGNC:6563
+31464731_2942	681	686	GAL-3	Gene-protein	HGNC:6563
+31464731_2942	896	901	GAL-3	Biomarker
+31464731_2942	896	901	GAL-3	Gene-protein
+31464731_2942	935	948	heart failure	Disease	D006333
+31464731_2942	935	995	heart failure, cardiovascular death, and all-cause mortality	Collection
+31464731_2942	950	970	cardiovascular death	Disease	not found
+31464731_2942	986	995	mortality	Disease	D009026
+31464731_2942	1026	1078	inhibitor of plasminogen activation and fibrinolysis	Drug-class
+31464731_2942	1084	1157	concentration of plasma plasminogen activator inhibitor (PAI-1) increases	Biomarker
+31464731_2942	1101	1139	plasma plasminogen activator inhibitor	Gene-protein	HGNC: 8583
+31464731_2942	1141	1146	PAI-1	Gene-protein	HGNC: 8583
+31464731_2942	1179	1194	atherosclerosis	Disease	DOID:1936
+31464731_2942	1179	1226	atherosclerosis [ 9 ], making it a putative CAD	Collection
+31464731_2942	1223	1226	CAD	Disease
+31464731_2942	1250	1257	retinol	Chemical
+31464731_2942	1250	1275	retinol-binding protein-4	Biomarker
+31464731_2942	1250	1275	retinol-binding protein-4	Gene-protein	HGNC:9922
+31464731_2942	1277	1281	RBP4	Gene-protein	HGNC:9922
+31464731_2942	1302	1309	obesity	Disease	DOID:9970
+31464731_2942	1302	1350	obesity, insulin resistance, and type 2 diabetes	Collection
+31464731_2942	1311	1318	insulin	Gene-protein	HGNC:6081
+31464731_2942	1311	1329	insulin resistance	Disease	D007333
+31464731_2942	1335	1350	type 2 diabetes	Disease	DOID:9352
+31464731_2942	1389	1398	vitamin A	Chemical
+31464731_2942	1417	1421	RBP4	Biomarker
+31464731_2942	1417	1421	RBP4	Gene-protein
+31464731_2942	1456	1479	arteriosclerosis in CAD	Disease	DOID:1936, DOID:3393	Conjunction
+31464731_2942	1497	1508	Adiponectin	Gene-protein	HGNC:13633
+31464731_2942	1510	1513	ADP	Gene-protein	HGNC:13633
+31464731_2942	1530	1556	anti-inflammatory cytokine	Genefamily	not found
+31464731_2942	1597	1607	adipokines	Genefamily	not found
+31464731_2942	1657	1660	ADP	Gene-protein
+31464731_2942	1657	1660	ADP	Drug	D052242
+31464731_2942	1705	1720	atherosclerosis	Disease	DOID:1936
+31464731_2942	1753	1780	tumor necrosis factor-alpha	Gene-protein	HGNC:11892
+31464731_2942	1782	1787	TNF-α	Gene-protein	HGNC:11892
+31464731_2942	1886	1897	interleukin	Genefamily	family:601
+31464731_2942	1886	1952	interleukin (IL) family, IL-37 often decreases in peripheral blood	Biomarker
+31464731_2942	1899	1901	IL	Genefamily	family:601
+31464731_2942	1911	1916	IL-37	Gene-protein	HGNC:15563
+31464731_2942	1999	2004	IL-37	Gene-protein
+31464731_2942	2031	2039	RAW264.7	Cellline
+31464731_2942	2072	2090	lipopolysaccharide	Drug	CHEMBL1909064
+31464731_2942	2102	2127	proinflammatory cytokines	Genefamily
+31464731_2942	2136	2143	Netrins	Genefamily	family:661
+31464731_2942	2199	2207	Netrin-1	Gene-protein	HGNC:8029
+31464731_2942	2209	2213	NTN1	Gene-protein	HGNC:8029
+31464731_2942	2243	2250	netrins	Genefamily	family:661
+31464731_2942	2332	2336	NTN1	Biomarker
+31464731_2942	2332	2336	NTN1	Gene-protein
+31464731_2942	2366	2381	atherosclerosis	Disease
+31464731_2942	2366	2420	atherosclerosis, and anti-ischemia reperfusion injury,	Collection
+31464731_2942	2387	2419	anti-ischemia reperfusion injury	Disease	not found
+31464731_2942	2459	2462	CAD	Disease
+

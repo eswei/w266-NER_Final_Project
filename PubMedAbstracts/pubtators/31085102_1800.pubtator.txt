@@ -1,0 +1,39 @@
+31085102_1800|t|RSS_IDENT_p_31085102_b_1_1
+31085102_1800|a| Research in context Evidence before this study The overactivation of the leukotriene A4 hydrolase (LTA4H) pathway plays an important role in many cancers, including colorectal cancer (CRC). Therefore, LTA4H is considered to be a target for cancer chemoprevention and chemotherapy. Added value of this study In this study, we showed that the classical LTA4H inhibitor, bestatin, significantly inhibited LTB4 production. LTB4 is catalytic product of LTA4H and might serve as a blood biomarker for bestatin efficacy in CRC patients. Bestatin also significantly down-regulated the LTA4H signaling pathway and reduced proliferation and expression of Ki-67. Furthermore, bestatin effectively decreased the concentration of LTB4 and inhibited colorectal tumorigenesis in the Apcᴹⁱⁿ/⁺ mouse model and in a CRC patient-derived xenograft (PDX) SCID mouse model. These animal studies confirmed data obtained from clinical patient samples and support further studies for LTA4H inhibition in CRC. Implications of all the available evidence Our studies suggest that LTB4 can serve as a blood biomarker for bestatin efficacy in CRC patients. In addition, our findings suggest that LTA4H is a promising molecular target in CRC. Alt-text: Unlabelled Box 
+31085102_1800	79	141	overactivation of the leukotriene A4 hydrolase (LTA4H) pathway	Biomarker
+31085102_1800	101	115	leukotriene A4	Chemical
+31085102_1800	101	125	leukotriene A4 hydrolase	Gene-protein	HGNC:6710
+31085102_1800	127	132	LTA4H	Gene-protein	HGNC:6710
+31085102_1800	174	181	cancers	Disease	DOID:162
+31085102_1800	174	210	cancers, including colorectal cancer	Collection
+31085102_1800	193	210	colorectal cancer	Disease	DOID:9256
+31085102_1800	212	215	CRC	Disease	DOID:9256
+31085102_1800	229	234	LTA4H	Gene-protein
+31085102_1800	229	234	LTA4H	Biomarker
+31085102_1800	268	274	cancer	Disease	DOID:162
+31085102_1800	295	307	chemotherapy	Drug-class
+31085102_1800	379	384	LTA4H	Gene-protein
+31085102_1800	379	394	LTA4H inhibitor	Drug-class
+31085102_1800	396	404	bestatin	Drug	CHEMBL29292
+31085102_1800	430	434	LTB4	Chemical
+31085102_1800	447	451	LTB4	Chemical
+31085102_1800	476	481	LTA4H	Gene-protein
+31085102_1800	523	531	bestatin	Drug
+31085102_1800	544	547	CRC	Disease
+31085102_1800	558	566	Bestatin	Drug	CHEMBL538595
+31085102_1800	605	610	LTA4H	Gene-protein
+31085102_1800	673	678	Ki-67	Gene-protein	HGNC:7107
+31085102_1800	693	701	bestatin	Drug
+31085102_1800	745	749	LTB4	Chemical
+31085102_1800	764	788	colorectal tumorigenesis	Disease	DOID:9256
+31085102_1800	826	829	CRC	Disease
+31085102_1800	862	866	SCID	Disease	DOID:627
+31085102_1800	987	992	LTA4H	Gene-protein
+31085102_1800	1007	1010	CRC	Disease
+31085102_1800	1080	1084	LTB4	Chemical
+31085102_1800	1120	1128	bestatin	Drug
+31085102_1800	1141	1144	CRC	Disease
+31085102_1800	1194	1199	LTA4H	Gene-protein
+31085102_1800	1194	1199	LTA4H	Biomarker	C079315
+31085102_1800	1235	1238	CRC	Disease
+

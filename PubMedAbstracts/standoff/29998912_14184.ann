@@ -1,0 +1,53 @@
+T0	Disease 387 437	sitosterolemia harboring double mutations in ABCG5
+#1	AnnotatorNotes T0	not found
+T10	Disease 982 996	sitosterolemia
+T12	Disease 1084 1123	atherosclerotic cardiovascular diseases
+#3	AnnotatorNotes T12	DOID:1936,DOID:1287
+T14	Disease 1160 1174	sitosterolemic
+T16	Disease 1331 1345	sitosterolemic
+T17	Disease 1382 1384	FH
+T18	Chemical 1396 1406	sitosterol
+T19	Disease 1416 1430	sitosterolemic
+T20	Disease 1521 1523	FH
+T22	Disease 1604 1618	sitosterolemia
+T3	Biomarker 469 494	hyper-LDL cholesterolemia
+T5	Disease 591 605	sitosterolemia
+T6	Chemical 731 738	sterols
+T7	Disease 806 852	sitosterolemia harboring ABCG5/ABCG8 mutations
+T9	Disease 871 898	diet-induced hyperlipidemia
+#15	AnnotatorNotes T9	not found
+T1	Gene-Protein 108 113	ABCG5
+T2	Gene-Protein 114 119	ABCG8
+T4	Chemical 39 58	TG-rich lipoprotein
+T8	Gene-Protein 269 274	ABCG5
+T11	Gene-Protein 275 280	ABCG8
+T13	Disease 296 310	sitosterolemic
+T15	Gene-Protein 831 836	ABCG5
+T21	Gene-Protein 679 684	ABCG8
+T23	Gene-Protein 673 678	ABCG5
+T24	Gene-Protein 837 842	ABCG8
+T25	Gene-Protein 432 437	ABCG5
+R1	Association Arg1:T3 Arg2:T0	
+T26	Biomarker 918 960	post-prandial RLP metabolism was disturbed
+R2	Association Arg1:T26 Arg2:T10	
+T28	Gene-Protein 1027 1033	apoB48
+#7	AnnotatorNotes T28	HGNC:603
+T27	Biomarker 1027 1039	apoB48 level
+T29	Collection 1084 1174	atherosclerotic cardiovascular diseases ¹⁸ ⁾, was significantly elevated in sitosterolemic
+R3	Association Arg1:T27 Arg2:T29	
+T30	Biomarker 1275 1327	peaks of the post-prandial lipoproteins were earlier
+R4	Association Arg1:T30 Arg2:T16	
+T31	Biomarker 1396 1412	sitosterol level
+#6	AnnotatorNotes T17	DOID:13810
+R5	Association Arg1:T31 Arg2:T19	
+T32	Disease 192 206	sitosterolemic
+#4	AnnotatorNotes T5	DOID:0090019
+#8	AnnotatorNotes T32	DOID:0090019
+T33	Chemical 554 559	LDL-C
+#9	AnnotatorNotes T7	not found
+A1	Conjunction T12
+#10	AnnotatorNotes T31	D012855
+T34	Biomarker 535 566	diversities in the LDL-C levels
+R6	Association Arg1:T34 Arg2:T5	
+#2	AnnotatorNotes T1	HGNC:13886
+#5	AnnotatorNotes T2	HGNC:13887

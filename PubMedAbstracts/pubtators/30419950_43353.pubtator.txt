@@ -1,0 +1,52 @@
+30419950_43353|t|RSS_IDENT_p_30419950_b_1_4_3
+30419950_43353|a| LAT2 has been reported to play different roles in multiple tumor types. Barollo et al. confirmed that LAT2 was overexpressed in neuroendocrine tumors, including pheochromocytoma and medullary thyroid carcinoma, compared with normal tissues and that it was responsible for dihydroxyphenylalanine uptake [ 11 ]. Luo et al. found that LAT2 might play important roles in the proliferation of uterine leiomyoma cells [ 12 ]. In breast cancer, SLC7A8 mRNA expression was elevated in samples from estrogen receptor alpha-positive breast cancer patients. However, a high level of SLC7A8 mRNA was significantly associated with longer relapse-free survival in estrogen receptor alpha-positive and lymph node-positive breast cancer [ 13 ]. Our study demonstrated that a high LAT2 level was associated with poor overall survival in pancreatic cancer. In terms of chemosensitivity, Rumiato et al. found that single nucleotide polymorphisms mapping to the SLC7A8 gene, in combination with clinical variables, could contribute to the accuracy of the predicted response to platinum chemotherapy in esophageal cancer patients [ 14 ]. Meanwhile, another study showed that the expression of the SLC7A8 gene was significantly decreased in the paclitaxel-resistant W1 human ovarian cancer cell line compared with W1 parental cells; thus, SLC7A8 might be involved in reversing drug resistance in ovarian cancer [ 15 ]. However, in our previous study, LAT2 showed a higher expression level in AsPC-1-GEM cells than in the parental cells. In this study, we also demonstrated that LAT2 played an oncogenic role in pancreatic cancer and could decrease GEM sensitivity by regulating the glutamine-dependent LAT2-mTOR-LDHB pathway. 
+30419950_43353	30	34	LAT2	Gene-protein	HGNC:12749
+30419950_43353	30	34	LAT2	Biomarker	C419196
+30419950_43353	89	94	tumor	Disease	DOID:162
+30419950_43353	132	136	LAT2	Gene-protein
+30419950_43353	132	154	LAT2 was overexpressed	Biomarker
+30419950_43353	158	179	neuroendocrine tumors	Disease	DOID:169
+30419950_43353	158	240	neuroendocrine tumors, including pheochromocytoma and medullary thyroid carcinoma,	Collection
+30419950_43353	191	207	pheochromocytoma	Disease	DOID:0050771
+30419950_43353	212	239	medullary thyroid carcinoma	Disease	DOID:3973
+30419950_43353	302	324	dihydroxyphenylalanine	Chemical
+30419950_43353	362	366	LAT2	Gene-protein
+30419950_43353	362	366	LAT2	Biomarker
+30419950_43353	418	435	uterine leiomyoma	Disease	DOID:13223
+30419950_43353	453	466	breast cancer	Disease	DOID:1612
+30419950_43353	468	474	SLC7A8	Gene-protein	HGNC:11066
+30419950_43353	468	503	SLC7A8 mRNA expression was elevated	Biomarker
+30419950_43353	520	528	estrogen	Chemical
+30419950_43353	520	543	estrogen receptor alpha	Gene-protein	HGNC:3467
+30419950_43353	520	566	estrogen receptor alpha-positive breast cancer	Disease	DOID:0060075
+30419950_43353	588	613	high level of SLC7A8 mRNA	Biomarker
+30419950_43353	602	608	SLC7A8	Gene-protein
+30419950_43353	680	688	estrogen	Chemical
+30419950_43353	680	703	estrogen receptor alpha	Gene-protein
+30419950_43353	680	750	estrogen receptor alpha-positive and lymph node-positive breast cancer	Disease	DOID:0060075,not found
+30419950_43353	789	804	high LAT2 level	Biomarker
+30419950_43353	794	798	LAT2	Gene-protein
+30419950_43353	850	867	pancreatic cancer	Disease	DOID:1793
+30419950_43353	925	956	single nucleotide polymorphisms	Variant
+30419950_43353	972	978	SLC7A8	Gene-protein
+30419950_43353	1087	1108	platinum chemotherapy	Drug-class
+30419950_43353	1112	1129	esophageal cancer	Disease	DOID:5041
+30419950_43353	1188	1245	expression of the SLC7A8 gene was significantly decreased	Biomarker
+30419950_43353	1206	1212	SLC7A8	Gene-protein
+30419950_43353	1253	1263	paclitaxel	Drug	CHEMBL428647
+30419950_43353	1253	1297	paclitaxel-resistant W1 human ovarian cancer	Disease	not found
+30419950_43353	1347	1353	SLC7A8	Gene-protein
+30419950_43353	1347	1353	SLC7A8	Biomarker	C420646
+30419950_43353	1404	1418	ovarian cancer	Disease	DOID:2394
+30419950_43353	1459	1463	LAT2	Gene-protein
+30419950_43353	1500	1506	AsPC-1	Cellline
+30419950_43353	1507	1510	GEM	Drug	CHEMBL888
+30419950_43353	1586	1590	LAT2	Gene-protein
+30419950_43353	1586	1590	LAT2	Biomarker
+30419950_43353	1619	1636	pancreatic cancer	Disease
+30419950_43353	1656	1659	GEM	Drug
+30419950_43353	1690	1699	glutamine	Chemical
+30419950_43353	1710	1714	LAT2	Gene-protein
+30419950_43353	1715	1719	mTOR	Gene-protein	HGNC:3942
+30419950_43353	1720	1724	LDHB	Gene-protein	HGNC:6541
+

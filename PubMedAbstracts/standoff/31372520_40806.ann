@@ -1,0 +1,58 @@
+T0	Disease 260 274	ovarian cancer
+#1	AnnotatorNotes T0	DOID:2394
+T10	Disease 772 786	ovarian cancer
+T12	Chemical 895 905	fatty acid
+T13	Disease 1109 1123	ovarian cancer
+T14	Chemical 1201 1204	ATP
+T15	Disease 1237 1251	ovarian cancer
+T17	Chemical 1408 1411	ATP
+T18	Disease 1459 1473	ovarian cancer
+T21	Disease 1562 1567	tumor
+T22	Disease 1658 1672	ovarian cancer
+T24	Disease 1748 1753	tumor
+T3	Chemical 363 369	oxygen
+T4	Disease 469 474	tumor
+#15	AnnotatorNotes T4	DOID:162
+T5	Disease 499 505	cancer
+#16	AnnotatorNotes T5	DOID:162
+T7	Disease 532 537	tumor
+T9	Disease 600 615	advanced cancer
+#18	AnnotatorNotes T9	DOID:162
+T2	GeneFamily 30 34	AMPK
+#4	AnnotatorNotes T2	not found
+T6	GeneFamily 223 227	AMPK
+T8	GeneFamily 425 429	AMPK
+T11	GeneFamily 570 574	AMPK
+T16	GeneFamily 523 527	AMPK
+T20	GeneFamily 932 936	AMPK
+T23	GeneFamily 818 822	AMPK
+T25	GeneFamily 1220 1224	AMPK
+T26	GeneFamily 1321 1325	AMPK
+T27	GeneFamily 1420 1424	AMPK
+T28	GeneFamily 1698 1702	AMPK
+T29	GeneFamily 1541 1545	AMPK
+T30	Biomarker 223 256	AMPK activity should be increased
+R1	Association Arg1:T30 Arg2:T0	
+T31	Biomarker 420 438	high AMPK activity
+T32	Gene-Protein 451 455	mTOR
+#6	AnnotatorNotes T32	HGNC:3942
+T33	Biomarker 517 527	r low AMPK
+T34	Gene-Protein 1649 1654	AMPKα
+#3	AnnotatorNotes T34	not found
+T35	Biomarker 1694 1711	low AMPK activity
+R2	Association Arg1:T35 Arg2:T22	
+R3	Association Arg1:T35 Arg2:T24	
+T36	Biomarker 1537 1554	low AMPK activity
+R4	Association Arg1:T36 Arg2:T21	
+T19	Biomarker 1388 1458	combination of high ATP and low AMPK activity synergistically enhances
+R5	Association Arg1:T19 Arg2:T18	
+T1	Biomarker 566 581	low AMPK levels
+R7	Association Arg1:T1 Arg2:T9	
+T37	Biomarker 813 831	high AMPK activity
+R8	Association Arg1:T37 Arg2:T10	
+T38	Drug 927 945	high AMPK activity
+#2	AnnotatorNotes T38	not found
+R9	Protects-from Arg1:T38 Arg2:T13	
+R10	Association Arg1:T31 Arg2:T4	
+T39	Biomarker 1201 1215	ATP production
+T40	Biomarker 1220 1233	AMPK activity

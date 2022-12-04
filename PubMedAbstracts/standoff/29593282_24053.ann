@@ -1,0 +1,40 @@
+T0	Chemical 133 142	vitamin C
+T1	Disease 191 197	cancer
+#2	AnnotatorNotes T1	DOID:162
+T10	Disease 892 905	breast cancer
+T11	Disease 1047 1054	cancers
+#4	AnnotatorNotes T11	DOID:162
+T12	Chemical 1095 1104	vitamin C
+T13	Chemical 1141 1145	5hmC
+T14	Chemical 1186 1195	vitamin C
+T15	Chemical 1271 1275	5hmC
+T16	Disease 1279 1292	breast cancer
+T2	Chemical 218 222	5hmC
+T3	Disease 291 314	malignant breast cancer
+#11	AnnotatorNotes T3	DOID:1612
+T4	Chemical 354 358	5hmC
+T5	Disease 519 532	breast cancer
+#13	AnnotatorNotes T5	DOID:1612
+T6	Chemical 586 590	5hmC
+T7	Disease 657 670	breast cancer
+T8	Disease 734 748	breast cancers
+T9	Chemical 830 839	vitamin C
+T17	Biomarker 209 222	Cellular 5hmC
+R1	Association Arg1:T17 Arg2:T3	
+T18	Biomarker 339 358	global loss of 5hmC
+R2	Risk-Factor Arg1:T18 Arg2:T5	
+T19	Biomarker 578 590	loss of 5hmC
+R3	Association Arg1:T19 Arg2:T7	
+T20	Gene-Protein 852 857	SVCT2
+#1	AnnotatorNotes T20	HGNC:10973
+T21	Biomarker 852 874	SVCT2 is downregulated
+R4	Association Arg1:T21 Arg2:T10	
+T22	GeneFamily 944 947	TET
+#3	AnnotatorNotes T22	family:2049
+T23	GeneFamily 1016 1020	TETs
+#5	AnnotatorNotes T23	family:2049
+T24	Biomarker 996 1043	expression of the 3 TETs was variably increased
+R5	Association Arg1:T24 Arg2:T11	
+T25	GeneFamily 1123 1127	TETs
+T26	Biomarker 1221 1247	decreased SVCT2 expression
+T27	Gene-Protein 1231 1236	SVCT2

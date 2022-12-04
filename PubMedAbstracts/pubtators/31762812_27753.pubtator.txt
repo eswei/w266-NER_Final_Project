@@ -1,0 +1,56 @@
+31762812_27753|t|RSS_IDENT_p_31762812_b_1_4_3
+31762812_27753|a| The SIK family is a novel protein kinase family that comprises SIK1, SIK2 and SIK3. SIK1 is an important regulator of early-phase ACTH signaling in the adrenal cortex, and SIK2 is an important regulator of early-phase insulin signaling in adipose tissues 9 . SIK2 has been reported as a centrosome kinase that initiates mitosis. High expression of SIK2 was significantly correlated with poor survival in patients with high-grade serous ovarian cancer 13 , 14 . SIK3 has also been shown to be an important mitotic regulator and a druggable antimitotic target 25 . From our previous study, we identified SIK3 as a novel ovarian TAA that is highly and preferentially expressed in ovarian cancer but not in benign gynecologic diseases, i.e., adenomyosis or endometriosis, with elevated CA125 levels. Increased expression of SIK3 promotes G1/S phase cell cycle progression and induces cell proliferation via the activation of the c-Src-phosphoinositide 3-kinase (PI3K) linkage, with subsequent downregulation of p21 Waf/Cip1 and consequent increase in tumorigenesis in mice 16 . However, in our clinical cohort analysis, we found that EOC patients with high SIK3 expression had better survival outcomes (Figure 2, Supplementary Figure 1, and Table 2), especially in advanced serous EOC (Figure 3). Among the factors including presurgery serum CA125, tissue CA125, and SIK3 expression, only high tissue SIK3 expression predicted a better prognosis in advanced EOC patients. Because almost all advanced EOC patients received adjuvant Taxol/platinum chemotherapy, chemosensitivity likely influenced the prognosis. Indeed, we found that stage III/IV ovarian cancer patients with high expression of SIK3 are more chemosensitive than patients with low expression of SIK3 (Table 1, P=0.01, Fisher's exact test). This observation may explain why advanced serous EOC patients with high SIK3 expression showed a better prognosis.
+31762812_27753	34	37	SIK	Genefamily	not found
+31762812_27753	93	97	SIK1	Gene-protein	HGNC:11142
+31762812_27753	99	103	SIK2	Gene-protein	HGNC:21680
+31762812_27753	108	112	SIK3	Gene-protein	HGNC:29165
+31762812_27753	114	118	SIK1	Gene-protein
+31762812_27753	160	164	ACTH	Gene-protein	HGNC:9201
+31762812_27753	202	206	SIK2	Gene-protein
+31762812_27753	248	255	insulin	Gene-protein	 HGNC:6081
+31762812_27753	289	293	SIK2	Gene-protein
+31762812_27753	359	382	High expression of SIK2	Biomarker
+31762812_27753	378	382	SIK2	Gene-protein
+31762812_27753	448	480	high-grade serous ovarian cancer	Disease	not found
+31762812_27753	491	495	SIK3	Gene-protein
+31762812_27753	632	636	SIK3	Gene-protein
+31762812_27753	632	636	SIK3	Biomarker	C509079
+31762812_27753	707	721	ovarian cancer	Disease	DOID:2394
+31762812_27753	733	760	benign gynecologic diseases	Disease	not found
+31762812_27753	768	779	adenomyosis	Disease	DOID:288
+31762812_27753	783	796	endometriosis	Disease	DOID:289
+31762812_27753	803	824	elevated CA125 levels	Biomarker
+31762812_27753	812	817	CA125	Gene-protein	HGNC:15582
+31762812_27753	826	854	Increased expression of SIK3	Biomarker
+31762812_27753	850	854	SIK3	Gene-protein
+31762812_27753	955	986	c-Src-phosphoinositide 3-kinase	Genefamily
+31762812_27753	988	992	PI3K	Genefamily
+31762812_27753	1019	1049	downregulation of p21 Waf/Cip1	Biomarker
+31762812_27753	1037	1040	p21	Gene-protein
+31762812_27753	1041	1049	Waf/Cip1	Gene-protein
+31762812_27753	1077	1090	tumorigenesis	Disease	DOID:162
+31762812_27753	1160	1163	EOC	Disease	DOID:2152
+31762812_27753	1178	1198	high SIK3 expression	Biomarker
+31762812_27753	1183	1187	SIK3	Gene-protein
+31762812_27753	1291	1310	advanced serous EOC	Disease	not found
+31762812_27753	1351	1373	presurgery serum CA125	Biomarker
+31762812_27753	1368	1373	CA125	Gene-protein
+31762812_27753	1375	1387	tissue CA125	Biomarker
+31762812_27753	1382	1387	CA125	Gene-protein
+31762812_27753	1393	1397	SIK3	Gene-protein
+31762812_27753	1393	1408	SIK3 expression	Biomarker
+31762812_27753	1415	1442	high tissue SIK3 expression	Biomarker
+31762812_27753	1427	1431	SIK3	Gene-protein
+31762812_27753	1475	1487	advanced EOC	Disease	not found
+31762812_27753	1517	1529	advanced EOC	Disease
+31762812_27753	1557	1562	Taxol	Drug	 CHEMBL428647
+31762812_27753	1563	1584	platinum chemotherapy	Drug-class
+31762812_27753	1664	1685	III/IV ovarian cancer	Disease	not found
+31762812_27753	1700	1723	high expression of SIK3	Biomarker
+31762812_27753	1719	1723	SIK3	Gene-protein
+31762812_27753	1767	1789	low expression of SIK3	Biomarker
+31762812_27753	1785	1789	SIK3	Gene-protein
+31762812_27753	1863	1882	advanced serous EOC	Disease
+31762812_27753	1897	1917	high SIK3 expression	Biomarker
+31762812_27753	1902	1906	SIK3	Gene-protein
+

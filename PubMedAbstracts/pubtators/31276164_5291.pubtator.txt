@@ -1,0 +1,34 @@
+31276164_5291|t|RSS_IDENT_p_31276164_b_1_4
+31276164_5291|a| Another factor implicated in the mechanism of arrested follicle growth in PCOS is AMH, a key member of the TGF-β superfamily of growth factors important for normal follicle development. Furthermore, researchers recently reported that treatment of pregnant mice with AMH results in a PCOS-like phenotype in the offspring, via a mechanism that implies a neuroendocrine action of AMH ( 16 ). Most of circulating AMH is produced by GCs of large preantral and small antral follicles ( 17 , 18 ). AMH inhibits FSH-induced estradiol production by GCs in vitro ( 19 ) and, because AMH production is higher in women with PCOS ( 20 , 21 ), the higher ovarian levels of AMH are thought to impair antral follicle function and contribute to follicle arrest ( 22 ). It has been concluded, on the basis of correlating serum AMH with antral follicle count on ultrasonography, that the production of AMH per follicle is increased in PCOS ( 23 , 24 ). This view is supported by a study showing that concentrations of AMH (as measured by ELISA) were much higher in conditioned media of cultured GCs from women with PCOS compared with follicles from controls, although concentrations of AMH follicular fluid between polycystic and normal ovaries were not measured ( 25 ). Although AMH gene expression has been measured in luteinized GCs from gonadotropin-stimulated cycles (and reported to be higher than normal in women with PCOS) ( 26 ) it has not, to our knowledge, been measured in GCs from individual, matched, unstimulated follicles in women with and without PCO.
+31276164_5291	102	106	PCOS	Disease	DOID:11612
+31276164_5291	110	113	AMH	Gene-protein	HGNC:464
+31276164_5291	135	152	TGF-β superfamily	Genefamily	family:1932
+31276164_5291	294	297	AMH	Gene-protein
+31276164_5291	294	297	AMH	Drug	D054304
+31276164_5291	311	315	PCOS	Disease
+31276164_5291	405	408	AMH	Gene-protein
+31276164_5291	437	440	AMH	Gene-protein
+31276164_5291	519	522	AMH	Gene-protein
+31276164_5291	532	535	FSH	Genefamily	not found
+31276164_5291	544	553	estradiol	Chemical
+31276164_5291	601	604	AMH	Gene-protein
+31276164_5291	601	625	AMH production is higher	Biomarker
+31276164_5291	640	644	PCOS	Disease
+31276164_5291	662	690	higher ovarian levels of AMH	Biomarker
+31276164_5291	687	690	AMH	Gene-protein
+31276164_5291	831	840	serum AMH	Biomarker
+31276164_5291	837	840	AMH	Gene-protein
+31276164_5291	846	867	antral follicle count	Biomarker
+31276164_5291	897	940	production of AMH per follicle is increased	Biomarker
+31276164_5291	911	914	AMH	Gene-protein
+31276164_5291	944	948	PCOS	Disease
+31276164_5291	1009	1070	concentrations of AMH (as measured by ELISA) were much higher	Biomarker
+31276164_5291	1027	1030	AMH	Gene-protein
+31276164_5291	1124	1128	PCOS	Disease
+31276164_5291	1195	1198	AMH	Gene-protein
+31276164_5291	1289	1292	AMH	Gene-protein
+31276164_5291	1289	1308	AMH gene expression	Biomarker
+31276164_5291	1350	1362	gonadotropin	Chemical
+31276164_5291	1434	1438	PCOS	Disease
+31276164_5291	1573	1576	PCO	Disease	DOID:11612
+

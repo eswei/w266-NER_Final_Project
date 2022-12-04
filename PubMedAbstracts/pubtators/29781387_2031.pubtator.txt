@@ -1,0 +1,50 @@
+29781387_2031|t|RSS_IDENT_p_29781387_b_1_1_4
+29781387_2031|a| As one of the most important hormone-responsive tumors, the metastasis of EC is frequently correlated with activity of estrogen signals and expression of estrogen receptors (ERα and ERβ) [6]. Targeted inhibition of ER has suggested a possible role in the development of novel therapy approach for EC treatment [7]. Estrogen receptor (ER)-related receptors (ERRs; ERRα, ERRβ, and ERRγ), which belong to the NR3B group of nuclear receptors, have high homologous DNA-binding domains with ERα [8]. Accumulating evidences indicate that orphan nuclear receptor ERR can regulate cell growth and tumorigenesis in various cancers [9]. For example, increased ERRα levels are correlated with a higher risk of recurrence and poor prognosis in breast cancer [10]. ERRα is one of the negative prognostic factors in human prostate cancer [11]. Recently, ERRα has been detected in human EC tissues and cell lines [12]. The upregulation of ERRα might be correlated with the tumor growth and advancement in uterine endometrial cancers [13]. Furthermore, expression of ERRα mRNA is positively correlated with FIGO stage (determined by the International Federation of Gynecology and Obstetrics with increasing numbers indicating the neoplastic progression, P = 0.019) and myometrial invasion (P = 0.043) of endometrial adenocarcinoma [14]. All these results suggest that ERRα is involve in the progression and metastasis of EC, while how ERRα contribute to the malignant state of EC remains unclear. 
+29781387_2031	59	84	hormone-responsive tumors	Disease	not found
+29781387_2031	104	106	EC	Disease	DOID:1380
+29781387_2031	137	165	activity of estrogen signals	Biomarker
+29781387_2031	137	216	activity of estrogen signals and expression of estrogen receptors (ERα and ERβ)	Collection
+29781387_2031	149	157	estrogen	Chemical
+29781387_2031	170	216	expression of estrogen receptors (ERα and ERβ)	Biomarker
+29781387_2031	184	192	estrogen	Chemical
+29781387_2031	184	202	estrogen receptors	Genefamily	not found
+29781387_2031	204	207	ERα	Gene-protein	HGNC:3467
+29781387_2031	212	215	ERβ	Gene-protein	HGNC:3468
+29781387_2031	222	247	Targeted inhibition of ER	Drug	not found
+29781387_2031	245	247	ER	Genefamily	not found
+29781387_2031	327	329	EC	Disease
+29781387_2031	345	353	Estrogen	Chemical
+29781387_2031	345	385	Estrogen receptor (ER)-related receptors	Genefamily	not found
+29781387_2031	386	391	(ERRs	Genefamily	not found
+29781387_2031	393	397	ERRα	Gene-protein	HGNC:3471
+29781387_2031	399	403	ERRβ	Gene-protein	HGNC:3473
+29781387_2031	409	413	ERRγ	Gene-protein	HGNC:3474
+29781387_2031	436	440	NR3B	Genefamily	not found
+29781387_2031	450	467	nuclear receptors	Genefamily	family:71
+29781387_2031	515	518	ERα	Gene-protein
+29781387_2031	561	588	orphan nuclear receptor ERR	Biomarker
+29781387_2031	585	588	ERR	Genefamily	not found
+29781387_2031	643	650	cancers	Disease	DOID:162
+29781387_2031	669	690	increased ERRα levels	Biomarker
+29781387_2031	679	683	ERRα	Gene-protein
+29781387_2031	761	774	breast cancer	Disease	DOID:1612
+29781387_2031	781	785	ERRα	Gene-protein
+29781387_2031	781	785	ERRα	Biomarker	C098744
+29781387_2031	837	852	prostate cancer	Disease	DOID:10283
+29781387_2031	869	873	ERRα	Gene-protein
+29781387_2031	869	873	ERRα	Biomarker
+29781387_2031	901	903	EC	Disease
+29781387_2031	937	957	upregulation of ERRα	Biomarker
+29781387_2031	953	957	ERRα	Gene-protein
+29781387_2031	987	992	tumor	Disease	DOID:162
+29781387_2031	987	1046	tumor growth and advancement in uterine endometrial cancers	Collection
+29781387_2031	1019	1046	uterine endometrial cancers	Disease	DOID:1380
+29781387_2031	1066	1089	expression of ERRα mRNA	Biomarker
+29781387_2031	1080	1084	ERRα	Gene-protein
+29781387_2031	1317	1343	endometrial adenocarcinoma	Disease	DOID:2870
+29781387_2031	1381	1385	ERRα	Gene-protein
+29781387_2031	1381	1385	ERRα	Biomarker
+29781387_2031	1434	1436	EC	Disease
+29781387_2031	1448	1452	ERRα	Gene-protein
+29781387_2031	1490	1492	EC	Disease
+

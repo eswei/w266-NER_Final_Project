@@ -1,0 +1,94 @@
+T0	Chemical 113 119	Trizol
+T3	Chemical 332 358	glyceraldehyde‐3‐phosphate
+T4	Gene-Protein 857 867	Angiogenin
+T6	Gene-Protein 1846 1851	G‐CSF
+T7	Gene-Protein 1871 1877	GDF‐15
+T8	Gene-Protein 1977 1989	Somatotropin
+T9	Gene-Protein 332 372	glyceraldehyde‐3‐phosphate dehydrogenase
+#1	AnnotatorNotes T9	HGNC:4141
+T10	Gene-Protein 374 379	Gapdh
+#2	AnnotatorNotes T10	HGNC:4141
+T11	GeneFamily 617 639	Inflammatory Cytokines
+#3	AnnotatorNotes T11	not found
+T12	Gene-Protein 790 801	Adiponectin
+T13	Gene-Protein 807 813	Acrp30
+T14	Gene-Protein 821 839	Apolipoprotein A‐I
+T15	Gene-Protein 844 849	ApoA1
+T16	Gene-Protein 887 901	Angiopoietin‐1
+T17	Gene-Protein 906 911	Ang‐1
+T18	Gene-Protein 913 919	ANGPT1
+T19	Gene-Protein 929 943	Angiopoietin‐2
+T20	Gene-Protein 948 953	Ang‐2
+T21	Gene-Protein 955 961	ANGPT2
+T22	Gene-Protein 971 975	BAFF
+T23	Gene-Protein 988 996	TNFSF13B
+T24	Gene-Protein 982 986	BLyS
+T25	Gene-Protein 1006 1010	BDNF
+T26	Gene-Protein 1015 1048	Brain‐derived Neurotrophic Factor
+T27	Gene-Protein 1058 1085	Complement Component C5/C5a
+T28	Gene-Protein 1090 1096	C5/C5a
+T29	Gene-Protein 1106 1110	CD14
+T30	Gene-Protein 1131 1135	CD30
+T31	Gene-Protein 1140 1147	TNFRSF8
+T32	Gene-Protein 1187 1198	CD40 ligand
+T33	Gene-Protein 1203 1208	CD40L
+T34	Gene-Protein 1210 1216	TNFSF5
+T35	Gene-Protein 1225 1229	TRAP
+T36	Gene-Protein 1218 1223	CD154
+T37	Gene-Protein 1237 1255	Chitinase 3‐like 1
+T38	Gene-Protein 1261 1267	CHI3L1
+T39	Gene-Protein 1269 1275	YKL‐40
+T40	Gene-Protein 1283 1302	Complement Factor D
+T41	Gene-Protein 1308 1315	Adipsin
+T42	Gene-Protein 1317 1320	CFD
+T43	Gene-Protein 1329 1347	C‐Reactive Protein
+T44	Gene-Protein 1353 1356	CRP
+T45	Gene-Protein 1380 1417	Teratocarcinoma‐derived Growth Factor
+T46	Gene-Protein 1366 1374	Cripto‐1
+T5	Gene-Protein 1427 1437	Cystatin C
+T47	Gene-Protein 1443 1447	CST3
+T48	Gene-Protein 1449 1455	ARMD11
+T49	Gene-Protein 1465 1470	Dkk‐1
+T50	Gene-Protein 1477 1487	Dickkopf‐1
+T51	Gene-Protein 1497 1502	DPPIV
+T52	Gene-Protein 1514 1518	DPP4
+T53	Gene-Protein 1508 1512	CD26
+T54	Gene-Protein 1520 1543	Dipeptidyl‐peptidase IV
+T55	Gene-Protein 1553 1556	EGF
+T56	Gene-Protein 1562 1585	Epidermal Growth Factor
+T57	Gene-Protein 1595 1602	Emmprin
+T58	Gene-Protein 1614 1621	Basigin
+T59	Gene-Protein 1607 1612	CD147
+T60	Gene-Protein 1629 1635	ENA‐78
+T61	Gene-Protein 1641 1646	CXCL5
+T62	Gene-Protein 1654 1662	Endoglin
+T63	Gene-Protein 1668 1673	CD105
+T64	Gene-Protein 1675 1678	ENG
+T65	Gene-Protein 1686 1696	Fas Ligand
+T66	Gene-Protein 1701 1707	TNFSF6
+T67	Gene-Protein 1709 1714	CD178
+T68	Gene-Protein 1716 1721	CD95L
+T69	GeneFamily 1730 1733	FGF
+T70	Gene-Protein 1745 1750	FGF‐2
+T71	Gene-Protein 1760 1765	FGF‐7
+T72	Gene-Protein 1771 1774	KGF
+T73	Gene-Protein 1784 1790	FGF‐19
+T74	Gene-Protein 1812 1824	Flt‐3 Ligand
+T75	Gene-Protein 1857 1861	CSF3
+T76	Gene-Protein 1883 1888	MIC‐1
+T77	Gene-Protein 1898 1904	GM‐CSF
+T78	Gene-Protein 1910 1914	CSF2
+T79	Gene-Protein 1922 1926	GROα
+T80	Gene-Protein 1932 1937	CXCL1
+T81	Gene-Protein 1939 1945	MSGA‐α
+T82	GeneFamily 1953 1967	Growth Hormone
+T83	Gene-Protein 1997 2000	HGF
+T84	Gene-Protein 2006 2020	Scatter Factor
+T85	Gene-Protein 2022 2024	SF
+T86	Gene-Protein 2032 2038	ICAM‐1
+T87	Gene-Protein 2057 2062	IFN‐γ
+T88	Gene-Protein 2068 2072	IFNG
+T89	Gene-Protein 2082 2089	IGFBP‐2
+T90	Gene-Protein 2044 2048	CD54
+T1	Gene-Protein 1973 1975	GH
+T91	Gene-Protein 1830 1836	FLT3LG

@@ -1,0 +1,35 @@
+31028445_24301|t|RSS_IDENT_p_31028445_b_1_4_4
+31028445_24301|a| The lack of a relationship between MYC rearrangements and semiquantitative ¹⁸F-FDG PET metrics might have several causes. First, proliferation in DLBCL could be independent of MYC rearrangement. This would only partially explain the lack of relationship, since the median proliferation index (Ki-67 staining) of MYC⁺ DLBCL is universally high (> 90%) in contrast to the much broader range observed in MYC− DLBCL [ 29 ]. Second, overexpression of MYC via other mechanisms such as epigenetic pathways might explain increased glucose uptake in MYC FISH–negative DLBCL. This is supported by studies showing high MYC protein expression in 19–40% of DLBCL cases [ 30 – 32 ]. Cottereau et al previously reported a lack of relation between MYC protein expression and ¹⁸F-FDG PET parameters in DLBCL [ 19 ]. However, FISH analysis, which is considered the gold standard examination for MYC rearrangements [ 33 – 35 ], was not performed. Third, high metabolic activity might be induced by alternative changes in metabolic drivers, such as mutations in PTEN (observed in approximately 15% of DLBCL) that lead to activation of the P13K/AKT/mTOR pathway [ 29 , 36 – 38 ]. 
+31028445_24301	65	68	MYC	Gene-protein	HGNC:7553
+31028445_24301	65	83	MYC rearrangements	Biomarker
+31028445_24301	105	112	¹⁸F-FDG	Chemical
+31028445_24301	176	181	DLBCL	Disease	DOID:0050745
+31028445_24301	206	209	MYC	Gene-protein
+31028445_24301	206	223	MYC rearrangement	Biomarker
+31028445_24301	295	338	median proliferation index (Ki-67 staining)	Biomarker
+31028445_24301	323	328	Ki-67	Gene-protein	HGNC:7107
+31028445_24301	342	345	MYC	Gene-protein
+31028445_24301	342	352	MYC⁺ DLBCL	Disease	not found
+31028445_24301	431	434	MYC	Gene-protein
+31028445_24301	431	441	MYC− DLBCL	Disease	not found
+31028445_24301	458	479	overexpression of MYC	Biomarker
+31028445_24301	476	479	MYC	Gene-protein
+31028445_24301	543	567	increased glucose uptake	Biomarker
+31028445_24301	553	560	glucose	Chemical
+31028445_24301	571	574	MYC	Gene-protein
+31028445_24301	571	594	MYC FISH–negative DLBCL	Disease	not found
+31028445_24301	633	660	high MYC protein expression	Biomarker
+31028445_24301	638	641	MYC	Gene-protein
+31028445_24301	674	679	DLBCL	Disease
+31028445_24301	762	765	MYC	Gene-protein
+31028445_24301	789	796	¹⁸F-FDG	Chemical
+31028445_24301	815	820	DLBCL	Disease
+31028445_24301	907	910	MYC	Gene-protein
+31028445_24301	907	925	MYC rearrangements	Biomarker
+31028445_24301	1059	1076	mutations in PTEN	Biomarker
+31028445_24301	1072	1076	PTEN	Gene-protein	  HGNC:9588
+31028445_24301	1111	1116	DLBCL	Disease
+31028445_24301	1149	1153	P13K	Genefamily	family:831
+31028445_24301	1154	1157	AKT	Genefamily	family:1900
+31028445_24301	1158	1162	mTOR	Gene-protein	HGNC:3942
+

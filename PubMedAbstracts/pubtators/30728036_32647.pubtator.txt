@@ -1,0 +1,45 @@
+30728036_32647|t|RSS_IDENT_p_30728036_b_1_4_5
+30728036_32647|a| Mechanistically, LINC00346 can be negatively regulated by miR-188-3p. We found that overexpression of miR-188-3p significantly inhibits the expression of LINC00346 in pancreatic cancer cells. Luciferase reporter assay validated the presence of a functional response element specific for miR-188-3p in LINC00346. Biochemically, both LINC00346 and miR-188-3p were present in Ago2 immunoprecipitates. Moreover, LINC00346 and miR-188-3p were co-localized in pancreatic cancer cells. Although miR-188-3p has a pro-metastatic activity in colorectal cancer [ 30 ], an opposite effect is noted in pancreatic cancer. We demonstrate that overexpression of miR-188-3p causes growth reduction and enhances gemcitabine cytotoxicity in pancreatic cancer cells. Considering that LINC00346 and miR-188-3p exert opposite effects against pancreatic cancer cells, we hypothesized that the oncogenic activity of LINC00346 may be ascribed to the interaction with miR-188-3p. In support of this hypothesis, we showed that overexpression of LINC00346 reverses the growth-suppressive and chemosensitizing effects evoked by miR-188-3p. Clinical evidence further reveals a negative correlation between the expression of LINC00346 and miR-188-3p in pancreatic cancer specimens. Taken together, LINC00346 confers aggressive phenotype by sponging miR-188-3p. 
+30728036_32647	47	56	LINC00346	Rna-noncoding	HGNC:27492
+30728036_32647	88	98	miR-188-3p	Rna-noncoding	HGNC:31559
+30728036_32647	114	142	overexpression of miR-188-3p	Drug	not found
+30728036_32647	132	142	miR-188-3p	Rna-noncoding
+30728036_32647	184	193	LINC00346	Rna-noncoding
+30728036_32647	197	214	pancreatic cancer	Disease	DOID:1793
+30728036_32647	317	327	miR-188-3p	Rna-noncoding
+30728036_32647	331	340	LINC00346	Rna-noncoding
+30728036_32647	362	371	LINC00346	Rna-noncoding
+30728036_32647	376	386	miR-188-3p	Rna-noncoding
+30728036_32647	403	407	Ago2	Gene-protein	HGNC:3263
+30728036_32647	438	447	LINC00346	Rna-noncoding
+30728036_32647	438	480	LINC00346 and miR-188-3p were co-localized	Biomarker
+30728036_32647	452	462	miR-188-3p	Rna-noncoding
+30728036_32647	484	501	pancreatic cancer	Disease
+30728036_32647	518	528	miR-188-3p	Rna-noncoding
+30728036_32647	518	528	miR-188-3p	Biomarker	C584093
+30728036_32647	562	579	colorectal cancer	Disease	DOID:9256
+30728036_32647	562	636	colorectal cancer [ 30 ], an opposite effect is noted in pancreatic cancer	Collection
+30728036_32647	619	636	pancreatic cancer	Disease
+30728036_32647	658	686	overexpression of miR-188-3p	Drug	not found
+30728036_32647	676	686	miR-188-3p	Rna-noncoding
+30728036_32647	724	735	gemcitabine	Drug	CHEMBL888
+30728036_32647	752	769	pancreatic cancer	Disease
+30728036_32647	794	803	LINC00346	Rna-noncoding
+30728036_32647	794	803	LINC00346	Biomarker
+30728036_32647	794	818	LINC00346 and miR-188-3p	Collection
+30728036_32647	808	818	miR-188-3p	Rna-noncoding
+30728036_32647	808	818	miR-188-3p	Biomarker
+30728036_32647	850	867	pancreatic cancer	Disease
+30728036_32647	922	931	LINC00346	Rna-noncoding
+30728036_32647	972	982	miR-188-3p	Rna-noncoding
+30728036_32647	1048	1057	LINC00346	Rna-noncoding
+30728036_32647	1129	1139	miR-188-3p	Rna-noncoding
+30728036_32647	1224	1233	LINC00346	Rna-noncoding
+30728036_32647	1224	1233	LINC00346	Biomarker
+30728036_32647	1238	1248	miR-188-3p	Rna-noncoding
+30728036_32647	1238	1248	miR-188-3p	Biomarker
+30728036_32647	1252	1269	pancreatic cancer	Disease
+30728036_32647	1297	1306	LINC00346	Rna-noncoding
+30728036_32647	1297	1306	LINC00346	Biomarker
+30728036_32647	1348	1358	miR-188-3p	Rna-noncoding
+

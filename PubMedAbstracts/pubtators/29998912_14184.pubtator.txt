@@ -1,0 +1,38 @@
+29998912_14184|t|RSS_IDENT_p_29998912_b_1_5_3
+29998912_14184|a| Impaired TG-rich lipoprotein metabolism under the condition of disturbance of ABCG5/ABCG8 have been implicated by the observational and interventional studies of sitosterolemic subjects ¹⁴ , ¹⁵ ⁾ as well as by the experimental study using ABCG5/ABCG8 knockout mice (sitosterolemic mice) ¹⁶ ⁾. Previously, we demonstrated that breastfed infantile cases with sitosterolemia harboring double mutations in ABCG5 gene exhibit transient extreme hyper-LDL cholesterolemia ⁹ ⁾. In addition, there have been great diversities in the LDL-C levels among the subjects with sitosterolemia described so far ¹⁷ ⁾. Such observations as well as the facts that ABCG5/ABCG8 are playing an important role in excretion of sterols in the intestine could lead us to investigate if the patients with sitosterolemia harboring ABCG5/ABCG8 mutations are vulnerable to diet-induced hyperlipidemia. We confirmed that post-prandial RLP metabolism was disturbed in the patients with sitosterolemia for the first time. Moreover, apoB48 level, which has been shown to be associated with atherosclerotic cardiovascular diseases ¹⁸ ⁾, was significantly elevated in sitosterolemic patients both in fasting state, as well as in postprandial state. In addition, we observed that the peaks of the post-prandial lipoproteins were earlier in sitosterolemic patients than those in heterozygous FH. Moreover, sitosterol level in sitosterolemic patients increased after fat load, although such trends were not observed in heterozygous FH nor in single mutation carriers. Thus, dietary counseling for the patients with sitosterolemia should be one of the reasonable approaches for their risk management. 
+29998912_14184	39	58	TG-rich lipoprotein	Chemical
+29998912_14184	108	113	ABCG5	Gene-protein	HGNC:13886
+29998912_14184	114	119	ABCG8	Gene-protein	HGNC:13887
+29998912_14184	192	206	sitosterolemic	Disease	DOID:0090019
+29998912_14184	269	274	ABCG5	Gene-protein
+29998912_14184	275	280	ABCG8	Gene-protein
+29998912_14184	296	310	sitosterolemic	Disease
+29998912_14184	387	437	sitosterolemia harboring double mutations in ABCG5	Disease	not found
+29998912_14184	432	437	ABCG5	Gene-protein
+29998912_14184	469	494	hyper-LDL cholesterolemia	Biomarker
+29998912_14184	535	566	diversities in the LDL-C levels	Biomarker
+29998912_14184	554	559	LDL-C	Chemical
+29998912_14184	591	605	sitosterolemia	Disease	DOID:0090019
+29998912_14184	673	678	ABCG5	Gene-protein
+29998912_14184	679	684	ABCG8	Gene-protein
+29998912_14184	731	738	sterols	Chemical
+29998912_14184	806	852	sitosterolemia harboring ABCG5/ABCG8 mutations	Disease	not found
+29998912_14184	831	836	ABCG5	Gene-protein
+29998912_14184	837	842	ABCG8	Gene-protein
+29998912_14184	871	898	diet-induced hyperlipidemia	Disease	not found
+29998912_14184	918	960	post-prandial RLP metabolism was disturbed	Biomarker
+29998912_14184	982	996	sitosterolemia	Disease
+29998912_14184	1027	1033	apoB48	Gene-protein	HGNC:603
+29998912_14184	1027	1039	apoB48 level	Biomarker
+29998912_14184	1084	1123	atherosclerotic cardiovascular diseases	Disease	DOID:1936,DOID:1287	Conjunction
+29998912_14184	1084	1174	atherosclerotic cardiovascular diseases ¹⁸ ⁾, was significantly elevated in sitosterolemic	Collection
+29998912_14184	1160	1174	sitosterolemic	Disease
+29998912_14184	1275	1327	peaks of the post-prandial lipoproteins were earlier	Biomarker
+29998912_14184	1331	1345	sitosterolemic	Disease
+29998912_14184	1382	1384	FH	Disease	DOID:13810
+29998912_14184	1396	1406	sitosterol	Chemical
+29998912_14184	1396	1412	sitosterol level	Biomarker	D012855
+29998912_14184	1416	1430	sitosterolemic	Disease
+29998912_14184	1521	1523	FH	Disease
+29998912_14184	1604	1618	sitosterolemia	Disease
+

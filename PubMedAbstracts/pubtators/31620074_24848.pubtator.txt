@@ -1,0 +1,40 @@
+31620074_24848|t|RSS_IDENT_p_31620074_b_1_4_5
+31620074_24848|a| In most of the previous studies, stress hyperglycemia was defined as absolute hyperglycemia without evidence of previously diagnosed diabetes or deterioration of pre-illness glycemic control with pre-existing diabetes ( 1 , 3 ). But this diagnostic criterion did not consider the background glucose level and could not differentiate the stress hyperglycemia from diabetes. On the contrary, glucose-to-HbA1c ratio, the indicator we used to measure stress hyperglycemia, reflects a quantitative measurement of the relative acute rapid increase of blood glucose level based on glucose level prior stroke. Recent studies demonstrated that relative hyperglycemia, defined as glucose-to-HbA1c ratio ( 6 ) or defined as admission glucose level divided by estimated average blood glucose level obtained by regression with HbA1c ( 2 ), might be a better predicter for outcomes of critical diseases than absolute hyperglycemia. Furthermore, unlike glucose-to-GA ratio, another relative measure of stress hyperglycemia, measures based on HbA1c could be commonly used and generalized in the clinical practice. Glucose-to-HbA1c ratio could be more stable than glucose-to-GA ratio since HbA1c reflects mean glycaemia over ~2–3 months while GA only represents mean glycaemia over ~2–4 weeks. On the other hand, measures of stress hyperglycemia based on HbA1c required a separate specimen of whole blood and may be affected by chronic kidney disease, anemia, or hemoglobinopathies ( 23 ). Nevertheless, HbA1c is a well-established biomarker and is commonly used in the clinical practice. Our study has suggested an easy-to-perform approach to detect and quantify stress hyperglycemia. This could be of importance to predict the outcome of non-diabetic patients with ischemic stroke at the acute phage. 
+31620074_24848	63	83	stress hyperglycemia	Disease	not found
+31620074_24848	108	121	hyperglycemia	Disease	DOID:4195
+31620074_24848	163	171	diabetes	Disease	not found
+31620074_24848	239	247	diabetes	Disease
+31620074_24848	321	328	glucose	Chemical
+31620074_24848	367	387	stress hyperglycemia	Disease
+31620074_24848	393	401	diabetes	Disease
+31620074_24848	420	427	glucose	Chemical
+31620074_24848	420	442	glucose-to-HbA1c ratio	Biomarker
+31620074_24848	477	497	stress hyperglycemia	Disease
+31620074_24848	581	588	glucose	Chemical
+31620074_24848	604	611	glucose	Chemical
+31620074_24848	624	630	stroke	Disease	D020521
+31620074_24848	665	687	relative hyperglycemia	Disease	not found
+31620074_24848	700	707	glucose	Chemical
+31620074_24848	700	722	glucose-to-HbA1c ratio	Biomarker
+31620074_24848	753	760	glucose	Chemical
+31620074_24848	802	809	glucose	Chemical
+31620074_24848	924	946	absolute hyperglycemia	Disease	not found
+31620074_24848	968	975	glucose	Chemical
+31620074_24848	968	987	glucose-to-GA ratio	Biomarker
+31620074_24848	1017	1037	stress hyperglycemia	Disease
+31620074_24848	1057	1062	HbA1c	Biomarker
+31620074_24848	1128	1135	Glucose	Chemical
+31620074_24848	1128	1150	Glucose-to-HbA1c ratio	Biomarker
+31620074_24848	1177	1184	glucose	Chemical
+31620074_24848	1177	1196	glucose-to-GA ratio	Biomarker
+31620074_24848	1203	1208	HbA1c	Biomarker
+31620074_24848	1256	1258	GA	Biomarker
+31620074_24848	1338	1358	stress hyperglycemia	Disease
+31620074_24848	1368	1373	HbA1c	Biomarker
+31620074_24848	1441	1463	chronic kidney disease	Disease	DOID:784
+31620074_24848	1465	1471	anemia	Disease	DOID:2355
+31620074_24848	1476	1494	hemoglobinopathies	Disease	DOID:2860
+31620074_24848	1517	1522	HbA1c	Biomarker
+31620074_24848	1677	1697	stress hyperglycemia	Disease	not found
+31620074_24848	1780	1795	ischemic stroke	Disease	D000083242
+

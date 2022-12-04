@@ -1,0 +1,70 @@
+T1	Disease 107 133	gynecological malignancies
+#2	AnnotatorNotes T1	DOID:120
+T10	Chemical 548 560	carbohydrate
+T12	Disease 657 690	gynecological pelvic malignancies
+#4	AnnotatorNotes T12	D010386
+T13	Disease 725 761	gynecological pelvic benign diseases
+#5	AnnotatorNotes T13	not found
+T14	Disease 770 782	inflammation
+T15	Disease 787 800	endometriosis
+T17	Disease 847 866	pelvic benign tumor
+#8	AnnotatorNotes T17	D010386
+T20	Disease 973 987	ovarian cancer
+#11	AnnotatorNotes T20	DOID:2394
+T21	Disease 992 1010	endometrial cancer
+#12	AnnotatorNotes T21	DOID:1380
+T23	Disease 1072 1085	benign tumors
+#13	AnnotatorNotes T23	DOID:0060072
+T24	Disease 1099 1104	tumor
+T26	Disease 1159 1173	ovarian cancer
+T4	Disease 218 259	malignancy in patients with a pelvic mass
+#16	AnnotatorNotes T4	D010386
+T5	Biomarker 289 294	CA125
+T6	Disease 443 464	nonmalignant diseases
+#18	AnnotatorNotes T6	DOID:0060072
+T7	Disease 474 487	endometriosis
+#19	AnnotatorNotes T7	DOID:289
+T8	Disease 489 508	pelvic inflammation
+#20	AnnotatorNotes T8	DOID:1003
+T9	Disease 514 530	uterine fibroids
+#21	AnnotatorNotes T9	DOID:13223
+T3	Biomarker 30 43	Tumor markers
+#1	AnnotatorNotes T3	D014408
+R1	Association Arg1:T3 Arg2:T1	
+T11	Biomarker 135 159	Carbohydrate antigen 125
+#3	AnnotatorNotes T11	D018394
+R2	Diagnostic-of Arg1:T11 Arg2:T4	
+T18	Collection 443 530	nonmalignant diseases (such as endometriosis, pelvic inflammation, and uterine fibroids
+R3	Association Arg1:T5 Arg2:T18	
+T22	Biomarker 548 573	carbohydrate antigen 19-9
+#17	AnnotatorNotes T22	D018395
+T25	Biomarker 575 581	CA19-9
+#22	AnnotatorNotes T25	D018395
+T27	Biomarker 587 611	carcinoembryonic antigen
+#23	AnnotatorNotes T27	D002272
+T28	Biomarker 613 616	CEA
+#24	AnnotatorNotes T28	D002272
+T29	Collection 548 617	carbohydrate antigen 19-9 (CA19-9) and carcinoembryonic antigen (CEA)
+R4	Diagnostic-of Arg1:T29 Arg2:T12	
+#6	AnnotatorNotes T14	D007249
+T30	Biomarker 816 822	CA19-9
+T31	Biomarker 827 830	CEA
+T32	Collection 816 830	CA19-9 and CEA
+R5	Association Arg1:T32 Arg2:T17	
+T33	Gene-Protein 894 920	Human epididymis protein 4
+#7	AnnotatorNotes T33	HGNC:15939
+T34	Gene-Protein 922 925	HE4
+#25	AnnotatorNotes T34	HGNC:15939
+T35	Collection 973 1010	ovarian cancer and endometrial cancer
+T36	Biomarker 894 969	Human epididymis protein 4 (HE4), a novel tumor marker, is highly expressed
+R6	Association Arg1:T36 Arg2:T35	
+T37	Biomarker 1113 1116	HE4
+#14	AnnotatorNotes T37	C569698
+T38	Gene-Protein 1113 1116	HE4
+R7	Association Arg1:T37 Arg2:T26	
+T2	Chemical 135 147	Carbohydrate
+T39	Gene-Protein 135 159	Carbohydrate antigen 125
+#15	AnnotatorNotes T39	HGNC:15582
+T40	Gene-Protein 161 166	CA125
+#27	AnnotatorNotes T40	HGNC:15582
+#10	AnnotatorNotes T5	D018394

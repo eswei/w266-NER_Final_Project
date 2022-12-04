@@ -1,0 +1,77 @@
+30078984_16021|t|RSS_IDENT_p_30078984_b_1_4_3
+30078984_16021|a| The current study identified four novel gene mutations, among which the mutations in CHMP4B and FOXE3 were not common in congenital cataracts. To date, only two mutations in the CHMP4B gene have been reported to cause congenital cataracts: the p.D129V mutation in an American Caucasian family and the p.E161K mutation in a Japanese family [ 5 ]. The patient carrying the p.D129V mutation exhibited posterior subcapsular opacity, similar to the phenotype of the patient who carried the p.H57R mutation in the CHMP4B gene in the present study. The p.H57R mutation and the other two reported mutations were all located in the SNF7 domain of the CHMP4B gene. This domain is involved in endosome- and lysosome-associated protein sorting and trafficking [ 6 ]. It has been suggested that gain-of-function defects in an endosome-sorting complex (ESCRT-III) subunit trigger loss of lens transparency [ 5 ]. Another novel mutation detected in the present study was the FOXE3 c.179_181del, p.60_61del mutation, located in the forkhead domain of the FOXE3 gene. Apart from causing congenital cataracts, mutations in the FOXE3 gene may also lead to anterior segment dysgenesis, including posterior embryotoxon, microphthalmia, and Peter’s anomaly [ 7 - 9 ]. However, in the present study, anterior segment dysgenesis was not observed in patient WCC9, who carried the FOXE3 p.60_61del mutation. Most mutations examined in previous studies were missense and small insertions. Therefore, we speculate that the FOXE3 p.60_61del mutation had little effect on the function of the protein, other than missense or frameshift mutations. Dominique et al. found a mutation in the FOXE3 gene in 4% of all French patients with congenital cataracts [ 10 ]. In the present study, the frequency of mutations in the FOXE3 gene was approximately 5%. Due to restricted expression of Foxe3 in the lens epithelia of developing and adult mice, researchers found that chamber angle defects associated with mutations in mouse Foxe3 might result from changes in Pitx3, a gene in the same regulatory pathway as Foxe3 [ 7 ]. In the present study, patient WCC16 carrying the novel c.489dupC, p.V164fs mutation in the MIP gene had nuclear cataracts. The mutation was in the transmembrane domain H5 of the MIP gene. In Chinese patients with congenital cataracts, a missense mutation in the MIP gene leads to progressive cortical punctate cataracts [ 11 , 12 ], a nonsense mutation in the MIP gene leads to Y sutural associated with cortical punctate cataracts [ 13 ], and a splice mutation in the MIP gene results in nuclear cataracts [ 14 ], suggesting strong genetic heterogeneity of the MIP gene. The fourth novel mutation in the present study was the p.P492L mutation in the HSF4 gene, which caused a zonular cataract in patient WCC18. This mutation was located in the COOH-terminal intracellular domain of the protein. The phenotype of the cohort patients was similar to that of patients reported by Bu et al. [ 15 ], showing a perinuclear shape with a transparent embryonic nucleus.
+30078984_16021	102	131	mutations in CHMP4B and FOXE3	Biomarker
+30078984_16021	115	121	CHMP4B	Gene-protein	HGNC:16171
+30078984_16021	126	131	FOXE3	Gene-protein	HGNC:3808
+30078984_16021	151	171	congenital cataracts	Disease	not found
+30078984_16021	208	214	CHMP4B	Gene-protein
+30078984_16021	248	268	congenital cataracts	Disease
+30078984_16021	274	281	p.D129V	Variant	p.Asp129Val
+30078984_16021	274	338	p.D129V mutation in an American Caucasian family and the p.E161K	Collection
+30078984_16021	331	338	p.E161K	Variant	p.Glu61Lys
+30078984_16021	401	408	p.D129V	Variant
+30078984_16021	428	457	posterior subcapsular opacity	Biomarker
+30078984_16021	515	521	p.H57R	Variant	p.His57Arg
+30078984_16021	538	544	CHMP4B	Gene-protein
+30078984_16021	576	582	p.H57R	Variant
+30078984_16021	653	664	SNF7 domain	Proteindomain
+30078984_16021	672	678	CHMP4B	Gene-protein
+30078984_16021	812	887	gain-of-function defects in an endosome-sorting complex (ESCRT-III) subunit	Biomarker
+30078984_16021	843	867	endosome-sorting complex	Genefamily	family:1111
+30078984_16021	869	878	ESCRT-III	Genefamily	family:1118
+30078984_16021	896	921	loss of lens transparency	Biomarker
+30078984_16021	990	995	FOXE3	Gene-protein
+30078984_16021	996	1008	c.179_181del	Variant
+30078984_16021	996	1020	c.179_181del, p.60_61del	Collection
+30078984_16021	1010	1020	p.60_61del	Variant
+30078984_16021	1046	1061	forkhead domain	Proteindomain
+30078984_16021	1069	1074	FOXE3	Gene-protein
+30078984_16021	1100	1120	congenital cataracts	Disease
+30078984_16021	1122	1149	mutations in the FOXE3 gene	Biomarker
+30078984_16021	1139	1144	FOXE3	Gene-protein
+30078984_16021	1167	1194	anterior segment dysgenesis	Disease	DOID:0060648
+30078984_16021	1167	1264	anterior segment dysgenesis, including posterior embryotoxon, microphthalmia, and Peter’s anomaly	Collection
+30078984_16021	1206	1227	posterior embryotoxon	Disease	not found
+30078984_16021	1229	1243	microphthalmia	Disease	DOID:10629
+30078984_16021	1249	1264	Peter’s anomaly	Disease	DOID:0060673
+30078984_16021	1307	1334	anterior segment dysgenesis	Disease
+30078984_16021	1385	1390	FOXE3	Gene-protein
+30078984_16021	1391	1401	p.60_61del	Variant
+30078984_16021	1525	1530	FOXE3	Gene-protein
+30078984_16021	1531	1541	p.60_61del	Variant
+30078984_16021	1671	1692	mutation in the FOXE3	Biomarker
+30078984_16021	1687	1692	FOXE3	Gene-protein
+30078984_16021	1732	1752	congenital cataracts	Disease
+30078984_16021	1800	1827	mutations in the FOXE3 gene	Biomarker
+30078984_16021	1817	1822	FOXE3	Gene-protein
+30078984_16021	1857	1938	restricted expression of Foxe3 in the lens epithelia of developing and adult mice	Biomarker
+30078984_16021	1880	1887	f Foxe3	Gene-protein
+30078984_16021	1963	1984	chamber angle defects	Disease	not found
+30078984_16021	2001	2025	mutations in mouse Foxe3	Biomarker
+30078984_16021	2020	2025	Foxe3	Gene-protein
+30078984_16021	2055	2060	Pitx3	Gene-protein
+30078984_16021	2103	2108	Foxe3	Gene-protein
+30078984_16021	2169	2190	l c.489dupC, p.V164fs	Collection
+30078984_16021	2171	2180	c.489dupC	Variant
+30078984_16021	2182	2190	p.V164fs	Variant	p.Val164fs
+30078984_16021	2207	2210	MIP	Gene-protein	HGNC:7103
+30078984_16021	2220	2237	nuclear cataracts	Disease	not found
+30078984_16021	2277	2286	domain H5	Proteindomain
+30078984_16021	2294	2297	MIP	Gene-protein
+30078984_16021	2329	2349	congenital cataracts	Disease
+30078984_16021	2353	2386	missense mutation in the MIP gene	Biomarker
+30078984_16021	2378	2381	MIP	Gene-protein
+30078984_16021	2408	2435	cortical punctate cataracts	Disease	not found
+30078984_16021	2451	2484	nonsense mutation in the MIP gene	Biomarker
+30078984_16021	2476	2479	MIP	Gene-protein
+30078984_16021	2494	2547	Y sutural associated with cortical punctate cataracts	Disease	not found
+30078984_16021	2562	2593	splice mutation in the MIP gene	Biomarker
+30078984_16021	2585	2588	MIP	Gene-protein
+30078984_16021	2605	2622	nuclear cataracts	Disease
+30078984_16021	2678	2681	MIP	Gene-protein
+30078984_16021	2743	2750	p.P492L	Variant	p.Pro492Leu
+30078984_16021	2767	2771	HSF4	Gene-protein	HGNC:5227
+30078984_16021	2793	2809	zonular cataract	Disease	C535342
+30078984_16021	2861	2865	COOH	Chemical
+30078984_16021	2861	2895	COOH-terminal intracellular domain	Proteindomain
+

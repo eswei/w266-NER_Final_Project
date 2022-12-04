@@ -1,0 +1,86 @@
+T1	Disease 354 376	endometrial carcinomas
+#2	AnnotatorNotes T1	DOID:2871
+T10	Disease 932 946	renal fibrosis
+T11	Disease 983 1010	tubulointerstitial fibrosis
+#4	AnnotatorNotes T11	DOID:0050855
+T12	Disease 1015 1034	tubular cell damage
+#5	AnnotatorNotes T12	not found
+T13	Drug 1143 1153	tacrolimus
+T14	Disease 1281 1302	interstitial fibrosis
+#7	AnnotatorNotes T14	not found
+T2	Disease 382 399	lung malignancies
+#8	AnnotatorNotes T2	DOID:1324
+T3	Disease 448 462	renal fibrosis
+#9	AnnotatorNotes T3	DOID:0050855
+T4	Disease 464 479	cystic fibrosis
+#10	AnnotatorNotes T4	DOID:1485
+T5	Disease 481 496	lupus nephritis
+#11	AnnotatorNotes T5	DOID:0080162
+T6	Disease 502 524	chronic kidney disease
+#12	AnnotatorNotes T6	DOID:784
+T7	Disease 528 556	systemic lupus erythematosus
+#13	AnnotatorNotes T7	DOID:9074
+T8	Disease 710 724	renal fibrosis
+#14	AnnotatorNotes T8	DOID:0050855
+T9	Chemical 756 762	serine
+T15	Gene-Protein 70 73	HE4
+#6	AnnotatorNotes T15	HGNC:15939
+T16	Gene-Protein 238 243	WFDC2
+#15	AnnotatorNotes T16	HGNC:15939
+T17	Gene-Protein 197 200	HE4
+T18	Gene-Protein 618 621	HE4
+T19	Gene-Protein 910 913	HE4
+T20	Gene-Protein 653 656	HE4
+T21	Gene-Protein 1059 1062	HE4
+T22	Gene-Protein 1254 1257	HE4
+T23	Drug 107 110	TAC
+#16	AnnotatorNotes T23	CHEMBL269732
+T25	Collection 326 399	epithelial ovarian cancers, endometrial carcinomas, and lung malignancies
+T26	Collection 448 556	renal fibrosis, cystic fibrosis, lupus nephritis, and chronic kidney disease in systemic lupus erythematosus
+T27	Biomarker 299 301	It
+T28	Gene-Protein 299 301	It
+T29	Pronoun 299 301	It
+T30	Biomarker 197 200	HE4
+R1	Refers-To Arg1:T29 Arg2:T30	
+R2	Diagnostic-of Arg1:T27 Arg2:T25	
+R3	Association Arg1:T27 Arg2:T26	
+T31	Biomarker 653 671	HE4 is upregulated
+T32	Collection 675 724	fibrotic kidneys where it promotes renal fibrosis
+T33	GeneFamily 756 772	serine proteases
+#18	AnnotatorNotes T33	family:738
+T34	GeneFamily 777 802	matrix metalloproteinases
+#19	AnnotatorNotes T34	family:891
+T35	GeneFamily 841 856	type I collagen
+#20	AnnotatorNotes T35	not found
+T36	Collection 932 1034	renal fibrosis [ 33 ] and increase the severity of tubulointerstitial fibrosis and tubular cell damage
+T37	Biomarker 901 920	elevated HE4 levels
+R4	Association Arg1:T37 Arg2:T36	
+T38	Drug 1115 1118	TAC
+T40	Disease 1162 1165	AKI
+R5	Causes Arg1:T13 Arg2:T40	
+T41	GeneFamily 1195 1204	cytokines
+#21	AnnotatorNotes T41	not found
+T42	GeneFamily 1209 1219	chemokines
+#22	AnnotatorNotes T42	family:483
+T43	Biomarker 1254 1257	HE4
+R6	Association Arg1:T43 Arg2:T14	
+T44	Drug 175 185	tacrolimus
+#23	AnnotatorNotes T44	CHEMBL269732
+T45	Biomarker 52 99	urinary levels of HE4 were significantly higher
+#24	AnnotatorNotes T30	C569698
+T46	Disease 326 352	epithelial ovarian cancers
+#25	AnnotatorNotes T46	DOID:2152
+T47	Disease 675 691	fibrotic kidneys
+#1	AnnotatorNotes T47	DOID:0050855
+R7	Association Arg1:T31 Arg2:T32	
+T48	Biomarker 1047 1077	increase in HE4 urinary levels
+T49	Disease 1238 1252	tubular injury
+#3	AnnotatorNotes T49	not found
+T50	Gene-Protein 1087 1091	NGAL
+#26	AnnotatorNotes T50	HGNC:6526
+T51	Disease 107 114	TAC–AKI
+#27	AnnotatorNotes T51	not found
+R8	Association Arg1:T45 Arg2:T51	
+T24	Disease 1115 1122	TAC–AKI
+R9	Association Arg1:T48 Arg2:T24	
+#17	AnnotatorNotes T40	DOID:3021

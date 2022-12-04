@@ -1,0 +1,61 @@
+31614673_58451|t|RSS_IDENT_p_31614673_b_1_3_2
+31614673_58451|a| The authors declare that they have no competing interests. Abbreviations AMPK protein kinase AMP-activated catalytic subunit ASK apoptosis signal-regulating kinase ATF activating transcription factor BODIPY 4,4-difluoro-1,3,5,7,8-pentamethyl-4-bora-3a,4a-diaza-s-indacene CAT catalase COX cytochrome c oxidase subunit IV CS citrate synthase Cyto c cytochrome c DCFH-DA 2,7-Dichlorodihydrofluorescein diacetate GEPIA gene expression profiling interactive analysis GPX glutathione peroxidase HFD high-fat diet JC-1 5,5′,6,6′-Tetrachloro-1,1′,3,3′-tetraethyl-imidacarbocyanine JNK jnk c-Jun N-terminal kinase LD lipid droplet LIHC liver hepatocellular carcinoma LPS lipopolysaccharide MAPK mitogen-activated protein kinase MCDD methionine-choline-deficient diet NAFLD non-alcoholic fatty liver disease NASH non-alcoholic hepatitis P38 mitogen-activated protein kinase 14 PAT perilipin, adipophilin, and TIP47 PLIN5 perilipin 5 PNPLA2/ATGL patatin like phospholipase domain containing 2 ROS reactive oxygen species SOD superoxide dismutase
+31614673_58451	103	107	AMPK	Genefamily	not found
+31614673_58451	108	154	protein kinase AMP-activated catalytic subunit	Genefamily	not found
+31614673_58451	123	126	AMP	Chemical
+31614673_58451	155	158	ASK	Gene-protein
+31614673_58451	159	193	apoptosis signal-regulating kinase	Gene-protein
+31614673_58451	194	197	ATF	Gene-protein
+31614673_58451	198	229	activating transcription factor	Gene-protein
+31614673_58451	230	236	BODIPY	Chemical
+31614673_58451	237	301	4,4-difluoro-1,3,5,7,8-pentamethyl-4-bora-3a,4a-diaza-s-indacene	Chemical
+31614673_58451	302	305	CAT	Gene-protein
+31614673_58451	306	314	catalase	Gene-protein
+31614673_58451	315	318	COX	Genefamily
+31614673_58451	319	350	cytochrome c oxidase subunit IV	Gene-protein
+31614673_58451	351	353	CS	Gene-protein
+31614673_58451	354	361	citrate	Chemical
+31614673_58451	354	370	citrate synthase	Gene-protein
+31614673_58451	371	377	Cyto c	Gene-protein
+31614673_58451	378	390	cytochrome c	Gene-protein
+31614673_58451	391	398	DCFH-DA	Chemical
+31614673_58451	399	439	2,7-Dichlorodihydrofluorescein diacetate	Chemical
+31614673_58451	493	496	GPX	Gene-protein
+31614673_58451	497	508	glutathione	Chemical
+31614673_58451	497	519	glutathione peroxidase	Gene-protein
+31614673_58451	538	542	JC-1	Chemical
+31614673_58451	543	603	5,5′,6,6′-Tetrachloro-1,1′,3,3′-tetraethyl-imidacarbocyanine	Chemical
+31614673_58451	604	607	JNK	Genefamily
+31614673_58451	608	635	jnk c-Jun N-terminal kinase	Genefamily
+31614673_58451	618	619	N	Chemical
+31614673_58451	636	638	LD	Chemical
+31614673_58451	639	652	lipid droplet	Chemical
+31614673_58451	653	657	LIHC	Disease	DOID:684
+31614673_58451	658	688	liver hepatocellular carcinoma	Disease	DOID:684
+31614673_58451	689	692	LPS	Chemical
+31614673_58451	693	711	lipopolysaccharide	Chemical
+31614673_58451	712	716	MAPK	Genefamily
+31614673_58451	717	749	mitogen-activated protein kinase	Genefamily
+31614673_58451	755	765	methionine	Chemical
+31614673_58451	766	773	choline	Chemical
+31614673_58451	789	794	NAFLD	Disease	DOID:0080208
+31614673_58451	795	828	non-alcoholic fatty liver disease	Disease	DOID:0080208
+31614673_58451	829	833	NASH	Disease	DOID:0080547
+31614673_58451	834	857	non-alcoholic hepatitis	Disease	DOID:0080547
+31614673_58451	858	861	P38	Gene-protein
+31614673_58451	862	897	mitogen-activated protein kinase 14	Gene-protein
+31614673_58451	898	901	PAT	Genefamily
+31614673_58451	902	911	perilipin	Genefamily
+31614673_58451	913	924	adipophilin	Gene-protein
+31614673_58451	930	935	TIP47	Gene-protein
+31614673_58451	936	941	PLIN5	Gene-protein
+31614673_58451	942	953	perilipin 5	Gene-protein
+31614673_58451	954	960	PNPLA2	Gene-protein
+31614673_58451	961	965	ATGL	Gene-protein
+31614673_58451	966	1012	patatin like phospholipase domain containing 2	Gene-protein
+31614673_58451	1013	1016	ROS	Chemical
+31614673_58451	1017	1040	reactive oxygen species	Chemical
+31614673_58451	1041	1044	SOD	Genefamily
+31614673_58451	1045	1055	superoxide	Chemical
+31614673_58451	1045	1065	superoxide dismutase	Genefamily
+

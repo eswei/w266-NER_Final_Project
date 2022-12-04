@@ -1,0 +1,66 @@
+T1	Gene-Protein 92 102	cystatin-C
+T10	Gene-Protein 744 754	cystatin-C
+T12	Disease 807 813	cancer
+#4	AnnotatorNotes T12	DOID:162
+T13	Disease 860 882	benign ovarian disease
+#5	AnnotatorNotes T13	DOID:0060112
+T14	Gene-Protein 904 914	cystatin-C
+T16	Disease 934 949	prostate cancer
+#7	AnnotatorNotes T16	DOID:10283
+T17	Gene-Protein 1068 1078	cystatin-C
+T18	Disease 1171 1186	prostate cancer
+T20	Gene-Protein 1193 1203	cystatin-C
+T21	Gene-Protein 1253 1263	cystatin-C
+T22	Disease 1286 1292	cancer
+T24	Gene-Protein 1353 1363	Cystatin-C
+T26	Gene-Protein 1412 1422	cystatin-C
+T28	Gene-Protein 1525 1535	cystatin-C
+T29	Disease 1563 1576	breast cancer
+#19	AnnotatorNotes T29	DOID:1612
+T3	Gene-Protein 115 125	cystatin-C
+T4	Gene-Protein 178 188	Cystatin-C
+T5	Disease 261 266	tumor
+T6	Gene-Protein 433 443	cystatin-C
+T7	Gene-Protein 580 590	cystatin-C
+T9	Disease 728 742	ovarian cancer
+#26	AnnotatorNotes T9	DOID:2394
+#2	AnnotatorNotes T1	HGNC:2475
+#3	AnnotatorNotes T24	HGNC:2475
+#6	AnnotatorNotes T4	HGNC:2475
+T2	Biomarker 178 188	Cystatin-C
+T11	Biomarker 564 590	blood levels of cystatin-C
+T23	Gene-Protein 1083 1109	matrix metalloproteinase 2
+#8	AnnotatorNotes T23	HGNC:7166
+T25	Biomarker 1083 1109	matrix metalloproteinase 2
+T27	Drug-Class 1369 1394	TGF-β receptor antagonist
+T30	Gene-Protein 1369 1383	TGF-β receptor
+#9	AnnotatorNotes T30	HGNC:11772
+T31	GeneFamily 1508 1513	TGF-β
+T32	GeneFamily 1460 1465	TGF-β
+#11	AnnotatorNotes T32	family:1932
+T33	Drug 1525 1535	cystatin-C
+R3	Protects-from Arg1:T33 Arg2:T29	
+#10	AnnotatorNotes T2	D055316
+T34	Drug 1353 1363	Cystatin-C
+#12	AnnotatorNotes T34	D055316
+#13	AnnotatorNotes T33	D055316
+T35	Biomarker 1054 1078	expression of cystatin-C
+#15	AnnotatorNotes T11	D055316
+#14	AnnotatorNotes T25	D020778
+T15	Biomarker 744 784	cystatin-C has been reported to increase
+R1	Association Arg1:T15 Arg2:T9	
+T19	Biomarker 904 930	cystatin-C levels were low
+R2	Association Arg1:T19 Arg2:T16	
+#1	AnnotatorNotes T5	DOID:162
+T8	Biomarker 69 81	tumor volume
+T36	Biomarker 92 109	cystatin-C levels
+#16	AnnotatorNotes T36	D055316
+T37	Biomarker 533 549	serum positivity
+T42	Biomarker 1193 1212	cystatin-C positive
+T43	Biomarker 1253 1263	cystatin-C
+T44	Biomarker 1525 1535	cystatin-C
+T46	Drug 1487 1523	inhibiting oncogenic TGF-β signaling
+T39	Biomarker 115 132	cystatin-C levels
+T40	Biomarker 433 450	cystatin-C levels
+T38	Biomarker 701 713	tumor volume
+#17	AnnotatorNotes T46	not found

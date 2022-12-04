@@ -1,0 +1,80 @@
+T0	Disease 148 162	bladder cancer
+#1	AnnotatorNotes T0	DOID:11054
+T2	Drug 1126 1135	erlotinib
+T3	Disease 1139 1156	pancreatic cancer
+#4	AnnotatorNotes T3	DOID:1793
+T4	Disease 1344 1358	bladder cancer
+T5	Disease 1532 1538	tumors
+#6	AnnotatorNotes T5	DOID:162
+T6	Drug 1846 1849	DDP
+T7	RNA-Noncoding 30 43	MicroRNA-4295
+#3	AnnotatorNotes T7	HGNC:38220
+T8	RNA-Noncoding 45 54	miR-4295)
+#7	AnnotatorNotes T8	HGNC:38220
+T9	Biomarker 30 43	MicroRNA-4295
+#8	AnnotatorNotes T9	C000602903
+R1	Association Arg1:T9 Arg2:T0	
+T10	Biomarker 265 273	miR-4295
+T11	Biomarker 279 287	miR-4295
+T12	RNA-Noncoding 279 287	miR-4295
+T13	Gene-Protein 354 386	epidermal growth factor receptor
+#9	AnnotatorNotes T13	HGNC:3236
+T14	Gene-Protein 388 392	EGFR
+#10	AnnotatorNotes T14	HGNC:3236
+T15	RNA-Noncoding 1791 1799	miR-4295
+T16	RNA-Noncoding 1603 1611	miR-4295
+T1	GeneFamily 574 578	MAPK
+#2	AnnotatorNotes T1	family:651
+T17	GeneFamily 540 572	mitogen-activated protein kinase
+#11	AnnotatorNotes T17	family:651
+T18	GeneFamily 581 585	PI3K
+#12	AnnotatorNotes T18	family:831
+T19	GeneFamily 586 589	Akt
+#13	AnnotatorNotes T19	family:1900
+T20	GeneFamily 1020 1024	PI3K
+T21	RNA-Noncoding 1259 1267	miR-4295
+T22	GeneFamily 1025 1028	Akt
+T23	GeneFamily 1868 1871	Akt
+T24	GeneFamily 1863 1867	PI3K
+T25	Gene-Protein 1373 1377	EGFR
+T26	Gene-Protein 1858 1862	EGFR
+T27	GeneFamily 1459 1463	PI3K
+T28	GeneFamily 1464 1467	Akt
+T29	Gene-Protein 867 899	epidermal growth factor receptor
+T30	Gene-Protein 792 797	LRIG1
+#14	AnnotatorNotes T30	HGNC:17360
+T31	Gene-Protein 996 1000	EGFR
+T32	Gene-Protein 1616 1621	LRIG1
+T33	Gene-Protein 1907 1912	LRIG1
+T34	Gene-Protein 1165 1170	LRIG1
+T35	RNA-Noncoding 265 273	miR-4295
+T36	GeneFamily 536 539	Ras
+#15	AnnotatorNotes T36	family:389
+T37	GeneFamily 591 595	STAT
+#16	AnnotatorNotes T37	not found
+T38	GeneFamily 600 618	Src family kinases
+#17	AnnotatorNotes T38	family:1388
+T39	Disease 477 482	tumor
+#18	AnnotatorNotes T39	DOID:162
+T40	Biomarker 354 411	epidermal growth factor receptor (EGFR) signaling pathway
+R2	Association Arg1:T40 Arg2:T39	
+#20	AnnotatorNotes T2	CHEMBL553
+T41	Drug 979 1038	dual blockage of EGFR and its downstream PI3K/Akt signaling
+#21	AnnotatorNotes T41	not found
+R3	Synergy-Response Arg1:T2 Arg2:T3	
+R4	Synergy-Response Arg1:T41 Arg2:T3	
+T42	Gene-Protein 1206 1210	EGFR
+T43	Biomarker 1241 1267	overexpression of miR-4295
+R5	Association Arg1:T43 Arg2:T4	
+T44	Biomarker 1459 1496	PI3K/Akt signaling pathway activation
+T45	Biomarker 1603 1611	miR-4295
+T46	Biomarker 1616 1621	LRIG1
+#5	AnnotatorNotes T46	C484445
+T47	Disease 1826 1828	GC
+#22	AnnotatorNotes T47	DOID:10534
+#23	AnnotatorNotes T6	CHEMBL2068237
+R6	Causes Arg1:T6 Arg2:T47	
+#24	AnnotatorNotes T10	C000602903
+T50	Gene-Protein 737 790	Leucinerich repeats and immunoglobulin-like domains 1
+#19	AnnotatorNotes T50	HGNC:17360
+T48	Drug-Class 850 899	inhibitor of the epidermal growth factor receptor

@@ -1,0 +1,76 @@
+T11	Disease 706 725	thrombotic diseases
+#1	AnnotatorNotes T11	DOID:0060903
+T14	Drug-Class 1368 1375	steroid
+T15	Disease 1368 1405	steroid‐induced femoral head necrosis
+#3	AnnotatorNotes T15	not found
+T17	Disease 1463 1481	hypercoagulability
+T18	Disease 1496 1510	hyperlipidemia
+#5	AnnotatorNotes T18	DOID:1168
+T2	Disease 130 164	femoral head and ischemic necrosis
+#6	AnnotatorNotes T2	not found
+T21	Disease 1766 1816	early GC‐induced osteonecrosis of the femoral head
+T22	Disease 1818 1822	ONFH
+T4	Disease 268 307	avascular necrosis of the femoral head9
+#11	AnnotatorNotes T4	D005271
+T6	Drug 387 405	methylprednisolone
+T8	Disease 500 518	hypercoagulability
+#13	AnnotatorNotes T8	DOID:2452
+T9	Disease 520 530	thrombosis
+#14	AnnotatorNotes T9	DOID:0060903
+T1	Biomarker 218 229	coagulation
+#2	AnnotatorNotes T1	D001777
+T3	Biomarker 234 250	low fibrinolysis
+T5	Collection 218 250	coagulation and low fibrinolysis
+#9	AnnotatorNotes T6	CHEMBL650
+T7	Disease 536 572	inflammation in the microcirculation
+#10	AnnotatorNotes T7	not found
+T10	Collection 500 572	hypercoagulability, thrombosis, and inflammation in the microcirculation
+T12	Biomarker 438 481	increased levels of membrane microparticles
+R2	Association Arg1:T12 Arg2:T10	
+T13	Gene-Protein 642 658	α2‐macroglobulin
+#12	AnnotatorNotes T13	HGNC:7
+T16	Biomarker 642 658	α2‐macroglobulin
+#15	AnnotatorNotes T16	D045384
+R3	Diagnostic-of Arg1:T16 Arg2:T11	
+T19	Gene-Protein 806 822	α2‐Macroglobulin
+T23	Gene-Protein 990 1006	α2‐Macroglobulin
+T24	Gene-Protein 1134 1150	α2‐macroglobulin
+T25	GeneFamily 1155 1189	vascular endothelial growth factor
+#16	AnnotatorNotes T25	family:1267
+T26	Drug 1101 1189	complex formed by the binding of α2‐macroglobulin and vascular endothelial growth factor
+T27	Drug 1215 1222	heparin
+#17	AnnotatorNotes T27	CHEMBL1909300
+T28	Disease 1239 1260	hypercoagulable state
+#18	AnnotatorNotes T28	DOID:2452
+R4	Causes Arg1:T26 Arg2:T28	
+T29	Gene-Protein 1319 1335	α2‐macroglobulin
+T30	Biomarker 1310 1350	level of α2‐macroglobulin in bone tissue
+R5	Association Arg1:T30 Arg2:T15	
+T32	GeneFamily 1546 1570	matrix metalloproteinase
+#4	AnnotatorNotes T32	family:891
+#7	AnnotatorNotes T21	not found
+T20	Chemical 1772 1774	GC
+T33	Gene-Protein 1707 1710	α2M
+T34	Biomarker 1698 1722	elevated α2M serum level
+R6	Diagnostic-of Arg1:T34 Arg2:T21	
+#8	AnnotatorNotes T22	not found
+T35	Gene-Protein 1840 1843	α2M
+T36	Chemical 1892 1894	GC
+T37	Gene-Protein 909 925	α2‐macroglobulin
+T38	Gene-Protein 1590 1598	thrombin
+T39	Gene-Protein 849 857	thrombin
+#19	AnnotatorNotes T39	HGNC:3535
+T40	Gene-Protein 882 889	plasmin
+#20	AnnotatorNotes T40	HGNC:9071
+T41	Gene-Protein 1082 1089	plasmin
+T42	GeneFamily 969 975	fibrin
+#21	AnnotatorNotes T42	not found
+T43	Biomarker 30 59	Intravascular microthrombosis
+T44	Biomarker 63 88	extravascular compression
+T45	Biomarker 909 925	α2‐macroglobulin
+T46	Biomarker 1531 1570	degradation of matrix metalloproteinase
+T47	Biomarker 1512 1525	free radicals
+T48	Biomarker 98 122	blockage of microvessels
+T49	Biomarker 841 866	enhance thrombin activity
+T50	Biomarker 874 898	inhibit plasmin activity
+T51	Biomarker 1037 1089	increase the regenerative capacity of plasma plasmin

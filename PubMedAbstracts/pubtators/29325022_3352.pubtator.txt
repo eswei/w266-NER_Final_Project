@@ -1,0 +1,40 @@
+29325022_3352|t|RSS_IDENT_p_29325022_b_1_1_3
+29325022_3352|a| Familial hypocalciuric hypercalcaemia type 3 (FHH3) (OMIM #600740) represents a clinically more severe form of FHH, which may be associated with symptomatic hypercalcaemia, osteoporosis, osteomalacia and cognitive dysfunction ( 8 , 9 ). FHH3 is caused by mutations of the adaptor-related protein complex 2 (AP2) sigma subunit (AP2σ), encoded by the AP2S1 gene which consists of five exons (Fig. 1). AP2, which is a ubiquitously expressed heterotetrameric protein comprising α, β, µ and σ subunits ( 10 ) (Supplementary Material, Fig. S1), plays a fundamental role in the clathrin-mediated endocytosis of G-protein-coupled receptors (GPCRs) such as the CaSR. The AP2 complex operates as two heterodimers, one comprised of the AP2α and AP2σ subunits, and the other the AP2β and AP2µ subunits ( 11–13 ) (Supplementary Material, Fig. S1). In the inactive state, the AP2α and AP2β subunits form a diamond-shaped outer complex, and the AP2µ and AP2σ subunits, are buried within the core of the AP2 complex ( 10–12 , 14–16 ). Upon activation, AP2α and AP2β bend away from each other, with the AP2σ subunit accompanying AP2α and the AP2µ subunit being displaced toward the plasma membrane ( 11 , 12 , 14 ). In this open conformation, the AP2µ and AP2σ subunits bind to endocytic motifs on transmembrane cargo proteins, and thereby facilitate the association of clathrin with the AP2 complex ( 12 , 14 , 17 ).
+29325022_3352	30	74	Familial hypocalciuric hypercalcaemia type 3	Disease	DOID:0060702
+29325022_3352	76	80	FHH3	Disease	DOID:0060702
+29325022_3352	141	144	FHH	Disease	DOID:0060699
+29325022_3352	187	201	hypercalcaemia	Biomarker	D006934
+29325022_3352	187	255	hypercalcaemia, osteoporosis, osteomalacia and cognitive dysfunction	Collection
+29325022_3352	203	215	osteoporosis	Biomarker	D010024
+29325022_3352	217	229	osteomalacia	Biomarker	D010018
+29325022_3352	234	255	cognitive dysfunction	Biomarker	D060825
+29325022_3352	267	271	FHH3	Disease
+29325022_3352	285	355	mutations of the adaptor-related protein complex 2 (AP2) sigma subunit	Biomarker
+29325022_3352	302	355	adaptor-related protein complex 2 (AP2) sigma subunit	Gene-protein	HGNC:565
+29325022_3352	357	361	AP2σ	Gene-protein	HGNC:565
+29325022_3352	379	384	AP2S1	Gene-protein	HGNC:565
+29325022_3352	429	432	AP2	Genefamily	family:1672
+29325022_3352	601	609	clathrin	Genefamily	family:1647
+29325022_3352	634	661	G-protein-coupled receptors	Genefamily	family:139
+29325022_3352	663	668	GPCRs	Genefamily	family:139
+29325022_3352	682	686	CaSR	Gene-protein	HGNC:1514
+29325022_3352	692	695	AP2	Genefamily
+29325022_3352	755	759	AP2α	Genefamily	not found
+29325022_3352	764	768	AP2σ	Gene-protein
+29325022_3352	797	801	AP2β	Gene-protein	HGNC:563
+29325022_3352	806	810	AP2µ	Gene-protein	HGNC:564
+29325022_3352	892	896	AP2α	Genefamily
+29325022_3352	901	905	AP2β	Gene-protein
+29325022_3352	960	964	AP2µ	Gene-protein
+29325022_3352	969	973	AP2σ	Gene-protein
+29325022_3352	1018	1021	AP2	Genefamily
+29325022_3352	1066	1070	AP2α	Genefamily
+29325022_3352	1075	1079	AP2β	Gene-protein
+29325022_3352	1116	1120	AP2σ	Gene-protein
+29325022_3352	1142	1146	AP2α	Genefamily
+29325022_3352	1155	1159	AP2µ	Gene-protein
+29325022_3352	1260	1264	AP2µ	Gene-protein
+29325022_3352	1269	1273	AP2σ	Gene-protein
+29325022_3352	1383	1391	clathrin	Genefamily
+29325022_3352	1401	1404	AP2	Genefamily
+

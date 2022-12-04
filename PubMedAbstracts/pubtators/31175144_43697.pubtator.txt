@@ -1,0 +1,63 @@
+31175144_43697|t|RSS_IDENT_s_31175144_b_1_4
+31175144_43697|a| Author Contribution C.S. wrote the manuscript. L.S. provided the financial support. Y.S. reviewed the manuscript. All authors read and approved the final manuscript. Abbreviations AJCC American Joint Committee on Cancer AKT3 AKT Serine/Threonine Kinase 3 BC Breast Cancer BCL2L1 BCL2 Like 1 BCSC Breast cancer stem-like cell CeRNA competing endogenous RNA CRC colorectal cancer EMT epithelial–mesenchymal transition EZH2 Enhancer of Zeste Homolog 2 FEZF1 FEZ Family Zinc Finger 1 FEZF1-AS1 FEZ family Zinc Finger 1-Antisense RNA 1 GC gastric cancer HCC hepatocellular carcinoma HGF Hepatocyte Growth Factor H3K4me2 histone H3lysine-4 di -methylation JAK Janus Kinase LAD lung adenocarcinoma LncRNAs long noncoding RNAs LSD1 lysine-Specific Demethylase 1 MM multiple myeloma MMP2 matrix Metallopeptidase 2 MMP9 matrix Metallopeptidase 9 NcRNAs noncoding RNAs NF-κB nuclear Factor-κB NPC nasopharyngeal carcinoma NSCLC non-small-cell lung cancer OS osteosarcoma PC pancreatic cancer PKM2 pyruvate Kinase M 2 qRT-PCR quantitative real-time PCR STAT3 signal transducer and activator of transcription 3 TERT telomerase reverse transcriptase TNM Tumor Lymph Node Metastasis VEGF Vascular Endothelial Growth Factor ZO-1 zonula occluden-1
+31175144_43697	248	252	AKT3	Gene-protein
+31175144_43697	253	282	AKT Serine/Threonine Kinase 3	Gene-protein
+31175144_43697	257	263	Serine	Chemical
+31175144_43697	264	273	Threonine	Chemical
+31175144_43697	283	285	BC	Disease	DOID:1612
+31175144_43697	286	299	Breast Cancer	Disease	DOID:1612
+31175144_43697	300	306	BCL2L1	Gene-protein
+31175144_43697	307	318	BCL2 Like 1	Gene-protein
+31175144_43697	324	337	Breast cancer	Disease	DOID:1612
+31175144_43697	384	387	CRC	Disease	DOID:9256
+31175144_43697	388	405	colorectal cancer	Disease	DOID:9256
+31175144_43697	444	448	EZH2	Gene-protein
+31175144_43697	449	476	Enhancer of Zeste Homolog 2	Gene-protein
+31175144_43697	477	482	FEZF1	Gene-protein
+31175144_43697	483	507	FEZ Family Zinc Finger 1	Gene-protein
+31175144_43697	508	517	FEZF1-AS1	Rna-noncoding
+31175144_43697	518	558	FEZ family Zinc Finger 1-Antisense RNA 1	Rna-noncoding
+31175144_43697	559	561	GC	Disease	DOID:10534
+31175144_43697	562	576	gastric cancer	Disease	DOID:10534
+31175144_43697	577	580	HCC	Disease	DOID:684
+31175144_43697	581	605	hepatocellular carcinoma	Disease	DOID:684
+31175144_43697	606	609	HGF	Gene-protein
+31175144_43697	610	634	Hepatocyte Growth Factor	Gene-protein
+31175144_43697	678	681	JAK	Genefamily
+31175144_43697	682	694	Janus Kinase	Genefamily
+31175144_43697	695	698	LAD	Disease	DOID:3910
+31175144_43697	699	718	lung adenocarcinoma	Disease	DOID:3910
+31175144_43697	719	726	LncRNAs	Rna-noncoding
+31175144_43697	727	746	long noncoding RNAs	Rna-noncoding
+31175144_43697	747	751	LSD1	Gene-protein
+31175144_43697	752	758	lysine	Chemical
+31175144_43697	753	781	ysine-Specific Demethylase 1	Gene-protein
+31175144_43697	782	784	MM	Disease	DOID:9538
+31175144_43697	785	801	multiple myeloma	Disease	DOID:9538
+31175144_43697	802	806	MMP2	Gene-protein
+31175144_43697	807	832	matrix Metallopeptidase 2	Gene-protein
+31175144_43697	833	837	MMP9	Gene-protein
+31175144_43697	838	863	matrix Metallopeptidase 9	Gene-protein
+31175144_43697	864	870	NcRNAs	Rna-noncoding
+31175144_43697	871	885	noncoding RNAs	Rna-noncoding
+31175144_43697	886	891	NF-κB	Genefamily
+31175144_43697	892	909	nuclear Factor-κB	Genefamily
+31175144_43697	910	913	NPC	Disease	DOID:9261
+31175144_43697	914	938	nasopharyngeal carcinoma	Disease	DOID:9261
+31175144_43697	939	944	NSCLC	Disease	DOID:3908
+31175144_43697	945	971	non-small-cell lung cancer	Disease	DOID:3908
+31175144_43697	972	974	OS	Disease	DOID:3347
+31175144_43697	975	987	osteosarcoma	Disease	DOID:3347
+31175144_43697	988	990	PC	Disease	DOID:1793
+31175144_43697	991	1008	pancreatic cancer	Disease	DOID:1793
+31175144_43697	1009	1013	PKM2	Gene-protein
+31175144_43697	1014	1033	pyruvate Kinase M 2	Gene-protein
+31175144_43697	1069	1074	STAT3	Gene-protein
+31175144_43697	1075	1125	signal transducer and activator of transcription 3	Gene-protein
+31175144_43697	1126	1130	TERT	Gene-protein
+31175144_43697	1131	1163	telomerase reverse transcriptase	Gene-protein
+31175144_43697	1196	1200	VEGF	Genefamily
+31175144_43697	1201	1235	Vascular Endothelial Growth Factor	Genefamily
+31175144_43697	1236	1240	ZO-1	Gene-protein
+31175144_43697	1241	1258	zonula occluden-1	Gene-protein
+

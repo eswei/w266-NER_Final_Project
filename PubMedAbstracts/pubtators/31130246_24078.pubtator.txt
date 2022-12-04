@@ -1,0 +1,41 @@
+31130246_24078|t|RSS_IDENT_p_31130246_b_1_11_3
+31130246_24078|a| Here we showed that ACS patients had higher MPV compared to non-ACS patients, suggesting that MPV be utilized as an independent biomarker for ACS diagnosis (Table 2). The AUC of the MPV in ACS diagnosis was 0.736, and the optimal cut-off was set as 10.55 fL with the 54.2% of sensitivity, the 83.3% of specificity, the 3.345 of LR⁺, and the 0.546 of LR—. When MPV was combined to initial TnI for ACS diagnosis, the ACU was increased to 0.822 in 83.1% of sensitivity, 75.7% of specificity, 3.414 of LR⁺, and 0.224 of LR— (Table 3). In standard diagnosis of TnI, TnI should be examined and monitored in multiple time course to diagnose as ACS. In fact, initial TnI showed 84.1% sensitivity but 51.2% specificity. If the combination of initial TnI and MPV were performed, the specificity of combination could increase to 75.7% and more than specificity of TnI alone. The positive predictive value (PPV) of initial TnI alone was 73.5% which was then increased to 86.7% when combined with MPV in ACS (Table 4). The probability of patients with ACS was significantly increased, while abnormal levels of both MPV and initial TnI were detected in patients (Table 5). These results were consistent with previous studies [38] , [39] , [40] and indicated that MPV is a suitable biomarker for the detection of suspected ACS patients of different races in different countries. We further demonstrated that the detection of ACS by MPV set at the cut-off of 10.55 fL is not affected by other known ACS risk factors (Table 6). Thus, we suggest that MPV be served as a valuable biomarker for the diagnosis of ACS. That is to say, when patients with acute chest pain in emergency department, measuring both initial TnI and MPV may help clinical physicians rule out non-ACS, improve accuracy for diagnosing ACS, not wait for multiple TnI detection, shorten the time of diagnosis and Door-to-Balloon Time to achieve early diagnosis of ACS. 
+31130246_24078	51	54	ACS	Disease	D054058
+31130246_24078	68	78	higher MPV	Biomarker
+31130246_24078	125	128	MPV	Biomarker	D063847
+31130246_24078	173	176	ACS	Disease
+31130246_24078	213	216	MPV	Biomarker
+31130246_24078	220	223	ACS	Disease
+31130246_24078	391	394	MPV	Biomarker
+31130246_24078	419	422	TnI	Genefamily	not found
+31130246_24078	427	430	ACS	Disease
+31130246_24078	587	590	TnI	Genefamily
+31130246_24078	592	595	TnI	Genefamily
+31130246_24078	592	595	TnI	Biomarker	D019210
+31130246_24078	668	671	ACS	Disease
+31130246_24078	690	693	TnI	Genefamily
+31130246_24078	772	775	TnI	Genefamily
+31130246_24078	780	783	MPV	Biomarker
+31130246_24078	884	887	TnI	Genefamily
+31130246_24078	942	945	TnI	Genefamily
+31130246_24078	1015	1018	MPV	Gene-protein
+31130246_24078	1022	1025	ACS	Disease
+31130246_24078	1070	1073	ACS	Disease
+31130246_24078	1109	1152	abnormal levels of both MPV and initial TnI	Biomarker
+31130246_24078	1149	1152	TnI	Genefamily
+31130246_24078	1280	1283	MPV	Biomarker
+31130246_24078	1339	1342	ACS	Disease
+31130246_24078	1441	1444	ACS	Disease
+31130246_24078	1448	1451	MPV	Biomarker
+31130246_24078	1514	1517	ACS	Disease
+31130246_24078	1564	1567	MPV	Biomarker
+31130246_24078	1623	1626	ACS	Disease
+31130246_24078	1663	1679	acute chest pain	Disease	not found
+31130246_24078	1720	1731	initial TnI	Biomarker
+31130246_24078	1720	1739	initial TnI and MPV	Collection
+31130246_24078	1728	1731	TnI	Genefamily
+31130246_24078	1736	1739	MPV	Biomarker
+31130246_24078	1819	1822	ACS	Disease
+31130246_24078	1846	1849	TnI	Genefamily
+31130246_24078	1946	1949	ACS	Disease
+

@@ -1,0 +1,42 @@
+30062063_24821|t|RSS_IDENT_s_30062063_b_1_3_4
+30062063_24821|a| Recurrent hotspot somatic mutation in PIK3CA (H1047R) was first identified in PCT PI3KCA H1047R is a recurrent hotspot mutation in human cancers, especially in breast cancers. Although somatic mutations in PIK3CA have been reported in many human cancers ¹⁶ , ¹⁷ , in this study we first identified PIK3CA (H1047) in cardiac tissues (Fig. 5a). To investigate the effect of PIK3CA (H1047R) on activation of protein kinase B/Akt signaling pathway, we tested the phosphorylation of pathway members by western blotting in cardiac tumor tissues. The results showed phosphorylation of AKT at the Thr308 site and GSK-3β at Ser9 site was markedly increased compared to the expression in adjacent normal tissues (Fig. 5b). PIK3CA (H1047R) was reported to induce and reactivate multipotency and multi-lineage mammary tumors ¹⁸ , ¹⁹ . Fig. 5 Recurrent hotspot PI3KCA (H1047) was first identified in cardiac tumor tissue. a Sanger sequencing of PIK3CA (His1047Arg) by using blood and tumor tissue samples of Patient-1. b Phosphorylation of Akt Thr 308 site as well as GSK3-beta at Ser9 site was markedly enhanced in cardiac tumor tissues
+30062063_24821	68	74	PIK3CA	Gene-protein	HGNC:8975
+30062063_24821	76	82	H1047R	Variant	p.His1047Arg
+30062063_24821	108	111	PCT	Disease	DOID:117
+30062063_24821	112	118	PI3KCA	Gene-protein
+30062063_24821	119	125	H1047R	Variant
+30062063_24821	167	174	cancers	Disease	DOID:162
+30062063_24821	167	204	cancers, especially in breast cancers	Collection
+30062063_24821	190	204	breast cancers	Disease	DOID:1612
+30062063_24821	215	242	somatic mutations in PIK3CA	Biomarker
+30062063_24821	236	242	PIK3CA	Gene-protein
+30062063_24821	276	283	cancers	Disease
+30062063_24821	328	334	PIK3CA	Gene-protein
+30062063_24821	336	341	H1047	Variant
+30062063_24821	402	408	PIK3CA	Gene-protein
+30062063_24821	410	416	H1047R	Variant
+30062063_24821	435	451	protein kinase B	Genefamily	family:1900
+30062063_24821	452	455	Akt	Genefamily	family:1900
+30062063_24821	547	560	cardiac tumor	Disease	DOID:117
+30062063_24821	589	677	phosphorylation of AKT at the Thr308 site and GSK-3β at Ser9 site was markedly increased	Biomarker
+30062063_24821	608	611	AKT	Genefamily	family:1900
+30062063_24821	619	625	Thr308	Chemical
+30062063_24821	635	641	GSK-3β	Gene-protein	HGNC:4617
+30062063_24821	645	649	Ser9	Chemical
+30062063_24821	743	749	PIK3CA	Gene-protein
+30062063_24821	751	757	H1047R	Variant
+30062063_24821	828	842	mammary tumors	Disease	DOID:1612
+30062063_24821	860	892	Recurrent hotspot PI3KCA (H1047)	Biomarker
+30062063_24821	878	884	PI3KCA	Gene-protein
+30062063_24821	886	891	H1047	Chemical
+30062063_24821	917	930	cardiac tumor	Disease
+30062063_24821	962	968	PIK3CA	Gene-protein
+30062063_24821	970	980	His1047Arg	Variant	p.His1047Arg
+30062063_24821	1001	1006	tumor	Disease	DOID:162
+30062063_24821	1038	1129	Phosphorylation of Akt Thr 308 site as well as GSK3-beta at Ser9 site was markedly enhanced	Biomarker
+30062063_24821	1057	1060	Akt	Genefamily
+30062063_24821	1061	1064	Thr	Chemical
+30062063_24821	1085	1094	GSK3-beta	Gene-protein	HGNC:4617
+30062063_24821	1098	1102	Ser9	Chemical
+30062063_24821	1133	1146	cardiac tumor	Disease
+

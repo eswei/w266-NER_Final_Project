@@ -1,0 +1,42 @@
+31020811_13013|t|RSS_IDENT_s_31020811_b_1_2_7
+31020811_13013|a| Reagents Reagents were purchased from Sigma (Italy). Antibodies raised in rabbit: anti‐arginase 1 (ARG1) (1:100, Abcam, UK); anti‐CD163 (1:100, Santa Cruz Biotechnology, USA); anti‐choline acetyltransferase (1:500, AbCam); anti‐DAO1 (1:200, Bioss, USA); anti‐H1R (1:200, Alomone, Israel); anti‐H2R (1:200, MyBioSource, USA); anti‐H3R (1:200, Alomone); anti‐H4R (1:200, Santa Cruz Biotechnology); anti‐HDC (1:20, AbCam); anti‐HNMT (1:200, Sigma); anti‐inducible nitric oxide synthase (iNOS) (1:1000, CST, USA); anti‐myelin basic protein (MBP) (1:1000 CST); anti‐nuclear factor‐kappa B (NF‐κB) p65 (1:500, CST); anti‐phospho‐AKT (1:500, CST); anti‐phospho‐p44/42 MAPK (ERK1/2) (Thr202/Tyr204) (1:1000, CST); and anti‐phospho‐NF‐κB p65 (Ser536) (1:500, CST). Antibodies raised in mouse: anti‐AKT (1:500, Santa Cruz Biotechnology); anti‐GAPDH (1:2500, Calbiochem, USA); anti‐gp91ᵖʰᵒˣ (1:1000, BD Transduction Laboratories, USA); anti‐SMI32 (1:1000, Covance, USA); and anti‐p44/42 MAPK (ERK1/2) (L34F12) (1:1000, CST). Antibodies raised in rat: anti‐CD11b (1:200, AbD Serotec, UK).
+31020811_13013	83	93	Antibodies	Gene-protein	not
+31020811_13013	112	127	anti‐arginase 1	Gene-protein
+31020811_13013	129	133	ARG1	Gene-protein
+31020811_13013	155	165	anti‐CD163	Gene-protein
+31020811_13013	206	236	anti‐choline acetyltransferase	Gene-protein
+31020811_13013	211	218	choline	Chemical
+31020811_13013	253	262	anti‐DAO1	Gene-protein
+31020811_13013	284	292	anti‐H1R	Gene-protein
+31020811_13013	319	327	anti‐H2R	Gene-protein
+31020811_13013	355	363	anti‐H3R	Gene-protein
+31020811_13013	382	390	anti‐H4R	Gene-protein
+31020811_13013	426	434	anti‐HDC	Gene-protein
+31020811_13013	450	459	anti‐HNMT	Gene-protein
+31020811_13013	476	512	anti‐inducible nitric oxide synthase	Gene-protein
+31020811_13013	491	503	nitric oxide	Chemical
+31020811_13013	514	518	iNOS	Gene-protein
+31020811_13013	540	565	anti‐myelin basic protein	Gene-protein
+31020811_13013	567	570	MBP	Gene-protein
+31020811_13013	586	613	anti‐nuclear factor‐kappa B	Genefamily
+31020811_13013	615	620	NF‐κB	Genefamily
+31020811_13013	622	625	p65	Gene-protein
+31020811_13013	640	656	anti‐phospho‐AKT	Genefamily
+31020811_13013	645	652	phospho	Chemical
+31020811_13013	671	695	anti‐phospho‐p44/42 MAPK	Gene-protein
+31020811_13013	676	683	phospho	Chemical
+31020811_13013	697	703	ERK1/2	Gene-protein
+31020811_13013	706	712	Thr202	Chemical
+31020811_13013	713	719	Tyr204	Chemical
+31020811_13013	740	762	anti‐phospho‐NF‐κB p65	Gene-protein
+31020811_13013	745	752	phospho	Chemical
+31020811_13013	764	770	Ser536	Chemical
+31020811_13013	814	822	anti‐AKT	Genefamily
+31020811_13013	858	868	anti‐GAPDH	Gene-protein
+31020811_13013	896	909	anti‐gp91ᵖʰᵒˣ	Gene-protein
+31020811_13013	955	965	anti‐SMI32	Gene-protein
+31020811_13013	994	1010	anti‐p44/42 MAPK	Gene-protein
+31020811_13013	1012	1018	ERK1/2	Gene-protein
+31020811_13013	1021	1027	L34F12	Gene-protein
+31020811_13013	1070	1080	anti‐CD11b	Gene-protein
+

@@ -1,0 +1,122 @@
+T10	Disease 400 405	NSCLC
+T11	Biomarker 499 513	EGFR mutations
+T12	Disease 531 536	NSCLC
+T13	Biomarker 560 586	sensitizing EGFR mutations
+T14	Disease 648 653	NSCLC
+T15	Biomarker 662 675	EGFR mutation
+T17	Biomarker 806 820	EGFR mutations
+T18	Biomarker 1010 1070	receptor tyrosine-protein kinase erbB-2 (HER2) amplification
+T19	Chemical 1019 1027	tyrosine
+T2	Biomarker 41 52	Lung cancer
+#7	AnnotatorNotes T2	D008175
+T21	Variant 1080 1085	T790M
+T23	Chemical 1125 1133	tyrosine
+T24	Chemical 1164 1201	phosphatidylinositol-4,5-bisphosphate
+T25	Chemical 1274 1280	serine
+T26	Chemical 1281 1290	threonine
+T27	Disease 1318 1323	tumor
+#12	AnnotatorNotes T27	DOID:162
+T28	Chemical 1461 1469	estrogen
+T29	Biomarker 1461 1502	estrogen receptor (ER)β was overexpressed
+T3	Disease 77 104	cancer-associated mortality
+#14	AnnotatorNotes T3	not found
+T30	Disease 1506 1511	NSCLC
+T31	Drug-Class 1588 1597	EGFR-TKIs
+T32	Disease 1615 1620	NSCLC
+T33	Biomarker 1632 1635	ERβ
+T34	Disease 1693 1704	lung cancer
+T35	Disease 1806 1817	lung cancer
+T36	Biomarker 1831 1862	ERβ is frequently overexpressed
+T37	Disease 1866 1891	NSCLC with EGFR mutations
+T39	Disease 1909 1928	lung adenocarcinoma
+#20	AnnotatorNotes T39	DOID:3910
+T4	Disease 119 145	non-small cell lung cancer
+#21	AnnotatorNotes T4	DOID:3908
+T40	Disease 2013 2038	NSCLC with EGFR mutations
+T43	Disease 2323 2328	NSCLC
+T5	Disease 147 152	NSCLC
+#24	AnnotatorNotes T5	DOID:3908
+T6	Disease 181 192	lung cancer
+#25	AnnotatorNotes T6	DOID:1324
+T7	Biomarker 206 282	Mutations and gene amplifications of epidermal growth factor receptor (EGFR)
+T8	Disease 303 308	NSCLC
+T9	Drug-Class 314 345	EGFR-tyrosine kinase inhibitors
+R1	Association Arg1:T2 Arg2:T3	
+T1	Gene-Protein 243 275	epidermal growth factor receptor
+#1	AnnotatorNotes T1	HGNC:3236
+T44	Gene-Protein 277 281	EGFR
+#5	AnnotatorNotes T44	HGNC:3236
+T45	Gene-Protein 314 318	EGFR
+R2	Association Arg1:T7 Arg2:T8	
+R3	Response Arg1:T9 Arg2:T10	
+T46	Drug-Class 347 356	EGFR-TKIs
+T47	Gene-Protein 347 351	EGFR
+R4	Association Arg1:T11 Arg2:T12	
+T48	Gene-Protein 499 503	EGFR
+T49	Drug-Class 615 624	EGFR-TKIs
+T50	Gene-Protein 572 576	EGFR
+T51	Biomarker 679 704	unknown mutational status
+T52	Drug-Class 722 749	platinum-based chemotherapy
+T16	Gene-Protein 662 666	EGFR
+T53	Gene-Protein 806 810	EGFR
+T54	Gene-Protein 852 856	EGFR
+T55	Drug-Class 852 861	EGFR-TKIs
+T56	Gene-Protein 1051 1055	HER2
+#3	AnnotatorNotes T56	HGNC:3430
+T57	Gene-Protein 1010 1049	receptor tyrosine-protein kinase erbB-2
+#4	AnnotatorNotes T57	HGNC:3430
+T20	Gene-Protein 1075 1079	EGFR
+R9	Variant-Of Arg1:T20 Arg2:T21	
+#6	AnnotatorNotes T21	p.Thr790Met
+T58	Gene-Protein 1096 1140	MET proto-oncogene, receptor tyrosine kinase
+#8	AnnotatorNotes T58	HGNC:7029
+T59	Gene-Protein 1142 1147	c-MET
+#9	AnnotatorNotes T59	HGNC:7029
+T22	Biomarker 1096 1162	MET proto-oncogene, receptor tyrosine kinase (c-MET) amplification
+T60	Gene-Protein 1232 1238	PIK3CA
+#10	AnnotatorNotes T60	HGNC:8975
+T61	Gene-Protein 1164 1230	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit α
+#11	AnnotatorNotes T61	HGNC:8975
+T62	Biomarker 1164 1248	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit α (PIK3CA) mutation
+T63	Gene-Protein 1299 1303	BRAF
+#13	AnnotatorNotes T63	HGNC:1097
+T64	Gene-Protein 1252 1297	B-Raf proto-oncogene, serine/threonine kinase
+#26	AnnotatorNotes T64	HGNC:1097
+T65	Biomarker 1252 1314	B-Raf proto-oncogene, serine/threonine kinase (BRAF) mutations
+T66	Collection 1096 1314	MET proto-oncogene, receptor tyrosine kinase (c-MET) amplification, phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit α (PIK3CA) mutation or B-Raf proto-oncogene, serine/threonine kinase (BRAF) mutations
+R10	Association Arg1:T66 Arg2:T27	
+R11	Association Arg1:T21 Arg2:T27	
+R12	Association Arg1:T18 Arg2:T27	
+T67	Gene-Protein 1461 1484	estrogen receptor (ER)β
+#27	AnnotatorNotes T67	HGNC:3468
+T68	Gene-Protein 1588 1592	EGFR
+R14	Mediated-Non-Response Arg1:T31 Arg2:T32	
+R15	Mediator Arg1:T31 Arg2:T29	
+#15	AnnotatorNotes T33	D047629
+T69	Gene-Protein 1632 1635	ERβ
+#16	AnnotatorNotes T69	HGNC:3468
+R16	Association Arg1:T33 Arg2:T34	
+T70	GeneFamily 1677 1679	ER
+#28	AnnotatorNotes T70	not found
+T71	Gene-Protein 1771 1774	ERβ
+T72	Gene-Protein 1779 1783	EGFR
+T73	Biomarker 1748 1802	cross-talk between the ERβ and EGFR signaling pathways
+R17	Association Arg1:T73 Arg2:T35	
+T74	Gene-Protein 1831 1834	ERβ
+#18	AnnotatorNotes T37	not found
+T38	Gene-Protein 1877 1881	EGFR
+R19	Association Arg1:T36 Arg2:T75	
+T75	Collection 1866 1928	NSCLC with EGFR mutations, particularly in lung adenocarcinoma
+T76	Biomarker 1946 1960	ERβ expression
+T77	Gene-Protein 1946 1949	ERβ
+R18	Association Arg1:T76 Arg2:T40	
+T41	Gene-Protein 2024 2028	EGFR
+T78	Drug-Class 2068 2077	EGFR-TKIs
+T79	Gene-Protein 2068 2072	EGFR
+T42	Gene-Protein 2133 2137	ERβ1
+#19	AnnotatorNotes T42	not found
+T80	Gene-Protein 2124 2127	ERβ
+T81	Gene-Protein 2183 2186	ERβ
+T82	Gene-Protein 2292 2295	ERβ
+T83	Biomarker 2133 2137	ERβ1
+R20	Association Arg1:T83 Arg2:T43	

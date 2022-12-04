@@ -1,0 +1,65 @@
+30081925_25377|t|RSS_IDENT_s_30081925_b_1_2
+30081925_25377|a| Conclusion and perspectives Rab27A and Rab27B act as oncogenes in cancer. Biological and clinicopathological findings have revealed that elevated Rab27A/B expression levels affect cancer progression and survival in patients. In addition to cancer biomarkers, such as microRNAs and E-cadherin [ 66 – 70 ], Rab27A and Rab27B are also potential prognostic markers and therapeutic targets. The development of Rab27A/B-specific inhibitors, which are currently not available, is needed to investigate the possible use of Rab27A/B-targeting agents to improve cancer therapy. The mechanisms that lead to elevated expression of Rab27A/B in cancer are still unclear. To date, only one report has demonstrated Rab27A gene amplification in melanoma [ 34 ]. Further studies are needed to identify the mechanisms that lead to Rab27A/B overexpression in order to develop novel methods for cancer prevention. Rab27A and Rab27B promote cancer progression by increasing exosome secretion, which enhances the formation of a tumor-supporting microenvironment. Improving our understanding of the mechanisms through which Rab27A and Rab27B regulate exosome secretion will facilitate the identification of possible therapeutic interventions to improve cancer treatment. Abbreviations BMDCs Bone marrow–derived cells BMDDCs Bone marrow-derived dendritic cells LTB4 Leukotriene B4 MIP-2 Macrophage inflammatory protein 2 MMP-2 Matrix metalloproteinase 2 Munc13–4 Mammalian uncoordinated 13–4 MVEs Multivesicular endosomes NF Nuclear factor NLR Neutrophil-to-lymphocyte ratio PARP Poly (ADP-ribose) polymerase Rab27DKO Rab27A/B double-knockout Slac2 Slp homologue lacking C2 domains protein Slp Synaptotagmin-like protein TFR Transferring receptors TGN Trans-Golgi network UVB Ultraviolet light Authors’ contributions
+30081925_25377	56	62	Rab27A	Biomarker	C066694
+30081925_25377	56	62	Rab27A	Gene-protein	HGNC:9766
+30081925_25377	67	73	Rab27B	Gene-protein	HGNC:9767
+30081925_25377	67	73	Rab27B	Biomarker	C512960
+30081925_25377	94	100	cancer	Disease	DOID:162
+30081925_25377	165	200	elevated Rab27A/B expression levels	Biomarker
+30081925_25377	174	182	Rab27A/B	Gene-protein	HGNC:9766,HGNC:9767
+30081925_25377	208	214	cancer	Disease
+30081925_25377	268	274	cancer	Disease
+30081925_25377	295	304	microRNAs	Biomarker	D035683
+30081925_25377	295	304	microRNAs	Rna-noncoding	family:476
+30081925_25377	295	350	microRNAs and E-cadherin [ 66 – 70 ], Rab27A and Rab27B	Collection
+30081925_25377	309	319	E-cadherin	Gene-protein	HGNC:1748
+30081925_25377	309	319	E-cadherin	Biomarker	C513384
+30081925_25377	333	339	Rab27A	Biomarker
+30081925_25377	333	339	Rab27A	Gene-protein
+30081925_25377	344	350	Rab27B	Biomarker
+30081925_25377	344	350	Rab27B	Gene-protein
+30081925_25377	433	441	Rab27A/B	Gene-protein
+30081925_25377	433	461	Rab27A/B-specific inhibitors	Drug-class
+30081925_25377	543	551	Rab27A/B	Gene-protein
+30081925_25377	543	568	Rab27A/B-targeting agents	Drug-class
+30081925_25377	580	586	cancer	Disease
+30081925_25377	624	655	elevated expression of Rab27A/B	Biomarker
+30081925_25377	647	655	Rab27A/B	Gene-protein
+30081925_25377	659	665	cancer	Disease
+30081925_25377	727	733	Rab27A	Gene-protein
+30081925_25377	727	752	Rab27A gene amplification	Biomarker
+30081925_25377	756	764	melanoma	Disease	DOID:1909
+30081925_25377	840	848	Rab27A/B	Gene-protein
+30081925_25377	840	863	Rab27A/B overexpression	Biomarker
+30081925_25377	902	908	cancer	Disease
+30081925_25377	921	927	Rab27A	Gene-protein
+30081925_25377	921	927	Rab27A	Biomarker
+30081925_25377	921	938	Rab27A and Rab27B	Collection
+30081925_25377	932	938	Rab27B	Gene-protein
+30081925_25377	932	938	Rab27B	Biomarker
+30081925_25377	947	953	cancer	Disease
+30081925_25377	1033	1038	tumor	Disease	DOID:162
+30081925_25377	1128	1134	Rab27A	Gene-protein
+30081925_25377	1139	1145	Rab27B	Gene-protein
+30081925_25377	1257	1263	cancer	Disease
+30081925_25377	1364	1368	LTB4	Chemical
+30081925_25377	1369	1383	Leukotriene B4	Chemical
+30081925_25377	1384	1389	MIP-2	Gene-protein	HGNC:4603
+30081925_25377	1390	1423	Macrophage inflammatory protein 2	Gene-protein	HGNC:4603
+30081925_25377	1424	1429	MMP-2	Gene-protein	HGNC:7166
+30081925_25377	1430	1456	Matrix metalloproteinase 2	Gene-protein	HGNC:7166
+30081925_25377	1457	1465	Munc13–4	Gene-protein	HGNC:23147
+30081925_25377	1466	1494	Mammalian uncoordinated 13–4	Gene-protein	HGNC:23147
+30081925_25377	1525	1527	NF	Genefamily	family:1985
+30081925_25377	1528	1542	Nuclear factor	Genefamily	family:1985
+30081925_25377	1578	1582	PARP	Genefamily	family:684
+30081925_25377	1583	1600	Poly (ADP-ribose)	Chemical
+30081925_25377	1583	1611	Poly (ADP-ribose) polymerase	Genefamily	family:684
+30081925_25377	1621	1629	Rab27A/B	Gene-protein
+30081925_25377	1646	1651	Slac2	Gene-protein
+30081925_25377	1652	1692	Slp homologue lacking C2 domains protein	Gene-protein
+30081925_25377	1693	1696	Slp	Gene-protein	HGNC:15584
+30081925_25377	1697	1723	Synaptotagmin-like protein	Gene-protein	HGNC:15584
+30081925_25377	1724	1727	TFR	Gene-protein	HGNC:11763
+30081925_25377	1728	1750	Transferring receptors	Gene-protein	HGNC:11763
+

@@ -1,0 +1,45 @@
+30755581_26550|t|RSS_IDENT_p_30755581_b_1_3_4
+30755581_26550|a| Transcriptional regulation plays a vital role in regulating autophagy. ZKSCAN3 functions in vivo as a negative regulator of autophagic flux ²⁴ . ZKSCAN3 activation result in dysfunctional autophagy regulation, reduction of autophagosome formation and impairment of autophagosome-lysosomes fusions and cargo degradation ²¹ . A30P α-synuclein demonstrates increased expression of ZKSCAN3. Corresponding changes in LC3-II are further revealed in reduced responsiveness to A30P α-synuclein overexpression. In contrast, when neurons were transduced with A30P α-synuclein AAV, there was no detected change of transcription factor EB (TFEB), a master regulator associated with autophagy and lysosome biogenesis (Fig. 2). In addition, A30P α-synuclein showed no effect on LC3 cleavage. The levels of LC3-II correlate well with the number of autophagosomes present in the cytoplasm and are hence used for autophagic flux assessment. A30P α-synuclein clearly decreased the synthesis rather than enhanced degradation of LC3-II. A30P α-synuclein overexpression elicits the decreased LC3-II and the increased p62 protein levels, suggesting the repressed autophagy. Despite the results for assaying autophagic flux are solid, applying immunoblotting to assess the effect of A30P α-synuclein on autophagy only provides the one-way evidences. Visualizing autophagosomes formation via fluorescence (e.g., mRFP-GFP-LC3 vectors) may show new insights into what is happening to the impairment resulted from A30P α-synuclein. Moreover, ZKSCAN3 shRNA directly increased the downstream protein (MAP1LC3B and GABARAPL2) expression of ZKSCAN3 at the transcriptional level and significantly antagonized the autophagy inhibition effect induced by A30P α-synuclein (Fig. 3). Next, we checked the effect of ZKSCAN3 overexpression on autophagy in midbrain dopaminergic neuron. Increased ZKSCAN3 significantly reduced levels of LC3-II and TFEB and elicited p62aggregation (Fig. 4a, b). These results suggest that A30P α-synuclein compromise autophagosome formation via ZKSCAN3.
+30755581_26550	101	108	ZKSCAN3	Gene-protein	HGNC:13853
+30755581_26550	175	182	ZKSCAN3	Gene-protein
+30755581_26550	354	358	A30P	Variant	p.Ala30Pro
+30755581_26550	359	370	α-synuclein	Gene-protein	HGNC:11138
+30755581_26550	408	415	ZKSCAN3	Gene-protein
+30755581_26550	442	448	LC3-II	Gene-protein	HGNC:13352
+30755581_26550	499	503	A30P	Variant
+30755581_26550	504	515	α-synuclein	Gene-protein
+30755581_26550	579	583	A30P	Variant
+30755581_26550	584	595	α-synuclein	Gene-protein
+30755581_26550	596	599	AAV	Microorganism
+30755581_26550	633	656	transcription factor EB	Gene-protein	HGNC:11753
+30755581_26550	658	662	TFEB	Gene-protein	HGNC:11753
+30755581_26550	757	761	A30P	Variant
+30755581_26550	762	773	α-synuclein	Gene-protein
+30755581_26550	794	797	LC3	Gene-protein	HGNC:6838
+30755581_26550	822	828	LC3-II	Gene-protein
+30755581_26550	954	958	A30P	Variant
+30755581_26550	959	970	α-synuclein	Gene-protein
+30755581_26550	1039	1045	LC3-II	Gene-protein
+30755581_26550	1047	1051	A30P	Variant
+30755581_26550	1052	1063	α-synuclein	Gene-protein
+30755581_26550	1101	1106	LC3-I	Gene-protein
+30755581_26550	1126	1129	p62	Gene-protein	HGNC:8066
+30755581_26550	1290	1294	A30P	Variant
+30755581_26550	1295	1306	α-synuclein	Gene-protein
+30755581_26550	1427	1430	LC3	Gene-protein
+30755581_26550	1517	1521	A30P	Variant
+30755581_26550	1522	1533	α-synuclein	Gene-protein
+30755581_26550	1545	1552	ZKSCAN3	Gene-protein
+30755581_26550	1602	1610	MAP1LC3B	Gene-protein	HGNC:13352
+30755581_26550	1615	1624	GABARAPL2	Gene-protein	HGNC:13291
+30755581_26550	1640	1647	ZKSCAN3	Gene-protein
+30755581_26550	1750	1754	A30P	Variant
+30755581_26550	1755	1766	α-synuclein	Gene-protein
+30755581_26550	1808	1815	ZKSCAN3	Gene-protein
+30755581_26550	1887	1894	ZKSCAN3	Gene-protein
+30755581_26550	1927	1933	LC3-II	Gene-protein
+30755581_26550	1938	1942	TFEB	Gene-protein
+30755581_26550	2012	2016	A30P	Variant
+30755581_26550	2017	2028	α-synuclein	Gene-protein
+30755581_26550	2068	2075	ZKSCAN3	Gene-protein
+

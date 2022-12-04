@@ -1,0 +1,54 @@
+30172984_2594|t|RSS_IDENT_p_30172984_b_1_1_4
+30172984_2594|a| Elevated plasma hcy, or hyperhomocysteinemia (hhcy), is categorized by range as moderate (15–30 μM), intermediate (30–100 μM), and severe (above 100 μM). The most common form of severe hhcy is that by CBS deficiency. Patients with CBS deficiency suffer from numerous clinical complications including not only vascular disease, ectopia lentis, osteoporosis, fatty liver but also cognitive dysfunctions such as intellectual disabilities, seizures and psychiatric disorders including personality disorder, anxiety, depression, obsessive-compulsive behavior, and psychotic episodes [1] , [2] . Hhcy is also a risk factor for neurodegenerative diseases such as Alzheimer's disease (AD), even if hhcy is moderate [3] . Moreover, elevated hcy level has been associated with neuropsychiatric disorders such as schizophrenia, depression, bipolar disorder, and autism [4] , [5] , [6] , [7] . We showed that hhcys is accompanied by alterations in signaling pathways initiated by receptor tyrosine kinases (RTK), the ERK and Phosphatidylinositol 3-kinase (PI3K)/Akt pathways, and brain-derived neurotrophic factor/TrkB signaling pathway, in brain of CBS deficient mice, a murine model of hhcy [8] , [9] , [10] , [11] , [12] . 
+30172984_2594	30	49	Elevated plasma hcy	Biomarker
+30172984_2594	46	49	hcy	Chemical
+30172984_2594	54	74	hyperhomocysteinemia	Disease	DOID:9279
+30172984_2594	76	80	hhcy	Disease	DOID:9279
+30172984_2594	208	219	severe hhcy	Disease	DOID:9279
+30172984_2594	231	234	CBS	Gene-protein	HGNC:1550
+30172984_2594	231	245	CBS deficiency	Biomarker	D006712
+30172984_2594	261	264	CBS	Gene-protein
+30172984_2594	261	275	CBS deficiency	Disease	DOID:9263
+30172984_2594	339	355	vascular disease	Biomarker	D014652
+30172984_2594	339	607	vascular disease, ectopia lentis, osteoporosis, fatty liver but also cognitive dysfunctions such as intellectual disabilities, seizures and psychiatric disorders including personality disorder, anxiety, depression, obsessive-compulsive behavior, and psychotic episodes	Collection
+30172984_2594	357	371	ectopia lentis	Biomarker	 D004479
+30172984_2594	373	385	osteoporosis	Biomarker	D010024
+30172984_2594	387	398	fatty liver	Biomarker	D005234
+30172984_2594	408	430	cognitive dysfunctions	Biomarker	D060825
+30172984_2594	439	464	intellectual disabilities	Biomarker	D008607
+30172984_2594	466	474	seizures	Biomarker	D012640
+30172984_2594	479	500	psychiatric disorders	Biomarker	D001523
+30172984_2594	511	531	personality disorder	Biomarker	D010554
+30172984_2594	533	540	anxiety	Biomarker	D001007
+30172984_2594	542	552	depression	Biomarker	D003863
+30172984_2594	554	583	obsessive-compulsive behavior	Biomarker	D009771
+30172984_2594	589	607	psychotic episodes	Biomarker	D001523
+30172984_2594	620	624	Hhcy	Biomarker	D020138
+30172984_2594	651	677	neurodegenerative diseases	Disease	DOID:1289
+30172984_2594	651	710	neurodegenerative diseases such as Alzheimer's disease (AD)	Collection
+30172984_2594	686	705	Alzheimer's disease	Disease	DOID:10652
+30172984_2594	707	709	AD	Disease	DOID:0110035
+30172984_2594	753	771	elevated hcy level	Biomarker
+30172984_2594	762	765	hcy	Chemical
+30172984_2594	797	823	neuropsychiatric disorders	Disease	not found
+30172984_2594	797	887	neuropsychiatric disorders such as schizophrenia, depression, bipolar disorder, and autism	Collection
+30172984_2594	832	845	schizophrenia	Disease	DOID:5419
+30172984_2594	847	857	depression	Disease
+30172984_2594	859	875	bipolar disorder	Disease	DOID:3312
+30172984_2594	881	887	autism	Disease	DOID:12849
+30172984_2594	927	932	hhcys	Disease	DOID:9279
+30172984_2594	951	1154	alterations in signaling pathways initiated by receptor tyrosine kinases (RTK), the ERK and Phosphatidylinositol 3-kinase (PI3K)/Akt pathways, and brain-derived neurotrophic factor/TrkB signaling pathway	Biomarker
+30172984_2594	998	1023	receptor tyrosine kinases	Genefamily
+30172984_2594	1007	1015	tyrosine	Chemical
+30172984_2594	1025	1028	RTK	Genefamily
+30172984_2594	1035	1038	ERK	Genefamily
+30172984_2594	1043	1063	Phosphatidylinositol	Chemical
+30172984_2594	1043	1072	Phosphatidylinositol 3-kinase	Genefamily
+30172984_2594	1074	1078	PI3K	Genefamily
+30172984_2594	1080	1083	Akt	Genefamily
+30172984_2594	1098	1131	brain-derived neurotrophic factor	Gene-protein
+30172984_2594	1132	1136	TrkB	Gene-protein
+30172984_2594	1168	1171	CBS	Gene-protein
+30172984_2594	1168	1181	CBS deficient	Biomarker
+30172984_2594	1206	1210	hhcy	Disease
+

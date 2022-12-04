@@ -1,0 +1,57 @@
+29850543_3798|t|RSS_IDENT_p_29850543_b_1_1_4
+29850543_3798|a| The nucleotide-binding domain-like receptor protein 3 (NLRP3) inflammasome is the most well-understood inflammasome and plays an important role in the process of inflammation. The NLRP3 inflammasome is composed of NLRP3, the adaptor protein, apoptosis-associated speck-like protein (ASC), and proinflammatory caspase-1. Upon activation of NLRP3 by pathogen-associated molecular patterns (PAMPs) and damage-associated molecular patterns (DPMPs), NLRP3 assembles and leads to the excretion of mature proinflammatory cytokines, such as IL-1β and IL-18 [ 9 ]. Therefore, the NLRP3 inflammasome plays an important role in the inflammatory process of atherosclerosis. The NLRP3 gene was identified as the genetic locus for three dominantly inherited periodic fevers: familial cold autoinflammatory syndrome (FCAS), Muckle-Wells syndrome [ 10 ], and chronic infantile neurological cutaneous articular syndrome/neonatal onset multisystem inflammatory disease (CINCA/NOMID) [ 11 ]. These three diseases are collectively known as cryopyrin-associated periodic syndrome (CAPS), suggesting that the disease-associated variants of NLRP3 probably encode a hyperactive version of NLRP3 which promotes excessive production of IL-1β [ 12 ]. NLRP3 gene mutations are also observed to be associated with rheumatoid arthritis [ 13 ], Crohn's disease [ 14 ], and abdominal aortic aneurysms [ 15 ]. One study from China suggested that genetic polymorphisms in NLRP3 may influence the risk of ischemic stroke in the Chinese population [ 16 ]. To the best of our knowledge, there are limited studies regarding the relationship between NLRP3 polymorphisms and susceptibility for LAA stroke and MES in the Chinese Han population. Therefore, we performed transcranial Doppler emboli detection and genotyped the NLRP3 gene polymorphisms to investigate whether NLRP3 gene polymorphisms are associated with LAA stroke and MES. 
+29850543_3798	34	44	nucleotide	Chemical
+29850543_3798	34	83	nucleotide-binding domain-like receptor protein 3	Gene-protein	HGNC:16400
+29850543_3798	34	104	nucleotide-binding domain-like receptor protein 3 (NLRP3) inflammasome	Biomarker
+29850543_3798	85	90	NLRP3	Gene-protein	HGNC:16400
+29850543_3798	192	204	inflammation	Disease	D007249
+29850543_3798	210	215	NLRP3	Gene-protein
+29850543_3798	244	249	NLRP3	Gene-protein
+29850543_3798	272	303	apoptosis-associated speck-like	Gene-protein	HGNC:16608
+29850543_3798	313	316	ASC	Gene-protein	HGNC:16608
+29850543_3798	339	348	caspase-1	Gene-protein	HGNC:1499
+29850543_3798	369	374	NLRP3	Gene-protein
+29850543_3798	475	480	NLRP3	Gene-protein
+29850543_3798	528	553	proinflammatory cytokines	Genefamily	not found
+29850543_3798	563	568	IL-1β	Gene-protein	HGNC:5992
+29850543_3798	573	578	IL-18	Gene-protein	HGNC:5986
+29850543_3798	601	606	NLRP3	Gene-protein
+29850543_3798	601	619	NLRP3 inflammasome	Biomarker	C453881
+29850543_3798	675	690	atherosclerosis	Disease	DOID:1936
+29850543_3798	696	701	NLRP3	Gene-protein
+29850543_3798	696	742	NLRP3 gene was identified as the genetic locus	Biomarker
+29850543_3798	753	789	dominantly inherited periodic fevers	Disease	DOID:0090018
+29850543_3798	774	994	periodic fevers: familial cold autoinflammatory syndrome (FCAS), Muckle-Wells syndrome [ 10 ], and chronic infantile neurological cutaneous articular syndrome/neonatal onset multisystem inflammatory disease (CINCA/NOMID)	Collection
+29850543_3798	791	830	familial cold autoinflammatory syndrome	Disease	DOID:0090061
+29850543_3798	832	836	FCAS	Disease	DOID:0090061
+29850543_3798	839	860	Muckle-Wells syndrome	Disease	DOID:0050854
+29850543_3798	873	932	chronic infantile neurological cutaneous articular syndrome	Disease	DOID:0090029
+29850543_3798	933	980	neonatal onset multisystem inflammatory disease	Disease	DOID:0090029
+29850543_3798	982	987	CINCA	Disease	DOID:0090029
+29850543_3798	988	993	NOMID	Disease	DOID:0090029
+29850543_3798	1050	1059	cryopyrin	Chemical
+29850543_3798	1050	1088	cryopyrin-associated periodic syndrome	Disease	DOID:0090029
+29850543_3798	1090	1094	CAPS	Disease	DOID:0090029
+29850543_3798	1136	1153	variants of NLRP3	Biomarker
+29850543_3798	1148	1153	NLRP3	Gene-protein
+29850543_3798	1172	1200	hyperactive version of NLRP3	Biomarker
+29850543_3798	1195	1200	NLRP3	Gene-protein
+29850543_3798	1240	1245	IL-1β	Gene-protein
+29850543_3798	1254	1259	NLRP3	Gene-protein
+29850543_3798	1254	1274	NLRP3 gene mutations	Biomarker
+29850543_3798	1315	1335	rheumatoid arthritis	Disease	DOID:7148
+29850543_3798	1315	1398	rheumatoid arthritis [ 13 ], Crohn's disease [ 14 ], and abdominal aortic aneurysms	Collection
+29850543_3798	1344	1359	Crohn's disease	Disease	DOID:8778
+29850543_3798	1372	1398	abdominal aortic aneurysms	Disease	DOID:7693
+29850543_3798	1443	1473	genetic polymorphisms in NLRP3	Biomarker
+29850543_3798	1468	1473	NLRP3	Gene-protein
+29850543_3798	1500	1515	ischemic stroke	Disease	D000083242
+29850543_3798	1641	1646	NLRP3	Gene-protein
+29850543_3798	1641	1660	NLRP3 polymorphisms	Biomarker
+29850543_3798	1684	1694	LAA stroke	Disease	not found
+29850543_3798	1814	1819	NLRP3	Gene-protein
+29850543_3798	1814	1838	NLRP3 gene polymorphisms	Biomarker
+29850543_3798	1862	1867	NLRP3	Gene-protein
+29850543_3798	1862	1886	NLRP3 gene polymorphisms	Biomarker
+29850543_3798	1907	1917	LAA stroke	Disease
+

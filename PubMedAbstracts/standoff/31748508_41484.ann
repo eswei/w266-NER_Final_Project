@@ -1,0 +1,62 @@
+T1	Disease 173 185	colon cancer
+#1	AnnotatorNotes T1	DOID:219
+T13	Disease 588 592	TNBC
+T17	Disease 847 851	TNBC
+T19	Disease 1033 1037	TNBC
+T2	Disease 191 203	renal cancer
+#5	AnnotatorNotes T2	DOID:263
+T23	Disease 1270 1274	TNBC
+T25	Disease 1383 1387	TNBC
+T3	Disease 213 230	esophageal cancer
+#8	AnnotatorNotes T3	DOID:5041
+T4	Disease 245 252	cancers
+#9	AnnotatorNotes T4	DOID:162
+T6	Disease 313 325	colon cancer
+T8	Disease 381 410	triple-negative breast cancer
+#11	AnnotatorNotes T8	DOID:0060081
+T5	RNA-Noncoding 70 77	miR-454
+#2	AnnotatorNotes T5	HGNC:33137
+T7	Gene-Protein 89 94	VGLL4
+#3	AnnotatorNotes T7	HGNC:28966
+T10	RNA-Noncoding 134 141	miR-454
+T11	Biomarker 134 169	miR-454 is differentially expressed
+T12	Collection 173 230	colon cancer ²⁶ , renal cancer ²⁷ , and esophageal cancer
+R1	Association Arg1:T11 Arg2:T12	
+T14	Biomarker 254 279	overexpression of miR-454
+T15	RNA-Noncoding 272 279	miR-454
+R2	Association Arg1:T14 Arg2:T6	
+T16	Biomarker 337 363	High expression of miR-454
+T18	RNA-Noncoding 356 363	miR-454
+R3	Prognostic-Poor Arg1:T16 Arg2:T8	
+T9	Biomarker 493 518	low expression of miR-454
+T20	RNA-Noncoding 511 518	miR-454
+T21	Biomarker 531 557	high expression of miR-454
+T22	RNA-Noncoding 550 557	miR-454
+R4	Prognostic-Poor Arg1:T21 Arg2:T13	
+#4	AnnotatorNotes T13	DOID:0060081
+T24	Biomarker 625 650	overexpression of miR-454
+T26	RNA-Noncoding 643 650	miR-454
+T27	Biomarker 693 729	downregulation of miR-454 expression
+T28	RNA-Noncoding 711 718	miR-454
+T29	RNA-Noncoding 810 817	miR-454
+T30	Biomarker 810 817	miR-454
+#6	AnnotatorNotes T30	C583712
+R5	Association Arg1:T30 Arg2:T17	
+T31	RNA-Noncoding 893 900	miR-454
+T32	Gene-Protein 936 941	VGLL4
+T33	Biomarker 961 983	miR-454 overexpression
+T34	RNA-Noncoding 961 968	miR-454
+T35	Gene-Protein 1016 1021	VGLL4
+T36	Gene-Protein 1055 1060	VGLL4
+T37	RNA-Noncoding 1105 1112	miR-454
+T38	RNA-Noncoding 1120 1127	miR-454
+T39	Gene-Protein 1145 1150	VGLL4
+T40	Biomarker 1191 1217	High expression of miR-454
+T41	RNA-Noncoding 1210 1217	miR-454
+T42	Biomarker 1246 1266	low VGLL4 expression
+T43	Gene-Protein 1250 1255	VGLL4
+T44	RNA-Noncoding 1288 1295	miR-454
+T45	Gene-Protein 1296 1301	VGLL4
+T48	Collection 1288 1301	miR-454-VGLL4
+T46	Biomarker 1288 1306	miR-454-VGLL4 axis
+R6	Association Arg1:T46 Arg2:T25	

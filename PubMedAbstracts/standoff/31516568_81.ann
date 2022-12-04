@@ -1,0 +1,99 @@
+T1	Biomarker 28 41	Breast cancer
+#1	AnnotatorNotes T1	D001943
+T10	Disease 956 969	breast cancer
+T11	Biomarker 979 1043	high mRNA expression levels of MAGEA5, MAGEA8, MAGEB4 and MAGEB6
+T12	Collection 1190 1223	MAGEA5, MAGEA8, MAGEB4 and MAGEB6
+T14	Disease 1297 1310	breast cancer
+T15	Collection 1375 1400	MAGED2, MAGED3 and MAGEF1
+T16	Disease 1448 1461	breast cancer
+T17	Biomarker 1478 1505	high MAGEC3 mRNA expression
+T18	Disease 1539 1572	lymph node-positive breast cancer
+#6	AnnotatorNotes T18	not found
+T19	Disease 1599 1632	lymph node-negative breast cancer
+#7	AnnotatorNotes T19	not found
+T22	Disease 1717 1730	breast cancer
+T23	Collection 1732 1757	MAGEE2, MAGEH1 and MAGEL2
+T24	Disease 1930 1943	breast cancer
+T25	Disease 2039 2052	breast cancer
+T4	Disease 293 298	tumor
+#15	AnnotatorNotes T4	DOID:162
+T5	Disease 548 561	breast cancer
+#16	AnnotatorNotes T5	DOID:1612
+T7	Disease 663 676	breast cancer
+T9	Disease 794 807	breast cancer
+T2	Disease 73 100	cancer-associated mortality
+T26	GeneFamily 256 260	MAGE
+#8	AnnotatorNotes T26	family:1136
+T27	GeneFamily 227 254	melanoma-associated antigen
+#19	AnnotatorNotes T27	family:1136
+T3	GeneFamily 515 519	MAGE
+T28	GeneFamily 608 612	MAGE
+T29	GeneFamily 742 746	MAGE
+T30	GeneFamily 1888 1892	MAGE
+T31	GeneFamily 1994 1998	MAGE
+T32	Gene-Protein 1010 1016	MAGEA5
+#14	AnnotatorNotes T32	HGNC:6803
+T33	Gene-Protein 1018 1024	MAGEA8
+#20	AnnotatorNotes T33	HGNC:6806
+T34	Gene-Protein 1026 1032	MAGEB4
+#21	AnnotatorNotes T34	HGNC:6811
+T35	Gene-Protein 1037 1043	MAGEB6
+#22	AnnotatorNotes T35	HGNC:23796
+T36	Gene-Protein 1133 1140	MAGEB18
+#23	AnnotatorNotes T36	HGNC:28515
+T37	Gene-Protein 1145 1151	MAGED4
+#24	AnnotatorNotes T37	HGNC:23793
+T38	Gene-Protein 1190 1196	MAGEA5
+T39	Gene-Protein 1198 1204	MAGEA8
+T40	Gene-Protein 1206 1212	MAGEB4
+T41	Gene-Protein 1217 1223	MAGEB6
+T42	Gene-Protein 1320 1327	MAGEB18
+T43	Gene-Protein 1332 1338	MAGED4
+T44	Gene-Protein 1375 1381	MAGED2
+#25	AnnotatorNotes T44	HGNC:16353
+T45	Gene-Protein 1383 1389	MAGED3
+#26	AnnotatorNotes T45	HGNC:12326
+T46	Gene-Protein 1394 1400	MAGEF1
+#27	AnnotatorNotes T46	HGNC:29639
+T20	Gene-Protein 1751 1757	MAGEL2
+#5	AnnotatorNotes T20	HGNC:6814
+T21	Gene-Protein 1740 1746	MAGEH1
+#9	AnnotatorNotes T21	HGNC:24092
+T47	Gene-Protein 1732 1738	MAGEE2
+#10	AnnotatorNotes T47	HGNC:24935
+R2	Prognostic-Good Arg1:T11 Arg2:T10	
+T6	Biomarker 1102 1151	high mRNA expression levels of MAGEB18 and MAGED4
+T8	Biomarker 1320 1327	MAGEB18
+T13	Biomarker 1332 1338	MAGED4
+#2	AnnotatorNotes T13	C430404
+T48	Collection 1320 1338	MAGEB18 and MAGED4
+R3	Association Arg1:T48 Arg2:T14	
+T49	Biomarker 1394 1400	MAGEF1
+#3	AnnotatorNotes T49	C429138
+T50	Biomarker 1383 1389	MAGED3
+#4	AnnotatorNotes T50	C093649
+T51	Biomarker 1375 1381	MAGED2
+#11	AnnotatorNotes T51	C451414
+R4	Association Arg1:T15 Arg2:T16	
+R5	Prognostic-Poor Arg1:T17 Arg2:T18	
+R6	Prognostic-Good Arg1:T17 Arg2:T19	
+T52	Gene-Protein 1483 1489	MAGEC3
+#12	AnnotatorNotes T52	HGNC:23798
+T53	Gene-Protein 1661 1665	TP53
+#13	AnnotatorNotes T53	HGNC:11998
+R7	Association Arg1:T23 Arg2:T22	
+T54	Biomarker 1732 1738	MAGEE2
+T55	Biomarker 1740 1746	MAGEH1
+#17	AnnotatorNotes T55	C076744
+T56	Biomarker 1751 1757	MAGEL2
+#18	AnnotatorNotes T56	C510822
+T57	Drug-Class 1994 2017	MAGE-targeting reagents
+R8	Response Arg1:T57 Arg2:T25	
+T58	Biomarker 1190 1196	MAGEA5
+T59	Biomarker 1198 1204	MAGEA8
+T60	Biomarker 1206 1212	MAGEB4
+#28	AnnotatorNotes T60	C000626007
+T61	Biomarker 1217 1223	MAGEB6
+R9	Association Arg1:T12 Arg2:T14	
+#29	AnnotatorNotes T2	not found
+R1	Risk-Factor Arg1:T1 Arg2:T2	

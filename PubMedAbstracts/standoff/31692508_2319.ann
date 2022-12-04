@@ -1,0 +1,73 @@
+T1	Biomarker 67 87	long non-coding RNAs
+T10	Disease 705 716	lung cancer
+#1	AnnotatorNotes T10	DOID:1324
+T11	Biomarker 732 741	LINC00844
+T12	Disease 783 798	prostate cancer
+#2	AnnotatorNotes T12	DOID:10283
+T13	Disease 868 894	non-small cell lung cancer
+#3	AnnotatorNotes T13	DOID:3908
+T14	Disease 926 932	cancer
+T15	Disease 967 970	HCC
+T16	Biomarker 972 1056	LncRNA FLVCR-AS1, 8 HNF1A-AS1, 9 HOXA11-AS, 10 and lncRNA OGFRP1 11 were upregulated
+T17	RNA-Noncoding 1064 1074	XLOC006926
+T18	Biomarker 1064 1127	XLOC006926, 12 CASC2, 13 and lncRNA NKILA 14 were downregulated
+T19	Disease 1131 1134	HCC
+T2	Disease 113 119	cancer
+#8	AnnotatorNotes T2	DOID:162
+T20	Disease 1186 1189	HCC
+T3	Chemical 207 218	nucleotides
+T5	Disease 477 484	cancers
+#11	AnnotatorNotes T5	DOID:162
+T6	Biomarker 499 527	lncRNA p10247 overexpression
+T7	Disease 561 574	breast cancer
+#12	AnnotatorNotes T7	DOID:1612
+T8	Disease 617 634	colorectal cancer
+#13	AnnotatorNotes T8	DOID:9256
+T9	Biomarker 677 695	LncRNA MIR4435-2HG
+R1	Association Arg1:T1 Arg2:T2	
+#5	AnnotatorNotes T1	D062085
+T21	RNA-Noncoding 67 87	long non-coding RNAs
+#6	AnnotatorNotes T21	family:788
+T4	RNA-Noncoding 506 512	p10247
+#7	AnnotatorNotes T4	not found
+R2	Association Arg1:T6 Arg2:T7	
+T22	Drug 578 605	Downregulated lncRNA-HOTAIR
+#9	AnnotatorNotes T22	not found
+T23	RNA-Noncoding 599 605	HOTAIR
+#10	AnnotatorNotes T23	HGNC:33510
+R3	Response Arg1:T22 Arg2:T8	
+T24	RNA-Noncoding 684 695	MIR4435-2HG
+#14	AnnotatorNotes T24	HGNC:35163
+R4	Association Arg1:T9 Arg2:T10	
+#15	AnnotatorNotes T9	C000632564
+T25	RNA-Noncoding 732 741	LINC00844
+#16	AnnotatorNotes T25	HGNC:45031
+R5	Association Arg1:T11 Arg2:T12	
+T26	RNA-Noncoding 809 814	TBILA
+#17	AnnotatorNotes T26	HGNC:53943
+T27	Biomarker 802 814	LncRNA TBILA
+R6	Association Arg1:T27 Arg2:T13	
+T28	Biomarker 940 947	lncRNAs
+T29	RNA-Noncoding 940 947	lncRNAs
+#4	AnnotatorNotes T29	family:788
+#18	AnnotatorNotes T28	D062085
+R7	Association Arg1:T28 Arg2:T15	
+#19	AnnotatorNotes T15	DOID:684
+T30	RNA-Noncoding 979 988	FLVCR-AS1
+#20	AnnotatorNotes T30	not found
+T31	RNA-Noncoding 992 1001	HNF1A-AS1
+#21	AnnotatorNotes T31	HGNC:26785
+T32	RNA-Noncoding 1005 1014	HOXA11-AS
+#22	AnnotatorNotes T32	HGNC:24957
+T33	RNA-Noncoding 1030 1036	OGFRP1
+#23	AnnotatorNotes T33	HGNC:50511
+#24	AnnotatorNotes T17	not found
+T34	RNA-Noncoding 1079 1084	CASC2
+#25	AnnotatorNotes T34	HGNC:22933
+T35	RNA-Noncoding 1100 1105	NKILA
+#26	AnnotatorNotes T35	HGNC:51599
+T36	Collection 972 1127	LncRNA FLVCR-AS1, 8 HNF1A-AS1, 9 HOXA11-AS, 10 and lncRNA OGFRP1 11 were upregulated, while XLOC006926, 12 CASC2, 13 and lncRNA NKILA 14 were downregulated
+R8	Association Arg1:T36 Arg2:T19	
+T37	RNA-Noncoding 1166 1173	lncRNAs
+T38	Biomarker 1166 1173	lncRNAs
+R9	Association Arg1:T38 Arg2:T20	

@@ -1,0 +1,36 @@
+31258655_16952|t|RSS_IDENT_p_31258655_b_1_4_3
+31258655_16952|a| Previous studies have demonstrated that miRNAs serve as tumor suppressors in various types of cancer ( 27 – 30 ). A previous study revealed that miR-141 suppressed TC cell growth and metastasis by suppressing insulin receptor substrate 2, indicating that miR-141 may serve as a potential therapeutic target for the treatment of patients with TC ( 31 ). Furthermore, miR-497 is also considered to be a TC tumor suppressor that acts by repressing brain derived neurotrophic factor ( 32 ). A previous study also indicated that miR-7 may function as a tumor suppressor by directly targeting serine/threonine protein kinase 1, potentially serving as a novel therapeutic target for TC ( 30 ). Therefore, miRNAs have been demonstrated to be associated with tumor development and progression, highlighting their potential use as biomarkers for the diagnosis and prognosis of PTC. However, the prognostic relevance and functions of miR-30a in PTC remain largely unclear. The current study assessed the expression of miR-30a and their role in PTC cells. The results indicated that miR-30a was downregulated in PTC cell lines compared with normal cell lines. Furthermore, the ectopic expression of miR-30a inhibited PTC cell proliferation, migration and invasion.
+31258655_16952	124	130	cancer	Disease	DOID:162
+31258655_16952	175	182	miR-141	Rna-noncoding	HGNC:31528
+31258655_16952	175	182	miR-141	Drug	C533895
+31258655_16952	194	196	TC	Disease	DOID:1781
+31258655_16952	239	267	insulin receptor substrate 2	Gene-protein	HGNC:6126
+31258655_16952	285	292	miR-141	Rna-noncoding
+31258655_16952	285	292	miR-141	Biomarker	C533895
+31258655_16952	372	374	TC	Disease
+31258655_16952	396	403	miR-497	Rna-noncoding	HGNC:32088
+31258655_16952	396	403	miR-497	Biomarker	C559640
+31258655_16952	431	433	TC	Disease
+31258655_16952	475	508	brain derived neurotrophic factor	Gene-protein	HGNC:1033
+31258655_16952	554	559	miR-7	Rna-noncoding	family:1736
+31258655_16952	554	559	miR-7	Biomarker	C549242
+31258655_16952	617	623	serine	Chemical
+31258655_16952	617	650	serine/threonine protein kinase 1	Gene-protein	HGNC:18994
+31258655_16952	624	633	threonine	Chemical
+31258655_16952	706	708	TC	Disease
+31258655_16952	728	734	miRNAs	Rna-noncoding	family:476
+31258655_16952	728	734	miRNAs	Biomarker	D035683
+31258655_16952	780	785	tumor	Disease	DOID:162
+31258655_16952	897	900	PTC	Disease	DOID:3969
+31258655_16952	953	960	miR-30a	Rna-noncoding	HGNC:31624
+31258655_16952	964	967	PTC	Disease
+31258655_16952	1037	1044	miR-30a	Rna-noncoding
+31258655_16952	1037	1044	miR-30a	Biomarker	C546086
+31258655_16952	1063	1066	PTC	Disease
+31258655_16952	1101	1108	miR-30a	Rna-noncoding
+31258655_16952	1101	1126	miR-30a was downregulated	Biomarker
+31258655_16952	1130	1133	PTC	Disease
+31258655_16952	1195	1224	ectopic expression of miR-30a	Drug	not found
+31258655_16952	1217	1224	miR-30a	Gene-protein
+31258655_16952	1235	1238	PTC	Disease
+

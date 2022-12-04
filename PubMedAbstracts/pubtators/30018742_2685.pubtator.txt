@@ -1,0 +1,52 @@
+30018742_2685|t|RSS_IDENT_p_30018742_b_1_1_3
+30018742_2685|a| Clinically, breast cancers are categorised into three groups including oestrogen receptor positive (ER+), HER2 amplified, and Triple Negatives (TNBC, lacking expression of ER, progesterone receptor (PR) and HER2) [ 7 ]. Around 25-30% of breast cancers harbour a somatic mutation in the TP53 gene [ 8 ]. Prevalence of TP53 mutations is subtype dependent and are more frequent in TNBCs compared to other subtypes [ 7 , 9 ]. In general, breast cancers with TP53 mutations are known to have a poor clinical outcome [ 7 , 9 ]. In addition to mutations, expression of TP53 isoforms and other family members have been associated with poor patient outcome. Examples include: (1) elevated levels of Δ40TP53 RNA in TNBCs [ 10 ]; (2) elevated levels of Δ133TP53 RNA in other breast cancers [ 11 ]; and (3) elevated ΔNTP63 RNA levels in high risk breast cancers [ 12 ]. Additionally it has been shown that Δ133p53 promotes invasion of breast cancer cell lines [ 11 ] and ΔNp63 promotes a cancer stem-like cell in TNBCs [ 12 ]. Conversely TAp63 suppresses metastasis in breast cancer [ 13 ] and loss of TAp73 or upregulation of ΔNp73 has been associated with increased angiogenesis in breast cancer [ 14 ]. This complex transcriptional pattern and potential interplay among TP53 family members makes translating TP53 mutation status into clinical utility difficult.
+30018742_2685	42	56	breast cancers	Disease	DOID:1612
+30018742_2685	101	110	oestrogen	Chemical
+30018742_2685	101	119	oestrogen receptor	Gene-protein	HGNC:3467
+30018742_2685	101	128	oestrogen receptor positive	Biomarker
+30018742_2685	101	172	oestrogen receptor positive (ER+), HER2 amplified, and Triple Negatives	Collection
+30018742_2685	129	132	(ER	Gene-protein	HGNC:3467
+30018742_2685	136	140	HER2	Gene-protein	HGNC:3430
+30018742_2685	136	150	HER2 amplified	Biomarker
+30018742_2685	156	172	Triple Negatives	Biomarker
+30018742_2685	174	178	TNBC	Disease	DOID:0060081
+30018742_2685	180	241	lacking expression of ER, progesterone receptor (PR) and HER2	Biomarker
+30018742_2685	202	204	ER	Gene-protein
+30018742_2685	206	218	progesterone	Chemical
+30018742_2685	206	227	progesterone receptor	Gene-protein	HGNC:8910
+30018742_2685	229	231	PR	Gene-protein	HGNC:8910
+30018742_2685	237	241	HER2	Gene-protein
+30018742_2685	267	281	breast cancers	Disease
+30018742_2685	292	325	somatic mutation in the TP53 gene	Biomarker
+30018742_2685	316	320	TP53	Gene-protein	HGNC:11998
+30018742_2685	347	351	TP53	Gene-protein
+30018742_2685	347	361	TP53 mutations	Biomarker
+30018742_2685	408	413	TNBCs	Disease	DOID:0060081
+30018742_2685	464	478	breast cancers	Disease
+30018742_2685	484	488	TP53	Gene-protein
+30018742_2685	484	498	TP53 mutations	Biomarker
+30018742_2685	578	630	expression of TP53 isoforms and other family members	Biomarker
+30018742_2685	592	596	TP53	Gene-protein
+30018742_2685	701	731	elevated levels of Δ40TP53 RNA	Biomarker
+30018742_2685	735	740	TNBCs	Disease
+30018742_2685	753	784	elevated levels of Δ133TP53 RNA	Biomarker
+30018742_2685	794	808	breast cancers	Disease
+30018742_2685	825	851	elevated ΔNTP63 RNA levels	Biomarker
+30018742_2685	865	879	breast cancers	Disease
+30018742_2685	924	931	Δ133p53	Biomarker
+30018742_2685	953	966	breast cancer	Disease	DOID:1612
+30018742_2685	989	994	ΔNp63	Biomarker
+30018742_2685	1006	1012	cancer	Disease	DOID:162
+30018742_2685	1031	1036	TNBCs	Disease
+30018742_2685	1056	1061	TAp63	Drug	not found
+30018742_2685	1056	1061	TAp63	Gene-protein	HGNC:15979
+30018742_2685	1087	1100	breast cancer	Disease
+30018742_2685	1112	1125	loss of TAp73	Biomarker
+30018742_2685	1112	1150	loss of TAp73 or upregulation of ΔNp73	Collection
+30018742_2685	1120	1125	TAp73	Gene-protein	HGNC:12003
+30018742_2685	1129	1150	upregulation of ΔNp73	Biomarker
+30018742_2685	1202	1215	breast cancer	Disease
+30018742_2685	1291	1295	TP53	Gene-protein
+30018742_2685	1329	1333	TP53	Gene-protein
+30018742_2685	1329	1342	TP53 mutation	Biomarker
+

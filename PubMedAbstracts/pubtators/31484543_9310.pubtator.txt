@@ -1,0 +1,57 @@
+31484543_9310|t|RSS_IDENT_s_31484543_b_1_2_4
+31484543_9310|a| Antibodies The sources of purchased antibodies were as follows: KIT (M− ¹⁴), cathepsin D (H− ⁷⁵), STAT5 (C-17), ERK2 (K-23), ARF1 (ARFS 3F1), GBF1 (25), PTP1B (D-4), SHP-1 (D-11), and SHP-2 (B-1) from Santa Cruz Biotechnology (Dallas, TX); KIT [pY703] (D12E12), KIT (D13A2), LAMP1 (lysosome-associated membrane protein 1, D4O1S), AKT (40D4), AKT [pT308] (C31E5E), STAT5 (D2O6Y), STAT5[pY694] (D47E7), ERK1/2 (137F5) and ERK [pT202/pY204] (E10) from Cell Signaling Technology (Danvers, MA); PDI (RL90), TFR (transferrin receptor, ab84036), giantin (ab24586), and GM130 (EP892Y) from Abcam (Cambridge, UK); TFR (H68.4) from Thermo Fisher Scientific (Rockford, IL); calnexin (ADI-SPA-860) from Enzo (Farmingdale, NY); GM130 (clone 35) from BD Transduction Laboratories (Franklin Lakes, NJ); LAMP1 (L1418) from Sigma (St. Louis, MO) and KIT (104D2) from Biolegend (San Diego, CA). HRP-labeled secondary antibodies were purchased from the Jackson Laboratory (Bar Harbor, MA). Alexa Fluor-conjugated secondary antibodies were obtained from Molecular Probes (Eugene, OR).
+31484543_9310	30	40	Antibodies	Gene-protein	not found
+31484543_9310	66	76	antibodies	Gene-protein	not found
+31484543_9310	94	97	KIT	Gene-protein	HGNC:6342
+31484543_9310	107	118	cathepsin D	Gene-protein	HGNC:2529
+31484543_9310	128	133	STAT5	Gene-protein	HGNC:11366
+31484543_9310	135	139	C-17	Gene-protein	not found
+31484543_9310	142	146	ERK2	Gene-protein	HGNC:6871
+31484543_9310	148	152	K-23	Gene-protein	not found
+31484543_9310	155	159	ARF1	Gene-protein	HGNC:652
+31484543_9310	161	169	ARFS 3F1	Gene-protein	not found
+31484543_9310	172	176	GBF1	Gene-protein	HGNC:4181
+31484543_9310	183	188	PTP1B	Gene-protein	HGNC:9642
+31484543_9310	190	193	D-4	Gene-protein	not found
+31484543_9310	196	201	SHP-1	Gene-protein	HGNC:9658
+31484543_9310	203	207	D-11	Gene-protein	not found
+31484543_9310	214	219	SHP-2	Gene-protein
+31484543_9310	221	224	B-1	Gene-protein
+31484543_9310	270	273	KIT	Gene-protein
+31484543_9310	283	289	D12E12	Gene-protein
+31484543_9310	292	295	KIT	Gene-protein
+31484543_9310	297	302	D13A2	Gene-protein	not found
+31484543_9310	305	310	LAMP1	Gene-protein	HGNC:6499
+31484543_9310	312	350	lysosome-associated membrane protein 1	Gene-protein	HGNC:6499
+31484543_9310	352	357	D4O1S	Gene-protein	not found
+31484543_9310	360	363	AKT	Genefamily	family:1900
+31484543_9310	365	369	40D4	Gene-protein
+31484543_9310	372	375	AKT	Genefamily
+31484543_9310	385	391	C31E5E	Gene-protein
+31484543_9310	394	399	STAT5	Gene-protein
+31484543_9310	401	406	D2O6Y	Gene-protein
+31484543_9310	409	414	STAT5	Gene-protein
+31484543_9310	423	428	D47E7	Gene-protein
+31484543_9310	431	437	ERK1/2	Gene-protein	HGNC:6877, HGNC:6871
+31484543_9310	439	444	137F5	Gene-protein
+31484543_9310	450	453	ERK	Genefamily
+31484543_9310	469	472	E10	Gene-protein	not found
+31484543_9310	525	529	RL90	Gene-protein	not found
+31484543_9310	532	535	TFR	Gene-protein	HGNC:11763
+31484543_9310	537	557	transferrin receptor	Gene-protein	HGNC:11763
+31484543_9310	559	566	ab84036	Gene-protein	not found
+31484543_9310	569	576	giantin	Gene-protein	HGNC:4429
+31484543_9310	578	585	ab24586	Gene-protein	not found
+31484543_9310	592	597	GM130	Gene-protein	HGNC:4425
+31484543_9310	599	605	EP892Y	Gene-protein	not found
+31484543_9310	635	638	TFR	Gene-protein
+31484543_9310	693	701	calnexin	Gene-protein	 HGNC:1473
+31484543_9310	703	714	ADI-SPA-860	Gene-protein	not found
+31484543_9310	745	750	GM130	Gene-protein	HGNC:4425
+31484543_9310	752	760	clone 35	Gene-protein	not found
+31484543_9310	818	823	LAMP1	Gene-protein
+31484543_9310	825	830	L1418	Gene-protein	not found
+31484543_9310	863	866	KIT	Gene-protein
+31484543_9310	868	873	104D2	Gene-protein	not found
+31484543_9310	907	939	HRP-labeled secondary antibodies	Gene-protein	not found
+

@@ -1,0 +1,57 @@
+31552174_36584|t|RSS_IDENT_p_31552174_b_1_4_6
+31552174_36584|a| Chemoresistance is a considerable problem in cancer therapeutic strategy and it remains one of the key factors in cancer death. The majority of tumors show good response to chemotherapy initially; but after continued treatment they start to develop resistance ( 51 , 52 ). In this study, we explored whether miR-375 enhances the chemosensitivity of 5-fluorouracil in CC. Previous studies have demonstrated that miR-375 is involved in the development of chemoresistance in cancers. Shen et al. ( 53 ) found that paclitaxel treated cervical cells and tissues showed high expression of miR-375. Overexpression of miR-375 in CC cells decreased the sensitivity toward paclitaxel in vitro and in vivo. Paclitaxel upregulated miR-375 expression and overexpression of miR-375 increased chemoresistance in CC ( 53 ). Wang et al. ( 43 ) showed that miR-375 induces docetaxel resistance by targeting SEC23A and YAP1 in prostate cancer. miR-375 overexpression significantly reduced prostate cancer cell sensitivity to docetaxel treatment ( 54 ). In contrast, miR-375 enhanced the chemosensitivity to platinum-based cisplatin. Overexpression of miR-375 targets ERBB2 and enhances cisplatin sensitivity in human gastric cells ( 55 ). miR-375 and doxorubicin co-delivered using liposomes increased the sensitivity of doxorubicin by decreasing the expression of multidrug resistance gene 1 (MDR1) by targeting AEG-1 in hepatocellular carcinoma ( 56 ). Our results also show that the ectopic expression of miR-375 enhances 5-fluorouracil chemosensitivity in CC cells by targeting AEG-1. Further studies are required to explore the crosstalk between miR-375 and chemotherapeutic drugs to find out the exact molecular mechanisms involved in CC chemoresistance. 
+31552174_36584	75	81	cancer	Disease	DOID:162
+31552174_36584	144	150	cancer	Disease
+31552174_36584	174	180	tumors	Disease	DOID:162
+31552174_36584	203	215	chemotherapy	Drug-class
+31552174_36584	338	345	miR-375	Rna-noncoding	HGNC:31868
+31552174_36584	338	345	miR-375	Biomarker	C540933
+31552174_36584	379	393	5-fluorouracil	Drug	CHEMBL185
+31552174_36584	397	399	CC	Disease	DOID:4362
+31552174_36584	441	448	miR-375	Rna-noncoding
+31552174_36584	441	448	miR-375	Biomarker
+31552174_36584	502	509	cancers	Disease	DOID:162
+31552174_36584	541	551	paclitaxel	Drug	CHEMBL428647
+31552174_36584	613	620	miR-375	Rna-noncoding
+31552174_36584	622	647	Overexpression of miR-375	Biomarker
+31552174_36584	640	647	miR-375	Rna-noncoding
+31552174_36584	651	653	CC	Disease
+31552174_36584	693	703	paclitaxel	Drug
+31552174_36584	726	736	Paclitaxel	Drug	CHEMBL428647
+31552174_36584	749	756	miR-375	Rna-noncoding
+31552174_36584	772	797	overexpression of miR-375	Biomarker
+31552174_36584	790	797	miR-375	Rna-noncoding
+31552174_36584	827	829	CC	Disease
+31552174_36584	869	876	miR-375	Rna-noncoding
+31552174_36584	869	876	miR-375	Biomarker
+31552174_36584	885	894	docetaxel	Drug	CHEMBL3545252
+31552174_36584	919	925	SEC23A	Gene-protein	HGNC:10701
+31552174_36584	930	934	YAP1	Gene-protein	HGNC:16262
+31552174_36584	938	953	prostate cancer	Disease	DOID:10283
+31552174_36584	955	962	miR-375	Rna-noncoding
+31552174_36584	955	977	miR-375 overexpression	Biomarker
+31552174_36584	1000	1015	prostate cancer	Disease
+31552174_36584	1036	1045	docetaxel	Drug
+31552174_36584	1077	1084	miR-375	Rna-noncoding
+31552174_36584	1118	1126	platinum	Chemical
+31552174_36584	1133	1142	cisplatin	Drug	CHEMBL11359
+31552174_36584	1162	1169	miR-375	Rna-noncoding
+31552174_36584	1178	1183	ERBB2	Gene-protein	HGNC:3430
+31552174_36584	1197	1206	cisplatin	Drug
+31552174_36584	1250	1257	miR-375	Rna-noncoding
+31552174_36584	1250	1257	miR-375	Drug	C540933
+31552174_36584	1262	1273	doxorubicin	Drug	CHEMBL53463
+31552174_36584	1332	1343	doxorubicin	Drug
+31552174_36584	1376	1403	multidrug resistance gene 1	Gene-protein	HGNC:40
+31552174_36584	1405	1409	MDR1	Gene-protein	HGNC:40
+31552174_36584	1424	1429	AEG-1	Gene-protein	HGNC:29608
+31552174_36584	1433	1457	hepatocellular carcinoma	Disease	DOID:684
+31552174_36584	1497	1526	ectopic expression of miR-375	Drug	not found
+31552174_36584	1519	1526	miR-375	Rna-noncoding
+31552174_36584	1536	1550	5-fluorouracil	Drug
+31552174_36584	1571	1573	CC	Disease
+31552174_36584	1593	1598	AEG-1	Gene-protein
+31552174_36584	1662	1669	miR-375	Rna-noncoding
+31552174_36584	1674	1696	chemotherapeutic drugs	Drug-class
+31552174_36584	1752	1754	CC	Disease
+

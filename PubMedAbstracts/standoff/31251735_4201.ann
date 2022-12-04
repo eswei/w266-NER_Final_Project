@@ -1,0 +1,72 @@
+T10	Disease 694 712	cervical carcinoma
+#1	AnnotatorNotes T10	DOID:4362
+T11	Disease 721 738	gastric carcinoma
+#2	AnnotatorNotes T11	DOID:5517
+T12	Disease 751 775	hepatocellular carcinoma
+#3	AnnotatorNotes T12	DOID:684
+T14	Disease 978 984	cancer
+T17	Disease 1116 1118	OS
+T19	Disease 1382 1387	tumor
+#6	AnnotatorNotes T19	DOID:162
+T22	Disease 1472 1484	colon cancer
+#8	AnnotatorNotes T22	DOID:219
+T23	Disease 1680 1688	melanoma
+#9	AnnotatorNotes T23	DOID:1909
+T24	Disease 1799 1801	OS
+T4	Disease 361 366	tumor
+#11	AnnotatorNotes T4	DOID:162
+T7	Disease 432 445	breast cancer
+#12	AnnotatorNotes T7	DOID:1612
+T9	Disease 675 682	cancers
+#13	AnnotatorNotes T9	DOID:162
+T1	Biomarker 465 490	triple-negative phenotype
+T2	Biomarker 495 518	high histological grade
+T5	GeneFamily 520 548	Transforming growth factor β
+#5	AnnotatorNotes T5	family:1664
+T6	GeneFamily 550 555	TGF-β
+#7	AnnotatorNotes T6	family:1664
+T8	GeneFamily 557 561	Smad
+#10	AnnotatorNotes T8	family:750
+T13	Biomarker 520 644	Transforming growth factor β (TGF-β)/Smad signaling pathway, an important driver in carcinogenesis, is commonly dysregulated
+T15	Collection 675 775	cancers, including cervical carcinoma [ 14 ], gastric carcinoma [ 15 ], and hepatocellular carcinoma
+R2	Association Arg1:T13 Arg2:T15	
+T16	GeneFamily 784 789	TGF-β
+T18	GeneFamily 790 794	Smad
+T21	GeneFamily 908 913	TGF-β
+T25	Biomarker 908 931	TGF-β signaling pathway
+R3	Association Arg1:T25 Arg2:T14	
+T26	GeneFamily 1066 1071	TGF-β
+T27	GeneFamily 1072 1076	Smad
+#4	AnnotatorNotes T17	DOID:3347
+T28	Gene-Protein 1142 1148	TGF-β1
+#14	AnnotatorNotes T28	HGNC:11766
+T29	Gene-Protein 1192 1197	SMAD2
+#15	AnnotatorNotes T29	HGNC:6768
+T30	Chemical 1202 1207	SMAD3
+#16	AnnotatorNotes T30	HGNC:6769
+T31	Gene-Protein 1250 1255	SMAD7
+#17	AnnotatorNotes T31	HGNC:6773
+T32	Gene-Protein 1340 1345	SMAD7
+T33	Biomarker 1340 1345	SMAD7
+#18	AnnotatorNotes T33	D051906
+R4	Association Arg1:T33 Arg2:T19	
+T20	Drug 1448 1463	SMAD7 knockdown
+#19	AnnotatorNotes T20	not found
+T34	Gene-Protein 1448 1453	SMAD7
+R5	Response Arg1:T20 Arg2:T22	
+T35	Gene-Protein 1541 1550	eIF2alpha
+#20	AnnotatorNotes T35	HGNC:3265
+T36	Drug 1621 1641	SMAD7 overexpression
+#21	AnnotatorNotes T36	not found
+T37	Gene-Protein 1621 1626	SMAD7
+R6	Response Arg1:T36 Arg2:T23	
+T38	GeneFamily 1762 1767	SMAD7
+T39	GeneFamily 1772 1777	TGF-β
+T3	Biomarker 1762 1767	SMAD7
+T40	Biomarker 1772 1777	TGF-β
+#22	AnnotatorNotes T40	D016212
+T41	Biomarker 337 348	EMT process
+#23	AnnotatorNotes T41	D058750
+R1	Association Arg1:T41 Arg2:T4	
+T42	Biomarker 425 428	EMT
+#24	AnnotatorNotes T42	D058750

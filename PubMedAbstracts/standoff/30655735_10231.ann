@@ -1,0 +1,115 @@
+T0	Disease 53 57	DSCs
+#1	AnnotatorNotes T0	DOID:3119
+T1	Biomarker 193 200	miR-126
+T10	Disease 1092 1097	tumor
+#2	AnnotatorNotes T10	DOID:162
+T11	RNA-Noncoding 1169 1176	miR-126
+T12	Disease 1237 1242	tumor
+T13	Biomarker 1367 1386	VEGF overexpression
+T14	Disease 1411 1414	CRC
+T15	Biomarker 1434 1456	miR-126 downregulation
+T17	Disease 1514 1517	HCC
+T18	Biomarker 1682 1717	Abnormally high expression of EGFL7
+T19	Disease 1721 1724	HCC
+T2	Disease 238 244	cancer
+#7	AnnotatorNotes T2	DOID:162
+T21	Disease 1800 1803	HCC
+T22	Biomarker 1818 1838	ADAM9 overexpression
+T23	Biomarker 1853 1909	regulator of G protein signaling 3 (RGS3) overexpression
+T24	Biomarker 1932 1962	aberrantly high levels of SOX2
+T25	Disease 1966 1998	pancreatic ductal adenocarcinoma
+#9	AnnotatorNotes T25	DOID:3498
+T26	Disease 2000 2004	PDAC
+T4	Biomarker 785 792	miR-126
+T6	Drug 946 969	pomegranate polyphenols
+T7	Disease 973 985	colon cancer
+#13	AnnotatorNotes T7	DOID:219
+T8	Biomarker 994 1016	Golgi phosphoprotein 3
+T9	Disease 1052 1056	ESCC
+T28	RNA-Noncoding 42 49	miR-126
+#4	AnnotatorNotes T28	HGNC:31508
+R1	Association Arg1:T1 Arg2:T2	
+T3	RNA-Noncoding 193 200	miR-126
+#5	AnnotatorNotes T1	C527111
+T29	Gene-Protein 289 317	insulin receptor substrate 1
+#6	AnnotatorNotes T29	HGNC:6125
+T30	Gene-Protein 319 360	v-crk sarcoma virus CT10 oncogene homolog
+#8	AnnotatorNotes T30	HGNC:2362
+T31	Gene-Protein 362 365	CRK
+#10	AnnotatorNotes T31	HGNC:2362
+T32	Gene-Protein 368 397	CXC chemokine receptor type 4
+#11	AnnotatorNotes T32	HGNC:2561
+T33	Gene-Protein 399 404	CXCR4
+#12	AnnotatorNotes T33	HGNC:2561
+T34	Gene-Protein 470 475	ADAM9
+#14	AnnotatorNotes T34	 HGNC:216
+T35	Gene-Protein 407 468	disintegrin and metalloproteinase domain-containing protein 9
+#15	AnnotatorNotes T35	 HGNC:216
+T36	Gene-Protein 513 517	SOX2
+#16	AnnotatorNotes T36	HGNC:11195
+T37	Gene-Protein 481 511	sex-determining region Y-box 2
+#17	AnnotatorNotes T37	HGNC:11195
+T38	Disease 601 605	DSCs
+T39	RNA-Noncoding 785 792	miR-126
+R2	Association Arg1:T4 Arg2:T38	
+T40	Gene-Protein 864 870	PI3KR2
+#18	AnnotatorNotes T40	HGNC:8980
+T41	Gene-Protein 853 859	VCAM-1
+#19	AnnotatorNotes T41	HGNC:12663
+T42	Biomarker 864 870	PI3KR2
+#20	AnnotatorNotes T42	C560566
+T43	Biomarker 853 859	VCAM-1
+#21	AnnotatorNotes T43	D019010
+R4	Association Arg1:T8 Arg2:T9	
+T44	Gene-Protein 1018 1024	GOLPH3
+#22	AnnotatorNotes T44	HGNC:15452
+T45	Gene-Protein 994 1016	Golgi phosphoprotein 3
+#23	AnnotatorNotes T45	HGNC:15452
+#24	AnnotatorNotes T8	C429024
+#25	AnnotatorNotes T9	DOID:3748
+T46	RNA-Noncoding 1041 1048	miR-126
+T47	Gene-Protein 1185 1190	CXCR4
+T48	Drug 1169 1176	miR-126
+#26	AnnotatorNotes T48	C527111
+R5	Response Arg1:T48 Arg2:T12	
+T49	RNA-Noncoding 1434 1441	miR-126
+T50	GeneFamily 1367 1371	VEGF
+#27	AnnotatorNotes T50	family:1267
+T16	RNA-Noncoding 1490 1497	miR-126
+T51	Gene-Protein 1545 1551	PI3KR2
+T53	Gene-Protein 1563 1568	EGFL7
+#28	AnnotatorNotes T53	HGNC:20594
+T54	Gene-Protein 1668 1672	LRP6
+#29	AnnotatorNotes T54	HGNC:6698
+T55	Gene-Protein 1616 1666	low-density lipoprotein receptor-related protein 6
+#30	AnnotatorNotes T55	HGNC:6698
+#31	AnnotatorNotes T14	DOID:9256
+#32	AnnotatorNotes T17	DOID:684
+T58	Gene-Protein 1712 1717	EGFL7
+T60	Gene-Protein 1818 1823	ADAM9
+T61	Disease 1842 1844	PC
+#33	AnnotatorNotes T61	DOID:1793
+R7	Association Arg1:T22 Arg2:T61	
+T62	Gene-Protein 1889 1893	RGS3
+#34	AnnotatorNotes T62	HGNC:9999
+T63	Gene-Protein 1853 1887	regulator of G protein signaling 3
+#35	AnnotatorNotes T63	HGNC:9999
+T64	Disease 1913 1915	GC
+#36	AnnotatorNotes T64	DOID:10534
+R8	Association Arg1:T23 Arg2:T64	
+R9	Association Arg1:T24 Arg2:T25	
+T65	Gene-Protein 1958 1962	SOX2
+#37	AnnotatorNotes T26	DOID:3498
+#38	AnnotatorNotes T6	not found
+R3	Association Arg1:T18 Arg2:T21	
+T5	Collection 853 870	VCAM-1 and PI3KR2
+R6	Association Arg1:T5 Arg2:T7	
+T20	Biomarker 1545 1551	PI3KR2
+T27	Biomarker 1563 1568	EGFL7
+#3	AnnotatorNotes T27	C527877
+T52	Biomarker 1616 1666	low-density lipoprotein receptor-related protein 6
+#39	AnnotatorNotes T52	C555475
+T56	Collection 1545 1666	PI3KR2 ( 51 ) and EGFL7 ( 16 , 54 ), in addition to the pro-metastatic low-density lipoprotein receptor-related protein 6
+R10	Association Arg1:T56 Arg2:T17	
+T57	Biomarker 1391 1407	neo-angiogenesis
+T59	Collection 1367 1407	VEGF overexpression and neo-angiogenesis

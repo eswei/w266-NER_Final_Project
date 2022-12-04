@@ -1,0 +1,46 @@
+30881692_22363|t|RSS_IDENT_p_30881692_b_1_4_5
+30881692_22363|a| Even though not explicitly stated in this study, an independent relationship was observed between triglyceride level and insulin resistance. A moderate positive correlation was observed between HOMA-IR and triglyceride level in patients with PCOS (p < 0.001, r = 0.445). Triglyceride levels are considered a useful marker in identifying insulin resistance, particularly in patients with metabolic syndrome ¹⁶ . As stated above, insulin resistance, along with its compensatory hyperinsulinemia, contributed to triglyceride dysregulation in hyperandrogenic patients with PCOS. Hyperinsulinemia inhibits microsomal triglyceride protein expression which is crucial in the regulation of apolipoprotein B-100 and VLDL production. It also suppresses the removal of triglyceride-rich protein. Insulin resistant PCOS patients are more prone to dysregulation of lipid metabolism compared to those with normal insulin sensitivity (81% vs. 65%, respectively) ¹⁴ , ¹⁵ . A recently published study revealed a two-way relationship between androgen excess and insulin resistance. FAI as the indicator of hyperandrogenism can serve as an indicator of glucose tolerance, as an increase in FAI is usually followed by increases in blood glucose concentration, insulin level, and glucose resistance ¹⁷ . 
+30881692_22363	128	140	triglyceride	Chemical
+30881692_22363	128	145	triglyceride leve	Biomarker
+30881692_22363	151	158	insulin	Gene-protein	HGNC:6081
+30881692_22363	151	169	insulin resistance	Disease	D007333
+30881692_22363	224	231	HOMA-IR	Biomarker
+30881692_22363	236	248	triglyceride	Chemical
+30881692_22363	236	254	triglyceride level	Biomarker
+30881692_22363	272	276	PCOS	Disease	DOID:11612
+30881692_22363	301	313	Triglyceride	Chemical
+30881692_22363	301	313	Triglyceride	Biomarker
+30881692_22363	367	374	insulin	Gene-protein
+30881692_22363	367	385	insulin resistance	Disease
+30881692_22363	367	435	insulin resistance, particularly in patients with metabolic syndrome	Collection
+30881692_22363	417	435	metabolic syndrome	Disease	DOID:14221
+30881692_22363	458	465	insulin	Gene-protein
+30881692_22363	458	476	insulin resistance	Biomarker	D007333
+30881692_22363	506	522	hyperinsulinemia	Biomarker	D006946
+30881692_22363	539	551	triglyceride	Chemical
+30881692_22363	539	565	triglyceride dysregulation	Biomarker
+30881692_22363	569	603	hyperandrogenic patients with PCOS	Disease	DOID:11613,DOID:11612	Conjunction
+30881692_22363	605	621	Hyperinsulinemia	Biomarker	D006946
+30881692_22363	631	673	microsomal triglyceride protein expression	Biomarker
+30881692_22363	642	654	triglyceride	Chemical
+30881692_22363	712	732	apolipoprotein B-100	Gene-protein	HGNC:603
+30881692_22363	737	741	VLDL	Chemical
+30881692_22363	788	800	triglyceride	Chemical
+30881692_22363	815	822	Insulin	Gene-protein	HGNC:6081
+30881692_22363	815	837	Insulin resistant PCOS	Disease	D007333,DOID:11612	Conjunction
+30881692_22363	865	898	dysregulation of lipid metabolism	Biomarker
+30881692_22363	882	887	lipid	Chemical
+30881692_22363	929	936	insulin	Gene-protein
+30881692_22363	1054	1062	androgen	Chemical
+30881692_22363	1054	1069	androgen excess	Biomarker
+30881692_22363	1074	1081	insulin	Gene-protein
+30881692_22363	1074	1092	insulin resistance	Disease
+30881692_22363	1094	1097	FAI	Biomarker
+30881692_22363	1118	1134	hyperandrogenism	Disease	DOID:11613
+30881692_22363	1164	1171	glucose	Chemical
+30881692_22363	1189	1204	increase in FAI	Biomarker
+30881692_22363	1228	1307	increases in blood glucose concentration, insulin level, and glucose resistance	Biomarker
+30881692_22363	1247	1254	glucose	Chemical
+30881692_22363	1270	1277	insulin	Gene-protein
+30881692_22363	1289	1296	glucose	Chemical
+

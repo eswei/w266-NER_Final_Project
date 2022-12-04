@@ -1,0 +1,56 @@
+T0	Chemical 152 159	sulfide
+T10	Chemical 511 514	H₂S
+T11	Gene-Protein 577 580	CBS
+#4	AnnotatorNotes T11	HGNC:1550
+T12	Disease 614 630	vascular disease
+#5	AnnotatorNotes T12	DOID:178
+T13	Chemical 699 702	H₂S
+T15	Chemical 788 791	H₂S
+T16	Gene-Protein 831 834	CTH
+T18	Disease 927 943	vascular disease
+T19	Disease 957 991	Deficiency in bioavailable sulfide
+#11	AnnotatorNotes T19	not found
+T20	Chemical 984 991	sulfide
+T23	Chemical 1120 1132	homocysteine
+T25	Disease 1217 1220	CVD
+T26	Chemical 1306 1313	sulfide
+T27	Disease 1377 1401	chronic vascular disease
+#17	AnnotatorNotes T27	DOID:178
+T29	Chemical 1595 1617	pyridoxal-5’-phosphate
+T3	Disease 194 197	CVD
+T5	Chemical 258 265	sulfide
+T6	Disease 287 290	CVD
+T7	Chemical 372 379	sulfide
+T1	Chemical 161 164	ALS
+T2	Chemical 170 173	BSS
+T4	Biomarker 238 272	reduction in plasma sulfide levels
+R1	Association Arg1:T4 Arg2:T6	
+T8	Chemical 381 384	ALS
+T9	Biomarker 547 567	polymorphisms in CTH
+R2	Risk-Factor Arg1:T9 Arg2:T12	
+T14	Gene-Protein 661 664	CTH
+T21	Chemical 390 393	BSS
+T22	Gene-Protein 564 567	CTH
+#1	AnnotatorNotes T22	HGNC:2501
+T17	Gene-Protein 1252 1255	CTH
+T24	Gene-Protein 1091 1094	CTH
+T30	Gene-Protein 1039 1042	CTH
+T31	Gene-Protein 1591 1594	CTH
+T32	Gene-Protein 1170 1173	CTH
+T28	Biomarker 1015 1042	polymorphic variants of CTH
+R3	Association Arg1:T28 Arg2:T19	
+#2	AnnotatorNotes T3	DOID:178
+T33	Gene-Protein 836 839	CSE
+T34	Biomarker 777 827	endogenous H₂S production is significantly reduced
+R4	Association Arg1:T34 Arg2:T18	
+T35	Variant 1174 1182	1364 G-T
+T36	Variant 1260 1276	403Ser to 403Ile
+R5	Variant-Of Arg1:T32 Arg2:T35	
+R6	Variant-Of Arg1:T17 Arg2:T36	
+R7	Association Arg1:T36 Arg2:T27	
+T37	Variant 1095 1098	SNP
+R8	Variant-Of Arg1:T24 Arg2:T37	
+#3	AnnotatorNotes T36	p.Ser403Ile
+T38	Biomarker 146 159	total sulfide
+T39	Biomarker 161 164	ALS
+T40	Biomarker 170 173	BSS

@@ -1,0 +1,54 @@
+T0	Chemical 98 109	nucleotides
+T1	Disease 230 236	cancer
+#2	AnnotatorNotes T1	DOID:162
+T11	Disease 904 910	cancer
+T13	RNA-Noncoding 930 938	MiR-1180
+T15	Disease 974 998	hepatocellular carcinoma
+#6	AnnotatorNotes T15	DOID:684
+T16	Disease 1000 1003	HCC
+T18	Disease 1109 1112	HCC
+T3	Disease 448 455	cancers
+#10	AnnotatorNotes T3	DOID:162
+T2	RNA-Noncoding 1061 1069	miR-1180
+T4	GeneFamily 1131 1136	NF-κB
+#1	AnnotatorNotes T4	family:1254
+T5	RNA-Noncoding 869 875	miRNAs
+T6	RNA-Noncoding 30 39	MicroRNAs
+#4	AnnotatorNotes T6	family :476
+T7	RNA-Noncoding 41 47	miRNAs
+#5	AnnotatorNotes T7	family:476
+T8	Biomarker 30 39	MicroRNAs
+T9	RNA-Noncoding 339 345	MiRNAs
+T10	RNA-Noncoding 487 493	MiRNAs
+T12	Biomarker 339 345	MiRNAs
+R1	Association Arg1:T12 Arg2:T24	
+T14	RNA-Noncoding 703 713	miR-483-5p
+#7	AnnotatorNotes T14	HGNC:32340
+T17	RNA-Noncoding 774 784	miR-185 21
+T19	RNA-Noncoding 759 769	MiR-204 20
+T20	Biomarker 930 970	MiR-1180 was confirmed to be upregulated
+R2	Association Arg1:T20 Arg2:T15	
+T21	Drug 1061 1069	miR-1180
+T22	RNA-Noncoding 1191 1199	miR-1180
+#8	AnnotatorNotes T21	C000613368
+R3	Association Arg1:T8 Arg2:T1	
+R4	Non-Response Arg1:T21 Arg2:T18	
+T23	Disease 475 477	WT
+#9	AnnotatorNotes T23	DOID:5183
+T24	Collection 448 477	cancers, 11 , 12 including WT
+T25	Disease 752 754	WT
+T26	Disease 834 836	WT
+T27	Disease 926 928	WT
+T28	Disease 1203 1205	WT
+T29	Biomarker 869 875	miRNAs
+T30	Collection 904 928	cancer progression of WT
+R5	Association Arg1:T29 Arg2:T30	
+T31	Biomarker 759 830	MiR-204 20 and miR-185 21 were also found to be significantly decreased
+R6	Association Arg1:T31 Arg2:T26	
+#11	AnnotatorNotes T8	D035683
+#12	AnnotatorNotes T12	D035683
+#13	AnnotatorNotes T29	D035683
+T32	Biomarker 703 713	miR-483-5p
+#14	AnnotatorNotes T32	C548912
+R7	Prognostic-Poor Arg1:T32 Arg2:T25	
+#15	AnnotatorNotes T16	DOID:684

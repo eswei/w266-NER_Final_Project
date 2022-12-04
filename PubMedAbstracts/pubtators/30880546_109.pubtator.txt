@@ -1,0 +1,69 @@
+30880546_109|t|RSS_IDENT_p_30880546_a_1_2
+30880546_109|a| Immunoglobulin A nephropathy (IgAN) is characterized by mesangial IgA and IgG co-deposition. As the clinical course of IgAN is highly variable, a lot of patients will eventually develop to end-stage renal disease (ESRD) within years. Hirudin, a potent and specific thrombin inhibitor, has been reported to treat IgAN with hematuria, but the mechanism is unclear. Our study aims to explore the potential of hirudin and the underlying mechanism in the treatment of IgAN. The establishment of IgAN model was set up in rats through oral and intravenous immunization with bovine gamma-globulin (BGG). Results suggested that hirudin could reduce the increased level of proteinuria, serum creatinine and urea nitrogen in IgAN models. Besides that, hirudin ameliorated the elevated number of apoptotic bodies and expressions of apoptosis-related proteins (caspase-3 and caspase-9) in IgAN model. The fibrosis indexes (transforming growth factor β-1 (TGF-β1), Collagen-IV (CoI-IV) and Fibronectin-1) of kidney were remarkably suppressed in IgAN rats treated with hirudin compared with IgAN rats with no further treatment. IgAN rats exhibited remarkably increased inflammatory factors (IL-1β, IL-6, and IL-18), while hirudin treatment significantly alleviated these alterations. Moreover, the reduced levels of CD4⁺CD25⁺Foxp3⁺ Treg and CD4⁺IFN-γ⁺ Th1/CD4⁺IL-4⁺ Th2 could be reversed by hirudin in IgAN model. Furthermore, in the process of IgAN, hirudin could inactivate various pathways (IκBα, NF-κB, TNF-α, and VCAM-1) compared with IgAN model group. Taken together, our study indicated that hirudin could ameliorate IgAN through suppressing fibrosis and inflammatory response. These findings provide a new therapeutic method to treat IgAN.
+30880546_109	28	44	Immunoglobulin A	Gene-protein	not found
+30880546_109	28	56	Immunoglobulin A nephropathy	Disease	D005922
+30880546_109	58	62	IgAN	Disease	D005922
+30880546_109	84	97	mesangial IgA	Biomarker
+30880546_109	84	119	mesangial IgA and IgG co-deposition	Collection
+30880546_109	94	97	IgA	Gene-protein	not found
+30880546_109	102	105	IgG	Gene-protein	not found
+30880546_109	102	119	IgG co-deposition	Biomarker
+30880546_109	147	151	IgAN	Biomarker	D005922
+30880546_109	217	240	end-stage renal disease	Disease	DOID:783
+30880546_109	242	246	ESRD	Disease	DOID:783
+30880546_109	262	269	Hirudin	Drug	D006629
+30880546_109	293	301	thrombin	Gene-protein	HGNC:3535
+30880546_109	293	311	thrombin inhibitor	Drug-class
+30880546_109	340	359	IgAN with hematuria	Disease	not found, D006417	Conjunction
+30880546_109	434	441	hirudin	Drug
+30880546_109	491	495	IgAN	Disease
+30880546_109	518	522	IgAN	Disease
+30880546_109	595	616	bovine gamma-globulin	Drug	not found
+30880546_109	618	621	BGG	Drug	not found
+30880546_109	647	654	hirudin	Drug
+30880546_109	683	738	evel of proteinuria, serum creatinine and urea nitrogen	Biomarker
+30880546_109	710	720	creatinine	Chemical
+30880546_109	725	738	urea nitrogen	Chemical
+30880546_109	742	746	IgAN	Disease
+30880546_109	769	776	hirudin	Drug
+30880546_109	876	885	caspase-3	Gene-protein
+30880546_109	890	899	caspase-9	Gene-protein
+30880546_109	904	908	IgAN	Disease
+30880546_109	920	1017	fibrosis indexes (transforming growth factor β-1 (TGF-β1), Collagen-IV (CoI-IV) and Fibronectin-1	Biomarker
+30880546_109	938	968	transforming growth factor β-1	Gene-protein
+30880546_109	970	976	TGF-β1	Gene-protein
+30880546_109	979	990	Collagen-IV	Gene-protein
+30880546_109	992	998	CoI-IV	Gene-protein
+30880546_109	1004	1017	Fibronectin-1	Gene-protein
+30880546_109	1059	1063	IgAN	Disease
+30880546_109	1082	1089	hirudin	Drug
+30880546_109	1104	1108	IgAN	Disease
+30880546_109	1141	1145	IgAN	Disease
+30880546_109	1172	1227	increased inflammatory factors (IL-1β, IL-6, and IL-18)	Biomarker
+30880546_109	1182	1202	inflammatory factors	Genefamily
+30880546_109	1204	1209	IL-1β	Gene-protein
+30880546_109	1211	1215	IL-6	Gene-protein
+30880546_109	1221	1226	IL-18	Gene-protein
+30880546_109	1235	1242	hirudin	Drug
+30880546_109	1311	1382	reduced levels of CD4⁺CD25⁺Foxp3⁺ Treg and CD4⁺IFN-γ⁺ Th1/CD4⁺IL-4⁺ Th2	Biomarker
+30880546_109	1329	1332	CD4	Gene-protein
+30880546_109	1333	1337	CD25	Gene-protein
+30880546_109	1338	1343	Foxp3	Gene-protein
+30880546_109	1354	1357	CD4	Gene-protein
+30880546_109	1358	1363	IFN-γ	Gene-protein
+30880546_109	1369	1372	CD4	Gene-protein
+30880546_109	1373	1377	IL-4	Gene-protein
+30880546_109	1404	1411	hirudin	Drug
+30880546_109	1415	1419	IgAN	Disease
+30880546_109	1458	1462	IgAN	Disease
+30880546_109	1464	1471	hirudin	Drug
+30880546_109	1507	1511	IκBα	Gene-protein
+30880546_109	1513	1518	NF-κB	Genefamily
+30880546_109	1520	1525	TNF-α	Gene-protein
+30880546_109	1531	1537	VCAM-1	Gene-protein
+30880546_109	1553	1557	IgAN	Disease
+30880546_109	1612	1619	hirudin	Drug
+30880546_109	1637	1641	IgAN	Disease
+30880546_109	1662	1670	fibrosis	Disease
+30880546_109	1755	1759	IgAN	Disease
+

@@ -1,0 +1,81 @@
+T10	Chemical 348 357	succinate
+T12	Chemical 423 432	succinate
+T13	Chemical 479 487	fumarate
+T14	Chemical 506 512	malate
+T15	Chemical 540 548	glutamic
+T17	Biomarker 671 701	Germline mutations in SDH gene
+T18	Disease 730 747	sporadic PCC/PGLs
+#8	AnnotatorNotes T18	not found, not found
+T2	Disease 88 91	PCC
+T21	Disease 780 796	malignant tumors
+#12	AnnotatorNotes T21	DOID:162
+T22	Disease 843 846	PGL
+T23	Disease 851 854	PCC
+T24	Biomarker 863 898	Germline mutations in the SDHB gene
+T25	Disease 919 959	hereditary paraganglioma syndrome type 4
+#15	AnnotatorNotes T25	C565335
+T26	Disease 961 965	PGL4
+#16	AnnotatorNotes T26	C565335
+T27	Biomarker 974 1000	germline mutations of SDHD
+T28	Gene-Protein 996 1000	SDHD
+T3	Disease 92 95	PGL
+#19	AnnotatorNotes T3	DOID:0050773
+T30	Disease 1016 1056	hereditary paraganglioma syndrome type 1
+#20	AnnotatorNotes T30	D010235
+T31	Disease 1058 1062	PGL1
+#21	AnnotatorNotes T31	D010235
+T32	Gene-Protein 1083 1087	SDHB
+T33	Gene-Protein 1092 1096	SDHD
+T35	Gene-Protein 1251 1255	SDHD
+T36	Disease 1292 1305	paraganglioma
+#25	AnnotatorNotes T36	DOID:0050773
+T37	Disease 1409 1427	hereditary PCC/PGL
+#26	AnnotatorNotes T37	not found, not found
+T7	Chemical 269 287	tricarboxylic acid
+T8	Chemical 289 292	TCA
+T9	Biomarker 326 403	germline mutations in succinate dehydrogenase subunits SDHA, SDHB, SDHC, SDHD
+#1	AnnotatorNotes T2	DOID:0050771
+T1	GeneFamily 136 139	Wnt
+#2	AnnotatorNotes T1	family:360
+T4	Gene-Protein 381 385	SDHA
+#3	AnnotatorNotes T4	HGNC:10680
+T5	Gene-Protein 387 391	SDHB
+#4	AnnotatorNotes T5	HGNC:10681
+T38	Gene-Protein 393 397	SDHC
+#5	AnnotatorNotes T38	HGNC:10682
+T40	Gene-Protein 415 421	SDHAF2
+#6	AnnotatorNotes T40	HGNC:26034
+T41	Gene-Protein 399 403	SDHD
+#7	AnnotatorNotes T41	HGNC:10683
+T42	GeneFamily 348 371	succinate dehydrogenase
+#9	AnnotatorNotes T42	family:641
+T43	Gene-Protein 423 472	succinate dehydrogenase complex assembly factor 2
+#10	AnnotatorNotes T43	HGNC:26034
+T44	Gene-Protein 475 477	FH
+#13	AnnotatorNotes T44	HGNC:3700
+T45	Gene-Protein 479 497	fumarate hydratase
+#14	AnnotatorNotes T45	HGNC:3700
+T46	Gene-Protein 500 504	MDH2
+#17	AnnotatorNotes T46	HGNC:6971
+T47	Gene-Protein 506 528	malate dehydrogenase 2
+#22	AnnotatorNotes T47	HGNC:6971
+T48	Gene-Protein 534 538	GOT2
+#23	AnnotatorNotes T48	HGNC:4433
+T49	Gene-Protein 540 575	glutamic-oxaloacetic transaminase 2
+#24	AnnotatorNotes T49	HGNC:4433
+T50	Gene-Protein 594 597	VHL
+#27	AnnotatorNotes T50	HGNC:12687
+T51	Gene-Protein 598 603	HIF2A
+#29	AnnotatorNotes T51	HGNC:3374
+T52	GeneFamily 693 696	SDH
+T19	Gene-Protein 889 893	SDHB
+T11	GeneFamily 151 157	kinase
+#18	AnnotatorNotes T11	not found
+T6	Biomarker 632 662	somatic and germline mutations
+T16	Collection 730 854	sporadic PCC/PGLs, 29% of pediatric cases, 38% of malignant tumors and more than 80% of familial aggregations of PGL and PCC
+R1	Association Arg1:T17 Arg2:T16	
+R2	Association Arg1:T24 Arg2:T25	
+R3	Association Arg1:T27 Arg2:T30	
+#11	AnnotatorNotes T23	DOID:0050771
+#28	AnnotatorNotes T22	DOID:0050773
+T20	Biomarker 1083 1114	SDHB and SDHD mutation-positive

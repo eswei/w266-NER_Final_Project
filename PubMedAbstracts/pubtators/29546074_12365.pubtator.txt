@@ -1,0 +1,50 @@
+29546074_12365|t|RSS_IDENT_p_29546074_b_1_4_3
+29546074_12365|a| IL-6 is mainly secreted by T cells and macrophages to stimulate an immune response and cause inflammation. IL-6 is critical for tumor microenvironment regulation and may be a key regulator during colorectal tumorigenesis via regulation of tumor-promoting inflammation [ 16 – 18 ]. Patients with advanced/metastatic cancer had high IL-6 [ 19 , 20 ], and IL-6 expression was significantly elevated in CRC tissues compared to noncancerous tissues and was associated with invasiveness and lymph node metastasis [ 21 ]. Anti-IL-6 therapy was initially developed for treating autoimmune diseases, but the role of IL-6 in chronic inflammation suggests that IL-6 blockade may be feasible for cancer treatment [ 22 , 23 ]. TNF-α is a cell signaling protein involved in systemic inflammation produced chiefly by activated macrophages. TNF-α plays a pivotal role in malignant cellular proliferation, angiogenesis, tissue invasion, and metastasis in CRC [ 24 ]. A previous study demonstrated that serum TNF-α may contribute to CRC susceptibility, and anti-TNF therapy was considered for CRC treatment [ 25 ]. In this study, matrine reduced elevated IL-6 and TNF-α in CRC, which was consistent with previous studies. TGF-β1 is a protein secreted by most immune cells, and it contributes to immune system control and performs cellular functions, including control of cell growth, proliferation, differentiation, and apoptosis [ 26 ]. A study showed that TGF-β1 promoted CRC immune escape [ 27 ]. TGF-β1 was increased in peripheral blood of CRC patients and may be associated with tumor size and location [ 28 , 29 ]. Matrine did not affect TGF-β1 expression.
+29546074_12365	30	34	IL-6	Gene-protein	 HGNC:6018
+29546074_12365	30	34	IL-6	Biomarker	D015850
+29546074_12365	123	135	inflammation	Disease	D007249
+29546074_12365	137	141	IL-6	Gene-protein
+29546074_12365	137	141	IL-6	Biomarker
+29546074_12365	226	250	colorectal tumorigenesis	Disease	DOID:9256
+29546074_12365	269	297	tumor-promoting inflammation	Disease	not found
+29546074_12365	325	351	advanced/metastatic cancer	Disease	not found
+29546074_12365	356	365	high IL-6	Biomarker
+29546074_12365	361	365	IL-6	Gene-protein
+29546074_12365	383	387	IL-6	Gene-protein
+29546074_12365	383	425	IL-6 expression was significantly elevated	Biomarker
+29546074_12365	429	432	CRC	Disease	DOID:9256
+29546074_12365	498	510	invasiveness	Biomarker
+29546074_12365	515	536	lymph node metastasis	Biomarker
+29546074_12365	545	562	Anti-IL-6 therapy	Drug-class
+29546074_12365	550	554	IL-6	Gene-protein
+29546074_12365	600	619	autoimmune diseases	Disease	DOID:417
+29546074_12365	637	641	IL-6	Gene-protein
+29546074_12365	645	665	chronic inflammation	Disease	not found
+29546074_12365	680	684	IL-6	Gene-protein
+29546074_12365	680	693	IL-6 blockade	Drug	not found
+29546074_12365	714	720	cancer	Disease	DOID:162
+29546074_12365	744	749	TNF-α	Gene-protein	HGNC:11892
+29546074_12365	799	811	inflammation	Disease
+29546074_12365	855	860	TNF-α	Gene-protein
+29546074_12365	855	860	TNF-α	Biomarker	D014409
+29546074_12365	968	971	CRC	Disease
+29546074_12365	1015	1026	serum TNF-α	Biomarker
+29546074_12365	1021	1026	TNF-α	Gene-protein
+29546074_12365	1045	1048	CRC	Disease
+29546074_12365	1069	1085	anti-TNF therapy	Drug-class
+29546074_12365	1105	1108	CRC	Disease
+29546074_12365	1142	1149	matrine	Drug	CHEMBL204860
+29546074_12365	1167	1171	IL-6	Gene-protein
+29546074_12365	1176	1181	TNF-α	Gene-protein
+29546074_12365	1185	1188	CRC	Disease
+29546074_12365	1234	1240	TGF-β1	Gene-protein	HGNC:11766
+29546074_12365	1470	1476	TGF-β1	Gene-protein
+29546074_12365	1470	1476	TGF-β1	Biomarker	D053773
+29546074_12365	1486	1489	CRC	Disease
+29546074_12365	1512	1518	TGF-β1	Gene-protein
+29546074_12365	1512	1552	TGF-β1 was increased in peripheral blood	Biomarker
+29546074_12365	1556	1559	CRC	Disease
+29546074_12365	1596	1619	tumor size and location	Biomarker
+29546074_12365	1633	1640	Matrine	Drug	CHEMBL204860
+29546074_12365	1656	1662	TGF-β1	Gene-protein
+

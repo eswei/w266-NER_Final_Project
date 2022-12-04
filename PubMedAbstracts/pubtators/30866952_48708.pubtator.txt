@@ -1,0 +1,46 @@
+30866952_48708|t|RSS_IDENT_p_30866952_b_1_4_4
+30866952_48708|a| The roles of miR-193a-3p, miR-210-3p and miR-5100 in cancer progression have been reported. miR-193a-3p was demonstrated to suppress the proliferation and migration of lung cancer cells and colorectal adenocarcinoma cells by targeting K-ras [ 38 , 39 ]. miRNA-193a-3p inhibits tumor proliferation migration and chemoresistance in human gastric cancer by regulating the PTEN gene [ 40 ]. On the other hand, the level of miR-193a-3p was significantly increased in renal cell carcinoma (RCC) tissues and cell lines. miR-193a-3p increases cell proliferation and migration of RCC cells by targeting the ST3GalIV via PI3K/Akt pathway [ 41 ]. Lower expression of miR-193-3p is associated with poor prognosis in colorectal cancer, but better prognosis in oropharyngeal squamous cell carcinoma (OPSCC) [ 42 , 43 ]. Similar to the controversial roles of miR-193a-3p, miR-210-3p was also suggested to have oncogenic or tumor suppression effects on the development of cancer, depending on the target [ 44 – 46 ]. A higher level of serum miR-210-3p has been detected in people who live in a high-altitude hypoxic environment [ 47 ]. A high level of miR-210-3p in urine was also detected in RCC patients [ 48 ]. In this study, we found that cellular expression of specific miRNAs were decreased when these miRNAs were enriched in exosomes, suggesting the differential effects of miRNAs inside and outside of the cells. 
+30866952_48708	43	54	miR-193a-3p	Rna-noncoding	HGNC:31563
+30866952_48708	43	54	miR-193a-3p	Biomarker	C546818
+30866952_48708	43	79	miR-193a-3p, miR-210-3p and miR-5100	Collection
+30866952_48708	56	66	miR-210-3p	Rna-noncoding	HGNC:31587
+30866952_48708	56	66	miR-210-3p	Biomarker	C543800
+30866952_48708	71	79	miR-5100	Rna-noncoding	HGNC:43540
+30866952_48708	71	79	miR-5100	Biomarker	C000598621
+30866952_48708	83	89	cancer	Disease	DOID:162
+30866952_48708	122	133	miR-193a-3p	Rna-noncoding
+30866952_48708	122	133	miR-193a-3p	Drug	C546818
+30866952_48708	198	209	lung cancer	Disease	DOID:1324
+30866952_48708	198	245	lung cancer cells and colorectal adenocarcinoma	Collection
+30866952_48708	220	245	colorectal adenocarcinoma	Disease	DOID:0050861
+30866952_48708	265	270	K-ras	Gene-protein	HGNC:6407
+30866952_48708	284	297	miRNA-193a-3p	Rna-noncoding
+30866952_48708	284	297	miRNA-193a-3p	Drug
+30866952_48708	307	312	tumor	Disease	DOID:162
+30866952_48708	366	380	gastric cancer	Disease	DOID:10534
+30866952_48708	399	403	PTEN	Gene-protein	HGNC:9588
+30866952_48708	440	488	level of miR-193a-3p was significantly increased	Biomarker
+30866952_48708	449	460	miR-193a-3p	Rna-noncoding
+30866952_48708	492	512	renal cell carcinoma	Disease	DOID:4450
+30866952_48708	514	517	RCC	Disease	DOID:4450
+30866952_48708	543	554	miR-193a-3p	Rna-noncoding
+30866952_48708	543	554	miR-193a-3p	Biomarker
+30866952_48708	601	604	RCC	Disease
+30866952_48708	628	636	ST3GalIV	Gene-protein	HGNC:10864
+30866952_48708	641	645	PI3K	Genefamily	family:831
+30866952_48708	646	649	Akt	Genefamily	family:1900
+30866952_48708	666	696	Lower expression of miR-193-3p	Biomarker
+30866952_48708	686	696	miR-193-3p	Rna-noncoding
+30866952_48708	734	751	colorectal cancer	Disease	DOID:9256
+30866952_48708	777	814	oropharyngeal squamous cell carcinoma	Disease	DOID:5520
+30866952_48708	816	821	OPSCC	Disease	DOID:5520
+30866952_48708	874	885	miR-193a-3p	Rna-noncoding
+30866952_48708	874	897	miR-193a-3p, miR-210-3p	Collection
+30866952_48708	887	897	miR-210-3p	Rna-noncoding
+30866952_48708	986	992	cancer	Disease
+30866952_48708	1033	1065	higher level of serum miR-210-3p	Biomarker
+30866952_48708	1055	1065	miR-210-3p	Rna-noncoding
+30866952_48708	1152	1185	high level of miR-210-3p in urine	Biomarker
+30866952_48708	1166	1176	miR-210-3p	Rna-noncoding
+30866952_48708	1207	1210	RCC	Disease
+

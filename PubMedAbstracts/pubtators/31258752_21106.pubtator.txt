@@ -1,0 +1,42 @@
+31258752_21106|t|RSS_IDENT_p_31258752_b_1_4_5
+31258752_21106|a| To date, ADT remained as the standard therapy for men with de novo or recurrent metastatic disease 18 . Typically, ADT was able to reduce the level of prostate specific antigen (PSA) in 80-90% of patients during initial treatment. However, almost all patients virtually progressed to CRPC at a median of 18-24 months after diagnosis 19 . There was no curative therapy available for CRPC. In a large portion of castration-resistant tumors, an enhanced expression of the AR was detected, which could result in a reactivation of AR transcriptional activity despite low androgen levels. In 20-30% of CRPC tumors the enhanced AR expression was based on AR gene amplifications 20 , 21 . This study revealed that overexpression of 4-1BBL significantly augmented proliferation and invasion of androgen dependent PCa cells in androgen deprivation environment. Meanwhile, both expression of AR in prostate cancer cell lines and in PCa tumor bearing SCID mice were positively associated with overexpression of 4-1BBL. Furthermore, 4-1BBL mediated increase of proliferation and invasion abilities of LNCaP could be blocked by Enzalutamide, a specific AR signaling inhibition. Therefore, this study speculated that 4-1BBL might play a critical role in PCa progression to CRPC via enhancing AR function.
+31258752_21106	39	42	ADT	Drug-class
+31258752_21106	89	128	de novo or recurrent metastatic disease	Disease	not found, not found
+31258752_21106	145	148	ADT	Drug-class
+31258752_21106	181	206	prostate specific antigen	Gene-protein	HGNC:6364
+31258752_21106	208	211	PSA	Gene-protein	HGNC:6364
+31258752_21106	314	318	CRPC	Disease	not found
+31258752_21106	412	416	CRPC	Disease
+31258752_21106	440	467	castration-resistant tumors	Disease	not found
+31258752_21106	472	514	enhanced expression of the AR was detected	Biomarker
+31258752_21106	499	501	AR	Gene-protein	HGNC:644
+31258752_21106	556	558	AR	Gene-protein
+31258752_21106	596	604	androgen	Chemical
+31258752_21106	626	637	CRPC tumors	Disease	not found
+31258752_21106	642	664	enhanced AR expression	Biomarker
+31258752_21106	651	653	AR	Gene-protein
+31258752_21106	678	680	AR	Gene-protein
+31258752_21106	678	700	AR gene amplifications	Biomarker
+31258752_21106	736	760	overexpression of 4-1BBL	Biomarker
+31258752_21106	754	760	4-1BBL	Gene-protein	HGNC:11939
+31258752_21106	815	823	androgen	Chemical
+31258752_21106	834	837	PCa	Disease	DOID:10283
+31258752_21106	847	855	androgen	Chemical
+31258752_21106	897	913	expression of AR	Biomarker
+31258752_21106	911	913	AR	Gene-protein
+31258752_21106	917	932	prostate cancer	Disease	DOID:10283
+31258752_21106	951	973	PCa tumor bearing SCID	Disease	not found, DOID:627
+31258752_21106	1011	1035	overexpression of 4-1BBL	Biomarker
+31258752_21106	1029	1034	4-1BB	Gene-protein
+31258752_21106	1050	1056	4-1BBL	Gene-protein
+31258752_21106	1050	1056	4-1BBL	Biomarker	D053330
+31258752_21106	1118	1123	LNCaP	Cellline
+31258752_21106	1144	1156	Enzalutamide	Drug	CHEMBL1082407
+31258752_21106	1169	1171	AR	Gene-protein
+31258752_21106	1232	1238	4-1BBL	Gene-protein
+31258752_21106	1232	1238	4-1BBL	Biomarker
+31258752_21106	1269	1272	PCa	Disease
+31258752_21106	1269	1292	PCa progression to CRPC	Collection
+31258752_21106	1288	1292	CRPC	Disease
+31258752_21106	1307	1309	AR	Gene-protein
+

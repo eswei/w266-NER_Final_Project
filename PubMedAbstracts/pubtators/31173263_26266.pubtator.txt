@@ -1,0 +1,44 @@
+31173263_26266|t|RSS_IDENT_p_31173263_b_1_4_3
+31173263_26266|a| Previously, it was shown that deregulation of Bmi1 is associated with the pathogenesis of different human cancer types, including breast cancer ( 19 , 20 ), Ewing sarcoma ( 21 ) and leukemia ( 22 , 23 ). Furthermore, Bmi1 was shown to be a useful molecular marker to predict the prognosis of bladder cancer ( 24 ) and nasopharyngeal carcinoma ( 25 , 26 ). The significantly high frequency of Bmi1 expression in invasive SCC compared with that in HSIL and NC samples is a finding of great interest. First, Bmi1 staining in the normal cervical epithelium was found only in basal cells where epithelial ‘reserve’ cells are located. It has been suggested that reserve cells appear to be the candidate for cervical stem cells ( 27 ), and they play a central role in the pathogenesis of cervical intraepithelial neoplasia. Because Bmi1 is necessary to maintain normal stem cells and cancer stem cells ( 28 ), the present experiments indicated that Bmi1 expression is more upregulated in HSILs and invasive cervical cancer than in normal cancer. At the same time, squamous carcinoma stage II and III showed a relatively higher intensity of Bmi1 staining than squamous carcinoma stage I. These results were consistent with those of the previous study. Furthermore, exogenously expressed Bmi1 enhanced tumorigenicity, and knockdown of Bmi1 suppressed tumorigenicity, indicating that KLF4 works as a promoter for cervical cancer. These results support the notion that highly expressed Bmi1 promotes the pathogenesis of cervical carcinoma.
+31173263_26266	60	80	deregulation of Bmi1	Biomarker
+31173263_26266	76	80	Bmi1	Gene-protein	HGNC:1066
+31173263_26266	136	142	cancer	Disease	DOID:162
+31173263_26266	136	220	cancer types, including breast cancer ( 19 , 20 ), Ewing sarcoma ( 21 ) and leukemia	Collection
+31173263_26266	160	173	breast cancer	Disease	DOID:1612
+31173263_26266	187	200	Ewing sarcoma	Disease	DOID:3369
+31173263_26266	212	220	leukemia	Disease	DOID:1240
+31173263_26266	247	251	Bmi1	Gene-protein
+31173263_26266	247	251	Bmi1	Biomarker
+31173263_26266	322	336	bladder cancer	Disease	DOID:11054
+31173263_26266	322	372	bladder cancer ( 24 ) and nasopharyngeal carcinoma	Collection
+31173263_26266	348	372	nasopharyngeal carcinoma	Disease	DOID:9261
+31173263_26266	390	437	significantly high frequency of Bmi1 expression	Biomarker
+31173263_26266	422	426	Bmi1	Gene-protein
+31173263_26266	441	453	invasive SCC	Disease	not found
+31173263_26266	476	480	HSIL	Disease	D000081483
+31173263_26266	535	539	Bmi1	Gene-protein
+31173263_26266	686	699	reserve cells	Biomarker
+31173263_26266	811	845	cervical intraepithelial neoplasia	Disease	D018290
+31173263_26266	855	859	Bmi1	Gene-protein
+31173263_26266	855	859	Bmi1	Biomarker
+31173263_26266	907	913	cancer	Disease
+31173263_26266	972	976	Bmi1	Gene-protein
+31173263_26266	972	1007	Bmi1 expression is more upregulated	Biomarker
+31173263_26266	1011	1016	HSILs	Disease	D000081483
+31173263_26266	1011	1045	HSILs and invasive cervical cancer	Collection
+31173263_26266	1021	1045	invasive cervical cancer	Disease	not found
+31173263_26266	1061	1067	cancer	Disease
+31173263_26266	1087	1122	squamous carcinoma stage II and III	Disease	not found
+31173263_26266	1143	1167	higher intensity of Bmi1	Biomarker
+31173263_26266	1163	1167	Bmi1	Gene-protein
+31173263_26266	1182	1208	squamous carcinoma stage I	Disease	not found
+31173263_26266	1309	1313	Bmi1	Gene-protein
+31173263_26266	1343	1360	knockdown of Bmi1	Drug	not found
+31173263_26266	1356	1360	Bmi1	Gene-protein
+31173263_26266	1404	1408	KLF4	Gene-protein	HGNC:6348
+31173263_26266	1404	1408	KLF4	Biomarker	C102583
+31173263_26266	1433	1448	cervical cancer	Disease	DOID:4362
+31173263_26266	1488	1509	highly expressed Bmi1	Biomarker
+31173263_26266	1505	1509	Bmi1	Gene-protein
+31173263_26266	1539	1557	cervical carcinoma	Disease	DOID:2893
+

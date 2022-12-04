@@ -1,0 +1,59 @@
+30669636_3236|t|RSS_IDENT_p_30669636_b_1_1_4
+30669636_3236|a| Chronic skin inflammatory diseases are associated with a dysfunctional skin barrier that is characterized by elevated expression of various inflammatory stimuli, specifically pro-inflammatory cytokines and chemokines [ 8 , 9 ]. In skin conditions like chronic inflammation, small signaling proteins, including chemokines, are secreted. The main function of these chemokines is to recruit leukocytes, monocytes, and neutrophils to inflammatory sites [ 10 , 11 ]. Specifically, in abnormal skin conditions like AD, chemokines have been reported to promote the secretion of pro-inflammatory cytokines and thymic stromal lymphopoietin (TSLP) proteins that cause itching [ 12 ]. Thymus and activation-regulated chemokine (TARC/CCL17) are a type of C-C chemokine that uses CC chemokine receptor 4 (CCR4) as a receptor, and specifically binds to and induces chemotaxis in Th2 cells and is associated with Th2 cell-mediated inflammatory diseases, such as AD [ 13 ]. Another CC-chemokine, macrophage-derived chemokine (MDC/CCL22), shares homology (37% amino acid identity) with CCL17, and both chemokines mediate a variety of biological activities through CCR4 [ 14 ]. Previous reports on the various pharmacological and medicinal functions of CCL17 and CCL22 in skin inflammation suggest that these chemokines can be used as biomarkers of chronic skin inflammation [ 15 , 16 , 17 ]. Furthermore, CCL17 has been shown to be present at high levels in the blood of AD patients and highly expressed in skin lesions [ 15 ]. In addition, CCL22 expression was increased in the epidermis and serum of patients with chronic inflammatory skin diseases [ 16 ]. These results indicate that CCL17 and CCL22 play crucial roles in the mobilization of Th2 cells and that increased expression of these chemokines further exacerbates chronic skin inflammation in diseases like AD [ 18 ]. 
+30669636_3236	30	64	Chronic skin inflammatory diseases	Disease	not found
+30669636_3236	87	113	dysfunctional skin barrier	Biomarker
+30669636_3236	139	246	elevated expression of various inflammatory stimuli, specifically pro-inflammatory cytokines and chemokines	Biomarker
+30669636_3236	205	246	pro-inflammatory cytokines and chemokines	Genefamily	not found, not found
+30669636_3236	282	302	chronic inflammation	Disease	D007249
+30669636_3236	304	350	small signaling proteins, including chemokines	Biomarker
+30669636_3236	340	350	chemokines	Genefamily	family:483
+30669636_3236	393	403	chemokines	Genefamily
+30669636_3236	539	541	AD	Disease	DOID:3310
+30669636_3236	543	553	chemokines	Genefamily
+30669636_3236	543	553	chemokines	Biomarker	D018925
+30669636_3236	601	627	pro-inflammatory cytokines	Genefamily	not found
+30669636_3236	632	660	thymic stromal lymphopoietin	Gene-protein	HGNC:30743
+30669636_3236	662	666	TSLP	Gene-protein	HGNC:30743
+30669636_3236	688	695	itching	Disease	D011537
+30669636_3236	704	745	Thymus and activation-regulated chemokine	Gene-protein	HGNC:10615
+30669636_3236	704	745	Thymus and activation-regulated chemokine	Biomarker	D054414
+30669636_3236	747	751	TARC	Gene-protein	HGNC:10615
+30669636_3236	752	757	CCL17	Gene-protein	HGNC:10615
+30669636_3236	771	786	f C-C chemokine	Genefamily	not found
+30669636_3236	797	820	CC chemokine receptor 4	Gene-protein	HGNC:1605
+30669636_3236	822	826	CCR4	Gene-protein	HGNC:1605
+30669636_3236	928	967	Th2 cell-mediated inflammatory diseases	Disease	not found
+30669636_3236	928	979	Th2 cell-mediated inflammatory diseases, such as AD	Collection
+30669636_3236	977	979	AD	Disease
+30669636_3236	996	1008	CC-chemokine	Genefamily
+30669636_3236	1010	1038	macrophage-derived chemokine	Gene-protein	HGNC:10621
+30669636_3236	1040	1043	MDC	Gene-protein	HGNC:10621
+30669636_3236	1044	1049	CCL22	Gene-protein	HGNC:10621
+30669636_3236	1073	1083	amino acid	Chemical
+30669636_3236	1099	1104	CCL17	Gene-protein
+30669636_3236	1115	1125	chemokines	Genefamily
+30669636_3236	1177	1181	CCR4	Gene-protein
+30669636_3236	1265	1270	CCL17	Gene-protein
+30669636_3236	1275	1280	CCL22	Gene-protein
+30669636_3236	1284	1301	skin inflammation	Disease	DOID:2723
+30669636_3236	1321	1331	chemokines	Genefamily
+30669636_3236	1321	1331	chemokines	Biomarker
+30669636_3236	1361	1386	chronic skin inflammation	Disease	DOID:2723
+30669636_3236	1418	1423	CCL17	Gene-protein
+30669636_3236	1418	1480	CCL17 has been shown to be present at high levels in the blood	Biomarker
+30669636_3236	1484	1486	AD	Disease
+30669636_3236	1484	1532	AD patients and highly expressed in skin lesions	Collection
+30669636_3236	1520	1532	skin lesions	Disease	DOID:37
+30669636_3236	1554	1559	CCL22	Gene-protein
+30669636_3236	1554	1611	CCL22 expression was increased in the epidermis and serum	Biomarker
+30669636_3236	1629	1663	chronic inflammatory skin diseases	Disease	not found
+30669636_3236	1700	1705	CCL17	Gene-protein
+30669636_3236	1700	1705	CCL17	Biomarker	D054414
+30669636_3236	1700	1715	CCL17 and CCL22	Collection
+30669636_3236	1710	1715	CCL22	Gene-protein
+30669636_3236	1710	1715	CCL22	Biomarker	D054422
+30669636_3236	1807	1817	chemokines	Genefamily
+30669636_3236	1838	1863	chronic skin inflammation	Disease
+30669636_3236	1838	1883	chronic skin inflammation in diseases like AD	Collection
+30669636_3236	1881	1883	AD	Disease
+

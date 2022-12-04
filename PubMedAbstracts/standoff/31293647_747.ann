@@ -1,0 +1,79 @@
+T1	Biomarker 37 68	Higher levels of local site EVs
+T10	Biomarker 672 799	messenger RNA transcripts including EGFR, KRAS, ALK, MET, LKB1, BRAF, PIK3CA, RET, and ROS1 were significantly higher expressed
+T11	Disease 827 832	NSCLC
+T12	Biomarker 864 1001	Long non-coding RNAs, including MALAT1, HOTAIR, HOTTIP, AGAP2-AS1, ATB, TCF7, FOXD2-AS1, HOXA11-AS, PCAF1, and BCAR4, were over expressed
+T13	Disease 1026 1031	NSCLC
+T14	Biomarker 1055 1171	protein levels of tumor associated antigens including BAGE, PD-L1, MAGE-3, and AKAP4 were significantly dysregulated
+T16	Disease 1194 1199	NSCLC
+T2	Disease 106 111	NSCLC
+#5	AnnotatorNotes T2	DOID:3908
+T6	Disease 409 414	NSCLC
+T7	Chemical 506 516	Fatty acid
+T9	Disease 632 637	NSCLC
+R1	Association Arg1:T1 Arg2:T2	
+T17	RNA-Noncoding 358 364	miRNAs
+#7	AnnotatorNotes T17	family:476
+T8	Chemical 491 504	Proteoglycans
+T18	Biomarker 491 586	Proteoglycans, Fatty acid biosynthesis, ErbB, Hippo, TGF-beta, Wnt, Rap1, AMPK and Ras pathways
+T19	GeneFamily 531 535	ErbB
+#6	AnnotatorNotes T19	family:1096
+T20	GeneFamily 544 552	TGF-beta
+#9	AnnotatorNotes T20	family:1664
+T21	GeneFamily 554 557	Wnt
+#10	AnnotatorNotes T21	family:360
+T22	GeneFamily 559 563	Rap1
+#11	AnnotatorNotes T22	not found
+T23	GeneFamily 565 569	AMPK
+#12	AnnotatorNotes T23	not found
+T24	GeneFamily 574 577	Ras
+#13	AnnotatorNotes T24	family:389
+R3	Association Arg1:T18 Arg2:T9	
+T25	Gene-Protein 708 712	EGFR
+#8	AnnotatorNotes T25	HGNC:3236
+T26	Gene-Protein 714 718	KRAS
+#14	AnnotatorNotes T26	HGNC:6407
+T27	Gene-Protein 720 723	ALK
+#15	AnnotatorNotes T27	HGNC:427
+T28	Gene-Protein 725 728	MET
+#16	AnnotatorNotes T28	HGNC:7029
+T29	Gene-Protein 730 734	LKB1
+#17	AnnotatorNotes T29	HGNC:11389
+T30	Gene-Protein 736 740	BRAF
+#18	AnnotatorNotes T30	HGNC:1097
+T31	Gene-Protein 742 748	PIK3CA
+#19	AnnotatorNotes T31	HGNC:8975
+T32	Gene-Protein 750 753	RET
+#20	AnnotatorNotes T32	HGNC:9967
+T33	Gene-Protein 759 763	ROS1
+#21	AnnotatorNotes T33	 HGNC:10261
+R4	Association Arg1:T10 Arg2:T11	
+T34	RNA-Noncoding 896 902	MALAT1
+#1	AnnotatorNotes T34	HGNC:29665
+T35	RNA-Noncoding 904 910	HOTAIR
+#22	AnnotatorNotes T35	HGNC:33510
+T36	RNA-Noncoding 912 918	HOTTIP
+#23	AnnotatorNotes T36	HGNC:37461
+T37	RNA-Noncoding 920 929	AGAP2-AS1
+#24	AnnotatorNotes T37	HGNC:48633
+T38	RNA-Noncoding 936 940	TCF7
+#25	AnnotatorNotes T38	HGNC:11639
+T39	RNA-Noncoding 931 934	ATB
+#26	AnnotatorNotes T39	not found
+T40	RNA-Noncoding 942 951	FOXD2-AS1
+#27	AnnotatorNotes T40	HGNC:44256
+T41	RNA-Noncoding 953 962	HOXA11-AS
+#28	AnnotatorNotes T41	HGNC:24957
+T42	Gene-Protein 964 969	PCAF1
+#29	AnnotatorNotes T42	not found
+T43	RNA-Noncoding 975 980	BCAR4
+#30	AnnotatorNotes T43	HGNC:22170
+R5	Association Arg1:T12 Arg2:T13	
+T44	GeneFamily 1109 1113	BAGE
+#2	AnnotatorNotes T44	family:1848
+T45	Gene-Protein 1115 1120	PD-L1
+#31	AnnotatorNotes T45	HGNC:17635
+T46	Gene-Protein 1122 1128	MAGE-3
+#32	AnnotatorNotes T46	HGNC:6801
+T47	Gene-Protein 1134 1139	AKAP4
+#33	AnnotatorNotes T47	HGNC:374
+R6	Association Arg1:T14 Arg2:T16	

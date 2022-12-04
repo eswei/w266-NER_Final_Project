@@ -1,0 +1,55 @@
+T0	Biomarker 38 56	m.3243A>G carriers
+T1	Chemical 82 89	glucose
+T10	Biomarker 813 853	mutation carriers with manifest diabetes
+T11	Chemical 913 920	glucose
+T12	Biomarker 942 967	mitochondrial dysfunction
+T13	Disease 1023 1031	diabetic
+T14	Chemical 1181 1188	lactate
+T15	Disease 1244 1266	mitochondrial diabetes
+#7	AnnotatorNotes T15	not found
+T16	Chemical 1308 1316	arginine
+T17	Chemical 1407 1414	glucose
+T2	Disease 82 101	glucose intolerance
+#10	AnnotatorNotes T2	DOID:10603
+T4	Disease 282 296	overt diabetes
+#12	AnnotatorNotes T4	not found
+T5	Biomarker 352 370	m.3243A>G carriers
+T6	Biomarker 381 405	insulin secretion defect
+T8	Disease 460 468	diabetic
+#15	AnnotatorNotes T8	not found
+T9	Chemical 652 659	glucose
+T3	Biomarker 182 211	decreased insulin sensitivity
+T18	Gene-Protein 192 199	insulin
+#1	AnnotatorNotes T18	HGNC:6081
+T19	Biomarker 216 240	impaired β-cell function
+T20	Gene-Protein 305 312	Insulin
+#3	AnnotatorNotes T20	HGNC:6081
+T7	Biomarker 305 344	Insulin sensitivity was equally reduced
+T21	Disease 571 589	insulin resistance
+#6	AnnotatorNotes T21	D007333
+T22	Gene-Protein 571 578	insulin
+T23	Biomarker 623 666	decreased insulin-stimulated glucose uptake
+T24	Biomarker 668 700	blunted suppression of lipolysis
+T25	Biomarker 705 727	low adiponectin levels
+T26	Collection 603 727	adipose tissue with decreased insulin-stimulated glucose uptake, blunted suppression of lipolysis and low adiponectin levels
+R2	Association Arg1:T26 Arg2:T21	
+T27	Gene-Protein 633 640	insulin
+T28	Gene-Protein 709 720	adiponectin
+#8	AnnotatorNotes T28	HGNC:13633
+T29	Disease 736 754	Insulin resistance
+R3	Association Arg1:T10 Arg2:T29	
+#2	AnnotatorNotes T29	D007333
+T30	Disease 875 893	insulin resistance
+T31	Biomarker 913 929	glucose toxicity
+R4	Association Arg1:T31 Arg2:T30	
+T32	Disease 1063 1081	insulin resistance
+T33	Biomarker 1135 1195	Increased gluconeogenesis related to elevated lactate levels
+R5	Association Arg1:T33 Arg2:T15	
+T34	Gene-Protein 1288 1295	insulin
+T35	Gene-Protein 1426 1433	insulin
+T36	Gene-Protein 381 388	insulin
+T37	Disease 501 509	diabetes
+#4	AnnotatorNotes T37	not found
+T38	Gene-Protein 736 743	Insulin
+T39	Gene-Protein 875 882	insulin
+T40	Gene-Protein 1063 1070	insulin

@@ -1,0 +1,87 @@
+T0	Chemical 318 326	Oxylipin
+T1	Biomarker 318 338	Oxylipin metabolites
+T10	Disease 874 878	TNBC
+#2	AnnotatorNotes T10	DOID:0060081
+T12	Disease 1082 1122	metastatic triple negative breast cancer
+#3	AnnotatorNotes T12	DOID:0060081
+T13	Disease 1217 1222	tumor
+#4	AnnotatorNotes T13	DOID:162
+T16	Disease 1435 1439	TNBC
+T18	Disease 1563 1567	TNBC
+T19	Chemical 1653 1669	Arachidonic acid
+T2	Disease 369 382	mammary tumor
+#10	AnnotatorNotes T2	not found
+T20	Disease 1714 1738	Ductal carcinoma in situ
+#11	AnnotatorNotes T20	DOID:0060074
+T21	Chemical 1739 1743	DHET
+T23	Chemical 1744 1777	Dihydroxyeicosatrienoic acids EET
+T24	Chemical 1778 1802	Epoxyeicosatrienoic acid
+T26	Chemical 1847 1870	Epoxyoctadecenoic acids
+T27	Chemical 1874 1882	Estrogen
+T28	Chemical 1978 1982	HETE
+T30	Chemical 1983 2012	Hydroxyeicosatetraenoic acids
+T32	Chemical 2203 2214	Leukotriene
+T33	Disease 2284 2297	Breast Cancer
+#23	AnnotatorNotes T33	DOID:1612
+T36	Chemical 2548 2564	Prostaglandin E₂
+T39	Chemical 2634 2646	Progesterone
+T40	Chemical 2668 2675	epoxide
+T43	Disease 2715 2719	TNBC
+T44	Disease 2720 2749	Triple negative breast cancer
+#33	AnnotatorNotes T44	DOID:0060081
+R1	Association Arg1:T1 Arg2:T2	
+T45	Disease 573 600	ER−/PR−/HER2+ mammary tumor
+#1	AnnotatorNotes T45	DOID:0060076, DOID:0060078, DOID:0060079
+T3	Gene-Protein 633 639	CYP2J2
+#5	AnnotatorNotes T3	HGNC:2634
+T4	GeneFamily 573 575	ER
+#6	AnnotatorNotes T4	HGNC:3467
+T46	Gene-Protein 577 579	PR
+#7	AnnotatorNotes T46	HGNC:8910
+T47	Gene-Protein 581 585	HER2
+#9	AnnotatorNotes T47	HGNC:3430
+T48	Disease 723 751	ER+/PR+/HER2- and TPBC tumor
+#12	AnnotatorNotes T48	DOID:0060075, DOID:0060077, DOID:0060080, not found
+T7	Gene-Protein 731 735	HER2
+T8	Gene-Protein 784 790	CYP2J2
+T5	Gene-Protein 723 725	ER
+T6	Gene-Protein 917 923	CYP2J2
+T9	Gene-Protein 1295 1301	CYP2J2
+T49	Gene-Protein 1306 1312	CYP2C9
+#13	AnnotatorNotes T49	HGNC:2623
+T14	Chemical 1650 1652	AA
+T50	GeneFamily 1874 1891	Estrogen receptor
+T51	Gene-Protein 727 729	PR
+T52	Gene-Protein 1808 1840	Epidermal Growth Factor Receptor
+T53	Gene-Protein 1934 1938	HER2
+T54	GeneFamily 1693 1708	Cytochrome P450
+T55	GeneFamily 1689 1692	CYP
+T56	Gene-Protein 2020 2051	Hypoxia-inducible factor-1alpha
+T57	Gene-Protein 1441 1443	ER
+T58	GeneFamily 2220 2252	Mitogen-activated protein kinase
+T37	Gene-Protein 2013 2019	HIF-1α
+T42	Gene-Protein 1445 1447	PR
+T59	Gene-Protein 1449 1453	HER2
+T60	Gene-Protein 1459 1461	ER
+T61	Gene-Protein 1463 1465	PR
+T17	Gene-Protein 2368 2430	Nucleotide-binding oligomerization domain-containing protein 1
+T62	Gene-Protein 2360 2367	NOD 1/2
+T63	Gene-Protein 2634 2655	Progesterone receptor
+T31	GeneFamily 2660 2685	Soluble epoxide hydrolase
+T38	GeneFamily 2215 2219	MAPK
+T41	GeneFamily 2187 2199	Lipoxygenase
+T64	GeneFamily 1871 1873	ER
+T65	GeneFamily 2183 2186	LOX
+T34	Gene-Protein 1803 1807	EGFR
+T22	Gene-Protein 1939 1977	Human epidermal growth factor receptor
+T29	Chemical 2543 2547	PGE₂
+T66	Gene-Protein 2631 2633	PR
+T67	GeneFamily 2656 2659	sEH
+T68	Chemical 2200 2202	LT
+T69	Disease 1709 1713	DCIS
+#14	AnnotatorNotes T69	DOID:0060074
+T25	Chemical 1841 1846	EpOME
+T70	GeneFamily 1674 1688	Cyclooxygenase
+T71	GeneFamily 1670 1673	COX
+T11	GeneFamily 1019 1034	CYP epoxygenase
+#16	AnnotatorNotes T11	family:862

@@ -1,0 +1,134 @@
+31497741_115|t|RSS_IDENT_p_31497741_a_1_1
+31497741_115|a| The patatin‐like phospholipase domain‐containing protein 3 (PNPLA3) I148M variant predisposes to hepatic steatosis and progression to advanced liver injury with development of fibrosis, cirrhosis, and cancer. Hepatic stellate cells (HSCs) drive the wound healing response to chronic injury, and lack of liver X receptor (LXR) signaling exacerbates liver fibrogenesis by impairing HSC cholesterol homeostasis. However, the contribution of the I148M variant to this process is still unknown. We analyzed LXR expression and transcriptional activity in primary human HSCs and overexpressing LX‐2 cells according to PNPLA3 genotype (wild type [WT] versus I148M). Here we demonstrate that LXRα protein increased whereas LXR target gene expression decreased during in vitro activation of primary human HSCs. Notably, LXRα levels and signaling were reduced in primary I148M HSCs compared to WT, as displayed by decreased expression of LXR target genes. Moreover, reduced expression of cholesterol efflux and enzymes generating oxysterols was associated with higher total and free cholesterol accumulation whereas endogenous cholesterol synthesis and uptake were diminished in I148M HSCs. Luciferase assays on LXR response element confirmed decreased LXR transcriptional activity in I148M HSCs; in contrast the synthetic LXR agonist T0901317 replenished LXR functionality, supported by adenosine triphosphate‐binding cassette subfamily A member 1 (ABCA1) induction, and reduced collagen1α1 and chemokine (C‐C motif) ligand 5 expression. Conversely, the peroxisome proliferator‐activated receptor gamma (PPARγ) agonist rosiglitazone had only partial effects on the LXR target gene ABCA1, and neither diminished expression of proinflammatory cytokines nor increased de novo lipogenic genes in I148M HSCs. Conclusion: As a consequence of reduced PPARγ activity, HSCs carrying I148M PNPLA3 show impaired LXR signaling, leading to cholesterol accumulation. The use of a specific LXR agonist shows beneficial effects for diminishing sustained HSC activation and development of liver fibrogenesis. Abbreviations α‐SMA α‐smooth muscle actin ABCA1/G1 adenosine triphosphate‐binding cassette subfamily A/G, member 1 ACAT1 acyl‐coenzyme A:cholesterol acyltransferase 1 AP‐1 activator protein 1 CCL chemokine (C‐C motif), ligand CE cholesterol ester CH25H cholesterol 25‐hydroxylase CYP27A1 cytochrome P450 family 27, subfamily A, member 1 (sterol 27‐hydroxylase) FASN fatty acid synthase FBS fetal bovine serum FC free cholesterol HMGCR 3‐hydroxy‐3‐methylglutaryl coenzyme A reductase HSC hepatic stellate cell IL‐8 interleukin‐8 KO knockout LDLR low‐density lipoprotein receptor LXR liver X receptor LXRE liver X receptor response element mRNA messenger RNA NAFLD nonalcoholic fatty liver disease NASH nonalcoholic steatohepatitis NPC1 Niemann‐Pick disease, type C intracellular cholesterol transporter 1 PNPLA3 patatin‐like phospholipase domain‐containing protein 3 PPARγ peroxisome proliferator‐activated receptor gamma PPRE peroxisome proliferator response element ROSI rosiglitazone RT‐PCR real‐time polymerase chain reaction SCD1 stearoyl‐coenzyme A desaturase 1 SREBP sterol regulatory element‐binding protein T09 T0901317 TC total cholesterol TGF transforming growth factor WT wild type
+31497741_115	32	86	patatin‐like phospholipase domain‐containing protein 3	Gene-protein	HGNC:18590
+31497741_115	88	94	PNPLA3	Gene-protein	HGNC:18590
+31497741_115	96	101	I148M	Variant	p.Ile148Met
+31497741_115	125	142	hepatic steatosis	Disease	DOID:9452
+31497741_115	125	235	hepatic steatosis and progression to advanced liver injury with development of fibrosis, cirrhosis, and cancer	Collection
+31497741_115	162	183	advanced liver injury	Disease	not found
+31497741_115	204	212	fibrosis	Disease	D005355
+31497741_115	214	223	cirrhosis	Disease	D005355
+31497741_115	229	235	cancer	Disease	DOID:162
+31497741_115	323	363	lack of liver X receptor (LXR) signaling	Biomarker
+31497741_115	331	347	liver X receptor	Genefamily	not found
+31497741_115	349	352	LXR	Genefamily	not found
+31497741_115	376	394	liver fibrogenesis	Disease	DOID:5082
+31497741_115	412	423	cholesterol	Chemical
+31497741_115	470	475	I148M	Variant
+31497741_115	530	533	LXR	Genefamily
+31497741_115	615	625	LX‐2 cells	Cellline
+31497741_115	639	645	PNPLA3	Gene-protein
+31497741_115	678	683	I148M	Variant
+31497741_115	711	715	LXRα	Gene-protein	HGNC:7966
+31497741_115	711	733	LXRα protein increased	Biomarker
+31497741_115	742	745	LXR	Genefamily
+31497741_115	742	778	LXR target gene expression decreased	Biomarker
+31497741_115	838	842	LXRα	Gene-protein
+31497741_115	838	876	LXRα levels and signaling were reduced	Biomarker
+31497741_115	888	893	I148M	Variant
+31497741_115	931	971	decreased expression of LXR target genes	Biomarker
+31497741_115	955	958	LXR	Genefamily
+31497741_115	983	1057	reduced expression of cholesterol efflux and enzymes generating oxysterols	Biomarker
+31497741_115	1005	1016	cholesterol	Chemical
+31497741_115	1047	1057	oxysterols	Chemical
+31497741_115	1078	1124	higher total and free cholesterol accumulation	Biomarker
+31497741_115	1100	1111	cholesterol	Chemical
+31497741_115	1133	1192	endogenous cholesterol synthesis and uptake were diminished	Biomarker
+31497741_115	1144	1155	cholesterol	Chemical
+31497741_115	1196	1201	I148M	Biomarker
+31497741_115	1229	1232	LXR	Genefamily
+31497741_115	1260	1298	decreased LXR transcriptional activity	Biomarker
+31497741_115	1270	1273	LXR	Genefamily
+31497741_115	1302	1307	I148M	Biomarker
+31497741_115	1340	1343	LXR	Genefamily
+31497741_115	1340	1351	LXR agonist	Drug-class
+31497741_115	1352	1360	T0901317	Drug	CHEMBL62136
+31497741_115	1373	1376	LXR	Genefamily
+31497741_115	1405	1427	adenosine triphosphate	Chemical
+31497741_115	1405	1465	adenosine triphosphate‐binding cassette subfamily A member 1	Gene-protein	HGNC:29
+31497741_115	1467	1472	ABCA1	Gene-protein	HGNC:29
+31497741_115	1489	1554	reduced collagen1α1 and chemokine (C‐C motif) ligand 5 expression	Biomarker
+31497741_115	1497	1508	collagen1α1	Gene-protein	HGNC:2197
+31497741_115	1513	1543	chemokine (C‐C motif) ligand 5	Gene-protein	HGNC:10632
+31497741_115	1572	1620	peroxisome proliferator‐activated receptor gamma	Gene-protein	HGNC:9236
+31497741_115	1572	1636	peroxisome proliferator‐activated receptor gamma (PPARγ) agonist	Drug-class
+31497741_115	1622	1627	PPARγ	Gene-protein	HGNC:9236
+31497741_115	1637	1650	rosiglitazone	Drug	CHEMBL121
+31497741_115	1683	1686	LXR	Genefamily
+31497741_115	1699	1704	ABCA1	Gene-protein
+31497741_115	1743	1768	proinflammatory cytokines	Genefamily	not found
+31497741_115	1810	1815	I148M	Variant
+31497741_115	1854	1876	reduced PPARγ activity	Biomarker
+31497741_115	1862	1867	PPARγ	Gene-protein
+31497741_115	1892	1897	I148M	Variant
+31497741_115	1898	1904	PNPLA3	Gene-protein
+31497741_115	1910	1932	impaired LXR signaling	Biomarker
+31497741_115	1919	1922	LXR	Genefamily
+31497741_115	1945	1956	cholesterol	Chemical
+31497741_115	1945	1969	cholesterol accumulation	Biomarker
+31497741_115	1993	1996	LXR	Genefamily
+31497741_115	1993	2004	LXR agonist	Drug-class
+31497741_115	2090	2108	liver fibrogenesis	Disease
+31497741_115	2124	2129	α‐SMA	Gene-protein
+31497741_115	2130	2151	α‐smooth muscle actin	Gene-protein
+31497741_115	2152	2160	ABCA1/G1	Gene-protein
+31497741_115	2161	2183	adenosine triphosphate	Chemical
+31497741_115	2161	2224	adenosine triphosphate‐binding cassette subfamily A/G, member 1	Gene-protein
+31497741_115	2225	2230	ACAT1	Gene-protein
+31497741_115	2231	2246	acyl‐coenzyme A	Chemical
+31497741_115	2231	2276	acyl‐coenzyme A:cholesterol acyltransferase 1	Gene-protein
+31497741_115	2247	2258	cholesterol	Chemical
+31497741_115	2277	2281	AP‐1	Gene-protein
+31497741_115	2282	2301	activator protein 1	Gene-protein
+31497741_115	2302	2305	CCL	Genefamily
+31497741_115	2306	2335	chemokine (C‐C motif), ligand	Genefamily
+31497741_115	2336	2338	CE	Chemical
+31497741_115	2339	2356	cholesterol ester	Chemical
+31497741_115	2357	2362	CH25H	Chemical
+31497741_115	2363	2389	cholesterol 25‐hydroxylase	Chemical
+31497741_115	2390	2397	CYP27A1	Gene-protein
+31497741_115	2398	2446	cytochrome P450 family 27, subfamily A, member 1	Gene-protein
+31497741_115	2448	2454	sterol	Chemical
+31497741_115	2448	2469	sterol 27‐hydroxylase	Gene-protein
+31497741_115	2471	2475	FASN	Gene-protein
+31497741_115	2476	2486	fatty acid	Chemical
+31497741_115	2476	2495	fatty acid synthase	Gene-protein
+31497741_115	2527	2538	cholesterol	Chemical
+31497741_115	2539	2544	HMGCR	Gene-protein
+31497741_115	2545	2582	3‐hydroxy‐3‐methylglutaryl coenzyme A	Chemical
+31497741_115	2545	2592	3‐hydroxy‐3‐methylglutaryl coenzyme A reductase	Gene-protein
+31497741_115	2619	2623	IL‐8	Gene-protein
+31497741_115	2624	2637	interleukin‐8	Gene-protein
+31497741_115	2650	2654	LDLR	Gene-protein
+31497741_115	2655	2687	low‐density lipoprotein receptor	Gene-protein
+31497741_115	2688	2691	LXR	Gene-protein
+31497741_115	2692	2708	liver X receptor	Gene-protein
+31497741_115	2709	2713	LXRE	Gene-protein
+31497741_115	2714	2747	liver X receptor response element	Gene-protein
+31497741_115	2767	2772	NAFLD	Disease	DOID:0080208
+31497741_115	2773	2805	nonalcoholic fatty liver disease	Disease	DOID:0080208
+31497741_115	2806	2810	NASH	Disease	DOID:0080547
+31497741_115	2811	2839	nonalcoholic steatohepatitis	Disease	DOID:0080547
+31497741_115	2840	2844	NPC1	Gene-protein
+31497741_115	2845	2913	Niemann‐Pick disease, type C intracellular cholesterol transporter 1	Gene-protein
+31497741_115	2888	2899	cholesterol	Chemical
+31497741_115	2914	2920	PNPLA3	Gene-protein
+31497741_115	2921	2975	patatin‐like phospholipase domain‐containing protein 3	Gene-protein
+31497741_115	2976	2981	PPARγ	Gene-protein
+31497741_115	2982	3030	peroxisome proliferator‐activated receptor gamma	Gene-protein
+31497741_115	3031	3035	PPRE	Gene-protein
+31497741_115	3036	3076	peroxisome proliferator response element	Gene-protein
+31497741_115	3077	3081	ROSI	Drug	CHEMBL121
+31497741_115	3082	3095	rosiglitazone	Drug
+31497741_115	3139	3143	SCD1	Gene-protein
+31497741_115	3144	3176	stearoyl‐coenzyme A desaturase 1	Gene-protein
+31497741_115	3177	3182	SREBP	Gene-protein
+31497741_115	3183	3189	sterol	Chemical
+31497741_115	3183	3224	sterol regulatory element‐binding protein	Gene-protein
+31497741_115	3225	3228	T09	Drug	CHEMBL62136
+31497741_115	3229	3237	T0901317	Drug	CHEMBL62136
+31497741_115	3238	3240	TC	Chemical
+31497741_115	3241	3258	total cholesterol	Chemical
+31497741_115	3259	3262	TGF	Gene-protein
+31497741_115	3263	3289	transforming growth factor	Gene-protein
+

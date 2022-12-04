@@ -1,0 +1,75 @@
+T0	Disease 82 90	diabetes
+#1	AnnotatorNotes T0	not found
+T10	Disease 598 606	diabetes
+T11	Chemical 687 689	SM
+T12	Disease 714 717	GDM
+#4	AnnotatorNotes T12	DOID:11714
+T13	Chemical 731 740	ceramides
+T14	Disease 744 762	insulin resistance
+#6	AnnotatorNotes T14	D007333
+T15	Chemical 834 842	ceramide
+T16	Chemical 913 924	fatty acids
+T17	Chemical 955 964	Ceramides
+T19	Disease 986 1030	TLR4-dependent insulin resistance in obesity
+#10	AnnotatorNotes T19	not found, DOID:9970
+T22	Chemical 1158 1167	ceramides
+T23	Chemical 1192 1195	LPG
+T25	Disease 1227 1230	T2D
+#14	AnnotatorNotes T25	DOID:9352
+T27	Disease 1328 1335	obesity
+#15	AnnotatorNotes T27	DOID:9970
+T28	Disease 1340 1348	diabetic
+#16	AnnotatorNotes T28	not found
+T30	MicroOrganism 1474 1484	Prevotella
+T31	Disease 1595 1618	GDM with hyperlipidemia
+T33	Disease 1783 1786	GDM
+T34	Disease 1890 1913	GDM with hyperlipidemia
+T4	Disease 184 207	GDM with hyperlipidemia
+#24	AnnotatorNotes T4	DOID:11714, DOID:1168
+T5	Chemical 361 374	Sphingomyelin
+T7	Chemical 410 422	Sphingolipid
+T8	Chemical 500 513	sphingomyelin
+T1	Biomarker 38 63	abnormal lipid metabolism
+R1	Association Arg1:T1 Arg2:T0	
+T2	Biomarker 111 136	abnormal lipid metabolism
+A1	Conjunction T4
+R2	Association Arg1:T2 Arg2:T4	
+T3	Chemical 217 221	LPCs
+T6	Chemical 223 225	SM
+T9	Chemical 230 233	Cer
+T18	Chemical 256 259	LPC
+T21	Chemical 329 332	LDL
+T24	Biomarker 313 332	plasma level of LDL
+T26	Biomarker 235 267	Plasma levels of the LPC classes
+T29	Biomarker 361 396	Sphingomyelin (SM) was up-regulated
+T36	Chemical 376 378	SM
+T37	Chemical 455 470	glucocorticoids
+T38	Biomarker 546 594	glucocorticoids levels are found to be increased
+T39	Chemical 546 561	glucocorticoids
+R3	Association Arg1:T38 Arg2:T10	
+T40	Biomarker 677 689	increased SM
+R4	Association Arg1:T40 Arg2:T12	
+T41	Biomarker 731 740	ceramides
+R5	Association Arg1:T41 Arg2:T14	
+#2	AnnotatorNotes T41	D002518
+T42	Gene-Protein 986 990	TLR4
+#3	AnnotatorNotes T42	HGNC:11850
+A2	Conjunction T19
+T20	Biomarker 955 964	Ceramides
+#5	AnnotatorNotes T20	D002518
+R6	Association Arg1:T20 Arg2:T19	
+T43	MicroOrganism 1092 1102	Firmicutes
+T44	MicroOrganism 1107 1120	Bacteroidetes
+T45	Biomarker 1192 1223	LPG was significantly increased
+R7	Association Arg1:T45 Arg2:T25	
+T46	Biomarker 1271 1313	increase or decrease in production of PIP₃
+T47	Chemical 1309 1313	PIP₃
+T48	Collection 1328 1348	obesity and diabetic
+R8	Association Arg1:T46 Arg2:T48	
+A3	Conjunction T31
+T32	Biomarker 1716 1775	plasma lipid classes might reflect some of abnormal changes
+R9	Association Arg1:T32 Arg2:T33	
+A4	Conjunction T34
+T35	Biomarker 1142 1167	serum levels of ceramides
+T49	Gene-Protein 1001 1008	insulin
+#7	AnnotatorNotes T49	HGNC:6081

@@ -1,0 +1,29 @@
+30837664_3429|t|RSS_IDENT_p_30837664_b_1_1_3
+30837664_3429|a| Several recent studies support this idea. First, postmortem evidence from patients with schizophrenia has revealed reductions in the levels of two activity-dependent markers in TRN GABAergic neurons, the calcium binding protein parvalbumin (PV) and extracellular matrix structures called perineuronal nets ¹⁴ . Furthermore, mutations in the crystallin βB2 gene associated with schizophrenia reduce TRN-PV neuron density and are associated with schizophrenia-like impairment in pre-pulse inhibition ¹⁵ . Finally, genetic studies ¹⁶ , ¹⁷ have implicated CACNAI1, a gene encoding the low-threshold calcium channel CaV3.3 which is highly expressed in TRN and responsible for the rebound burst discharge in TRN neurons during sleep ¹⁸ , as a schizophrenia risk gene. Another recent study showed that deletion of the schizophrenia-associated gene, ErbB4, from TRN somatostatin (SOM) neurons impairs sensory selection in mice ¹⁹ . These findings suggest that TRN GABA/PV and GABA/SOM neurons, like their cortical counterparts ²⁰ , may exhibit reduced activity in schizophrenic patients. However, whether changes in the activity of TRN neurons can account for cortical electroencephalogram (EEG) abnormalities in this disease is unclear. 
+30837664_3429	118	131	schizophrenia	Disease	DOID:5419
+30837664_3429	145	335	reductions in the levels of two activity-dependent markers in TRN GABAergic neurons, the calcium binding protein parvalbumin (PV) and extracellular matrix structures called perineuronal nets	Biomarker
+30837664_3429	234	241	calcium	Chemical
+30837664_3429	258	269	parvalbumin	Gene-protein	HGNC:9704
+30837664_3429	271	273	PV	Gene-protein	HGNC:9704
+30837664_3429	354	390	mutations in the crystallin βB2 gene	Biomarker
+30837664_3429	371	385	crystallin βB2	Gene-protein	HGNC:2398
+30837664_3429	407	420	schizophrenia	Disease
+30837664_3429	407	503	schizophrenia reduce TRN-PV neuron density and are associated with schizophrenia-like impairment	Collection
+30837664_3429	432	434	PV	Gene-protein
+30837664_3429	474	503	schizophrenia-like impairment	Disease	not found
+30837664_3429	582	589	CACNAI1	Gene-protein
+30837664_3429	582	673	CACNAI1, a gene encoding the low-threshold calcium channel CaV3.3 which is highly expressed	Biomarker
+30837664_3429	625	632	calcium	Chemical
+30837664_3429	641	647	CaV3.3	Gene-protein	HGNC:1396
+30837664_3429	767	780	schizophrenia	Disease
+30837664_3429	841	854	schizophrenia	Disease
+30837664_3429	872	877	ErbB4	Gene-protein
+30837664_3429	888	900	somatostatin	Gene-protein
+30837664_3429	902	905	SOM	Gene-protein
+30837664_3429	982	1015	TRN GABA/PV and GABA/SOM neurons,	Biomarker
+30837664_3429	991	993	PV	Gene-protein
+30837664_3429	1003	1006	SOM	Gene-protein	HGNC:11329
+30837664_3429	1086	1099	schizophrenic	Disease	DOID:5419
+30837664_3429	1127	1165	changes in the activity of TRN neurons	Biomarker
+30837664_3429	1182	1231	cortical electroencephalogram (EEG) abnormalities	Disease	not found
+

@@ -1,0 +1,83 @@
+T12	Disease 1017 1045	Inflammation in colon cancer
+#2	AnnotatorNotes T12	D007249, DOID:219
+T14	Disease 1225 1237	liver cancer
+#3	AnnotatorNotes T14	DOID:3571
+T15	Disease 1249 1257	melanoma
+#4	AnnotatorNotes T15	DOID:1909
+T18	Disease 1384 1389	tumor
+T19	Disease 1542 1547	tumor
+T2	Disease 236 242	cancer
+#7	AnnotatorNotes T2	DOID:162
+T3	Disease 475 481	tumors
+#8	AnnotatorNotes T3	DOID:162
+T5	Disease 670 676	cancer
+T8	Disease 806 811	tumor
+T9	Disease 899 925	prostate and breast cancer
+#12	AnnotatorNotes T9	DOID:10283, DOID:1612
+T1	GeneFamily 58 63	NF-κB
+#1	AnnotatorNotes T1	family:1254
+T4	GeneFamily 76 85	cytokines
+#13	AnnotatorNotes T4	not found
+T7	Gene-Protein 94 123	tumor necrosis factor (TNF) α
+#14	AnnotatorNotes T7	HGNC:11892
+T10	GeneFamily 125 129	IL-1
+#15	AnnotatorNotes T10	not found
+T11	Gene-Protein 131 135	IL-6
+#16	AnnotatorNotes T11	HGNC:6018
+T13	Gene-Protein 140 144	IL-8
+#17	AnnotatorNotes T13	HGNC:6025
+T16	Biomarker 181 206	hyper activation of NF-κB
+T17	GeneFamily 201 206	NF-κB
+R1	Association Arg1:T16 Arg2:T2	
+T20	GeneFamily 274 279	NF-κB
+T21	GeneFamily 373 378	NF-κB
+T22	Biomarker 512 535	elevated NF-κB activity
+T23	GeneFamily 521 526	NF-κB
+R2	Association Arg1:T22 Arg2:T3	
+T24	GeneFamily 603 608	NF-κB
+T25	Biomarker 591 608	mutation of NF-κB
+T26	Biomarker 613 642	constant release of cytokines
+T27	GeneFamily 633 642	cytokines
+#18	AnnotatorNotes T27	not found
+T28	Collection 591 642	mutation of NF-κB and constant release of cytokines
+R3	Association Arg1:T28 Arg2:T5	
+T29	Gene-Protein 757 761	IKK2
+#9	AnnotatorNotes T29	HGNC:5960
+T30	Gene-Protein 745 755	IκB kinase
+#19	AnnotatorNotes T30	HGNC:5960
+T31	GeneFamily 772 777	NF-κB
+T32	Biomarker 736 786	upstream IκB kinase (IKK2)-mediated NF-κB activity
+R4	Association Arg1:T32 Arg2:T8	
+T33	GeneFamily 853 862	cytokines
+T34	Biomarker 949 1008	mutation in NF-κB, IKK2 as well as inhibitors IκBα and IκBε
+T35	GeneFamily 961 966	NF-κB
+T36	Gene-Protein 968 972	IKK2
+T37	Gene-Protein 995 999	IκBα
+#11	AnnotatorNotes T37	HGNC:7797
+T38	Gene-Protein 1004 1008	IκBε
+#20	AnnotatorNotes T38	HGNC:7799
+R5	Association Arg1:T34 Arg2:T9	
+A1	Conjunction T12
+T39	Biomarker 1069 1107	hyper activation of IKK2-induced NF-κB
+T40	Gene-Protein 1089 1093	IKK2
+T41	GeneFamily 1102 1107	NF-κB
+R6	Association Arg1:T39 Arg2:T12	
+T42	Biomarker 1151 1186	Cellular location of NF-κB activity
+T43	GeneFamily 1172 1177	NF-κB
+R7	Association Arg1:T42 Arg2:T14	
+T44	Biomarker 1259 1284	IKK2 and NF-κB activation
+T45	Gene-Protein 1259 1263	IKK2
+T46	GeneFamily 1268 1273	NF-κB
+R8	Association Arg1:T44 Arg2:T15	
+T47	GeneFamily 1327 1332	NF-κB
+T48	Biomarker 1327 1341	NF-κB activity
+#5	AnnotatorNotes T48	D016328
+R9	Association Arg1:T48 Arg2:T18	
+T49	Drug 1451 1482	suppression of NF-κB activation
+T50	GeneFamily 1466 1471	NF-κB
+R10	Response Arg1:T49 Arg2:T19	
+T51	GeneFamily 1604 1609	NF-κB
+T52	GeneFamily 1639 1651	beta-catenin
+#6	AnnotatorNotes T52	family:1542
+T53	Gene-Protein 1652 1661	cyclin D1
+#21	AnnotatorNotes T53	HGNC:1582

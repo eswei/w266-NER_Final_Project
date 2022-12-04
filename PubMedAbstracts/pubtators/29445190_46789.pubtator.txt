@@ -1,0 +1,38 @@
+29445190_46789|t|RSS_IDENT_p_29445190_b_1_4_3
+29445190_46789|a| Inflammatory processes play a critical role in HCC development ²³ , ²⁴ . TNF has been established as a key promoter of inflammation-driven hepatocarcinogenesis in NAFLD, alcoholic cirrhosis, and chronic viral hepatitis ²⁵ – ²⁷ . Although liver inflammation has been shown to drive hepatocarcinogenesis via TNF in DEN-induced and CCl₄-induced murine models of hepatitis, TNF’s downstream target(s) that promote tumorigenic change in hepatocytes remain largely unknown. However, it is known that TNF-driven liver inflammation is associated with dysregulated expression of GPCR-associated proteins. Here, we initially observed elevated levels of pro-inflammatory cytokines (most notably TNF), infiltration of inflammatory cells, and upregulation of four GPCR-associated genes (CCR10, P2RY8, ARRB1, and RGS10) in human HCC tumor and paracancerous specimens. Notably, all four GPCR-associated genes have been previously associated with human carcinogenesis, ²⁸ – ³⁰ . Through RT-PCR and Western blotting validation, we confirmed that CCR10 expression was significantly elevated in hepatocytes isolated from matching human HCC tumor and paracancerous specimens. Moreover, FACS revealed strong CCR10 expression in paracancerous and HCC hepatocytes with negligible CCR10 expression in normal hepatocytes.
+29445190_46789	77	80	HCC	Disease	DOID:684
+29445190_46789	103	106	TNF	Gene-protein	HGNC:11892
+29445190_46789	149	189	inflammation-driven hepatocarcinogenesis	Disease	not found
+29445190_46789	193	198	NAFLD	Disease	DOID:0080208
+29445190_46789	200	219	alcoholic cirrhosis	Disease	DOID:14018
+29445190_46789	225	248	chronic viral hepatitis	Disease	DOID:1884
+29445190_46789	268	286	liver inflammation	Disease	DOID:10690
+29445190_46789	336	339	TNF	Gene-protein
+29445190_46789	343	346	DEN	Chemical
+29445190_46789	359	363	CCl₄	Chemical
+29445190_46789	389	398	hepatitis	Disease	DOID:2237
+29445190_46789	400	405	TNF’s	Gene-protein
+29445190_46789	524	527	TNF	Gene-protein
+29445190_46789	524	553	TNF-driven liver inflammation	Disease	not found
+29445190_46789	600	604	GPCR	Genefamily	family:139
+29445190_46789	654	718	elevated levels of pro-inflammatory cytokines (most notably TNF)	Biomarker
+29445190_46789	654	835	elevated levels of pro-inflammatory cytokines (most notably TNF), infiltration of inflammatory cells, and upregulation of four GPCR-associated genes (CCR10, P2RY8, ARRB1, and RGS10)	Collection
+29445190_46789	673	699	pro-inflammatory cytokines	Genefamily	not found
+29445190_46789	714	717	TNF	Gene-protein
+29445190_46789	720	754	infiltration of inflammatory cells	Biomarker
+29445190_46789	760	835	upregulation of four GPCR-associated genes (CCR10, P2RY8, ARRB1, and RGS10)	Biomarker
+29445190_46789	781	785	GPCR	Genefamily
+29445190_46789	804	809	CCR10	Gene-protein	HGNC:4474
+29445190_46789	811	816	P2RY8	Gene-protein	HGNC:15524
+29445190_46789	818	823	ARRB1	Gene-protein	HGNC:711
+29445190_46789	829	834	RGS10	Gene-protein	 HGNC:9992
+29445190_46789	845	854	HCC tumor	Disease	DOID:684
+29445190_46789	902	906	GPCR	Genefamily
+29445190_46789	1059	1064	CCR10	Gene-protein
+29445190_46789	1059	1117	CCR10 expression was significantly elevated in hepatocytes	Biomarker
+29445190_46789	1147	1156	HCC tumor	Disease
+29445190_46789	1210	1233	strong CCR10 expression	Biomarker
+29445190_46789	1217	1222	CCR10	Gene-protein
+29445190_46789	1255	1258	HCC	Disease
+29445190_46789	1287	1292	CCR10	Gene-protein
+

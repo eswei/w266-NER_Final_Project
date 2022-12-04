@@ -1,0 +1,87 @@
+30127669_49947|t|RSS_IDENT_p_30127669_b_1_2_4
+30127669_49947|a| Lastly, the designation of the term VMTD is very appropriate not only for TTP and TTP-like syndrome, but also to include hereditary focal, multifocal and localized microthrombotic diseases, and acquired microthrombotic disorders such as stroke syndromes, cardiac angina, and coronary procedure-associated transient microthrombotic syndrome. The recognition of the term VMTD would further assist in the understanding of endothelial physiology and identifying of endothelial pathophysiology in many human diseases, especially in hemostasis and hemostatic disorders. Abbreviations ADAMTS13 A disintegrin and metalloproteinase with a thrombospondin type 1 motif, member 13 AFA Anti-fibrinolytic agent AFHF Acute fulminant hepatic failure AI Adrenal insufficiency APL Acute promyelocytic leukemia aPTT Activated partial thromboplastin time ARDS Acute respiratory distress syndrome rADAMTS13 Recombinant ADAMTS13 ARF Acute renal failure ATRA All-trans retinoic acid DIC Disseminated intravascular coagulation “DIC” false disseminated intravascular coagulation DIT Disseminated intravascular thrombosis ECs Endothelial cells FDP Fibrin degradation products FFP Fresh frozen plasma FVIIa Activated factor VII FVIII Factor VIII HC Hepatic coagulopathy IL Interleukin HELLPs Hemolysis elevated liver enzymes and low platelet syndrome HUS Hemolytic uremic syndrome LDH Lactate dehydrogenase MAC Membrane attack complex MI Myocardial infarction MAHA Microangiopathic hemolytic anemia aMAHA Atypical MAHA MODS Multi-organ dysfunction syndrome PF Purpura fulminans PT Prothrombin time SIRS Systemic inflammatory response syndrome SS Stroke syndrome STEC Shiga toxin producing E. coli TCIP Thrombocytopenia in critically ill patient TF Tissue factor TPE Therapeutic plasma exchange TTP Thrombotic thrombocytopenic purpura vWF von Willebrand factor ULVWF Unusually large von Willebrand factor multimers eULVWF Endothelial ULVWF mULVWF Megakaryocytic ULVWF VMTD Vascular microthrombotic disease AA-VMTD antibody associated VMTD EA-VMTD Endotheliopathy associated VMTD GA-VMTD Gene mutation associated VMTD Authors’ contributions
+30127669_49947	66	70	VMTD	Disease	not found
+30127669_49947	104	107	TTP	Disease	DOID:10772
+30127669_49947	112	129	TTP-like syndrome	Disease	not found
+30127669_49947	151	218	hereditary focal, multifocal and localized microthrombotic diseases	Disease	not found, not found, not found
+30127669_49947	224	258	acquired microthrombotic disorders	Disease	not found
+30127669_49947	267	283	stroke syndromes	Disease	not found
+30127669_49947	285	299	cardiac angina	Disease	not found
+30127669_49947	305	369	coronary procedure-associated transient microthrombotic syndrome	Disease	not found
+30127669_49947	399	403	VMTD	Disease
+30127669_49947	572	592	hemostatic disorders	Disease	D020141
+30127669_49947	608	616	ADAMTS13	Gene-protein	HGNC:1366
+30127669_49947	617	698	A disintegrin and metalloproteinase with a thrombospondin type 1 motif, member 13	Gene-protein	HGNC:1366
+30127669_49947	699	702	AFA	Drug-class
+30127669_49947	703	726	Anti-fibrinolytic agent	Drug-class
+30127669_49947	727	731	AFHF	Disease	D017114
+30127669_49947	732	763	Acute fulminant hepatic failure	Disease	D017114
+30127669_49947	764	766	AI	Disease	D000309
+30127669_49947	767	788	Adrenal insufficiency	Disease	D000309
+30127669_49947	789	792	APL	Disease	DOID:0060318
+30127669_49947	793	821	Acute promyelocytic leukemia	Disease	DOID:0060318
+30127669_49947	865	869	ARDS	Disease	DOID:11394
+30127669_49947	870	905	Acute respiratory distress syndrome	Disease	DOID:11394
+30127669_49947	906	915	rADAMTS13	Gene-protein	HGNC:1366
+30127669_49947	916	936	Recombinant ADAMTS13	Gene-protein	HGNC:1366
+30127669_49947	937	940	ARF	Disease	D058186
+30127669_49947	941	960	Acute renal failure	Disease	D058186
+30127669_49947	961	965	ATRA	Chemical
+30127669_49947	966	989	All-trans retinoic acid	Chemical
+30127669_49947	990	993	DIC	Disease	DOID:11247
+30127669_49947	994	1032	Disseminated intravascular coagulation	Disease	DOID:11247
+30127669_49947	1045	1083	disseminated intravascular coagulation	Disease	DOID:11247
+30127669_49947	1084	1087	DIT	Disease	not found
+30127669_49947	1088	1125	Disseminated intravascular thrombosis	Disease	not found
+30127669_49947	1148	1151	FDP	Chemical
+30127669_49947	1152	1158	Fibrin	Genefamily	not found
+30127669_49947	1204	1209	FVIIa	Gene-protein
+30127669_49947	1210	1230	Activated factor VII	Gene-protein	HGNC:3546
+30127669_49947	1231	1236	FVIII	Gene-protein	HGNC:3546
+30127669_49947	1237	1248	Factor VIII	Gene-protein	HGNC:3546
+30127669_49947	1249	1251	HC	Disease	not found
+30127669_49947	1252	1272	Hepatic coagulopathy	Disease	not found
+30127669_49947	1273	1275	IL	Genefamily	family:601
+30127669_49947	1276	1287	Interleukin	Gene-protein	family:601
+30127669_49947	1288	1294	HELLPs	Disease	DOID:13133
+30127669_49947	1295	1353	Hemolysis elevated liver enzymes and low platelet syndrome	Disease	DOID:13133
+30127669_49947	1354	1357	HUS	Disease	DOID:12554
+30127669_49947	1358	1383	Hemolytic uremic syndrome	Disease	DOID:12554
+30127669_49947	1384	1387	LDH	Genefamily	not found
+30127669_49947	1388	1395	Lactate	Chemical
+30127669_49947	1388	1409	Lactate dehydrogenase	Genefamily	not found
+30127669_49947	1438	1440	MI	Disease	DOID:5844
+30127669_49947	1441	1462	Myocardial infarction	Disease	DOID:5844
+30127669_49947	1463	1467	MAHA	Disease	D000743
+30127669_49947	1468	1501	Microangiopathic hemolytic anemia	Disease	D000743
+30127669_49947	1485	1501	hemolytic anemia	Disease	DOID:583
+30127669_49947	1502	1507	aMAHA	Disease	not found
+30127669_49947	1508	1521	Atypical MAHA	Disease	not found
+30127669_49947	1522	1526	MODS	Disease	not found
+30127669_49947	1527	1559	Multi-organ dysfunction syndrome	Disease	not found
+30127669_49947	1560	1562	PF	Disease	DOID:0060538
+30127669_49947	1563	1580	Purpura fulminans	Disease	DOID:0060538
+30127669_49947	1584	1595	Prothrombin	Gene-protein	not found
+30127669_49947	1601	1605	SIRS	Disease	D018746
+30127669_49947	1606	1645	Systemic inflammatory response syndrome	Disease	D018746
+30127669_49947	1646	1648	SS	Disease	not found
+30127669_49947	1649	1664	Stroke syndrome	Disease	not found
+30127669_49947	1670	1681	Shiga toxin	Chemical
+30127669_49947	1692	1699	E. coli	Microorganism
+30127669_49947	1705	1721	Thrombocytopenia	Disease	DOID:1588
+30127669_49947	1748	1750	TF	Gene-protein	HGNC:3541
+30127669_49947	1751	1764	Tissue factor	Gene-protein	HGNC:3541
+30127669_49947	1797	1800	TTP	Disease	DOID:10772
+30127669_49947	1801	1836	Thrombotic thrombocytopenic purpura	Disease	DOID:10772
+30127669_49947	1837	1840	vWF	Gene-protein	HGNC:12726
+30127669_49947	1841	1862	von Willebrand factor	Gene-protein	HGNC:12726
+30127669_49947	1885	1906	von Willebrand factor	Gene-protein
+30127669_49947	1970	1974	VMTD	Disease
+30127669_49947	1975	2007	Vascular microthrombotic disease	Disease	not found
+30127669_49947	2008	2015	AA-VMTD	Disease	not found
+30127669_49947	2016	2040	antibody associated VMTD	Disease	not found
+30127669_49947	2041	2048	EA-VMTD	Disease	not found
+30127669_49947	2049	2080	Endotheliopathy associated VMTD	Disease	not found
+30127669_49947	2081	2088	GA-VMTD	Disease	not found
+30127669_49947	2089	2118	Gene mutation associated VMTD	Disease	not found
+

@@ -1,0 +1,85 @@
+T0	Chemical 30 44	Ribonucleotide
+T1	Chemical 117 122	dNTPs
+T12	Disease 569 582	breast cancer
+#4	AnnotatorNotes T12	DOID:1612
+T13	Drug 610 619	tamoxifen
+T14	Drug 667 678	hydroxyurea
+T15	Drug 685 735	3-aminopyridine-2-carboxaldehyde thiosemicarbazone
+T16	Drug 737 741	3-AP
+T17	Drug 743 751	Triapine
+T18	Drug 757 775	antisense GTI-2040
+T19	Disease 805 833	chronic myelogenous leukemia
+#11	AnnotatorNotes T19	DOID:8552
+T21	Disease 838 858	head and neck cancer
+#13	AnnotatorNotes T21	DOID:11934
+T22	Drug 921 932	gemcitabine
+T23	Disease 1051 1057	cancer
+#15	AnnotatorNotes T23	DOID:162
+T24	Drug 1093 1104	gemcitabine
+T25	Drug 1142 1148	GW8510
+T26	Disease 1180 1197	colorectal cancer
+#18	AnnotatorNotes T26	DOID:9256
+T3	Disease 281 287	cancer
+#19	AnnotatorNotes T3	DOID:162
+T5	Disease 345 393	gastric, ovarian, bladder and colorectal cancers
+#20	AnnotatorNotes T5	DOID:10534, DOID:2394, DOID:11054, DOID:9256
+T7	Drug 450 461	gemcitabine
+T8	Disease 482 522	oral [ 12 ] and pancreatic [ 13 ] cancer
+#22	AnnotatorNotes T8	DOID:8618, DOID:1793
+T2	GeneFamily 30 54	Ribonucleotide reductase
+#1	AnnotatorNotes T2	not found
+T4	GeneFamily 56 59	RNR
+#2	AnnotatorNotes T4	not found
+T6	GeneFamily 193 196	RNR
+T11	Gene-Protein 213 217	RRM1
+#5	AnnotatorNotes T11	HGNC:10451
+T27	Gene-Protein 235 239	RRM2
+#6	AnnotatorNotes T27	HGNC:10452
+T28	Gene-Protein 273 277	RRM2
+T29	Biomarker 320 341	RRM2 is overexpressed
+T30	Gene-Protein 320 324	RRM2
+R1	Association Arg1:T29 Arg2:T5	
+T31	Biomarker 415 434	RRM2 overexpression
+T32	Gene-Protein 415 419	RRM2
+#7	AnnotatorNotes T7	CHEMBL888
+R2	Mediated-Non-Response Arg1:T7 Arg2:T8	
+R3	Mediator Arg1:T7 Arg2:T31	
+T9	Biomarker 543 565	overexpression of RRM2
+T10	Gene-Protein 561 565	RRM2
+#3	AnnotatorNotes T13	CHEMBL83
+R4	Mediated-Non-Response Arg1:T13 Arg2:T12	
+R5	Mediator Arg1:T13 Arg2:T9	
+T33	Drug-Class 639 657	inhibitors of RRM2
+T34	Gene-Protein 653 657	RRM2
+#8	AnnotatorNotes T14	CHEMBL467
+T35	Drug 680 682	HU
+#9	AnnotatorNotes T35	CHEMBL467
+#10	AnnotatorNotes T15	C078157
+#14	AnnotatorNotes T17	C078157
+#16	AnnotatorNotes T16	C078157
+#17	AnnotatorNotes T18	not found
+T20	Collection 805 858	chronic myelogenous leukemia and head and neck cancer
+T36	Collection 667 775	hydroxyurea (HU), 3-aminopyridine-2-carboxaldehyde thiosemicarbazone (3-AP, Triapine) and antisense GTI-2040
+R6	Response Arg1:T36 Arg2:T20	
+R7	Response Arg1:T33 Arg2:T20	
+T37	Gene-Protein 882 886	RRM2
+T38	Drug 965 970	COH29
+#12	AnnotatorNotes T38	CHEMBL4297421
+T39	Drug-Class 974 988	RRM2 inhibitor
+T40	Gene-Protein 974 978	RRM2
+T41	Drug 1086 1088	HU
+T42	Collection 1086 1104	HU and gemcitabine
+R8	Non-Response Arg1:T42 Arg2:T23	
+R9	Response Arg1:T38 Arg2:T23	
+T43	Gene-Protein 1126 1130	RRM2
+T44	Drug-Class 1126 1140	RRM2 inhibitor
+#21	AnnotatorNotes T25	C500810
+R10	Response Arg1:T25 Arg2:T26	
+T45	Gene-Protein 1254 1258	RRM2
+T46	Biomarker 1254 1258	RRM2
+#23	AnnotatorNotes T46	C093713
+T47	Gene-Protein 1335 1340	RRM2B
+T48	Gene-Protein 1365 1369	RRM2
+T49	Gene-Protein 1391 1394	p53
+#24	AnnotatorNotes T49	HGNC:11998
+#25	AnnotatorNotes T47	HGNC:17296

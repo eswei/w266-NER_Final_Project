@@ -1,0 +1,121 @@
+T0	Disease 121 149	metastatic colorectal cancer
+#1	AnnotatorNotes T0	DOID:9256
+T10	Variant 946 955	c.3133G>A
+T11	Variant 956 968	p.Ala1045Thr
+T12	Variant 995 1004	c.3133G>A
+T13	Variant 1005 1017	p.Ala1045Thr
+T15	Disease 1052 1058	cancer
+#2	AnnotatorNotes T15	DOID:162
+T16	Disease 1091 1108	colorectal cancer
+#3	AnnotatorNotes T16	DOID:9256
+T17	Disease 1110 1123	breast cancer
+#4	AnnotatorNotes T17	DOID:1612
+T18	Disease 1125 1140	prostate cancer
+#5	AnnotatorNotes T18	DOID:10283
+T2	Variant 444 453	c.1974C>A
+T20	Disease 1142 1156	ovarian cancer
+#7	AnnotatorNotes T20	DOID:2394
+T21	Disease 1162 1179	esophageal cancer
+#8	AnnotatorNotes T21	DOID:5041
+T22	Biomarker 1224 1244	inactivation of MSH3
+T23	Biomarker 1250 1281	missense mutation in the CYP2A7
+T24	Gene-Protein 1340 1346	CYP2A7
+T25	Disease 1400 1417	colorectal cancer
+T26	Disease 1477 1483	cancer
+T27	CellLine 1700 1708	SNU-1040
+T28	Variant 1710 1718	c.306C>T
+T3	Variant 454 465	p.Asp658Glu
+T30	CellLine 1733 1739	SNU-C5
+T31	Variant 1741 1749	c.164A>T
+T32	Variant 1750 1760	p.Tyr55Phe
+T34	Variant 1775 1783	c.230G>A
+T35	Variant 1784 1794	p.Arg77Gln
+T36	Disease 1826 1829	CRC
+T37	Biomarker 1899 1914	high CNN3 level
+T38	Biomarker 1995 2027	mutational status of CYP2A7 gene
+T4	Variant 559 568	c.1974C>A
+T40	Disease 2293 2296	CRC
+T41	Disease 2504 2507	CRC
+T43	Disease 2824 2827	CRC
+T44	CellLine 2898 2906	SNU-2414
+T45	Biomarker 2912 2939	PIK3CG and LINGO2 mutations
+T46	Disease 2965 2968	CRC
+T47	Variant 3143 3152	c.5705A>T
+T48	Variant 3154 3163	c.4256T>C
+T49	Variant 3165 3174	c.1712A>G
+T5	Variant 569 580	p.Asp658Glu
+T50	CellLine 3202 3211	SNU-2414A
+T51	CellLine 3220 3229	SNU-2414B
+T6	Variant 842 850	c.235A>G
+T7	Variant 851 861	p.Ile79Val
+T8	Variant 920 929	c.2846A>G
+T9	Variant 930 941	p.Gln949Arg
+T1	Gene-Protein 301 307	CTNNB1
+#11	AnnotatorNotes T1	HGNC:2514
+T52	GeneFamily 314 323	β-catenin
+#12	AnnotatorNotes T52	family:1542
+T53	GeneFamily 353 356	Wnt
+#13	AnnotatorNotes T53	family:360
+T54	Gene-Protein 487 493	CTNNB1
+T55	Collection 444 465	c.1974C>A/p.Asp658Glu
+#14	AnnotatorNotes T3	p.Asp658Glu
+R1	Variant-Of Arg1:T54 Arg2:T55	
+T56	Collection 559 580	c.1974C>A/p.Asp658Glu
+R2	Variant-Of Arg1:T54 Arg2:T56	
+T57	Gene-Protein 701 705	MSH3
+#15	AnnotatorNotes T57	HGNC:7326
+T58	Biomarker 701 724	MSH3 missense mutations
+#16	AnnotatorNotes T7	p.Ile79Val
+#17	AnnotatorNotes T9	p.Gln949Arg
+#19	AnnotatorNotes T11	p.Ala1045Thr
+T59	Collection 842 968	c.235A>G/p.Ile79Val) was known to be benign, and that of other two mutations (c.2846A>G/p.Gln949Arg and c.3133G>A/p.Ala1045Thr
+R3	Variant-Of Arg1:T57 Arg2:T59	
+T14	Collection 1091 1179	colorectal cancer, breast cancer, prostate cancer, ovarian cancer, and esophageal cancer
+R4	Risk-Factor Arg1:T13 Arg2:T14	
+T19	Gene-Protein 1240 1244	MSH3
+T60	Collection 995 1017	c.3133G>A/p.Ala1045Thr
+R5	Variant-Of Arg1:T19 Arg2:T60	
+T61	Gene-Protein 1275 1281	CYP2A7
+#6	AnnotatorNotes T61	HGNC:2611
+T62	Gene-Protein 1561 1567	CYP2A7
+T63	Gene-Protein 1577 1581	CNN3
+#9	AnnotatorNotes T63	HGNC:2157
+T64	Gene-Protein 1679 1685	CYP2A7
+T65	Variant 1719 1730	p.Gly102Gly
+#10	AnnotatorNotes T65	p.Gly102Gly
+#20	AnnotatorNotes T32	p.Tyr55Phe
+#21	AnnotatorNotes T35	p.Arg77Gln
+T29	Collection 1775 1794	c.230G>A/p.Arg77Gln
+T33	Collection 1741 1760	c.164A>T/p.Tyr55Phe
+T66	Collection 1710 1730	c.306C>T/p.Gly102Gly
+R6	Variant-Of Arg1:T64 Arg2:T66	
+R7	Variant-Of Arg1:T64 Arg2:T33	
+R8	Variant-Of Arg1:T64 Arg2:T29	
+R9	Association Arg1:T66 Arg2:T36	
+R10	Association Arg1:T33 Arg2:T36	
+R11	Association Arg1:T29 Arg2:T36	
+T67	CellLine 1767 1773	HCT-15
+T68	CellLine 425 434	SNU-2335A
+#22	AnnotatorNotes T36	DOID:9256
+T69	Gene-Protein 1904 1908	CNN3
+R12	Association Arg1:T37 Arg2:T36	
+T70	Gene-Protein 2016 2022	CYP2A7
+T71	Biomarker 2044 2069	augmented CNN3 expression
+T72	Gene-Protein 2054 2058	CNN3
+T39	Gene-Protein 2912 2918	PIK3CG
+#18	AnnotatorNotes T39	HGNC:8978
+T42	Gene-Protein 2923 2929	LINGO2
+#23	AnnotatorNotes T42	HGNC:21207
+R13	Association Arg1:T45 Arg2:T46	
+T73	Biomarker 2974 2987	SPEN mutation
+T74	Gene-Protein 2974 2978	SPEN
+#24	AnnotatorNotes T74	HGNC:17575
+R14	Risk-Factor Arg1:T73 Arg2:T46	
+T75	Gene-Protein 3133 3136	EYS
+#25	AnnotatorNotes T75	HGNC:21555
+T76	Collection 3143 3174	c.5705A>T, c.4256T>C, c.1712A>G
+R15	Variant-Of Arg1:T75 Arg2:T76	
+T77	Gene-Protein 3309 3312	EYS
+T78	Biomarker 751 772	microsatellite stable
+T79	Disease 2832 2853	peritoneal metastasis
+#26	AnnotatorNotes T79	DOID:1725

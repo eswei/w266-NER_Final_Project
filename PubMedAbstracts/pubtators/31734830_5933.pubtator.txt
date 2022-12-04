@@ -1,0 +1,44 @@
+31734830_5933|t|RSS_IDENT_p_31734830_b_1_4_3
+31734830_5933|a| Several mechanisms have been proposed to explain the association between T2DM and fractures. Advanced glycation end products (AGEs) are accumulated in the bones and contribute to the low bone quality in diabetic patients [ 13 ]. Indeed, serum levels of pentosidine appear to be associated with the risk of fracture in patients with T2DM [ 14 ]. Moreover, insulin and insulin-like growth factor 1 (IGF1) have an important anabolic effect on bone metabolism. Low levels of IGF1 are associated with increased risk for fractures [ 15 ]. Osteocalcin, which is mainly produced by osteoblasts, is a bone formation marker [ 16 ]. Serum osteocalcin levels in women with T2DM are lower compared with nondiabetic women [ 17 , 18 ]. Moreover, there is an inverse association between serum osteocalcin levels and both fasting glucose levels and insulin resistance [ 19 ]. Incretins have also been implicated in the pathogenesis of increased fracture risk in patients with T2DM. The gastric inhibitory polypeptide (GIP) contributes to the promotion of bone formation and to the reduction of bone absorption and is reduced in patients with T2DM [ 20 ]. Sclerostin, a protein that is expressed in osteocytes, is increased in T2DM and might also play a role in the poor bone quality of these patients [ 21 , 22 ]. More specifically, sclerostin binds to its low-density lipoprotein receptor-related proteins 5 and 6, which are found in osteoblasts. This leads to the inhibition of the Wnt-β–catenin pathway, which results in inhibition of osteoblastogenesis and bone formation [ 23 ]. Finally, the levels of vitamin D were also shown to be lower in patients with T2DM [ 24 , 25 ]. 
+31734830_5933	103	107	T2DM	Disease	DOID:9352
+31734830_5933	112	121	fractures	Disease	D050723
+31734830_5933	123	190	Advanced glycation end products (AGEs) are accumulated in the bones	Biomarker
+31734830_5933	213	229	low bone quality	Biomarker
+31734830_5933	233	241	diabetic	Disease	not found
+31734830_5933	267	294	serum levels of pentosidine	Biomarker
+31734830_5933	283	294	pentosidine	Chemical
+31734830_5933	336	366	fracture in patients with T2DM	Disease	D050723, DOID:9352
+31734830_5933	385	392	insulin	Gene-protein	HGNC:6081
+31734830_5933	397	425	insulin-like growth factor 1	Gene-protein	HGNC:5464
+31734830_5933	427	431	IGF1	Gene-protein	HGNC:5464
+31734830_5933	487	505	Low levels of IGF1	Biomarker
+31734830_5933	501	505	IGF1	Gene-protein
+31734830_5933	545	554	fractures	Disease
+31734830_5933	563	574	Osteocalcin	Gene-protein	HGNC:1043
+31734830_5933	652	685	Serum osteocalcin levels in women	Biomarker
+31734830_5933	658	669	osteocalcin	Gene-protein	HGNC:1043
+31734830_5933	691	695	T2DM	Disease
+31734830_5933	801	825	serum osteocalcin levels	Biomarker
+31734830_5933	807	818	osteocalcin	Gene-protein
+31734830_5933	835	857	fasting glucose levels	Biomarker
+31734830_5933	843	850	glucose	Chemical
+31734830_5933	862	869	insulin	Gene-protein
+31734830_5933	862	880	insulin resistance	Disease	D007333
+31734830_5933	889	898	Incretins	Genefamily	not found
+31734830_5933	889	898	Incretins	Biomarker	D054795
+31734830_5933	958	993	fracture risk in patients with T2DM	Disease	D050723, DOID:9352	Conjunction
+31734830_5933	999	1029	gastric inhibitory polypeptide	Gene-protein	HGNC:4270
+31734830_5933	999	1137	gastric inhibitory polypeptide (GIP) contributes to the promotion of bone formation and to the reduction of bone absorption and is reduced	Biomarker
+31734830_5933	1031	1034	GIP	Gene-protein	HGNC:4270
+31734830_5933	1155	1159	T2DM	Disease
+31734830_5933	1168	1178	Sclerostin	Gene-protein	HGNC:13771
+31734830_5933	1168	1235	Sclerostin, a protein that is expressed in osteocytes, is increased	Biomarker
+31734830_5933	1239	1243	T2DM	Disease
+31734830_5933	1346	1356	sclerostin	Gene-protein	HGNC:13771
+31734830_5933	1370	1427	low-density lipoprotein receptor-related proteins 5 and 6	Gene-protein	HGNC:6697, HGNC:6698
+31734830_5933	1497	1500	Wnt	Genefamily	family:360
+31734830_5933	1501	1510	β–catenin	Genefamily	family:1542
+31734830_5933	1610	1657	levels of vitamin D were also shown to be lower	Biomarker
+31734830_5933	1620	1629	vitamin D	Chemical
+31734830_5933	1675	1679	T2DM	Disease
+

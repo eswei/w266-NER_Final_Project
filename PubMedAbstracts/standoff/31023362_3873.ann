@@ -1,0 +1,61 @@
+T11	Disease 1070 1073	SLE
+T13	Disease 1298 1303	lupus
+T15	Chemical 1405 1428	reactive oxygen species
+T16	Disease 1432 1447	lupus nephritis
+#5	AnnotatorNotes T16	DOID:0080162
+T17	Drug 1459 1465	INK128
+T18	Drug 1545 1553	pristane
+T2	Disease 503 506	SLE
+#9	AnnotatorNotes T2	DOID:9074
+T21	Chemical 1705 1707	NO
+T23	Disease 1835 1837	LN
+T3	Disease 612 623	proteinuria
+#13	AnnotatorNotes T3	DOID:576
+T4	Disease 645 650	lupus
+#14	AnnotatorNotes T4	DOID:9074
+T5	Disease 793 815	injuries of the kidney
+#15	AnnotatorNotes T5	DOID:557
+T7	Disease 928 948	chronic inflammation
+#16	AnnotatorNotes T7	not found
+T1	Gene-Protein 286 291	CD11b
+T6	Gene-Protein 327 332	CD11b
+T8	Gene-Protein 1263 1268	IL-1β
+#1	AnnotatorNotes T17	CHEMBL3545097
+T9	Gene-Protein 1521 1525	mTOR
+#4	AnnotatorNotes T23	DOID:0080162
+T10	Gene-Protein 379 384	CD11b
+T14	GeneFamily 707 715	cytokine
+#6	AnnotatorNotes T14	not found
+T22	Gene-Protein 1124 1129	Arg-1
+#7	AnnotatorNotes T22	HGNC:663
+T12	Gene-Protein 1694 1699	Arg-1
+T20	Disease 1777 1789	inflammation
+#3	AnnotatorNotes T20	D007249
+T24	Gene-Protein 296 300	Gr-1
+T25	Biomarker 458 463	MDSCs
+R1	Association Arg1:T25 Arg2:T2	
+#8	AnnotatorNotes T25	D000072737
+T26	Drug 687 692	MDSCs
+T27	Biomarker 858 863	MDSCs
+R2	Response Arg1:T26 Arg2:T5	
+R3	Association Arg1:T27 Arg2:T7	
+T28	Biomarker 991 1026	increased MDSCs in peripheral blood
+R4	Association Arg1:T28 Arg2:T11	
+T29	Biomarker 1192 1197	MDSCs
+R6	Association Arg1:T29 Arg2:T13	
+T30	Disease 1370 1385	podocyte injury
+#10	AnnotatorNotes T30	not found
+#11	AnnotatorNotes T18	C009042
+#12	AnnotatorNotes T9	HGNC:3942
+T31	Biomarker 1826 1831	MDSCs
+T32	Biomarker 1606 1611	MDSCs
+R7	Association Arg1:T32 Arg2:T20	
+T33	Biomarker 1356 1361	MDSCs
+R8	Association Arg1:T33 Arg2:T30	
+T34	Gene-Protein 390 394	Ly6G
+T35	Gene-Protein 385 389	Ly6C
+T36	Disease 1545 1567	pristane-induced lupus
+#2	AnnotatorNotes T36	not found
+R5	Response Arg1:T17 Arg2:T36	
+T19	Chemical 1689 1692	ROS
+T37	Chemical 1720 1723	ROS

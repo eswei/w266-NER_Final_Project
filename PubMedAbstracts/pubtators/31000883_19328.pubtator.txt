@@ -1,0 +1,37 @@
+31000883_19328|t|RSS_IDENT_p_31000883_b_1_4_4
+31000883_19328|a| Interestingly, while a 2.7 ng/ml increase in mean serum GDF15 levels (5.4 ng/ml cachexia vs. 2.7 ng/ml controls) is suspected to initiate cancer cachexia, 18 herein we detected an increase in mean serum levels of over 5 ng/ml (15.8 ng/ml HG vs. 10.5 ng/ml NVP) in patients hospitalized for HG compared to normal NVP. Serum concentrations of GDF15 in cancer patients with cachexia are significantly increased, even in the pre-cachetic state, and remain relatively steady thereafter 18 . Our findings suggest a similar upregulation of GDF15 production might be happening with HG and warrants further investigation. Levels of GDF15 (and IGFBP7) must be studied in early pregnancy to determine whether they can be used to predict an HG pregnancy. Furthermore, the brainstem-restricted receptor for GDF15, GFRAL, was recently identified and the pathway is actively being studied to identify novel therapeutic strategies for weight gain (and weight loss) 22 . Of particular clinical interest, inhibition of GDF15 restored appetite and weight gain in a mouse model of cancer cachexia 18 . If safe in pregnancy, this approach may be applicable to treating HG. Finally, the findings herein suggest an answer to an age-old paradox. HG can lead to prolonged dehydration and undernutrition, which can be detrimental to maternal and fetal health and can decrease reproductive fitness. It has been hypothesized that NVP may be beneficial to avoid food that may be toxic to the fetus 29 . Another theory is that decreased appetite leads to nutrient deficiencies that signal increased growth of the placenta to maintain early pregnancy 30 . Whether either or both are true, the dual roles of GDF15 and IGFBP7 in placentation and feeding behavior may provide a molecular explanation for why HG still exists in nature. 
+31000883_19328	63	98	increase in mean serum GDF15 levels	Biomarker
+31000883_19328	86	91	GDF15	Gene-protein	HGNC:30142
+31000883_19328	110	118	cachexia	Disease	D002100
+31000883_19328	168	183	cancer cachexia	Disease	D002100
+31000883_19328	268	270	HG	Disease	D006939
+31000883_19328	286	289	NVP	Disease	not found
+31000883_19328	320	322	HG	Disease
+31000883_19328	342	345	NVP	Disease
+31000883_19328	347	376	Serum concentrations of GDF15	Biomarker
+31000883_19328	371	376	GDF15	Gene-protein
+31000883_19328	380	409	cancer patients with cachexia	Disease	DOID:162,D002100	Conjunction
+31000883_19328	547	568	upregulation of GDF15	Biomarker
+31000883_19328	563	568	GDF15	Gene-protein
+31000883_19328	604	606	HG	Disease
+31000883_19328	653	658	GDF15	Gene-protein
+31000883_19328	664	670	IGFBP7	Gene-protein	HGNC:5476
+31000883_19328	759	761	HG	Disease
+31000883_19328	824	829	GDF15	Gene-protein
+31000883_19328	831	836	GFRAL	Gene-protein	HGNC:32789
+31000883_19328	1017	1036	inhibition of GDF15	Drug	not found
+31000883_19328	1031	1036	GDF15	Gene-protein
+31000883_19328	1091	1106	cancer cachexia	Disease
+31000883_19328	1178	1180	HG	Disease
+31000883_19328	1252	1254	HG	Biomarker	D006939
+31000883_19328	1277	1288	dehydration	Disease	D003681
+31000883_19328	1277	1307	dehydration and undernutrition	Collection
+31000883_19328	1293	1307	undernutrition	Disease	D044342
+31000883_19328	1432	1435	NVP	Disease
+31000883_19328	1527	1545	decreased appetite	Biomarker
+31000883_19328	1555	1576	nutrient deficiencies	Disease	not found
+31000883_19328	1692	1759	dual roles of GDF15 and IGFBP7 in placentation and feeding behavior	Biomarker
+31000883_19328	1706	1711	GDF15	Gene-protein
+31000883_19328	1716	1722	IGFBP7	Gene-protein
+31000883_19328	1804	1806	HG	Disease
+

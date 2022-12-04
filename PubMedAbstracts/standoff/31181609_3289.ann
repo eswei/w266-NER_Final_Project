@@ -1,0 +1,83 @@
+T0	Chemical 43 51	tyrosine
+T1	Chemical 332 352	phosphatidylinositol
+T13	Drug 991 999	imatinib
+T14	Disease 1003 1026	gastrointestinal tumors
+#6	AnnotatorNotes T14	DOID:3119
+T15	Disease 1041 1054	breast cancer
+#7	AnnotatorNotes T15	DOID:1612
+T16	Disease 1076 1098	acute myeloid leukemia
+#8	AnnotatorNotes T16	DOID:9119
+T18	Disease 1151 1157	cancer
+T2	Disease 588 594	cancer
+#10	AnnotatorNotes T2	DOID:162
+T20	Disease 1290 1296	cancer
+T4	Disease 708 715	cancers
+#12	AnnotatorNotes T4	DOID:162
+T5	Biomarker 823 826	AXL
+T7	Disease 869 940	lung, breast, gastric, prostate, renal cell carcinoma, and glioblastoma
+#14	AnnotatorNotes T7	DOID:3459, DOID:5517, DOID:10286, DOID:4450, DOID:3073
+T3	GeneFamily 34 58	receptor tyrosine kinase
+#1	AnnotatorNotes T3	family:321
+T6	Gene-Protein 59 62	AXL
+#2	AnnotatorNotes T6	HGNC:905
+T12	Gene-Protein 83 89	Tyro-3
+#5	AnnotatorNotes T12	HGNC:12446
+T17	Gene-Protein 78 81	TAM
+#13	AnnotatorNotes T17	HGNC:12446, HGNC:905, HGNC:7027
+T19	Gene-Protein 91 94	AXL
+T21	Gene-Protein 100 103	Mer
+#17	AnnotatorNotes T21	HGNC:7027
+T22	Gene-Protein 119 122	AXL
+T23	Gene-Protein 150 179	growth arrest-specific gene 6
+#18	AnnotatorNotes T23	HGNC:4168
+T24	Gene-Protein 181 185	GAS6
+#19	AnnotatorNotes T24	HGNC:4168
+T25	GeneFamily 286 319	mitogen-activated protein kinases
+#20	AnnotatorNotes T25	family:651
+T26	Gene-Protein 321 325	MAPK
+#21	AnnotatorNotes T26	family:651
+T27	GeneFamily 332 361	phosphatidylinositol 3-kinase
+#22	AnnotatorNotes T27	family:831
+T28	GeneFamily 363 368	PI3-K
+#23	AnnotatorNotes T28	family:831
+T29	Gene-Protein 370 374	AKT1
+#24	AnnotatorNotes T29	HGNC:391
+T30	GeneFamily 380 392	Janus kinase
+#25	AnnotatorNotes T30	family:1459
+T31	GeneFamily 394 397	Jak
+#26	AnnotatorNotes T31	family:1459
+T32	GeneFamily 400 453	Signaling transducers and activators of transcription
+#27	AnnotatorNotes T32	not found
+T33	GeneFamily 455 459	Stat
+#28	AnnotatorNotes T33	not found
+T34	GeneFamily 469 525	nuclear factor kappa-light-chain-enhancer of activated B
+#29	AnnotatorNotes T34	family:1254
+T35	GeneFamily 533 538	NF-kB
+#30	AnnotatorNotes T35	family:1254
+T36	Gene-Protein 556 559	AXL
+T37	Biomarker 556 559	AXL
+#31	AnnotatorNotes T37	C071031
+R1	Association Arg1:T37 Arg2:T2	
+T38	Biomarker 667 698	AXL is frequently overexpressed
+T39	Gene-Protein 667 670	AXL
+R2	Prognostic-Poor Arg1:T38 Arg2:T4	
+T40	Gene-Protein 823 826	AXL
+R3	Association Arg1:T5 Arg2:T7	
+T8	Gene-Protein 955 958	AXL
+T9	Biomarker 955 958	AXL
+#3	AnnotatorNotes T13	CHEMBL941
+R4	Mediated-Non-Response Arg1:T13 Arg2:T14	
+R5	Mediator Arg1:T13 Arg2:T9	
+T10	Drug 1028 1037	herceptin
+#4	AnnotatorNotes T10	 CHEMBL1201585
+R6	Mediator Arg1:T10 Arg2:T9	
+R7	Mediated-Non-Response Arg1:T10 Arg2:T15	
+T11	Drug-Class 1060 1072	chemotherapy
+R8	Mediated-Non-Response Arg1:T11 Arg2:T16	
+R9	Mediator Arg1:T11 Arg2:T9	
+T41	Gene-Protein 1113 1116	AXL
+T42	Biomarker 1113 1116	AXL
+R10	Association Arg1:T42 Arg2:T18	
+T43	Gene-Protein 1207 1210	AXL
+T44	Biomarker 1207 1210	AXL
+R11	Association Arg1:T44 Arg2:T20	

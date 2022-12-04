@@ -1,0 +1,123 @@
+T10	Disease 369 376	Ph⁺ ALL
+T13	Disease 390 397	Ph− ALL
+T15	Disease 447 450	ALL
+T16	Gene-Protein 511 516	CD184
+T17	Biomarker 781 834	CD25 (IL-2RA) and CD26 (DPPIV) were expressed on LSCs
+T18	Disease 838 869	Ph⁺ ALL exhibiting BCR/ABL1ₚ₂₁₀
+T2	Drug-Class 90 111	anti-leukemia therapy
+T20	Disease 882 907	Ph⁺ ALL with BCR/ABL1ₚ₁₉₀
+T23	Disease 967 974	Ph− ALL
+T25	Biomarker 976 1010	CD34⁺/CD38− LSCs expressed IL-1RAP
+T26	Gene-Protein 982 986	CD38
+T27	Gene-Protein 1214 1218	CD38
+T28	Gene-Protein 1230 1234	CD38
+T3	Disease 116 144	acute lymphoblastic leukemia
+#21	AnnotatorNotes T3	DOID:9952
+T31	Disease 1383 1398	Ph⁺ and Ph− ALL
+T33	Biomarker 1488 1586	LSC-phenotype closely resembles the marker-profile of CD34⁺/CD38− LSCs in chronic myeloid leukemia
+T34	Gene-Protein 1548 1552	CD38
+T36	Disease 1640 1649	neoplasms
+#27	AnnotatorNotes T36	DOID:162
+T37	Disease 1755 1758	ALL
+T4	Disease 146 149	ALL
+T5	Biomarker 152 200	LSCs frequently express CD34 and often lack CD38
+T6	Gene-Protein 196 200	CD38
+T7	Disease 266 269	ALL
+T8	Gene-Protein 341 345	CD38
+#2	AnnotatorNotes T4	DOID:9952
+T1	Gene-Protein 176 180	CD34
+#3	AnnotatorNotes T1	HGNC:1662
+#4	AnnotatorNotes T6	HGNC:1667
+R1	Association Arg1:T5 Arg2:T3	
+T38	Gene-Protein 335 339	CD34
+#5	AnnotatorNotes T10	not found
+#6	AnnotatorNotes T13	not found
+T9	Gene-Protein 466 470	CD19
+#7	AnnotatorNotes T9	HGNC:1633
+T11	Gene-Protein 477 481	CD44
+#8	AnnotatorNotes T11	HGNC:1681
+T12	Gene-Protein 491 496	CD123
+#9	AnnotatorNotes T12	HGNC:6012
+T14	Gene-Protein 498 504	IL-3RA
+#10	AnnotatorNotes T14	HGNC:6012
+T39	Gene-Protein 483 488	Pgp-1
+#11	AnnotatorNotes T39	HGNC:1681
+T40	Gene-Protein 472 474	B4
+#12	AnnotatorNotes T40	HGNC:1633
+T41	Gene-Protein 518 523	CXCR4
+#13	AnnotatorNotes T41	HGNC:2561
+#14	AnnotatorNotes T16	HGNC:2561
+T42	Gene-Protein 613 617	CD20
+#15	AnnotatorNotes T42	HGNC:7315
+T43	Gene-Protein 619 624	MS4A1
+#16	AnnotatorNotes T43	HGNC:7315
+T44	Gene-Protein 641 645	CD22
+#17	AnnotatorNotes T44	HGNC:1643
+T45	Gene-Protein 661 665	CD33
+#18	AnnotatorNotes T45	HGNC:1659
+T46	Gene-Protein 667 675	Siglec-3
+#19	AnnotatorNotes T46	HGNC:1659
+T47	Gene-Protein 692 696	CD52
+#20	AnnotatorNotes T47	HGNC:1804
+T48	Gene-Protein 698 707	CAMPATH-1
+#22	AnnotatorNotes T48	HGNC:1804
+T49	Gene-Protein 724 731	IL-1RAP
+#23	AnnotatorNotes T49	HGNC:5995
+T50	Gene-Protein 754 759	CD135
+#24	AnnotatorNotes T50	HGNC:3765
+T51	Gene-Protein 761 765	FLT3
+#25	AnnotatorNotes T51	HGNC:3765
+T52	Gene-Protein 781 785	CD25
+#28	AnnotatorNotes T52	HGNC:6008
+T53	Gene-Protein 787 793	IL-2RA
+#29	AnnotatorNotes T53	HGNC:6008
+T54	Gene-Protein 799 803	CD26
+#30	AnnotatorNotes T54	HGNC:3009
+T55	Gene-Protein 805 810	DPPIV
+#31	AnnotatorNotes T55	HGNC:3009
+R2	Association Arg1:T17 Arg2:T18	
+T19	Gene-Protein 857 860	BCR
+#32	AnnotatorNotes T19	HGNC:1014
+T21	Gene-Protein 895 898	BCR
+T56	Biomarker 909 937	LSCs variably expressed CD25
+T57	Gene-Protein 933 937	CD25
+R3	Association Arg1:T56 Arg2:T20	
+T58	Gene-Protein 958 962	CD26
+T22	Gene-Protein 976 980	CD34
+T24	Gene-Protein 1003 1010	IL-1RAP
+R4	Association Arg1:T25 Arg2:T23	
+T59	Gene-Protein 1055 1059	CD25
+T60	Gene-Protein 1063 1067	CD26
+T61	Gene-Protein 1108 1112	CD25
+T62	Gene-Protein 1114 1118	CD26
+T63	Gene-Protein 1123 1130	IL-1RAP
+T64	Gene-Protein 1166 1170	CD52
+T65	Gene-Protein 1208 1212	CD34
+T66	Gene-Protein 1224 1228	CD34
+T67	Gene-Protein 1318 1322	CD33
+T68	Gene-Protein 1327 1331	CD52
+#33	AnnotatorNotes T31	not found, not found
+T29	Disease 1457 1482	Ph⁺ ALL with BCR/ABL1ₚ₂₁₀
+#34	AnnotatorNotes T18	not found
+#35	AnnotatorNotes T20	not found
+#36	AnnotatorNotes T29	not found
+T30	Gene-Protein 1470 1473	BCR
+T32	Gene-Protein 1542 1546	CD34
+R5	Association Arg1:T33 Arg2:T29	
+T35	Biomarker 466 470	CD19
+T69	Biomarker 477 481	CD44
+T70	Biomarker 491 496	CD123
+T71	Biomarker 511 516	CD184
+T72	Collection 466 516	CD19 (B4), CD44 (Pgp-1), CD123 (IL-3RA), and CD184
+R6	Association Arg1:T72 Arg2:T15	
+T73	Biomarker 613 617	CD20
+T74	Biomarker 641 645	CD22
+T75	Biomarker 661 665	CD33
+T76	Biomarker 692 696	CD52
+T77	Biomarker 724 731	IL-1RAP
+T78	Biomarker 754 759	CD135
+T79	Collection 613 759	CD20 (MS4A1) (10/41 = 24%), CD22 (12/20 = 60%), CD33 (Siglec-3) (20/48 = 42%), CD52 (CAMPATH-1) (17/40 = 43%), IL-1RAP (13/29 = 45%), and/or CD135
+R7	Association Arg1:T79 Arg2:T15	
+T80	Biomarker 1095 1130	negative for CD25, CD26 and IL-1RAP
+T81	Biomarker 1151 1170	low amounts of CD52
+T82	Gene-Protein 1474 1478	ABL1

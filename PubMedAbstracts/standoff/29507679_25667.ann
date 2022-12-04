@@ -1,0 +1,102 @@
+T0	Disease 119 125	cancer
+#1	AnnotatorNotes T0	DOID:162
+T10	Disease 457 462	tumor
+#2	AnnotatorNotes T10	DOID:162
+T11	Disease 499 512	breast cancer
+#3	AnnotatorNotes T11	DOID:1612
+T12	Disease 548 562	bladder cancer
+#4	AnnotatorNotes T12	DOID:11054
+T13	Drug 602 613	Hsa-mir-143
+T15	Disease 623 628	tumor
+T16	Disease 639 652	breast cancer
+T17	Drug 661 672	Hsa-mir-144
+T19	Disease 733 750	pancreatic cancer
+#9	AnnotatorNotes T19	DOID:1793
+T20	Biomarker 765 776	Hsa-mir-182
+T22	Disease 786 801	prostate cancer
+T23	RNA-Noncoding 822 833	Hsa-mir-195
+T25	Disease 877 894	pancreatic cancer
+T26	RNA-Noncoding 909 920	Hsa-mir-218
+T30	Disease 1009 1020	lung cancer
+#16	AnnotatorNotes T30	DOID:1324
+T32	Disease 1154 1169	prostate cancer
+T35	Disease 1273 1284	lung cancer
+#18	AnnotatorNotes T35	DOID:1324
+T37	Disease 1353 1368	cervical cancer
+#19	AnnotatorNotes T37	DOID:4362
+T4	Disease 281 286	NSCLC
+#20	AnnotatorNotes T4	DOID:3908
+T6	Disease 339 345	cancer
+T8	Disease 401 406	NSCLC
+T1	Biomarker 48 79	consistently deregulated miRNAs
+R1	Association Arg1:T1 Arg2:T0	
+T2	RNA-Noncoding 174 194	hsa-mir-21 and -196b
+#5	AnnotatorNotes T2	HGNC:31586, HGNC:31790
+T3	RNA-Noncoding 237 249	hsa-mir-196a
+#8	AnnotatorNotes T3	not found
+T5	Biomarker 174 194	hsa-mir-21 and -196b
+#10	AnnotatorNotes T5	C524940, C542543
+T7	Biomarker 237 249	hsa-mir-196a
+#12	AnnotatorNotes T7	C542543
+T9	Collection 174 249	hsa-mir-21 and -196b are well established oncomirs [ 56 ], and hsa-mir-196a
+R2	Association Arg1:T9 Arg2:T4	
+T14	RNA-Noncoding 307 318	hsa-mir-30a
+#14	AnnotatorNotes T14	HGNC:31624
+T18	Biomarker 307 318	hsa-mir-30a
+#21	AnnotatorNotes T18	C546086
+R3	Association Arg1:T18 Arg2:T6	
+T21	RNA-Noncoding 360 372	Hsa-mir-135b
+#23	AnnotatorNotes T21	HGNC:31760
+T24	Drug 360 372	Hsa-mir-135b
+#24	AnnotatorNotes T24	C544965
+R4	Response Arg1:T24 Arg2:T8	
+T27	RNA-Noncoding 415 426	Hsa-mir-139
+#22	AnnotatorNotes T27	HGNC:31526
+T28	Biomarker 415 426	Hsa-mir-139
+#25	AnnotatorNotes T28	C555098
+T31	Drug 415 426	Hsa-mir-139
+#26	AnnotatorNotes T31	C555098
+T33	Collection 457 512	tumor behavior and disease progression in breast cancer
+R5	Association Arg1:T28 Arg2:T33	
+R6	Response Arg1:T31 Arg2:T12	
+#27	AnnotatorNotes T13	C542359
+T34	RNA-Noncoding 602 613	Hsa-mir-143
+#28	AnnotatorNotes T34	HGNC:31530
+T36	Collection 623 652	tumor growth of breast cancer
+R7	Response Arg1:T13 Arg2:T36	
+#6	AnnotatorNotes T17	C554293
+T38	Gene-Protein 661 672	Hsa-mir-144
+#7	AnnotatorNotes T38	HGNC:31531
+R8	Response Arg1:T17 Arg2:T19	
+T39	RNA-Noncoding 765 776	Hsa-mir-182
+#29	AnnotatorNotes T39	HGNC:31553
+#30	AnnotatorNotes T20	C538984
+R9	Association Arg1:T20 Arg2:T22	
+#11	AnnotatorNotes T23	HGNC:31566
+#31	AnnotatorNotes T22	DOID:10283
+T40	Drug 822 833	Hsa-mir-195
+#32	AnnotatorNotes T40	C552722
+R10	Response Arg1:T40 Arg2:T25	
+#13	AnnotatorNotes T26	not found
+T41	Biomarker 909 935	Hsa-mir-218 downregulation
+R11	Association Arg1:T41 Arg2:T30	
+T29	RNA-Noncoding 1029 1041	Hsa-mir-130b
+#15	AnnotatorNotes T29	HGNC:31515
+T42	Biomarker 1029 1041	Hsa-mir-130b
+#33	AnnotatorNotes T42	C554019
+R12	Association Arg1:T42 Arg2:T32	
+T43	Biomarker 1189 1232	hsa-mir-183 in combination with hsa-mir-19b
+A1	Conjunction T43
+#17	AnnotatorNotes T43	C533449, C524941
+T44	RNA-Noncoding 1189 1200	hsa-mir-183
+#34	AnnotatorNotes T44	HGNC:31554
+T45	RNA-Noncoding 1221 1232	hsa-mir-19b
+#35	AnnotatorNotes T45	not found
+R13	Association Arg1:T43 Arg2:T35	
+T46	Biomarker 1304 1322	hsa-mir-145 and -9
+#36	AnnotatorNotes T46	C541010, C541874
+T47	RNA-Noncoding 1304 1322	hsa-mir-145 and -9
+#37	AnnotatorNotes T47	HGNC:31532, not found
+R14	Association Arg1:T46 Arg2:T37	
+T48	RNA-Noncoding 216 224	oncomirs
+#38	AnnotatorNotes T48	not found

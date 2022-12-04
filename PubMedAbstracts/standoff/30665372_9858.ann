@@ -1,0 +1,51 @@
+T1	Variant 417 425	Leu60Arg
+T10	Variant 873 881	Gly26Arg
+T11	Variant 883 891	Trp50Arg
+T13	Variant 893 901	Leu60Arg
+T14	Variant 903 911	Leu64Pro
+T16	Variant 913 927	Glu70_Trp72del
+T18	Variant 929 936	Asn74fs
+T20	Variant 938 946	Leu75Pro
+T21	Variant 948 956	Ala154fs
+T23	Disease 1178 1196	AApoAI amyloidosis
+T24	Disease 1469 1490	adrenal insufficiency
+#9	AnnotatorNotes T24	DOID:0050546
+T25	Chemical 1564 1572	cortisol
+T26	Variant 1844 1848	L60P
+T3	Variant 496 504	Leu60Pro
+T6	Variant 607 615	Leu60Arg
+T7	Disease 633 650	renal dysfunction
+#13	AnnotatorNotes T7	DOID:557
+T27	Gene-Protein 201 206	ApoAI
+#1	AnnotatorNotes T27	HGNC:600
+T28	Gene-Protein 402 407	APOA1
+#2	AnnotatorNotes T1	p.Leu60Arg
+T2	Biomarker 532 600	deposition of amyloid fibrils in the liver without renal involvement
+#3	AnnotatorNotes T10	p.Gly26Arg
+#4	AnnotatorNotes T11	p.Trp50Arg
+#5	AnnotatorNotes T14	p.Leu64Pro
+#6	AnnotatorNotes T20	p.Leu75Pro
+#10	AnnotatorNotes T18	p.Asn74fs
+#11	AnnotatorNotes T21	p.ALA154fs
+T4	Variant 1090 1113	Leu60_Phe71delinsValThr
+T5	Gene-Protein 1542 1546	ACTH
+#7	AnnotatorNotes T5	HGNC:9201
+T8	Collection 496 615	Leu60Pro variant is associated with deposition of amyloid fibrils in the liver without renal involvement while Leu60Arg
+T9	Variant 1229 1252	Leu60_Phe71delinsValThr
+T12	Gene-Protein 1637 1642	ApoAI
+T15	Collection 873 1114	Gly26Arg, Trp50Arg, Leu60Arg, Leu64Pro, Glu70_Trp72del, Asn74fs, Leu75Pro, Ala154fs) have been associated with renal involvement (with or without liver involvement) [ 8 ] and only one with isolated liver involvement (Leu60_Phe71delinsValThr)
+R1	Variant-Of Arg1:T28 Arg2:T8	
+R2	Variant-Of Arg1:T28 Arg2:T1	
+#8	AnnotatorNotes T26	p.Leu60Pro
+R5	Variant-Of Arg1:T12 Arg2:T26	
+#12	AnnotatorNotes T28	HGNC:600
+R6	Risk-Factor Arg1:T9 Arg2:T23	
+T19	Biomarker 1528 1546	high level of ACTH
+T22	Biomarker 1551 1572	low level of cortisol
+T29	Collection 1528 1572	high level of ACTH and low level of cortisol
+R7	Association Arg1:T29 Arg2:T24	
+#15	AnnotatorNotes T23	D028226
+#16	AnnotatorNotes T4	p.Leu60_Phe71delinsValThr
+#17	AnnotatorNotes T16	p.Glu70_Trp72del
+R4	Variant-Of Arg1:T28 Arg2:T15	
+R3	Variant-Of Arg1:T12 Arg2:T9	

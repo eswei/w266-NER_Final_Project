@@ -1,0 +1,32 @@
+31630475_8020|t|RSS_IDENT_s_31630475_b_1_3
+31630475_8020|a| 2 Materials and methods 2.1 Chemicals, reagents, and antibodies All reagents and materials were purchased in Australia except when indicated. Cell culture reagents were sourced from Gibco (ThermoFisher, North Ryde, Australia) and chemical reagents were purchased from Sigma (Castle Hill, Australia) except when specified. Antibodies were purchased from the following vendors: anti‐KLK14 catalytic domain antibody (Triple Point Biologics, Forest Grove, OR, USA), anti‐beta actin and anti‐GAPDH (mouse monoclonal; Abcam, Cambridge, UK), anti‐KLK3/PSA (rabbit polyclonal; Dako, North Sydney, Australia), anti‐agrin (AGRN; rabbit polyclonal; ThermoFisher), anti‐phospho Erk1/2 (Tyr202/204, rabbit polyclonal; Cell Signaling Technology, Genesearch, Arundel, Australia), anti‐Erk1/2 (mouse monoclonal; Cell Signaling Technology), anti‐phospho Mek1/2 (Ser217/221, rabbit monoclonal; Cell Signaling Technology), anti‐Mek1/2 (mouse monoclonal; Cell Signaling Technology), and anti‐GFP (mouse monoclonal; Abcam). Goat anti‐mouse IgG Alexa Fluor‐680, goat anti‐rabbit IgG Alexa Fluor‐680, goat anti‐rabbit IgG Alexa Fluor‐488, and Alexa Fluor‐647 Phalloidin were purchased from Thermo Fisher Scientific (Seventeen Mile Rocks, Australia). Recombinant human KLK14 (2626‐SE), purified thermolysin (3097‐ZN), recombinant human AGRN (6624‐AG), recombinant human desmoglein‐2 (DSG2; 947‐DM), and recombinant human cystatin‐C (CST3; 1196‐PI) were purchased from R&D Systems (In Vitro Technologies, Noble Park, Australia). The SFTI‐WCIR was produced as previously described (de Veer et al., 2017).
+31630475_8020	404	440	anti‐KLK14 catalytic domain antibody	Gene-protein
+31630475_8020	490	505	anti‐beta actin	Gene-protein
+31630475_8020	510	520	anti‐GAPDH	Gene-protein
+31630475_8020	563	576	anti‐KLK3/PSA	Gene-protein
+31630475_8020	629	639	anti‐agrin	Gene-protein
+31630475_8020	641	645	AGRN	Gene-protein
+31630475_8020	681	700	anti‐phospho Erk1/2	Gene-protein
+31630475_8020	702	712	Tyr202/204	Chemical
+31630475_8020	793	804	anti‐Erk1/2	Gene-protein
+31630475_8020	852	871	anti‐phospho Mek1/2	Gene-protein
+31630475_8020	857	864	phospho	Chemical
+31630475_8020	873	883	Ser217/221	Chemical
+31630475_8020	932	943	anti‐Mek1/2	Gene-protein
+31630475_8020	995	1003	anti‐GFP	Gene-protein
+31630475_8020	1036	1050	anti‐mouse IgG	Gene-protein
+31630475_8020	1051	1066	Alexa Fluor‐680	Chemical
+31630475_8020	1073	1088	anti‐rabbit IgG	Gene-protein
+31630475_8020	1089	1104	Alexa Fluor‐680	Chemical
+31630475_8020	1111	1126	anti‐rabbit IgG	Gene-protein
+31630475_8020	1127	1142	Alexa Fluor‐488	Chemical
+31630475_8020	1148	1163	Alexa Fluor‐647	Chemical
+31630475_8020	1164	1174	Phalloidin	Chemical
+31630475_8020	1273	1278	KLK14	Gene-protein	HGNC:6362
+31630475_8020	1299	1310	thermolysin	Gene-protein
+31630475_8020	1340	1344	AGRN	Gene-protein	HGNC:329
+31630475_8020	1374	1386	desmoglein‐2	Gene-protein	HGNC:3049
+31630475_8020	1388	1392	DSG2	Gene-protein	HGNC:3049
+31630475_8020	1425	1435	cystatin‐C	Gene-protein	HGNC:2475
+31630475_8020	1437	1441	CST3	Gene-protein	HGNC:2475
+

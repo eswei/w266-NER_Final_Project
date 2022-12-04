@@ -1,0 +1,48 @@
+31374004_14855|t|RSS_IDENT_p_31374004_b_1_4_7
+31374004_14855|a| In addition, elevated levels of apoA1 and apoB were detected in the serum of psoriatic patients compared to the serum of control group individuals.[ ⁸ , ²⁸ ] However, there are also contrary results showing decreased levels of apolipoproteins.[ ¹⁰ ] ApoA1 plays an important role in the reverse cholesterol transport from the peripheral cells to the liver, and a lower level of apoA1 is associated with a higher risk of atherosclerosis. The lower serum level of apoA1 in the inflammatory tissues might lead to the reduction of circulating HDL and thus increase the risk of cardiovascular disease in psoriatic patients.[ ²⁹ ] In our study, the apoA1 level was significantly decreased in the psoriatic patients, and there was a strong correlation between apoA1 and HDL (r = 0.584, P <.001). An elevated level of apoB is associated with the increased risk of atherosclerosis because of its role in cholesterol accumulation in the endothelium. The level of apoB in our patient group was higher than in the control group, but there was no significant difference. ApoE is essential for the normal transformation and metabolic processes involved in lipoproteins, and it also modulates TG and LDL levels.[ ³⁰ ] Veletza et al[ ³⁰ ] found that the downregulation of apoE expression and the normalization of the apoE level preceded clinical improvement, suggesting that the apoE gene might play a role in psoriasis. In contrast, no significant elevation of apoE in patients was noted, but the levels of TG (r = 0.630, P <.001) and LDL (r = 0.265, P <.001) in psoriasis were positively correlated with apoE. 
+31374004_14855	43	76	elevated levels of apoA1 and apoB	Biomarker
+31374004_14855	62	67	apoA1	Gene-protein	HGNC:600
+31374004_14855	72	76	apoB	Gene-protein	HGNC:603
+31374004_14855	107	116	psoriatic	Disease	DOID:8893
+31374004_14855	237	272	decreased levels of apolipoproteins	Biomarker
+31374004_14855	257	272	apolipoproteins	Genefamily	family:405
+31374004_14855	280	285	ApoA1	Gene-protein	HGNC:600
+31374004_14855	325	336	cholesterol	Chemical
+31374004_14855	393	413	lower level of apoA1	Biomarker
+31374004_14855	408	413	apoA1	Gene-protein
+31374004_14855	450	465	atherosclerosis	Disease	DOID:1936
+31374004_14855	471	525	lower serum level of apoA1 in the inflammatory tissues	Biomarker
+31374004_14855	492	497	apoA1	Gene-protein
+31374004_14855	544	572	reduction of circulating HDL	Biomarker
+31374004_14855	569	572	HDL	Chemical
+31374004_14855	603	638	cardiovascular disease in psoriatic	Disease	DOID:1287, DOID:8893	Conjunction
+31374004_14855	673	678	apoA1	Gene-protein
+31374004_14855	673	712	apoA1 level was significantly decreased	Biomarker
+31374004_14855	720	729	psoriatic	Disease
+31374004_14855	783	788	apoA1	Gene-protein
+31374004_14855	783	788	apoA1	Biomarker	 D016632
+31374004_14855	793	796	HDL	Chemical
+31374004_14855	793	796	HDL	Biomarker	D008075
+31374004_14855	822	844	elevated level of apoB	Biomarker
+31374004_14855	840	844	apoB	Gene-protein
+31374004_14855	886	901	atherosclerosis	Disease
+31374004_14855	925	936	cholesterol	Chemical
+31374004_14855	974	987	level of apoB	Biomarker
+31374004_14855	983	987	apoB	Gene-protein
+31374004_14855	1088	1092	ApoE	Gene-protein	HGNC:613
+31374004_14855	1208	1210	TG	Chemical
+31374004_14855	1215	1218	LDL	Chemical
+31374004_14855	1268	1301	downregulation of apoE expression	Biomarker
+31374004_14855	1286	1290	apoE	Gene-protein
+31374004_14855	1310	1335	normalization of the apoE	Biomarker
+31374004_14855	1331	1335	apoE	Gene-protein
+31374004_14855	1393	1397	apoE	Gene-protein
+31374004_14855	1393	1397	apoE	Biomarker	D001057
+31374004_14855	1424	1433	psoriasis	Disease	DOID:8893
+31374004_14855	1476	1480	apoE	Gene-protein
+31374004_14855	1512	1524	levels of TG	Biomarker
+31374004_14855	1522	1524	TG	Chemical
+31374004_14855	1578	1587	psoriasis	Disease
+31374004_14855	1620	1624	apoE	Gene-protein
+31374004_14855	1620	1624	apoE	Biomarker
+

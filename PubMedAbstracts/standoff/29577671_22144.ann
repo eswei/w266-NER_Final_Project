@@ -1,0 +1,88 @@
+T1	Disease 247 253	cancer
+#1	AnnotatorNotes T1	DOID:162
+T11	Disease 452 464	osteosarcoma
+#3	AnnotatorNotes T11	DOID:3347
+T12	Disease 466 499	cutaneous squamous cell carcinoma
+#4	AnnotatorNotes T12	DOID:1749
+T13	Disease 505 510	NSCLC
+#5	AnnotatorNotes T13	DOID:3908
+T14	Disease 572 590	metastatic lesions
+#6	AnnotatorNotes T14	not found
+T16	Disease 896 909	breast cancer
+#7	AnnotatorNotes T16	DOID:1612
+T17	Chemical 934 942	estrogen
+T19	Disease 1057 1061	ESCC
+T2	Disease 279 284	tumor
+#10	AnnotatorNotes T2	DOID:162
+T21	Disease 1115 1119	ESCC
+T24	Disease 1241 1245	ESCC
+T26	Disease 1311 1315	ESCC
+T27	Disease 1358 1362	ESCC
+T3	Disease 303 309	glioma
+#15	AnnotatorNotes T3	D005910
+T31	Disease 1507 1510	EJA
+T4	Disease 314 318	ESCC
+T5	Biomarker 329 333	NFIB
+T6	Disease 365 369	SCLC
+T7	Disease 371 379	melanoma
+#20	AnnotatorNotes T7	DOID:1909
+T8	Disease 381 394	breast cancer
+#21	AnnotatorNotes T8	DOID:1612
+T9	Disease 400 412	colon cancer
+#22	AnnotatorNotes T9	DOID:219
+T15	GeneFamily 59 63	NFIs
+#8	AnnotatorNotes T15	family:1985
+T18	GeneFamily 199 203	NFIs
+T20	Biomarker 199 203	NFIs
+#9	AnnotatorNotes T20	D051839
+R1	Association Arg1:T20 Arg2:T1	
+T22	Gene-Protein 257 261	NFIA
+#11	AnnotatorNotes T22	HGNC:7784
+T23	Collection 279 318	tumor‐promoting gene in glioma and ESCC
+T25	Biomarker 257 261	NFIA
+#12	AnnotatorNotes T25	D051839
+R2	Association Arg1:T25 Arg2:T23	
+#13	AnnotatorNotes T5	C110754
+T10	Collection 452 510	osteosarcoma, cutaneous squamous cell carcinoma, and NSCLC
+T29	GeneFamily 685 688	NFI
+T30	Gene-Protein 329 333	NFIB
+#2	AnnotatorNotes T30	HGNC:7785
+T32	Gene-Protein 701 705	NFIB
+T33	Gene-Protein 848 852	NFIB
+T34	Biomarker 848 852	NFIB
+R5	Association Arg1:T34 Arg2:T16	
+T35	Gene-Protein 1033 1037	NFIA
+T36	Biomarker 1033 1037	NFIA
+T37	Gene-Protein 1090 1094	NFIA
+T38	Biomarker 1090 1111	NFIA is overexpressed
+R6	Association Arg1:T36 Arg2:T19	
+R7	Association Arg1:T38 Arg2:T21	
+T39	Gene-Protein 1138 1142	NFIA
+T40	Gene-Protein 1280 1284	NFIB
+T41	Gene-Protein 1383 1387	NFIB
+T43	Disease 1412 1415	EJA
+#14	AnnotatorNotes T43	DOID:4944
+T44	Gene-Protein 1426 1430	NFIB
+T42	Disease 1723 1726	EJA
+T45	Gene-Protein 1658 1662	NFIA
+T46	Gene-Protein 1667 1671	NFIB
+T47	Disease 1714 1718	ESCC
+T48	Gene-Protein 1593 1597	NFIB
+T49	Disease 1601 1604	EJA
+T51	GeneFamily 1764 1767	NFI
+#16	AnnotatorNotes T4	DOID:3748
+T52	Disease 1477 1480	EJA
+T53	Gene-Protein 985 988	ERα
+#17	AnnotatorNotes T53	HGNC:3467
+T50	Biomarker 1383 1408	NFIB was highly expressed
+R8	Association Arg1:T50 Arg2:T43	
+T54	Biomarker 1421 1441	high NFIB expression
+R9	Prognostic-Poor Arg1:T54 Arg2:T52	
+T55	Collection 1714 1726	ESCC and EJA
+T56	Biomarker 1636 1671	differential roles of NFIA and NFIB
+R10	Association Arg1:T56 Arg2:T55	
+T57	Biomarker 1280 1307	NFIB was also overexpressed
+T58	Biomarker 1133 1153	high NFIA expression
+R11	Association Arg1:T58 Arg2:T21	
+#19	AnnotatorNotes T6	DOID:5409
+#18	AnnotatorNotes T36	D051839

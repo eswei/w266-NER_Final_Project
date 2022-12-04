@@ -1,0 +1,54 @@
+31576172_32684|t|RSS_IDENT_p_31576172_b_1_4_3
+31576172_32684|a| KLF4 belongs to the Kruppel family of transcription factors, which encode zinc finger proteins required for normal development of the barrier function of skin. 19 Accumulative evidence have uncovered the critical roles of KLF4 in a number of human malignancies. For instance, Nagata et al proposed that KLF4 and NANOG possessed prognostic biomarker value for triple-negative breast cancer. 20 Zhao et al demonstrated that lncRNA SNHG5/miR-32 axis-regulated gastric cancer cell proliferation and migration by targeting KLF4. 21 In bladder cancer cells, Minami et al uncovered that miR-145 negatively regulated Warburg effect by silencing KLF4 and PTBP1. 22 Yan et al reported that KLF4-mediated suppression of CD44 signaling negatively impacted pancreatic cancer stemness and metastasis. 23 Wei et al characterized that KLF4 was essential for induction of cellular identity change and acinar-to-ductal reprogramming during early pancreatic carcinogenesis. 23 In colorectal carcinoma, Zhai et al showed miR-543 promoted cancer proliferation and metastasis by targeting KLF4. 24 Ma et al unraveled that KLF4 inhibited CRC cell proliferation dependent on NDRG2 signaling. 25 Xu et al provided evidence that over-expression of KLF4 promoted cell senescence through miR-203-survivin-p21 pathway. 26 Consistent with the well-acknowledged anti-tumor properties of KLF4 in CRC, here we for the first time displayed that KLF4 was directly involved in miR-153-1 transcription, which eventually contributed to its tumor suppressor function. Noteworthily, while most investigations focused on the downstream regulatory network of dysregulated microRNAs, here we bioinformatically predicted and experimentally identified KLF4 as the transcription factor of miR-153-1.
+31576172_32684	30	34	KLF4	Gene-protein	HGNC:6348
+31576172_32684	50	57	Kruppel	Genefamily	family:624
+31576172_32684	104	108	zinc	Chemical
+31576172_32684	104	124	zinc finger proteins	Genefamily	family:26
+31576172_32684	252	256	KLF4	Biomarker
+31576172_32684	252	256	KLF4	Gene-protein
+31576172_32684	278	290	malignancies	Disease	DOID:162
+31576172_32684	333	337	KLF4	Biomarker
+31576172_32684	333	337	KLF4	Gene-protein
+31576172_32684	333	347	KLF4 and NANOG	Collection
+31576172_32684	342	347	NANOG	Biomarker	C486780
+31576172_32684	342	347	NANOG	Gene-protein	HGNC:20857
+31576172_32684	389	418	triple-negative breast cancer	Disease	DOID:0060081
+31576172_32684	459	464	SNHG5	Rna-noncoding	HGNC:21026
+31576172_32684	459	476	SNHG5/miR-32 axis	Biomarker
+31576172_32684	465	471	miR-32	Rna-noncoding	HGNC:31631
+31576172_32684	487	501	gastric cancer	Disease	DOID:10534
+31576172_32684	548	552	KLF4	Gene-protein
+31576172_32684	560	574	bladder cancer	Disease	DOID:11054
+31576172_32684	610	617	miR-145	Biomarker	C541010
+31576172_32684	610	617	miR-145	Rna-noncoding	HGNC:31532
+31576172_32684	667	671	KLF4	Gene-protein
+31576172_32684	676	681	PTBP1	Gene-protein	HGNC:9583
+31576172_32684	710	714	KLF4	Gene-protein
+31576172_32684	710	753	KLF4-mediated suppression of CD44 signaling	Biomarker
+31576172_32684	739	743	CD44	Gene-protein	HGNC:1681
+31576172_32684	774	791	pancreatic cancer	Disease	DOID:1793
+31576172_32684	849	853	KLF4	Biomarker
+31576172_32684	849	853	KLF4	Gene-protein
+31576172_32684	958	983	pancreatic carcinogenesis	Disease	DOID:1793
+31576172_32684	991	1011	colorectal carcinoma	Disease	DOID:0080199
+31576172_32684	1031	1038	miR-543	Biomarker	C577592
+31576172_32684	1031	1038	miR-543	Rna-noncoding	HGNC:33664
+31576172_32684	1048	1054	cancer	Disease	DOID:162
+31576172_32684	1097	1101	KLF4	Gene-protein
+31576172_32684	1130	1134	KLF4	Gene-protein
+31576172_32684	1130	1134	KLF4	Drug	not found
+31576172_32684	1145	1148	CRC	Disease	DOID:9256
+31576172_32684	1181	1186	NDRG2	Gene-protein	HGNC:14460
+31576172_32684	1233	1256	over-expression of KLF4	Biomarker
+31576172_32684	1252	1256	KLF4	Gene-protein
+31576172_32684	1290	1297	miR-203	Rna-noncoding	family:1723
+31576172_32684	1298	1306	survivin	Gene-protein	HGNC:593
+31576172_32684	1307	1310	p21	Gene-protein	HGNC:1784
+31576172_32684	1386	1390	KLF4	Gene-protein
+31576172_32684	1386	1390	KLF4	Drug
+31576172_32684	1394	1397	CRC	Disease
+31576172_32684	1441	1445	KLF4	Gene-protein
+31576172_32684	1471	1480	miR-153-1	Rna-noncoding	HGNC:31539
+31576172_32684	1737	1741	KLF4	Gene-protein
+31576172_32684	1773	1782	miR-153-1	Rna-noncoding
+

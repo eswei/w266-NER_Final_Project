@@ -1,0 +1,49 @@
+30456203_2536|t|RSS_IDENT_p_30456203_b_1_1_3
+30456203_2536|a| S100A8, which is a low molecular weight calcium-binding protein, is originally discovered as an immunogenic protein secreted by granulocytes and monocytes. S100A8 has emerged as an inflammatory factor and is associated with cancer. S100A8 is increasingly recognized as a biomarker in many solid tumors, such as head and neck squamous cell carcinoma ( 6 ), as well as colon ( 7 ), ovarian ( 8 ), bladder, and breast cancers ( 9 ). Recently, studies have shown that S100A8 is a potential indicator of poor survival in acute myeloid leukemia (AML) ( 10 ), and increased mRNA levels of S100A8 were associated with progression in breast cancer ( 11 ). S100A8 and S100A9 usually form a heterodimer called calprotectin, which is expressed in immune cells infiltrating the breast cancer stroma ( 12 ). S100A8/A9 stimulates breast cancer progression by activating key signaling pathways, such as IL-6-JAK2-STAT3, TNF-α-CXCL1/2, TGF-β, NF-κB, and MAPK ( 12 , 13 ). A few studies have uncovered that individual S100A8 plays a vital role in poor prognosis of breast cancer. Infiltrating S100A8+ myeloid cells coordinated by macrophage inhibitory factor (MIF) result in poor overall survival (OS) and shorter metastasis-free survival in breast cancer patients ( 12 ). However, studies strongly suggest that S100A8 is expressed by cancer cells as well as by infiltrating immune and myeloid cells ( 14 ). The aim of this study was to examine the expression of S100A8 at the protein level in breast cancer cells. 
+30456203_2536	30	36	S100A8	Gene-protein	HGNC:10498
+30456203_2536	70	77	calcium	Chemical
+30456203_2536	186	192	S100A8	Gene-protein
+30456203_2536	186	192	S100A8	Biomarker	D040501
+30456203_2536	254	260	cancer	Disease	DOID:162
+30456203_2536	262	268	S100A8	Gene-protein
+30456203_2536	262	268	S100A8	Biomarker
+30456203_2536	319	331	solid tumors	Disease	DOID:162
+30456203_2536	319	452	solid tumors, such as head and neck squamous cell carcinoma ( 6 ), as well as colon ( 7 ), ovarian ( 8 ), bladder, and breast cancers	Collection
+30456203_2536	341	378	head and neck squamous cell carcinoma	Disease	DOID:5520
+30456203_2536	397	452	colon ( 7 ), ovarian ( 8 ), bladder, and breast cancers	Disease	DOID:219, DOID:2394, DOID:11054, DOID:1612
+30456203_2536	494	500	S100A8	Gene-protein
+30456203_2536	494	500	S100A8	Biomarker
+30456203_2536	546	568	acute myeloid leukemia	Disease	DOID:9119
+30456203_2536	570	573	AML	Disease	DOID:9119
+30456203_2536	587	618	increased mRNA levels of S100A8	Biomarker
+30456203_2536	612	618	S100A8	Gene-protein
+30456203_2536	655	668	breast cancer	Disease	DOID:1612
+30456203_2536	677	683	S100A8	Gene-protein
+30456203_2536	677	741	S100A8 and S100A9 usually form a heterodimer called calprotectin	Biomarker
+30456203_2536	688	694	S100A9	Gene-protein	HGNC:10499
+30456203_2536	729	741	calprotectin	Gene-protein	not found
+30456203_2536	795	808	breast cancer	Disease
+30456203_2536	824	833	S100A8/A9	Gene-protein
+30456203_2536	824	833	S100A8/A9	Biomarker	D040501, D040502
+30456203_2536	845	858	breast cancer	Disease
+30456203_2536	917	921	IL-6	Gene-protein	HGNC:6018
+30456203_2536	922	926	JAK2	Gene-protein	HGNC:6192
+30456203_2536	927	932	STAT3	Gene-protein	HGNC:11364
+30456203_2536	934	939	TNF-α	Gene-protein	HGNC:11892
+30456203_2536	940	947	CXCL1/2	Gene-protein	HGNC:4602, HGNC:4603
+30456203_2536	949	954	TGF-β	Genefamily	family:1664
+30456203_2536	956	961	NF-κB	Genefamily	family:1254
+30456203_2536	967	971	MAPK	Genefamily	family:651
+30456203_2536	1030	1036	S100A8	Gene-protein
+30456203_2536	1030	1036	S100A8	Biomarker
+30456203_2536	1077	1090	breast cancer	Disease
+30456203_2536	1092	1176	Infiltrating S100A8+ myeloid cells coordinated by macrophage inhibitory factor (MIF)	Biomarker
+30456203_2536	1105	1111	S100A8	Gene-protein
+30456203_2536	1254	1267	breast cancer	Disease
+30456203_2536	1324	1330	S100A8	Gene-protein
+30456203_2536	1324	1330	S100A8	Biomarker
+30456203_2536	1347	1353	cancer	Disease
+30456203_2536	1475	1481	S100A8	Gene-protein
+30456203_2536	1475	1481	S100A8	Biomarker
+30456203_2536	1506	1519	breast cancer	Disease
+

@@ -1,0 +1,70 @@
+T1	Biomarker 56 107	multiple functional variants in several novel genes
+T10	Biomarker 245 265	cognitive impairment
+T11	Biomarker 275 307	level of circulating vitamin B₁₂
+T12	Chemical 296 307	vitamin B₁₂
+T13	Disease 333 335	AD
+T14	Chemical 362 384	adenosine triphosphate
+T15	Disease 461 463	AD
+T16	Disease 488 490	AD
+T17	Variant 516 522	P2983A
+T18	Disease 571 589	craniorachischisis
+T19	Disease 609 627	neural tube defect
+#7	AnnotatorNotes T19	DOID:0080074
+T2	Disease 128 130	AD
+#8	AnnotatorNotes T2	DOID:10652
+T20	Biomarker 642 657	CELSR1 variants
+T21	Disease 682 697	ischemic stroke
+#9	AnnotatorNotes T21	D000083242
+T22	Disease 969 986	neurodegeneration
+#10	AnnotatorNotes T22	D009410
+T23	Biomarker 1031 1057	CELSR1 and GTSE1 mutations
+T24	Disease 1081 1083	AD
+T26	Disease 1183 1185	AD
+T27	Biomarker 1195 1200	LAMC3
+T3	Biomarker 132 150	Mutations in ABCD4
+T4	Disease 160 198	inborn error of vitamin B₁₂ metabolism
+#14	AnnotatorNotes T4	not found
+T5	Chemical 176 187	vitamin B₁₂
+T6	Chemical 203 214	Vitamin B₁₂
+T8	Biomarker 203 225	Vitamin B₁₂ deficiency
+R1	Risk-Factor Arg1:T1 Arg2:T2	
+T29	Gene-Protein 145 150	ABCD4
+#1	AnnotatorNotes T29	HGNC:68
+R2	Risk-Factor Arg1:T3 Arg2:T4	
+R3	Association Arg1:T11 Arg2:T13	
+T7	Gene-Protein 345 350	ABCD4
+T9	Gene-Protein 469 474	ABCA7
+#2	AnnotatorNotes T9	HGNC:37
+T30	GeneFamily 362 413	adenosine triphosphate–binding cassette transporter
+#3	AnnotatorNotes T30	family:417
+T31	Gene-Protein 502 508	CELSR1
+#4	AnnotatorNotes T31	HGNC:1850
+R4	Variant-Of Arg1:T31 Arg2:T17	
+#5	AnnotatorNotes T17	p.Pro2983Ala
+R5	Association Arg1:T17 Arg2:T16	
+#6	AnnotatorNotes T18	D009436
+T32	Gene-Protein 642 648	CELSR1
+R6	Association Arg1:T17 Arg2:T18	
+R7	Risk-Factor Arg1:T20 Arg2:T21	
+T33	Gene-Protein 743 751	CELSR1-3
+#15	AnnotatorNotes T33	HGNC:1850, HGNC:3231, HGNC:3230
+T34	Gene-Protein 873 878	GTSE1
+#16	AnnotatorNotes T34	HGNC:13698
+T35	Biomarker 873 878	GTSE1
+#17	AnnotatorNotes T35	C115080
+R8	Association Arg1:T35 Arg2:T22	
+T36	Gene-Protein 1031 1037	CELSR1
+T37	Gene-Protein 1042 1047	GTSE1
+T38	Gene-Protein 1090 1095	LAMC3
+#11	AnnotatorNotes T38	HGNC:6494
+T39	Gene-Protein 1104 1123	laminin subunit γ 3
+#18	AnnotatorNotes T39	HGNC:6494
+T25	Biomarker 1171 1179	laminins
+#19	AnnotatorNotes T25	D007797
+T40	GeneFamily 1171 1179	laminins
+#20	AnnotatorNotes T40	family:626
+R10	Association Arg1:T25 Arg2:T26	
+T41	Gene-Protein 1195 1200	LAMC3
+#12	AnnotatorNotes T27	C504218
+T42	Biomarker 1240 1258	age at onset of AD
+#13	AnnotatorNotes T42	D017668

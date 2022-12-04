@@ -1,0 +1,72 @@
+30341811_118|t|RSS_IDENT_p_30341811_a_1_1
+30341811_118|a| Gemcitabine serves as a first‐line chemotherapy agent for advanced pancreatic cancer (PC). However, the molecular basis by which gemcitabine exerts its effects is not well‐established, and the targeted genetic pathways remain unclear. Pvt1 oncogene (non‐protein coding) (PVT1) has been reported to be an oncogenic long non‐coding RNA in tumorigenesis. In the present study, we show that the expression of PVT1 is correlated with gemcitabine efficacy in PC therapy. Inhibition of PVT1 led to decreased cell growth in PC cells treated with gemcitabine. We also demonstrate that gemcitabine treatment decreases PVT1 levels and increases its encoded miRNAs, such as the miR‐1207 pair (miR‐1207‐5p/3p). Overexpression of the miR‐1207 pair enhanced the chemosensitivity of cells to gemcitabine, whereas silencing of miR‐1207‐5p/3p to prevent its induction by gemcitabine treatment led to increased cell growth. Mechanistic studies revealed that miR‐1207‐5p and miR‐1207‐3p target the SRC proto‐oncogene (non‐receptor tyrosine kinase) and ras homolog family member A in PC cells, respectively. In particular, we observed that gemcitabine induced Drosha ribonuclease III (Drosha) and DGCR8 microprocessor complex subunit (DGCR8) upregulation and then triggered PVT1 processing. Suppression of Drosha and DGCR8 contributed to a dampened efficacy of gemcitabine, indicating that gemcitabine decreased PVT1 expression by promoting its processing into miRNAs, which in turn resulted in blunted oncogenic signaling in PC cells. Moreover, we demonstrate that gemcitabine chemoresistance was a result of decreased expression of Drosha and DGCR8 in AsPC‐1 cells and tumor cell‐engrafted models. Overall, our findings define a novel mechanism for understanding the efficacy of gemcitabine chemotherapy in PC. Abbreviations ATCC American type culture collection CCK‐8 Cell Counting Kit‐8 DGCR8 DGCR8 microprocessor complex subunit Drosha Drosha ribonuclease III HRP horseradish peroxidase IHC immunohistochemistry lncRNA long non‐coding RNA miRNA microRNA MYC MYC proto‐oncogene, bHLH transcription factor NS normal saline PC pancreatic cancer PVT1 Pvt1 oncogene (non‐protein coding) qRT‐PCR quantitative RT‐PCR RhoA ras homolog family member A Scr scramble SRC SRC proto‐oncogene, non‐receptor tyrosine kinase
+30341811_118	28	39	Gemcitabine	Drug	CHEMBL888
+30341811_118	63	75	chemotherapy	Drug-class
+30341811_118	86	112	advanced pancreatic cancer	Disease	not found
+30341811_118	114	116	PC	Disease	DOID:1793
+30341811_118	157	168	gemcitabine	Drug	CHEMBL888
+30341811_118	263	267	Pvt1	Rna-noncoding	HGNC:9709
+30341811_118	299	303	PVT1	Rna-noncoding	HGNC:9709
+30341811_118	419	437	expression of PVT1	Biomarker
+30341811_118	433	437	PVT1	Rna-noncoding
+30341811_118	457	468	gemcitabine	Drug
+30341811_118	481	483	PC	Disease
+30341811_118	493	511	Inhibition of PVT1	Drug	not found
+30341811_118	507	511	PVT1	Rna-noncoding
+30341811_118	544	546	PC	Disease
+30341811_118	566	577	gemcitabine	Drug
+30341811_118	604	615	gemcitabine	Drug
+30341811_118	636	640	PVT1	Rna-noncoding
+30341811_118	694	702	miR‐1207	Rna-noncoding	HGNC:35273
+30341811_118	709	723	miR‐1207‐5p/3p	Rna-noncoding	HGNC:35273,HGNC:35273
+30341811_118	726	761	Overexpression of the miR‐1207 pair	Drug	not found
+30341811_118	748	756	miR‐1207	Rna-noncoding
+30341811_118	804	815	gemcitabine	Drug
+30341811_118	838	852	miR‐1207‐5p/3p	Rna-noncoding
+30341811_118	881	892	gemcitabine	Drug
+30341811_118	967	978	miR‐1207‐5p	Rna-noncoding	HGNC:35273
+30341811_118	983	994	miR‐1207‐3p	Rna-noncoding	HGNC:35273
+30341811_118	1006	1009	SRC	Gene-protein	HGNC:11283
+30341811_118	1026	1054	non‐receptor tyrosine kinase	Gene-protein	HGNC:11283
+30341811_118	1060	1087	ras homolog family member A	Gene-protein	HGNC:667
+30341811_118	1091	1093	PC	Disease
+30341811_118	1147	1158	gemcitabine	Drug
+30341811_118	1167	1190	Drosha ribonuclease III	Gene-protein	HGNC:17904
+30341811_118	1192	1198	Drosha	Gene-protein	HGNC:17904
+30341811_118	1204	1240	DGCR8 microprocessor complex subunit	Gene-protein	HGNC:2847
+30341811_118	1242	1247	DGCR8	Gene-protein	HGNC:2847
+30341811_118	1281	1285	PVT1	Rna-noncoding
+30341811_118	1313	1319	Drosha	Gene-protein
+30341811_118	1324	1329	DGCR8	Gene-protein
+30341811_118	1368	1379	gemcitabine	Drug
+30341811_118	1397	1408	gemcitabine	Drug
+30341811_118	1419	1423	PVT1	Rna-noncoding
+30341811_118	1533	1535	PC	Disease
+30341811_118	1573	1584	gemcitabine	Drug
+30341811_118	1617	1657	decreased expression of Drosha and DGCR8	Biomarker
+30341811_118	1641	1647	Drosha	Gene-protein
+30341811_118	1652	1657	DGCR8	Gene-protein
+30341811_118	1661	1667	AsPC‐1	Cellline
+30341811_118	1678	1683	tumor	Disease	DOID:162
+30341811_118	1788	1799	gemcitabine	Drug
+30341811_118	1800	1812	chemotherapy	Drug-class
+30341811_118	1816	1818	PC	Disease
+30341811_118	1898	1903	DGCR8	Gene-protein
+30341811_118	1904	1940	DGCR8 microprocessor complex subunit	Gene-protein
+30341811_118	1941	1947	Drosha	Gene-protein
+30341811_118	1948	1971	Drosha ribonuclease III	Gene-protein
+30341811_118	1972	1975	HRP	Gene-protein
+30341811_118	1976	1998	horseradish peroxidase	Gene-protein
+30341811_118	2066	2069	MYC	Gene-protein	HGNC:7553
+30341811_118	2070	2088	MYC proto‐oncogene	Gene-protein	HGNC:7553
+30341811_118	2090	2115	bHLH transcription factor	Gene-protein	HGNC:7553
+30341811_118	2133	2135	PC	Disease
+30341811_118	2136	2153	pancreatic cancer	Disease	DOID:1793
+30341811_118	2154	2158	PVT1	Rna-noncoding
+30341811_118	2159	2163	Pvt1	Rna-noncoding
+30341811_118	2222	2226	RhoA	Gene-protein	HGNC:667
+30341811_118	2227	2254	ras homolog family member A	Gene-protein	HGNC:667
+30341811_118	2268	2271	SRC	Gene-protein	HGNC:11283
+30341811_118	2272	2320	SRC proto‐oncogene, non‐receptor tyrosine kinase	Gene-protein	HGNC:11283
+30341811_118	2305	2313	tyrosine	Chemical
+

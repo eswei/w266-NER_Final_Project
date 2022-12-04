@@ -1,0 +1,149 @@
+T1	Disease 70 74	LUAD
+T12	Disease 499 504	tumor
+#3	AnnotatorNotes T12	DOID:162
+T13	Biomarker 544 556	gene ceacam5
+T14	Disease 620 631	lung cancer
+T15	Disease 805 811	cancer
+#5	AnnotatorNotes T15	DOID:162
+T17	Disease 1513 1517	LUAD
+T18	Disease 1567 1581	bladder cancer
+#7	AnnotatorNotes T18	DOID:11054
+T19	Biomarker 1583 1638	elevated chemokine-related signaling, protein digestion
+T20	Biomarker 1679 1732	chemokine-signaling-related factors CXCL13 and CXCL14
+T21	Biomarker 1825 1856	DEGs encoding MMPs or collagens
+T22	Disease 1923 1927	LUAD
+T23	Biomarker 1966 1970	MMPs
+T24	Biomarker 1975 1984	collagens
+T25	Disease 2018 2024	cancer
+T27	Disease 2243 2262	Lung Adenocarcinoma
+#11	AnnotatorNotes T27	DOID:3910
+T30	Disease 2728 2747	Lung Adenocarcinoma
+T9	Disease 279 290	lung cancer
+#16	AnnotatorNotes T9	DOID:1324
+T5	GeneFamily 1004 1012	Collagen
+T11	Gene-Protein 549 556	ceacam5
+#1	AnnotatorNotes T11	HGNC:1817
+T32	Gene-Protein 599 602	CEA
+#2	AnnotatorNotes T32	HGNC:1817
+R3	Diagnostic-of Arg1:T13 Arg2:T14	
+T33	Gene-Protein 2303 2310	COL11A1
+T34	Gene-Protein 2312 2318	SPINK1
+T35	Gene-Protein 2364 2368	AGR2
+T36	Gene-Protein 2385 2389	TOX3
+T37	Gene-Protein 2391 2395	MMP7
+T38	Gene-Protein 2397 2402	WFDC2
+T39	Gene-Protein 2404 2410	COL1A1
+T40	Gene-Protein 2377 2383	CXCL13
+T41	Gene-Protein 2370 2375	GREM1
+T42	Gene-Protein 2350 2356	COL3A1
+T43	Gene-Protein 2341 2348	COL10A1
+T44	Gene-Protein 2320 2325	MMP12
+T45	Gene-Protein 2327 2333	S100A2
+T46	Gene-Protein 2335 2339	CDH3
+T47	Gene-Protein 2412 2416	CST1
+T48	Gene-Protein 2418 2424	CXCL14
+T49	Gene-Protein 2435 2439	COMP
+T50	Gene-Protein 2448 2453	GOLM1
+T51	Gene-Protein 2455 2460	ABCC3
+T52	Gene-Protein 2462 2467	MMP11
+T53	Gene-Protein 2426 2433	TMPRSS4
+T54	Gene-Protein 2441 2446	SULF1
+T55	Gene-Protein 2469 2473	LCN2
+T56	Gene-Protein 2665 2669	CAV1
+T57	Gene-Protein 2659 2663	CPB2
+T58	GeneFamily 2080 2084	MMPs
+T59	GeneFamily 1966 1970	MMPs
+T60	GeneFamily 1975 1984	collagens
+T61	GeneFamily 1839 1843	MMPs
+T62	GeneFamily 1847 1856	collagens
+T63	Gene-Protein 1715 1721	CXCL13
+T64	Gene-Protein 1726 1732	CXCL14
+T65	GeneFamily 1791 1794	MMP
+T66	GeneFamily 1155 1163	collagen
+T67	GeneFamily 1365 1378	endopeptidase
+T16	GeneFamily 1592 1601	chemokine
+T68	GeneFamily 1679 1688	chemokine
+T69	Biomarker 1746 1803	upregulated genes belong to the collagen and MMP families
+T70	GeneFamily 1778 1786	collagen
+R4	Association Arg1:T21 Arg2:T22	
+T26	Collection 1966 1984	MMPs and collagens
+T71	GeneFamily 2102 2111	peptidase
+R5	Association Arg1:T26 Arg2:T25	
+#4	AnnotatorNotes T1	DOID:3910
+T7	Disease 134 138	LUAD
+T2	Gene-Protein 2475 2482	PPP1R14
+T3	Gene-Protein 2486 2489	FAP
+T4	Gene-Protein 2491 2499	ADAMDEC1
+T6	Gene-Protein 2501 2506	MXRA5
+T8	Gene-Protein 2508 2515	CEACAM5
+T10	Gene-Protein 2517 2521	LGSN
+T28	Gene-Protein 2541 2546	CDH13
+T29	Gene-Protein 2548 2555	CTNNAL1
+T72	Gene-Protein 2578 2582	ITM2
+T73	Gene-Protein 2586 2590	GPM6
+T74	Gene-Protein 2594 2600	CX3CR1
+T75	Gene-Protein 2572 2576	NRN1
+T76	Gene-Protein 2616 2620	GPC3
+T77	Gene-Protein 2645 2649	EDNR
+T78	Gene-Protein 2653 2657	FHL1
+T79	Gene-Protein 2602 2606	SRPX
+T80	Gene-Protein 2358 2362	MMP9
+T81	Gene-Protein 2608 2614	TSPAN7
+T82	Gene-Protein 2622 2629	ADAMTS1
+T83	Gene-Protein 2631 2636	SOCS2
+T84	Gene-Protein 2638 2641	BCH
+T85	Gene-Protein 2563 2568	SEMA5
+T86	Gene-Protein 2557 2559	HL
+T87	Disease 2832 2836	LUAD
+T91	Biomarker 2303 2310	COL11A1
+T92	Biomarker 2312 2318	SPINK1
+T93	Biomarker 2665 2669	CAV1
+T94	Biomarker 2659 2663	CPB2
+T95	Biomarker 2320 2325	MMP12
+T89	Biomarker 2335 2339	CDH3
+T96	Biomarker 2327 2333	S100A2
+T97	Biomarker 2548 2555	CTNNAL1
+T98	Biomarker 2557 2559	HL
+T99	Biomarker 2350 2356	COL3A1
+T100	Biomarker 2586 2590	GPM6
+T101	Biomarker 2364 2368	AGR2
+T102	Biomarker 2358 2362	MMP9
+T103	Biomarker 2341 2348	COL10A1
+T104	Biomarker 2638 2641	BCH
+T105	Biomarker 2370 2375	GREM1
+T106	Biomarker 2377 2383	CXCL13
+T107	Biomarker 2385 2389	TOX3
+T108	Biomarker 2391 2395	MMP7
+T109	Biomarker 2594 2600	CX3CR1
+T110	Biomarker 2397 2402	WFDC2
+T111	Biomarker 2404 2410	COL1A1
+T112	Biomarker 2631 2636	SOCS2
+T113	Biomarker 2622 2629	ADAMTS1
+T114	Biomarker 2426 2433	TMPRSS4
+T115	Biomarker 2435 2439	COMP
+T116	Biomarker 2412 2416	CST1
+T117	Biomarker 2608 2614	TSPAN7
+T118	Biomarker 2645 2649	EDNR
+T119	Biomarker 2418 2424	CXCL14
+T120	Biomarker 2616 2620	GPC3
+T121	Biomarker 2441 2446	SULF1
+T122	Biomarker 2448 2453	GOLM1
+T123	Biomarker 2653 2657	FHL1
+T124	Biomarker 2455 2460	ABCC3
+T125	Biomarker 2462 2467	MMP11
+T126	Biomarker 2517 2521	LGSN
+T127	Biomarker 2469 2473	LCN2
+T128	Biomarker 2541 2546	CDH13
+T129	Biomarker 2563 2568	SEMA5
+T130	Biomarker 2475 2482	PPP1R14
+T131	Biomarker 2572 2576	NRN1
+T132	Biomarker 2578 2582	ITM2
+T133	Biomarker 2491 2499	ADAMDEC1
+T134	Biomarker 2486 2489	FAP
+T135	Biomarker 2501 2506	MXRA5
+T136	Biomarker 2508 2515	CEACAM5
+T137	Biomarker 2602 2606	SRPX
+T88	Collection 2541 2669	CDH13, CTNNAL1, HL(F) SEMA5(A) NRN1, ITM2(A) GPM6(B) CX3CR1, SRPX, TSPAN7, GPC3, ADAMTS1, SOCS2, BCH(E) EDNR(B) FHL1, CPB2, CAV1
+R2	Association Arg1:T88 Arg2:T27	
+T31	Collection 2303 2521	COL11A1, SPINK1, MMP12, S100A2, CDH3, COL10A1, COL3A1, MMP9, AGR2, GREM1, CXCL13, TOX3, MMP7, WFDC2, COL1A1, CST1, CXCL14, TMPRSS4, COMP, SULF1, GOLM1, ABCC3, MMP11, LCN2, PPP1R14(D) FAP, ADAMDEC1, MXRA5, CEACAM5, LGSN
+R1	Association Arg1:T31 Arg2:T27	

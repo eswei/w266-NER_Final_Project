@@ -1,0 +1,53 @@
+T1	Biomarker 30 139	ATP6V1B1 and ATP6V0A4 encode for B1 and A4 subunits of the apical H⁺-ATPase pump, respectively, and mutations
+T11	Chemical 340 345	HCO₃−
+T12	Disease 381 416	dominant and recessive form of dRTA
+T13	Biomarker 554 570	SLC4A1 mutations
+T14	Disease 581 585	dRTA
+T15	Disease 593 643	hemolytic anemia with abnormal red cell morphology
+#5	AnnotatorNotes T15	not found
+T17	Biomarker 649 665	SLC4A1 mutations
+T18	Disease 719 755	autosomal dominant (AD) form of dRTA
+T20	Disease 759 766	AR dRTA
+#9	AnnotatorNotes T20	C537758
+T21	Biomarker 777 793	SLC4A1 mutations
+T22	Disease 895 918	tropical recessive dRTA
+#10	AnnotatorNotes T22	C537758
+T24	Disease 1012 1019	AR dRTA
+T26	Gene-Protein 1060 1066	SLC4A1
+T27	Variant 1077 1088	p.Gly701Asp
+T3	Chemical 96 98	H⁺
+T4	Disease 161 242	autosomal recessive (AR) forms of dRTA with or without sensorineural hearing loss
+T8	Biomarker 248 301	Mutations in SLC4A1 (solute carrier family 4 member 1
+T9	Chemical 336 338	Cl
+T28	Gene-Protein 30 38	ATP6V1B1
+#1	AnnotatorNotes T28	HGNC:853
+T29	Gene-Protein 43 51	ATP6V0A4
+#2	AnnotatorNotes T29	HGNC:866
+T2	Gene-Protein 63 110	B1 and A4 subunits of the apical H⁺-ATPase pump
+#8	AnnotatorNotes T2	HGNC:853, HGNC:866
+R1	Risk-Factor Arg1:T1 Arg2:T4	
+T5	Gene-Protein 261 267	SLC4A1
+#11	AnnotatorNotes T5	HGNC:11027
+T6	Gene-Protein 269 301	solute carrier family 4 member 1
+#13	AnnotatorNotes T6	HGNC:11027
+T30	Gene-Protein 329 358	anion (Cl−/HCO₃−) exchanger 1
+#14	AnnotatorNotes T30	HGNC:11027
+T31	Gene-Protein 360 363	AE1
+#15	AnnotatorNotes T31	HGNC:11027
+R2	Risk-Factor Arg1:T8 Arg2:T12	
+T10	Gene-Protein 420 423	AE1
+T32	Gene-Protein 554 560	SLC4A1
+T16	Collection 581 643	dRTA and/or hemolytic anemia with abnormal red cell morphology
+R3	Association Arg1:T13 Arg2:T16	
+T33	Gene-Protein 649 655	SLC4A1
+R4	Association Arg1:T17 Arg2:T18	
+#3	AnnotatorNotes T18	D000141
+#4	AnnotatorNotes T12	D000141, C537758
+#6	AnnotatorNotes T4	C537758, DOID:10003
+#7	AnnotatorNotes T14	DOID:14219
+T19	Gene-Protein 777 783	SLC4A1
+R5	Association Arg1:T21 Arg2:T20	
+R6	Variant-Of Arg1:T26 Arg2:T27	
+R7	Association Arg1:T27 Arg2:T24	
+#12	AnnotatorNotes T27	p.Gly701Asp
+A1	Conjunction T4

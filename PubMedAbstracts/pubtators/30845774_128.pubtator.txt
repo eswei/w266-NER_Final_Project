@@ -1,0 +1,49 @@
+30845774_128|t|RSS_IDENT_p_30845774_a_1_1
+30845774_128|a| The role of sirtuin 6 (SIRT6) in adipose abdominal tissue of pre-diabetic (pre-DM) patients is poorly known. Here, we evaluated SIRT6 expression in visceral abdominal fat of obese pre-diabetic patients and the potential effects of metformin therapy. Results indicated that obese pre-DM subjects showed low SIRT6 protein expression and high expression of nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB), peroxisome proliferator-activated receptor gamma (PPAR-γ), and sterol regulatory element-binding transcription factor 1 (SREBP-1). Obese pre-DM patients showed high values of glucose, insulin resistance (HOMA-IR), C reactive protein (CRP), nitrotyrosine, tumor necrosis factor-α (TNF-α) and interleukin 6 (IL-6), and low values of insulin (p < 0.05). Of note, abdominal fat tissue of obese pre-DM patients treated with metformin therapy presented higher SIRT6 expression and lower NF-κB, PPAR-γ, and SREBP-1 expression levels compared to pre-DM control group. Collectively, results show that SIRT6 is involved in the inflammatory pathway of subcutaneous abdominal fat of obese pre-DM patients and its expression responds to metformin therapy.
+30845774_128	40	49	sirtuin 6	Gene-protein	HGNC:14934
+30845774_128	51	56	SIRT6	Gene-protein	HGNC:14934
+30845774_128	89	101	pre-diabetic	Disease	D011236
+30845774_128	103	109	pre-DM	Disease	D011236
+30845774_128	156	161	SIRT6	Gene-protein
+30845774_128	202	220	obese pre-diabetic	Disease	DOID:9970,D011236	Conjunction
+30845774_128	259	268	metformin	Drug	CHEMBL1431
+30845774_128	301	313	obese pre-DM	Disease	DOID:9970,D011236	Conjunction
+30845774_128	330	358	low SIRT6 protein expression	Biomarker
+30845774_128	330	583	low SIRT6 protein expression and high expression of nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB), peroxisome proliferator-activated receptor gamma (PPAR-γ), and sterol regulatory element-binding transcription factor 1 (SREBP-1)	Collection
+30845774_128	334	339	SIRT6	Gene-protein
+30845774_128	363	583	high expression of nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB), peroxisome proliferator-activated receptor gamma (PPAR-γ), and sterol regulatory element-binding transcription factor 1 (SREBP-1)	Biomarker
+30845774_128	382	444	nuclear factor kappa-light-chain-enhancer of activated B cells	Genefamily	family:1254
+30845774_128	446	451	NF-κB	Genefamily	family:1254
+30845774_128	454	502	peroxisome proliferator-activated receptor gamma	Gene-protein	HGNC:9236
+30845774_128	504	510	PPAR-γ	Gene-protein	HGNC:9236
+30845774_128	517	523	sterol	Chemical
+30845774_128	517	573	sterol regulatory element-binding transcription factor 1	Gene-protein	HGNC:11289
+30845774_128	575	582	SREBP-1	Gene-protein	HGNC:11289
+30845774_128	585	597	Obese pre-DM	Disease	DOID:9970,D011236
+30845774_128	614	765	high values of glucose, insulin resistance (HOMA-IR), C reactive protein (CRP), nitrotyrosine, tumor necrosis factor-α (TNF-α) and interleukin 6 (IL-6)	Biomarker
+30845774_128	614	792	high values of glucose, insulin resistance (HOMA-IR), C reactive protein (CRP), nitrotyrosine, tumor necrosis factor-α (TNF-α) and interleukin 6 (IL-6), and low values of insulin	Collection
+30845774_128	629	636	glucose	Chemical
+30845774_128	638	645	insulin	Gene-protein	HGNC:6081
+30845774_128	668	686	C reactive protein	Gene-protein	HGNC:2367
+30845774_128	688	691	CRP	Gene-protein	HGNC:2367
+30845774_128	694	707	nitrotyrosine	Chemical
+30845774_128	709	732	tumor necrosis factor-α	Gene-protein	HGNC:11892
+30845774_128	734	739	TNF-α	Gene-protein	HGNC:11892
+30845774_128	745	758	interleukin 6	Gene-protein	HGNC:6018
+30845774_128	760	764	IL-6	Gene-protein	HGNC:6018
+30845774_128	771	792	low values of insulin	Biomarker
+30845774_128	785	792	insulin	Gene-protein
+30845774_128	838	850	obese pre-DM	Disease
+30845774_128	873	882	metformin	Drug
+30845774_128	901	924	higher SIRT6 expression	Biomarker
+30845774_128	908	913	SIRT6	Gene-protein
+30845774_128	929	979	lower NF-κB, PPAR-γ, and SREBP-1 expression levels	Biomarker
+30845774_128	935	940	NF-κB	Genefamily
+30845774_128	942	948	PPAR-γ	Genefamily
+30845774_128	954	961	SREBP-1	Gene-protein
+30845774_128	992	998	pre-DM	Disease
+30845774_128	1046	1051	SIRT6	Biomarker
+30845774_128	1046	1051	SIRT6	Gene-protein
+30845774_128	1125	1137	obese pre-DM	Disease
+30845774_128	1178	1187	metformin	Drug
+

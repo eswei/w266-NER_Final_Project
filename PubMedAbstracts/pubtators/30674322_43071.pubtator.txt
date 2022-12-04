@@ -1,0 +1,58 @@
+30674322_43071|t|RSS_IDENT_p_30674322_b_1_4_4
+30674322_43071|a| Among all pro-inflammatory cytokines i.e., TNF-α and IL-1β levels were increased in T2DM_CAD subjects as compared with control subjects. As per the previous literature, TNF-α induces insulin resistance by inhibiting IRS-1 phosphorylation and GLUT-4 expression, and elevated in patients with heart failure, and myocardial ischemia reperfusion [ 27 ]. Pu et al. reported the association of increased TNF-α levels with CAD among T2DM patients [ 28 ]. Increased TNF-α and IL-1β levels along with hyperglycemia helps to develop atherosclerosis [ 29 , 30 ]. Similarly, another pro-inflammatory marker IL-6 increased in both CAD and T2DM_CAD groups. However, the significant increase was observed in T2DM_CAD group as compared with T2DM. Increased IL-6 levels disturb the glucose metabolism and contribute to the development of insulin resistance. It is also reported earlier that IL-6 levels were positively correlated with CAD [ 31 ]. Present study showed that pro-inflammatory markers i.e., TNF-α, IL-1β, and IL-6 together induce chronic inflammation condition to promote CAD in diabetes. Recently, CANTOS study reported that treatment with canakinumab, a monoclonal antibody targeted against IL-1beta in myocardial infraction patients showed dose-dependent decrease in IL-6 levels [ 6 ]. Serum markers like PDGF-BB, IP-10, resistin and PAI-1 levels were significantly increased in the CAD group, therefore representing specific markers for the CAD in the absence of diabetes. All these parameters help to develop atherosclerosis as reported earlier [ 32 – 37 ]. 
+30674322_43071	40	66	pro-inflammatory cytokines	Genefamily	not found
+30674322_43071	73	78	TNF-α	Gene-protein	HGNC:11892
+30674322_43071	73	110	TNF-α and IL-1β levels were increased	Biomarker
+30674322_43071	83	88	IL-1β	Gene-protein	HGNC:5992
+30674322_43071	114	122	T2DM_CAD	Disease	DOID:9352, DOID:3393	Conjunction
+30674322_43071	199	204	TNF-α	Gene-protein
+30674322_43071	199	204	TNF-α	Biomarker	D014409
+30674322_43071	213	220	insulin	Gene-protein	HGNC:6081
+30674322_43071	213	231	insulin resistance	Disease	D007333
+30674322_43071	246	251	IRS-1	Gene-protein	HGNC:6125
+30674322_43071	272	278	GLUT-4	Gene-protein	HGNC:11009
+30674322_43071	321	334	heart failure	Disease	DOID:14172
+30674322_43071	321	371	heart failure, and myocardial ischemia reperfusion	Collection
+30674322_43071	340	371	myocardial ischemia reperfusion	Disease	D017202
+30674322_43071	418	440	increased TNF-α levels	Biomarker
+30674322_43071	428	433	TNF-α	Gene-protein
+30674322_43071	446	460	CAD among T2DM	Disease	DOID:3393, DOID:9352	Conjunction
+30674322_43071	478	535	Increased TNF-α and IL-1β levels along with hyperglycemia	Biomarker
+30674322_43071	488	493	TNF-α	Gene-protein
+30674322_43071	498	505	IL-1β l	Gene-protein
+30674322_43071	553	568	atherosclerosis	Disease	DOID:1936
+30674322_43071	601	639	pro-inflammatory marker IL-6 increased	Biomarker
+30674322_43071	625	629	IL-6	Gene-protein	HGNC:6018
+30674322_43071	648	651	CAD	Disease	DOID:3393
+30674322_43071	648	664	CAD and T2DM_CAD	Collection
+30674322_43071	656	664	T2DM_CAD	Disease	Conjunction
+30674322_43071	723	731	T2DM_CAD	Disease	Conjunction
+30674322_43071	755	759	T2DM	Disease
+30674322_43071	761	782	Increased IL-6 levels	Biomarker
+30674322_43071	795	802	glucose	Chemical
+30674322_43071	851	858	insulin	Gene-protein
+30674322_43071	851	869	insulin resistance	Disease
+30674322_43071	904	908	IL-6	Gene-protein
+30674322_43071	904	915	IL-6 levels	Biomarker	D015850
+30674322_43071	948	951	CAD	Disease
+30674322_43071	1017	1022	TNF-α	Gene-protein
+30674322_43071	1017	1048	TNF-α, IL-1β, and IL-6 together	Biomarker	Conjunction
+30674322_43071	1024	1029	IL-1β	Gene-protein
+30674322_43071	1035	1039	IL-6	Gene-protein
+30674322_43071	1056	1076	chronic inflammation	Disease	not found
+30674322_43071	1056	1113	chronic inflammation condition to promote CAD in diabetes	Collection
+30674322_43071	1098	1113	CAD in diabetes	Disease	DOID:3393, not found	Conjunction
+30674322_43071	1167	1178	canakinumab	Drug	CHEMBL1201834
+30674322_43071	1219	1227	IL-1beta	Gene-protein	HGNC:5992
+30674322_43071	1231	1252	myocardial infraction	Disease	DOID:5844
+30674322_43071	1296	1300	IL-6	Gene-protein
+30674322_43071	1315	1404	Serum markers like PDGF-BB, IP-10, resistin and PAI-1 levels were significantly increased	Biomarker
+30674322_43071	1334	1341	PDGF-BB	Gene-protein	HGNC:8800
+30674322_43071	1343	1348	IP-10	Gene-protein	HGNC:10637
+30674322_43071	1350	1358	resistin	Gene-protein	HGNC:20389
+30674322_43071	1363	1368	PAI-1	Gene-protein	HGNC:8583
+30674322_43071	1412	1415	CAD	Disease
+30674322_43071	1471	1474	CAD	Disease
+30674322_43071	1493	1501	diabetes	Disease	not found
+30674322_43071	1540	1555	atherosclerosis	Disease	DOID:1936
+

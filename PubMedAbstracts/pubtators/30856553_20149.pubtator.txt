@@ -1,0 +1,31 @@
+30856553_20149|t|RSS_IDENT_p_30856553_b_1_4_6
+30856553_20149|a| The COL6 fragments IC-6 and PRO-C6 have also been evaluated in other diseases. IC-6 has been shown to correlate with muscle mass in young subjects [39] . PRO-C6 has been more extensively studied. From a biomarker perspective serum PRO-C6 has been found associated with chronic and diabetic kidney disease [47] , [48] . Likewise, in type 2 diabetic patients PRO-C6 was found to predict response to a PPAR agonist treatment [49] . PRO-C6 has also shown prognostic value in COPD [42] . Interestingly, a preliminary study has shown that high pre-treatment levels of PRO-C6 predicts outcome in patients with metastatic colorectal cancer when treated with chemotherapy [50] . These findings indicate that PRO-C6 could be prognostic in cancer, which is also supported by the borderline significant association between cancer stage and PRO-C6 levels (P = .072, when comparing early vs late stage patients). As mentioned, PRO-C6 targets the signaling molecule endothrophin. The protease(s) responsible for generating endothrophin is currently unknown, although in one study incorrectly folded type VI collagen was found in MMP-11 deficient mice [51] . Thus, studies are warranted to evaluate PRO-C6/endothrophin in the oncology setting. 
+30856553_20149	34	38	COL6	Genefamily	not found
+30856553_20149	49	53	IC-6	Biomarker
+30856553_20149	58	64	PRO-C6	Biomarker
+30856553_20149	109	113	IC-6	Biomarker
+30856553_20149	147	158	muscle mass	Biomarker
+30856553_20149	184	190	PRO-C6	Biomarker
+30856553_20149	261	267	PRO-C6	Biomarker
+30856553_20149	299	334	chronic and diabetic kidney disease	Disease	DOID:784, D003928
+30856553_20149	362	377	type 2 diabetic	Disease	DOID:9352
+30856553_20149	387	393	PRO-C6	Biomarker
+30856553_20149	429	433	PPAR	Gene-protein	HGNC:9232
+30856553_20149	429	451	PPAR agonist treatment	Drug-class
+30856553_20149	459	465	PRO-C6	Biomarker
+30856553_20149	501	505	COPD	Disease	DOID:3083
+30856553_20149	563	598	high pre-treatment levels of PRO-C6	Biomarker
+30856553_20149	633	661	metastatic colorectal cancer	Disease	DOID:9256
+30856553_20149	680	692	chemotherapy	Drug-class
+30856553_20149	729	735	PRO-C6	Biomarker
+30856553_20149	759	765	cancer	Disease	DOID:162
+30856553_20149	841	847	cancer	Disease
+30856553_20149	858	871	PRO-C6 levels	Biomarker
+30856553_20149	943	949	PRO-C6	Biomarker
+30856553_20149	981	993	endothrophin	Biomarker
+30856553_20149	1038	1050	endothrophin	Biomarker
+30856553_20149	1114	1130	type VI collagen	Genefamily
+30856553_20149	1144	1150	MMP-11	Gene-protein
+30856553_20149	1213	1219	PRO-C6	Biomarker
+30856553_20149	1220	1232	endothrophin	Biomarker
+

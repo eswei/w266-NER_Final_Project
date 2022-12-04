@@ -1,0 +1,65 @@
+T1	Disease 66 74	fibrosis
+#2	AnnotatorNotes T1	D005355
+T13	Disease 1042 1051	cirrhosis
+#5	AnnotatorNotes T13	DOID:5082
+T15	Disease 1184 1187	ALF
+T16	Chemical 1255 1259	WFA⁺
+T18	Disease 1298 1312	liver fibrosis
+#8	AnnotatorNotes T18	DOID:5082
+T19	Chemical 1442 1446	WFA⁺
+T21	Disease 1488 1503	AIH‐related ALF
+T23	Disease 1553 1573	hypertransaminasemia
+T25	Disease 1600 1615	AIH‐related ALF
+T27	Chemical 1624 1628	WFA⁺
+T3	Disease 114 121	NAA‐ALF
+T6	Disease 372 397	intravascular coagulation
+#20	AnnotatorNotes T6	DOID:11247
+T7	Chemical 647 649	HA
+T8	Disease 661 664	ALF
+T9	Disease 751 767	massive necrosis
+#23	AnnotatorNotes T9	not found
+#4	AnnotatorNotes T3	not found
+T2	Chemical 208 210	HA
+T5	ProteinDomain 212 218	4COL7S
+T11	Gene-Protein 224 233	WFA⁺‐M2BP
+T4	Biomarker 208 210	HA
+#1	AnnotatorNotes T4	D006820
+T14	Biomarker 212 218	4COL7S
+T17	Biomarker 224 233	WFA⁺‐M2BP
+T20	Disease 402 414	fibrinolysis
+#6	AnnotatorNotes T20	 D005342
+T28	Chemical 426 428	HA
+T29	Chemical 543 545	HA
+T30	Gene-Protein 654 657	ALT
+#7	AnnotatorNotes T30	HGNC:4552
+T31	Biomarker 654 657	ALT
+#9	AnnotatorNotes T31	D000410
+T32	Biomarker 647 649	HA
+#10	AnnotatorNotes T8	D017114
+T10	GeneFamily 799 815	type IV collagen
+#3	AnnotatorNotes T10	not found
+T33	ProteinDomain 892 898	4COL7S
+T34	GeneFamily 951 967	type IV collagen
+T35	Biomarker 892 898	4COL7S
+R1	Diagnostic-of Arg1:T35 Arg2:T13	
+T36	GeneFamily 1057 1073	type IV collagen
+T37	Biomarker 1057 1073	type IV collagen
+#12	AnnotatorNotes T37	D024141
+T38	ProteinDomain 1111 1117	4COL7S
+T39	Biomarker 1111 1117	4COL7S
+R2	Association Arg1:T39 Arg2:T15	
+T40	Biomarker 1255 1264	WFA⁺‐M2BP
+R3	Association Arg1:T40 Arg2:T18	
+T41	Gene-Protein 1352 1356	Mac2
+#13	AnnotatorNotes T41	HGNC:6563
+T42	Biomarker 1442 1484	WFA⁺‐M2BP levels were prominently elevated
+#11	AnnotatorNotes T21	not found
+R4	Association Arg1:T42 Arg2:T21	
+T22	Drug-Class 1533 1548	corticosteroids
+#16	AnnotatorNotes T23	not found
+T24	Biomarker 1624 1633	WFA⁺‐M2BP
+T26	Biomarker 1676 1682	4COL7S
+T43	Biomarker 323 329	PT‐INR
+T12	ProteinDomain 913 947	amino‐terminal triple‐helix domain
+#14	AnnotatorNotes T11	not found
+T44	Gene-Protein 1255 1264	WFA⁺‐M2BP

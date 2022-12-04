@@ -1,0 +1,99 @@
+T1	Biomarker 28 43	Ring finger 213
+T10	Disease 273 295	pulmonary hypertension
+#1	AnnotatorNotes T10	DOID:6432
+T11	Disease 297 299	PH
+T12	Gene-Protein 351 357	RNF213
+T13	Disease 375 377	PH
+T14	Chemical 418 424	RNF213
+T15	Chemical 491 492	C
+T16	Gene-Protein 512 518	RNF213
+T17	Disease 526 529	MMD
+T19	Disease 647 649	PH
+T2	Gene-Protein 45 51	RNF213
+T20	Disease 694 696	PH
+T22	Disease 702 705	MMD
+T23	Variant 732 740	p.R4810K
+T24	Variant 745 753	p.A4399T
+T25	Gene-Protein 758 764	RNF213
+T26	Variant 821 827	p.Q92H
+T27	Variant 829 840	p.L198Rfs*4
+T28	Variant 846 853	p.S930X
+T29	Gene-Protein 954 960	RNF213
+T3	Disease 82 98	moyamoya disease
+#17	AnnotatorNotes T3	DOID:13099
+T30	Disease 973 975	PH
+T31	Gene-Protein 1017 1023	Rnf213
+T33	Biomarker 1072 1119	Overexpression of the EC-specific Rnf213 mutant
+T34	Gene-Protein 1106 1112	Rnf213
+T35	Gene-Protein 1133 1139	Rnf213
+T36	Gene-Protein 1175 1181	Rnf213
+T37	Disease 1213 1231	hypoxia-induced PH
+#24	AnnotatorNotes T37	DOID:2835
+T39	Biomarker 1243 1274	high right ventricular pressure
+T4	Disease 100 103	MMD
+#27	AnnotatorNotes T4	DOID:13099
+T40	Biomarker 1276 1305	right ventricular hypertrophy
+T41	Biomarker 1311 1347	muscularization of pulmonary vessels
+T42	Biomarker 1480 1503	reduction in caveolin-1
+T43	Chemical 1588 1594	Rnf213
+T44	Biomarker 1633 1647	EC dysfunction
+T45	Gene-Protein 1649 1655	RNF213
+T46	Biomarker 1649 1655	RNF213
+T47	Disease 1696 1698	PH
+T48	Disease 1724 1745	systemic vasculopathy
+#34	AnnotatorNotes T48	not found
+T5	Disease 120 143	cerebrovascular disease
+#35	AnnotatorNotes T5	DOID:6713
+T6	Gene-Protein 173 179	RNF213
+T7	Biomarker 173 179	RNF213
+T8	Disease 216 219	MMD
+#37	AnnotatorNotes T8	DOID:0070199
+T9	Disease 233 263	extracranial vascular diseases
+#38	AnnotatorNotes T9	not found
+T49	Gene-Protein 28 43	Ring finger 213
+#2	AnnotatorNotes T49	HGNC:14539
+#3	AnnotatorNotes T2	HGNC:14539
+R1	Association Arg1:T1 Arg2:T3	
+#4	AnnotatorNotes T11	DOID:6432
+T50	Collection 216 295	MMD, but also in extracranial vascular diseases, such as pulmonary hypertension
+R2	Association Arg1:T7 Arg2:T50	
+T51	Biomarker 351 357	RNF213
+T52	Biomarker 418 432	RNF213 variant
+T18	Gene-Protein 607 612	BMPR2
+#5	AnnotatorNotes T18	HGNC:1078
+T53	Gene-Protein 617 621	CAV1
+#6	AnnotatorNotes T53	HGNC:1527
+T54	Biomarker 607 612	BMPR2
+#7	AnnotatorNotes T54	D052006
+T55	Biomarker 617 621	CAV1
+#8	AnnotatorNotes T55	C495540
+T56	Collection 607 621	BMPR2 and CAV1
+R3	Risk-Factor Arg1:T56 Arg2:T19	
+T21	Collection 732 753	p.R4810K and p.A4399T
+R4	Variant-Of Arg1:T25 Arg2:T21	
+#9	AnnotatorNotes T23	p.Arg4810Lys
+#10	AnnotatorNotes T24	p.Ala4399Thr
+R5	Association Arg1:T21 Arg2:T22	
+T57	Gene-Protein 804 809	BMPR2
+#11	AnnotatorNotes T26	p.Gln92His
+#12	AnnotatorNotes T27	p.Leu198ArgRfsTer4
+#13	AnnotatorNotes T28	p.Ser930aaX
+T58	Collection 821 853	p.Q92H, p.L198Rfs*4, and p.S930X
+R6	Variant-Of Arg1:T57 Arg2:T58	
+R7	Association Arg1:T58 Arg2:T22	
+T59	Gene-Protein 896 900	CAV1
+T60	Biomarker 896 910	CAV1 mutations
+T61	Biomarker 954 969	RNF213 variants
+R8	Association Arg1:T33 Arg2:T37	
+T38	Biomarker 1153 1196	EC-specific wild-type Rnf213 overexpression
+T62	Biomarker 1133 1148	Rnf213 ablation
+T63	Disease 1356 1362	hypoxi
+T64	Gene-Protein 1493 1503	caveolin-1
+T65	Gene-Protein 1516 1520	CAV1
+T66	Biomarker 1392 1433	unique EC detachment in pulmonary vessels
+T67	Biomarker 1588 1601	Rnf213 mutant
+T68	Collection 1392 1647	unique EC detachment in pulmonary vessels, and western blots demonstrated a significant reduction in caveolin-1 (encoded by CAV1), a key molecule involved in EC functions, in lungs of EC-specific Rnf213 mutant transgenic mice, suggestive of EC dysfunction
+R9	Association Arg1:T68 Arg2:T37	
+R10	Risk-Factor Arg1:T46 Arg2:T47	
+R11	Association Arg1:T46 Arg2:T48	
+T32	Disease 1063 1070	hypoxia

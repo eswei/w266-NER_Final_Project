@@ -1,0 +1,24 @@
+T1	Gene-Protein 79 84	MPK-1
+T2	Gene-Protein 232 249	MPK-1 phosphatase
+T3	Gene-Protein 250 255	lip-1
+T4	Gene-Protein 311 316	csb-1
+T5	Gene-Protein 266 271	lip-1
+T6	Gene-Protein 521 527	let-60
+T7	Gene-Protein 371 377	let-60
+T8	Gene-Protein 554 560	let-60
+T9	Gene-Protein 561 566	csb-1
+T10	Gene-Protein 599 604	csb-1
+T11	Gene-Protein 636 642	let-60
+T12	Gene-Protein 653 658	lip-1
+T13	Gene-Protein 674 679	MPK-1
+T14	Gene-Protein 680 683	ERK
+T15	Gene-Protein 747 752	csb-1
+T16	Gene-Protein 801 806	MPK-1
+T17	Gene-Protein 807 810	ERK
+T18	Biomarker 266 280	lip-1 mutation
+T19	Variant 378 382	ga89
+R2	Variant-Of Arg1:T7 Arg2:T19	
+T20	Variant 643 647	ga89
+R3	Variant-Of Arg1:T11 Arg2:T20	
+T21	Variant 659 664	gt448
+R4	Variant-Of Arg1:T12 Arg2:T21	

@@ -1,0 +1,51 @@
+31799068_3951|t|RSS_IDENT_p_31799068_b_1_1_4
+31799068_3951|a| Long noncoding RNAs (lncRNAs) are a class of non-protein coding transcripts (more than 200 nt) which have been demonstrated widely as vital regulators in gene expression, cellular function and disease processes ( Boon et al., 2016 ). Mounting evidence have demonstrated that lncRNAs play an important role in the progression of DN ( Alvarez & Distefano, 2013 ). For example, lncRNA MALAT1 expression is increased in experimental DN and MALAT1 inhibition attenuates high glucose (HG)-induced podocyte injury by regulating Wnt/β-catenin signaling ( Gutschner, Hämmerle & Diederichs, 2013 ; Hu et al., 2017 ). The roles of other lncRNAs (e.g., Tug1, Erbb4-IR, Gm4419, TCF7, etc.) in DN have also been identified ( Liu & Sun, 2019 ; Long et al., 2016 ; Sun et al., 2018 ; Yi et al., 2017 ). Our previous study showed that lncRNA Maternally Expressed Gene 3 (MEG3) is downregulated in bladder cancer and regulates cancer cell proliferation by inhibiting Wnt/β-catenin signaling and autophagy ( Ying et al., 2013 ). Given the important role of Wnt/β-catenin signaling in the progression of DN, we speculated that MEG3 might be associated with DN. Additionally, MEG3 was recently reported to be involved in DM-related microvascular dysfunction ( Qiu et al., 2016 ). Genome imprinting study showed that MEG3 gene region on chromosome 14q32.2 is associated with the susceptibility of type one diabetes ( Wallace et al., 2010 ). Therefore, the present study investigated the role of MEG3 in podocyte injury and DN and our data showed that MEG3 attenuated HG-induced podocyte injury by repressing Wnt/β-catenin activity. 
+31799068_3951	305	312	lncRNAs	Rna-noncoding
+31799068_3951	305	312	lncRNAs	Biomarker	D062085
+31799068_3951	358	360	DN	Disease	D003928
+31799068_3951	412	418	MALAT1	Gene-protein	HGNC:29665
+31799068_3951	412	442	MALAT1 expression is increased	Biomarker
+31799068_3951	459	461	DN	Disease
+31799068_3951	466	472	MALAT1	Gene-protein
+31799068_3951	466	483	MALAT1 inhibition	Drug	not found
+31799068_3951	495	536	high glucose (HG)-induced podocyte injury	Disease	not found
+31799068_3951	500	507	glucose	Chemical
+31799068_3951	551	554	Wnt	Genefamily	family:360
+31799068_3951	555	564	β-catenin	Genefamily	family:1542
+31799068_3951	656	706	lncRNAs (e.g., Tug1, Erbb4-IR, Gm4419, TCF7, etc.)	Biomarker
+31799068_3951	671	675	Tug1	Rna-noncoding	HGNC:26066
+31799068_3951	677	685	Erbb4-IR	Rna-noncoding
+31799068_3951	687	693	Gm4419	Rna-noncoding
+31799068_3951	695	699	TCF7	Gene-protein	HGNC:11639
+31799068_3951	710	712	DN	Disease
+31799068_3951	855	882	Maternally Expressed Gene 3	Rna-noncoding	HGNC:14575
+31799068_3951	855	906	Maternally Expressed Gene 3 (MEG3) is downregulated	Biomarker
+31799068_3951	884	888	MEG3	Rna-noncoding	HGNC:14575
+31799068_3951	910	924	bladder cancer	Disease	DOID:11054
+31799068_3951	910	945	bladder cancer and regulates cancer	Collection
+31799068_3951	939	945	cancer	Disease	DOID:162
+31799068_3951	979	982	Wnt	Genefamily
+31799068_3951	983	992	β-catenin	Genefamily
+31799068_3951	1068	1071	Wnt	Genefamily
+31799068_3951	1068	1091	Wnt/β-catenin signaling	Biomarker
+31799068_3951	1072	1081	β-catenin	Genefamily
+31799068_3951	1114	1116	DN	Disease
+31799068_3951	1137	1141	MEG3	Rna-noncoding
+31799068_3951	1137	1141	MEG3	Biomarker	C498907
+31799068_3951	1167	1169	DN	Disease
+31799068_3951	1185	1189	MEG3	Rna-noncoding
+31799068_3951	1185	1189	MEG3	Biomarker
+31799068_3951	1230	1266	DM-related microvascular dysfunction	Disease	not found
+31799068_3951	1325	1329	MEG3	Rna-noncoding
+31799068_3951	1325	1329	MEG3	Biomarker
+31799068_3951	1405	1422	type one diabetes	Disease	DOID:9744
+31799068_3951	1503	1507	MEG3	Rna-noncoding
+31799068_3951	1503	1507	MEG3	Biomarker
+31799068_3951	1511	1526	podocyte injury	Disease	not found
+31799068_3951	1531	1533	DN	Disease
+31799068_3951	1559	1563	MEG3	Rna-noncoding
+31799068_3951	1559	1563	MEG3	Drug	not found
+31799068_3951	1575	1601	HG-induced podocyte injury	Disease	not found
+31799068_3951	1616	1619	Wnt	Genefamily
+31799068_3951	1620	1629	β-catenin	Genefamily
+

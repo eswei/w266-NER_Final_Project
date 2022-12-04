@@ -1,0 +1,61 @@
+T0	Disease 333 339	tumors
+#1	AnnotatorNotes T0	DOID:162
+T10	Disease 1057 1062	tumor
+T11	Disease 1184 1197	breast cancer
+#3	AnnotatorNotes T11	DOID:1612
+T14	Disease 1419 1421	TB
+T19	Disease 1729 1733	IAAA
+T2	Disease 404 411	cancers
+#8	AnnotatorNotes T2	DOID:162
+T5	Disease 683 688	tumor
+#10	AnnotatorNotes T5	DOID:162
+T7	Disease 850 862	liver cancer
+#11	AnnotatorNotes T7	DOID:3571
+T1	RNA-Noncoding 1753 1760	miR-183
+T3	RNA-Noncoding 1765 1772	miR-141
+T4	RNA-Noncoding 1581 1588	miR-141
+T6	RNA-Noncoding 1572 1579	miR-183
+T8	RNA-Noncoding 1706 1713	miR-141
+T9	RNA-Noncoding 1718 1725	miR-183
+T13	RNA-Noncoding 1295 1302	miR-141
+T16	RNA-Noncoding 1304 1311	miR-183
+T17	RNA-Noncoding 1173 1180	miR-183
+T18	RNA-Noncoding 795 802	miR-141
+T20	RNA-Noncoding 426 435	miRNA-141
+T21	RNA-Noncoding 653 660	miR-141
+T23	RNA-Noncoding 437 444	miR-141
+#4	AnnotatorNotes T23	HGNC:31528
+T24	RNA-Noncoding 463 472	miRNA-200
+#5	AnnotatorNotes T20	HGNC:31528
+#6	AnnotatorNotes T24	family:1709
+T25	Biomarker 653 660	miR-141
+#7	AnnotatorNotes T25	C533895
+R1	Association Arg1:T25 Arg2:T5	
+T26	Biomarker 795 802	miR-141
+R2	Association Arg1:T26 Arg2:T7	
+T27	RNA-Noncoding 884 891	miR-183
+#9	AnnotatorNotes T27	HGNC:31554
+T28	RNA-Noncoding 873 882	miRNA-183
+#12	AnnotatorNotes T28	HGNC:31554
+T29	RNA-Noncoding 974 981	miR-183
+T30	RNA-Noncoding 1025 1036	t miR-183 i
+T31	Biomarker 1027 1034	miR-183
+#13	AnnotatorNotes T31	C533449
+R3	Association Arg1:T31 Arg2:T10	
+T32	Biomarker 1173 1180	miR-183
+R4	Association Arg1:T32 Arg2:T11	
+T12	Disease 1316 1320	IAAA
+#2	AnnotatorNotes T12	not found
+T22	RNA-Noncoding 1375 1382	miR-183
+T33	RNA-Noncoding 1387 1394	miR-141
+#14	AnnotatorNotes T14	DOID:399
+T15	MicroOrganism 1438 1449	TB bacillus
+T34	Disease 1491 1495	IAAA
+T35	Biomarker 1375 1415	miR-183 and miR-141 are highly expressed
+R5	Association Arg1:T35 Arg2:T14	
+T36	Disease 1841 1845	IAAA
+T37	RNA-Noncoding 376 381	miRNA
+#15	AnnotatorNotes T37	family:476
+T38	Biomarker 376 381	miRNA
+#16	AnnotatorNotes T38	D035683
+R6	Association Arg1:T38 Arg2:T2	

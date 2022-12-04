@@ -1,0 +1,60 @@
+29925043_121|t|RSS_IDENT_p_29925043_a_1_1
+29925043_121|a| Tuberous sclerosis complex–associated renal cell carcinoma (TSC-RCC) has distinct clinical and histopathologic features and is considered a specific subtype of RCC. The genetic alterations of TSC1 or TSC2 are responsible for the development of TSC. In this study, we assessed the mTOR pathway activation and aimed to evaluate molecular characteristics and pathogenic pathways of TSC-RCC. Two cases of TSC-RCC, one from a 31-year-old female and the other from an 8-year-old male, were assessed. The mTOR pathway activation was determined by immunohistochemistry. The mutational spectrum of both TSC-RCCs was evaluated by whole exome sequencing (WES), and pathogenic pathways were analyzed. Differentially expressed genes were analyzed by NanoString Technologies nCounter platform. The mTOR pathway activation and the germline mutations of TSC2 were identified in both TSC-RCC cases. The WES revealed several cancer gene alterations. In Case 1, genetic alterations of CHD8, CRISPLD1, EPB41L4A, GNA11, NOTCH3, PBRM1, PTPRU, RGS12, SETBP1, SMARCA4, STMN1, and ZNRF3 were identified. In Case 2, genetic alterations of IWS1 and TSC2 were identified. Further, putative pathogenic pathways included chromatin remodeling, G protein–coupled receptor, Notch signaling, Wnt/β-catenin, PP2A and the microtubule dynamics pathway in Case 1, and mRNA processing and the PI3K/AKT/mTOR pathway in Case 2. Additionally, the ALK and CRLF2 mRNA expression was upregulated and CDH1, MAP3K1, RUNX1, SETBP1, and TSC1 mRNA expression was downregulated in both TSC-RCCs. We present mTOR pathway activation and molecular characteristics with pathogenic pathways in TSC-RCCs, which will advance our understanding of the pathogenesis of TSC-RCC.
+29925043_121	28	86	Tuberous sclerosis complex–associated renal cell carcinoma	Disease	DOID:13515, DOID:4450	Conjunction
+29925043_121	88	95	TSC-RCC	Disease	DOID:13515,DOID:4450	Conjunction
+29925043_121	188	191	RCC	Disease	DOID:4450
+29925043_121	197	232	genetic alterations of TSC1 or TSC2	Biomarker
+29925043_121	220	224	TSC1	Gene-protein	HGNC:12362
+29925043_121	228	232	TSC2	Gene-protein	HGNC:12363
+29925043_121	272	275	TSC	Disease	DOID:13515
+29925043_121	308	312	mTOR	Gene-protein	HGNC:3942
+29925043_121	407	414	TSC-RCC	Disease
+29925043_121	429	436	TSC-RCC	Disease	Conjunction
+29925043_121	526	530	mTOR	Gene-protein
+29925043_121	622	630	TSC-RCCs	Disease	DOID:13515,DOID:4450	Conjunction
+29925043_121	812	816	mTOR	Gene-protein
+29925043_121	812	835	mTOR pathway activation	Biomarker
+29925043_121	812	870	mTOR pathway activation and the germline mutations of TSC2	Collection
+29925043_121	844	870	germline mutations of TSC2	Biomarker
+29925043_121	866	870	TSC2	Gene-protein
+29925043_121	895	902	TSC-RCC	Disease
+29925043_121	935	941	cancer	Disease	DOID:162
+29925043_121	971	1089	genetic alterations of CHD8, CRISPLD1, EPB41L4A, GNA11, NOTCH3, PBRM1, PTPRU, RGS12, SETBP1, SMARCA4, STMN1, and ZNRF3	Biomarker
+29925043_121	994	998	CHD8	Gene-protein	HGNC:20153
+29925043_121	1000	1008	CRISPLD1	Gene-protein	HGNC:18206
+29925043_121	1010	1018	EPB41L4A	Gene-protein	HGNC:13278
+29925043_121	1020	1025	GNA11	Gene-protein	HGNC:4379
+29925043_121	1027	1033	NOTCH3	Gene-protein	HGNC:7883
+29925043_121	1035	1040	PBRM1	Gene-protein	HGNC:30064
+29925043_121	1042	1047	PTPRU	Gene-protein	HGNC:9683
+29925043_121	1049	1054	RGS12	Gene-protein	HGNC:9994
+29925043_121	1056	1062	SETBP1	Gene-protein	HGNC:15573
+29925043_121	1064	1071	SMARCA4	Gene-protein	HGNC:11100
+29925043_121	1073	1078	STMN1	Gene-protein	HGNC:6510
+29925043_121	1084	1089	ZNRF3	Gene-protein	HGNC:18126
+29925043_121	1118	1154	genetic alterations of IWS1 and TSC2	Biomarker
+29925043_121	1141	1145	IWS1	Gene-protein	HGNC:25467
+29925043_121	1150	1154	TSC2	Gene-protein
+29925043_121	1241	1267	G protein–coupled receptor	Genefamily	family:139
+29925043_121	1269	1274	Notch	Genefamily	family:1689
+29925043_121	1286	1289	Wnt	Genefamily	family:360
+29925043_121	1290	1299	β-catenin	Genefamily	family:1542
+29925043_121	1301	1305	PP2A	Gene-protein	HGNC:9299
+29925043_121	1382	1386	PI3K	Genefamily	family:831
+29925043_121	1387	1390	AKT	Genefamily	family:1900
+29925043_121	1391	1395	mTOR	Gene-protein
+29925043_121	1433	1436	ALK	Gene-protein	HGNC:427
+29925043_121	1433	1478	ALK and CRLF2 mRNA expression was upregulated	Biomarker
+29925043_121	1433	1554	ALK and CRLF2 mRNA expression was upregulated and CDH1, MAP3K1, RUNX1, SETBP1, and TSC1 mRNA expression was downregulated	Collection
+29925043_121	1441	1446	CRLF2	Gene-protein	HGNC:14281
+29925043_121	1483	1487	CDH1	Gene-protein	HGNC:1748
+29925043_121	1483	1554	CDH1, MAP3K1, RUNX1, SETBP1, and TSC1 mRNA expression was downregulated	Biomarker
+29925043_121	1489	1495	MAP3K1	Gene-protein	HGNC:6848
+29925043_121	1497	1502	RUNX1	Gene-protein	HGNC:10471
+29925043_121	1504	1510	SETBP1	Gene-protein
+29925043_121	1516	1520	TSC1	Gene-protein
+29925043_121	1563	1571	TSC-RCCs	Disease	Conjunction
+29925043_121	1584	1588	mTOR	Gene-protein
+29925043_121	1666	1674	TSC-RCCs	Disease	Conjunction
+29925043_121	1736	1743	TSC-RCC	Disease	Conjunction
+

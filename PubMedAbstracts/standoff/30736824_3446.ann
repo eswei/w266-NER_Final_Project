@@ -1,0 +1,142 @@
+T1	Biomarker 30 35	STAT3
+T11	Gene-Protein 1029 1041	oncostatin M
+T12	Gene-Protein 1158 1163	GP130
+T13	Gene-Protein 1219 1224	GP130
+T15	Gene-Protein 1540 1545	GP130
+T16	Disease 1587 1593	cancer
+#6	AnnotatorNotes T16	DOID:162
+T17	Disease 1768 1786	solid malignancies
+#7	AnnotatorNotes T17	not found
+T18	Disease 1803 1815	colon cancer
+T19	Biomarker 1821 1889	up-regulated IL-11 and IL-11R were also found to be highly expressed
+T2	Disease 101 104	CRC
+T20	Disease 1904 1907	CRC
+T21	Biomarker 1929 1973	dominance of IL-11 over IL-6 as the cytokine
+T22	Disease 1983 1988	tumor
+#11	AnnotatorNotes T22	DOID:162
+T23	Disease 2119 2137	overt inflammation
+#12	AnnotatorNotes T23	not found
+T24	Disease 2145 2152	colitis
+#13	AnnotatorNotes T24	DOID:0060180
+T25	Drug 2167 2183	low IL-11 levels
+T26	Disease 2246 2259	solid cancers
+#14	AnnotatorNotes T26	DOID:6315
+T27	Biomarker 2327 2332	IL-11
+T28	Disease 2336 2348	colon cancer
+T29	Disease 2394 2407	colon cancers
+T3	Gene-Protein 174 179	GP130
+T30	Biomarker 2458 2483	elevated STAT3 activation
+T31	Disease 2493 2517	gastrointestinal cancers
+#18	AnnotatorNotes T31	DOID:3119
+T32	Gene-Protein 2587 2592	GP130
+T33	Disease 2636 2660	gastrointestinal cancers
+T4	Disease 220 232	colon cancer
+#21	AnnotatorNotes T4	DOID:219
+T5	Disease 344 357	colon cancers
+#22	AnnotatorNotes T5	DOID:219
+T6	Disease 523 535	colon cancer
+T7	Biomarker 563 568	IL-11
+T8	Disease 697 709	colon cancer
+T9	Gene-Protein 743 748	GP130
+T34	Gene-Protein 30 35	STAT3
+#2	AnnotatorNotes T34	HGNC:11364
+#3	AnnotatorNotes T1	D050796
+R1	Association Arg1:T1 Arg2:T2	
+#4	AnnotatorNotes T2	DOID:9256
+#5	AnnotatorNotes T3	HGNC:6021
+T35	Gene-Protein 180 185	STAT3
+T36	Biomarker 164 195	excessive GP130/STAT3 signaling
+R2	Association Arg1:T36 Arg2:T4	
+T38	Gene-Protein 421 430	cyclin D1
+#9	AnnotatorNotes T38	HGNC:1582
+T39	Gene-Protein 432 437	c-myc
+#10	AnnotatorNotes T39	HGNC:7553
+T40	Gene-Protein 439 445	bcl-XL
+#17	AnnotatorNotes T40	HGNC:992
+T41	Gene-Protein 447 455	survivin
+#19	AnnotatorNotes T41	HGNC:593
+R4	Association Arg1:T36 Arg2:T5	
+T42	Biomarker 473 509	series of STAT3-activating cytokines
+T43	Gene-Protein 483 488	STAT3
+T44	GeneFamily 500 509	cytokines
+#25	AnnotatorNotes T44	not found
+R5	Association Arg1:T42 Arg2:T6	
+T45	Gene-Protein 563 568	IL-11
+#23	AnnotatorNotes T45	HGNC:5966
+T46	GeneFamily 586 610	IL-6 family of cytokines
+R6	Association Arg1:T7 Arg2:T8	
+T48	GeneFamily 675 683	cytokine
+#27	AnnotatorNotes T48	not found
+T49	GeneFamily 788 794	IL-11R
+#24	AnnotatorNotes T49	not found
+T50	GeneFamily 851 853	is
+T51	GeneFamily 807 845	interleukin (IL)-6 family of cytokines
+T52	Gene-Protein 868 872	IL-6
+T53	Gene-Protein 874 879	IL-11
+T54	Gene-Protein 881 908	ciliary neurotrophic factor
+#29	AnnotatorNotes T54	HGNC:2169
+T55	Gene-Protein 910 914	CNTF
+#30	AnnotatorNotes T55	HGNC:2169
+T56	Gene-Protein 917 932	cardiotrophin-1
+#31	AnnotatorNotes T56	HGNC:2499
+T57	Gene-Protein 934 938	CT-1
+#32	AnnotatorNotes T57	HGNC:2499
+T58	Gene-Protein 941 968	cardiotrophin-like cytokine
+#33	AnnotatorNotes T58	HGNC:17412
+T59	Gene-Protein 970 973	CLC
+#34	AnnotatorNotes T59	HGNC:17412
+T60	Gene-Protein 976 1002	leukemia inhibitory factor
+#35	AnnotatorNotes T60	HGNC:6596
+T10	Gene-Protein 1004 1007	LIF
+#1	AnnotatorNotes T10	HGNC:6596
+T61	Gene-Protein 1010 1022	neuropoietin
+#36	AnnotatorNotes T61	HGNC:33173
+T62	Gene-Protein 1024 1026	NP
+#37	AnnotatorNotes T62	HGNC:33173
+T63	Gene-Protein 1043 1046	OSM
+#38	AnnotatorNotes T63	HGNC:8506
+#39	AnnotatorNotes T11	HGNC:8506
+T64	Gene-Protein 1049 1054	IL-27
+#40	AnnotatorNotes T64	HGNC:19157
+T65	Gene-Protein 1060 1065	IL-31
+#41	AnnotatorNotes T65	HGNC:19372
+T66	Gene-Protein 1084 1088	IL-6
+T67	Gene-Protein 1074 1079	IL-11
+T68	GeneFamily 1108 1117	cytokines
+T69	GeneFamily 1185 1194	cytokines
+T70	Gene-Protein 1312 1317	IL-11
+T71	GeneFamily 1346 1352	IL-11R
+T72	Gene-Protein 1414 1419	IL-11
+T73	GeneFamily 1464 1470	IL-11R
+T74	Gene-Protein 1527 1532	IL-11
+T75	GeneFamily 1533 1539	IL-11R
+T76	Gene-Protein 1565 1570	IL-11
+T77	Gene-Protein 1654 1659	STAT3
+T78	GeneFamily 1650 1653	JAK
+#42	AnnotatorNotes T78	family:1459
+T14	Gene-Protein 1834 1839	IL-11
+T80	GeneFamily 1844 1850	IL-11R
+R9	Association Arg1:T19 Arg2:T20	
+R10	Association Arg1:T19 Arg2:T18	
+T81	Gene-Protein 1942 1947	IL-11
+T82	Gene-Protein 1953 1957	IL-6
+T83	Gene-Protein 1965 1973	cytokine
+R11	Association Arg1:T21 Arg2:T22	
+T84	Gene-Protein 2171 2176	IL-11
+#8	AnnotatorNotes T25	not found
+R12	Synergy-Response Arg1:T25 Arg2:T26	
+T85	Drug-Class 2225 2237	chemotherapy
+R13	Synergy-Response Arg1:T85 Arg2:T26	
+T86	Gene-Protein 2327 2332	IL-11
+R14	Association Arg1:T27 Arg2:T28	
+#15	AnnotatorNotes T27	D017370
+T87	Biomarker 2420 2425	IL-11
+T88	Gene-Protein 2420 2425	IL-11
+T89	Gene-Protein 2467 2472	STAT3
+T90	Gene-Protein 2581 2586	IL-11
+T91	Drug 2567 2602	inhibition of IL-11/GP130 signaling
+#16	AnnotatorNotes T91	not found
+R15	Response Arg1:T91 Arg2:T33	
+#20	AnnotatorNotes T46	family:1264
+#26	AnnotatorNotes T51	family:1264
+#28	AnnotatorNotes T7	 D017370

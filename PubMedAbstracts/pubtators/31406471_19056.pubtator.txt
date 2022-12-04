@@ -1,0 +1,61 @@
+31406471_19056|t|RSS_IDENT_p_31406471_b_1_4_3
+31406471_19056|a| Clinical studies have reported elevated MMP13 expression in patients with articular cartilage destruction, 37 , 38 indicating that raised MMP13 levels may contribute to cartilage degradation. A previous study showed that transgenic mice overexpressing Mmp13 exhibit OA phenotype, including cartilage degradation. TLR4 signaling is associated with catabolic response via MMP13. 39 TLR4 ligands stimulate MMP13 in human chondrocytes 40 , 41 and synovial fibroblasts. 42 Here, MMP13 expression was increased in the SYN of KOA patients with high HbA1c concentrations. In addition, the TLR4 agonist, LPS, stimulated MMP13 expression and MMP13 production. Several endogenous TLR4 ligands that may exacerbate diabetic conditions have been reported, including advanced glycation end products, 41 macroglobulin 43 and amyloid-β. 44 However, it is unclear which endogenous ligands contribute to the elevation of MMP13 in KOA patients with high HbA1c concentrations. Nevertheless, elevation of TLR4 and MMP13 expression in the SYN of KOA patients with high HbA1c concentrations may explain some of the epidemiological findings showing that DM is associated with OA. Previous epidemiological studies have reported that DM patients have high prevalence of overweight/obesity. 45 – 47 Fatani et al reported that 41% of a DM patient population was obese. 46 Hedley et al reported that 70% of DM patients were obese. 47 In our study, patients with HbA1c ≥6.5 had higher BMI than those with HbA1c <6.5, and 56% of OA patients with HbA1c ≥6.5 were obese. However, TLR4 and MMP13 expression were comparable among normal, overweight, and obese patients. Therefore, our results suggest that higher TLR4 and MMP13 expression may be reflective of diabetic conditions but not obesity. 
+31406471_19056	61	86	elevated MMP13 expression	Biomarker
+31406471_19056	70	75	MMP13	Gene-protein	HGNC:7159
+31406471_19056	104	135	articular cartilage destruction	Disease	not found
+31406471_19056	161	180	raised MMP13 levels	Biomarker
+31406471_19056	168	173	MMP13	Gene-protein
+31406471_19056	267	287	overexpressing Mmp13	Biomarker
+31406471_19056	282	287	Mmp13	Gene-protein
+31406471_19056	296	298	OA	Disease	DOID:8398
+31406471_19056	343	347	TLR4	Gene-protein	HGNC:11850
+31406471_19056	400	405	MMP13	Gene-protein
+31406471_19056	410	414	TLR4	Gene-protein
+31406471_19056	433	438	MMP13	Gene-protein
+31406471_19056	504	509	MMP13	Gene-protein
+31406471_19056	504	545	MMP13 expression was increased in the SYN	Biomarker
+31406471_19056	549	592	KOA patients with high HbA1c concentrations	Disease	not found
+31406471_19056	611	615	TLR4	Gene-protein
+31406471_19056	611	623	TLR4 agonist	Drug-class
+31406471_19056	625	628	LPS	Chemical
+31406471_19056	641	646	MMP13	Gene-protein
+31406471_19056	662	667	MMP13	Gene-protein
+31406471_19056	688	711	endogenous TLR4 ligands	Biomarker
+31406471_19056	699	703	TLR4	Gene-protein
+31406471_19056	732	740	diabetic	Disease	not found
+31406471_19056	818	831	macroglobulin	Gene-protein	not found
+31406471_19056	839	848	amyloid-β	Gene-protein	not found
+31406471_19056	882	900	endogenous ligands	Biomarker
+31406471_19056	919	937	elevation of MMP13	Biomarker
+31406471_19056	932	937	MMP13	Gene-protein
+31406471_19056	941	984	KOA patients with high HbA1c concentrations	Disease
+31406471_19056	1000	1049	elevation of TLR4 and MMP13 expression in the SYN	Biomarker
+31406471_19056	1013	1017	TLR4	Gene-protein
+31406471_19056	1022	1027	MMP13	Gene-protein
+31406471_19056	1053	1096	KOA patients with high HbA1c concentrations	Disease
+31406471_19056	1159	1161	DM	Disease	DOID:9352
+31406471_19056	1181	1183	OA	Disease
+31406471_19056	1237	1239	DM	Disease
+31406471_19056	1273	1283	overweight	Biomarker	D050177
+31406471_19056	1273	1291	overweight/obesity	Collection
+31406471_19056	1284	1291	obesity	Biomarker	D009765
+31406471_19056	1337	1339	DM	Disease
+31406471_19056	1363	1368	obese	Biomarker	D009765
+31406471_19056	1407	1409	DM	Disease
+31406471_19056	1424	1429	obese	Biomarker
+31406471_19056	1462	1472	HbA1c ≥6.5	Biomarker
+31406471_19056	1477	1487	higher BMI	Biomarker
+31406471_19056	1527	1554	OA patients with HbA1c ≥6.5	Biomarker
+31406471_19056	1560	1565	obese	Disease	DOID:9970
+31406471_19056	1576	1580	TLR4	Gene-protein
+31406471_19056	1576	1580	TLR4	Biomarker	D051197
+31406471_19056	1585	1590	MMP13	Gene-protein
+31406471_19056	1585	1590	MMP13	Biomarker	D053509
+31406471_19056	1632	1642	overweight	Disease	D050177
+31406471_19056	1648	1653	obese	Disease
+31406471_19056	1700	1732	higher TLR4 and MMP13 expression	Biomarker
+31406471_19056	1707	1711	TLR4	Gene-protein
+31406471_19056	1716	1721	MMP13	Gene-protein
+31406471_19056	1754	1762	diabetic	Disease
+31406471_19056	1782	1789	obesity	Disease	DOID:9970
+

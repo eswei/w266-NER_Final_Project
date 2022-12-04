@@ -1,0 +1,62 @@
+T0	Variant 354 358	A30P
+T1	Variant 499 503	A30P
+T2	Variant 579 583	A30P
+T3	Variant 757 761	A30P
+T4	Variant 954 958	A30P
+T5	Variant 1047 1051	A30P
+T6	Variant 1290 1294	A30P
+T7	Variant 1517 1521	A30P
+T8	Variant 1750 1754	A30P
+T9	Variant 2012 2016	A30P
+T10	Gene-Protein 101 108	ZKSCAN3
+#1	AnnotatorNotes T10	HGNC:13853
+T11	Gene-Protein 175 182	ZKSCAN3
+T12	Gene-Protein 359 370	α-synuclein
+#2	AnnotatorNotes T12	HGNC:11138
+R1	Variant-Of Arg1:T12 Arg2:T0	
+#3	AnnotatorNotes T0	p.Ala30Pro
+T14	Gene-Protein 408 415	ZKSCAN3
+T15	Gene-Protein 504 515	α-synuclein
+R2	Variant-Of Arg1:T15 Arg2:T1	
+T16	Gene-Protein 584 595	α-synuclein
+R3	Variant-Of Arg1:T16 Arg2:T2	
+T17	MicroOrganism 596 599	AAV
+T18	Gene-Protein 658 662	TFEB
+#5	AnnotatorNotes T18	HGNC:11753
+T19	Gene-Protein 633 656	transcription factor EB
+#6	AnnotatorNotes T19	HGNC:11753
+T20	Gene-Protein 762 773	α-synuclein
+R4	Variant-Of Arg1:T20 Arg2:T3	
+T21	Gene-Protein 794 797	LC3
+#7	AnnotatorNotes T21	HGNC:6838
+T22	Gene-Protein 442 448	LC3-II
+#8	AnnotatorNotes T22	HGNC:13352
+T23	Gene-Protein 822 828	LC3-II
+T24	Gene-Protein 959 970	α-synuclein
+R5	Variant-Of Arg1:T24 Arg2:T4	
+T25	Gene-Protein 1039 1045	LC3-II
+T26	Gene-Protein 1052 1063	α-synuclein
+R6	Variant-Of Arg1:T26 Arg2:T5	
+T27	Gene-Protein 1101 1106	LC3-I
+T28	Gene-Protein 1126 1129	p62
+#9	AnnotatorNotes T28	HGNC:8066
+T31	Gene-Protein 1295 1306	α-synuclein
+R7	Variant-Of Arg1:T31 Arg2:T6	
+T32	Gene-Protein 1522 1533	α-synuclein
+R8	Variant-Of Arg1:T32 Arg2:T7	
+T33	Gene-Protein 1545 1552	ZKSCAN3
+T34	Gene-Protein 1602 1610	MAP1LC3B
+#10	AnnotatorNotes T34	HGNC:13352
+T35	Gene-Protein 1615 1624	GABARAPL2
+#11	AnnotatorNotes T35	HGNC:13291
+T36	Gene-Protein 1640 1647	ZKSCAN3
+T37	Gene-Protein 1755 1766	α-synuclein
+R9	Variant-Of Arg1:T37 Arg2:T8	
+T38	Gene-Protein 1808 1815	ZKSCAN3
+T39	Gene-Protein 1887 1894	ZKSCAN3
+T40	Gene-Protein 1927 1933	LC3-II
+T41	Gene-Protein 1938 1942	TFEB
+T42	Gene-Protein 2068 2075	ZKSCAN3
+T43	Gene-Protein 2017 2028	α-synuclein
+R10	Variant-Of Arg1:T43 Arg2:T9	
+T13	Gene-Protein 1427 1430	LC3

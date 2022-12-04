@@ -1,0 +1,68 @@
+T0	Disease 82 97	aortic aneurysm
+#1	AnnotatorNotes T0	DOID:3627
+T12	Disease 803 828	thoracic aortic aneurysms
+T13	Disease 1219 1243	thoracic aortic aneurysm
+T14	Disease 1293 1317	thoracic aortic aneurysm
+T15	Chemical 1331 1348	5-LOX metabolites
+T17	Chemical 1493 1499	5-HETE
+T18	Chemical 1504 1512	12- HETE
+T19	Chemical 1513 1520	15-HETE
+T2	Disease 206 210	TAAA
+T20	Chemical 1624 1639	12- and 15-HETE
+T21	Chemical 1660 1666	5-HETE
+T22	Disease 1704 1729	thoracic aortic aneurysms
+T23	Disease 1784 1809	thoracic aortic aneurysms
+T3	Disease 254 270	vascular disease
+#15	AnnotatorNotes T3	DOID:178
+T4	Disease 311 315	TAAA
+T5	Disease 320 324	TNAA
+T7	Disease 435 459	thoracic aortic aneurysm
+#18	AnnotatorNotes T7	DOID:14004
+T8	Disease 580 605	thoracic aortic aneurysms
+#19	AnnotatorNotes T8	DOID:14004
+T9	Chemical 635 639	PGD₂
+T1	Biomarker 41 74	alterations in the lipid profiles
+R1	Association Arg1:T1 Arg2:T0	
+T6	Chemical 60 65	lipid
+T10	Biomarker 132 161	alterations in lipid profiles
+T16	Chemical 147 152	lipid
+#2	AnnotatorNotes T2	not found
+T24	Disease 215 219	TNAA
+#6	AnnotatorNotes T24	not found
+T25	Biomarker 343 360	lipid alterations
+T26	Chemical 343 348	lipid
+R2	Risk-Factor Arg1:T25 Arg2:T7	
+T27	Biomarker 607 620	decreased ePE
+T28	Biomarker 625 661	increased PGD₂ and 5-LOX metabolites
+T29	Collection 607 661	decreased ePE and increased PGD₂ and 5-LOX metabolites
+R3	Association Arg1:T29 Arg2:T8	
+T30	Biomarker 695 719	increased GCers and LPCs
+T31	Biomarker 724 768	decreased TGs and 12- and 15-LOX metabolites
+T11	Collection 695 768	increased GCers and LPCs and decreased TGs and 12- and 15-LOX metabolites
+R4	Association Arg1:T11 Arg2:T12	
+T32	GeneFamily 830 867	Extracellular signal-regulated kinase
+#3	AnnotatorNotes T32	not found
+T33	GeneFamily 869 872	ERK
+#7	AnnotatorNotes T33	not found
+T34	GeneFamily 1002 1005	ERK
+T35	Chemical 984 988	LPCs
+T36	Chemical 715 719	LPCs
+T37	Chemical 617 620	ePE
+T38	Chemical 705 710	GCers
+T39	Chemical 974 979	GCers
+T40	Chemical 742 768	12- and 15-LOX metabolites
+T41	Chemical 644 661	5-LOX metabolites
+T42	Chemical 1052 1057	GCers
+T43	Chemical 1062 1066	LPCs
+T44	GeneFamily 1136 1139	ERK
+T45	Biomarker 1042 1066	increased GCers and LPCs
+R5	Association Arg1:T45 Arg2:T13	
+T46	Biomarker 1331 1358	5-LOX metabolites increased
+T47	Chemical 1364 1390	12- and 15-LOX metabolites
+T48	Biomarker 1364 1400	12- and 15-LOX metabolites decreased
+T49	Biomarker 1450 1467	lipid alterations
+T50	Chemical 1450 1455	lipid
+T51	GeneFamily 900 930	platelet-derived growth factor
+#5	AnnotatorNotes T51	not found
+T52	Gene-Protein 1565 1572	insulin
+#8	AnnotatorNotes T52	HGNC:6081

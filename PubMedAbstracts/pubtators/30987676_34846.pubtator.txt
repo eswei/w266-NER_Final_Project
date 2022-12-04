@@ -1,0 +1,97 @@
+30987676_34846|t|RSS_IDENT_s_30987676_b_1_3_5
+30987676_34846|a| miR-143-5p and AMPK are upregulated while eEF2 is downregulated and cartilage differentiation is inhibited in degenerative IVD tissues The mRNA and protein levels of cartilage differentiation-related and AMPK signaling pathway-related genes in normal IVD and degenerative IVD were detected using RT-qPCR (Fig. 4a) and Western blot analysis (Fig. 4b, c). When compared to the normal IVD, degenerative IVD showed significantly decreased mRNA and protein levels of mTOR, Bcl-2, cyclinD and eEF2, and p-mTOR/t-mTOR protein level ratio, while obviously increased mRNA and protein levels of Bax and AMPK, p-AMPK/t-AMPK protein level ratio, and miR-143-5p expression. Fig. 4 IDD rats exhibit upregulated miR-143-5p and activated AMPK signaling pathway yet inhibited NP cell differentiation and eEF2. a miR-143-5p expression and mRNA expression of Bax, AMPK, mTOR, Bcl-2, cyclinD, and eEF2 in normal IVD and degenerative IVD. b, c Protein levels and bands of Bax, AMPK, mTOR, Bcl-2, cyclinD, and eEF2 in normal IVD and degenerative IVD. d Protein levels of COL2, ACAN, and DCN in normal IVD and degenerative IVD; the experiment was repeated three times independently; data were expressed by mean ± standard deviation; comparison of data between two groups was conducted using a t-test; *, p < 0.05 vs. normal IVD; miR-143-5p, microRNA-143-5p; IVD, intervertebral disc; eEF2, eukaryotic translation elongation factor 2; AMPK, AMP activated protein kinase; Bax, Bcl-2 Associated X protein; Bcl-2, B cell lymphoma-2; mTOR, mammalian target of rapamycin; GAPDH, glyceraldehyde-3-phosphate dehydrogenase; COL2, collagen type II; ACAN, aggrecan; DCN, decorin The protein levels of cartilage differentiation-related genes in normal IVD and degenerative IVD were detected using Western blot analysis (Fig. 4d). When compared to the normal IVD, degenerative IVD showed significantly decreased levels of COL2, ACAN, and DCN proteins (p < 0.05). Therefore, these results demonstrated that miR-143-5p highly expressed and AMPK signaling pathway activation was induced in degenerative IVD, while eEF2 lowly expressed and cartilage differentiation was inhibited.
+30987676_34846	30	40	miR-143-5p	Rna-noncoding	HGNC:31530
+30987676_34846	30	65	miR-143-5p and AMPK are upregulated	Biomarker
+30987676_34846	30	136	miR-143-5p and AMPK are upregulated while eEF2 is downregulated and cartilage differentiation is inhibited	Collection
+30987676_34846	45	49	AMPK	Genefamily	not found
+30987676_34846	72	76	eEF2	Gene-protein	HGNC:3214
+30987676_34846	72	93	eEF2 is downregulated	Biomarker
+30987676_34846	98	136	cartilage differentiation is inhibited	Biomarker
+30987676_34846	140	156	degenerative IVD	Disease	DOID:1289
+30987676_34846	169	270	mRNA and protein levels of cartilage differentiation-related and AMPK signaling pathway-related genes	Biomarker
+30987676_34846	234	238	AMPK	Genefamily
+30987676_34846	289	305	degenerative IVD	Disease
+30987676_34846	417	433	degenerative IVD	Disease
+30987676_34846	455	560	decreased mRNA and protein levels of mTOR, Bcl-2, cyclinD and eEF2, and p-mTOR/t-mTOR protein level ratio	Biomarker
+30987676_34846	455	689	decreased mRNA and protein levels of mTOR, Bcl-2, cyclinD and eEF2, and p-mTOR/t-mTOR protein level ratio, while obviously increased mRNA and protein levels of Bax and AMPK, p-AMPK/t-AMPK protein level ratio, and miR-143-5p expression	Collection
+30987676_34846	492	496	mTOR	Gene-protein
+30987676_34846	498	503	Bcl-2	Gene-protein
+30987676_34846	505	512	cyclinD	Gene-protein
+30987676_34846	517	521	eEF2	Gene-protein
+30987676_34846	529	533	mTOR	Gene-protein
+30987676_34846	536	540	mTOR	Gene-protein
+30987676_34846	578	689	increased mRNA and protein levels of Bax and AMPK, p-AMPK/t-AMPK protein level ratio, and miR-143-5p expression	Biomarker
+30987676_34846	615	618	Bax	Gene-protein
+30987676_34846	623	627	AMPK	Genefamily
+30987676_34846	631	635	AMPK	Genefamily
+30987676_34846	638	642	AMPK	Genefamily
+30987676_34846	668	678	miR-143-5p	Rna-noncoding
+30987676_34846	698	701	IDD	Disease	DOID:90
+30987676_34846	715	774	upregulated miR-143-5p and activated AMPK signaling pathway	Biomarker
+30987676_34846	727	737	miR-143-5p	Rna-noncoding
+30987676_34846	752	756	AMPK	Genefamily
+30987676_34846	817	821	eEF2	Gene-protein
+30987676_34846	825	835	miR-143-5p	Rna-noncoding
+30987676_34846	825	846	miR-143-5p expression	Biomarker
+30987676_34846	851	911	mRNA expression of Bax, AMPK, mTOR, Bcl-2, cyclinD, and eEF2	Biomarker
+30987676_34846	870	873	Bax	Gene-protein
+30987676_34846	875	879	AMPK	Genefamily
+30987676_34846	881	885	mTOR	Gene-protein
+30987676_34846	887	892	Bcl-2	Gene-protein
+30987676_34846	894	901	cyclinD	Gene-protein
+30987676_34846	907	911	eEF2	Gene-protein
+30987676_34846	930	946	degenerative IVD	Disease
+30987676_34846	953	1022	Protein levels and bands of Bax, AMPK, mTOR, Bcl-2, cyclinD, and eEF2	Biomarker
+30987676_34846	981	984	Bax	Gene-protein
+30987676_34846	986	990	AMPK	Genefamily
+30987676_34846	992	996	mTOR	Gene-protein
+30987676_34846	998	1003	Bcl-2	Gene-protein
+30987676_34846	1005	1012	cyclinD	Gene-protein
+30987676_34846	1018	1022	eEF2	Gene-protein
+30987676_34846	1041	1057	degenerative IVD	Disease
+30987676_34846	1061	1098	Protein levels of COL2, ACAN, and DCN	Biomarker
+30987676_34846	1079	1083	COL2	Gene-protein
+30987676_34846	1085	1089	ACAN	Gene-protein
+30987676_34846	1095	1098	DCN	Gene-protein
+30987676_34846	1117	1133	degenerative IVD	Disease
+30987676_34846	1336	1346	miR-143-5p	Rna-noncoding
+30987676_34846	1348	1363	microRNA-143-5p	Rna-noncoding
+30987676_34846	1391	1395	eEF2	Gene-protein
+30987676_34846	1397	1439	eukaryotic translation elongation factor 2	Gene-protein
+30987676_34846	1441	1445	AMPK	Genefamily
+30987676_34846	1447	1450	AMP	Chemical
+30987676_34846	1447	1475	AMP activated protein kinase	Genefamily
+30987676_34846	1477	1480	Bax	Gene-protein
+30987676_34846	1482	1508	Bcl-2 Associated X protein	Gene-protein
+30987676_34846	1510	1515	Bcl-2	Gene-protein
+30987676_34846	1517	1534	B cell lymphoma-2	Gene-protein
+30987676_34846	1536	1540	mTOR	Gene-protein
+30987676_34846	1542	1571	mammalian target of rapamycin	Gene-protein
+30987676_34846	1562	1571	rapamycin	Drug	CHEMBL413
+30987676_34846	1573	1578	GAPDH	Gene-protein
+30987676_34846	1580	1606	glyceraldehyde-3-phosphate	Chemical
+30987676_34846	1580	1620	glyceraldehyde-3-phosphate dehydrogenase	Gene-protein
+30987676_34846	1622	1626	COL2	Gene-protein
+30987676_34846	1628	1644	collagen type II	Gene-protein
+30987676_34846	1646	1650	ACAN	Gene-protein
+30987676_34846	1652	1660	aggrecan	Gene-protein
+30987676_34846	1662	1665	DCN	Gene-protein
+30987676_34846	1667	1674	decorin	Gene-protein
+30987676_34846	1679	1736	protein levels of cartilage differentiation-related genes	Biomarker
+30987676_34846	1755	1771	degenerative IVD	Disease
+30987676_34846	1858	1874	degenerative IVD	Disease
+30987676_34846	1896	1944	decreased levels of COL2, ACAN, and DCN proteins	Biomarker
+30987676_34846	1916	1920	COL2	Gene-protein
+30987676_34846	1922	1926	ACAN	Gene-protein
+30987676_34846	1932	1935	DCN	Gene-protein
+30987676_34846	2000	2010	miR-143-5p	Rna-noncoding
+30987676_34846	2000	2027	miR-143-5p highly expressed	Biomarker
+30987676_34846	2000	2077	miR-143-5p highly expressed and AMPK signaling pathway activation was induced	Collection
+30987676_34846	2032	2036	AMPK	Genefamily
+30987676_34846	2032	2077	AMPK signaling pathway activation was induced	Biomarker
+30987676_34846	2081	2097	degenerative IVD	Disease
+30987676_34846	2105	2109	eEF2	Gene-protein
+30987676_34846	2105	2125	eEF2 lowly expressed	Biomarker
+30987676_34846	2105	2170	eEF2 lowly expressed and cartilage differentiation was inhibited.	Collection
+30987676_34846	2130	2169	cartilage differentiation was inhibited	Biomarker
+

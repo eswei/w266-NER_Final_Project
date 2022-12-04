@@ -1,0 +1,48 @@
+30988713_14730|t|RSS_IDENT_p_30988713_b_1_4_3
+30988713_14730|a| The development of diabetes is associated with the occurrence of a series of complications ( 16 , 17 ). Previous studies suggested that lncRNAs are key factors in the development of diabetic complications. Sun et al ( 16 ) reported that lncRNA Erb-b2 receptor tyrosine kinase 4-intron region (Erbb4-IR) was upregulated in a mouse model of diabetic kidney injury, and that the upregulation of lncRNA Erbb4-IR is closely associated with disease progression. A study by Zhuo et al ( 17 ) revealed that lncRNA H19 is downregulated in diabetic cardiomyopathy and overexpression of lncRNA H19 inhibits autophagy by epigenetically silencing DIRAS family GTPase 3. However, most lncRNAs involved in diabetic complications are regulated by high glucose and have no diagnostic value to distinguish patients with a specific diabetic complication from diabetic patients without this complication ( 16 , 17 ). lncRNA-SRA has pivotal roles in different types of human disease. Genetic variants of lncRNA SRA have been proved to be closely associated with the risk of breast cancer ( 10 ). lncRNA-SRA also inhibits the expression of adipose triglyceride lipase, thereby promoting hepatic steatosis ( 11 ). However, the involvement of lncRNA-SRA in diabetic cardiovascular disease has remained elusive. It has been reported that lncRNA-SRA promotes the proliferation of VSMCs, which have pivotal roles in the pathogenesis of cardiovascular diseases ( 12 , 13 ). The present study demonstrated that the plasma levels of lncRNA-SRA may serve as a potential diagnostic biomarker for type II diabetic cardiovascular disease. However, the expression of lncRNA-SRA has been reported to be affected by multiple diseases. Therefore, the diagnostic specificity should be further investigated. 
+30988713_14730	49	57	diabetes	Disease	not found
+30988713_14730	166	173	lncRNAs	Biomarker	D062085
+30988713_14730	166	173	lncRNAs	Rna-noncoding	family:788
+30988713_14730	212	234	diabetic complications	Disease	D048909
+30988713_14730	267	348	lncRNA Erb-b2 receptor tyrosine kinase 4-intron region (Erbb4-IR) was upregulated	Biomarker
+30988713_14730	274	321	Erb-b2 receptor tyrosine kinase 4-intron region	Rna-noncoding
+30988713_14730	323	331	Erbb4-IR	Rna-noncoding
+30988713_14730	369	391	diabetic kidney injury	Disease	D003928
+30988713_14730	406	437	upregulation of lncRNA Erbb4-IR	Biomarker
+30988713_14730	429	437	Erbb4-IR	Rna-noncoding
+30988713_14730	536	539	H19	Rna-noncoding	HGNC:4713
+30988713_14730	536	556	H19 is downregulated	Biomarker
+30988713_14730	560	583	diabetic cardiomyopathy	Disease	D058065
+30988713_14730	613	616	H19	Rna-noncoding
+30988713_14730	664	685	DIRAS family GTPase 3	Gene-protein	HGNC:687
+30988713_14730	701	708	lncRNAs	Biomarker
+30988713_14730	701	708	lncRNAs	Rna-noncoding
+30988713_14730	721	743	diabetic complications	Disease
+30988713_14730	761	773	high glucose	Biomarker
+30988713_14730	766	773	glucose	Chemical
+30988713_14730	843	864	diabetic complication	Disease	D048909
+30988713_14730	870	878	diabetic	Disease	not found
+30988713_14730	927	933	lncRNA	Rna-noncoding
+30988713_14730	934	937	SRA	Gene-protein	HGNC:11281
+30988713_14730	993	1023	Genetic variants of lncRNA SRA	Biomarker
+30988713_14730	1013	1019	lncRNA	Rna-noncoding
+30988713_14730	1020	1023	SRA	Gene-protein
+30988713_14730	1083	1096	breast cancer	Disease	DOID:1612
+30988713_14730	1105	1111	lncRNA	Rna-noncoding
+30988713_14730	1105	1115	lncRNA-SRA	Biomarker	not found
+30988713_14730	1112	1115	SRA	Gene-protein
+30988713_14730	1156	1168	triglyceride	Chemical
+30988713_14730	1195	1212	hepatic steatosis	Disease	DOID:9452
+30988713_14730	1249	1255	lncRNA	Rna-noncoding
+30988713_14730	1256	1259	SRA	Gene-protein
+30988713_14730	1263	1294	diabetic cardiovascular disease	Disease	DOID:11713
+30988713_14730	1343	1353	lncRNA-SRA	Biomarker
+30988713_14730	1439	1462	cardiovascular diseases	Disease	DOID:1287
+30988713_14730	1516	1543	plasma levels of lncRNA-SRA	Biomarker
+30988713_14730	1533	1539	lncRNA	Rna-noncoding
+30988713_14730	1540	1543	SRA	Gene-protein
+30988713_14730	1594	1633	type II diabetic cardiovascular disease	Disease	DOID:11713
+30988713_14730	1648	1672	expression of lncRNA-SRA	Biomarker
+30988713_14730	1662	1668	lncRNA	Rna-noncoding
+30988713_14730	1669	1672	SRA	Gene-protein
+

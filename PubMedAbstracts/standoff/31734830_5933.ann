@@ -1,0 +1,69 @@
+T0	Disease 103 107	T2DM
+#1	AnnotatorNotes T0	DOID:9352
+T1	Disease 112 121	fractures
+#2	AnnotatorNotes T1	D050723
+T10	Disease 545 554	fractures
+T13	Disease 691 695	T2DM
+T15	Chemical 843 850	glucose
+T16	Disease 862 880	insulin resistance
+#6	AnnotatorNotes T16	D007333
+T20	Disease 1155 1159	T2DM
+T22	Disease 1239 1243	T2DM
+T24	Chemical 1620 1629	vitamin D
+T25	Disease 1675 1679	T2DM
+T3	Disease 233 241	diabetic
+#13	AnnotatorNotes T3	not found
+T5	Chemical 283 294	pentosidine
+T2	Biomarker 123 190	Advanced glycation end products (AGEs) are accumulated in the bones
+T4	Disease 336 366	fracture in patients with T2DM
+T6	Biomarker 267 294	serum levels of pentosidine
+R2	Risk-Factor Arg1:T6 Arg2:T4	
+T7	Gene-Protein 427 431	IGF1
+#3	AnnotatorNotes T7	HGNC:5464
+T8	Gene-Protein 397 425	insulin-like growth factor 1
+#4	AnnotatorNotes T8	HGNC:5464
+T9	Gene-Protein 385 392	insulin
+#5	AnnotatorNotes T9	HGNC:6081
+T11	Gene-Protein 501 505	IGF1
+T12	Gene-Protein 563 574	Osteocalcin
+#7	AnnotatorNotes T12	HGNC:1043
+T14	Gene-Protein 658 669	osteocalcin
+#8	AnnotatorNotes T14	HGNC:1043
+T17	Gene-Protein 807 818	osteocalcin
+T21	Gene-Protein 1168 1178	Sclerostin
+#9	AnnotatorNotes T21	HGNC:13771
+T23	Gene-Protein 1346 1356	sclerostin
+#10	AnnotatorNotes T23	HGNC:13771
+T27	Biomarker 487 505	Low levels of IGF1
+T28	GeneFamily 889 898	Incretins
+T29	GeneFamily 1501 1510	β–catenin
+#12	AnnotatorNotes T29	family:1542
+T26	GeneFamily 1497 1500	Wnt
+#11	AnnotatorNotes T26	family:360
+R3	Risk-Factor Arg1:T27 Arg2:T10	
+T30	Biomarker 652 685	Serum osteocalcin levels in women
+R4	Association Arg1:T30 Arg2:T13	
+T31	Biomarker 1610 1657	levels of vitamin D were also shown to be lower
+R5	Association Arg1:T31 Arg2:T25	
+T32	Gene-Protein 1370 1427	low-density lipoprotein receptor-related proteins 5 and 6
+#14	AnnotatorNotes T32	HGNC:6697, HGNC:6698
+T33	Biomarker 1168 1235	Sclerostin, a protein that is expressed in osteocytes, is increased
+R6	Association Arg1:T33 Arg2:T22	
+T34	Biomarker 999 1137	gastric inhibitory polypeptide (GIP) contributes to the promotion of bone formation and to the reduction of bone absorption and is reduced
+R7	Association Arg1:T34 Arg2:T20	
+T35	Biomarker 801 825	serum osteocalcin levels
+T36	Biomarker 835 857	fasting glucose levels
+#15	AnnotatorNotes T4	D050723, DOID:9352
+T37	Disease 958 993	fracture risk in patients with T2DM
+T18	Biomarker 889 898	Incretins
+#16	AnnotatorNotes T18	D054795
+R8	Association Arg1:T18 Arg2:T37	
+#17	AnnotatorNotes T37	D050723, DOID:9352
+T19	Gene-Protein 999 1029	gastric inhibitory polypeptide
+#18	AnnotatorNotes T19	HGNC:4270
+T38	Gene-Protein 1031 1034	GIP
+#19	AnnotatorNotes T38	HGNC:4270
+T39	Gene-Protein 862 869	insulin
+A1	Conjunction T37
+#20	AnnotatorNotes T28	not found
+T40	Biomarker 213 229	low bone quality

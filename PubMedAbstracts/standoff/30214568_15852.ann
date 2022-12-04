@@ -1,0 +1,72 @@
+T1	Biomarker 30 50	Chronic inflammation
+#1	AnnotatorNotes T1	D007249
+T10	Disease 375 380	tumor
+T12	Disease 479 482	UBC
+T17	Disease 760 763	UBC
+T19	Disease 825 828	UBC
+T22	Disease 1134 1143	UBC tumor
+#7	AnnotatorNotes T22	DOID:11054
+T26	Disease 1306 1309	UBC
+T3	Disease 74 80	cancer
+#10	AnnotatorNotes T3	DOID:162
+T4	Disease 85 104	autoimmune diseases
+#11	AnnotatorNotes T4	DOID:417
+T6	Disease 176 179	UBC
+T7	Disease 262 267	tumor
+#13	AnnotatorNotes T7	DOID:162
+T8	Disease 302 305	UBC
+T2	Collection 74 104	cancer and autoimmune diseases
+R1	Association Arg1:T1 Arg2:T2	
+T5	Gene-Protein 127 132	IL-17
+#3	AnnotatorNotes T5	HGNC:5981
+T9	Gene-Protein 348 353	IL-17
+T11	Gene-Protein 1108 1113	IL-17
+T13	Gene-Protein 1236 1241	IL-17
+T15	Gene-Protein 1225 1231	IL-23R
+T16	Gene-Protein 1097 1103	IL-23R
+T18	Gene-Protein 1045 1051	IL-23R
+T20	Gene-Protein 1055 1060	IL-17
+T21	Gene-Protein 997 1002	IL-17
+T23	Gene-Protein 986 992	IL-23R
+T24	Gene-Protein 807 812	IL-17
+T25	Gene-Protein 796 802	IL-23R
+T27	Disease 916 919	UBC
+T28	Gene-Protein 712 718	IL-23R
+T29	Gene-Protein 723 728	IL-17
+T30	Gene-Protein 583 588	IL-17
+T31	Gene-Protein 572 578	IL-23R
+T32	Gene-Protein 447 452	IL-17
+T33	Gene-Protein 436 442	IL-23R
+T34	Gene-Protein 337 343	IL-23R
+T35	Gene-Protein 252 258	IL-23R
+#5	AnnotatorNotes T35	HGNC:19100
+T36	Gene-Protein 137 142	IL-23
+#6	AnnotatorNotes T36	HGNC:15488
+T37	Biomarker 327 371	levels of IL-23R and IL-17 mRNAs were higher
+R2	Association Arg1:T37 Arg2:T10	
+T38	Biomarker 426 473	levels of IL-23R and IL-17 in serum of patients
+T39	Biomarker 572 603	IL-23R and IL-17 protein levels
+T14	Biomarker 712 718	IL-23R
+#2	AnnotatorNotes T14	C000603137
+T40	Biomarker 723 728	IL-17
+T41	Collection 712 728	IL-23R and IL-17
+R3	Association Arg1:T41 Arg2:T17	
+T42	Biomarker 778 812	protein levels of IL-23R and IL-17
+T43	Biomarker 1097 1130	IL-23R and IL-17 were upregulated
+R4	Association Arg1:T42 Arg2:T19	
+T44	Biomarker 1225 1231	IL-23R
+T45	Biomarker 1236 1241	IL-17
+T46	Collection 1225 1241	IL-23R and IL-17
+R5	Prognostic-Poor Arg1:T43 Arg2:T22	
+T47	Biomarker 127 132	IL-17
+T48	Biomarker 137 142	IL-23
+T49	Collection 127 142	IL-17 and IL-23
+#8	AnnotatorNotes T48	D053759
+#4	AnnotatorNotes T47	D020381
+R7	Association Arg1:T49 Arg2:T6	
+#9	AnnotatorNotes T6	DOID:11054
+R8	Association Arg1:T38 Arg2:T12	
+T50	Biomarker 625 639	clinical stage
+T51	Biomarker 644 664	lymphatic metastasis
+R9	Association Arg1:T46 Arg2:T26	
+T52	Biomarker 986 1002	IL-23R and IL-17

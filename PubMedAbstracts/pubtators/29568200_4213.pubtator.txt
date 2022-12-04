@@ -1,0 +1,33 @@
+29568200_4213|t|RSS_IDENT_p_29568200_b_1_2_3
+29568200_4213|a| In addition, the environment, e.g., vitamin D deficiency, also affects the development and clinical course of IBD[ 15 - 17 ]. Vitamin D deficiency has a high prevalence in IBD patients[ 17 , 18 ]. We have recently shown that clinical factors, e.g., the use of tumor necrosis factor (TNF)-α inhibitor, are associated with significant changes in vitamin D levels[ 19 ]. Vitamin D was originally mainly implicated in bone health, regulating calcium and phosphate metabolism[ 20 , 21 ], but recent evidence has shown that vitamin D also profoundly impacts the innate and adaptive immune system[ 22 - 24 ]. Underscoring its role in the pathogenesis of CD, vitamin D was shown to be an inductor of NOD2 gene expression[ 25 ]. Using peripheral blood mononuclear cells (PBMCs) and dendritic cells, Dionne et al[ 26 ] showed that 1, 25-vitamin D acts as a modulator of the innate immune system. However, little is known about the effects of vitamin D and the presence of NOD2 mutations on different gene expression levels in CD. The aim of our study was therefore to further characterize different gene expression profiles in CD patients and healthy controls correlating to NOD2 mutation status and vitamin D pretreatment. We identified different genes associated with the presence of CD and mutations in the NOD2 gene. Follow-up studies on these genes may provide novel insights into the pathogenesis of CD and could contribute to the establishment of biomarkers to better predict the clinical course of the disease.
+29568200_4213	66	75	vitamin D	Chemical
+29568200_4213	66	86	vitamin D deficiency	Biomarker	D014808
+29568200_4213	140	143	IBD	Disease	DOID:0050589
+29568200_4213	156	165	Vitamin D	Chemical
+29568200_4213	156	198	Vitamin D deficiency has a high prevalence	Biomarker
+29568200_4213	202	205	IBD	Disease
+29568200_4213	290	319	tumor necrosis factor (TNF)-α	Gene-protein	HGNC:11892
+29568200_4213	290	329	tumor necrosis factor (TNF)-α inhibitor	Drug-class
+29568200_4213	374	383	vitamin D	Chemical
+29568200_4213	398	407	Vitamin D	Chemical
+29568200_4213	468	475	calcium	Chemical
+29568200_4213	480	489	phosphate	Chemical
+29568200_4213	548	557	vitamin D	Chemical
+29568200_4213	677	679	CD	Disease	DOID:8778
+29568200_4213	681	690	vitamin D	Chemical
+29568200_4213	722	726	NOD2	Gene-protein	HGNC:5331
+29568200_4213	851	866	1, 25-vitamin D	Chemical
+29568200_4213	962	971	vitamin D	Chemical
+29568200_4213	962	971	vitamin D	Biomarker	 D014807
+29568200_4213	992	996	NOD2	Gene-protein
+29568200_4213	992	1006	NOD2 mutations	Biomarker
+29568200_4213	1046	1048	CD	Disease
+29568200_4213	1147	1149	CD	Disease
+29568200_4213	1195	1199	NOD2	Gene-protein
+29568200_4213	1200	1208	mutation	Variant
+29568200_4213	1220	1229	vitamin D	Chemical
+29568200_4213	1306	1308	CD	Disease
+29568200_4213	1313	1322	mutations	Variant
+29568200_4213	1330	1334	NOD2	Gene-protein
+29568200_4213	1426	1428	CD	Disease
+

@@ -1,0 +1,58 @@
+T0	Disease 65 83	aceruloplasminemia
+#1	AnnotatorNotes T0	DOID:0050711
+T1	Disease 85 91	anemia
+#2	AnnotatorNotes T1	DOID:2355
+T11	Chemical 297 301	iron
+T12	Disease 297 319	iron-deficiency anemia
+#4	AnnotatorNotes T12	DOID:11758
+T13	Chemical 381 385	iron
+T14	Disease 381 403	iron-deficiency anemia
+T17	Chemical 431 435	iron
+T18	Disease 457 475	aceruloplasminemia
+T2	Disease 96 113	diabetes mellitus
+#9	AnnotatorNotes T2	DOID:9351
+T21	Chemical 533 537	iron
+T22	Chemical 549 553	iron
+T23	Disease 549 572	iron overload syndromes
+#12	AnnotatorNotes T23	not found
+T24	Biomarker 582 600	aceruloplasminemia
+#13	AnnotatorNotes T24	C536004
+T27	Disease 665 677	liver damage
+#15	AnnotatorNotes T27	DOID:3571
+T28	Disease 780 797	microcytic anemia
+#16	AnnotatorNotes T28	DOID:11252
+T29	Disease 813 830	diabetes mellitus
+T3	Disease 147 165	aceruloplasminemia
+T30	Chemical 874 881	glucose
+T31	Disease 896 931	insulin-dependent diabetes mellitus
+T32	Disease 1152 1171	liver hemosiderosis
+#21	AnnotatorNotes T32	not found
+T33	Biomarker 1231 1249	aceruloplasminemia
+T34	Disease 1278 1296	intractable anemia
+#23	AnnotatorNotes T34	DOID:2355
+T35	Disease 1301 1318	diabetes mellitus
+T4	Disease 176 182	anemia
+T6	Biomarker 194 211	microcytic anemia
+T9	Chemical 233 237	iron
+T5	Biomarker 217 237	decreased serum iron
+T7	Biomarker 242 272	elevated serum ferritin levels
+T8	Collection 194 272	microcytic anemia with decreased serum iron and elevated serum ferritin levels
+R1	Association Arg1:T8 Arg2:T4	
+T10	Biomarker 342 362	serum ferritin level
+R2	Association Arg1:T10 Arg2:T12	
+T15	Biomarker 415 455	decreased serum iron and ferritin levels
+R3	Association Arg1:T15 Arg2:T14	
+T16	Biomarker 487 511	elevated ferritin levels
+T19	Biomarker 517 544	decreased serum iron levels
+T20	Collection 487 544	elevated ferritin levels with decreased serum iron levels
+R4	Association Arg1:T20 Arg2:T18	
+T25	Drug 602 619	oral iron therapy
+R6	Causes Arg1:T25 Arg2:T27	
+T26	Biomarker 711 732	serum ferritin levels
+R7	Association Arg1:T26 Arg2:T28	
+T36	Gene-Protein 837 844	insulin
+#3	AnnotatorNotes T36	HGNC:6081
+T37	Gene-Protein 896 903	insulin
+T38	Collection 1278 1318	intractable anemia and diabetes mellitus
+R8	Association Arg1:T33 Arg2:T38	
+#5	AnnotatorNotes T31	DOID:9744

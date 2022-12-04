@@ -1,0 +1,128 @@
+T1	Biomarker 30 123	Targeting microRNAs (miRNAs), or their associated regulatory networks, which are dysregulated
+T11	Disease 1097 1104	tumours
+T12	RNA-Noncoding 1170 1175	miRNA
+T13	Disease 1190 1194	TNBC
+T14	Disease 1273 1279	tumors
+T16	Disease 1668 1672	TNBC
+T18	Disease 1811 1828	malignant gliomas
+#5	AnnotatorNotes T18	DOID:0060108
+T19	Disease 1891 1904	breast cancer
+T2	Disease 127 131	TNBC
+T20	Disease 1909 1916	gliomas
+#8	AnnotatorNotes T20	DOID:0060108
+T21	Biomarker 1918 1925	miR-138
+T22	Disease 1987 1993	glioma
+#9	AnnotatorNotes T22	 D005910
+T23	Biomarker 2009 2036	Aberrant miR-138 expression
+T24	Disease 2066 2073	cancers
+#10	AnnotatorNotes T24	DOID:162
+T25	Disease 2084 2112	anaplastic thyroid carcinoma
+#11	AnnotatorNotes T25	DOID:0080522
+T26	Disease 2114 2117	ATC
+T27	Disease 2120 2125	NSCLC
+#13	AnnotatorNotes T27	DOID:3908
+T28	Disease 2131 2152	gallbladder carcinoma
+#14	AnnotatorNotes T28	DOID:4948
+T29	Biomarker 2163 2194	Increased expression of miR-138
+T3	Biomarker 327 351	Altered miRNA expression
+T30	Disease 2198 2202	TNBC
+T31	Biomarker 2241 2248	miR-138
+T32	Disease 2374 2380	cancer
+T33	Disease 2629 2642	breast cancer
+T34	Disease 2644 2650	tumour
+T4	Disease 369 375	cancer
+#19	AnnotatorNotes T4	DOID:162
+T5	Disease 460 474	breast tumours
+#20	AnnotatorNotes T5	DOID:1612
+T6	Disease 541 547	tumour
+#21	AnnotatorNotes T6	DOID:162
+T7	Disease 632 639	tumours
+#22	AnnotatorNotes T7	DOID:162
+T8	Biomarker 653 680	miRNA expression signatures
+T9	Disease 737 750	breast cancer
+#23	AnnotatorNotes T9	DOID:1612
+R1	Association Arg1:T1 Arg2:T2	
+T35	RNA-Noncoding 40 49	microRNAs
+#2	AnnotatorNotes T35	family:476
+T36	RNA-Noncoding 51 57	miRNAs
+#7	AnnotatorNotes T36	family:476
+R2	Association Arg1:T3 Arg2:T4	
+T37	RNA-Noncoding 335 340	miRNA
+#12	AnnotatorNotes T2	DOID:0060081
+T38	Biomarker 408 450	systems level analysis of miRNA expression
+R3	Association Arg1:T38 Arg2:T5	
+T39	Biomarker 710 733	hormone receptor status
+T40	RNA-Noncoding 653 658	miRNA
+T10	RNA-Noncoding 809 816	miR-342
+T41	RNA-Noncoding 818 825	miR-299
+T42	RNA-Noncoding 827 834	miR-217
+T43	RNA-Noncoding 836 843	miR-190
+T44	RNA-Noncoding 845 853	miR-135b
+T45	RNA-Noncoding 858 865	miR-218
+T46	Gene-Protein 805 807	ER
+#15	AnnotatorNotes T46	HGNC:3467
+T47	Gene-Protein 868 870	PR
+#24	AnnotatorNotes T47	HGNC:8910
+T48	RNA-Noncoding 872 880	miR-520g
+T49	RNA-Noncoding 882 889	miR-377
+T50	RNA-Noncoding 891 903	miR-527–518a
+T51	RNA-Noncoding 908 921	miR-520f-520c
+T52	Gene-Protein 927 931	HER2
+#25	AnnotatorNotes T52	 HGNC:3430
+T53	RNA-Noncoding 976 983	miR-30e
+T54	RNA-Noncoding 963 971	miR-376b
+T55	RNA-Noncoding 953 961	miR-302c
+T56	RNA-Noncoding 943 951	miR-181c
+T57	RNA-Noncoding 933 941	miR-520d
+T58	Biomarker 1049 1088	133 miRNAs are differentially expressed
+R4	Association Arg1:T58 Arg2:T11	
+T59	RNA-Noncoding 1053 1059	miRNAs
+T60	Biomarker 1170 1186	miRNA signatures
+R5	Association Arg1:T60 Arg2:T13	
+T61	RNA-Noncoding 1229 1235	miRNAs
+T62	Biomarker 1229 1235	miRNAs
+R6	Association Arg1:T62 Arg2:T14	
+T15	Biomarker 1302 1490	overexpressed, namely miR-221, miR-222, miR-100, miR-146a, miR-125b ¹¹ – ¹⁴ , miR-29a, miR-31, miR-130a, miR-140-3p, miR-455, miR-199a/b-3p ¹⁴ , miR-135-5p, miR-18-5p, miR-9-5p, miR-522-3p
+T63	RNA-Noncoding 1324 1331	miR-221
+T64	RNA-Noncoding 1333 1340	miR-222
+T65	RNA-Noncoding 1342 1349	miR-100
+T66	RNA-Noncoding 1351 1359	miR-146a
+T67	RNA-Noncoding 1361 1369	miR-125b
+T68	RNA-Noncoding 1380 1387	miR-29a
+T69	RNA-Noncoding 1389 1395	miR-31
+T70	RNA-Noncoding 1397 1405	miR-130a
+T71	RNA-Noncoding 1407 1417	miR-140-3p
+T72	RNA-Noncoding 1419 1426	miR-455
+T73	RNA-Noncoding 1428 1441	miR-199a/b-3p
+T74	RNA-Noncoding 1447 1457	miR-135-5p
+T75	RNA-Noncoding 1459 1468	miR-18-5p
+T76	RNA-Noncoding 1470 1478	miR-9-5p
+T77	RNA-Noncoding 1480 1490	miR-522-3p
+T78	Biomarker 1502 1664	miRNA genes like miR-26a ¹⁶ , miR-20a-5p ¹⁷ , miR-124 ¹⁸ , miR-200, miR-182, miR-141, miR-375, miR-203 ¹¹ – ¹³ , miR-190-5p, miR-449a ¹⁵ , have reduced expression
+T79	RNA-Noncoding 1519 1526	miR-26a
+T80	RNA-Noncoding 1532 1542	miR-20a-5p
+T81	RNA-Noncoding 1548 1555	miR-124
+T82	RNA-Noncoding 1561 1568	miR-200
+T83	RNA-Noncoding 1570 1577	miR-182
+T84	RNA-Noncoding 1579 1586	miR-141
+T85	RNA-Noncoding 1588 1595	miR-375
+T86	RNA-Noncoding 1597 1604	miR-203
+T87	RNA-Noncoding 1615 1625	miR-190-5p
+T88	RNA-Noncoding 1627 1635	miR-449a
+T89	Collection 1302 1664	overexpressed, namely miR-221, miR-222, miR-100, miR-146a, miR-125b ¹¹ – ¹⁴ , miR-29a, miR-31, miR-130a, miR-140-3p, miR-455, miR-199a/b-3p ¹⁴ , miR-135-5p, miR-18-5p, miR-9-5p, miR-522-3p ¹⁵ , while miRNA genes like miR-26a ¹⁶ , miR-20a-5p ¹⁷ , miR-124 ¹⁸ , miR-200, miR-182, miR-141, miR-375, miR-203 ¹¹ – ¹³ , miR-190-5p, miR-449a ¹⁵ , have reduced expression
+R7	Association Arg1:T89 Arg2:T16	
+T90	RNA-Noncoding 1790 1797	miR-138
+R9	Association Arg1:T21 Arg2:T22	
+T91	RNA-Noncoding 1918 1925	miR-138
+T92	GeneFamily 1944 1955	RNA Pol III
+#3	AnnotatorNotes T92	not found
+#4	AnnotatorNotes T26	DOID:0080522
+T93	Collection 2066 2152	cancers including anaplastic thyroid carcinoma (ATC), NSCLC, and gallbladder carcinoma
+R10	Association Arg1:T23 Arg2:T93	
+T94	RNA-Noncoding 2016 2025	t miR-138
+T95	RNA-Noncoding 2187 2194	miR-138
+R11	Association Arg1:T29 Arg2:T30	
+#6	AnnotatorNotes T90	family:1758
+T96	RNA-Noncoding 2241 2248	miR-138
+T97	RNA-Noncoding 2736 2743	miR-138
+T98	RNA-Noncoding 434 439	miRNA

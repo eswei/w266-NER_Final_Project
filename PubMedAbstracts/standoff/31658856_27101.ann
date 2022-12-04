@@ -1,0 +1,82 @@
+T11	Disease 585 607	membranous nephropathy
+#1	AnnotatorNotes T11	DOID:10976
+T12	Disease 681 701	glomerular nephritis
+#2	AnnotatorNotes T12	DOID:2921
+T18	Disease 1021 1024	AKI
+T21	Disease 1162 1165	AKI
+T23	Disease 1606 1624	sepsis-induced AKI
+T25	Disease 1705 1708	AKI
+T3	Disease 86 107	CKD with hypertension
+#9	AnnotatorNotes T3	DOID:784, DOID:10763
+T6	Disease 215 233	sepsis-induced AKI
+#10	AnnotatorNotes T6	not found
+T8	Disease 241 247	sepsis
+#12	AnnotatorNotes T8	DOID:0040085
+T9	Disease 327 330	AKI
+T1	Biomarker 34 62	downregulation of miR-15a-5p
+T4	RNA-Noncoding 52 62	miR-15a-5p
+#3	AnnotatorNotes T4	HGNC:31543
+A1	Conjunction T3
+T2	RNA-Noncoding 186 196	miR-15a-5p
+T5	RNA-Noncoding 201 211	miR-15b-5p
+#4	AnnotatorNotes T5	HGNC:31544
+T7	RNA-Noncoding 175 184	miR-16-5p
+#5	AnnotatorNotes T7	not found
+T10	Biomarker 157 211	downregulation of miR-16-5p, miR-15a-5p and miR-15b-5p
+R1	Association Arg1:T10 Arg2:T6	
+T13	Disease 252 255	AKI
+#7	AnnotatorNotes T13	DOID:3021
+T14	RNA-Noncoding 317 323	miRNAs
+#8	AnnotatorNotes T14	family:476
+T15	Biomarker 317 323	miRNAs
+#11	AnnotatorNotes T15	D035683
+R2	Association Arg1:T15 Arg2:T9	
+T16	RNA-Noncoding 438 442	XIST
+#13	AnnotatorNotes T16	HGNC:12810
+T17	RNA-Noncoding 447 452	NEAT1
+#14	AnnotatorNotes T17	HGNC:30815
+T19	Biomarker 416 523	expression of lncRNAs XIST and NEAT1 are significantly increased in glomerular and tubular epithelial cells
+T20	Biomarker 529 541	urinary XIST
+T22	RNA-Noncoding 537 541	XIST
+R3	Diagnostic-of Arg1:T20 Arg2:T11	
+T26	Biomarker 616 629	Elevated XIST
+T27	RNA-Noncoding 625 629	XIST
+T28	Chemical 657 660	LPS
+R4	Association Arg1:T26 Arg2:T12	
+T29	Chemical 740 743	LPS
+T30	CellLine 752 756	MPC5
+T31	RNA-Noncoding 770 774	XIST
+T32	Chemical 791 794	LPS
+T33	RNA-Noncoding 819 823	XIST
+T34	Gene-Protein 864 868	CUL3
+#15	AnnotatorNotes T34	HGNC:2553
+T35	RNA-Noncoding 924 934	miR-15a-5p
+T36	RNA-Noncoding 936 945	miR-16-5p
+T37	RNA-Noncoding 950 957	miR-107
+#16	AnnotatorNotes T37	HGNC:31496
+T38	Biomarker 963 983	upregulation of CUL3
+T39	Gene-Protein 979 983	CUL3
+R5	Association Arg1:T38 Arg2:T18	
+T40	Variant 1033 1042	Mutations
+T41	Gene-Protein 1046 1050	CUL3
+R6	Variant-Of Arg1:T41 Arg2:T40	
+T42	RNA-Noncoding 1131 1135	XIST
+T43	Biomarker 1131 1135	XIST
+#17	AnnotatorNotes T43	C077885
+R7	Association Arg1:T43 Arg2:T21	
+T44	Gene-Protein 1181 1185	CUL3
+T45	RNA-Noncoding 1210 1220	miR-15a-5p
+T46	RNA-Noncoding 1221 1225	XIST
+T47	Gene-Protein 1226 1230	CUL3
+T48	RNA-Noncoding 1359 1369	miR-15a-5p
+T49	CellLine 1390 1394	MPC5
+T50	RNA-Noncoding 1431 1435	XIST
+T51	Gene-Protein 1475 1479	CUL3
+T52	RNA-Noncoding 1484 1494	miR-15a-5p
+T53	CellLine 1523 1527	MPC5
+T54	RNA-Noncoding 1561 1571	miR-15a-5p
+T55	RNA-Noncoding 1572 1576	XIST
+T56	RNA-Noncoding 1577 1581	CUL3
+T24	Biomarker 1561 1581	miR-15a-5p-XIST-CUL3
+R8	Association Arg1:T24 Arg2:T23	
+T57	Biomarker 770 787	XIST was elevated

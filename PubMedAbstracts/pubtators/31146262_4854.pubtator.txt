@@ -1,0 +1,44 @@
+31146262_4854|t|RSS_IDENT_p_31146262_b_1_1_5
+31146262_4854|a| Fifteen m.3243A>G carriers with different stages of glucose intolerance were studied with both OGTT and hyperinsulinemic clamp. In these patients, both decreased insulin sensitivity and impaired β-cell function was demonstrated prior to development of overt diabetes ( 20 ). Insulin sensitivity was equally reduced in all m.3243A>G carriers while the insulin secretion defect progressed from non-diabetic over the newly diagnosed diabetic to the carriers with an average diabetes duration of 9.7 years ( 20 ). In the same group of subjects, insulin resistance was found in adipose tissue with decreased insulin-stimulated glucose uptake, blunted suppression of lipolysis and low adiponectin levels ( 21 ). Insulin resistance has also been reported in other studies, although only in mutation carriers with manifest diabetes, which suggests that insulin resistance could be caused by glucose toxicity rather than mitochondrial dysfunction ( 19 , 22 , 23 ). This is in contrast to a study of 12 diabetic carriers, which did not detect insulin resistance using the euglycemic–hyperinsulinaemic clamp ( 24 ). Increased gluconeogenesis related to elevated lactate levels has also been implicated in the pathogenesis of mitochondrial diabetes ( 23 ). In addition, insulin response to arginine showed normal values, indicating a preservation of the β-cell population despite impaired glucose-stimulated insulin secretion ( 19 ).
+31146262_4854	38	56	m.3243A>G carriers	Biomarker
+31146262_4854	82	89	glucose	Chemical
+31146262_4854	82	101	glucose intolerance	Disease	DOID:10603
+31146262_4854	182	211	decreased insulin sensitivity	Biomarker
+31146262_4854	192	199	insulin	Gene-protein	HGNC:6081
+31146262_4854	216	240	impaired β-cell function	Biomarker
+31146262_4854	282	296	overt diabetes	Disease	not found
+31146262_4854	305	312	Insulin	Gene-protein	HGNC:6081
+31146262_4854	305	344	Insulin sensitivity was equally reduced	Biomarker
+31146262_4854	352	370	m.3243A>G carriers	Biomarker
+31146262_4854	381	388	insulin	Gene-protein
+31146262_4854	381	405	insulin secretion defect	Biomarker
+31146262_4854	460	468	diabetic	Disease	not found
+31146262_4854	501	509	diabetes	Disease	not found
+31146262_4854	571	578	insulin	Gene-protein
+31146262_4854	571	589	insulin resistance	Disease	D007333
+31146262_4854	603	727	adipose tissue with decreased insulin-stimulated glucose uptake, blunted suppression of lipolysis and low adiponectin levels	Collection
+31146262_4854	623	666	decreased insulin-stimulated glucose uptake	Biomarker
+31146262_4854	633	640	insulin	Gene-protein
+31146262_4854	652	659	glucose	Chemical
+31146262_4854	668	700	blunted suppression of lipolysis	Biomarker
+31146262_4854	705	727	low adiponectin levels	Biomarker
+31146262_4854	709	720	adiponectin	Gene-protein	HGNC:13633
+31146262_4854	736	743	Insulin	Gene-protein
+31146262_4854	736	754	Insulin resistance	Disease	D007333
+31146262_4854	813	853	mutation carriers with manifest diabetes	Biomarker
+31146262_4854	875	882	insulin	Gene-protein
+31146262_4854	875	893	insulin resistance	Disease
+31146262_4854	913	920	glucose	Chemical
+31146262_4854	913	929	glucose toxicity	Biomarker
+31146262_4854	942	967	mitochondrial dysfunction	Biomarker
+31146262_4854	1023	1031	diabetic	Disease
+31146262_4854	1063	1070	insulin	Gene-protein
+31146262_4854	1063	1081	insulin resistance	Disease
+31146262_4854	1135	1195	Increased gluconeogenesis related to elevated lactate levels	Biomarker
+31146262_4854	1181	1188	lactate	Chemical
+31146262_4854	1244	1266	mitochondrial diabetes	Disease	not found
+31146262_4854	1288	1295	insulin	Gene-protein
+31146262_4854	1308	1316	arginine	Chemical
+31146262_4854	1407	1414	glucose	Chemical
+31146262_4854	1426	1433	insulin	Gene-protein
+

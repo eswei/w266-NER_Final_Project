@@ -1,0 +1,72 @@
+31208371_25055|t|RSS_IDENT_p_31208371_b_1_4_4
+31208371_25055|a| SZ163 and SZ168, two mAbs against human PDPN previously produced in our laboratory, showed high reactivity with PDPN-expressing cell lines CHO/hPDPN, U87, and NCI-H226. In the present study, we found that SZ163 and SZ168 specifically recognize endogenous hPDPN in cancer cell lines C8161 and CNE-2 by flow cytometry and western blot. Furthermore, comparison of the reactivity between SZ168 and 18H5 against hPDPN showed that SZ168 may be more sensitive and useful than 18H5 in flow cytometry. Moreover, SZ168 significantly inhibited platelet aggregation induced by C8161, CNE-2, NCI-H226, or CHO/hPDPN in a dose-dependent manner, whereas SZ163 IgG did not. Furthermore, SZ168 suppressed tumor growth and metastasis in CHO/hPDPN and C8161cells in vivo. Both tumor weight and the number of lung micro-metastasis foci were significantly lower in the mice treated with SZ168 than in those treated with control mouse IgG group. It is reported that NZ-1 and MS-1 inhibit PDPN-CLEC-2 interaction in vitro, but whether these antibodies suppress human cancer growth and/or metastasis remains unknown [ 23 , 34 ]. We found that SZ168 not only suppresses PDPN-induced platelet aggregation in vitro but also inhibits tumor growth and metastasis in both mouse (CHO/hPDPN) and human (C8161) cancer cells. The experimental results confirmed that the PDGF and TGFβ-1 secreted by platelets can significantly promote the metastasis of tumor cells. Moreover, the migration-promoting effects of PDGF and TGF-β were partially inhibited by the mAb SZ-168. Furthermore, SZ168 may also be useful for diagnostics in immuno-histochemical analysis due to its high sensitivity, similar to another anti-PDPN antibody, D2–40, which has been used as a marker for the diagnosis of many different human tumors by immunohistochemical analysis [ 5 , 35 ].
+31208371_25055	30	35	SZ163	Drug	not found
+31208371_25055	30	35	SZ163	Gene-protein	not found
+31208371_25055	40	45	SZ168	Drug	not found
+31208371_25055	40	45	SZ168	Gene-protein	not found
+31208371_25055	70	74	PDPN	Gene-protein	HGNC:29602
+31208371_25055	142	146	PDPN	Gene-protein
+31208371_25055	169	178	CHO/hPDPN	Cellline
+31208371_25055	180	183	U87	Cellline
+31208371_25055	189	197	NCI-H226	Cellline
+31208371_25055	235	240	SZ163	Drug
+31208371_25055	235	240	SZ163	Gene-protein
+31208371_25055	245	250	SZ168	Drug
+31208371_25055	245	250	SZ168	Gene-protein
+31208371_25055	285	290	hPDPN	Gene-protein	HGNC:29602
+31208371_25055	294	300	cancer	Disease	DOID:162
+31208371_25055	312	317	C8161	Cellline
+31208371_25055	322	327	CNE-2	Cellline
+31208371_25055	414	419	SZ168	Drug
+31208371_25055	414	419	SZ168	Gene-protein
+31208371_25055	424	428	18H5	Gene-protein	not found
+31208371_25055	424	428	18H5	Drug	not found
+31208371_25055	437	442	hPDPN	Gene-protein
+31208371_25055	455	460	SZ168	Drug
+31208371_25055	455	460	SZ168	Gene-protein
+31208371_25055	499	503	18H5	Drug
+31208371_25055	499	503	18H5	Gene-protein
+31208371_25055	533	538	SZ168	Drug
+31208371_25055	533	538	SZ168	Gene-protein
+31208371_25055	595	600	C8161	Cellline
+31208371_25055	602	607	CNE-2	Cellline
+31208371_25055	609	617	NCI-H226	Cellline
+31208371_25055	622	631	CHO/hPDPN	Cellline
+31208371_25055	668	673	SZ163	Drug
+31208371_25055	668	673	SZ163	Gene-protein
+31208371_25055	700	705	SZ168	Drug
+31208371_25055	700	705	SZ168	Gene-protein
+31208371_25055	717	722	tumor	Disease	DOID:162
+31208371_25055	748	757	CHO/hPDPN	Cellline
+31208371_25055	762	767	C8161	Cellline
+31208371_25055	787	792	tumor	Disease
+31208371_25055	895	900	SZ168	Drug
+31208371_25055	895	900	SZ168	Gene-protein
+31208371_25055	942	945	IgG	Gene-protein	not found
+31208371_25055	973	977	NZ-1	Drug	C109862
+31208371_25055	982	986	MS-1	Drug	not found
+31208371_25055	995	999	PDPN	Gene-protein
+31208371_25055	1000	1006	CLEC-2	Gene-protein	 HGNC:24356
+31208371_25055	1073	1079	cancer	Disease
+31208371_25055	1148	1153	SZ168	Drug
+31208371_25055	1174	1178	PDPN	Gene-protein
+31208371_25055	1235	1240	tumor	Disease
+31208371_25055	1235	1313	tumor growth and metastasis in both mouse (CHO/hPDPN) and human (C8161) cancer	Collection
+31208371_25055	1278	1287	CHO/hPDPN	Cellline
+31208371_25055	1300	1305	C8161	Cellline
+31208371_25055	1307	1313	cancer	Disease
+31208371_25055	1365	1369	PDGF	Genefamily	not found
+31208371_25055	1365	1402	PDGF and TGFβ-1 secreted by platelets	Biomarker
+31208371_25055	1374	1380	TGFβ-1	Gene-protein	 HGNC:11766
+31208371_25055	1447	1452	tumor	Disease
+31208371_25055	1505	1509	PDGF	Genefamily
+31208371_25055	1514	1519	TGF-β	Genefamily	family:1664
+31208371_25055	1556	1562	SZ-168	Drug
+31208371_25055	1556	1562	SZ-168	Gene-protein	not found
+31208371_25055	1577	1582	SZ168	Drug
+31208371_25055	1577	1582	SZ168	Gene-protein
+31208371_25055	1699	1717	anti-PDPN antibody	Drug	not found
+31208371_25055	1704	1708	PDPN	Gene-protein
+31208371_25055	1719	1724	D2–40	Drug	not found
+31208371_25055	1800	1806	tumors	Disease	DOID:162
+

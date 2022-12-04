@@ -1,0 +1,68 @@
+30405852_20696|t|RSS_IDENT_p_30405852_b_1_4_4
+30405852_20696|a| Oestrogens promote cell migration, invasion and angiogenesis in breast cancer by binding to ERs 43 . Tumour angiogenesis is essential in tumour metastasis 24 , and VEGF is an important potential proangiogenic factor that is involved in breast cancer angiogenesis 44 . As previously mentioned 2 , breast cancer is divided into hormone receptor-positive breast cancer, HER-2-overexpressing breast cancer and TNBC. Studies have suggested that ERα, which is activated by oestrogen, increases VEGF levels in ER-positive breast cancer through binding to VEGF- related oestrogen response elements 28 . Similarly, E2 promotes VEGF expression and angiogenesis via GPER-1 together with the EGFR/ERK/c-FOS signalling pathway in HER-2-overexpressing breast cancer 35 . However, another study found that E2 treatment inhibited tumour formation in ERβ-expressing TNBC cell lines through inhibition of cyclin-dependent kinases 1 and 7 12 . Transfection of the androgen receptor-positive TNBC cell lines MDA-MB-231 and Hs5787 with ERβ1 also resulted in fewer pulmonary metastases in vivo compared with empty vector-transfected cells through inhibition of ZEB1 45 . In addition, treatment with the GPER-1-specific agonist G-1 can suppress cell migration and tumour angiogenesis in vitro and in vivo through NF-kB/IL-6 in TNBC 37 . The above studies suggest that activation of ERβ or GPER-1 by oestrogens may potentially inhibit TNBC progression. Our findings also suggest that E2 inhibits VEGF expression in a concentration- and time- dependent manner and GPER-1 might be involved in the E2-induced suppression of angiogenesis in TNBC cell lines. Additionally, E2 also repressed tumour growth and angiogenesis in MDA-MB-468 xenograft tumours in vivo. Overall, the complexity of the function of E2 and GPER-1 might be due to differences in breast cancer subtypes, cell types, agonist specificity, receptor expression ratios and the activation of signalling molecules.
+30405852_20696	30	40	Oestrogens	Chemical
+30405852_20696	30	40	Oestrogens	Biomarker	D004967
+30405852_20696	94	107	breast cancer	Disease	DOID:1612
+30405852_20696	122	125	ERs	Genefamily	not found
+30405852_20696	131	150	Tumour angiogenesis	Biomarker
+30405852_20696	194	198	VEGF	Biomarker
+30405852_20696	194	198	VEGF	Genefamily	family:1267
+30405852_20696	266	279	breast cancer	Disease
+30405852_20696	326	339	breast cancer	Disease
+30405852_20696	356	395	hormone receptor-positive breast cancer	Disease	not found
+30405852_20696	397	402	HER-2	Gene-protein	HGNC:3430
+30405852_20696	397	431	HER-2-overexpressing breast cancer	Disease	DOID:0060079
+30405852_20696	436	440	TNBC	Disease	DOID:0060081
+30405852_20696	470	473	ERα	Biomarker	C506487
+30405852_20696	470	473	ERα	Gene-protein	HGNC:3467
+30405852_20696	497	506	oestrogen	Chemical
+30405852_20696	508	529	increases VEGF levels	Biomarker
+30405852_20696	533	535	ER	Gene-protein
+30405852_20696	533	558	ER-positive breast cancer	Disease	DOID:0060075
+30405852_20696	578	582	VEGF	Genefamily
+30405852_20696	592	601	oestrogen	Chemical
+30405852_20696	648	652	VEGF	Genefamily
+30405852_20696	685	691	GPER-1	Gene-protein	HGNC:4485
+30405852_20696	710	714	EGFR	Gene-protein	HGNC:3236
+30405852_20696	715	718	ERK	Genefamily	not found
+30405852_20696	719	724	c-FOS	Gene-protein	HGNC:3796
+30405852_20696	747	752	HER-2	Gene-protein
+30405852_20696	747	781	HER-2-overexpressing breast cancer	Disease
+30405852_20696	821	823	E2	Drug	not found
+30405852_20696	844	850	tumour	Disease	DOID:162
+30405852_20696	844	883	tumour formation in ERβ-expressing TNBC	Collection
+30405852_20696	864	867	ERβ	Gene-protein	HGNC:3468
+30405852_20696	864	883	ERβ-expressing TNBC	Disease	not found
+30405852_20696	917	949	cyclin-dependent kinases 1 and 7	Gene-protein	HGNC:1722,HGNC:1778
+30405852_20696	975	983	androgen	Chemical
+30405852_20696	975	992	androgen receptor	Gene-protein	HGNC:644
+30405852_20696	975	1006	androgen receptor-positive TNBC	Disease	not found
+30405852_20696	1018	1028	MDA-MB-231	Cellline
+30405852_20696	1033	1039	Hs5787	Cellline
+30405852_20696	1045	1049	ERβ1	Gene-protein	not found
+30405852_20696	1169	1173	ZEB1	Gene-protein	HGNC:11642
+30405852_20696	1211	1217	GPER-1	Gene-protein
+30405852_20696	1211	1234	GPER-1-specific agonist	Drug-class
+30405852_20696	1235	1238	G-1	Drug	CHEMBL569766
+30405852_20696	1271	1277	tumour	Disease
+30405852_20696	1271	1338	tumour angiogenesis in vitro and in vivo through NF-kB/IL-6 in TNBC	Collection
+30405852_20696	1320	1325	NF-kB	Genefamily	family:1254
+30405852_20696	1326	1330	IL-6	Gene-protein	HGNC:6018
+30405852_20696	1334	1338	TNBC	Disease
+30405852_20696	1375	1416	activation of ERβ or GPER-1 by oestrogens	Drug	not found
+30405852_20696	1389	1392	ERβ	Gene-protein
+30405852_20696	1396	1402	GPER-1	Gene-protein
+30405852_20696	1441	1445	TNBC	Disease
+30405852_20696	1490	1492	E2	Drug
+30405852_20696	1502	1506	VEGF	Genefamily
+30405852_20696	1569	1575	GPER-1	Gene-protein
+30405852_20696	1601	1603	E2	Drug
+30405852_20696	1643	1647	TNBC	Disease
+30405852_20696	1674	1676	E2	Drug
+30405852_20696	1692	1698	tumour	Disease
+30405852_20696	1726	1736	MDA-MB-468	Cellline
+30405852_20696	1747	1754	tumours	Disease	DOID:162
+30405852_20696	1807	1809	E2	Drug
+30405852_20696	1814	1820	GPER-1	Gene-protein
+30405852_20696	1852	1865	breast cancer	Disease
+

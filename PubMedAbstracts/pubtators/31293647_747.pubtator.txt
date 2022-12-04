@@ -1,0 +1,46 @@
+31293647_747|t|RSS_IDENT_p_31293647_a_1_3
+31293647_747|a| Results: Higher levels of local site EVs are found in the lung of smokers and NSCLC patients. Further, over 90% of lung EVs are round vesicles of approximately 50-200 nm, ie., exosomes. There are 21 EV miRNAs up regulated, while 10 miRNAs under regulated, in smokers when compared to controls (relative fold > 2, p < 0.05). These miRNAs were further observed to be dysregulated in NSCLC patients when compared to smokers. Bioinformatic analysis demonstrated that Proteoglycans, Fatty acid biosynthesis, ErbB, Hippo, TGF-beta, Wnt, Rap1, AMPK and Ras pathways were the most prominent pathways enriched in NSCLC EV miRNA signatures. In addition, messenger RNA transcripts including EGFR, KRAS, ALK, MET, LKB1, BRAF, PIK3CA, RET, and ROS1 were significantly higher expressed in lung EVs in smokers and NSCLC patients compared to controls. Long non-coding RNAs, including MALAT1, HOTAIR, HOTTIP, AGAP2-AS1, ATB, TCF7, FOXD2-AS1, HOXA11-AS, PCAF1, and BCAR4, were over expressed in EVs from smokers and NSCLC patients. Furthermore, protein levels of tumor associated antigens including BAGE, PD-L1, MAGE-3, and AKAP4 were significantly dysregulated in EVs of smokers and NSCLC patients compared to healthy controls.
+31293647_747	37	68	Higher levels of local site EVs	Biomarker
+31293647_747	106	111	NSCLC	Disease	DOID:3908
+31293647_747	358	364	miRNAs	Rna-noncoding	family:476
+31293647_747	409	414	NSCLC	Disease
+31293647_747	491	504	Proteoglycans	Chemical
+31293647_747	491	586	Proteoglycans, Fatty acid biosynthesis, ErbB, Hippo, TGF-beta, Wnt, Rap1, AMPK and Ras pathways	Biomarker
+31293647_747	506	516	Fatty acid	Chemical
+31293647_747	531	535	ErbB	Genefamily	family:1096
+31293647_747	544	552	TGF-beta	Genefamily	family:1664
+31293647_747	554	557	Wnt	Genefamily	family:360
+31293647_747	559	563	Rap1	Genefamily	not found
+31293647_747	565	569	AMPK	Genefamily	not found
+31293647_747	574	577	Ras	Genefamily	family:389
+31293647_747	632	637	NSCLC	Disease
+31293647_747	672	799	messenger RNA transcripts including EGFR, KRAS, ALK, MET, LKB1, BRAF, PIK3CA, RET, and ROS1 were significantly higher expressed	Biomarker
+31293647_747	708	712	EGFR	Gene-protein	HGNC:3236
+31293647_747	714	718	KRAS	Gene-protein	HGNC:6407
+31293647_747	720	723	ALK	Gene-protein	HGNC:427
+31293647_747	725	728	MET	Gene-protein	HGNC:7029
+31293647_747	730	734	LKB1	Gene-protein	HGNC:11389
+31293647_747	736	740	BRAF	Gene-protein	HGNC:1097
+31293647_747	742	748	PIK3CA	Gene-protein	HGNC:8975
+31293647_747	750	753	RET	Gene-protein	HGNC:9967
+31293647_747	759	763	ROS1	Gene-protein	 HGNC:10261
+31293647_747	827	832	NSCLC	Disease
+31293647_747	864	1001	Long non-coding RNAs, including MALAT1, HOTAIR, HOTTIP, AGAP2-AS1, ATB, TCF7, FOXD2-AS1, HOXA11-AS, PCAF1, and BCAR4, were over expressed	Biomarker
+31293647_747	896	902	MALAT1	Rna-noncoding	HGNC:29665
+31293647_747	904	910	HOTAIR	Rna-noncoding	HGNC:33510
+31293647_747	912	918	HOTTIP	Rna-noncoding	HGNC:37461
+31293647_747	920	929	AGAP2-AS1	Rna-noncoding	HGNC:48633
+31293647_747	931	934	ATB	Rna-noncoding	not found
+31293647_747	936	940	TCF7	Rna-noncoding	HGNC:11639
+31293647_747	942	951	FOXD2-AS1	Rna-noncoding	HGNC:44256
+31293647_747	953	962	HOXA11-AS	Rna-noncoding	HGNC:24957
+31293647_747	964	969	PCAF1	Gene-protein	not found
+31293647_747	975	980	BCAR4	Rna-noncoding	HGNC:22170
+31293647_747	1026	1031	NSCLC	Disease
+31293647_747	1055	1171	protein levels of tumor associated antigens including BAGE, PD-L1, MAGE-3, and AKAP4 were significantly dysregulated	Biomarker
+31293647_747	1109	1113	BAGE	Genefamily	family:1848
+31293647_747	1115	1120	PD-L1	Gene-protein	HGNC:17635
+31293647_747	1122	1128	MAGE-3	Gene-protein	HGNC:6801
+31293647_747	1134	1139	AKAP4	Gene-protein	HGNC:374
+31293647_747	1194	1199	NSCLC	Disease
+

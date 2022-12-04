@@ -1,0 +1,38 @@
+T0	Biomarker 72 97	mitochondrial dysfunction
+T1	Gene-Protein 102 106	SDHB
+T10	Gene-Protein 784 788	SDHC
+T11	Disease 834 861	basal-like breast carcinoma
+#4	AnnotatorNotes T11	not found
+T13	GeneFamily 914 917	SDH
+T14	Disease 988 1016	basal-like breast carcinomas
+T16	Chemical 1083 1091	paraffin
+T17	Disease 1168 1195	mitochondrial abnormalities
+#8	AnnotatorNotes T17	not found
+T18	Gene-Protein 1222 1226	SDHC
+T20	Disease 1323 1350	basal-like breast carcinoma
+#10	AnnotatorNotes T20	not found
+T22	Disease 1422 1435	breast cancer
+T23	Gene-Protein 1485 1489	SDHC
+T3	GeneFamily 189 192	SDH
+T4	Disease 267 273	tumors
+#15	AnnotatorNotes T4	DOID:162
+T5	Disease 382 395	breast cancer
+#16	AnnotatorNotes T5	DOID:1612
+T6	Gene-Protein 507 511	SDHC
+T7	Disease 575 588	breast cancer
+#1	AnnotatorNotes T1	HGNC:10681
+T2	Biomarker 102 116	SDHB mutations
+#2	AnnotatorNotes T3	family:641
+#3	AnnotatorNotes T6	HGNC:10682
+T8	Gene-Protein 637 641	SDHC
+T9	Biomarker 780 794	low SDHC level
+R1	Prognostic-Poor Arg1:T9 Arg2:T11	
+T12	Biomarker 891 947	suppressed activity of SDH-linked mitochondrial pathways
+R2	Prognostic-Poor Arg1:T12 Arg2:T14	
+T15	Biomarker 1222 1237	SDHC expression
+R3	Association Arg1:T15 Arg2:T20	
+T19	Biomarker 481 519	reduced expression of the SDHC subunit
+T21	Biomarker 473 476	EMT
+T24	Biomarker 646 649	EMT
+#5	AnnotatorNotes T14	not found
+T25	Biomarker 1494 1497	EMT

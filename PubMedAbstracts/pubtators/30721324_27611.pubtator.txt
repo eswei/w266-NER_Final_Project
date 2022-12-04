@@ -1,0 +1,41 @@
+30721324_27611|t|RSS_IDENT_p_30721324_b_1_4_6
+30721324_27611|a| In this study, the anti-fibrotic action of AICAR was also noted. AICAR significantly decreased hepatic hydroxyproline content and improved the pathological change of BDL rats. The expression of TGF-β, α-SMA, TIMP, and CTGF (the indicators of hepatic fibrosis) was decreased in the chronic AICAR-treated BDL rats. Previous studies have shown that ACIAR alleviated carbon tetrachloride-induced acute hepatitis in mice [ 37 ]. This may add an alternative explanation regaiding how AICAR reduces portal pressure in our BDL rats. One reason is increased intrahepatic NO production, and another reason could be decreased liver fibrosis and improved liver structure. It is also not clear, in terms of the mechanism, how AICAR ameliorate liver fibrosis. Chen et al. once reported that melatonin could protect the liver from BDL-induced mitochondrial oxidative stress via the AMPK-SIRT3-SOD2 pathway [ 49 ]. Yang et al. found that ursolic acid offers protective effects on BDL-induced liver injury in mice via LKB1/AMPK signaling [ 50 ]. In terms of our study, increased NO production (particularly derived from SECs) by AICAR may also largely improve subsequent liver fibrosis in BDL rats. We also found that AICAR could improve the inflammation processes in BDL rats though the AMPK/non-canonical NF-κB pathway, but the underlying mechanism needs further research. 
+30721324_27611	73	78	AICAR	Drug	not found
+30721324_27611	95	100	AICAR	Drug
+30721324_27611	133	147	hydroxyproline	Chemical
+30721324_27611	224	229	TGF-β	Genefamily
+30721324_27611	224	229	TGF-β	Biomarker	D016212
+30721324_27611	224	252	TGF-β, α-SMA, TIMP, and CTGF	Collection
+30721324_27611	231	236	α-SMA	Gene-protein
+30721324_27611	231	236	α-SMA	Biomarker	C544013
+30721324_27611	238	242	TIMP	Gene-protein
+30721324_27611	238	242	TIMP	Biomarker	D019714
+30721324_27611	248	252	CTGF	Gene-protein
+30721324_27611	248	252	CTGF	Biomarker	C413323
+30721324_27611	272	288	hepatic fibrosis	Disease	DOID:5082
+30721324_27611	319	324	AICAR	Drug
+30721324_27611	376	381	ACIAR	Drug
+30721324_27611	393	413	carbon tetrachloride	Chemical
+30721324_27611	393	437	carbon tetrachloride-induced acute hepatitis	Disease	not found
+30721324_27611	508	513	AICAR	Drug
+30721324_27611	592	594	NO	Chemical
+30721324_27611	645	659	liver fibrosis	Disease	DOID:5082
+30721324_27611	743	748	AICAR	Drug
+30721324_27611	760	774	liver fibrosis	Disease
+30721324_27611	807	816	melatonin	Drug	CHEMBL45
+30721324_27611	846	888	BDL-induced mitochondrial oxidative stress	Disease	not found
+30721324_27611	897	901	AMPK	Genefamily
+30721324_27611	902	907	SIRT3	Gene-protein
+30721324_27611	908	912	SOD2	Gene-protein
+30721324_27611	952	964	ursolic acid	Drug	CHEMBL169
+30721324_27611	994	1018	BDL-induced liver injury	Disease	not found
+30721324_27611	1031	1035	LKB1	Gene-protein
+30721324_27611	1036	1040	AMPK	Genefamily
+30721324_27611	1082	1105	increased NO production	Drug
+30721324_27611	1142	1147	AICAR	Drug
+30721324_27611	1184	1198	liver fibrosis	Disease
+30721324_27611	1231	1236	AICAR	Drug
+30721324_27611	1255	1267	inflammation	Disease	D007249
+30721324_27611	1301	1305	AMPK	Genefamily
+30721324_27611	1320	1325	NF-κB	Genefamily
+

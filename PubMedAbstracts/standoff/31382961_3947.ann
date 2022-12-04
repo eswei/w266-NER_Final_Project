@@ -1,0 +1,66 @@
+T1	Disease 30 34	PPHN
+T12	Disease 349 353	PPHN
+T14	Disease 443 446	PAH
+T15	Biomarker 509 549	Bone morphogenic protein receptor type 2
+T16	Disease 654 694	familial pulmonary arterial hypertension
+#6	AnnotatorNotes T16	D065627
+T17	Disease 696 700	FPAH
+T18	Disease 702 743	heritable pulmonary arterial hypertension
+#8	AnnotatorNotes T18	D065627
+T19	Disease 745 749	HPAH
+T20	Disease 768 801	idiopathic pulmonary hypertension
+#11	AnnotatorNotes T20	 D065627
+T21	Disease 803 807	IPAH
+T22	Collection 822 860	SMAD9 [ 9 ], CAV1 [ 10 ], KCNK3 [ 11 ]
+T23	Disease 876 879	PAH
+T26	Biomarker 953 1077	Hereditary hemorrhagic telangiectasia (HHT) gene variants in the activin receptor-like kinase 1 (ACVRL1) [ 12 ] and endoglin
+T27	Disease 1115 1118	PAH
+T28	Disease 1158 1162	PPHN
+T3	Disease 52 83	pulmonary arterial hypertension
+#19	AnnotatorNotes T3	D000081029
+T31	Disease 1269 1273	PPHN
+T33	Disease 1307 1310	PAH
+T4	Disease 85 88	PAH
+T6	Biomarker 136 152	elevation of PVR
+T7	Collection 136 188	elevation of PVR and failure of right heart function
+T8	Biomarker 157 188	failure of right heart function
+T9	Disease 245 248	PAH
+#1	AnnotatorNotes T1	DOID:13042
+#2	AnnotatorNotes T4	D000081029
+R1	Association Arg1:T7 Arg2:T1	
+T2	Biomarker 381 420	Pathogenic variants among several genes
+R2	Association Arg1:T2 Arg2:T14	
+#3	AnnotatorNotes T15	D052006
+T5	Gene-Protein 509 549	Bone morphogenic protein receptor type 2
+#4	AnnotatorNotes T5	HGNC:1078
+T10	Gene-Protein 551 556	BMPR2
+#5	AnnotatorNotes T10	HGNC:1078
+T11	Collection 654 808	familial pulmonary arterial hypertension (FPAH)/heritable pulmonary arterial hypertension (HPAH) cases and 20% of idiopathic pulmonary hypertension (IPAH)
+#7	AnnotatorNotes T17	D065627
+#9	AnnotatorNotes T19	D065627
+#10	AnnotatorNotes T21	 D065627
+R3	Association Arg1:T15 Arg2:T11	
+T13	GeneFamily 575 626	transforming growth factor beta (TGF-β) superfamily
+#12	AnnotatorNotes T13	family:1932
+T34	Gene-Protein 822 827	SMAD9
+#13	AnnotatorNotes T34	HGNC:6774
+T35	Gene-Protein 835 839	CAV1
+#15	AnnotatorNotes T35	HGNC:1527
+T36	Gene-Protein 848 853	KCNK3
+#16	AnnotatorNotes T36	HGNC:6278
+T37	Biomarker 848 853	KCNK3
+#17	AnnotatorNotes T37	C420132
+T38	Biomarker 835 839	CAV1
+#18	AnnotatorNotes T38	C495540
+T39	Biomarker 822 827	SMAD9
+#20	AnnotatorNotes T39	C107514
+R4	Association Arg1:T22 Arg2:T23	
+T24	Gene-Protein 1050 1056	ACVRL1
+#14	AnnotatorNotes T24	HGNC:175
+T25	Gene-Protein 1018 1048	activin receptor-like kinase 1
+#21	AnnotatorNotes T25	HGNC:175
+T40	Gene-Protein 1069 1077	endoglin
+#22	AnnotatorNotes T40	HGNC:3349
+T41	Gene-Protein 1079 1082	ENG
+#23	AnnotatorNotes T41	HGNC:3349
+R5	Association Arg1:T26 Arg2:T27	

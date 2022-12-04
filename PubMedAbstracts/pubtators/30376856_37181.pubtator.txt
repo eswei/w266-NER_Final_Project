@@ -1,0 +1,47 @@
+30376856_37181|t|RSS_IDENT_p_30376856_b_1_4_4
+30376856_37181|a| ATF3 may play different roles in various tumors. Li et al. [ 28 ] found that ATF3 was reduced in esophageal squamous cell carcinoma (ESCC) compared with non-tumor adjacent tissues and ATF3 suppressed ESCC via downregulation of ID1. In bladder cancer, ATF3 suppresses metastasis of bladder cancer by regulating gelsolin-mediated remodeling of the actin cytoskeleton [ 11 ]. Reactivation of ATF3 by pracinostat is a determining factor in the tumor response to the HDACi therapy and ATF3 was a biomarker of tumor response [ 29 ]. On the other hand, upregulation of ATF3 in lung cancer could promote cell proliferation, migration, and invasion [ 30 ]. ATF3 plays contradictory functions in different diseases may be due to the complex tumor microenvironment, such as the community of genomically altered cancer cells, non-neoplastic cells, and a diverse collection of microorganisms, as well as complex crosstalk of intracellular molecules and multi-module activated signal transduction pathways. In hepatocellular carcinoma, ATF3 expression is lower in patients with advanced HCC and capsule invasion [ 8 ]. Consistent with this result, our clinical pathological analysis indicated that ATF3 was relatively downregulated in cancerous tissues compared with corresponding noncancerous liver tissues. However, we observed that ATF3 was negatively correlated with intrahepatic metastasis and was positively associated with the OS of HCC patients (Fig. 7). Our experiments further confirmed that ATF3 could suppress HCC cell proliferation and metastasis both in vitro and in vivo. 
+30376856_37181	30	34	ATF3	Gene-protein	HGNC:785
+30376856_37181	30	34	ATF3	Biomarker	D051700
+30376856_37181	71	77	tumors	Disease	DOID:162
+30376856_37181	107	111	ATF3	Gene-protein
+30376856_37181	107	123	ATF3 was reduced	Biomarker
+30376856_37181	127	161	esophageal squamous cell carcinoma	Disease	DOID:3748
+30376856_37181	163	167	ESCC	Disease	DOID:3748
+30376856_37181	214	218	ATF3	Gene-protein
+30376856_37181	214	218	ATF3	Drug	D051700
+30376856_37181	230	234	ESCC	Disease
+30376856_37181	257	260	ID1	Gene-protein	HGNC:5360
+30376856_37181	265	279	bladder cancer	Disease	DOID:11054
+30376856_37181	281	285	ATF3	Gene-protein
+30376856_37181	281	285	ATF3	Drug
+30376856_37181	297	325	metastasis of bladder cancer	Disease	DOID:11054
+30376856_37181	340	348	gelsolin	Gene-protein	HGNC: 4620
+30376856_37181	376	381	actin	Gene-protein	not found
+30376856_37181	419	423	ATF3	Gene-protein
+30376856_37181	427	438	pracinostat	Drug	CHEMBL1851943
+30376856_37181	470	475	tumor	Disease
+30376856_37181	492	497	HDACi	Drug-class
+30376856_37181	510	514	ATF3	Gene-protein
+30376856_37181	510	514	ATF3	Biomarker
+30376856_37181	534	539	tumor	Disease	DOID:162
+30376856_37181	576	596	upregulation of ATF3	Biomarker
+30376856_37181	592	596	ATF3	Gene-protein
+30376856_37181	600	611	lung cancer	Disease	DOID:1324
+30376856_37181	678	682	ATF3	Gene-protein
+30376856_37181	678	682	ATF3	Biomarker
+30376856_37181	830	836	cancer	Disease
+30376856_37181	1026	1050	hepatocellular carcinoma	Disease	DOID:684
+30376856_37181	1052	1056	ATF3	Gene-protein
+30376856_37181	1052	1076	ATF3 expression is lower	Biomarker
+30376856_37181	1094	1127	advanced HCC and capsule invasion	Disease	not found
+30376856_37181	1214	1218	ATF3	Gene-protein
+30376856_37181	1214	1247	ATF3 was relatively downregulated	Biomarker
+30376856_37181	1251	1260	cancerous	Disease	DOID:162
+30376856_37181	1351	1355	ATF3	Gene-protein
+30376856_37181	1351	1355	ATF3	Biomarker
+30376856_37181	1387	1410	intrahepatic metastasis	Biomarker
+30376856_37181	1456	1459	HCC	Disease	DOID:684
+30376856_37181	1518	1522	ATF3	Gene-protein
+30376856_37181	1518	1522	ATF3	Drug
+30376856_37181	1538	1541	HCC	Disease
+

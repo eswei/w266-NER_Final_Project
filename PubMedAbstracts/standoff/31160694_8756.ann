@@ -1,0 +1,121 @@
+T0	Disease 290 295	ccRCC
+#1	AnnotatorNotes T0	DOID:4450
+T10	Disease 1280 1285	tumor
+#2	AnnotatorNotes T10	DOID:162
+T11	Biomarker 1608 1674	mRNA levels of KDM5D and LSD1 genes were non-significantly reduced
+T12	Disease 1678 1683	ccRCC
+T13	Disease 1888 1893	ccRCC
+T14	Chemical 2126 2132	lysine
+T15	Disease 2166 2171	tumor
+T16	GeneFamily 2432 2436	HDMs
+T17	Biomarker 2468 2525	higher percentage of HDMs were significantly up-regulated
+T18	GeneFamily 2489 2493	HDMs
+T2	Biomarker 468 472	MLL4
+T20	Biomarker 2614 2632	overweight of HDMs
+T22	Disease 2636 2641	ccRCC
+T23	Biomarker 2695 2733	up-regulation of HDMs relative to HMTs
+T24	Disease 2785 2790	ccRCC
+T3	Disease 507 512	tumor
+#12	AnnotatorNotes T3	DOID:162
+T4	Disease 758 763	ccRCC
+T5	Biomarker 914 1016	MLL1 (p = 0.012), MLL2 (p = 0.024), SMYD2 (p = 0.016) and NSD2 (p = 0.004) was significantly increased
+T6	Disease 1020 1025	ccRCC
+T7	Biomarker 1089 1113	expression of SMYD1 gene
+T8	Disease 1134 1139	tumor
+T9	Chemical 1240 1246	lysine
+T25	GeneFamily 44 48	HMTs
+#5	AnnotatorNotes T25	family:487
+T26	GeneFamily 53 57	HDMs
+#16	AnnotatorNotes T26	family:485
+T27	Biomarker 167 218	aberrant expression of underlying histone modifiers
+T28	Biomarker 116 151	reduction in observed H3K4me levels
+T29	GeneFamily 254 258	HMTs
+T30	GeneFamily 265 269	HDMs
+T1	GeneFamily 439 443	HMTs
+T31	Gene-Protein 468 472	MLL4
+#17	AnnotatorNotes T31	HGNC:7133
+T32	Gene-Protein 474 479	SMYD3
+#18	AnnotatorNotes T32	HGNC:15513
+T33	Gene-Protein 485 489	ASH2
+#19	AnnotatorNotes T33	 HGNC:739
+T34	Gene-Protein 707 711	MLL3
+#20	AnnotatorNotes T34	HGNC:13726
+T35	Gene-Protein 713 717	MLL5
+#21	AnnotatorNotes T35	HGNC:18541
+T36	Gene-Protein 719 724	KMT2F
+#22	AnnotatorNotes T36	HGNC:29010
+T37	Gene-Protein 726 731	KMT2G
+#23	AnnotatorNotes T37	HGNC:29187
+T38	Gene-Protein 736 740	NSD3
+#24	AnnotatorNotes T38	HGNC:12767
+T39	Biomarker 707 754	MLL3, MLL5, KMT2F, KMT2G and NSD3 was augmented
+R2	Association Arg1:T39 Arg2:T4	
+T40	Gene-Protein 972 976	NSD2
+#13	AnnotatorNotes T40	HGNC:12766
+T41	Gene-Protein 932 936	MLL2
+#25	AnnotatorNotes T41	HGNC:7133
+T42	GeneFamily 914 918	MLL1
+#26	AnnotatorNotes T42	not found
+T43	Gene-Protein 950 955	SMYD2
+#27	AnnotatorNotes T43	HGNC:20982
+R3	Association Arg1:T5 Arg2:T6	
+T44	Gene-Protein 1103 1108	SMYD1
+#14	AnnotatorNotes T44	HGNC:20986
+T45	GeneFamily 1235 1265	H3K4 lysine methyltransferases
+#15	AnnotatorNotes T45	not found
+T46	Gene-Protein 1360 1364	MLL4
+T47	Gene-Protein 1374 1379	SMYD3
+T48	Gene-Protein 1389 1393	ASH2
+T49	Gene-Protein 1403 1407	MLL3
+T50	Gene-Protein 1417 1421	MLL5
+T51	Gene-Protein 1431 1436	KMT2F
+T52	Gene-Protein 1446 1451	KMT2G
+T53	Gene-Protein 1461 1465	NSD3
+T54	Gene-Protein 1475 1479	MLL1
+T55	Gene-Protein 1489 1493	MLL2
+T56	Gene-Protein 1503 1508	SMYD2
+T57	Gene-Protein 1518 1522	NSD2
+T58	GeneFamily 1567 1571	HDMs
+T59	Gene-Protein 1623 1628	KDM5D
+#28	AnnotatorNotes T59	HGNC:11115
+T60	Gene-Protein 1633 1637	LSD1
+#29	AnnotatorNotes T60	HGNC:29079
+T61	Gene-Protein 1779 1784	KDM5A
+#30	AnnotatorNotes T61	HGNC:9886
+T62	Gene-Protein 1798 1803	KDM5B
+#31	AnnotatorNotes T62	HGNC:18039
+T63	Gene-Protein 1817 1821	LSD2
+#32	AnnotatorNotes T63	HGNC:21577
+T64	Gene-Protein 1835 1841	FBXL10
+#33	AnnotatorNotes T64	HGNC:13610
+T65	Gene-Protein 1859 1864	KDM5C
+#34	AnnotatorNotes T65	HGNC:11114
+T66	Biomarker 1765 1884	expression of KDM5A (p = 0.001), KDM5B (p = 0.047), LSD2 (p = 0.002), FBXL10 (p = 0.0001) and KDM5C genes was augmented
+R4	Association Arg1:T66 Arg2:T13	
+T67	Gene-Protein 1941 1946	KDM5C
+#3	AnnotatorNotes T67	HGNC:11114
+T68	GeneFamily 2121 2151	H3K4 lysine methyltransferases
+#4	AnnotatorNotes T68	not found
+T69	Gene-Protein 2249 2254	KDM5D
+T70	Gene-Protein 2264 2268	LSD1
+T71	Gene-Protein 2278 2283	KDM5C
+T72	Gene-Protein 2293 2298	KDM5A
+T73	Gene-Protein 2308 2313	KDM5B
+T74	Gene-Protein 2323 2327	LSD2
+T75	Gene-Protein 2337 2343	FBXL10
+T76	GeneFamily 2423 2427	HMTs
+T19	GeneFamily 2597 2601	HMTs
+T77	Collection 2468 2632	higher percentage of HDMs were significantly up-regulated with a cumulative expression of about 1.31 times higher as compared to HMTs, indicating overweight of HDMs
+T21	GeneFamily 2628 2632	HDMs
+R5	Association Arg1:T77 Arg2:T22	
+T78	GeneFamily 2712 2716	HDMs
+T79	GeneFamily 2729 2733	HMTs
+T80	Biomarker 2753 2781	reduction of H3K4me patterns
+T81	GeneFamily 2842 2885	histone methyltransferases and demethylases
+#7	AnnotatorNotes T81	family:487, family:485
+#6	AnnotatorNotes T2	C530816
+T82	Biomarker 474 479	SMYD3
+#8	AnnotatorNotes T82	C506278
+T83	Biomarker 485 489	ASH2
+T84	Collection 468 489	MLL4, SMYD3, and ASH2
+R1	Association Arg1:T84 Arg2:T3	

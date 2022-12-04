@@ -1,0 +1,81 @@
+T1	Disease 201 207	glioma
+#2	AnnotatorNotes T1	DOID:0060108
+T10	Disease 1310 1336	non-small cell lung cancer
+#3	AnnotatorNotes T10	DOID:3908
+T11	Disease 1400 1414	gastric cancer
+#4	AnnotatorNotes T11	DOID:10534
+T12	Disease 1419 1431	osteosarcoma
+#5	AnnotatorNotes T12	DOID:3347
+T13	Disease 1513 1519	cancer
+T14	Disease 1629 1644	prostate cancer
+#7	AnnotatorNotes T14	DOID:10283
+T15	Chemical 1703 1709	serine
+T16	Chemical 1710 1719	threonine
+T2	Disease 221 226	tumor
+#10	AnnotatorNotes T2	DOID:162
+T3	Disease 307 313	cancer
+#11	AnnotatorNotes T3	DOID:162
+T4	Disease 394 407	breast cancer
+#12	AnnotatorNotes T4	DOID:1612
+T5	Disease 888 905	colorectal cancer
+#13	AnnotatorNotes T5	DOID:9256
+T6	Disease 959 971	colon cancer
+#14	AnnotatorNotes T6	DOID:219
+T7	Gene-Protein 985 1027	kirsten rat sarcoma viral oncogene homolog
+T8	Disease 1179 1196	colorectal cancer
+T9	Disease 1245 1256	lung cancer
+#17	AnnotatorNotes T9	DOID:1324
+T17	RNA-Noncoding 70 77	miR-543
+#8	AnnotatorNotes T17	HGNC:33664
+T18	RNA-Noncoding 166 173	miR-543
+T19	Drug 166 197	miR-543 exhibits low expression
+#1	AnnotatorNotes T19	not found
+R1	Response Arg1:T19 Arg2:T1	
+T20	RNA-Noncoding 375 382	miR-543
+T21	Drug 375 382	miR-543
+#9	AnnotatorNotes T21	C577592
+R2	Response Arg1:T21 Arg2:T4	
+T22	Gene-Protein 468 507	extracellular signal-regulated kinase-2
+#18	AnnotatorNotes T22	HGNC:6871
+T23	Gene-Protein 509 513	ERK2
+#19	AnnotatorNotes T23	HGNC:6871
+T24	GeneFamily 515 547	mitogen-activated protein kinase
+#20	AnnotatorNotes T24	family:651
+T25	GeneFamily 549 553	MAPK
+#21	AnnotatorNotes T25	family:651
+T26	Gene-Protein 630 634	RSK2
+#22	AnnotatorNotes T26	HGNC:10432
+T27	Gene-Protein 639 643	MSK1
+#23	AnnotatorNotes T27	HGNC:10434
+T28	RNA-Noncoding 722 729	miR-543
+T29	Disease 738 742	OSCC
+#24	AnnotatorNotes T29	DOID:0050866
+T30	RNA-Noncoding 848 855	miR-543
+T31	Drug 848 855	miR-543
+T32	Collection 888 971	colorectal cancer and inhibited the growth, invasion and metastasis of colon cancer
+R3	Response Arg1:T31 Arg2:T32	
+#15	AnnotatorNotes T7	HGNC:6407
+T33	Gene-Protein 1029 1052	metastasis-associated 1
+#25	AnnotatorNotes T33	HGNC:7410
+T34	Gene-Protein 1057 1086	high mobility group AT-hook 2
+#26	AnnotatorNotes T34	HGNC:5009
+T35	RNA-Noncoding 1148 1155	miR-543
+T36	Biomarker 1148 1175	miR-543 is highly expressed
+R4	Association Arg1:T36 Arg2:T8	
+T37	RNA-Noncoding 1218 1225	miR-543
+T38	Biomarker 1218 1241	miR-543 was upregulated
+R5	Association Arg1:T38 Arg2:T39	
+T39	Collection 1245 1336	lung cancer, and promoted the cell proliferation and invasion of non-small cell lung cancer
+T40	Gene-Protein 1350 1380	phosphatase and tensin homolog
+#16	AnnotatorNotes T40	HGNC:9588
+T41	RNA-Noncoding 1433 1440	miR-543
+T42	Biomarker 1433 1473	miR-543 was observed to be overexpressed
+T43	Collection 1400 1431	gastric cancer and osteosarcoma
+R6	Association Arg1:T42 Arg2:T43	
+T44	Biomarker 1580 1625	miR-543 was also found to be highly expressed
+T45	RNA-Noncoding 1580 1587	miR-543
+R7	Association Arg1:T44 Arg2:T14	
+T46	Gene-Protein 755 759	ERK2
+T47	GeneFamily 760 764	MAPK
+T48	Gene-Protein 1703 1736	serine/threonine-protein kinase 1
+#6	AnnotatorNotes T48	not found

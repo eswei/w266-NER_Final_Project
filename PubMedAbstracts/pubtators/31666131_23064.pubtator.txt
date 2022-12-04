@@ -1,0 +1,40 @@
+31666131_23064|t|RSS_IDENT_p_31666131_b_1_3_5
+31666131_23064|a| The mass spectrometry results further confirmed that − 1164 upstream region of hMSH2, a transcription factor Mef-2, HNFα, and GR binding site (<url>), was hypermethylated in patients with platinum resistance. We also discovered that the hMSH2 mRNA and protein levels were significantly downregulated in patients with platinum resistance. Correlation analysis suggested that the methylation level of − 1164 CpG site was associated with hMSH2 mRNA expression. These findings indicated that loss of expression due to hypermethylation of hMSH2 upstream region might induce platinum resistance in EOC patients. In the earlier literature hypermethylation of another essential MMR gene, hMLH1 was observed in cisplatin-resistant EOC patients [ 25 , 26 ]. While whether loss of hMSH2 expression caused by hypermethylation of hMSH2 promoter contributed to platinum resistance or not in EOC was unclear previously. The results from our study provided the evidence firstly that hypermethylation of the hMSH2 upstream region could be another mechanism for the platinum resistance in EOC patients. Interestingly, a slight increase of hMLH1 methylation level was also observed in the platinum-resistant patients compared to the sensitive patients in our study based on the RRBS analysis. However, the differences between the two groups were not statistically significant. Indeed, there are few pieces of previous literature reporting the correlation between hMLH1 methylation and platinum resistance based on customized or commercially available methylation array or next-generation sequence (NGS)-based platforms. What is more, none of those studies reported a clear relationship between the hMLH1 methylation and drug resistance [ 27 – 29 ]. Much more need to be done in the future. 
+31666131_23064	83	171	− 1164 upstream region of hMSH2, a transcription factor Mef-2, HNFα, and GR binding site	Biomarker
+31666131_23064	109	114	hMSH2	Gene-protein	HGNC:7325
+31666131_23064	139	144	Mef-2	Gene-protein	HGNC:17940
+31666131_23064	146	150	HNFα	Gene-protein	HGNC:11621
+31666131_23064	156	158	GR	Gene-protein	HGNC:7978
+31666131_23064	218	226	platinum	Drug-class
+31666131_23064	267	272	hMSH2	Gene-protein
+31666131_23064	267	329	hMSH2 mRNA and protein levels were significantly downregulated	Biomarker
+31666131_23064	347	355	platinum	Drug-class
+31666131_23064	408	444	methylation level of − 1164 CpG site	Biomarker
+31666131_23064	436	439	CpG	Chemical
+31666131_23064	465	470	hMSH2	Gene-protein
+31666131_23064	465	486	hMSH2 mRNA expression	Biomarker
+31666131_23064	518	585	loss of expression due to hypermethylation of hMSH2 upstream region	Biomarker
+31666131_23064	564	569	hMSH2	Gene-protein
+31666131_23064	599	607	platinum	Drug-class
+31666131_23064	622	625	EOC	Disease	DOID:2152
+31666131_23064	662	715	hypermethylation of another essential MMR gene, hMLH1	Biomarker
+31666131_23064	710	715	hMLH1	Gene-protein	HGNC:7127
+31666131_23064	732	741	cisplatin	Drug	CHEMBL11359
+31666131_23064	732	755	cisplatin-resistant EOC	Disease	not found
+31666131_23064	792	861	loss of hMSH2 expression caused by hypermethylation of hMSH2 promoter	Biomarker
+31666131_23064	800	805	hMSH2	Gene-protein
+31666131_23064	847	852	hMSH2	Gene-protein
+31666131_23064	877	885	platinum	Drug-class
+31666131_23064	907	910	EOC	Disease
+31666131_23064	997	1042	hypermethylation of the hMSH2 upstream region	Biomarker
+31666131_23064	1021	1026	hMSH2	Gene-protein
+31666131_23064	1078	1086	platinum	Drug-class
+31666131_23064	1101	1104	EOC	Disease
+31666131_23064	1139	1174	increase of hMLH1 methylation level	Biomarker
+31666131_23064	1151	1156	hMLH1	Gene-protein
+31666131_23064	1200	1208	platinum	Drug-class
+31666131_23064	1474	1479	hMLH1	Gene-protein
+31666131_23064	1474	1491	hMLH1 methylation	Biomarker
+31666131_23064	1496	1504	platinum	Drug-class
+31666131_23064	1709	1714	hMLH1	Gene-protein
+

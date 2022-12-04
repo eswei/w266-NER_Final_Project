@@ -1,0 +1,70 @@
+T0	Biomarker 30 42	Dyslipidemia
+#1	AnnotatorNotes T0	D050171
+T1	Disease 78 91	breast cancer
+#2	AnnotatorNotes T1	DOID:1612
+T10	Biomarker 448 455	obesity
+#3	AnnotatorNotes T10	D009765
+T13	Disease 508 540	breast cancer specific mortality
+#5	AnnotatorNotes T13	not found
+T14	Biomarker 622 644	pre-diagnostic obesity
+T15	Disease 688 705	Luminal A disease
+#7	AnnotatorNotes T15	DOID:0060548
+T16	Biomarker 791 798	obesity
+T17	Disease 803 807	TNBC
+T18	Disease 917 934	aggressive tumors
+#10	AnnotatorNotes T18	not found
+T2	Biomarker 158 170	dyslipidemia
+#12	AnnotatorNotes T2	D050171
+T20	Chemical 936 949	Triglycerides
+T21	Chemical 985 995	fatty acid
+T23	Disease 1068 1073	tumor
+#15	AnnotatorNotes T23	DOID:162
+T24	Chemical 1127 1140	triglycerides
+T25	Chemical 1191 1204	triglycerides
+T26	Disease 1209 1222	breast cancer
+T27	Chemical 1290 1301	cholesterol
+T29	Disease 1339 1352	breast cancer
+T31	Chemical 1385 1427	high density lipoprotein (HDL)-cholesterol
+T32	Disease 1514 1527	breast cancer
+T33	Disease 1558 1571	breast cancer
+T35	Chemical 1626 1641	HDL-cholesterol
+T36	Chemical 1672 1680	estrogen
+T39	Chemical 1791 1803	progesterone
+T4	Disease 199 206	obesity
+#27	AnnotatorNotes T4	DOID:9970
+T40	Chemical 1860 1875	HDL-cholesterol
+T41	Disease 1879 1892	breast cancer
+T42	Disease 1917 1930	breast cancer
+T7	Disease 313 326	breast cancer
+T8	Biomarker 351 356	obese
+#33	AnnotatorNotes T8	D009765
+T9	Disease 388 392	TNBC
+R1	Association Arg1:T0 Arg2:T1	
+R2	Association Arg1:T2 Arg2:T4	
+T3	Biomarker 228 243	body mass index
+#9	AnnotatorNotes T3	D015992
+T5	Biomarker 245 248	BMI
+#13	AnnotatorNotes T5	D015992
+R3	Association Arg1:T3 Arg2:T7	
+R4	Risk-Factor Arg1:T8 Arg2:T9	
+#14	AnnotatorNotes T9	DOID:0060081
+R5	Risk-Factor Arg1:T10 Arg2:T13	
+R6	Prognostic-Poor Arg1:T14 Arg2:T15	
+T6	Biomarker 985 1005	fatty acid oxidation
+R7	Association Arg1:T6 Arg2:T23	
+T11	Biomarker 1127 1140	triglycerides
+#4	AnnotatorNotes T11	D014280
+R8	Association Arg1:T11 Arg2:T23	
+T12	Biomarker 1176 1204	pre-diagnostic triglycerides
+T19	Biomarker 1290 1301	cholesterol
+#6	AnnotatorNotes T19	D002784
+R9	Association Arg1:T19 Arg2:T29	
+T22	Biomarker 1385 1427	high density lipoprotein (HDL)-cholesterol
+#8	AnnotatorNotes T22	D008076
+R10	Risk-Reduce Arg1:T22 Arg2:T32	
+T28	Biomarker 1622 1641	low HDL-cholesterol
+T30	Biomarker 1665 1687	higher estrogen levels
+T34	Gene-Protein 1791 1812	progesterone receptor
+#11	AnnotatorNotes T34	  HGNC:8910
+T37	Biomarker 1860 1875	HDL-cholesterol
+R11	Association Arg1:T37 Arg2:T41	

@@ -1,0 +1,107 @@
+T1	Biomarker 30 65	miR-143-5p and AMPK are upregulated
+T10	Biomarker 715 774	upregulated miR-143-5p and activated AMPK signaling pathway
+T12	Biomarker 851 911	mRNA expression of Bax, AMPK, mTOR, Bcl-2, cyclinD, and eEF2
+T15	Disease 930 946	degenerative IVD
+T17	Biomarker 953 1022	Protein levels and bands of Bax, AMPK, mTOR, Bcl-2, cyclinD, and eEF2
+T2	Disease 140 156	degenerative IVD
+#8	AnnotatorNotes T2	DOID:1289
+T20	Disease 1041 1057	degenerative IVD
+T23	Disease 1117 1133	degenerative IVD
+T27	Chemical 1447 1450	AMP
+T28	Drug 1562 1571	rapamycin
+T30	Chemical 1580 1606	glyceraldehyde-3-phosphate
+T31	Gene-Protein 1662 1665	DCN
+T33	Disease 1755 1771	degenerative IVD
+T36	Disease 1858 1874	degenerative IVD
+T37	Biomarker 1896 1944	decreased levels of COL2, ACAN, and DCN proteins
+T38	Biomarker 2000 2027	miR-143-5p highly expressed
+T39	Biomarker 2032 2077	AMPK signaling pathway activation was induced
+T4	Disease 289 305	degenerative IVD
+T40	Disease 2081 2097	degenerative IVD
+T6	Disease 417 433	degenerative IVD
+T7	Biomarker 455 560	decreased mRNA and protein levels of mTOR, Bcl-2, cyclinD and eEF2, and p-mTOR/t-mTOR protein level ratio
+T8	Biomarker 578 689	increased mRNA and protein levels of Bax and AMPK, p-AMPK/t-AMPK protein level ratio, and miR-143-5p expression
+T9	Disease 698 701	IDD
+#31	AnnotatorNotes T9	DOID:90
+T41	GeneFamily 45 49	AMPK
+#1	AnnotatorNotes T41	not found
+T42	GeneFamily 234 238	AMPK
+T43	GeneFamily 623 627	AMPK
+T44	GeneFamily 631 635	AMPK
+T45	GeneFamily 638 642	AMPK
+T46	GeneFamily 752 756	AMPK
+T47	GeneFamily 875 879	AMPK
+T48	GeneFamily 986 990	AMPK
+T49	GeneFamily 2032 2036	AMPK
+T50	GeneFamily 1441 1445	AMPK
+T51	RNA-Noncoding 30 40	miR-143-5p
+#16	AnnotatorNotes T51	HGNC:31530
+T3	Gene-Protein 492 496	mTOR
+T5	Gene-Protein 529 533	mTOR
+T52	Gene-Protein 536 540	mTOR
+T53	Gene-Protein 498 503	Bcl-2
+T54	Gene-Protein 505 512	cyclinD
+T55	Gene-Protein 517 521	eEF2
+T56	RNA-Noncoding 668 678	miR-143-5p
+T57	RNA-Noncoding 727 737	miR-143-5p
+T58	RNA-Noncoding 825 835	miR-143-5p
+T59	Gene-Protein 72 76	eEF2
+T60	Biomarker 98 136	cartilage differentiation is inhibited
+T61	Biomarker 72 93	eEF2 is downregulated
+T62	Collection 30 136	miR-143-5p and AMPK are upregulated while eEF2 is downregulated and cartilage differentiation is inhibited
+R1	Association Arg1:T62 Arg2:T2	
+T63	Biomarker 169 270	mRNA and protein levels of cartilage differentiation-related and AMPK signaling pathway-related genes
+R2	Association Arg1:T63 Arg2:T4	
+T64	Collection 455 689	decreased mRNA and protein levels of mTOR, Bcl-2, cyclinD and eEF2, and p-mTOR/t-mTOR protein level ratio, while obviously increased mRNA and protein levels of Bax and AMPK, p-AMPK/t-AMPK protein level ratio, and miR-143-5p expression
+R3	Association Arg1:T64 Arg2:T6	
+T65	Gene-Protein 817 821	eEF2
+R4	Association Arg1:T10 Arg2:T9	
+T11	Gene-Protein 615 618	Bax
+T66	Gene-Protein 981 984	Bax
+T67	Gene-Protein 992 996	mTOR
+T68	Gene-Protein 1005 1012	cyclinD
+T69	Gene-Protein 1018 1022	eEF2
+T16	Gene-Protein 1079 1083	COL2
+T18	Gene-Protein 1085 1089	ACAN
+T19	Gene-Protein 1095 1098	DCN
+T13	Biomarker 1061 1098	Protein levels of COL2, ACAN, and DCN
+T14	RNA-Noncoding 1336 1346	miR-143-5p
+T21	RNA-Noncoding 1348 1363	microRNA-143-5p
+T22	Gene-Protein 1391 1395	eEF2
+T24	Gene-Protein 907 911	eEF2
+T25	Gene-Protein 894 901	cyclinD
+T70	Gene-Protein 887 892	Bcl-2
+T71	Gene-Protein 998 1003	Bcl-2
+T72	Gene-Protein 1536 1540	mTOR
+T73	Gene-Protein 1542 1571	mammalian target of rapamycin
+T74	Gene-Protein 1517 1534	B cell lymphoma-2
+T75	GeneFamily 1447 1475	AMP activated protein kinase
+T76	Gene-Protein 1397 1439	eukaryotic translation elongation factor 2
+T77	Gene-Protein 1477 1480	Bax
+T78	Gene-Protein 1482 1508	Bcl-2 Associated X protein
+T79	Gene-Protein 1510 1515	Bcl-2
+T80	Gene-Protein 1573 1578	GAPDH
+T81	Gene-Protein 1622 1626	COL2
+T82	Gene-Protein 1628 1644	collagen type II
+T29	Gene-Protein 1646 1650	ACAN
+T83	Gene-Protein 1652 1660	aggrecan
+T84	Gene-Protein 1667 1674	decorin
+T32	Biomarker 1679 1736	protein levels of cartilage differentiation-related genes
+R5	Association Arg1:T37 Arg2:T36	
+T34	Gene-Protein 1916 1920	COL2
+T35	Gene-Protein 1922 1926	ACAN
+T85	Gene-Protein 1932 1935	DCN
+T86	Biomarker 825 846	miR-143-5p expression
+T87	Gene-Protein 1580 1620	glyceraldehyde-3-phosphate dehydrogenase
+T88	RNA-Noncoding 2000 2010	miR-143-5p
+T89	Collection 2000 2077	miR-143-5p highly expressed and AMPK signaling pathway activation was induced
+T91	Collection 2105 2170	eEF2 lowly expressed and cartilage differentiation was inhibited.
+R6	Association Arg1:T89 Arg2:T40	
+R7	Association Arg1:T91 Arg2:T40	
+T92	Biomarker 2130 2169	cartilage differentiation was inhibited
+T93	Biomarker 2105 2125	eEF2 lowly expressed
+T90	Gene-Protein 2105 2109	eEF2
+#2	AnnotatorNotes T59	HGNC:3214
+T26	Gene-Protein 870 873	Bax
+T94	Gene-Protein 881 885	mTOR
+#3	AnnotatorNotes T28	CHEMBL413

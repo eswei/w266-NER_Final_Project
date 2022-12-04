@@ -1,0 +1,40 @@
+30226217_2373|t|RSS_IDENT_p_30226217_b_1_1_3
+30226217_2373|a| The pathogenesis of ED in DM is not fully elucidated due to the multifactorial and complicated nature of DM. The mechanisms that prevail in the pathogenesis of T1DM ED and T2DM ED may differ due to the different characteristics of T1DM and T2DM, such as insulin resistance and body mass index status. 4 It has been demonstrated that endothelial dysfunction and increased oxidative stress play crucial roles for the development of T2DM ED. 4 5 6 7 8 9 Endothelial dysfunction is often characterized by a decrease in nitric oxide (NO) bioavailability resulting from decreased endothelial nitric oxide synthase (eNOS) activity or expression, or increased NO scavenging. Reactive oxygen species (ROS) reduce the availability of NO through direct or indirect mechanisms, such as a reaction with NO to form the toxic nitrating agent peroxynitrite, promoting eNOS uncoupling, and apoptosis. 10 11 12 A recent study shows that eNOS uncoupling and increased oxidative stress via nicotinamide adenine dinucleotide phosphate (NADPH) oxidase activation occur prior to carotid artery at the early stage of T2DM in the penis, emphasizing the role of endothelial dysfunction in the pathogenesis of T2DM ED. 13 Therefore, new treatment strategies for T2DM ED targeting endothelial function preservation are necessary.
+30226217_2373	50	52	ED	Disease	DOID:1875
+30226217_2373	56	58	DM	Disease	DOID:9351
+30226217_2373	135	137	DM	Disease
+30226217_2373	190	197	T1DM ED	Disease	DOID:9744,DOID:1875	Conjunction
+30226217_2373	202	209	T2DM ED	Disease	DOID:9352, DOID:1875	Conjunction
+30226217_2373	261	265	T1DM	Disease	DOID:9744
+30226217_2373	270	274	T2DM	Disease	DOID:9352
+30226217_2373	284	291	insulin	Gene-protein	HGNC:6081
+30226217_2373	284	302	insulin resistance	Disease	D007333
+30226217_2373	307	322	body mass index	Biomarker	D015992
+30226217_2373	363	386	endothelial dysfunction	Biomarker	not found
+30226217_2373	363	417	endothelial dysfunction and increased oxidative stress	Collection
+30226217_2373	391	417	increased oxidative stress	Biomarker
+30226217_2373	460	467	T2DM ED	Disease	Conjunction
+30226217_2373	481	504	Endothelial dysfunction	Biomarker	not found
+30226217_2373	533	578	decrease in nitric oxide (NO) bioavailability	Biomarker
+30226217_2373	545	557	nitric oxide	Chemical
+30226217_2373	559	561	NO	Chemical
+30226217_2373	604	637	endothelial nitric oxide synthase	Gene-protein	HGNC:7876
+30226217_2373	616	628	nitric oxide	Chemical
+30226217_2373	639	643	eNOS	Gene-protein	HGNC:7876
+30226217_2373	682	684	NO	Chemical
+30226217_2373	697	720	Reactive oxygen species	Chemical
+30226217_2373	722	725	ROS	Chemical
+30226217_2373	754	756	NO	Chemical
+30226217_2373	820	822	NO	Chemical
+30226217_2373	857	870	peroxynitrite	Chemical
+30226217_2373	882	886	eNOS	Gene-protein
+30226217_2373	949	953	eNOS	Gene-protein
+30226217_2373	969	995	increased oxidative stress	Biomarker
+30226217_2373	1000	1043	nicotinamide adenine dinucleotide phosphate	Chemical
+30226217_2373	1000	1059	nicotinamide adenine dinucleotide phosphate (NADPH) oxidase	Genefamily	not found
+30226217_2373	1045	1050	NADPH	Chemical
+30226217_2373	1123	1127	T2DM	Disease
+30226217_2373	1166	1189	endothelial dysfunction	Biomarker
+30226217_2373	1213	1220	T2DM ED	Disease	Conjunction
+30226217_2373	1265	1272	T2DM ED	Disease	Conjunction
+

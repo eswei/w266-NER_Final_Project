@@ -1,0 +1,73 @@
+T1	Chemical 60 63	Hcy
+T11	Chemical 497 500	Hcy
+T12	Disease 536 541	NAFLD
+T14	Chemical 595 598	Hcy
+T15	Disease 632 637	NAFLD
+T17	Chemical 678 681	Hcy
+T18	Disease 700 705	NAFLD
+T19	Disease 756 774	insulin resistance
+#8	AnnotatorNotes T19	D007333
+T2	Disease 94 99	NAFLD
+#9	AnnotatorNotes T2	DOID:0080208
+T20	Disease 904 908	HHcy
+#10	AnnotatorNotes T20	DOID:9279
+T22	Disease 975 980	NAFLD
+T23	Disease 1064 1068	HHcy
+T24	Disease 1077 1082	NAFLD
+T25	Chemical 1174 1177	Hcy
+T26	Disease 1187 1192	NAFLD
+T3	Chemical 205 208	Hcy
+T4	Chemical 282 285	Hcy
+T5	Disease 339 344	NAFLD
+T7	Chemical 361 364	Hcy
+T8	Disease 404 409	NAFLD
+T6	Biomarker 54 70	serum Hcy levels
+R1	Association Arg1:T6 Arg2:T2	
+T9	Variant 140 145	677TT
+T10	Variant 130 135	677CT
+T13	Collection 130 145	677CT and 677TT
+T16	Gene-Protein 124 129	MTHFR
+#1	AnnotatorNotes T16	HGNC:7436
+R2	Variant-Of Arg1:T16 Arg2:T13	
+T27	Gene-Protein 176 181	MTHFR
+T28	Biomarker 196 215	elevated Hcy levels
+T29	Gene-Protein 304 309	MTHFR
+T30	Variant 310 315	677CT
+T31	Biomarker 276 292	serum Hcy levels
+T33	Biomarker 355 397	serum Hcy levels were significantly higher
+R4	Association Arg1:T33 Arg2:T8	
+T34	Variant 468 473	677CT
+T35	Gene-Protein 462 467	MTHFR
+T36	Biomarker 491 506	serum Hcy level
+T37	Biomarker 589 605	serum Hcy levels
+T38	Biomarker 671 688	higher Hcy levels
+T39	Collection 700 774	NAFLD patients and were correlated with the severity of insulin resistance
+R5	Association Arg1:T38 Arg2:T39	
+T40	Chemical 833 838	lipid
+T21	Biomarker 813 849	alter intracellular lipid metabolism
+T41	Biomarker 862 886	hepatic fat accumulation
+T42	Collection 813 886	alter intracellular lipid metabolism and promote hepatic fat accumulation
+R6	Association Arg1:T42 Arg2:T20	
+T43	Biomarker 989 992	BMI
+T44	Biomarker 994 996	WC
+T45	Biomarker 998 1004	gender
+T46	Biomarker 1006 1009	age
+#2	AnnotatorNotes T43	D015992
+#3	AnnotatorNotes T44	 D055105
+#4	AnnotatorNotes T45	D005783
+#5	AnnotatorNotes T46	D017677
+T47	Biomarker 1015 1028	log (HOMA-IR)
+T48	Collection 989 1028	BMI, WC, gender, age, and log (HOMA-IR)
+R7	Association Arg1:T48 Arg2:T22	
+T49	Variant 1145 1150	677CT
+T50	Gene-Protein 1139 1144	MTHFR
+T51	Biomarker 1168 1183	serum Hcy level
+A1	Loss-of-funtion T10
+A2	Loss-of-funtion T9
+T52	Gene-Protein 756 763	insulin
+#6	AnnotatorNotes T52	HGNC:6081
+R3	Association Arg1:T31 Arg2:T5	
+R8	Variant-Of Arg1:T29 Arg2:T30	
+R9	Association Arg1:T30 Arg2:T5	
+R10	Variant-Of Arg1:T35 Arg2:T34	
+R11	Variant-Of Arg1:T50 Arg2:T49	

@@ -1,0 +1,51 @@
+T12	Disease 775 845	squamous cell carcinoma arising in mature cystic teratoma of the ovary
+#4	AnnotatorNotes T12	DOID:1749, not found
+T14	Disease 911 917	cancer
+#6	AnnotatorNotes T14	DOID:162
+T16	Disease 1198 1227	squamous cell cervical cancer
+T19	Disease 1358 1381	squamous cell carcinoma
+#10	AnnotatorNotes T19	DOID:1749
+T2	Disease 108 123	cervical cancer
+#11	AnnotatorNotes T2	DOID:4362
+T20	Disease 1418 1423	tumor
+#12	AnnotatorNotes T20	DOID:162
+T4	Disease 286 296	malignancy
+#15	AnnotatorNotes T4	DOID:162
+T5	Disease 463 478	cervical cancer
+T6	Disease 504 533	squamous cell cervical cancer
+#17	AnnotatorNotes T6	DOID:3744
+T8	Biomarker 596 602	CA 125
+T9	Biomarker 43 100	plasma concentrations of SCC-Ag were significantly higher
+R1	Association Arg1:T9 Arg2:T2	
+T1	Biomarker 266 277	antigen SCC
+R2	Diagnostic-of Arg1:T1 Arg2:T2	
+R3	Association Arg1:T1 Arg2:T5	
+T3	Biomarker 585 591	SCC-Ag
+#1	AnnotatorNotes T8	 D018394
+T7	Gene-Protein 596 602	CA 125
+#2	AnnotatorNotes T7	HGNC:6746
+T18	Collection 585 627	SCC-Ag and CA 125 simultaneously and M-CSF
+R4	Association Arg1:T18 Arg2:T6	
+T22	Gene-Protein 622 627	M-CSF
+#7	AnnotatorNotes T22	HGNC:2432
+T23	Biomarker 622 627	M-CSF
+#9	AnnotatorNotes T23	D016173
+T24	Biomarker 675 735	preoperative serum measurement of M-CSF combined with SCC-Ag
+T25	Gene-Protein 709 714	M-CSF
+R5	Diagnostic-of Arg1:T24 Arg2:T12	
+A1	Conjunction T12
+T10	GeneFamily 935 939	VEGF
+#3	AnnotatorNotes T10	family:1267
+T11	GeneFamily 1032 1036	VEGF
+T13	Biomarker 1032 1074	VEGF in conjunction with SCC-Ag and CA 125
+A2	Conjunction T13
+T15	Gene-Protein 1068 1074	CA 125
+T26	Biomarker 1247 1253	SCC-Ag
+R6	Diagnostic-of Arg1:T26 Arg2:T16	
+T17	Gene-Protein 1312 1317	M-CSF
+T27	Biomarker 1312 1317	M-CSF
+R7	Diagnostic-of Arg1:T27 Arg2:T19	
+T28	Biomarker 1433 1439	SCC-Ag
+T29	Gene-Protein 1444 1450	CA 125
+T30	Biomarker 1444 1450	CA 125
+#5	AnnotatorNotes T1	C051072

@@ -1,0 +1,47 @@
+T0	Disease 172 176	FTLD
+T1	Disease 181 184	PPD
+#2	AnnotatorNotes T1	not found
+T11	Disease 601 604	PPD
+T14	Biomarker 682 705	potential axonal damage
+T15	Disease 764 784	psychiatric disorder
+#7	AnnotatorNotes T15	D001523
+T16	Disease 816 833	minor head trauma
+#8	AnnotatorNotes T16	D006259
+T19	Disease 941 957	bipolar disorder
+#10	AnnotatorNotes T19	DOID:3312
+T21	Disease 1137 1140	PPD
+T23	Biomarker 1196 1209	axonal injury
+T24	Disease 1225 1241	bipolar disorder
+T25	Disease 1245 1264	psychotic disorders
+#16	AnnotatorNotes T25	DOID:2468
+T26	Disease 1385 1389	FTLD
+T27	Disease 1394 1397	PPD
+T3	Disease 276 281	bvFTD
+#20	AnnotatorNotes T3	not found
+T30	Disease 1528 1553	neurodegenerative disease
+#21	AnnotatorNotes T30	DOID:1289
+T4	Disease 354 357	PPD
+T7	Disease 506 510	FTLD
+T8	Disease 515 547	non-neurodegenerative conditions
+#25	AnnotatorNotes T8	not found
+T9	Disease 559 562	PPD
+T6	Biomarker 71 110	level of approximately 20 pg/mL of sNfL
+#1	AnnotatorNotes T0	DOID:9255
+T2	Biomarker 437 461	20 pg/mL cutoff for sNfL
+T5	Biomarker 879 911	slightly elevated CSF NfL levels
+R2	Association Arg1:T5 Arg2:T19	
+T10	Collection 1225 1264	bipolar disorder or psychotic disorders
+R3	Association Arg1:T23 Arg2:T10	
+T12	Biomarker 1441 1451	NfL levels
+T13	Gene-Protein 1441 1444	NfL
+T17	Biomarker 1456 1459	age
+T18	Gene-Protein 1000 1003	NfL
+#3	AnnotatorNotes T18	HGNC:7739
+T20	Biomarker 996 1003	CSF NfL
+T22	Biomarker 1129 1133	sNfL
+T28	Gene-Protein 106 110	sNfL
+#4	AnnotatorNotes T28	HGNC:7739
+T29	Gene-Protein 457 461	sNfL
+T31	Gene-Protein 377 381	sNfL
+T32	Gene-Protein 1129 1133	sNfL
+T33	Gene-Protein 1348 1352	sNfL

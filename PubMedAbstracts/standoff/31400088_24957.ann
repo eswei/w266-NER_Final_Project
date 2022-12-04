@@ -1,0 +1,79 @@
+T0	Drug 65 71	haemin
+T1	Disease 151 170	haemorrhagic damage
+#2	AnnotatorNotes T1	not found
+T10	Disease 585 600	cerebral oedema
+T11	Disease 616 619	ICH
+T13	Drug 642 648	haemin
+T14	Chemical 675 679	iron
+T15	Disease 707 716	haematoma
+#8	AnnotatorNotes T15	D006406
+T16	Disease 741 744	ICH
+T18	Disease 843 846	ICH
+T2	Drug 204 210	haemin
+T21	Disease 909 912	ICH
+T23	Disease 965 983	poststroke anxiety
+#15	AnnotatorNotes T23	not found
+T25	Disease 988 1002	memory deficit
+#17	AnnotatorNotes T25	D008569
+T26	Disease 1076 1095	haemorrhagic damage
+T27	Disease 1100 1121	neurological deficits
+#19	AnnotatorNotes T27	D009422
+T30	Drug 1225 1231	haemin
+T31	Drug 1274 1280	haemin
+T32	Disease 1440 1461	ICH‐associated stress
+T36	Disease 1548 1551	ICH
+T37	Chemical 1596 1600	iron
+T5	Drug 424 430	haemin
+T6	Disease 441 456	brain haematoma
+#31	AnnotatorNotes T6	D006408
+T7	Disease 487 501	neuronal death
+#32	AnnotatorNotes T7	not found
+T9	Drug 566 572	haemin
+T8	Gene-Protein 113 118	DUSP8
+#1	AnnotatorNotes T8	HGNC:3074
+T17	RNA-Noncoding 103 112	miR‐21‐5p
+#4	AnnotatorNotes T17	HGNC:31586
+T20	RNA-Noncoding 222 231	miR‐21‐5p
+T34	Disease 375 393	ICH‐induced injury
+#5	AnnotatorNotes T34	not found
+T35	Drug 340 351	A‐miR‐21‐5p
+T3	Gene-Protein 119 125	ERK1/2
+#6	AnnotatorNotes T3	HGNC:6877, HGNC:6871
+R1	Response Arg1:T35 Arg2:T34	
+#7	AnnotatorNotes T0	D006427
+T4	Drug 516 527	A‐miR‐21‐5p
+T38	Drug 408 419	A‐miR‐21‐5p
+T39	Drug 626 637	A‐miR‐21‐5p
+T40	Drug 757 768	A‐miR‐21‐5p
+T41	Drug 883 894	A‐miR‐21‐5p
+T12	Collection 441 501	brain haematoma volume and profoundly reduced neuronal death
+T42	Collection 408 430	A‐miR‐21‐5p and haemin
+R2	Response Arg1:T42 Arg2:T12	
+T43	Drug 262 273	A‐miR‐21‐5p
+T44	Gene-Protein 317 328	collagenase
+#3	AnnotatorNotes T11	D002543
+T19	Disease 1153 1192	cognition and learning‐memory disorders
+#9	AnnotatorNotes T19	DOID:1561, D007859, D008569
+T22	GeneFamily 1403 1414	haemoglobin
+#10	AnnotatorNotes T22	family:940
+T24	GeneFamily 1523 1531	Ferritin
+#11	AnnotatorNotes T24	family:1455
+#12	AnnotatorNotes T43	not found
+#13	AnnotatorNotes T10	DOID:4724
+R4	Response Arg1:T30 Arg2:T19	
+T28	Gene-Protein 1483 1491	α‐globin
+#14	AnnotatorNotes T28	not found
+T29	GeneFamily 1632 1644	globin‐chain
+#16	AnnotatorNotes T29	not found
+T46	Biomarker 1468 1498	increasing the α‐globin levels
+T47	Drug 1523 1544	Ferritin upregulation
+T79	RNA-Noncoding 262 273	A‐miR‐21‐5p
+T80	RNA-Noncoding 340 351	A‐miR‐21‐5p
+T81	RNA-Noncoding 408 419	A‐miR‐21‐5p
+T82	RNA-Noncoding 516 527	A‐miR‐21‐5p
+T83	RNA-Noncoding 626 637	A‐miR‐21‐5p
+T84	RNA-Noncoding 757 768	A‐miR‐21‐5p
+T85	RNA-Noncoding 883 894	A‐miR‐21‐5p
+#18	AnnotatorNotes T32	not found
+#20	AnnotatorNotes T47	not found
+R3	Response Arg1:T40 Arg2:T18	

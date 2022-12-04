@@ -1,0 +1,75 @@
+30171816_151|t|RSS_IDENT_p_30171816_a_1_1
+30171816_151|a| Renal cell carcinoma (RCC) has the third highest mortality rate among urological tumors, and 20–30% of RCC patients present with metastatic RCC at the time of diagnosis. Although recent studies have indicated that estrogen receptor β (ERβ) could play promoting roles in RCC progression, the detailed mechanisms remain to be clarified. In the present study, we found that expression of ERβ, but not ERα, increases with tumor stage and grade, and also observed that modification of ERβ signals using estrogens/anti‐estrogens, shRNA knockdown of ERβ and overexpression of ERβ using ectopic cDNA affects RCC cell proliferation, migration and invasion. Mechanism analysis revealed that ERβ can promote RCC cell invasion via an increase in transforming growth factor β1 (TGF‐β1)/SMAD3 signals, and interrupting TGF‐β1/SMAD3 signals with a TGFβR1 inhibitor can reverse/block ERβ‐increased RCC cell migration. Importantly, preclinical analyses using in vivo mouse models of RCC revealed that targeting of this newly identified ERβ/TGF‐β1/SMAD3 pathway with either the FDA‐approved anti‐estrogen ICI182,780 (Faslodex) or a selective ERβ antagonist 4‐[2‐phenyl‐5,7 bis(trifluoromethyl)pyrazolo[1,5‐a]pyrimidin‐3‐yl]phenol can significantly reduce RCC tumor growth and invasion, which may be suitable as the basis for novel therapies to more effectively suppress metastatic RCC. Abbreviations ccRCC clear cell renal cell carcinoma E2 17 β‐estradiol EGF epidermal growth factor EMT epithelial–mesenchymal transition ER estrogen receptor ESR2 estrogen receptor β ICI ICI182, 780 IF immunofluorescence IGF‐1 insulin‐like growth factor‐1 IHC immunohistochemical staining MTT 3‐(4,5‐dimethylthiazol‐2‐yl)‐2,5‐diphenyl‐tetrazolium bromide PHTPP 4‐[2‐phenyl‐5,7 bis(trifluoromethyl)pyrazolo[1,5‐a]pyrimidin‐3‐yl]phenol RCC renal cell carcinoma TCGA The Cancer Genome Atlas TGF‐β1 transforming growth factor β1 TGFβR‐1 transforming growth factor β receptor‐1
+30171816_151	28	48	Renal cell carcinoma	Disease	DOID:4450
+30171816_151	50	53	RCC	Disease	DOID:4450
+30171816_151	98	115	urological tumors	Disease	not found
+30171816_151	131	134	RCC	Disease
+30171816_151	157	171	metastatic RCC	Disease	not found
+30171816_151	242	250	estrogen	Chemical
+30171816_151	242	261	estrogen receptor β	Biomarker	D047629
+30171816_151	242	261	estrogen receptor β	Gene-protein	HGNC:3468
+30171816_151	263	266	ERβ	Gene-protein	HGNC:3468
+30171816_151	298	301	RCC	Disease
+30171816_151	399	416	expression of ERβ	Biomarker
+30171816_151	413	416	ERβ	Gene-protein
+30171816_151	426	429	ERα	Gene-protein	HGNC:3467
+30171816_151	446	467	tumor stage and grade	Biomarker
+30171816_151	508	511	ERβ	Gene-protein
+30171816_151	526	535	estrogens	Drug	CHEMBL592868
+30171816_151	536	550	anti‐estrogens	Drug-class
+30171816_151	552	574	shRNA knockdown of ERβ	Drug	not found
+30171816_151	571	574	ERβ	Gene-protein
+30171816_151	579	600	overexpression of ERβ	Drug	not found
+30171816_151	597	600	ERβ	Gene-protein
+30171816_151	628	631	RCC	Disease
+30171816_151	709	712	ERβ	Gene-protein
+30171816_151	709	712	ERβ	Biomarker	D047629
+30171816_151	725	728	RCC	Disease
+30171816_151	762	791	transforming growth factor β1	Gene-protein	HGNC:11766
+30171816_151	793	799	TGF‐β1	Gene-protein	HGNC:11766
+30171816_151	801	806	SMAD3	Gene-protein	HGNC:6769
+30171816_151	833	839	TGF‐β1	Gene-protein
+30171816_151	840	845	SMAD3	Gene-protein
+30171816_151	861	867	TGFβR1	Gene-protein	HGNC:11772
+30171816_151	861	877	TGFβR1 inhibitor	Drug-class
+30171816_151	896	899	ERβ	Gene-protein
+30171816_151	896	913	ERβ‐increased RCC	Disease	not found
+30171816_151	994	997	RCC	Disease
+30171816_151	1047	1050	ERβ	Gene-protein
+30171816_151	1051	1057	TGF‐β1	Gene-protein
+30171816_151	1058	1063	SMAD3	Gene-protein
+30171816_151	1101	1114	anti‐estrogen	Drug-class
+30171816_151	1115	1125	ICI182,780	Drug	CHEMBL1358
+30171816_151	1115	1239	ICI182,780 (Faslodex) or a selective ERβ antagonist 4‐[2‐phenyl‐5,7 bis(trifluoromethyl)pyrazolo[1,5‐a]pyrimidin‐3‐yl]phenol	Collection
+30171816_151	1127	1135	Faslodex	Drug	CHEMBL1358
+30171816_151	1152	1155	ERβ	Gene-protein
+30171816_151	1152	1166	ERβ antagonist	Drug-class
+30171816_151	1167	1239	4‐[2‐phenyl‐5,7 bis(trifluoromethyl)pyrazolo[1,5‐a]pyrimidin‐3‐yl]phenol	Drug	C556295
+30171816_151	1265	1268	RCC	Disease
+30171816_151	1380	1394	metastatic RCC	Disease
+30171816_151	1410	1415	ccRCC	Disease	DOID:4467
+30171816_151	1416	1447	clear cell renal cell carcinoma	Disease	DOID:4467
+30171816_151	1448	1450	E2	Chemical
+30171816_151	1451	1465	17 β‐estradiol	Chemical
+30171816_151	1466	1469	EGF	Gene-protein	HGNC:3229
+30171816_151	1470	1493	epidermal growth factor	Gene-protein	HGNC:3229
+30171816_151	1532	1534	ER	Genefamily	not found
+30171816_151	1535	1543	estrogen	Chemical
+30171816_151	1535	1551	estrogen recepto	Genefamily	not found
+30171816_151	1553	1557	ESR2	Gene-protein	HGNC:3468
+30171816_151	1558	1566	estrogen	Chemical
+30171816_151	1558	1577	estrogen receptor β	Gene-protein
+30171816_151	1582	1593	ICI182, 780	Drug
+30171816_151	1616	1621	IGF‐1	Gene-protein	HGNC:5464
+30171816_151	1622	1650	insulin‐like growth factor‐1	Gene-protein	HGNC:5464
+30171816_151	1684	1687	MTT	Chemical
+30171816_151	1688	1749	3‐(4,5‐dimethylthiazol‐2‐yl)‐2,5‐diphenyl‐tetrazolium bromide	Chemical
+30171816_151	1750	1755	PHTPP	Drug	C556295
+30171816_151	1756	1828	4‐[2‐phenyl‐5,7 bis(trifluoromethyl)pyrazolo[1,5‐a]pyrimidin‐3‐yl]phenol	Drug
+30171816_151	1829	1832	RCC	Disease
+30171816_151	1833	1853	renal cell carcinoma	Disease	DOID:4450
+30171816_151	1883	1889	TGF‐β1	Gene-protein
+30171816_151	1890	1919	transforming growth factor β1	Gene-protein
+30171816_151	1920	1927	TGFβR‐1	Gene-protein
+30171816_151	1928	1967	transforming growth factor β receptor‐1	Gene-protein	HGNC:11772
+

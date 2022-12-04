@@ -1,0 +1,40 @@
+30269454_16660|t|RSS_IDENT_p_30269454_b_1_4_5
+30269454_16660|a| Although the mechanisms of DNS development remain unclear, one possible mechanism is immune-mediated inflammation induced by IL-6 during the early stage of acute CO poisoning, resulting in invasive injuries in the CNS [ 11 , 13 ]. According to Ide and Kamijo [ 11 ], IL-6, one of the cytokines regulating immune reactions in the CNS and mainly secreted by microglia and astrocytes, could be a predictive marker for DNS development. Blood-brain barrier disruption by hypoxia and ischemia subject to acute CO poisoning could allow the leakage of a relatively high amount of IL-6 in the CNS to the systemic circulation [ 28 ]. In other words, the degree of brain injury by acute CO poisoning might be reflected by the serum levels of IL-6. Spinal taps to obtain CSF samples in patients with acute CO poisoning is somewhat challenging for most emergency physicians. Therefore, we hypothesized that serum levels of IL-6 in patients with DNS might be higher than those in patients without DNS. In Table 2, the median serum IL-6 level in the DNS group was 56.95 pg/mL (IQR, 160.22), which was significantly higher than that in the non-DNS group (4.45 pg/mL; IQR, 10.02) (P<0.001). This difference could be an interesting finding. However, in multiple logistic regression analysis, no correlation was found between the serum levels of IL-6 and DNS development. To our knowledge, this is the first study to assess whether serum levels of IL-6 predict DNS development. However, the results of the present study may have been influenced by the following factors. The time of serum IL-6 measurement was not constant in all patients. We sampled serum IL-6 based on the time of ED admission. According to Ide and Kamijo [ 11 ], the CSF levels of IL-6 abruptly increase and swiftly return to normal levels. A one-time sampling of serum IL-6 levels at the time of ED admission might not identify elevated levels after CO injury. 
+30269454_16660	57	60	DNS	Disease	not found
+30269454_16660	155	159	IL-6	Gene-protein	HGNC:6018
+30269454_16660	186	204	acute CO poisoning	Disease	not found
+30269454_16660	192	194	CO	Chemical
+30269454_16660	297	301	IL-6	Gene-protein
+30269454_16660	297	301	IL-6	Biomarker	D015850
+30269454_16660	445	448	DNS	Disease
+30269454_16660	462	492	Blood-brain barrier disruption	Biomarker
+30269454_16660	496	503	hypoxia	Biomarker	D000860
+30269454_16660	508	516	ischemia	Biomarker	D007511
+30269454_16660	528	546	acute CO poisoning	Disease
+30269454_16660	534	536	CO	Chemical
+30269454_16660	576	606	relatively high amount of IL-6	Biomarker
+30269454_16660	602	606	IL-6	Gene-protein
+30269454_16660	684	696	brain injury	Disease	D001930
+30269454_16660	700	718	acute CO poisoning	Biomarker
+30269454_16660	761	765	IL-6	Gene-protein
+30269454_16660	818	836	acute CO poisoning	Disease
+30269454_16660	824	826	CO	Chemical
+30269454_16660	940	944	IL-6	Gene-protein
+30269454_16660	962	965	DNS	Disease
+30269454_16660	1013	1016	DNS	Disease
+30269454_16660	1034	1057	median serum IL-6 level	Biomarker
+30269454_16660	1047	1051	IL-6	Gene-protein
+30269454_16660	1065	1068	DNS	Disease
+30269454_16660	1341	1361	serum levels of IL-6	Biomarker
+30269454_16660	1357	1361	IL-6	Gene-protein
+30269454_16660	1366	1369	DNS	Disease
+30269454_16660	1459	1463	IL-6	Gene-protein
+30269454_16660	1472	1475	DNS	Disease
+30269454_16660	1600	1604	IL-6	Gene-protein
+30269454_16660	1668	1672	IL-6	Gene-protein
+30269454_16660	1748	1784	CSF levels of IL-6 abruptly increase	Biomarker
+30269454_16660	1762	1766	IL-6	Gene-protein
+30269454_16660	1851	1855	IL-6	Gene-protein
+30269454_16660	1932	1934	CO	Chemical
+30269454_16660	1932	1941	CO injury	Disease	not found
+

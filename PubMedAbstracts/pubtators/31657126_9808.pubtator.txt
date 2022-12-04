@@ -1,0 +1,59 @@
+31657126_9808|t|RSS_IDENT_s_31657126_b_1_2_5
+31657126_9808|a| Multiplexed fluorescent immunoassay The concentrations of the following 28 cytokines/chemokines/growth factors (Table S1) in the liquid phase of CSF were measured by multiplexed fluorescent bead‐based immunoassay as described previously:16, 17, 18, 19 pleiotropic cytokines, interleukin (IL)‐1β, IL‐6, tumor necrosis factor (TNF)‐α, and IL‐7; type 1 helper T cell (Th1)‐related cytokines, IL‐2, IL‐12 (p70), IL‐15, and interferon (IFN)‐γ; type 2 helper T cell (Th2)‐related cytokines, IL‐4, IL‐5, IL‐9, IL‐10, and IL‐13; type 17 helper T cell (Th17)‐related cytokine, IL‐17; follicular helper T (Tfh)‐related cytokine, IL‐21; chemokines, C‐X‐C motif ligand (CXCL)8/IL‐8, CCL11/eotaxin, CXCL10/interferon gamma‐inducible protein (IP)‐10, CCL2/monocyte chemoattractant protein (MCP)‐1, CCL3/macrophage inflammatory protein (MIP)‐1α, CCL4/MIP‐1β, and CCL5/regulated upon activation, normal T cell expressed and secreted (RANTES); growth factors, granulocyte colony‐stimulating factor (G‐CSF), granulocyte‐macrophage colony‐stimulating factor (GM‐CSF), platelet‐derived growth factor (PDGF)‐BB, basic fibroblast growth factor (bFGF), and vascular endothelial growth factor (VEGF); and anti‐inflammatory cytokine, IL‐1 receptor antagonist (IL‐1ra). The Bio‐plex cytokine assay system (Bio‐Rad, Hercules, CA) was used according to the manufacturer’s instructions. The same lots of reagents were used throughout the experiments, and the interassay and intraassay variabilities were reported to be <10%.16, 17, 18, 19 All samples were diluted fourfold and analyzed in duplicate. Cytokine/chemokine/growth factor concentrations were calculated by reference to a standard curve for each molecule derived using various concentrations of the standard assayed in the same manner as the CSF samples. The detection limit for each molecule was determined by the recovery of the corresponding standard and the lowest value with >70% recovery was set as the lower detection limit.16, 17, 18, 19 No samples were beyond the upper detection limits, while some samples were below the lower detection limits. Each cytokine/chemokine and growth factor showed different detection rates (Table S1).
+31657126_9808	105	114	cytokines	Genefamily
+31657126_9808	115	125	chemokines	Genefamily
+31657126_9808	294	303	cytokines	Genefamily
+31657126_9808	305	324	interleukin (IL)‐1β	Gene-protein
+31657126_9808	326	330	IL‐6	Gene-protein
+31657126_9808	332	361	tumor necrosis factor (TNF)‐α	Gene-protein
+31657126_9808	367	371	IL‐7	Gene-protein
+31657126_9808	373	417	type 1 helper T cell (Th1)‐related cytokines	Genefamily
+31657126_9808	419	423	IL‐2	Gene-protein
+31657126_9808	425	430	IL‐12	Gene-protein
+31657126_9808	432	435	p70	Gene-protein
+31657126_9808	438	443	IL‐15	Gene-protein
+31657126_9808	449	467	interferon (IFN)‐γ	Gene-protein
+31657126_9808	469	513	type 2 helper T cell (Th2)‐related cytokines	Genefamily
+31657126_9808	515	519	IL‐4	Gene-protein
+31657126_9808	521	525	IL‐5	Gene-protein
+31657126_9808	527	531	IL‐9	Gene-protein
+31657126_9808	533	538	IL‐10	Gene-protein
+31657126_9808	544	549	IL‐13	Gene-protein
+31657126_9808	551	596	type 17 helper T cell (Th17)‐related cytokine	Genefamily
+31657126_9808	598	603	IL‐17	Gene-protein
+31657126_9808	605	647	follicular helper T (Tfh)‐related cytokine	Genefamily
+31657126_9808	649	654	IL‐21	Gene-protein
+31657126_9808	656	666	chemokines	Genefamily
+31657126_9808	668	694	C‐X‐C motif ligand (CXCL)8	Gene-protein
+31657126_9808	695	699	IL‐8	Gene-protein
+31657126_9808	701	706	CCL11	Gene-protein
+31657126_9808	707	714	eotaxin	Gene-protein
+31657126_9808	716	722	CXCL10	Gene-protein
+31657126_9808	723	765	interferon gamma‐inducible protein (IP)‐10	Gene-protein
+31657126_9808	767	771	CCL2	Gene-protein
+31657126_9808	772	813	monocyte chemoattractant protein (MCP)‐1,	Gene-protein
+31657126_9808	814	818	CCL3	Gene-protein
+31657126_9808	819	859	macrophage inflammatory protein (MIP)‐1α	Gene-protein
+31657126_9808	861	865	CCL4	Gene-protein
+31657126_9808	866	872	MIP‐1β	Gene-protein
+31657126_9808	878	882	CCL5	Gene-protein
+31657126_9808	883	946	regulated upon activation, normal T cell expressed and secreted	Gene-protein
+31657126_9808	948	954	RANTES	Gene-protein
+31657126_9808	973	1009	granulocyte colony‐stimulating facto	Gene-protein
+31657126_9808	1012	1017	G‐CSF	Gene-protein
+31657126_9808	1020	1068	granulocyte‐macrophage colony‐stimulating factor	Gene-protein
+31657126_9808	1070	1076	GM‐CSF	Gene-protein
+31657126_9808	1079	1119	platelet‐derived growth factor (PDGF)‐BB	Gene-protein
+31657126_9808	1121	1151	basic fibroblast growth factor	Gene-protein
+31657126_9808	1153	1157	bFGF	Gene-protein
+31657126_9808	1164	1198	vascular endothelial growth factor	Genefamily
+31657126_9808	1200	1204	VEGF	Genefamily
+31657126_9808	1211	1237	anti‐inflammatory cytokine	Genefamily
+31657126_9808	1239	1263	IL‐1 receptor antagonist	Gene-protein
+31657126_9808	1265	1271	IL‐1ra	Gene-protein
+31657126_9808	1287	1295	cytokine	Genefamily
+31657126_9808	1601	1609	Cytokine	Genefamily
+31657126_9808	1610	1619	chemokine	Genefamily
+31657126_9808	2121	2129	cytokine	Genefamily
+31657126_9808	2130	2139	chemokine	Genefamily
+

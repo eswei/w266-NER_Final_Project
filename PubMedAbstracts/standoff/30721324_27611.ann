@@ -1,0 +1,58 @@
+T0	Drug 73 78	AICAR
+T1	Drug 95 100	AICAR
+T10	Drug 508 513	AICAR
+T12	Chemical 592 594	NO
+T13	Disease 645 659	liver fibrosis
+#6	AnnotatorNotes T13	DOID:5082
+T14	Drug 743 748	AICAR
+T16	Disease 760 774	liver fibrosis
+T17	Drug 807 816	melatonin
+T18	Drug 952 964	ursolic acid
+T2	Chemical 133 147	hydroxyproline
+T20	Disease 994 1018	BDL-induced liver injury
+#14	AnnotatorNotes T20	not found
+T22	Drug 1142 1147	AICAR
+T23	Disease 1184 1198	liver fibrosis
+T25	Drug 1231 1236	AICAR
+T5	Disease 272 288	hepatic fibrosis
+#22	AnnotatorNotes T5	DOID:5082
+T6	Drug 319 324	AICAR
+T8	Chemical 393 413	carbon tetrachloride
+T9	Disease 393 437	carbon tetrachloride-induced acute hepatitis
+#26	AnnotatorNotes T9	not found
+T3	GeneFamily 224 229	TGF-β
+T4	Gene-Protein 231 236	α-SMA
+T7	Gene-Protein 238 242	TIMP
+T27	Gene-Protein 248 252	CTGF
+T28	Biomarker 224 229	TGF-β
+#5	AnnotatorNotes T28	D016212
+T29	Biomarker 231 236	α-SMA
+#7	AnnotatorNotes T29	C544013
+T30	Biomarker 238 242	TIMP
+#10	AnnotatorNotes T30	D019714
+T31	Biomarker 248 252	CTGF
+#11	AnnotatorNotes T31	C413323
+T32	Collection 224 252	TGF-β, α-SMA, TIMP, and CTGF
+R1	Association Arg1:T32 Arg2:T5	
+T33	Drug 376 381	ACIAR
+R2	Response Arg1:T33 Arg2:T9	
+R3	Response Arg1:T14 Arg2:T16	
+T11	Disease 846 888	BDL-induced mitochondrial oxidative stress
+#2	AnnotatorNotes T11	not found
+#3	AnnotatorNotes T17	CHEMBL45
+R4	Protects-from Arg1:T17 Arg2:T11	
+#4	AnnotatorNotes T18	CHEMBL169
+R5	Protects-from Arg1:T18 Arg2:T20	
+T15	GeneFamily 897 901	AMPK
+T19	Gene-Protein 902 907	SIRT3
+T34	Gene-Protein 908 912	SOD2
+T35	Gene-Protein 1031 1035	LKB1
+T36	GeneFamily 1036 1040	AMPK
+T37	Drug 1082 1105	increased NO production
+R6	Response Arg1:T37 Arg2:T23	
+T21	GeneFamily 1301 1305	AMPK
+T24	GeneFamily 1320 1325	NF-κB
+#8	AnnotatorNotes T0	not found
+T65	Disease 1255 1267	inflammation
+#1	AnnotatorNotes T65	D007249
+R7	Response Arg1:T25 Arg2:T65	

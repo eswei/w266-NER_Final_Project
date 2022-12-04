@@ -1,0 +1,63 @@
+T1	Disease 242 259	ovarian carcinoma
+#1	AnnotatorNotes T1	DOID:4001
+T10	RNA-Noncoding 887 896	LINC00312
+T12	Disease 1049 1052	CRC
+T13	RNA-Noncoding 1081 1090	LINC00312
+T15	RNA-Noncoding 1237 1246	LINC00312
+T16	Disease 1250 1253	CRC
+T17	RNA-Noncoding 1261 1270	LINC00312
+T20	RNA-Noncoding 1431 1440	LINC00312
+T21	Disease 1444 1447	CRC
+T22	RNA-Noncoding 1553 1562	LINC00312
+T24	RNA-Noncoding 1656 1665	LINC00312
+T25	Disease 1702 1705	CRC
+T4	Disease 404 410	glioma
+#13	AnnotatorNotes T4	DOID:0060108
+T6	Disease 582 588	glioma
+T7	RNA-Noncoding 625 634	LINC00312
+T9	RNA-Noncoding 765 774	LINC00312
+T2	Gene-Protein 1624 1628	PTEN
+T3	RNA-Noncoding 1617 1623	miR‐21
+T5	Gene-Protein 221 226	DLEU1
+#2	AnnotatorNotes T5	HGNC:13747
+T8	RNA-Noncoding 311 321	miR‐490‐3p
+#3	AnnotatorNotes T8	HGNC:32075
+T11	Gene-Protein 335 339	CDK1
+#4	AnnotatorNotes T11	HGNC:1722
+T14	RNA-Noncoding 654 664	miR‐197‐3p
+#5	AnnotatorNotes T14	HGNC:31569
+T18	RNA-Noncoding 699 709	miR‐197‐3p
+T19	RNA-Noncoding 438 446	miR‐181b
+#6	AnnotatorNotes T19	family:1718
+T23	Gene-Protein 506 511	FGFR3
+#7	AnnotatorNotes T23	HGNC:3690
+T26	Gene-Protein 516 522	PDGFRα
+#8	AnnotatorNotes T26	HGNC:8803
+#9	AnnotatorNotes T7	HGNC:6662
+T27	RNA-Noncoding 389 394	CCAT1
+#10	AnnotatorNotes T27	HGNC:45128
+T28	Biomarker 382 394	lncRNA CCAT1
+R1	Association Arg1:T28 Arg2:T4	
+T29	RNA-Noncoding 901 907	miR‐21
+#11	AnnotatorNotes T29	HGNC:31586
+T30	RNA-Noncoding 1111 1117	miR‐21
+T31	Gene-Protein 1136 1140	PTEN
+T32	RNA-Noncoding 1195 1201	miR‐21
+T33	Gene-Protein 1539 1543	PTEN
+T34	RNA-Noncoding 1380 1386	miR‐21
+T35	Gene-Protein 1324 1328	PTEN
+T36	RNA-Noncoding 948 954	miR‐21
+T37	Gene-Protein 1041 1045	PTEN
+#12	AnnotatorNotes T37	HGNC:9588
+T38	RNA-Noncoding 1296 1302	miR‐21
+T39	GeneFamily 1356 1359	AKT
+#14	AnnotatorNotes T39	family:1900
+T40	Biomarker 221 226	DLEU1
+#15	AnnotatorNotes T40	C109421
+R2	Association Arg1:T40 Arg2:T1	
+T41	Gene-Protein 718 722	p120
+#16	AnnotatorNotes T41	HGNC:2515
+T42	Biomarker 948 971	miR‐21 is overexpressed
+R3	Association Arg1:T42 Arg2:T12	
+T43	Biomarker 1617 1636	miR‐21–PTEN pathway
+R4	Association Arg1:T43 Arg2:T25	

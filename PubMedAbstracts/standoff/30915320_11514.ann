@@ -1,0 +1,122 @@
+T10	Disease 1161 1163	CD
+T4	Disease 824 827	T1D
+#3	AnnotatorNotes T4	DOID:9744
+T5	Disease 832 834	CD
+#4	AnnotatorNotes T5	DOID:10608
+T6	Biomarker 868 935	heterozygous genotype DR3-DQ2/DR4-DQ8 and genotype DR4-DQ8/ DR4-DQ8
+T7	Disease 959 962	T1D
+T8	Disease 1007 1009	CD
+T9	Biomarker 1047 1127	DR3-DQ2/ DR3-DQ2 and DR3-DQ2/ DR7-DQ2, which are DQB1*02 homozygous combinations
+T1	GeneFamily 51 54	HLA
+#2	AnnotatorNotes T1	family:588
+T2	Gene-Protein 104 108	DRB1
+#7	AnnotatorNotes T2	HGNC:4948
+T3	Gene-Protein 109 113	DQA1
+#8	AnnotatorNotes T3	HGNC:4942
+T13	Gene-Protein 114 118	DQB1
+#9	AnnotatorNotes T13	HGNC:4944
+T14	Gene-Protein 149 153	DRB1
+T15	Variant 153 159	*03:01
+R1	Variant-Of Arg1:T14 Arg2:T15	
+T16	Gene-Protein 160 164	DQA1
+T17	Variant 164 170	*05:01
+R2	Variant-Of Arg1:T16 Arg2:T17	
+T18	Gene-Protein 171 175	DQB1
+T19	Variant 175 181	*02:01
+R3	Variant-Of Arg1:T18 Arg2:T19	
+T20	Gene-Protein 220 224	DRB1
+T21	Variant 224 230	*07:01
+R4	Variant-Of Arg1:T20 Arg2:T21	
+T22	Gene-Protein 231 235	DQA1
+T23	Variant 235 241	*02:01
+R5	Variant-Of Arg1:T22 Arg2:T23	
+T24	Gene-Protein 242 246	DQB1
+T25	Variant 246 252	*02:02
+R6	Variant-Of Arg1:T24 Arg2:T25	
+T26	Gene-Protein 268 272	DRB1
+T27	Variant 272 278	*11/12
+R7	Variant-Of Arg1:T26 Arg2:T27	
+T28	Gene-Protein 279 283	DQA1
+T29	Variant 283 289	*05:05
+R8	Variant-Of Arg1:T28 Arg2:T29	
+T30	Gene-Protein 290 294	DQB1
+T31	Variant 294 300	*03:01
+R9	Variant-Of Arg1:T30 Arg2:T31	
+T32	GeneFamily 582 585	HLA
+T33	Gene-Protein 586 590	DRB1
+T34	Gene-Protein 591 595	DQA1
+T35	Gene-Protein 596 600	DQB1
+T36	Gene-Protein 601 605	DRB1
+T37	Gene-Protein 606 610	DQA1
+T38	Gene-Protein 611 615	DQB1
+T39	Gene-Protein 646 650	DRB1
+T40	Gene-Protein 656 660	DQB1
+T41	Gene-Protein 651 655	DQA1
+R10	Risk-Factor Arg1:T6 Arg2:T7	
+R11	Risk-Factor Arg1:T9 Arg2:T10	
+T42	GeneFamily 990 993	HLA
+T43	Gene-Protein 313 317	DRB1
+T44	Gene-Protein 335 339	DQB1
+T45	Gene-Protein 324 328	DQA1
+T46	Gene-Protein 347 351	DRB1
+T47	Gene-Protein 358 362	DQA1
+T48	Gene-Protein 368 373	-DQB1
+T49	Gene-Protein 381 385	DRB1
+T50	Gene-Protein 392 396	DQA1
+T51	Gene-Protein 416 420	DRB1
+T52	Gene-Protein 404 408	DQB1
+T53	Gene-Protein 427 431	DQA1
+T54	Gene-Protein 438 442	DQB1
+T55	Gene-Protein 454 458	DRB1
+T56	Gene-Protein 465 469	DQA1
+T57	Gene-Protein 476 480	DQB1
+T11	Gene-Protein 1222 1226	DRB1
+T58	Gene-Protein 1230 1234	DQA1
+T59	Gene-Protein 1241 1245	DQB1
+T60	Gene-Protein 1252 1256	DRB1
+T61	Gene-Protein 1263 1267	DQA1
+T62	Gene-Protein 1274 1278	DQB1
+T12	GeneFamily 2170 2173	HLA
+T63	Variant 317 323	*04:01
+R12	Variant-Of Arg1:T43 Arg2:T63	
+T64	Variant 328 334	*03:01
+R13	Variant-Of Arg1:T45 Arg2:T64	
+T65	Variant 339 345	*03:02
+R14	Variant-Of Arg1:T44 Arg2:T65	
+T66	Variant 351 357	*04:02
+R15	Variant-Of Arg1:T46 Arg2:T66	
+T67	Variant 362 368	*03:01
+R16	Variant-Of Arg1:T47 Arg2:T67	
+T68	Variant 373 379	*03:02
+R17	Variant-Of Arg1:T48 Arg2:T68	
+T69	Variant 385 391	*04:04
+R18	Variant-Of Arg1:T49 Arg2:T69	
+T70	Variant 396 403	* 03:01
+R19	Variant-Of Arg1:T50 Arg2:T70	
+T71	Variant 408 414	*03:02
+R20	Variant-Of Arg1:T52 Arg2:T71	
+T72	Variant 420 426	*04:05
+R21	Variant-Of Arg1:T51 Arg2:T72	
+T73	Variant 431 437	*03:01
+R22	Variant-Of Arg1:T53 Arg2:T73	
+T74	Variant 442 448	*03:02
+R23	Variant-Of Arg1:T54 Arg2:T74	
+T75	Variant 458 464	*04:08
+R24	Variant-Of Arg1:T55 Arg2:T75	
+T76	Variant 480 486	*03:04
+R25	Variant-Of Arg1:T57 Arg2:T76	
+T77	Variant 469 475	*03:01
+R26	Variant-Of Arg1:T56 Arg2:T77	
+T78	Variant 1226 1229	*07
+R27	Variant-Of Arg1:T11 Arg2:T78	
+T79	Variant 1234 1240	*02:01
+R28	Variant-Of Arg1:T58 Arg2:T79	
+T80	Variant 1245 1251	*02:02
+R29	Variant-Of Arg1:T59 Arg2:T80	
+T81	Variant 1256 1262	*11/12
+R30	Variant-Of Arg1:T60 Arg2:T81	
+T82	Variant 1267 1273	*05:05
+R31	Variant-Of Arg1:T61 Arg2:T82	
+T83	Variant 1278 1284	*03:01
+R32	Variant-Of Arg1:T62 Arg2:T83	
+T84	GeneFamily 695 698	HLA

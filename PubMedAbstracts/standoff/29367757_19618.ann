@@ -1,0 +1,73 @@
+T11	Disease 693 706	breast cancer
+T12	Biomarker 708 737	reduced expression of miR-503
+T15	Disease 1145 1150	tumor
+#2	AnnotatorNotes T15	DOID:162
+T16	Disease 1166 1180	SCLL neoplasms
+#3	AnnotatorNotes T16	not found
+T18	Drug 1283 1289	BGJ398
+T19	Disease 1406 1410	SCLL
+T3	Biomarker 380 428	Dysfunction of miRNA regulation of FGF signaling
+T4	Disease 448 454	cancer
+#6	AnnotatorNotes T4	DOID:162
+T5	Disease 471 497	non-small-cell lung cancer
+#7	AnnotatorNotes T5	DOID:3908
+T6	Disease 499 504	NSCLC
+#8	AnnotatorNotes T6	DOID:3908
+T7	Biomarker 520 558	down regulation of miR-152 and miR-198
+T20	GeneFamily 34 37	FGF
+#4	AnnotatorNotes T20	family:1895
+T21	RNA-Noncoding 144 151	miR-338
+#5	AnnotatorNotes T21	HGNC:31775
+T1	Gene-Protein 171 176	FGFR2
+#9	AnnotatorNotes T1	HGNC:3689
+T2	RNA-Noncoding 204 211	miR-424
+#10	AnnotatorNotes T2	HGNC:31881
+T22	RNA-Noncoding 216 223	miR-503
+#11	AnnotatorNotes T22	HGNC:32138
+T23	Gene-Protein 242 246	FGF2
+#12	AnnotatorNotes T23	HGNC:3676
+T24	Gene-Protein 251 256	FGFR1
+#13	AnnotatorNotes T24	HGNC:3688
+T25	RNA-Noncoding 311 318	miR-710
+#14	AnnotatorNotes T25	not found
+T26	Gene-Protein 344 349	FGF15
+#15	AnnotatorNotes T26	not found
+R1	Association Arg1:T3 Arg2:T4	
+T27	GeneFamily 415 418	FGF
+T28	RNA-Noncoding 539 546	miR-152
+#16	AnnotatorNotes T28	HGNC:31538
+T29	RNA-Noncoding 551 558	miR-198
+#17	AnnotatorNotes T29	HGNC:31570
+R2	Association Arg1:T7 Arg2:T5	
+T8	Gene-Protein 588 592	FGF2
+T30	Gene-Protein 597 602	FGFR1
+T9	RNA-Noncoding 730 737	miR-503
+R3	Association Arg1:T12 Arg2:T11	
+#1	AnnotatorNotes T11	DOID:1612
+T10	Gene-Protein 759 763	FGF8
+#18	AnnotatorNotes T10	HGNC:3686
+T13	Gene-Protein 924 929	FGFR1
+T31	RNA-Noncoding 973 980	miR-27a
+#19	AnnotatorNotes T31	HGNC:31613
+T32	RNA-Noncoding 985 992	miR-210
+#20	AnnotatorNotes T32	HGNC:31587
+T33	RNA-Noncoding 997 1004	miR-155
+#21	AnnotatorNotes T33	HGNC:31542
+T34	RNA-Noncoding 1009 1016	miR-483
+#22	AnnotatorNotes T34	HGNC:32340
+T35	RNA-Noncoding 1028 1037	miR-17/92
+#23	AnnotatorNotes T35	HGNC:23564
+T14	RNA-Noncoding 1068 1077	miR-26a/b
+#24	AnnotatorNotes T14	not found, HGNC:31612
+T36	RNA-Noncoding 1082 1089	miR-150
+#25	AnnotatorNotes T36	HGNC:31537
+T37	RNA-Noncoding 1099 1106	miR-433
+#26	AnnotatorNotes T37	HGNC:32026
+T38	RNA-Noncoding 1114 1121	miR-503
+#27	AnnotatorNotes T38	HGNC:32138
+T39	RNA-Noncoding 1235 1244	miR-17/92
+T40	Gene-Protein 1379 1384	FGFR1
+#28	AnnotatorNotes T18	CHEMBL1852688
+T41	GeneFamily 1496 1500	FGFR
+#29	AnnotatorNotes T41	not found
+R5	Response Arg1:T18 Arg2:T19	

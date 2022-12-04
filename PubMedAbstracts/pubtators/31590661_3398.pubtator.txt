@@ -1,0 +1,44 @@
+31590661_3398|t|RSS_IDENT_p_31590661_b_1_1_3
+31590661_3398|a| The prevalence of G6PD deficiency is highly relevant to the choice of drug used in anti-malarial treatment [ 7 , 8 ]. A number of drugs, such as primaquine, dapsone, sulfonamides, quinolones, chloramphenicol, nitrofurantoins (antibiotics), and phenazopyridine (analgesics), have been described as haemolytic trigger that causes haemolytic crisis in G6PD-deficient individuals [ 9 , 10 ]. Primaquine is the recommended treatment drug to eliminate Plasmodium vivax hypnozoites and Plasmodium falciparum gametocytes, along with the goal to progress towards zero malaria transmission in Africa [ 11 – 14 ]. It is an ideal agent to be used as primary prophylaxis against P. vivax [ 6 ]. However, primaquine can also induce oxidative stress causing a spectrum of haemolytic anaemia ranging from mild to severe haemolysis in G6PD-deficient individuals [ 15 ]. The likelihood of developing haemolysis and its severity depends on the level of enzyme deficiency, which in turn is determined by the type of G6PD variant [ 16 – 18 ]. The risk for haemolytic anaemia is particularly high in patients who are treated for P. vivax malaria because they are usually given a higher dose of primaquine (0.25–0.5 mg in a 14-day treatment regime) compared to those treated for P. falciparum (a single dose of 0.25 mg on the first day of treatment) [ 19 ]. A high dose of primaquine (0.5 mg base/kg daily for 14 days) has been previously shown to be more effective than a low dose (0.25 mg base/kg daily for 14 days) in eliminating primary blood infection and preventing relapse episodes in P. vivax patients [ 11 , 20 – 22 ]. However, the lack of G6PD level information, inaccurate methods of screening G6PD deficiency, and the uncertainty in the safety of a single versus long-term primaquine dosage pose risk to malaria patients when treat with primaquine.
+31590661_3398	48	52	G6PD	Gene-protein	HGNC:4057
+31590661_3398	48	63	G6PD deficiency	Disease	DOID:2862
+31590661_3398	175	185	primaquine	Drug	CHEMBL506
+31590661_3398	187	194	dapsone	Drug	CHEMBL1043
+31590661_3398	196	208	sulfonamides	Drug	D013449
+31590661_3398	210	220	quinolones	Drug	D015363
+31590661_3398	222	237	chloramphenicol	Drug	CHEMBL130
+31590661_3398	239	254	nitrofurantoins	Drug	CHEMBL572
+31590661_3398	256	267	antibiotics	Drug-class
+31590661_3398	274	289	phenazopyridine	Drug	CHEMBL1242
+31590661_3398	291	301	analgesics	Drug-class
+31590661_3398	379	383	G6PD	Gene-protein
+31590661_3398	379	393	G6PD-deficient	Disease	DOID:2862
+31590661_3398	418	428	Primaquine	Drug	CHEMBL506
+31590661_3398	476	492	Plasmodium vivax	Microorganism
+31590661_3398	509	530	Plasmodium falciparum	Microorganism
+31590661_3398	589	596	malaria	Disease	DOID:12365
+31590661_3398	696	704	P. vivax	Microorganism
+31590661_3398	721	731	primaquine	Drug
+31590661_3398	748	764	oxidative stress	Disease	D018384
+31590661_3398	748	844	oxidative stress causing a spectrum of haemolytic anaemia ranging from mild to severe haemolysis	Collection
+31590661_3398	787	805	haemolytic anaemia	Disease	DOID:583
+31590661_3398	834	844	haemolysis	Disease	D006461
+31590661_3398	848	852	G6PD	Gene-protein
+31590661_3398	848	862	G6PD-deficient	Disease
+31590661_3398	912	922	haemolysis	Disease
+31590661_3398	1026	1030	G6PD	Gene-protein
+31590661_3398	1026	1038	G6PD variant	Biomarker
+31590661_3398	1065	1083	haemolytic anaemia	Disease
+31590661_3398	1137	1145	P. vivax	Microorganism
+31590661_3398	1137	1153	P. vivax malaria	Disease	DOID:12978
+31590661_3398	1202	1212	primaquine	Drug
+31590661_3398	1286	1299	P. falciparum	Microorganism
+31590661_3398	1380	1390	primaquine	Drug
+31590661_3398	1599	1607	P. vivax	Microorganism
+31590661_3398	1656	1660	G6PD	Gene-protein
+31590661_3398	1712	1716	G6PD	Gene-protein
+31590661_3398	1712	1727	G6PD deficiency	Disease
+31590661_3398	1792	1802	primaquine	Drug
+31590661_3398	1823	1830	malaria	Disease
+31590661_3398	1856	1866	primaquine	Drug
+

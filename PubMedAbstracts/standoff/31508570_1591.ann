@@ -1,0 +1,70 @@
+T0	Chemical 342 349	steroid
+T1	Disease 452 497	glucocorticoids and sex steroids deficiencies
+T11	Chemical 1019 1033	corticosterone
+T12	Chemical 1038 1060	11-deoxycorticosterone
+T14	Disease 1203 1206	CAH
+#6	AnnotatorNotes T14	DOID:0050811
+T17	Disease 1277 1280	CAH
+T18	Chemical 1296 1303	steroid
+T2	Chemical 472 484	sex steroids
+T5	Chemical 754 761	steroid
+T7	Disease 818 848	Congenital adrenal hyperplasia
+#15	AnnotatorNotes T7	DOID:0050811
+T8	Disease 863 875	hypertension
+#16	AnnotatorNotes T8	DOID:10763
+T9	Disease 877 888	hypokalemia
+#17	AnnotatorNotes T9	DOID:4500
+T4	Gene-Protein 67 74	CYP17A1
+#1	AnnotatorNotes T4	HGNC:2593
+T6	Gene-Protein 34 41	p450c17
+#3	AnnotatorNotes T6	HGNC:2593
+T10	Gene-Protein 292 299	P450c17
+#4	AnnotatorNotes T10	HGNC:2593
+T15	Gene-Protein 312 319	CYP17A1
+T22	Biomarker 398 437	Enzymatic failure of the P450c17 enzyme
+T23	Gene-Protein 423 430	P450c17
+R1	Association Arg1:T22 Arg2:T1	
+#11	AnnotatorNotes T1	not found, not found
+T3	Gene-Protein 556 563	P450c17
+T24	Chemical 526 541	glucocorticoids
+T25	Chemical 636 651	glucocorticoids
+T26	Gene-Protein 678 705	Adrenocorticotropic hormone
+#2	AnnotatorNotes T26	HGNC:9201
+T27	Biomarker 734 772	extra generation of steroid precursors
+T28	Biomarker 777 796	elevated ACTH level
+T29	Gene-Protein 786 790	ACTH
+T30	Gene-Protein 707 711	ACTH
+T31	Collection 734 796	extra generation of steroid precursors and elevated ACTH level
+T32	Collection 818 888	Congenital adrenal hyperplasia and result in hypertension, hypokalemia
+R2	Association Arg1:T31 Arg2:T32	
+T33	Biomarker 896 931	suppressed renin-angiotensin system
+T34	Gene-Protein 907 912	renin
+#13	AnnotatorNotes T34	HGNC:9958
+T35	Gene-Protein 913 924	angiotensin
+#14	AnnotatorNotes T35	HGNC:333
+T36	Gene-Protein 976 983	CYP17A1
+T37	Chemical 1092 1106	glucocorticoid
+T38	Gene-Protein 1137 1144	P450c17
+T13	Gene-Protein 1238 1245	CYP17A1
+T16	Gene-Protein 1296 1318	steroid 17-hydroxylase
+T19	Gene-Protein 1323 1334	17,20-lyase
+#5	AnnotatorNotes T30	HGNC:9201
+T20	Gene-Protein 1378 1383	CYP17
+#7	AnnotatorNotes T20	 HGNC:2593
+T21	Gene-Protein 1438 1460	combined17-hydroxylase
+T39	Gene-Protein 1461 1472	17,20-lyase
+T40	Gene-Protein 1476 1497	isolated 17, 20-lyase
+T41	Biomarker 1221 1250	Mutations in the CYP17A1 gene
+T42	Disease 1296 1347	steroid 17-hydroxylase and 17,20-lyase deficiencies
+T43	Gene-Protein 342 364	steroid 17-hydroxylase
+T44	Gene-Protein 369 380	17,20-lyase
+T45	Disease 1426 1517	complete or combined17-hydroxylase/17,20-lyase or isolated 17, 20-lyase enzyme deficiencies
+#8	AnnotatorNotes T45	not found, not found, not found
+#9	AnnotatorNotes T42	not found, not found
+T46	Biomarker 1361 1388	mutations in the CYP17 gene
+R3	Association Arg1:T46 Arg2:T45	
+R4	Association Arg1:T41 Arg2:T17	
+#10	AnnotatorNotes T43	not found
+#12	AnnotatorNotes T44	not found
+#18	AnnotatorNotes T40	not found
+T47	Chemical 452 467	glucocorticoids

@@ -1,0 +1,55 @@
+31066785_16097|t|RSS_IDENT_p_31066785_b_1_4_3
+31066785_16097|a| Animal clinical experiments have found that, NPY is associated with brain damage, stroke, and neonatal HIE ¹⁷ ⁻ ¹⁹ . HIE refers to the brain injury caused by reduced oxygen supply reduction and/or reduced blood supply secondary to late pregnancy, delivery or neonatal period. It is the main form of perinatal brain injury, and is the main cause of acute death ¹⁹ . Previous study ²⁰ finds that, in HIE patients the plasma NPY level is increased significantly. The higher the HIE level is, the higher the plasma NPY level is. The NPY level in the recovery phase is decreased significantly. This suggests that, the plasma NPY is involved in the pathophysiological process of HIE. In neonatal asphyxia, the plasma NPY is significantly increased, resulting in the increase of cerebral vascular resistance and the decrease of cerebral blood flow. This becomes one of the causes of HIE ⁶ . NPY can inhibit the vasodilation effect of blood vessels on adenosine, acetylcholine and other vasodilator substances. This causes the accommodative disorder of cerebral vasodilatation and contraction function, leading to further contraction of cerebral blood vessels and reduction of cerebral blood flow ²¹ . In addition, NPY can promote the hydrolysis of phosphatidylinositol on the cell membrane, producing two diacylglycerol and inositol triphosphate (IP3). As a second messenger, IP3 can promote the opening of Ca²⁺ channels in the endoplasmic reticulum and increase the intracellular Ca²⁺ concentration, thus aggravating hypoxic ischemic brain damage ²² . The results of this study showed that, NPY was mainly distributed in the hippocampus of ICP fetal rats. The expression of NPY in the experimental group was increased significantly, compared with control group. This suggests that, NPY may be related to fetal distress in ICP. 
+31066785_16097	75	78	NPY	Biomarker	HGNC:7955
+31066785_16097	75	78	NPY	Gene-protein	D009478
+31066785_16097	98	110	brain damage	Disease	D001930
+31066785_16097	98	136	brain damage, stroke, and neonatal HIE	Collection
+31066785_16097	112	118	stroke	Disease	D020521
+31066785_16097	124	136	neonatal HIE	Disease	not found
+31066785_16097	147	150	HIE	Disease	D020925
+31066785_16097	165	177	brain injury	Disease	D001930
+31066785_16097	188	219	reduced oxygen supply reduction	Biomarker
+31066785_16097	188	304	reduced oxygen supply reduction and/or reduced blood supply secondary to late pregnancy, delivery or neonatal period	Collection
+31066785_16097	196	202	oxygen	Chemical
+31066785_16097	227	304	reduced blood supply secondary to late pregnancy, delivery or neonatal period	Biomarker
+31066785_16097	329	351	perinatal brain injury	Disease	not found
+31066785_16097	378	389	acute death	Disease	not found
+31066785_16097	428	431	HIE	Disease
+31066785_16097	445	474	plasma NPY level is increased	Biomarker
+31066785_16097	452	455	NPY	Gene-protein
+31066785_16097	505	508	HIE	Disease
+31066785_16097	523	550	higher the plasma NPY level	Biomarker
+31066785_16097	541	544	NPY	Gene-protein
+31066785_16097	559	562	NPY	Gene-protein
+31066785_16097	643	653	plasma NPY	Biomarker
+31066785_16097	650	653	NPY	Gene-protein
+31066785_16097	703	706	HIE	Disease
+31066785_16097	711	728	neonatal asphyxia	Disease	DOID:11088
+31066785_16097	734	771	plasma NPY is significantly increased	Biomarker
+31066785_16097	741	744	NPY	Gene-protein
+31066785_16097	790	830	increase of cerebral vascular resistance	Biomarker
+31066785_16097	839	870	decrease of cerebral blood flow	Biomarker
+31066785_16097	906	909	HIE	Disease
+31066785_16097	914	917	NPY	Gene-protein
+31066785_16097	914	917	NPY	Drug
+31066785_16097	974	983	adenosine	Chemical
+31066785_16097	985	998	acetylcholine	Chemical
+31066785_16097	1237	1240	NPY	Gene-protein
+31066785_16097	1271	1291	phosphatidylinositol	Chemical
+31066785_16097	1328	1342	diacylglycerol	Chemical
+31066785_16097	1347	1368	inositol triphosphate	Chemical
+31066785_16097	1370	1373	IP3	Chemical
+31066785_16097	1399	1402	IP3	Chemical
+31066785_16097	1399	1402	IP3	Biomarker	D015544
+31066785_16097	1430	1434	Ca²⁺	Chemical
+31066785_16097	1504	1508	Ca²⁺	Chemical
+31066785_16097	1541	1570	hypoxic ischemic brain damage	Disease	D020925
+31066785_16097	1615	1618	NPY	Gene-protein
+31066785_16097	1615	1618	NPY	Biomarker
+31066785_16097	1664	1667	ICP	Disease	DOID:0070227
+31066785_16097	1684	1755	expression of NPY in the experimental group was increased significantly	Biomarker
+31066785_16097	1698	1701	NPY	Gene-protein
+31066785_16097	1806	1809	NPY	Gene-protein
+31066785_16097	1806	1809	NPY	Biomarker
+31066785_16097	1828	1849	fetal distress in ICP	Disease	D005316, DOID:0070227	Conjunction
+

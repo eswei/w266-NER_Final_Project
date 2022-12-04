@@ -1,0 +1,78 @@
+31807002_2784|t|RSS_IDENT_p_31807002_b_1_1_3
+31807002_2784|a| MicroRNAs (miRNAs) are single-stranded non-coding RNAs that bind to the 3ʹ untranslated region (3ʹUTR) of target mRNAs to induce degradation and interfere in the translation process. 4 More and more studies provide evidence to support that miRNAs are aberrantly expressed in human cancers and function as tumor suppressors or drivers. 5 – 11 In gliomas, miRNAs are crucial regulators in the tumorigenesis and tumor progression. 12 The expression of miR-708 is down-regulated in glioma tissues and it suppresses the growth and epithelial-to-mesenchymal transition (EMT) of glioma cells by targeting sphingosine kinase 2 (SPHK2)-mediated AKT/β-catenin pathway. 13 miR-4500 functions as a tumor suppressor by attenuating insulin-like growth factor 2 mRNA-binding protein 1 (IGF2BP1) in glioma cells. 14 Our previous study reveals that miR-33a promotes cell proliferation and induces the apoptosis of glioma cells by directly suppressing sirtuin 6 (SIRT6). 15 Recently, miR-769-5p, a newly emerging cancer-associated miRNA, caught our attention. In oral squamous cell carcinoma (OSCC) tissues, the downregulated expression of miR-769-5p has a hopeful diagnosis potential. 16 The increased expression of let-7d-5p combining with miR-769-5p under-expression indicates poor prognosis of non-small cell lung cancer (NSCLC). 17 miR-769-5p expression is frequently reduced in colorectal cancer (CRC), and suppresses cell proliferation and invasion by inhibiting cyclin-dependent kinase 1 (CDK1) and hes related family bHLH transcription factor with YRPW motif 1 (HEY1). 18 , 19 Moreover, miR-769-5p suppressed the proliferation, migration and invasion of NSCLC cells by inhibiting transforming growth factor beta receptor 1 (TGFBR1). 20 Additionally, long noncoding RNA (lncRNA) LINC00460 functions as a molecular sponge for miR-769-5p to promote epidermal growth factor receptor (EGFR) and accordingly exerts an oncogenic role in NSCLC. 21 Conversely, miR-769-5p expression is remarkably increased in melanoma and facilitates cancer cell proliferation by targeting glycogen synthase kinase-3 beta (GSK3β). 22 miR-769-5p plays a tumor promoting role in hepatocellular carcinoma (HCC) via targeting RING1 and YY1 binding protein (RYBP). 23 However, the role of miR-769-5p in glioma remains unexplored yet.
+31807002_2784	270	276	miRNAs	Rna-noncoding	family:476
+31807002_2784	270	301	miRNAs are aberrantly expressed	Biomarker
+31807002_2784	311	318	cancers	Disease	DOID:162
+31807002_2784	335	340	tumor	Disease	DOID:162
+31807002_2784	375	382	gliomas	Disease	DOID:0060108
+31807002_2784	384	390	miRNAs	Biomarker	D035683
+31807002_2784	384	390	miRNAs	Rna-noncoding
+31807002_2784	439	444	tumor	Disease
+31807002_2784	465	504	expression of miR-708 is down-regulated	Biomarker
+31807002_2784	479	486	miR-708	Rna-noncoding	HGNC:33654
+31807002_2784	508	514	glioma	Disease	D005910
+31807002_2784	602	608	glioma	Disease
+31807002_2784	628	639	sphingosine	Chemical
+31807002_2784	628	648	sphingosine kinase 2	Gene-protein	HGNC:18859
+31807002_2784	650	655	SPHK2	Gene-protein	HGNC:18859
+31807002_2784	666	669	AKT	Genefamily	family:1900
+31807002_2784	670	679	β-catenin	Genefamily	family:1542
+31807002_2784	692	700	miR-4500	Rna-noncoding	HGNC:41853
+31807002_2784	692	700	miR-4500	Biomarker	C000622739
+31807002_2784	716	721	tumor	Disease
+31807002_2784	748	799	insulin-like growth factor 2 mRNA-binding protein 1	Gene-protein	HGNC:28866
+31807002_2784	801	808	IGF2BP1	Gene-protein	HGNC:28866
+31807002_2784	813	819	glioma	Disease
+31807002_2784	862	869	miR-33a	Biomarker	C550416
+31807002_2784	862	869	miR-33a	Rna-noncoding	HGNC:31634
+31807002_2784	927	933	glioma	Disease
+31807002_2784	952	973	suppressing sirtuin 6	Gene-protein	HGNC:14934
+31807002_2784	975	980	SIRT6	Gene-protein	HGNC:14934
+31807002_2784	996	1006	miR-769-5p	Biomarker	C546957
+31807002_2784	996	1006	miR-769-5p	Rna-noncoding	HGNC:33138
+31807002_2784	1025	1031	cancer	Disease	DOID:162
+31807002_2784	1075	1103	oral squamous cell carcinoma	Disease	DOID:0050866
+31807002_2784	1105	1109	OSCC	Disease	DOID:0050866
+31807002_2784	1124	1162	downregulated expression of miR-769-5p	Biomarker
+31807002_2784	1152	1162	miR-769-5p	Rna-noncoding
+31807002_2784	1205	1281	increased expression of let-7d-5p combining with miR-769-5p under-expression	Biomarker	Conjunction
+31807002_2784	1229	1238	let-7d-5p	Rna-noncoding	HGNC:31481
+31807002_2784	1254	1264	miR-769-5p	Rna-noncoding
+31807002_2784	1310	1336	non-small cell lung cancer	Disease	DOID:3908
+31807002_2784	1338	1343	NSCLC	Disease	DOID:3908
+31807002_2784	1349	1359	miR-769-5p	Rna-noncoding
+31807002_2784	1349	1392	miR-769-5p expression is frequently reduced	Biomarker
+31807002_2784	1396	1413	colorectal cancer	Disease	DOID:9256
+31807002_2784	1415	1418	CRC	Disease	DOID:9256
+31807002_2784	1482	1507	cyclin-dependent kinase 1	Gene-protein	HGNC:1722
+31807002_2784	1509	1513	CDK1	Gene-protein	HGNC:1722
+31807002_2784	1519	1581	hes related family bHLH transcription factor with YRPW motif 1	Gene-protein	HGNC:4880
+31807002_2784	1583	1587	HEY1	Gene-protein	HGNC:4880
+31807002_2784	1608	1618	miR-769-5p	Drug	C546957
+31807002_2784	1608	1618	miR-769-5p	Rna-noncoding
+31807002_2784	1675	1680	NSCLC	Disease
+31807002_2784	1701	1743	transforming growth factor beta receptor 1	Gene-protein	HGNC:11772
+31807002_2784	1745	1751	TGFBR1	Gene-protein	HGNC:11772
+31807002_2784	1771	1808	long noncoding RNA (lncRNA) LINC00460	Biomarker
+31807002_2784	1799	1808	LINC00460	Rna-noncoding	HGNC:42809
+31807002_2784	1845	1855	miR-769-5p	Rna-noncoding
+31807002_2784	1867	1899	epidermal growth factor receptor	Gene-protein	HGNC:3236
+31807002_2784	1901	1905	EGFR	Gene-protein	HGNC:3236
+31807002_2784	1951	1956	NSCLC	Disease
+31807002_2784	1973	1983	miR-769-5p	Rna-noncoding
+31807002_2784	1973	2018	miR-769-5p expression is remarkably increased	Biomarker
+31807002_2784	2022	2030	melanoma	Disease	DOID:1909
+31807002_2784	2047	2053	cancer	Disease
+31807002_2784	2086	2117	glycogen synthase kinase-3 beta	Gene-protein	HGNC:4617
+31807002_2784	2119	2124	GSK3β	Gene-protein	HGNC:4617
+31807002_2784	2130	2140	miR-769-5p	Biomarker
+31807002_2784	2130	2140	miR-769-5p	Rna-noncoding
+31807002_2784	2149	2154	tumor	Disease
+31807002_2784	2173	2197	hepatocellular carcinoma	Disease	DOID:684
+31807002_2784	2199	2202	HCC	Disease	DOID:684
+31807002_2784	2218	2247	RING1 and YY1 binding protein	Gene-protein	HGNC:10480
+31807002_2784	2249	2253	RYBP	Gene-protein	HGNC:10480
+31807002_2784	2280	2290	miR-769-5p	Rna-noncoding
+31807002_2784	2280	2290	miR-769-5p	Biomarker
+31807002_2784	2294	2300	glioma	Disease
+

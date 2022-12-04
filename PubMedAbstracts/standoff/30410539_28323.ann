@@ -1,0 +1,70 @@
+T1	Chemical 283 286	Tis
+T10	Disease 811 814	CRC
+T12	Chemical 919 923	PGE2
+T13	Disease 1046 1053	cancers
+#4	AnnotatorNotes T13	DOID:162
+T15	Disease 1160 1168	melanoma
+#5	AnnotatorNotes T15	DOID:1909
+T16	Disease 1205 1242	head and neck squamous cell carcinoma
+#6	AnnotatorNotes T16	DOID:5520
+T19	Disease 1257 1279	advanced breast cancer
+#9	AnnotatorNotes T19	DOID:1612
+T20	Disease 1356 1359	CRC
+T3	Disease 398 413	colon carcinoma
+#12	AnnotatorNotes T3	DOID:1520
+T4	Disease 533 545	colon cancer
+#13	AnnotatorNotes T4	DOID:219
+T6	Drug 636 639	5FU
+T7	Disease 662 688	advanced colorectal cancer
+#15	AnnotatorNotes T7	DOID:9256
+T9	Disease 754 760	tumour
+#16	AnnotatorNotes T9	DOID:162
+T2	Gene-Protein 66 71	IRS-4
+#1	AnnotatorNotes T2	HGNC:6128
+T5	Gene-Protein 73 88	pIGF-1 receptor
+#2	AnnotatorNotes T5	HGNC:5465
+T8	Gene-Protein 90 102	EGF receptor
+#3	AnnotatorNotes T8	HGNC:3236
+T11	Gene-Protein 104 116	procaspase 3
+#10	AnnotatorNotes T11	not found
+T14	GeneFamily 121 125	PARP
+#14	AnnotatorNotes T14	family:684
+T22	Biomarker 54 125	increase in IRS-4, pIGF-1 receptor, EGF receptor, procaspase 3 and PARP
+T23	Gene-Protein 214 226	procaspase 3
+T24	Gene-Protein 231 240	caspase 3
+#17	AnnotatorNotes T24	HGNC:1504
+T25	Biomarker 214 259	procaspase 3 and caspase 3 levels were higher
+T26	Biomarker 344 388	procaspase 3 and caspase 3 are overexpressed
+T27	Gene-Protein 344 356	procaspase 3
+T28	Gene-Protein 361 370	caspase 3
+R1	Association Arg1:T26 Arg2:T3	
+T29	Gene-Protein 470 479	caspase-3
+T30	Biomarker 470 479	caspase-3
+#18	AnnotatorNotes T30	D053148
+R2	Association Arg1:T30 Arg2:T4	
+T31	Biomarker 581 604	low levels of caspase 3
+T32	Gene-Protein 595 604	caspase 3
+#19	AnnotatorNotes T6	CHEMBL185
+R3	Mediated-Response Arg1:T6 Arg2:T7	
+R4	Mediator Arg1:T6 Arg2:T31	
+T33	Gene-Protein 737 746	caspase 3
+T34	Biomarker 709 746	higher amounts of activated caspase 3
+R5	Association Arg1:T34 Arg2:T10	
+#20	AnnotatorNotes T10	DOID:9256
+T35	Biomarker 886 923	increase in the autocrine factor PGE2
+T36	Gene-Protein 929 938	caspase 3
+R6	Association Arg1:T35 Arg2:T13	
+T37	Gene-Protein 1081 1090	caspase 3
+T38	Biomarker 1081 1105	caspase 3 overexpression
+T17	Collection 1160 1279	melanoma [ 41 ], and to cytotoxic therapy in head and neck squamous cell carcinoma [ 32 ] and in advanced breast cancer
+R7	Association Arg1:T38 Arg2:T17	
+T18	Disease 1437 1445	tumoural
+#7	AnnotatorNotes T18	DOID:162
+T21	GeneFamily 1511 1515	PARP
+T39	Gene-Protein 1517 1520	p53
+#8	AnnotatorNotes T39	HGNC:11998
+T40	Biomarker 1478 1530	increase in the fragmentation of PARP, p53 and GSK-3
+R8	Association Arg1:T40 Arg2:T18	
+T41	Gene-Protein 1564 1573	caspase 3
+T42	GeneFamily 1525 1530	GSK-3
+#11	AnnotatorNotes T42	not found

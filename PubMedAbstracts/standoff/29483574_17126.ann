@@ -1,0 +1,50 @@
+T0	Chemical 30 41	Aldosterone
+T1	Chemical 80 84	Ca²⁺
+T10	Disease 574 589	hepatic failure
+#3	AnnotatorNotes T10	D017093
+T11	Chemical 629 640	aldosterone
+T13	Chemical 883 894	aldosterone
+T14	Gene-Protein 905 908	NCC
+T15	Chemical 918 927	Vitamin D
+T17	Chemical 972 981	vitamin D
+T18	Gene-Protein 1040 1043	NCC
+T19	Gene-Protein 1095 1098	NCC
+T2	Chemical 136 140	Ca²⁺
+T3	Disease 215 241	Renal tubular NaCl wasting
+#14	AnnotatorNotes T3	not found
+T4	Chemical 229 233	NaCl
+T5	Chemical 272 283	aldosterone
+T6	Disease 461 474	heart failure
+#17	AnnotatorNotes T6	D006333
+T8	Disease 509 531	chronic kidney disease
+#19	AnnotatorNotes T8	DOID:784
+T9	Disease 546 566	diabetic nephropathy
+#20	AnnotatorNotes T9	D003928
+T20	Gene-Protein 190 195	FGF23
+#1	AnnotatorNotes T20	HGNC:3680
+T21	Gene-Protein 334 339	FGF23
+T22	Gene-Protein 425 430	FGF23
+T23	Gene-Protein 839 844	FGF23
+T24	Gene-Protein 765 770	FGF23
+T25	Gene-Protein 1021 1026	FGF23
+T26	Gene-Protein 1225 1230	FGF23
+T27	Gene-Protein 1170 1175	FGF23
+T28	GeneFamily 380 383	WNK
+T29	Gene-Protein 394 398	SPAK
+T30	Gene-Protein 410 414	OSR1
+T31	Collection 461 589	heart failure ⁹ , ¹⁰ , acute renal failure ¹¹ , chronic kidney disease ⁴ , ¹⁰ , ¹² , diabetic nephropathy ¹³ and hepatic failure
+T32	Biomarker 425 457	FGF23 serum levels are increased
+R1	Association Arg1:T32 Arg2:T31	
+T33	Biomarker 623 661	serum aldosterone levels are increased
+R2	Association Arg1:T33 Arg2:T31	
+T34	Biomarker 749 777	increased serum FGF23 levels
+T35	Biomarker 678 706	secondary hyperaldosteronism
+T12	Biomarker 829 851	increased FGF23 levels
+T36	Biomarker 873 901	increased aldosterone levels
+T16	Biomarker 918 934	Vitamin D levels
+T37	Gene-Protein 1075 1078	PTH
+T38	Gene-Protein 1142 1145	PTH
+T39	Gene-Protein 1187 1190	PTH
+T40	Gene-Protein 1234 1237	NCC
+T41	Disease 484 503	acute renal failure
+#2	AnnotatorNotes T41	DOID:3021

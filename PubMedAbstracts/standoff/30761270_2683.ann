@@ -1,0 +1,91 @@
+T10	Disease 724 729	tumor
+T11	Disease 758 769	astrocytoma
+#4	AnnotatorNotes T11	D001254
+T12	Gene-Protein 771 775	EYA2
+T13	Disease 811 816	tumor
+#6	AnnotatorNotes T13	DOID:14566|DOID:162
+T14	Disease 990 1009	lung adenocarcinoma
+#7	AnnotatorNotes T14	DOID:3910
+T16	Disease 1133 1138	tumor
+T17	Disease 1149 1174	pancreatic adenocarcinoma
+#9	AnnotatorNotes T17	DOID:4074
+T21	Disease 1284 1290	cancer
+T22	Disease 1308 1321	breast cancer
+#14	AnnotatorNotes T22	DOID:1612
+T23	Disease 1330 1349	lung adenocarcinoma
+T24	Disease 1362 1373	astrocytoma
+T27	Disease 1719 1730	lung cancer
+#18	AnnotatorNotes T27	DOID:1324
+T29	Disease 1788 1805	colorectal cancer
+#19	AnnotatorNotes T29	DOID:9256
+T3	Chemical 405 414	threonine
+T30	Disease 1817 1834	pancreatic cancer
+#21	AnnotatorNotes T30	DOID:1793
+T5	Disease 539 546	cancers
+#22	AnnotatorNotes T5	DOID:162
+T7	Disease 615 621	tumors
+#23	AnnotatorNotes T7	DOID:162
+T9	Disease 700 705	tumor
+#24	AnnotatorNotes T9	DOID:162
+T4	Gene-Protein 213 217	EYA1
+#1	AnnotatorNotes T4	HGNC:3519
+T6	GeneFamily 130 141	eyes absent
+#2	AnnotatorNotes T6	family:1044
+T8	GeneFamily 143 146	EYA
+#5	AnnotatorNotes T8	family:1044
+T15	Gene-Protein 219 223	EYA2
+#11	AnnotatorNotes T15	HGNC:3520
+T18	Gene-Protein 225 229	EYA3
+#12	AnnotatorNotes T18	HGNC:3521
+T26	Gene-Protein 235 239	EYA4
+#20	AnnotatorNotes T26	HGNC:3522
+T28	Gene-Protein 101 105	DACH
+#25	AnnotatorNotes T28	HGNC:2663
+T31	GeneFamily 108 119	sine oculis
+#26	AnnotatorNotes T31	family:525
+T32	Gene-Protein 90 99	dachshund
+#27	AnnotatorNotes T32	HGNC:2663
+T2	GeneFamily 183 186	EYA
+T33	Gene-Protein 484 488	EYA2
+T34	Gene-Protein 574 578	EYA2
+T35	Gene-Protein 683 687	EYA2
+T36	Gene-Protein 848 857	cyclin D1
+#28	AnnotatorNotes T36	HGNC:1582
+T37	GeneFamily 862 870	cyclin E
+#29	AnnotatorNotes T37	not found
+T38	Gene-Protein 892 896	EYA2
+T39	Gene-Protein 1745 1749	EYA2
+T40	Gene-Protein 1644 1648	EYA2
+T41	Gene-Protein 1081 1085	EYA2
+T42	Gene-Protein 1217 1221	EYA2
+T44	Gene-Protein 1594 1598	EYA2
+T43	Gene-Protein 1428 1432	EYA2
+T45	GeneFamily 121 124	SIX
+#8	AnnotatorNotes T45	family:525
+T46	Biomarker 467 488	dysregulation of EYA2
+R1	Association Arg1:T46 Arg2:T5	
+T47	Biomarker 1639 1654	High EYA2 level
+R3	Prognostic-Poor Arg1:T47 Arg2:T27	
+T48	Biomarker 1745 1749	EYA2
+T49	Biomarker 574 602	EYA2 expression was enhanced
+R4	Association Arg1:T49 Arg2:T7	
+T50	Collection 1788 1834	colorectal cancer ( 15 ) and pancreatic cancer
+R5	Association Arg1:T48 Arg2:T50	
+T51	Biomarker 683 687	EYA2
+T52	GeneFamily 1480 1483	ERK
+#3	AnnotatorNotes T52	not found
+T53	Biomarker 773 774	A
+T54	Drug 879 905	Knockdown of EYA2 by siRNA
+#10	AnnotatorNotes T54	not found
+R6	Response Arg1:T54 Arg2:T14	
+R7	Association Arg1:T53 Arg2:T11	
+R8	Association Arg1:T51 Arg2:T9	
+T55	Biomarker 1081 1100	EYA2 overexpression
+T19	Collection 1284 1373	cancer types, including breast cancer ( 18 ), lung adenocarcinoma ( 22 ), and astrocytoma
+T20	Biomarker 1217 1221	EYA2
+R9	Association Arg1:T20 Arg2:T19	
+#13	AnnotatorNotes T51	C106938
+T1	Collection 1133 1174	tumor growth of pancreatic adenocarcinoma
+R10	Association Arg1:T55 Arg2:T1	
+T25	ProteinDomain 330 347	N-terminal domain
+T56	ProteinDomain 251 283	C-terminal 271 amino-acid region

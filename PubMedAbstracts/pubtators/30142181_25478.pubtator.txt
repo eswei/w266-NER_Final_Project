@@ -1,0 +1,43 @@
+30142181_25478|t|RSS_IDENT_p_30142181_b_1_4_5
+30142181_25478|a| Folate deficiency resulting from MTHFR polymorphism could impair the DNA repair function for chromosome damage caused by environmental factor such as alcohol, smoking, HPV virus, while folate intake could also reduce the risk of oral and pharyngeal cancers[ 38 ]. Meanwhile, previous study have demonstrated that high folic acid consumption could reduce MTHFR protein and activity, creating a pseudo-MTHFR deficiency[ 39 ]. Combined with the important role of MTHFR in the folate metabolism process, the hypothesis of gene-environmental factor interaction in carcinogenesis has been purposed. For example, MTHFR 677 TT genotype was found to have high risk association with heavy drinking population (>396g ethanol/week) rather than light drinking population(<198g ethanol/week)[ 24 ]. The risk for multiple methylation was also significantly increased in heavy-drinking patients with TT genotype compared with CC and CT genotype(20940365). Similarly, concomitant use of alcohol, cigarette and possessing T allele of C677T were significantly higher in OSCC patients[ 21 ]. Besides, the investigators have found homozygotes (TT) of C677T with low levels of folate were significantly associated with decreased methylation of MGMT in Chinese glioma patients[ 40 ]. Low vitamin B2 and low methionine intake were significantly associated with an increased risk of colorectal tumor in individuals with homozygotes (TT) of C677T [ 41 ]. However, some studies demonstrated no overall association in breast cancer patients[ 42 ]. Therefore, these findings, as well as significant interactions between MTHFR polymorphisms and environmental triggers, or nutrients warrant further investigation. 
+30142181_25478	30	36	Folate	Chemical
+30142181_25478	30	47	Folate deficiency	Disease	D005494
+30142181_25478	63	68	MTHFR	Gene-protein	HGNC:7436
+30142181_25478	63	81	MTHFR polymorphism	Biomarker
+30142181_25478	180	187	alcohol	Chemical
+30142181_25478	180	187	alcohol	Biomarker	D000438
+30142181_25478	189	196	smoking	Biomarker	D012907
+30142181_25478	198	207	HPV virus	Microorganism
+30142181_25478	215	228	folate intake	Drug	not found
+30142181_25478	259	286	oral and pharyngeal cancers	Disease	DOID:8618, DOID:0060119
+30142181_25478	343	370	high folic acid consumption	Drug
+30142181_25478	384	389	MTHFR	Gene-protein
+30142181_25478	423	446	pseudo-MTHFR deficiency	Disease	not found
+30142181_25478	430	435	MTHFR	Gene-protein
+30142181_25478	490	495	MTHFR	Gene-protein
+30142181_25478	503	509	folate	Chemical
+30142181_25478	636	641	MTHFR	Gene-protein
+30142181_25478	636	657	MTHFR 677 TT genotype	Biomarker
+30142181_25478	736	743	ethanol	Chemical
+30142181_25478	794	801	ethanol	Chemical
+30142181_25478	914	925	TT genotype	Biomarker
+30142181_25478	981	1018	concomitant use of alcohol, cigarette	Biomarker
+30142181_25478	981	1051	concomitant use of alcohol, cigarette and possessing T allele of C677T	Collection
+30142181_25478	1000	1007	alcohol	Chemical
+30142181_25478	1034	1051	T allele of C677T	Biomarker
+30142181_25478	1081	1085	OSCC	Disease	DOID:0050866
+30142181_25478	1140	1191	homozygotes (TT) of C677T with low levels of folate	Biomarker
+30142181_25478	1160	1165	C677T	Variant
+30142181_25478	1185	1191	folate	Chemical
+30142181_25478	1227	1256	decreased methylation of MGMT	Biomarker
+30142181_25478	1252	1256	MGMT	Gene-protein	HGNC:7059
+30142181_25478	1268	1274	glioma	Disease	D005910
+30142181_25478	1291	1305	Low vitamin B2	Drug	not found
+30142181_25478	1291	1324	Low vitamin B2 and low methionine	Collection
+30142181_25478	1310	1324	low methionine	Drug	not found
+30142181_25478	1388	1450	colorectal tumor in individuals with homozygotes (TT) of C677T	Disease	not found
+30142181_25478	1520	1533	breast cancer	Disease	DOID:1612
+30142181_25478	1621	1626	MTHFR	Gene-protein
+30142181_25478	1621	1640	MTHFR polymorphisms	Biomarker
+30142181_25478	1645	1667	environmental triggers	Biomarker
+

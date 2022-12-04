@@ -1,0 +1,39 @@
+29675435_27196|t|RSS_IDENT_p_29675435_b_1_4_6
+29675435_27196|a| Numerous studies have suggested a direct relationship between IL-13 and lipid metabolism, especially in the scenario of metabolic dysfunction. For instance, a recent work demonstrated that PBMC show increased IL-13 expression in type 2 diabetic nephropathy patients that also exhibit hypertriglyceridemia [ 35 ]. Similarly, overweight and obese pregnant women with gestational hypertension show increased IL-13 concentration, which in turn is associated with elevated triglyceride levels [ 36 ]. Moreover, metabolic syndrome subjects exhibit increased serum IL-13 that is also correlated with rising concentration of blood sugar and triglycerides [ 37 ]. Our data expand on this body of work by revealing that circulating levels of IL-13 are strongly correlated with triglyceride values in insulin-resistant individuals. Interestingly, Tsao and coworkers previously demonstrated that IL-4, another Th2 cytokine with a similar structure and function to IL-13, is able to induce lipolysis in 3T3L1 adipocytes, thus increasing glycerol release and secretion into the culture supernatant [ 38 ]. This work concurs with our findings and reveals a novel function of Th2 cytokines in the regulation of triglyceride metabolism; however, there is no evidence yet exploring whether IL-13 may have a similar effect to IL-4. Further research is needed to evaluate the possible role of IL-13 in lipid metabolism and identify novel molecular targets with the aim of reducing triglyceride levels and cardiovascular risk in patients with insulin resistance. 
+29675435_27196	92	97	IL-13	Gene-protein	HGNC:5973
+29675435_27196	150	171	metabolic dysfunction	Disease	D008659
+29675435_27196	219	255	PBMC show increased IL-13 expression	Biomarker
+29675435_27196	239	244	IL-13	Gene-protein
+29675435_27196	259	286	type 2 diabetic nephropathy	Disease	not found
+29675435_27196	314	334	hypertriglyceridemia	Biomarker	D015228
+29675435_27196	354	419	overweight and obese pregnant women with gestational hypertension	Disease	not found	Conjunction
+29675435_27196	425	454	increased IL-13 concentration	Biomarker
+29675435_27196	435	440	IL-13	Gene-protein
+29675435_27196	489	517	elevated triglyceride levels	Biomarker
+29675435_27196	498	510	triglyceride	Chemical
+29675435_27196	536	554	metabolic syndrome	Disease	D024821
+29675435_27196	572	593	increased serum IL-13	Biomarker
+29675435_27196	588	593	IL-13	Gene-protein
+29675435_27196	623	676	rising concentration of blood sugar and triglycerides	Biomarker
+29675435_27196	653	658	sugar	Chemical
+29675435_27196	663	676	triglycerides	Chemical
+29675435_27196	740	767	circulating levels of IL-13	Biomarker
+29675435_27196	762	767	IL-13	Gene-protein
+29675435_27196	797	809	triglyceride	Chemical
+29675435_27196	797	816	triglyceride values	Biomarker
+29675435_27196	820	827	insulin	Gene-protein	HGNC:6081
+29675435_27196	820	837	insulin-resistant	Disease	D007333
+29675435_27196	914	918	IL-4	Gene-protein	HGNC:6014
+29675435_27196	932	940	cytokine	Genefamily	not found
+29675435_27196	982	987	IL-13	Gene-protein
+29675435_27196	1020	1025	3T3L1	Cellline
+29675435_27196	1054	1062	glycerol	Chemical
+29675435_27196	1194	1203	cytokines	Genefamily
+29675435_27196	1225	1237	triglyceride	Chemical
+29675435_27196	1302	1307	IL-13	Gene-protein
+29675435_27196	1337	1341	IL-4	Gene-protein
+29675435_27196	1403	1408	IL-13	Gene-protein
+29675435_27196	1491	1503	triglyceride	Chemical
+29675435_27196	1552	1559	insulin	Gene-protein
+29675435_27196	1552	1570	insulin resistance	Disease	D007333
+

@@ -1,0 +1,46 @@
+29358655_2242|t|RSS_IDENT_p_29358655_b_1_1_3
+29358655_2242|a| One protein of Kruppel-like zinc-finger proteins family, promyelocytic leukemia zinc-finger protein (PLZF), also known as ZBTB16, was first discovered in acute promyelocytic leukemia as a fusion protein with the retinoic acid receptor α ⁵ , ⁶ . PLZF is involved in diverse cellular processes, particularly in stem cells self-renewal or differentiation, and immune cells development ⁷ . Nevertheless, the role of PLZF appeared to be controversial in tumor progression. Several studies showed PLZF was able to reduce cell growth and survival in numerous cancers including melanoma, malignant mesothelioma, prostate cancer, and non-small cell lung cancer cells via c-myc suppression or poly ADP-ribose polymerase (PARP) and Mcl-1 expression increase ⁸ – ¹³ . Importantly, low expression of cytoplasmic PLZF strongly correlated with high tumor grade, lymph node metastasis and indicated a short overall survival (OS) time in non-small cell lung cancer ¹⁴ . Meanwhile, Hur et al. claimed a tumor-promoting effect of PLZF by repressing the p53 pathway ¹⁵ . In thyroid carcinoma, high cytoplasmic expression of PLZF was found to be involved in capsular invasion and lymph node metastasis ¹⁶ . However, the role of PLZF in GBC has remained to be elucidated.
+29358655_2242	45	78	Kruppel-like zinc-finger proteins	Genefamily	family:624
+29358655_2242	58	62	zinc	Chemical
+29358655_2242	87	129	promyelocytic leukemia zinc-finger protein	Gene-protein	HGNC:12930
+29358655_2242	87	129	promyelocytic leukemia zinc-finger protein	Biomarker	D000075722
+29358655_2242	110	114	zinc	Chemical
+29358655_2242	131	135	PLZF	Gene-protein	HGNC:12930
+29358655_2242	152	158	ZBTB16	Gene-protein	HGNC:12930
+29358655_2242	184	212	acute promyelocytic leukemia	Disease	DOID:0060318
+29358655_2242	242	255	retinoic acid	Chemical
+29358655_2242	242	266	retinoic acid receptor α	Gene-protein	HGNC:9864
+29358655_2242	275	279	PLZF	Gene-protein
+29358655_2242	442	446	PLZF	Gene-protein
+29358655_2242	442	446	PLZF	Biomarker	D000075722
+29358655_2242	479	484	tumor	Disease	DOID:162
+29358655_2242	521	525	PLZF	Gene-protein
+29358655_2242	521	525	PLZF	Drug	D000075722
+29358655_2242	582	589	cancers	Disease	DOID:162
+29358655_2242	582	681	cancers including melanoma, malignant mesothelioma, prostate cancer, and non-small cell lung cancer	Collection
+29358655_2242	600	608	melanoma	Disease	DOID:1909
+29358655_2242	610	632	malignant mesothelioma	Disease	DOID:1790
+29358655_2242	634	649	prostate cancer	Disease	DOID:10283
+29358655_2242	655	681	non-small cell lung cancer	Disease	DOID:3908
+29358655_2242	692	697	c-myc	Gene-protein	HGNC:7553
+29358655_2242	713	728	poly ADP-ribose	Chemical
+29358655_2242	713	739	poly ADP-ribose polymerase	Genefamily	family:684
+29358655_2242	741	745	PARP	Genefamily	family:684
+29358655_2242	751	756	Mcl-1	Gene-protein	 HGNC:6943
+29358655_2242	799	833	low expression of cytoplasmic PLZF	Biomarker
+29358655_2242	829	833	PLZF	Gene-protein
+29358655_2242	859	875	high tumor grade	Biomarker
+29358655_2242	877	898	lymph node metastasis	Biomarker
+29358655_2242	951	977	non-small cell lung cancer	Disease
+29358655_2242	1015	1020	tumor	Disease
+29358655_2242	1041	1045	PLZF	Gene-protein
+29358655_2242	1041	1045	PLZF	Biomarker
+29358655_2242	1064	1067	p53	Gene-protein	HGNC:11998
+29358655_2242	1084	1101	thyroid carcinoma	Disease	DOID:3963
+29358655_2242	1103	1138	high cytoplasmic expression of PLZF	Biomarker
+29358655_2242	1134	1138	PLZF	Gene-protein
+29358655_2242	1167	1184	capsular invasion	Biomarker
+29358655_2242	1189	1210	lymph node metastasis	Biomarker
+29358655_2242	1237	1241	PLZF	Gene-protein
+29358655_2242	1245	1248	GBC	Disease	DOID:3121
+

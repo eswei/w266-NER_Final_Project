@@ -1,0 +1,34 @@
+31817010_6254|t|RSS_IDENT_p_31817010_b_1_1_5
+31817010_6254|a| In addition, an animal-based study showed that the level of kynurenine (a neurotoxic metabolite of tryptophan) during ischemia was increased in the brain [ 15 ]. Interestingly, kynurenine may activate an aryl hydrocarbon (Ah) receptor (ligand-activated transcription factor), and the activation is deleterious to cerebral ischemia. Accordingly, the study showed that the Ah receptor was overexpressed in the mouse brain after an experimental stroke, mainly in the neurons located at the peri-infarct and ischemic core. Similarly, increased expression of the Ah receptor was found in cultured rat cortical neurons after in vitro experimental ischemia [ 26 ]. Besides kynurenine, the level of another neurotoxic metabolite, i.e., quinolinic acid, was increased after transient ischemia in gerbils. This study was aimed to further elucidate the role of the TRYCATs pathway during a stroke in the Polish population. Therefore, single-nucleotide polymorphisms (SNPs) were investigated in the presented study. The studied SNPs were localized in the genes encoding the enzymes involved in the TRYCATs pathway, including tryptophan hydroxylase, kynurenine aminotransferase, and indoleamine 2,3-dioxygenase. Moreover, in this study, the further analysis included gen-gen interaction, haplotype and risk of stroke. 
+31817010_6254	81	100	level of kynurenine	Biomarker
+31817010_6254	90	100	kynurenine	Chemical
+31817010_6254	129	139	tryptophan	Chemical
+31817010_6254	148	156	ischemia	Disease	DOID:326
+31817010_6254	207	217	kynurenine	Chemical
+31817010_6254	234	250	aryl hydrocarbon	Chemical
+31817010_6254	234	264	aryl hydrocarbon (Ah) receptor	Gene-protein	HGNC:348
+31817010_6254	234	339	aryl hydrocarbon (Ah) receptor (ligand-activated transcription factor), and the activation is deleterious	Biomarker
+31817010_6254	252	254	Ah	Chemical
+31817010_6254	343	360	cerebral ischemia	Disease	DOID:2316
+31817010_6254	401	412	Ah receptor	Gene-protein
+31817010_6254	401	430	Ah receptor was overexpressed	Biomarker
+31817010_6254	472	478	stroke	Disease	D020521
+31817010_6254	560	599	increased expression of the Ah receptor	Biomarker
+31817010_6254	588	599	Ah receptor	Gene-protein
+31817010_6254	671	679	ischemia	Disease
+31817010_6254	696	706	kynurenine	Chemical
+31817010_6254	758	773	quinolinic acid	Chemical
+31817010_6254	758	788	quinolinic acid, was increased	Biomarker
+31817010_6254	805	813	ischemia	Disease
+31817010_6254	884	899	TRYCATs pathway	Biomarker
+31817010_6254	909	915	stroke	Disease
+31817010_6254	1046	1050	SNPs	Variant
+31817010_6254	1143	1153	tryptophan	Chemical
+31817010_6254	1143	1165	tryptophan hydroxylase	Genefamily	not found
+31817010_6254	1143	1227	tryptophan hydroxylase, kynurenine aminotransferase, and indoleamine 2,3-dioxygenase	Collection
+31817010_6254	1167	1177	kynurenine	Chemical
+31817010_6254	1167	1194	kynurenine aminotransferase	Genefamily	not found
+31817010_6254	1200	1211	indoleamine	Chemical
+31817010_6254	1200	1227	indoleamine 2,3-dioxygenase	Genefamily	not found
+31817010_6254	1327	1333	stroke	Disease
+

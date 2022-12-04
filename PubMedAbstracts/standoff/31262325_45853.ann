@@ -1,0 +1,70 @@
+T0	Drug 30 36	BEZ235
+T1	Drug 83 91	BIBW2992
+T10	Variant 924 930	T790 M
+T11	Drug 1069 1075	BEZ235
+T3	Drug 205 213	BIBW2992
+T4	Drug 215 223	afatinib
+T5	Chemical 363 366	Cys
+T6	Disease 509 515	cancer
+#7	AnnotatorNotes T6	DOID:162
+T7	Disease 677 724	lung cancers harboring oncogenic EGFR mutations
+#8	AnnotatorNotes T7	not found
+T8	Drug 743 749	BEZ235
+T9	Disease 803 810	cancers
+#10	AnnotatorNotes T9	DOID:162
+T13	Gene-Protein 55 59	EGFR
+#1	AnnotatorNotes T13	HGNC:3236
+T14	Gene-Protein 1098 1102	EGFR
+T15	Gene-Protein 1128 1132	EGFR
+T16	Gene-Protein 1002 1006	EGFR
+#2	AnnotatorNotes T0	CHEMBL1879463
+#3	AnnotatorNotes T1	CHEMBL1173655
+T17	Gene-Protein 647 651	EGFR
+#4	AnnotatorNotes T4	CHEMBL1173655
+T18	Gene-Protein 919 923	EGFR
+T19	Gene-Protein 1177 1181	EGFR
+T20	Gene-Protein 317 321	EGFR
+T21	Gene-Protein 710 714	EGFR
+T22	Gene-Protein 248 252	EGFR
+T23	Gene-Protein 135 139	EGFR
+T24	GeneFamily 413 417	PI3K
+#5	AnnotatorNotes T24	family:831
+T25	GeneFamily 946 950	PI3K
+T26	GeneFamily 418 421	Akt
+#6	AnnotatorNotes T26	family:831
+T27	GeneFamily 843 847	PI3K
+T28	Gene-Protein 422 426	mTOR
+#9	AnnotatorNotes T28	HGNC:3942
+T29	GeneFamily 951 954	AKT
+T30	GeneFamily 848 851	Akt
+T31	Gene-Protein 955 959	mTOR
+T32	Drug-Class 537 551	RTK inhibitors
+T33	Drug-Class 230 256	second-generation EGFR-TKI
+T34	Disease 135 171	EGFR-T790 M mutant-expressing NSCLCs
+#11	AnnotatorNotes T34	not found
+T35	GeneFamily 604 609	BCL-2
+#12	AnnotatorNotes T35	family:1057
+T36	Gene-Protein 624 627	BIM
+#13	AnnotatorNotes T36	HGNC:994
+T37	Gene-Protein 777 780	BIM
+T38	Drug-Class 1002 1010	EGFR-TKI
+T39	Gene-Protein 871 877	FOXO3a
+#14	AnnotatorNotes T39	HGNC:3821
+R1	Synergy-Response Arg1:T1 Arg2:T34	
+R2	Synergy-Response Arg1:T0 Arg2:T34	
+T40	Drug-Class 199 203	TKIs
+T41	Biomarker 413 436	PI3K/Akt/mTOR signaling
+R4	Mediated-Non-Response Arg1:T32 Arg2:T6	
+R5	Mediator Arg1:T32 Arg2:T41	
+T42	Drug-Class 647 655	EGFR-TKI
+R6	Variant-Of Arg1:T18 Arg2:T10	
+T43	Drug-Class 1098 1106	EGFR-TKI
+T44	Disease 1128 1195	EGFR-dependent NSCLCs, even those expressing the EGFR-T790 M mutant
+#16	AnnotatorNotes T44	not found
+R8	Synergy-Response Arg1:T43 Arg2:T44	
+R3	Synergy-Response Arg1:T11 Arg2:T44	
+#15	AnnotatorNotes T10	p.Thr790Met
+R7	Mediated-Response Arg1:T42 Arg2:T7	
+T2	Biomarker 624 627	BIM
+#17	AnnotatorNotes T2	D000072224
+R9	Mediator Arg1:T42 Arg2:T2	

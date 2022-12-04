@@ -1,0 +1,72 @@
+T0	Disease 38 40	PE
+#1	AnnotatorNotes T0	DOID:10591
+T1	Biomarker 84 99	FAO dysfunction
+T10	Biomarker 354 394	fatty infiltration of liver and placenta
+T12	Chemical 425 438	triglycerides
+T14	Disease 550 552	PE
+T15	Disease 557 574	liver dysfunction
+#7	AnnotatorNotes T15	D008107
+T18	Chemical 732 744	triglyceride
+T19	Disease 770 772	PE
+T2	Biomarker 105 118	FAO disorders
+T23	Chemical 853 883	lipid peroxide malondialdehyde
+T24	Disease 932 945	FAO disorders
+T25	Gene-Protein 975 980	LCHAD
+T26	Chemical 1034 1045	fatty acids
+T27	Biomarker 1080 1102	fetal LCHAD deficiency
+T30	Disease 1129 1155	maternal acute fatty liver
+T32	Disease 1159 1173	HELLP syndrome
+#21	AnnotatorNotes T32	DOID:13133
+T34	Gene-Protein 1257 1262	LCHAD
+T35	Disease 1290 1292	PE
+T37	Gene-Protein 1350 1355	LCHAD
+T38	Disease 1385 1405	PE with liver damage
+T4	Disease 157 159	PE
+T40	Disease 1519 1521	PE
+T41	Biomarker 1542 1555	FAO disorders
+T5	Disease 219 249	acute fatty liver of pregnancy
+#31	AnnotatorNotes T5	C537957
+T6	Disease 254 263	hemolysis
+T8	Disease 292 321	low platelet (HELLP) syndrome
+T9	Disease 350 352	PE
+R1	Association Arg1:T1 Arg2:T0	
+R2	Association Arg1:T2 Arg2:T7	
+#2	AnnotatorNotes T6	D006461
+T3	Biomarker 265 287	elevated liver enzymes
+#4	AnnotatorNotes T8	DOID:13133
+T7	Collection 157 263	PE and were closely related to pathological pregnancy such as acute fatty liver of pregnancy and hemolysis
+R3	Association Arg1:T2 Arg2:T8	
+T11	Biomarker 399 446	increased levels of serum triglycerides and FFA
+T16	Collection 354 446	fatty infiltration of liver and placenta and increased levels of serum triglycerides and FFA
+R4	Association Arg1:T16 Arg2:T9	
+T13	Collection 550 574	PE and liver dysfunction
+T17	Biomarker 584 634	various degrees of fatty disposition in the livers
+R5	Association Arg1:T17 Arg2:T13	
+T20	Biomarker 716 752	serum levels of triglyceride and FFA
+R6	Association Arg1:T20 Arg2:T19	
+T28	Biomarker 805 883	positively correlated with the concentration of lipid peroxide malondialdehyde
+#3	AnnotatorNotes T25	HGNC:4801
+#5	AnnotatorNotes T24	not found
+T21	Biomarker 975 980	LCHAD
+R7	Association Arg1:T21 Arg2:T24	
+#6	AnnotatorNotes T30	C537957
+T22	Collection 1129 1173	maternal acute fatty liver or HELLP syndrome
+R8	Association Arg1:T27 Arg2:T22	
+T29	Biomarker 1234 1267	abnormal expression of LCHAD gene
+R9	Association Arg1:T29 Arg2:T35	
+T31	Biomarker 1326 1381	placental expression of LCHAD was significantly reduced
+#8	AnnotatorNotes T38	DOID:10591, not found
+A1	Conjunction T38
+R10	Association Arg1:T31 Arg2:T38	
+R11	Association Arg1:T41 Arg2:T40	
+T33	Disease 1708 1717	L-NAME PE
+T36	Biomarker 1586 1602	lipid deposition
+T39	Biomarker 1607 1670	decreased protein expression of LCHAD in the liver and placenta
+T42	Gene-Protein 1639 1644	LCHAD
+T43	Biomarker 1675 1700	elevated serum FFA levels
+T44	Collection 1586 1700	lipid deposition and decreased protein expression of LCHAD in the liver and placenta and elevated serum FFA levels
+R12	Association Arg1:T44 Arg2:T33	
+T45	Chemical 1690 1693	FFA
+T46	Gene-Protein 1086 1091	LCHAD
+#9	AnnotatorNotes T33	not found
+T47	Chemical 1708 1714	L-NAME

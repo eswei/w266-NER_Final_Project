@@ -1,0 +1,72 @@
+T0	Disease 74 76	EC
+#1	AnnotatorNotes T0	DOID:1380
+T12	Disease 760 767	tumours
+#4	AnnotatorNotes T12	DOID:162
+T13	Disease 831 868	chemotherapy-resistant ovarian cancer
+#5	AnnotatorNotes T13	DOID:2394
+T14	Chemical 950 958	estrogen
+T16	Disease 1000 1006	tumors
+T18	Disease 1040 1053	breast cancer
+#8	AnnotatorNotes T18	DOID:1612
+T19	Disease 1197 1214	pancreatic cancer
+#9	AnnotatorNotes T19	DOID:1793
+T2	Disease 242 244	EC
+T24	Drug 1372 1375	FTS
+T25	Drug 1391 1400	Salirasib
+T26	Disease 1412 1417	tumor
+#17	AnnotatorNotes T26	DOID:162
+T27	Disease 1558 1564	tumors
+T5	Disease 471 486	cervical cancer
+#19	AnnotatorNotes T5	DOID:4362
+T6	Drug 542 564	5-aza-2′-deoxycytidine
+T8	Drug 580 590	Decitabine
+T9	Disease 645 660	cervical cancer
+T1	Gene-Protein 261 265	UTF1
+#2	AnnotatorNotes T1	HGNC:12634
+T3	Biomarker 261 310	UTF1 had the greatest differential RNA expression
+T4	Gene-Protein 379 383	UTF1
+T10	Biomarker 355 383	Increased expression of UTF1
+T15	Biomarker 400 432	hypermethylation of its promoter
+T17	Collection 355 432	Increased expression of UTF1 (resulting from hypermethylation of its promoter
+R1	Association Arg1:T17 Arg2:T5	
+T28	GeneFamily 517 538	DNA methyltransferase
+#6	AnnotatorNotes T28	family:1884
+#10	AnnotatorNotes T6	CHEMBL1201129
+#11	AnnotatorNotes T8	CHEMBL1201129
+T7	Gene-Protein 601 605	UTF1
+T29	Gene-Protein 693 700	SLC14A2
+#12	AnnotatorNotes T29	HGNC:10919
+T11	Biomarker 693 732	SLC14A2, which was significantly higher
+R3	Association Arg1:T11 Arg2:T12	
+T30	Drug-Class 831 843	chemotherapy
+T31	Biomarker 950 991	estrogen-target gene TFF1 was upregulated
+R4	Association Arg1:T31 Arg2:T16	
+T32	Gene-Protein 971 975	TFF1
+#3	AnnotatorNotes T32	HGNC:11755
+T33	Gene-Protein 1008 1012	TFF1
+T34	Biomarker 1008 1012	TFF1
+#7	AnnotatorNotes T34	C051838
+R5	Association Arg1:T34 Arg2:T36	
+R6	Prognostic-Poor Arg1:T34 Arg2:T19	
+T35	Disease 1077 1092	bone metastasis
+#13	AnnotatorNotes T35	DOID:184
+T36	Collection 1040 1092	breast cancer development [ 29 ] and bone metastasis
+T37	Drug 1276 1313	progestin medroxyprogesterone acetate
+#14	AnnotatorNotes T37	CHEMBL717
+#15	AnnotatorNotes T24	CHEMBL23293
+#16	AnnotatorNotes T25	CHEMBL23293
+R7	Synergy-Response Arg1:T37 Arg2:T23	
+T21	Gene-Protein 1512 1516	TFF1
+T22	GeneFamily 1485 1487	ER
+#20	AnnotatorNotes T22	not found
+T23	Collection 1412 1447	tumor growth and enhanced type 2 EC
+T38	Disease 1438 1447	type 2 EC
+#18	AnnotatorNotes T38	not found
+T20	Disease 1569 1579	type 2 ECs
+#21	AnnotatorNotes T20	not found
+T39	Drug 1342 1370	S-farnesylthiosalicylic acid
+#22	AnnotatorNotes T39	CHEMBL23293
+T40	Drug-Class 1328 1341	Ras inhibitor
+R2	Synergy-Response Arg1:T39 Arg2:T23	
+T41	Drug 1315 1318	MPA
+#23	AnnotatorNotes T41	CHEMBL717

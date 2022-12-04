@@ -1,0 +1,41 @@
+29861641_3003|t|RSS_IDENT_p_29861641_b_1_1_3
+29861641_3003|a| Tumor markers play an important role in the early diagnosis and prognosis of gynecological malignancies. Carbohydrate antigen 125 (CA125) has been utilized to help predict the presence of malignancy in patients with a pelvic mass. However, the specificity of CA125 in tissues and organs is low; at the same time, it also appears in different degrees of increase in physiological condition (such as pregnancy) and nonmalignant diseases (such as endometriosis, pelvic inflammation, and uterine fibroids). 5 In addition, carbohydrate antigen 19-9 (CA19-9) and carcinoembryonic antigen (CEA) are traditional screening criteria for gynecological pelvic malignancies without high specificity. In many gynecological pelvic benign diseases such as inflammation and endometriosis, the levels of CA19-9 and CEA in the serum of pelvic benign tumor patients also increased. 6 Human epididymis protein 4 (HE4), a novel tumor marker, is highly expressed in ovarian cancer and endometrial cancer but lowly expressed in adjacent tissues, normal tissues, and benign tumors. As a single tumor marker, HE4 had the highest sensitivity for detecting ovarian cancer. 7 
+29861641_3003	30	43	Tumor markers	Biomarker	D014408
+29861641_3003	107	133	gynecological malignancies	Disease	DOID:120
+29861641_3003	135	147	Carbohydrate	Chemical
+29861641_3003	135	159	Carbohydrate antigen 125	Biomarker	D018394
+29861641_3003	135	159	Carbohydrate antigen 125	Gene-protein	HGNC:15582
+29861641_3003	161	166	CA125	Gene-protein	HGNC:15582
+29861641_3003	218	259	malignancy in patients with a pelvic mass	Disease	D010386
+29861641_3003	289	294	CA125	Biomarker	D018394
+29861641_3003	443	464	nonmalignant diseases	Disease	DOID:0060072
+29861641_3003	443	530	nonmalignant diseases (such as endometriosis, pelvic inflammation, and uterine fibroids	Collection
+29861641_3003	474	487	endometriosis	Disease	DOID:289
+29861641_3003	489	508	pelvic inflammation	Disease	DOID:1003
+29861641_3003	514	530	uterine fibroids	Disease	DOID:13223
+29861641_3003	548	560	carbohydrate	Chemical
+29861641_3003	548	573	carbohydrate antigen 19-9	Biomarker	D018395
+29861641_3003	548	617	carbohydrate antigen 19-9 (CA19-9) and carcinoembryonic antigen (CEA)	Collection
+29861641_3003	575	581	CA19-9	Biomarker	D018395
+29861641_3003	587	611	carcinoembryonic antigen	Biomarker	D002272
+29861641_3003	613	616	CEA	Biomarker	D002272
+29861641_3003	657	690	gynecological pelvic malignancies	Disease	D010386
+29861641_3003	725	761	gynecological pelvic benign diseases	Disease	not found
+29861641_3003	770	782	inflammation	Disease	D007249
+29861641_3003	787	800	endometriosis	Disease
+29861641_3003	816	822	CA19-9	Biomarker
+29861641_3003	816	830	CA19-9 and CEA	Collection
+29861641_3003	827	830	CEA	Biomarker
+29861641_3003	847	866	pelvic benign tumor	Disease	D010386
+29861641_3003	894	920	Human epididymis protein 4	Gene-protein	HGNC:15939
+29861641_3003	894	969	Human epididymis protein 4 (HE4), a novel tumor marker, is highly expressed	Biomarker
+29861641_3003	922	925	HE4	Gene-protein	HGNC:15939
+29861641_3003	973	987	ovarian cancer	Disease	DOID:2394
+29861641_3003	973	1010	ovarian cancer and endometrial cancer	Collection
+29861641_3003	992	1010	endometrial cancer	Disease	DOID:1380
+29861641_3003	1072	1085	benign tumors	Disease	DOID:0060072
+29861641_3003	1099	1104	tumor	Disease
+29861641_3003	1113	1116	HE4	Biomarker	C569698
+29861641_3003	1113	1116	HE4	Gene-protein
+29861641_3003	1159	1173	ovarian cancer	Disease
+

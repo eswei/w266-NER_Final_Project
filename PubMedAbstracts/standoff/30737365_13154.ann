@@ -1,0 +1,74 @@
+T13	Disease 791 796	tumor
+#2	AnnotatorNotes T13	DOID:162
+T16	Disease 970 983	endometriosis
+T19	ProteinDomain 1140 1150	CYFRA 21-1
+T20	Disease 1154 1167	endometriosis
+T22	ProteinDomain 1210 1220	CYFRA 21-1
+T23	Disease 1259 1272	endometriosis
+T26	Disease 1369 1382	endometriosis
+T29	Disease 1494 1507	endometriosis
+T3	Disease 275 302	lung and esophageal cancers
+#17	AnnotatorNotes T3	DOID:1324, DOID:5041
+T32	Disease 1574 1587	endometriosis
+T33	Gene-Protein 1614 1619	CA125
+T36	ProteinDomain 1660 1670	CYFRA 21-1
+T37	Gene-Protein 1709 1714	CA125
+T4	Disease 350 363	endometriosis
+#26	AnnotatorNotes T4	DOID:289
+T40	ProteinDomain 1754 1764	CYFRA 21-1
+T41	Gene-Protein 1769 1774	CA125
+T42	Disease 1790 1803	endometriosis
+T43	Gene-Protein 1880 1885	CA125
+T5	Disease 477 490	endometriosis
+T6	Disease 506 527	endometriotic lesions
+#32	AnnotatorNotes T6	DOID:289
+T8	Disease 631 660	ectopic endometriotic lesions
+T9	Disease 677 690	endometriosis
+T1	Gene-Protein 30 44	Cytokeratin 19
+#1	AnnotatorNotes T1	HGNC:6436
+T11	Gene-Protein 46 51	CK-19
+#3	AnnotatorNotes T11	HGNC:6436
+T12	GeneFamily 72 90	type I cytokeratin
+#5	AnnotatorNotes T12	family:608
+T14	Gene-Protein 192 197	CK-19
+T2	Biomarker 192 197	CK-19
+#6	AnnotatorNotes T2	D053539
+R1	Association Arg1:T2 Arg2:T31	
+T24	Gene-Protein 341 346	CK-19
+T27	Gene-Protein 390 395	CK-19
+T34	Gene-Protein 536 541	CK-19
+T7	Biomarker 536 541	CK-19
+R2	Association Arg1:T7 Arg2:T9	
+T38	ProteinDomain 703 713	CYFRA 21-1
+T44	Biomarker 703 713	CYFRA 21-1
+#7	AnnotatorNotes T44	C102012
+T45	Gene-Protein 719 724	CK-19
+R3	Association Arg1:T44 Arg2:T13	
+T46	Biomarker 903 942	urine CYFRA 21-1 was highly upregulated
+T47	ProteinDomain 909 919	CYFRA 21-1
+R4	Association Arg1:T46 Arg2:T16	
+T48	Biomarker 1049 1081	urine CYFRA 21-1 was upregulated
+T49	ProteinDomain 1055 1065	CYFRA 21-1
+T18	Biomarker 1124 1150	serum and urine CYFRA 21-1
+T21	Biomarker 1195 1227	serum or urine CYFRA 21-1 levels
+T50	ProteinDomain 1313 1323	CYFRA 21-1
+T10	Biomarker 1307 1329	serum CYFRA 21-1 level
+T15	ProteinDomain 1420 1430	CYFRA 21-1
+T17	Biomarker 1414 1436	lower CYFRA 21-1 level
+R5	Association Arg1:T17 Arg2:T29	
+#4	AnnotatorNotes T33	HGNC:6746
+T25	ProteinDomain 1559 1569	CYFRA 21-1
+T28	Biomarker 1748 1774	serum CYFRA 21-1 and CA125
+A1	Conjunction T28
+R6	Diagnostic-of Arg1:T28 Arg2:T42	
+T30	Disease 254 266	malignancies
+#8	AnnotatorNotes T30	DOID:162
+T31	Collection 254 302	malignancies such as lung and esophageal cancers
+T35	Biomarker 1559 1569	CYFRA 21-1
+R7	Diagnostic-of Arg1:T35 Arg2:T32	
+T39	Biomarker 1614 1619	CA125
+R8	Diagnostic-of Arg1:T39 Arg2:T32	
+T51	Biomarker 390 395	CK-19
+#9	AnnotatorNotes T8	not found
+T52	Biomarker 1709 1714	CA125
+T53	Biomarker 1880 1885	CA125

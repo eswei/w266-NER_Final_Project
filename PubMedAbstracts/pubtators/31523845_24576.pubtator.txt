@@ -1,0 +1,41 @@
+31523845_24576|t|RSS_IDENT_p_31523845_b_1_5_4
+31523845_24576|a| The condensin I complex plays an important role in chromosome condensation and segregation.12, 13 The aberrant expression of the subunits of the complex causes incomplete chromosome condensation.14 NCAPH is a part of the condensin complex. A recent study showed that NCAPH is upregulated in colon cancer and associated with poor prognosis. Previous studies have reveals that NCAPH transcript is present in proliferating cells and preceded by phosphorylation of histone H3 at Ser‐10.15, 16 Various studies suggested that phosphorylation of histone H3 serine contributed to the HCC progression.17 Thus, we hypothesis that NCAPH could promotes HCC progression. First, we detected the expression of NCAPH in HCC tissue and ANLTs, and found NCAPH was increased in HCC tissues compared with ANLTs. Then we analyzed the relationship between NCAPH expression and prognosis. The results demonstrated that the aberrant expression of NCAPH is associated with poor survival in patients with HCC. However, the role of NCAPH in HCC cells remains unexplored. In this study, we found that the proliferation ability of HCC cells was significantly reduced in NCAPH knockdown cells compared with that in the control group cells by CCK‐8 and CFA assay. To further verify our results, we established NCAPH‐overexpressing cell lines. The results showed that cells with higher levels of NCAPH showed increased proliferation rates in the CCK‐8 and CFA assay. Furthermore, we found that the inhibition of NCAPH suppressed HCC proliferation in vivo and that the expression of the proliferation marker gene Ki‐67 was significantly decreased in NCAPH knockdown tumors. 
+31523845_24576	34	53	condensin I complex	Genefamily	family:1452
+31523845_24576	228	233	NCAPH	Gene-protein	HGNC:1112
+31523845_24576	251	268	condensin complex	Genefamily	family:1454
+31523845_24576	297	302	NCAPH	Gene-protein
+31523845_24576	297	317	NCAPH is upregulated	Biomarker
+31523845_24576	321	333	colon cancer	Disease	DOID:219
+31523845_24576	405	410	NCAPH	Gene-protein
+31523845_24576	491	501	histone H3	Genefamily	family:1938
+31523845_24576	505	508	Ser	Chemical
+31523845_24576	550	586	phosphorylation of histone H3 serine	Biomarker
+31523845_24576	569	579	histone H3	Genefamily
+31523845_24576	580	586	serine	Chemical
+31523845_24576	606	609	HCC	Disease	DOID:684
+31523845_24576	650	655	NCAPH	Gene-protein
+31523845_24576	671	674	HCC	Disease
+31523845_24576	725	730	NCAPH	Gene-protein
+31523845_24576	734	737	HCC	Disease
+31523845_24576	766	771	NCAPH	Gene-protein
+31523845_24576	766	785	NCAPH was increased	Biomarker
+31523845_24576	789	792	HCC	Disease
+31523845_24576	864	869	NCAPH	Gene-protein
+31523845_24576	930	958	aberrant expression of NCAPH	Biomarker
+31523845_24576	953	958	NCAPH	Gene-protein
+31523845_24576	1009	1012	HCC	Disease
+31523845_24576	1035	1040	NCAPH	Gene-protein
+31523845_24576	1044	1047	HCC	Disease
+31523845_24576	1132	1135	HCC	Disease
+31523845_24576	1171	1176	NCAPH	Gene-protein
+31523845_24576	1309	1314	NCAPH	Gene-protein
+31523845_24576	1377	1399	higher levels of NCAPH	Biomarker
+31523845_24576	1394	1399	NCAPH	Gene-protein
+31523845_24576	1496	1515	inhibition of NCAPH	Drug	not found
+31523845_24576	1510	1515	NCAPH	Gene-protein
+31523845_24576	1527	1530	HCC	Disease
+31523845_24576	1610	1615	Ki‐67	Gene-protein	HGNC:7107
+31523845_24576	1610	1643	Ki‐67 was significantly decreased	Biomarker
+31523845_24576	1647	1652	NCAPH	Gene-protein
+31523845_24576	1647	1669	NCAPH knockdown tumors	Disease	not found
+

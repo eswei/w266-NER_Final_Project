@@ -1,0 +1,31 @@
+31261569_15825|t|RSS_IDENT_p_31261569_b_1_4_5
+31261569_15825|a| In gastrointestinal tumors, mesothelin expression is a poor prognostic factor.[ ³⁰ ] Co-expression of mesothelin and CA125 was associated with poor patient prognosis in pancreatic cancer.[ ⁷ ] Luminal membrane expression of mesothelin was one of the poor prognostic factors in gastric cancer.[ ⁸ ] Intracellular mesothelin expression correlated with poor patient prognosis in extrahepatic bile duct cancer.[ ³¹ ] In several studies, the expression pattern of mesothelin is divided into luminal and non-luminal patterns. In a 2014 study, luminal staining of mesothelin was correlated with poor prognostic factors in colorectal adenocarcinoma.[ ¹⁹ ] In another recent study, a luminal pattern of mesothelin expression was not associated with CSS and poor prognostic factors; however, a non-luminal pattern of mesothelin expression was associated with CSS and poor prognostic factors, such as tumor budding, high histologic grading, and lymph node metastasis.[ ²⁰ ] In the present study, a completely luminal pattern of staining was observed only in cases with weak intensity, while both luminal and non-luminal patterns were observed simultaneously in cases with moderate to strong positive staining. A score of 2 (moderate to strong expression in ≥30% of tumor cells) was considered as high expression. As a result, cases with only a luminal pattern were considered to have low expression, and non-luminal pattern was associated with poor prognostic factors. These findings are consistent with a previous study; although not statistically significant, our study also showed shorter CSS in patients with mesothelin overexpression.[ ²⁰ ] 
+31261569_15825	33	56	gastrointestinal tumors	Disease	DOID:3119
+31261569_15825	58	68	mesothelin	Gene-protein	HGNC:7371
+31261569_15825	58	79	mesothelin expression	Biomarker
+31261569_15825	115	152	Co-expression of mesothelin and CA125	Biomarker
+31261569_15825	132	142	mesothelin	Gene-protein
+31261569_15825	147	152	CA125	Gene-protein	HGNC:15582
+31261569_15825	199	216	pancreatic cancer	Disease	DOID:1793
+31261569_15825	223	264	Luminal membrane expression of mesothelin	Biomarker
+31261569_15825	254	264	mesothelin	Gene-protein
+31261569_15825	307	321	gastric cancer	Disease	DOID:10534
+31261569_15825	328	363	Intracellular mesothelin expression	Biomarker
+31261569_15825	342	352	mesothelin	Gene-protein
+31261569_15825	406	435	extrahepatic bile duct cancer	Disease	DOID:4682
+31261569_15825	489	499	mesothelin	Gene-protein
+31261569_15825	567	597	luminal staining of mesothelin	Biomarker
+31261569_15825	587	597	mesothelin	Gene-protein
+31261569_15825	645	670	colorectal adenocarcinoma	Disease	DOID:0050861
+31261569_15825	705	745	luminal pattern of mesothelin expression	Biomarker
+31261569_15825	724	734	mesothelin	Gene-protein
+31261569_15825	814	858	non-luminal pattern of mesothelin expression	Biomarker
+31261569_15825	837	847	mesothelin	Gene-protein
+31261569_15825	920	933	tumor budding	Biomarker
+31261569_15825	935	958	high histologic grading	Biomarker
+31261569_15825	964	985	lymph node metastasis	Biomarker
+31261569_15825	1284	1289	tumor	Disease	DOID:162
+31261569_15825	1363	1378	luminal pattern	Biomarker
+31261569_15825	1423	1442	non-luminal pattern	Biomarker
+31261569_15825	1632	1642	mesothelin	Gene-protein
+

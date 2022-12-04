@@ -1,0 +1,61 @@
+T0	Drug-Class 144 147	NAC
+T1	Disease 151 164	breast cancer
+#2	AnnotatorNotes T1	DOID:1612
+T11	Disease 582 586	TNBC
+T13	Disease 701 705	TNBC
+T17	Disease 846 850	TNBC
+T22	Disease 1103 1107	TNBC
+T27	Disease 1342 1346	TNBC
+T28	Drug-Class 1353 1356	NAC
+T3	Disease 279 297	malignant melanoma
+#10	AnnotatorNotes T3	DOID:1909
+T4	Disease 299 302	RCC
+#11	AnnotatorNotes T4	DOID:4450
+T5	Disease 308 321	breast cancer
+T8	Disease 456 473	cancer malignancy
+#13	AnnotatorNotes T8	DOID:162
+T9	Disease 518 522	TNBC
+#1	AnnotatorNotes T9	DOID:0060081
+T2	Gene-Protein 222 226	PD-1
+#3	AnnotatorNotes T2	HGNC:8760
+T6	Gene-Protein 369 374	PD-L1
+T7	Gene-Protein 386 390	PD-1
+T10	Gene-Protein 421 426	PD-L1
+T12	Gene-Protein 524 528	PD-1
+T14	Gene-Protein 747 752	PD-L1
+T15	Gene-Protein 533 538	PD-L1
+T16	Gene-Protein 640 644	PD-1
+T18	Gene-Protein 1464 1469	PD-L1
+T19	Gene-Protein 1455 1459	PD-1
+T20	Gene-Protein 1176 1181	PD-L1
+T21	Gene-Protein 825 830	PD-L1
+T24	Gene-Protein 816 820	PD-1
+T26	Gene-Protein 649 654	PD-L1
+T25	Gene-Protein 928 933	PD-L1
+T29	Collection 279 321	malignant melanoma, RCC, and breast cancer
+T30	Biomarker 524 549	PD-1 and PD-L1 expression
+T31	Disease 1423 1430	HER2⁺BC
+#4	AnnotatorNotes T31	DOID:0060079
+T32	Biomarker 421 437	PD-L1 expression
+R1	Association Arg1:T30 Arg2:T9	
+R2	Prognostic-Poor Arg1:T32 Arg2:T8	
+T33	Biomarker 635 666	high PD-1 and PD-L1 expressions
+R3	Association Arg1:T33 Arg2:T13	
+T34	Gene-Protein 738 742	PD-1
+T35	Biomarker 734 764	low PD-1 and PD-L1 expressions
+T36	Biomarker 812 842	low PD-1 and PD-L1 expressions
+R4	Prognostic-Good Arg1:T35 Arg2:T13	
+R5	Prognostic-Good Arg1:T36 Arg2:T17	
+T37	Biomarker 924 944	low PD-L1 expression
+R6	Association Arg1:T37 Arg2:T17	
+T38	Biomarker 1010 1054	immune escape mediated by immune checkpoints
+R7	Association Arg1:T38 Arg2:T22	
+T39	Biomarker 1172 1192	low PD-L1 expression
+T40	Drug-Class 1212 1224	chemotherapy
+T41	Biomarker 1455 1481	PD-1 and PD-L1 expression,
+R8	Association Arg1:T41 Arg2:T31	
+T23	Biomarker 222 237	PD-1 expression
+R9	Association Arg1:T23 Arg2:T29	
+T42	Drug-Class 1137 1140	NAC
+R11	Mediated-Response Arg1:T42 Arg2:T22	
+R12	Mediator Arg1:T42 Arg2:T39	

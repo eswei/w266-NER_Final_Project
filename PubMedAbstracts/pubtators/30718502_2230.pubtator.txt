@@ -1,0 +1,36 @@
+30718502_2230|t|RSS_IDENT_p_30718502_b_1_1_3
+30718502_2230|a| Sphingosine 1-phosphate (S1P), a potent bioactive lipid, exerts many biological effects on different types of cells, including normal cells, and these effects include changes to cell migration, proliferation, and angiogenesis ⁴ . There are five types of G-protein-coupled S1P receptors, and among these receptors, S1P1-3 are the most widely expressed ⁵ . In addition, S1P can promote the motility, survival, growth, and transformation of cancer cells through multiple pathways ⁶ . It was recently reported that S1P signaling maintains the mitochondrial content of naive T cells to support their constant migration, and the expression of sphingosine 1-phosphate receptor 1 (S1P1, encoded by the S1PR1 gene) in T cells inhibits the generation of Tregs but reciprocally drives the development of type 1 T helper (Th1) cells ⁷ . However, in this study, we observed that extensive S1P1 expression in BC tissues was positively associated with the number of tumor-infiltrated Tregs, and the levels of both S1P1 and Treg showed prognostic implications in BC patients. Mechanistic analyses revealed that S1P1 promoted BC-associated (i)Treg induction and (n)Treg recruitment in vitro through tumor-derived TGF-β and IL-10 secretion. In summary, these findings uncover tumor-cell-specific S1P1 function, namely, the induction of tumor-associated Treg expansion in BC, and suggest that S1P1 serves as a potential prognostic biomarker and therapeutic target for BC patients.
+30718502_2230	30	53	Sphingosine 1-phosphate	Chemical
+30718502_2230	55	58	S1P	Chemical
+30718502_2230	284	315	G-protein-coupled S1P receptors	Genefamily	family:206
+30718502_2230	302	305	S1P	Chemical
+30718502_2230	344	350	S1P1-3	Gene-protein	HGNC:3165, HGNC:3169, HGNC:3167
+30718502_2230	398	401	S1P	Chemical
+30718502_2230	398	401	S1P	Biomarker	C060506
+30718502_2230	468	474	cancer	Disease	DOID:162
+30718502_2230	541	544	S1P	Chemical
+30718502_2230	667	690	sphingosine 1-phosphate	Chemical
+30718502_2230	667	701	sphingosine 1-phosphate receptor 1	Gene-protein	HGNC:3165
+30718502_2230	703	707	S1P1	Gene-protein	HGNC:3165
+30718502_2230	724	729	S1PR1	Gene-protein	HGNC:3165
+30718502_2230	906	910	S1P1	Gene-protein
+30718502_2230	906	921	S1P1 expression	Biomarker
+30718502_2230	925	927	BC	Disease	DOID:11054
+30718502_2230	981	1004	tumor-infiltrated Tregs	Biomarker
+30718502_2230	1014	1042	levels of both S1P1 and Treg	Biomarker
+30718502_2230	1029	1033	S1P1	Gene-protein
+30718502_2230	1077	1079	BC	Disease
+30718502_2230	1125	1129	S1P1	Gene-protein
+30718502_2230	1139	1141	BC	Disease
+30718502_2230	1212	1217	tumor	Disease	DOID:162
+30718502_2230	1226	1231	TGF-β	Genefamily	family:1664
+30718502_2230	1236	1241	IL-10	Gene-protein	 HGNC:5962
+30718502_2230	1288	1293	tumor	Disease
+30718502_2230	1308	1312	S1P1	Gene-protein
+30718502_2230	1335	1379	induction of tumor-associated Treg expansion	Biomarker
+30718502_2230	1348	1353	tumor	Disease	DOID:162
+30718502_2230	1383	1385	BC	Disease
+30718502_2230	1404	1408	S1P1	Biomarker
+30718502_2230	1404	1408	S1P1	Gene-protein
+30718502_2230	1479	1481	BC	Disease
+

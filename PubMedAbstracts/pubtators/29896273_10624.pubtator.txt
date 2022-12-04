@@ -1,0 +1,34 @@
+29896273_10624|t|RSS_IDENT_p_29896273_b_1_3_3
+29896273_10624|a| Moreover, we investigated the clinical and habitual factors associated with methylation occurrence. In the APC gene we observed that positive nodal status conferred a higher methylation rate in matched margin samples (OR=1.66; 95% CI: 0.92-3.01; p<0.1). Habitual factors linked to cigarettes were associated with higher methylation of the APC gene in tumour samples (OR=3.60; 95% CI: 0.97-13.39; p<0.1). MGMT methylation was diminished in tumour samples (OR=0.38; 95% CI: 0.13-1.06; p<0.1) and in margin samples from females (OR=0.23; 95% CI: 0.06-0.84; p<0.05). Patients with a family history of cancer showed more frequently methylated MGMT genes in tumour samples (OR=3.04; 95% CI: 1.08-8.55; p<0.05). We noted that advanced tumour stage was associated with a higher frequency of methylation of this gene in matched surgical margin samples (OR=1.78; 95% CI: 0.98-3.24; p<0.1). However, patients with a history of abusing alcohol showed lower MGMT promoter methylation in the surgical margin (OR=0.13; 95% CI: 0.03-0.56; p<0.01). Analysis of the TIMP3 gene showed that the female gender conferred a higher methylation level in margin samples (OR=2.49; 95% CI: 0.89-6.95; p<0.1) and a positive N stage showed a higher methylation level in tumour samples (OR=1.79; 95% CI: 0.96-3.35; p<0.1). For the CDH1 gene, an increased methylation level was seen in tumour samples from females (OR=2.61; 95% CI: 0.88-7.73; p<0.1) and smoking was associated with higher CDH1 methylation both in tumour (OR=3.13; 95% CI: 0.91-10.80; p<0.1) and margin samples (OR=7.12; 95% CI: 0.87-59.36; p<0.1).
+29896273_10624	137	140	APC	Gene-protein	HGNC:583
+29896273_10624	163	220	positive nodal status conferred a higher methylation rate	Biomarker
+29896273_10624	284	321	Habitual factors linked to cigarettes	Biomarker
+29896273_10624	343	372	higher methylation of the APC	Biomarker
+29896273_10624	369	372	APC	Gene-protein
+29896273_10624	381	387	tumour	Disease	DOID:162
+29896273_10624	434	438	MGMT	Gene-protein	 HGNC:7059
+29896273_10624	434	465	MGMT methylation was diminished	Biomarker
+29896273_10624	469	475	tumour	Disease
+29896273_10624	593	633	Patients with a family history of cancer	Biomarker
+29896273_10624	641	672	more frequently methylated MGMT	Biomarker
+29896273_10624	668	672	MGMT	Gene-protein
+29896273_10624	682	688	tumour	Disease
+29896273_10624	749	770	advanced tumour stage	Biomarker
+29896273_10624	793	837	higher frequency of methylation of this gene	Biomarker
+29896273_10624	919	961	patients with a history of abusing alcohol	Biomarker
+29896273_10624	954	961	alcohol	Chemical
+29896273_10624	969	1000	lower MGMT promoter methylation	Biomarker
+29896273_10624	975	979	MGMT	Gene-protein
+29896273_10624	1078	1083	TIMP3	Gene-protein	HGNC:11822
+29896273_10624	1131	1155	higher methylation level	Biomarker
+29896273_10624	1216	1232	positive N stage	Biomarker
+29896273_10624	1242	1266	higher methylation level	Biomarker
+29896273_10624	1270	1276	tumour	Disease
+29896273_10624	1330	1334	CDH1	Gene-protein	HGNC:1748
+29896273_10624	1344	1371	increased methylation level	Biomarker
+29896273_10624	1384	1390	tumour	Disease
+29896273_10624	1452	1459	smoking	Biomarker	D012907
+29896273_10624	1480	1503	higher CDH1 methylation	Biomarker
+29896273_10624	1487	1491	CDH1	Gene-protein
+29896273_10624	1512	1518	tumour	Disease
+

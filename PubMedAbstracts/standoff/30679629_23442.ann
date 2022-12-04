@@ -1,0 +1,64 @@
+T10	Disease 604 619	prostate cancer
+#2	AnnotatorNotes T10	DOID:10283
+T15	Disease 837 852	cervical cancer
+#3	AnnotatorNotes T15	DOID:4362
+T16	Disease 867 881	gastric cancer
+#4	AnnotatorNotes T16	DOID:10534
+T2	Disease 107 109	GC
+T20	Disease 1190 1203	breast cancer
+#6	AnnotatorNotes T20	DOID:1612
+T21	Disease 1256 1258	GC
+T3	Disease 134 136	GC
+T7	Disease 488 505	pancreatic cancer
+#10	AnnotatorNotes T7	DOID:1793
+T9	Disease 524 530	cancer
+#11	AnnotatorNotes T9	DOID:162
+T1	Gene-Protein 45 50	c-myc
+#1	AnnotatorNotes T1	HGNC:7553
+#5	AnnotatorNotes T2	DOID:10534
+T4	RNA-Noncoding 344 348	PVT1
+#7	AnnotatorNotes T4	HGNC:9709
+T5	RNA-Noncoding 427 431	PVT1
+T6	Biomarker 427 431	PVT1
+#8	AnnotatorNotes T6	C521123
+R1	Association Arg1:T6 Arg2:T7	
+T8	Gene-Protein 481 484	p21
+#9	AnnotatorNotes T8	HGNC:1784
+T11	RNA-Noncoding 621 625	PVT1
+T12	Biomarker 621 625	PVT1
+R2	Association Arg1:T12 Arg2:T10	
+T13	RNA-Noncoding 650 662	miRNA-186-5p
+#12	AnnotatorNotes T13	HGNC:31557
+T14	Gene-Protein 688 694	Twist1
+#13	AnnotatorNotes T14	HGNC:12428
+T17	RNA-Noncoding 715 719	PVT1
+T18	RNA-Noncoding 735 742	miR-195
+#14	AnnotatorNotes T18	HGNC:31566
+T19	RNA-Noncoding 810 817	miR-195
+T22	Biomarker 715 719	PVT1
+R3	Association Arg1:T22 Arg2:T15	
+T23	RNA-Noncoding 897 900	PVT
+T24	RNA-Noncoding 965 969	PVT1
+T25	RNA-Noncoding 1066 1074	miR-1204
+#15	AnnotatorNotes T25	HGNC:37059
+T26	RNA-Noncoding 1076 1084	miR-1205
+#16	AnnotatorNotes T26	HGNC:35271
+T27	RNA-Noncoding 1086 1094	miR-1206
+#17	AnnotatorNotes T27	HGNC:35272
+T28	RNA-Noncoding 1096 1107	miR-1207-5p
+#18	AnnotatorNotes T28	HGNC:35273
+T29	RNA-Noncoding 1109 1120	miR-1207-3p
+#19	AnnotatorNotes T29	HGNC:35273
+T30	RNA-Noncoding 1126 1134	miR-1208
+#20	AnnotatorNotes T30	HGNC:35274
+T31	Biomarker 1136 1144	miR-1204
+T32	RNA-Noncoding 1136 1144	miR-1204
+#21	AnnotatorNotes T31	C000603050
+R4	Association Arg1:T31 Arg2:T20	
+T33	RNA-Noncoding 1248 1252	PVT1
+T34	RNA-Noncoding 1376 1380	PVT1
+T35	Gene-Protein 1153 1156	VDR
+#22	AnnotatorNotes T35	HGNC:12679
+T36	Biomarker 45 50	c-myc
+#23	AnnotatorNotes T36	D016271
+T37	Biomarker 71 92	lymph node metastasis

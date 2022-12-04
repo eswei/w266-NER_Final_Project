@@ -1,0 +1,88 @@
+T1	Disease 151 163	liver cancer
+#1	AnnotatorNotes T1	DOID:3571
+T10	Disease 984 986	PC
+T12	Disease 1115 1121	tumors
+#3	AnnotatorNotes T12	DOID:162
+T13	RNA-Noncoding 1212 1221	LINC02163
+T15	Disease 1246 1260	gastric cancer
+#5	AnnotatorNotes T15	DOID:10534
+T16	RNA-Noncoding 1330 1339	LINC01503
+T17	Disease 1387 1404	colorectal cancer
+#7	AnnotatorNotes T17	DOID:9256
+T18	Disease 1530 1532	PC
+T21	Disease 1674 1676	PC
+T3	Disease 320 326	glioma
+#10	AnnotatorNotes T3	DOID:0060108
+T5	Disease 409 415	glioma
+T7	Disease 501 503	PC
+T8	Disease 556 558	PC
+T2	Gene-Protein 98 103	FOXK1
+#2	AnnotatorNotes T2	HGNC:23480
+T4	Gene-Protein 125 130	FOXK1
+T6	Gene-Protein 210 215	FOXK1
+T9	Gene-Protein 362 367	FOXK1
+T11	Gene-Protein 292 297	FOXK1
+T14	Gene-Protein 472 477	FOXK1
+T19	Gene-Protein 1660 1665	FOXK1
+T20	Gene-Protein 1418 1423	FOXK1
+T22	Gene-Protein 1572 1577	FOXK1
+T23	Gene-Protein 1281 1286	FOXK1
+T24	Gene-Protein 1007 1012	FOXK1
+T25	Gene-Protein 529 534	FOXK1
+T26	Gene-Protein 716 721	FOXK1
+T27	Gene-Protein 1157 1162	FOXK1
+T28	Gene-Protein 780 785	FOXK1
+T29	Gene-Protein 647 652	FOXK1
+T30	Gene-Protein 801 806	FOXK1
+T31	RNA-Noncoding 65 75	miR-138-5p
+#4	AnnotatorNotes T31	family:1758
+T32	RNA-Noncoding 701 711	miR-138-5p
+T33	RNA-Noncoding 1649 1659	miR-138-5p
+T34	RNA-Noncoding 1561 1571	miR-138-5p
+T35	RNA-Noncoding 1270 1280	miR-593-3p
+T36	RNA-Noncoding 878 888	miR-138-5p
+#6	AnnotatorNotes T13	HGNC:53024
+T37	Gene-Protein 632 642	MCM3AP-AS1
+#8	AnnotatorNotes T37	HGNC:16417
+T38	Gene-Protein 742 752	MCM3AP-AS1
+T39	Gene-Protein 853 863	MCM3AP-AS1
+T40	Gene-Protein 939 949	MCM3AP-AS1
+T41	Gene-Protein 1510 1520	MCM3AP-AS1
+T42	Gene-Protein 1638 1648	MCM3AP-AS1
+T43	Biomarker 125 147	FOXK1 level was higher
+T44	Biomarker 292 316	FOXK1 level was elevated
+R1	Association Arg1:T44 Arg2:T3	
+R2	Association Arg1:T43 Arg2:T1	
+T45	Biomarker 472 497	FOXK1 level was increased
+R3	Association Arg1:T45 Arg2:T7	
+T46	CellLine 829 835	BxPC-3
+T47	RNA-Noncoding 1409 1417	miR-4492
+#9	AnnotatorNotes T47	HGNC:41563
+#11	AnnotatorNotes T16	HGNC:51184
+#12	AnnotatorNotes T7	DOID:1793
+T48	Biomarker 632 642	MCM3AP-AS1
+T49	Biomarker 647 652	FOXK1
+T50	Biomarker 210 225	FOXK1 silencing
+T51	Biomarker 529 534	FOXK1
+R5	Association Arg1:T51 Arg2:T8	
+T52	Biomarker 362 367	FOXK1
+R4	Association Arg1:T52 Arg2:T5	
+#13	AnnotatorNotes T52	C495879
+#14	AnnotatorNotes T49	C495879
+T53	Drug-Class 878 898	miR-138-5p inhibitor
+T54	Biomarker 701 711	miR-138-5p
+T55	Biomarker 716 721	FOXK1
+T56	Biomarker 939 949	MCM3AP-AS1
+T57	Biomarker 1510 1520	MCM3AP-AS1
+T58	Biomarker 1330 1339	LINC01503
+R6	Association Arg1:T58 Arg2:T17	
+R7	Association Arg1:T57 Arg2:T18	
+R8	Association Arg1:T56 Arg2:T10	
+T59	Biomarker 1212 1221	LINC02163
+R9	Association Arg1:T59 Arg2:T15	
+T60	Biomarker 1638 1670	MCM3AP-AS1/miR-138-5p/FOXK1 axis
+T61	Biomarker 1072 1079	lncRNAs
+R10	Association Arg1:T61 Arg2:T12	
+T62	RNA-Noncoding 1072 1079	lncRNAs
+#15	AnnotatorNotes T35	HGNC:32849
+R11	Association Arg1:T60 Arg2:T21	

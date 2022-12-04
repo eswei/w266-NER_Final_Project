@@ -1,0 +1,90 @@
+T0	Disease 75 81	cancer
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 144 150	cancer
+T11	Drug 693 703	paclitaxel
+T12	Drug 726 736	Paclitaxel
+T15	Disease 827 829	CC
+T17	Drug 885 894	docetaxel
+T19	Disease 938 953	prostate cancer
+#7	AnnotatorNotes T19	DOID:10283
+T21	Disease 1000 1015	prostate cancer
+T22	Drug 1036 1045	docetaxel
+T24	Chemical 1118 1126	platinum
+T25	Drug 1133 1142	cisplatin
+T27	Drug 1197 1206	cisplatin
+T29	Drug 1262 1273	doxorubicin
+T3	Disease 174 180	tumors
+#15	AnnotatorNotes T3	DOID:162
+T30	Drug 1332 1343	doxorubicin
+T31	Disease 1433 1457	hepatocellular carcinoma
+#17	AnnotatorNotes T31	DOID:684
+T33	Drug 1536 1550	5-fluorouracil
+T34	Disease 1571 1573	CC
+T35	Disease 1752 1754	CC
+T4	Drug 379 393	5-fluorouracil
+T5	Disease 397 399	CC
+#22	AnnotatorNotes T5	DOID:4362
+T7	Disease 502 509	cancers
+#23	AnnotatorNotes T7	DOID:162
+T8	Drug 541 551	paclitaxel
+T2	RNA-Noncoding 338 345	miR-375
+#2	AnnotatorNotes T2	HGNC:31868
+T6	RNA-Noncoding 441 448	miR-375
+T9	RNA-Noncoding 613 620	miR-375
+T10	RNA-Noncoding 749 756	miR-375
+T13	RNA-Noncoding 869 876	miR-375
+T16	RNA-Noncoding 790 797	miR-375
+T18	RNA-Noncoding 640 647	miR-375
+T20	RNA-Noncoding 1662 1669	miR-375
+T23	RNA-Noncoding 1519 1526	miR-375
+T14	RNA-Noncoding 955 962	miR-375
+T26	RNA-Noncoding 1162 1169	miR-375
+T28	Disease 651 653	CC
+T32	RNA-Noncoding 1250 1257	miR-375
+T36	RNA-Noncoding 1077 1084	miR-375
+#3	AnnotatorNotes T4	CHEMBL185
+#4	AnnotatorNotes T8	CHEMBL428647
+#5	AnnotatorNotes T12	CHEMBL428647
+#6	AnnotatorNotes T17	CHEMBL3545252
+T37	Gene-Protein 919 925	SEC23A
+#8	AnnotatorNotes T37	HGNC:10701
+T38	Gene-Protein 930 934	YAP1
+#10	AnnotatorNotes T38	HGNC:16262
+T39	Drug-Class 203 215	chemotherapy
+R1	Response Arg1:T39 Arg2:T3	
+T40	Biomarker 338 345	miR-375
+T41	Biomarker 441 448	miR-375
+T42	Biomarker 622 647	Overexpression of miR-375
+R2	Mediated-Non-Response Arg1:T11 Arg2:T28	
+R3	Mediator Arg1:T11 Arg2:T42	
+T43	Biomarker 869 876	miR-375
+R4	Mediated-Non-Response Arg1:T17 Arg2:T19	
+R5	Mediator Arg1:T17 Arg2:T43	
+T44	Biomarker 955 977	miR-375 overexpression
+R6	Mediated-Non-Response Arg1:T22 Arg2:T21	
+R7	Mediator Arg1:T22 Arg2:T44	
+T45	Gene-Protein 1178 1183	ERBB2
+#9	AnnotatorNotes T45	HGNC:3430
+#11	AnnotatorNotes T25	CHEMBL11359
+#12	AnnotatorNotes T29	CHEMBL53463
+T46	Gene-Protein 1405 1409	MDR1
+#13	AnnotatorNotes T46	HGNC:40
+T47	Gene-Protein 1376 1403	multidrug resistance gene 1
+#14	AnnotatorNotes T47	HGNC:40
+T48	Gene-Protein 1424 1429	AEG-1
+#16	AnnotatorNotes T48	HGNC:29608
+T49	Drug-Class 1674 1696	chemotherapeutic drugs
+T50	Drug 1497 1526	ectopic expression of miR-375
+#18	AnnotatorNotes T50	not found
+T51	Gene-Protein 1593 1598	AEG-1
+R8	Synergy-Response Arg1:T33 Arg2:T34	
+R9	Synergy-Response Arg1:T50 Arg2:T34	
+#19	AnnotatorNotes T40	C540933
+R10	Association Arg1:T41 Arg2:T7	
+T52	Biomarker 772 797	overexpression of miR-375
+R11	Non-Response Arg1:T12 Arg2:T15	
+R12	Mediator Arg1:T12 Arg2:T52	
+T53	Drug 1250 1257	miR-375
+R13	Synergy-Response Arg1:T53 Arg2:T31	
+R14	Synergy-Response Arg1:T29 Arg2:T31	
+#20	AnnotatorNotes T53	C540933

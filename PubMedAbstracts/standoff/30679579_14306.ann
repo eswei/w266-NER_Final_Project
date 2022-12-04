@@ -1,0 +1,85 @@
+T1	Disease 79 82	TAK
+T10	Disease 540 543	GCA
+T11	Biomarker 549 588	levels of eotaxin and IP-10 were higher
+T12	Disease 606 609	GCA
+T13	Disease 626 629	TAK
+T14	Biomarker 660 715	the levels of IL-6, IL-12(p40), IL-17, IFN-γ, and TNF-α
+T15	Disease 764 767	TAK
+T16	Disease 777 780	GCA
+T17	Disease 902 920	Takayasu arteritis
+#7	AnnotatorNotes T17	DOID:2508
+T18	Disease 922 925	TAK
+T19	Disease 931 951	giant cell arteritis
+#9	AnnotatorNotes T19	DOID:13375
+T2	Disease 87 90	GCA
+T20	Disease 953 956	GCA
+T22	Disease 1002 1005	TAK
+T24	Disease 1013 1016	GCA
+T25	Disease 1254 1257	TAK
+T26	Disease 1259 1262	GCA
+T28	Disease 1279 1282	GCA
+T3	Disease 156 159	TAK
+T4	Disease 164 167	GCA
+T6	Disease 446 449	TAK
+T7	Disease 454 457	GCA
+T8	Biomarker 463 524	levels of IL-1RA, IL-10, GM-CSF, G-CSF, and FGF-2 were higher
+T9	Disease 528 531	TAK
+T29	GeneFamily 45 53	cytokine
+T30	GeneFamily 54 63	chemokine
+T31	GeneFamily 104 112	cytokine
+T32	GeneFamily 113 122	chemokine
+T33	Gene-Protein 710 715	TNF-α
+T34	Gene-Protein 699 704	IFN-γ
+T35	Gene-Protein 692 697	IL-17
+T36	Gene-Protein 680 690	IL-12(p40)
+T37	Gene-Protein 674 678	IL-6
+T38	Gene-Protein 559 566	eotaxin
+T39	Gene-Protein 571 576	IP-10
+T40	Gene-Protein 507 512	FGF-2
+T41	Gene-Protein 473 479	IL-1RA
+T42	Gene-Protein 481 486	IL-10
+T43	Gene-Protein 488 494	GM-CSF
+T44	Gene-Protein 496 501	G-CSF
+T45	Gene-Protein 352 358	IL-1RA
+T46	Gene-Protein 360 365	IL-10
+T47	Gene-Protein 402 407	IP-10
+T48	Gene-Protein 389 396	eotaxin
+#1	AnnotatorNotes T48	HGNC:10610
+T49	Gene-Protein 382 387	FGF-2
+#2	AnnotatorNotes T49	HGNC:3676
+T50	Gene-Protein 375 380	G-CSF
+#3	AnnotatorNotes T50	HGNC:2438
+T51	Gene-Protein 367 373	GM-CSF
+#4	AnnotatorNotes T51	HGNC:2434
+#5	AnnotatorNotes T1	DOID:2508
+#6	AnnotatorNotes T2	DOID:13375
+#8	AnnotatorNotes T29	not found
+#10	AnnotatorNotes T30	not found
+T5	GeneFamily 195 204	cytokines
+#11	AnnotatorNotes T5	not found
+T52	GeneFamily 205 215	chemokines
+#13	AnnotatorNotes T52	not found
+T53	GeneFamily 340 350	chemokines
+T54	Biomarker 352 437	IL-1RA, IL-10, GM-CSF, G-CSF, FGF-2, eotaxin, and IP-10, were significantly different
+T55	Collection 446 457	TAK and GCA
+R1	Association Arg1:T54 Arg2:T55	
+T56	GeneFamily 291 301	chemokines
+T57	GeneFamily 277 286	cytokines
+#15	AnnotatorNotes T45	HGNC:6019
+#16	AnnotatorNotes T46	HGNC:5962
+#17	AnnotatorNotes T47	HGNC:10637
+R2	Association Arg1:T8 Arg2:T9	
+R3	Association Arg1:T11 Arg2:T12	
+#18	AnnotatorNotes T37	HGNC:6018
+#19	AnnotatorNotes T36	HGNC:5970
+#20	AnnotatorNotes T35	HGNC:5981
+#21	AnnotatorNotes T34	 HGNC:5438
+T58	Collection 764 780	TAK ⁹ and/or GCA
+R4	Association Arg1:T14 Arg2:T58	
+T59	GeneFamily 818 827	cytokines
+T60	GeneFamily 828 837	chemokine
+T21	GeneFamily 1190 1198	cytokine
+T23	GeneFamily 1199 1208	chemokine
+T61	Disease 1267 1270	TAK
+T27	Biomarker 185 215	levels of cytokines/chemokines
+#12	AnnotatorNotes T33	HGNC:11892

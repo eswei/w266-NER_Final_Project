@@ -1,0 +1,52 @@
+29507679_25667|t|RSS_IDENT_p_29507679_b_1_3_9
+29507679_25667|a| From the panel of consistently deregulated miRNAs, several were recently associated with cancer progression and prognosis. Most notably, miRNAs hsa-mir-21 and -196b are well established oncomirs [ 56 ], and hsa-mir-196a is known to be associated with NSCLC [ 57 ]. The role of hsa-mir-30a varies across human cancer types [ 58 ]. Hsa-mir-135b reverses chemoresistance of NSCLC [ 59 ]. Hsa-mir-139 is associated with aggressive tumor behavior and disease progression in breast cancer [ 60 ], and is believed to inhibit bladder cancer proliferation and self-renewal [ 61 ]. Hsa-mir-143 inhibits tumor growth of breast cancer [ 62 ]. Hsa-mir-144 has been shown to induce cell cycle arrest and apoptosis in pancreatic cancer cells [ 63 ]. Hsa-mir-182 promotes prostate cancer progression [ 64 ]. Hsa-mir-195 inhibits the proliferation and invasion of pancreatic cancer cells [ 65 ]. Hsa-mir-218 downregulation contributes to epithelial-mesenchymal transition and tumor metastasis in lung cancer [ 66 ]. Hsa-mir-130b is a part of the new prognostic marker for patient risk assessment and as an indicator of therapy resistance in prostate cancer [ 67 ]. Similarly, hsa-mir-183 in combination with hsa-mir-19b were recently proposed as biomarkers of lung cancer [ 68 ], and miRNAs hsa-mir-145 and -9 as biomarkers for early-stage cervical cancer [ 69 ]. 
+29507679_25667	48	79	consistently deregulated miRNAs	Biomarker
+29507679_25667	119	125	cancer	Disease	DOID:162
+29507679_25667	174	194	hsa-mir-21 and -196b	Rna-noncoding	HGNC:31586, HGNC:31790
+29507679_25667	174	194	hsa-mir-21 and -196b	Biomarker	C524940, C542543
+29507679_25667	174	249	hsa-mir-21 and -196b are well established oncomirs [ 56 ], and hsa-mir-196a	Collection
+29507679_25667	216	224	oncomirs	Rna-noncoding	not found
+29507679_25667	237	249	hsa-mir-196a	Rna-noncoding	not found
+29507679_25667	237	249	hsa-mir-196a	Biomarker	C542543
+29507679_25667	281	286	NSCLC	Disease	DOID:3908
+29507679_25667	307	318	hsa-mir-30a	Rna-noncoding	HGNC:31624
+29507679_25667	307	318	hsa-mir-30a	Biomarker	C546086
+29507679_25667	339	345	cancer	Disease
+29507679_25667	360	372	Hsa-mir-135b	Rna-noncoding	HGNC:31760
+29507679_25667	360	372	Hsa-mir-135b	Drug	C544965
+29507679_25667	401	406	NSCLC	Disease
+29507679_25667	415	426	Hsa-mir-139	Rna-noncoding	HGNC:31526
+29507679_25667	415	426	Hsa-mir-139	Biomarker	C555098
+29507679_25667	415	426	Hsa-mir-139	Drug	C555098
+29507679_25667	457	462	tumor	Disease	DOID:162
+29507679_25667	457	512	tumor behavior and disease progression in breast cancer	Collection
+29507679_25667	499	512	breast cancer	Disease	DOID:1612
+29507679_25667	548	562	bladder cancer	Disease	DOID:11054
+29507679_25667	602	613	Hsa-mir-143	Drug	C542359
+29507679_25667	602	613	Hsa-mir-143	Rna-noncoding	HGNC:31530
+29507679_25667	623	628	tumor	Disease
+29507679_25667	623	652	tumor growth of breast cancer	Collection
+29507679_25667	639	652	breast cancer	Disease
+29507679_25667	661	672	Hsa-mir-144	Drug	C554293
+29507679_25667	661	672	Hsa-mir-144	Gene-protein	HGNC:31531
+29507679_25667	733	750	pancreatic cancer	Disease	DOID:1793
+29507679_25667	765	776	Hsa-mir-182	Biomarker	C538984
+29507679_25667	765	776	Hsa-mir-182	Rna-noncoding	HGNC:31553
+29507679_25667	786	801	prostate cancer	Disease	DOID:10283
+29507679_25667	822	833	Hsa-mir-195	Rna-noncoding	HGNC:31566
+29507679_25667	822	833	Hsa-mir-195	Drug	C552722
+29507679_25667	877	894	pancreatic cancer	Disease
+29507679_25667	909	920	Hsa-mir-218	Rna-noncoding	not found
+29507679_25667	909	935	Hsa-mir-218 downregulation	Biomarker
+29507679_25667	1009	1020	lung cancer	Disease	DOID:1324
+29507679_25667	1029	1041	Hsa-mir-130b	Rna-noncoding	HGNC:31515
+29507679_25667	1029	1041	Hsa-mir-130b	Biomarker	C554019
+29507679_25667	1154	1169	prostate cancer	Disease
+29507679_25667	1189	1200	hsa-mir-183	Rna-noncoding	HGNC:31554
+29507679_25667	1189	1232	hsa-mir-183 in combination with hsa-mir-19b	Biomarker	C533449, C524941	Conjunction
+29507679_25667	1221	1232	hsa-mir-19b	Rna-noncoding	not found
+29507679_25667	1273	1284	lung cancer	Disease	DOID:1324
+29507679_25667	1304	1322	hsa-mir-145 and -9	Biomarker	C541010, C541874
+29507679_25667	1304	1322	hsa-mir-145 and -9	Rna-noncoding	HGNC:31532, not found
+29507679_25667	1353	1368	cervical cancer	Disease	DOID:4362
+

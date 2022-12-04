@@ -1,0 +1,35 @@
+29884546_30381|t|RSS_IDENT_p_29884546_b_1_4_6
+29884546_30381|a| The role of Kupffer cells, as well as Kupffer cell-specific TLR4, in the development of alcohol-induced hepatic inflammation is unclear. Järveläinen et al. showed that Kupffer cell inactivation did not alleviate alcohol-induced inflammatory responses in rat liver [45] . However, other studies have found that loss of Kupffer cells reduced hepatic pathological scores, including inflammation and necrosis, after intragastric alcohol infusions [44] , [46] . Using bone marrow transplantation technique, Inokuchi et al. reported that TLR4 expressing-bone marrow cells contribute to alcohol-induced hepatic mRNA expression of IL-6 and IL-1β [10] . In our model, alcohol-fed mice with myeloid cell TLR4 deficiency showed reduced expression of Tnfα and CD11c, as well as significantly elevated IL-6 expression in the liver. Importantly, mice lacking IL-6 are more susceptible to ethanol-induced hepatic steatosis [52] , [53] , [54] . Furthermore, IL-6 treatment in vivo alleviates liver injury in alcohol-fed mice [55] . Taken together, these hepatic alterations in alcohol-fed Tlr4ΔᵐΦ mice could play a protective role in reducing liver damage and potentially decreasing circulating inflammatory cytokines.
+29884546_30381	90	94	TLR4	Gene-protein	HGNC:11850
+29884546_30381	118	125	alcohol	Chemical
+29884546_30381	118	154	alcohol-induced hepatic inflammation	Disease	not found
+29884546_30381	242	249	alcohol	Chemical
+29884546_30381	340	361	loss of Kupffer cells	Biomarker
+29884546_30381	409	421	inflammation	Disease	D007249
+29884546_30381	426	434	necrosis	Disease	D009336
+29884546_30381	455	462	alcohol	Chemical
+29884546_30381	562	566	TLR4	Gene-protein
+29884546_30381	610	617	alcohol	Chemical
+29884546_30381	653	657	IL-6	Gene-protein	HGNC:6018
+29884546_30381	662	667	IL-1β	Gene-protein	HGNC:5992
+29884546_30381	689	696	alcohol	Chemical
+29884546_30381	711	739	myeloid cell TLR4 deficiency	Disease	not found
+29884546_30381	724	728	TLR4	Gene-protein
+29884546_30381	747	783	reduced expression of Tnfα and CD11c	Biomarker
+29884546_30381	747	834	reduced expression of Tnfα and CD11c, as well as significantly elevated IL-6 expression	Collection
+29884546_30381	769	773	Tnfα	Gene-protein
+29884546_30381	778	783	CD11c	Gene-protein
+29884546_30381	810	834	elevated IL-6 expression	Biomarker
+29884546_30381	819	823	IL-6	Gene-protein
+29884546_30381	867	879	lacking IL-6	Biomarker
+29884546_30381	875	879	IL-6	Gene-protein
+29884546_30381	904	911	ethanol	Chemical
+29884546_30381	904	937	ethanol-induced hepatic steatosis	Disease	not found
+29884546_30381	972	976	IL-6	Gene-protein
+29884546_30381	972	976	IL-6	Drug	D015850
+29884546_30381	1006	1038	liver injury in alcohol-fed mice	Disease	not found
+29884546_30381	1022	1029	alcohol	Chemical
+29884546_30381	1091	1098	alcohol	Chemical
+29884546_30381	1103	1107	Tlr4	Gene-protein
+29884546_30381	1209	1231	inflammatory cytokines	Genefamily
+

@@ -1,0 +1,34 @@
+30288106_4314|t|RSS_IDENT_p_30288106_b_1_1_4
+30288106_4314|a| In our previous study, we detected the expression of S100A proteins in the paired tumor samples (pre- and post- chemotherapy) obtained from 68 squamous cervical cancer patients who were treated with cisplatin-based neoadjuvant chemotherapy and radical hysterectomy, and revealed that S100A9 protein expression in tumor cells correlated with tumor response to chemotherapy. 13 Similar to our research, Zhu et al 14 found that cervical squamous carcinoma patients, who received the concurrent chemoradiotherapy, with negative staining of S100A9 showed significantly lower 5-year overall survival rate than those with positive staining. The above results suggested that S100A9 may be associated with the chemosensitivity of squamous cervical cancer. However, we also found the expression intensity of S100A9 was statistically higher in post-chemotherapy cervical cancer tissues in comparison with that in pre-chemotherapy. 13 In our further study, 15 four squamous cervical cancer cell lines were selected with diverse human papillomavirus expression, SiHa, C-33A, CaSki, and MS751, and found that the S100A9 mRNA and protein were moderately expressed in SiHa cells. In addition, S100A9 could promote squamous cervical cancer cell proliferation, migration and invasion. Therefore, whether S100A9 promotes or inhibits cisplatin sensitivity remains controversial. 
+30288106_4314	83	88	S100A	Gene-protein	HGNC:10486
+30288106_4314	112	117	tumor	Disease	DOID:162
+30288106_4314	142	154	chemotherapy	Drug-class
+30288106_4314	173	197	squamous cervical cancer	Disease	DOID:3744
+30288106_4314	229	269	cisplatin-based neoadjuvant chemotherapy	Drug-class
+30288106_4314	314	320	S100A9	Gene-protein	HGNC:10499
+30288106_4314	343	348	tumor	Disease
+30288106_4314	371	376	tumor	Disease
+30288106_4314	389	401	chemotherapy	Drug-class
+30288106_4314	455	482	cervical squamous carcinoma	Disease	DOID:3744
+30288106_4314	521	538	chemoradiotherapy	Drug-class
+30288106_4314	545	572	negative staining of S100A9	Biomarker
+30288106_4314	566	572	S100A9	Gene-protein
+30288106_4314	697	703	S100A9	Gene-protein
+30288106_4314	697	703	S100A9	Biomarker	C000628744
+30288106_4314	751	775	squamous cervical cancer	Disease
+30288106_4314	828	834	S100A9	Gene-protein
+30288106_4314	881	896	cervical cancer	Disease	DOID:4362
+30288106_4314	983	1007	squamous cervical cancer	Disease
+30288106_4314	1046	1066	human papillomavirus	Microorganism
+30288106_4314	1079	1083	SiHa	Cellline
+30288106_4314	1085	1090	C-33A	Cellline
+30288106_4314	1092	1097	CaSki	Cellline
+30288106_4314	1103	1108	MS751	Cellline
+30288106_4314	1129	1135	S100A9	Gene-protein
+30288106_4314	1182	1186	SiHa	Cellline
+30288106_4314	1207	1213	S100A9	Gene-protein
+30288106_4314	1207	1213	S100A9	Biomarker
+30288106_4314	1228	1252	squamous cervical cancer	Disease
+30288106_4314	1316	1322	S100A9	Gene-protein
+30288106_4314	1344	1353	cisplatin	Drug	CHEMBL11359
+

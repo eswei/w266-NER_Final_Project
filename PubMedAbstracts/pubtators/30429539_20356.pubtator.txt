@@ -1,0 +1,27 @@
+30429539_20356|t|RSS_IDENT_p_30429539_b_1_3_6
+30429539_20356|a| In patients with ESRD undergoing hemodialysis, f(HNA) has been reported to be decreased from approximately 40% before to 30% after a dialysis session ²² . That study also noted that such a rapid alteration of redox state of serum albumin before and after dialysis resembled the alteration of serum urea nitrogen levels seen with hemodialysis treatment. Furthermore, a significant reduction in oxidized albumin ratio was reportedly observed after administration of AST-120, a carbonaceous adsorbent drug, in 5/6 nephrectomized CKD rats ²³ . In the present study, blood urea nitrogen was significantly and highly correlated with serum f(HNA). Among uremic toxins, indoxyl sulfate is known to induce oxidative stress via promotion of free radical production ²⁴ . In a previous study of CKD rats, exogenous administration of indoxyl sulfate increased the ratio of oxidized albumin ²³ . Furthermore, AST-120 was found to decrease serum indoxyl sulfate levels in CKD patients receiving dialysis ²⁵ as well as pre-dialysis patients with CKD ²⁶ . Together, these findings suggest that administration of AST-120 may reduce f(HNA) in CKD patients. Nevertheless, additional longitudinal studies to confirm the effects of AST-120 on the redox state of serum album are considered to be clinically necessary.
+30429539_20356	47	51	ESRD	Disease	DOID:783
+30429539_20356	77	117	f(HNA) has been reported to be decreased	Biomarker
+30429539_20356	219	293	rapid alteration of redox state of serum albumin before and after dialysis	Biomarker
+30429539_20356	260	267	albumin	Gene-protein	 HGNC:399
+30429539_20356	308	348	alteration of serum urea nitrogen levels	Biomarker
+30429539_20356	328	341	urea nitrogen	Chemical
+30429539_20356	432	439	albumin	Gene-protein
+30429539_20356	494	501	AST-120	Drug	CHEMBL2106049
+30429539_20356	556	559	CKD	Disease	DOID:784
+30429539_20356	592	611	blood urea nitrogen	Biomarker	D001806
+30429539_20356	598	611	urea nitrogen	Chemical
+30429539_20356	657	669	serum f(HNA)	Biomarker
+30429539_20356	692	707	indoxyl sulfate	Drug	D007200
+30429539_20356	727	743	oxidative stress	Disease	D018384
+30429539_20356	813	816	CKD	Disease
+30429539_20356	851	866	indoxyl sulfate	Drug
+30429539_20356	899	906	albumin	Gene-protein
+30429539_20356	925	932	AST-120	Drug
+30429539_20356	961	976	indoxyl sulfate	Chemical
+30429539_20356	987	990	CKD	Disease
+30429539_20356	1060	1063	CKD	Disease
+30429539_20356	1125	1132	AST-120	Drug
+30429539_20356	1154	1157	CKD	Disease
+30429539_20356	1240	1247	AST-120	Drug
+

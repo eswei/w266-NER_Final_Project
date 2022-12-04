@@ -1,0 +1,46 @@
+30415063_26657|t|RSS_IDENT_p_30415063_b_1_4_6
+30415063_26657|a| As we observed altered phenotypes and phagocytic activities in TAM-like MDM, we hypothesized that CCA alters macrophage to be cancer promoting. We showed that cytokine production including IL-6, MCP-2, MCP-3, CXCL-5, GROα, ANG, GRO a/b/g, IL-8, and IL-10 was increased in TAM-like MDM. Elevations of CXCL5, IL-6, and IL-8 and their contributions to dismal prognosis of CCA were reported [15] , [17] , [44] . IL-6 and GROα from CCA-stimulated mesenchymal cells promoted CCA growth [45] , and IL-10 from CCA promoting CCA progression were shown [46] . The induction of MCP-2 in M-CSF–induced MDM has been reported [47] , and we showed higher MCP-2 in TAM-like MDM. ANG promoted prostate cancer growth, and angiogenesis was noted [48] . Taken together, our results suggested that macrophage exposed to CCA-CM or TAM-like MDM might be an alternative source of cytokines that could promote CCA. The effects of MCP-2, MCP-3, and ANG have never been clarified in CCA and require attention.
+30415063_26657	45	105	altered phenotypes and phagocytic activities in TAM-like MDM	Biomarker
+30415063_26657	128	131	CCA	Disease	DOID:4947
+30415063_26657	156	162	cancer	Disease	DOID:162
+30415063_26657	189	298	cytokine production including IL-6, MCP-2, MCP-3, CXCL-5, GROα, ANG, GRO a/b/g, IL-8, and IL-10 was increased	Biomarker
+30415063_26657	219	223	IL-6	Gene-protein	HGNC:6018
+30415063_26657	225	230	MCP-2	Gene-protein	HGNC:10635
+30415063_26657	232	237	MCP-3	Chemical	HGNC:10634
+30415063_26657	239	245	CXCL-5	Gene-protein	HGNC:10642
+30415063_26657	247	251	GROα	Gene-protein	HGNC:4602
+30415063_26657	253	256	ANG	Gene-protein	HGNC:483
+30415063_26657	258	267	GRO a/b/g	Gene-protein	HGNC:4602, HGNC:4603, HGNC:4604
+30415063_26657	269	273	IL-8	Gene-protein	HGNC:6025
+30415063_26657	279	284	IL-10	Gene-protein	HGNC:5962
+30415063_26657	316	351	Elevations of CXCL5, IL-6, and IL-8	Biomarker
+30415063_26657	330	335	CXCL5	Gene-protein	HGNC:10642
+30415063_26657	337	341	IL-6	Gene-protein
+30415063_26657	347	351	IL-8	Gene-protein
+30415063_26657	399	402	CCA	Disease
+30415063_26657	438	442	IL-6	Gene-protein
+30415063_26657	438	442	IL-6	Biomarker	D015850
+30415063_26657	438	451	IL-6 and GROα	Collection
+30415063_26657	447	451	GROα	Biomarker	C475829
+30415063_26657	447	451	GROα	Gene-protein
+30415063_26657	457	460	CCA	Disease
+30415063_26657	499	502	CCA	Disease
+30415063_26657	521	526	IL-10	Biomarker	D016753
+30415063_26657	521	526	IL-10	Gene-protein
+30415063_26657	532	535	CCA	Disease
+30415063_26657	546	549	CCA	Disease
+30415063_26657	597	602	MCP-2	Gene-protein	HGNC:10635
+30415063_26657	606	611	M-CSF	Gene-protein	HGNC:2432
+30415063_26657	663	675	higher MCP-2	Biomarker
+30415063_26657	670	675	MCP-2	Gene-protein
+30415063_26657	693	696	ANG	Gene-protein	HGNC:483
+30415063_26657	693	696	ANG	Biomarker	C046366
+30415063_26657	706	721	prostate cancer	Disease	DOID:10283
+30415063_26657	829	832	CCA	Disease
+30415063_26657	886	895	cytokines	Genefamily	not found
+30415063_26657	915	918	CCA	Disease
+30415063_26657	935	940	MCP-2	Gene-protein
+30415063_26657	942	947	MCP-3	Gene-protein
+30415063_26657	953	956	ANG	Gene-protein
+30415063_26657	986	989	CCA	Disease
+

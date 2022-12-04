@@ -1,0 +1,43 @@
+30540935_31869|t|RSS_IDENT_p_30540935_b_1_3_4
+30540935_31869|a| Furthering this hypothesis required showing that the profound effect of KLF4 on malignancy, presumably mediated through a network of specific, KLF4-regulated genes, has its counterpart in human cancer, and specifically in prostate cancer. Evidence showing that KLF4 expression is diminished in human prostate cancer metastasis ( Liu et al., 2012 ; Wang et al., 2010 ) supports this notion. An RNA-seq analysis we performed revealed that knocking down KLF4 induced genes that are part of the tumor metastasis pathways, stem cell pluripotency markers, and, in confirmation of our experimental results, EMT (Figure 3E). Further analysis revealed a substantial overlap between the KLF4-regulated genes in our murine model and those genes that characterize malignancy in cohorts of human prostate cancer (Figures 5G and 5H). Moreover, we show that Klf4 regulates several pathways that are important for tumor progression, including Sonic hedgehog (Shh), Wnt/Ca⁺, and PPAR pathways (Figure 5D). The Hedgehog (Hh) pathway plays a crucial role in the development and progression of prostate cancer to more aggressive and even therapy-resistant disease states, and the inhibition of Hh signaling has the potential to reduce prostate cancer invasiveness and metastatic potential ( Gonnissen et al., 2013 ). Similarly, Wnt/Ca⁺ activity, regulated by Klf4 in our model, is increased in prostate cancer cells ( Wang et al., 2010 ), and PPAR activation has been shown to promote prostate cancer cell growth ( Forootan et al., 2016 ). We found a substantial overlap between genes linked to the invasive sarcomatoid tumors induced by Klf4 knockdown (Figures 5G and 5H) and those genes that define metastatic and aggressive human prostate cancer ( Chandran et al., 2007 ; Mortensen et al., 2015 ), opening a path to identifying new targets for therapy of aggressive cancers and giving support to the relevance of this model to prostate cancer. 
+30540935_31869	102	106	KLF4	Gene-protein	HGNC:6348
+30540935_31869	173	177	KLF4	Gene-protein
+30540935_31869	173	193	KLF4-regulated genes	Biomarker
+30540935_31869	224	230	cancer	Disease	DOID:162
+30540935_31869	252	267	prostate cancer	Disease	DOID:10283
+30540935_31869	291	295	KLF4	Gene-protein
+30540935_31869	291	320	KLF4 expression is diminished	Biomarker
+30540935_31869	330	356	prostate cancer metastasis	Disease	DOID:10283
+30540935_31869	481	485	KLF4	Gene-protein
+30540935_31869	521	526	tumor	Disease	DOID:162
+30540935_31869	707	711	KLF4	Gene-protein
+30540935_31869	813	828	prostate cancer	Disease
+30540935_31869	873	877	Klf4	Gene-protein
+30540935_31869	873	877	Klf4	Biomarker
+30540935_31869	928	933	tumor	Disease
+30540935_31869	957	971	Sonic hedgehog	Gene-protein	HGNC:10848
+30540935_31869	973	976	Shh	Gene-protein	HGNC:10848
+30540935_31869	979	982	Wnt	Genefamily	family:360
+30540935_31869	983	986	Ca⁺	Chemical
+30540935_31869	992	996	PPAR	Genefamily	not found
+30540935_31869	1023	1031	Hedgehog	Genefamily	family:1373
+30540935_31869	1023	1044	Hedgehog (Hh) pathway	Biomarker
+30540935_31869	1033	1035	Hh	Genefamily	family:1373
+30540935_31869	1104	1119	prostate cancer	Disease
+30540935_31869	1190	1216	inhibition of Hh signaling	Drug
+30540935_31869	1204	1206	Hh	Genefamily
+30540935_31869	1245	1260	prostate cancer	Disease
+30540935_31869	1338	1341	Wnt	Genefamily
+30540935_31869	1338	1400	Wnt/Ca⁺ activity, regulated by Klf4 in our model, is increased	Biomarker
+30540935_31869	1342	1345	Ca⁺	Chemical
+30540935_31869	1369	1373	Klf4	Gene-protein
+30540935_31869	1404	1419	prostate cancer	Disease
+30540935_31869	1453	1457	PPAR	Genefamily
+30540935_31869	1453	1468	PPAR activation	Biomarker
+30540935_31869	1495	1510	prostate cancer	Disease
+30540935_31869	1609	1636	invasive sarcomatoid tumors	Disease	not found
+30540935_31869	1648	1652	Klf4	Gene-protein
+30540935_31869	1743	1758	prostate cancer	Disease
+30540935_31869	1879	1886	cancers	Disease	DOID:162
+30540935_31869	1940	1955	prostate cancer	Disease
+

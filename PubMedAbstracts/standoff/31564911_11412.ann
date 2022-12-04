@@ -1,0 +1,62 @@
+T0	Disease 61 66	tumor
+#1	AnnotatorNotes T0	DOID:162
+T12	Disease 489 506	colorectal cancer
+T13	Disease 619 642	cervical adenocarcinoma
+#4	AnnotatorNotes T13	DOID:3702
+T14	Disease 730 753	cervical adenocarcinoma
+T15	Disease 767 794	Papillary thyroid carcinoma
+#6	AnnotatorNotes T15	DOID:3969
+T17	Disease 838 844	cancer
+#7	AnnotatorNotes T17	DOID:162
+T19	Drug 926 930	¹³¹I
+T23	Disease 1050 1076	breast medullary carcinoma
+#11	AnnotatorNotes T23	DOID:5605
+T27	Disease 1205 1213	melanoma
+#14	AnnotatorNotes T27	DOID:1909
+T28	Disease 1245 1276	primary and metastatic melanoma
+#15	AnnotatorNotes T28	DOID:1909
+T3	Disease 162 191	diffuse large B-cell lymphoma
+#17	AnnotatorNotes T3	DOID:0050745
+T6	Disease 220 237	colorectal cancer
+#19	AnnotatorNotes T6	DOID:9256
+T1	GeneFamily 30 42	MHC class II
+#8	AnnotatorNotes T1	not found
+T5	Biomarker 30 57	MHC class II also expressed
+R1	Association Arg1:T5 Arg2:T0	
+T8	GeneFamily 82 94	MHC class II
+T11	Biomarker 74 123	Loss of MHC class II expression on lymphoma cells
+R2	Prognostic-Poor Arg1:T11 Arg2:T3	
+T2	GeneFamily 210 216	HLA-DR
+#9	AnnotatorNotes T2	not found
+T4	Biomarker 196 216	Expression of HLA-DR
+T7	Disease 401 426	stage C colorectal cancer
+T10	Biomarker 462 485	MHC class II expression
+T16	GeneFamily 462 474	MHC class II
+R3	Prognostic-Good Arg1:T10 Arg2:T12	
+T18	Biomarker 592 615	MHC class II expression
+T20	GeneFamily 592 604	MHC class II
+R4	Prognostic-Good Arg1:T18 Arg2:T13	
+T21	GeneFamily 809 815	HLA-DR
+T26	GeneFamily 817 823	HLA-DQ
+#2	AnnotatorNotes T26	not found
+T9	Biomarker 809 834	HLA-DR, HLA-DQ expression
+T30	GeneFamily 1013 1019	HLA-DR
+T31	Biomarker 999 1046	expression of HLA-DR on cancer cells was higher
+R5	Prognostic-Good Arg1:T31 Arg2:T23	
+T22	GeneFamily 1235 1241	HLA-DR
+T29	GeneFamily 1195 1201	HLA-DQ
+T32	Biomarker 1175 1201	Expression level of HLA-DQ
+R6	Association Arg1:T32 Arg2:T27	
+R7	Association Arg1:T4 Arg2:T6	
+T33	GeneFamily 950 956	HLA-DQ
+T34	Disease 1089 1112	breast ductal carcinoma
+#3	AnnotatorNotes T34	DOID:3007
+R8	Prognostic-Good Arg1:T4 Arg2:T7	
+#5	AnnotatorNotes T7	not found
+R9	Association Arg1:T9 Arg2:T15	
+R10	Association Arg1:T9 Arg2:T17	
+T24	Biomarker 1235 1241	HLA-DR
+#10	AnnotatorNotes T24	D006684
+R11	Association Arg1:T24 Arg2:T28	
+T25	Disease 1117 1136	medullary carcinoma
+#12	AnnotatorNotes T25	D018276

@@ -1,0 +1,50 @@
+31748508_41484|t|RSS_IDENT_p_31748508_b_1_4_4
+31748508_41484|a| Bioinformatics prediction revealed that miR-454 may target VGLL4 for binding. It has been reported that miR-454 is differentially expressed in colon cancer ²⁶ , renal cancer ²⁷ , and esophageal cancer ²⁸ . In these cancers, overexpression of miR-454 can promote the proliferation of colon cancer cells ²⁶ . High expression of miR-454 in patients with triple-negative breast cancer indicates lower disease-free survival and overall survival than that indicated by low expression of miR-454. Meanwhile, high expression of miR-454 indicates a poor prognosis in TNBC ²⁹ . The results confirmed that overexpression of miR-454 significantly promoted proliferation. The downregulation of miR-454 expression reverses the above biological functions, and thus, the results demonstrate that miR-454 may promote tumorigenesis in TNBC. Importantly, our data demonstrated that miR-454 can directly bind to the 3′-UTR of VGLL4 mRNA. In addition, miR-454 overexpression inhibited the expression of the VGLL4 protein in TNBC cells, while the VGLL4 protein was upregulated after inhibition of miR-454. Thus, miR-454 may downregulate VGLL4 expression by blocking its translation. High expression of miR-454 may be one of the causes of low VGLL4 expression in TNBC samples. The miR-454-VGLL4 axis may provide a new direction for clinical diagnosis and targeted therapy for TNBC. 
+31748508_41484	70	77	miR-454	Rna-noncoding	HGNC:33137
+31748508_41484	89	94	VGLL4	Gene-protein	HGNC:28966
+31748508_41484	134	141	miR-454	Rna-noncoding
+31748508_41484	134	169	miR-454 is differentially expressed	Biomarker
+31748508_41484	173	185	colon cancer	Disease	DOID:219
+31748508_41484	173	230	colon cancer ²⁶ , renal cancer ²⁷ , and esophageal cancer	Collection
+31748508_41484	191	203	renal cancer	Disease	DOID:263
+31748508_41484	213	230	esophageal cancer	Disease	DOID:5041
+31748508_41484	245	252	cancers	Disease	DOID:162
+31748508_41484	254	279	overexpression of miR-454	Biomarker
+31748508_41484	272	279	miR-454	Rna-noncoding
+31748508_41484	313	325	colon cancer	Disease
+31748508_41484	337	363	High expression of miR-454	Biomarker
+31748508_41484	356	363	miR-454	Rna-noncoding
+31748508_41484	381	410	triple-negative breast cancer	Disease	DOID:0060081
+31748508_41484	493	518	low expression of miR-454	Biomarker
+31748508_41484	511	518	miR-454	Rna-noncoding
+31748508_41484	531	557	high expression of miR-454	Biomarker
+31748508_41484	550	557	miR-454	Rna-noncoding
+31748508_41484	588	592	TNBC	Disease	DOID:0060081
+31748508_41484	625	650	overexpression of miR-454	Biomarker
+31748508_41484	643	650	miR-454	Rna-noncoding
+31748508_41484	693	729	downregulation of miR-454 expression	Biomarker
+31748508_41484	711	718	miR-454	Rna-noncoding
+31748508_41484	810	817	miR-454	Rna-noncoding
+31748508_41484	810	817	miR-454	Biomarker	C583712
+31748508_41484	847	851	TNBC	Disease
+31748508_41484	893	900	miR-454	Rna-noncoding
+31748508_41484	936	941	VGLL4	Gene-protein
+31748508_41484	961	968	miR-454	Rna-noncoding
+31748508_41484	961	983	miR-454 overexpression	Biomarker
+31748508_41484	1016	1021	VGLL4	Gene-protein
+31748508_41484	1033	1037	TNBC	Disease
+31748508_41484	1055	1060	VGLL4	Gene-protein
+31748508_41484	1105	1112	miR-454	Rna-noncoding
+31748508_41484	1120	1127	miR-454	Rna-noncoding
+31748508_41484	1145	1150	VGLL4	Gene-protein
+31748508_41484	1191	1217	High expression of miR-454	Biomarker
+31748508_41484	1210	1217	miR-454	Rna-noncoding
+31748508_41484	1246	1266	low VGLL4 expression	Biomarker
+31748508_41484	1250	1255	VGLL4	Gene-protein
+31748508_41484	1270	1274	TNBC	Disease
+31748508_41484	1288	1295	miR-454	Rna-noncoding
+31748508_41484	1288	1301	miR-454-VGLL4	Collection
+31748508_41484	1288	1306	miR-454-VGLL4 axis	Biomarker
+31748508_41484	1296	1301	VGLL4	Gene-protein
+31748508_41484	1383	1387	TNBC	Disease
+

@@ -1,0 +1,42 @@
+31005956_11111|t|RSS_IDENT_p_31005956_b_1_3_3
+31005956_11111|a| LINC00673 is located on chromosome 17q24.3, which exhibits a high frequency of loss of heterozygosity [ 36 ]. In 2011, a rs11655237 C>T variant was first documented by Cabiliet et al. [ 37 ]. Later, a GWAS showed rs11655237 C>T to be associated with pancreatic cancer susceptibility [ 30 ]. A subsequent study by Zheng et al. [ 38 ] confirmed the relationship between rs11655237 and the risk of pancreatic ductal adenocarcinoma (PDAC) in a Chinese population and shed light on the molecular mechanism by which the polymorphism confers PDAC risk. They found that the C-to-T shift at rs11655237 creates a target site for miR-1231 binding and interferes with ubiquitination and degradation of PTPN11. They also demonstrated that the rs11655237 T allele can impair LINC00673 activity, thereby triggering SRC-ERK oncogenic signaling and ultimately resulting in a higher risk for developing PDAC. Intriguingly, LINC00673 functions as a tumor suppressor or promoter in different cancer types. Huang et al. [ 29 ] found that LINC00673 is upregulated in gastric cancer and is associated with a poor prognosis. Investigation into the mechanism suggested that LINC00673 is activated by SP1 and exerts oncogenic effects in part through interaction with LSD1 and EZH2. Lu et al. [ 39 ] also identified LINC00673 as an oncogenic mediator in non-small cell lung cancer. They demonstrated that LINC00673 promotes non-small cell lung cancer cell proliferation, migration, invasion, and epithelial mesenchymal transition by sponging miR-150-5p. In addition, research conducted by Yu et al. [ 40 ] showed that LINC00673 is highly expressed in human tongue squamous cell carcinoma and correlates with a poor prognosis. Up to now, however, the possible activity of LINC00673 in neuroblastoma remained unexplored. 
+31005956_11111	30	39	LINC00673	Rna-noncoding	HGNC:44354
+31005956_11111	151	165	rs11655237 C>T	Biomarker
+31005956_11111	243	257	rs11655237 C>T	Biomarker
+31005956_11111	280	297	pancreatic cancer	Disease	DOID:1793
+31005956_11111	398	408	rs11655237	Biomarker
+31005956_11111	425	457	pancreatic ductal adenocarcinoma	Disease	DOID:3498
+31005956_11111	459	463	PDAC	Disease	DOID:3498
+31005956_11111	565	569	PDAC	Disease
+31005956_11111	596	622	C-to-T shift at rs11655237	Biomarker
+31005956_11111	649	657	miR-1231	Rna-noncoding	HGNC:33921
+31005956_11111	720	726	PTPN11	Gene-protein	HGNC:9644
+31005956_11111	760	779	rs11655237 T allele	Biomarker
+31005956_11111	784	809	impair LINC00673 activity	Biomarker
+31005956_11111	791	800	LINC00673	Rna-noncoding
+31005956_11111	830	833	SRC	Gene-protein	HGNC:11283
+31005956_11111	834	837	ERK	Genefamily	not found
+31005956_11111	915	919	PDAC	Disease
+31005956_11111	935	944	LINC00673	Rna-noncoding
+31005956_11111	935	944	LINC00673	Biomarker	C000624628
+31005956_11111	1002	1008	cancer	Disease	DOID:162
+31005956_11111	1047	1056	LINC00673	Rna-noncoding
+31005956_11111	1047	1071	LINC00673 is upregulated	Biomarker
+31005956_11111	1075	1089	gastric cancer	Disease	DOID:10534
+31005956_11111	1179	1188	LINC00673	Rna-noncoding
+31005956_11111	1205	1208	SP1	Gene-protein	HGNC:11205
+31005956_11111	1271	1275	LSD1	Gene-protein	HGNC:29079
+31005956_11111	1280	1284	EZH2	Gene-protein	HGNC:3527
+31005956_11111	1319	1328	LINC00673	Rna-noncoding
+31005956_11111	1319	1328	LINC00673	Biomarker
+31005956_11111	1357	1383	non-small cell lung cancer	Disease	DOID:3908
+31005956_11111	1408	1417	LINC00673	Rna-noncoding
+31005956_11111	1408	1417	LINC00673	Biomarker
+31005956_11111	1427	1453	non-small cell lung cancer	Disease
+31005956_11111	1545	1555	miR-150-5p	Rna-noncoding	HGNC:31537
+31005956_11111	1621	1630	LINC00673	Rna-noncoding
+31005956_11111	1621	1650	LINC00673 is highly expressed	Biomarker
+31005956_11111	1660	1690	tongue squamous cell carcinoma	Disease	DOID:0050865
+31005956_11111	1774	1783	LINC00673	Rna-noncoding
+31005956_11111	1787	1800	neuroblastoma	Disease	DOID:769
+

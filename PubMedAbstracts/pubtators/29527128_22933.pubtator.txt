@@ -1,0 +1,130 @@
+29527128_22933|t|RSS_IDENT_p_29527128_b_1_4_3
+29527128_22933|a| Combinations of VEGFR-TKIs, immune checkpoint inhibitors, and HIF inhibitors may provide good options to overcome drug resistance. Increasing evidence supports a primary role for the HIF-2α subunit in ccRCC over HIF-1α. Due to the frequently VHL loss in ccRCC, which causes increased expression of HIFs, targeting HIFs may be a promising strategy for ccRCC because of frequent VHL loss, which increases HIF expression. HIFs are upstream of the crosstalk between growth factors and regulate the expression of VEGR, EGF, PDGF and other growth factors, which supports targeting HIFs to overcome TKI resistance. Recent preclinical and clinical data on ccRCC indicate that PT2385 and PT2399 effectively inhibit cancer cell growth, proliferation, and tumour angiogenesis characteristic [ 88 , 89 ]. The combination of HIF and immune checkpoint inhibitors is also anticipated, and various clinical trials for PD-1 inhibitors are planned. Abbreviations RCC renal cell carcinoma ccRCC clear cell renal cell carcinoma mRCC metastatic renal cell carcinoma VHL von Hippel–Lindau HIFs hypoxia-inducible factors EGF epidermal growth factor VEGF vascular endothelial growth factor PDGF platelet-derived growth factor TKIs tyrosine kinase inhibitors mTOR mammalian target of rapamycin PD-1 programmed cell death protein 1 PD-L1 programmed death ligand 1 EGFR epidermal growth factor receptor VEGFR vascular endothelial growth factor receptor FGFR fibroblast growth factor receptor PDGFR platelet-derived growth factor receptor IGF-1R insulin-like growth factor 1 receptor TK tyrosine kinase RTK receptor tyrosine kinase PI3K phosphatidylinositol 3-kinase PLC phospholipase C STAT the signal transducer and activator of transcription NSCLC non-smallcell lung cancer lncRNA long non-coding RNA IL interleukin mTORC1 mTOR/raptor complex PFS progression-free survival HB-EGF heparin-binding EGF-like growth factor TGFα transforming growth factor alpha α-SMA α-smooth muscle actin EMT epithelial to mesenchymal transformation BIM Bcl-2 interacting mediator of cell death P-gp P-glycoprotein MDR1 multidrug resistance protein 1 GSTs glutathione S-transferase MRP multidrug resistance-associated protein CSF-1 colony stimulating factor 1 FLT3 Fms-like tyrosine kinase 3 BDNF brain-derived neurotrophic factor GDNF glial cell line-derived neurotrophic factor NGF nerve growth factor NRG2β neuregulin 2β Trk tyrosine receptor kinase HGF hepatocyte growth factor ALK anaplastic lymphoma kinase
+29527128_22933	46	51	VEGFR	Genefamily	not found
+29527128_22933	46	56	VEGFR-TKIs	Drug-class
+29527128_22933	58	86	immune checkpoint inhibitors	Drug-class
+29527128_22933	92	95	HIF	Genefamily	not found
+29527128_22933	92	106	HIF inhibitors	Drug-class
+29527128_22933	213	219	HIF-2α	Gene-protein	HGNC:3374
+29527128_22933	213	227	HIF-2α subunit	Biomarker
+29527128_22933	231	236	ccRCC	Disease	DOID:4467
+29527128_22933	242	248	HIF-1α	Biomarker
+29527128_22933	242	248	HIF-1α	Gene-protein	HGNC:4910
+29527128_22933	261	280	frequently VHL loss	Biomarker
+29527128_22933	272	275	VHL	Gene-protein	HGNC:12687
+29527128_22933	284	289	ccRCC	Disease
+29527128_22933	304	332	increased expression of HIFs	Biomarker
+29527128_22933	328	332	HIFs	Genefamily	not found
+29527128_22933	334	348	targeting HIFs	Drug	not found
+29527128_22933	344	348	HIFs	Genefamily
+29527128_22933	381	386	ccRCC	Disease
+29527128_22933	398	415	frequent VHL loss	Biomarker
+29527128_22933	407	410	VHL	Gene-protein
+29527128_22933	423	448	increases HIF expression.	Biomarker
+29527128_22933	433	436	HIF	Genefamily
+29527128_22933	449	453	HIFs	Genefamily
+29527128_22933	544	547	EGF	Gene-protein	HGNC:3229
+29527128_22933	549	553	PDGF	Genefamily	not found
+29527128_22933	605	609	HIFs	Genefamily
+29527128_22933	622	625	TKI	Drug-class
+29527128_22933	678	683	ccRCC	Disease
+29527128_22933	698	704	PT2385	Drug	C000614279
+29527128_22933	698	715	PT2385 and PT2399	Collection
+29527128_22933	709	715	PT2399	Drug	C000614278
+29527128_22933	736	742	cancer	Disease	DOID:162
+29527128_22933	736	781	cancer cell growth, proliferation, and tumour	Collection
+29527128_22933	775	781	tumour	Disease	DOID:162
+29527128_22933	842	845	HIF	Genefamily
+29527128_22933	850	878	immune checkpoint inhibitors	Drug-class
+29527128_22933	932	936	PD-1	Gene-protein	HGNC:8760
+29527128_22933	932	947	PD-1 inhibitors	Drug-class
+29527128_22933	975	978	RCC	Disease	DOID:4450
+29527128_22933	979	999	renal cell carcinoma	Disease	DOID:4450
+29527128_22933	1000	1005	ccRCC	Disease
+29527128_22933	1006	1037	clear cell renal cell carcinoma	Disease	DOID:4467
+29527128_22933	1038	1042	mRCC	Disease	DOID:4450
+29527128_22933	1043	1074	metastatic renal cell carcinoma	Disease	DOID:4450
+29527128_22933	1075	1078	VHL	Gene-protein
+29527128_22933	1079	1096	von Hippel–Lindau	Gene-protein
+29527128_22933	1097	1101	HIFs	Genefamily
+29527128_22933	1102	1127	hypoxia-inducible factors	Genefamily
+29527128_22933	1128	1131	EGF	Gene-protein
+29527128_22933	1132	1155	epidermal growth factor	Gene-protein
+29527128_22933	1156	1160	VEGF	Genefamily
+29527128_22933	1161	1195	vascular endothelial growth factor	Genefamily
+29527128_22933	1196	1200	PDGF	Genefamily
+29527128_22933	1201	1231	platelet-derived growth factor	Genefamily
+29527128_22933	1232	1236	TKIs	Drug-class
+29527128_22933	1237	1263	tyrosine kinase inhibitors	Drug-class
+29527128_22933	1264	1268	mTOR	Gene-protein
+29527128_22933	1269	1298	mammalian target of rapamycin	Gene-protein
+29527128_22933	1289	1298	rapamycin	Chemical
+29527128_22933	1299	1303	PD-1	Gene-protein
+29527128_22933	1304	1335	programmed cell death protein 1	Gene-protein
+29527128_22933	1336	1341	PD-L1	Gene-protein
+29527128_22933	1342	1367	programmed death ligand 1	Gene-protein
+29527128_22933	1368	1372	EGFR	Gene-protein
+29527128_22933	1373	1405	epidermal growth factor receptor	Gene-protein
+29527128_22933	1406	1411	VEGFR	Gene-protein
+29527128_22933	1412	1455	vascular endothelial growth factor receptor	Gene-protein
+29527128_22933	1456	1460	FGFR	Gene-protein
+29527128_22933	1461	1494	fibroblast growth factor receptor	Gene-protein
+29527128_22933	1495	1500	PDGFR	Gene-protein
+29527128_22933	1501	1540	platelet-derived growth factor receptor	Gene-protein
+29527128_22933	1541	1547	IGF-1R	Gene-protein
+29527128_22933	1548	1585	insulin-like growth factor 1 receptor	Gene-protein
+29527128_22933	1586	1588	TK	Genefamily
+29527128_22933	1589	1597	tyrosine	Chemical
+29527128_22933	1589	1604	tyrosine kinase	Genefamily
+29527128_22933	1605	1608	RTK	Genefamily
+29527128_22933	1609	1633	receptor tyrosine kinase	Genefamily
+29527128_22933	1618	1626	tyrosine	Chemical
+29527128_22933	1634	1638	PI3K	Genefamily
+29527128_22933	1639	1659	phosphatidylinositol	Chemical
+29527128_22933	1639	1668	phosphatidylinositol 3-kinase	Genefamily
+29527128_22933	1669	1672	PLC	Genefamily
+29527128_22933	1673	1688	phospholipase C	Genefamily
+29527128_22933	1689	1693	STAT	Genefamily
+29527128_22933	1698	1746	signal transducer and activator of transcription	Genefamily
+29527128_22933	1747	1752	NSCLC	Disease	DOID:3908
+29527128_22933	1753	1778	non-smallcell lung cancer	Disease	DOID:3908
+29527128_22933	1806	1808	IL	Genefamily
+29527128_22933	1809	1820	interleukin	Genefamily
+29527128_22933	1821	1827	mTORC1	Gene-protein
+29527128_22933	1828	1847	mTOR/raptor complex	Gene-protein
+29527128_22933	1878	1884	HB-EGF	Gene-protein
+29527128_22933	1885	1923	heparin-binding EGF-like growth factor	Gene-protein
+29527128_22933	1924	1928	TGFα	Gene-protein
+29527128_22933	1929	1961	transforming growth factor alpha	Gene-protein
+29527128_22933	1962	1967	α-SMA	Gene-protein
+29527128_22933	1968	1989	α-smooth muscle actin	Gene-protein
+29527128_22933	2035	2038	BIM	Gene-protein
+29527128_22933	2039	2079	Bcl-2 interacting mediator of cell death	Gene-protein
+29527128_22933	2100	2104	MDR1	Gene-protein
+29527128_22933	2105	2133	multidrug resistance protein	Gene-protein
+29527128_22933	2136	2140	GSTs	Genefamily
+29527128_22933	2141	2154	glutathione S	Chemical
+29527128_22933	2141	2166	glutathione S-transferase	Genefamily
+29527128_22933	2167	2170	MRP	Gene-protein
+29527128_22933	2171	2210	multidrug resistance-associated protein	Gene-protein
+29527128_22933	2211	2216	CSF-1	Gene-protein
+29527128_22933	2217	2244	colony stimulating factor 1	Gene-protein
+29527128_22933	2245	2249	FLT3	Gene-protein
+29527128_22933	2250	2276	Fms-like tyrosine kinase 3	Gene-protein
+29527128_22933	2259	2267	tyrosine	Chemical
+29527128_22933	2277	2281	BDNF	Gene-protein
+29527128_22933	2282	2315	brain-derived neurotrophic factor	Gene-protein
+29527128_22933	2316	2320	GDNF	Gene-protein
+29527128_22933	2321	2364	glial cell line-derived neurotrophic factor	Gene-protein
+29527128_22933	2365	2368	NGF	Gene-protein
+29527128_22933	2369	2388	nerve growth factor	Gene-protein
+29527128_22933	2389	2394	NRG2β	Gene-protein
+29527128_22933	2395	2408	neuregulin 2β	Gene-protein
+29527128_22933	2409	2412	Trk	Genefamily
+29527128_22933	2413	2421	tyrosine	Chemical
+29527128_22933	2413	2437	tyrosine receptor kinase	Genefamily
+29527128_22933	2438	2441	HGF	Gene-protein
+29527128_22933	2442	2466	hepatocyte growth factor	Gene-protein
+29527128_22933	2467	2470	ALK	Gene-protein
+29527128_22933	2471	2497	anaplastic lymphoma kinase	Gene-protein
+

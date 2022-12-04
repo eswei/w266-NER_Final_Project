@@ -1,0 +1,65 @@
+T11	Disease 649 664	prostate cancer
+#2	AnnotatorNotes T11	DOID:10283
+T13	Disease 857 872	prostate cancer
+T14	Disease 962 987	pancreatic adenocarcinoma
+#4	AnnotatorNotes T14	DOID:4074
+T16	Disease 1029 1057	pancreatic progenitor tumors
+#5	AnnotatorNotes T16	not found
+T18	Disease 1111 1125	bladder cancer
+#6	AnnotatorNotes T18	DOID:11054
+T19	Disease 1141 1155	bladder cancer
+T23	Disease 1383 1396	breast cancer
+#9	AnnotatorNotes T23	DOID:1612
+T25	Disease 1477 1484	cancers
+T26	Disease 1564 1579	cervical cancer
+#11	AnnotatorNotes T26	DOID:4362
+T3	Disease 279 297	Currarino syndrome
+#12	AnnotatorNotes T3	DOID:0111546
+T6	Disease 498 505	cancers
+#13	AnnotatorNotes T6	DOID:162
+T8	Disease 563 597	poorly differentiated liver cancer
+#14	AnnotatorNotes T8	not found
+T2	Gene-Protein 30 34	MNX1
+#1	AnnotatorNotes T2	HGNC:4979
+T4	Gene-Protein 185 189	MNX1
+T5	Gene-Protein 321 325	MNX1
+T7	Gene-Protein 368 372	MNX1
+T10	Gene-Protein 449 453	MNX1
+T12	Biomarker 321 346	MNX1 deletion or mutation
+R1	Association Arg1:T12 Arg2:T3	
+T15	Gene-Protein 633 637	MNX1
+T17	Biomarker 449 486	MNX1 was reported to be overexpressed
+T20	Gene-Protein 540 544	MNX1
+T21	Biomarker 540 559	MNX1 is upregulated
+R2	Association Arg1:T17 Arg2:T6	
+R3	Association Arg1:T21 Arg2:T8	
+T9	Chemical 706 711	lipid
+T24	Biomarker 788 822	MNX1 was oncogenically upregulated
+T27	Gene-Protein 788 792	MNX1
+R4	Association Arg1:T24 Arg2:T13	
+T28	Gene-Protein 1003 1007	MNX1
+T29	Biomarker 1003 1025	MNX1 was overexpressed
+R5	Association Arg1:T29 Arg2:T14	
+T30	Gene-Protein 1502 1506	MNX1
+T31	Gene-Protein 1421 1425	MNX1
+T32	Gene-Protein 1556 1560	MNX1
+T33	Biomarker 1087 1107	high MNX1 expression
+R6	Association Arg1:T33 Arg2:T18	
+T34	Biomarker 1183 1192	high MNX1
+T35	Gene-Protein 1092 1096	MNX1
+R7	Prognostic-Poor Arg1:T34 Arg2:T19	
+T36	Gene-Protein 1188 1192	MNX1
+T37	Gene-Protein 1284 1288	MNX1
+T38	Biomarker 1309 1319	tumor size
+T39	Biomarker 1321 1336	receptor status
+T40	Biomarker 1338 1359	lymph node metastasis
+T41	Biomarker 1284 1288	MNX1
+R8	Prognostic-Poor Arg1:T41 Arg2:T23	
+T22	Biomarker 1421 1438	MNX1 upregulation
+R9	Association Arg1:T22 Arg2:T25	
+T42	Biomarker 1556 1560	MNX1
+T1	GeneFamily 96 108	EHG homeobox
+#7	AnnotatorNotes T1	not found
+T43	Biomarker 633 637	MNX1
+R10	Association Arg1:T43 Arg2:T11	
+#3	AnnotatorNotes T43	C490003

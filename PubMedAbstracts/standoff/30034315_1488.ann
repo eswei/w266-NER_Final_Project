@@ -1,0 +1,92 @@
+T10	Drug 630 645	targeting of ER
+T11	Disease 687 702	ER-positive BCs
+#2	AnnotatorNotes T11	DOID:0060075
+T12	Drug 727 736	tamoxifen
+T13	Disease 756 758	BC
+T16	Drug 844 853	tamoxifen
+T17	Drug 863 872	tamoxifen
+T2	Disease 41 54	Breast cancer
+#11	AnnotatorNotes T2	DOID:1612
+T20	Chemical 1112 1118	Serine
+T21	Chemical 1124 1130	Ser118
+T22	Chemical 1141 1147	Ser167
+T23	Disease 1392 1394	BC
+T24	Drug 1409 1418	tamoxifen
+T25	Chemical 1629 1635	Ser118
+T26	Chemical 1694 1700	Ser167
+T3	Disease 56 58	BC
+#19	AnnotatorNotes T3	DOID:1612
+T5	Chemical 200 209	Estrogens
+T6	Biomarker 200 209	Estrogens
+T7	Disease 255 257	BC
+T8	Chemical 300 308	estrogen
+T9	Disease 520 523	BCs
+#24	AnnotatorNotes T9	DOID:1612
+R1	Association Arg1:T6 Arg2:T7	
+T1	GeneFamily 300 317	estrogen receptor
+#1	AnnotatorNotes T1	not found
+T4	GeneFamily 319 321	ER
+#3	AnnotatorNotes T4	not found
+T27	GeneFamily 343 345	ER
+T28	GeneFamily 643 645	ER
+T29	Gene-Protein 687 689	ER
+T30	GeneFamily 488 491	ERs
+T31	Gene-Protein 807 809	ER
+T32	GeneFamily 779 781	ER
+T33	Gene-Protein 373 376	ERα
+#4	AnnotatorNotes T33	HGNC:3467
+T34	Gene-Protein 448 451	ERβ
+#7	AnnotatorNotes T34	HGNC:3468
+T35	Biomarker 488 516	ERs are expressed in 60-70 %
+R2	Association Arg1:T35 Arg2:T9	
+T36	Gene-Protein 553 556	ERα
+T37	Drug-Class 708 721	antiestrogens
+#8	AnnotatorNotes T12	CHEMBL83
+T38	Disease 863 889	tamoxifen-resistant tumors
+#12	AnnotatorNotes T38	not found
+T18	Disease 807 822	ER-positive BCs
+#9	AnnotatorNotes T10	not found
+T14	Gene-Protein 986 989	ERα
+T15	Gene-Protein 1069 1072	ERα
+T19	Gene-Protein 1179 1182	ERα
+T39	GeneFamily 1337 1340	AKT
+#5	AnnotatorNotes T39	family:1900
+R3	Response Arg1:T10 Arg2:T11	
+R4	Response Arg1:T12 Arg2:T13	
+R5	Response Arg1:T16 Arg2:T18	
+T40	GeneFamily 1319 1335	protein kinase B
+#6	AnnotatorNotes T40	family:1900
+T41	GeneFamily 1305 1309	MAPK
+#10	AnnotatorNotes T41	family:651
+T42	GeneFamily 1310 1313	ERK
+#13	AnnotatorNotes T42	not found
+T43	Gene-Protein 1527 1531	CDK7
+#14	AnnotatorNotes T43	HGNC:1778
+T44	Gene-Protein 1533 1537	IKKα
+#16	AnnotatorNotes T44	HGNC:1974
+T45	Gene-Protein 1539 1544	GSK3β
+#17	AnnotatorNotes T45	HGNC:4617
+T46	Gene-Protein 1546 1550	EGFR
+#18	AnnotatorNotes T46	HGNC:3236
+T47	Gene-Protein 1555 1558	RET
+#20	AnnotatorNotes T47	HGNC:9967
+T48	Gene-Protein 1622 1625	ERα
+T49	Gene-Protein 1637 1645	p90 RSK1
+#21	AnnotatorNotes T49	HGNC:10430
+T50	Gene-Protein 1669 1672	RET
+T51	Gene-Protein 1687 1690	ERα
+T52	GeneFamily 1647 1663	casein kinase II
+#15	AnnotatorNotes T52	not found
+T53	GeneFamily 1266 1303	extracellular signal-regulated kinase
+#22	AnnotatorNotes T53	not found
+T54	GeneFamily 1233 1265	mitogen-activated protein kinase
+#23	AnnotatorNotes T54	family:651
+#25	AnnotatorNotes T6	D004967
+T55	GeneFamily 1021 1036	protein kinases
+#26	AnnotatorNotes T55	not found
+T56	Biomarker 1112 1182	Serine 118 (Ser118) and 167 (Ser167) are two important residues of ERα
+R6	Mediated-Non-Response Arg1:T24 Arg2:T23	
+R7	Mediator Arg1:T24 Arg2:T56	
+T57	Disease 82 92	malignancy
+#27	AnnotatorNotes T57	DOID:162
+#28	AnnotatorNotes T29	HGNC:3467

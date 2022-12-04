@@ -1,0 +1,74 @@
+T0	Disease 115 118	PCa
+#1	AnnotatorNotes T0	DOID:10283
+T1	Gene-Protein 145 149	AMOT
+T11	Biomarker 715 723	CACNA2D3
+T13	Disease 755 783	ERG-positive prostate cancer
+#4	AnnotatorNotes T13	not found
+T16	Disease 879 885	cancer
+T17	Disease 943 967	nasopharyngeal carcinoma
+#7	AnnotatorNotes T17	DOID:9261
+T18	Biomarker 980 1011	LPL gene is commonly methylated
+T19	Disease 1015 1018	PCa
+T2	Biomarker 145 149	AMOT
+T3	Disease 167 170	PCa
+T4	Biomarker 219 226	miR-205
+T5	Disease 275 288	breast cancer
+#11	AnnotatorNotes T5	DOID:1612
+T6	Disease 436 448	osteosarcoma
+#12	AnnotatorNotes T6	DOID:3347
+T8	Disease 580 586	cancer
+#13	AnnotatorNotes T8	DOID:162
+T9	Disease 675 681	glioma
+#14	AnnotatorNotes T9	DOID:0060108
+T21	Gene-Protein 72 76	AMOT
+#2	AnnotatorNotes T21	HGNC:17810
+T22	Gene-Protein 78 83	GREM1
+#3	AnnotatorNotes T22	HGNC:2001
+T23	Gene-Protein 85 93	CACNA2D3
+#15	AnnotatorNotes T23	 HGNC:15460
+T24	Gene-Protein 95 99	IRF6
+#16	AnnotatorNotes T24	HGNC:6121
+T25	Gene-Protein 105 108	LPL
+#17	AnnotatorNotes T25	HGNC:6677
+R1	Association Arg1:T2 Arg2:T3	
+T26	Gene-Protein 506 511	GREM1
+T27	Gene-Protein 701 706	GREM1
+T28	GeneFamily 199 202	YAP
+#10	AnnotatorNotes T28	not found
+#18	AnnotatorNotes T2	C423985
+T29	RNA-Noncoding 219 226	miR-205
+#19	AnnotatorNotes T29	HGNC:31583
+T30	Gene-Protein 328 332	AMOT
+T31	Gene-Protein 417 421	AMOT
+#20	AnnotatorNotes T4	C534425
+R2	Association Arg1:T4 Arg2:T5	
+T32	RNA-Noncoding 383 390	miR-497
+#21	AnnotatorNotes T32	HGNC:32088
+T33	RNA-Noncoding 607 617	miR-128-3p
+#22	AnnotatorNotes T33	family:1712
+T34	Drug 607 617	miR-128-3p
+#23	AnnotatorNotes T34	C545189
+R4	Response Arg1:T34 Arg2:T9	
+T10	Gene-Protein 715 723	CACNA2D3
+#5	AnnotatorNotes T11	C531012
+R5	Association Arg1:T11 Arg2:T13	
+T12	Gene-Protein 831 835	IRF6
+T14	Biomarker 831 835	IRF6
+#24	AnnotatorNotes T14	C109803
+R6	Association Arg1:T14 Arg2:T15	
+T15	Collection 879 967	cancer stem cell properties and chemotherapeutic sensitivity in nasopharyngeal carcinoma
+T35	Gene-Protein 980 983	LPL
+R7	Association Arg1:T18 Arg2:T19	
+T20	RNA-Noncoding 1127 1134	miR-505
+#6	AnnotatorNotes T20	HGNC:32140
+T36	Gene-Protein 755 758	ERG
+#8	AnnotatorNotes T36	HGNC:3446
+T37	Drug 383 390	miR-497
+#9	AnnotatorNotes T37	C559640
+R8	Response Arg1:T37 Arg2:T6	
+T38	Drug-Class 529 566	bone morphogenetic protein antagonist
+T39	GeneFamily 529 555	bone morphogenetic protein
+#25	AnnotatorNotes T39	family:455
+T7	Biomarker 529 555	bone morphogenetic protein
+#26	AnnotatorNotes T7	D019485
+R3	Association Arg1:T7 Arg2:T8	

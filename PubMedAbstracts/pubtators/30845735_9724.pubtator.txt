@@ -1,0 +1,39 @@
+30845735_9724|t|RSS_IDENT_p_30845735_b_1_3_5
+30845735_9724|a| It is well known that catecholamine overproduction has an adverse effect on cardiac structure [ 22 ]. Catecholamine stimulates cell growth and cardiomyocyte hypertrophy, which may lead to cardiac wall thickening and LV mass increase. In addition, in animal studies, catecholamine infusion has been shown to induce cardiac hypertrophy and myocardial interstitial fibrosis and scarring in both left and right ventricles [ 23 ]. In our previous studies, we found that the patients with PHEO displayed higher LVMI than patients with essential hypertension in echocardiography and that adrenalectomy led to a reduction of cardiovascular remodeling [ 11 ]. Catecholamine-induced cardiomyocyte hypertrophy, elevated cardiac wall thickness and collagen deposition in the extracellular matrix may explain the decrease in GLS in patients with PHEO in the current study. With a more contemporary tool, cardiac magnetic resonance imaging, Ferreira at al. [ 24 ] demonstrated that patients with PHEO had broader extent of myocardial fibrosis and myocardial dysfunction than patients with EH and elevated LV mass, and cardiac fibrosis improved after the removal of catecholamine excess (after adrenalectomy). Taken together, these findings indicate that patients with PHEO had a more severe cardiac fibrosis. This reduction in GLS is well known from patients with hypertrophic cardiomyopathy in whom reductions in longitudinal strain may be found prior to the reduction in EF [ 12 ]. 
+30845735_9724	52	65	catecholamine	Chemical
+30845735_9724	52	80	catecholamine overproduction	Biomarker
+30845735_9724	132	145	Catecholamine	Chemical
+30845735_9724	132	145	Catecholamine	Biomarker	D002395
+30845735_9724	173	198	cardiomyocyte hypertrophy	Disease	not found
+30845735_9724	173	241	cardiomyocyte hypertrophy, which may lead to cardiac wall thickening	Collection
+30845735_9724	218	241	cardiac wall thickening	Disease	not found
+30845735_9724	296	309	catecholamine	Drug	D002395
+30845735_9724	344	363	cardiac hypertrophy	Disease	not found
+30845735_9724	344	400	cardiac hypertrophy and myocardial interstitial fibrosis	Collection
+30845735_9724	368	400	myocardial interstitial fibrosis	Disease	not found
+30845735_9724	513	517	PHEO	Disease	DOID:0050771
+30845735_9724	528	539	higher LVMI	Biomarker
+30845735_9724	559	581	essential hypertension	Disease	DOID:10825
+30845735_9724	634	672	reduction of cardiovascular remodeling	Biomarker
+30845735_9724	681	694	Catecholamine	Chemical
+30845735_9724	681	728	Catecholamine-induced cardiomyocyte hypertrophy	Biomarker
+30845735_9724	681	813	Catecholamine-induced cardiomyocyte hypertrophy, elevated cardiac wall thickness and collagen deposition in the extracellular matrix	Collection
+30845735_9724	730	813	elevated cardiac wall thickness and collagen deposition in the extracellular matrix	Biomarker
+30845735_9724	766	774	collagen	Genefamily	family:490
+30845735_9724	830	845	decrease in GLS	Biomarker
+30845735_9724	863	867	PHEO	Disease
+30845735_9724	1012	1016	PHEO	Disease
+30845735_9724	1039	1058	myocardial fibrosis	Biomarker
+30845735_9724	1039	1085	myocardial fibrosis and myocardial dysfunction	Collection
+30845735_9724	1063	1085	myocardial dysfunction	Biomarker
+30845735_9724	1105	1107	EH	Disease	DOID:10825
+30845735_9724	1112	1128	elevated LV mass	Biomarker
+30845735_9724	1134	1150	cardiac fibrosis	Disease	not found
+30845735_9724	1181	1194	catecholamine	Chemical
+30845735_9724	1284	1288	PHEO	Disease
+30845735_9724	1300	1323	severe cardiac fibrosis	Biomarker
+30845735_9724	1330	1346	reduction in GLS	Biomarker
+30845735_9724	1380	1407	hypertrophic cardiomyopathy	Disease	DOID:11984
+30845735_9724	1416	1449	reductions in longitudinal strain	Biomarker
+30845735_9724	1489	1491	EF	Disease
+

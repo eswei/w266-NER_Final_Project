@@ -1,0 +1,39 @@
+31728210_3938|t|RSS_IDENT_p_31728210_b_1_1_4
+31728210_3938|a| Impaired zinc homeostasis has been observed in various cancers ⁸ . Metadata analyses revealed significantly decreased serum zinc levels in breast, prostate, liver, lung and kidney cancer ⁸ . Alterations in the transcript levels of zinc transporters were previously reported in relation to cancer. For example, overexpression of ZIP6 and ZIP10 has been implicated in breast cancer progression ⁹ . Moreover, downregulation of ZnT5 and ZnT6 mRNA is observed in the early stages of prostate cancer, and ZnT9 mRNA upregulation was observed in stage II of prostate cancer tumors ¹⁰ . Significant upregulation of ZnT1 mRNA was also observed in prostate cancer tissue, independent of tumor stage ¹⁰ . Recently, overexpression of ZnT1 mRNA has been associated with the development and progression of bladder cancer ¹¹ . While dysregulation of zinc transporter expression is observed in cancer, there is no clear evidence that zinc transporter mutations contribute to cancer progression per se.
+31728210_3938	30	55	Impaired zinc homeostasis	Biomarker
+31728210_3938	39	43	zinc	Chemical
+31728210_3938	85	92	cancers	Disease	DOID:162
+31728210_3938	138	165	decreased serum zinc levels	Biomarker
+31728210_3938	154	158	zinc	Chemical
+31728210_3938	169	216	breast, prostate, liver, lung and kidney cancer	Disease	DOID:1612, DOID:10283, DOID:3571, DOID:1324, DOID:263
+31728210_3938	221	278	Alterations in the transcript levels of zinc transporters	Biomarker
+31728210_3938	261	265	zinc	Chemical
+31728210_3938	261	278	zinc transporters	Genefamily	not found
+31728210_3938	319	325	cancer	Disease	DOID:162
+31728210_3938	340	372	overexpression of ZIP6 and ZIP10	Biomarker
+31728210_3938	358	362	ZIP6	Gene-protein	HGNC:18607
+31728210_3938	367	372	ZIP10	Gene-protein	HGNC:20861
+31728210_3938	396	409	breast cancer	Disease	DOID:1612
+31728210_3938	436	472	downregulation of ZnT5 and ZnT6 mRNA	Biomarker
+31728210_3938	454	458	ZnT5	Gene-protein	HGNC:19089
+31728210_3938	463	467	ZnT6	Gene-protein	HGNC:19305
+31728210_3938	508	523	prostate cancer	Disease	DOID:10283
+31728210_3938	529	533	ZnT9	Gene-protein	HGNC:1329
+31728210_3938	529	551	ZnT9 mRNA upregulation	Biomarker
+31728210_3938	568	602	stage II of prostate cancer tumors	Disease	not found
+31728210_3938	608	645	Significant upregulation of ZnT1 mRNA	Biomarker
+31728210_3938	636	640	ZnT1	Gene-protein	HGNC:11012
+31728210_3938	667	682	prostate cancer	Disease
+31728210_3938	706	711	tumor	Disease	DOID:162
+31728210_3938	733	760	overexpression of ZnT1 mRNA	Biomarker
+31728210_3938	751	755	ZnT1	Gene-protein
+31728210_3938	821	835	bladder cancer	Disease	DOID:11054
+31728210_3938	847	891	dysregulation of zinc transporter expression	Biomarker
+31728210_3938	864	868	zinc	Chemical
+31728210_3938	864	880	zinc transporter	Genefamily	not found
+31728210_3938	907	913	cancer	Disease
+31728210_3938	947	951	zinc	Chemical
+31728210_3938	947	963	zinc transporter	Genefamily
+31728210_3938	947	973	zinc transporter mutations	Biomarker
+31728210_3938	988	994	cancer	Disease
+

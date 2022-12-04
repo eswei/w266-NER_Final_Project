@@ -1,0 +1,109 @@
+T0	Chemical 30 33	ENU
+T1	Variant 85 89	S34F
+T10	Disease 778 781	AML
+T11	Variant 805 810	R362Q
+T12	Disease 872 875	AML
+T15	Biomarker 1055 1068	Idh1 mutation
+T16	Disease 1094 1102	late AML
+#6	AnnotatorNotes T16	not found
+T17	Variant 1146 1151	R132Q
+T18	Variant 1201 1206	R132Q
+T19	Biomarker 1221 1291	onco-metabolite 2-hydroxyglutarate (Fig. 5J) that is commonly elevated
+T20	Chemical 1237 1255	2-hydroxyglutarate
+T21	Disease 1309 1316	cancers
+#9	AnnotatorNotes T21	DOID:162
+T22	Disease 1327 1330	AML
+T23	Variant 1368 1373	C175R
+T24	Disease 1397 1405	late AML
+T25	Chemical 1436 1444	cysteine
+T26	Chemical 1450 1454	zinc
+T27	Biomarker 1593 1598	IKZF1
+T28	Disease 1608 1613	tumor
+#14	AnnotatorNotes T28	DOID:162
+T29	Disease 1634 1652	lymphoid neoplasms
+#15	AnnotatorNotes T29	DOID:0060058
+T3	Disease 149 157	leukemic
+#16	AnnotatorNotes T3	DOID:1240
+T30	Disease 1692 1695	MPN
+T31	Disease 1707 1720	pediatric AML
+#18	AnnotatorNotes T31	DOID:0070323
+T33	Biomarker 1783 1788	IKZF1
+T35	Disease 1820 1835	myeloid cancers
+#21	AnnotatorNotes T35	DOID:0070004
+T36	Disease 1890 1893	AML
+T37	Disease 2086 2089	AML
+T38	Disease 2420 2434	leukemogenesis
+T4	Disease 188 191	AML
+#25	AnnotatorNotes T4	DOID:9119
+T5	Biomarker 241 263	four somatic mutations
+T6	Disease 316 330	leukemogenesis
+T7	Disease 363 366	AML
+T8	Chemical 621 635	2-oxoglutarate
+T9	Chemical 636 642	Fe(II)
+T39	Biomarker 30 51	ENU-Induced Mutations
+T40	Gene-Protein 79 84	U2af1
+R1	Variant-Of Arg1:T40 Arg2:T1	
+#1	AnnotatorNotes T1	p.Ser34Phe
+T41	Gene-Protein 95 100	Runx1
+T42	Variant 101 109	Deletion
+R2	Association Arg1:T5 Arg2:T6	
+#5	AnnotatorNotes T6	DOID:1240
+T2	Biomarker 347 359	Tet2 variant
+T43	Gene-Protein 347 351	Tet2
+R3	Association Arg1:T2 Arg2:T7	
+T44	Gene-Protein 583 587	Tet2
+T45	Biomarker 508 522	Loss of exon 9
+T46	Biomarker 609 671	loss of the 2-oxoglutarate-Fe(II)–dependent dioxygenase domain
+T47	ProteinDomain 621 671	2-oxoglutarate-Fe(II)–dependent dioxygenase domain
+T48	Gene-Protein 724 728	Tet2
+T49	Gene-Protein 754 759	Gata2
+T50	Biomarker 754 767	Gata2 variant
+R4	Association Arg1:T50 Arg2:T10	
+T51	Gene-Protein 799 804	GATA2
+R5	Variant-Of Arg1:T51 Arg2:T11	
+#2	AnnotatorNotes T11	p.Arg362Gln
+R6	Association Arg1:T11 Arg2:T12	
+T52	Gene-Protein 853 858	GATA2
+T14	Gene-Protein 960 965	GATA2
+T53	Gene-Protein 1055 1059	Idh1
+R7	Association Arg1:T15 Arg2:T16	
+T54	Gene-Protein 1141 1145	IDH1
+R8	Variant-Of Arg1:T54 Arg2:T17	
+#7	AnnotatorNotes T17	p.Arg132Gln
+T55	Variant 1164 1176	R132 mutants
+#8	AnnotatorNotes T55	p.Arg132Xaa
+T56	Gene-Protein 1180 1184	IDH1
+R9	Variant-Of Arg1:T56 Arg2:T55	
+T57	Gene-Protein 1196 1200	IDH1
+R10	Variant-Of Arg1:T57 Arg2:T18	
+T58	Collection 1309 1330	cancers including AML
+R11	Association Arg1:T19 Arg2:T58	
+T59	Collection 1164 1207	R132 mutants of IDH1, including IDH1(R132Q)
+R12	Association Arg1:T59 Arg2:T58	
+T60	Gene-Protein 1362 1367	Ikzf1
+R13	Variant-Of Arg1:T60 Arg2:T23	
+#3	AnnotatorNotes T23	p.Cys175Arg
+R14	Association Arg1:T23 Arg2:T24	
+T61	ProteinDomain 1450 1468	zinc finger domain
+T62	Gene-Protein 1586 1591	Ikzf1
+T63	Gene-Protein 1593 1598	IKZF1
+#10	AnnotatorNotes T30	DOID:2226
+T32	Collection 1634 1720	lymphoid neoplasms ( 54 ), is also recurrently deleted in MPN ( 55 ) and pediatric AML
+R15	Association Arg1:T27 Arg2:T32	
+T64	Gene-Protein 1783 1788	IKZF1
+T65	Gene-Protein 2111 2115	IDH1
+T66	Gene-Protein 2136 2140	TET2
+T67	Gene-Protein 2169 2174	Gata2
+T68	Gene-Protein 2179 2184	Ikzf1
+T69	Gene-Protein 2197 2202	Runx1
+T70	Biomarker 2300 2312	Mutant U2AF1
+T71	Gene-Protein 2307 2312	U2AF1
+R17	Association Arg1:T70 Arg2:T38	
+#11	AnnotatorNotes T27	C497239
+R18	Variant-Of Arg1:T41 Arg2:T42	
+#12	AnnotatorNotes T54	HGNC:5382
+#13	AnnotatorNotes T63	HGNC:13176
+#17	AnnotatorNotes T66	HGNC:25941
+#19	AnnotatorNotes T71	HGNC:12453
+#20	AnnotatorNotes T43	HGNC:25941
+#4	AnnotatorNotes T53	HGNC:5382

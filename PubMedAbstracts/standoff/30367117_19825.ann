@@ -1,0 +1,57 @@
+T1	Chemical 110 126	arachidonic acid
+T10	Disease 260 274	prostate tumor
+#2	AnnotatorNotes T10	DOID:10283
+T11	Disease 330 335	tumor
+#3	AnnotatorNotes T11	DOID:162
+T12	Biomarker 400 418	high Gleason score
+T14	Drug 502 511	docetaxel
+T15	Gene-Protein 547 554	ALOX15B
+T16	Biomarker 547 685	ALOX15B (arachidonate 15-lipoxygenase type II) known to metabolize arachidonic acid to fatty acid hydroperoxides, is selectively regulated
+T17	Chemical 556 568	arachidonate
+T18	Chemical 614 630	arachidonic acid
+T19	Chemical 634 659	fatty acid hydroperoxides
+T20	Disease 689 692	PCa
+#11	AnnotatorNotes T20	DOID:10283
+T21	Biomarker 742 762	expression of CYP2J2
+T22	Disease 779 784	tumor
+T23	Chemical 811 827	arachidonic acid
+T24	Chemical 831 856	epoxyeicosatrienoic acids
+T3	Disease 146 170	ETS− and ETS+ PCa tumors
+#20	AnnotatorNotes T3	not found, not found
+T32	Chemical 1052 1064	arachidonate
+T33	Disease 1152 1158	tumors
+T7	Chemical 202 210	glycerol
+T8	Biomarker 202 250	glycerol and arachidonic acid produced via ABDH2
+T9	Chemical 215 231	arachidonic acid
+T34	Gene-Protein 66 68	AR
+#1	AnnotatorNotes T34	HGNC:644
+T35	GeneFamily 146 149	ETS
+#5	AnnotatorNotes T35	family:534
+T2	GeneFamily 155 158	ETS
+R1	Association Arg1:T8 Arg2:T10	
+T4	Disease 979 1003	ETS− and ETS+ PCa tumors
+T5	Gene-Protein 245 250	ABDH2
+#6	AnnotatorNotes T5	HGNC:18717
+T6	Gene-Protein 382 387	ABHD2
+T28	Biomarker 382 394	ABHD2 levels
+T36	Biomarker 420 444	pathological nodal stage
+#7	AnnotatorNotes T14	CHEMBL3545252
+#8	AnnotatorNotes T15	HGNC:434
+T37	Gene-Protein 556 592	arachidonate 15-lipoxygenase type II
+#9	AnnotatorNotes T37	HGNC:434
+R2	Association Arg1:T16 Arg2:T20	
+T38	GeneFamily 699 702	ETS
+T39	Gene-Protein 756 762	CYP2J2
+#10	AnnotatorNotes T39	HGNC:2634
+T40	Disease 889 900	ETS− tumors
+#12	AnnotatorNotes T40	not found
+R3	Mediated-Response Arg1:T14 Arg2:T11	
+T25	Collection 779 900	tumor cell growth by converting arachidonic acid to epoxyeicosatrienoic acids [ 24 ], is also up-regulated in ETS− tumors
+R4	Association Arg1:T21 Arg2:T25	
+T26	Biomarker 1042 1075	targeting arachidonate metabolism
+T27	GeneFamily 979 982	ETS
+T29	GeneFamily 988 991	ETS
+R6	Association Arg1:T26 Arg2:T33	
+T13	Biomarker 446 480	low cancer-specific survival rates
+T30	Drug-Class 518 530	chemotherapy
+#4	AnnotatorNotes T33	DOID:162

@@ -1,0 +1,61 @@
+30745454_29058|t|RSS_IDENT_p_30745454_b_1_4_4
+30745454_29058|a| PIEZO1 and 2 are highly expressed in lung tissue. Knockdown of PIEZO1 in lung epithelial cells attenuated cell adherence and stimulated cell migration [ 18 ]. In particular, how lung mechanotransduction regulates lung tumor progression remains elusive. We investigated the expression and prognostic roles of PIEZO channels in NSCLC patients. Our data indicate that the expression of PIEZOs decreased in lung tumor tissues, which may result in the impaired function of PIEZO channels in LC patients [ 6 ]. Similar to LC, the expression of PIEZO1 is also down-regulated in radiation-induced thyroid tumors [ 43 ]. The potential molecular mechanisms leading to the decreased expression of PIEZOs were different. For PIEZO1, gene expression shows high frequency of deep deletion in human LC tissue. However, PIEZO2 expression shows a high mutation ratio in cancer tissue from NSCLC patients. The predicted roles of PIEZOs in NSCLC patients, both PIEZO1 and 2, are those involved in the suppression of tumor progression. The higher expression of PIEZO1 and PIEZO2 was correlated to better OS for all NSCLC patients. Indeed, we provide compelling evidence that PIEZO1 and 2 have critical prognostic values in NSCLC. Meanwhile, Yoda1, an activator for activation or sensitization of membrane tension, and non-specific blockers of PIEZOs (such as gadolinium, ruthenium red, and streptomycin), have been reported to regulate PIEZO functions [ 44 ], which might be useful in understanding the heterogeneity and complexity of the molecular biological role of PIEZOs in the pathogenesis of NSCLC and other diseases. Our current study indicated that blocking the function of PIEZOs or knockout of the expression of PIEZOs promotes tumor formation, which may suggest that activators targetting PIEZOs would be a potential candidate for the treatment of NSCLC. 
+30745454_29058	30	42	PIEZO1 and 2	Gene-protein	HGNC:28993, HGNC:26270
+30745454_29058	80	99	Knockdown of PIEZO1	Drug	not found
+30745454_29058	93	99	PIEZO1	Gene-protein	HGNC:28993
+30745454_29058	243	253	lung tumor	Disease	DOID:1324
+30745454_29058	338	352	PIEZO channels	Genefamily	not found
+30745454_29058	356	361	NSCLC	Disease	DOID:3908
+30745454_29058	399	429	expression of PIEZOs decreased	Biomarker
+30745454_29058	413	419	PIEZOs	Genefamily	not found
+30745454_29058	433	443	lung tumor	Disease
+30745454_29058	477	512	impaired function of PIEZO channels	Biomarker
+30745454_29058	498	512	PIEZO channels	Genefamily
+30745454_29058	516	518	LC	Disease	DOID:1324
+30745454_29058	546	548	LC	Disease
+30745454_29058	554	597	expression of PIEZO1 is also down-regulated	Biomarker
+30745454_29058	568	574	PIEZO1	Gene-protein
+30745454_29058	601	610	radiation	Drug-class
+30745454_29058	601	633	radiation-induced thyroid tumors	Disease	not found
+30745454_29058	692	722	decreased expression of PIEZOs	Biomarker
+30745454_29058	716	722	PIEZOs	Genefamily
+30745454_29058	743	749	PIEZO1	Gene-protein
+30745454_29058	743	804	PIEZO1, gene expression shows high frequency of deep deletion	Biomarker
+30745454_29058	814	816	LC	Disease
+30745454_29058	834	840	PIEZO2	Gene-protein	HGNC:26270
+30745454_29058	834	879	PIEZO2 expression shows a high mutation ratio	Biomarker
+30745454_29058	883	889	cancer	Disease	DOID:162
+30745454_29058	902	907	NSCLC	Disease
+30745454_29058	941	947	PIEZOs	Genefamily
+30745454_29058	941	947	PIEZOs	Biomarker
+30745454_29058	951	956	NSCLC	Disease
+30745454_29058	972	984	PIEZO1 and 2	Gene-protein
+30745454_29058	972	984	PIEZO1 and 2	Biomarker	C515204, C000589132
+30745454_29058	1027	1032	tumor	Disease	DOID:162
+30745454_29058	1050	1088	higher expression of PIEZO1 and PIEZO2	Biomarker
+30745454_29058	1071	1077	PIEZO1	Gene-protein
+30745454_29058	1082	1088	PIEZO2	Gene-protein
+30745454_29058	1125	1130	NSCLC	Disease
+30745454_29058	1185	1197	PIEZO1 and 2	Gene-protein
+30745454_29058	1185	1197	PIEZO1 and 2	Biomarker
+30745454_29058	1233	1238	NSCLC	Disease
+30745454_29058	1251	1256	Yoda1	Drug	C000708435
+30745454_29058	1328	1359	non-specific blockers of PIEZOs	Drug-class
+30745454_29058	1353	1359	PIEZOs	Genefamily
+30745454_29058	1369	1379	gadolinium	Drug	CHEMBL1232993
+30745454_29058	1381	1394	ruthenium red	Drug	CHEMBL2068405
+30745454_29058	1400	1412	streptomycin	Drug	 CHEMBL372795
+30745454_29058	1446	1451	PIEZO	Genefamily
+30745454_29058	1578	1584	PIEZOs	Genefamily
+30745454_29058	1578	1584	PIEZOs	Biomarker
+30745454_29058	1608	1613	NSCLC	Disease
+30745454_29058	1667	1698	blocking the function of PIEZOs	Drug	not found
+30745454_29058	1667	1738	blocking the function of PIEZOs or knockout of the expression of PIEZOs	Collection
+30745454_29058	1692	1698	PIEZOs	Genefamily
+30745454_29058	1702	1738	knockout of the expression of PIEZOs	Drug	not found
+30745454_29058	1732	1738	PIEZOs	Genefamily
+30745454_29058	1748	1753	tumor	Disease	DOID:162
+30745454_29058	1788	1816	activators targetting PIEZOs	Drug
+30745454_29058	1810	1816	PIEZOs	Genefamily
+30745454_29058	1869	1874	NSCLC	Disease
+

@@ -1,0 +1,87 @@
+T10	Disease 474 503	corneal endothelial dystrophy
+#2	AnnotatorNotes T10	DOID:0060443
+T11	Biomarker 524 606	abnormal transition of the corneal endothelium into stratified squamous epithelium
+T12	Biomarker 611 624	corneal edema
+#3	AnnotatorNotes T12	D015715
+T13	Disease 636 640	PPCD
+T14	Disease 764 767	CDs
+T15	Disease 823 827	PPCD
+T16	Biomarker 833 1099	mutations in the COL8A2 (collagen type VIII alpha 2 chain) gene on chromosome 1p34.3 (PPCD2), the ZEB1 (zinc finger E-box binding homeobox 1) gene on chromosome 10p11.2 (PPCD3), and the GRHL2 (grainyhead like transcription factor 2) gene on chromosome 8q22.3 (PPCD4)
+T17	Chemical 937 941	zinc
+T18	Disease 1219 1223	PPCD
+T19	Disease 1270 1272	CD
+T2	Disease 44 63	Corneal dystrophies
+#10	AnnotatorNotes T2	DOID:2566
+T20	Disease 1300 1343	congenital hereditary endothelial dystrophy
+#11	AnnotatorNotes T20	DOID:0060649
+T21	Disease 1345 1349	CHED
+#12	AnnotatorNotes T21	DOID:0060649
+T23	Disease 1366 1390	autosomal dominant CHED1
+T24	Biomarker 1398 1438	evident corneal opacity by 1 year of age
+T27	Chemical 1729 1733	zinc
+T28	Disease 1791 1796	CHED1
+#16	AnnotatorNotes T28	DOID:0110855
+T29	Disease 1890 1895	PPCD1
+#17	AnnotatorNotes T29	DOID:0110855
+T3	Disease 65 68	CDs
+#18	AnnotatorNotes T3	DOID:2566
+T31	Disease 1922 1927	CHED2
+#19	AnnotatorNotes T31	C536439
+T33	Biomarker 1981 2040	corneal opacity at birth or in the immediate newborn period
+#21	AnnotatorNotes T33	D003318
+T35	Biomarker 2042 2098	Mutations in SLC4A11 (solute carrier family 4 member 11)
+T37	Disease 2199 2204	CHED2
+T38	Disease 2257 2272	endothelial CDs
+#24	AnnotatorNotes T38	DOID:0060443
+T39	Disease 2343 2346	CDs
+T40	Biomarker 2417 2482	heterozygous missense mutation in ZNF143 (zinc finger protein 143
+T41	Chemical 2459 2463	zinc
+T42	Disease 2535 2549	endothelial CD
+#28	AnnotatorNotes T42	DOID:0060443
+T5	Disease 176 179	CDs
+T7	Disease 383 423	Posterior polymorphous corneal dystrophy
+#31	AnnotatorNotes T7	DOID:0060457
+T8	Disease 425 429	PPCD
+#32	AnnotatorNotes T8	DOID:0060457
+T1	Collection 524 624	abnormal transition of the corneal endothelium into stratified squamous epithelium and corneal edema
+R1	Association Arg1:T1 Arg2:T7	
+T4	Gene-Protein 850 856	COL8A2
+#1	AnnotatorNotes T4	HGNC:2216
+T9	Gene-Protein 858 890	collagen type VIII alpha 2 chain
+#4	AnnotatorNotes T9	HGNC:2216
+T43	Gene-Protein 919 924	PPCD2
+#5	AnnotatorNotes T43	HGNC:2216
+T44	Gene-Protein 931 935	ZEB1
+#6	AnnotatorNotes T44	HGNC:11642
+T45	Gene-Protein 937 973	zinc finger E-box binding homeobox 1
+#7	AnnotatorNotes T45	HGNC:11642
+T46	Gene-Protein 1003 1008	PPCD3
+#15	AnnotatorNotes T46	HGNC:11642
+T47	Gene-Protein 1019 1024	GRHL2
+#22	AnnotatorNotes T47	HGNC:2799
+T48	Gene-Protein 1026 1064	grainyhead like transcription factor 2
+#26	AnnotatorNotes T48	HGNC:2799
+T49	Gene-Protein 1093 1098	PPCD4
+#27	AnnotatorNotes T49	HGNC:2799
+R2	Association Arg1:T16 Arg2:T15	
+T50	Gene-Protein 1131 1136	PPCD1
+#8	AnnotatorNotes T19	DOID:2566
+#9	AnnotatorNotes T23	DOID:0110855
+R3	Association Arg1:T24 Arg2:T23	
+T22	Gene-Protein 1713 1718	OVOL2
+#13	AnnotatorNotes T22	HGNC:15804
+T25	Gene-Protein 1720 1742	ovo like zinc finger 2
+#14	AnnotatorNotes T25	HGNC:15804
+T26	Biomarker 1676 1718	transcriptional dysregulation of the OVOL2
+T30	Gene-Protein 2055 2062	SLC4A11
+#20	AnnotatorNotes T30	HGNC:16438
+T32	Gene-Protein 2064 2097	solute carrier family 4 member 11
+#29	AnnotatorNotes T32	HGNC:16438
+R4	Association Arg1:T35 Arg2:T37	
+R5	Association Arg1:T40 Arg2:T42	
+T51	Gene-Protein 2451 2457	ZNF143
+#23	AnnotatorNotes T51	HGNC:12928
+T52	Gene-Protein 2459 2482	zinc finger protein 143
+#25	AnnotatorNotes T52	HGNC:12928
+R6	Association Arg1:T33 Arg2:T31	
+#30	AnnotatorNotes T50	HGNC:12723

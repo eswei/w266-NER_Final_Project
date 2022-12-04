@@ -1,0 +1,38 @@
+30115075_27551|t|RSS_IDENT_s_30115075_b_1_5
+30115075_27551|a| Conclusion To our knowledge, this is the first study that compared clinical and pathological differences among patients grouped based on Fib deposition levels. The data indicate that HSPN children with glomerular Fib deposition, especially those with severe Fib deposition, have more severe inflammatory reactions, hypercoagulability and disordered immune functions; glomerular damage in these patients may also be more severe. Abbreviations 24 h U-MA 24-h Urinary microalbumin 24 h U-TP 24 h Urinary total protein DD D-dimer Fib Fibrinogen hs-CRP high-sensitivity C-reactive protein HSPN Henoch-Schönlein purpura nephritis UIgG/Cr Urinary immunoglobulin G/urinary creatinine UMA/Cr Urinary microalbumin /urinary creatinine UNAG/Cr Urinary N-acetylglucosaminidase/urinary creatinine UTRF/Cr Urinary transferrin / urinary creatinine Uα1MG/Cr Urinary α1 microglobulin/urinary creatinine Uβ2MG/Cr Urinary β2 microglobulin/urinary creatinine Authors’ contributions
+30115075_27551	165	168	Fib	Genefamily	not found
+30115075_27551	211	300	HSPN children with glomerular Fib deposition, especially those with severe Fib deposition	Disease	not found
+30115075_27551	241	244	Fib	Genefamily
+30115075_27551	286	289	Fib	Genefamily
+30115075_27551	312	341	severe inflammatory reactions	Biomarker
+30115075_27551	312	412	severe inflammatory reactions, hypercoagulability and disordered immune functions; glomerular damage	Collection
+30115075_27551	343	361	hypercoagulability	Biomarker
+30115075_27551	366	393	disordered immune functions	Biomarker
+30115075_27551	395	412	glomerular damage	Biomarker
+30115075_27551	554	557	Fib	Genefamily
+30115075_27551	558	568	Fibrinogen	Genefamily	family:554
+30115075_27551	572	575	CRP	Gene-protein	HGNC:2367
+30115075_27551	593	611	C-reactive protein	Gene-protein	HGNC:2367
+30115075_27551	612	616	HSPN	Disease
+30115075_27551	617	651	Henoch-Schönlein purpura nephritis	Disease	DOID:11123
+30115075_27551	652	656	UIgG	Gene-protein	not found
+30115075_27551	657	659	Cr	Chemical
+30115075_27551	660	684	Urinary immunoglobulin G	Gene-protein	not found
+30115075_27551	708	710	Cr	Chemical
+30115075_27551	741	751	creatinine	Chemical
+30115075_27551	752	756	UNAG	Chemical
+30115075_27551	757	759	Cr	Chemical
+30115075_27551	768	791	N-acetylglucosaminidase	Chemical
+30115075_27551	800	810	creatinine	Chemical
+30115075_27551	811	815	UTRF	Gene-protein	HGNC:11740
+30115075_27551	816	818	Cr	Chemical
+30115075_27551	819	838	Urinary transferrin	Gene-protein	HGNC:11740
+30115075_27551	849	859	creatinine	Chemical
+30115075_27551	860	865	Uα1MG	Gene-protein	HGNC:453
+30115075_27551	866	868	Cr	Chemical
+30115075_27551	869	893	Urinary α1 microglobulin	Gene-protein	HGNC:453
+30115075_27551	902	912	creatinine	Chemical
+30115075_27551	913	918	Uβ2MG	Gene-protein	HGNC:914
+30115075_27551	922	946	Urinary β2 microglobulin	Gene-protein	HGNC:914
+30115075_27551	955	965	creatinine	Chemical
+

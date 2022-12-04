@@ -1,0 +1,91 @@
+30736824_3446|t|RSS_IDENT_p_30736824_b_1_1_3
+30736824_3446|a| STAT3 is a crucial and well-known mediator of malignant progression in CRC [ 9 , 10 ]. An ever-increasing number of reports correlate excessive GP130/STAT3 signaling with the progression of colon cancer [ 11 ]. Once activated, it plays a critical role in the oncogenesis, proliferation, metastasis and invasion of colon cancers by up-regulating the expression of downstream genes, including cyclin D1, c-myc, bcl-XL, survivin etc. Thus far, a series of STAT3-activating cytokines that promote colon cancer has been identified [ 3 ]. IL-11, a member of the IL-6 family of cytokines, has been recently identified as potentially the most important cytokine in promoting colon cancer through exclusive utilization of GP130 homodimers when bound to its receptor, IL-11R [ 12 ]. The interleukin (IL)-6 family of cytokines comprises 10 members: IL-6, IL-11, ciliary neurotrophic factor (CNTF), cardiotrophin-1 (CT-1), cardiotrophin-like cytokine (CLC), leukemia inhibitory factor (LIF), neuropoietin (NP), oncostatin M (OSM), IL-27, and IL-31 [ 13 ]. IL-11 and IL-6 are the only known cytokines that initiate signal transduction via a GP130 homodimer; all other cytokines utilize heterodimers of GP130 in combination with a second signal-transducing receptor [ 14 ]. In classic signaling, IL-11 binds to the membrane-bound IL-11R to initiate signal transduction. Recently, it was found that IL-11 signaling can also be initiated via soluble IL-11R, known as trans-signaling [ 15 ]. Upon the formation of IL-11/IL-11R/GP130 hexameric complex, IL-11 mainly mediated cancer development through the induction and activation of the JAK/STAT3 signaling pathway [ 16 – 18 ]. It has already been found to contribute to tumorigenesis in several types of solid malignancies [ 19 , 20 ]. In colon cancer, the up-regulated IL-11 and IL-11R were also found to be highly expressed in samples of CRC patients [ 21 ]. The dominance of IL-11 over IL-6 as the cytokine enabling tumor outgrowth from the gastrointestinal epithelium also extends into clinically more prevalent situations that occur independently of overt inflammation and/or colitis. Accordingly, low IL-11 levels correlate with reduced resistance toward chemotherapy of some solid cancers. Several studies have emphasized the potential tumorigenic role of IL-11 in colon cancer as well as its potential role as a target in colon cancers [ 3 , 22 ]. IL-11 has a stronger correlation with elevated STAT3 activation in human gastrointestinal cancers. All these findings demonstrate that therapeutic inhibition of IL-11/GP130 signaling can be used for the treatment of gastrointestinal cancers.
+30736824_3446	30	35	STAT3	Biomarker	D050796
+30736824_3446	30	35	STAT3	Gene-protein	HGNC:11364
+30736824_3446	101	104	CRC	Disease	DOID:9256
+30736824_3446	164	195	excessive GP130/STAT3 signaling	Biomarker
+30736824_3446	174	179	GP130	Gene-protein	HGNC:6021
+30736824_3446	180	185	STAT3	Gene-protein
+30736824_3446	220	232	colon cancer	Disease	DOID:219
+30736824_3446	344	357	colon cancers	Disease	DOID:219
+30736824_3446	421	430	cyclin D1	Gene-protein	HGNC:1582
+30736824_3446	432	437	c-myc	Gene-protein	HGNC:7553
+30736824_3446	439	445	bcl-XL	Gene-protein	HGNC:992
+30736824_3446	447	455	survivin	Gene-protein	HGNC:593
+30736824_3446	473	509	series of STAT3-activating cytokines	Biomarker
+30736824_3446	483	488	STAT3	Gene-protein
+30736824_3446	500	509	cytokines	Genefamily	not found
+30736824_3446	523	535	colon cancer	Disease
+30736824_3446	563	568	IL-11	Biomarker	 D017370
+30736824_3446	563	568	IL-11	Gene-protein	HGNC:5966
+30736824_3446	586	610	IL-6 family of cytokines	Genefamily	family:1264
+30736824_3446	675	683	cytokine	Genefamily	not found
+30736824_3446	697	709	colon cancer	Disease
+30736824_3446	743	748	GP130	Gene-protein
+30736824_3446	788	794	IL-11R	Genefamily	not found
+30736824_3446	807	845	interleukin (IL)-6 family of cytokines	Genefamily	family:1264
+30736824_3446	851	853	is	Genefamily
+30736824_3446	868	872	IL-6	Gene-protein
+30736824_3446	874	879	IL-11	Gene-protein
+30736824_3446	881	908	ciliary neurotrophic factor	Gene-protein	HGNC:2169
+30736824_3446	910	914	CNTF	Gene-protein	HGNC:2169
+30736824_3446	917	932	cardiotrophin-1	Gene-protein	HGNC:2499
+30736824_3446	934	938	CT-1	Gene-protein	HGNC:2499
+30736824_3446	941	968	cardiotrophin-like cytokine	Gene-protein	HGNC:17412
+30736824_3446	970	973	CLC	Gene-protein	HGNC:17412
+30736824_3446	976	1002	leukemia inhibitory factor	Gene-protein	HGNC:6596
+30736824_3446	1004	1007	LIF	Gene-protein	HGNC:6596
+30736824_3446	1010	1022	neuropoietin	Gene-protein	HGNC:33173
+30736824_3446	1024	1026	NP	Gene-protein	HGNC:33173
+30736824_3446	1029	1041	oncostatin M	Gene-protein	HGNC:8506
+30736824_3446	1043	1046	OSM	Gene-protein	HGNC:8506
+30736824_3446	1049	1054	IL-27	Gene-protein	HGNC:19157
+30736824_3446	1060	1065	IL-31	Gene-protein	HGNC:19372
+30736824_3446	1074	1079	IL-11	Gene-protein
+30736824_3446	1084	1088	IL-6	Gene-protein
+30736824_3446	1108	1117	cytokines	Genefamily
+30736824_3446	1158	1163	GP130	Gene-protein
+30736824_3446	1185	1194	cytokines	Genefamily
+30736824_3446	1219	1224	GP130	Gene-protein
+30736824_3446	1312	1317	IL-11	Gene-protein
+30736824_3446	1346	1352	IL-11R	Genefamily
+30736824_3446	1414	1419	IL-11	Gene-protein
+30736824_3446	1464	1470	IL-11R	Genefamily
+30736824_3446	1527	1532	IL-11	Gene-protein
+30736824_3446	1533	1539	IL-11R	Genefamily
+30736824_3446	1540	1545	GP130	Gene-protein
+30736824_3446	1565	1570	IL-11	Gene-protein
+30736824_3446	1587	1593	cancer	Disease	DOID:162
+30736824_3446	1650	1653	JAK	Genefamily	family:1459
+30736824_3446	1654	1659	STAT3	Gene-protein
+30736824_3446	1768	1786	solid malignancies	Disease	not found
+30736824_3446	1803	1815	colon cancer	Disease
+30736824_3446	1821	1889	up-regulated IL-11 and IL-11R were also found to be highly expressed	Biomarker
+30736824_3446	1834	1839	IL-11	Gene-protein
+30736824_3446	1844	1850	IL-11R	Genefamily
+30736824_3446	1904	1907	CRC	Disease
+30736824_3446	1929	1973	dominance of IL-11 over IL-6 as the cytokine	Biomarker
+30736824_3446	1942	1947	IL-11	Gene-protein
+30736824_3446	1953	1957	IL-6	Gene-protein
+30736824_3446	1965	1973	cytokine	Gene-protein
+30736824_3446	1983	1988	tumor	Disease	DOID:162
+30736824_3446	2119	2137	overt inflammation	Disease	not found
+30736824_3446	2145	2152	colitis	Disease	DOID:0060180
+30736824_3446	2167	2183	low IL-11 levels	Drug	not found
+30736824_3446	2171	2176	IL-11	Gene-protein
+30736824_3446	2225	2237	chemotherapy	Drug-class
+30736824_3446	2246	2259	solid cancers	Disease	DOID:6315
+30736824_3446	2327	2332	IL-11	Biomarker	D017370
+30736824_3446	2327	2332	IL-11	Gene-protein
+30736824_3446	2336	2348	colon cancer	Disease
+30736824_3446	2394	2407	colon cancers	Disease
+30736824_3446	2420	2425	IL-11	Biomarker
+30736824_3446	2420	2425	IL-11	Gene-protein
+30736824_3446	2458	2483	elevated STAT3 activation	Biomarker
+30736824_3446	2467	2472	STAT3	Gene-protein
+30736824_3446	2493	2517	gastrointestinal cancers	Disease	DOID:3119
+30736824_3446	2567	2602	inhibition of IL-11/GP130 signaling	Drug	not found
+30736824_3446	2581	2586	IL-11	Gene-protein
+30736824_3446	2587	2592	GP130	Gene-protein
+30736824_3446	2636	2660	gastrointestinal cancers	Disease
+

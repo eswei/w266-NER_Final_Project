@@ -1,0 +1,58 @@
+T0	Chemical 119 130	polyphenols
+T1	Chemical 232 242	flavonoids
+T10	Disease 576 606	diabetic peripheral neuropathy
+#3	AnnotatorNotes T10	not found
+T12	Drug 773 783	epalrestat
+T13	Disease 819 827	PMM2-CDG
+T14	Drug 875 885	epalrestat
+T15	Disease 904 912	PMM2-CDG
+T17	Drug 999 1009	epalrestat
+T18	Disease 1023 1031	PMM2-CDG
+T19	Chemical 1128 1134	aldose
+T2	Drug-Class 250 260	flavonoids
+T20	Chemical 1229 1235	aldose
+T21	Chemical 1281 1305	glucose-1,6-bisphosphate
+T22	Chemical 1328 1335	glucose
+T23	Chemical 1400 1422	phosphorylated glucose
+T24	Drug 1438 1448	epalrestat
+T25	Disease 1639 1663	hypoglycosylation stress
+T3	Drug 267 274	fisetin
+T4	Drug 276 288	ellagic acid
+T5	Chemical 353 366	cinnamic acid
+T7	Disease 430 438	PMM2-CDG
+#22	AnnotatorNotes T7	DOID:0080552
+T8	Chemical 468 474	aldose
+T9	Drug 554 564	epalrestat
+T26	Chemical 134 148	phytochemicals
+#1	AnnotatorNotes T3	CHEMBL31574
+#2	AnnotatorNotes T4	CHEMBL6246
+R1	Response Arg1:T2 Arg2:T7	
+T6	Collection 267 288	fisetin, ellagic acid
+R2	Response Arg1:T6 Arg2:T7	
+T27	Gene-Protein 468 484	aldose reductase
+#4	AnnotatorNotes T9	 CHEMBL56337
+T28	Drug-Class 630 656	aldose reductase inhibitor
+T11	Gene-Protein 630 646	aldose reductase
+#5	AnnotatorNotes T11	HGNC:381
+T29	Gene-Protein 430 434	PMM2
+T30	Gene-Protein 734 738	PMM2
+#7	AnnotatorNotes T30	HGNC:9115
+T31	Drug-Class 658 661	ARI
+T32	Gene-Protein 819 823	PMM2
+T33	Gene-Protein 904 908	PMM2
+T34	Gene-Protein 1023 1027	PMM2
+T35	Gene-Protein 1061 1065	PMM2
+T36	Gene-Protein 1128 1144	aldose reductase
+T37	Gene-Protein 1191 1195	PMM2
+T38	Gene-Protein 1229 1245	aldose reductase
+T39	Gene-Protein 1457 1462	pmm-2
+T40	Gene-Protein 1520 1524	NRF2
+T41	Gene-Protein 1569 1573	PMM2
+T42	Gene-Protein 1611 1615	NRF2
+#6	AnnotatorNotes T25	not found
+T43	Gene-Protein 1678 1682	pmm2
+#9	AnnotatorNotes T36	not found
+T16	Drug-Class 734 755	PMM2 enzyme activator
+T45	Variant 956 961	R141H
+#10	AnnotatorNotes T45	p,Arg141His
+R4	Variant-Of Arg1:T33 Arg2:T45	

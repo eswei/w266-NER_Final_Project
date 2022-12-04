@@ -1,0 +1,58 @@
+T11	Drug 686 689	CTX
+T13	Drug 735 738	CTX
+T15	Disease 887 892	tumor
+#5	AnnotatorNotes T15	DOID:162
+T16	Disease 988 993	tumor
+T19	Disease 1126 1129	CRC
+T2	Disease 277 283	cancer
+#8	AnnotatorNotes T2	DOID:162
+T22	Drug 1189 1192	CTX
+T23	Disease 1207 1210	CRC
+T4	Disease 376 398	CD44ʰⁱᵍʰ breast cancer
+#12	AnnotatorNotes T4	not found
+T5	Drug 418 428	epirubicin
+T7	Drug 610 613	CTX
+T8	Disease 628 631	CRC
+T9	Disease 673 676	CRC
+T1	Gene-Protein 60 64	CD44
+#1	AnnotatorNotes T1	HGNC:1681
+T3	Gene-Protein 299 303	CD44
+#2	AnnotatorNotes T5	CHEMBL417
+T14	Gene-Protein 538 542	CD44
+#3	AnnotatorNotes T7	CHEMBL1201577
+T6	Biomarker 538 542	CD44
+#4	AnnotatorNotes T6	C497483
+R1	Non-Response Arg1:T7 Arg2:T8	
+T17	RNA-Noncoding 580 588	miR-302a
+#7	AnnotatorNotes T17	HGNC:31623
+T18	Drug 647 661	CD44 silencing
+#9	AnnotatorNotes T18	not found
+T20	Gene-Protein 647 651	CD44
+R3	Synergy-Response Arg1:T11 Arg2:T9	
+R4	Synergy-Response Arg1:T18 Arg2:T9	
+T10	Biomarker 707 726	CD44 overexpression
+T24	Gene-Protein 707 711	CD44
+#10	AnnotatorNotes T8	DOID:9256
+T12	RNA-Noncoding 815 823	miR-302a
+T25	Biomarker 844 864	CD44 was upregulated
+R7	Association Arg1:T25 Arg2:T15	
+T26	Drug 906 929	miR-302a overexpression
+#11	AnnotatorNotes T26	not found
+T27	RNA-Noncoding 906 914	miR-302a
+T28	Drug 933 947	CD44 silencing
+T29	Gene-Protein 933 937	CD44
+T30	Collection 906 947	miR-302a overexpression or CD44 silencing
+R8	Response Arg1:T30 Arg2:T16	
+T31	RNA-Noncoding 1105 1113	miR-302a
+T32	Biomarker 1105 1113	miR-302a
+#6	AnnotatorNotes T32	C532169
+T33	Biomarker 1118 1122	CD44
+T34	Gene-Protein 1118 1122	CD44
+T35	RNA-Noncoding 1166 1174	miR-302a
+T36	Biomarker 1166 1174	miR-302a
+R9	Mediated-Non-Response Arg1:T22 Arg2:T23	
+R10	Mediator Arg1:T22 Arg2:T36	
+T21	Gene-Protein 1252 1256	CD44
+T37	Gene-Protein 844 848	CD44
+T38	Biomarker 580 588	miR-302a
+R2	Mediator Arg1:T7 Arg2:T38	

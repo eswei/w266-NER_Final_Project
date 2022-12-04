@@ -1,0 +1,58 @@
+31793656_39854|t|RSS_IDENT_p_31793656_b_1_4_8
+31793656_39854|a| As the functional binding of sLeˣ/sLeᵃ antigens with E-selectins is crucially dependent on their presentation by scaffold proteins ( 59 - 61 ), their mere detection has limited prognostic value in different cancers ( 62 - 64 ). Thus, the identification of sLeˣ/sLeᵃ -decorated protein scaffolds is expected to provide more specific and reliable clinical biomarkers. While carriers of E-selectin ligands have been identified in several types of cancer, including the CD44 glycoform known as hematopoietic cell E-/L-selectin ligand in colon cancer, and CEA in colon and prostate cancer ( 65 , 66 ), no functionally defined E-selectin ligands were identified in NSCLC to date. Here, the data indicated that CEA decorated by sLeˣ/sLeᵃ acts as a functionally relevant E-selectin ligand. Thus, CEA interactions with endothelial selectins may the mediate tethering, rolling and adhesion of tumour cells to the endothelium, consequently promoting cancer metastasis. CEA is a glycoprotein with low and limited expression in normal tissues, but is detected at high levels in tumours with epithelial origin, including NSCLC, gastric carcinoma and colorectal cancer, for which it is used as a tumour biomarker ( 67 ). Serum CEA in patients with NSCLC correlates with advanced stage of the disease, poor therapeutic response, early relapse and shorter survival ( 35 , 68 ). Notably, besides cell adhesion, CEA also serves key functions in intracellular and intercellular signalling involved in cancer progression, inflammation, angiogenesis and metastasis ( 69 ). Thus, CEA-E-selectin interactions may also contribute to these malignant features. Although CEA and sLeˣ/sLeᵃ have been extensively suggested as clinical biomarkers in NSCLC ( 12 , 70 , 71 ), to our knowledge, this is the first study addressing the functional relevance of sLeˣ/sLeᵃ-associated CEA as an E-selectin ligand in primary NSCLC tissue. 
+31793656_39854	83	94	E-selectins	Gene-protein	HGNC:10721
+31793656_39854	237	244	cancers	Disease	DOID:162
+31793656_39854	286	324	sLeˣ/sLeᵃ -decorated protein scaffolds	Biomarker
+31793656_39854	402	432	carriers of E-selectin ligands	Biomarker
+31793656_39854	414	424	E-selectin	Gene-protein	HGNC:10721
+31793656_39854	474	480	cancer	Disease	DOID:162
+31793656_39854	496	500	CD44	Gene-protein	HGNC:1681
+31793656_39854	496	510	CD44 glycoform	Biomarker	C497483
+31793656_39854	520	559	hematopoietic cell E-/L-selectin ligand	Gene-protein	HGNC:1681
+31793656_39854	563	575	colon cancer	Disease	DOID:219
+31793656_39854	581	584	CEA	Gene-protein	HGNC:1819
+31793656_39854	581	584	CEA	Biomarker	C548518
+31793656_39854	588	613	colon and prostate cancer	Disease	DOID:219,DOID:10283
+31793656_39854	651	661	E-selectin	Gene-protein
+31793656_39854	651	669	E-selectin ligands	Biomarker
+31793656_39854	689	694	NSCLC	Disease	DOID:3908
+31793656_39854	734	737	CEA	Gene-protein
+31793656_39854	793	803	E-selectin	Gene-protein
+31793656_39854	818	821	CEA	Gene-protein
+31793656_39854	818	861	CEA interactions with endothelial selectins	Biomarker
+31793656_39854	840	861	endothelial selectins	Gene-protein	HGNC:10721
+31793656_39854	913	919	tumour	Disease	DOID:162
+31793656_39854	913	975	tumour cells to the endothelium, consequently promoting cancer	Collection
+31793656_39854	969	975	cancer	Disease	DOID:14566|DOID:162
+31793656_39854	988	991	CEA	Gene-protein
+31793656_39854	988	1091	CEA is a glycoprotein with low and limited expression in normal tissues, but is detected at high levels	Biomarker
+31793656_39854	1095	1102	tumours	Disease	DOID:162
+31793656_39854	1095	1217	tumours with epithelial origin, including NSCLC, gastric carcinoma and colorectal cancer, for which it is used as a tumour	Collection
+31793656_39854	1137	1142	NSCLC	Disease
+31793656_39854	1144	1161	gastric carcinoma	Disease	DOID:5517
+31793656_39854	1166	1183	colorectal cancer	Disease	DOID:9256
+31793656_39854	1211	1217	tumour	Disease
+31793656_39854	1236	1245	Serum CEA	Biomarker
+31793656_39854	1242	1245	CEA	Gene-protein
+31793656_39854	1263	1268	NSCLC	Disease
+31793656_39854	1285	1314	advanced stage of the disease	Biomarker
+31793656_39854	1316	1341	poor therapeutic response	Biomarker
+31793656_39854	1343	1356	early relapse	Biomarker
+31793656_39854	1361	1377	shorter survival	Biomarker
+31793656_39854	1423	1426	CEA	Gene-protein
+31793656_39854	1423	1426	CEA	Biomarker
+31793656_39854	1511	1517	cancer	Disease
+31793656_39854	1587	1590	CEA	Gene-protein
+31793656_39854	1587	1614	CEA-E-selectin interactions	Biomarker
+31793656_39854	1591	1601	E-selectin	Gene-protein
+31793656_39854	1644	1662	malignant features	Disease	DOID:1909
+31793656_39854	1673	1676	CEA	Gene-protein
+31793656_39854	1673	1676	CEA	Biomarker
+31793656_39854	1673	1690	CEA and sLeˣ/sLeᵃ	Collection
+31793656_39854	1681	1690	sLeˣ/sLeᵃ	Biomarker
+31793656_39854	1749	1754	NSCLC	Disease
+31793656_39854	1854	1902	sLeˣ/sLeᵃ-associated CEA as an E-selectin ligand	Biomarker
+31793656_39854	1875	1878	CEA	Gene-protein
+31793656_39854	1885	1895	E-selectin	Gene-protein
+31793656_39854	1914	1919	NSCLC	Disease
+

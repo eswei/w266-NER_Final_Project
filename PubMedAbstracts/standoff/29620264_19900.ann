@@ -1,0 +1,68 @@
+T1	Disease 116 141	epithelial ovarian cancer
+#1	AnnotatorNotes T1	DOID:2152
+T10	Drug 462 465	PTX
+T11	Disease 481 500	lung adenocarcinoma
+#3	AnnotatorNotes T11	DOID:3910
+T12	Drug 556 559	PTX
+T13	Disease 587 601	gastric cancer
+#5	AnnotatorNotes T13	DOID:10534
+T14	Drug 686 689	PTX
+T15	Disease 698 712	ovarian cancer
+T16	Disease 894 900	cancer
+#8	AnnotatorNotes T16	DOID:162
+T17	Drug 920 923	PTX
+T19	Disease 1045 1056	lung cancer
+#10	AnnotatorNotes T19	DOID:1324
+T21	Disease 1315 1329	ovarian cancer
+T3	Drug 152 155	PTX
+T4	Drug 160 171	cisplatinum
+T6	Disease 258 272	ovarian cancer
+#18	AnnotatorNotes T6	DOID:2394
+T7	Disease 324 338	ovarian cancer
+T9	Gene-Protein 399 413	retinoblastoma
+#20	AnnotatorNotes T9	HGNC:9884
+T8	GeneFamily 788 791	AKT
+T18	GeneFamily 864 867	AKT
+T23	Gene-Protein 54 59	TNF-α
+#2	AnnotatorNotes T23	HGNC:11892
+T24	Drug 202 208	PL-PTX
+T25	GeneFamily 1216 1219	AKT
+T26	GeneFamily 1212 1215	ERK
+T27	GeneFamily 1145 1148	ERK
+T28	GeneFamily 784 787	ERK
+T29	Gene-Protein 295 298	TNF
+#4	AnnotatorNotes T29	HGNC:11892
+T30	Gene-Protein 299 308	caspase-3
+#6	AnnotatorNotes T30	HGNC:1504
+R1	Response Arg1:T24 Arg2:T6	
+#9	AnnotatorNotes T24	not found
+#11	AnnotatorNotes T3	CHEMBL428647
+#12	AnnotatorNotes T4	CHEMBL11359
+T2	GeneFamily 380 383	ERK
+#15	AnnotatorNotes T2	not found
+R2	Mediated-Response Arg1:T10 Arg2:T11	
+T5	Biomarker 380 394	ERK activation
+T31	Biomarker 399 437	retinoblastoma protein phosphorylation
+T32	Collection 380 437	ERK activation and retinoblastoma protein phosphorylation
+R3	Mediator Arg1:T10 Arg2:T32	
+R4	Response Arg1:T12 Arg2:T13	
+T33	GeneFamily 634 637	AKT
+#16	AnnotatorNotes T33	family:1900
+T34	GeneFamily 630 633	ERK
+R5	Response Arg1:T14 Arg2:T15	
+T35	GeneFamily 860 863	ERK
+T36	Gene-Protein 753 756	TNF
+T38	Drug 992 1035	upregulation of caspase-3 expression levels
+#7	AnnotatorNotes T38	not found
+R8	Response Arg1:T38 Arg2:T19	
+T39	GeneFamily 1087 1095	protease
+#17	AnnotatorNotes T39	not found
+T40	Gene-Protein 1275 1278	TNF
+T41	Drug 1301 1307	PL-PTX
+T42	Gene-Protein 1279 1288	caspase-3
+T20	Gene-Protein 1008 1017	caspase-3
+T22	Drug 42 59	recombinant TNF-α
+#13	AnnotatorNotes T22	not found
+T43	Collection 152 171	PTX and cisplatinum
+R9	Synergy-Response Arg1:T43 Arg2:T1	
+R10	Synergy-Response Arg1:T22 Arg2:T1	

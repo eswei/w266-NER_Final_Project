@@ -1,0 +1,34 @@
+30405052_24900|t|RSS_IDENT_p_30405052_b_1_4_7
+30405052_24900|a| Although BrC displays high mortality and recurrence rate, clinical course is heterogeneous and perfecting disease prognostication might improve patient management. Interestingly, lower PSAT1 promoter methylation independently predicted for worse DFS. The potential of PSAT1 methylation to predict BrC recurrence has been previously reported in early diagnosed luminal-type BrC. Futhermore, a correlation between high PSAT1 methylation levels, on the one hand, and low PSAT1 mRNAs levels and better outcome, on the other, were disclosed [ 14 ]. Interestingly, high PSAT1 expression were associated with poor outcome in nasopharyngeal carcinoma [ 67 ]. These data are in accordance with our findings. Furthermore, high FOXA1 methylation levels independently predicted shorter DSS, a finding that, to best of our knowledge, has not been reported, thus far. Remarkably, FOXA1 expression was previously shown to associate with good prognosis and response to endocrine therapy in BrC patients [ 39 , 40 ], and, thus, promoter methylation is the most likely mechanism underlying FOXA1 downregulation in BrC. In Cohort #1, RASSF1A methylation levels did not show prognostic value, which is in accordance with some previous publications [ 68 , 69 , 70 ]. Nonetheless, other studies have found RASSF1A hypermethylation as a poor prognosis marker in BrC, associating with shorter DFS and DSS [ 9 , 22 , 71 ]. This discrepancy might be due to differences in sample type and methodologies. Because a meta-analysis suggested that RASSF1A methylation is, indeed, associated with worse DFS and DSS [ 72 ], additional studies are needed to definitively establish the prognostic value of RASSF1A promoter methylation in BrC. 
+30405052_24900	39	42	BrC	Disease	DOID:1612
+30405052_24900	209	220	lower PSAT1	Biomarker
+30405052_24900	215	220	PSAT1	Gene-protein	HGNC:19129
+30405052_24900	298	303	PSAT1	Gene-protein
+30405052_24900	298	315	PSAT1 methylation	Biomarker
+30405052_24900	327	330	BrC	Disease
+30405052_24900	390	406	luminal-type BrC	Disease	not found
+30405052_24900	442	471	high PSAT1 methylation levels	Biomarker
+30405052_24900	447	452	PSAT1	Gene-protein
+30405052_24900	494	509	low PSAT1 mRNAs	Biomarker
+30405052_24900	498	503	PSAT1	Gene-protein
+30405052_24900	589	599	high PSAT1	Biomarker
+30405052_24900	594	599	PSAT1	Gene-protein
+30405052_24900	648	672	nasopharyngeal carcinoma	Disease	DOID:9261
+30405052_24900	742	771	high FOXA1 methylation levels	Biomarker
+30405052_24900	747	752	FOXA1	Gene-protein	HGNC:5021
+30405052_24900	896	901	FOXA1	Gene-protein
+30405052_24900	896	912	FOXA1 expression	Biomarker
+30405052_24900	983	1000	endocrine therapy	Drug-class
+30405052_24900	1004	1007	BrC	Disease
+30405052_24900	1102	1107	FOXA1	Gene-protein
+30405052_24900	1102	1122	FOXA1 downregulation	Biomarker
+30405052_24900	1126	1129	BrC	Disease
+30405052_24900	1145	1152	RASSF1A	Gene-protein	not found
+30405052_24900	1314	1321	RASSF1A	Gene-protein
+30405052_24900	1314	1338	RASSF1A hypermethylation	Biomarker
+30405052_24900	1369	1372	BrC	Disease
+30405052_24900	1546	1553	RASSF1A	Gene-protein
+30405052_24900	1546	1565	RASSF1A methylation	Biomarker
+30405052_24900	1700	1707	RASSF1A	Gene-protein
+30405052_24900	1732	1735	BrC	Disease
+

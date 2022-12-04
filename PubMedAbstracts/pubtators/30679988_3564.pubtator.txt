@@ -1,0 +1,46 @@
+30679988_3564|t|RSS_IDENT_p_30679988_b_1_1_3
+30679988_3564|a| MicroRNAs (miRs) are small (20–25 nucleotides), noncoding RNAs that regulate the expression of certain target genes in various physiological and pathological processes ( 7 ). They serve key roles as oncogenes or tumor suppressors and thus regulate tumor progression and metastasis ( 8 , 9 ). Several critical miRs have been identified in RB progression. Hsa-miR-373 may be involved in RB invasion and metastasis, while hsa-miR-125b and hsa-let-7b may function as tumor suppressors by co-regulating cell division protein kinase 6, cell division cycle 25A and lin-28 homolog A ( 10 , 11 ). Furthermore. hsa-miR-181a may serve a key role in the cyclin-dependent kinase inhibitor 1B-regulated cell cycle pathway ( 10 ). Certain miRs, including hsa-miR-25, hsa-miR-18a and hsa-miR-20a may affect the progression of RB by coregulating BCL2-like 1 ( 10 ). Furthermore, miR-497 functions as a tumor suppressor in RB carcinogenesis and progression ( 12 ). He et al ( 13 ), demonstrated the suppressive effect of miR-143 in RB by targeting CDK6. In addition, miR-31 and miR-200a expression was revealed to be significantly reduced in human RBs and was determined to mediate the regulation of RB proliferation ( 4 ). miR-125b is also significantly upregulated in RB, promoting tumor growth and suppressing apoptosis ( 11 ). Castro-Magdonel et al ( 14 ), has recently revealed a miR landscape that exhibits a core-cluster of 30 miRs in RB. miR-3613 was also identified as being a potential and critical downregulatory marker in RB ( 14 ). However, the regulatory mechanisms involving miR in RB are yet to be fully elucidated. 
+30679988_3564	64	75	nucleotides	Chemical
+30679988_3564	278	283	tumor	Disease	DOID:162
+30679988_3564	322	343	Several critical miRs	Biomarker
+30679988_3564	368	370	RB	Disease	DOID:768
+30679988_3564	384	395	Hsa-miR-373	Rna-noncoding	HGNC:31787
+30679988_3564	384	395	Hsa-miR-373	Biomarker	C527114
+30679988_3564	415	417	RB	Disease
+30679988_3564	449	461	hsa-miR-125b	Rna-noncoding
+30679988_3564	466	476	hsa-let-7b	Rna-noncoding	HGNC:31479
+30679988_3564	528	558	cell division protein kinase 6	Gene-protein	HGNC:1744
+30679988_3564	560	583	cell division cycle 25A	Gene-protein	HGNC:1725
+30679988_3564	588	604	lin-28 homolog A	Gene-protein	HGNC:15986
+30679988_3564	631	643	hsa-miR-181a	Rna-noncoding	HGNC:31549
+30679988_3564	672	708	cyclin-dependent kinase inhibitor 1B	Gene-protein	HGNC:1785
+30679988_3564	770	780	hsa-miR-25	Rna-noncoding	HGNC:31609
+30679988_3564	770	780	hsa-miR-25	Biomarker	C543351
+30679988_3564	770	809	hsa-miR-25, hsa-miR-18a and hsa-miR-20a	Collection
+30679988_3564	782	793	hsa-miR-18a	Rna-noncoding	HGNC:31548
+30679988_3564	782	793	hsa-miR-18a	Biomarker	C522576
+30679988_3564	798	809	hsa-miR-20a	Rna-noncoding	HGNC:31577
+30679988_3564	798	809	hsa-miR-20a	Biomarker	C534451
+30679988_3564	840	842	RB	Disease
+30679988_3564	859	870	BCL2-like 1	Gene-protein	HGNC:992
+30679988_3564	892	899	miR-497	Rna-noncoding	HGNC:32088
+30679988_3564	935	937	RB	Disease
+30679988_3564	1033	1040	miR-143	Rna-noncoding	HGNC:31530
+30679988_3564	1033	1040	miR-143	Drug	C542359
+30679988_3564	1044	1046	RB	Disease
+30679988_3564	1060	1064	CDK6	Gene-protein	HGNC:1777
+30679988_3564	1079	1085	miR-31	Rna-noncoding	HGNC:31630
+30679988_3564	1079	1150	miR-31 and miR-200a expression was revealed to be significantly reduced	Biomarker
+30679988_3564	1090	1098	miR-200a	Rna-noncoding	HGNC:31578
+30679988_3564	1160	1163	RBs	Disease
+30679988_3564	1212	1214	RB	Disease
+30679988_3564	1236	1244	miR-125b	Rna-noncoding
+30679988_3564	1236	1278	miR-125b is also significantly upregulated	Biomarker
+30679988_3564	1282	1284	RB	Disease
+30679988_3564	1296	1301	tumor	Disease
+30679988_3564	1454	1456	RB	Disease
+30679988_3564	1458	1466	miR-3613	Rna-noncoding	HGNC:38964
+30679988_3564	1458	1466	miR-3613	Biomarker
+30679988_3564	1546	1548	RB	Disease
+30679988_3564	1609	1611	RB	Disease
+

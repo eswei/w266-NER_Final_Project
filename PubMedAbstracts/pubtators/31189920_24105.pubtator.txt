@@ -1,0 +1,51 @@
+31189920_24105|t|RSS_IDENT_p_31189920_b_1_3_4
+31189920_24105|a| Mounting evidence has shown that lncRNAs act as ceRNAs that sponge miRNAs and reduce the binding of miRNAs to target genes, thereby regulating the expression of the target genes. Previous studies showed that SNHG1 functions as a ceRNA in nasopharyngeal carcinoma ²⁹ , ischaemic stroke ³⁰ and osteosarcoma ³¹ . Inspired by these studies, we hypothesized that SNHG1 regulates glioma progression via a ceRNA mechanism. Through a literature search, we found that SNHG1 could bound to miR-154-5p/miR-376b-3p and attenuate its expression, thereby regulating glioma progression ²⁸ . Based on these findings, we wondered whether SNHG1 can adsorb other miRNAs to regulate the progression of glioma. By searching online databases, nine miRNAs were identified as potential targets of SNHG1. Through a series of experiments, including luciferase reporter and RNA pull-down assays, we determined that miR-194 is the functional target of SNHG1. MiR-194 has been proven to be a tumour suppressor in various human cancers. For example, Sun et al. reported that miR-194 is involved in the progression of pancreatic cancer ³² . Li et al. showed that miR-194 has an effect on the epithelial-mesenchymal transition of colorectal adenocarcinoma ³³ . In the present study, we concluded that miR-194 inhibits glucose uptake and the proliferation, migration, invasion and angiogenesis of glioma. We also demonstrated that PHLDA1 is the functional target of miR-194. Several studies have shown that PHLDA1 is involved in the development of gastric cancer ³⁴ , ovarian cancer ³⁵ and papillary adenocarcinoma ³⁶ . However, its role in glioma has not been reported in detail. In the current study, we showed that PHLDA1 is upregulated in glioma and promotes the malignant progress of glioma. We also performed a series of assays and found that the effect of sh-SNHG1 in glioma cells can be partly reversed by miR-194 inhibitors. 
+31189920_24105	238	243	SNHG1	Rna-noncoding	HGNC:32688
+31189920_24105	238	243	SNHG1	Biomarker	C000613724
+31189920_24105	268	292	nasopharyngeal carcinoma	Disease	DOID:9261
+31189920_24105	268	334	nasopharyngeal carcinoma ²⁹ , ischaemic stroke ³⁰ and osteosarcoma	Collection
+31189920_24105	298	314	ischaemic stroke	Disease	D000083242
+31189920_24105	322	334	osteosarcoma	Disease	DOID:3347
+31189920_24105	388	393	SNHG1	Rna-noncoding
+31189920_24105	404	410	glioma	Disease	DOID:0060108
+31189920_24105	489	494	SNHG1	Rna-noncoding
+31189920_24105	489	494	SNHG1	Biomarker
+31189920_24105	510	520	miR-154-5p	Rna-noncoding	HGNC:31541
+31189920_24105	521	532	miR-376b-3p	Rna-noncoding	HGNC:32066
+31189920_24105	582	588	glioma	Disease
+31189920_24105	651	656	SNHG1	Rna-noncoding
+31189920_24105	712	718	glioma	Disease
+31189920_24105	803	808	SNHG1	Rna-noncoding
+31189920_24105	918	925	miR-194	Rna-noncoding	family:1720
+31189920_24105	954	959	SNHG1	Rna-noncoding
+31189920_24105	961	968	MiR-194	Rna-noncoding
+31189920_24105	1028	1035	cancers	Disease	DOID:162
+31189920_24105	1075	1082	miR-194	Rna-noncoding
+31189920_24105	1075	1082	miR-194	Biomarker	C554846
+31189920_24105	1117	1134	pancreatic cancer	Disease	DOID:1793
+31189920_24105	1162	1169	miR-194	Rna-noncoding
+31189920_24105	1162	1169	miR-194	Biomarker
+31189920_24105	1228	1253	colorectal adenocarcinoma	Disease	DOID:0050861
+31189920_24105	1299	1306	miR-194	Rna-noncoding
+31189920_24105	1299	1306	miR-194	Drug	C554846
+31189920_24105	1316	1323	glucose	Chemical
+31189920_24105	1394	1400	glioma	Disease
+31189920_24105	1428	1434	PHLDA1	Gene-protein	HGNC:8933
+31189920_24105	1463	1470	miR-194	Rna-noncoding
+31189920_24105	1504	1510	PHLDA1	Gene-protein
+31189920_24105	1504	1510	PHLDA1	Biomarker	C491923
+31189920_24105	1545	1559	gastric cancer	Disease	DOID:10534
+31189920_24105	1545	1611	gastric cancer ³⁴ , ovarian cancer ³⁵ and papillary adenocarcinoma	Collection
+31189920_24105	1565	1579	ovarian cancer	Disease	DOID:2394
+31189920_24105	1587	1611	papillary adenocarcinoma	Disease	DOID:3112
+31189920_24105	1638	1644	glioma	Disease
+31189920_24105	1715	1721	PHLDA1	Gene-protein
+31189920_24105	1715	1736	PHLDA1 is upregulated	Biomarker
+31189920_24105	1740	1746	glioma	Disease
+31189920_24105	1786	1792	glioma	Disease
+31189920_24105	1860	1868	sh-SNHG1	Biomarker
+31189920_24105	1863	1868	SNHG1	Rna-noncoding
+31189920_24105	1872	1878	glioma	Disease
+31189920_24105	1911	1918	miR-194	Rna-noncoding
+31189920_24105	1911	1929	miR-194 inhibitors	Drug-class
+

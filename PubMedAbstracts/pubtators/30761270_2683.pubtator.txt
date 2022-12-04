@@ -1,0 +1,59 @@
+30761270_2683|t|RSS_IDENT_p_30761270_b_1_1_3
+30761270_2683|a| Retinal determination gene network (RDGN), mainly including dachshund (DACH), sine oculis (SIX) and eyes absent (EYA), governs organ development ( 11 ). EYA family members, including EYA1, EYA2, EYA3, and EYA4, contain a C-terminal 271 amino-acid region for the interaction with other proteins and a N-terminal domain responsible for the innate immune response with inherent threonine phosphorylation activity ( 12 – 14 ). Recently, the dysregulation of EYA2 has been reported to be involved in several human cancers ( 15 – 18 ). For instance, EYA2 expression was enhanced in multiple tumors in comparison with corresponding normal tissues ( 16 , 17 ). EYA2 can promote tumor growth in diverse tumor types ( 16 – 19 ). In human astrocytoma, EYA2 promoted cell cycle progression of tumor cells via the up-regulation of cyclin D1 and cyclin E ( 17 ). Knockdown of EYA2 by siRNA reduced the proliferation through cell cycle G1 block and enhanced the apoptosis of lung adenocarcinoma cells ( 20 ). On the contrary, one previous research demonstrated that EYA2 overexpression was an unfavorable molecule for tumor growth of pancreatic adenocarcinoma in orthotopic models ( 21 ). In addition, EYA2 can also contribute to tumor invasion and metastasis for some cancer types, including breast cancer ( 18 ), lung adenocarcinoma ( 22 ), and astrocytoma ( 17 ). Several mechanisms might underlie the role of EYA2 in tumor invasion, including the activation of ERK signaling ( 17 ) and the promotion of epithelial-mesenchymal transition (EMT) ( 18 ). The association between EYA2 and clinical outcomes is controversial. High EYA2 level has been demonstrated to be a negative element for prognosis in lung cancer ( 16 ), while EYA2 predicted better clinical outcomes in colorectal cancer ( 15 ) and pancreatic cancer ( 21 ). 
+30761270_2683	90	99	dachshund	Gene-protein	HGNC:2663
+30761270_2683	101	105	DACH	Gene-protein	HGNC:2663
+30761270_2683	108	119	sine oculis	Genefamily	family:525
+30761270_2683	121	124	SIX	Genefamily	family:525
+30761270_2683	130	141	eyes absent	Genefamily	family:1044
+30761270_2683	143	146	EYA	Genefamily	family:1044
+30761270_2683	183	186	EYA	Genefamily
+30761270_2683	213	217	EYA1	Gene-protein	HGNC:3519
+30761270_2683	219	223	EYA2	Gene-protein	HGNC:3520
+30761270_2683	225	229	EYA3	Gene-protein	HGNC:3521
+30761270_2683	235	239	EYA4	Gene-protein	HGNC:3522
+30761270_2683	251	283	C-terminal 271 amino-acid region	Proteindomain
+30761270_2683	330	347	N-terminal domain	Proteindomain
+30761270_2683	405	414	threonine	Chemical
+30761270_2683	467	488	dysregulation of EYA2	Biomarker
+30761270_2683	484	488	EYA2	Gene-protein
+30761270_2683	539	546	cancers	Disease	DOID:162
+30761270_2683	574	578	EYA2	Gene-protein
+30761270_2683	574	602	EYA2 expression was enhanced	Biomarker
+30761270_2683	615	621	tumors	Disease	DOID:162
+30761270_2683	683	687	EYA2	Gene-protein
+30761270_2683	683	687	EYA2	Biomarker	C106938
+30761270_2683	700	705	tumor	Disease	DOID:162
+30761270_2683	724	729	tumor	Disease
+30761270_2683	758	769	astrocytoma	Disease	D001254
+30761270_2683	771	775	EYA2	Gene-protein
+30761270_2683	773	774	A	Biomarker
+30761270_2683	811	816	tumor	Disease	DOID:14566|DOID:162
+30761270_2683	848	857	cyclin D1	Gene-protein	HGNC:1582
+30761270_2683	862	870	cyclin E	Genefamily	not found
+30761270_2683	879	905	Knockdown of EYA2 by siRNA	Drug	not found
+30761270_2683	892	896	EYA2	Gene-protein
+30761270_2683	990	1009	lung adenocarcinoma	Disease	DOID:3910
+30761270_2683	1081	1085	EYA2	Gene-protein
+30761270_2683	1081	1100	EYA2 overexpression	Biomarker
+30761270_2683	1133	1138	tumor	Disease
+30761270_2683	1133	1174	tumor growth of pancreatic adenocarcinoma	Collection
+30761270_2683	1149	1174	pancreatic adenocarcinoma	Disease	DOID:4074
+30761270_2683	1217	1221	EYA2	Gene-protein
+30761270_2683	1217	1221	EYA2	Biomarker
+30761270_2683	1284	1290	cancer	Disease
+30761270_2683	1284	1373	cancer types, including breast cancer ( 18 ), lung adenocarcinoma ( 22 ), and astrocytoma	Collection
+30761270_2683	1308	1321	breast cancer	Disease	DOID:1612
+30761270_2683	1330	1349	lung adenocarcinoma	Disease
+30761270_2683	1362	1373	astrocytoma	Disease
+30761270_2683	1428	1432	EYA2	Gene-protein
+30761270_2683	1480	1483	ERK	Genefamily	not found
+30761270_2683	1594	1598	EYA2	Gene-protein
+30761270_2683	1639	1654	High EYA2 level	Biomarker
+30761270_2683	1644	1648	EYA2	Gene-protein
+30761270_2683	1719	1730	lung cancer	Disease	DOID:1324
+30761270_2683	1745	1749	EYA2	Gene-protein
+30761270_2683	1745	1749	EYA2	Biomarker
+30761270_2683	1788	1805	colorectal cancer	Disease	DOID:9256
+30761270_2683	1788	1834	colorectal cancer ( 15 ) and pancreatic cancer	Collection
+30761270_2683	1817	1834	pancreatic cancer	Disease	DOID:1793
+

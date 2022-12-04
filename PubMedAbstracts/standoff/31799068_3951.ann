@@ -1,0 +1,75 @@
+T1	Disease 358 360	DN
+#1	AnnotatorNotes T1	D003928
+T10	RNA-Noncoding 1137 1141	MEG3
+T12	Disease 1167 1169	DN
+T17	Disease 1405 1422	type one diabetes
+#6	AnnotatorNotes T17	DOID:9744
+T18	Disease 1511 1526	podocyte injury
+T19	Disease 1531 1533	DN
+T3	Chemical 500 507	glucose
+T5	Disease 710 712	DN
+T7	Disease 910 924	bladder cancer
+#13	AnnotatorNotes T7	DOID:11054
+T8	Disease 939 945	cancer
+#14	AnnotatorNotes T8	DOID:162
+T9	Disease 1114 1116	DN
+T2	Gene-Protein 412 418	MALAT1
+#2	AnnotatorNotes T2	HGNC:29665
+T6	Gene-Protein 466 472	MALAT1
+T11	RNA-Noncoding 671 675	Tug1
+#4	AnnotatorNotes T11	HGNC:26066
+T16	RNA-Noncoding 687 693	Gm4419
+T21	RNA-Noncoding 677 685	Erbb4-IR
+T13	Gene-Protein 695 699	TCF7
+#7	AnnotatorNotes T13	HGNC:11639
+T22	RNA-Noncoding 884 888	MEG3
+#9	AnnotatorNotes T22	HGNC:14575
+T23	RNA-Noncoding 855 882	Maternally Expressed Gene 3
+#10	AnnotatorNotes T23	HGNC:14575
+T24	Biomarker 855 906	Maternally Expressed Gene 3 (MEG3) is downregulated
+T25	GeneFamily 979 982	Wnt
+T26	GeneFamily 983 992	β-catenin
+T27	RNA-Noncoding 1185 1189	MEG3
+T28	RNA-Noncoding 1503 1507	MEG3
+T29	RNA-Noncoding 1559 1563	MEG3
+T30	RNA-Noncoding 1325 1329	MEG3
+T31	GeneFamily 1616 1619	Wnt
+T32	GeneFamily 1620 1629	β-catenin
+T33	GeneFamily 1072 1081	β-catenin
+T34	GeneFamily 1068 1071	Wnt
+T35	Disease 459 461	DN
+T36	RNA-Noncoding 305 312	lncRNAs
+T37	Biomarker 305 312	lncRNAs
+#3	AnnotatorNotes T37	D062085
+R1	Association Arg1:T37 Arg2:T1	
+T38	Biomarker 412 442	MALAT1 expression is increased
+R2	Association Arg1:T38 Arg2:T35	
+T39	Disease 495 536	high glucose (HG)-induced podocyte injury
+#8	AnnotatorNotes T39	not found
+T4	Drug 466 483	MALAT1 inhibition
+#15	AnnotatorNotes T4	not found
+T40	GeneFamily 551 554	Wnt
+#11	AnnotatorNotes T40	family:360
+T41	GeneFamily 555 564	β-catenin
+#12	AnnotatorNotes T41	family:1542
+R3	Response Arg1:T4 Arg2:T39	
+T42	Biomarker 656 706	lncRNAs (e.g., Tug1, Erbb4-IR, Gm4419, TCF7, etc.)
+R4	Association Arg1:T42 Arg2:T5	
+T43	Collection 910 945	bladder cancer and regulates cancer
+R5	Association Arg1:T24 Arg2:T43	
+T44	Biomarker 1068 1091	Wnt/β-catenin signaling
+T45	Biomarker 1137 1141	MEG3
+#16	AnnotatorNotes T45	C498907
+R6	Association Arg1:T44 Arg2:T9	
+T46	Disease 1230 1266	DM-related microvascular dysfunction
+#17	AnnotatorNotes T46	not found
+T14	Biomarker 1185 1189	MEG3
+R8	Association Arg1:T14 Arg2:T46	
+T15	Biomarker 1325 1329	MEG3
+R9	Association Arg1:T15 Arg2:T17	
+T47	Biomarker 1503 1507	MEG3
+#5	AnnotatorNotes T18	not found
+T49	Disease 1575 1601	HG-induced podocyte injury
+#18	AnnotatorNotes T49	not found
+T20	Drug 1559 1563	MEG3
+#19	AnnotatorNotes T20	not found

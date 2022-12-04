@@ -1,0 +1,62 @@
+T0	Biomarker 138 162	End-stage kidney disease
+#1	AnnotatorNotes T0	D007676
+T12	Disease 851 854	CKD
+T13	Gene-Protein 879 889	cystatin C
+T15	Disease 927 961	CVD mortality in patients with CKD
+T17	Gene-Protein 978 988	cystatin C
+T19	Disease 1013 1032	cardiac dysfunction
+#10	AnnotatorNotes T19	DOID:114
+T2	Biomarker 318 340	cardiovascular disease
+#11	AnnotatorNotes T2	D002318
+T20	Disease 1037 1048	hypertrophy
+#12	AnnotatorNotes T20	D006984
+T21	Disease 1100 1103	CKD
+T23	Gene-Protein 1150 1160	cystatin C
+T24	Disease 1207 1220	renal outcome
+#15	AnnotatorNotes T24	not found
+T25	Disease 1222 1243	cardiovascular damage
+#16	AnnotatorNotes T25	DOID:1287
+T26	Disease 1261 1282	cardiovascular events
+#17	AnnotatorNotes T26	DOID:1287
+T27	Gene-Protein 1356 1366	cystatin C
+T29	Gene-Protein 1507 1517	cystatin C
+T31	Gene-Protein 1621 1631	cystatin C
+T32	Disease 1682 1693	albuminuria
+#22	AnnotatorNotes T32	DOID:576
+T33	Gene-Protein 1765 1775	cystatin C
+T4	Disease 371 374	CKD
+#24	AnnotatorNotes T4	DOID:784
+T6	Disease 419 422	CKD
+T7	Disease 449 471	cardiovascular disease
+T8	Disease 488 502	kidney failure
+#27	AnnotatorNotes T8	DOID:1074
+T9	Disease 522 542	cardiorenal syndrome
+#28	AnnotatorNotes T9	D059347
+T1	Drug-Class 90 115	renal replacement therapy
+T3	Disease 185 208	morbidity and mortality
+R1	Risk-Factor Arg1:T0 Arg2:T3	
+R2	Association Arg1:T2 Arg2:T4	
+T5	Biomarker 776 784	renal RI
+T10	Biomarker 978 988	cystatin C
+T11	Collection 1013 1048	cardiac dysfunction and hypertrophy
+R3	Association Arg1:T10 Arg2:T11	
+T14	Biomarker 879 889	cystatin C
+T18	Collection 927 961	CVD mortality in patients with CKD
+R4	Risk-Factor Arg1:T14 Arg2:T18	
+T22	Biomarker 1109 1166	measurement of both the RI and the serum cystatin C level
+T28	Collection 1207 1283	renal outcome, cardiovascular damage, and the risk of cardiovascular events.
+R5	Association Arg1:T22 Arg2:T28	
+#2	AnnotatorNotes T13	HGNC:2475
+#3	AnnotatorNotes T3	D009017, D009026
+T30	Disease 294 303	mortality
+#4	AnnotatorNotes T30	D009017
+#5	AnnotatorNotes T7	DOID:1287
+T34	Disease 694 722	heart and kidney dysfunction
+#6	AnnotatorNotes T34	DOID:114, DOID:557
+R6	Association Arg1:T5 Arg2:T12	
+#7	AnnotatorNotes T14	D055316
+A1	Conjunction T15
+#8	AnnotatorNotes T15	not found, DOID:784
+T16	Gene-Protein 1698 1701	BNP
+#9	AnnotatorNotes T16	HGNC:7940
+T35	Biomarker 1379 1387	renal RI

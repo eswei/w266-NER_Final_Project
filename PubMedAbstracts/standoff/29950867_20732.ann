@@ -1,0 +1,83 @@
+T1	Disease 187 189	OS
+T10	Drug 783 794	gemcitabine
+T11	Disease 849 881	pancreatic ductal adenocarcinoma
+#3	AnnotatorNotes T11	DOID:3498
+T14	Disease 942 955	breast cancer
+T17	Disease 1085 1091	cancer
+#6	AnnotatorNotes T17	DOID:162
+T19	Disease 1208 1214	cancer
+T21	Disease 1281 1283	OS
+T23	Disease 1353 1355	OS
+T25	Disease 1656 1658	OS
+T3	Disease 372 374	OS
+T4	Disease 647 654	cancers
+#13	AnnotatorNotes T4	DOID:162
+T5	Disease 666 683	pancreatic cancer
+#14	AnnotatorNotes T5	DOID:1793
+T6	Disease 685 699	gastric cancer
+#15	AnnotatorNotes T6	DOID:10534
+T7	Disease 701 707	glioma
+#16	AnnotatorNotes T7	DOID:0060108
+T8	Disease 713 726	breast cancer
+#17	AnnotatorNotes T8	DOID:1612
+T2	Disease 99 113	carcinogenesis
+#1	AnnotatorNotes T2	DOID:162
+T12	Biomarker 64 95	MiRNAs are abnormally expressed
+R1	Association Arg1:T12 Arg2:T2	
+T15	RNA-Noncoding 126 132	miRNAs
+#2	AnnotatorNotes T15	family:476
+T16	Biomarker 126 132	miRNAs
+#8	AnnotatorNotes T16	D035683
+R2	Association Arg1:T16 Arg2:T1	
+#9	AnnotatorNotes T1	DOID:3347
+T18	Biomarker 349 368	TRIM44 upregulation
+T20	Gene-Protein 349 355	TRIM44
+#10	AnnotatorNotes T20	HGNC:19016
+T22	RNA-Noncoding 330 336	miRNAs
+T24	Biomarker 330 336	miRNAs
+T26	RNA-Noncoding 64 70	MiRNAs
+#12	AnnotatorNotes T26	family:476
+T28	Gene-Protein 380 386	TRIM44
+T29	RNA-Noncoding 437 444	miR-410
+#19	AnnotatorNotes T29	HGNC:32065
+T30	RNA-Noncoding 630 637	miR-410
+T31	Biomarker 630 637	miR-410
+#20	AnnotatorNotes T31	C568527
+T9	Collection 647 726	cancers, including pancreatic cancer, gastric cancer, glioma, and breast cancer
+R4	Association Arg1:T31 Arg2:T9	
+T32	RNA-Noncoding 764 771	miR-410
+#18	AnnotatorNotes T10	CHEMBL888
+T33	Biomarker 764 771	miR-410
+T34	Gene-Protein 821 826	HMGB1
+#21	AnnotatorNotes T34	HGNC:4983
+R5	Mediated-Response Arg1:T10 Arg2:T11	
+R6	Mediator Arg1:T10 Arg2:T33	
+T35	RNA-Noncoding 899 906	miR-410
+T13	Drug 899 906	miR-410
+#4	AnnotatorNotes T13	C568527
+R7	Response Arg1:T13 Arg2:T14	
+T36	RNA-Noncoding 1020 1027	miR-410
+T37	Biomarker 1020 1027	miR-410
+R8	Association Arg1:T37 Arg2:T17	
+T38	Biomarker 1128 1135	miR-410
+T39	RNA-Noncoding 1128 1135	miR-410
+R9	Association Arg1:T38 Arg2:T19	
+T40	Drug 1420 1445	overexpression of miR-410
+T41	RNA-Noncoding 1438 1445	miR-410
+T42	Gene-Protein 1544 1550	TRIM44
+T43	RNA-Noncoding 1241 1248	miR-410
+T44	Biomarker 1241 1277	miR-410 was frequently downregulated
+R10	Association Arg1:T44 Arg2:T21	
+T45	RNA-Noncoding 1324 1331	miR-410
+T46	Biomarker 1324 1331	miR-410
+R11	Association Arg1:T46 Arg2:T23	
+T48	Gene-Protein 1603 1609	TRIM44
+T49	RNA-Noncoding 1645 1652	miR-410
+T51	Gene-Protein 1702 1708	TRIM44
+T52	RNA-Noncoding 1751 1758	miR-410
+T53	RNA-Noncoding 1764 1771	miR-410
+T27	Disease 1815 1817	OS
+T55	Collection 330 368	miRNAs involved in TRIM44 upregulation
+R3	Association Arg1:T55 Arg2:T3	
+R12	Response Arg1:T40 Arg2:T23	
+#5	AnnotatorNotes T40	not found

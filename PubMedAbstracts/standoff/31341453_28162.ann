@@ -1,0 +1,52 @@
+T0	CellLine 267 272	CaSki
+T1	Disease 335 350	cervical cancer
+#2	AnnotatorNotes T1	DOID:4362
+T3	CellLine 533 538	C-33A
+T4	Disease 673 688	cervical cancer
+T6	Disease 991 1000	malignant
+#6	AnnotatorNotes T6	DOID:162
+T7	Disease 1464 1486	cervical abnormalities
+#7	AnnotatorNotes T7	D002577
+T8	RNA-Noncoding 58 65	miR-143
+#1	AnnotatorNotes T8	HGNC:31530
+T9	RNA-Noncoding 70 77	miR-145
+#8	AnnotatorNotes T9	HGNC:31532
+T10	RNA-Noncoding 389 396	miR-145
+T11	RNA-Noncoding 377 384	miR-143
+T12	RNA-Noncoding 559 566	miR-143
+T13	RNA-Noncoding 571 578	miR-145
+T14	RNA-Noncoding 619 626	miR-145
+T15	RNA-Noncoding 793 800	miR-145
+T16	RNA-Noncoding 965 972	miR-145
+T17	RNA-Noncoding 1132 1139	miR-143
+T18	RNA-Noncoding 1276 1283	miR-143
+T19	RNA-Noncoding 1398 1405	miR-145
+T20	CellLine 277 281	SiHa
+T21	Biomarker 377 415	miR-143 and miR-145 are underexpressed
+T22	RNA-Noncoding 781 788	miR-143
+T23	RNA-Noncoding 953 960	miR-143
+T24	Biomarker 1398 1441	miR-145, which was relatively downregulated
+R1	Association Arg1:T24 Arg2:T7	
+T25	MicroOrganism 1316 1319	HPV
+T26	Biomarker 1132 1184	miR-143 was relatively and progressively upregulated
+T28	Biomarker 942 972	changes of miR-143 and miR-145
+R2	Association Arg1:T28 Arg2:T6	
+T29	Disease 202 225	cervical carcinogenesis
+#9	AnnotatorNotes T29	DOID:4362
+T30	MicroOrganism 419 430	HPV16/18/31
+T2	Disease 510 521	HPV- cancer
+#3	AnnotatorNotes T2	DOID:4362
+T32	Biomarker 544 578	underexpressed miR-143 and miR-145
+R3	Association Arg1:T32 Arg2:T2	
+T34	Disease 647 650	CIN
+#4	AnnotatorNotes T34	D018290
+T35	Biomarker 619 626	miR-145
+T36	Biomarker 781 830	miR-143 and miR-145 are transiently overexpressed
+T37	Disease 834 859	HPV+ premalignant lesions
+#11	AnnotatorNotes T37	not found
+R4	Association Arg1:T36 Arg2:T37	
+R5	Association Arg1:T35 Arg2:T27	
+T5	MicroOrganism 510 513	HPV
+T31	MicroOrganism 834 837	HPV
+T27	Collection 647 688	CIN but underexpressed in cervical cancer
+#5	AnnotatorNotes T35	C541010

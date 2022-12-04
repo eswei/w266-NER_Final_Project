@@ -1,0 +1,27 @@
+T0	Disease 142 146	LSCC
+T10	RNA-Noncoding 720 734	AC026166.2-001
+T13	Disease 841 846	tumor
+#5	AnnotatorNotes T13	DOID:162
+T15	RNA-Noncoding 920 934	AC026166.2-001
+T17	Disease 970 974	LSCC
+T20	Disease 1124 1128	LSCC
+T21	Disease 1153 1157	LSCC
+T4	Disease 399 403	LSCC
+T8	Disease 570 586	laryngeal cancer
+#16	AnnotatorNotes T8	DOID:2596
+#1	AnnotatorNotes T0	DOID:2876
+T1	RNA-Noncoding 363 377	AC026166.2-001
+#2	AnnotatorNotes T1	HGNC:51300
+T2	Biomarker 363 395	AC026166.2-001 is down-regulated
+R1	Association Arg1:T2 Arg2:T4	
+T3	Biomarker 534 566	AC026166.2-001 is down-regulated
+T7	RNA-Noncoding 534 548	AC026166.2-001
+R2	Association Arg1:T3 Arg2:T8	
+T11	RNA-Noncoding 823 837	AC026166.2-001
+T12	Biomarker 807 837	lower levels of AC026166.2-001
+R3	Prognostic-Poor Arg1:T12 Arg2:T13	
+T14	Biomarker 920 934	AC026166.2-001
+R4	Association Arg1:T14 Arg2:T17	
+T16	RNA-Noncoding 1051 1065	AC026166.2-001
+T18	Biomarker 1036 1065	down-regulated AC026166.2-001
+R5	Association Arg1:T18 Arg2:T20	

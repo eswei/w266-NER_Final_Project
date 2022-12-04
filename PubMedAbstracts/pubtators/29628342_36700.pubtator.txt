@@ -1,0 +1,42 @@
+29628342_36700|t|RSS_IDENT_p_29628342_b_1_4_5
+29628342_36700|a| We also reported that VDR may directly regulate the MEG3 level in colorectal cells through binding to its promoter. Vitamin D is an essential vitamin that was found to be associated with CRC development and a poor prognosis ( Li et al., 2014 ). Multiple genes, including lncRNAs encoding genes such as H19 and HOTAIR have been found to be regulated by Vitamin D through VDR in multiple cancers ( Jiang and Bikle, 2014a ; Jiang and Bikle, 2014b ). Here, we found that vitamin D treatment or VDR over-expression up-regulated MEG3 expression in CRC cells. VDR may activate MEG3 expression via direct binding to its promoter at the −230 ~ − 243 promoter region. Accordingly, Menigatti et al. reported that MEG3 was epigenetically silenced in precancerous colorectal lesions, possibly leading to the reduced transcriptional level of MEG3 by VDR ( Menigatti et al., 2013 ). In clinic, VDR level was positively correlated with the MEG3 level in CRC tissues, and patients with higher VDR were associated with better OS. These results suggested that the regulation of MEG3 expression by vitamin D/VDR can partially explain why CRC patients with vitamin D deficiency showed poorer prognosis ( Duffy et al., 2017 ). The down-regulation of MEG3 might also confer the increased risk of CRC development under the vitamin D deficiency status, which needs to be addressed with more investigations. 
+29628342_36700	52	55	VDR	Gene-protein	 HGNC:12679
+29628342_36700	82	86	MEG3	Gene-protein	HGNC:14575
+29628342_36700	146	155	Vitamin D	Chemical
+29628342_36700	146	155	Vitamin D	Biomarker	D014807
+29628342_36700	172	179	vitamin	Chemical
+29628342_36700	217	220	CRC	Disease	DOID:9256
+29628342_36700	332	335	H19	Rna-noncoding	HGNC:4713
+29628342_36700	340	346	HOTAIR	Rna-noncoding	HGNC:33510
+29628342_36700	382	391	Vitamin D	Chemical
+29628342_36700	400	403	VDR	Gene-protein
+29628342_36700	416	423	cancers	Disease	DOID:162
+29628342_36700	497	506	vitamin D	Chemical
+29628342_36700	520	523	VDR	Gene-protein
+29628342_36700	553	557	MEG3	Gene-protein
+29628342_36700	572	575	CRC	Disease
+29628342_36700	583	586	VDR	Gene-protein
+29628342_36700	600	604	MEG3	Gene-protein
+29628342_36700	732	736	MEG3	Gene-protein
+29628342_36700	732	764	MEG3 was epigenetically silenced	Biomarker
+29628342_36700	768	799	precancerous colorectal lesions	Disease	not found
+29628342_36700	858	862	MEG3	Gene-protein
+29628342_36700	866	869	VDR	Gene-protein
+29628342_36700	909	912	VDR	Gene-protein
+29628342_36700	909	918	VDR level	Biomarker
+29628342_36700	954	958	MEG3	Gene-protein
+29628342_36700	954	964	MEG3 level	Biomarker
+29628342_36700	968	971	CRC	Disease
+29628342_36700	999	1009	higher VDR	Biomarker
+29628342_36700	1006	1009	VDR	Gene-protein
+29628342_36700	1089	1093	MEG3	Gene-protein
+29628342_36700	1108	1117	vitamin D	Chemical
+29628342_36700	1118	1121	VDR	Gene-protein
+29628342_36700	1148	1151	CRC	Disease
+29628342_36700	1166	1175	vitamin D	Chemical
+29628342_36700	1166	1186	vitamin D deficiency	Biomarker	D014808
+29628342_36700	1239	1262	down-regulation of MEG3	Biomarker
+29628342_36700	1303	1306	CRC	Disease
+29628342_36700	1329	1338	vitamin D	Chemical
+29628342_36700	1329	1349	vitamin D deficiency	Biomarker	D014808
+

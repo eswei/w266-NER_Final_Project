@@ -1,0 +1,47 @@
+T1	Chemical 118 119	N
+T10	Disease 751 754	HCC
+T11	Disease 920 925	tumor
+T12	Disease 938 941	HCC
+T17	Disease 1129 1143	HCC metastasis
+T19	Disease 1215 1218	HCC
+T2	Disease 157 160	HCC
+T21	Disease 1373 1376	HCC
+T3	Disease 209 212	HCC
+T4	Disease 277 282	tumor
+#14	AnnotatorNotes T4	DOID:162
+T5	Chemical 530 531	N
+T6	Disease 557 600	HCC patients with BCLC 0 or A stage disease
+T9	Chemical 645 655	sulfhydryl
+T8	Biomarker 95 140	HCC recurrence-related N-linked glycoproteins
+R1	Association Arg1:T8 Arg2:T2	
+#1	AnnotatorNotes T2	DOID:684
+T13	Biomarker 511 551	recurrence-related N-linked glycoprotein
+R2	Association Arg1:T13 Arg2:T6	
+#2	AnnotatorNotes T6	not found
+T7	Biomarker 613 665	Serum core-fucosylated quiescin sulfhydryl oxidase 1
+R3	Association Arg1:T7 Arg2:T10	
+T15	Gene-Protein 766 771	QSOX1
+#3	AnnotatorNotes T15	HGNC:9756
+T18	Gene-Protein 842 847	QSOX1
+T22	Gene-Protein 911 916	QSOX1
+T24	Biomarker 1030 1044	serum cf-QSOX1
+T25	Gene-Protein 1065 1070	QSOX1
+T16	Biomarker 1096 1125	QSOX1-S and its glycosylation
+R5	Association Arg1:T16 Arg2:T17	
+#5	AnnotatorNotes T17	DOID:684
+T26	Drug 1184 1202	QSOX1-S expression
+#6	AnnotatorNotes T26	not found
+R6	Response Arg1:T26 Arg2:T19	
+T27	Disease 1219 1224	tumor
+T28	Drug 1250 1282	Glycosylation at residue Asn-130
+#7	AnnotatorNotes T28	not found
+R7	Response Arg1:T28 Arg2:T21	
+T20	Biomarker 1049 1070	tumor expressed QSOX1
+T14	Gene-Protein 613 665	Serum core-fucosylated quiescin sulfhydryl oxidase 1
+#4	AnnotatorNotes T14	not found
+T23	Gene-Protein 667 675	cf-QSOX1
+#8	AnnotatorNotes T23	not found
+T29	Gene-Protein 849 856	QSOX1-S
+#9	AnnotatorNotes T29	not found
+T30	Gene-Protein 1096 1103	QSOX1-S
+T31	Gene-Protein 1184 1191	QSOX1-S

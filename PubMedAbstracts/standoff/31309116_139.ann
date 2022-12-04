@@ -1,0 +1,83 @@
+T1	Disease 171 190	Parkinson's disease
+#2	AnnotatorNotes T1	DOID:14330
+T10	Drug 406 412	6-OHDA
+T12	Disease 386 432	6-hydroxydopamine- (6-OHDA-) induced PD lesion
+#5	AnnotatorNotes T12	not found
+T14	Drug 529 535	6-OHDA
+T16	Disease 529 546	6-OHDA-induced PD
+#9	AnnotatorNotes T16	not found
+T17	Drug 591 616	apomorphine hydrochloride
+T18	Chemical 816 824	Tyrosine
+T19	Biomarker 816 869	Tyrosine hydroxylase (TH) was increased significantly
+T21	Disease 924 929	EX-PD
+T22	Disease 956 958	PD
+T23	Biomarker 1021 1045	upregulation of miR-3557
+T24	Chemical 1104 1111	calcium
+T25	Disease 1168 1187	Parkinson's disease
+T26	Disease 1229 1231	PD
+T27	Chemical 1239 1243	Ca²⁺
+T28	Biomarker 1239 1307	Ca²⁺/calmodulin dependent protein kinase II (CaMK2α) was upregulated
+T29	Biomarker 1313 1415	CaMKV and voltage-dependent anion-selective channel protein 1 (Vdac1) were significantly downregulated
+T3	Disease 192 194	PD
+#20	AnnotatorNotes T3	DOID:14330
+T31	Disease 1423 1428	EX-PD
+T32	Chemical 1450 1470	phosphatidylinositol
+T33	Biomarker 1450 1549	phosphatidylinositol-3-kinase (PI3K)/mammalian target of rapamycin (mTOR) expression were activated
+T34	Chemical 1507 1516	rapamycin
+T35	Chemical 1565 1572	carboxy
+T36	Disease 1638 1643	EX-PD
+T37	Disease 1724 1750	neurodegenerative diseases
+#27	AnnotatorNotes T37	DOID:1289
+T38	RNA-Noncoding 1772 1784	miR-3557/324
+T4	Disease 268 270	PD
+T40	Biomarker 1918 1939	improved UCH-L1 level
+T41	Disease 1962 1979	neurodegeneration
+#29	AnnotatorNotes T41	DOID:1289
+T42	Disease 2013 2015	PD
+T5	Disease 282 284	PD
+T6	Disease 315 317	PD
+T7	Disease 328 330	PD
+T8	Drug 386 403	6-hydroxydopamine
+T44	RNA-Noncoding 109 121	miR-3557/324
+#1	AnnotatorNotes T8	CHEMBL337702
+#3	AnnotatorNotes T10	CHEMBL337702
+#4	AnnotatorNotes T17	CHEMBL1616
+T2	Gene-Protein 816 836	Tyrosine hydroxylase
+T9	Gene-Protein 838 840	TH
+T11	Gene-Protein 874 885	α-synuclein
+T13	Biomarker 874 916	α-synuclein protein expression was reduced
+T15	Biomarker 1050 1075	downregulation of miR-324
+T20	RNA-Noncoding 1035 1045	f miR-3557
+T45	RNA-Noncoding 1068 1075	miR-324
+T46	Biomarker 1104 1140	calcium-modulating signaling pathway
+T47	Collection 1021 1075	upregulation of miR-3557 and downregulation of miR-324
+R1	Association Arg1:T47 Arg2:T25	
+T48	Gene-Protein 1239 1282	Ca²⁺/calmodulin dependent protein kinase II
+T49	Gene-Protein 1284 1290	CaMK2α
+T50	Gene-Protein 1313 1318	CaMKV
+T51	Gene-Protein 1323 1374	voltage-dependent anion-selective channel protein 1
+T52	Gene-Protein 1376 1381	Vdac1
+T30	GeneFamily 1450 1479	phosphatidylinositol-3-kinase
+T53	GeneFamily 1481 1485	PI3K
+T54	GeneFamily 1487 1516	mammalian target of rapamycin
+T55	Gene-Protein 1518 1522	mTOR
+T56	Gene-Protein 1555 1594	ubiquitin carboxy-terminal hydrolase L1
+T57	Gene-Protein 1596 1602	UCH-L1
+T58	Biomarker 1555 1630	ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) expression was upregulated
+T59	Drug 1772 1784	miR-3557/324
+#6	AnnotatorNotes T59	not found, C000705991
+R2	Response Arg1:T59 Arg2:T37	
+T60	Gene-Protein 1830 1835	CaMKs
+T61	GeneFamily 1856 1861	CaMKs
+T39	Gene-Protein 1880 1884	mTOR
+T62	Gene-Protein 1927 1933	UCH-L1
+T43	Biomarker 1856 1916	CaMKs, coordinated with mTOR pathway-related gene expression
+R3	Risk-Reduce Arg1:T43 Arg2:T41	
+R4	Association Arg1:T43 Arg2:T42	
+#7	AnnotatorNotes T21	not found
+T63	Collection 816 916	Tyrosine hydroxylase (TH) was increased significantly and α-synuclein protein expression was reduced
+R5	Association Arg1:T63 Arg2:T21	
+T64	Collection 1239 1415	Ca²⁺/calmodulin dependent protein kinase II (CaMK2α) was upregulated, but CaMKV and voltage-dependent anion-selective channel protein 1 (Vdac1) were significantly downregulated
+R6	Association Arg1:T64 Arg2:T31	
+T65	Collection 1450 1630	phosphatidylinositol-3-kinase (PI3K)/mammalian target of rapamycin (mTOR) expression were activated, and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) expression was upregulated
+R7	Association Arg1:T65 Arg2:T36	

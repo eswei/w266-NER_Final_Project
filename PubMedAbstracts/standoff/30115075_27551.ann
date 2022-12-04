@@ -1,0 +1,50 @@
+T1	Disease 211 300	HSPN children with glomerular Fib deposition, especially those with severe Fib deposition
+T11	Biomarker 366 393	disordered immune functions
+T13	Biomarker 395 412	glomerular damage
+T15	Disease 617 651	Henoch-Schönlein purpura nephritis
+#4	AnnotatorNotes T15	DOID:11123
+T18	Chemical 657 659	Cr
+T21	Chemical 708 710	Cr
+T23	Chemical 741 751	creatinine
+T25	Chemical 757 759	Cr
+T27	Chemical 768 791	N-acetylglucosaminidase
+T28	Chemical 800 810	creatinine
+T30	Chemical 816 818	Cr
+T32	Chemical 849 859	creatinine
+T33	Chemical 866 868	Cr
+T34	Chemical 902 912	creatinine
+T35	Chemical 955 965	creatinine
+T6	Biomarker 312 341	severe inflammatory reactions
+T9	Biomarker 343 361	hypercoagulability
+#1	AnnotatorNotes T1	not found
+T36	Collection 312 412	severe inflammatory reactions, hypercoagulability and disordered immune functions; glomerular damage
+T14	GeneFamily 558 568	Fibrinogen
+#5	AnnotatorNotes T14	family:554
+T37	GeneFamily 554 557	Fib
+T38	GeneFamily 165 168	Fib
+T39	GeneFamily 286 289	Fib
+T40	Disease 612 616	HSPN
+T41	Gene-Protein 572 575	CRP
+#6	AnnotatorNotes T41	HGNC:2367
+T16	Gene-Protein 922 946	Urinary β2 microglobulin
+#7	AnnotatorNotes T16	HGNC:914
+T17	Gene-Protein 913 918	Uβ2MG
+#9	AnnotatorNotes T17	HGNC:914
+T19	Gene-Protein 869 893	Urinary α1 microglobulin
+#10	AnnotatorNotes T19	HGNC:453
+T42	Gene-Protein 860 865	Uα1MG
+#11	AnnotatorNotes T42	HGNC:453
+T24	Chemical 752 756	UNAG
+T26	Gene-Protein 660 684	Urinary immunoglobulin G
+#12	AnnotatorNotes T26	not found
+T43	Gene-Protein 652 656	UIgG
+#13	AnnotatorNotes T43	not found
+T20	Gene-Protein 593 611	C-reactive protein
+#14	AnnotatorNotes T20	HGNC:2367
+T22	GeneFamily 241 244	Fib
+T29	Gene-Protein 819 838	Urinary transferrin
+#15	AnnotatorNotes T29	HGNC:11740
+T31	Gene-Protein 811 815	UTRF
+#16	AnnotatorNotes T31	HGNC:11740
+#17	AnnotatorNotes T38	not found
+R1	Association Arg1:T36 Arg2:T1	

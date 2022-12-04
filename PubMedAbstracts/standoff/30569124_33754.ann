@@ -1,0 +1,65 @@
+T10	Disease 589 609	renal cell carcinoma
+#1	AnnotatorNotes T10	DOID:4450
+T13	Disease 718 724	cancer
+#3	AnnotatorNotes T13	DOID:162
+T14	Disease 792 794	GC
+T16	Disease 812 850	GC associated with H. pylori infection
+T19	Disease 1223 1229	cancer
+T25	Disease 1716 1718	GC
+T3	Disease 118 123	tumor
+#14	AnnotatorNotes T3	DOID:162
+T5	Disease 272 283	lung cancer
+#15	AnnotatorNotes T5	DOID:1324
+T8	Disease 447 471	hepatocellular carcinoma
+#16	AnnotatorNotes T8	DOID:684
+T1	RNA-Noncoding 49 56	miR-134
+#4	AnnotatorNotes T1	HGNC:31519
+T4	Biomarker 30 56	Aberrant levels of miR-134
+R1	Association Arg1:T4 Arg2:T3	
+T2	Drug 206 231	Overexpression of miR-134
+#5	AnnotatorNotes T2	not found
+R2	Response Arg1:T2 Arg2:T5	
+T6	RNA-Noncoding 224 231	miR-134
+T7	RNA-Noncoding 363 370	miR-134
+T9	Gene-Protein 303 314	integrin β1
+#7	AnnotatorNotes T9	HGNC:6153
+T11	Gene-Protein 392 403	integrin β1
+T18	Drug 363 370	miR-134
+#9	AnnotatorNotes T18	C569273
+R3	Response Arg1:T18 Arg2:T8	
+T20	RNA-Noncoding 542 549	miR-134
+T23	Drug 521 549	forced expression of miR-134
+#10	AnnotatorNotes T23	not found
+R4	Response Arg1:T23 Arg2:T10	
+T12	RNA-Noncoding 669 676	miR-134
+T24	Drug 669 676	miR-134
+#2	AnnotatorNotes T14	DOID:10534
+#6	AnnotatorNotes T16	not found
+T15	RNA-Noncoding 768 775	miR-134
+T27	Biomarker 768 775	miR-134
+#11	AnnotatorNotes T27	C569273
+T28	Biomarker 936 961	overexpression of miR-134
+T29	RNA-Noncoding 954 961	miR-134
+T30	MicroOrganism 831 840	H. pylori
+T31	RNA-Noncoding 1187 1194	miR-134
+T32	Biomarker 1187 1194	miR-134
+R5	Association Arg1:T32 Arg2:T19	
+T33	Biomarker 1335 1360	downregulation of miR-134
+T34	RNA-Noncoding 1353 1360	miR-134
+T17	Biomarker 1422 1467	upregulated FoxM1 mRNA and protein expression
+T35	Gene-Protein 1434 1439	FoxM1
+#8	AnnotatorNotes T35	HGNC:3818
+R6	Association Arg1:T17 Arg2:T39	
+T21	Gene-Protein 1580 1585	FoxM1
+T36	RNA-Noncoding 1612 1619	miR-134
+T37	RNA-Noncoding 1676 1683	miR-134
+T38	Gene-Protein 1688 1693	FoxM1
+R7	Response Arg1:T24 Arg2:T13	
+T26	Disease 990 1017	H. pyloriCₐgA₊/P₊ infection
+T39	Disease 1364 1393	H. pyloriCₐgA₊/P₊-infected GC
+#13	AnnotatorNotes T39	not found
+#12	AnnotatorNotes T26	not found
+T22	Disease 1723 1750	H. pyloriCₐgA₊/P₊ infection
+T40	Biomarker 1642 1698	strong affinity may exist between miR-134 and FoxM1 mRNA
+T41	Collection 1716 1750	GC and H. pyloriCₐgA₊/P₊ infection
+R8	Association Arg1:T40 Arg2:T41	

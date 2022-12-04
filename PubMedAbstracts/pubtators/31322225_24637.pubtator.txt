@@ -1,0 +1,43 @@
+31322225_24637|t|RSS_IDENT_p_31322225_b_1_4_6
+31322225_24637|a| The roles of the other potential targets (AMOT, GREM1, CACNA2D3, IRF6, and LPL) with PCa progression were elusive. AMOT serves a role in PCa proliferation via the Hippo/YAP pathway ( 35 ). miR-205 regulated the proliferation and the invasion of breast cancer cells by suppressing the expression of AMOT ( 36 ). In addition, another study indicated that miR-497 could directly target the AMOT gene in human osteosarcoma cells to inhibit cell proliferation and invasion ( 37 ). GREM1 can serve as the bone morphogenetic protein antagonist during human cancer progression ( 38 ). miR-128-3p suppressed the proliferation and metastatic potential of glioma cells by targeting GREM1 ( 39 ). CACNA2D3 may serve as a pivotal gene in ERG-positive prostate cancer ( 40 ). The developmental transcription factor IRF6 may be associated with cell proliferation, cancer stem cell properties and chemotherapeutic sensitivity in nasopharyngeal carcinoma ( 41 ). The LPL gene is commonly methylated in PCa and may be involved in tumor progression ( 42 ). However, the role between these potential gene targets and miR-505 should be further revealed.
+31322225_24637	72	76	AMOT	Gene-protein	HGNC:17810
+31322225_24637	78	83	GREM1	Gene-protein	HGNC:2001
+31322225_24637	85	93	CACNA2D3	Gene-protein	 HGNC:15460
+31322225_24637	95	99	IRF6	Gene-protein	HGNC:6121
+31322225_24637	105	108	LPL	Gene-protein	HGNC:6677
+31322225_24637	115	118	PCa	Disease	DOID:10283
+31322225_24637	145	149	AMOT	Gene-protein
+31322225_24637	145	149	AMOT	Biomarker	C423985
+31322225_24637	167	170	PCa	Disease
+31322225_24637	199	202	YAP	Genefamily	not found
+31322225_24637	219	226	miR-205	Biomarker	C534425
+31322225_24637	219	226	miR-205	Rna-noncoding	HGNC:31583
+31322225_24637	275	288	breast cancer	Disease	DOID:1612
+31322225_24637	328	332	AMOT	Gene-protein
+31322225_24637	383	390	miR-497	Rna-noncoding	HGNC:32088
+31322225_24637	383	390	miR-497	Drug	C559640
+31322225_24637	417	421	AMOT	Gene-protein
+31322225_24637	436	448	osteosarcoma	Disease	DOID:3347
+31322225_24637	506	511	GREM1	Gene-protein
+31322225_24637	529	555	bone morphogenetic protein	Genefamily	family:455
+31322225_24637	529	555	bone morphogenetic protein	Biomarker	D019485
+31322225_24637	529	566	bone morphogenetic protein antagonist	Drug-class
+31322225_24637	580	586	cancer	Disease	DOID:162
+31322225_24637	607	617	miR-128-3p	Rna-noncoding	family:1712
+31322225_24637	607	617	miR-128-3p	Drug	C545189
+31322225_24637	675	681	glioma	Disease	DOID:0060108
+31322225_24637	701	706	GREM1	Gene-protein
+31322225_24637	715	723	CACNA2D3	Biomarker	C531012
+31322225_24637	715	723	CACNA2D3	Gene-protein
+31322225_24637	755	758	ERG	Gene-protein	HGNC:3446
+31322225_24637	755	783	ERG-positive prostate cancer	Disease	not found
+31322225_24637	831	835	IRF6	Gene-protein
+31322225_24637	831	835	IRF6	Biomarker	C109803
+31322225_24637	879	885	cancer	Disease
+31322225_24637	879	967	cancer stem cell properties and chemotherapeutic sensitivity in nasopharyngeal carcinoma	Collection
+31322225_24637	943	967	nasopharyngeal carcinoma	Disease	DOID:9261
+31322225_24637	980	983	LPL	Gene-protein
+31322225_24637	980	1011	LPL gene is commonly methylated	Biomarker
+31322225_24637	1015	1018	PCa	Disease
+31322225_24637	1127	1134	miR-505	Rna-noncoding	HGNC:32140
+

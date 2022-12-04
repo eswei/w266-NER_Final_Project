@@ -1,0 +1,55 @@
+29879147_34316|t|RSS_IDENT_p_29879147_b_1_4_4
+29879147_34316|a| Previous studies have further proposed an association between the NOTCH pathway and inflammation [ 22 , 30 ]. Indeed, in both drug–induced SD models presented, we have observed an up-regulation of genes involved in inflammation and repair, including IL16 (FDR<0.05 in both models) and CCL2 (FDR<0.05 in anti-DLL4 model and with higher FDR in oxaliplatin model). Up-regulation of TGFB1 was also evident in our anti-DLl4-induced SD NHP model (FDR<0.05). IL16 is an immunomodulatory cytokine that is a chemoattractant for CD4+ immune cells [ 31 ] though not previously associated with drug-induced SD. Recently, novel physiological functions of IL16 in vascular smooth muscle cells, including IL16-induced MMP9 expression, have been described [ 32 ]. IL16 has also been shown to be an inflammatory mediator involved in cardiotoxicity; increased IL16 expression in the heart of transgenic mice was shown to result in cardiac fibrosis, left ventricle myocardial stiffening, and increased macrophage infiltration [ 33 ]. CCL2, on the other hand, is NOTCH pathway dependent [ 30 ]. Shen et al. have recently demonstrated the importance of DLL4 in liver disease and its role in the modulation of liver inflammatory response by down-regulation of CCL2 chemokine expression [ 30 ]. A trend towards up-regulation of CCL2 in CRLM patients with oxaliplatin-induced SD (FDR<0.25) and up-regulation of CCL2 in NHPs with anti-DLL4-induced SD (FDR<0.05), further suggest involvement of the NOTCH pathway in the pathogenesis of drug-induced SD. Finally, CCL2 has previously been shown to be up-regulated in CRLM patients with oxaliplatin-induced SD [ 34 ]. 
+29879147_34316	96	101	NOTCH	Genefamily	family:1689
+29879147_34316	96	109	NOTCH pathway	Biomarker
+29879147_34316	114	126	inflammation	Disease	D007249
+29879147_34316	156	171	drug–induced SD	Disease	not found
+29879147_34316	210	319	up-regulation of genes involved in inflammation and repair, including IL16 (FDR<0.05 in both models) and CCL2	Biomarker	D019410
+29879147_34316	280	284	IL16	Gene-protein	HGNC:5980
+29879147_34316	315	319	CCL2	Gene-protein	HGNC:10618
+29879147_34316	333	342	anti-DLL4	Drug-class
+29879147_34316	338	342	DLL4	Gene-protein	HGNC:2910
+29879147_34316	372	383	oxaliplatin	Drug	CHEMBL414804
+29879147_34316	392	414	Up-regulation of TGFB1	Biomarker
+29879147_34316	409	414	TGFB1	Gene-protein	HGNC:11766
+29879147_34316	439	448	anti-DLl4	Drug-class
+29879147_34316	439	459	anti-DLl4-induced SD	Disease	not found
+29879147_34316	444	448	DLl4	Gene-protein	HGNC:2910
+29879147_34316	482	486	IL16	Gene-protein
+29879147_34316	510	518	cytokine	Genefamily	not found
+29879147_34316	549	552	CD4	Gene-protein	HGNC:1678
+29879147_34316	612	627	drug-induced SD	Disease
+29879147_34316	672	676	IL16	Gene-protein
+29879147_34316	720	724	IL16	Gene-protein
+29879147_34316	733	737	MMP9	Gene-protein	HGNC:7176
+29879147_34316	778	782	IL16	Gene-protein
+29879147_34316	778	782	IL16	Biomarker
+29879147_34316	846	860	cardiotoxicity	Disease	D066126
+29879147_34316	862	887	increased IL16 expression	Biomarker
+29879147_34316	872	876	IL16	Gene-protein
+29879147_34316	943	959	cardiac fibrosis	Disease	not found
+29879147_34316	943	1036	cardiac fibrosis, left ventricle myocardial stiffening, and increased macrophage infiltration	Collection
+29879147_34316	961	997	left ventricle myocardial stiffening	Disease	not found
+29879147_34316	1003	1036	increased macrophage infiltration	Disease	not found
+29879147_34316	1045	1049	CCL2	Gene-protein
+29879147_34316	1073	1078	NOTCH	Genefamily
+29879147_34316	1162	1166	DLL4	Gene-protein
+29879147_34316	1162	1166	DLL4	Biomarker	C424126
+29879147_34316	1170	1183	liver disease	Disease	DOID:409
+29879147_34316	1249	1293	down-regulation of CCL2 chemokine expression	Biomarker
+29879147_34316	1268	1272	CCL2	Gene-protein
+29879147_34316	1318	1339	up-regulation of CCL2	Biomarker
+29879147_34316	1335	1339	CCL2	Gene-protein
+29879147_34316	1343	1384	CRLM patients with oxaliplatin-induced SD	Disease	DOID:9256, not found	Conjunction
+29879147_34316	1362	1373	oxaliplatin	Drug
+29879147_34316	1400	1421	up-regulation of CCL2	Biomarker
+29879147_34316	1417	1421	CCL2	Gene-protein
+29879147_34316	1435	1455	anti-DLL4-induced SD	Disease
+29879147_34316	1484	1516	involvement of the NOTCH pathway	Biomarker
+29879147_34316	1503	1508	NOTCH	Genefamily
+29879147_34316	1540	1555	drug-induced SD	Disease	not found
+29879147_34316	1566	1570	CCL2	Gene-protein
+29879147_34316	1566	1615	CCL2 has previously been shown to be up-regulated	Biomarker
+29879147_34316	1619	1660	CRLM patients with oxaliplatin-induced SD	Disease	Conjunction
+29879147_34316	1638	1649	oxaliplatin	Drug
+

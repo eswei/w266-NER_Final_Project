@@ -1,0 +1,47 @@
+T10	Drug 752 755	DOX
+T11	Drug 762 772	paclitaxel
+T12	Disease 739 796	doxorubicin (DOX)- and paclitaxel-resistant breast cancer
+#3	AnnotatorNotes T12	not found
+T13	Disease 846 852	cancer
+T16	Disease 1054 1060	cancer
+T18	Disease 1118 1124	cancer
+T2	Disease 263 276	neuroblastoma
+#8	AnnotatorNotes T2	DOID:769
+T21	Drug 1262 1272	paclitaxel
+T22	Disease 1287 1301	gastric cancer
+#10	AnnotatorNotes T22	DOID:10534
+T3	Disease 294 300	cancer
+#11	AnnotatorNotes T3	DOID:162
+T5	Disease 444 450	cancer
+T6	Drug 498 509	gemcitabine
+T7	Drug 533 544	gemcitabine
+T8	Disease 553 570	pancreatic cancer
+#15	AnnotatorNotes T8	DOID:1793
+T9	Drug 739 750	doxorubicin
+T1	RNA-Noncoding 80 90	miR-155-5p
+#1	AnnotatorNotes T1	HGNC:31542
+T4	RNA-Noncoding 211 221	miR-155-5p
+T14	Biomarker 202 221	exosomal miR-155-5p
+R1	Association Arg1:T14 Arg2:T30	
+T15	RNA-Noncoding 395 405	miR-155-5p
+T19	Biomarker 395 440	miR-155-5p expression levels were upregulated
+#2	AnnotatorNotes T6	CHEMBL888
+T20	RNA-Noncoding 642 652	miR-155-5p
+T23	Biomarker 642 652	miR-155-5p
+#9	AnnotatorNotes T23	C524942
+#12	AnnotatorNotes T9	CHEMBL53463
+#13	AnnotatorNotes T10	CHEMBL53463
+#14	AnnotatorNotes T11	CHEMBL428647
+T24	Biomarker 883 893	miR-155-5p
+T25	RNA-Noncoding 883 893	miR-155-5p
+T26	RNA-Noncoding 934 944	miR-155-5p
+T27	Biomarker 925 944	exosomal miR-155-5p
+R3	Association Arg1:T27 Arg2:T16	
+T17	Biomarker 1138 1157	exosomal miR-155-5p
+T28	Biomarker 1213 1232	exosomal miR-155-5p
+T29	Collection 739 772	doxorubicin (DOX)- and paclitaxel
+R4	Mediated-Non-Response Arg1:T29 Arg2:T13	
+R5	Mediator Arg1:T29 Arg2:T24	
+T30	Collection 263 300	neuroblastoma cells to promote cancer
+R6	Mediated-Non-Response Arg1:T7 Arg2:T8	
+R7	Mediator Arg1:T7 Arg2:T23	

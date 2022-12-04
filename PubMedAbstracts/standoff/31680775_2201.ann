@@ -1,0 +1,71 @@
+T1	Chemical 72 81	potassium
+T10	Chemical 319 322	KCₐ
+T11	Chemical 354 356	K⁺
+T12	Chemical 386 388	K⁺
+T13	Chemical 518 520	K⁺
+T15	Disease 607 612	tumor
+#6	AnnotatorNotes T15	DOID:162
+T16	Disease 673 679	cancer
+#7	AnnotatorNotes T16	DOID:162
+T17	Chemical 725 727	Kᵥ
+T19	Disease 792 817	uterine and breast cancer
+#9	AnnotatorNotes T19	DOID:363, DOID:1612
+T2	Chemical 92 94	K⁺
+T21	Disease 901 906	tumor
+T22	Disease 929 940	astrocytoma
+#12	AnnotatorNotes T22	D001254
+T23	Disease 945 951	glioma
+#13	AnnotatorNotes T23	D005910
+T24	Chemical 1042 1044	K⁺
+T25	Disease 1070 1075	tumor
+T27	Chemical 1145 1147	K⁺
+T29	Chemical 1223 1225	Kᵥ
+T3	Disease 184 191	cancers
+#19	AnnotatorNotes T3	DOID:162
+T30	Disease 1270 1285	prostate cancer
+#20	AnnotatorNotes T30	DOID:10283
+T4	Chemical 200 202	K⁺
+T6	Chemical 279 281	K⁺
+T7	Chemical 283 285	Kᵥ
+T8	Chemical 297 304	calcium
+T9	Chemical 315 317	K⁺
+T5	Biomarker 72 90	potassium channels
+R1	Association Arg1:T5 Arg2:T3	
+T14	GeneFamily 72 90	potassium channels
+#1	AnnotatorNotes T14	family:183
+T18	GeneFamily 92 103	K⁺ channels
+#2	AnnotatorNotes T18	family:183
+T20	GeneFamily 44 70	voltage-gated ion channels
+#3	AnnotatorNotes T20	family:178
+T28	GeneFamily 200 211	K⁺ channels
+T31	GeneFamily 265 295	voltage-gated K⁺ (Kᵥ) channels
+#4	AnnotatorNotes T31	family:274
+T32	GeneFamily 297 332	calcium-activated K⁺ (KCₐ) channels
+#5	AnnotatorNotes T32	family:255
+T33	GeneFamily 334 371	inwardly rectifying K⁺ (Kᵢᵣ) channels
+#8	AnnotatorNotes T33	not found
+T34	GeneFamily 377 403	two-pore K⁺ (K₂ₚ) channels
+#10	AnnotatorNotes T34	family:277
+T35	GeneFamily 518 529	K⁺ channels
+T36	Biomarker 518 529	K⁺ channels
+#14	AnnotatorNotes T36	D015221
+#17	AnnotatorNotes T5	D015221
+R2	Association Arg1:T36 Arg2:T37	
+T37	Collection 607 679	tumor cells and have been considered as new targets for designing cancer
+T38	GeneFamily 725 736	Kᵥ channels
+#18	AnnotatorNotes T38	family:274
+T39	Biomarker 725 736	Kᵥ channels
+#21	AnnotatorNotes T39	 D024642
+R3	Association Arg1:T39 Arg2:T19	
+T40	Biomarker 850 876	activation of KCₐ channels
+T41	GeneFamily 864 876	KCₐ channels
+#22	AnnotatorNotes T41	family:255
+T42	Collection 929 951	astrocytoma and glioma
+R4	Association Arg1:T40 Arg2:T42	
+T26	GeneFamily 1042 1052	K⁺ channel
+T43	Biomarker 1042 1052	K⁺ channel
+R5	Association Arg1:T43 Arg2:T25	
+T44	Biomarker 1209 1248	expression of Kᵥ, KCₐ, and K₂ₚ channels
+T45	GeneFamily 1223 1248	Kᵥ, KCₐ, and K₂ₚ channels
+#11	AnnotatorNotes T45	family:274, family:255, family:277
+R6	Association Arg1:T44 Arg2:T30	

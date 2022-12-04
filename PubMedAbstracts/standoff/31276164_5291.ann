@@ -1,0 +1,42 @@
+T0	Disease 102 106	PCOS
+#1	AnnotatorNotes T0	DOID:11612
+T1	Gene-Protein 110 113	AMH
+T10	Gene-Protein 837 840	AMH
+T11	Gene-Protein 911 914	AMH
+T12	Gene-Protein 1027 1030	AMH
+T13	Disease 1124 1128	PCOS
+T14	Gene-Protein 1195 1198	AMH
+T15	Gene-Protein 1289 1292	AMH
+T16	Disease 1434 1438	PCOS
+T17	Disease 1573 1576	PCO
+T2	Gene-Protein 294 297	AMH
+T3	Gene-Protein 405 408	AMH
+T4	Gene-Protein 437 440	AMH
+T5	Gene-Protein 519 522	AMH
+T6	Chemical 544 553	estradiol
+T7	Gene-Protein 601 604	AMH
+T8	Disease 640 644	PCOS
+T9	Gene-Protein 687 690	AMH
+#2	AnnotatorNotes T1	HGNC:464
+T18	GeneFamily 135 152	TGF-β superfamily
+#3	AnnotatorNotes T18	family:1932
+T19	Disease 311 315	PCOS
+T20	Drug 294 297	AMH
+#4	AnnotatorNotes T20	D054304
+R1	Causes Arg1:T20 Arg2:T19	
+T21	GeneFamily 532 535	FSH
+#5	AnnotatorNotes T21	not found
+T22	Biomarker 601 625	AMH production is higher
+R2	Association Arg1:T22 Arg2:T8	
+T23	Biomarker 831 840	serum AMH
+T24	Biomarker 846 867	antral follicle count
+T25	Biomarker 897 940	production of AMH per follicle is increased
+T26	Disease 944 948	PCOS
+R3	Association Arg1:T25 Arg2:T26	
+T27	Biomarker 1009 1070	concentrations of AMH (as measured by ELISA) were much higher
+R4	Association Arg1:T27 Arg2:T13	
+T28	Chemical 1350 1362	gonadotropin
+T29	Biomarker 1289 1308	AMH gene expression
+R5	Association Arg1:T29 Arg2:T16	
+#6	AnnotatorNotes T17	DOID:11612
+T30	Biomarker 662 690	higher ovarian levels of AMH

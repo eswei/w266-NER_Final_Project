@@ -1,0 +1,48 @@
+31010101_15811|t|RSS_IDENT_p_31010101_b_1_4_3
+31010101_15811|a| Glutamine is an important nutrient for cancer cell metabolism [ 30 ]. Several mechanisms have been proposed regarding glutamine metabolism in CRC, such as glutamine addiction, increased glutaminolysis, and autophagy activation for cancer cell survival and proliferation [ 31 , 32 , 33 ]. We speculated that the consumption of glutamine by CRC cells varies in every patient with different mutations, which may produce disparate levels of serum glutamine [ 33 , 34 , 35 ]. Serum glutamine level is maintained in circulation at a relatively constant level of 0.6–0.9 mmol/L in the normal population [ 17 ]. The decreased concentration of serum glutamine in cancer patients may be associated with higher demand by proliferating cancer cells [ 21 ]. Regardless of the diversified postulated mechanisms, our study showed that low pretreatment serum glutamine level was an independent poor prognostic factor in CRC patients. In recent decades, several trials have shown that glutamine supplementation in CRC patients may reduce chemotherapy-related side effects, such as mucositis, intestinal toxicity, and neuropathy [ 36 , 37 , 38 ]. Two large prospective studies also indicated that dietary glutamine or glutamic acid intake may reduce CRC incidence in non-overweight individuals, as well as cancer mortality [ 39 , 40 ]. Targeting of glutamine metabolism has recently emerged as a cancer treatment [ 20 ]. Whether glutamine supplementation to maintain adequate serum glutamine level and block glutamine intake by cancer cells can improve the outcome of CRC patients requires further studies.
+31010101_15811	30	39	Glutamine	Chemical
+31010101_15811	69	75	cancer	Disease	DOID:162
+31010101_15811	148	157	glutamine	Chemical
+31010101_15811	148	168	glutamine metabolism	Biomarker
+31010101_15811	172	175	CRC	Disease	DOID:9256
+31010101_15811	185	194	glutamine	Chemical
+31010101_15811	185	204	glutamine addiction	Biomarker
+31010101_15811	185	256	glutamine addiction, increased glutaminolysis, and autophagy activation	Collection
+31010101_15811	206	230	increased glutaminolysis	Biomarker
+31010101_15811	236	256	autophagy activation	Biomarker
+31010101_15811	261	267	cancer	Disease
+31010101_15811	341	365	consumption of glutamine	Biomarker
+31010101_15811	356	365	glutamine	Chemical
+31010101_15811	369	372	CRC	Disease
+31010101_15811	473	482	glutamine	Chemical
+31010101_15811	501	522	Serum glutamine level	Biomarker
+31010101_15811	507	516	glutamine	Chemical
+31010101_15811	638	680	decreased concentration of serum glutamine	Biomarker
+31010101_15811	671	680	glutamine	Chemical
+31010101_15811	684	690	cancer	Disease
+31010101_15811	754	760	cancer	Disease
+31010101_15811	850	888	low pretreatment serum glutamine level	Biomarker
+31010101_15811	873	882	glutamine	Chemical
+31010101_15811	934	937	CRC	Disease
+31010101_15811	998	1023	glutamine supplementation	Drug	not found
+31010101_15811	1027	1030	CRC	Disease
+31010101_15811	1051	1063	chemotherapy	Drug-class
+31010101_15811	1094	1103	mucositis	Disease	DOID:0080178
+31010101_15811	1094	1140	mucositis, intestinal toxicity, and neuropathy	Collection
+31010101_15811	1105	1124	intestinal toxicity	Disease	not found
+31010101_15811	1130	1140	neuropathy	Disease	DOID:870
+31010101_15811	1209	1226	dietary glutamine	Drug	not found
+31010101_15811	1209	1243	dietary glutamine or glutamic acid	Collection
+31010101_15811	1230	1243	glutamic acid	Drug	 CHEMBL575060
+31010101_15811	1262	1265	CRC	Disease
+31010101_15811	1262	1334	CRC incidence in non-overweight individuals, as well as cancer mortality	Collection
+31010101_15811	1318	1334	cancer mortality	Disease	not found
+31010101_15811	1361	1370	glutamine	Chemical
+31010101_15811	1361	1381	glutamine metabolism	Biomarker
+31010101_15811	1408	1414	cancer	Disease
+31010101_15811	1441	1450	glutamine	Chemical
+31010101_15811	1494	1503	glutamine	Chemical
+31010101_15811	1520	1529	glutamine	Chemical
+31010101_15811	1540	1546	cancer	Disease
+31010101_15811	1580	1583	CRC	Disease
+

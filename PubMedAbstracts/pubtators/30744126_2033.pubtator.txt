@@ -1,0 +1,52 @@
+30744126_2033|t|RSS_IDENT_p_30744126_b_1_1_3
+30744126_2033|a| Increased centrosome number, called centrosome amplification (CA), is a hallmark of human cancer [ 5 ]. Recent reports have shown that CA correlates with aneuploidy and malignant behavior in some human cancers including uterine cervical cancer, breast cancer, and PCa [ 6 , 7 ]. Although aneuploidy might cause multipolar spindles and lead to apoptosis, cancer cells overcome these lethal effects of CA by using centrosome clustering. Centrosome clustering, defined as the reshaping of transient multipolar spindles into pseudo-bipolar structures, is a well-studied mechanism that allows cancer cells to avoid apoptosis [ 8 , 9 ]. Kinesin family member C1 (KIFC1) is a minus end-directed motor protein that plays an essential role in centrosome clustering [ 10 , 11 , 12 ]. Several reports show that KIFC1 is upregulated and is involved in cancer progression in some cancers [ 13 , 14 , 15 ]. In addition, the overexpression of KIFC1 suppresses DTX-mediated apoptosis in breast cancer cells [ 16 ]. Previously, we showed that KIFC1 was associated with a poor prognosis after radical prostatectomy or after DTX treatment in PCa [ 17 ]. Additionally, knockdown of KIFC1 improved DTX sensitivity in LNCaP cells and DU145 cells. However, the role of KIFC1 in DTX resistance in PCa is not well known. In this study, we used DTX-resistant PCa cells from C4-2 cells and DU145 cells to analyze the involvement of KIFC1 in DTX resistance. We examined the expression and functional role of KIFC1 and analyzed the effect of KIFC1 knockdown on DTX resistance in DTX-resistant PCa cell lines. We also investigated the effect of the KIFC1 inhibitor CW069 in PCa cell lines. 
+30744126_2033	30	57	Increased centrosome number	Biomarker
+30744126_2033	30	95	Increased centrosome number, called centrosome amplification (CA)	Collection
+30744126_2033	66	95	centrosome amplification (CA)	Biomarker
+30744126_2033	120	126	cancer	Disease	DOID:162
+30744126_2033	165	167	CA	Biomarker
+30744126_2033	184	194	aneuploidy	Biomarker	D000782
+30744126_2033	199	217	malignant behavior	Biomarker
+30744126_2033	232	239	cancers	Disease	DOID:162
+30744126_2033	250	273	uterine cervical cancer	Disease	DOID:4362
+30744126_2033	275	288	breast cancer	Disease	DOID:1612
+30744126_2033	294	297	PCa	Disease	DOID:12549
+30744126_2033	384	390	cancer	Disease
+30744126_2033	618	624	cancer	Disease
+30744126_2033	661	685	Kinesin family member C1	Gene-protein	HGNC:6389
+30744126_2033	687	692	KIFC1	Gene-protein	HGNC:6389
+30744126_2033	830	835	KIFC1	Gene-protein
+30744126_2033	830	850	KIFC1 is upregulated	Biomarker
+30744126_2033	870	876	cancer	Disease
+30744126_2033	897	904	cancers	Disease
+30744126_2033	940	963	overexpression of KIFC1	Biomarker
+30744126_2033	958	963	KIFC1	Gene-protein
+30744126_2033	975	978	DTX	Drug	CHEMBL92
+30744126_2033	1001	1014	breast cancer	Disease
+30744126_2033	1056	1061	KIFC1	Gene-protein
+30744126_2033	1056	1061	KIFC1	Biomarker	C486566
+30744126_2033	1136	1139	DTX	Drug
+30744126_2033	1153	1156	PCa	Disease
+30744126_2033	1192	1197	KIFC1	Gene-protein
+30744126_2033	1207	1210	DTX	Drug
+30744126_2033	1226	1231	LNCaP	Cellline
+30744126_2033	1242	1247	DU145	Cellline
+30744126_2033	1276	1281	KIFC1	Gene-protein
+30744126_2033	1285	1288	DTX	Drug
+30744126_2033	1303	1306	PCa	Disease
+30744126_2033	1349	1352	DTX	Drug
+30744126_2033	1349	1366	DTX-resistant PCa	Disease
+30744126_2033	1378	1382	C4-2	Cellline
+30744126_2033	1393	1398	DU145	Cellline
+30744126_2033	1435	1440	KIFC1	Gene-protein
+30744126_2033	1444	1447	DTX	Drug
+30744126_2033	1510	1515	KIFC1	Gene-protein
+30744126_2033	1543	1548	KIFC1	Gene-protein
+30744126_2033	1562	1565	DTX	Drug
+30744126_2033	1580	1583	DTX	Drug
+30744126_2033	1580	1597	DTX-resistant PCa	Disease
+30744126_2033	1649	1654	KIFC1	Gene-protein
+30744126_2033	1649	1664	KIFC1 inhibitor	Drug-class
+30744126_2033	1665	1670	CW069	Drug	C000593979
+30744126_2033	1674	1677	PCa	Disease
+

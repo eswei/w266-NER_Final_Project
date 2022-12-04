@@ -1,0 +1,50 @@
+T0	Disease 34 43	cirrhotic
+T11	Chemical 548 550	NO
+T12	Chemical 637 640	eNO
+T14	Chemical 682 685	eNO
+T15	Disease 718 741	decompensated cirrhosis
+#5	AnnotatorNotes T15	not found
+T16	Disease 751 785	intrapulmonary vascular dilatation
+#6	AnnotatorNotes T16	not found
+T18	Disease 803 836	hyperdynamic circulatory syndrome
+#7	AnnotatorNotes T18	not found
+T2	Chemical 99 101	NO
+T20	Disease 841 865	hepatopulmonary syndrome
+#9	AnnotatorNotes T20	DOID:900
+T23	Chemical 894 897	eNO
+T24	Chemical 1089 1092	eNO
+T25	Chemical 1246 1249	eNO
+T26	Disease 1427 1436	cirrhosis
+#13	AnnotatorNotes T26	DOID:5082
+T27	Chemical 1517 1520	eNO
+T28	Disease 1548 1563	liver cirrhosis
+#15	AnnotatorNotes T28	DOID:5082
+T29	Chemical 1601 1604	eNO
+T3	Chemical 317 319	NO
+T4	Chemical 369 376	nitrate
+T5	Chemical 381 388	nitrite
+T6	Chemical 435 437	NO
+T7	Chemical 461 471	L-arginine
+T8	Chemical 476 482	oxygen
+T9	Disease 514 523	cirrhotic
+T1	Biomarker 58 85	increased expression of NOS
+T10	Biomarker 90 135	elevated NO concentration in peripheral blood
+T13	Biomarker 158 220	decrease in the inactivating effect of the liver on endotoxins
+T17	Biomarker 225 287	increased concentration of endotoxins in the blood circulation
+T19	Collection 718 865	decompensated cirrhosis, such as intrapulmonary vascular dilatation complicated with hyperdynamic circulatory syndrome and hepatopulmonary syndrome
+T21	Biomarker 670 685	increase in eNO
+R1	Association Arg1:T21 Arg2:T19	
+T22	Biomarker 871 897	excessive elevation of eNO
+T33	Biomarker 934 1059	increase in the release from pulmonary vascular endothelial cells, airway epithelial cells, and peripheral inflammatory cells
+#1	AnnotatorNotes T0	DOID:5082
+T30	Disease 1655 1684	cirrhotic portal hypertension
+#2	AnnotatorNotes T30	DOID:5082,DOID:10762
+T31	Disease 1686 1689	CPH
+#3	AnnotatorNotes T31	DOID:5082,DOID:10762
+T32	Biomarker 1601 1604	eNO
+T34	Biomarker 1517 1520	eNO
+T35	GeneFamily 82 85	NOS
+#4	AnnotatorNotes T35	not found
+T36	GeneFamily 506 509	NOS
+T42	Biomarker 621 654	increase in the eNO concentration
+T37	Biomarker 538 605	increased NO levels in pulmonary small airways and alveolar regions

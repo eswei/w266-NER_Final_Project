@@ -1,0 +1,136 @@
+31832575_196|t|RSS_IDENT_p_31832575_a_1_1
+31832575_196|a| The circadian rhythm of the liver plays an important role in maintaining its metabolic homeostasis. We performed comprehensive expression analysis of microRNAs (miRNAs) using TaqMan polymerase chain reaction of liver biopsy tissues to identify the miRNAs that are significantly up‐regulated in advanced chronic hepatitis C (CHC). We found miR‐10a regulated various liver metabolism genes and was markedly up‐regulated by hepatitis C virus infection and poor nutritional conditions. The expression of miR‐10a was rhythmic and down‐regulated the expression of the circadian rhythm gene brain and muscle aryl hydrocarbon receptor nuclear translocator‐like 1 (Bmal1) by directly suppressing the expression of RA receptor‐related orphan receptor alpha (RORA). Overexpression of miR‐10a in hepatocytes blunted circadian rhythm of Bmal1 and inhibited the expression of lipid synthesis genes (sterol regulatory element binding protein [SREBP]1, fatty acid synthase [FASN], and SREBP2), gluconeogenesis (peroxisome proliferator‐activated receptor gamma coactivator 1 alpha [PGC1α]), protein synthesis (mammalian target of rapamycin [mTOR] and ribosomal protein S6 kinase [S6K]) and bile acid synthesis (liver receptor homolog 1 [LRH1]). The expression of Bmal1 was significantly correlated with the expression of mitochondrial biogenesis‐related genes and reduced Bmal1 was associated with increased serum alanine aminotransferase levels and progression of liver fibrosis in CHC. Thus, impaired circadian rhythm expression of Bmal1 by miR‐10a disturbs metabolic adaptations, leading to liver damage, and is closely associated with the exacerbation of abnormal liver metabolism in patients with advanced CHC. In patients with hepatitis C‐related liver cirrhosis, liver tissue miR‐10a levels were significantly associated with hepatic reserve, fibrosis markers, esophageal varix complications, and hepatitis C‐related hepatocellular carcinoma recurrence. Conclusion: MiRNA‐10a is involved in abnormal liver metabolism in cirrhotic liver through down‐regulation of the expression of the circadian rhythm gene Bmal1. Therefore, miR‐10a is a possible useful biomarker for estimating the prognosis of liver cirrhosis. Abbreviations ACTB beta‐actin ALP alkaline phosphatase ALT alanine aminotransferase AMPK adenosine monophosphate–activated protein kinase AST aspartate aminotransferase BCAA branched‐chain amino acid Bmal1 brain and muscle aryl hydrocarbon receptor nuclear translocator‐like 1 CDCA chenodeoxycholic acid CHC chronic hepatitis C cont control CYP7A1 cytochrome P450 family 7 subfamily A member 1 DMEM Dulbecco's modified Eagle's medium FASN fatty acid synthase FBS fetal bovine serum GLuc Gaussia luciferase HCC hepatocellular carcinoma HCV hepatitis C virus HCVcc cell culture hepatitis C virus HDL‐Chol high‐density lipoprotein cholesterol hsa‐miR human microRNA Inh Inhibitor KO knockout LC liver cirrhosis LD liquid droplet LRH1 liver receptor homolog 1 miRNA/miR microRNA MOI multiplicity of infection mRNA messenger RNA MT mutant mTOR mammalian target of rapamycin N.S. not significant p phosphorylated PCK phosphoenolpyruvate carboxykinase PCR polymerase chain reaction PEG‐IFN pegylated interferon PGC1α peroxisome proliferator‐activated receptor gamma coactivator 1 alpha PPAR/A/G peroxisome proliferator‐activated receptor/alpha/gamma RBV ribavirin ROR RA receptor‐related orphan receptor RORE RA receptor‐related orphan receptor‐responsive element RTD‐PCR real‐time detection polymerase chain reaction S6K ribosomal protein S6 kinase SREBP sterol regulatory element binding protein SVR sustained virologic response T‐Chol total cholesterol TG triglyceride TGF‐β transforming growth factor β UTR untranslated region WT wild type
+31832575_196	276	282	miRNAs	Rna-noncoding	family:476
+31832575_196	276	318	miRNAs that are significantly up‐regulated	Biomarker
+31832575_196	322	350	advanced chronic hepatitis C	Disease	DOID:1883
+31832575_196	352	355	CHC	Disease	DOID:1883
+31832575_196	367	374	miR‐10a	Rna-noncoding	HGNC:31497
+31832575_196	367	445	miR‐10a regulated various liver metabolism genes and was markedly up‐regulated	Biomarker
+31832575_196	449	466	hepatitis C virus	Microorganism
+31832575_196	449	476	hepatitis C virus infection	Disease	DOID:1883
+31832575_196	528	535	miR‐10a	Rna-noncoding
+31832575_196	612	682	brain and muscle aryl hydrocarbon receptor nuclear translocator‐like 1	Gene-protein	HGNC:701
+31832575_196	629	645	aryl hydrocarbon	Chemical
+31832575_196	684	689	Bmal1	Gene-protein	HGNC:701
+31832575_196	733	774	RA receptor‐related orphan receptor alpha	Gene-protein	HGNC:10258
+31832575_196	776	780	RORA	Gene-protein	HGNC:10258
+31832575_196	801	808	miR‐10a	Rna-noncoding
+31832575_196	852	857	Bmal1	Gene-protein
+31832575_196	913	919	sterol	Chemical
+31832575_196	913	963	sterol regulatory element binding protein [SREBP]1	Gene-protein	HGNC:11289
+31832575_196	965	975	fatty acid	Chemical
+31832575_196	965	984	fatty acid synthase	Gene-protein	HGNC:3594
+31832575_196	986	990	FASN	Gene-protein	HGNC:3594
+31832575_196	997	1003	SREBP2	Gene-protein	HGNC:11290
+31832575_196	1023	1091	peroxisome proliferator‐activated receptor gamma coactivator 1 alpha	Gene-protein	HGNC:9237
+31832575_196	1093	1098	PGC1α	Gene-protein	HGNC:9237
+31832575_196	1121	1150	mammalian target of rapamycin	Gene-protein	HGNC:3942
+31832575_196	1141	1150	rapamycin	Chemical
+31832575_196	1152	1156	mTOR	Gene-protein	HGNC:3942
+31832575_196	1162	1189	ribosomal protein S6 kinase	Gene-protein	HGNC:10437
+31832575_196	1191	1194	S6K	Gene-protein	HGNC:10437
+31832575_196	1201	1210	bile acid	Chemical
+31832575_196	1221	1246	(liver receptor homolog 1	Gene-protein	HGNC:7984
+31832575_196	1248	1252	LRH1	Gene-protein	HGNC:7984
+31832575_196	1260	1279	expression of Bmal1	Biomarker
+31832575_196	1274	1279	Bmal1	Gene-protein
+31832575_196	1318	1370	expression of mitochondrial biogenesis‐related genes	Biomarker
+31832575_196	1375	1388	reduced Bmal1	Biomarker
+31832575_196	1383	1388	Bmal1	Gene-protein
+31832575_196	1409	1456	increased serum alanine aminotransferase levels	Biomarker
+31832575_196	1425	1432	alanine	Chemical
+31832575_196	1425	1449	alanine aminotransferase	Gene-protein	HGNC:4552
+31832575_196	1476	1497	liver fibrosis in CHC	Disease	DOID:5082, DOID:1883	Conjunction
+31832575_196	1505	1550	impaired circadian rhythm expression of Bmal1	Biomarker
+31832575_196	1545	1550	Bmal1	Gene-protein
+31832575_196	1554	1561	miR‐10a	Rna-noncoding
+31832575_196	1605	1617	liver damage	Disease	not found
+31832575_196	1605	1725	liver damage, and is closely associated with the exacerbation of abnormal liver metabolism in patients with advanced CHC	Collection
+31832575_196	1670	1725	abnormal liver metabolism in patients with advanced CHC	Disease	not found, DOID:1883	Conjunction
+31832575_196	1744	1779	hepatitis C‐related liver cirrhosis	Disease	not found
+31832575_196	1781	1808	liver tissue miR‐10a levels	Biomarker
+31832575_196	1794	1801	miR‐10a	Rna-noncoding
+31832575_196	1844	1859	hepatic reserve	Biomarker
+31832575_196	1861	1877	fibrosis markers	Biomarker
+31832575_196	1879	1909	esophageal varix complications	Biomarker
+31832575_196	1915	1959	hepatitis C‐related hepatocellular carcinoma	Disease	not found
+31832575_196	1984	1993	MiRNA‐10a	Biomarker	C547183
+31832575_196	1984	1993	MiRNA‐10a	Rna-noncoding
+31832575_196	2009	2053	abnormal liver metabolism in cirrhotic liver	Disease	not found, DOID:5082	Conjunction
+31832575_196	2062	2130	down‐regulation of the expression of the circadian rhythm gene Bmal1	Biomarker
+31832575_196	2125	2130	Bmal1	Gene-protein
+31832575_196	2143	2150	miR‐10a	Biomarker
+31832575_196	2143	2150	miR‐10a	Rna-noncoding
+31832575_196	2214	2229	liver cirrhosis	Disease	DOID:5082
+31832575_196	2245	2249	ACTB	Gene-protein
+31832575_196	2250	2260	beta‐actin	Gene-protein
+31832575_196	2261	2264	ALP	Gene-protein
+31832575_196	2265	2285	alkaline phosphatase	Gene-protein
+31832575_196	2286	2289	ALT	Gene-protein
+31832575_196	2290	2297	alanine	Chemical
+31832575_196	2290	2314	alanine aminotransferase	Gene-protein
+31832575_196	2315	2319	AMPK	Genefamily
+31832575_196	2320	2343	adenosine monophosphate	Chemical
+31832575_196	2320	2368	adenosine monophosphate–activated protein kinase	Genefamily
+31832575_196	2369	2372	AST	Genefamily
+31832575_196	2373	2382	aspartate	Chemical
+31832575_196	2373	2399	aspartate aminotransferase	Genefamily
+31832575_196	2420	2430	amino acid	Chemical
+31832575_196	2431	2436	Bmal1	Gene-protein
+31832575_196	2437	2507	brain and muscle aryl hydrocarbon receptor nuclear translocator‐like 1	Gene-protein
+31832575_196	2454	2470	aryl hydrocarbon	Chemical
+31832575_196	2508	2512	CDCA	Chemical
+31832575_196	2513	2534	chenodeoxycholic acid	Chemical
+31832575_196	2535	2538	CHC	Disease	DOID:1883
+31832575_196	2539	2558	chronic hepatitis C	Disease	DOID:1883
+31832575_196	2572	2578	CYP7A1	Gene-protein
+31832575_196	2579	2624	cytochrome P450 family 7 subfamily A member 1	Gene-protein
+31832575_196	2665	2669	FASN	Gene-protein
+31832575_196	2670	2680	fatty acid	Chemical
+31832575_196	2670	2689	fatty acid synthase	Gene-protein
+31832575_196	2737	2740	HCC	Disease	DOID:684
+31832575_196	2741	2765	hepatocellular carcinoma	Disease	DOID:684
+31832575_196	2766	2769	HCV	Microorganism
+31832575_196	2770	2787	hepatitis C virus	Microorganism
+31832575_196	2807	2824	hepatitis C virus	Microorganism
+31832575_196	2825	2833	HDL‐Chol	Chemical
+31832575_196	2834	2869	high‐density lipoprotein cholestero	Chemical
+31832575_196	2871	2878	hsa‐miR	Rna-noncoding
+31832575_196	2879	2893	human microRNA	Rna-noncoding
+31832575_196	2920	2922	LC	Disease	DOID:5082
+31832575_196	2923	2938	liver cirrhosis	Disease	DOID:5082
+31832575_196	2957	2961	LRH1	Gene-protein
+31832575_196	2962	2986	liver receptor homolog 1	Gene-protein
+31832575_196	2987	2992	miRNA	Rna-noncoding
+31832575_196	2993	2996	miR	Rna-noncoding
+31832575_196	2997	3005	microRNA	Rna-noncoding
+31832575_196	3065	3069	mTOR	Gene-protein
+31832575_196	3070	3099	mammalian target of rapamycin	Gene-protein
+31832575_196	3090	3099	rapamycin	Chemical
+31832575_196	3138	3141	PCK	Gene-protein
+31832575_196	3142	3161	phosphoenolpyruvate	Chemical
+31832575_196	3142	3175	phosphoenolpyruvate carboxykinase	Gene-protein
+31832575_196	3206	3213	PEG‐IFN	Chemical
+31832575_196	3214	3234	pegylated interferon	Gene-protein
+31832575_196	3235	3240	PGC1α	Gene-protein
+31832575_196	3241	3309	peroxisome proliferator‐activated receptor gamma coactivator 1 alpha	Gene-protein
+31832575_196	3310	3318	PPAR/A/G	Gene-protein
+31832575_196	3319	3373	peroxisome proliferator‐activated receptor/alpha/gamma	Gene-protein
+31832575_196	3374	3377	RBV	Chemical
+31832575_196	3378	3387	ribavirin	Chemical
+31832575_196	3388	3391	ROR	Gene-protein
+31832575_196	3392	3427	RA receptor‐related orphan receptor	Gene-protein
+31832575_196	3428	3432	RORE	Gene-protein
+31832575_196	3433	3487	RA receptor‐related orphan receptor‐responsive element	Gene-protein
+31832575_196	3542	3545	S6K	Gene-protein
+31832575_196	3546	3573	ribosomal protein S6 kinase	Gene-protein
+31832575_196	3574	3579	SREBP	Gene-protein
+31832575_196	3580	3586	sterol	Chemical
+31832575_196	3580	3621	sterol regulatory element binding protein	Gene-protein
+31832575_196	3657	3661	Chol	Chemical
+31832575_196	3668	3679	cholesterol	Chemical
+31832575_196	3680	3682	TG	Chemical
+31832575_196	3683	3695	triglyceride	Chemical
+31832575_196	3696	3701	TGF‐β	Genefamily
+31832575_196	3702	3730	transforming growth factor β	Genefamily
+

@@ -1,0 +1,73 @@
+T0	Disease 149 156	cancers
+#1	AnnotatorNotes T0	DOID:162
+T15	Disease 1280 1306	non-small-cell lung cancer
+T16	Drug 1391 1402	oxaliplatin
+T17	Disease 1417 1431	gastric cancer
+#6	AnnotatorNotes T17	DOID:10534
+T18	Drug 1520 1531	oxaliplatin
+T19	Disease 1546 1560	gastric cancer
+T2	Disease 297 304	cancers
+T21	Disease 1660 1667	cancers
+T3	Disease 432 447	cervical cancer
+#11	AnnotatorNotes T3	DOID:4362
+T6	Disease 732 749	colorectal cancer
+#13	AnnotatorNotes T6	DOID:9256
+T8	Disease 946 972	non-small-cell lung cancer
+#14	AnnotatorNotes T8	DOID:3908
+T1	RNA-Noncoding 97 104	BLACAT1
+#3	AnnotatorNotes T1	HGNC:48597
+T5	Biomarker 97 104	BLACAT1
+#5	AnnotatorNotes T5	C000624139
+R1	Association Arg1:T5 Arg2:T0	
+T7	GeneFamily 162 171	β-catenin
+#7	AnnotatorNotes T7	family:1542
+T10	GeneFamily 158 161	Wnt
+#16	AnnotatorNotes T10	family:360
+T12	Biomarker 158 186	Wnt/β-catenin signal pathway
+R2	Association Arg1:T12 Arg2:T2	
+T14	Drug 344 371	knockdown of lncRNA BLACAT1
+#9	AnnotatorNotes T14	not found
+T20	RNA-Noncoding 364 371	BLACAT1
+R3	Response Arg1:T14 Arg2:T3	
+T22	GeneFamily 487 490	Wnt
+T23	GeneFamily 491 500	β-catenin
+T4	Drug-Class 524 538	Cdk inhibitors
+T24	GeneFamily 582 585	Cdk
+T25	Drug-Class 540 544	CKIs
+T26	GeneFamily 586 592	cyclin
+#19	AnnotatorNotes T26	family:473
+T27	RNA-Noncoding 681 688	BLACAT1
+T28	Biomarker 681 688	BLACAT1
+R4	Association Arg1:T28 Arg2:T6	
+T29	Gene-Protein 783 786	P15
+#20	AnnotatorNotes T29	HGNC:1788
+T30	RNA-Noncoding 880 887	BLACAT1
+T31	Biomarker 880 887	BLACAT1
+R5	Association Arg1:T31 Arg2:T8	
+T9	RNA-Noncoding 990 997	miR-144
+#15	AnnotatorNotes T9	HGNC:31531
+T11	RNA-Noncoding 1137 1144	BLACAT1
+T13	RNA-Noncoding 1216 1223	BLACAT1
+T32	Biomarker 1216 1223	BLACAT1
+R6	Association Arg1:T32 Arg2:T15	
+T33	RNA-Noncoding 1317 1323	miR-17
+#2	AnnotatorNotes T33	family:1703
+T34	GeneFamily 1324 1328	ATG7
+#4	AnnotatorNotes T34	HGNC:16935
+T35	RNA-Noncoding 1370 1377	BLACAT1
+T36	Biomarker 1370 1377	BLACAT1
+#21	AnnotatorNotes T16	CHEMBL414804
+R7	Mediated-Non-Response Arg1:T16 Arg2:T17	
+R8	Mediator Arg1:T16 Arg2:T36	
+T37	RNA-Noncoding 1440 1447	BLACAT1
+T38	RNA-Noncoding 1448 1455	miR-361
+#22	AnnotatorNotes T38	HGNC:31867
+T39	Gene-Protein 1456 1461	ABCB1
+#23	AnnotatorNotes T39	HGNC:40
+R9	Non-Response Arg1:T18 Arg2:T19	
+T40	RNA-Noncoding 1608 1615	BLACAT1
+T41	Biomarker 1608 1615	BLACAT1
+R10	Association Arg1:T41 Arg2:T21	
+T42	Drug-Class 800 804	CKIs
+T43	GeneFamily 524 527	Cdk
+#8	AnnotatorNotes T43	family:496

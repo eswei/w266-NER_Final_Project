@@ -1,0 +1,53 @@
+31489646_21786|t|RSS_IDENT_p_31489646_b_1_4_4
+31489646_21786|a| Innate immunity is the first line of host defence. Compared with CRP, PTX3, produced only by the liver, is secreted by different cell types corresponding to infection, pro‐inflammatory stimulation and endotoxemia.22, 23, 24 Dias et al showed that PTX3 transgenic mice were more resistant to sepsis.25 Our study revealed that plasma PTX3 levels could be used to evaluate sepsis and septic shock on the first day of sepsis onset. In addition, our study confirmed that circulating PTX3 levels were elevated in sepsis patients and were even higher in septic shock patients, the results of which were similar to previous studies of others.26 It was also found that PTX3 levels in sepsis and septic shock patients had much more significant correlations with traditional immune parameters than in post‐surgery patients. Pro‐inflammatory cytokines such as TNF‐⍺ and IL‐1β were excessively activated since sepsis was induced by severe infections, which induced the expression of PTX3.27 Aaton et al showed that PTX3 regulated the development of atherosclerosis by enhancing the production of IL‐10 in vitro. However, the PTX3 stimulation did not result in the production of pro‐inflammatory cytokines IL‐6 and TNF‐⍺.28 The study presented significant and valuable AUCs for discriminating sepsis or septic shock from healthy and post‐surgery controls. Previous studies showed that PTX3 had significant correlations with APACHE II score and SOFA score in sepsis and septic shock patients.26, 29 Moreover, the plasma PTX3 level could predict 90 mortalities in sepsis patients.29 Thus, novel biomarker such as PTX3 might help improve the early diagnosis of sepsis and septic shock. 
+31489646_21786	95	98	CRP	Gene-protein	HGNC:2367
+31489646_21786	100	104	PTX3	Gene-protein	HGNC:9692
+31489646_21786	231	242	endotoxemia	Disease	D019446
+31489646_21786	277	281	PTX3	Gene-protein
+31489646_21786	321	327	sepsis	Disease	D018805
+31489646_21786	355	373	plasma PTX3 levels	Biomarker
+31489646_21786	362	366	PTX3	Gene-protein
+31489646_21786	400	406	sepsis	Disease
+31489646_21786	400	423	sepsis and septic shock	Collection
+31489646_21786	411	423	septic shock	Disease	D012772
+31489646_21786	444	450	sepsis	Disease
+31489646_21786	508	512	PTX3	Gene-protein
+31489646_21786	508	533	PTX3 levels were elevated	Biomarker
+31489646_21786	537	543	sepsis	Disease
+31489646_21786	537	589	sepsis patients and were even higher in septic shock	Collection
+31489646_21786	577	589	septic shock	Disease
+31489646_21786	690	694	PTX3	Gene-protein
+31489646_21786	690	701	PTX3 levels	Biomarker
+31489646_21786	705	711	sepsis	Disease
+31489646_21786	716	728	septic shock	Disease
+31489646_21786	843	869	Pro‐inflammatory cytokines	Genefamily	not found
+31489646_21786	843	920	Pro‐inflammatory cytokines such as TNF‐⍺ and IL‐1β were excessively activated	Biomarker
+31489646_21786	878	883	TNF‐⍺	Gene-protein	HGNC:11892
+31489646_21786	888	893	IL‐1β	Gene-protein	HGNC:5992
+31489646_21786	927	933	sepsis	Disease
+31489646_21786	1000	1004	PTX3	Gene-protein
+31489646_21786	1032	1036	PTX3	Gene-protein
+31489646_21786	1032	1036	PTX3	Biomarker	C077657
+31489646_21786	1066	1081	atherosclerosis	Disease	DOID:1936
+31489646_21786	1113	1118	IL‐10	Gene-protein	HGNC:5962
+31489646_21786	1142	1146	PTX3	Gene-protein
+31489646_21786	1195	1221	pro‐inflammatory cytokines	Genefamily	not found
+31489646_21786	1222	1226	IL‐6	Gene-protein	HGNC:6018
+31489646_21786	1231	1236	TNF‐⍺	Gene-protein
+31489646_21786	1309	1315	sepsis	Disease
+31489646_21786	1319	1331	septic shock	Disease
+31489646_21786	1401	1405	PTX3	Gene-protein
+31489646_21786	1401	1405	PTX3	Biomarker
+31489646_21786	1440	1455	APACHE II score	Biomarker
+31489646_21786	1460	1470	SOFA score	Biomarker
+31489646_21786	1474	1480	sepsis	Disease
+31489646_21786	1485	1497	septic shock	Disease
+31489646_21786	1528	1539	plasma PTX3	Biomarker
+31489646_21786	1535	1539	PTX3	Gene-protein
+31489646_21786	1578	1584	sepsis	Disease
+31489646_21786	1627	1631	PTX3	Gene-protein
+31489646_21786	1627	1631	PTX3	Biomarker
+31489646_21786	1674	1680	sepsis	Disease
+31489646_21786	1674	1697	sepsis and septic shock	Collection
+31489646_21786	1685	1697	septic shock	Disease
+

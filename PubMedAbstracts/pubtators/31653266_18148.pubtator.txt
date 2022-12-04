@@ -1,0 +1,46 @@
+31653266_18148|t|RSS_IDENT_p_31653266_b_1_4_5
+31653266_18148|a| As we all known that the regular growth and development of placenta is one of the most important step in a healthy pregnancy. However, the occurrence of GDM always along with the maldevelopment of placenta [ 6 ]. HG, as a characteristic of GDM, leads to the impaired function of trophoblast cells, thereby suppressing the normal development of placenta [ 33 ]. In the current study, the proliferation of trophoblast cell HTR-8/SVneo and BeWo was obviously inhibited by the HG treatment, which is consistent with the previous reports [ 33 ]. Additionally, HG treatment was also found to result in an inhibition in the expression of miR-132 in the trophoblast cells. Furthermore, the gain-of-function analysis indicated that the suppressed trophoblast cell proliferation induced by HG could be rescued by the overexpression of miR-132. miR-132 has been previously reported to regulate cell proliferation in pancreatic cancer [ 34 ] and laryngeal squamous cell carcinoma [ 35 ]. Thus, we considered that miR-132 might exert a protective role against GDM by enhancing the trophoblast cell proliferation. Zhang et al. has reported that miR-132 could facilitate cell proliferation of pancreatic cancer cells by targeting phosphatase and tensin homolog (PTEN) [ 34 ]. PETN is a major upstream inhibitor of the PI3K/AKT signaling, and has been identified as a critical molecule in GDM [ 36 ]. Li et al. found that plasma PTEN levels was associated with insulin resistance of GDM [ 37 ]. In addition, the increased expression of PTEN mediates the regulatory effects of miR-21 [ 38 ] and miR-144 [ 39 ] on the biological function of trophoblastic cells. Thus, we suspected that protective action of miR-132 in GDM might also achieved through targeting PTEN. The precise mechanisms underlying the role of miR-132 in GDM need to be investigated in future studies.
+31653266_18148	183	186	GDM	Disease	DOID:11714
+31653266_18148	209	235	maldevelopment of placenta	Biomarker
+31653266_18148	243	245	HG	Biomarker
+31653266_18148	270	273	GDM	Disease
+31653266_18148	288	326	impaired function of trophoblast cells	Biomarker
+31653266_18148	451	462	HTR-8/SVneo	Cellline
+31653266_18148	467	471	BeWo	Cellline
+31653266_18148	661	668	miR-132	Rna-noncoding	HGNC:31516
+31653266_18148	757	798	suppressed trophoblast cell proliferation	Biomarker
+31653266_18148	837	862	overexpression of miR-132	Biomarker
+31653266_18148	855	862	miR-132	Rna-noncoding
+31653266_18148	864	871	miR-132	Rna-noncoding
+31653266_18148	864	871	miR-132	Biomarker	C547077
+31653266_18148	935	952	pancreatic cancer	Disease	DOID:1793
+31653266_18148	935	997	pancreatic cancer [ 34 ] and laryngeal squamous cell carcinoma	Collection
+31653266_18148	964	997	laryngeal squamous cell carcinoma	Disease	DOID:2876
+31653266_18148	1031	1038	miR-132	Rna-noncoding
+31653266_18148	1031	1038	miR-132	Drug	C547077
+31653266_18148	1077	1080	GDM	Disease
+31653266_18148	1161	1168	miR-132	Rna-noncoding
+31653266_18148	1161	1168	miR-132	Biomarker
+31653266_18148	1208	1225	pancreatic cancer	Disease
+31653266_18148	1245	1275	phosphatase and tensin homolog	Gene-protein	HGNC:9588
+31653266_18148	1277	1281	PTEN	Gene-protein	HGNC:9588
+31653266_18148	1333	1337	PI3K	Genefamily	family:831
+31653266_18148	1338	1341	AKT	Genefamily	family:1900
+31653266_18148	1403	1406	GDM	Disease
+31653266_18148	1436	1454	plasma PTEN levels	Biomarker
+31653266_18148	1443	1447	PTEN	Gene-protein	HGNC:9588
+31653266_18148	1475	1482	insulin	Gene-protein	 HGNC:6081
+31653266_18148	1475	1493	insulin resistance	Disease	D007333
+31653266_18148	1475	1500	insulin resistance of GDM	Collection
+31653266_18148	1497	1500	GDM	Disease
+31653266_18148	1550	1554	PTEN	Gene-protein
+31653266_18148	1590	1596	miR-21	Rna-noncoding	HGNC:31586
+31653266_18148	1608	1615	miR-144	Rna-noncoding	HGNC:31531
+31653266_18148	1719	1726	miR-132	Rna-noncoding
+31653266_18148	1719	1726	miR-132	Drug
+31653266_18148	1730	1733	GDM	Disease
+31653266_18148	1772	1776	PTEN	Gene-protein
+31653266_18148	1824	1831	miR-132	Rna-noncoding
+31653266_18148	1824	1831	miR-132	Biomarker
+31653266_18148	1835	1838	GDM	Disease
+

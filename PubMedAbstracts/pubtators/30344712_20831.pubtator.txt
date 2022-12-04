@@ -1,0 +1,47 @@
+30344712_20831|t|RSS_IDENT_p_30344712_b_1_4_5
+30344712_20831|a| To investigate the association between tumor volume and blood cystatin-C levels, the cystatin-C levels were compared with the number of metastases. Cystatin-C was observed to be at the lowest levels subsequent to surgery, when the tumor had been removed, with the levels increasing as the number of metastases increases. As in the immunohistochemical analysis, paired comparisons were performed between cystatin-C levels prior and subsequent to surgery in 6 patients. Whilst these patients did not show serum positivity, the absolute blood levels of cystatin-C decreased subsequent to surgery compared with the time of diagnosis, suggesting levels are dependent upon the tumor volume. Similarly in ovarian cancer, cystatin-C has been reported to increase only in patients with cancer, not in healthy individuals and patients with benign ovarian disease ( 25 ). By contrast, cystatin-C levels were low in prostate cancer specimens compared with benign tissues. Wegiel et al ( 26 ) observed an inverse correlation between the expression of cystatin-C and matrix metalloproteinase 2. Similarly, the present study did not find any patients with prostate cancer to be cystatin-C positive, suggesting a functional specificity of cystatin-C in different types of cancer, due to the presence of different co-functioning molecules. Cystatin-C is a TGF-β receptor antagonist in addition to a cystatin-C-mediated feedback loop that inhibits TGF-β signaling ( 27 ). By inhibiting oncogenic TGF-β signaling, cystatin-C is effective in preventing breast cancer angiogenesis and progression ( 28 ). 
+30344712_20831	69	81	tumor volume	Biomarker
+30344712_20831	92	102	cystatin-C	Gene-protein	HGNC:2475
+30344712_20831	92	109	cystatin-C levels	Biomarker	D055316
+30344712_20831	115	125	cystatin-C	Gene-protein
+30344712_20831	115	132	cystatin-C levels	Biomarker
+30344712_20831	178	188	Cystatin-C	Gene-protein	HGNC:2475
+30344712_20831	178	188	Cystatin-C	Biomarker	D055316
+30344712_20831	261	266	tumor	Disease	DOID:162
+30344712_20831	433	443	cystatin-C	Gene-protein
+30344712_20831	433	450	cystatin-C levels	Biomarker
+30344712_20831	533	549	serum positivity	Biomarker
+30344712_20831	564	590	blood levels of cystatin-C	Biomarker	D055316
+30344712_20831	580	590	cystatin-C	Gene-protein
+30344712_20831	701	713	tumor volume	Biomarker
+30344712_20831	728	742	ovarian cancer	Disease	DOID:2394
+30344712_20831	744	754	cystatin-C	Gene-protein
+30344712_20831	744	784	cystatin-C has been reported to increase	Biomarker
+30344712_20831	807	813	cancer	Disease	DOID:162
+30344712_20831	860	882	benign ovarian disease	Disease	DOID:0060112
+30344712_20831	904	914	cystatin-C	Gene-protein
+30344712_20831	904	930	cystatin-C levels were low	Biomarker
+30344712_20831	934	949	prostate cancer	Disease	DOID:10283
+30344712_20831	1054	1078	expression of cystatin-C	Biomarker
+30344712_20831	1068	1078	cystatin-C	Gene-protein
+30344712_20831	1083	1109	matrix metalloproteinase 2	Gene-protein	HGNC:7166
+30344712_20831	1083	1109	matrix metalloproteinase 2	Biomarker	D020778
+30344712_20831	1171	1186	prostate cancer	Disease
+30344712_20831	1193	1203	cystatin-C	Gene-protein
+30344712_20831	1193	1212	cystatin-C positive	Biomarker
+30344712_20831	1253	1263	cystatin-C	Gene-protein
+30344712_20831	1253	1263	cystatin-C	Biomarker
+30344712_20831	1286	1292	cancer	Disease
+30344712_20831	1353	1363	Cystatin-C	Gene-protein	HGNC:2475
+30344712_20831	1353	1363	Cystatin-C	Drug	D055316
+30344712_20831	1369	1383	TGF-β receptor	Gene-protein	HGNC:11772
+30344712_20831	1369	1394	TGF-β receptor antagonist	Drug-class
+30344712_20831	1412	1422	cystatin-C	Gene-protein
+30344712_20831	1460	1465	TGF-β	Genefamily	family:1932
+30344712_20831	1487	1523	inhibiting oncogenic TGF-β signaling	Drug	not found
+30344712_20831	1508	1513	TGF-β	Genefamily
+30344712_20831	1525	1535	cystatin-C	Gene-protein
+30344712_20831	1525	1535	cystatin-C	Drug	D055316
+30344712_20831	1525	1535	cystatin-C	Biomarker
+30344712_20831	1563	1576	breast cancer	Disease	DOID:1612
+

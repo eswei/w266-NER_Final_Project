@@ -1,0 +1,55 @@
+30983945_10521|t|RSS_IDENT_p_30983945_b_1_4_3
+30983945_10521|a| Controversial results were reported concerning the role of thyroid hormones in the regulation of visfatin concentrations. For example, Caixàs et al.[ 17 ] investigated the change of visfatin concentrations in hyperthyroid patients before and after treatment. The results showed plasma visfatin tended to be higher in hyperthyroid patients than in controls. After normalization of thyroid function, plasma visfatin increased and was higher than those of the controls. Similarly, Chu et al.[ 16 ] found that visfatin concentrations were higher in patients with hyperthyroidism compared with controls. In addition, they found a positive correlation between visfatin concentration and thyroid hormones, including T3 and T4. The authors suggested that the higher concentrations in hyperthyroid patients may reflect a state of visfatin resistance. In contrast, we observed, in the present study, lower serum visfatin levels in hyperthyroid patients than in controls. Moreover, visfatin levels were positively correlated with TSH and negatively correlated with FT4 and TT4. A similar observation was reported by Ozkaya et al.[ 18 ] who found that patients with hyperthyroidism had lower concentrations of visfatin than the control group. Furthermore, visfatin was positively correlated with TSH and inversely correlated with FT3 and FT4. This could be explained by the findings of McLaren et al.[ 25 ] who reported that T3 could induce a downregulation of visfatin mRNA expression in 3T3-L1 adipocytes. Abdelsalam and Edrees[ 7 ] reported a similar lowering of serum visfatin in experimentally-induced hyperthyroid rats. Such discrepancies between study results could be explained by different patient characteristics, coexisting autoimmunity, and methodological factors. 
+30983945_10521	89	105	thyroid hormones	Genefamily	family:71
+30983945_10521	127	135	visfatin	Gene-protein	HGNC:30092
+30983945_10521	212	220	visfatin	Gene-protein
+30983945_10521	239	251	hyperthyroid	Disease	DOID:7998
+30983945_10521	308	343	plasma visfatin tended to be higher	Biomarker
+30983945_10521	315	323	visfatin	Gene-protein
+30983945_10521	347	359	hyperthyroid	Disease
+30983945_10521	428	468	plasma visfatin increased and was higher	Biomarker
+30983945_10521	435	443	visfatin	Gene-protein
+30983945_10521	536	544	visfatin	Gene-protein
+30983945_10521	536	571	visfatin concentrations were higher	Biomarker
+30983945_10521	589	604	hyperthyroidism	Disease	DOID:7998
+30983945_10521	684	692	visfatin	Gene-protein
+30983945_10521	684	692	visfatin	Biomarker	D054409
+30983945_10521	711	727	thyroid hormones	Genefamily
+30983945_10521	711	727	thyroid hormones	Biomarker	D013963
+30983945_10521	739	741	T3	Chemical
+30983945_10521	739	741	T3	Biomarker
+30983945_10521	746	748	T4	Chemical
+30983945_10521	746	748	T4	Biomarker
+30983945_10521	806	818	hyperthyroid	Disease
+30983945_10521	851	859	visfatin	Gene-protein
+30983945_10521	920	947	lower serum visfatin levels	Biomarker
+30983945_10521	932	940	visfatin	Gene-protein
+30983945_10521	951	963	hyperthyroid	Disease
+30983945_10521	1001	1009	visfatin	Gene-protein
+30983945_10521	1001	1016	visfatin levels	Biomarker
+30983945_10521	1049	1052	TSH	Biomarker	D013972
+30983945_10521	1049	1052	TSH	Genefamily	family:1896
+30983945_10521	1084	1087	FT4	Biomarker
+30983945_10521	1084	1087	FT4	Chemical
+30983945_10521	1092	1095	TT4	Biomarker
+30983945_10521	1092	1095	TT4	Chemical
+30983945_10521	1184	1199	hyperthyroidism	Disease
+30983945_10521	1204	1236	lower concentrations of visfatin	Biomarker
+30983945_10521	1228	1236	visfatin	Gene-protein
+30983945_10521	1274	1282	visfatin	Gene-protein
+30983945_10521	1274	1282	visfatin	Biomarker
+30983945_10521	1314	1317	TSH	Biomarker
+30983945_10521	1314	1317	TSH	Genefamily
+30983945_10521	1348	1351	FT3	Biomarker
+30983945_10521	1348	1351	FT3	Chemical
+30983945_10521	1356	1359	FT4	Biomarker
+30983945_10521	1356	1359	FT4	Chemical
+30983945_10521	1443	1445	T3	Biomarker
+30983945_10521	1443	1445	T3	Chemical
+30983945_10521	1479	1487	visfatin	Gene-protein
+30983945_10521	1479	1487	visfatin	Biomarker
+30983945_10521	1507	1513	3T3-L1	Cellline
+30983945_10521	1572	1598	lowering of serum visfatin	Biomarker
+30983945_10521	1590	1598	visfatin	Gene-protein
+30983945_10521	1602	1637	experimentally-induced hyperthyroid	Disease	not found
+

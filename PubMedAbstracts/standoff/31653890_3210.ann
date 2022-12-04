@@ -1,0 +1,106 @@
+T1	Gene-Protein 282 286	PlGF
+T10	Disease 1121 1123	DR
+#2	AnnotatorNotes T10	DOID:8947
+T12	Gene-Protein 1169 1173	PlGF
+T13	Disease 1184 1200	proliferative DR
+T14	Gene-Protein 1272 1276	PlGF
+T15	Biomarker 1272 1283	PlGF levels
+T16	Biomarker 1312 1325	VEGF-A levels
+T17	Disease 1329 1353	active proliferative DR.
+#6	AnnotatorNotes T17	not found
+T18	Gene-Protein 1374 1378	PlGF
+T19	Biomarker 1374 1378	PlGF
+T2	Chemical 330 338	tyrosine
+T20	Disease 1432 1434	DR
+T22	Gene-Protein 1537 1541	PlGF
+T23	Chemical 1626 1646	phosphatidylinositol
+T24	Biomarker 1799 1844	Overproduction of nitric oxide synthase (NOS)
+T25	Chemical 1817 1829	nitric oxide
+T27	Gene-Protein 2183 2187	PlGF
+T28	Disease 2304 2306	DR
+T4	Biomarker 468 533	levels of aqueous and vitreous VEGF-A were significantly elevated
+T5	Disease 551 567	proliferative DR
+#16	AnnotatorNotes T5	DOID:13207
+T7	Gene-Protein 886 890	PlGF
+T8	Biomarker 1041 1103	levels of PlGF were elevated in the vitreous and aqueous humor
+T9	Gene-Protein 1051 1055	PlGF
+T30	GeneFamily 117 151	vascular endothelial growth factor
+#1	AnnotatorNotes T30	family:1267
+T31	GeneFamily 153 157	VEGF
+#3	AnnotatorNotes T31	family:1267
+T32	GeneFamily 170 174	VEGF
+T33	Gene-Protein 227 248	VEGF-A, B, C, D, E, F
+#5	AnnotatorNotes T33	HGNC:12680, HGNC:12681, HGNC:12682, HGNC:3708, not found, not found
+T34	Gene-Protein 257 280	placental growth factor
+#7	AnnotatorNotes T34	HGNC:8893
+#8	AnnotatorNotes T1	HGNC:8893
+T35	GeneFamily 289 293	VEGF
+T36	GeneFamily 330 355	tyrosine kinase receptors
+#10	AnnotatorNotes T36	family:321
+T3	Gene-Protein 388 394	VEGFR1
+#11	AnnotatorNotes T3	HGNC:3763
+T37	Gene-Protein 369 384	VEGF receptor-1
+#12	AnnotatorNotes T37	HGNC:3763
+T38	Gene-Protein 363 367	Flt1
+#13	AnnotatorNotes T38	HGNC:3763
+T39	Gene-Protein 430 436	VEGFR2
+#17	AnnotatorNotes T39	HGNC:6307
+T40	Gene-Protein 411 426	VEGF receptor-2
+#18	AnnotatorNotes T40	HGNC:6307
+T41	Gene-Protein 406 409	KDR
+#19	AnnotatorNotes T41	HGNC:6307
+T42	Gene-Protein 400 405	Flk-1
+#20	AnnotatorNotes T42	HGNC:6307
+R1	Association Arg1:T4 Arg2:T5	
+T43	Gene-Protein 499 505	VEGF-A
+#21	AnnotatorNotes T43	HGNC:12680
+T44	Disease 584 604	non-proliferative DR
+#22	AnnotatorNotes T44	DOID:8946
+T45	Gene-Protein 616 622	VEGF-A
+T46	Gene-Protein 624 630	VEGF-B
+#23	AnnotatorNotes T46	HGNC:12681
+T6	Gene-Protein 731 737	VEGFR1
+T47	Gene-Protein 765 771	VEGF-B
+T48	Gene-Protein 742 755	neutropilin 1
+#24	AnnotatorNotes T48	HGNC:8004
+T49	Gene-Protein 757 762	NRP-1
+#25	AnnotatorNotes T49	HGNC:8004
+T50	GeneFamily 918 922	VEGF
+T51	Gene-Protein 1008 1014	VEGFR1
+R2	Association Arg1:T8 Arg2:T10	
+T52	Drug-Class 1234 1257	anti-VEGF agent therapy
+T11	Gene-Protein 1312 1318	VEGF-A
+R3	Association Arg1:T19 Arg2:T20	
+#4	AnnotatorNotes T19	D000072483
+T53	Gene-Protein 1470 1476	VEGF-A
+T21	Gene-Protein 1545 1551	VEGF-A
+T54	GeneFamily 1626 1655	phosphatidylinositol-3 kinase
+#26	AnnotatorNotes T54	family:831
+T55	GeneFamily 1657 1661	PI3K
+#27	AnnotatorNotes T55	family:831
+T56	GeneFamily 1664 1680	protein kinase B
+#28	AnnotatorNotes T56	family:1900
+T57	GeneFamily 1682 1685	Akt
+#29	AnnotatorNotes T57	family:1900
+T58	Gene-Protein 1731 1737	Erk1/2
+#30	AnnotatorNotes T58	HGNC:6877, HGNC:6871
+T59	Gene-Protein 1688 1729	extracellular signal-regulated kinase-1/2
+#31	AnnotatorNotes T59	HGNC:6877, HGNC:6871
+T60	Gene-Protein 1744 1781	p38 mitogen-activated protein kinases
+#32	AnnotatorNotes T60	HGNC:6876
+T61	GeneFamily 1783 1787	MAPK
+#33	AnnotatorNotes T61	family:651
+T62	GeneFamily 1817 1838	nitric oxide synthase
+#34	AnnotatorNotes T62	not found
+T63	GeneFamily 1840 1843	NOS
+#35	AnnotatorNotes T63	not found
+T64	GeneFamily 1866 1869	PKC
+T65	Gene-Protein 1924 1929	STAT1
+#36	AnnotatorNotes T65	HGNC:11362
+T66	Gene-Protein 1931 1981	signal transducer and activator of transcription 1
+#37	AnnotatorNotes T66	HGNC:11362
+T26	GeneFamily 2131 2140	cytokines
+#38	AnnotatorNotes T26	not found
+T67	GeneFamily 2174 2178	VEGF
+T29	GeneFamily 1239 1243	VEGF
+#9	AnnotatorNotes T29	family:1267

@@ -1,0 +1,42 @@
+T0	Chemical 49 61	nitric oxide
+T1	Biomarker 63 67	FENO
+T10	Disease 548 580	eosinophilic airway inflammation
+#3	AnnotatorNotes T10	not found
+T11	Disease 636 642	asthma
+T12	Biomarker 722 732	FENO level
+T13	Biomarker 840 851	FENO levels
+T14	Disease 869 873	COPD
+T15	Chemical 914 929	corticosteroids
+T16	Biomarker 990 1001	FENO levels
+T17	Biomarker 1170 1181	FENO levels
+T18	Biomarker 1350 1364	levels of FENO
+T19	Biomarker 1425 1429	FENO
+T2	Biomarker 281 285	FENO
+T20	Disease 1447 1451	COPD
+T3	Disease 326 340	airway disease
+#15	AnnotatorNotes T3	not found
+T5	Disease 378 405	inflammatory lung disorders
+#17	AnnotatorNotes T5	not found
+T6	Disease 414 420	asthma
+#18	AnnotatorNotes T6	DOID:2841
+T7	Disease 422 444	pulmonary hypertension
+#19	AnnotatorNotes T7	DOID:6432
+T8	Disease 450 465	cystic fibrosis
+#20	AnnotatorNotes T8	DOID:1485
+T9	Biomarker 488 492	FENO
+T21	Biomarker 30 61	Fractional exhaled nitric oxide
+R1	Association Arg1:T2 Arg2:T3	
+T22	Biomarker 346 365	elevated FENO level
+T4	Collection 378 465	inflammatory lung disorders such as asthma, pulmonary hypertension, and cystic fibrosis
+R2	Association Arg1:T22 Arg2:T4	
+T23	Disease 736 740	COPD
+#1	AnnotatorNotes T23	DOID:3083
+T24	Disease 1005 1009	COPD
+T25	Disease 1011 1015	COPD
+T26	Biomarker 1035 1066	inflammation in airway and lung
+T27	GeneFamily 1106 1131	proinflammatory cytokines
+#4	AnnotatorNotes T27	not found
+T28	Disease 1368 1372	COPD
+R5	Association Arg1:T13 Arg2:T14	
+T29	Biomarker 894 901	smoking
+R6	Association Arg1:T26 Arg2:T25	

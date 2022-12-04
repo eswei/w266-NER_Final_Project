@@ -1,0 +1,97 @@
+30914657_8850|t|RSS_IDENT_p_30914657_b_1_2_4
+30914657_8850|a| Given the role of LPA as a strong pro-inflammatory mediator, its homeostasis is tightly regulated through both biosynthesis and degradation (Fig. 2a). We therefore compared the ACP6 expression in benign and malignant ovarian tissues. ACP6 was highly expressed in normal fallopian tube epithelial tissues compared to normal ovaries and ovarian cancer (Figs 2b,c and S2a). To understand if the R273H p53 mutation regulates LPA levels via modifying the expression of ATX, ACP6 or other LPA phosphatases, we examined their transcript levels in wild-type and mutant p53 FTEC. ACP6 RNA and protein expression was significantly reduced in mutant p53 cells, while ATX expression was not affected by R273H p53 (Figs 2d and S2b–d). Other LPA phosphatases, such as LPP1, LPP2 and LPP3, were also not affected by p53 status (Supplementary Fig. 2e). Immunofluorescence staining for ACP6 and p53 found decreased expression of ACP6 in the p53 mutant tumor compartment, while normal fallopian tube epithelial cells demonstrated high expression of ACP6 (Fig. 2e). To investigate if mutant p53 attenuates ACP6 expression in patients with serous OvCa harboring R273H and R248Q mutations, we queried the University of Chicago OvCa tissue bank ³¹ to identify patients with HGSOC harboring these specific p53 mutations as assessed by molecular testing. We found significantly decreased expression of ACP6 in p53 mutant tumor compartments of these patients and high ACP6 levels in adjacent normal fallopian tube epithelia (Figs 2f and S2f,g). Figure 2 Mutant p53 regulates LPA signaling through ACP6. (a) Lysophosphatidic acid (LPA) is produced by autotaxin (ATX) from lysophosphatidylcholine (LPC). Lysophosphatidic acid phosphatase type 6 (ACP6) hydrolyzes LPA to monoacylglycerol (MAG) and inorganic phosphate (Pᵢ). (b) Representative ACP6 immunohistochemistry (IHC) on patient tissues (n = 7, scale bars: 20 and 100 µm) (c) qRT-PCR of ACP6 in patient samples: ovarian tumors (OvTu; n = 18 patients) and normal fallopian tube tissues (nFT; n = 12 patients). (d) ACP6 protein expression in wild-type (wt) p53 and R273H p53 mutant FTEC. (e) Representative immunofluorescence (IF) of ACP6 (red) and p53 (pantropic antibody; green) in tumor and adjacent fallopian tube tissue. (f) Immunofluorescence of an HGSOC harboring a R248Q p53 mutation. Analysis of ACP6 (red) and p53 (green). (g) ACP6 promoter activity in wild-type (wt) p53 FTEC and R175H, R249S and R273H p53 mutant FTEC as assessed by dual luciferase assay (n = 3, two-way analysis of variance). For (a–g): ***P < 0.001, ****P < 0.0001. Error bars are SEM.
+30914657_8850	48	51	LPA	Chemical
+30914657_8850	207	211	ACP6	Gene-protein	HGNC:29609
+30914657_8850	207	222	ACP6 expression	Biomarker
+30914657_8850	237	254	malignant ovarian	Disease	DOID:2394
+30914657_8850	264	268	ACP6	Gene-protein
+30914657_8850	264	289	ACP6 was highly expressed	Biomarker
+30914657_8850	365	379	ovarian cancer	Disease	DOID:2394
+30914657_8850	422	427	R273H	Variant	p.Arg273His
+30914657_8850	428	431	p53	Gene-protein	HGNC:11998
+30914657_8850	451	454	LPA	Chemical
+30914657_8850	494	497	ATX	Gene-protein	HGNC:3357
+30914657_8850	499	503	ACP6	Gene-protein
+30914657_8850	513	516	LPA	Chemical
+30914657_8850	513	529	LPA phosphatases	Genefamily	not found
+30914657_8850	591	594	p53	Gene-protein
+30914657_8850	595	599	FTEC	Cellline
+30914657_8850	601	605	ACP6	Gene-protein
+30914657_8850	601	658	ACP6 RNA and protein expression was significantly reduced	Biomarker
+30914657_8850	662	672	mutant p53	Biomarker
+30914657_8850	669	672	p53	Gene-protein
+30914657_8850	686	689	ATX	Gene-protein
+30914657_8850	721	726	R273H	Variant
+30914657_8850	727	730	p53	Gene-protein
+30914657_8850	758	761	LPA	Chemical
+30914657_8850	758	774	LPA phosphatases	Genefamily
+30914657_8850	784	788	LPP1	Gene-protein	HGNC:9228
+30914657_8850	790	794	LPP2	Gene-protein	HGNC:9230
+30914657_8850	799	803	LPP3	Gene-protein	HGNC:9229
+30914657_8850	831	834	p53	Gene-protein
+30914657_8850	899	903	ACP6	Gene-protein
+30914657_8850	908	911	p53	Gene-protein
+30914657_8850	918	946	decreased expression of ACP6	Biomarker
+30914657_8850	942	946	ACP6	Gene-protein
+30914657_8850	954	957	p53	Gene-protein
+30914657_8850	954	970	p53 mutant tumor	Disease	not found
+30914657_8850	1042	1065	high expression of ACP6	Biomarker
+30914657_8850	1061	1065	ACP6	Gene-protein
+30914657_8850	1095	1105	mutant p53	Biomarker
+30914657_8850	1102	1105	p53	Gene-protein
+30914657_8850	1117	1121	ACP6	Gene-protein
+30914657_8850	1150	1161	serous OvCa	Disease	DOID:0050933
+30914657_8850	1172	1177	R273H	Variant
+30914657_8850	1172	1187	R273H and R248Q	Collection
+30914657_8850	1182	1187	R248Q	Variant	p.Arg248Gln
+30914657_8850	1236	1240	OvCa	Disease	DOID:2394
+30914657_8850	1282	1287	HGSOC	Disease
+30914657_8850	1313	1316	p53	Gene-protein
+30914657_8850	1313	1326	p53 mutations	Biomarker
+30914657_8850	1384	1412	decreased expression of ACP6	Biomarker
+30914657_8850	1408	1412	ACP6	Gene-protein
+30914657_8850	1416	1419	p53	Gene-protein
+30914657_8850	1416	1432	p53 mutant tumor	Disease
+30914657_8850	1468	1484	high ACP6 levels	Biomarker
+30914657_8850	1473	1477	ACP6	Gene-protein
+30914657_8850	1559	1569	Mutant p53	Biomarker
+30914657_8850	1566	1569	p53	Gene-protein
+30914657_8850	1580	1583	LPA	Chemical
+30914657_8850	1602	1606	ACP6	Gene-protein
+30914657_8850	1612	1633	Lysophosphatidic acid	Chemical
+30914657_8850	1635	1638	LPA	Chemical
+30914657_8850	1655	1664	autotaxin	Gene-protein	HGNC:3357
+30914657_8850	1666	1669	ATX	Gene-protein
+30914657_8850	1676	1699	lysophosphatidylcholine	Chemical
+30914657_8850	1701	1704	LPC	Chemical
+30914657_8850	1707	1728	Lysophosphatidic acid	Chemical
+30914657_8850	1707	1747	Lysophosphatidic acid phosphatase type 6	Gene-protein	HGNC:29609
+30914657_8850	1749	1753	ACP6	Gene-protein
+30914657_8850	1766	1769	LPA	Chemical
+30914657_8850	1773	1789	monoacylglycerol	Chemical
+30914657_8850	1791	1794	MAG	Chemical
+30914657_8850	1800	1819	inorganic phosphate	Chemical
+30914657_8850	1821	1823	Pᵢ	Chemical
+30914657_8850	1845	1849	ACP6	Gene-protein
+30914657_8850	1946	1950	ACP6	Gene-protein
+30914657_8850	1971	1985	ovarian tumors	Disease	DOID:2394
+30914657_8850	1987	1991	OvTu	Disease	DOID:2394
+30914657_8850	2072	2076	ACP6	Gene-protein
+30914657_8850	2122	2127	R273H	Variant
+30914657_8850	2128	2131	p53	Gene-protein
+30914657_8850	2191	2195	ACP6	Gene-protein
+30914657_8850	2206	2209	p53	Gene-protein
+30914657_8850	2241	2246	tumor	Disease	DOID:162
+30914657_8850	2312	2317	HGSOC	Disease	not found
+30914657_8850	2330	2335	R248Q	Variant
+30914657_8850	2336	2339	p53	Gene-protein
+30914657_8850	2362	2366	ACP6	Gene-protein
+30914657_8850	2377	2380	p53	Gene-protein
+30914657_8850	2394	2398	ACP6	Gene-protein
+30914657_8850	2435	2438	p53	Gene-protein
+30914657_8850	2448	2453	R175H	Variant	p.Arg175His
+30914657_8850	2448	2470	R175H, R249S and R273H	Collection
+30914657_8850	2455	2460	R249S	Variant	p.Arg249Ser
+30914657_8850	2465	2470	R273H	Variant
+30914657_8850	2471	2474	p53	Gene-protein
+

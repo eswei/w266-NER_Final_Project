@@ -1,0 +1,231 @@
+T1	Disease 114 117	ARC
+#1	AnnotatorNotes T1	not found
+T11	Variant 592 601	rs7183308
+T12	Variant 603 606	A>G
+T13	Variant 614 623	rs2072668
+T14	Variant 625 628	G>C
+T15	Variant 639 648	rs2304277
+T16	Variant 650 653	A>G
+T18	Variant 890 899	rs4253038
+T19	Variant 901 904	G>C
+T2	Disease 218 221	ARC
+T20	Variant 911 920	rs6496724
+T21	Variant 922 925	A>C
+T22	Variant 933 942	rs2072668
+T23	Variant 944 947	G>C
+T24	Variant 958 967	rs2304277
+T25	Variant 1177 1187	rs11574311
+T26	Variant 1189 1192	T>C
+T27	Variant 1199 1208	rs4733220
+T28	Variant 1210 1213	G>A
+T29	Variant 1220 1229	rs1801195
+T30	Variant 1231 1234	T>G
+T31	Variant 1242 1251	rs2072668
+T32	Variant 1253 1256	G>C
+T33	Variant 1267 1276	rs2304277
+T34	Variant 1278 1281	A>G
+T36	Disease 1534 1560	C, N and M subtypes of ARC
+T37	Disease 1624 1627	ARC
+T39	Variant 1765 1775	rs11574311
+T41	Variant 1802 1811	rs2072668
+T42	Variant 1817 1826	rs2304277
+T43	Variant 1853 1862	rs4733220
+T44	Variant 1868 1877	rs2072668
+T45	Variant 1883 1892	rs2304277
+T46	Variant 1920 1929	rs4253038
+T47	Variant 1934 1943	rs6496724
+T48	Variant 1949 1958	rs2072668
+T49	Variant 1964 1973	rs2304277
+T5	Variant 397 406	rs2072668
+T50	Variant 1999 2009	rs11574311
+T51	Variant 2014 2023	rs4733220
+T52	Variant 2028 2037	rs1801195
+T53	Variant 2043 2052	rs2072668
+T54	Variant 2058 2067	rs2304277
+T55	Variant 2096 2106	rs11574311
+T56	Variant 2134 2143	rs2072668
+T57	Variant 2149 2158	rs2304277
+T58	Variant 2184 2193	rs4733220
+T59	Variant 2199 2208	rs2072668
+T6	Variant 408 411	G>C
+T60	Variant 2214 2223	rs2304277
+T61	Variant 2249 2259	rs11574311
+T62	Variant 2264 2273	rs4733220
+T63	Variant 2280 2289	rs4838519
+T64	Variant 2295 2304	rs2072668
+T65	Variant 2332 2341	rs1063147
+T66	Variant 2367 2378	rs2072668,O
+T67	Variant 2382 2391	rs2304277
+T68	Variant 2418 2427	rs2725361
+T69	Variant 2433 2442	rs2072668
+T70	Variant 2448 2457	rs2304277
+T71	Variant 2483 2492	rs4733220
+T72	Variant 2498 2507	rs6496724
+T73	Variant 2513 2522	rs2072668
+T74	Variant 2528 2537	rs2304277
+T75	Variant 2563 2572	rs1063147
+T77	Variant 2591 2600	rs2725361
+T78	Variant 2606 2615	rs2072668
+T79	Variant 2621 2630	rs2304277
+T8	Variant 422 431	rs2304277
+T80	Variant 2656 2666	rs11574311
+T81	Variant 2692 2703	rs2072668,O
+T82	Variant 2707 2716	rs2304277
+T83	Variant 2743 2752	rs6496724
+T84	Variant 2758 2767	rs2072668
+T85	Variant 2773 2782	rs2304277
+T86	Variant 2809 2819	rs11574311
+T87	Variant 2825 2834	rs7175811
+T88	Variant 2839 2848	rs2725338
+T89	Variant 2854 2863	rs2304277
+T9	Variant 433 436	A>G
+T90	Gene-Protein 231 234	WRN
+#2	AnnotatorNotes T90	HGNC:12791
+T91	Variant 235 245	rs11574311
+T4	Gene-Protein 392 396	OGG1
+#6	AnnotatorNotes T4	HGNC:8125
+T3	Collection 397 412	rs2072668 (G>C)
+R1	Variant-Of Arg1:T4 Arg2:T3	
+T92	Gene-Protein 417 421	OGG1
+T7	Collection 422 437	rs2304277 (A>G)
+T93	Gene-Protein 609 613	OGG1
+R2	Variant-Of Arg1:T92 Arg2:T7	
+T94	Gene-Protein 634 638	OGG1
+T10	Gene-Protein 588 591	BLM
+#7	AnnotatorNotes T10	HGNC:1058
+T95	Collection 592 607	rs7183308 (A>G)
+T96	Collection 614 629	rs2072668 (G>C)
+R3	Variant-Of Arg1:T10 Arg2:T95	
+R4	Variant-Of Arg1:T93 Arg2:T96	
+T97	Collection 639 654	rs2304277 (A>G)
+R5	Variant-Of Arg1:T94 Arg2:T97	
+T98	Gene-Protein 928 932	OGG1
+T99	Gene-Protein 953 957	OGG1
+T100	Gene-Protein 907 910	BLM
+T101	Gene-Protein 884 889	ERCC6
+#8	AnnotatorNotes T101	HGNC:3438
+T17	Collection 890 905	rs4253038 (G>C)
+R6	Variant-Of Arg1:T101 Arg2:T17	
+T102	Collection 911 926	rs6496724 (A>C)
+R7	Variant-Of Arg1:T100 Arg2:T102	
+T103	Collection 933 948	rs2072668 (G>C)
+R8	Variant-Of Arg1:T98 Arg2:T103	
+R9	Variant-Of Arg1:T99 Arg2:T24	
+T104	Gene-Protein 1173 1176	WRN
+T105	Collection 1177 1193	rs11574311 (T>C)
+R10	Variant-Of Arg1:T104 Arg2:T105	
+T106	Gene-Protein 1237 1241	OGG1
+T107	Gene-Protein 1262 1266	OGG1
+T108	Gene-Protein 1216 1219	WRN
+T109	Gene-Protein 1195 1198	WRN
+T110	Collection 1199 1213	rs4733220 (G>A
+R11	Variant-Of Arg1:T109 Arg2:T110	
+T111	Collection 1220 1235	rs1801195 (T>G)
+R12	Variant-Of Arg1:T108 Arg2:T111	
+T112	Collection 1242 1257	rs2072668 (G>C)
+R13	Variant-Of Arg1:T106 Arg2:T112	
+T113	Collection 1267 1282	rs2304277 (A>G)
+R14	Variant-Of Arg1:T107 Arg2:T113	
+T38	Gene-Protein 1761 1764	WRN
+T115	Gene-Protein 1797 1801	OGG1
+T116	Gene-Protein 1812 1816	OGG1
+T117	Gene-Protein 1849 1852	WRN
+T118	Gene-Protein 1863 1867	OGG1
+T119	Gene-Protein 1878 1882	OGG1
+#3	AnnotatorNotes T36	not found, not found, not found 
+T120	Variant 247 250	T>C
+R17	Variant-Of Arg1:T90 Arg2:T91	
+R18	Variant-Of Arg1:T38 Arg2:T39	
+R19	Variant-Of Arg1:T115 Arg2:T41	
+R20	Variant-Of Arg1:T116 Arg2:T42	
+R21	Variant-Of Arg1:T117 Arg2:T43	
+R22	Variant-Of Arg1:T118 Arg2:T44	
+R23	Variant-Of Arg1:T119 Arg2:T45	
+T121	Gene-Protein 1914 1919	ERCC6
+R24	Variant-Of Arg1:T121 Arg2:T46	
+T122	Gene-Protein 1930 1933	BLM
+R25	Variant-Of Arg1:T122 Arg2:T47	
+T123	Gene-Protein 1944 1948	OGG1
+R26	Variant-Of Arg1:T123 Arg2:T48	
+T124	Gene-Protein 1959 1963	OGG1
+R27	Variant-Of Arg1:T124 Arg2:T49	
+T125	Gene-Protein 1995 1998	WRN
+R28	Variant-Of Arg1:T125 Arg2:T50	
+T126	Gene-Protein 2010 2013	WRN
+R29	Variant-Of Arg1:T126 Arg2:T51	
+T127	Gene-Protein 2024 2027	WRN
+R30	Variant-Of Arg1:T127 Arg2:T52	
+T128	Gene-Protein 2038 2042	OGG1
+R31	Variant-Of Arg1:T128 Arg2:T53	
+T129	Gene-Protein 2053 2057	OGG1
+R32	Variant-Of Arg1:T129 Arg2:T54	
+T130	Gene-Protein 2092 2095	WRN
+R33	Variant-Of Arg1:T130 Arg2:T55	
+T131	Gene-Protein 2129 2133	OGG1
+R34	Variant-Of Arg1:T131 Arg2:T56	
+T132	Gene-Protein 2144 2148	OGG1
+R35	Variant-Of Arg1:T132 Arg2:T57	
+T133	Gene-Protein 2180 2183	WRN
+R36	Variant-Of Arg1:T133 Arg2:T58	
+T134	Gene-Protein 2194 2198	OGG1
+R37	Variant-Of Arg1:T134 Arg2:T59	
+T135	Gene-Protein 2209 2213	OGG1
+R38	Variant-Of Arg1:T135 Arg2:T60	
+T136	Gene-Protein 2245 2248	WRN
+R39	Variant-Of Arg1:T136 Arg2:T61	
+T137	Gene-Protein 2260 2263	WRN
+R40	Variant-Of Arg1:T137 Arg2:T62	
+T138	Gene-Protein 2274 2279	ERCC6
+R41	Variant-Of Arg1:T138 Arg2:T63	
+T139	Gene-Protein 2290 2294	OGG1
+R42	Variant-Of Arg1:T139 Arg2:T64	
+T140	Gene-Protein 2328 2331	BLM
+R43	Variant-Of Arg1:T140 Arg2:T65	
+T141	Gene-Protein 2362 2366	OGG1
+R44	Variant-Of Arg1:T141 Arg2:T66	
+T142	Gene-Protein 2377 2381	OGG1
+R45	Variant-Of Arg1:T142 Arg2:T67	
+T143	Gene-Protein 2414 2417	WRN
+R46	Variant-Of Arg1:T143 Arg2:T68	
+T144	Gene-Protein 2428 2432	OGG1
+R47	Variant-Of Arg1:T144 Arg2:T69	
+T145	Gene-Protein 2443 2447	OGG1
+R48	Variant-Of Arg1:T145 Arg2:T70	
+T146	Gene-Protein 2479 2482	WRN
+R49	Variant-Of Arg1:T146 Arg2:T71	
+T147	Gene-Protein 2494 2497	BLM
+R50	Variant-Of Arg1:T147 Arg2:T72	
+T148	Gene-Protein 2508 2512	OGG1
+R51	Variant-Of Arg1:T148 Arg2:T73	
+T149	Gene-Protein 2523 2527	OGG1
+R52	Variant-Of Arg1:T149 Arg2:T74	
+T150	Gene-Protein 2559 2562	BLM
+R53	Variant-Of Arg1:T150 Arg2:T75	
+T151	Gene-Protein 2573 2576	WRN
+T152	Gene-Protein 2587 2590	WRN
+T153	Gene-Protein 2601 2605	OGG1
+T154	Gene-Protein 2616 2620	OGG1
+T155	Gene-Protein 2652 2655	WRN
+R54	Variant-Of Arg1:T152 Arg2:T77	
+R55	Variant-Of Arg1:T153 Arg2:T78	
+R56	Variant-Of Arg1:T154 Arg2:T79	
+R57	Variant-Of Arg1:T155 Arg2:T80	
+T40	Gene-Protein 2687 2691	OGG1
+R58	Variant-Of Arg1:T40 Arg2:T81	
+T76	Gene-Protein 2702 2706	OGG1
+R59	Variant-Of Arg1:T76 Arg2:T82	
+T156	Gene-Protein 2739 2742	BLM
+R60	Variant-Of Arg1:T156 Arg2:T83	
+T157	Gene-Protein 2753 2757	OGG1
+R61	Variant-Of Arg1:T157 Arg2:T84	
+T158	Gene-Protein 2768 2772	OGG1
+R62	Variant-Of Arg1:T158 Arg2:T85	
+T159	Gene-Protein 2805 2808	WRN
+R63	Variant-Of Arg1:T159 Arg2:T86	
+T160	Gene-Protein 2821 2824	BLM
+R64	Variant-Of Arg1:T160 Arg2:T87	
+T161	Gene-Protein 2835 2838	WRN
+R65	Variant-Of Arg1:T161 Arg2:T88	
+T162	Gene-Protein 2849 2853	OGG1
+R66	Variant-Of Arg1:T162 Arg2:T89	
+T163	Collection 235 251	rs11574311 (T>C)

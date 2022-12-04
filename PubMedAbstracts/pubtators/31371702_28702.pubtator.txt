@@ -1,0 +1,61 @@
+31371702_28702|t|RSS_IDENT_p_31371702_b_1_3_5
+31371702_28702|a| To further elucidate the mechanisms underlying circHECTD1/miR-1256-mediated GC progression, we explored the downstream effectors. Bioinformatics prediction suggested that USP5, a member of the deubiquitinase family, was a downstream target of miR-1256. USP5 contributes to the carcinogenesis of multiple tumors, including lung cancer ²³ , pancreatic cancer ³⁶ , multiple myeloma ³⁷ , liver cancer ³⁸ , and glioblastoma ³⁹ . In the present study, we demonstrated that the expression level of USP5 was increased in GC and that USP5 is a downstream target of the circHECTD1/miR-1256 axis. In addition, previous studies showed that USP5 is involved in β-catenin stabilization ²³ , ²⁴ . In non-small cell lung cancer, USP5 deubiquitinates β-catenin and leads to the activation of the β-catenin/c-Myc signaling pathway ²³ . USP5 can also activate β-catenin/c-Myc signaling via stabilizing FoxM1 ²⁴ . The β-catenin/c-Myc signaling pathway is regarded as one of the crucial regulatory pathways responsible for glutaminolysis and cancer progression. In tumor cells, β-catenin signaling is activated and consequently provokes c-Myc-mediated glutaminolysis ⁴⁰ . On the one hand, c-Myc can directly increase the expression levels of the surface transporters SN2 and SLC1A5. On the other hand, c-Myc can indirectly activate GLS1 via suppressing miR-23a/b ⁴¹ , ⁴² . Thus, the activation of β-catenin/c-Myc can drive glutaminolysis. Liu et al. reported that gankyrin leads to enhanced glutaminolysis by upregulating β-catenin/c-Myc signaling in hepatocellular carcinoma ⁶ . Our data revealed that the circHECTD1/miR-1256/USP5 pathway regulated GC progression by modulating β-catenin expression and downstream c-Myc levels. 
+31371702_28702	77	87	circHECTD1	Gene-protein	HGNC:20157
+31371702_28702	88	96	miR-1256	Rna-noncoding	HGNC:35321
+31371702_28702	106	108	GC	Disease	DOID:10534
+31371702_28702	201	205	USP5	Gene-protein	HGNC:12628
+31371702_28702	223	237	deubiquitinase	Genefamily
+31371702_28702	273	281	miR-1256	Rna-noncoding
+31371702_28702	283	287	USP5	Gene-protein
+31371702_28702	283	287	USP5	Biomarker	C091939
+31371702_28702	334	340	tumors	Disease	DOID:162
+31371702_28702	334	448	tumors, including lung cancer ²³ , pancreatic cancer ³⁶ , multiple myeloma ³⁷ , liver cancer ³⁸ , and glioblastoma	Collection
+31371702_28702	352	363	lung cancer	Disease	DOID:1324
+31371702_28702	369	386	pancreatic cancer	Disease	DOID:1793
+31371702_28702	392	408	multiple myeloma	Disease	DOID:9538
+31371702_28702	414	426	liver cancer	Disease	DOID:3571
+31371702_28702	436	448	glioblastoma	Disease	DOID:3073
+31371702_28702	501	539	expression level of USP5 was increased	Biomarker
+31371702_28702	521	525	USP5	Gene-protein
+31371702_28702	543	545	GC	Disease
+31371702_28702	555	559	USP5	Gene-protein
+31371702_28702	590	600	circHECTD1	Gene-protein
+31371702_28702	601	609	miR-1256	Rna-noncoding
+31371702_28702	658	662	USP5	Gene-protein
+31371702_28702	678	687	β-catenin	Genefamily	family:1542
+31371702_28702	715	741	non-small cell lung cancer	Disease	DOID:3908
+31371702_28702	743	747	USP5	Gene-protein
+31371702_28702	764	773	β-catenin	Genefamily
+31371702_28702	809	818	β-catenin	Genefamily
+31371702_28702	819	824	c-Myc	Gene-protein	HGNC:7553
+31371702_28702	848	852	USP5	Gene-protein
+31371702_28702	871	880	β-catenin	Genefamily
+31371702_28702	881	886	c-Myc	Gene-protein
+31371702_28702	913	918	FoxM1	Gene-protein	HGNC:3818
+31371702_28702	928	937	β-catenin	Genefamily
+31371702_28702	928	961	β-catenin/c-Myc signaling pathway	Biomarker
+31371702_28702	938	943	c-Myc	Gene-protein
+31371702_28702	1051	1057	cancer	Disease	DOID:162
+31371702_28702	1074	1079	tumor	Disease	DOID:162
+31371702_28702	1087	1096	β-catenin	Genefamily
+31371702_28702	1146	1151	c-Myc	Gene-protein
+31371702_28702	1198	1203	c-Myc	Gene-protein
+31371702_28702	1276	1279	SN2	Gene-protein	HGNC:18070
+31371702_28702	1284	1290	SLC1A5	Gene-protein	HGNC:10943
+31371702_28702	1311	1316	c-Myc	Gene-protein
+31371702_28702	1341	1345	GLS1	Gene-protein	HGNC:4331
+31371702_28702	1362	1371	miR-23a/b	Rna-noncoding	HGNC:31605,HGNC:31606
+31371702_28702	1406	1415	β-catenin	Genefamily
+31371702_28702	1416	1421	c-Myc	Gene-protein
+31371702_28702	1473	1481	gankyrin	Gene-protein	 HGNC:9555
+31371702_28702	1531	1540	β-catenin	Genefamily
+31371702_28702	1541	1546	c-Myc	Gene-protein
+31371702_28702	1560	1584	hepatocellular carcinoma	Disease	DOID:684
+31371702_28702	1616	1626	circHECTD1	Gene-protein
+31371702_28702	1616	1648	circHECTD1/miR-1256/USP5 pathway	Biomarker
+31371702_28702	1627	1635	miR-1256	Rna-noncoding
+31371702_28702	1636	1640	USP5	Gene-protein
+31371702_28702	1659	1661	GC	Disease
+31371702_28702	1688	1697	β-catenin	Genefamily
+31371702_28702	1724	1729	c-Myc	Gene-protein
+

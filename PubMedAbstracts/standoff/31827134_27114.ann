@@ -1,0 +1,52 @@
+T1	Disease 126 131	NSCLC
+#1	AnnotatorNotes T1	DOID:3908
+T10	Biomarker 519 559	decreased levels of pMAP2K1 and pMAPK1/3
+T11	Disease 563 568	SCC-R
+T12	Drug 668 677	erlotinib
+T14	Biomarker 701 745	activation of Ras/Raf/Mek/Erk signaling axis
+T15	Disease 855 860	HNSCC
+T16	Biomarker 875 916	mRNA overexpression of MAPK pathway genes
+T17	Disease 942 947	HNSCC
+T19	Biomarker 1001 1013	MAPK pathway
+T2	Drug 154 163	erlotinib
+T20	Disease 1057 1062	HNSCC
+T21	Biomarker 1086 1098	MAPK pathway
+T22	Disease 1141 1146	HNSCC
+T4	Drug 231 241	PD-0325901
+T6	Drug 285 295	PD-0325901
+T7	Disease 255 260	SCC-S
+T8	Drug 415 425	PD-0325901
+T9	Drug 496 506	PD-0325901
+T23	GeneFamily 110 114	MAPK
+T24	GeneFamily 600 604	MAPK
+T25	GeneFamily 898 902	MAPK
+T27	GeneFamily 1001 1005	MAPK
+T26	GeneFamily 1086 1090	MAPK
+T28	Gene-Protein 211 219	MAP2K1/2
+T29	Gene-Protein 469 475	MAP2K1
+T30	Gene-Protein 539 546	pMAP2K1
+T31	Gene-Protein 551 559	pMAPK1/3
+T32	GeneFamily 799 803	MAPK
+R1	Association Arg1:T19 Arg2:T20	
+R2	Association Arg1:T21 Arg2:T22	
+T18	Biomarker 782 847	Genes related to MAPK pathway are altered at a frequency of 4–15%
+R3	Association Arg1:T16 Arg2:T17	
+R4	Association Arg1:T18 Arg2:T15	
+#3	AnnotatorNotes T23	family:651
+T33	Drug-Class 211 229	MAP2K1/2 inhibitor
+#5	AnnotatorNotes T4	CHEMBL507361
+T34	Gene-Protein 381 387	MAP2K1
+#6	AnnotatorNotes T2	CHEMBL553
+T35	Disease 154 179	erlotinib-resistant SCC-R
+#7	AnnotatorNotes T35	not found
+R5	Response Arg1:T4 Arg2:T35	
+R6	Response Arg1:T6 Arg2:T7	
+T3	GeneFamily 715 718	Ras
+T36	GeneFamily 719 722	Raf
+T37	GeneFamily 723 726	Mek
+T38	GeneFamily 727 730	Erk
+T39	Disease 668 693	erlotinib resistant SCC-R
+R7	Association Arg1:T14 Arg2:T39	
+#2	AnnotatorNotes T15	DOID:5520
+#4	AnnotatorNotes T7	not found
+#8	AnnotatorNotes T11	not found

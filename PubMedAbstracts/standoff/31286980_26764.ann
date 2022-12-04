@@ -1,0 +1,65 @@
+T0	Disease 89 107	insulin resistance
+#1	AnnotatorNotes T0	D007333
+T1	Disease 112 139	adipose tissue inflammation
+#2	AnnotatorNotes T1	not found
+T11	Disease 629 643	gastric cancer
+#3	AnnotatorNotes T11	DOID:10534
+T13	Disease 813 830	colorectal cancer
+#4	AnnotatorNotes T13	DOID:9256
+T15	Disease 1122 1141	lung adenocarcinoma
+#5	AnnotatorNotes T15	DOID:3910
+T17	Disease 1146 1180	lung squamous cell carcinoma tumor
+#7	AnnotatorNotes T17	DOID:3907
+T20	Disease 1267 1278	lung cancer
+T21	Disease 1296 1307	lung cancer
+T24	Disease 1566 1573	cancers
+#11	AnnotatorNotes T24	DOID:162
+T3	Disease 259 291	pancreatic ductal adenocarcinoma
+#12	AnnotatorNotes T3	DOID:3498
+T4	Disease 293 296	PDA
+T6	Biomarker 365 384	perineural invasion
+T9	Disease 512 552	adamantinomatous craniopharyngioma tumor
+#15	AnnotatorNotes T9	DOID:3846
+T2	Gene-Protein 56 62	COL6A3
+#13	AnnotatorNotes T2	HGNC:2213
+T5	Collection 89 139	insulin resistance and adipose tissue inflammation
+T8	Gene-Protein 176 208	monocyte chemoattractant protein
+#17	AnnotatorNotes T8	HGNC:10618
+T10	Gene-Protein 210 214	MCP1
+#18	AnnotatorNotes T10	HGNC:10618
+T12	Gene-Protein 228 234	COL6A3
+T14	Biomarker 228 255	COL6A3 was highly expressed
+#19	AnnotatorNotes T4	DOID:3498
+R2	Association Arg1:T14 Arg2:T3	
+T19	Biomarker 426 497	upregulated expression of multiple genes (including COL6A2, and COL6A3)
+T22	Gene-Protein 478 484	COL6A2
+#20	AnnotatorNotes T22	HGNC:2212
+T23	Gene-Protein 490 496	COL6A3
+R4	Association Arg1:T19 Arg2:T9	
+T26	Drug 597 616	silencing of COL6A3
+#22	AnnotatorNotes T26	not found
+T27	Gene-Protein 610 616	COL6A3
+R5	Response Arg1:T26 Arg2:T11	
+T28	GeneFamily 706 710	PI3k
+#23	AnnotatorNotes T28	family:831
+T29	GeneFamily 711 714	Akt
+#24	AnnotatorNotes T29	family:1900
+T30	Gene-Protein 754 760	COL6A3
+T31	Biomarker 754 760	COL6A3
+R6	Association Arg1:T31 Arg2:T13	
+T32	Gene-Protein 902 908	COL6A3
+T33	Gene-Protein 1037 1043	COL6A3
+T34	Biomarker 1037 1054	COL6A3 expression
+R7	Association Arg1:T34 Arg2:T16	
+T16	Collection 1122 1180	lung adenocarcinoma- or lung squamous cell carcinoma tumor
+T18	Gene-Protein 1257 1263	COL6A3
+#6	AnnotatorNotes T20	DOID:1324
+T35	Biomarker 1322 1346	higher COL6A3 expression
+T36	Gene-Protein 1329 1335	COL6A3
+R8	Prognostic-Poor Arg1:T35 Arg2:T21	
+T37	Gene-Protein 1516 1522	COL6A3
+T38	Biomarker 1516 1522	COL6A3
+R9	Association Arg1:T38 Arg2:T24	
+T39	Gene-Protein 89 96	insulin
+#8	AnnotatorNotes T39	HGNC:6081
+T25	Biomarker 389 406	cigarette smoking

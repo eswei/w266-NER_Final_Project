@@ -1,0 +1,43 @@
+31040372_6662|t|RSS_IDENT_p_31040372_b_1_1_8
+31040372_6662|a| In the present study, we investigate whether aberrant NO production contributes to the formation of precancerous breast lesions from normal mammary epithelia using cell lines of a breast cancer progression series as well as animal models. Here, we show that the basal level of NO production in cultured MECs plummets along with cancer progression. This was primarily due to reduction of the NOS cofactor, BH₄, under increased oxidative stress (NOS uncoupling), but was independent of NOS levels. Importantly, pharmacological deprivation of NO in developing mouse mammary glands led to the formation of multiple (peripheral) papillomas (precancerous mammary lesions) ⁵⁴ – ⁵⁸ and desmoplastic ECM in all the animals tested. NO-deprived mammary glands exhibited overactivation of an oncogene, ERBB2, and a fibrogenic cytokine, TGFβ. These glands also highly expressed senescence markers, reported to be prevalent in precancerous lesions ⁵⁹ – ⁶¹ . In addition, NO-deprived mammary glands displayed bi-lineage phenotype and stem cell-like properties, which are also reported to be prevalent in precancerous lesions ⁶² – ⁶⁴ . Consistently, application of the BH₄ precursor (sepiapterin) or a NO donor (SNAP or GSNO) to precancerous and cancerous breast cells normalized NO levels, suppressed TGFβ and ERBB2 signals and ameliorated proliferative phenotype. Our results unravel the critical contribution of deficient basal NO production to the pathogenesis of precancerous breast lesions. 
+31040372_6662	75	97	aberrant NO production	Biomarker
+31040372_6662	84	86	NO	Chemical
+31040372_6662	130	157	precancerous breast lesions	Disease	not found
+31040372_6662	210	223	breast cancer	Disease	DOID:1612
+31040372_6662	292	320	basal level of NO production	Biomarker
+31040372_6662	307	309	NO	Chemical
+31040372_6662	333	337	MECs	Cellline
+31040372_6662	358	364	cancer	Disease	DOID:162
+31040372_6662	404	438	reduction of the NOS cofactor, BH₄	Biomarker
+31040372_6662	421	424	NOS	Genefamily	not found
+31040372_6662	435	438	BH₄	Chemical
+31040372_6662	456	472	oxidative stress	Disease	D018384
+31040372_6662	474	477	NOS	Genefamily
+31040372_6662	514	517	NOS	Genefamily
+31040372_6662	539	572	pharmacological deprivation of NO	Drug	not found
+31040372_6662	632	664	multiple (peripheral) papillomas	Disease	not found
+31040372_6662	632	724	multiple (peripheral) papillomas (precancerous mammary lesions) ⁵⁴ – ⁵⁸ and desmoplastic ECM	Collection
+31040372_6662	666	694	precancerous mammary lesions	Disease	not found
+31040372_6662	708	724	desmoplastic ECM	Disease	not found
+31040372_6662	752	754	NO	Chemical
+31040372_6662	789	858	overactivation of an oncogene, ERBB2, and a fibrogenic cytokine, TGFβ	Biomarker
+31040372_6662	820	825	ERBB2	Gene-protein
+31040372_6662	833	852	fibrogenic cytokine	Genefamily
+31040372_6662	854	858	TGFβ	Gene-protein
+31040372_6662	943	963	precancerous lesions	Disease	not found
+31040372_6662	987	989	NO	Chemical
+31040372_6662	987	1074	NO-deprived mammary glands displayed bi-lineage phenotype and stem cell-like properties	Biomarker
+31040372_6662	1119	1139	precancerous lesions	Disease
+31040372_6662	1183	1196	BH₄ precursor	Drug-class
+31040372_6662	1197	1239	(sepiapterin) or a NO donor (SNAP or GSNO)	Collection
+31040372_6662	1198	1209	sepiapterin	Drug	CHEMBL1255653
+31040372_6662	1216	1218	NO	Chemical
+31040372_6662	1226	1230	SNAP	Drug	CHEMBL27308
+31040372_6662	1234	1238	GSNO	Drug	CHEMBL63507
+31040372_6662	1294	1296	NO	Chemical
+31040372_6662	1316	1320	TGFβ	Gene-protein
+31040372_6662	1325	1330	ERBB2	Gene-protein
+31040372_6662	1429	1458	deficient basal NO production	Biomarker
+31040372_6662	1445	1447	NO	Chemical
+31040372_6662	1482	1509	precancerous breast lesions	Disease
+

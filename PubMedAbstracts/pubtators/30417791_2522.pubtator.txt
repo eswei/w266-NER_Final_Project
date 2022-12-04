@@ -1,0 +1,47 @@
+30417791_2522|t|RSS_IDENT_p_30417791_b_1_1_4
+30417791_2522|a| The most common reason for such a high maternal and perinatal morbidity and mortality associated with HDP is the unavailability of precise and specific test that can identify pregnant women at risk of developing HDP [ 9 ]. One such biochemical marker that can be used to assess the severity of HDP and its effect on the maternal and fetal outcome to a large extent is maternal serum uric acid level. The use of serum uric acid and its association with HDP and its severity was first reported in 1917 [ 10 ], and it is still considered as a marker of severity of HDP, as the disease severity was found to increase with increasing maternal serum uric acid levels [ 11 , 12 ]. Also, it was found that in HDP the elevation of uric acid occurs before the onset of hypertension and or proteinuria [ 13 , 14 ]. There are many reasons for raised serum uric acid levels in women with HDP, which include impaired clearance from kidneys, increased tissue breakdown, acidosis and increased activity of xanthine oxidase/dehydrogenase enzyme [ 14 , 15 ]. The main reason behind impaired renal clearance of uric acid is reduced glomerular filtration rate, increased absorption and decreased secretion leading to raising serum uric acid levels in women with HDP [ 14 ]. In the first trimester of normal pregnancy serum, uric acid levels usually decrease to 3 mg/dl or more, under the uricosuric effects of estrogen and also due to increase renal blood flow. This is followed by an increase in levels of uric acid in the third trimester, reaching up to the levels of 4-5 mg/dl at term [ 16 ]. However, pregnant women who are prone to develop HDP, show slightly higher levels of serum uric acid during their first trimester [ 16 , 17 ]. Also, the degree of elevation of serum uric acid levels correlates with the severity of the disease and its outcome [ 16 ].
+30417791_2522	69	115	maternal and perinatal morbidity and mortality	Disease	not found, not found
+30417791_2522	132	135	HDP	Biomarker	not found
+30417791_2522	242	245	HDP	Disease	not found
+30417791_2522	324	327	HDP	Disease
+30417791_2522	398	428	maternal serum uric acid level	Biomarker
+30417791_2522	413	422	uric acid	Chemical
+30417791_2522	441	456	serum uric acid	Biomarker
+30417791_2522	447	456	uric acid	Chemical
+30417791_2522	482	485	HDP	Disease
+30417791_2522	592	595	HDP	Disease
+30417791_2522	648	690	increasing maternal serum uric acid levels	Biomarker
+30417791_2522	674	683	uric acid	Chemical
+30417791_2522	731	734	HDP	Disease
+30417791_2522	739	761	elevation of uric acid	Biomarker
+30417791_2522	752	761	uric acid	Chemical
+30417791_2522	789	801	hypertension	Disease	DOID:10763
+30417791_2522	809	820	proteinuria	Disease	DOID:576
+30417791_2522	861	890	raised serum uric acid levels	Biomarker
+30417791_2522	874	883	uric acid	Chemical
+30417791_2522	905	908	HDP	Disease
+30417791_2522	924	955	impaired clearance from kidneys	Biomarker
+30417791_2522	957	983	increased tissue breakdown	Biomarker
+30417791_2522	985	993	acidosis	Disease	DOID:0050758
+30417791_2522	998	1050	increased activity of xanthine oxidase/dehydrogenase	Biomarker
+30417791_2522	1020	1028	xanthine	Chemical
+30417791_2522	1020	1050	xanthine oxidase/dehydrogenase	Gene-protein	not found, HGNC:12805
+30417791_2522	1094	1131	impaired renal clearance of uric acid	Biomarker
+30417791_2522	1122	1131	uric acid	Chemical
+30417791_2522	1135	1169	reduced glomerular filtration rate	Biomarker
+30417791_2522	1171	1191	increased absorption	Biomarker
+30417791_2522	1196	1215	decreased secretion	Biomarker
+30417791_2522	1227	1257	raising serum uric acid levels	Biomarker
+30417791_2522	1241	1250	uric acid	Chemical
+30417791_2522	1272	1275	HDP	Disease
+30417791_2522	1334	1343	uric acid	Chemical
+30417791_2522	1420	1428	estrogen	Chemical
+30417791_2522	1445	1470	increase renal blood flow	Biomarker
+30417791_2522	1495	1549	increase in levels of uric acid in the third trimester	Biomarker
+30417791_2522	1517	1526	uric acid	Chemical
+30417791_2522	1615	1658	pregnant women who are prone to develop HDP	Disease
+30417791_2522	1665	1735	slightly higher levels of serum uric acid during their first trimester	Biomarker
+30417791_2522	1697	1706	uric acid	Chemical
+30417791_2522	1769	1804	elevation of serum uric acid levels	Biomarker
+30417791_2522	1788	1797	uric acid	Chemical
+

@@ -1,0 +1,47 @@
+31262325_45853|t|RSS_IDENT_p_31262325_b_1_4_6
+31262325_45853|a| BEZ235 combined with the EGFR-targeting therapeutic, BIBW2992, also synergistically induced apoptosis in EGFR-T790 M mutant-expressing NSCLCs with acquired resistant to TKIs. BIBW2992 (afatinib) is a second-generation EGFR-TKI that irreversibly blocks both wild-type and mutant forms of EGFR through formation of covalent bonds with Cys797 in the pocket of the catalytic site [ 5 ]. PI3K/Akt/mTOR signaling is important in cell survival and is involved in the resistance to many cancer therapies, including RTK inhibitors [ 14 ]. It has been reported that the pro-apoptotic BCL-2 family member BIM is responsible for EGFR-TKI–induced apoptosis in lung cancers harboring oncogenic EGFR mutations [ 49 ]. Moreover, BEZ235 has been shown to increase BIM expression in various cancers by acting through inhibition of PI3K/Akt activity to induce FOXO3a activity [ 34 , 50 , 51 ]. Targeting the EGFR-T790 M mutant and the PI3K/AKT/mTOR pathway are both strategies for reversing EGFR-TKI resistance [ 52 , 53 ]. In our study, we demonstrate that BEZ235 dramatically enhanced EGFR-TKI–induced apoptosis in EGFR-dependent NSCLCs, even those expressing the EGFR-T790 M mutant.
+31262325_45853	30	36	BEZ235	Drug	CHEMBL1879463
+31262325_45853	55	59	EGFR	Gene-protein	HGNC:3236
+31262325_45853	83	91	BIBW2992	Drug	CHEMBL1173655
+31262325_45853	135	139	EGFR	Gene-protein
+31262325_45853	135	171	EGFR-T790 M mutant-expressing NSCLCs	Disease	not found
+31262325_45853	199	203	TKIs	Drug-class
+31262325_45853	205	213	BIBW2992	Drug
+31262325_45853	215	223	afatinib	Drug	CHEMBL1173655
+31262325_45853	230	256	second-generation EGFR-TKI	Drug-class
+31262325_45853	248	252	EGFR	Gene-protein
+31262325_45853	317	321	EGFR	Gene-protein
+31262325_45853	363	366	Cys	Chemical
+31262325_45853	413	417	PI3K	Genefamily	family:831
+31262325_45853	413	436	PI3K/Akt/mTOR signaling	Biomarker
+31262325_45853	418	421	Akt	Genefamily	family:831
+31262325_45853	422	426	mTOR	Gene-protein	HGNC:3942
+31262325_45853	509	515	cancer	Disease	DOID:162
+31262325_45853	537	551	RTK inhibitors	Drug-class
+31262325_45853	604	609	BCL-2	Genefamily	family:1057
+31262325_45853	624	627	BIM	Gene-protein	HGNC:994
+31262325_45853	624	627	BIM	Biomarker	D000072224
+31262325_45853	647	651	EGFR	Gene-protein
+31262325_45853	647	655	EGFR-TKI	Drug-class
+31262325_45853	677	724	lung cancers harboring oncogenic EGFR mutations	Disease	not found
+31262325_45853	710	714	EGFR	Gene-protein
+31262325_45853	743	749	BEZ235	Drug
+31262325_45853	777	780	BIM	Gene-protein
+31262325_45853	803	810	cancers	Disease	DOID:162
+31262325_45853	843	847	PI3K	Genefamily
+31262325_45853	848	851	Akt	Genefamily
+31262325_45853	871	877	FOXO3a	Gene-protein	HGNC:3821
+31262325_45853	919	923	EGFR	Gene-protein
+31262325_45853	924	930	T790 M	Variant	p.Thr790Met
+31262325_45853	946	950	PI3K	Genefamily
+31262325_45853	951	954	AKT	Genefamily
+31262325_45853	955	959	mTOR	Gene-protein
+31262325_45853	1002	1006	EGFR	Gene-protein
+31262325_45853	1002	1010	EGFR-TKI	Drug-class
+31262325_45853	1069	1075	BEZ235	Drug
+31262325_45853	1098	1102	EGFR	Gene-protein
+31262325_45853	1098	1106	EGFR-TKI	Drug-class
+31262325_45853	1128	1132	EGFR	Gene-protein
+31262325_45853	1128	1195	EGFR-dependent NSCLCs, even those expressing the EGFR-T790 M mutant	Disease	not found
+31262325_45853	1177	1181	EGFR	Gene-protein
+

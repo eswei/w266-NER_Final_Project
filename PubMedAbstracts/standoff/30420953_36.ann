@@ -1,0 +1,95 @@
+T0	Chemical 36 40	iron
+T1	Chemical 65 69	iron
+T10	Disease 608 627	hepcidin deficiency
+#3	AnnotatorNotes T10	not found
+T11	Chemical 668 672	iron
+T12	Disease 731 757	hereditary hemochromatosis
+#5	AnnotatorNotes T12	DOID:0111028
+T13	Disease 759 761	HH
+#6	AnnotatorNotes T13	DOID:0111028
+T16	Chemical 823 827	iron
+T17	Biomarker 856 929	gradual buildup of unshielded non-transferrin bound iron (NTBI) in plasma
+T18	Chemical 908 912	iron
+T19	Chemical 944 948	iron
+T2	Gene-Protein 147 155	Hepcidin
+T20	Disease 1005 1007	HH
+T21	Biomarker 1026 1051	mutations in the HFE gene
+T22	Disease 1086 1102	genetic disorder
+#14	AnnotatorNotes T22	DOID:630
+T23	Biomarker 1169 1262	inactivating mutations in HJV (hemojuvelin), HAMP (hepcidin) or TFR2 (transferrin receptor 2)
+T24	Biomarker 1264 1298	Mutations in SLC40A1 (ferroportin)
+T25	Disease 1310 1329	hepcidin resistance
+#15	AnnotatorNotes T25	not found
+T26	Disease 1372 1374	HH
+T27	Disease 1385 1420	ferroportin-related hemochromatosis
+#17	AnnotatorNotes T27	DOID:0111028
+T28	Biomarker 1469 1507	Loss-of-function ferroportin mutations
+T29	Disease 1516 1535	ferroportin disease
+#18	AnnotatorNotes T29	DOID:0111028
+T3	Chemical 165 169	iron
+T30	Chemical 1554 1558	iron
+T31	Disease 1615 1633	Aceruloplasminemia
+#21	AnnotatorNotes T31	DOID:0050711
+T32	Collection 1615 1654	Aceruloplasminemia and atransferrinemia
+T33	Disease 1638 1654	atransferrinemia
+#22	AnnotatorNotes T33	DOID:0050649
+T36	Chemical 1690 1694	iron
+T37	Biomarker 1714 1756	deficiency in ceruloplasmin or transferrin
+T38	Chemical 1785 1789	iron
+T4	Chemical 223 227	iron
+T5	Gene-Protein 237 248	ferroportin
+T6	Chemical 369 373	iron
+T7	Chemical 400 404	iron
+T8	Chemical 428 432	iron
+T39	Gene-Protein 104 112	hepcidin
+#1	AnnotatorNotes T39	HGNC:15598
+#2	AnnotatorNotes T2	HGNC:15598
+#4	AnnotatorNotes T5	HGNC:10909
+T40	Gene-Protein 319 327	Hepcidin
+T41	Gene-Protein 529 537	hepcidin
+T42	Gene-Protein 608 616	hepcidin
+T43	Gene-Protein 1220 1228	hepcidin
+T44	Gene-Protein 1310 1318	hepcidin
+T45	GeneFamily 474 478	SMAD
+#9	AnnotatorNotes T45	family:750
+T46	GeneFamily 470 473	BMP
+#10	AnnotatorNotes T46	family:455
+R1	Risk-Factor Arg1:T28 Arg2:T29	
+T15	Biomarker 1554 1582	iron overload in macrophages
+T47	Biomarker 1587 1613	low transferrin saturation
+T48	Collection 1554 1613	iron overload in macrophages and low transferrin saturation
+R2	Association Arg1:T48 Arg2:T29	
+T49	Gene-Protein 1516 1527	ferroportin
+T50	Gene-Protein 1486 1497	ferroportin
+T51	Gene-Protein 1385 1396	ferroportin
+T52	Gene-Protein 1286 1297	ferroportin
+T9	Biomarker 642 715	inappropriately increased iron absorption and efflux into the bloodstream
+R3	Association Arg1:T9 Arg2:T12	
+T14	Biomarker 934 987	excessive iron deposition in tissue parenchymal cells
+T53	Collection 856 987	gradual buildup of unshielded non-transferrin bound iron (NTBI) in plasma and excessive iron deposition in tissue parenchymal cells
+R4	Association Arg1:T53 Arg2:T12	
+T54	Gene-Protein 890 901	transferrin
+#7	AnnotatorNotes T54	HGNC:11740
+T55	Gene-Protein 1233 1237	TFR2
+#8	AnnotatorNotes T55	HGNC:11762
+T56	Gene-Protein 1239 1261	transferrin receptor 2
+#11	AnnotatorNotes T56	HGNC:11762
+T57	Gene-Protein 1214 1218	HAMP
+#12	AnnotatorNotes T57	HGNC:15598
+T58	Gene-Protein 1591 1602	transferrin
+T59	Gene-Protein 1745 1756	transferrin
+T60	Gene-Protein 1043 1046	HFE
+#19	AnnotatorNotes T60	 HGNC:4886
+R5	Association Arg1:T21 Arg2:T20	
+T61	Gene-Protein 1200 1211	hemojuvelin
+#13	AnnotatorNotes T61	HGNC:4887
+T62	Gene-Protein 1195 1198	HJV
+#20	AnnotatorNotes T62	HGNC:4887
+T63	Gene-Protein 1277 1284	SLC40A1
+#25	AnnotatorNotes T63	HGNC:10909
+R7	Association Arg1:T24 Arg2:T25	
+R8	Association Arg1:T37 Arg2:T32	
+T34	Gene-Protein 1728 1741	ceruloplasmin
+#16	AnnotatorNotes T34	HGNC:2295
+T35	Gene-Protein 1769 1780	ferroxidase
+#23	AnnotatorNotes T35	HGNC:2295

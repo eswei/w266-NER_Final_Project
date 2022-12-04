@@ -1,0 +1,44 @@
+29760583_17884|t|RSS_IDENT_p_29760583_b_1_3_3
+29760583_17884|a| LncRNA PVT1 plays a role as oncogene in the development of various types of malignant tumors and shows abnormally upregulated expression. In the study of pancreatic cancer, Huang et al. found that expression level of the lncRNA PVT1 was significantly increased in cancer patients than in normal healthy controls, and the upregulated expression level of PVT1 was significantly correlated with poor prognosis of those patients [ 15 ]. In another study, expression level of PVT1 was also found to be abnormally increased in gastric cancer patients, and abnormal expression of PVT1 showed promising diagnostic and prognostic values for this disease [ 16 ]. Previous studies also confirmed that PVT1 is upregulated in cervical cancer and promote the progression of disease [ 17 – 19 ]. Consistent with previous studies, in this study, expression level of PVT1 was found to be significantly higher in cervical squamous cell carcinoma patients than in normal controls. In addition, expression level of PVT1 was increased with the increased stage of primary tumor. HPV infection can induce the abnormal expression of certain lncRNAs [ 10 ]. In our study, no significant differences in serum levels of PVT1 were detected among patients infected with different HPVs and HPV-negative patients. Those data suggest that upregulated expression of PVT1 may participate in the pathogenesis of cervical squamous cell carcinoma through a HPV infection-independent pathway. Besides that, serum PVT1 also showed promising diagnostic and prognostic values for cervical squamous cell carcinoma. Therefore, PVT1 may serve as a target to improve the treatment outcomes and prognosis of those patients. It is worth to note that several lncRNAs, such as GAS5 [ 20 ] and HOTAIR [ 21 ] show clinical values for the diagnosis and prognosis of cervical cancers. Combination of multiple biomarkers may improve the diagnosis. 
+29760583_17884	30	41	LncRNA PVT1	Biomarker	C000609195
+29760583_17884	37	41	PVT1	Rna-noncoding	HGNC:9709
+29760583_17884	106	122	malignant tumors	Disease	DOID:162
+29760583_17884	184	201	pancreatic cancer	Disease	DOID:1793
+29760583_17884	227	290	expression level of the lncRNA PVT1 was significantly increased	Biomarker
+29760583_17884	258	262	PVT1	Rna-noncoding
+29760583_17884	294	300	cancer	Disease	DOID:162
+29760583_17884	351	387	upregulated expression level of PVT1	Biomarker
+29760583_17884	383	387	PVT1	Rna-noncoding
+29760583_17884	481	547	expression level of PVT1 was also found to be abnormally increased	Biomarker
+29760583_17884	501	505	PVT1	Rna-noncoding
+29760583_17884	551	565	gastric cancer	Disease	DOID:10534
+29760583_17884	603	607	PVT1	Rna-noncoding
+29760583_17884	720	724	PVT1	Rna-noncoding
+29760583_17884	720	739	PVT1 is upregulated	Biomarker
+29760583_17884	743	758	cervical cancer	Disease	DOID:4362
+29760583_17884	860	921	expression level of PVT1 was found to be significantly higher	Biomarker
+29760583_17884	880	884	PVT1	Rna-noncoding
+29760583_17884	925	957	cervical squamous cell carcinoma	Disease	DOID:3744
+29760583_17884	1005	1029	expression level of PVT1	Biomarker
+29760583_17884	1025	1029	PVT1	Rna-noncoding
+29760583_17884	1072	1085	primary tumor	Disease	DOID:162
+29760583_17884	1087	1100	HPV infection	Disease	DOID:11166
+29760583_17884	1105	1154	induce the abnormal expression of certain lncRNAs	Biomarker
+29760583_17884	1207	1227	serum levels of PVT1	Biomarker
+29760583_17884	1223	1227	PVT1	Rna-noncoding
+29760583_17884	1281	1285	HPVs	Disease	DOID:11166
+29760583_17884	1290	1293	HPV	Disease	DOID:11166
+29760583_17884	1337	1367	upregulated expression of PVT1	Biomarker
+29760583_17884	1363	1367	PVT1	Rna-noncoding
+29760583_17884	1407	1439	cervical squamous cell carcinoma	Disease
+29760583_17884	1450	1463	HPV infection	Disease
+29760583_17884	1499	1509	serum PVT1	Biomarker
+29760583_17884	1505	1509	PVT1	Rna-noncoding
+29760583_17884	1569	1601	cervical squamous cell carcinoma	Disease
+29760583_17884	1614	1618	PVT1	Rna-noncoding
+29760583_17884	1614	1618	PVT1	Biomarker	C000609195
+29760583_17884	1733	1780	several lncRNAs, such as GAS5 [ 20 ] and HOTAIR	Biomarker
+29760583_17884	1758	1762	GAS5	Rna-noncoding	HGNC:16355
+29760583_17884	1774	1780	HOTAIR	Rna-noncoding	HGNC:33510
+29760583_17884	1844	1860	cervical cancers	Disease	DOID:4362
+

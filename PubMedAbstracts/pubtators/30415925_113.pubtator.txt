@@ -1,0 +1,50 @@
+30415925_113|t|RSS_IDENT_p_30415925_a_1_2
+30415925_113|a| Diabetes is a bihormonal disorder resulting from combined insulin and glucagon secretion defects. Mice lacking fumarase (Fh1) in their β cells (Fh1βKO mice) develop progressive hyperglycemia and dysregulated glucagon secretion similar to that seen in diabetic patients (too much at high glucose and too little at low glucose). The glucagon secretion defects are corrected by low concentrations of tolbutamide and prevented by the sodium-glucose transport (SGLT) inhibitor phlorizin. These data link hyperglycemia, intracellular Na⁺ accumulation, and acidification to impaired mitochondrial metabolism, reduced ATP production, and dysregulated glucagon secretion. Protein succination, reflecting reduced activity of fumarase, is observed in α cells from hyperglycemic Fh1βKO and β-V59M gain-of-function KATP channel mice, diabetic Goto-Kakizaki rats, and patients with type 2 diabetes. Succination is also observed in renal tubular cells and cardiomyocytes from hyperglycemic Fh1βKO mice, suggesting that the model can be extended to other SGLT-expressing cells and may explain part of the spectrum of diabetic complications. Graphical Abstract Highlights • Chronic hyperglycemia inhibits fumarase and glucagon secretion by α cells • Hyperglycemia causes SGLT-dependent reduction of cytoplasmic pH and ATP production • SGLT inhibitors normalize cytoplasmic pH, ATP production, and glucagon secretion • The Na-dependent mechanism may impair ATP production in other SGLT-expressing cells
+30415925_113	28	36	Diabetes	Disease	not found
+30415925_113	77	124	combined insulin and glucagon secretion defects	Biomarker
+30415925_113	86	93	insulin	Gene-protein	HGNC:6081
+30415925_113	98	106	glucagon	Gene-protein	HGNC:4191
+30415925_113	139	147	fumarase	Gene-protein
+30415925_113	149	152	Fh1	Gene-protein
+30415925_113	205	218	hyperglycemia	Disease	DOID:4195
+30415925_113	223	254	dysregulated glucagon secretion	Disease	DOID:14427
+30415925_113	236	244	glucagon	Gene-protein
+30415925_113	279	287	diabetic	Disease	not found
+30415925_113	298	352	too much at high glucose and too little at low glucose	Biomarker
+30415925_113	315	322	glucose	Chemical
+30415925_113	345	352	glucose	Chemical
+30415925_113	359	367	glucagon	Gene-protein
+30415925_113	359	385	glucagon secretion defects	Disease	DOID:14427
+30415925_113	425	436	tolbutamide	Drug	CHEMBL782
+30415925_113	458	499	sodium-glucose transport (SGLT) inhibitor	Drug-class
+30415925_113	500	509	phlorizin	Drug	CHEMBL245067
+30415925_113	527	540	hyperglycemia	Biomarker	D006943
+30415925_113	542	572	intracellular Na⁺ accumulation	Biomarker
+30415925_113	542	689	intracellular Na⁺ accumulation, and acidification to impaired mitochondrial metabolism, reduced ATP production, and dysregulated glucagon secretion	Collection
+30415925_113	556	559	Na⁺	Chemical
+30415925_113	578	628	acidification to impaired mitochondrial metabolism	Biomarker
+30415925_113	630	652	reduced ATP production	Biomarker
+30415925_113	638	641	ATP	Chemical
+30415925_113	658	689	dysregulated glucagon secretion	Biomarker
+30415925_113	671	679	glucagon	Gene-protein
+30415925_113	691	711	Protein succination,	Biomarker
+30415925_113	743	751	fumarase	Gene-protein
+30415925_113	781	794	hyperglycemic	Disease	DOID:4195
+30415925_113	808	812	V59M	Variant	p.Val59Met	Gain-of-funtion
+30415925_113	830	842	KATP channel	Genefamily
+30415925_113	849	857	diabetic	Disease	not found
+30415925_113	896	911	type 2 diabetes	Disease	DOID:9352
+30415925_113	913	924	Succination	Biomarker
+30415925_113	989	1002	hyperglycemic	Disease
+30415925_113	1129	1151	diabetic complications	Disease	D048909
+30415925_113	1185	1206	Chronic hyperglycemia	Disease	DOID:4195
+30415925_113	1216	1224	fumarase	Gene-protein
+30415925_113	1229	1237	glucagon	Gene-protein
+30415925_113	1261	1274	Hyperglycemia	Disease
+30415925_113	1329	1332	ATP	Chemical
+30415925_113	1346	1361	SGLT inhibitors	Drug-class
+30415925_113	1388	1391	ATP	Chemical
+30415925_113	1408	1416	glucagon	Gene-protein
+30415925_113	1433	1435	Na	Chemical
+30415925_113	1467	1470	ATP	Chemical
+

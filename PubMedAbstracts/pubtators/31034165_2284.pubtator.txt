@@ -1,0 +1,42 @@
+31034165_2284|t|RSS_IDENT_p_31034165_b_1_3
+31034165_2284|a| Many signaling pathways, such as transforming growth factor‐β/Smad, Wnt/β‐catenin and mitogen‐activated protein kinase, have been reported to regulate CRC metastasis 4. In addition to signaling pathways, the roles of non‐coding RNAs in CRC metastasis have also been intensively investigated. MiRNAs, a class of small, non‐coding RNAs, can bind to the 3′‐untranslated region (UTR) of target genes and regulate gene expression at the post‐transcriptional level 5. Recently, a number of groups have demonstrated abnormal miRNA expression in CRC tissues compared to normal tissues 6, 7, 8, 9, 10, 11, 12, and significant progress has been made in elucidating the specific roles of miRNAs in the initiation, progression and metastasis of CRC. For example, as a highly expressed onco‐miRNA in many cancers, including CRC, high miR‐21 expression is correlated with chemotherapy insensitivity and poor prognosis 10. MiR‐143 and miR‐145 can exert tumor‐suppressive functions and have low expression in CRC 13. MiR‐543 inhibited CRC cell metastasis in vitro and in vivo by targeting KRAS, MTA1 and HMGA2 14. MiR‐34a‐5p suppresses metastasis and its expression predicts recurrence in patients with stage II/III CRC 15. Pro‐metastatic effects of miRNAs in CRC have also been reported. For example, miR‐625‐3p exerts its oncogenic functions in CRC metastasis by regulating the suppressor of cancer cell invasion/E‐cadherin/matrix metalloproteinase‐9 pathways 16. 
+31034165_2284	33	146	signaling pathways, such as transforming growth factor‐β/Smad, Wnt/β‐catenin and mitogen‐activated protein kinase	Biomarker
+31034165_2284	61	89	transforming growth factor‐β	Genefamily	family:1664
+31034165_2284	90	94	Smad	Genefamily	family:750
+31034165_2284	96	99	Wnt	Genefamily	family:360
+31034165_2284	100	109	β‐catenin	Genefamily	family:1542
+31034165_2284	114	146	mitogen‐activated protein kinase	Genefamily	family:651
+31034165_2284	179	182	CRC	Disease	DOID:9256
+31034165_2284	245	260	non‐coding RNAs	Biomarker
+31034165_2284	245	260	non‐coding RNAs	Rna-noncoding
+31034165_2284	264	267	CRC	Disease
+31034165_2284	537	562	abnormal miRNA expression	Biomarker
+31034165_2284	566	569	CRC	Disease
+31034165_2284	761	764	CRC	Disease
+31034165_2284	784	811	highly expressed onco‐miRNA	Biomarker
+31034165_2284	820	827	cancers	Disease	DOID:162
+31034165_2284	839	842	CRC	Disease
+31034165_2284	844	866	high miR‐21 expression	Biomarker
+31034165_2284	849	855	miR‐21	Gene-protein	HGNC:31586
+31034165_2284	886	898	chemotherapy	Drug-class
+31034165_2284	936	943	MiR‐143	Rna-noncoding	HGNC:31530
+31034165_2284	936	1017	MiR‐143 and miR‐145 can exert tumor‐suppressive functions and have low expression	Biomarker
+31034165_2284	948	955	miR‐145	Rna-noncoding	HGNC:31532
+31034165_2284	1021	1024	CRC	Disease
+31034165_2284	1029	1036	MiR‐543	Drug	C577592
+31034165_2284	1029	1036	MiR‐543	Rna-noncoding	HGNC:33664
+31034165_2284	1047	1050	CRC	Disease
+31034165_2284	1101	1105	KRAS	Gene-protein	 HGNC:6407
+31034165_2284	1107	1111	MTA1	Gene-protein	HGNC:7410
+31034165_2284	1116	1121	HMGA2	Gene-protein	HGNC:5009
+31034165_2284	1126	1136	MiR‐34a‐5p	Rna-noncoding	HGNC:31635
+31034165_2284	1126	1136	MiR‐34a‐5p	Drug
+31034165_2284	1215	1231	stage II/III CRC	Disease	not found
+31034165_2284	1262	1268	miRNAs	Biomarker	D035683
+31034165_2284	1272	1275	CRC	Disease
+31034165_2284	1314	1324	miR‐625‐3p	Rna-noncoding	HGNC:32881
+31034165_2284	1359	1362	CRC	Disease
+31034165_2284	1406	1412	cancer	Disease	DOID:162
+31034165_2284	1427	1437	E‐cadherin	Gene-protein	HGNC:1748
+31034165_2284	1438	1464	matrix metalloproteinase‐9	Gene-protein	HGNC:7176
+

@@ -1,0 +1,79 @@
+T1	Disease 400 417	pancreatic cancer
+T10	Disease 812 830	colorectal cancers
+#3	AnnotatorNotes T10	DOID:9256
+T13	Disease 988 1006	colorectal cancers
+T15	Disease 1085 1102	colorectal cancer
+T17	Disease 1176 1183	cancers
+T19	Disease 1198 1237	breast, prostate and gastric carcinomas
+#9	AnnotatorNotes T19	DOID:3459,DOID:10286,DOID:5517
+T22	Disease 1396 1413	colorectal cancer
+T25	Disease 1627 1633	cancer
+T28	Disease 1750 1786	highly liver metastatic colon cancer
+#14	AnnotatorNotes T28	not found
+T3	Disease 540 546	cancer
+#16	AnnotatorNotes T3	DOID:162
+T5	Disease 636 643	cancers
+#19	AnnotatorNotes T5	DOID:162
+T7	Disease 730 736	cancer
+T8	Disease 754 771	colorectal cancer
+#21	AnnotatorNotes T8	DOID:9256
+T2	Gene-Protein 74 79	IGF-1
+#22	AnnotatorNotes T2	HGNC:5464
+T4	Gene-Protein 113 117	PTEN
+#23	AnnotatorNotes T4	HGNC:9588
+T6	Gene-Protein 188 192	PTEN
+T9	Gene-Protein 270 274	PTEN
+T12	GeneFamily 183 187	PI3K
+#2	AnnotatorNotes T12	family:831
+T14	GeneFamily 193 196	Akt
+#24	AnnotatorNotes T14	family:1900
+T16	Gene-Protein 653 657	PTEN
+T23	GeneFamily 197 205	NFkappaB
+#25	AnnotatorNotes T23	family:1254
+T21	Gene-Protein 498 502	PTEN
+T24	Gene-Protein 601 605	PTEN
+T27	Gene-Protein 938 942	PTEN
+T32	Gene-Protein 1036 1040	PTEN
+T33	Gene-Protein 780 784	PTEN
+T34	Gene-Protein 1138 1142	PTEN
+T35	Gene-Protein 1578 1582	PTEN
+T36	Gene-Protein 1282 1286	PTEN
+T37	Gene-Protein 1712 1716	PTEN
+T38	Gene-Protein 1388 1392	PTEN
+T31	GeneFamily 1516 1520	PI3K
+T18	Gene-Protein 348 352	PTEN
+T20	Drug 335 361	Knockdown of PTEN enhanced
+T29	Drug 480 502	overexpression of PTEN
+#6	AnnotatorNotes T29	not found
+T39	Biomarker 270 285	PTEN expression
+T40	Disease 310 327	pancreatic cancer
+#1	AnnotatorNotes T40	DOID:1793
+R3	Response Arg1:T29 Arg2:T3	
+T41	Biomarker 601 619	PTEN is suppressed
+T42	Collection 730 771	cancer cells, including colorectal cancer
+R4	Association Arg1:T41 Arg2:T5	
+T43	Biomarker 653 657	PTEN
+R5	Association Arg1:T43 Arg2:T42	
+#8	AnnotatorNotes T43	C494929
+T44	Biomarker 780 808	PTEN expression is decreased
+R6	Association Arg1:T44 Arg2:T10	
+T11	Biomarker 938 966	PTEN expression is decreased
+T45	Biomarker 1037 1061	TEN mutation or deletion
+R7	Association Arg1:T45 Arg2:T13	
+R8	Association Arg1:T11 Arg2:T13	
+T46	Biomarker 1108 1142	loss or reduced expression of PTEN
+T47	Collection 1176 1237	cancers, most notably breast, prostate and gastric carcinomas
+R9	Association Arg1:T46 Arg2:T15	
+R10	Association Arg1:T46 Arg2:T47	
+T48	Drug 1370 1392	overexpression of PTEN
+#4	AnnotatorNotes T48	not found
+R11	Response Arg1:T48 Arg2:T22	
+T26	Biomarker 1568 1593	decreased PTEN expression
+T49	Biomarker 1691 1746	expression levels of PTEN mRNA is significantly reduced
+T50	Disease 1811 1844	low liver metastatic colon cancer
+#10	AnnotatorNotes T50	not found
+T51	CellLine 1797 1802	HT-29
+T52	CellLine 1856 1862	CaCo-2
+T53	CellLine 1867 1874	Colo320
+R12	Association Arg1:T49 Arg2:T28	
+T30	Biomarker 290 306	liver metastasis

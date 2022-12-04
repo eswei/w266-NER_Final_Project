@@ -1,0 +1,59 @@
+30288056_11695|t|RSS_IDENT_p_30288056_b_1_4_3
+30288056_11695|a| Previous studies have found that CAV2 is associated with the occurrence and development of tumors. The expression of CAV2 has been observed in 5.9% of all breast cancer, while CAV2 expression has been reported as being strongly associated with high histological grade. 13 CAV2 is mainly expressed in breast cancers and is associated with poor prognosis. 14 However, another study found that CAV2 expression is suppressed in breast cancer tissues compared to normal tissues, and that the reduced CAV1 is significantly associated with increasing tumor size. 15 Another study has suggested that there is a correlation between plasma CAV2 levels and progression of prostate cancer. 16 CAV2 can promote tumor growth by supporting tumor-induced angiogenesis. Because of this function of CAV2 in tumor microenvironment, CAV2 is regarded as a potentially novel target for lung cancer therapy. 28 In esophageal squamous cell carcinoma, the increased expression of CAV2 correlates with a tumor progression and poor prognosis. So, CAV2, which has been shown to correlate with RCC, 17 is a potential biomarker for diagnosis of esophageal squamous cell carcinoma. 29 However, the expression and function of CAV2 is not known in RCC. Our results revealed that CAV2 had increased expression in RCC. The increased expression of CAV2 was associated with cancer progression. CAV2 high expression was significantly correlated with poor OS in all patients with invasive RCC. Silencing of CAV2 caused reduction in cell proliferation and growth with retarded entry into the S phase. 30 Our data revealed that silencing CAV2 inhibited the cellular proliferation, migration and invasion in RCC. Our results furthermore indicated that high expression of CAV2 promoted the progression of RCC. 
+30288056_11695	63	67	CAV2	Gene-protein	HGNC:1528
+30288056_11695	63	67	CAV2	Biomarker	C495544
+30288056_11695	121	127	tumors	Disease	DOID:162
+30288056_11695	147	151	CAV2	Gene-protein
+30288056_11695	147	151	CAV2	Biomarker
+30288056_11695	185	198	breast cancer	Disease	DOID:1612
+30288056_11695	206	210	CAV2	Gene-protein
+30288056_11695	206	221	CAV2 expression	Biomarker
+30288056_11695	274	297	high histological grade	Biomarker
+30288056_11695	302	306	CAV2	Biomarker
+30288056_11695	302	306	CAV2	Gene-protein
+30288056_11695	330	344	breast cancers	Disease	DOID:1612
+30288056_11695	421	425	CAV2	Gene-protein
+30288056_11695	421	450	CAV2 expression is suppressed	Biomarker
+30288056_11695	454	467	breast cancer	Disease
+30288056_11695	517	529	reduced CAV1	Biomarker
+30288056_11695	525	529	CAV1	Gene-protein
+30288056_11695	563	584	increasing tumor size	Biomarker
+30288056_11695	653	671	plasma CAV2 levels	Biomarker
+30288056_11695	660	664	CAV2	Gene-protein
+30288056_11695	691	706	prostate cancer	Disease	DOID:10283
+30288056_11695	711	715	CAV2	Gene-protein
+30288056_11695	711	715	CAV2	Biomarker
+30288056_11695	728	733	tumor	Disease	DOID:162
+30288056_11695	755	760	tumor	Disease
+30288056_11695	811	815	CAV2	Gene-protein
+30288056_11695	819	824	tumor	Disease
+30288056_11695	843	847	CAV2	Gene-protein
+30288056_11695	843	847	CAV2	Biomarker
+30288056_11695	894	905	lung cancer	Disease	DOID:1324
+30288056_11695	921	955	esophageal squamous cell carcinoma	Disease	DOID:3748
+30288056_11695	961	989	increased expression of CAV2	Biomarker
+30288056_11695	985	989	CAV2	Gene-protein
+30288056_11695	1008	1013	tumor	Disease
+30288056_11695	1050	1054	CAV2	Gene-protein
+30288056_11695	1050	1054	CAV2	Biomarker
+30288056_11695	1095	1098	RCC	Disease	DOID:4450
+30288056_11695	1145	1179	esophageal squamous cell carcinoma	Disease
+30288056_11695	1224	1228	CAV2	Gene-protein
+30288056_11695	1245	1248	RCC	Disease
+30288056_11695	1276	1280	CAV2	Gene-protein
+30288056_11695	1276	1305	CAV2 had increased expression	Biomarker
+30288056_11695	1309	1312	RCC	Disease
+30288056_11695	1318	1346	increased expression of CAV2	Biomarker
+30288056_11695	1342	1346	CAV2	Gene-protein
+30288056_11695	1367	1373	cancer	Disease	DOID:162
+30288056_11695	1387	1391	CAV2	Gene-protein
+30288056_11695	1387	1407	CAV2 high expression	Biomarker
+30288056_11695	1471	1483	invasive RCC	Disease	not found
+30288056_11695	1498	1502	CAV2	Gene-protein
+30288056_11695	1617	1631	silencing CAV2	Drug	not found
+30288056_11695	1627	1631	CAV2	Gene-protein
+30288056_11695	1696	1699	RCC	Disease
+30288056_11695	1740	1763	high expression of CAV2	Biomarker
+30288056_11695	1759	1763	CAV2	Gene-protein
+30288056_11695	1792	1795	RCC	Disease
+

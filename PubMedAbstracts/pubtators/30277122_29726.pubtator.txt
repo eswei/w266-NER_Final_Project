@@ -1,0 +1,68 @@
+30277122_29726|t|RSS_IDENT_p_30277122_b_1_3_8
+30277122_29726|a| Studies reported that HlyA from E. coli and leukotoxin A from A. actinomycetemcomitans induce ATP release from RBCs by forming toxin pores. Released ATP then acts on P2X1 and P2X7 to mediate hemolysis [12,14,16]. ATP as a mediator, plays an important role in HlyA- and leukotoxin A-induced hemolysis. ATP was found to be released from ETX-treated RBCs. However, our results indicated that the ATP-scavengers apyrase and hexokinase could not inhibit ETX-induced hemolysis. It therefore appeared that ATP was not involved in the activation of P2 receptors. This may also explain why OxATP was not effective in inhibiting ETX-induced hemolysis. Since ATP and ATP derivatives share structural similarities, ATP derivatives such as OxATP may potentially impair P2X7 activation by binding to the ATP binding site. OxATP cannot impair P2X7 activation if ATP is not involved in P2X7 activation. We also demonstrated that the release of ATP was caused by hemolysis rather than ETX-formed pores or pannexin 1. In addition, we found that the extent of ATP release tightly correlated with the extent of hemolysis (Figure 6(h)). Taken together, we concluded that ATP release is the result of ETX-induced hemolysis rather than a mediator of ETX-induced hemolysis (Figure 8). Hence, the mechanism of ETX-induced hemolysis is different from those of HlyA- and leukotoxin A-induced hemolysis. It was also reported that hemolysis is a primary ATP-release mechanism in human erythrocytes stimulated by several stimuli, including shear stress and hypoxia [37]. Figure 8. Inferred model for ETX-induced hemolysis. ETX first bound to membrane of human erythrocytes and formed pores; secondly, a series of signal transduction occurred and led to P2 receptor’s activation; thirdly, activation of P2 receptors led to hemolysis, which caused the release of ATP. 
+30277122_29726	62	69	E. coli	Microorganism
+30277122_29726	92	116	A. actinomycetemcomitans	Microorganism
+30277122_29726	124	127	ATP	Chemical
+30277122_29726	157	162	toxin	Chemical
+30277122_29726	179	182	ATP	Chemical
+30277122_29726	196	200	P2X1	Gene-protein	HGNC:8533
+30277122_29726	205	209	P2X7	Gene-protein	HGNC:8537
+30277122_29726	221	230	hemolysis	Disease	D006461
+30277122_29726	243	246	ATP	Chemical
+30277122_29726	243	246	ATP	Biomarker	D000255
+30277122_29726	289	329	HlyA- and leukotoxin A-induced hemolysis	Disease	not found
+30277122_29726	331	334	ATP	Chemical
+30277122_29726	365	368	ETX	Chemical
+30277122_29726	423	426	ATP	Chemical
+30277122_29726	438	445	apyrase	Gene-protein	not found
+30277122_29726	438	445	apyrase	Drug	D001081
+30277122_29726	438	460	apyrase and hexokinase	Collection
+30277122_29726	450	460	hexokinase	Genefamily	not found
+30277122_29726	450	460	hexokinase	Drug	D006593
+30277122_29726	479	482	ETX	Chemical
+30277122_29726	479	500	ETX-induced hemolysis	Disease	not found
+30277122_29726	529	532	ATP	Chemical
+30277122_29726	571	583	P2 receptors	Genefamily	family:212
+30277122_29726	611	616	OxATP	Drug	C017199
+30277122_29726	649	652	ETX	Chemical
+30277122_29726	649	670	ETX-induced hemolysis	Disease
+30277122_29726	678	681	ATP	Chemical
+30277122_29726	686	689	ATP	Chemical
+30277122_29726	733	736	ATP	Chemical
+30277122_29726	757	762	OxATP	Drug
+30277122_29726	786	790	P2X7	Gene-protein
+30277122_29726	820	823	ATP	Chemical
+30277122_29726	838	843	OxATP	Chemical
+30277122_29726	858	862	P2X7	Gene-protein
+30277122_29726	877	880	ATP	Chemical
+30277122_29726	900	904	P2X7	Gene-protein
+30277122_29726	947	961	release of ATP	Biomarker
+30277122_29726	958	961	ATP	Chemical
+30277122_29726	976	985	hemolysis	Disease
+30277122_29726	998	1001	ETX	Chemical
+30277122_29726	1018	1028	pannexin 1	Gene-protein	HGNC:8599
+30277122_29726	1061	1082	extent of ATP release	Biomarker
+30277122_29726	1071	1074	ATP	Chemical
+30277122_29726	1121	1130	hemolysis	Disease
+30277122_29726	1180	1183	ATP	Chemical
+30277122_29726	1180	1191	ATP release	Biomarker
+30277122_29726	1209	1212	ETX	Chemical
+30277122_29726	1209	1230	ETX-induced hemolysis	Disease
+30277122_29726	1257	1260	ETX	Chemical
+30277122_29726	1257	1278	ETX-induced hemolysis	Disease
+30277122_29726	1315	1318	ETX	Chemical
+30277122_29726	1315	1336	ETX-induced hemolysis	Disease
+30277122_29726	1364	1404	HlyA- and leukotoxin A-induced hemolysis	Disease
+30277122_29726	1432	1441	hemolysis	Disease
+30277122_29726	1455	1458	ATP	Chemical
+30277122_29726	1540	1552	shear stress	Biomarker
+30277122_29726	1540	1564	shear stress and hypoxia	Collection
+30277122_29726	1557	1564	hypoxia	Biomarker	D000860
+30277122_29726	1600	1603	ETX	Chemical
+30277122_29726	1600	1621	ETX-induced hemolysis	Disease
+30277122_29726	1623	1626	ETX	Chemical
+30277122_29726	1753	1766	P2 receptor’s	Genefamily	family:212
+30277122_29726	1802	1814	P2 receptors	Genefamily
+30277122_29726	1822	1831	hemolysis	Disease
+30277122_29726	1861	1864	ATP	Chemical
+

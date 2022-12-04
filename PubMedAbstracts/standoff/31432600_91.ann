@@ -1,0 +1,93 @@
+T1	Disease 57 70	breast cancer
+#1	AnnotatorNotes T1	DOID:1612
+T10	Drug 899 930	Overexpression of αvβ3 integrin
+T11	Disease 934 940	cancer
+#2	AnnotatorNotes T11	DOID:162
+T14	Biomarker 1259 1322	αvβ3 integrin is one of the downstream factors regulated by BSP
+T15	Disease 1330 1343	breast cancer
+T16	Disease 1388 1413	breast invasive carcinoma
+T18	Chemical 1503 1511	estrogen
+T19	Chemical 1527 1536	potassium
+T2	Collection 140 181	Bone sialoprotein (BSP) and αvβ3 integrin
+T20	Chemical 1601 1613	progesterone
+T21	Chemical 1637 1645	tyrosine
+T3	Disease 234 247	breast cancer
+T4	Biomarker 315 318	BSP
+T5	Disease 328 341	breast cancer
+T6	Biomarker 410 433	αvβ3 integrin decreased
+T7	Disease 567 572	tumor
+#13	AnnotatorNotes T7	DOID:162
+T8	Disease 746 759	breast cancer
+T9	Biomarker 818 837	αvβ3 integrin level
+T23	Gene-Protein 140 157	Bone sialoprotein
+#6	AnnotatorNotes T23	HGNC:5341
+T24	Gene-Protein 159 162	BSP
+#7	AnnotatorNotes T24	HGNC:5341
+T25	Gene-Protein 168 181	αvβ3 integrin
+#8	AnnotatorNotes T25	HGNC:6139
+R1	Association Arg1:T2 Arg2:T3	
+T26	Gene-Protein 315 318	BSP
+#9	AnnotatorNotes T4	D058574
+R2	Association Arg1:T4 Arg2:T5	
+T27	Gene-Protein 367 380	αvβ3 integrin
+T28	Gene-Protein 410 423	αvβ3 integrin
+T29	Gene-Protein 684 687	BSP
+T32	Gene-Protein 689 702	αvβ3 integrin
+T33	Gene-Protein 818 831	αvβ3 integrin
+T34	Biomarker 863 872	BSP level
+T35	Gene-Protein 863 866	BSP
+T36	Gene-Protein 917 930	αvβ3 integrin
+T38	Gene-Protein 1056 1069	αvβ3 integrin
+T40	Gene-Protein 1179 1183	SPP1
+#11	AnnotatorNotes T40	HGNC:11255
+T41	Gene-Protein 1185 1190	KCNK2
+#12	AnnotatorNotes T41	HGNC:6277
+T42	Gene-Protein 1196 1201	PTK2B
+#15	AnnotatorNotes T42	HGNC:9612
+T43	Gene-Protein 1259 1272	αvβ3 integrin
+T44	Gene-Protein 1319 1322	BSP
+R4	Association Arg1:T14 Arg2:T15	
+T45	GeneFamily 1383 1387	BRCA
+T46	Gene-Protein 1418 1435	bone sialoprotein
+T47	Gene-Protein 1414 1417	BSP
+T48	CellLine 1436 1440	BSPi
+T49	CellLine 1441 1476	231BO cells with IBSP gene silenced
+T17	GeneFamily 1503 1520	estrogen receptor
+T50	GeneFamily 1500 1502	ER
+T51	Gene-Protein 1521 1526	KCNK2
+T52	Gene-Protein 1527 1581	potassium two pore domain channel subfamily K member 2
+T53	Gene-Protein 1586 1597	osteopontin
+T54	Gene-Protein 1582 1585	OPN
+T55	Gene-Protein 1598 1600	PR
+T56	Gene-Protein 1601 1622	progesterone receptor
+T57	Gene-Protein 1623 1628	PTK2B
+T58	Gene-Protein 1629 1655	protein tyrosine kinase 2β
+T59	Gene-Protein 1661 1686	secreted phosphoprotein 1
+T60	Gene-Protein 1656 1660	SPP1
+T61	Biomarker 140 157	Bone sialoprotein
+#4	AnnotatorNotes T61	D058574
+T62	Biomarker 168 181	αvβ3 integrin
+#5	AnnotatorNotes T62	D039302
+T13	Biomarker 1179 1183	SPP1
+#10	AnnotatorNotes T13	C506895
+T63	Biomarker 1185 1190	KCNK2
+#14	AnnotatorNotes T63	C103742
+T64	Biomarker 1196 1201	PTK2B
+#16	AnnotatorNotes T64	C103547
+T12	CellLine 437 455	BSP silenced cells
+T22	CellLine 457 461	BSPi
+T30	CellLine 1093 1097	BSPi
+T31	CellLine 975 979	BSPi
+#3	AnnotatorNotes T10	not found
+#17	AnnotatorNotes T51	HGNC:6277
+#18	AnnotatorNotes T52	HGNC:6277
+#19	AnnotatorNotes T53	HGNC:11255
+#20	AnnotatorNotes T54	HGNC:11255
+#21	AnnotatorNotes T56	HGNC:8910
+#22	AnnotatorNotes T55	HGNC:8910
+#23	AnnotatorNotes T57	HGNC:9612
+#24	AnnotatorNotes T58	HGNC:9612
+#25	AnnotatorNotes T59	HGNC:11255
+#26	AnnotatorNotes T60	HGNC:11255
+#27	AnnotatorNotes T17	not found
+#28	AnnotatorNotes T50	not found

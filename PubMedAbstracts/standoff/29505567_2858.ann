@@ -1,0 +1,143 @@
+T1	Biomarker 38 53	genetic defects
+T11	Biomarker 1226 1241	ENPP1 mutations
+T12	Disease 1288 1331	idiopathic infantile arterial calcification
+#3	AnnotatorNotes T12	DOID:0050644
+T13	Disease 1347 1380	arterial calcification of infancy
+#4	AnnotatorNotes T13	DOID:0050644
+T14	Biomarker 1513 1550	Inactivating mutations in the SLC34A1
+T15	Chemical 1552 1558	sodium
+T16	Chemical 1569 1578	phosphate
+T17	Disease 1629 1696	autosomal recessive hypophosphatemic nephrolithiasis/osteoporosis-1
+#7	AnnotatorNotes T17	DOID:0080077
+T2	Biomarker 108 142	inactivating mutations in the PHEX
+T22	Disease 1725 1755	Fanconi renotubular syndrome-2
+#12	AnnotatorNotes T22	DOID:0080758
+T24	Biomarker 1787 1827	loss-of-function mutation in the SLC34A3
+T25	Chemical 1829 1835	sodium
+T26	Chemical 1846 1855	phosphate
+T3	Chemical 144 153	phosphate
+T30	Disease 1897 1930	hereditary HR with hypercalciuria
+#20	AnnotatorNotes T30	DOID:0050947
+T31	Disease 1932 1936	HHRH
+T32	Biomarker 1963 1979	SLC34A1 mutation
+T33	Disease 1992 2037	autosomal-recessive infantile hypercalcemia-2
+#22	AnnotatorNotes T33	C562999
+T36	Chemical 2072 2081	phosphate
+T37	Chemical 2116 2127	1,25(OH)₂D₃
+T39	Biomarker 2143 2175	inactivation mutation in CYP24A1
+T4	Disease 245 256	X-linked HR
+#28	AnnotatorNotes T4	D053098
+T42	Disease 2202 2227	infantile hypercalcemia-1
+#31	AnnotatorNotes T42	C562999
+T45	Biomarker 2446 2481	inactivating mutations in the CLCN5
+T46	Chemical 2483 2491	chloride
+T47	Disease 2537 2558	X-linked recessive HR
+#35	AnnotatorNotes T47	DOID:0080353
+T48	Disease 2560 2565	XLRHR
+T49	Disease 2624 2638	Dent disease 1
+#37	AnnotatorNotes T49	DOID:0050699
+T5	Disease 301 328	hereditary hypophosphatemia
+#38	AnnotatorNotes T5	D053098
+T50	Biomarker 2669 2701	low molecular weight proteinuria
+T51	Biomarker 2703 2717	hypercalciuria
+T52	Biomarker 2719 2735	nephrocalcinosis
+#41	AnnotatorNotes T52	D009397
+T53	Biomarker 2737 2752	nephrolithiasis
+#42	AnnotatorNotes T53	D053040
+T54	Biomarker 2758 2771	renal failure
+#43	AnnotatorNotes T54	D051437
+T7	Disease 605 626	autosomal dominant HR
+#45	AnnotatorNotes T7	DOID:0050948
+T9	Chemical 841 855	ectonucleotide
+T55	Disease 258 262	XLHR
+#2	AnnotatorNotes T55	D053098
+T56	Gene-Protein 138 142	PHEX
+#5	AnnotatorNotes T56	HGNC:8918
+T57	Gene-Protein 144 223	phosphate regulating gene with homologies to endopeptidases on the X chromosome
+#6	AnnotatorNotes T57	HGNC:8918
+R1	Risk-Factor Arg1:T2 Arg2:T4	
+T58	Disease 628 632	ADHR
+#10	AnnotatorNotes T58	DOID:0050948
+T59	Gene-Protein 551 556	FGF23
+#13	AnnotatorNotes T59	HGNC:3680
+T60	Gene-Protein 558 585	fibroblast growth factor 23
+#14	AnnotatorNotes T60	HGNC:3680
+T61	Collection 500 512	R176 or R179
+R2	Risk-Factor Arg1:T61 Arg2:T7	
+T8	Gene-Protein 774 778	DMP1
+#15	AnnotatorNotes T8	HGNC:2932
+T62	Gene-Protein 780 817	dentin matrix acidic phosphoprotein 1
+#16	AnnotatorNotes T62	HGNC:2932
+T63	Gene-Protein 834 839	ENPP1
+#19	AnnotatorNotes T63	HGNC:3356
+T64	Gene-Protein 841 891	ectonucleotide pyrophosphatase/phosphodiesterase 1
+#21	AnnotatorNotes T64	HGNC:3356
+T65	Biomarker 744 778	Inactivating mutations in the DMP1
+T66	Disease 915 944	autosomal recessive HR type 1
+#23	AnnotatorNotes T66	not found
+T67	Disease 946 951	ARHR1
+#25	AnnotatorNotes T67	not found
+T68	Disease 1011 1016	ARHR2
+#26	AnnotatorNotes T68	not found
+T69	Disease 980 1009	autosomal recessive HR type 2
+#27	AnnotatorNotes T69	not found
+R3	Association Arg1:T65 Arg2:T66	
+T70	Biomarker 841 891	ectonucleotide pyrophosphatase/phosphodiesterase 1
+#29	AnnotatorNotes T70	C065962
+R4	Association Arg1:T70 Arg2:T69	
+T71	Disease 1069 1074	ARHR1
+T72	Disease 1079 1084	ARHR2
+T73	Gene-Protein 1137 1141	DMP1
+T74	Gene-Protein 1148 1153	ENPP1
+T75	Biomarker 1137 1163	DMP1 and 8 ENPP1 mutations
+T10	Collection 1288 1380	idiopathic infantile arterial calcification or generalized arterial calcification of infancy
+R6	Association Arg1:T11 Arg2:T10	
+T77	Gene-Protein 1226 1231	ENPP1
+T78	Disease 1499 1504	ARHR2
+T18	Gene-Protein 1543 1550	SLC34A1
+#8	AnnotatorNotes T18	HGNC:11019
+T19	Gene-Protein 1552 1595	sodium-dependent phosphate cotransporter 2a
+#9	AnnotatorNotes T19	 HGNC:11019
+T21	Collection 1629 1755	autosomal recessive hypophosphatemic nephrolithiasis/osteoporosis-1 (MIM 612286) [ 15 , 16 ] or Fanconi renotubular syndrome-2
+R7	Risk-Factor Arg1:T14 Arg2:T21	
+#11	AnnotatorNotes T31	DOID:0050947
+R8	Risk-Factor Arg1:T24 Arg2:T30	
+T28	Gene-Protein 1820 1827	SLC34A3
+#17	AnnotatorNotes T28	HGNC:20305
+T29	Gene-Protein 1829 1872	sodium-dependent phosphate cotransporter 2c
+#18	AnnotatorNotes T29	HGNC:20305
+T79	Gene-Protein 1963 1970	SLC34A1
+T80	Disease 2039 2045	HCINF2
+#32	AnnotatorNotes T80	C562999
+R9	Risk-Factor Arg1:T32 Arg2:T33	
+R10	Risk-Factor Arg1:T39 Arg2:T42	
+T38	Disease 2229 2235	HCINF1
+#30	AnnotatorNotes T38	C562999
+T41	Disease 2259 2265	HCINF2
+T81	Gene-Protein 2168 2175	CYP24A1
+#33	AnnotatorNotes T81	HGNC:2602
+T82	Drug 2285 2310	phosphate supplementation
+#34	AnnotatorNotes T82	not found
+R11	Response Arg1:T82 Arg2:T41	
+T43	Gene-Protein 2353 2360	SLC34A1
+T44	Gene-Protein 2368 2375	SLC34A3
+T83	Biomarker 2353 2385	SLC34A1 and 33 SLC34A3 mutations
+T85	Gene-Protein 2476 2481	CLCN5
+#36	AnnotatorNotes T85	HGNC:2023
+T86	Gene-Protein 2483 2515	chloride voltage-gated channel 5
+#44	AnnotatorNotes T86	HGNC:2023
+#46	AnnotatorNotes T48	DOID:0080353
+T87	Gene-Protein 2809 2814	CLCN5
+T88	Biomarker 2809 2824	CLCN5 mutations
+R14	Association Arg1:T45 Arg2:T89	
+T89	Collection 2537 2638	X-linked recessive HR (XLRHR, MIM 300554) and may be part of clinical presentations in Dent disease 1
+T35	Variant 500 504	R176
+A1	Gain-of-funtion T35
+#1	AnnotatorNotes T35	p.Arg176Xaa
+T90	Variant 508 512	R179
+#24	AnnotatorNotes T90	p.Arg179Xaa
+A2	Gain-of-funtion T90
+R5	Variant-Of Arg1:T60 Arg2:T61	
+#39	AnnotatorNotes T51	D053565
+T6	Collection 2669 2771	low molecular weight proteinuria, hypercalciuria, nephrocalcinosis, nephrolithiasis, and renal failure
+R12	Association Arg1:T6 Arg2:T49	

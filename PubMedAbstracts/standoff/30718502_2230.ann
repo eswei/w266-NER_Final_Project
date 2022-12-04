@@ -1,0 +1,50 @@
+T0	Chemical 30 53	Sphingosine 1-phosphate
+T1	Chemical 55 58	S1P
+T10	Disease 1212 1217	tumor
+#3	AnnotatorNotes T10	DOID:162
+T11	Disease 1288 1293	tumor
+T12	Disease 1348 1353	tumor
+#5	AnnotatorNotes T12	DOID:162
+T13	Disease 1479 1481	BC
+T2	Chemical 302 305	S1P
+T3	Chemical 398 401	S1P
+T4	Disease 468 474	cancer
+#9	AnnotatorNotes T4	DOID:162
+T5	Chemical 541 544	S1P
+T6	Chemical 667 690	sphingosine 1-phosphate
+T9	Disease 1077 1079	BC
+T14	GeneFamily 284 315	G-protein-coupled S1P receptors
+#1	AnnotatorNotes T14	family:206
+T15	Gene-Protein 344 350	S1P1-3
+#2	AnnotatorNotes T15	HGNC:3165, HGNC:3169, HGNC:3167
+T16	Biomarker 398 401	S1P
+#7	AnnotatorNotes T16	C060506
+R1	Association Arg1:T16 Arg2:T4	
+T17	Gene-Protein 667 701	sphingosine 1-phosphate receptor 1
+#8	AnnotatorNotes T17	HGNC:3165
+T18	Gene-Protein 703 707	S1P1
+#10	AnnotatorNotes T18	HGNC:3165
+T19	Gene-Protein 724 729	S1PR1
+#11	AnnotatorNotes T19	HGNC:3165
+T7	Gene-Protein 906 910	S1P1
+T8	Disease 925 927	BC
+#12	AnnotatorNotes T8	DOID:11054
+T20	Biomarker 981 1004	tumor-infiltrated Tregs
+T21	Biomarker 906 921	S1P1 expression
+T22	Gene-Protein 1029 1033	S1P1
+T23	Biomarker 1014 1042	levels of both S1P1 and Treg
+R2	Association Arg1:T23 Arg2:T9	
+T24	Gene-Protein 1125 1129	S1P1
+T25	Disease 1139 1141	BC
+T26	GeneFamily 1226 1231	TGF-β
+#13	AnnotatorNotes T26	family:1664
+T27	Gene-Protein 1236 1241	IL-10
+#14	AnnotatorNotes T27	 HGNC:5962
+T28	Gene-Protein 1308 1312	S1P1
+T29	Disease 1383 1385	BC
+T30	Biomarker 1335 1379	induction of tumor-associated Treg expansion
+R3	Association Arg1:T30 Arg2:T29	
+T31	Biomarker 1404 1408	S1P1
+T32	Gene-Protein 1404 1408	S1P1
+R4	Association Arg1:T31 Arg2:T13	
+R5	Association Arg1:T21 Arg2:T8	

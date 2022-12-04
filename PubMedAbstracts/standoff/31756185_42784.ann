@@ -1,0 +1,47 @@
+T1	Biomarker 180 210	miR-181a, miR130a, and miR-328
+T10	Biomarker 1093 1118	dysregulation of miR-146a
+T2	Disease 291 306	prostate cancer
+#1	AnnotatorNotes T2	DOID:10283
+T3	Biomarker 312 422	expression of 130a/b, miR-181a, (downregulated in early-stage, upregulated in advance-stage, and downregulated
+T4	Disease 426 430	CRPC
+T7	Biomarker 708 750	Overexpression of ABC transporter proteins
+T8	Biomarker 842 881	miR-146a was differentially upregulated
+T9	Drug 993 1001	miR-146a
+T11	RNA-Noncoding 180 188	miR-181a
+#2	AnnotatorNotes T11	HGNC:31549
+T12	RNA-Noncoding 190 197	miR130a
+#5	AnnotatorNotes T12	HGNC:31514
+T13	RNA-Noncoding 203 210	miR-328
+#6	AnnotatorNotes T13	HGNC:31770
+T6	RNA-Noncoding 334 342	miR-181a
+T14	RNA-Noncoding 326 332	130a/b
+T15	RNA-Noncoding 538 548	miR-130a/b
+T16	RNA-Noncoding 554 562	miR-181a
+T17	RNA-Noncoding 436 443	miR-328
+#4	AnnotatorNotes T17	HGNC:31770
+T18	GeneFamily 692 696	BCRP
+T19	Gene-Protein 647 652	ABCB1
+#3	AnnotatorNotes T19	HGNC:40
+#7	AnnotatorNotes T18	HGNC:74
+T20	Gene-Protein 626 640	P-glycoprotein
+#8	AnnotatorNotes T20	HGNC:40
+T21	Gene-Protein 642 646	P-gp
+#9	AnnotatorNotes T21	HGNC:40
+T22	GeneFamily 659 690	breast cancer resistant protein
+#10	AnnotatorNotes T22	HGNC:74
+T23	GeneFamily 593 615	ABC transporter family
+#11	AnnotatorNotes T23	family:417
+T24	GeneFamily 726 750	ABC transporter proteins
+T25	RNA-Noncoding 842 850	miR-146a
+#12	AnnotatorNotes T25	HGNC:31533
+T26	Drug-Class 801 823	chemotherapeutic drugs
+T27	CellLine 885 888	PC3
+T28	RNA-Noncoding 993 1001	miR-146a
+#13	AnnotatorNotes T9	C542542
+#14	AnnotatorNotes T14	HGNC:31514,HGNC:31515
+#15	AnnotatorNotes T15	HGNC:31514,HGNC:31515
+R1	Association Arg1:T3 Arg2:T4	
+#16	AnnotatorNotes T4	DOID:0080909
+T5	Biomarker 436 473	miR-328 (upregulated in advance-stage
+R2	Association Arg1:T5 Arg2:T4	
+#17	AnnotatorNotes T24	family:417

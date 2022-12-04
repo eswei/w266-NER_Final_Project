@@ -1,0 +1,50 @@
+29888632_24962|t|RSS_IDENT_p_29888632_b_1_4_3
+29888632_24962|a| Increasing evidence has indicated that WWP1 is an underlying oncogene overexpressed in breast and prostate cancers. ¹⁵ , ¹⁸ Wang et al. ²⁷ recently revealed that WWP1-positive cells were increased in patients with prostate cancer compared with normal tissues. Furthermore, the integrated optical density value of WWP1 was markedly increased in patients with bone metastasis, compared with non-bone metastasis patients, as supported by real-time quantitative PCR, suggesting that WWP1 plays a key role in the progression and metastasis of prostate cancer. Elevated WWP1 mRNA and protein levels were also found in oral cancer patients and in six oral cancer cell lines, ¹⁷ suggesting that WWP1 also functions as an oncogene in oral cancer, and may thus may be a potential therapeutic molecular target for oral cancer. WWP1 was also shown to be overexpressed in a wide array of breast cancer cells. ¹⁶ Overall, these findings suggest that WWP1 may be a promising therapeutic molecular target in many types of tumors. We confirmed a potential role for WWP1 in CSCC by demonstrating that WWP1 expression levels were significantly increased in CSCC tissues and cells compared with normal tissues and immortalized human adult keratinocytes, as confirmed by sqRT-PCR and western blotting. In addition, high WWP1 levels were closely correlated with histological grade, invasion depth and lymph node metastasis. Notably, high WWP1 expression predicted a higher metastatic potential and poor prognosis in patients with CSCC, which differed from the results of a previous study in breast cancer patients, ¹⁶ but was consistent with a study in patients with gastric carcinoma. ¹³ These findings imply that WWP1 may represent a new biomarker for metastasis and prognosis in patients with CSCC. 
+29888632_24962	69	73	WWP1	Gene-protein	HGNC:17004
+29888632_24962	69	113	WWP1 is an underlying oncogene overexpressed	Biomarker
+29888632_24962	117	144	breast and prostate cancers	Disease	DOID:1612, DOID:10283
+29888632_24962	192	196	WWP1	Gene-protein
+29888632_24962	192	226	WWP1-positive cells were increased	Biomarker
+29888632_24962	244	259	prostate cancer	Disease	DOID:10283
+29888632_24962	307	370	integrated optical density value of WWP1 was markedly increased	Biomarker
+29888632_24962	343	347	WWP1	Gene-protein
+29888632_24962	388	403	bone metastasis	Disease	DOID:184
+29888632_24962	509	513	WWP1	Gene-protein
+29888632_24962	509	513	WWP1	Biomarker	C471642
+29888632_24962	568	583	prostate cancer	Disease
+29888632_24962	585	622	Elevated WWP1 mRNA and protein levels	Biomarker
+29888632_24962	594	598	WWP1	Gene-protein
+29888632_24962	642	653	oral cancer	Disease	DOID:8618
+29888632_24962	674	685	oral cancer	Disease
+29888632_24962	717	721	WWP1	Gene-protein
+29888632_24962	717	721	WWP1	Biomarker
+29888632_24962	755	766	oral cancer	Disease
+29888632_24962	833	844	oral cancer	Disease
+29888632_24962	846	850	WWP1	Gene-protein
+29888632_24962	846	885	WWP1 was also shown to be overexpressed	Biomarker
+29888632_24962	905	918	breast cancer	Disease	DOID:1612
+29888632_24962	966	970	WWP1	Gene-protein
+29888632_24962	966	970	WWP1	Biomarker
+29888632_24962	1036	1042	tumors	Disease	DOID:162
+29888632_24962	1078	1082	WWP1	Gene-protein
+29888632_24962	1078	1082	WWP1	Biomarker
+29888632_24962	1086	1090	CSCC	Disease	not found
+29888632_24962	1113	1117	WWP1	Gene-protein
+29888632_24962	1113	1164	WWP1 expression levels were significantly increased	Biomarker
+29888632_24962	1168	1172	CSCC	Disease
+29888632_24962	1324	1340	high WWP1 levels	Biomarker
+29888632_24962	1329	1333	WWP1	Gene-protein
+29888632_24962	1370	1388	histological grade	Biomarker
+29888632_24962	1390	1404	invasion depth	Biomarker
+29888632_24962	1409	1430	lymph node metastasis	Biomarker	D008207
+29888632_24962	1441	1461	high WWP1 expression	Biomarker
+29888632_24962	1446	1450	WWP1	Gene-protein
+29888632_24962	1538	1542	CSCC	Disease	DOID:3151
+29888632_24962	1599	1612	breast cancer	Disease
+29888632_24962	1675	1692	gastric carcinoma	Disease	DOID:5517
+29888632_24962	1723	1727	WWP1	Gene-protein
+29888632_24962	1723	1727	WWP1	Biomarker
+29888632_24962	1762	1772	metastasis	Disease	DOID:162
+29888632_24962	1762	1808	metastasis and prognosis in patients with CSCC	Collection
+29888632_24962	1804	1808	CSCC	Disease
+

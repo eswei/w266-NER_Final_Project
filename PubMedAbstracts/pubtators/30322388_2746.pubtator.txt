@@ -1,0 +1,56 @@
+30322388_2746|t|RSS_IDENT_p_30322388_b_1_2_3
+30322388_2746|a| Hepatic lipase (LIPC), a member of the lipase family, is located on the long arm of chromosome 15 (15 q21) and has a total length of 35 kb, comprising nine exons and eight introns [ 7 – 10 ]. LIPC encodes hepatic triglyceride lipase, which is an extracellular protein synthesized by liver parenchyma cells and plays a critical role in lipoprotein metabolism. Hepatic lipase serves an important role inremodeling of low-density liporprotein, high-density lipoprotein, remnant, and the production of small, dense low density lipoprotein [ 11 ]. A previous study reported that the lipids and lipoprotein concentrations in blood serum are significantly correlated with primary hypertension and hyperhomocysteinemia [ 12 ]. Additionally, the triglycerides and the triglyceride to high-density liproprotein cholesterol ratio are strongly correlated with the incidence hypertension in Middle Eastern women [ 13 ]. These findings indicate that disruptions of hepatic lipase is a risk factor for hypertension. The -514C/T (rs1800588) and -250G/A (rs2070895) single nucleotide polymorphisms (SNPs) are two common variants in the promoter region of LIPC and both present obvious chain imbalance [ 7 , 8 ]. LIPC mutation may be related to the occurrence of a variety of diseases. The -514 T allele of LIPC is associated with the occurrence of insulin resistance syndrome and type 2 diabetes [ 14 ]. The LIPC-250G/A loci polymorphism is related to insulin resistance and dyslipidemia [ 15 ]. Recent studies showed that mutations in the liver lipase gene are associated with coronary heart disease and cerebral infarction [ 16 , 17 ]. The relationships between LIPC polymorphisms and metabolic diseases have been widely examined. 
+30322388_2746	30	44	Hepatic lipase	Gene-protein	HGNC:6619
+30322388_2746	46	50	LIPC	Gene-protein	HGNC:6619
+30322388_2746	69	75	lipase	Genefamily	family:464
+30322388_2746	222	226	LIPC	Gene-protein
+30322388_2746	235	262	hepatic triglyceride lipase	Gene-protein	HGNC:6619
+30322388_2746	243	255	triglyceride	Chemical
+30322388_2746	389	403	Hepatic lipase	Gene-protein
+30322388_2746	445	469	low-density liporprotein	Chemical
+30322388_2746	471	495	high-density lipoprotein	Chemical
+30322388_2746	541	564	low density lipoprotein	Chemical
+30322388_2746	608	660	lipids and lipoprotein concentrations in blood serum	Biomarker
+30322388_2746	703	715	hypertension	Disease	DOID:10763
+30322388_2746	703	740	hypertension and hyperhomocysteinemia	Collection
+30322388_2746	720	740	hyperhomocysteinemia	Disease	DOID:9279
+30322388_2746	767	780	triglycerides	Chemical
+30322388_2746	767	780	triglycerides	Biomarker	D014280
+30322388_2746	767	848	triglycerides and the triglyceride to high-density liproprotein cholesterol ratio	Collection
+30322388_2746	789	801	triglyceride	Chemical
+30322388_2746	789	848	triglyceride to high-density liproprotein cholesterol ratio	Biomarker
+30322388_2746	805	842	high-density liproprotein cholesterol	Chemical
+30322388_2746	892	904	hypertension	Disease
+30322388_2746	966	995	disruptions of hepatic lipase	Biomarker
+30322388_2746	981	995	hepatic lipase	Gene-protein
+30322388_2746	1017	1029	hypertension	Disease
+30322388_2746	1035	1042	-514C/T	Variant
+30322388_2746	1035	1078	-514C/T (rs1800588) and -250G/A (rs2070895)	Collection
+30322388_2746	1044	1053	rs1800588	Variant
+30322388_2746	1059	1066	-250G/A	Variant
+30322388_2746	1068	1077	rs2070895	Variant
+30322388_2746	1168	1172	LIPC	Gene-protein
+30322388_2746	1225	1229	LIPC	Gene-protein
+30322388_2746	1225	1238	LIPC mutation	Biomarker
+30322388_2746	1288	1296	diseases	Disease	DOID:4
+30322388_2746	1302	1323	-514 T allele of LIPC	Biomarker
+30322388_2746	1319	1323	LIPC	Gene-protein
+30322388_2746	1361	1368	insulin	Gene-protein	HGNC:6081
+30322388_2746	1361	1388	insulin resistance syndrome	Disease	D007333
+30322388_2746	1361	1408	insulin resistance syndrome and type 2 diabetes	Collection
+30322388_2746	1393	1408	type 2 diabetes	Disease	DOID:9352
+30322388_2746	1421	1425	LIPC	Gene-protein
+30322388_2746	1421	1450	LIPC-250G/A loci polymorphism	Biomarker
+30322388_2746	1465	1472	insulin	Gene-protein
+30322388_2746	1465	1483	insulin resistance	Disease	D007333
+30322388_2746	1465	1500	insulin resistance and dyslipidemia	Collection
+30322388_2746	1488	1500	dyslipidemia	Disease	DOID:3146
+30322388_2746	1536	1565	mutations in the liver lipase	Biomarker
+30322388_2746	1553	1565	liver lipase	Gene-protein	HGNC:6619
+30322388_2746	1591	1613	coronary heart disease	Disease	DOID:3393
+30322388_2746	1591	1637	coronary heart disease and cerebral infarction	Collection
+30322388_2746	1618	1637	cerebral infarction	Disease	DOID:3526
+30322388_2746	1677	1681	LIPC	Gene-protein
+30322388_2746	1677	1695	LIPC polymorphisms	Biomarker
+30322388_2746	1700	1718	metabolic diseases	Disease	D008659
+

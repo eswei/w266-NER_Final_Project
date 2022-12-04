@@ -1,0 +1,48 @@
+29867125_39928|t|RSS_IDENT_p_29867125_b_1_4_9
+29867125_39928|a| In this study, we present interesting correlations between miR-143/miR-145 and steroid hormone receptors expressed in the NSCLC tissue. The finding of gender specific survival significance of miR-143 and miR-145, forces us to consider sex hormones as a relevant factor. Delfino et al. ⁴⁰ reported a gender-specific miRNA targeting of molecules related to glioblastoma survival. Further, Duttagupta et al. ⁴¹ reported differential miRNA expression levels in a gender specific manner. Mounting evidence confirms activation of hormone receptors to be of outmost importance in lung cancer pathogenesis and several interesting cross-talk pathways between steroid hormones and miR-143/miR-145 have been found ⁴² – ⁴⁶ . Both miRNAs play a critical role in ovarian functioning, and a recent report presents miR-143 affecting estradiol production in granulosa cells by targeting KRAS ⁴⁷ , ⁴⁸ . Further, Spizzo et al., 2011 reported that miR-145 downregulates ERα expression in breast cancer ¹¹ . We found correlations between miR-143/miR-145 and AR, the rate limiting enzyme in estradiol production, suggesting the miRs may interact with regional estradiol production and ER signaling in the lung, as observed in breast tissue. In 2012, Paris et al. presented a study on estrogen effects in breast cancer, showing a direct regulation of miRNA expression and ERβ signaling ⁴⁹ . Herein, ERβ expression correlated with miR-143/miR-145 expression, suggesting a similar link may exist in NSCLC. The aforementioned reports, assembled with our findings, provide a compelling rationale for a biological cross-talk between miR-143/miR-145 and hormone receptors. If validated in larger, confirmatory studies, this may in fact represent new possibilities for targeted therapy for NSCLC patients, using gender, miRNA and hormone receptor expression as therapy selection criteria. 
+29867125_39928	89	96	miR-143	Rna-noncoding	HGNC:31530
+29867125_39928	89	96	miR-143	Biomarker	C542359
+29867125_39928	97	104	miR-145	Rna-noncoding	 HGNC:31532
+29867125_39928	97	104	miR-145	Biomarker	C541010
+29867125_39928	109	116	steroid	Chemical
+29867125_39928	109	134	steroid hormone receptors	Genefamily	not found
+29867125_39928	109	134	steroid hormone receptors	Biomarker	D011987
+29867125_39928	152	157	NSCLC	Disease	DOID:3908
+29867125_39928	222	229	miR-143	Rna-noncoding
+29867125_39928	234	241	miR-145	Rna-noncoding
+29867125_39928	265	277	sex hormones	Chemical
+29867125_39928	385	397	glioblastoma	Disease	DOID:3073
+29867125_39928	540	571	activation of hormone receptors	Biomarker
+29867125_39928	603	614	lung cancer	Disease	DOID:1324
+29867125_39928	680	696	steroid hormones	Chemical
+29867125_39928	701	708	miR-143	Rna-noncoding
+29867125_39928	709	716	miR-145	Rna-noncoding
+29867125_39928	829	836	miR-143	Rna-noncoding
+29867125_39928	847	856	estradiol	Chemical
+29867125_39928	900	904	KRAS	Gene-protein	HGNC:6407
+29867125_39928	958	965	miR-145	Rna-noncoding
+29867125_39928	980	983	ERα	Gene-protein	HGNC:3467
+29867125_39928	998	1011	breast cancer	Disease	DOID:1612
+29867125_39928	1047	1054	miR-143	Rna-noncoding
+29867125_39928	1055	1062	miR-145	Rna-noncoding
+29867125_39928	1067	1069	AR	Gene-protein	HGNC:644
+29867125_39928	1099	1108	estradiol	Chemical
+29867125_39928	1168	1177	estradiol	Chemical
+29867125_39928	1193	1195	ER	Genefamily	not found
+29867125_39928	1292	1300	estrogen	Chemical
+29867125_39928	1312	1325	breast cancer	Disease
+29867125_39928	1379	1382	ERβ	Gene-protein	HGNC:3468
+29867125_39928	1406	1409	ERβ	Gene-protein
+29867125_39928	1437	1444	miR-143	Rna-noncoding
+29867125_39928	1445	1452	miR-145	Rna-noncoding
+29867125_39928	1504	1509	NSCLC	Disease
+29867125_39928	1635	1642	miR-143	Rna-noncoding
+29867125_39928	1643	1650	miR-145	Rna-noncoding
+29867125_39928	1655	1672	hormone receptors	Genefamily	not found
+29867125_39928	1790	1795	NSCLC	Disease
+29867125_39928	1812	1818	gender	Biomarker
+29867125_39928	1812	1857	gender, miRNA and hormone receptor expression	Collection
+29867125_39928	1820	1825	miRNA	Biomarker
+29867125_39928	1830	1846	hormone receptor	Genefamily
+29867125_39928	1830	1857	hormone receptor expression	Biomarker
+

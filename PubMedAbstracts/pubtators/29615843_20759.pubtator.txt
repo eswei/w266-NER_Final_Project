@@ -1,0 +1,40 @@
+29615843_20759|t|RSS_IDENT_p_29615843_b_1_4_5
+29615843_20759|a| Ho et al claimed that ZWINT was upregulated during bladder cancer pathogenesis in the FGFR3-non-mutated tumor pathway. 11 Incidence of thanatophoric dysplasia mutations in FGFR3 gene was significantly higher in low-grade or superficial tumors than high-grade or muscle-invasive tumors. 25 In this study, we found by GEO31210 analysis that the expression level of gene ZWINT was higher in the EGFR-non-mutated group than in the EGFR-mutated group. Lung ADC with EGFR-activating mutations responded well to gefitinib. 26 For the EGFR-non-mutated lung cancer patients, high expression of ZWINT may be a potential therapeutic target. Endo et al found that the growth rate of breast cancer MCF7 cells was significantly increased by stable expression of ZWINT. 7 Moreover, aromatase inhibitor treatment of breast cancer is associated with changes in the expression of ZWINT. 8 The study demonstrated that the expression of ZWINT was increased in castration-resistant prostate containing AR gene amplification with high AR expression, 9 and COX-2 inhibitors arrested prostate cancer cell cycle progression by down-regulation of kinetochore/centromere ZWINT proteins. 10 
+29615843_20759	52	57	ZWINT	Gene-protein	HGNC:13195
+29615843_20759	52	73	ZWINT was upregulated	Biomarker
+29615843_20759	81	95	bladder cancer	Disease	DOID:11054
+29615843_20759	116	121	FGFR3	Gene-protein	HGNC:3690
+29615843_20759	134	139	tumor	Disease	DOID:162
+29615843_20759	165	188	thanatophoric dysplasia	Disease	DOID:13481
+29615843_20759	189	237	mutations in FGFR3 gene was significantly higher	Biomarker
+29615843_20759	202	207	FGFR3	Gene-protein
+29615843_20759	241	272	low-grade or superficial tumors	Disease	not found
+29615843_20759	278	314	high-grade or muscle-invasive tumors	Disease	not found
+29615843_20759	398	403	ZWINT	Gene-protein
+29615843_20759	398	414	ZWINT was higher	Biomarker
+29615843_20759	422	426	EGFR	Gene-protein	HGNC:3236
+29615843_20759	457	461	EGFR	Gene-protein
+29615843_20759	477	516	Lung ADC with EGFR-activating mutations	Disease	not found
+29615843_20759	491	495	EGFR	Gene-protein
+29615843_20759	535	544	gefitinib	Drug	CHEMBL939
+29615843_20759	557	561	EGFR	Gene-protein
+29615843_20759	557	585	EGFR-non-mutated lung cancer	Disease	not found
+29615843_20759	596	620	high expression of ZWINT	Biomarker
+29615843_20759	615	620	ZWINT	Gene-protein
+29615843_20759	701	714	breast cancer	Disease	DOID:1612
+29615843_20759	715	719	MCF7	Cellline
+29615843_20759	757	783	stable expression of ZWINT	Biomarker
+29615843_20759	778	783	ZWINT	Gene-protein
+29615843_20759	797	806	aromatase	Gene-protein	HGNC:2594
+29615843_20759	798	816	romatase inhibitor	Drug-class
+29615843_20759	830	843	breast cancer	Disease
+29615843_20759	892	897	ZWINT	Gene-protein
+29615843_20759	933	966	expression of ZWINT was increased	Biomarker
+29615843_20759	933	1056	expression of ZWINT was increased in castration-resistant prostate containing AR gene amplification with high AR expression	Collection
+29615843_20759	947	952	ZWINT	Gene-protein
+29615843_20759	1011	1056	AR gene amplification with high AR expression	Biomarker
+29615843_20759	1064	1069	COX-2	Gene-protein	HGNC:9605
+29615843_20759	1064	1080	COX-2 inhibitors	Drug-class
+29615843_20759	1090	1105	prostate cancer	Disease	DOID:10283
+29615843_20759	1174	1179	ZWINT	Gene-protein
+

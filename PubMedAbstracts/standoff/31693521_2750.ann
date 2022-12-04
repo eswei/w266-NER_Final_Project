@@ -1,0 +1,58 @@
+T0	Disease 47 52	MELAS
+#1	AnnotatorNotes T0	DOID:3687
+T1	Biomarker 72 95	endothelial dysfunction
+T10	Chemical 330 332	NO
+T12	Chemical 389 391	NO
+T14	Chemical 481 498	dimethyl-arginine
+T15	Chemical 500 504	ADMA
+T16	Disease 524 548	ischemic heart disorders
+#7	AnnotatorNotes T16	D017202
+T18	Disease 592 597	MELAS
+T19	Chemical 660 662	NO
+T21	Chemical 702 704	NO
+T22	Disease 738 741	SLE
+#11	AnnotatorNotes T22	not found
+T24	Chemical 752 754	NO
+T25	Disease 801 806	MELAS
+T26	Chemical 886 888	NO
+T27	Disease 943 974	segmental vasodilatation defect
+#15	AnnotatorNotes T27	not found
+T29	Biomarker 1119 1167	endothelial dysfunction because of NO deficiency
+T31	Chemical 1154 1156	NO
+T34	Disease 1203 1206	SLE
+T36	Chemical 1253 1263	l-arginine
+T37	Chemical 1283 1285	NO
+T38	Disease 1313 1318	MELAS
+T39	Drug 1396 1406	l-arginine
+T4	Disease 222 227	MELAS
+T40	Disease 1410 1413	SLE
+T7	Chemical 287 291	NADH
+T8	Chemical 292 296	NAD⁺
+T9	Chemical 316 328	nitric oxide
+R1	Association Arg1:T1 Arg2:T0	
+T2	Biomarker 233 278	defective respiratory chain enzyme activities
+R2	Association Arg1:T2 Arg2:T4	
+T3	Biomarker 282 302	high NADH/NAD⁺ ratio
+T5	GeneFamily 316 344	nitric oxide (NO) synthetase
+#2	AnnotatorNotes T5	not found
+T6	Biomarker 365 391	decreased production of NO
+T11	Biomarker 468 498	asymmetrical dimethyl-arginine
+R3	Risk-Factor Arg1:T11 Arg2:T16	
+R4	Association Arg1:T11 Arg2:T18	
+T13	Gene-Protein 648 673	endothelial NO synthetase
+#3	AnnotatorNotes T13	HGNC:7876
+T17	Biomarker 692 730	decreased NO metabolite concentrations
+R5	Association Arg1:T17 Arg2:T22	
+T20	Biomarker 746 769	lower NO synthesis rate
+R6	Association Arg1:T20 Arg2:T25	
+T23	GeneFamily 833 853	cytochrome c oxidase
+#4	AnnotatorNotes T23	family:643
+T30	GeneFamily 855 858	COX
+#5	AnnotatorNotes T30	family:643
+T33	Biomarker 821 853	hyperactive cytochrome c oxidase
+R7	Association Arg1:T33 Arg2:T27	
+R8	Association Arg1:T29 Arg2:T34	
+T28	Biomarker 1225 1263	Low plasma concentration of l-arginine
+R9	Association Arg1:T28 Arg2:T38	
+#6	AnnotatorNotes T39	CHEMBL1485
+R10	Response Arg1:T39 Arg2:T40	

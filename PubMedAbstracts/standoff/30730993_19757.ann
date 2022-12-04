@@ -1,0 +1,78 @@
+T1	Disease 94 108	cardiac injury
+#1	AnnotatorNotes T1	D006335
+T10	Disease 529 532	PIH
+T12	Disease 538 559	hypertensive disorder
+#3	AnnotatorNotes T12	DOID:10763
+T14	Disease 595 607	preeclampsia
+#4	AnnotatorNotes T14	DOID:10591
+T15	Disease 632 644	preeclampsia
+T16	Disease 646 669	placental hypoperfusion
+#6	AnnotatorNotes T16	not found
+T18	Biomarker 680 741	abnormalities in the development of the placental vasculature
+T2	Disease 136 153	myocardial injury
+#8	AnnotatorNotes T2	not found
+T22	Disease 958 970	preeclampsia
+T23	Disease 1012 1029	myocardial injury
+T25	Biomarker 1037 1063	microcirculatory disorders
+T26	Biomarker 1079 1093	hypertension’s
+#12	AnnotatorNotes T26	D006973
+T28	Disease 1181 1258	cardiovascular disease during postpartum follow-up in pregnant woman with PIH
+#13	AnnotatorNotes T28	DOID:1287, D046110
+T3	Disease 349 382	myocardial injury during delivery
+T30	Disease 1307 1326	placental abruption
+T34	Disease 1406 1410	PPCM
+T36	Biomarker 1438 1453	placenta previa
+#18	AnnotatorNotes T36	D010923
+T4	Disease 406 409	PIH
+T40	Disease 1522 1528	anemia
+#20	AnnotatorNotes T40	DOID:2355
+T44	Disease 1652 1674	temporal hypoperfusion
+#21	AnnotatorNotes T44	not found
+T46	Disease 1690 1707	myocardial injury
+T47	Disease 1783 1812	subclinical myocardial injury
+#24	AnnotatorNotes T47	not found
+T48	Biomarker 1857 1910	PIH, placental abnormality, and anemia after delivery
+T6	Biomarker 411 432	placental abnormality
+T5	GeneFamily 44 52	troponin
+#2	AnnotatorNotes T5	family:1219
+T7	Biomarker 30 52	Serum cardiac troponin
+T8	Collection 94 153	cardiac injury that can detect even minor myocardial injury
+R1	Diagnostic-of Arg1:T7 Arg2:T8	
+T9	Gene-Protein 170 178	troponin
+T11	GeneFamily 314 318	cTnI
+#14	AnnotatorNotes T11	not found
+T13	Biomarker 305 333	elevated cTnI after delivery
+R2	Association Arg1:T13 Arg2:T3	
+#15	AnnotatorNotes T4	D046110
+T17	Biomarker 438 473	decreased hemoglobin after delivery
+T19	GeneFamily 448 458	hemoglobin
+#17	AnnotatorNotes T19	family:940
+T20	Biomarker 507 527	elevated cTnI levels
+T21	GeneFamily 516 520	cTnI
+R4	Association Arg1:T18 Arg2:T16	
+T31	Gene-Protein 922 936	angiotensin II
+#5	AnnotatorNotes T31	HGNC:333
+T32	Biomarker 897 936	increased sensitivity to angiotensin II
+#7	AnnotatorNotes T32	D000804
+R5	Association Arg1:T32 Arg2:T22	
+T33	Collection 1037 1101	microcirculatory disorders in addition to hypertension’s effects
+R6	Association Arg1:T33 Arg2:T23	
+T35	Biomarker 1138 1158	elevated cTnI levels
+A1	Conjunction T28
+R7	Risk-Factor Arg1:T35 Arg2:T28	
+T29	Gene-Protein 1147 1151	cTnI
+T37	Biomarker 1331 1343	advanced age
+T38	Biomarker 1345 1363	multiple gestation
+T39	Biomarker 1369 1372	PIH
+#9	AnnotatorNotes T39	D046110
+T41	Collection 1331 1372	advanced age, multiple gestation, and PIH
+R8	Risk-Factor Arg1:T41 Arg2:T30	
+R9	Risk-Factor Arg1:T41 Arg2:T34	
+#10	AnnotatorNotes T30	DOID:9667
+#11	AnnotatorNotes T34	DOID:9997
+R10	Association Arg1:T36 Arg2:T40	
+T42	Collection 1652 1707	temporal hypoperfusion and subsequent myocardial injury
+T43	Biomarker 1596 1637	increased blood pressure during pregnancy
+R11	Association Arg1:T43 Arg2:T42	
+#16	AnnotatorNotes T3	not found
+R12	Association Arg1:T48 Arg2:T47	

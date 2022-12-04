@@ -1,0 +1,36 @@
+29497314_2563|t|RSS_IDENT_p_29497314_b_1_1_3
+29497314_2563|a| MicroRNAs (miRNAs) are endogenous short-chain noncoding RNAs (20–24 nucleotides) that regulate gene function by direct binding of target mRNAs and then participating in multiple biological aspects of cancer progression, such as cell proliferation, cell invasion, cell migration, and cell angiogenesis. 9 , 10 MiRNAs have emerged as novel biomarkers for diagnosis and potential therapeutic targets for therapy of human cancers, 11 , 12 including WT. 13 – 17 MiRNAs control gene expression either by degradation of target mRNAs or posttranscriptional repression through targeting the 3′-untranslated region (3′-UTR) in a sequence-specific manner. 10 , 18 It is reported that miR-483-5p could predict an adverse prognosis in WT. 19 MiR-204 20 and miR-185 21 were also found to be significantly decreased in WT. These reports demonstrate that miRNAs play important roles in the cancer progression of WT. MiR-1180 was confirmed to be upregulated in hepatocellular carcinoma (HCC) clinical tissues and cell lines. 22 It is reported that miR-1180 promoted apoptotic resistance to human HCC via activation of NF-κB signaling pathway. 23 However, the functional role of miR-1180 in WT remains unknown. 
+29497314_2563	30	39	MicroRNAs	Rna-noncoding	family :476
+29497314_2563	30	39	MicroRNAs	Biomarker	D035683
+29497314_2563	41	47	miRNAs	Rna-noncoding	family:476
+29497314_2563	98	109	nucleotides	Chemical
+29497314_2563	230	236	cancer	Disease	DOID:162
+29497314_2563	339	345	MiRNAs	Rna-noncoding
+29497314_2563	339	345	MiRNAs	Biomarker	D035683
+29497314_2563	448	455	cancers	Disease	DOID:162
+29497314_2563	448	477	cancers, 11 , 12 including WT	Collection
+29497314_2563	475	477	WT	Disease	DOID:5183
+29497314_2563	487	493	MiRNAs	Rna-noncoding
+29497314_2563	703	713	miR-483-5p	Rna-noncoding	HGNC:32340
+29497314_2563	703	713	miR-483-5p	Biomarker	C548912
+29497314_2563	752	754	WT	Disease
+29497314_2563	759	769	MiR-204 20	Rna-noncoding
+29497314_2563	759	830	MiR-204 20 and miR-185 21 were also found to be significantly decreased	Biomarker
+29497314_2563	774	784	miR-185 21	Rna-noncoding
+29497314_2563	834	836	WT	Disease
+29497314_2563	869	875	miRNAs	Rna-noncoding
+29497314_2563	869	875	miRNAs	Biomarker	D035683
+29497314_2563	904	910	cancer	Disease
+29497314_2563	904	928	cancer progression of WT	Collection
+29497314_2563	926	928	WT	Disease
+29497314_2563	930	938	MiR-1180	Rna-noncoding
+29497314_2563	930	970	MiR-1180 was confirmed to be upregulated	Biomarker
+29497314_2563	974	998	hepatocellular carcinoma	Disease	DOID:684
+29497314_2563	1000	1003	HCC	Disease	DOID:684
+29497314_2563	1061	1069	miR-1180	Rna-noncoding
+29497314_2563	1061	1069	miR-1180	Drug	C000613368
+29497314_2563	1109	1112	HCC	Disease
+29497314_2563	1131	1136	NF-κB	Genefamily	family:1254
+29497314_2563	1191	1199	miR-1180	Rna-noncoding
+29497314_2563	1203	1205	WT	Disease
+

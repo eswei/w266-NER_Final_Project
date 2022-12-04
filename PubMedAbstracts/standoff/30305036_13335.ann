@@ -1,0 +1,64 @@
+T0	Biomarker 42 56	AA amyloidosis
+T1	Disease 70 89	sickle cell disease
+#2	AnnotatorNotes T1	DOID:10923
+T10	Biomarker 401 420	Sickle cell disease
+#3	AnnotatorNotes T10	D000755
+T11	Disease 431 470	chronic kidney disease with proteinuria
+#4	AnnotatorNotes T11	not found
+T16	Disease 557 594	AA amyloidosis in sickle cell disease
+T2	Biomarker 227 241	AA amyloidosis
+T20	Biomarker 612 642	frequent vaso-occlusive crises
+T21	Disease 699 738	sickle cell disease with AA amyloidosis
+#10	AnnotatorNotes T21	 DOID:10923, not found
+T25	Drug 766 777	hydroxyurea
+T26	Disease 787 798	proteinuria
+T27	Disease 832 854	chronic kidney disease
+#14	AnnotatorNotes T27	DOID:784
+T28	Drug 866 877	Hydroxyurea
+T30	Disease 978 998	renal AA amyloidosis
+#17	AnnotatorNotes T30	not found
+T32	Disease 1082 1119	AA amyloidosis in sickle cell disease
+T4	Disease 256 290	proteinuria in sickle cell disease
+#25	AnnotatorNotes T4	DOID:576, DOID:10923
+T6	Biomarker 292 319	Nephrotic-range proteinuria
+#30	AnnotatorNotes T6	not found
+T8	Disease 335 354	sickle cell disease
+R1	Association Arg1:T0 Arg2:T1	
+A1	Conjunction T4
+R2	Association Arg1:T2 Arg2:T4	
+T3	Disease 540 549	mortality
+#1	AnnotatorNotes T3	D009026
+R4	Association Arg1:T10 Arg2:T15	
+#5	AnnotatorNotes T16	not found, DOID:10923
+A2	Conjunction T16
+R5	Association Arg1:T20 Arg2:T16	
+T5	Drug 747 761	ACE inhibition
+#6	AnnotatorNotes T5	not found
+#7	AnnotatorNotes T25	CHEMBL467
+T7	Collection 787 854	proteinuria so they may limit progression of chronic kidney disease
+T12	Collection 747 777	ACE inhibition and hydroxyurea
+R6	Response Arg1:T12 Arg2:T7	
+R7	Response Arg1:T28 Arg2:T30	
+A3	Conjunction T32
+R8	Association Arg1:T6 Arg2:T8	
+T9	Biomarker 472 506	reduced glomerular filtration rate
+T15	Collection 431 549	chronic kidney disease with proteinuria, reduced glomerular filtration rate and is associated with increased mortality
+A4	Conjunction T21
+T53	Biomarker 901 920	vaso-occlusive pain
+T58	Disease 1256 1259	SCD
+T59	Disease 1280 1283	SLE
+T60	Gene-Protein 747 750	ACE
+T61	Gene-Protein 1139 1146	Albumin
+T41	Chemical 1150 1160	creatinine
+#8	AnnotatorNotes T28	CHEMBL467
+#9	AnnotatorNotes T26	DOID:576
+#11	AnnotatorNotes T60	HGNC:2707
+#12	AnnotatorNotes T61	HGNC:399
+T13	Disease 1167 1170	CKD
+#13	AnnotatorNotes T13	DOID:784
+#15	AnnotatorNotes T58	DOID:10923
+T14	Disease 1260 1279	Sickle cell disease
+#16	AnnotatorNotes T14	DOID:10923
+T17	Disease 1284 1312	Systemic lupus erythematosus
+#18	AnnotatorNotes T17	DOID:9074
+#19	AnnotatorNotes T59	DOID:9074

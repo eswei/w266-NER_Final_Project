@@ -1,0 +1,40 @@
+30679629_23442|t|RSS_IDENT_p_30679629_b_1_3_8
+30679629_23442|a| In this study, c-myc was correlated with lymph node metastasis only in Uygur GC patients and not in Han GC patients. This may have been due to the different genetic backgrounds in different ethnic groups. The molecular mechanism of lymph node involvement and metastasis maybe different in these two ethnic groups. PVT1 was reported to regulate some molecules to promote involvement and migration. PVT1 can promote EMT and migration by down regulating p21 in pancreatic cancer cells ⁴⁴ . EMT in cancer cells leads to the acquisition of invasive and metastatic properties. In prostate cancer, PVT1 can act as a sponge for miRNA-186-5p and positively regulates Twist1 to promote EMT ⁴⁵ . PVT1 also decreases miR-195 expression by enhancing histone H3K27me3 and by direct sponging of miR-195 to modulate EMT in cervical cancer cells ⁴⁶ . In gastric cancer cells, whether PVT1 is related to these molecules and its functions are undefined. PVT1 also encodes a wide variety of non-coding RNAs, including a cluster of six annotated microRNAs: miR-1204, miR-1205, miR-1206, miR-1207-5p, miR-1207-3p, and miR-1208. miR-1204 targets VDR to promote EMT and metastasis in breast cancer ⁴⁷ . The molecular functions and effects of PVT1 in GC require further investigation. Further studies of these transcripts may provide novel insights into the functions of PVT1 in lymph node involvement. 
+30679629_23442	45	50	c-myc	Gene-protein	HGNC:7553
+30679629_23442	45	50	c-myc	Biomarker	D016271
+30679629_23442	71	92	lymph node metastasis	Biomarker
+30679629_23442	107	109	GC	Disease	DOID:10534
+30679629_23442	134	136	GC	Disease
+30679629_23442	344	348	PVT1	Rna-noncoding	HGNC:9709
+30679629_23442	427	431	PVT1	Rna-noncoding
+30679629_23442	427	431	PVT1	Biomarker	C521123
+30679629_23442	481	484	p21	Gene-protein	HGNC:1784
+30679629_23442	488	505	pancreatic cancer	Disease	DOID:1793
+30679629_23442	524	530	cancer	Disease	DOID:162
+30679629_23442	604	619	prostate cancer	Disease	DOID:10283
+30679629_23442	621	625	PVT1	Rna-noncoding
+30679629_23442	621	625	PVT1	Biomarker
+30679629_23442	650	662	miRNA-186-5p	Rna-noncoding	HGNC:31557
+30679629_23442	688	694	Twist1	Gene-protein	HGNC:12428
+30679629_23442	715	719	PVT1	Rna-noncoding
+30679629_23442	715	719	PVT1	Biomarker
+30679629_23442	735	742	miR-195	Rna-noncoding	HGNC:31566
+30679629_23442	810	817	miR-195	Rna-noncoding
+30679629_23442	837	852	cervical cancer	Disease	DOID:4362
+30679629_23442	867	881	gastric cancer	Disease	DOID:10534
+30679629_23442	897	900	PVT	Rna-noncoding
+30679629_23442	965	969	PVT1	Rna-noncoding
+30679629_23442	1066	1074	miR-1204	Rna-noncoding	HGNC:37059
+30679629_23442	1076	1084	miR-1205	Rna-noncoding	HGNC:35271
+30679629_23442	1086	1094	miR-1206	Rna-noncoding	HGNC:35272
+30679629_23442	1096	1107	miR-1207-5p	Rna-noncoding	HGNC:35273
+30679629_23442	1109	1120	miR-1207-3p	Rna-noncoding	HGNC:35273
+30679629_23442	1126	1134	miR-1208	Rna-noncoding	HGNC:35274
+30679629_23442	1136	1144	miR-1204	Biomarker	C000603050
+30679629_23442	1136	1144	miR-1204	Rna-noncoding
+30679629_23442	1153	1156	VDR	Gene-protein	HGNC:12679
+30679629_23442	1190	1203	breast cancer	Disease	DOID:1612
+30679629_23442	1248	1252	PVT1	Rna-noncoding
+30679629_23442	1256	1258	GC	Disease
+30679629_23442	1376	1380	PVT1	Rna-noncoding
+

@@ -1,0 +1,39 @@
+29948307_26531|t|RSS_IDENT_p_29948307_b_1_4_3
+29948307_26531|a| In a subgroup of patients whose follow-up data were available, we attempted to investigate the association of uEGF/Cr with progression of Alport syndrome. Due to small sample size and relatively short follow-up time, we defined “progression” as CKD stage advanced. This definition has been applied in multiple studies by independent groups and was considered acceptable [ 27 – 30 ]. We observed that uEGF/Cr levels at baseline in “progressors” were already significantly lower than those in “non-progressors.” Next, uEGF/Cr’s prognostic value was reflected by its significant correlation with eGFR slope (Fig. 5a). The progressors were clustered together by their low uEGF/Cr and steeper eGFR slope (Fig. 5a). While it is not surprising that steeper eGFR slope highly associated with progression to higher CKD stage, it is encouraging to observe that uEGF/Cr shows a high correlation with eGFR slope and progression. This result confirmed our previous finding in general adult CKD [ 13 ]. The association of uEGF/Cr with progression is likely due to the regenerative function of EGF [ 16 ]. Lower uEGF/Cr is not only an indication of current reduced kidney tubular mass thereby a good biomarker for cross-sectional kidney function, it also represents impaired regenerative function of the tubular cells, which is directly associated with progression. Finally, uEGF/Cr exhibited superior AUC compared to eGFR and proteinuria. Adding uEGF/Cr to the base model including eGFR and proteinuria resulted in a significant improvement of AUC. This is the first time, to the best of our knowledge, uEGF/Cr was reported to have additive prognostic value for CKD progression in patients with Alport syndrome. 
+29948307_26531	140	144	uEGF	Gene-protein	not found
+29948307_26531	140	147	uEGF/Cr	Biomarker
+29948307_26531	145	147	Cr	Chemical
+29948307_26531	168	183	Alport syndrome	Disease	DOID:10983
+29948307_26531	275	278	CKD	Disease	DOID:784
+29948307_26531	430	434	uEGF	Gene-protein
+29948307_26531	430	437	uEGF/Cr	Biomarker
+29948307_26531	435	437	Cr	Chemical
+29948307_26531	546	550	uEGF	Gene-protein
+29948307_26531	546	555	uEGF/Cr’s	Biomarker
+29948307_26531	551	553	Cr	Chemical
+29948307_26531	698	702	uEGF	Gene-protein
+29948307_26531	698	705	uEGF/Cr	Biomarker
+29948307_26531	703	705	Cr	Chemical
+29948307_26531	829	845	higher CKD stage	Disease	DOID:784
+29948307_26531	881	885	uEGF	Gene-protein
+29948307_26531	881	888	uEGF/Cr	Biomarker
+29948307_26531	886	888	Cr	Chemical
+29948307_26531	1007	1010	CKD	Disease
+29948307_26531	1038	1042	uEGF	Gene-protein
+29948307_26531	1043	1045	Cr	Chemical
+29948307_26531	1121	1134	Lower uEGF/Cr	Biomarker
+29948307_26531	1127	1131	uEGF	Gene-protein
+29948307_26531	1132	1134	Cr	Chemical
+29948307_26531	1390	1394	uEGF	Gene-protein
+29948307_26531	1390	1397	uEGF/Cr	Biomarker
+29948307_26531	1395	1397	Cr	Chemical
+29948307_26531	1442	1453	proteinuria	Disease	DOID:576
+29948307_26531	1462	1466	uEGF	Gene-protein
+29948307_26531	1462	1469	uEGF/Cr	Biomarker
+29948307_26531	1467	1469	Cr	Chemical
+29948307_26531	1507	1518	proteinuria	Disease
+29948307_26531	1619	1623	uEGF	Gene-protein
+29948307_26531	1619	1626	uEGF/Cr	Biomarker
+29948307_26531	1624	1626	Cr	Chemical
+29948307_26531	1678	1726	CKD progression in patients with Alport syndrome	Disease	DOID:784,DOID:10983
+

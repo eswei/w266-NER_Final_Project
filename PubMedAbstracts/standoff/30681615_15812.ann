@@ -1,0 +1,77 @@
+T0	Disease 97 99	FH
+T10	Disease 598 600	FH
+T11	Disease 635 637	FH
+T14	Disease 894 896	FH
+T17	Chemical 995 1006	cholesterol
+T19	Chemical 1053 1064	cholesterol
+T2	Disease 228 230	FH
+T20	Disease 1093 1105	heart attack
+#9	AnnotatorNotes T20	DOID:5844
+T21	Chemical 1275 1286	cholesterol
+T22	Disease 1334 1336	FH
+T23	Biomarker 1341 1345	APOB
+T25	Variant 1399 1409	Val2095Glu
+T26	Disease 1448 1450	FH
+T28	Biomarker 1472 1483	rs151009667
+T3	Disease 252 254	FH
+T30	Biomarker 1488 1498	Val2095Glu
+T31	Disease 1542 1544	FH
+T5	Disease 325 327	FH
+T6	Disease 402 404	FH
+T7	Biomarker 412 439	familial deficiency in APOB
+T9	Disease 553 555	FH
+#1	AnnotatorNotes T0	DOID:13810
+T1	Gene-Protein 30 34	APOB
+#3	AnnotatorNotes T1	HGNC:603
+T4	Gene-Protein 162 166	APOB
+T8	Biomarker 30 34	APOB
+#5	AnnotatorNotes T8	D001055
+R1	Diagnostic-of Arg1:T8 Arg2:T0	
+T12	Biomarker 162 166	APOB
+R2	Association Arg1:T12 Arg2:T2	
+T13	Gene-Protein 286 290	LDLR
+#7	AnnotatorNotes T13	HGNC:6547
+T15	Gene-Protein 297 301	ApoB
+T16	Biomarker 273 290	mutations in LDLR
+#8	AnnotatorNotes T15	HGNC:603
+T24	Biomarker 341 357	variants in APOB
+T32	Gene-Protein 353 357	APOB
+R3	Association Arg1:T24 Arg2:T5	
+T33	Biomarker 297 301	ApoB
+R4	Association Arg1:T33 Arg2:T5	
+R5	Association Arg1:T7 Arg2:T6	
+T34	Biomarker 496 510	LDLR mutations
+T35	Gene-Protein 496 500	LDLR
+T36	Biomarker 517 521	APOB
+T37	Gene-Protein 517 521	APOB
+R6	Association Arg1:T36 Arg2:T9	
+R7	Diagnostic-of Arg1:T36 Arg2:T10	
+T38	Biomarker 692 721	biallelic pathogenic variants
+R8	Association Arg1:T38 Arg2:T11	
+T39	Gene-Protein 759 766	ApoB-48
+#2	AnnotatorNotes T39	HGNC:603
+T40	Gene-Protein 771 779	ApoB-100
+#10	AnnotatorNotes T40	HGNC:603
+T41	Biomarker 759 766	ApoB-48
+#11	AnnotatorNotes T41	D053283
+T42	Biomarker 771 779	ApoB-100
+#12	AnnotatorNotes T42	D053299
+T43	Collection 759 779	ApoB-48 and ApoB-100
+R9	Diagnostic-of Arg1:T43 Arg2:T11	
+T44	Gene-Protein 868 876	ApoB-100
+T45	Gene-Protein 828 835	ApoB-48
+T46	Gene-Protein 910 914	APOB
+T47	Gene-Protein 964 972	ApoB-100
+T48	Biomarker 951 972	mutations in ApoB-100
+R10	Diagnostic-of Arg1:T48 Arg2:T14	
+T18	Biomarker 1042 1071	increasing cholesterol levels
+R11	Risk-Factor Arg1:T18 Arg2:T20	
+T49	Gene-Protein 1186 1194	ApoB-100
+T50	Chemical 1196 1200	LDLs
+T51	Gene-Protein 1341 1345	APOB
+R12	Association Arg1:T23 Arg2:T22	
+R13	Variant-Of Arg1:T51 Arg2:T25	
+R14	Risk-Factor Arg1:T25 Arg2:T26	
+T27	Collection 1472 1498	rs151009667 and Val2095Glu
+R15	Association Arg1:T27 Arg2:T31	
+#4	AnnotatorNotes T25	p.Val2095Glu

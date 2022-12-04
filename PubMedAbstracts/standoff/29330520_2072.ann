@@ -1,0 +1,57 @@
+T0	Chemical 30 42	Homocysteine
+T1	Chemical 44 47	Hcy
+T12	Chemical 260 263	Hcy
+T13	Disease 317 323	stroke
+#5	AnnotatorNotes T13	D020521
+T14	Disease 351 363	hypertension
+#6	AnnotatorNotes T14	DOID:10763
+T15	Chemical 398 401	Hcy
+T16	Chemical 451 476	methylenetetrahydrofolate
+T17	Variant 495 500	C677T
+T19	Chemical 591 597	folate
+T20	Chemical 618 621	Hcy
+T21	Chemical 663 666	Hcy
+T22	Disease 670 676	stroke
+T23	Variant 718 723	C677T
+T24	Chemical 800 803	Hcy
+T25	Variant 814 819	C677T
+T26	Disease 825 829	ICAS
+T27	Disease 833 837	ECAS
+T28	Biomarker 839 851	Hypertension
+#17	AnnotatorNotes T28	D006973
+T30	Disease 882 922	ischemic and hemorrhagic forms of stroke
+#19	AnnotatorNotes T30	D000083242, D000083302
+T34	Disease 940 944	ICAS
+T35	Disease 949 953	ECAS
+T36	Chemical 1010 1013	Hcy
+T39	Disease 1033 1062	ICAS and ECAS in hypertensive
+#27	AnnotatorNotes T39	DOID:10763
+T4	Chemical 80 88	cysteine
+T40	Disease 1080 1086	stroke
+T41	Variant 1164 1169	C677T
+T6	Chemical 149 159	methionine
+T8	Chemical 183 196	cystathionine
+T9	Chemical 210 231	pyridoxial-5phosphate
+T2	Biomarker 236 263	Raised concentration of Hcy
+R1	Risk-Factor Arg1:T2 Arg2:T13	
+T3	Gene-Protein 451 486	methylenetetrahydrofolate reductase
+#1	AnnotatorNotes T3	HGNC:7436
+T5	Gene-Protein 488 493	MTHFR
+#2	AnnotatorNotes T5	HGNC:7436
+R2	Variant-Of Arg1:T3 Arg2:T17	
+T7	Gene-Protein 712 717	MTHFR
+R3	Association Arg1:T23 Arg2:T22	
+T10	Gene-Protein 808 813	MTHFR
+R4	Variant-Of Arg1:T10 Arg2:T25	
+R5	Variant-Of Arg1:T7 Arg2:T23	
+#3	AnnotatorNotes T26	not found
+#4	AnnotatorNotes T27	not found
+T11	Collection 882 953	ischemic and hemorrhagic forms of stroke, as well as with ICAS and ECAS
+R6	Association Arg1:T28 Arg2:T11	
+T18	Gene-Protein 1158 1163	MTHFR
+R7	Variant-Of Arg1:T18 Arg2:T41	
+A1	Conjunction T39
+T29	Biomarker 995 1027	association of Hcy concentration
+T31	Biomarker 514 526	T/T genotype
+T32	Biomarker 581 603	decreased folate level
+T33	Biomarker 608 621	increased Hcy

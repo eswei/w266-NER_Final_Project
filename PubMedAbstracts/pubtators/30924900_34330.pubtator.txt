@@ -1,0 +1,44 @@
+30924900_34330|t|RSS_IDENT_p_30924900_b_1_4_8
+30924900_34330|a| Our study also implicated multiple functional variants in several novel genes as risk factors for AD. Mutations in ABCD4 cause an inborn error of vitamin B₁₂ metabolism. ⁵³ Vitamin B₁₂ deficiency is associated with cognitive impairment, and the level of circulating vitamin B₁₂ has been associated with AD risk. ⁵⁴ ABCD4 encodes an adenosine triphosphate–binding cassette transporter that is in the same family as well-established AD gene ABCA7. ³⁹ , ⁴⁰ The AD-associated CELSR1 <url> (P2983A) missense variant has also been associated with craniorachischisis, which is a severe neural tube defect, ⁵⁵ and other CELSR1 variants have been identified as ischemic stroke risk factors in Japanese individuals. ⁵⁶ The CELSR1-3 family of genes has multiple functions in the nervous system and distinct roles in brain development and maintenance. ⁵⁷ GTSE1 regulates G1/S cell cycle transition and microtubule stability and is involved in pivotal neurodegeneration pathways. ⁵⁸ It is not clear which of these CELSR1 and GTSE1 mutations may directly influence AD risk. LAMC3 encodes laminin subunit γ 3, and multiple experimental studies have linked laminins to AD. ⁵⁹ , ⁶⁰ LAMC3 has been significantly associated with age at onset of AD. ⁶¹
+30924900_34330	56	107	multiple functional variants in several novel genes	Biomarker
+30924900_34330	128	130	AD	Disease	DOID:10652
+30924900_34330	132	150	Mutations in ABCD4	Biomarker
+30924900_34330	145	150	ABCD4	Gene-protein	HGNC:68
+30924900_34330	160	198	inborn error of vitamin B₁₂ metabolism	Disease	not found
+30924900_34330	176	187	vitamin B₁₂	Chemical
+30924900_34330	203	214	Vitamin B₁₂	Chemical
+30924900_34330	203	225	Vitamin B₁₂ deficiency	Biomarker
+30924900_34330	245	265	cognitive impairment	Biomarker
+30924900_34330	275	307	level of circulating vitamin B₁₂	Biomarker
+30924900_34330	296	307	vitamin B₁₂	Chemical
+30924900_34330	333	335	AD	Disease
+30924900_34330	345	350	ABCD4	Gene-protein
+30924900_34330	362	384	adenosine triphosphate	Chemical
+30924900_34330	362	413	adenosine triphosphate–binding cassette transporter	Genefamily	family:417
+30924900_34330	461	463	AD	Disease
+30924900_34330	469	474	ABCA7	Gene-protein	HGNC:37
+30924900_34330	488	490	AD	Disease
+30924900_34330	502	508	CELSR1	Gene-protein	HGNC:1850
+30924900_34330	516	522	P2983A	Variant	p.Pro2983Ala
+30924900_34330	571	589	craniorachischisis	Disease	D009436
+30924900_34330	609	627	neural tube defect	Disease	DOID:0080074
+30924900_34330	642	648	CELSR1	Gene-protein
+30924900_34330	642	657	CELSR1 variants	Biomarker
+30924900_34330	682	697	ischemic stroke	Disease	D000083242
+30924900_34330	743	751	CELSR1-3	Gene-protein	HGNC:1850, HGNC:3231, HGNC:3230
+30924900_34330	873	878	GTSE1	Gene-protein	HGNC:13698
+30924900_34330	873	878	GTSE1	Biomarker	C115080
+30924900_34330	969	986	neurodegeneration	Disease	D009410
+30924900_34330	1031	1037	CELSR1	Gene-protein
+30924900_34330	1031	1057	CELSR1 and GTSE1 mutations	Biomarker
+30924900_34330	1042	1047	GTSE1	Gene-protein
+30924900_34330	1081	1083	AD	Disease
+30924900_34330	1090	1095	LAMC3	Gene-protein	HGNC:6494
+30924900_34330	1104	1123	laminin subunit γ 3	Gene-protein	HGNC:6494
+30924900_34330	1171	1179	laminins	Biomarker	D007797
+30924900_34330	1171	1179	laminins	Genefamily	family:626
+30924900_34330	1183	1185	AD	Disease
+30924900_34330	1195	1200	LAMC3	Biomarker	C504218
+30924900_34330	1195	1200	LAMC3	Gene-protein
+30924900_34330	1240	1258	age at onset of AD	Biomarker	D017668
+

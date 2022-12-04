@@ -1,0 +1,71 @@
+T0	Drug 39 43	APAP
+T1	Disease 108 122	hepatotoxicity
+T10	Drug 539 543	APAP
+T12	Chemical 544 547	GSH
+T13	Chemical 611 640	N-acetyl-p-benzoquinone imine
+T14	Chemical 669 672	GSH
+T15	Disease 739 751	liver injury
+#8	AnnotatorNotes T15	not found
+T16	Drug 764 768	APAP
+T17	Disease 764 790	APAP-mediated liver injury
+T18	Drug 809 823	Nrf2-deficient
+#11	AnnotatorNotes T18	not found
+T2	Drug 139 143	APAP
+T20	Drug 905 909	APAP
+T21	Drug 1039 1043	APAP
+T22	Disease 1039 1064	APAP-induced liver injury
+T23	Chemical 1139 1142	GSH
+T24	Drug 1187 1191	APAP
+T25	Drug 1250 1254	APAP
+T26	Disease 1250 1275	APAP-induced liver injury
+T27	Gene-Protein 1362 1365	PME
+T28	Drug 1515 1519	APAP
+T29	Disease 1515 1546	APAP-induced acute liver injury
+#22	AnnotatorNotes T29	not found
+T3	Disease 139 164	APAP-induced liver injury
+#23	AnnotatorNotes T3	D056486
+T30	Drug 1566 1569	PME
+T31	Drug 1582 1586	APAP
+T32	Disease 1582 1607	APAP-induced liver injury
+T33	Gene-Protein 1752 1755	PME
+T34	Drug 1792 1796	APAP
+T35	Disease 1792 1819	APAP-induced hepatotoxicity
+T4	Disease 209 240	xenobiotic-induced liver injury
+#30	AnnotatorNotes T4	D056486
+T5	Drug 315 319	APAP
+T6	Chemical 386 420	glucuronide and sulfate conjugates
+T7	Chemical 490 500	sulfhydryl
+T8	Chemical 510 521	glutathione
+T9	Chemical 523 526	GSH
+#1	AnnotatorNotes T0	CHEMBL112
+R1	Causes Arg1:T0 Arg2:T1	
+#2	AnnotatorNotes T1	not found
+T11	Chemical 703 706	ROS
+T19	Chemical 716 721	lipid
+R3	Causes Arg1:T18 Arg2:T17	
+T37	Gene-Protein 809 813	Nrf2
+T38	Gene-Protein 954 989	kelch-like ECH-associated protein 1
+T39	Gene-Protein 991 996	Keap1
+#4	AnnotatorNotes T17	not found
+T40	Drug 939 1007	liver-specific kelch-like ECH-associated protein 1 (Keap1)-deficient
+#5	AnnotatorNotes T40	not found
+R4	Protects-from Arg1:T40 Arg2:T22	
+T41	Gene-Protein 1095 1099	Nrf2
+T42	Biomarker 1284 1326	activation of the Nrf2 antioxidant pathway
+R5	Risk-Reduce Arg1:T42 Arg2:T26	
+T43	Gene-Protein 1302 1306	Nrf2
+T44	Gene-Protein 1392 1396	Nrf2
+T45	Gene-Protein 1457 1460	PME
+T46	Drug 1457 1460	PME
+#6	AnnotatorNotes T46	D055313
+R6	Response Arg1:T46 Arg2:T29	
+T47	Gene-Protein 1566 1569	PME
+R7	Response Arg1:T30 Arg2:T32	
+T48	Gene-Protein 1651 1654	ALT
+T49	GeneFamily 1659 1662	AST
+#7	AnnotatorNotes T35	not found
+T50	Drug 1752 1755	PME
+R8	Response Arg1:T50 Arg2:T35	
+T51	Gene-Protein 1834 1838	Nrf2
+T52	Chemical 1887 1890	ROS
+T53	Chemical 1419 1422	ROS

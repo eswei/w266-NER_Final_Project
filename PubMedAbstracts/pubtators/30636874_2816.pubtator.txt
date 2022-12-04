@@ -1,0 +1,44 @@
+30636874_2816|t|RSS_IDENT_p_30636874_b_1_1_3
+30636874_2816|a| Recently, a number of genome-wide association studies (GWASs) have investigated genetic markers of AD, including the genomic region of chromosome 4q22-q32, which includes alcohol dehydrogenase (ADH) cluster genes. 14 – 17 Furthermore, a recent GWAS of a Korean AD cohort revealed that three chromosomal regions are associated with AD, including the ADH gene cluster and ALDH2, which participate in alcohol metabolism (minimum P=6.46×10−⁸, OR =2.73 at ADH7 rs10516441 of the ADH gene cluster and P=8.42×10−⁸, OR =0.22 at ALDH2 rs671). The genetic effects of the ADH gene cluster were also replicated in a Korean population (minimum P=2.63×10−²¹ at ADH1B rs1229984). In addition to genes related to alcohol metabolism, genes known to participate in neurodevelopment, such as BRCA1-associated protein (BRAP) and protein arginine methyltransferase 8 (PRMT8), have multiple association signals with the risk of AD (P=4.65×10−⁶, OR =0.31 at BRAP rs3782886 and P=1.77×10−⁵, OR =1.96 at PRMT8 rs876594). 18 Based on the polygenic hypothesis of AD pathophysiology, it is possible that multiple genetic loci associated with neurobiologic pathways could be associated with the risk of AD. Thus, the present investigation conducted followup replication studies of our previous GWAS of a Korean cohort with AD to identify associations between the risk of AD and novel candidate genes other than those related to alcohol metabolism. 
+30636874_2816	129	131	AD	Disease	DOID:0050741
+30636874_2816	147	185	genomic region of chromosome 4q22-q32,	Biomarker
+30636874_2816	201	208	alcohol	Chemical
+30636874_2816	201	222	alcohol dehydrogenase	Genefamily	family:397
+30636874_2816	224	227	ADH	Genefamily	family:397
+30636874_2816	291	293	AD	Disease
+30636874_2816	361	363	AD	Disease
+30636874_2816	379	382	ADH	Genefamily
+30636874_2816	379	395	ADH gene cluster	Biomarker
+30636874_2816	379	405	ADH gene cluster and ALDH2	Collection
+30636874_2816	400	405	ALDH2	Gene-protein	HGNC:404
+30636874_2816	400	405	ALDH2	Biomarker	C096127
+30636874_2816	428	435	alcohol	Chemical
+30636874_2816	481	485	ADH7	Gene-protein	HGNC:256
+30636874_2816	486	496	rs10516441	Variant
+30636874_2816	504	507	ADH	Genefamily
+30636874_2816	550	555	ALDH2	Gene-protein
+30636874_2816	556	561	rs671	Variant
+30636874_2816	591	594	ADH	Genefamily
+30636874_2816	677	682	ADH1B	Gene-protein	HGNC:250
+30636874_2816	683	692	rs1229984	Variant
+30636874_2816	727	734	alcohol	Chemical
+30636874_2816	803	827	BRCA1-associated protein	Gene-protein	HGNC:1099
+30636874_2816	803	834	BRCA1-associated protein (BRAP)	Biomarker	C111164
+30636874_2816	803	883	BRCA1-associated protein (BRAP) and protein arginine methyltransferase 8 (PRMT8)	Collection
+30636874_2816	829	833	BRAP	Gene-protein	HGNC:1099
+30636874_2816	839	875	protein arginine methyltransferase 8	Gene-protein	 HGNC:5188
+30636874_2816	839	883	protein arginine methyltransferase 8 (PRMT8)	Biomarker	C505447
+30636874_2816	847	855	arginine	Chemical
+30636874_2816	877	882	PRMT8	Gene-protein	 HGNC:5188
+30636874_2816	936	938	AD	Disease
+30636874_2816	965	969	BRAP	Gene-protein
+30636874_2816	970	979	rs3782886	Variant
+30636874_2816	1009	1014	PRMT8	Gene-protein
+30636874_2816	1015	1023	rs876594	Variant
+30636874_2816	1066	1068	AD	Disease
+30636874_2816	1106	1166	multiple genetic loci associated with neurobiologic pathways	Biomarker
+30636874_2816	1204	1206	AD	Disease
+30636874_2816	1324	1326	AD	Disease
+30636874_2816	1372	1374	AD	Disease
+30636874_2816	1429	1436	alcohol	Chemical
+

@@ -1,0 +1,51 @@
+30046379_17278|t|RSS_IDENT_p_30046379_b_1_4_3
+30046379_17278|a| The role of hyperglycemia in diabetes vasculopathy has been well-acknowledged. Although the vascular endothelium has adaptive mechanisms to counteract hyperglycemia-induced oxidative stress, superfluous ROS levels induce endothelial dysfunction. In endothelial cells, increased superoxide generation represents the hallmark of hyperglycemia-mediated oxidative stress [ 23 ]. Accordingly, HUVECs exposed to HG and aorta of STZ diabetic rats showed markedly elevated levels of ROS. These findings are explained by the increased activity of NADPH oxidase which represents a major source of superoxide production under hyperglycemic conditions [ 17 , 24 ]. Here, HUVECs showed increased NOX-4 expression following exposure to HG levels. NOX-4 is the prominent and major subunit of NADPH oxidase that provokes the generation of superoxide anions in the endothelium [ 25 , 26 ]. Therefore, NOX-4 can induce oxidative damage [ 27 ] and endothelial injury [ 28 ] in response to cellular stress. Previous studies have also demonstrated increased NADPH oxidase in diabetic animals [ 9 , 26 ] and human patients [ 29 ]. In addition, the increased levels of ROS could be attributed to hyperglycemia-induced eNOS uncoupling and mitochondrial electron transport chain as previously demonstrated [ 30 – 32 ]. Interestingly, a functional NOX-4 has been reported to be present in the mitochondria [ 33 ]. In a preparation of pure mitochondria, knockdown of NOX-4 by siRNA blocked mitochondrial superoxide generation induced by glucose [ 33 ]. Moreover, experimental evidence showed that genetic knockdown or inhibition of NOX-4 reduces ROS production in the vascular endothelium [ 27 , 34 ]. Along with the upregulated NOX-4, HG-induced HUVECs showed increased expression of NOX-2, a NADPH oxidase subunit known to be expressed in a significant amount in HUVECs as well as in rat aortic endothelium [ 26 ]. 
+30046379_17278	42	55	hyperglycemia	Biomarker	D006943
+30046379_17278	59	80	diabetes vasculopathy	Disease	not found
+30046379_17278	181	219	hyperglycemia-induced oxidative stress	Disease	not found
+30046379_17278	221	243	superfluous ROS levels	Biomarker
+30046379_17278	251	274	endothelial dysfunction	Disease	not found
+30046379_17278	298	329	increased superoxide generation	Biomarker
+30046379_17278	308	318	superoxide	Chemical
+30046379_17278	357	396	hyperglycemia-mediated oxidative stress	Disease	not found
+30046379_17278	418	424	HUVECs	Cellline
+30046379_17278	452	455	STZ	Drug	CHEMBL1651906
+30046379_17278	452	464	STZ diabetic	Disease	not found
+30046379_17278	486	508	elevated levels of ROS	Biomarker
+30046379_17278	505	508	ROS	Chemical
+30046379_17278	546	581	increased activity of NADPH oxidase	Biomarker
+30046379_17278	568	573	NADPH	Chemical
+30046379_17278	568	581	NADPH oxidase	Genefamily
+30046379_17278	617	627	superoxide	Chemical
+30046379_17278	645	658	hyperglycemic	Disease	DOID:4195
+30046379_17278	689	695	HUVECs	Cellline
+30046379_17278	713	718	NOX-4	Gene-protein
+30046379_17278	763	768	NOX-4	Gene-protein
+30046379_17278	807	812	NADPH	Chemical
+30046379_17278	807	820	NADPH oxidase	Genefamily
+30046379_17278	853	863	superoxide	Chemical
+30046379_17278	914	919	NOX-4	Gene-protein
+30046379_17278	914	919	NOX-4	Biomarker	C498910
+30046379_17278	931	947	oxidative damage	Disease	D018384
+30046379_17278	931	977	oxidative damage [ 27 ] and endothelial injury	Collection
+30046379_17278	959	977	endothelial injury	Disease	not found
+30046379_17278	1057	1080	increased NADPH oxidase	Biomarker
+30046379_17278	1067	1072	NADPH	Chemical
+30046379_17278	1067	1080	NADPH oxidase	Genefamily
+30046379_17278	1084	1092	diabetic	Disease	not found
+30046379_17278	1156	1179	increased levels of ROS	Biomarker
+30046379_17278	1176	1179	ROS	Chemical
+30046379_17278	1203	1216	hyperglycemia	Disease	DOID:4195
+30046379_17278	1225	1229	eNOS	Gene-protein
+30046379_17278	1352	1357	NOX-4	Gene-protein
+30046379_17278	1470	1475	NOX-4	Gene-protein
+30046379_17278	1507	1517	superoxide	Chemical
+30046379_17278	1540	1547	glucose	Chemical
+30046379_17278	1635	1640	NOX-4	Gene-protein
+30046379_17278	1649	1652	ROS	Chemical
+30046379_17278	1732	1737	NOX-4	Gene-protein
+30046379_17278	1750	1756	HUVECs	Cellline
+30046379_17278	1788	1793	NOX-2	Gene-protein
+30046379_17278	1797	1802	NADPH	Chemical
+30046379_17278	1868	1874	HUVECs	Cellline
+

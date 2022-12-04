@@ -1,0 +1,38 @@
+31564911_11412|t|RSS_IDENT_p_31564911_b_1_5_3
+31564911_11412|a| MHC class II also expressed on tumor cells. Loss of MHC class II expression on lymphoma cells was associated with poor prognosis in diffuse large B-cell lymphoma. 20 Expression of HLA-DR on colorectal cancer cells was found to be associated with the presence of tumor infiltrating lymphocytes (TILs) and peritumoral lymphocytes and it might link to a better prognosis in stage C colorectal cancer. 16 Sconocchia et al reported that MHC class II expression on colorectal cancer cells was a favorable prognostic factor, but there were still some discrepancies. 21 MHC class II expression on cervical adenocarcinoma cells was associated with a lower recurrence and a better disease-specific survival in cervical adenocarcinoma patients. 44 Papillary thyroid carcinoma patients with HLA-DR, HLA-DQ expression on cancer cells had a lower rate of lymph nodule metastasis and required a lower dosage of ¹³¹I for treatment than HLA-DQ negative patients. 17 Lazzaro et al found expression of HLA-DR on cancer cells was higher in breast medullary carcinoma compared to breast ductal carcinoma and medullary carcinoma had a relatively better prognosis. 18 Expression level of HLA-DQ on melanoma cells was lower than HLA-DR in primary and metastatic melanoma. 15 
+31564911_11412	30	42	MHC class II	Genefamily	not found
+31564911_11412	30	57	MHC class II also expressed	Biomarker
+31564911_11412	61	66	tumor	Disease	DOID:162
+31564911_11412	74	123	Loss of MHC class II expression on lymphoma cells	Biomarker
+31564911_11412	82	94	MHC class II	Genefamily
+31564911_11412	162	191	diffuse large B-cell lymphoma	Disease	DOID:0050745
+31564911_11412	196	216	Expression of HLA-DR	Biomarker
+31564911_11412	210	216	HLA-DR	Genefamily	not found
+31564911_11412	220	237	colorectal cancer	Disease	DOID:9256
+31564911_11412	401	426	stage C colorectal cancer	Disease	not found
+31564911_11412	462	474	MHC class II	Genefamily
+31564911_11412	462	485	MHC class II expression	Biomarker
+31564911_11412	489	506	colorectal cancer	Disease
+31564911_11412	592	604	MHC class II	Genefamily
+31564911_11412	592	615	MHC class II expression	Biomarker
+31564911_11412	619	642	cervical adenocarcinoma	Disease	DOID:3702
+31564911_11412	730	753	cervical adenocarcinoma	Disease
+31564911_11412	767	794	Papillary thyroid carcinoma	Disease	DOID:3969
+31564911_11412	809	815	HLA-DR	Genefamily
+31564911_11412	809	834	HLA-DR, HLA-DQ expression	Biomarker
+31564911_11412	817	823	HLA-DQ	Genefamily	not found
+31564911_11412	838	844	cancer	Disease	DOID:162
+31564911_11412	926	930	¹³¹I	Drug
+31564911_11412	950	956	HLA-DQ	Genefamily
+31564911_11412	999	1046	expression of HLA-DR on cancer cells was higher	Biomarker
+31564911_11412	1013	1019	HLA-DR	Genefamily
+31564911_11412	1050	1076	breast medullary carcinoma	Disease	DOID:5605
+31564911_11412	1089	1112	breast ductal carcinoma	Disease	DOID:3007
+31564911_11412	1117	1136	medullary carcinoma	Disease	D018276
+31564911_11412	1175	1201	Expression level of HLA-DQ	Biomarker
+31564911_11412	1195	1201	HLA-DQ	Genefamily
+31564911_11412	1205	1213	melanoma	Disease	DOID:1909
+31564911_11412	1235	1241	HLA-DR	Genefamily
+31564911_11412	1235	1241	HLA-DR	Biomarker	D006684
+31564911_11412	1245	1276	primary and metastatic melanoma	Disease	DOID:1909
+

@@ -1,0 +1,74 @@
+T0	Disease 79 86	cancers
+#1	AnnotatorNotes T0	DOID:162
+T13	Disease 535 547	colon cancer
+#2	AnnotatorNotes T13	DOID:219|DOID:235
+T14	Disease 553 568	prostate cancer
+#3	AnnotatorNotes T14	DOID:10283
+T15	Disease 574 588	ovarian cancer
+#4	AnnotatorNotes T15	DOID:2394
+T16	Disease 594 607	breast cancer
+T17	Disease 615 630	prostate cancer
+T18	Disease 639 654	cervical cancer
+#7	AnnotatorNotes T18	DOID:4362
+T19	Disease 676 682	tumour
+#8	AnnotatorNotes T19	DOID:162
+T2	Disease 127 140	breast cancer
+#9	AnnotatorNotes T2	DOID:1612
+T22	Disease 835 875	gastric cancer associated with H. pylori
+T25	Biomarker 961 969	rs999885
+T26	Disease 1083 1107	hepatocellular carcinoma
+T29	Disease 1184 1210	non-small-cell lung cancer
+#13	AnnotatorNotes T29	DOID:3908
+T3	Disease 151 163	renal cancer
+#14	AnnotatorNotes T3	DOID:263
+T31	Disease 1222 1236	gastric cancer
+T32	Biomarker 1285 1294	rs2296616
+T34	Biomarker 1296 1305	rs8111742
+T36	Biomarker 1307 1315	rs999885
+T38	Biomarker 1320 1329	rs1143770
+T4	Disease 171 177	glioma
+#17	AnnotatorNotes T4	DOID:3070
+T40	Disease 1351 1366	cervical cancer
+T41	Disease 1515 1522	cancers
+T5	Disease 225 239	gastric cancer
+#20	AnnotatorNotes T5	DOID:10534
+T6	Disease 252 276	hepatocellular carcinoma
+#21	AnnotatorNotes T6	DOID:684
+T9	Disease 365 379	gastric cancer
+T1	RNA-Noncoding 43 50	miR-107
+#23	AnnotatorNotes T1	HGNC:31496
+T7	Biomarker 43 50	miR-107
+#24	AnnotatorNotes T7	C549045
+R1	Association Arg1:T7 Arg2:T0	
+T10	RNA-Noncoding 100 107	miR-107
+T12	Collection 225 276	gastric cancer 48 , 49 and hepatocellular carcinoma
+T20	Biomarker 201 206	miRNA
+T24	RNA-Noncoding 201 206	miRNA
+#26	AnnotatorNotes T24	family:476
+#27	AnnotatorNotes T20	D035683
+T28	Biomarker 318 342	TT genotype of rs2296616
+R3	Risk-Factor Arg1:T28 Arg2:T9	
+T8	Biomarker 423 434	TT genotype
+T33	Biomarker 455 480	higher miR-107 expression
+T35	RNA-Noncoding 462 469	miR-107
+T37	RNA-Noncoding 507 515	MiR-125a
+#22	AnnotatorNotes T37	HGNC:31505
+T42	Drug 656 664	miR-125a
+#5	AnnotatorNotes T42	C531888
+T43	RNA-Noncoding 656 664	miR-125a
+#29	AnnotatorNotes T43	HGNC:31505
+R4	Response Arg1:T42 Arg2:T18	
+T44	Gene-Protein 728 733	STAT3
+#30	AnnotatorNotes T44	HGNC:11364
+T45	RNA-Noncoding 803 811	miR-125a
+T46	Biomarker 775 811	AA genotype of rs8111742 in miR-125a
+R5	Risk-Factor Arg1:T46 Arg2:T22	
+T21	MicroOrganism 866 874	H. pylor
+T23	MicroOrganism 931 940	H. pylori
+T47	RNA-Noncoding 1009 1020	miR-106b-25
+R6	Risk-Factor Arg1:T25 Arg2:T26	
+T48	RNA-Noncoding 1151 1159	let7-a-2
+#10	AnnotatorNotes T48	HGNC:31477
+T49	Biomarker 1134 1164	rs1143770 in the let7-a-2 gene
+R7	Association Arg1:T49 Arg2:T29	
+#11	AnnotatorNotes T22	not found

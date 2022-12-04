@@ -1,0 +1,28 @@
+30555458_9894|t|RSS_IDENT_s_30555458_b_1_2_4
+30555458_9894|a| Flow cytometry BC samples were stained with BD Horizon™ Fixable Viability Stain 450 (BD Biosciences) and with the cocktail of antibodies, fixed and permeabilized with Fix/Perm kit (eBiosciences) followed by intracellular staining. For whole blood, staining with antibodies was followed by a step of red blood cells lysis with RBC lysis buffer (Biolegend). For immunophenotyping we classified cytotoxic T lymphocytes as CD45+/CD3+/CD8+; helper T lymphocytes as CD45+/CD3+/CD4+; regulatory T lymphocytes as CD45+/CD3+/CD4+/CD25ʰⁱ/CD127ˡᵒ; B lymphocytes as CD45+/CD19+; NK cells as CD45+/CD161+; M2 macrophages as CD45+/CD11b+/CD163+/CD206+; M1 macrophages as CD45+/CD11b+/CD163negative/CD206negative; dendritic cells as CD45+/CD1c+; and neutrophils as CD45+/CD15+. Data was acquired in BD FACS Canto II cell analyzer with FACSDiva Software v8.0.1 (BD Biosciences) and the results were analyzed using FlowJo software v10. The data is presented as percentage of the populations in respect to the gate of single cells, following the gate strategy represented in Figure S1. To analyze the expression levels of HLA-DR in CTLs or Tregs, we considered the median fluorescent intensity of positive population and normalized it to the negative population, as previously described ( 16 ). The negative population was superimposed with the unstained control.
+30555458_9894	45	47	BC	Disease	DOID:1612
+30555458_9894	449	453	CD45	Gene-protein	HGNC:9666
+30555458_9894	455	458	CD3	Genefamily	not found
+30555458_9894	460	463	CD8	Genefamily	not found
+30555458_9894	490	494	CD45	Gene-protein
+30555458_9894	496	499	CD3	Genefamily
+30555458_9894	501	504	CD4	Gene-protein	HGNC:1678
+30555458_9894	535	539	CD45	Gene-protein
+30555458_9894	541	544	CD3	Genefamily
+30555458_9894	546	549	CD4	Gene-protein
+30555458_9894	584	588	CD45	Gene-protein
+30555458_9894	590	594	CD19	Gene-protein	HGNC:1633
+30555458_9894	609	613	CD45	Gene-protein
+30555458_9894	615	620	CD161	Gene-protein	HGNC:6373
+30555458_9894	641	645	CD45	Gene-protein
+30555458_9894	647	652	CD11b	Gene-protein	HGNC:6149
+30555458_9894	654	659	CD163	Gene-protein	HGNC:1631
+30555458_9894	661	666	CD206	Gene-protein	HGNC:7228
+30555458_9894	687	691	CD45	Gene-protein
+30555458_9894	693	698	CD11b	Gene-protein
+30555458_9894	748	752	CD45	Gene-protein
+30555458_9894	754	758	CD1c	Gene-protein	HGNC:1636
+30555458_9894	780	784	CD45	Gene-protein
+30555458_9894	786	790	CD15	Gene-protein	HGNC:4015
+30555458_9894	1134	1140	HLA-DR	Genefamily	not found
+

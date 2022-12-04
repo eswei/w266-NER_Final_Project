@@ -1,0 +1,37 @@
+31649890_2537|t|RSS_IDENT_p_31649890_b_1_1_3
+31649890_2537|a| Semaphorins, multiple members of a family of signaling molecules, are known to be aberrantly expressed in cancers and have emerged as pivotal signals deregulated in tumorigenesis. Among the five classes of semaphorins expressed in vertebrates, class 3 semaphorins are present as secreted soluble molecules and that play an important role in numerous pathophysiological processes involved in malignant transformation ( 5 , 6 ). A previous study found SEMA3D to be an integration breakpoint of HPV in the human genome and that it may be a key factor in cervical cancer progression ( 7 ). Among other class 3 semaphorins, SEMA3C has been found to be associated with tumor progression and poor prognosis across multiple tumor types, including pancreatic ( 8 ), gastric ( 9 ), prostate ( 10 – 12 ), and breast cancer ( 13 – 15 ), as well as glioma ( 16 ). It is worth noting that full-length SEMA3C has also been reported as a tumor suppressor factor by suppressing tumor lymphangiogenesis and metastasis ( 17 ). In addition, it was found that SEMA3C could restrict the metastatic spread of neuroblastoma ( 18 ). Thus far, the role of SEMA3C in cervical cancer remains unknown. In the present study, we aimed to analyze the mRNA and protein expression levels of SEMA3C in cervical cancer tissues and investigate the impact of SEMA3C on cancer cell growth and signal pathway activation. In addition, we propose to analyze the relationship between SEMA3C expression and survival utilizing our cohort and a TCGA cohort. 
+31649890_2537	30	41	Semaphorins	Genefamily	family:736
+31649890_2537	30	132	Semaphorins, multiple members of a family of signaling molecules, are known to be aberrantly expressed	Biomarker
+31649890_2537	136	143	cancers	Disease	DOID:162
+31649890_2537	236	247	semaphorins	Genefamily	family:736
+31649890_2537	274	293	class 3 semaphorins	Genefamily	not found
+31649890_2537	274	293	class 3 semaphorins	Biomarker	D039961
+31649890_2537	421	430	malignant	Disease	DOID:162
+31649890_2537	480	486	SEMA3D	Gene-protein	HGNC:10726
+31649890_2537	480	486	SEMA3D	Biomarker	C000592402
+31649890_2537	522	525	HPV	Microorganism
+31649890_2537	581	596	cervical cancer	Disease	DOID:4362
+31649890_2537	628	647	class 3 semaphorins	Genefamily
+31649890_2537	649	655	SEMA3C	Gene-protein	HGNC:10725
+31649890_2537	649	655	SEMA3C	Biomarker	C543908
+31649890_2537	746	751	tumor	Disease	DOID:162
+31649890_2537	746	872	tumor types, including pancreatic ( 8 ), gastric ( 9 ), prostate ( 10 – 12 ), and breast cancer ( 13 – 15 ), as well as glioma	Collection
+31649890_2537	769	841	pancreatic ( 8 ), gastric ( 9 ), prostate ( 10 – 12 ), and breast cancer	Disease	DOID:1793,DOID:10534, DOID:10283, DOID:1612
+31649890_2537	866	872	glioma	Disease	DOID:0060108
+31649890_2537	917	923	SEMA3C	Gene-protein
+31649890_2537	917	923	SEMA3C	Drug	C543908
+31649890_2537	991	996	tumor	Disease
+31649890_2537	1069	1075	SEMA3C	Gene-protein
+31649890_2537	1069	1075	SEMA3C	Drug
+31649890_2537	1116	1129	neuroblastoma	Disease	DOID:769
+31649890_2537	1160	1166	SEMA3C	Gene-protein
+31649890_2537	1160	1166	SEMA3C	Biomarker
+31649890_2537	1170	1185	cervical cancer	Disease
+31649890_2537	1249	1293	mRNA and protein expression levels of SEMA3C	Biomarker
+31649890_2537	1287	1293	SEMA3C	Gene-protein
+31649890_2537	1297	1312	cervical cancer	Disease
+31649890_2537	1351	1357	SEMA3C	Gene-protein
+31649890_2537	1361	1367	cancer	Disease	DOID:14566|DOID:162
+31649890_2537	1471	1477	SEMA3C	Gene-protein
+31649890_2537	1471	1488	SEMA3C expression	Biomarker
+

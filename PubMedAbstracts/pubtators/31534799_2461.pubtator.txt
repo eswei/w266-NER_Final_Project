@@ -1,0 +1,43 @@
+31534799_2461|t|RSS_IDENT_p_31534799_b_1_1_3
+31534799_2461|a| Since the advent of genome-wide association studies (GWAS), many novel loci associated with common human diseases have been identified [ 7 ], including CKD [ 3 , 8 – 10 ]. A genetic polymorphism in shroom family member 3 (SHROOM3) has been identified as a CKD susceptibility locus through GWAS. SHROOM3 is a regulator of epithelial cellular arrangement and planar remodeling [ 11 ], which contributes to glomerular filtration barrier integrity [ 12 ]. Many studies have suggested that SHROOM3 plays an important role in mammalian kidney development and human kidney disease through estimated GFR (eGFR). One of these CKD-associated SHROOM3 variants, rs17319721, has been shown to impact cis-expression and renal allograft fibrosis [ 13 ]. Genetic polymorphisms in solute carrier family 7-member 9 (SLC7A9) gene, an amino acid transporter in renal proximal tubule cells, cause cystinuria [ 14 ], showing an association with GFR [ 3 , 15 ], and have been identified as a risk factor for CKD patients of European ancestry [ 8 ]. Variants of cystatin C (CST3) have been also shown to impact altered eGFR and kidney disease [ 16 ]. Polymorphisms in myosin heavy chain 9 (MYH9) gene on chromosome 22 have been shown to be associated with a risk for focal segmental glomerulosclerosis (FSGS), HIV-associated nephropathy CKD with admixed nondiabetic kidney disease, hypertension-associated ESRD, and nondiabetic etiologies of ESRD [ 17 – 20 ]. The MYH9 risk polymorphisms are common among African Americans, contributing approximately 40–45% of all ESRD and 70% of nondiabetic ESRD [ 21 ]. 
+31534799_2461	182	185	CKD	Disease	DOID:784
+31534799_2461	204	250	genetic polymorphism in shroom family member 3	Biomarker
+31534799_2461	228	250	shroom family member 3	Gene-protein	HGNC:30422
+31534799_2461	252	259	SHROOM3	Gene-protein	HGNC:30422
+31534799_2461	286	289	CKD	Disease
+31534799_2461	325	332	SHROOM3	Gene-protein
+31534799_2461	515	522	SHROOM3	Gene-protein
+31534799_2461	515	522	SHROOM3	Biomarker	C000596976
+31534799_2461	589	603	kidney disease	Disease	DOID:557
+31534799_2461	612	625	estimated GFR	Biomarker
+31534799_2461	647	690	CKD-associated SHROOM3 variants, rs17319721	Biomarker
+31534799_2461	662	669	SHROOM3	Gene-protein
+31534799_2461	736	760	renal allograft fibrosis	Disease	not found
+31534799_2461	769	840	Genetic polymorphisms in solute carrier family 7-member 9 (SLC7A9) gene	Biomarker
+31534799_2461	794	826	solute carrier family 7-member 9	Gene-protein	HGNC:11067
+31534799_2461	828	834	SLC7A9	Gene-protein	HGNC:11067
+31534799_2461	845	855	amino acid	Chemical
+31534799_2461	906	916	cystinuria	Disease	DOID:9266
+31534799_2461	906	1018	cystinuria [ 14 ], showing an association with GFR [ 3 , 15 ], and have been identified as a risk factor for CKD	Collection
+31534799_2461	953	956	GFR	Biomarker
+31534799_2461	1015	1018	CKD	Disease
+31534799_2461	1056	1078	Variants of cystatin C	Biomarker
+31534799_2461	1068	1078	cystatin C	Gene-protein	HGNC:2475
+31534799_2461	1080	1084	CST3	Gene-protein	HGNC:2475
+31534799_2461	1117	1129	altered eGFR	Biomarker
+31534799_2461	1134	1148	kidney disease	Disease
+31534799_2461	1157	1206	Polymorphisms in myosin heavy chain 9 (MYH9) gene	Biomarker
+31534799_2461	1174	1194	myosin heavy chain 9	Gene-protein	HGNC:7579
+31534799_2461	1196	1200	MYH9	Gene-protein	HGNC:7579
+31534799_2461	1273	1307	focal segmental glomerulosclerosis	Disease	DOID:1312
+31534799_2461	1273	1452	focal segmental glomerulosclerosis (FSGS), HIV-associated nephropathy CKD with admixed nondiabetic kidney disease, hypertension-associated ESRD, and nondiabetic etiologies of ESRD	Collection
+31534799_2461	1309	1313	FSGS	Disease	DOID:1312
+31534799_2461	1316	1386	HIV-associated nephropathy CKD with admixed nondiabetic kidney disease	Disease	not found, not found	Conjunction
+31534799_2461	1388	1416	hypertension-associated ESRD	Disease	not found
+31534799_2461	1422	1452	nondiabetic etiologies of ESRD	Disease	not found
+31534799_2461	1470	1474	MYH9	Gene-protein
+31534799_2461	1470	1493	MYH9 risk polymorphisms	Biomarker
+31534799_2461	1571	1575	ESRD	Disease	DOID:783
+31534799_2461	1571	1603	ESRD and 70% of nondiabetic ESRD	Collection
+31534799_2461	1587	1603	nondiabetic ESRD	Disease	not found
+

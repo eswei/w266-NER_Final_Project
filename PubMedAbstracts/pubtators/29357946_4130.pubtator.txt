@@ -1,0 +1,45 @@
+29357946_4130|t|RSS_IDENT_p_29357946_b_1_1_3
+29357946_4130|a| In our previous study investigating global profiling of gene expression in RCC cells with different metastatic potential, we found that follistatin-like protein 1 (FSTL1) was frequently down-regulated in metastatic ccRCC [ 19 ]; and the C allele of rs1259293 in the coding region of FSLT1 was associated with an increased risk and unfavorable postoperative prognosis of RCC, possibly by down-regulating FSTL1 expression in renal tissues [ 20 ]. FSTL1, a secreted glycoprotein encoded on chromosome 3 in humans, is widely expressed in cells of non-hematopoietic lineage, particularly in cells of the mesenchymal lineage [ 21 ]. FSTL1 is induced in response to inflammatory injuries and plays important roles in promoting the accumulation of myofibroblasts and subsequent fibrosis, promoting cardiac function, and reducing glomerular and tubulointerstitial inflammatory damage in the kidney via attenuating tumor necrosis factor alpha (TNFα)-stimulated expression of proinflammatory cytokines [ 22 – 24 ]. The role of FSTL1 in cancers is controversial. During cancer metastasis from the primary site to the bone, FSTL1 mediates cancer cell invasion and expands a population of bone marrow-derived pluripotent mesenchymal stem-like cells [ 25 ]. In prostate cancer, the androgen-dependent up-regulation of FSTL1 promotes growth of cancer cells [ 26 ]. In colorectal cancer (CRC), FSTL1 is selectively expressed in cancer stroma and attenuates CRC cell proliferation [ 27 ]. Although FSTL1 is overexpressed in plasma and cancerous tissues of CRC patients, it has not been, thus far, implicated in prognosis [ 28 ]. In ovarian and endometrial cancers, FSTL1 functions as a tumor suppressor via inducing apoptosis [ 29 ]. However, the role of FSTL1 in RCC remains elusive. 
+29357946_4130	105	108	RCC	Disease	DOID:4450
+29357946_4130	166	192	follistatin-like protein 1	Gene-protein	HGNC:3972
+29357946_4130	166	230	follistatin-like protein 1 (FSTL1) was frequently down-regulated	Biomarker
+29357946_4130	194	199	FSTL1	Gene-protein	HGNC:3972
+29357946_4130	234	250	metastatic ccRCC	Disease	DOID:4467
+29357946_4130	267	318	C allele of rs1259293 in the coding region of FSLT1	Biomarker
+29357946_4130	313	318	FSLT1	Gene-protein
+29357946_4130	400	403	RCC	Disease
+29357946_4130	433	438	FSTL1	Gene-protein
+29357946_4130	475	480	FSTL1	Gene-protein
+29357946_4130	657	662	FSTL1	Gene-protein
+29357946_4130	657	662	FSTL1	Biomarker	C448799
+29357946_4130	800	808	fibrosis	Disease	D005355
+29357946_4130	800	904	fibrosis, promoting cardiac function, and reducing glomerular and tubulointerstitial inflammatory damage	Collection
+29357946_4130	851	904	glomerular and tubulointerstitial inflammatory damage	Disease	not found
+29357946_4130	935	962	tumor necrosis factor alpha	Gene-protein	HGNC:11892
+29357946_4130	964	968	TNFα	Gene-protein	HGNC:11892
+29357946_4130	995	1020	proinflammatory cytokines	Genefamily	not found
+29357946_4130	1046	1051	FSTL1	Gene-protein
+29357946_4130	1055	1062	cancers	Disease	DOID:162
+29357946_4130	1088	1105	cancer metastasis	Disease	DOID:162
+29357946_4130	1141	1146	FSTL1	Gene-protein
+29357946_4130	1141	1146	FSTL1	Biomarker
+29357946_4130	1156	1162	cancer	Disease	DOID:162
+29357946_4130	1276	1291	prostate cancer	Disease	DOID:10283
+29357946_4130	1297	1305	androgen	Chemical
+29357946_4130	1297	1338	androgen-dependent up-regulation of FSTL1	Biomarker
+29357946_4130	1333	1338	FSTL1	Gene-protein
+29357946_4130	1358	1364	cancer	Disease
+29357946_4130	1382	1399	colorectal cancer	Disease	DOID:9256
+29357946_4130	1401	1404	CRC	Disease	DOID:9256
+29357946_4130	1407	1412	FSTL1	Gene-protein
+29357946_4130	1407	1412	FSTL1	Drug	C448799
+29357946_4130	1470	1473	CRC	Disease
+29357946_4130	1510	1515	FSTL1	Gene-protein
+29357946_4130	1510	1532	FSTL1 is overexpressed	Biomarker
+29357946_4130	1568	1571	CRC	Disease
+29357946_4130	1644	1675	ovarian and endometrial cancers	Disease	DOID:2394, DOID:1380
+29357946_4130	1677	1682	FSTL1	Gene-protein
+29357946_4130	1677	1682	FSTL1	Drug
+29357946_4130	1767	1772	FSTL1	Gene-protein
+29357946_4130	1776	1779	RCC	Disease
+

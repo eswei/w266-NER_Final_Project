@@ -1,0 +1,89 @@
+T10	Disease 340 359	IgAN with hematuria
+#2	AnnotatorNotes T10	not found, D006417
+T12	Disease 491 495	IgAN
+T13	Disease 518 522	IgAN
+T14	Drug 618 621	BGG
+T15	Drug 647 654	hirudin
+T19	Chemical 710 720	creatinine
+T2	Disease 28 56	Immunoglobulin A nephropathy
+#10	AnnotatorNotes T2	D005922
+T21	Chemical 725 738	urea nitrogen
+T23	Disease 742 746	IgAN
+T25	Disease 904 908	IgAN
+T28	Gene-Protein 992 998	CoI-IV
+T29	Disease 1059 1063	IgAN
+T3	Disease 58 62	IgAN
+#19	AnnotatorNotes T3	D005922
+T30	Drug 1082 1089	hirudin
+T31	Disease 1104 1108	IgAN
+T32	Disease 1141 1145	IgAN
+T33	Biomarker 1172 1227	increased inflammatory factors (IL-1β, IL-6, and IL-18)
+T34	Drug 1235 1242	hirudin
+T35	Biomarker 1311 1382	reduced levels of CD4⁺CD25⁺Foxp3⁺ Treg and CD4⁺IFN-γ⁺ Th1/CD4⁺IL-4⁺ Th2
+T36	Disease 1415 1419	IgAN
+T37	Disease 1458 1462	IgAN
+T39	Disease 1553 1557	IgAN
+T4	Biomarker 102 119	IgG co-deposition
+T40	Drug 1612 1619	hirudin
+T41	Disease 1637 1641	IgAN
+T42	Disease 1662 1670	fibrosis
+T43	Disease 1755 1759	IgAN
+T5	Biomarker 147 151	IgAN
+T7	Disease 217 240	end-stage renal disease
+#32	AnnotatorNotes T7	DOID:783
+T8	Disease 242 246	ESRD
+T9	Drug 262 269	Hirudin
+T1	Biomarker 84 97	mesangial IgA
+T44	Collection 84 119	mesangial IgA and IgG co-deposition
+R1	Association Arg1:T44 Arg2:T2	
+T45	Gene-Protein 28 44	Immunoglobulin A
+#1	AnnotatorNotes T45	not found
+T46	Gene-Protein 94 97	IgA
+#6	AnnotatorNotes T46	not found
+T47	Gene-Protein 102 105	IgG
+#7	AnnotatorNotes T47	not found
+#9	AnnotatorNotes T8	DOID:783
+A1	Conjunction T10
+#3	AnnotatorNotes T9	D006629
+R3	Response Arg1:T9 Arg2:T10	
+T6	Drug 434 441	hirudin
+T11	Drug 595 616	bovine gamma-globulin
+#4	AnnotatorNotes T11	not found
+#5	AnnotatorNotes T14	not found
+R5	Response Arg1:T15 Arg2:T23	
+T16	Drug 769 776	hirudin
+T18	Gene-Protein 876 885	caspase-3
+T20	Gene-Protein 890 899	caspase-9
+T22	Gene-Protein 938 968	transforming growth factor β-1
+T27	Gene-Protein 970 976	TGF-β1
+T48	Gene-Protein 979 990	Collagen-IV
+T49	Gene-Protein 1004 1017	Fibronectin-1
+R6	Response Arg1:T30 Arg2:T29	
+R7	Association Arg1:T33 Arg2:T32	
+T50	Gene-Protein 1204 1209	IL-1β
+T51	Gene-Protein 1211 1215	IL-6
+T52	Gene-Protein 1221 1226	IL-18
+T53	Drug 1404 1411	hirudin
+T54	Drug 1464 1471	hirudin
+T55	Gene-Protein 1507 1511	IκBα
+T56	GeneFamily 1513 1518	NF-κB
+T57	Gene-Protein 1520 1525	TNF-α
+T58	Gene-Protein 1531 1537	VCAM-1
+R8	Response Arg1:T40 Arg2:T41	
+T59	Gene-Protein 293 301	thrombin
+#11	AnnotatorNotes T59	HGNC:3535
+T60	Drug-Class 293 311	thrombin inhibitor
+R4	Response Arg1:T16 Arg2:T25	
+T24	Biomarker 683 738	evel of proteinuria, serum creatinine and urea nitrogen
+R2	Association Arg1:T5 Arg2:T7	
+#8	AnnotatorNotes T5	D005922
+T17	GeneFamily 1182 1202	inflammatory factors
+T26	Biomarker 920 1017	fibrosis indexes (transforming growth factor β-1 (TGF-β1), Collagen-IV (CoI-IV) and Fibronectin-1
+T38	Gene-Protein 1329 1332	CD4
+T61	Gene-Protein 1333 1337	CD25
+T62	Gene-Protein 1338 1343	Foxp3
+T63	Gene-Protein 1354 1357	CD4
+T64	Gene-Protein 1358 1363	IFN-γ
+T65	Gene-Protein 1369 1372	CD4
+T66	Gene-Protein 1373 1377	IL-4
+R9	Response Arg1:T34 Arg2:T32	

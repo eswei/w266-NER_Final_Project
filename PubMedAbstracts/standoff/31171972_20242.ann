@@ -1,0 +1,102 @@
+T17	Disease 1128 1142	Gonadoblastoma
+#6	AnnotatorNotes T17	DOID:3301
+T18	Chemical 1241 1247	lysine
+T19	Chemical 1295 1301	lysine
+T20	Disease 1317 1328	Infertility
+#10	AnnotatorNotes T20	DOID:5223
+T21	Chemical 1456 1462	Lysine
+T22	Disease 1526 1537	Infertility
+T24	Chemical 1665 1674	Phosphate
+T3	Disease 170 204	cryptorchidism-induced infertility
+#15	AnnotatorNotes T3	not found
+T7	Disease 600 634	cryptorchidism-induced infertility
+T25	Gene-Protein 447 452	USP9Y
+T26	Gene-Protein 454 457	UTY
+T27	Gene-Protein 459 465	TXLNGY
+T28	Gene-Protein 467 473	RBMY1B
+T29	Gene-Protein 475 481	RBMY1E
+T30	Gene-Protein 483 489	RBMY1J
+T31	Gene-Protein 494 499	TSPY4
+T32	Gene-Protein 650 653	AZF
+T33	Gene-Protein 673 677	AZFa
+T9	Gene-Protein 654 672	Azoospermia Factor
+T34	Gene-Protein 678 705	Azoospermia Factor region a
+T35	Gene-Protein 706 710	AZFb
+T36	Gene-Protein 772 778	BCORP1
+T37	Gene-Protein 744 771	Azoospermia factor region c
+T38	Gene-Protein 739 743	AZFc
+T13	Gene-Protein 711 738	Azoospermia Factor region b
+T10	Gene-Protein 1406 1449	Heat shock transcription factor, Y linked 2
+T11	Gene-Protein 1036 1052	Y-linked FAM197Y
+T12	Gene-Protein 991 1034	Eukaryotic translation initiation factor 1A
+T39	Gene-Protein 984 990	EIF1AY
+T41	Gene-Protein 779 808	BCL6 corepressor pseudogene 1
+T42	Gene-Protein 1053 1098	Family with sequence similarity 197, Y-linked
+T43	Gene-Protein 813 835	Basic charge, Y-linked
+T44	Gene-Protein 809 812	BPY
+T14	Gene-Protein 843 873	Chromodomain protein, Y-linked
+T45	Gene-Protein 879 901	Deleted in azoospermia
+T46	Gene-Protein 875 878	DAZ
+T15	Drug-Class 1151 1156	GnRHa
+T47	Drug-Class 1157 1195	Gonadotropin-releasing hormone agonist
+T16	Gene-Protein 945 948	DBY
+T48	Gene-Protein 955 983	DEAD-Box Helicase 3 Y-Linked
+T49	GeneFamily 1219 1229	histone H3
+T50	GeneFamily 1273 1283	histone H3
+T51	Gene-Protein 1400 1405	HSFY2
+T52	Gene-Protein 1450 1455	KDM5D
+T53	Gene-Protein 1456 1490	Lysine (K)-specific demethylase 5D
+T54	Gene-Protein 1696 1731	RNA binding motif protein, Y-linked
+T55	Gene-Protein 2200 2203	VCY
+T56	Gene-Protein 2294 2323	Zinc finger protein, Y-linked
+T40	Gene-Protein 2290 2293	ZFY
+T57	Gene-Protein 2235 2289	XK, Kell blood group complex subunit-related, Y-linked
+T58	Gene-Protein 2230 2234	XKRY
+T59	Gene-Protein 2204 2229	Variable charge, Y-linked
+T60	Gene-Protein 2129 2199	Ubiquitously transcribed tetratricopeptide repeat containing, Y-linked
+T61	Gene-Protein 2125 2128	UTY
+T62	Gene-Protein 2084 2124	Ubiquitin specific peptidase 9, Y-linked
+T63	Gene-Protein 2078 2083	USP9Y
+T64	Gene-Protein 2043 2077	Taxilin gamma pseudogene, Y-linked
+T65	Gene-Protein 2036 2042	TXLNGY
+T66	Gene-Protein 1999 2035	Testis-specific transcript, Y-linked
+T67	Gene-Protein 1994 1998	TTTY
+T68	Gene-Protein 1960 1993	Testis-specific protein, Y-linked
+T69	Gene-Protein 1955 1959	TSPY
+T70	Gene-Protein 1909 1954	TGFB-induced factor homeobox 2-like, Y-linked
+T71	Gene-Protein 1901 1908	TGIF2LY
+T72	Gene-Protein 1873 1900	Sex determining region of Y
+T73	Gene-Protein 1869 1872	SRY
+T74	Gene-Protein 1814 1846	Ribosomal protein S4, Y-linked 1
+T75	Gene-Protein 1807 1813	RPS4Y1
+T76	Gene-Protein 1740 1806	RNA binding motif protein, Y-linked, family 2, member F pseudogene
+T77	Gene-Protein 1732 1739	RBMY2FP
+T78	Gene-Protein 1691 1695	RBMY
+T79	Gene-Protein 1638 1660	Neuroligin 4, Y-linked
+T80	Gene-Protein 1631 1637	NLGN4Y
+T81	Gene-Protein 1608 1630	Male-specific Y region
+T82	Gene-Protein 1604 1607	MSY
+T1	Gene-Protein 839 842	CDY
+T2	Gene-Protein 949 954	DDX3Y
+T4	GeneFamily 1491 1493	LH
+T5	GeneFamily 1494 1513	Luteinizing hormone
+T6	Disease 1851 1868	Sertoli cell-only
+#1	AnnotatorNotes T6	DOID:0050457
+T8	Disease 1847 1850	SCO
+#2	AnnotatorNotes T8	DOID:0050457
+T23	Gene-Protein 1157 1187	Gonadotropin-releasing hormone
+T83	Biomarker 57 76	Y-chromosomal genes
+R1	Association Arg1:T83 Arg2:T3	
+T84	Biomarker 447 452	USP9Y
+T85	Biomarker 454 457	UTY
+T86	Biomarker 459 465	TXLNGY
+T87	Biomarker 467 473	RBMY1B
+T88	Biomarker 475 481	RBMY1E
+T89	Biomarker 483 489	RBMY1J
+T90	Biomarker 494 499	TSPY4
+T91	Collection 447 499	USP9Y, UTY, TXLNGY, RBMY1B, RBMY1E, RBMY1J and TSPY4
+R2	Association Arg1:T91 Arg2:T7	
+#3	AnnotatorNotes T84	C481724
+#4	AnnotatorNotes T85	C484453
+#5	AnnotatorNotes T87	C000711709
+#7	AnnotatorNotes T90	C586980

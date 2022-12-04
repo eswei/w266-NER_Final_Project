@@ -1,0 +1,54 @@
+30057985_22370|t|RSS_IDENT_p_30057985_b_1_5_3
+30057985_22370|a| Elevated plasma levels of several cytokines and chemokines were detected in ET, PMF and PV patients compared to healthy subjects. This finding indicates that an inflammatory process may be involved in the physiopathology of MPN, as cytokines and chemokines act in autocrine, paracrine and endocrine manners, and may even affect the hematopoietic niche. The levels of two regulatory cytokines, IL-4 and IL-10, were increased in all patient groups, which suggests an attempt to counterbalance the excessive pro-inflammatory response. In addition, the levels of cytokine/chemokine expression differed between the three MPN groups. For instance, PMF patients exhibited higher plasma levels of IFN-γ, IL-12p70 and IL-17A than ET patients and higher plasma levels of TNF-α, IL-4, IL12-p70 and GM-CSF than PV patients. ET patients exhibited higher plasma levels of RANTES than CTRLs and PV, as well as higher levels of MIP-1β than PV patients. IL-12 and IL-17 are pro-inflammatory cytokines that participate in both innate and adaptive immune responses and whose altered levels have been correlated to the physiopathology of various diseases, including cancer. 26 , 27 , 28 RANTES, an important chemokine associated with cancer progression and metastasis, acts as a growth factor, stimulates angiogenesis and participates in immune evasion mechanisms. 29 , 30 In this context, the increased levels of IL-12p70, IL-17A and RANTES in PMF patients suggest that they bear a more intense inflammatory process than ET or PV patients do. 
+30057985_22370	30	87	Elevated plasma levels of several cytokines and chemokine	Biomarker
+30057985_22370	64	73	cytokines	Genefamily	not found
+30057985_22370	78	88	chemokines	Genefamily	family:483
+30057985_22370	106	108	ET	Disease	DOID:2224
+30057985_22370	106	120	ET, PMF and PV	Collection
+30057985_22370	110	113	PMF	Disease	DOID:4971
+30057985_22370	118	120	PV	Disease	DOID:8997
+30057985_22370	254	257	MPN	Disease	DOID:2226
+30057985_22370	262	271	cytokines	Genefamily
+30057985_22370	276	286	chemokines	Genefamily
+30057985_22370	412	421	cytokines	Genefamily
+30057985_22370	423	427	IL-4	Gene-protein	HGNC:6014
+30057985_22370	432	437	IL-10	Gene-protein	HGNC:5962
+30057985_22370	579	618	levels of cytokine/chemokine expression	Biomarker
+30057985_22370	589	597	cytokine	Genefamily
+30057985_22370	598	607	chemokine	Genefamily
+30057985_22370	646	649	MPN	Disease
+30057985_22370	672	675	PMF	Disease
+30057985_22370	685	745	exhibited higher plasma levels of IFN-γ, IL-12p70 and IL-17A	Biomarker
+30057985_22370	719	724	IFN-γ	Gene-protein	HGNC:5438
+30057985_22370	739	745	IL-17A	Gene-protein	HGNC:5981
+30057985_22370	751	753	ET	Disease
+30057985_22370	767	823	higher plasma levels of TNF-α, IL-4, IL12-p70 and GM-CSF	Biomarker
+30057985_22370	791	796	TNF-α	Gene-protein	HGNC:11892
+30057985_22370	798	802	IL-4	Gene-protein
+30057985_22370	804	812	IL12-p70	Gene-protein	HGNC:5969:, HGNC:5970
+30057985_22370	829	831	PV	Disease
+30057985_22370	842	844	ET	Disease
+30057985_22370	864	894	higher plasma levels of RANTES	Biomarker
+30057985_22370	888	894	RANTES	Gene-protein	HGNC:10632
+30057985_22370	910	912	PV	Disease
+30057985_22370	925	948	higher levels of MIP-1β	Biomarker
+30057985_22370	942	948	MIP-1β	Gene-protein	HGNC:10630
+30057985_22370	954	956	PV	Disease
+30057985_22370	967	972	IL-12	Gene-protein	HGNC:5969
+30057985_22370	967	972	IL-12	Biomarker	D018664
+30057985_22370	967	982	IL-12 and IL-17	Collection
+30057985_22370	977	982	IL-17	Gene-protein	HGNC:5981
+30057985_22370	977	982	IL-17	Biomarker	D020381
+30057985_22370	987	1013	pro-inflammatory cytokines	Genefamily
+30057985_22370	1176	1182	cancer	Disease	DOID:162
+30057985_22370	1197	1203	RANTES	Gene-protein
+30057985_22370	1197	1203	RANTES	Biomarker	D018946
+30057985_22370	1218	1227	chemokine	Genefamily
+30057985_22370	1244	1250	cancer	Disease
+30057985_22370	1404	1451	increased levels of IL-12p70, IL-17A and RANTES	Biomarker
+30057985_22370	1434	1440	IL-17A	Gene-protein	HGNC:5981
+30057985_22370	1445	1451	RANTES	Gene-protein
+30057985_22370	1455	1458	PMF	Disease
+30057985_22370	1532	1534	ET	Disease
+30057985_22370	1538	1540	PV	Disease
+

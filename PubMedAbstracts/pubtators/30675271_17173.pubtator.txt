@@ -1,0 +1,55 @@
+30675271_17173|t|RSS_IDENT_p_30675271_b_1_4_3
+30675271_17173|a| CPC contains Survivin, Borealin, Aurora-B and INCENP, and acts as a critical mitotic regulator that controls the cell cycle and serves a crucial role in the expansion of tumor cells ( 13 , 14 ). In the present study, the expression of USP22 was identified to be positively associated with Aurora-B and Survivin in OSCC. In addition, high USP22, Aurora-B, or Survivin expression is associated with a poor prognosis in OSCC, especially when all are highly expressed concomitantly. Survivin inhibits apoptosis, regulates chromosome separation and cell division ( 13 – 15 ), and is highly expressed in various types of cancer, which typically have a poor prognosis, including colorectal cancer, head and neck cancer, endometrial carcinoma and hepatocellular carcinoma ( 7 , 21 – 26 ). Aurora-B regulates cytokinesis and chromosome segregation together with Survivin, Borealin and INCENP ( 7 , 8 , 23 , 24 ). Aurora B is highly expressed in a number of types of cancer, including head and neck, colon, liver and breast cancer, and is associated with malignancy indicators, including the histological differentiation and lymph node metastasis ( 23 – 26 ). USP22, Aurora-B and Survivin are highly expressed in OSCC, and serve an important role in the tumorigenesis of oral cancer most likely by disrupting cell cycle progression ( 23 , 26 , 27 ). USP22, Aurora-B and Survivin expression may be promising markers for predicting the malignant behaviors of OSCC. These observations are supported by previous data suggesting that high levels of Survivin and Aurora-B were associated with more malignant phenotypes and that they were independent prognostic indicators for multifarious cancers ( 9 , 22 – 26 ). 
+30675271_17173	30	33	CPC	Genefamily	family:1338
+30675271_17173	30	33	CPC	Biomarker
+30675271_17173	43	51	Survivin	Gene-protein	HGNC:593
+30675271_17173	53	61	Borealin	Gene-protein	 HGNC:14629
+30675271_17173	63	71	Aurora-B	Gene-protein	HGNC:11390
+30675271_17173	76	82	INCENP	Gene-protein	HGNC:6058
+30675271_17173	200	205	tumor	Disease	DOID:162
+30675271_17173	265	270	USP22	Gene-protein	HGNC:12621
+30675271_17173	265	270	USP22	Biomarker	C527170
+30675271_17173	319	327	Aurora-B	Gene-protein
+30675271_17173	319	327	Aurora-B	Biomarker	C576921
+30675271_17173	332	340	Survivin	Gene-protein
+30675271_17173	332	340	Survivin	Biomarker	D000077022
+30675271_17173	344	348	OSCC	Disease	DOID:0050866
+30675271_17173	363	407	high USP22, Aurora-B, or Survivin expression	Biomarker
+30675271_17173	368	373	USP22	Gene-protein
+30675271_17173	375	383	Aurora-B	Gene-protein
+30675271_17173	388	396	Survivin	Gene-protein
+30675271_17173	447	451	OSCC	Disease
+30675271_17173	509	517	Survivin	Gene-protein
+30675271_17173	509	517	Survivin	Biomarker
+30675271_17173	645	651	cancer	Disease	DOID:162
+30675271_17173	645	793	cancer, which typically have a poor prognosis, including colorectal cancer, head and neck cancer, endometrial carcinoma and hepatocellular carcinoma	Collection
+30675271_17173	702	719	colorectal cancer	Disease	DOID:9256
+30675271_17173	721	741	head and neck cancer	Disease	DOID:11934
+30675271_17173	743	764	endometrial carcinoma	Disease	DOID:2871
+30675271_17173	769	793	hepatocellular carcinoma	Disease	DOID:684
+30675271_17173	811	819	Aurora-B	Gene-protein
+30675271_17173	883	891	Survivin	Gene-protein
+30675271_17173	893	901	Borealin	Gene-protein
+30675271_17173	906	912	INCENP	Gene-protein
+30675271_17173	934	942	Aurora B	Gene-protein	HGNC:11390
+30675271_17173	934	962	Aurora B is highly expressed	Biomarker
+30675271_17173	987	993	cancer	Disease
+30675271_17173	987	1050	cancer, including head and neck, colon, liver and breast cancer	Collection
+30675271_17173	1005	1050	head and neck, colon, liver and breast cancer	Disease	DOID:11934,DOID:219, DOID:3571, DOID:1612
+30675271_17173	1180	1185	USP22	Gene-protein
+30675271_17173	1180	1229	USP22, Aurora-B and Survivin are highly expressed	Biomarker
+30675271_17173	1187	1195	Aurora-B	Gene-protein
+30675271_17173	1200	1208	Survivin	Gene-protein
+30675271_17173	1233	1237	OSCC	Disease
+30675271_17173	1233	1302	OSCC, and serve an important role in the tumorigenesis of oral cancer	Collection
+30675271_17173	1291	1302	oral cancer	Disease	DOID:8618
+30675271_17173	1370	1375	USP22	Gene-protein
+30675271_17173	1370	1409	USP22, Aurora-B and Survivin expression	Biomarker
+30675271_17173	1377	1385	Aurora-B	Gene-protein
+30675271_17173	1390	1398	Survivin	Gene-protein
+30675271_17173	1477	1481	OSCC	Disease
+30675271_17173	1549	1585	high levels of Survivin and Aurora-B	Biomarker
+30675271_17173	1564	1572	Survivin	Gene-protein
+30675271_17173	1577	1585	Aurora-B	Gene-protein
+30675271_17173	1703	1710	cancers	Disease	DOID:162
+

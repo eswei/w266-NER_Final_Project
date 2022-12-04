@@ -1,0 +1,33 @@
+30828687_14760|t|RSS_IDENT_p_30828687_b_1_4_4
+30828687_14760|a| In this study, we confirmed the enhanced Ser‐71 phosphorylation of Rac1/Cdc42 protein in the osteoclast from the ADOII patient and ClC‐7 knockdown BMMs. Ser‐71 phosphorylated Rac1/Cdc42 appear to be in their active conformation according to pull‐down assay with PAK CRIB‐domain and Rho‐GDI.28 Both Rac1 and Cdc42 belong to GTPases of the Rho subfamily that exert on the actin cytoskeleton as well as differentiation and function of osteoclast.29, 30 However, evidence showed that the phosphorylation of Rac1 at Ser‐71 by Akt may inhibit GTP binding of Rac1, attenuating the signal transduction pathway downstream of Rac1.28, 31, 32 It is quite possible that the enhanced phosphorylation of Cdc42 can be associated with the augmented osteoclast differentiation in the ADOII patient. Cdc42 is well known to have a multifunctional role during osteoclastogenesis, which promotes proliferation and differentiation in osteoclast precursors and affects polarization of mature osteoclasts.30 Osteoclasts with dysfunctional G215R ClC‐7 can have an increased intracellular chloride level,20 which can lead to the enhanced activation of Cdc42 and osteoclast differentiation.
+30828687_14760	62	115	enhanced Ser‐71 phosphorylation of Rac1/Cdc42 protein	Biomarker
+30828687_14760	71	74	Ser	Chemical
+30828687_14760	97	101	Rac1	Gene-protein	HGNC:9801
+30828687_14760	102	107	Cdc42	Gene-protein	HGNC:1736
+30828687_14760	143	148	ADOII	Disease	DOID:0110938
+30828687_14760	161	166	ClC‐7	Gene-protein	HGNC:2025
+30828687_14760	183	186	Ser	Chemical
+30828687_14760	205	209	Rac1	Gene-protein
+30828687_14760	210	215	Cdc42	Gene-protein
+30828687_14760	292	307	PAK CRIB‐domain	Proteindomain
+30828687_14760	312	319	Rho‐GDI	Genefamily	not found
+30828687_14760	328	332	Rac1	Gene-protein
+30828687_14760	337	342	Cdc42	Gene-protein
+30828687_14760	368	371	Rho	Genefamily	family:390
+30828687_14760	400	405	actin	Genefamily	family:929
+30828687_14760	533	537	Rac1	Gene-protein
+30828687_14760	541	544	Ser	Chemical
+30828687_14760	551	554	Akt	Genefamily	family:1900
+30828687_14760	567	570	GTP	Chemical
+30828687_14760	582	586	Rac1	Gene-protein
+30828687_14760	646	650	Rac1	Gene-protein
+30828687_14760	692	725	enhanced phosphorylation of Cdc42	Biomarker
+30828687_14760	720	725	Cdc42	Gene-protein
+30828687_14760	797	802	ADOII	Disease
+30828687_14760	812	817	Cdc42	Gene-protein
+30828687_14760	1045	1050	G215R	Variant	p.Gly215Arg
+30828687_14760	1051	1056	ClC‐7	Gene-protein
+30828687_14760	1093	1101	chloride	Chemical
+30828687_14760	1156	1161	Cdc42	Gene-protein
+30828687_14760	1166	1192	osteoclast differentiation	Gene-protein
+

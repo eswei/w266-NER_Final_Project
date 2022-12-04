@@ -1,0 +1,55 @@
+T3	Biomarker 1166 1199	IL-17 was shown to be upregulated
+T4	Disease 1217 1223	asthma
+#2	AnnotatorNotes T4	DOID:2841
+T5	Disease 1232 1254	chronic rhinosinusitis
+#3	AnnotatorNotes T5	not found
+T6	Disease 1267 1271	COPD
+#4	AnnotatorNotes T6	DOID:3083
+T7	Gene-Protein 30 35	IL-17
+#5	AnnotatorNotes T7	HGNC:5981
+T8	Gene-Protein 723 728	IL-17
+T9	Gene-Protein 505 510	IL-17
+T1	Gene-Protein 173 196	tumor necrosis factor-α
+T10	Gene-Protein 251 256	G-CSF
+T11	Gene-Protein 198 203	TNF-α
+T12	Gene-Protein 206 210	IL-6
+T13	Gene-Protein 212 249	Granulocyte colony-stimulating factor
+T14	Gene-Protein 259 263	IL-1
+T15	Gene-Protein 265 297	chemokine (C-X-C motif) ligand 1
+T16	Gene-Protein 299 304	CXCL1
+T17	Gene-Protein 340 345	CCL20
+T18	Gene-Protein 307 338	chemokine (C-C motif) ligand 20
+T19	GeneFamily 352 377	matrix metalloproteinases
+T20	Gene-Protein 473 478	C/EBP
+T21	GeneFamily 428 460	mitogen-activated protein kinase
+T22	GeneFamily 421 426	NF-κB
+T23	GeneFamily 462 466	MAPK
+T24	GeneFamily 542 545	JAK
+T25	GeneFamily 546 550	STAT
+T26	GeneFamily 559 562	JAK
+T27	GeneFamily 590 594	PI3K
+T28	GeneFamily 563 588	phosphoinositide-3-kinase
+T2	GeneFamily 922 933	interleukin
+T29	Collection 1217 1271	asthma [ 73 ], chronic rhinosinusitis [ 81 ], and COPD
+T30	Gene-Protein 1166 1171	IL-17
+R1	Association Arg1:T3 Arg2:T29	
+#1	AnnotatorNotes T1	HGNC:11892
+#6	AnnotatorNotes T11	HGNC:11892
+#7	AnnotatorNotes T12	HGNC:6018
+#8	AnnotatorNotes T13	HGNC:2438
+#9	AnnotatorNotes T10	HGNC:2438
+#10	AnnotatorNotes T14	HGNC:5991
+#11	AnnotatorNotes T16	HGNC:4602
+#12	AnnotatorNotes T15	HGNC:4602
+#13	AnnotatorNotes T17	HGNC:10619
+#14	AnnotatorNotes T18	HGNC:10619
+#15	AnnotatorNotes T19	family:891
+#16	AnnotatorNotes T22	family:1254
+#17	AnnotatorNotes T21	family:651
+#18	AnnotatorNotes T23	family:651
+#19	AnnotatorNotes T20	family:1165
+#20	AnnotatorNotes T24	family:1459
+#21	AnnotatorNotes T25	not found
+#22	AnnotatorNotes T27	family:831
+#23	AnnotatorNotes T2	family:601
+#24	AnnotatorNotes T28	family:831

@@ -1,0 +1,60 @@
+31167513_1692|t|RSS_IDENT_s_31167513_b_1_1
+31167513_1692|a| 1. Introduction Receptor tyrosine kinases (RTKs) are cell membrane proteins comprising about 20 families with nearly 60 members. The Fibroblast Growth Factor Receptor (FGFR) family of human RTKs consists of four highly conserved transmembrane receptors (FGFR1–4) and one FGF receptor without an intracellular domain (FGFR5). FGFRs are mainly localized at the cell surface; however, they are also present inside of the cells, in the nucleus and mitochondria [ 1 ]. The common structure of cell membrane-localized FGFRs consists of a large ligand-binding extracellular region with three immunoglobulin-like (Ig-like) domains, a transmembrane helical region, and a cytoplasmic region with a catalytically active tyrosine kinase domain. The alternative splicing of the third Ig-like domain results in a variety of FGFR isoforms with different ligand specificities [ 2 , 3 ]. FGFR activity is modulated in diverse ways, including posttranslational modifications and formation of complexes with selected ligands and other cell membrane proteins [ 4 ]. Over 20 distinct fibroblast growth factors (FGFs) have been identified as the ligands of FGFRs. Binding of FGFs to FGFRs is assisted by cofactors, heparin sulfate proteoglycans (HSPGs) in paracrine FGF signaling, or Klotho coreceptor in endocrine signaling [ 5 ]. It triggers the dimerization of receptor monomers in the membrane and cross-autophosphorylation of tyrosine residues in the cytoplasmic kinase domain, which is followed by binding of various downstream effector molecules, including phospholipase C gamma (PLCγ), fibroblast growth factor receptor substrate 2 (FRS2), son of sevenless (SOS), and growth factor receptor-bound 2 (GRB2). FRS2 is an adaptor/scaffold protein, which acts downstream of a limited number of RTKs, including FGFR [ 6 ]. FRS2 was annotated as amplified in skin-derived tumors in the Cancer Genome Project dataset [ 7 , 8 ] and emerged as a potential therapeutic target in melanoma [ 9 ]. Binding of adaptor proteins induces the activation of several signaling pathways, such as protein kinase C (PKC), mitogen-activated protein kinase-extracellular signal-regulated kinase (MAPK-ERK), phosphoinositide 3-kinase/protein kinase B (PI3K/AKT), and signal transducer and activator of transcription 3/5 (STAT3/5) signaling pathway (Figure 1).
+31167513_1692	44	69	Receptor tyrosine kinases	Genefamily	family:321
+31167513_1692	53	61	tyrosine	Chemical
+31167513_1692	71	75	RTKs	Genefamily	family:321
+31167513_1692	161	194	Fibroblast Growth Factor Receptor	Genefamily	not found
+31167513_1692	196	200	FGFR	Genefamily	not found
+31167513_1692	218	222	RTKs	Genefamily
+31167513_1692	282	289	FGFR1–4	Gene-protein	HGNC:3688, HGNC:3689, HGNC:3690, HGNC:3691
+31167513_1692	299	311	FGF receptor	Genefamily	not found
+31167513_1692	345	350	FGFR5	Gene-protein	not found
+31167513_1692	353	358	FGFRs	Genefamily	not found
+31167513_1692	540	545	FGFRs	Genefamily
+31167513_1692	613	650	immunoglobulin-like (Ig-like) domains	Proteindomain
+31167513_1692	716	759	catalytically active tyrosine kinase domain	Proteindomain
+31167513_1692	737	745	tyrosine	Chemical
+31167513_1692	799	813	Ig-like domain	Proteindomain
+31167513_1692	838	842	FGFR	Genefamily
+31167513_1692	899	903	FGFR	Genefamily
+31167513_1692	1091	1116	fibroblast growth factors	Genefamily	family:1895
+31167513_1692	1118	1122	FGFs	Genefamily	family:1895
+31167513_1692	1163	1168	FGFRs	Genefamily
+31167513_1692	1181	1185	FGFs	Genefamily
+31167513_1692	1189	1194	FGFRs	Genefamily
+31167513_1692	1221	1250	heparin sulfate proteoglycans	Chemical
+31167513_1692	1252	1257	HSPGs	Chemical
+31167513_1692	1272	1275	FGF	Genefamily	family:1895
+31167513_1692	1290	1296	Klotho	Gene-protein	HGNC:6344
+31167513_1692	1437	1445	tyrosine	Chemical
+31167513_1692	1462	1487	cytoplasmic kinase domain	Proteindomain
+31167513_1692	1570	1591	phospholipase C gamma	Genefamily	not found
+31167513_1692	1593	1597	PLCγ	Genefamily	not found
+31167513_1692	1600	1645	fibroblast growth factor receptor substrate 2	Gene-protein	HGNC:16971
+31167513_1692	1647	1651	FRS2	Gene-protein	HGNC:16971
+31167513_1692	1654	1670	son of sevenless	Genefamily	not found
+31167513_1692	1672	1675	SOS	Genefamily	not found
+31167513_1692	1682	1712	growth factor receptor-bound 2	Gene-protein	HGNC:4566
+31167513_1692	1714	1718	GRB2	Gene-protein	HGNC:4566
+31167513_1692	1721	1725	FRS2	Gene-protein
+31167513_1692	1803	1807	RTKs	Genefamily
+31167513_1692	1819	1823	FGFR	Genefamily
+31167513_1692	1831	1835	FRS2	Genefamily
+31167513_1692	1831	1862	FRS2 was annotated as amplified	Biomarker
+31167513_1692	1866	1885	skin-derived tumors	Disease	not found
+31167513_1692	1866	1990	skin-derived tumors in the Cancer Genome Project dataset [ 7 , 8 ] and emerged as a potential therapeutic target in melanoma	Collection
+31167513_1692	1982	1990	melanoma	Disease	DOID:1909
+31167513_1692	2088	2104	protein kinase C	Genefamily	not found
+31167513_1692	2106	2109	PKC	Genefamily	not found
+31167513_1692	2112	2144	mitogen-activated protein kinase	Genefamily	family:651
+31167513_1692	2145	2182	extracellular signal-regulated kinase	Genefamily	not found
+31167513_1692	2184	2188	MAPK	Genefamily	family:651
+31167513_1692	2189	2192	ERK	Genefamily	not found
+31167513_1692	2195	2211	phosphoinositide	Chemical
+31167513_1692	2195	2220	phosphoinositide 3-kinase	Genefamily	family:831
+31167513_1692	2221	2237	protein kinase B	Genefamily	family:1900
+31167513_1692	2239	2243	PI3K	Genefamily	family:831
+31167513_1692	2244	2247	AKT	Genefamily	family:1900
+31167513_1692	2254	2306	signal transducer and activator of transcription 3/5	Gene-protein	HGNC:11364, HGNC:11366
+31167513_1692	2308	2315	STAT3/5	Gene-protein	HGNC:11364, HGNC:11366
+

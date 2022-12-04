@@ -1,0 +1,108 @@
+T1	Disease 28 48	Renal cell carcinoma
+#1	AnnotatorNotes T1	DOID:4450
+T10	Biomarker 399 416	expression of ERβ
+T12	Drug 526 535	estrogens
+T14	Disease 628 631	RCC
+T15	Gene-Protein 709 712	ERβ
+T16	Disease 725 728	RCC
+T19	Disease 896 913	ERβ‐increased RCC
+T2	Disease 50 53	RCC
+#8	AnnotatorNotes T2	DOID:4450
+T20	Disease 994 997	RCC
+T23	Drug 1115 1125	ICI182,780
+T24	Drug 1127 1135	Faslodex
+T26	Drug 1167 1239	4‐[2‐phenyl‐5,7 bis(trifluoromethyl)pyrazolo[1,5‐a]pyrimidin‐3‐yl]phenol
+T28	Disease 1265 1268	RCC
+T29	Disease 1380 1394	metastatic RCC
+T3	Disease 98 115	urological tumors
+#18	AnnotatorNotes T3	not found
+T31	Disease 1416 1447	clear cell renal cell carcinoma
+#20	AnnotatorNotes T31	DOID:4467
+T33	Chemical 1451 1465	17 β‐estradiol
+T36	Chemical 1535 1543	estrogen
+T37	Chemical 1558 1566	estrogen
+T38	Chemical 1684 1687	MTT
+T39	Chemical 1688 1749	3‐(4,5‐dimethylthiazol‐2‐yl)‐2,5‐diphenyl‐tetrazolium bromide
+T4	Disease 131 134	RCC
+T41	Drug 1756 1828	4‐[2‐phenyl‐5,7 bis(trifluoromethyl)pyrazolo[1,5‐a]pyrimidin‐3‐yl]phenol
+T42	Disease 1833 1853	renal cell carcinoma
+#31	AnnotatorNotes T42	DOID:4450
+T5	Disease 157 171	metastatic RCC
+#33	AnnotatorNotes T5	not found
+T7	Chemical 242 250	estrogen
+T8	Biomarker 242 261	estrogen receptor β
+T9	Disease 298 301	RCC
+T6	Gene-Protein 263 266	ERβ
+#3	AnnotatorNotes T6	HGNC:3468
+T11	Gene-Protein 413 416	ERβ
+T45	Gene-Protein 242 261	estrogen receptor β
+#2	AnnotatorNotes T45	HGNC:3468
+T46	Gene-Protein 426 429	ERα
+#4	AnnotatorNotes T46	HGNC:3467
+T47	Gene-Protein 508 511	ERβ
+T48	Gene-Protein 571 574	ERβ
+T49	Gene-Protein 597 600	ERβ
+T50	Gene-Protein 896 899	ERβ
+T51	Gene-Protein 1152 1155	ERβ
+T52	Gene-Protein 1558 1577	estrogen receptor β
+T53	GeneFamily 1532 1534	ER
+#5	AnnotatorNotes T53	not found
+T54	GeneFamily 1535 1551	estrogen recepto
+#6	AnnotatorNotes T54	not found
+T43	Gene-Protein 1047 1050	ERβ
+T55	Gene-Protein 762 791	transforming growth factor β1
+#7	AnnotatorNotes T55	HGNC:11766
+T56	Gene-Protein 793 799	TGF‐β1
+#10	AnnotatorNotes T56	HGNC:11766
+T57	Gene-Protein 801 806	SMAD3
+#11	AnnotatorNotes T57	HGNC:6769
+T58	Gene-Protein 840 845	SMAD3
+T59	Gene-Protein 833 839	TGF‐β1
+T60	Gene-Protein 861 867	TGFβR1
+#12	AnnotatorNotes T60	HGNC:11772
+R1	Association Arg1:T8 Arg2:T9	
+#9	AnnotatorNotes T8	D047629
+T61	Biomarker 446 467	tumor stage and grade
+T66	Biomarker 709 712	ERβ
+#13	AnnotatorNotes T66	D047629
+R3	Association Arg1:T66 Arg2:T16	
+T17	Drug-Class 861 877	TGFβR1 inhibitor
+#14	AnnotatorNotes T19	not found
+R4	Response Arg1:T17 Arg2:T19	
+T18	Gene-Protein 1058 1063	SMAD3
+T67	Gene-Protein 1051 1057	TGF‐β1
+#15	AnnotatorNotes T24	CHEMBL1358
+#16	AnnotatorNotes T23	CHEMBL1358
+T21	Drug-Class 1152 1166	ERβ antagonist
+#22	AnnotatorNotes T26	C556295
+T25	Collection 1115 1239	ICI182,780 (Faslodex) or a selective ERβ antagonist 4‐[2‐phenyl‐5,7 bis(trifluoromethyl)pyrazolo[1,5‐a]pyrimidin‐3‐yl]phenol
+R5	Response Arg1:T25 Arg2:T28	
+T27	Gene-Protein 1616 1621	IGF‐1
+#17	AnnotatorNotes T27	HGNC:5464
+T30	Gene-Protein 1466 1469	EGF
+#19	AnnotatorNotes T30	HGNC:3229
+T32	Gene-Protein 1470 1493	epidermal growth factor
+#21	AnnotatorNotes T32	HGNC:3229
+T34	Drug 1582 1593	ICI182, 780
+T35	Disease 1410 1415	ccRCC
+#23	AnnotatorNotes T35	DOID:4467
+T40	Gene-Protein 1622 1650	insulin‐like growth factor‐1
+#24	AnnotatorNotes T40	HGNC:5464
+T68	Disease 1829 1832	RCC
+T69	Gene-Protein 1920 1927	TGFβR‐1
+T70	Gene-Protein 1928 1967	transforming growth factor β receptor‐1
+T71	Gene-Protein 1890 1919	transforming growth factor β1
+T72	Gene-Protein 1883 1889	TGF‐β1
+T44	Drug 1750 1755	PHTPP
+#25	AnnotatorNotes T44	C556295
+T73	Drug-Class 1101 1114	anti‐estrogen
+T22	Chemical 1448 1450	E2
+T74	Gene-Protein 1553 1557	ESR2
+#26	AnnotatorNotes T74	HGNC:3468
+#27	AnnotatorNotes T70	HGNC:11772
+T62	Drug-Class 536 550	anti‐estrogens
+T13	Drug 552 574	shRNA knockdown of ERβ
+#28	AnnotatorNotes T13	not found
+T63	Drug 579 600	overexpression of ERβ
+#29	AnnotatorNotes T63	not found
+#30	AnnotatorNotes T12	CHEMBL592868

@@ -1,0 +1,44 @@
+30151059_12222|t|RSS_IDENT_p_30151059_b_1_4_3
+30151059_12222|a| To the best of our knowledge, this is the first study on PGRN and obesity-related markers in Chinese children. We found that serum PGRN concentrations were 1.5-fold higher in obese children, comparing to controls with normal weight. We also found that PGRN levels were positively correlated with BMI, TG, and TC in obese children. Our results were consistent with previous studies by Alissa and colleagues, who classified Saudi Arabia children into four groups based on quartiles of serum PGRN levels and found that children within the upper quartile of serum PGRN concentration were heavier and had higher concentrations of serum TC and TGs comparing to those in the lower quartile [ 22 ]. Moreover, in the previous study conducted by Qu et al., it was found that circulating PGRN concentrations were higher in obese group than healthy subjects and correlated positively with BMI [ 8 ]. Consistently, Li et al. [ 23 ] proved that serum PGRN concentrations were significantly higher in patients with metabolic syndrome (MS) than in subjects without MS and correlated positively with BMI and waist circumference. Results of these studies all indicate that increased circulating PGRN concentrations were closely related to measures of obesity, both in adults and children. The reasons behind elevated serum PGRN in obese subjects are still a matter of discussion. Our findings shed some light, implying that enhanced synthesis of this adipokine may result from augmented adipose tissue in obese subject, since adipose tissue matrix expresses PGRN gene [ 10 ], and it is the important source for circulating PGRN [ 24 ]. To verify this hypothesis, further studies are needed to analyze the expression of PGRN expression in adipose tissue in obese subjects. 
+30151059_12222	87	91	PGRN	Gene-protein	HGNC:4601
+30151059_12222	96	103	obesity	Disease	DOID:9970
+30151059_12222	155	201	serum PGRN concentrations were 1.5-fold higher	Biomarker
+30151059_12222	161	165	PGRN	Gene-protein
+30151059_12222	205	210	obese	Disease	DOID:9970
+30151059_12222	282	286	PGRN	Gene-protein
+30151059_12222	282	293	PGRN levels	Biomarker
+30151059_12222	326	329	BMI	Biomarker	D015992
+30151059_12222	331	333	TG	Biomarker
+30151059_12222	331	333	TG	Chemical
+30151059_12222	339	341	TC	Biomarker
+30151059_12222	345	350	obese	Disease
+30151059_12222	519	523	PGRN	Gene-protein
+30151059_12222	584	621	serum PGRN concentration were heavier	Biomarker
+30151059_12222	590	594	PGRN	Gene-protein
+30151059_12222	630	671	higher concentrations of serum TC and TGs	Biomarker
+30151059_12222	668	671	TGs	Chemical
+30151059_12222	795	838	circulating PGRN concentrations were higher	Biomarker
+30151059_12222	807	811	PGRN	Gene-protein
+30151059_12222	842	847	obese	Disease
+30151059_12222	907	910	BMI	Biomarker
+30151059_12222	961	1012	serum PGRN concentrations were significantly higher	Biomarker
+30151059_12222	967	971	PGRN	Gene-protein
+30151059_12222	1030	1048	metabolic syndrome	Disease	D024821
+30151059_12222	1050	1052	MS	Disease	D024821
+30151059_12222	1079	1081	MS	Disease
+30151059_12222	1113	1116	BMI	Biomarker
+30151059_12222	1121	1140	waist circumference	Biomarker
+30151059_12222	1185	1226	increased circulating PGRN concentrations	Biomarker
+30151059_12222	1207	1211	PGRN	Gene-protein
+30151059_12222	1263	1270	obesity	Disease
+30151059_12222	1320	1339	elevated serum PGRN	Biomarker
+30151059_12222	1335	1339	PGRN	Gene-protein
+30151059_12222	1343	1348	obese	Disease
+30151059_12222	1436	1472	enhanced synthesis of this adipokine	Biomarker
+30151059_12222	1463	1472	adipokine	Genefamily	not found
+30151059_12222	1517	1522	obese	Disease
+30151059_12222	1570	1574	PGRN	Gene-protein
+30151059_12222	1635	1639	PGRN	Gene-protein
+30151059_12222	1731	1735	PGRN	Gene-protein
+30151059_12222	1768	1773	obese	Disease
+

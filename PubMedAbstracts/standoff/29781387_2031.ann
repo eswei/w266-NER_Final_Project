@@ -1,0 +1,78 @@
+T0	Disease 59 84	hormone-responsive tumors
+#1	AnnotatorNotes T0	not found
+T1	Disease 104 106	EC
+#2	AnnotatorNotes T1	DOID:1380
+T10	Disease 837 852	prostate cancer
+#3	AnnotatorNotes T10	DOID:10283
+T12	Disease 901 903	EC
+T14	Disease 987 992	tumor
+#5	AnnotatorNotes T14	DOID:162
+T15	Disease 1019 1046	uterine endometrial cancers
+#6	AnnotatorNotes T15	DOID:1380
+T17	Disease 1317 1343	endometrial adenocarcinoma
+#7	AnnotatorNotes T17	DOID:2870
+T19	Disease 1434 1436	EC
+T2	Chemical 149 157	estrogen
+T20	Disease 1490 1492	EC
+T3	Chemical 184 192	estrogen
+T4	Disease 327 329	EC
+T5	Chemical 345 353	Estrogen
+T6	Disease 643 650	cancers
+#14	AnnotatorNotes T6	DOID:162
+T8	Disease 761 774	breast cancer
+#15	AnnotatorNotes T8	DOID:1612
+T7	Biomarker 137 165	activity of estrogen signals
+T9	Biomarker 170 216	expression of estrogen receptors (ERα and ERβ)
+T11	GeneFamily 184 202	estrogen receptors
+#9	AnnotatorNotes T11	not found
+T13	Gene-Protein 212 215	ERβ
+#11	AnnotatorNotes T13	HGNC:3468
+T16	Gene-Protein 204 207	ERα
+#13	AnnotatorNotes T16	HGNC:3467
+T18	Collection 137 216	activity of estrogen signals and expression of estrogen receptors (ERα and ERβ)
+R1	Association Arg1:T18 Arg2:T1	
+T21	GeneFamily 245 247	ER
+#16	AnnotatorNotes T21	not found
+T22	Drug 222 247	Targeted inhibition of ER
+R2	Response Arg1:T22 Arg2:T4	
+T23	GeneFamily 345 385	Estrogen receptor (ER)-related receptors
+#12	AnnotatorNotes T23	not found
+T24	GeneFamily 386 391	(ERRs
+#17	AnnotatorNotes T24	not found
+T25	Gene-Protein 393 397	ERRα
+#18	AnnotatorNotes T25	HGNC:3471
+T26	Gene-Protein 399 403	ERRβ
+#19	AnnotatorNotes T26	HGNC:3473
+T27	Gene-Protein 409 413	ERRγ
+#20	AnnotatorNotes T27	HGNC:3474
+T28	GeneFamily 436 440	NR3B
+#21	AnnotatorNotes T28	not found
+T29	GeneFamily 450 467	nuclear receptors
+#22	AnnotatorNotes T29	family:71
+T30	Gene-Protein 515 518	ERα
+T31	Biomarker 561 588	orphan nuclear receptor ERR
+T32	GeneFamily 585 588	ERR
+#23	AnnotatorNotes T32	not found
+R3	Association Arg1:T31 Arg2:T6	
+T33	Biomarker 669 690	increased ERRα levels
+T34	Gene-Protein 679 683	ERRα
+R4	Prognostic-Poor Arg1:T33 Arg2:T8	
+T35	Gene-Protein 781 785	ERRα
+T36	Biomarker 781 785	ERRα
+#24	AnnotatorNotes T36	C098744
+R5	Prognostic-Poor Arg1:T36 Arg2:T10	
+T37	Gene-Protein 869 873	ERRα
+T38	Biomarker 869 873	ERRα
+R6	Association Arg1:T38 Arg2:T12	
+T39	Biomarker 937 957	upregulation of ERRα
+T40	Gene-Protein 953 957	ERRα
+T41	Collection 987 1046	tumor growth and advancement in uterine endometrial cancers
+R7	Association Arg1:T39 Arg2:T41	
+T42	Biomarker 1066 1089	expression of ERRα mRNA
+T43	Gene-Protein 1080 1084	ERRα
+R8	Association Arg1:T42 Arg2:T17	
+T44	Gene-Protein 1381 1385	ERRα
+T45	Biomarker 1381 1385	ERRα
+R9	Association Arg1:T45 Arg2:T19	
+T46	Gene-Protein 1448 1452	ERRα
+#4	AnnotatorNotes T22	not found

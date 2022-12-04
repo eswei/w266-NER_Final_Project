@@ -1,0 +1,94 @@
+31372592_23713|t|RSS_IDENT_s_31372592_b_1_2_22
+31372592_23713|a| 2.21 Quantitative real‐time PCR analysis Total RNA was extracted from cells using Trizol (Invitrogen). Complementary DNA (cDNA) was synthesized from 2 μg of total RNA using the Super‐Script II First‐Strand Synthesis System (Invitrogen). mRNA levels were measured using quantitative real‐time PCR. The glyceraldehyde‐3‐phosphate dehydrogenase (Gapdh) gene was used as an endogenous control. The sequences of the primers used to target various genes are shown in Table 2. Details of the reaction system and amplification procedures have been described previously.24 Table 2 List of Human Inflammatory Cytokines Examined Using the Antibody Array (R&D Systems) Coordinate Analyte/Control Entrez Gene ID Alternate Nomenclature A1, A2 Reference Spots N/A RS A3, A4 Adiponectin 9370 Acrp30 A5, A6 Apolipoprotein A‐I 335 ApoA1 A7, A8 Angiogenin 283 ______ A9, A10 Angiopoietin‐1 284 Ang‐1, ANGPT1 A11, A12 Angiopoietin‐2 285 Ang‐2, ANGPT2 A13, A14 BAFF 10673 BLyS, TNFSF13B A15, A16 BDNF 627 Brain‐derived Neurotrophic Factor A17, A18 Complement Component C5/C5a 727 C5/C5a A19, A20 CD14 929 ______ A21, A22 CD30 943 TNFRSF8 A23, A24 Reference Spots N/A RS B3, B4 CD40 ligand 959 CD40L, TNFSF5, CD154, TRAP B5, B6 Chitinase 3‐like 1 1116 CHI3L1, YKL‐40 B7, B8 Complement Factor D 1675 Adipsin, CFD B9, B10 C‐Reactive Protein 1401 CRP B11, B12 Cripto‐1 6997 Teratocarcinoma‐derived Growth Factor B13, B14 Cystatin C 1471 CST3, ARMD11 B15, B16 Dkk‐1 22943 Dickkopf‐1 B17, B18 DPPIV 1803 CD26, DPP4, Dipeptidyl‐peptidase IV B19, B20 EGF 1950 Epidermal Growth Factor B21, B22 Emmprin 682 CD147, Basigin C3, C4 ENA‐78 6374 CXCL5 C5, C6 Endoglin 2022 CD105, ENG C7, C8 Fas Ligand 356 TNFSF6, CD178, CD95L C9, C10 FGF basic 2247 FGF‐2 C11, C12 FGF‐7 2252 KGF C13, C14 FGF‐19 9965 ______ C15, C16 Flt‐3 Ligand 2323 FLT3LG C17, C18 G‐CSF 1440 CSF3 C19, C20 GDF‐15 9518 MIC‐1 C21, C22 GM‐CSF 1437 CSF2 D1, D2 GROα 2919 CXCL1, MSGA‐α D3, D4 Growth Hormone 2688 GH, Somatotropin D5, D6 HGF 3082 Scatter Factor, SF D7, D8 ICAM‐1 3383 CD54 D9, D10 IFN‐γ 3458 IFNG D11, D12 IGFBP‐2 3485 ______ John Wiley & Sons, Ltd.
+31372592_23713	113	119	Trizol	Chemical
+31372592_23713	332	358	glyceraldehyde‐3‐phosphate	Chemical
+31372592_23713	332	372	glyceraldehyde‐3‐phosphate dehydrogenase	Gene-protein	HGNC:4141
+31372592_23713	374	379	Gapdh	Gene-protein	HGNC:4141
+31372592_23713	617	639	Inflammatory Cytokines	Genefamily	not found
+31372592_23713	790	801	Adiponectin	Gene-protein
+31372592_23713	807	813	Acrp30	Gene-protein
+31372592_23713	821	839	Apolipoprotein A‐I	Gene-protein
+31372592_23713	844	849	ApoA1	Gene-protein
+31372592_23713	857	867	Angiogenin	Gene-protein
+31372592_23713	887	901	Angiopoietin‐1	Gene-protein
+31372592_23713	906	911	Ang‐1	Gene-protein
+31372592_23713	913	919	ANGPT1	Gene-protein
+31372592_23713	929	943	Angiopoietin‐2	Gene-protein
+31372592_23713	948	953	Ang‐2	Gene-protein
+31372592_23713	955	961	ANGPT2	Gene-protein
+31372592_23713	971	975	BAFF	Gene-protein
+31372592_23713	982	986	BLyS	Gene-protein
+31372592_23713	988	996	TNFSF13B	Gene-protein
+31372592_23713	1006	1010	BDNF	Gene-protein
+31372592_23713	1015	1048	Brain‐derived Neurotrophic Factor	Gene-protein
+31372592_23713	1058	1085	Complement Component C5/C5a	Gene-protein
+31372592_23713	1090	1096	C5/C5a	Gene-protein
+31372592_23713	1106	1110	CD14	Gene-protein
+31372592_23713	1131	1135	CD30	Gene-protein
+31372592_23713	1140	1147	TNFRSF8	Gene-protein
+31372592_23713	1187	1198	CD40 ligand	Gene-protein
+31372592_23713	1203	1208	CD40L	Gene-protein
+31372592_23713	1210	1216	TNFSF5	Gene-protein
+31372592_23713	1218	1223	CD154	Gene-protein
+31372592_23713	1225	1229	TRAP	Gene-protein
+31372592_23713	1237	1255	Chitinase 3‐like 1	Gene-protein
+31372592_23713	1261	1267	CHI3L1	Gene-protein
+31372592_23713	1269	1275	YKL‐40	Gene-protein
+31372592_23713	1283	1302	Complement Factor D	Gene-protein
+31372592_23713	1308	1315	Adipsin	Gene-protein
+31372592_23713	1317	1320	CFD	Gene-protein
+31372592_23713	1329	1347	C‐Reactive Protein	Gene-protein
+31372592_23713	1353	1356	CRP	Gene-protein
+31372592_23713	1366	1374	Cripto‐1	Gene-protein
+31372592_23713	1380	1417	Teratocarcinoma‐derived Growth Factor	Gene-protein
+31372592_23713	1427	1437	Cystatin C	Gene-protein
+31372592_23713	1443	1447	CST3	Gene-protein
+31372592_23713	1449	1455	ARMD11	Gene-protein
+31372592_23713	1465	1470	Dkk‐1	Gene-protein
+31372592_23713	1477	1487	Dickkopf‐1	Gene-protein
+31372592_23713	1497	1502	DPPIV	Gene-protein
+31372592_23713	1508	1512	CD26	Gene-protein
+31372592_23713	1514	1518	DPP4	Gene-protein
+31372592_23713	1520	1543	Dipeptidyl‐peptidase IV	Gene-protein
+31372592_23713	1553	1556	EGF	Gene-protein
+31372592_23713	1562	1585	Epidermal Growth Factor	Gene-protein
+31372592_23713	1595	1602	Emmprin	Gene-protein
+31372592_23713	1607	1612	CD147	Gene-protein
+31372592_23713	1614	1621	Basigin	Gene-protein
+31372592_23713	1629	1635	ENA‐78	Gene-protein
+31372592_23713	1641	1646	CXCL5	Gene-protein
+31372592_23713	1654	1662	Endoglin	Gene-protein
+31372592_23713	1668	1673	CD105	Gene-protein
+31372592_23713	1675	1678	ENG	Gene-protein
+31372592_23713	1686	1696	Fas Ligand	Gene-protein
+31372592_23713	1701	1707	TNFSF6	Gene-protein
+31372592_23713	1709	1714	CD178	Gene-protein
+31372592_23713	1716	1721	CD95L	Gene-protein
+31372592_23713	1730	1733	FGF	Genefamily
+31372592_23713	1745	1750	FGF‐2	Gene-protein
+31372592_23713	1760	1765	FGF‐7	Gene-protein
+31372592_23713	1771	1774	KGF	Gene-protein
+31372592_23713	1784	1790	FGF‐19	Gene-protein
+31372592_23713	1812	1824	Flt‐3 Ligand	Gene-protein
+31372592_23713	1830	1836	FLT3LG	Gene-protein
+31372592_23713	1846	1851	G‐CSF	Gene-protein
+31372592_23713	1857	1861	CSF3	Gene-protein
+31372592_23713	1871	1877	GDF‐15	Gene-protein
+31372592_23713	1883	1888	MIC‐1	Gene-protein
+31372592_23713	1898	1904	GM‐CSF	Gene-protein
+31372592_23713	1910	1914	CSF2	Gene-protein
+31372592_23713	1922	1926	GROα	Gene-protein
+31372592_23713	1932	1937	CXCL1	Gene-protein
+31372592_23713	1939	1945	MSGA‐α	Gene-protein
+31372592_23713	1953	1967	Growth Hormone	Genefamily
+31372592_23713	1973	1975	GH	Gene-protein
+31372592_23713	1977	1989	Somatotropin	Gene-protein
+31372592_23713	1997	2000	HGF	Gene-protein
+31372592_23713	2006	2020	Scatter Factor	Gene-protein
+31372592_23713	2022	2024	SF	Gene-protein
+31372592_23713	2032	2038	ICAM‐1	Gene-protein
+31372592_23713	2044	2048	CD54	Gene-protein
+31372592_23713	2057	2062	IFN‐γ	Gene-protein
+31372592_23713	2068	2072	IFNG	Gene-protein
+31372592_23713	2082	2089	IGFBP‐2	Gene-protein
+

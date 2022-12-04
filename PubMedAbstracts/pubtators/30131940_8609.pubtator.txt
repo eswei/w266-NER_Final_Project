@@ -1,0 +1,48 @@
+30131940_8609|t|RSS_IDENT_s_30131940_b_1_2_4
+30131940_8609|a| Guanylate cyclase C (GUCY2C) The GUCY2C isoform belongs to the particulate family of guanylate cyclases. While other cyclases (including soluble guanylate cyclase and the particulate guanylate cyclases A and B) have a widespread tissue distribution, GUCY2C is largely restricted to the intestinal tract ( 15 , 16 ). It is expressed as a homodimer on the apical brush border of intestinal epithelial cells from the duodenum to the rectum, with its ligand-binding extracellular domain facing the intestinal lumen and its intracellular catalytic domain facing the cytosol ( 12 , 14 ). GUCY2C was initially characterized as the receptor for the bacterial heat-stable enterotoxin, ST, the causative agent of traveler's diarrhea ( 7 , 17 ). Extracellular ST binding activates the catalytic domain, generating intracellular cGMP. In turn, cGMP signaling canonically drives phosphorylation and translocation of the cystic fibrosis transmembrane conductance regulator (CFTR) to the cell surface, triggering Cl− and HCO<formula> efflux into the intestinal lumen ( 18 – 20 ). Additionally, cGMP signaling inhibits the apical Na⁺/H⁺ exchanger 3 (NHE3), preventing Na⁺ absorption from the lumen ( 18 – 20 ). The combined electrolyte efflux and retention in the lumen produces an osmotic gradient that drives fluid secretion and, in the pathological scenario, secretory diarrhea. Given this secretory function, GUCY2C has emerged as an attractive target for the treatment of constipation syndromes ( 21 , 22 ). Two GUCY2C agonists recently received FDA-approval for the treatment of chronic idiopathic constipation and constipation-predominant irritable bowel syndrome: linaclotide (Linzess™) ( 23 – 25 ) an ST analog, and plecanatide (Trulance™) ( 26 , 27 ) an analog of the endogenous GUYC2C ligand, uroguanylin (discussed below). Efficacy and tolerability of these agents was recently summarized ( 28 ).
+30131940_8609	30	39	Guanylate	Chemical
+30131940_8609	30	49	Guanylate cyclase C	Gene-protein	HGNC:4688
+30131940_8609	51	57	GUCY2C	Gene-protein	HGNC:4688
+30131940_8609	63	69	GUCY2C	Gene-protein
+30131940_8609	115	124	guanylate	Chemical
+30131940_8609	115	133	guanylate cyclases	Genefamily	family:819
+30131940_8609	147	155	cyclases	Genefamily	not found
+30131940_8609	167	192	soluble guanylate cyclase	Genefamily	family:820
+30131940_8609	175	184	guanylate	Chemical
+30131940_8609	213	222	guanylate	Chemical
+30131940_8609	213	239	guanylate cyclases A and B	Genefamily	not found, not found
+30131940_8609	280	286	GUCY2C	Gene-protein
+30131940_8609	477	512	ligand-binding extracellular domain	Proteindomain
+30131940_8609	549	579	intracellular catalytic domain	Proteindomain
+30131940_8609	612	618	GUCY2C	Gene-protein
+30131940_8609	612	618	GUCY2C	Biomarker	C000613654
+30131940_8609	733	752	traveler's diarrhea	Disease	not found
+30131940_8609	804	820	catalytic domain	Proteindomain
+30131940_8609	847	851	cGMP	Chemical
+30131940_8609	862	866	cGMP	Chemical
+30131940_8609	937	988	cystic fibrosis transmembrane conductance regulator	Gene-protein	HGNC:1884
+30131940_8609	990	994	CFTR	Gene-protein	HGNC:1884
+30131940_8609	1028	1030	Cl	Chemical
+30131940_8609	1109	1113	cGMP	Chemical
+30131940_8609	1144	1147	Na⁺	Chemical
+30131940_8609	1144	1162	Na⁺/H⁺ exchanger 3	Gene-protein	HGNC:11073
+30131940_8609	1148	1150	H⁺	Chemical
+30131940_8609	1164	1168	NHE3	Gene-protein	HGNC:11073
+30131940_8609	1182	1185	Na⁺	Chemical
+30131940_8609	1376	1394	secretory diarrhea	Disease	DOID:0050129
+30131940_8609	1427	1433	GUCY2C	Gene-protein
+30131940_8609	1427	1433	GUCY2C	Biomarker
+30131940_8609	1491	1513	constipation syndromes	Disease	DOID:2089
+30131940_8609	1531	1537	GUCY2C	Gene-protein
+30131940_8609	1531	1546	GUCY2C agonists	Drug-class
+30131940_8609	1599	1630	chronic idiopathic constipation	Disease	not found
+30131940_8609	1599	1684	chronic idiopathic constipation and constipation-predominant irritable bowel syndrome	Collection
+30131940_8609	1635	1684	constipation-predominant irritable bowel syndrome	Disease	not found
+30131940_8609	1686	1697	linaclotide	Drug	CHEMBL3301675
+30131940_8609	1686	1761	linaclotide (Linzess™) ( 23 – 25 ) an ST analog, and plecanatide (Trulance™	Collection
+30131940_8609	1699	1707	Linzess™	Drug	CHEMBL3301675
+30131940_8609	1739	1750	plecanatide	Drug	CHEMBL2103867
+30131940_8609	1752	1761	Trulance™	Drug	CHEMBL2103867
+30131940_8609	1803	1809	GUYC2C	Gene-protein
+30131940_8609	1818	1829	uroguanylin	Drug	C084362
+

@@ -1,0 +1,16 @@
+29443776_14608|t|RSS_IDENT_s_29443776_b_1_3_6
+29443776_14608|a| 3.4 Predicted targets of the identified miRNAs There is strong evidence that the function of miRNAs mainly depend on their targets. Using the Gene Ontology and KEGG database, we identified that miR-141-3p and miR-1915-5p target genes include ZEB1, ZEB2, EIF4E, BAP1, CLOCK, CD133, and PAX2. The possible biological impacts of the differentially expressed miRNAs based on Gene Ontology are cell–cell signaling, cell proliferation, cell differentiation, and cell death. The KEGG pathways are enriched in some biological pathways, such as p53 signaling pathway, mitogen-activated protein kinase, WNT, and Chemokine signaling pathways (Fig. 3). Figure 3 Pathway classifications of the predicted target genes regulated by differentially expressed microRNAs (miRNAs) in the normal skin samples from Uyghur and Han individuals. Pathway analysis was performed on genes predicted to be targets of differentially expressed miRNAs. (A) KEGG pathway classifications of predicted target genes; (B) GO enrichment of predicted target genes.
+29443776_14608	224	234	miR-141-3p	Rna-noncoding	HGNC:31528
+29443776_14608	239	250	miR-1915-5p	Rna-noncoding	HGNC:35399
+29443776_14608	272	276	ZEB1	Gene-protein	HGNC:11642
+29443776_14608	278	282	ZEB2	Gene-protein	HGNC:14881
+29443776_14608	284	289	EIF4E	Gene-protein	HGNC:3287
+29443776_14608	291	295	BAP1	Gene-protein	HGNC:950
+29443776_14608	297	302	CLOCK	Gene-protein	HGNC:2082
+29443776_14608	304	309	CD133	Gene-protein	HGNC:9454
+29443776_14608	315	319	PAX2	Gene-protein	HGNC:8616
+29443776_14608	566	569	p53	Gene-protein	HGNC:11998
+29443776_14608	589	621	mitogen-activated protein kinase	Genefamily	family:651
+29443776_14608	623	626	WNT	Genefamily	family:360
+29443776_14608	632	641	Chemokine	Genefamily	not found
+

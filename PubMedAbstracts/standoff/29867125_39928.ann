@@ -1,0 +1,62 @@
+T1	Chemical 109 116	steroid
+T11	Chemical 847 856	estradiol
+T13	Disease 998 1011	breast cancer
+#3	AnnotatorNotes T13	DOID:1612
+T15	Chemical 1099 1108	estradiol
+T16	Chemical 1168 1177	estradiol
+T17	Chemical 1292 1300	estrogen
+T18	Disease 1312 1325	breast cancer
+T20	Disease 1504 1509	NSCLC
+T22	Disease 1790 1795	NSCLC
+T3	Disease 152 157	NSCLC
+#10	AnnotatorNotes T3	DOID:3908
+T5	Disease 385 397	glioblastoma
+#11	AnnotatorNotes T5	DOID:3073
+T8	Disease 603 614	lung cancer
+#12	AnnotatorNotes T8	DOID:1324
+T2	RNA-Noncoding 89 96	miR-143
+#1	AnnotatorNotes T2	HGNC:31530
+T4	RNA-Noncoding 97 104	miR-145
+#2	AnnotatorNotes T4	 HGNC:31532
+T6	GeneFamily 109 134	steroid hormone receptors
+#4	AnnotatorNotes T6	not found
+T7	RNA-Noncoding 222 229	miR-143
+T10	RNA-Noncoding 1437 1444	miR-143
+T12	RNA-Noncoding 234 241	miR-145
+T14	RNA-Noncoding 701 708	miR-143
+T19	RNA-Noncoding 1445 1452	miR-145
+T21	RNA-Noncoding 1047 1054	miR-143
+T23	RNA-Noncoding 709 716	miR-145
+T24	RNA-Noncoding 1055 1062	miR-145
+T25	RNA-Noncoding 958 965	miR-145
+T26	RNA-Noncoding 1635 1642	miR-143
+T27	RNA-Noncoding 1643 1650	miR-145
+T28	RNA-Noncoding 829 836	miR-143
+T29	Chemical 265 277	sex hormones
+T30	Biomarker 540 571	activation of hormone receptors
+R1	Association Arg1:T30 Arg2:T8	
+T31	Gene-Protein 900 904	KRAS
+#5	AnnotatorNotes T31	HGNC:6407
+T32	Gene-Protein 980 983	ERα
+#6	AnnotatorNotes T32	HGNC:3467
+T33	Gene-Protein 1067 1069	AR
+#9	AnnotatorNotes T33	HGNC:644
+T34	GeneFamily 1193 1195	ER
+#13	AnnotatorNotes T34	not found
+T35	Gene-Protein 1379 1382	ERβ
+#14	AnnotatorNotes T35	HGNC:3468
+T36	Gene-Protein 1406 1409	ERβ
+T37	GeneFamily 1830 1846	hormone receptor
+T38	Biomarker 1812 1818	gender
+T39	Biomarker 1820 1825	miRNA
+T40	Biomarker 1830 1857	hormone receptor expression
+T41	GeneFamily 1655 1672	hormone receptors
+T42	Collection 1812 1857	gender, miRNA and hormone receptor expression
+T43	Chemical 680 696	steroid hormones
+#7	AnnotatorNotes T41	not found
+T9	Biomarker 89 96	miR-143
+#8	AnnotatorNotes T9	C542359
+T44	Biomarker 97 104	miR-145
+#15	AnnotatorNotes T44	C541010
+T45	Biomarker 109 134	steroid hormone receptors
+#16	AnnotatorNotes T45	D011987

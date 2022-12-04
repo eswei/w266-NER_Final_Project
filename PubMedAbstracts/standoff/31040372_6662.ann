@@ -1,0 +1,58 @@
+T0	Chemical 84 86	NO
+T1	Disease 130 157	precancerous breast lesions
+#2	AnnotatorNotes T1	not found
+T10	Disease 632 664	multiple (peripheral) papillomas
+#3	AnnotatorNotes T10	not found
+T12	Disease 666 694	precancerous mammary lesions
+#5	AnnotatorNotes T12	not found
+T13	Disease 708 724	desmoplastic ECM
+T14	Chemical 752 754	NO
+T18	Disease 943 963	precancerous lesions
+#8	AnnotatorNotes T18	not found
+T19	Chemical 987 989	NO
+T2	Disease 210 223	breast cancer
+#10	AnnotatorNotes T2	DOID:1612
+T21	Disease 1119 1139	precancerous lesions
+T23	Drug 1198 1209	sepiapterin
+T24	Chemical 1216 1218	NO
+T25	Drug 1234 1238	GSNO
+T29	Chemical 1294 1296	NO
+T30	Chemical 1445 1447	NO
+T31	Disease 1482 1509	precancerous breast lesions
+T4	Chemical 307 309	NO
+T5	Disease 358 364	cancer
+#23	AnnotatorNotes T5	DOID:162
+T7	Chemical 435 438	BH₄
+T3	Biomarker 75 97	aberrant NO production
+T6	CellLine 333 337	MECs
+T8	Biomarker 292 320	basal level of NO production
+R1	Association Arg1:T8 Arg2:T5	
+T15	GeneFamily 421 424	NOS
+#1	AnnotatorNotes T15	not found
+T16	GeneFamily 474 477	NOS
+T17	GeneFamily 514 517	NOS
+T20	Disease 456 472	oxidative stress
+#6	AnnotatorNotes T20	D018384
+T32	Biomarker 404 438	reduction of the NOS cofactor, BH₄
+#4	AnnotatorNotes T13	not found
+T11	Collection 632 724	multiple (peripheral) papillomas (precancerous mammary lesions) ⁵⁴ – ⁵⁸ and desmoplastic ECM
+T33	Drug 539 572	pharmacological deprivation of NO
+#7	AnnotatorNotes T33	not found
+R3	Causes Arg1:T33 Arg2:T11	
+T9	Biomarker 789 858	overactivation of an oncogene, ERBB2, and a fibrogenic cytokine, TGFβ
+T34	Gene-Protein 820 825	ERBB2
+T35	Gene-Protein 854 858	TGFβ
+T36	GeneFamily 833 852	fibrogenic cytokine
+T37	Biomarker 987 1074	NO-deprived mammary glands displayed bi-lineage phenotype and stem cell-like properties
+R5	Association Arg1:T37 Arg2:T21	
+#9	AnnotatorNotes T23	CHEMBL1255653
+T38	Drug-Class 1183 1196	BH₄ precursor
+#11	AnnotatorNotes T25		CHEMBL63507
+T22	Drug 1226 1230	SNAP
+#12	AnnotatorNotes T22	CHEMBL27308
+T26	Gene-Protein 1316 1320	TGFβ
+T27	Gene-Protein 1325 1330	ERBB2
+T28	Biomarker 1429 1458	deficient basal NO production
+R6	Association Arg1:T28 Arg2:T31	
+T39	Collection 1197 1239	(sepiapterin) or a NO donor (SNAP or GSNO)
+R2	Response Arg1:T39 Arg2:T31	

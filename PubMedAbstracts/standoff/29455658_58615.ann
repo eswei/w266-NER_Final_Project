@@ -1,0 +1,105 @@
+T1	Biomarker 40 79	Overexpression or dysregulation of RTKs
+T10	Biomarker 524 595	resistance-driven by mutations in RTKs and alternate pathway activation
+T11	Disease 657 681	metastatic breast cancer
+#1	AnnotatorNotes T11	DOID:1612
+T17	Disease 903 909	Cancer
+#7	AnnotatorNotes T17	DOID:14566|DOID:162
+T2	Disease 83 96	breast cancer
+#8	AnnotatorNotes T2	DOID:1612
+T20	Chemical 1301 1316	Phosphotyrosine
+T21	Chemical 1339 1347	tyrosine
+T22	Chemical 1454 1462	Tyrosine
+T5	Biomarker 231 235	RTKs
+T6	Disease 255 261	cancer
+#14	AnnotatorNotes T6	DOID:162
+T8	Disease 422 435	breast cancer
+T9	Disease 500 513	breast cancer
+T7	GeneFamily 75 79	RTKs
+#3	AnnotatorNotes T7	family:321
+T23	GeneFamily 231 235	RTKs
+T24	GeneFamily 355 359	RTKs
+T25	GeneFamily 558 562	RTKs
+T26	GeneFamily 619 622	RTK
+T27	GeneFamily 847 850	RTK
+T28	GeneFamily 1325 1329	RTKs
+T29	Gene-Protein 921 926	EGFRs
+#9	AnnotatorNotes T29	HGNC:3236
+T30	Gene-Protein 927 960	Epidermal growth factor receptors
+#10	AnnotatorNotes T30	HGNC:3236
+T31	GeneFamily 961 966	FGFRs
+#11	AnnotatorNotes T31	not found
+T32	GeneFamily 967 1001	Fibroblast growth factor receptors
+#13	AnnotatorNotes T32	not found
+T33	Gene-Protein 1002 1006	FRS2
+#15	AnnotatorNotes T33	HGNC:16971
+T34	Gene-Protein 1007 1031	FGF receptor substrate 2
+#16	AnnotatorNotes T34	HGNC:16971
+T35	Gene-Protein 1032 1036	Gab1
+#17	AnnotatorNotes T35	HGNC:4066
+T36	Gene-Protein 1037 1061	Grb2-associated binder 1
+#18	AnnotatorNotes T36	HGNC:4066
+R1	Association Arg1:T1 Arg2:T2	
+T3	Drug-Class 315 336	anti-cancer therapies
+R3	Mediated-Non-Response Arg1:T3 Arg2:T6	
+R4	Mediator Arg1:T3 Arg2:T5	
+#12	AnnotatorNotes T5	D020794
+T4	Biomarker 355 359	RTKs
+T37	GeneFamily 445 448	RTK
+T38	Drug-Class 445 464	RTK targeting drugs
+R6	Response Arg1:T38 Arg2:T9	
+T39	Drug-Class 614 635	anti-RTK therapeutics
+T40	GeneFamily 745 748	RTK
+T41	Drug-Class 740 756	anti-RTK therapy
+T42	Disease 842 881	anti-RTK therapy-resistant breast cance
+T12	Drug-Class 842 858	anti-RTK therapy
+T13	GeneFamily 1068 1104	Insulin-like growth factor receptors
+#2	AnnotatorNotes T13	not found
+T43	GeneFamily 1062 1067	IGFRs
+#20	AnnotatorNotes T43	not found
+T14	Gene-Protein 1105 1109	IRS1
+#4	AnnotatorNotes T14	HGNC:6125
+T15	GeneFamily 1143 1155	Janus kinase
+#5	AnnotatorNotes T15	family:1459
+T16	GeneFamily 1139 1142	JAK
+#6	AnnotatorNotes T16	family:1459
+T44	Gene-Protein 1110 1138	Insulin receptor substrate 1
+#21	AnnotatorNotes T44	HGNC:6125
+T45	GeneFamily 1156 1160	MAPK
+#22	AnnotatorNotes T45	family:651
+T46	GeneFamily 1161 1193	Mitogen-activated protein kinase
+#23	AnnotatorNotes T46	family:651
+T47	Gene-Protein 1194 1197	NGF
+#24	AnnotatorNotes T47	HGNC:7808
+T48	Gene-Protein 1198 1217	Nerve growth factor
+#25	AnnotatorNotes T48	HGNC:7808
+T19	GeneFamily 1218 1224	PDGFRs
+#26	AnnotatorNotes T19	not found
+T49	GeneFamily 1225 1265	Platelet-derived growth factor receptors
+#27	AnnotatorNotes T49	not found
+T50	GeneFamily 1266 1270	PI3K
+#28	AnnotatorNotes T50	family:831
+T51	GeneFamily 1271 1296	Phosphoinositide 3-kinase
+#29	AnnotatorNotes T51	family:831
+T52	GeneFamily 1484 1528	Vascular endothelial growth factor receptors
+#30	AnnotatorNotes T52	family:1267
+T53	GeneFamily 1477 1483	VEGFRs
+#31	AnnotatorNotes T53	family:1267
+T54	ProteinDomain 1454 1476	Tyrosine kinase domain
+T55	ProteinDomain 1450 1453	TKD
+T56	GeneFamily 1401 1449	Signal transducer and activator of transcription
+#32	AnnotatorNotes T56	not found
+T57	GeneFamily 1396 1400	STAT
+#33	AnnotatorNotes T57	not found
+T58	ProteinDomain 1381 1395	Src homology 2
+T59	ProteinDomain 1377 1380	SH2
+T60	Gene-Protein 1360 1376	Stem cell factor
+#36	AnnotatorNotes T60	HGNC:6343
+T61	Gene-Protein 1356 1359	SCF
+#37	AnnotatorNotes T61	HGNC:6343
+T62	GeneFamily 1330 1355	Receptor tyrosine kinases
+#38	AnnotatorNotes T62	family:321
+R7	Mediated-Non-Response Arg1:T39 Arg2:T11	
+R8	Mediator Arg1:T39 Arg2:T10	
+T18	Drug 345 359	targeting RTKs
+#19	AnnotatorNotes T18	not found
+R2	Response Arg1:T18 Arg2:T8	

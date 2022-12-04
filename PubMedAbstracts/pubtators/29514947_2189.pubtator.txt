@@ -1,0 +1,52 @@
+29514947_2189|t|RSS_IDENT_p_29514947_b_1_1
+29514947_2189|a| Frontotemporal dementia (FTD) is a heterogeneous disease encompassing behavioral variant FTD (bvFTD) and the primary progressive aphasias (PPAs): the semantic variant (svPPA), the nonfluent variant (nfvPPA), and the logopenic variant (lvPPA). ¹ , ² Motor neuron disease (MND), progressive supranuclear palsy (PSP), and corticobasal syndrome (CBS) are considered as part of the FTD spectrum. ³ The underlying pathology, frontotemporal lobar degeneration (FTLD), is heterogeneous with tau (FTLD-tau), TAR DNA-binding protein 43 (FTLD-TDP), or fused in sarcoma inclusions (FTLD-FUS). ⁴ Underlying pathology can only be predicted in genetic FTD: microtubule-associated protein tau (MAPT) mutations cause FTLD-tau, and progranulin (GRN) and chromosome 9 open reading frame 72 (C9orf72) mutations cause FTLD-TDP. ⁵ The svPPA and FTD-MND are often associated with FTLD-TDP, and PSP with FTLD-tau, whereas underlying pathology can poorly be predicted in bvFTD. ⁶
+29514947_2189	28	51	Frontotemporal dementia	Disease	DOID:9255
+29514947_2189	53	56	FTD	Disease	DOID:9255
+29514947_2189	98	120	behavioral variant FTD	Disease	not found
+29514947_2189	122	127	bvFTD	Disease	not found
+29514947_2189	137	165	primary progressive aphasias	Disease	D018888
+29514947_2189	167	171	PPAs	Disease	D018888
+29514947_2189	196	201	svPPA	Disease	not found
+29514947_2189	227	233	nfvPPA	Disease	not found
+29514947_2189	263	268	lvPPA	Disease	not found
+29514947_2189	277	297	Motor neuron disease	Disease	DOID:231
+29514947_2189	299	302	MND	Disease	DOID:231
+29514947_2189	305	335	progressive supranuclear palsy	Disease	DOID:678
+29514947_2189	337	340	PSP	Disease	DOID:678
+29514947_2189	347	368	corticobasal syndrome	Disease	not found
+29514947_2189	370	373	CBS	Disease	not found
+29514947_2189	405	408	FTD	Disease
+29514947_2189	447	480	frontotemporal lobar degeneration	Disease	DOID:9255
+29514947_2189	482	486	FTLD	Disease	DOID:9255
+29514947_2189	511	514	tau	Gene-protein	HGNC:6893
+29514947_2189	516	524	FTLD-tau	Disease	not found
+29514947_2189	521	524	tau	Gene-protein
+29514947_2189	527	553	TAR DNA-binding protein 43	Gene-protein	HGNC:11571
+29514947_2189	555	563	FTLD-TDP	Disease	not found
+29514947_2189	560	563	TDP	Gene-protein	HGNC:11571
+29514947_2189	569	585	fused in sarcoma	Gene-protein	HGNC:4010
+29514947_2189	598	606	FTLD-FUS	Disease	not found
+29514947_2189	603	606	FUS	Gene-protein
+29514947_2189	665	668	FTD	Disease
+29514947_2189	670	704	microtubule-associated protein tau	Gene-protein	HGNC:6893
+29514947_2189	670	721	microtubule-associated protein tau (MAPT) mutations	Biomarker
+29514947_2189	706	710	MAPT	Gene-protein	HGNC:6893
+29514947_2189	728	736	FTLD-tau	Disease
+29514947_2189	733	736	tau	Gene-protein
+29514947_2189	742	753	progranulin	Gene-protein	HGNC:4601
+29514947_2189	742	818	progranulin (GRN) and chromosome 9 open reading frame 72 (C9orf72) mutations	Biomarker
+29514947_2189	755	758	GRN	Gene-protein	HGNC:4601
+29514947_2189	764	798	chromosome 9 open reading frame 72	Gene-protein	HGNC:28337
+29514947_2189	800	807	C9orf72	Gene-protein	HGNC:28337
+29514947_2189	825	833	FTLD-TDP	Disease
+29514947_2189	830	833	TDP	Gene-protein
+29514947_2189	841	846	svPPA	Biomarker
+29514947_2189	841	858	svPPA and FTD-MND	Collection
+29514947_2189	851	858	FTD-MND	Biomarker
+29514947_2189	885	893	FTLD-TDP	Disease
+29514947_2189	890	893	TDP	Gene-protein
+29514947_2189	899	902	PSP	Biomarker
+29514947_2189	908	916	FTLD-tau	Disease
+29514947_2189	913	916	tau	Gene-protein
+29514947_2189	974	979	bvFTD	Disease
+

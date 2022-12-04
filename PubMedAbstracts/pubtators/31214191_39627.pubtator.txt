@@ -1,0 +1,59 @@
+31214191_39627|t|RSS_IDENT_p_31214191_b_1_2_3_1_1_1
+31214191_39627|a| Click here for additional data file. <url> Abbreviations IA adjuvant-induced arthritis AP-1 activator protein-1 BMP bone morphogenetic proteins CFA complete Freund's adjuvant CTR calcitonin receptor CTSK cathepsin K β-CTX C-terminal telopeptide of type I collagen DC dendritic cell DC-STAMP dendritic cell-specific transmembrane protein ECM extracellular matrix ERK extracellular signal-regulated kinase ESR erythrocyte sedimentation rate FBS fetal bovine serum H&E hematoxylin and eosin IFA incomplete Freund's adjuvant IHC immunohistochemical JNK c-Jun N-terminal kinase LPS lipopolysaccharide MAC membrane attack complex MBL Mannan-binding lectin M-CSF Macrophage colony-stimulating factor MITF microphthalmia transcription factor MMP matrix metalloproteinase NFATc1 nuclear factor of activated T-cells c1 NF-κB NF-kappaB OPG Osteoprotegerin OSCAR osteoclast-associated receptor PINP amino-terminal propeptide of type I procollagen PVDF polyvinylidene fluoride RA Rheumatoid arthritis RF rheumatoid factor RANKL receptor activator of nuclear factor-κB ligand TRAP tartrate-resistant acid phosphatase WT wild-type.
+31214191_39627	96	122	adjuvant-induced arthritis	Disease	D001169
+31214191_39627	123	127	AP-1	Gene-protein
+31214191_39627	128	147	activator protein-1	Gene-protein
+31214191_39627	148	151	BMP	Gene-protein
+31214191_39627	152	179	bone morphogenetic proteins	Gene-protein
+31214191_39627	211	214	CTR	Gene-protein
+31214191_39627	215	234	calcitonin receptor	Gene-protein
+31214191_39627	235	239	CTSK	Gene-protein
+31214191_39627	240	251	cathepsin K	Gene-protein
+31214191_39627	252	257	β-CTX	Gene-protein
+31214191_39627	258	259	C	Chemical
+31214191_39627	258	299	C-terminal telopeptide of type I collagen	Gene-protein
+31214191_39627	318	326	DC-STAMP	Gene-protein
+31214191_39627	327	372	dendritic cell-specific transmembrane protein	Gene-protein
+31214191_39627	398	401	ERK	Genefamily
+31214191_39627	402	439	extracellular signal-regulated kinase	Genefamily
+31214191_39627	440	443	ESR	Biomarker
+31214191_39627	444	474	erythrocyte sedimentation rate	Biomarker	D001799
+31214191_39627	502	513	hematoxylin	Chemical
+31214191_39627	518	523	eosin	Chemical
+31214191_39627	581	584	JNK	Genefamily
+31214191_39627	585	608	c-Jun N-terminal kinase	Genefamily
+31214191_39627	591	592	N	Chemical
+31214191_39627	609	612	LPS	Chemical
+31214191_39627	613	631	lipopolysaccharide	Chemical
+31214191_39627	660	663	MBL	Genefamily
+31214191_39627	664	670	Mannan	Chemical
+31214191_39627	664	685	Mannan-binding lectin	Genefamily
+31214191_39627	686	691	M-CSF	Gene-protein
+31214191_39627	692	728	Macrophage colony-stimulating factor	Gene-protein
+31214191_39627	729	733	MITF	Gene-protein
+31214191_39627	734	769	microphthalmia transcription factor	Gene-protein
+31214191_39627	770	773	MMP	Genefamily
+31214191_39627	774	798	matrix metalloproteinase	Genefamily
+31214191_39627	799	805	NFATc1	Gene-protein
+31214191_39627	806	844	nuclear factor of activated T-cells c1	Gene-protein
+31214191_39627	845	850	NF-κB	Genefamily
+31214191_39627	851	860	NF-kappaB	Genefamily
+31214191_39627	861	864	OPG	Gene-protein
+31214191_39627	865	880	Osteoprotegerin	Gene-protein
+31214191_39627	881	886	OSCAR	Gene-protein
+31214191_39627	887	917	osteoclast-associated receptor	Gene-protein
+31214191_39627	918	922	PINP	Chemical
+31214191_39627	923	928	amino	Chemical
+31214191_39627	924	970	mino-terminal propeptide of type I procollagen	Gene-protein
+31214191_39627	971	975	PVDF	Chemical
+31214191_39627	976	999	polyvinylidene fluoride	Chemical
+31214191_39627	1000	1002	RA	Disease	DOID:0060831
+31214191_39627	1003	1023	Rheumatoid arthritis	Disease	DOID:7148
+31214191_39627	1024	1026	RF	Gene-protein
+31214191_39627	1027	1044	rheumatoid factor	Gene-protein
+31214191_39627	1045	1050	RANKL	Gene-protein
+31214191_39627	1051	1097	receptor activator of nuclear factor-κB ligand	Gene-protein
+31214191_39627	1098	1102	TRAP	Gene-protein
+31214191_39627	1103	1111	tartrate	Chemical
+31214191_39627	1103	1138	tartrate-resistant acid phosphatase	Gene-protein
+

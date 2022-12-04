@@ -1,0 +1,60 @@
+31658856_27101|t|RSS_IDENT_p_31658856_b_1_4_4
+31658856_27101|a| The downregulation of miR-15a-5p has been identified in CKD with hypertension [ 35 , 36 ]. In addition, Ge et al suggested the downregulation of miR-16-5p, miR-15a-5p and miR-15b-5p in sepsis-induced AKI versus sepsis non AKI [ 27 ]. This consistency showed the important roles of these miRNAs in AKI. The difference is our present study identified lncRNAs related to these miRNAs. The expression of lncRNAs XIST and NEAT1 are significantly increased in glomerular and tubular epithelial cells, and urinary XIST serves as a potential marker for detecting membranous nephropathy [ 37 ]. Elevated XIST, which could be induced by LPS, is correlated with glomerular nephritis [ 37 ]. Our in vitro experiment using LPS-treated MPC5 cells showed XIST was elevated by LPS stimulus. We identified XIST regulated the expression of upregulated CUL3 by sponging the top 10 downregulated miRNAs, including miR-15a-5p, miR-16-5p and miR-107. The upregulation of CUL3 has been identified in patients with AKI [ 32 ]. Mutations in CUL3 reduced ubiquitination in the kidneys [ 38 , 39 ]. These studies indicated that XIST plays impressive roles in AKI via regulating CUL3 by sponging miRNAs. The miR-15a-5p-XIST-CUL3 regulatory axis in the ceRNA regulatory network was validated using the in vitro cellular experiment. We also demonstrated that miR-15a-5p inhibition reserved MPC5 cell apoptosis that was enhanced by XIST siRNA, so did as the overexpression of CUL3 for miR-15a-5p mimics-induced apoptosis in MPC5 cells. These data suggested that miR-15a-5p-XIST-CUL3 played crucial roles in sepsis-induced AKI, and the management targeting this axis might be of great value for controlling AKI development. 
+31658856_27101	34	62	downregulation of miR-15a-5p	Biomarker
+31658856_27101	52	62	miR-15a-5p	Rna-noncoding	HGNC:31543
+31658856_27101	86	107	CKD with hypertension	Disease	DOID:784, DOID:10763	Conjunction
+31658856_27101	157	211	downregulation of miR-16-5p, miR-15a-5p and miR-15b-5p	Biomarker
+31658856_27101	175	184	miR-16-5p	Rna-noncoding	not found
+31658856_27101	186	196	miR-15a-5p	Rna-noncoding
+31658856_27101	201	211	miR-15b-5p	Rna-noncoding	HGNC:31544
+31658856_27101	215	233	sepsis-induced AKI	Disease	not found
+31658856_27101	241	247	sepsis	Disease	DOID:0040085
+31658856_27101	252	255	AKI	Disease	DOID:3021
+31658856_27101	317	323	miRNAs	Rna-noncoding	family:476
+31658856_27101	317	323	miRNAs	Biomarker	D035683
+31658856_27101	327	330	AKI	Disease
+31658856_27101	416	523	expression of lncRNAs XIST and NEAT1 are significantly increased in glomerular and tubular epithelial cells	Biomarker
+31658856_27101	438	442	XIST	Rna-noncoding	HGNC:12810
+31658856_27101	447	452	NEAT1	Rna-noncoding	HGNC:30815
+31658856_27101	529	541	urinary XIST	Biomarker
+31658856_27101	537	541	XIST	Rna-noncoding
+31658856_27101	585	607	membranous nephropathy	Disease	DOID:10976
+31658856_27101	616	629	Elevated XIST	Biomarker
+31658856_27101	625	629	XIST	Rna-noncoding
+31658856_27101	657	660	LPS	Chemical
+31658856_27101	681	701	glomerular nephritis	Disease	DOID:2921
+31658856_27101	740	743	LPS	Chemical
+31658856_27101	752	756	MPC5	Cellline
+31658856_27101	770	774	XIST	Rna-noncoding
+31658856_27101	770	787	XIST was elevated	Biomarker
+31658856_27101	791	794	LPS	Chemical
+31658856_27101	819	823	XIST	Rna-noncoding
+31658856_27101	864	868	CUL3	Gene-protein	HGNC:2553
+31658856_27101	924	934	miR-15a-5p	Rna-noncoding
+31658856_27101	936	945	miR-16-5p	Rna-noncoding
+31658856_27101	950	957	miR-107	Rna-noncoding	HGNC:31496
+31658856_27101	963	983	upregulation of CUL3	Biomarker
+31658856_27101	979	983	CUL3	Gene-protein
+31658856_27101	1021	1024	AKI	Disease
+31658856_27101	1033	1042	Mutations	Variant
+31658856_27101	1046	1050	CUL3	Gene-protein
+31658856_27101	1131	1135	XIST	Rna-noncoding
+31658856_27101	1131	1135	XIST	Biomarker	C077885
+31658856_27101	1162	1165	AKI	Disease
+31658856_27101	1181	1185	CUL3	Gene-protein
+31658856_27101	1210	1220	miR-15a-5p	Rna-noncoding
+31658856_27101	1221	1225	XIST	Rna-noncoding
+31658856_27101	1226	1230	CUL3	Gene-protein
+31658856_27101	1359	1369	miR-15a-5p	Rna-noncoding
+31658856_27101	1390	1394	MPC5	Cellline
+31658856_27101	1431	1435	XIST	Rna-noncoding
+31658856_27101	1475	1479	CUL3	Gene-protein
+31658856_27101	1484	1494	miR-15a-5p	Rna-noncoding
+31658856_27101	1523	1527	MPC5	Cellline
+31658856_27101	1561	1571	miR-15a-5p	Rna-noncoding
+31658856_27101	1561	1581	miR-15a-5p-XIST-CUL3	Biomarker
+31658856_27101	1572	1576	XIST	Rna-noncoding
+31658856_27101	1577	1581	CUL3	Rna-noncoding
+31658856_27101	1606	1624	sepsis-induced AKI	Disease
+31658856_27101	1705	1708	AKI	Disease
+

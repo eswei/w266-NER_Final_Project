@@ -1,0 +1,49 @@
+T0	Disease 111 128	colorectal cancer
+#1	AnnotatorNotes T0	DOID:9256
+T11	Drug 611 614	FTD
+T12	Drug 635 646	doxycycline
+T13	Drug 685 688	FTD
+T14	Drug 706 717	doxycycline
+T16	Drug 916 919	FTD
+T17	Drug 1000 1011	doxycycline
+T18	Drug 1030 1041	doxycycline
+T19	Drug 1122 1125	FTD
+T21	Disease 1155 1187	cancers with high TK1 expression
+#12	AnnotatorNotes T21	not found
+T3	Drug 221 224	FTD
+T4	Drug 298 301	FTD
+T5	Chemical 323 333	nucleoside
+T7	Drug 394 397	FTD
+T8	Chemical 425 435	nucleoside
+T9	Drug 499 502	FTD
+T1	Gene-Protein 62 65	TK1
+#3	AnnotatorNotes T1	HGNC:11830
+T6	Drug 81 84	FTD
+#5	AnnotatorNotes T6	CHEMBL1129
+T2	Biomarker 154 175	overexpression of TK1
+T10	Gene-Protein 172 175	TK1
+T15	Gene-Protein 260 263	TK1
+T22	GeneFamily 323 346	nucleoside transporters
+#7	AnnotatorNotes T22	not found
+T23	Gene-Protein 348 353	hENT1
+#8	AnnotatorNotes T23	HGNC:11003
+T24	Gene-Protein 355 360	hENT2
+#10	AnnotatorNotes T24	HGNC:11004
+T25	Gene-Protein 365 370	hCNT1
+#13	AnnotatorNotes T25	HGNC:23096
+T26	GeneFamily 425 443	nucleoside kinases
+#14	AnnotatorNotes T26	not found
+T27	Gene-Protein 453 457	TMPK
+#15	AnnotatorNotes T27	HGNC:3061
+T28	Gene-Protein 462 465	NDK
+#16	AnnotatorNotes T28	HGNC:27015
+T30	Gene-Protein 545 548	TK1
+T31	Gene-Protein 671 674	TK1
+#2	AnnotatorNotes T12	CHEMBL1433
+T32	Gene-Protein 785 788	TK1
+T33	Gene-Protein 847 850	TK1
+T34	Gene-Protein 958 961	TK1
+R1	Response Arg1:T19 Arg2:T21	
+T20	Gene-Protein 1208 1211	TK1
+T35	Biomarker 1204 1222	low TK1 expression
+T29	Gene-Protein 1173 1176	TK1

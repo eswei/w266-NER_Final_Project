@@ -1,0 +1,42 @@
+30327688_12556|t|RSS_IDENT_p_30327688_b_1_6_4
+30327688_12556|a| NGAL is considered to be another sensitive and early biomarker of tubulointerstitial fibrosis. It is a small (25 kD) protein, locally synthesized in renal tubular epithelial cells [ 10 ] and released into urine. Initially, NGAL was thought to be a biomarker of acute kidney injury (AKI) [ 11 ] but recent studies demonstrated its increased urinary excretion also in patients with various chronic nephropathies. Furthermore, correlation between urinary NGAL excretion and severity of local inflammation and kidney function was observed [ 12 – 15 ]. NGAL may also be released into the circulation from damaged renal tubular epithelial cells. Its elevated serum level is suggested to be a risk factor for CKD progression [ 16 – 19 ]. In our study, it was also showed that urinary NGAL excretion may be a potential biomarker of ON in patients with HN due to UPJO [ 18 – 22 ]. We found that urinary NGAL excretion was significantly higher in patients with HN and ON as compared to patients with HN and without ON. In our study, urinary NGAL excretion positively correlated with a deterioration of relative function of an obstructed kidney in dynamic renal scintigraphy. Moreover, similar to the urinary alpha-GST/Cr ratio, the ROC curve analysis showed a very good diagnostic profile for the urinary NGAL/Cr ratio in the detection of ON. Interestingly, Gerber et al. [ 23 ] did not find significant differences in urinary NGAL excretion between patients with UPJO and controls. Nevertheless, their results might be influenced by relatively small number of cases. 
+30327688_12556	30	34	NGAL	Gene-protein	HGNC:6526
+30327688_12556	30	34	NGAL	Biomarker	C489506
+30327688_12556	96	123	tubulointerstitial fibrosis	Disease	DOID:0050855
+30327688_12556	253	257	NGAL	Gene-protein
+30327688_12556	253	257	NGAL	Biomarker
+30327688_12556	291	310	acute kidney injury	Disease	DOID:3021
+30327688_12556	291	439	acute kidney injury (AKI) [ 11 ] but recent studies demonstrated its increased urinary excretion also in patients with various chronic nephropathies	Collection
+30327688_12556	312	315	AKI	Disease	DOID:3021
+30327688_12556	418	439	chronic nephropathies	Disease	not found
+30327688_12556	474	496	urinary NGAL excretion	Biomarker
+30327688_12556	482	486	NGAL	Gene-protein
+30327688_12556	519	531	inflammation	Disease	D007249
+30327688_12556	578	582	NGAL	Gene-protein
+30327688_12556	578	582	NGAL	Biomarker
+30327688_12556	732	735	CKD	Disease	DOID:784
+30327688_12556	799	821	urinary NGAL excretion	Biomarker
+30327688_12556	807	811	NGAL	Chemical
+30327688_12556	854	876	ON in patients with HN	Disease	DOID:0070314, DOID:11111	Conjunction
+30327688_12556	884	888	UPJO	Biomarker
+30327688_12556	916	938	urinary NGAL excretion	Biomarker
+30327688_12556	924	928	NGAL	Gene-protein
+30327688_12556	981	983	HN	Disease	DOID:11111
+30327688_12556	981	990	HN and ON	Collection
+30327688_12556	988	990	ON	Disease	DOID:0070314
+30327688_12556	1020	1022	HN	Disease
+30327688_12556	1035	1037	ON	Disease
+30327688_12556	1053	1075	urinary NGAL excretion	Biomarker
+30327688_12556	1061	1065	NGAL	Gene-protein
+30327688_12556	1220	1246	urinary alpha-GST/Cr ratio	Biomarker
+30327688_12556	1220	1338	urinary alpha-GST/Cr ratio, the ROC curve analysis showed a very good diagnostic profile for the urinary NGAL/Cr ratio	Collection
+30327688_12556	1228	1237	alpha-GST	Genefamily	not found
+30327688_12556	1238	1240	Cr	Chemical
+30327688_12556	1317	1338	urinary NGAL/Cr ratio	Biomarker
+30327688_12556	1325	1329	NGAL	Gene-protein
+30327688_12556	1330	1332	Cr	Chemical
+30327688_12556	1359	1361	ON	Disease
+30327688_12556	1439	1461	urinary NGAL excretion	Biomarker
+30327688_12556	1447	1451	NGAL	Gene-protein
+30327688_12556	1484	1488	UPJO	Disease
+

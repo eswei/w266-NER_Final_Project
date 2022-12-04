@@ -1,0 +1,52 @@
+29416008_15865|t|RSS_IDENT_p_29416008_b_1_3_3
+29416008_15865|a| BA is a typical cholestatic neonatal disease that is a leading liver disease caused death in infants ¹⁹ , ²⁰ . We here found that strong mitochondrial structure alterations and loss of the MMP in the livers of BA patients, suggests the bile acids induce mitochondrial destruction or damages in cholestatic livers. Simultaneously, we observed that autophagosomes and mitophagosomes increased significantly in livers of BA patients compared to control subjects. In addition to, both the mRNA levels and the protein levels of the essential autophagy genes were significantly increased in livers of BA patients. These results suggest that the cholestasis is associated with increased-mitophagy in cholestatic livers. However, the link between cholestasis and mitophagy is unknown. In livers, newly synthesized bile acids were conjugated with either glycine or taurine, generating TCDCA, GCDCA, TCA, and GCA. We recently reported that hepatic bile acids, TCDCA, GCDCA, TCA, and GCA in BA patients were greatly increased compared to the controls ¹⁷ . In this study, we showed that TCDCA, GCDCA, TCA, and GCA were the most abundant bile acids in the hepatic mitochondria, and they were increased significantly in the hepatic mitochondria of BA patients compared to control subjects. In vitro, we confirmed that TCDCA, GCDCA, TCA, and GCA could tightly bind to hepatic mitochondria. In line with the established major hepatocellular toxicity of GCDCA and TCDCA in cells and whole-organ models ⁴ , we here demonstrated that the bile acids GCDCA and TCDCA have toxic potential to liver mitochondria by enhancing mitochondrial permeability.
+29416008_15865	30	32	BA	Biomarker	D001656
+29416008_15865	46	74	cholestatic neonatal disease	Disease	not found
+29416008_15865	93	106	liver disease	Disease	DOID:409
+29416008_15865	160	202	strong mitochondrial structure alterations	Biomarker
+29416008_15865	160	222	strong mitochondrial structure alterations and loss of the MMP	Collection
+29416008_15865	207	236	loss of the MMP in the livers	Biomarker
+29416008_15865	240	242	BA	Disease	DOID:13608
+29416008_15865	266	276	bile acids	Chemical
+29416008_15865	377	434	autophagosomes and mitophagosomes increased significantly	Biomarker
+29416008_15865	448	450	BA	Disease
+29416008_15865	515	611	mRNA levels and the protein levels of the essential autophagy genes were significantly increased	Biomarker
+29416008_15865	625	627	BA	Disease
+29416008_15865	669	680	cholestasis	Disease	DOID:13580
+29416008_15865	700	741	increased-mitophagy in cholestatic livers	Biomarker
+29416008_15865	769	780	cholestasis	Disease
+29416008_15865	836	846	bile acids	Chemical
+29416008_15865	875	882	glycine	Chemical
+29416008_15865	886	893	taurine	Chemical
+29416008_15865	906	911	TCDCA	Chemical
+29416008_15865	913	918	GCDCA	Chemical
+29416008_15865	920	923	TCA	Chemical
+29416008_15865	929	932	GCA	Chemical
+29416008_15865	968	978	bile acids	Chemical
+29416008_15865	968	978	bile acids	Biomarker	D001647
+29416008_15865	968	1006	bile acids, TCDCA, GCDCA, TCA, and GCA	Collection
+29416008_15865	980	985	TCDCA	Chemical
+29416008_15865	980	985	TCDCA	Biomarker	D013655
+29416008_15865	987	992	GCDCA	Chemical
+29416008_15865	987	992	GCDCA	Biomarker	D005999
+29416008_15865	994	997	TCA	Chemical
+29416008_15865	994	997	TCA	Biomarker	D014238
+29416008_15865	1003	1006	GCA	Chemical
+29416008_15865	1003	1006	GCA	Biomarker
+29416008_15865	1010	1012	BA	Disease
+29416008_15865	1105	1110	TCDCA	Chemical
+29416008_15865	1105	1260	TCDCA, GCDCA, TCA, and GCA were the most abundant bile acids in the hepatic mitochondria, and they were increased significantly in the hepatic mitochondria	Biomarker
+29416008_15865	1112	1117	GCDCA	Chemical
+29416008_15865	1119	1122	TCA	Chemical
+29416008_15865	1128	1131	GCA	Chemical
+29416008_15865	1155	1165	bile acids	Chemical
+29416008_15865	1264	1266	BA	Disease
+29416008_15865	1334	1339	TCDCA	Chemical
+29416008_15865	1341	1346	GCDCA	Chemical
+29416008_15865	1348	1351	TCA	Chemical
+29416008_15865	1357	1360	GCA	Chemical
+29416008_15865	1467	1472	GCDCA	Chemical
+29416008_15865	1477	1482	TCDCA	Chemical
+29416008_15865	1549	1565	bile acids GCDCA	Chemical
+29416008_15865	1570	1575	TCDCA	Chemical
+

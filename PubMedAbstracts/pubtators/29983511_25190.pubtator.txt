@@ -1,0 +1,66 @@
+29983511_25190|t|RSS_IDENT_p_29983511_b_1_4_10
+29983511_25190|a| Susceptibility markers: In our search for CML susceptibility markers, we observed rs17878951 and rs137863146 in HLA-DRB1 (Major Histocompatibility Complex Class II, DR Beta1) and HLA-DRB5 in our cohort. Both of the genes are participants of Interferon-gamma and CXCR4 signaling and play a key role in antigen presentation. Variants of HLA-DRB1 were found to be associated with incidence of CML in different populations throughout the world ( 28 – 32 ), and overexpression of HLA-DRB5 is a potential susceptibility marker of Lung cancer ( 33 ), whereas the genetic variants are markers for CLL ( 34 ) and breast cancer ( 35 ). Another variant (rs193179333) of RHPN2 (Rhophilin Rho GTPase Binding Protein 2) gene, which codes for Ras Homologous (Rho)-GTPase binding protein, was observed in 10 CML patients of our cohort. The RHPN2 binds to GDP and GTP bound RhoA and RhoB, involved in organization of actin cytoskeleton. Mutations of RHNP2 are linked with suspicion of colorectal cancer incidence ( 36 ), prognosis of lung adenocarcinoma and malignant glioma ( 37 , 38 ). The polymorphism of CYP2F1 (Cytochrome P450 family 2 subfamily F member 1) gene is linked to lung cancer in different ethnicities ( 39 ), whereas differential expression are associated with prognosis of ovarian and breast cancer ( 40 – 42 ). In this study, rs117958555 was found in the majority of CML patients, which hints at being a susceptibility marker. In normal circumstances, it is involved in drug metabolism, hence genetic change in the gene can be possibly related to pathogenesis of CML. However, FUT3 (Fucosyltransferase 3) is involved in embryogenesis, tissue differentiation, tumor metastasiss and inflammation. Incidences of gastro-intestinal and breast cancer are linked to FUT3 genetic variations ( 43 , 44 ). Similarly, we also discovered rs151218854 in FUT3 related to incidence of CML. We also observed another mutation rs76684759 in KCNJ12 (Potassium Voltage-Gated Channel Subfamily J Member 12), Normal KCNJ12 gene is involved in cardiac inward rectifier current (IK1). Its association with any type of cancer is not reported to the best of our knowledge, but we observed rs76684759 in more than 70% of our patients. The mutation is present in conserved region (SIFT Score: 0) and highly damaging (Polyphan : 0.999).
+29983511_25190	73	76	CML	Disease	DOID:8552
+29983511_25190	113	123	rs17878951	Biomarker
+29983511_25190	113	139	rs17878951 and rs137863146	Collection
+29983511_25190	128	139	rs137863146	Biomarker
+29983511_25190	143	151	HLA-DRB1	Gene-protein	HGNC:4948
+29983511_25190	153	204	Major Histocompatibility Complex Class II, DR Beta1	Gene-protein	HGNC:4948
+29983511_25190	210	218	HLA-DRB5	Gene-protein	HGNC:4953
+29983511_25190	272	288	Interferon-gamma	Gene-protein	HGNC:5438
+29983511_25190	293	298	CXCR4	Gene-protein	HGNC:2561
+29983511_25190	354	374	Variants of HLA-DRB1	Biomarker
+29983511_25190	366	374	HLA-DRB1	Gene-protein
+29983511_25190	421	424	CML	Disease
+29983511_25190	488	514	overexpression of HLA-DRB5	Biomarker
+29983511_25190	506	514	HLA-DRB5	Gene-protein
+29983511_25190	555	566	Lung cancer	Disease	DOID:1324
+29983511_25190	587	603	genetic variants	Biomarker
+29983511_25190	620	623	CLL	Disease	DOID:1040
+29983511_25190	620	648	CLL ( 34 ) and breast cancer	Collection
+29983511_25190	635	648	breast cancer	Disease	DOID:1612
+29983511_25190	674	685	rs193179333	Variant
+29983511_25190	690	695	RHPN2	Gene-protein	HGNC:19974
+29983511_25190	697	735	Rhophilin Rho GTPase Binding Protein 2	Gene-protein	HGNC:19974
+29983511_25190	759	802	Ras Homologous (Rho)-GTPase binding protein	Gene-protein	HGNC:670
+29983511_25190	823	826	CML	Disease
+29983511_25190	855	860	RHPN2	Gene-protein
+29983511_25190	870	873	GDP	Chemical
+29983511_25190	878	881	GTP	Chemical
+29983511_25190	888	892	RhoA	Gene-protein	HGNC:667
+29983511_25190	897	901	RhoB	Gene-protein	HGNC:668
+29983511_25190	931	936	actin	Genefamily	family:929
+29983511_25190	951	969	Mutations of RHNP2	Biomarker
+29983511_25190	964	969	RHNP2	Gene-protein
+29983511_25190	999	1016	colorectal cancer	Disease	DOID:9256
+29983511_25190	999	1088	colorectal cancer incidence ( 36 ), prognosis of lung adenocarcinoma and malignant glioma	Collection
+29983511_25190	1048	1067	lung adenocarcinoma	Disease	DOID:3910
+29983511_25190	1072	1088	malignant glioma	Disease	DOID:0060108
+29983511_25190	1106	1181	polymorphism of CYP2F1 (Cytochrome P450 family 2 subfamily F member 1) gene	Biomarker
+29983511_25190	1122	1128	CYP2F1	Gene-protein	HGNC:2632
+29983511_25190	1130	1175	Cytochrome P450 family 2 subfamily F member 1	Gene-protein	HGNC:2632
+29983511_25190	1195	1206	lung cancer	Disease	DOID:1324
+29983511_25190	1195	1330	lung cancer in different ethnicities ( 39 ), whereas differential expression are associated with prognosis of ovarian and breast cancer	Collection
+29983511_25190	1305	1330	ovarian and breast cancer	Disease	DOID:2394, DOID:1612
+29983511_25190	1359	1370	rs117958555	Biomarker
+29983511_25190	1400	1403	CML	Disease
+29983511_25190	1526	1552	genetic change in the gene	Biomarker
+29983511_25190	1596	1599	CML	Disease
+29983511_25190	1610	1614	FUT3	Gene-protein	HGNC:4014
+29983511_25190	1616	1636	Fucosyltransferase 3	Biomarker
+29983511_25190	1616	1636	Fucosyltransferase 3	Gene-protein	HGNC:4014
+29983511_25190	1692	1697	tumor	Disease	DOID:162
+29983511_25190	1742	1777	gastro-intestinal and breast cancer	Disease	DOID:10534, DOID:1612
+29983511_25190	1792	1796	FUT3	Gene-protein
+29983511_25190	1792	1815	FUT3 genetic variations	Biomarker
+29983511_25190	1859	1870	rs151218854	Biomarker
+29983511_25190	1874	1878	FUT3	Gene-protein
+29983511_25190	1903	1906	CML	Disease
+29983511_25190	1942	1952	rs76684759	Variant
+29983511_25190	1956	1962	KCNJ12	Gene-protein	HGNC:6258
+29983511_25190	1964	1973	Potassium	Chemical
+29983511_25190	1964	2017	Potassium Voltage-Gated Channel Subfamily J Member 12	Gene-protein	HGNC:6258
+29983511_25190	2027	2033	KCNJ12	Gene-protein
+29983511_25190	2127	2133	cancer	Disease
+29983511_25190	2196	2206	rs76684759	Biomarker
+

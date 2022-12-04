@@ -1,0 +1,60 @@
+T1	Disease 96 123	tubulointerstitial fibrosis
+#1	AnnotatorNotes T1	DOID:0050855
+T10	Disease 732 735	CKD
+#2	AnnotatorNotes T10	DOID:784
+T12	Chemical 807 811	NGAL
+T15	Biomarker 884 888	UPJO
+T18	Gene-Protein 924 928	NGAL
+T19	Disease 981 983	HN
+T20	Disease 988 990	ON
+#10	AnnotatorNotes T20	DOID:0070314
+T21	Disease 1020 1022	HN
+T22	Disease 1035 1037	ON
+T24	Gene-Protein 1061 1065	NGAL
+T27	Chemical 1238 1240	Cr
+T28	Gene-Protein 1325 1329	NGAL
+T29	Chemical 1330 1332	Cr
+T3	Disease 291 310	acute kidney injury
+#18	AnnotatorNotes T3	DOID:3021
+T30	Disease 1484 1488	UPJO
+T4	Disease 312 315	AKI
+T6	Disease 418 439	chronic nephropathies
+#21	AnnotatorNotes T6	not found
+T2	Gene-Protein 30 34	NGAL
+#3	AnnotatorNotes T2	HGNC:6526
+T5	Biomarker 30 34	NGAL
+#5	AnnotatorNotes T5	C489506
+R1	Association Arg1:T5 Arg2:T1	
+#6	AnnotatorNotes T4	DOID:3021
+T7	Gene-Protein 253 257	NGAL
+T8	Biomarker 253 257	NGAL
+R2	Association Arg1:T8 Arg2:T9	
+T9	Collection 291 439	acute kidney injury (AKI) [ 11 ] but recent studies demonstrated its increased urinary excretion also in patients with various chronic nephropathies
+T11	Biomarker 474 496	urinary NGAL excretion
+T17	Gene-Protein 482 486	NGAL
+T23	Disease 519 531	inflammation
+#7	AnnotatorNotes T23	D007249
+R3	Association Arg1:T11 Arg2:T23	
+T26	Gene-Protein 578 582	NGAL
+T31	Biomarker 578 582	NGAL
+R4	Risk-Factor Arg1:T31 Arg2:T10	
+T13	Disease 854 876	ON in patients with HN
+#4	AnnotatorNotes T13	DOID:0070314, DOID:11111
+T14	Biomarker 799 821	urinary NGAL excretion
+R5	Association Arg1:T14 Arg2:T13	
+R6	Association Arg1:T15 Arg2:T13	
+#8	AnnotatorNotes T19	DOID:11111
+T16	Collection 981 990	HN and ON
+T32	Biomarker 916 938	urinary NGAL excretion
+R7	Association Arg1:T32 Arg2:T16	
+T33	Biomarker 1053 1075	urinary NGAL excretion
+T34	GeneFamily 1228 1237	alpha-GST
+#9	AnnotatorNotes T34	not found
+T35	Biomarker 1317 1338	urinary NGAL/Cr ratio
+T36	Disease 1359 1361	ON
+T37	Biomarker 1439 1461	urinary NGAL excretion
+T38	Gene-Protein 1447 1451	NGAL
+T39	Biomarker 1220 1246	urinary alpha-GST/Cr ratio
+T40	Collection 1220 1338	urinary alpha-GST/Cr ratio, the ROC curve analysis showed a very good diagnostic profile for the urinary NGAL/Cr ratio
+R8	Association Arg1:T40 Arg2:T36	
+A1	Conjunction T13

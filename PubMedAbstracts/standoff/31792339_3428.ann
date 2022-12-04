@@ -1,0 +1,69 @@
+T10	Disease 697 703	cancer
+T11	Gene-Protein 824 827	RON
+T13	Disease 935 940	tumor
+T15	Disease 1039 1054	bone metastasis
+#6	AnnotatorNotes T15	DOID:184
+T16	Disease 1193 1204	lung cancer
+#7	AnnotatorNotes T16	DOID:1324
+T17	Gene-Protein 1235 1238	RON
+T19	Disease 1268 1273	tumor
+T2	Chemical 250 258	tyrosine
+T21	Gene-Protein 1369 1372	RON
+T22	Disease 1397 1402	NSCLC
+#13	AnnotatorNotes T22	DOID:3908
+T4	Disease 430 435	tumor
+#14	AnnotatorNotes T4	DOID:162
+T5	Disease 483 489	cancer
+#15	AnnotatorNotes T5	DOID:162
+T7	Disease 549 554	tumor
+T8	Disease 575 582	cancers
+#17	AnnotatorNotes T8	DOID:162
+T9	Gene-Protein 661 664	RON
+T1	Gene-Protein 59 62	RON
+#1	AnnotatorNotes T1	HGNC:7381
+T3	Gene-Protein 30 57	Recepteur d’Origine Nantais
+#3	AnnotatorNotes T3	HGNC:7381
+T6	Gene-Protein 83 116	macrophage stimulating 1 receptor
+#8	AnnotatorNotes T6	HGNC:7381
+T14	Gene-Protein 118 123	MST1R
+#10	AnnotatorNotes T14	HGNC:7381
+T18	GeneFamily 241 265	receptor tyrosine kinase
+#11	AnnotatorNotes T18	family:321
+T23	GeneFamily 267 270	RTK
+#12	AnnotatorNotes T23	family:321
+T24	Gene-Protein 280 283	RON
+T25	Biomarker 384 410	Aberrant expression of RON
+T26	Gene-Protein 407 410	RON
+R2	Prognostic-Good Arg1:T25 Arg2:T42	
+T27	Gene-Protein 518 521	RON
+T28	Biomarker 518 521	RON
+#18	AnnotatorNotes T28	C080835
+R3	Association Arg1:T28 Arg2:T43	
+T29	Gene-Protein 623 653	macrophage-stimulating protein
+#16	AnnotatorNotes T29	HGNC:7380
+T30	Gene-Protein 655 658	MSP
+#19	AnnotatorNotes T30	HGNC:7380
+T31	Biomarker 661 664	RON
+R4	Association Arg1:T31 Arg2:T10	
+T32	GeneFamily 774 783	β-catenin
+#2	AnnotatorNotes T32	family:1542
+T33	GeneFamily 785 789	PLCγ
+#20	AnnotatorNotes T33	not found
+T34	GeneFamily 791 795	PI3K
+#21	AnnotatorNotes T34	family:831
+T35	GeneFamily 796 799	AKT
+#22	AnnotatorNotes T35	family:1900
+T36	GeneFamily 804 808	MAPK
+#23	AnnotatorNotes T36	family:651
+T37	Biomarker 824 827	RON
+R5	Association Arg1:T37 Arg2:T13	
+T12	Biomarker 963 986	RON is highly expressed
+T38	Gene-Protein 963 966	RON
+R6	Association Arg1:T12 Arg2:T15	
+T39	Gene-Protein 1146 1149	RON
+T40	Gene-Protein 1181 1184	MSP
+T41	Biomarker 1235 1238	RON
+R7	Association Arg1:T41 Arg2:T16	
+T20	Biomarker 1369 1372	RON
+T42	Collection 430 489	tumor stage, poor prognosis and invasiveness in many cancer
+T43	Collection 549 582	tumor progression in some cancers

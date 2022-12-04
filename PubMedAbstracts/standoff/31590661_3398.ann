@@ -1,0 +1,61 @@
+T0	Disease 48 63	G6PD deficiency
+#1	AnnotatorNotes T0	DOID:2862
+T1	Drug 175 185	primaquine
+T10	Disease 589 596	malaria
+#3	AnnotatorNotes T10	DOID:12365
+T11	Drug 721 731	primaquine
+T12	Disease 787 805	haemolytic anaemia
+#5	AnnotatorNotes T12	DOID:583
+T13	Disease 834 844	haemolysis
+T14	Disease 848 862	G6PD-deficient
+T15	Disease 912 922	haemolysis
+T17	Disease 1065 1083	haemolytic anaemia
+T19	Drug 1202 1212	primaquine
+T2	Drug 187 194	dapsone
+T20	Drug 1380 1390	primaquine
+T21	Disease 1712 1727	G6PD deficiency
+T22	Drug 1792 1802	primaquine
+T23	Disease 1823 1830	malaria
+T24	Drug 1856 1866	primaquine
+T3	Drug 196 208	sulfonamides
+T4	Drug 210 220	quinolones
+T5	Drug 222 237	chloramphenicol
+T6	Drug 239 254	nitrofurantoins
+T7	Drug 274 289	phenazopyridine
+T8	Disease 379 393	G6PD-deficient
+#24	AnnotatorNotes T8	DOID:2862
+T9	Drug 418 428	Primaquine
+T25	Gene-Protein 48 52	G6PD
+#2	AnnotatorNotes T25	HGNC:4057
+T26	Gene-Protein 379 383	G6PD
+T27	Gene-Protein 848 852	G6PD
+T28	Gene-Protein 1026 1030	G6PD
+#4	AnnotatorNotes T2	CHEMBL1043
+#6	AnnotatorNotes T1	CHEMBL506
+#8	AnnotatorNotes T3	D013449
+#12	AnnotatorNotes T4	D015363
+#13	AnnotatorNotes T5	CHEMBL130
+#14	AnnotatorNotes T6	CHEMBL572
+#16	AnnotatorNotes T7	CHEMBL1242
+#18	AnnotatorNotes T9	CHEMBL506
+T29	MicroOrganism 476 492	Plasmodium vivax
+T30	MicroOrganism 509 530	Plasmodium falciparum
+R1	Response Arg1:T9 Arg2:T10	
+T32	Disease 1137 1153	P. vivax malaria
+#19	AnnotatorNotes T32	DOID:12978
+T18	Gene-Protein 1656 1660	G6PD
+T33	Gene-Protein 1712 1716	G6PD
+T34	MicroOrganism 1599 1607	P. vivax
+T35	MicroOrganism 1286 1299	P. falciparum
+#10	AnnotatorNotes T13	D006461
+T36	Drug-Class 256 267	antibiotics
+T37	Drug-Class 291 301	analgesics
+T38	Disease 748 764	oxidative stress
+#11	AnnotatorNotes T38	D018384
+T16	Biomarker 1026 1038	G6PD variant
+R3	Association Arg1:T16 Arg2:T15	
+T39	MicroOrganism 1137 1145	P. vivax
+T40	MicroOrganism 696 704	P. vivax
+T31	Collection 748 844	oxidative stress causing a spectrum of haemolytic anaemia ranging from mild to severe haemolysis
+R4	Causes Arg1:T11 Arg2:T31	
+R5	Causes Arg1:T19 Arg2:T17	

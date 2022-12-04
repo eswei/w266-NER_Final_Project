@@ -1,0 +1,159 @@
+T0	Disease 62 65	HAS
+T10	Disease 550 553	CGC
+T11	Disease 623 626	HAS
+T12	Disease 633 636	CGC
+T13	Disease 714 717	HAS
+T14	Disease 722 725	CGC
+T15	Disease 898 904	tumour
+#8	AnnotatorNotes T15	DOID:162
+T16	Disease 944 950	cancer
+#9	AnnotatorNotes T16	DOID:162
+T17	Disease 1046 1052	tumour
+T19	Disease 1143 1146	HAS
+T20	Disease 1151 1154	CGC
+T22	Disease 1155 1161	tumour
+T23	Disease 1226 1229	HAS
+T24	Disease 1234 1237	CGC
+T26	Disease 1238 1244	tumour
+#19	AnnotatorNotes T26	DOID:162
+T27	Disease 1362 1365	HAS
+T28	Disease 1399 1402	CGC
+T29	Biomarker 1422 1436	TP53 mutations
+T3	Disease 228 250	gastric adenocarcinoma
+#22	AnnotatorNotes T3	DOID:3717
+T30	Biomarker 1570 1633	NF2, C8orf34, NKX2-1, GPR124, FANCA, EPHA7, and CCND2 mutations
+T31	Disease 1796 1799	HAS
+T32	Variant 1899 1911	c.675_677del
+T33	Variant 1912 1924	p.225_226del
+T34	Variant 1927 1934	c.G679C
+T35	Variant 1935 1942	p.G227R
+T36	Variant 1945 1952	c.G898T
+T37	Variant 1953 1960	p.E300X
+T38	Variant 1963 1975	c.647_649del
+T39	Variant 1976 1988	p.216_217del
+T4	Disease 252 273	common gastric cancer
+#24	AnnotatorNotes T4	DOID:10534
+T40	Variant 1991 2000	c.647delT
+T41	Variant 2001 2010	p.I216 fs
+T42	Variant 2014 2021	c.G703T
+T43	Variant 2022 2029	p.V235F
+T44	Variant 2033 2045	c.443-1G > A
+T45	Variant 2049 2056	c.C551T
+T46	Variant 2057 2065	p.P184 L
+T47	Variant 2087 2099	c.311_313del
+T48	Variant 2100 2112	p.104_105del
+T49	Variant 2116 2131	c.563_564insCTC
+T50	Variant 2132 2146	p.P188delinsPS
+T51	Variant 2150 2162	c.311_313del
+T52	Variant 2163 2175	p.104_105del
+T53	Variant 2179 2191	c.311_313del
+T54	Variant 2192 2204	p.104_105del
+T55	Variant 2208 2220	c.311_313del
+T56	Variant 2221 2233	p.104_105del
+T57	Variant 2257 2265	c.A2272T
+T58	Variant 2266 2273	p.N758Y
+T59	Variant 2277 2285	c.G2780A
+T6	Disease 275 278	CGC
+T60	Variant 2286 2293	p.R927Q
+T61	Variant 2297 2305	c.C1706T
+T62	Variant 2306 2314	p.P569 L
+T64	Variant 2337 2344	c.T491A
+T65	Variant 2345 2352	p.V164E
+T66	Variant 2356 2363	c.C181T
+T67	Variant 2364 2370	p.Q61X
+T68	Variant 2394 2401	c.G131A
+T69	Variant 2402 2409	p.R44 K
+T7	Disease 426 429	HAS
+T70	Variant 2422 2429	p.G572S
+T71	Variant 2453 2460	c.G522C
+T72	Variant 2461 2469	p.K174 N
+T73	Variant 2473 2480	c.C833T
+T74	Variant 2481 2488	p.P278L
+T8	Disease 434 437	CGC
+T9	Disease 506 509	HAS
+#1	AnnotatorNotes T0	not found
+#2	AnnotatorNotes T6	DOID:10534
+T1	Disease 517 520	CGC
+T2	Biomarker 577 608	microsatellite instability high
+R1	Association Arg1:T2 Arg2:T10	
+T21	Gene-Protein 1257 1261	TP53
+#3	AnnotatorNotes T21	HGNC:11998
+T25	Collection 1226 1237	HAS and CGC
+T75	Biomarker 1257 1261	TP53
+#4	AnnotatorNotes T75	C495901
+R4	Association Arg1:T75 Arg2:T25	
+T76	Collection 1362 1402	HAS patients and 6 of the 18 (33.3%) CGC
+R5	Association Arg1:T29 Arg2:T76	
+T77	Gene-Protein 1422 1426	TP53
+T78	Gene-Protein 1570 1573	NF2
+#5	AnnotatorNotes T78	HGNC:7773
+T79	Gene-Protein 1575 1582	C8orf34
+#6	AnnotatorNotes T79	HGNC:30905
+T80	Gene-Protein 1584 1590	NKX2-1
+#7	AnnotatorNotes T80	HGNC:11825
+T81	Gene-Protein 1592 1598	GPR124
+#10	AnnotatorNotes T81	HGNC:17849
+T82	Gene-Protein 1600 1605	FANCA
+#11	AnnotatorNotes T82	HGNC:3582
+T83	Gene-Protein 1607 1612	EPHA7
+#12	AnnotatorNotes T83	HGNC:3390
+T84	Gene-Protein 1618 1623	CCND2
+#13	AnnotatorNotes T84	HGNC:1583
+T85	Disease 1667 1670	CGC
+R6	Association Arg1:T30 Arg2:T85	
+T86	Disease 1818 1821	HAS
+T87	Disease 1872 1875	HAS
+T88	Gene-Protein 1876 1880	TP53
+T5	Gene-Protein 1453 1457	TP53
+T18	Gene-Protein 1459 1464	CEBPA
+#14	AnnotatorNotes T18	HGNC:1833
+T90	Gene-Protein 1466 1471	RPTOR
+#15	AnnotatorNotes T90	HGNC:30287
+T91	Gene-Protein 1473 1478	WISP3
+#16	AnnotatorNotes T91	HGNC:12771
+T92	Gene-Protein 1480 1485	MARK1
+#17	AnnotatorNotes T92	HGNC:6896
+T93	Gene-Protein 1491 1497	CD3EAP
+#18	AnnotatorNotes T93	HGNC:24219
+T94	Disease 1543 1546	HAS
+T95	Biomarker 1453 1539	TP53, CEBPA, RPTOR, WISP3, MARK1, and CD3EAP were detected as high-frequency mutations
+R2	Association Arg1:T95 Arg2:T94	
+T89	Collection 1899 2065	c.675_677del:p.225_226del 6 c.G679C:p.G227R 8 c.G898T:p.E300X 9 c.647_649del:p.216_217del 9 c.647delT:p.I216 fs 14 c.G703T:p.V235F 18 c.443-1G > A 19 c.C551T:p.P184 L
+R3	Variant-Of Arg1:T88 Arg2:T89	
+#20	AnnotatorNotes T35	p.Gly227Arg
+#21	AnnotatorNotes T37	p.Glu300Xaa
+#23	AnnotatorNotes T41	p.Ile216fs
+#25	AnnotatorNotes T43	p.Val235Phe
+#26	AnnotatorNotes T46	p.Pro184Leu
+T96	Gene-Protein 2066 2071	CEBPA
+T97	Collection 2087 2233	c.311_313del:p.104_105del 15 c.563_564insCTC:p.P188delinsPS 16 c.311_313del:p.104_105del 17 c.311_313del:p.104_105del 22 c.311_313del:p.104_105del
+T98	Gene-Protein 2234 2239	RPTOR
+T99	Collection 2257 2314	c.A2272T:p.N758Y 16 c.G2780A:p.R927Q 19 c.C1706T:p.P569 L
+#27	AnnotatorNotes T58	p.Asn758Tyr
+#28	AnnotatorNotes T60	p.Arg927Gln
+#29	AnnotatorNotes T62	p.Pro569Leu
+T63	Gene-Protein 2315 2320	WISP3
+T100	Collection 2337 2370	c.T491A:p.V164E 22 c.C181T:p.Q61X
+#30	AnnotatorNotes T65	p.Val164Glu
+#31	AnnotatorNotes T67	p.Gln61Xaa
+T101	Gene-Protein 2371 2376	MARK1
+T102	Collection 2394 2429	c.G131A:p.R44 K 23 c.G1714A:p.G572S
+T103	Variant 2413 2421	c.G1714A
+#32	AnnotatorNotes T69	p.Arg44Lys
+#33	AnnotatorNotes T70	p.Gly572Ser
+T104	Gene-Protein 2430 2436	CD3EAP
+T105	Collection 2453 2488	c.G522C:p.K174 N 10 c.C833T:p.P278L
+#34	AnnotatorNotes T72	p.Lys174Asn
+#35	AnnotatorNotes T74	p.Pro278Leu
+R7	Variant-Of Arg1:T96 Arg2:T97	
+R8	Variant-Of Arg1:T98 Arg2:T99	
+R9	Variant-Of Arg1:T63 Arg2:T100	
+R10	Variant-Of Arg1:T101 Arg2:T102	
+R11	Variant-Of Arg1:T104 Arg2:T105	
+R12	Association Arg1:T89 Arg2:T87	
+R13	Association Arg1:T97 Arg2:T87	
+R14	Association Arg1:T99 Arg2:T87	
+R15	Association Arg1:T100 Arg2:T87	
+R16	Association Arg1:T102 Arg2:T87	
+R17	Association Arg1:T105 Arg2:T87	
+#36	AnnotatorNotes T50	p.Pro188delinsProSer

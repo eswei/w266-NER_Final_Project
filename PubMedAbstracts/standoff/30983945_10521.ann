@@ -1,0 +1,67 @@
+T0	Gene-Protein 127 135	visfatin
+T1	Gene-Protein 212 220	visfatin
+T10	Disease 589 604	hyperthyroidism
+#3	AnnotatorNotes T10	DOID:7998
+T11	Gene-Protein 684 692	visfatin
+T13	Disease 806 818	hyperthyroid
+T14	Gene-Protein 851 859	visfatin
+T16	Gene-Protein 932 940	visfatin
+T17	Disease 951 963	hyperthyroid
+T18	Gene-Protein 1001 1009	visfatin
+T19	Disease 1184 1199	hyperthyroidism
+T2	Disease 239 251	hyperthyroid
+#11	AnnotatorNotes T2	DOID:7998
+T21	Gene-Protein 1228 1236	visfatin
+T22	Gene-Protein 1274 1282	visfatin
+T24	Gene-Protein 1479 1487	visfatin
+T26	Gene-Protein 1590 1598	visfatin
+T27	Disease 1602 1637	experimentally-induced hyperthyroid
+#17	AnnotatorNotes T27	not found
+T4	Gene-Protein 315 323	visfatin
+T5	Disease 347 359	hyperthyroid
+T7	Gene-Protein 435 443	visfatin
+T8	Gene-Protein 536 544	visfatin
+#1	AnnotatorNotes T0	HGNC:30092
+T3	GeneFamily 89 105	thyroid hormones
+T6	Biomarker 308 343	plasma visfatin tended to be higher
+R1	Association Arg1:T6 Arg2:T5	
+T9	Biomarker 428 468	plasma visfatin increased and was higher
+R2	Association Arg1:T9 Arg2:T5	
+T12	Biomarker 536 571	visfatin concentrations were higher
+R3	Association Arg1:T12 Arg2:T10	
+T15	GeneFamily 711 727	thyroid hormones
+T20	Biomarker 920 947	lower serum visfatin levels
+R4	Association Arg1:T20 Arg2:T17	
+T23	Biomarker 1049 1052	TSH
+T28	Biomarker 1001 1016	visfatin levels
+T29	Biomarker 1084 1087	FT4
+T30	Biomarker 1092 1095	TT4
+T31	Biomarker 1204 1236	lower concentrations of visfatin
+R5	Association Arg1:T31 Arg2:T19	
+T32	Biomarker 1314 1317	TSH
+T33	Biomarker 1274 1282	visfatin
+T34	Biomarker 1348 1351	FT3
+T35	Biomarker 1356 1359	FT4
+T36	Biomarker 1443 1445	T3
+T37	Biomarker 1479 1487	visfatin
+T25	GeneFamily 1049 1052	TSH
+#2	AnnotatorNotes T25	family:1896
+T38	Chemical 1084 1087	FT4
+T39	Chemical 739 741	T3
+T40	Chemical 1092 1095	TT4
+T41	Chemical 746 748	T4
+T42	GeneFamily 1314 1317	TSH
+T43	Chemical 1348 1351	FT3
+T44	Chemical 1356 1359	FT4
+T45	Chemical 1443 1445	T3
+T46	Biomarker 684 692	visfatin
+T47	Biomarker 739 741	T3
+T48	Biomarker 746 748	T4
+#5	AnnotatorNotes T46	D054409
+#6	AnnotatorNotes T23	D013972
+#4	AnnotatorNotes T3	family:71
+T49	CellLine 1507 1513	3T3-L1
+T50	Biomarker 711 727	thyroid hormones
+#7	AnnotatorNotes T50	D013963
+T51	Biomarker 1572 1598	lowering of serum visfatin
+R6	Association Arg1:T51 Arg2:T27	

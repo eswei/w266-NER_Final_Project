@@ -1,0 +1,46 @@
+T0	Drug 91 100	erlotinib
+T1	Disease 142 148	tumors
+#2	AnnotatorNotes T1	DOID:162
+T10	Drug 697 706	erlotinib
+T11	Disease 792 797	tumor
+#4	AnnotatorNotes T11	DOID:162
+T12	Disease 874 879	tumor
+T14	Disease 1035 1040	tumor
+T15	Disease 1061 1067	tumors
+T16	Drug 1087 1096	erlotinib
+T17	Disease 1087 1110	erlotinib treated tumor
+T18	Drug 1282 1291	erlotinib
+T19	Disease 1451 1457	tumors
+T4	Drug 339 348	erlotinib
+T5	Disease 405 411	tumors
+T6	Disease 455 461	cancer
+#18	AnnotatorNotes T6	DOID:162
+T7	Drug 471 480	erlotinib
+T8	Drug 561 570	erlotinib
+#1	AnnotatorNotes T0	CHEMBL553
+T2	Disease 178 194	PC9ᵍFᴳFᴿ¹ tumors
+#3	AnnotatorNotes T2	not found
+T3	Gene-Protein 243 248	FGFR1
+#9	AnnotatorNotes T3	HGNC:3688
+T21	Gene-Protein 1018 1023	FGFR1
+T9	Gene-Protein 773 777	FGF2
+#11	AnnotatorNotes T9	HGNC:3676
+T22	Gene-Protein 818 822	FGF2
+T23	Gene-Protein 1468 1472	FGF2
+T24	Gene-Protein 1013 1017	FGF2
+T25	Gene-Protein 893 897	FGF2
+T26	Gene-Protein 1390 1394	FGF2
+T27	Gene-Protein 1267 1271	FGF2
+T28	Gene-Protein 1439 1443	FGF2
+T13	Gene-Protein 1068 1072	FGF2
+T29	Biomarker 243 267	FGFR1 gene up-regulation
+T30	Biomarker 893 904	FGF2 levels
+T31	Biomarker 921 931	tumor size
+T32	Biomarker 1013 1031	FGF2-FGFR1 pathway
+R1	Association Arg1:T32 Arg2:T14	
+T33	Biomarker 1068 1079	FGF2 levels
+R2	Association Arg1:T33 Arg2:T17	
+T34	Biomarker 1261 1278	lower FGF2 levels
+T20	Disease 1578 1584	tumors
+T35	Biomarker 818 829	FGF2 levels
+R3	Association Arg1:T35 Arg2:T12	

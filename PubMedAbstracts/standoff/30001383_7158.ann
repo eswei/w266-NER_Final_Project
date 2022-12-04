@@ -1,0 +1,119 @@
+T1	Disease 36 38	OM
+T11	Drug 683 692	cisplatin
+T12	Drug 698 709	doxorubicin
+T13	Drug 723 733	adriamycin
+T14	Disease 773 791	canine oral cancer
+#6	AnnotatorNotes T14	DOID:8618
+T16	Drug 811 827	cyclophosphamide
+T17	Drug 832 841	piroxicam
+T18	Disease 1314 1316	OM
+T19	Disease 1318 1322	OSCC
+T2	Disease 141 143	OM
+T20	Disease 1324 1326	BN
+T24	Disease 1802 1816	early-stage OM
+T25	Chemical 1837 1843	sodium
+T26	Disease 1895 1919	early- and late-stage OM
+T27	Biomarker 1925 1959	peptide mass at 2,316 Da of Notch1
+T28	Disease 1972 1986	early-stage OM
+T29	Disease 1991 2009	benign oral tumors
+T3	Disease 227 246	canine oral cancers
+#22	AnnotatorNotes T3	not found
+T30	Chemical 2048 2057	glutamate
+T31	Chemical 2078 2098	N-methyl-D-aspartate
+T32	Chemical 2209 2216	leucine
+T33	Disease 2243 2257	early-stage OM
+T34	Disease 2259 2263	OSCC
+T35	Disease 2269 2287	benign oral tumors
+T38	Disease 2437 2450	benign tumors
+T40	Chemical 2476 2494	guanine nucleotide
+T41	Disease 2528 2530	OM
+T42	Disease 2569 2573	OSCC
+T43	Chemical 2587 2595	tyrosine
+T44	Disease 2772 2781	cancerous
+#38	AnnotatorNotes T44	DOID:162
+T45	Drug 2833 2842	cisplatin
+T46	Drug 2847 2858	doxorubicin
+T47	Drug 2899 2915	cyclophosphamide
+T48	Drug 2916 2925	piroxicam
+T5	Disease 377 379	OM
+T6	Drug 388 399	carboplatin
+T7	Drug 529 545	cyclophosphamide
+T8	Drug 575 584	piroxicam
+T9	Drug 633 644	Carboplatin
+#1	AnnotatorNotes T1	not found
+T49	Drug-Class 185 203	chemotherapy drugs
+R1	Response Arg1:T49 Arg2:T3	
+#3	AnnotatorNotes T6	CHEMBL1351
+T4	Drug-Class 470 488	metronomic therapy
+#4	AnnotatorNotes T7	CHEMBL88
+#5	AnnotatorNotes T8	CHEMBL527
+#2	AnnotatorNotes T11	CHEMBL11359
+#8	AnnotatorNotes T12	CHEMBL53463
+#9	AnnotatorNotes T13	CHEMBL53463
+T10	Drug-Class 746 764	chemotherapy drugs
+#10	AnnotatorNotes T9	CHEMBL1351
+T50	Collection 633 734	Carboplatin, a derivative of the anti-cancer drug cisplatin, and doxorubicin (also called adriamycin)
+T51	Drug-Class 872 895	metronomic chemotherapy
+R2	Response Arg1:T50 Arg2:T14	
+#7	AnnotatorNotes T19	DOID:0050866
+T15	Drug-Class 1563 1581	chemotherapy drugs
+T52	Disease 1675 1692	canine oral tumor
+T23	Gene-Protein 1884 1890	SCN10A
+T53	Gene-Protein 1837 1882	sodium voltage-gated channel alpha subunit 10
+T54	Gene-Protein 1752 1778	sacsin molecular chaperone
+T55	Gene-Protein 1780 1784	SACS
+T22	Biomarker 1720 1778	peptide fragment at 2,274 Da of sacsin molecular chaperone
+T56	Biomarker 1837 1882	sodium voltage-gated channel alpha subunit 10
+R3	Association Arg1:T56 Arg2:T26	
+R4	Association Arg1:T22 Arg2:T24	
+T57	Gene-Protein 1953 1959	Notch1
+T58	Collection 1972 2009	early-stage OM and benign oral tumors
+R5	Association Arg1:T27 Arg2:T58	
+T59	Gene-Protein 2116 2122	GRIN3A
+T61	Biomarker 2020 2114	peptide mass at 2,505 Da of glutamate ionotropic receptor N-methyl-D-aspartate type subunit 3A
+T62	Gene-Protein 2234 2238	LARS
+T63	Collection 2243 2287	early-stage OM, OSCC, and benign oral tumors
+T36	Gene-Protein 2209 2232	leucine-tRNA synthetase
+T64	Biomarker 2177 2232	peptide fragment at 3,039 Da of leucine-tRNA synthetase
+T65	Disease 2360 2378	canine oral tumors
+R6	Association Arg1:T64 Arg2:T63	
+T37	Gene-Protein 2417 2423	JMJD1C
+T66	Gene-Protein 2427 2432	TRIP8
+T67	Gene-Protein 2387 2415	Jumonji domain containing 1C
+T68	Biomarker 2387 2415	Jumonji domain containing 1C
+R7	Association Arg1:T68 Arg2:T38	
+T39	Gene-Protein 2452 2460	inversin
+T69	Gene-Protein 2462 2466	INVS
+T70	Gene-Protein 2515 2523	ARHGEF28
+T71	Gene-Protein 2472 2513	rho guanine nucleotide exchange factor 28
+T72	Biomarker 2472 2513	rho guanine nucleotide exchange factor 28
+T73	Gene-Protein 2558 2564	BTBD16
+T74	Gene-Protein 2532 2556	BTB domain-containing 16
+T75	Biomarker 2532 2556	BTB domain-containing 16
+R8	Association Arg1:T75 Arg2:T42	
+T76	Gene-Protein 2629 2634	PTPN1
+T77	Gene-Protein 2579 2627	protein tyrosine phosphatase non-receptor type 1
+T78	Gene-Protein 2637 2642	BRCA2
+T79	Gene-Protein 2673 2677	WBP2
+T80	Gene-Protein 2644 2671	WW domain binding protein 2
+T81	Gene-Protein 2716 2720	P2Y1
+T82	Gene-Protein 2680 2714	purinergic receptor P2Y1 variant 2
+T83	Gene-Protein 2758 2763	PSME4
+T84	Gene-Protein 2726 2756	proteasome activator subunit 4
+T85	Collection 2579 2764	protein tyrosine phosphatase non-receptor type 1 (PTPN1), BRCA2, WW domain binding protein 2 (WBP2), purinergic receptor P2Y1 variant 2 (P2Y1) and proteasome activator subunit 4 (PSME4)
+T86	Biomarker 2579 2627	protein tyrosine phosphatase non-receptor type 1
+T87	Biomarker 2637 2642	BRCA2
+T88	Biomarker 2680 2714	purinergic receptor P2Y1 variant 2
+T89	Biomarker 2726 2756	proteasome activator subunit 4
+T90	Biomarker 2644 2671	WW domain binding protein 2
+R9	Association Arg1:T85 Arg2:T44	
+T91	Gene-Protein 2048 2114	glutamate ionotropic receptor N-methyl-D-aspartate type subunit 3A
+T60	Biomarker 2452 2460	inversin
+T92	Collection 2452 2513	inversin (INVS) and rho guanine nucleotide exchange factor 28
+R11	Association Arg1:T92 Arg2:T41	
+#17	AnnotatorNotes T20	DOID:0060072
+#28	AnnotatorNotes T38	DOID:0060072
+T93	Collection 811 841	cyclophosphamide and piroxicam
+R10	Response Arg1:T93 Arg2:T14	
+#31	AnnotatorNotes T56	D062559
+R12	Association Arg1:T68 Arg2:T65	

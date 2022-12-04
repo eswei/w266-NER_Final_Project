@@ -1,0 +1,57 @@
+T0	GeneFamily 111 114	ADH
+#1	AnnotatorNotes T0	family:397
+T12	Disease 701 703	AD
+T14	Disease 846 863	cluster headaches
+T16	Disease 1023 1037	ovarian cancer
+#4	AnnotatorNotes T16	DOID:2394
+T17	Disease 1070 1102	upper aerodigestive tract cancer
+#5	AnnotatorNotes T17	DOID:11934
+T2	Chemical 209 216	alcohol
+T20	Disease 1226 1229	HCC
+T22	Disease 1335 1338	HCC
+T26	Disease 1534 1537	HCC
+T3	Disease 209 227	alcohol dependence
+#11	AnnotatorNotes T3	DOID:0050741
+T4	Disease 229 231	AD
+#12	AnnotatorNotes T4	DOID:0050741
+T6	Biomarker 400 409	rs2226896
+T7	Disease 431 433	AD
+T8	Disease 492 502	alcoholism
+#14	AnnotatorNotes T8	DOID:0050741
+T1	Gene-Protein 40 44	ADH4
+#3	AnnotatorNotes T1	HGNC:252
+T5	Gene-Protein 70 74	ADH4
+T9	Gene-Protein 174 178	ADH4
+T13	Biomarker 174 191	ADH4 gene variant
+R1	Risk-Factor Arg1:T13 Arg2:T3	
+T15	Biomarker 340 388	16 single nucleotide polymorphisms (SNP) of ADH4
+T18	Gene-Protein 384 388	ADH4
+T19	Collection 340 409	16 single nucleotide polymorphisms (SNP) of ADH4, including rs2226896
+R2	Association Arg1:T19 Arg2:T7	
+T21	Gene-Protein 538 542	ADH4
+T23	Biomarker 538 577	ADH4 promoter variant −75A/C (rs800759)
+T10	Gene-Protein 597 601	ADH4
+T11	Biomarker 657 671	159A/G variant
+T25	Collection 538 670	ADH4 promoter variant −75A/C (rs800759), which could alter ADH4 enzyme expression levels significantly, as well as the 159A/G varian
+R3	Association Arg1:T25 Arg2:T12	
+T27	Gene-Protein 818 822	ADH4
+T28	Biomarker 818 822	ADH4
+#2	AnnotatorNotes T28	C105552
+R4	Association Arg1:T28 Arg2:T14	
+#6	AnnotatorNotes T14	D003027
+T29	Biomarker 952 982	polymorphisms in the ADH4 gene
+T30	Gene-Protein 973 977	ADH4
+R5	Risk-Reduce Arg1:T29 Arg2:T16	
+R6	Risk-Factor Arg1:T29 Arg2:T17	
+T31	Gene-Protein 1135 1139	ADH4
+#7	AnnotatorNotes T20	DOID:684
+T32	Biomarker 1202 1222	ADH4 mRNA expression
+T33	Gene-Protein 1202 1206	ADH4
+R7	Association Arg1:T32 Arg2:T20	
+T34	Biomarker 1292 1331	ADH4 protein expression is also reduced
+T35	Gene-Protein 1292 1296	ADH4
+R8	Association Arg1:T34 Arg2:T22	
+T24	Gene-Protein 1361 1365	ADH4
+T36	Gene-Protein 1474 1478	ADH4
+T37	Biomarker 1474 1478	ADH4
+R9	Association Arg1:T37 Arg2:T26	

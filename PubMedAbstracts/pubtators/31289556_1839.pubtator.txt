@@ -1,0 +1,86 @@
+31289556_1839|t|RSS_IDENT_s_31289556_b_1_1
+31289556_1839|a| Introduction Lung cancer is the leading cause of cancer-associated mortality worldwide and non-small cell lung cancer (NSCLC) accounts for 80–85% of all lung cancer cases ( 1 ). Mutations and gene amplifications of epidermal growth factor receptor (EGFR) frequently occur in NSCLC, and EGFR-tyrosine kinase inhibitors (EGFR-TKIs) are regularly used to treat patients with NSCLC and prolong progression-free survival (PFS) ( 2 , 3 ). Thus, it is recommended to screen for EGFR mutations in patients with NSCLC and that patients with sensitizing EGFR mutations are treated with first-line EGFR-TKIs, whereas patients with NSCLC wihtout EGFR mutation or unknown mutational status are treated with platinum-based chemotherapy ( 4 , 5 ). In the clinic, the majority of patients with EGFR mutations initially respond very well to EGFR-TKIs; however, a large proportion of them eventually develop drug resistance ( 6 ). The underlying molecular mechanisms of drug resistance may be due to receptor tyrosine-protein kinase erbB-2 (HER2) amplification and EGFR T790M mutation, MET proto-oncogene, receptor tyrosine kinase (c-MET) amplification, phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit α (PIK3CA) mutation or B-Raf proto-oncogene, serine/threonine kinase (BRAF) mutations in tumor tissues ( 7 ). However, the specific molecular mechanisms require further investigation. For example, previous studies demonstrated that estrogen receptor (ER)β was overexpressed in NSCLC tissue specimens, which may be associated with resistance to treatment with EGFR-TKIs in patients with NSCLC ( 8 , 9 ). ERβ is the most commonly observed subtype of ER expressed in lung cancer ( 8 , 9 ). Previous studies have suggested cross-talk between the ERβ and EGFR signaling pathways in lung cancer ( 10 – 12 ). ERβ is frequently overexpressed in NSCLC with EGFR mutations, particularly in lung adenocarcinoma ( 13 , 14 ), and ERβ expression was reported to be associated with the prognosis of NSCLC with EGFR mutations subsequent to treatment with EGFR-TKIs ( 15 – 17 ). There are five known isoforms of ERβ, and ERβ1 is the only known full-length and functional ERβ isoform expressed in various cells and tissues ( 18 ), and is the most relevant prognostic factor of all ERβ isoforms for patients with NSCLC ( 9 ).
+31289556_1839	41	52	Lung cancer	Biomarker	D008175
+31289556_1839	77	104	cancer-associated mortality	Disease	not found
+31289556_1839	119	145	non-small cell lung cancer	Disease	DOID:3908
+31289556_1839	147	152	NSCLC	Disease	DOID:3908
+31289556_1839	181	192	lung cancer	Disease	DOID:1324
+31289556_1839	206	282	Mutations and gene amplifications of epidermal growth factor receptor (EGFR)	Biomarker
+31289556_1839	243	275	epidermal growth factor receptor	Gene-protein	HGNC:3236
+31289556_1839	277	281	EGFR	Gene-protein	HGNC:3236
+31289556_1839	303	308	NSCLC	Disease
+31289556_1839	314	318	EGFR	Gene-protein
+31289556_1839	314	345	EGFR-tyrosine kinase inhibitors	Drug-class
+31289556_1839	347	351	EGFR	Gene-protein
+31289556_1839	347	356	EGFR-TKIs	Drug-class
+31289556_1839	400	405	NSCLC	Disease
+31289556_1839	499	503	EGFR	Gene-protein
+31289556_1839	499	513	EGFR mutations	Biomarker
+31289556_1839	531	536	NSCLC	Disease
+31289556_1839	560	586	sensitizing EGFR mutations	Biomarker
+31289556_1839	572	576	EGFR	Gene-protein
+31289556_1839	615	624	EGFR-TKIs	Drug-class
+31289556_1839	648	653	NSCLC	Disease
+31289556_1839	662	666	EGFR	Gene-protein
+31289556_1839	662	675	EGFR mutation	Biomarker
+31289556_1839	679	704	unknown mutational status	Biomarker
+31289556_1839	722	749	platinum-based chemotherapy	Drug-class
+31289556_1839	806	810	EGFR	Gene-protein
+31289556_1839	806	820	EGFR mutations	Biomarker
+31289556_1839	852	856	EGFR	Gene-protein
+31289556_1839	852	861	EGFR-TKIs	Drug-class
+31289556_1839	1010	1049	receptor tyrosine-protein kinase erbB-2	Gene-protein	HGNC:3430
+31289556_1839	1010	1070	receptor tyrosine-protein kinase erbB-2 (HER2) amplification	Biomarker
+31289556_1839	1019	1027	tyrosine	Chemical
+31289556_1839	1051	1055	HER2	Gene-protein	HGNC:3430
+31289556_1839	1075	1079	EGFR	Gene-protein
+31289556_1839	1080	1085	T790M	Variant	p.Thr790Met
+31289556_1839	1096	1140	MET proto-oncogene, receptor tyrosine kinase	Gene-protein	HGNC:7029
+31289556_1839	1096	1162	MET proto-oncogene, receptor tyrosine kinase (c-MET) amplification	Biomarker
+31289556_1839	1096	1314	MET proto-oncogene, receptor tyrosine kinase (c-MET) amplification, phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit α (PIK3CA) mutation or B-Raf proto-oncogene, serine/threonine kinase (BRAF) mutations	Collection
+31289556_1839	1125	1133	tyrosine	Chemical
+31289556_1839	1142	1147	c-MET	Gene-protein	HGNC:7029
+31289556_1839	1164	1201	phosphatidylinositol-4,5-bisphosphate	Chemical
+31289556_1839	1164	1230	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit α	Gene-protein	HGNC:8975
+31289556_1839	1164	1248	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit α (PIK3CA) mutation	Biomarker
+31289556_1839	1232	1238	PIK3CA	Gene-protein	HGNC:8975
+31289556_1839	1252	1297	B-Raf proto-oncogene, serine/threonine kinase	Gene-protein	HGNC:1097
+31289556_1839	1252	1314	B-Raf proto-oncogene, serine/threonine kinase (BRAF) mutations	Biomarker
+31289556_1839	1274	1280	serine	Chemical
+31289556_1839	1281	1290	threonine	Chemical
+31289556_1839	1299	1303	BRAF	Gene-protein	HGNC:1097
+31289556_1839	1318	1323	tumor	Disease	DOID:162
+31289556_1839	1461	1469	estrogen	Chemical
+31289556_1839	1461	1484	estrogen receptor (ER)β	Gene-protein	HGNC:3468
+31289556_1839	1461	1502	estrogen receptor (ER)β was overexpressed	Biomarker
+31289556_1839	1506	1511	NSCLC	Disease
+31289556_1839	1588	1592	EGFR	Gene-protein
+31289556_1839	1588	1597	EGFR-TKIs	Drug-class
+31289556_1839	1615	1620	NSCLC	Disease
+31289556_1839	1632	1635	ERβ	Biomarker	D047629
+31289556_1839	1632	1635	ERβ	Gene-protein	HGNC:3468
+31289556_1839	1677	1679	ER	Genefamily	not found
+31289556_1839	1693	1704	lung cancer	Disease
+31289556_1839	1748	1802	cross-talk between the ERβ and EGFR signaling pathways	Biomarker
+31289556_1839	1771	1774	ERβ	Gene-protein
+31289556_1839	1779	1783	EGFR	Gene-protein
+31289556_1839	1806	1817	lung cancer	Disease
+31289556_1839	1831	1834	ERβ	Gene-protein
+31289556_1839	1831	1862	ERβ is frequently overexpressed	Biomarker
+31289556_1839	1866	1891	NSCLC with EGFR mutations	Disease	not found
+31289556_1839	1866	1928	NSCLC with EGFR mutations, particularly in lung adenocarcinoma	Collection
+31289556_1839	1877	1881	EGFR	Gene-protein
+31289556_1839	1909	1928	lung adenocarcinoma	Disease	DOID:3910
+31289556_1839	1946	1949	ERβ	Gene-protein
+31289556_1839	1946	1960	ERβ expression	Biomarker
+31289556_1839	2013	2038	NSCLC with EGFR mutations	Disease
+31289556_1839	2024	2028	EGFR	Gene-protein
+31289556_1839	2068	2072	EGFR	Gene-protein
+31289556_1839	2068	2077	EGFR-TKIs	Drug-class
+31289556_1839	2124	2127	ERβ	Gene-protein
+31289556_1839	2133	2137	ERβ1	Gene-protein	not found
+31289556_1839	2133	2137	ERβ1	Biomarker
+31289556_1839	2183	2186	ERβ	Gene-protein
+31289556_1839	2292	2295	ERβ	Gene-protein
+31289556_1839	2323	2328	NSCLC	Disease
+

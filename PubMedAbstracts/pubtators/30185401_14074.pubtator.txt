@@ -1,0 +1,39 @@
+30185401_14074|t|RSS_IDENT_p_30185401_b_1_4_5
+30185401_14074|a| To date, serum vitamin B12 levels have been reported to be normal in cases of TC deficiency [ 4 , 10 , 16 ]. This is due to the fact that the majority of vitamin B12 in circulation is bound to haptocorrin rather than transcobalamin. As a result, patients with TC deficiency do not show a low level of circulating vitamin B12 [ 1 , 2 ]. However, Schiff et al. [ 8 ] reported TC-deficient patients with low vitamin B12 levels. In the present study, Case 4 had the unusual feature of a low serum cobalamin level, similar to the cases reported in Schiff et al.’s [ 8 ] study. Homocysteine and methylmalonic acid levels are the metabolic markers of vitamin B12 deficiency [ 7 ]. The diagnosis of TC deficiency is confirmed by the measurement of these metabolic markers, although they can rarely be within normal limits [ 10 ]. Consistent with these data, the homocysteine levels of Case 3 were in the upper limit of normal. Therefore, our findings indicate that a normal or low serum vitamin B12 level or a slightly elevated homocysteine level does not exclude TC deficiency. Thus, molecular analysis should be done in order to establish a firm diagnosis in subjects with suggested TC deficiency but with normal plasma homocysteine levels.
+30185401_14074	39	63	serum vitamin B12 levels	Biomarker
+30185401_14074	45	56	vitamin B12	Chemical
+30185401_14074	108	110	TC	Gene-protein	 HGNC:11653
+30185401_14074	108	121	TC deficiency	Disease	DOID:0050818
+30185401_14074	184	195	vitamin B12	Chemical
+30185401_14074	223	234	haptocorrin	Gene-protein	HGNC:11652
+30185401_14074	247	261	transcobalamin	Genefamily	not found
+30185401_14074	290	292	TC	Gene-protein
+30185401_14074	290	303	TC deficiency	Disease
+30185401_14074	318	354	low level of circulating vitamin B12	Biomarker
+30185401_14074	343	354	vitamin B12	Chemical
+30185401_14074	404	406	TC	Gene-protein
+30185401_14074	404	416	TC-deficient	Disease	DOID:0050818
+30185401_14074	431	453	low vitamin B12 levels	Biomarker
+30185401_14074	435	446	vitamin B12	Chemical
+30185401_14074	513	539	low serum cobalamin level,	Biomarker
+30185401_14074	523	532	cobalamin	Chemical
+30185401_14074	602	614	Homocysteine	Chemical
+30185401_14074	602	644	Homocysteine and methylmalonic acid levels	Biomarker
+30185401_14074	619	637	methylmalonic acid	Chemical
+30185401_14074	674	685	vitamin B12	Chemical
+30185401_14074	674	696	vitamin B12 deficiency	Disease	DOID:0050731
+30185401_14074	721	723	TC	Gene-protein
+30185401_14074	721	734	TC deficiency	Disease
+30185401_14074	884	896	homocysteine	Chemical
+30185401_14074	884	903	homocysteine levels	Biomarker
+30185401_14074	989	1026	normal or low serum vitamin B12 level	Biomarker
+30185401_14074	989	1068	normal or low serum vitamin B12 level or a slightly elevated homocysteine level	Collection
+30185401_14074	1009	1020	vitamin B12	Chemical
+30185401_14074	1032	1068	slightly elevated homocysteine level	Biomarker
+30185401_14074	1050	1062	homocysteine	Chemical
+30185401_14074	1086	1088	TC	Gene-protein
+30185401_14074	1086	1099	TC deficiency	Disease
+30185401_14074	1207	1209	TC	Gene-protein
+30185401_14074	1207	1220	TC deficiency	Disease
+30185401_14074	1244	1256	homocysteine	Chemical
+

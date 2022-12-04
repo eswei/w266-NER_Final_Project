@@ -1,0 +1,45 @@
+31832570_26101|t|RSS_IDENT_s_31832570_b_1_8_5
+31832570_26101|a| Validation Phase This cohort included 200 patients with SAH, with a dominance of male patients (95%). In this cohort, plasma levels of PON1, APOB, APOA1, APOA2, and APOC3 were significantly lower, whereas APOC1 and APOE levels were significantly higher compared to AC (P < 0.05; Fig. 1C,D; Table 1).Total cholesterol, TGs, HDL cholesterol, LDL cholesterol, and VLDL cholesterol were also significantly higher in patients with SAH (P < 0.05; Table 1). IHC results were concordant with plasma results and showed significantly lower levels of PON1, LDLR, and ABCA1, whereas the levels of CD36, SRB1, and ABCG1 were increased in the liver of patients with SAH (P < 0.05; Fig. 1E). Together, these results suggest that low circulating levels of lipid transporter proteins are associated with severity of liver diseases. Further, low tissue expression of PON1, LDLR, and ABCA1 and a higher expression of the lipid‐uptake receptor (CD36, SRB1) could relate to the observed steatosis in alcoholics.
+31832570_26101	86	89	SAH	Disease	not found
+31832570_26101	148	225	plasma levels of PON1, APOB, APOA1, APOA2, and APOC3 were significantly lower	Biomarker
+31832570_26101	148	282	plasma levels of PON1, APOB, APOA1, APOA2, and APOC3 were significantly lower, whereas APOC1 and APOE levels were significantly higher	Collection
+31832570_26101	165	169	PON1	Gene-protein	HGNC:9204
+31832570_26101	171	175	APOB	Gene-protein	HGNC:603
+31832570_26101	177	182	APOA1	Gene-protein	HGNC:600
+31832570_26101	184	189	APOA2	Gene-protein	HGNC:601
+31832570_26101	195	200	APOC3	Gene-protein	HGNC:610
+31832570_26101	235	240	APOC1	Gene-protein	HGNC:607
+31832570_26101	235	282	APOC1 and APOE levels were significantly higher	Biomarker
+31832570_26101	245	249	APOE	Gene-protein	HGNC:613
+31832570_26101	295	297	AC	Disease	DOID:14018
+31832570_26101	329	438	Total cholesterol, TGs, HDL cholesterol, LDL cholesterol, and VLDL cholesterol were also significantly higher	Biomarker
+31832570_26101	335	346	cholesterol	Chemical
+31832570_26101	348	351	TGs	Chemical
+31832570_26101	353	368	HDL cholesterol	Chemical
+31832570_26101	370	385	LDL cholesterol	Chemical
+31832570_26101	391	407	VLDL cholesterol	Chemical
+31832570_26101	456	459	SAH	Disease
+31832570_26101	554	591	lower levels of PON1, LDLR, and ABCA1	Biomarker
+31832570_26101	554	651	lower levels of PON1, LDLR, and ABCA1, whereas the levels of CD36, SRB1, and ABCG1 were increased	Collection
+31832570_26101	570	574	PON1	Gene-protein
+31832570_26101	576	580	LDLR	Gene-protein	HGNC:6547
+31832570_26101	586	591	ABCA1	Gene-protein	HGNC:29
+31832570_26101	605	651	levels of CD36, SRB1, and ABCG1 were increased	Biomarker
+31832570_26101	615	619	CD36	Gene-protein	 HGNC:1663
+31832570_26101	621	625	SRB1	Gene-protein	HGNC:1664
+31832570_26101	631	636	ABCG1	Gene-protein	HGNC:73
+31832570_26101	682	685	SAH	Disease
+31832570_26101	744	796	low circulating levels of lipid transporter proteins	Biomarker
+31832570_26101	770	787	lipid transporter	Genefamily	not found
+31832570_26101	829	843	liver diseases	Disease	DOID:409
+31832570_26101	854	900	low tissue expression of PON1, LDLR, and ABCA1	Biomarker
+31832570_26101	854	966	low tissue expression of PON1, LDLR, and ABCA1 and a higher expression of the lipid‐uptake receptor (CD36, SRB1)	Collection
+31832570_26101	879	883	PON1	Gene-protein
+31832570_26101	885	889	LDLR	Gene-protein
+31832570_26101	895	900	ABCA1	Gene-protein
+31832570_26101	907	966	higher expression of the lipid‐uptake receptor (CD36, SRB1)	Biomarker
+31832570_26101	932	953	lipid‐uptake receptor	Genefamily	not found
+31832570_26101	955	959	CD36	Gene-protein
+31832570_26101	961	965	SRB1	Gene-protein
+31832570_26101	996	1019	steatosis in alcoholics	Disease	DOID:9452
+

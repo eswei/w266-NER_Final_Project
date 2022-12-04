@@ -1,0 +1,65 @@
+T10	Disease 565 569	PDAC
+T15	Disease 915 919	PDAC
+T17	Disease 1002 1008	cancer
+#4	AnnotatorNotes T17	DOID:162
+T19	Disease 1075 1089	gastric cancer
+#5	AnnotatorNotes T19	DOID:10534
+T20	RNA-Noncoding 1179 1188	LINC00673
+T21	RNA-Noncoding 1319 1328	LINC00673
+T23	Disease 1357 1383	non-small cell lung cancer
+#8	AnnotatorNotes T23	DOID:3908
+T24	RNA-Noncoding 1408 1417	LINC00673
+T26	Disease 1427 1453	non-small cell lung cancer
+T32	Disease 1660 1690	tongue squamous cell carcinoma
+#13	AnnotatorNotes T32	DOID:0050865
+T34	RNA-Noncoding 1774 1783	LINC00673
+T35	Disease 1787 1800	neuroblastoma
+#16	AnnotatorNotes T35	DOID:769
+T5	Disease 280 297	pancreatic cancer
+#17	AnnotatorNotes T5	DOID:1793
+T6	Biomarker 398 408	rs11655237
+T8	Disease 425 457	pancreatic ductal adenocarcinoma
+#18	AnnotatorNotes T8	DOID:3498
+T9	Disease 459 463	PDAC
+T3	RNA-Noncoding 30 39	LINC00673
+#1	AnnotatorNotes T3	HGNC:44354
+T7	Biomarker 243 257	rs11655237 C>T
+R1	Risk-Factor Arg1:T7 Arg2:T5	
+R2	Risk-Factor Arg1:T6 Arg2:T8	
+T2	RNA-Noncoding 649 657	miR-1231
+#2	AnnotatorNotes T2	HGNC:33921
+T4	Biomarker 596 622	C-to-T shift at rs11655237
+T11	Biomarker 151 165	rs11655237 C>T
+T13	Gene-Protein 720 726	PTPN11
+#6	AnnotatorNotes T13	HGNC:9644
+T14	RNA-Noncoding 791 800	LINC00673
+T18	Biomarker 760 779	rs11655237 T allele
+T12	Biomarker 784 809	impair LINC00673 activity
+T22	Gene-Protein 830 833	SRC
+#7	AnnotatorNotes T22	HGNC:11283
+T25	GeneFamily 834 837	ERK
+#9	AnnotatorNotes T25	not found
+T16	RNA-Noncoding 935 944	LINC00673
+T28	RNA-Noncoding 1047 1056	LINC00673
+T29	Biomarker 1047 1071	LINC00673 is upregulated
+R3	Prognostic-Poor Arg1:T29 Arg2:T19	
+T30	Gene-Protein 1205 1208	SP1
+#3	AnnotatorNotes T30	HGNC:11205
+T36	Gene-Protein 1271 1275	LSD1
+#15	AnnotatorNotes T36	HGNC:29079
+T37	Gene-Protein 1280 1284	EZH2
+#19	AnnotatorNotes T37	HGNC:3527
+T38	Biomarker 1319 1328	LINC00673
+R4	Association Arg1:T38 Arg2:T23	
+T27	Biomarker 1408 1417	LINC00673
+R5	Association Arg1:T27 Arg2:T26	
+T31	RNA-Noncoding 1545 1555	miR-150-5p
+#10	AnnotatorNotes T31	HGNC:31537
+T33	RNA-Noncoding 1621 1630	LINC00673
+T39	Biomarker 1621 1650	LINC00673 is highly expressed
+R6	Prognostic-Poor Arg1:T39 Arg2:T32	
+#11	AnnotatorNotes T9	DOID:3498
+T40	Biomarker 935 944	LINC00673
+#12	AnnotatorNotes T40	C000624628
+R7	Association Arg1:T40 Arg2:T17	
+R8	Risk-Factor Arg1:T18 Arg2:T15	

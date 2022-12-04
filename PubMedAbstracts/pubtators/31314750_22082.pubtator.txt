@@ -1,0 +1,58 @@
+31314750_22082|t|RSS_IDENT_p_31314750_b_1_4_3
+31314750_22082|a| Some biomarkers have been confirmed in the development of osteoporosis. ALP [ 24 ], OSX [ 25 ], SOX9 [ 26 ], RUNX2 [ 27 , 28 ], and OCN [ 28 ] have been confirmed as having relationships to osteoporosis. Patients with osteoporosis often have lower ALP, OSX, SOX9, RUNX2, and OCN compared to healthy persons. In addition, RUNX2 is critical in regulating osteoblast and chondrocyte differentiation [ 29 , 30 ]. Therefore, ALP, OSX, SOX9, RUNX2, and OCN could be considered as biomarkers of osteoporosis or osteoblastic differentiation. Previous investigations have proven that the Wnt/β-catenin pathway has a critical role in the pathogenesis and progression of osteoporosis, which has also been considered a target in treating osteoporosis [ 31 – 34 ]. In our study, we found that sesamin might be an effective reagent in therapy for osteoporosis. In our cellular experiments, sesamin treatments improved ALP, OSX, SOX9, RUNX2, and OCN levels, and activated the Wnt/β-catenin signal pathway in BMSCs. Our animal experiments also provided evidence that sesamin treatments prevented the loss of OCN in the femur of rats with osteoporosis. Both these results not only align with previous research, but also indicate that sesamin has the ability to improve osteoblastic differentiation, and has therapeutic and preventive effects on osteoporosis by regulating the Wnt/β-catenin pathway. 
+31314750_22082	88	100	osteoporosis	Disease	DOID:11476
+31314750_22082	102	105	ALP	Genefamily	family:1072
+31314750_22082	102	105	ALP	Biomarker	D000469
+31314750_22082	102	165	ALP [ 24 ], OSX [ 25 ], SOX9 [ 26 ], RUNX2 [ 27 , 28 ], and OCN	Collection
+31314750_22082	114	117	OSX	Gene-protein	HGNC:17321
+31314750_22082	114	117	OSX	Biomarker	C478163
+31314750_22082	126	130	SOX9	Gene-protein	HGNC:11204
+31314750_22082	126	130	SOX9	Biomarker	D055758
+31314750_22082	139	144	RUNX2	Gene-protein	HGNC:10472
+31314750_22082	139	144	RUNX2	Biomarker	C493709
+31314750_22082	162	165	OCN	Gene-protein	HGNC:1043
+31314750_22082	162	165	OCN	Biomarker	C000628935
+31314750_22082	220	232	osteoporosis	Disease
+31314750_22082	248	260	osteoporosis	Disease
+31314750_22082	272	308	lower ALP, OSX, SOX9, RUNX2, and OCN	Biomarker
+31314750_22082	278	281	ALP	Gene-protein
+31314750_22082	283	286	OSX	Gene-protein
+31314750_22082	288	292	SOX9	Gene-protein
+31314750_22082	294	299	RUNX2	Gene-protein
+31314750_22082	305	308	OCN	Gene-protein
+31314750_22082	351	356	RUNX2	Gene-protein
+31314750_22082	450	453	ALP	Gene-protein
+31314750_22082	450	453	ALP	Biomarker
+31314750_22082	450	480	ALP, OSX, SOX9, RUNX2, and OCN	Collection
+31314750_22082	455	458	OSX	Gene-protein
+31314750_22082	455	458	OSX	Biomarker
+31314750_22082	460	464	SOX9	Gene-protein
+31314750_22082	460	464	SOX9	Biomarker
+31314750_22082	466	471	RUNX2	Gene-protein
+31314750_22082	466	471	RUNX2	Biomarker
+31314750_22082	477	480	OCN	Gene-protein
+31314750_22082	477	480	OCN	Biomarker
+31314750_22082	518	530	osteoporosis	Disease
+31314750_22082	609	612	Wnt	Genefamily	family:360
+31314750_22082	609	630	Wnt/β-catenin pathway	Biomarker
+31314750_22082	613	622	β-catenin	Genefamily	family:1542
+31314750_22082	690	702	osteoporosis	Disease
+31314750_22082	756	768	osteoporosis	Disease
+31314750_22082	810	817	sesamin	Drug	CHEMBL252915
+31314750_22082	863	875	osteoporosis	Disease
+31314750_22082	906	913	sesamin	Drug
+31314750_22082	934	937	ALP	Gene-protein
+31314750_22082	939	942	OSX	Gene-protein
+31314750_22082	944	948	SOX9	Gene-protein
+31314750_22082	950	955	RUNX2	Gene-protein
+31314750_22082	961	964	OCN	Gene-protein
+31314750_22082	991	994	Wnt	Genefamily
+31314750_22082	995	1004	β-catenin	Genefamily
+31314750_22082	1081	1088	sesamin	Drug
+31314750_22082	1122	1125	OCN	Gene-protein
+31314750_22082	1152	1164	osteoporosis	Disease
+31314750_22082	1247	1254	sesamin	Drug
+31314750_22082	1358	1370	osteoporosis	Disease
+31314750_22082	1389	1392	Wnt	Genefamily
+31314750_22082	1393	1402	β-catenin	Genefamily
+

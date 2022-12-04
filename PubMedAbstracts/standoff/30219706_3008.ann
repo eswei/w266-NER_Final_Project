@@ -1,0 +1,73 @@
+T0	Disease 63 75	glioblastoma
+#1	AnnotatorNotes T0	DOID:3068
+T10	Disease 858 864	glioma
+T11	Disease 1019 1025	glioma
+T12	Drug 1045 1057	temozolomide
+T13	Drug 1059 1062	TMZ
+T14	Disease 1205 1211	glioma
+T15	Drug 1256 1259	TMZ
+T16	Disease 1565 1568	GBM
+T2	Disease 358 374	invasive cancers
+#10	AnnotatorNotes T2	not found
+T3	Disease 386 394	melanoma
+#11	AnnotatorNotes T3	DOID:1909
+T4	Disease 396 420	nasopharyngeal carcinoma
+#12	AnnotatorNotes T4	DOID:9261
+T5	Disease 422 433	lung cancer
+#13	AnnotatorNotes T5	DOID:1324
+T6	Disease 435 452	colorectal cancer
+#14	AnnotatorNotes T6	DOID:9256
+T7	Disease 617 628	glial tumor
+#15	AnnotatorNotes T7	DOID:0060108
+T8	Disease 754 760	glioma
+#16	AnnotatorNotes T8	DOID:0060108
+T9	Disease 800 805	tumor
+#17	AnnotatorNotes T9	DOID:162
+T17	Gene-Protein 93 97	TROY
+#5	AnnotatorNotes T17	HGNC:11915
+T18	GeneFamily 123 165	tumor necrosis factor receptor superfamily
+#6	AnnotatorNotes T18	family:782
+T19	Biomarker 298 326	Increased expression of TROY
+T20	Gene-Protein 322 326	TROY
+T21	Disease 458 461	GBM
+#8	AnnotatorNotes T21	DOID:3073
+T22	Collection 358 461	invasive cancers, including melanoma, nasopharyngeal carcinoma, lung cancer, colorectal cancer, and GBM
+R1	Association Arg1:T19 Arg2:T22	
+T23	Biomarker 533 559	expression of TROY protein
+T24	Gene-Protein 547 551	TROY
+R2	Prognostic-Poor Arg1:T23 Arg2:T7	
+T25	Biomarker 708 741	TROY mRNA expression was elevated
+T26	Gene-Protein 708 712	TROY
+R3	Association Arg1:T25 Arg2:T8	
+T27	Biomarker 818 846	Increased expression of TROY
+T28	Gene-Protein 842 846	TROY
+R4	Association Arg1:T27 Arg2:T10	
+T29	Gene-Protein 967 971	TROY
+T30	Biomarker 967 992	TROY-stimulated migration
+#3	AnnotatorNotes T12	CHEMBL810
+#18	AnnotatorNotes T13	CHEMBL810
+T31	Drug-Class 1067 1076	radiation
+R5	Non-Response Arg1:T12 Arg2:T11	
+R7	Non-Response Arg1:T31 Arg2:T11	
+T32	GeneFamily 1104 1107	Akt
+#4	AnnotatorNotes T32	family:1900
+T33	GeneFamily 1116 1138	nuclear factor kappa B
+#19	AnnotatorNotes T33	family:1254
+T34	GeneFamily 1140 1145	NF-κB
+#20	AnnotatorNotes T34	family:1254
+T35	Drug 1166 1194	knockdown of TROY expression
+#21	AnnotatorNotes T35	not found
+T36	Gene-Protein 1179 1183	TROY
+R9	Response Arg1:T35 Arg2:T14	
+R10	Synergy-Response Arg1:T35 Arg2:T14	
+R11	Synergy-Response Arg1:T15 Arg2:T14	
+T37	Gene-Protein 1293 1297	TROY
+T38	Gene-Protein 1414 1418	TROY
+T39	Gene-Protein 1446 1478	epidermal growth factor receptor
+#7	AnnotatorNotes T39	HGNC:3236
+T40	Gene-Protein 1488 1492	TROY
+T41	Gene-Protein 1519 1551	epidermal growth factor receptor
+T42	Biomarker 1488 1492	TROY
+#22	AnnotatorNotes T42	C411850
+R12	Association Arg1:T42 Arg2:T16	
+T43	Gene-Protein 1654 1658	TROY

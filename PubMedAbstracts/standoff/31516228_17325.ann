@@ -1,0 +1,58 @@
+T1	Disease 176 191	OIN III lesions
+T11	Disease 1479 1500	oropharyngeal lesions
+T12	Disease 1558 1567	dysplasia
+T6	Disease 858 884	higher grades of dysplasia
+#10	AnnotatorNotes T6	not found
+T7	Disease 889 923	invasive oral squamous cell tumors
+#11	AnnotatorNotes T7	not found
+T8	Disease 1123 1128	tumor
+#12	AnnotatorNotes T8	DOID:162
+T9	Disease 1322 1334	oral lesions
+T13	Gene-Protein 48 52	p-16
+#14	AnnotatorNotes T13	HGNC:1787
+T14	Biomarker 48 69	p-16 immunoexpression
+R1	Association Arg1:T14 Arg2:T36	
+T15	Disease 270 298	dysplasia with OIN I lesions
+T2	Biomarker 217 243	increased immunoexpression
+T16	Biomarker 307 337	positive p-16 immunoexpression
+R3	Association Arg1:T16 Arg2:T15	
+T17	Disease 383 389	OIN II
+T18	Disease 403 410	OIN III
+T20	Disease 485 500	OIN III lesions
+T3	Biomarker 544 602	high proportion of cases with positive p-16 immunostaining
+T21	Disease 511 539	poorly differentiated tumors
+T4	Gene-Protein 583 587	p-16
+T22	Gene-Protein 670 674	p-16
+T23	Biomarker 656 691	low to absent p-16 immunoexpression
+T5	Disease 730 758	poorly differentiated tumors
+T24	Collection 875 923	dysplasia and invasive oral squamous cell tumors
+T25	Biomarker 827 854	increase in p-16 expression
+R5	Association Arg1:T25 Arg2:T24	
+T26	Gene-Protein 1103 1107	p-16
+T27	Gene-Protein 1208 1212	p-16
+T28	Biomarker 1208 1229	p-16 immunoexpression
+T29	Biomarker 1234 1257	tumoral grade and stage
+T30	Gene-Protein 1388 1392	p-16
+#1	AnnotatorNotes T1	not found
+#2	AnnotatorNotes T17	not found
+#3	AnnotatorNotes T18	not found
+#5	AnnotatorNotes T15	not found, not found
+T10	Gene-Protein 316 320	p-16
+T31	Biomarker 452 479	lower p-16 immunoexpression
+T32	Disease 424 441	malignant lesions
+#6	AnnotatorNotes T32	DOID:162
+R4	Association Arg1:T31 Arg2:T32	
+T19	Gene-Protein 458 462	p-16
+T33	Gene-Protein 839 843	p-16
+T34	Disease 101 113	premalignant
+#4	AnnotatorNotes T34	D011230
+T35	Disease 133 142	malignant
+#7	AnnotatorNotes T35	DOID:162
+T36	Collection 101 191	premalignant cases and 37.3% of malignant cases with maximal positivity in OIN III lesions
+R2	Association Arg1:T3 Arg2:T21	
+#8	AnnotatorNotes T21	not found
+#9	AnnotatorNotes T5	not found
+#13	AnnotatorNotes T9	not found
+#15	AnnotatorNotes T11	not found
+T37	Disease 1442 1451	malignant
+T38	Biomarker 1388 1421	p-16 immunoexpression and pattern

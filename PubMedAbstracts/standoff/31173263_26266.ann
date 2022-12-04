@@ -1,0 +1,69 @@
+T0	Disease 136 142	cancer
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 160 173	breast cancer
+#2	AnnotatorNotes T1	DOID:1612
+T10	Disease 1087 1122	squamous carcinoma stage II and III
+#3	AnnotatorNotes T10	not found
+T11	Disease 1182 1208	squamous carcinoma stage I
+#4	AnnotatorNotes T11	not found
+T12	Disease 1433 1448	cervical cancer
+#5	AnnotatorNotes T12	DOID:4362
+T13	Disease 1539 1557	cervical carcinoma
+#6	AnnotatorNotes T13	DOID:2893
+T2	Disease 187 200	Ewing sarcoma
+#7	AnnotatorNotes T2	DOID:3369
+T3	Disease 212 220	leukemia
+#8	AnnotatorNotes T3	DOID:1240
+T4	Disease 322 336	bladder cancer
+#9	AnnotatorNotes T4	DOID:11054
+T5	Disease 348 372	nasopharyngeal carcinoma
+#10	AnnotatorNotes T5	DOID:9261
+T6	Disease 811 845	cervical intraepithelial neoplasia
+#11	AnnotatorNotes T6	D018290
+T7	Disease 907 913	cancer
+T8	Disease 1021 1045	invasive cervical cancer
+#13	AnnotatorNotes T8	not found
+T9	Disease 1061 1067	cancer
+T14	Collection 136 220	cancer types, including breast cancer ( 19 , 20 ), Ewing sarcoma ( 21 ) and leukemia
+T15	Gene-Protein 76 80	Bmi1
+#15	AnnotatorNotes T15	HGNC:1066
+T16	Biomarker 60 80	deregulation of Bmi1
+R1	Association Arg1:T16 Arg2:T14	
+T17	Gene-Protein 247 251	Bmi1
+T18	Biomarker 247 251	Bmi1
+T19	Collection 322 372	bladder cancer ( 24 ) and nasopharyngeal carcinoma
+R2	Association Arg1:T18 Arg2:T19	
+T20	Biomarker 390 437	significantly high frequency of Bmi1 expression
+T21	Gene-Protein 422 426	Bmi1
+T22	Disease 441 453	invasive SCC
+#17	AnnotatorNotes T22	not found
+T23	Disease 476 480	HSIL
+#18	AnnotatorNotes T23	D000081483
+R3	Association Arg1:T20 Arg2:T22	
+T24	Gene-Protein 535 539	Bmi1
+T25	Biomarker 686 699	reserve cells
+R4	Association Arg1:T25 Arg2:T6	
+T26	Gene-Protein 855 859	Bmi1
+T27	Biomarker 855 859	Bmi1
+T28	Biomarker 972 1007	Bmi1 expression is more upregulated
+T29	Gene-Protein 972 976	Bmi1
+T30	Disease 1011 1016	HSILs
+#12	AnnotatorNotes T30	D000081483
+T31	Collection 1011 1045	HSILs and invasive cervical cancer
+R5	Association Arg1:T28 Arg2:T31	
+T32	Gene-Protein 1163 1167	Bmi1
+T33	Biomarker 1143 1167	higher intensity of Bmi1
+R6	Association Arg1:T33 Arg2:T10	
+T34	Gene-Protein 1309 1313	Bmi1
+T35	Gene-Protein 1356 1360	Bmi1
+T36	Gene-Protein 1404 1408	KLF4
+#14	AnnotatorNotes T36	HGNC:6348
+T37	Biomarker 1404 1408	KLF4
+#19	AnnotatorNotes T37	C102583
+R7	Association Arg1:T37 Arg2:T12	
+T38	Biomarker 1488 1509	highly expressed Bmi1
+T39	Gene-Protein 1505 1509	Bmi1
+R8	Association Arg1:T38 Arg2:T13	
+T40	Drug 1343 1360	knockdown of Bmi1
+#20	AnnotatorNotes T40	not found
+R9	Response Arg1:T40 Arg2:T12	

@@ -1,0 +1,38 @@
+31402936_15576|t|RSS_IDENT_p_31402936_b_1_4_3
+31402936_15576|a| A retrospective analysis of clinical data of 182 NSCLC patients and 200 healthy individuals was performed. The results of RT-qPCR detection showed that the expression level of hOGG1 was significantly higher in cancer tissues than that in adjacent tissues in NSCLC group of patients, with a statistically significant difference. The median value of the hOGG1 expression level in detection results as the boundary, NSCLC patients were divided into hOGG1 high expression group and hOGG1 low expression group. The 1-, 2- and 3-year survival rates of patients in hOGG1 low expression group were significantly higher than those in hOGG1 high expression group. AUC of hOGG1 expression in the survival prediction of patients with NSCLC was 0.816 which is a high predictive value. Studies have reported that the expression of most oncogenes and tumor suppressor genes can affect the proliferation and differentiation of tumor cells, correlated with the occurrence and development and prognosis of tumors ( 20 ). As a glycosidase that repairs oxidative DNA damage in humans, hOGG1 is closely related to the maintenance of the normal function of human genes and the occurrence and development of cancers ( 21 ). hOGG1 gene polymorphism has been reported to be important in a variety of digestive system cancers, closely related to the prognosis of various cancers. hOGG1 gene can inhibit the proliferation of lung cancer cells and the growth of lung cancer tumors ( 22 ). According to studies by Zhou et al ( 23 ), the hOGG1 expression in serum of patients with acute leukemia depression is higher than that in normal patients, which further supports our experimental results.
+31402936_15576	79	84	NSCLC	Disease	DOID:3908
+31402936_15576	186	236	expression level of hOGG1 was significantly higher	Biomarker
+31402936_15576	206	211	hOGG1	Gene-protein	HGNC:8125
+31402936_15576	240	246	cancer	Disease	DOID:162
+31402936_15576	288	293	NSCLC	Disease
+31402936_15576	382	387	hOGG1	Gene-protein
+31402936_15576	443	448	NSCLC	Disease
+31402936_15576	476	481	hOGG1	Gene-protein
+31402936_15576	476	497	hOGG1 high expression	Biomarker
+31402936_15576	508	513	hOGG1	Gene-protein
+31402936_15576	508	528	hOGG1 low expression	Biomarker
+31402936_15576	588	593	hOGG1	Gene-protein
+31402936_15576	588	608	hOGG1 low expression	Biomarker
+31402936_15576	655	660	hOGG1	Gene-protein
+31402936_15576	655	676	hOGG1 high expression	Biomarker
+31402936_15576	691	696	hOGG1	Gene-protein
+31402936_15576	691	707	hOGG1 expression	Biomarker
+31402936_15576	752	757	NSCLC	Disease
+31402936_15576	941	946	tumor	Disease	DOID:162
+31402936_15576	1018	1024	tumors	Disease	DOID:162
+31402936_15576	1095	1100	hOGG1	Gene-protein
+31402936_15576	1095	1100	hOGG1	Biomarker	C479058
+31402936_15576	1215	1222	cancers	Disease	DOID:162
+31402936_15576	1231	1236	hOGG1	Gene-protein
+31402936_15576	1231	1254	hOGG1 gene polymorphism	Biomarker
+31402936_15576	1305	1329	digestive system cancers	Disease	DOID:3119
+31402936_15576	1305	1382	digestive system cancers, closely related to the prognosis of various cancers	Collection
+31402936_15576	1375	1382	cancers	Disease
+31402936_15576	1384	1389	hOGG1	Gene-protein
+31402936_15576	1384	1389	hOGG1	Drug	C479058
+31402936_15576	1428	1439	lung cancer	Disease	DOID:1324
+31402936_15576	1464	1482	lung cancer tumors	Disease	DOID:1324
+31402936_15576	1538	1543	hOGG1	Gene-protein
+31402936_15576	1538	1563	hOGG1 expression in serum	Biomarker
+31402936_15576	1581	1606	acute leukemia depression	Disease	DOID:12603
+

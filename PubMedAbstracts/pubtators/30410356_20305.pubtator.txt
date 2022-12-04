@@ -1,0 +1,32 @@
+30410356_20305|t|RSS_IDENT_p_30410356_b_1_4_4
+30410356_20305|a| Similar to the previous research, our data demonstrated the significant prognostic value of ECOG PS in the NSCLC patients. Moreover, a correlation between decreased serum ApoA-I level and poorer ECOG PS (2–4) was found in our study. Weaker general physical condition is always related with poorer ECOG PS score (2–4), which generally accompanies hypoalbuminemia. So it can be better understood that ApoA-I levels were found to be lower in patients with albumin ≤35 g/L before initial treatment. Furthermore, clinical TNM stage and extent of metastasis have also been explored with lung cancer patients in our study. Pretherapy serum ApoA-I levels were found to be lower in patients with more organ sites of distant metastasis compared with those with less than two sites of metastasis. We also observed that elevated ApoA-I levels were related to an earlier TNM stage in NSCLC patients. Recent study has revealed that ApoA-I has been related to the metastasis and angiogenesis by changing the tumor microenvironment. Decreased matrix metalloproteinase-9 protein levels and enzyme activity combined with extracellular matrix remodeling promote tumor invasion and tumor metastasis, which might provide a reasonable explanation for this phenomenon. 17
+30410356_20305	137	142	NSCLC	Disease	DOID:3908
+30410356_20305	185	213	decreased serum ApoA-I level	Biomarker
+30410356_20305	201	207	ApoA-I	Gene-protein	HGNC:600
+30410356_20305	218	232	poorer ECOG PS	Biomarker
+30410356_20305	263	296	Weaker general physical condition	Biomarker
+30410356_20305	320	340	poorer ECOG PS score	Biomarker
+30410356_20305	376	391	hypoalbuminemia	Disease	D034141
+30410356_20305	429	435	ApoA-I	Gene-protein
+30410356_20305	429	465	ApoA-I levels were found to be lower	Biomarker
+30410356_20305	483	490	albumin	Gene-protein	HGNC:399
+30410356_20305	483	490	albumin	Biomarker	D000418
+30410356_20305	538	556	clinical TNM stage	Biomarker
+30410356_20305	561	581	extent of metastasis	Biomarker
+30410356_20305	611	622	lung cancer	Disease	DOID:1324
+30410356_20305	657	699	serum ApoA-I levels were found to be lower	Biomarker
+30410356_20305	663	669	ApoA-I	Gene-protein
+30410356_20305	717	755	more organ sites of distant metastasis	Biomarker
+30410356_20305	838	860	elevated ApoA-I levels	Biomarker
+30410356_20305	847	853	ApoA-I	Gene-protein
+30410356_20305	880	897	earlier TNM stage	Biomarker
+30410356_20305	901	906	NSCLC	Disease
+30410356_20305	948	954	ApoA-I	Gene-protein
+30410356_20305	948	954	ApoA-I	Biomarker	D016632
+30410356_20305	979	1006	metastasis and angiogenesis	Biomarker
+30410356_20305	1023	1028	tumor	Disease	DOID:162
+30410356_20305	1047	1164	Decreased matrix metalloproteinase-9 protein levels and enzyme activity combined with extracellular matrix remodeling	Biomarker
+30410356_20305	1057	1083	matrix metalloproteinase-9	Gene-protein	HGNC:7176
+30410356_20305	1173	1187	tumor invasion	Biomarker
+30410356_20305	1192	1208	tumor metastasis	Biomarker
+

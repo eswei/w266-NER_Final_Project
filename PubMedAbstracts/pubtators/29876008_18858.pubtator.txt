@@ -1,0 +1,35 @@
+29876008_18858|t|RSS_IDENT_s_29876008_b_1_2_7
+29876008_18858|a| Top 10 methylated DMRs-genes: Obesity versus control pair Supplementary Table 5 presents top 10 hyper-methylated DMRs for obese/control pair, and the genes are RGPD5/RGPD8, CTDSPL2, GCNT1, LMO2, PGPEP1L, LDHA, CYB5R2, SPACA1, PARVG, and MSH6. Top 10 hypo-methylated DMRs for obese/control are listed in Supplementary Table 6. The annotated genes are LHX6, INPP5F, HIGD1A, SLC2A3 (GLUT3), BLCAP, NNAT, MATR3, SNHG4, CCDC144B, and DTX1 (gene underlined is also found for the Cancer versus control pair in Table 4). And, SLC2A3 was also on the top 10 hypo-methylated gene list in Cancer/control pair comparison, which suggested some association of obesity and CRC. It is worthy to notice that hyper-methylated DMRs are about evenly distributed in the CDS, promoter, intron and Utr5 regions; whereas, more regions of the hypo-methylated DMRs are in the promoter (40%), than intron (30%) and other three regions of CDS, Utr5 and three prime untranslated (Utr3) regions (10% each).
+29876008_18858	60	67	Obesity	Disease	DOID:9970
+29876008_18858	152	157	obese	Disease	DOID:9970
+29876008_18858	190	195	RGPD5	Gene-protein	HGNC:32418
+29876008_18858	196	201	RGPD8	Gene-protein	HGNC:9849
+29876008_18858	203	210	CTDSPL2	Gene-protein	HGNC:26936
+29876008_18858	212	217	GCNT1	Gene-protein	HGNC:4203
+29876008_18858	219	223	LMO2	Gene-protein	HGNC:6642
+29876008_18858	225	232	PGPEP1L	Gene-protein	HGNC:27080
+29876008_18858	234	238	LDHA	Gene-protein	HGNC:6535
+29876008_18858	240	246	CYB5R2	Gene-protein	HGNC:24376
+29876008_18858	248	254	SPACA1	Gene-protein	HGNC:14967
+29876008_18858	256	261	PARVG	Gene-protein	HGNC:14654
+29876008_18858	267	271	MSH6	Gene-protein	HGNC:7329
+29876008_18858	305	310	obese	Disease
+29876008_18858	380	384	LHX6	Gene-protein	HGNC:21735
+29876008_18858	386	392	INPP5F	Gene-protein	HGNC:17054
+29876008_18858	394	400	HIGD1A	Gene-protein	HGNC:29527
+29876008_18858	402	408	SLC2A3	Gene-protein	HGNC:11007
+29876008_18858	410	415	GLUT3	Gene-protein	HGNC:11007
+29876008_18858	418	423	BLCAP	Gene-protein	HGNC:1055
+29876008_18858	425	429	NNAT	Gene-protein	HGNC:7860
+29876008_18858	431	436	MATR3	Gene-protein	HGNC:6912
+29876008_18858	438	443	SNHG4	Gene-protein	HGNC:32964
+29876008_18858	445	453	CCDC144B	Gene-protein	HGNC:26704
+29876008_18858	459	463	DTX1	Gene-protein	HGNC:3060
+29876008_18858	503	509	Cancer	Disease	DOID:162
+29876008_18858	548	554	SLC2A3	Biomarker	C495687
+29876008_18858	548	554	SLC2A3	Gene-protein
+29876008_18858	607	613	Cancer	Disease
+29876008_18858	675	682	obesity	Disease	DOID:9970
+29876008_18858	675	690	obesity and CRC	Collection
+29876008_18858	687	690	CRC	Disease	DOID:9256
+

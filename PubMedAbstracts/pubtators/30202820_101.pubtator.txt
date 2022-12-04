@@ -1,0 +1,88 @@
+30202820_101|t|RSS_IDENT_p_30202820_a_1_1
+30202820_101|a| Primary sclerosing cholangitis (PSC) and primary biliary cholangitis (PBC) are the most common cholestatic liver diseases. While PBC is generally accepted to be an autoimmune disorder characterized by pathognomonic autoantibodies against mitochondrial antigens, the pathogenesis of PSC is less precisely defined; however, some degree of altered immunity toward autoantigens has been suggested. Follicular T helper (Tfh) cells, a distinct clusters of differentiation (CD)4 T‐cell subset specialized in facilitating antibody responses, have been shown to contribute to humoral autoimmunity in various disorders; yet, there is only limited information on possible alterations of Tfh cells in the context of cholestatic liver diseases. Thus, we addressed this important question by analyzing the frequency, activation status, and function of Tfh cells and frequencies of regulatory follicular T helper (Tfr) cells in well‐defined cohorts of patients with PBC and patients with PSC. Interestingly, we observed a significant increase in circulating chemokine (C‐X‐C motif) receptor 5 (CXCR5)+programmed death 1 (PD‐1) +CD4+ Tfh cells in patients with PBC but not in those with PSC. Although the frequency of potentially pathogenic chemokine (C‐C motif) receptor 7 (CCR7)lowCXCR5+PD‐1+CD4+ Tfh cells was increased in both disorders compared to healthy donors, the increase was significantly more pronounced in PBC. Furthermore, in patients with PBC, Tfh cells displayed stronger expression of the activation markers OX40 and inducible costimulator of T cells, correlated with anti‐anti‐mitochondrial antibody M2 and immunoglobulin M titers, and were most significantly increased in patients with cirrhosis. Tfr cell numbers were similarly increased; however, Tfh/Tfr ratios were unaltered in PSC and PBC. These alterations did not correlate with increased secretion of the Tfh signature cytokine interleukin‐21 in sorted CD4 T cells. Conclusion: Significant alterations occur in the Tfh cell compartment in cholestatic liver diseases, suggesting that Tfh cells influence the pathogenesis of PBC and to a lesser extend PSC. Abbreviations ALP alkaline phosphatase AMA anti‐mitochondrial antibody APC allophycocyanin CCR7 chemokine (C‐C motif) receptor 7 CD clusters of differentiation CLD cholestatic liver disease cTfr circulating regulatory follicular T helper CXCR5 chemokine (C‐X‐C motif) receptor type 5 ELISA enzyme‐linked immunosorbent assay FITC fluorescein isothiocyanate FoxP3 forkhead box P3 ICOS inducible costimulator of T cells IFN interferon Ig immunoglobulin IL interleukin PBC primary biliary cholangitis PD‐1 programmed death 1 PE phycoerythrin PMA phorbol 12‐myristate 13‐acetate PSC primary sclerosing cholangitis Tfh follicular T helper Tfr regulatory follicular T helper Th T helper
+30202820_101	28	58	Primary sclerosing cholangitis	Disease	DOID:0060643
+30202820_101	60	63	PSC	Disease	DOID:0060643
+30202820_101	69	96	primary biliary cholangitis	Disease	DOID:12236
+30202820_101	98	101	PBC	Disease	DOID:12236
+30202820_101	123	149	cholestatic liver diseases	Disease	not found
+30202820_101	157	160	PBC	Disease
+30202820_101	192	211	autoimmune disorder	Disease	DOID:417
+30202820_101	229	288	pathognomonic autoantibodies against mitochondrial antigens	Biomarker
+30202820_101	310	313	PSC	Disease
+30202820_101	365	401	altered immunity toward autoantigens	Biomarker
+30202820_101	466	499	clusters of differentiation (CD)4	Gene-protein	HGNC:1678
+30202820_101	689	713	alterations of Tfh cells	Biomarker
+30202820_101	732	758	cholestatic liver diseases	Disease
+30202820_101	979	982	PBC	Disease
+30202820_101	1001	1004	PSC	Disease
+30202820_101	1035	1155	significant increase in circulating chemokine (C‐X‐C motif) receptor 5 (CXCR5)+programmed death 1 (PD‐1) +CD4+ Tfh cells	Biomarker
+30202820_101	1071	1105	chemokine (C‐X‐C motif) receptor 5	Gene-protein	HGNC:1060
+30202820_101	1107	1112	CXCR5	Gene-protein	HGNC:1060
+30202820_101	1114	1132	programmed death 1	Gene-protein	HGNC:8760
+30202820_101	1134	1138	PD‐1	Gene-protein	HGNC:8760
+30202820_101	1141	1144	CD4	Gene-protein	HGNC:1678
+30202820_101	1173	1176	PBC	Disease
+30202820_101	1173	1202	PBC but not in those with PSC	Collection
+30202820_101	1199	1202	PSC	Disease
+30202820_101	1217	1334	frequency of potentially pathogenic chemokine (C‐C motif) receptor 7 (CCR7)lowCXCR5+PD‐1+CD4+ Tfh cells was increased	Biomarker
+30202820_101	1253	1285	chemokine (C‐C motif) receptor 7	Gene-protein	HGNC:1608
+30202820_101	1286	1291	(CCR7	Gene-protein	HGNC:1608
+30202820_101	1295	1300	CXCR5	Gene-protein
+30202820_101	1301	1305	PD‐1	Gene-protein
+30202820_101	1306	1309	CD4	Gene-protein
+30202820_101	1431	1434	PBC	Disease
+30202820_101	1466	1469	PBC	Disease
+30202820_101	1471	1579	Tfh cells displayed stronger expression of the activation markers OX40 and inducible costimulator of T cells	Biomarker
+30202820_101	1537	1541	OX40	Gene-protein	HGNC:11918
+30202820_101	1597	1632	anti‐anti‐mitochondrial antibody M2	Biomarker
+30202820_101	1597	1632	anti‐anti‐mitochondrial antibody M2	Gene-protein	not found
+30202820_101	1637	1653	immunoglobulin M	Genefamily	not found
+30202820_101	1637	1660	immunoglobulin M titers	Biomarker
+30202820_101	1717	1726	cirrhosis	Disease	D005355
+30202820_101	1728	1769	Tfr cell numbers were similarly increased	Biomarker
+30202820_101	1728	1809	Tfr cell numbers were similarly increased; however, Tfh/Tfr ratios were unaltered	Collection
+30202820_101	1780	1809	Tfh/Tfr ratios were unaltered	Biomarker
+30202820_101	1813	1816	PSC	Disease
+30202820_101	1813	1824	PSC and PBC	Collection
+30202820_101	1821	1824	PBC	Disease
+30202820_101	1917	1931	interleukin‐21	Gene-protein	HGNC:6005
+30202820_101	1942	1945	CD4	Gene-protein
+30202820_101	1967	2024	Significant alterations occur in the Tfh cell compartment	Biomarker
+30202820_101	2028	2054	cholestatic liver diseases	Disease
+30202820_101	2072	2081	Tfh cells	Biomarker
+30202820_101	2112	2115	PBC	Disease
+30202820_101	2112	2142	PBC and to a lesser extend PSC	Collection
+30202820_101	2139	2142	PSC	Disease
+30202820_101	2158	2161	ALP	Gene-protein
+30202820_101	2162	2182	alkaline phosphatase	Gene-protein
+30202820_101	2183	2186	AMA	Gene-protein
+30202820_101	2187	2214	anti‐mitochondrial antibody	Gene-protein
+30202820_101	2235	2239	CCR7	Gene-protein
+30202820_101	2240	2272	chemokine (C‐C motif) receptor 7	Gene-protein
+30202820_101	2273	2275	CD	Genefamily
+30202820_101	2276	2303	clusters of differentiation	Genefamily
+30202820_101	2304	2307	CLD	Disease	not found
+30202820_101	2308	2333	cholestatic liver disease	Disease
+30202820_101	2382	2387	CXCR5	Gene-protein
+30202820_101	2388	2427	chemokine (C‐X‐C motif) receptor type 5	Gene-protein
+30202820_101	2468	2472	FITC	Chemical
+30202820_101	2473	2499	fluorescein isothiocyanate	Chemical
+30202820_101	2500	2505	FoxP3	Gene-protein
+30202820_101	2506	2521	forkhead box P3	Gene-protein
+30202820_101	2561	2564	IFN	Genefamily
+30202820_101	2565	2575	interferon	Genefamily
+30202820_101	2576	2578	Ig	Genefamily
+30202820_101	2579	2593	immunoglobulin	Genefamily
+30202820_101	2594	2596	IL	Genefamily
+30202820_101	2597	2608	interleukin	Genefamily
+30202820_101	2609	2612	PBC	Disease
+30202820_101	2613	2640	primary biliary cholangitis	Disease
+30202820_101	2641	2645	PD‐1	Gene-protein
+30202820_101	2646	2664	programmed death 1	Gene-protein
+30202820_101	2665	2667	PE	Chemical
+30202820_101	2668	2681	phycoerythrin	Chemical
+30202820_101	2682	2685	PMA	Chemical
+30202820_101	2686	2717	phorbol 12‐myristate 13‐acetate	Chemical
+30202820_101	2718	2721	PSC	Disease
+30202820_101	2722	2752	primary sclerosing cholangitis	Disease	DOID:14268
+

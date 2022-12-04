@@ -1,0 +1,38 @@
+T0	Disease 84 107	cardiovascular diseases
+#1	AnnotatorNotes T0	DOID:1287
+T1	Biomarker 109 117	visfatin
+T10	Disease 433 454	vascular inflammation
+T11	Gene-Protein 608 613	NAMPT
+T13	Gene-Protein 740 745	NAMPT
+T15	Disease 766 785	plaque inflammation
+#6	AnnotatorNotes T15	not found
+T16	Disease 789 814	atherosclerotic disorders
+#7	AnnotatorNotes T16	DOID:1936
+T18	Gene-Protein 942 950	visfatin
+T19	Disease 1050 1054	T2DM
+#9	AnnotatorNotes T19	DOID:9352
+T20	Gene-Protein 1086 1094	visfatin
+T22	Disease 1163 1191	cardiovascular complications
+#11	AnnotatorNotes T22	DOID:1287
+T3	Disease 156 177	vascular inflammation
+#12	AnnotatorNotes T3	not found
+T4	Disease 182 197	atherosclerosis
+#13	AnnotatorNotes T4	DOID:1936
+T6	Gene-Protein 230 238	visfatin
+T7	Gene-Protein 313 318	NAMPT
+T8	Gene-Protein 408 416	visfatin
+T2	Gene-Protein 109 117	visfatin
+#2	AnnotatorNotes T2	HGNC:30092
+#4	AnnotatorNotes T1	 D054409
+R1	Association Arg1:T1 Arg2:T0	
+T5	Collection 156 197	vascular inflammation and atherosclerosis
+R2	Association Arg1:T1 Arg2:T5	
+#5	AnnotatorNotes T7	HGNC:30092
+T9	Biomarker 408 416	visfatin
+R3	Association Arg1:T9 Arg2:T10	
+T12	Collection 766 814	plaque inflammation in atherosclerotic disorders
+T14	Biomarker 740 745	NAMPT
+R4	Association Arg1:T14 Arg2:T12	
+T17	Biomarker 924 950	elevated level of visfatin
+T21	Biomarker 1086 1094	visfatin
+R6	Association Arg1:T21 Arg2:T22	

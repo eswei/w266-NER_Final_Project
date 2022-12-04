@@ -1,0 +1,85 @@
+T1	Chemical 56 60	TMAO
+T10	Chemical 340 344	TMAO
+T11	Disease 371 384	heart failure
+#3	AnnotatorNotes T11	D006333
+T12	Disease 388 427	pressure overload-induced heart failure
+#4	AnnotatorNotes T12	not found
+T13	Biomarker 436 459	Endothelial dysfunction
+T17	Disease 477 492	vascular damage
+#7	AnnotatorNotes T17	not found
+T18	Disease 524 539	atherosclerosis
+T19	Disease 553 556	CVD
+T2	Disease 98 120	cardiovascular disease
+#10	AnnotatorNotes T2	DOID:1287
+T20	Disease 599 614	atherosclerosis
+T22	Chemical 628 632	TMAO
+T23	Disease 662 683	vascular inflammation
+#13	AnnotatorNotes T23	not found
+T24	Disease 723 746	endothelial dysfunction
+T25	Chemical 780 784	TMAO
+T26	Disease 812 835	endothelial dysfunction
+T27	Chemical 880 882	NO
+T3	Disease 122 125	CVD
+T30	Chemical 1026 1030	TMAO
+T31	Disease 1138 1153	atherosclerosis
+T32	Chemical 1214 1218	TMAO
+T33	Disease 1214 1253	TMAO associated endothelial dysfunction
+T34	Chemical 1312 1316	TMAO
+T35	Disease 1320 1323	CVD
+T36	Chemical 1378 1382	TMAO
+T37	Biomarker 1378 1417	TMAO associated endothelial dysfunction
+T38	Disease 1431 1454	cardiovascular diseases
+T39	Chemical 1538 1542	TMAO
+T4	Chemical 174 178	TMAO
+T40	Chemical 1617 1621	TMAO
+T41	Disease 1617 1656	TMAO associated endothelial dysfunction
+T5	Disease 183 186	CVD
+T7	Chemical 225 229	TMAO
+T8	Disease 251 272	vascular inflammation
+#34	AnnotatorNotes T8	not found
+T9	Disease 306 321	atherosclerosis
+#35	AnnotatorNotes T9	DOID:1936
+#1	AnnotatorNotes T3	DOID:1287
+T6	Biomarker 56 60	TMAO
+#2	AnnotatorNotes T6	C005855
+R1	Risk-Factor Arg1:T6 Arg2:T2	
+T14	Biomarker 174 178	TMAO
+R2	Association Arg1:T14 Arg2:T5	
+T16	Biomarker 206 229	Elevated levels of TMAO
+T21	Disease 277 293	oxidative stress
+#9	AnnotatorNotes T21	D018384
+T28	Collection 251 321	vascular inflammation and oxidative stress, leading to atherosclerosis
+R3	Association Arg1:T16 Arg2:T28	
+T29	Biomarker 340 344	TMAO
+R4	Association Arg1:T29 Arg2:T12	
+T15	Collection 477 556	vascular damage, leading to the development of atherosclerosis resulting in CVD
+R5	Association Arg1:T13 Arg2:T15	
+T42	Biomarker 616 639	Circulating TMAO levels
+T43	Disease 688 704	oxidative stress
+T44	Collection 662 746	vascular inflammation and oxidative stress and contribute to endothelial dysfunction
+R6	Association Arg1:T42 Arg2:T44	
+T45	Biomarker 780 784	TMAO
+R7	Association Arg1:T45 Arg2:T26	
+#5	AnnotatorNotes T24	not found
+T46	Gene-Protein 851 855	eNOS
+#6	AnnotatorNotes T46	HGNC:7876
+T47	GeneFamily 1065 1074	cytokines
+#8	AnnotatorNotes T47	not found
+T49	Gene-Protein 1258 1263	NLRP3
+#11	AnnotatorNotes T49	HGNC:16400
+T50	Biomarker 1312 1316	TMAO
+#12	AnnotatorNotes T50	HGNC:16400
+R9	Association Arg1:T50 Arg2:T35	
+R10	Association Arg1:T37 Arg2:T38	
+T51	Biomarker 1538 1542	TMAO
+T52	Biomarker 1582 1597	increased HMGB1
+#14	AnnotatorNotes T41	not found
+T53	Gene-Protein 1555 1560	HMGB1
+#15	AnnotatorNotes T53	HGNC:4983
+T54	Gene-Protein 1592 1597	HMGB1
+R11	Association Arg1:T52 Arg2:T41	
+#17	AnnotatorNotes T26	not found
+T55	Biomarker 1543 1571	upregulated HMGB1 expression
+T56	Biomarker 1002 1030	physiological levels of TMAO
+R12	Association Arg1:T56 Arg2:T31	
+#18	AnnotatorNotes T33	not found

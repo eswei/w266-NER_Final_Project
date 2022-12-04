@@ -1,0 +1,29 @@
+30282943_27803|t|RSS_IDENT_p_30282943_b_1_4_4
+30282943_27803|a| It is well known that abnormalities in different types of lymphocytes play a crucial role in the pathogenesis of SLE, especially B cells [ 43 ]. A large body of evidence indicates that B cells are abnormal in SLE, with the increased number of cells, the elevated calcium flux on signaling through the B-cell receptor, and the high expression of co-stimulatory molecules on B cells [ 44 ]. Owing to its multiple pathogenic roles in SLE, understanding the proliferation of B cells is of importance. Cer has a variety of functions in the cell death process depending on its acyl chain length [ 45 ] Generally, a shift in Cer composition from C24 to C16 increases vulnerability to cell apoptosis [ 33 ]. Therefore, the altered compositions of Cer species may cause the proliferation of lymphocytes cells in SLE. IL-10 can induce mitochondrial hyperpolarization (that is, elevated mitochondrial transmembrane potential) resulting in increased reactive oxygen species [ 46 ]. Mitochondrial hyperpolarization was correlated with ATP reduction and necrosis of lupus T cells, which in turn may promote inflammation in patients with SLE [ 47 ]. So, the altered compositions of dPE species and of Cer species may have a close relationship with abnormal lymphocytes activation and cell death, which underlie the pathology of SLE. Certainly, further experiments are needed to demonstrate the conclusion. 
+30282943_27803	52	99	abnormalities in different types of lymphocytes	Biomarker
+30282943_27803	143	146	SLE	Disease	DOID:9074
+30282943_27803	215	235	B cells are abnormal	Biomarker
+30282943_27803	239	242	SLE	Disease
+30282943_27803	293	300	calcium	Chemical
+30282943_27803	331	346	B-cell receptor	Gene-protein	not found
+30282943_27803	461	464	SLE	Disease
+30282943_27803	527	530	Cer	Chemical
+30282943_27803	601	605	acyl	Chemical
+30282943_27803	648	651	Cer	Chemical
+30282943_27803	745	780	altered compositions of Cer species	Biomarker
+30282943_27803	769	772	Cer	Chemical
+30282943_27803	833	836	SLE	Disease
+30282943_27803	838	843	IL-10	Gene-protein	HGNC:5962
+30282943_27803	968	991	reactive oxygen species	Chemical
+30282943_27803	1000	1031	Mitochondrial hyperpolarization	Biomarker
+30282943_27803	1052	1055	ATP	Chemical
+30282943_27803	1052	1065	ATP reduction	Biomarker
+30282943_27803	1052	1095	ATP reduction and necrosis of lupus T cells	Collection
+30282943_27803	1070	1095	necrosis of lupus T cells	Biomarker
+30282943_27803	1123	1156	inflammation in patients with SLE	Disease	D007249, DOID:9074
+30282943_27803	1173	1227	altered compositions of dPE species and of Cer species	Biomarker
+30282943_27803	1197	1200	dPE	Chemical
+30282943_27803	1216	1219	Cer	Chemical
+30282943_27803	1263	1309	abnormal lymphocytes activation and cell death	Biomarker
+30282943_27803	1343	1346	SLE	Disease
+

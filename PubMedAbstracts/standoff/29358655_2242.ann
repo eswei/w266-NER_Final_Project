@@ -1,0 +1,69 @@
+T0	Chemical 58 62	zinc
+T11	Chemical 713 728	poly ADP-ribose
+T14	Disease 1015 1020	tumor
+T15	Disease 1084 1101	thyroid carcinoma
+#8	AnnotatorNotes T15	DOID:3963
+T2	Chemical 110 114	zinc
+T4	Chemical 242 255	retinoic acid
+T5	Disease 479 484	tumor
+#12	AnnotatorNotes T5	DOID:162
+T6	Disease 582 589	cancers
+#13	AnnotatorNotes T6	DOID:162
+T7	Disease 600 608	melanoma
+#14	AnnotatorNotes T7	DOID:1909
+T8	Disease 610 632	malignant mesothelioma
+#15	AnnotatorNotes T8	DOID:1790
+T9	Disease 634 649	prostate cancer
+#16	AnnotatorNotes T9	DOID:10283
+T16	Gene-Protein 131 135	PLZF
+#1	AnnotatorNotes T16	HGNC:12930
+T17	Gene-Protein 152 158	ZBTB16
+#4	AnnotatorNotes T17	HGNC:12930
+T18	Gene-Protein 275 279	PLZF
+T19	Gene-Protein 442 446	PLZF
+T20	Gene-Protein 521 525	PLZF
+T21	Gene-Protein 829 833	PLZF
+T22	Gene-Protein 1041 1045	PLZF
+T23	Gene-Protein 1134 1138	PLZF
+T24	Gene-Protein 1237 1241	PLZF
+T25	Gene-Protein 242 266	retinoic acid receptor α
+#9	AnnotatorNotes T25	HGNC:9864
+T26	Disease 655 681	non-small cell lung cancer
+T10	Gene-Protein 692 697	c-myc
+#3	AnnotatorNotes T10	HGNC:7553
+T27	GeneFamily 741 745	PARP
+#11	AnnotatorNotes T27	family:684
+T28	GeneFamily 713 739	poly ADP-ribose polymerase
+#17	AnnotatorNotes T28	family:684
+T29	Gene-Protein 751 756	Mcl-1
+#18	AnnotatorNotes T29	 HGNC:6943
+T30	Biomarker 799 833	low expression of cytoplasmic PLZF
+T12	Biomarker 859 875	high tumor grade
+T31	Biomarker 877 898	lymph node metastasis
+T32	Disease 951 977	non-small cell lung cancer
+T13	Gene-Protein 1064 1067	p53
+#5	AnnotatorNotes T13	HGNC:11998
+T33	Biomarker 1041 1045	PLZF
+R1	Association Arg1:T33 Arg2:T14	
+T34	Biomarker 1103 1138	high cytoplasmic expression of PLZF
+T35	Biomarker 1167 1184	capsular invasion
+T36	Biomarker 1189 1210	lymph node metastasis
+T38	Disease 1245 1248	GBC
+#7	AnnotatorNotes T38	DOID:3121
+R2	Prognostic-Poor Arg1:T30 Arg2:T32	
+#6	AnnotatorNotes T26	DOID:3908
+T37	Collection 582 681	cancers including melanoma, malignant mesothelioma, prostate cancer, and non-small cell lung cancer
+T39	Drug 521 525	PLZF
+R3	Response Arg1:T39 Arg2:T37	
+T40	Biomarker 442 446	PLZF
+#19	AnnotatorNotes T40	D000075722
+#20	AnnotatorNotes T39	D000075722
+T41	Disease 184 212	acute promyelocytic leukemia
+#10	AnnotatorNotes T41	DOID:0060318
+T3	Gene-Protein 87 129	promyelocytic leukemia zinc-finger protein
+#21	AnnotatorNotes T3	HGNC:12930
+T42	Biomarker 87 129	promyelocytic leukemia zinc-finger protein
+#22	AnnotatorNotes T42	D000075722
+R4	Association Arg1:T42 Arg2:T41	
+T43	GeneFamily 45 78	Kruppel-like zinc-finger proteins
+#23	AnnotatorNotes T43	family:624

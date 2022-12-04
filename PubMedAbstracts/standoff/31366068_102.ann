@@ -1,0 +1,92 @@
+T1	Biomarker 44 60	Oxidative stress
+T10	Chemical 620 628	paraoxon
+T11	Biomarker 770 844	Plasma cholesterol and fractions, ApoA1 and ApoB levels were all decreased
+T12	Chemical 777 788	cholesterol
+T13	Disease 848 867	sickle cell disease
+T14	Biomarker 884 976	anti-oxidized low-density lipoprotein (LDL) antibodies and C-reactive protein were increased
+T15	Biomarker 978 1015	Serum arylesterase activity was lower
+T16	Disease 1019 1038	sickle cell disease
+T17	Biomarker 1098 1129	paraoxonase activity was higher
+T19	Biomarker 1196 1265	increase of serum iron and ferritin levels and transferrin saturation
+T2	Biomarker 62 82	chronic inflammation
+T20	Chemical 1214 1218	iron
+T21	GeneFamily 1223 1231	ferritin
+T22	Variant 1387 1391	L55M
+T23	GeneFamily 1489 1497	ferritin
+T24	Biomarker 1592 1616	transferrin and ferritin
+T25	Chemical 1608 1616	ferritin
+T26	Disease 1712 1731	sickle cell disease
+T27	Biomarker 1733 1756	LDL oxidation increased
+T4	Chemical 108 112	iron
+T5	Disease 141 160	sickle cell disease
+#12	AnnotatorNotes T5	DOID:10923
+T9	Chemical 603 615	phenylcetate
+T29	GeneFamily 162 174	Paraoxonases
+#1	AnnotatorNotes T29	family:463
+T30	GeneFamily 176 179	PON
+#2	AnnotatorNotes T30	family:463
+T31	Gene-Protein 195 200	PON-1
+#6	AnnotatorNotes T31	HGNC:9204
+T32	Gene-Protein 337 342	PON-2
+T33	Gene-Protein 330 335	PON-1
+T34	Gene-Protein 512 517	PON-1
+T35	Gene-Protein 344 349	PON-3
+T36	Gene-Protein 309 314	PON-1
+T37	Gene-Protein 1144 1149	PON-1
+T38	Gene-Protein 1381 1386	PON-1
+T39	Gene-Protein 1765 1770	PON-1
+T40	Gene-Protein 804 809	ApoA1
+#9	AnnotatorNotes T40	HGNC:600
+T41	Gene-Protein 1397 1402	PON-2
+T42	Gene-Protein 814 818	ApoB
+#11	AnnotatorNotes T42	HGNC:603
+T43	Gene-Protein 1407 1412	PON-3
+T7	GeneFamily 547 558	paraoxonase
+#13	AnnotatorNotes T7	family:463
+T44	GeneFamily 530 542	arylesterase
+#14	AnnotatorNotes T44	family:463
+R1	Association Arg1:T11 Arg2:T13	
+T45	GeneFamily 984 996	arylesterase
+T46	Gene-Protein 943 961	C-reactive protein
+#3	AnnotatorNotes T46	HGNC:2367
+T47	Gene-Protein 202 207	PON-2
+#16	AnnotatorNotes T47	HGNC:9205
+T48	Gene-Protein 209 214	PON-3
+#8	AnnotatorNotes T48	HGNC:9206
+T49	Biomarker 309 325	PON-1 activities
+T50	Biomarker 330 363	PON-1, PON-2, PON-3 polymorphisms
+T51	Collection 309 363	PON-1 activities and PON-1, PON-2, PON-3 polymorphisms
+T8	Disease 381 421	sickle cell disease, homozygous for HbSS
+R2	Association Arg1:T15 Arg2:T16	
+T6	GeneFamily 1243 1254	transferrin
+#4	AnnotatorNotes T6	family:908
+R3	Variant-Of Arg1:T38 Arg2:T22	
+#5	AnnotatorNotes T1	D018384
+T52	Biomarker 84 97	vasoocclusion
+T3	Biomarker 103 112	free iron
+T53	Collection 44 112	Oxidative stress, chronic inflammation, vasoocclusion, and free iron
+R4	Association Arg1:T51 Arg2:T8	
+#7	AnnotatorNotes T8	not found
+R5	Association Arg1:T53 Arg2:T5	
+R6	Association Arg1:T14 Arg2:T13	
+T54	Biomarker 1324 1345	QQ or QR polymorphism
+#15	AnnotatorNotes T21	family:1455
+#17	AnnotatorNotes T22	p.Leu55Met
+T55	GeneFamily 1592 1603	transferrin
+T56	GeneFamily 1655 1667	arylesterase
+T57	GeneFamily 1672 1683	paraoxonase
+T58	Biomarker 1645 1694	decreased arylesterase and paraoxonase activities
+T28	Gene-Protein 884 938	anti-oxidized low-density lipoprotein (LDL) antibodies
+#10	AnnotatorNotes T28	not found
+T60	Biomarker 1397 1426	PON-2 and PON-3 polymorphisms
+T61	GeneFamily 1473 1484	transferrin
+T62	GeneFamily 1529 1541	arylesterase
+T63	GeneFamily 1546 1557	paraoxonase
+T64	Disease 1834 1850	oxidative damage
+#18	AnnotatorNotes T64	D018384
+T65	Variant 1153 1158	Q192R
+#20	AnnotatorNotes T65	p.Gln192Arg
+R9	Variant-Of Arg1:T37 Arg2:T65	
+T18	Variant 1771 1776	Q192R
+R10	Variant-Of Arg1:T39 Arg2:T18	
+R7	Risk-Reduce Arg1:T18 Arg2:T64	

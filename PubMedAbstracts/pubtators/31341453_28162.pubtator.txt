@@ -1,0 +1,40 @@
+31341453_28162|t|RSS_IDENT_p_31341453_b_1_4_11
+31341453_28162|a| Despite the fact that both miR-143 and miR-145 are found on the locus of chromosome 5 (q32), there are controversies regarding their expressions and specific functions in cervical carcinogenesis.[ 8 , 48 ] Series of in vitro (involving CaSki and SiHa cells) and in vivo (among individuals diagnosed with cervical cancer) investigations show that miR-143 and miR-145 are underexpressed in HPV16/18/31 positive cells.[ 10 , 49 , 50 ] Interestingly, an array of data also show that HPV- cancer cell line (C-33A) had underexpressed miR-143 and miR-145.[ 32 ] In 2011, Li et al. reported that miR-145 is overexpressed in CIN but underexpressed in cervical cancer.[ 30 ] Subsequently, Wilting et al., following in vitro and in vivo analysis, observed that miR-143 and miR-145 are transiently overexpressed in HPV+ premalignant lesions (1.38 and 1.05 fold changes, respectively). They also observed 1.92 and 0.85 fold changes of miR-143 and miR-145, respectively, in malignant cells when compared with the healthy cervix. The reason for the discordance is yet to be understood.[ 29 ] However, in this study, miR-143 was relatively and progressively upregulated in abnormal cervical cells while the expression varied in serum. The observed variation in miR-143 expression may be influenced by HPV type, hence more studies on this are warranted. Contrastingly, in this study, miR-145, which was relatively downregulated across the classes of cervical abnormalities, is in consonance with the discoveries in some earlier studies.[ 24 , 26 , 28 ]
+31341453_28162	58	65	miR-143	Rna-noncoding	HGNC:31530
+31341453_28162	70	77	miR-145	Rna-noncoding	HGNC:31532
+31341453_28162	202	225	cervical carcinogenesis	Disease	DOID:4362
+31341453_28162	267	272	CaSki	Cellline
+31341453_28162	277	281	SiHa	Cellline
+31341453_28162	335	350	cervical cancer	Disease	DOID:4362
+31341453_28162	377	384	miR-143	Rna-noncoding
+31341453_28162	377	415	miR-143 and miR-145 are underexpressed	Biomarker
+31341453_28162	389	396	miR-145	Rna-noncoding
+31341453_28162	419	430	HPV16/18/31	Microorganism
+31341453_28162	510	513	HPV	Microorganism
+31341453_28162	510	521	HPV- cancer	Disease	DOID:4362
+31341453_28162	533	538	C-33A	Cellline
+31341453_28162	544	578	underexpressed miR-143 and miR-145	Biomarker
+31341453_28162	559	566	miR-143	Rna-noncoding
+31341453_28162	571	578	miR-145	Rna-noncoding
+31341453_28162	619	626	miR-145	Rna-noncoding
+31341453_28162	619	626	miR-145	Biomarker	C541010
+31341453_28162	647	650	CIN	Disease	D018290
+31341453_28162	647	688	CIN but underexpressed in cervical cancer	Collection
+31341453_28162	673	688	cervical cancer	Disease
+31341453_28162	781	788	miR-143	Rna-noncoding
+31341453_28162	781	830	miR-143 and miR-145 are transiently overexpressed	Biomarker
+31341453_28162	793	800	miR-145	Rna-noncoding
+31341453_28162	834	837	HPV	Microorganism
+31341453_28162	834	859	HPV+ premalignant lesions	Disease	not found
+31341453_28162	942	972	changes of miR-143 and miR-145	Biomarker
+31341453_28162	953	960	miR-143	Rna-noncoding
+31341453_28162	965	972	miR-145	Rna-noncoding
+31341453_28162	991	1000	malignant	Disease	DOID:162
+31341453_28162	1132	1139	miR-143	Rna-noncoding
+31341453_28162	1132	1184	miR-143 was relatively and progressively upregulated	Biomarker
+31341453_28162	1276	1283	miR-143	Rna-noncoding
+31341453_28162	1316	1319	HPV	Microorganism
+31341453_28162	1398	1405	miR-145	Rna-noncoding
+31341453_28162	1398	1441	miR-145, which was relatively downregulated	Biomarker
+31341453_28162	1464	1486	cervical abnormalities	Disease	D002577
+

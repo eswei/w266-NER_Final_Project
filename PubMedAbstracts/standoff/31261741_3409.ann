@@ -1,0 +1,89 @@
+T0	Disease 385 388	CRC
+T1	Chemical 587 591	cAMP
+T2	Disease 1076 1079	CRC
+T3	Disease 1245 1260	prostate cancer
+#4	AnnotatorNotes T3	DOID:10283
+T4	Disease 1438 1441	CRC
+T5	Gene-Protein 56 61	WNT11
+#1	AnnotatorNotes T5	HGNC:12776
+T6	CellLine 73 77	IEC6
+T7	CellLine 182 188	HCT116
+T8	CellLine 268 274	HCT116
+T9	Gene-Protein 244 249	WNT11
+T10	Biomarker 30 61	Stable over-expression of WNT11
+T11	Gene-Protein 338 373	Anterior gradient protein 2 homolog
+#2	AnnotatorNotes T11	HGNC:328
+T12	Gene-Protein 331 336	AGR-2
+#3	AnnotatorNotes T12	HGNC:328
+T13	Biomarker 331 336	AGR-2
+#5	AnnotatorNotes T13	C502296
+R1	Association Arg1:T13 Arg2:T0	
+#6	AnnotatorNotes T0	DOID:9256
+T14	Gene-Protein 418 423	WNT11
+T15	Biomarker 407 434	increasing WNT11 expression
+T16	Gene-Protein 442 448	Wnt-11
+#7	AnnotatorNotes T16	HGNC:12776
+T17	GeneFamily 459 480	intracellular kinases
+#8	AnnotatorNotes T17	not found
+T18	GeneFamily 485 518	transcription factors of the AP-1
+#9	AnnotatorNotes T18	family:1258
+T19	GeneFamily 520 539	activator protein-1
+#10	AnnotatorNotes T19	family:1258
+T20	GeneFamily 545 548	ATF
+#11	AnnotatorNotes T20	not found
+T21	GeneFamily 555 586	activating transcription factor
+#12	AnnotatorNotes T21	not found
+T22	GeneFamily 549 553	CREB
+#13	AnnotatorNotes T22	not found
+T23	GeneFamily 587 624	cAMP response element binding protein
+#14	AnnotatorNotes T23	not found
+T24	Gene-Protein 711 716	WNT11
+T25	Disease 829 832	CRC
+T26	Gene-Protein 760 764	FZD7
+#15	AnnotatorNotes T26	HGNC:4045
+T27	Biomarker 760 764	FZD7
+#16	AnnotatorNotes T27	C115810
+T28	Biomarker 711 716	WNT11
+#17	AnnotatorNotes T28	C540523
+T29	Gene-Protein 795 799	FZD₇
+#18	AnnotatorNotes T29	HGNC:4045
+T30	Gene-Protein 811 817	Wnt-11
+T31	Gene-Protein 856 860	FZD7
+T32	Gene-Protein 897 902	WNT11
+T33	CellLine 915 921	HCT116
+T34	Gene-Protein 944 948	FZD7
+T35	GeneFamily 977 980	Wnt
+#19	AnnotatorNotes T35	family:360
+T36	GeneFamily 981 990	β-catenin
+#20	AnnotatorNotes T36	family:1542
+T37	Gene-Protein 1012 1016	FZD₇
+T38	Gene-Protein 1040 1046	Wnt-3A
+#21	AnnotatorNotes T38	HGNC:15983
+T39	Biomarker 1012 1016	FZD₇
+R2	Association Arg1:T39 Arg2:T2	
+T40	Gene-Protein 1115 1121	Wnt-2B
+#22	AnnotatorNotes T40	HGNC:12781
+T41	Gene-Protein 1201 1205	FZD₈
+#23	AnnotatorNotes T41	HGNC:4046
+T42	Gene-Protein 1217 1223	Wnt-11
+T43	Biomarker 1201 1205	FZD₈
+#24	AnnotatorNotes T43	C529739
+R3	Association Arg1:T43 Arg2:T3	
+T44	GeneFamily 1394 1409	FZD receptor(s)
+#25	AnnotatorNotes T44	family:286
+T45	Gene-Protein 1420 1426	Wnt-11
+T46	Gene-Protein 1482 1488	Wnt-11
+T47	Biomarker 1464 1524	several candidate Wnt-11 co-receptors that are overexpressed
+T48	Disease 1528 1531	CRC
+R4	Association Arg1:T47 Arg2:T48	
+T49	Gene-Protein 1543 1547	PTK7
+#26	AnnotatorNotes T49	HGNC:9618
+T50	Gene-Protein 1564 1568	ROR1
+#27	AnnotatorNotes T50	 HGNC:10256
+T51	Biomarker 1564 1568	ROR1
+#28	AnnotatorNotes T51	C078716
+T52	Biomarker 1543 1547	PTK7
+#29	AnnotatorNotes T52	C096905
+T53	Collection 1543 1568	PTK7 [ 16 , 17 ] and ROR1
+R5	Association Arg1:T53 Arg2:T48	
+#30	AnnotatorNotes T37	HGNC:4045

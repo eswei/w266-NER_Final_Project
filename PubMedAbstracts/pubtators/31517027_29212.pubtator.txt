@@ -1,0 +1,43 @@
+31517027_29212|t|RSS_IDENT_p_31517027_b_1_4_11
+31517027_29212|a| In conclusion, plasma lipocalin-2 levels were significantly higher in CSF biomarker defined preclinical AD subjects compared with biomarker negative control subjects. Furthermore, plasma lipocalin-2 levels were associated with CSF Aβ₄₂ levels and executive function. Although the exact pathophysiological role of lipocalin-2 in AD remains controversial and verification of these results in additional prospective studies are needed, these results support circulating lipocalin-2 as a marker of early Aβ pathology.Research in Context 1. Systematic review: Review of 15+ years of literature (e.g., PubMed) on the relation between lipocalin-2 (also known as neutrophil gelatinase-associated lipocalin, 24p3, or siderocalin) and Alzheimer's disease (AD) revealed results from human studies to be inconclusive, which may be from lack of validation of the clinical diagnosis with AD biomarkers. In addition, there were no studies that measured plasma lipocalin-2 in biomarker-confirmed preclinical AD. 2. Interpretation: The results from this cross-sectional study support lipocalin-2 playing a role early in AD pathogenesis and plasma lipocalin-2 as a potential early blood biomarker of amyloid-beta pathology. 3. Future directions: Additional research is needed to validate these findings in larger more diverse cohorts and in longitudinal studies. The use of cerebrospinal fluid lipocalin-2 as a potential AD biomarker and any differences with plasma lipocalin-2 should be clarified. Finally, the role of lipocalin-2 in iron metabolism and neuroinflammation in biomarker-confirmed AD should be explored.
+31517027_29212	46	97	plasma lipocalin-2 levels were significantly higher	Biomarker
+31517027_29212	53	64	lipocalin-2	Gene-protein	HGNC:6526
+31517027_29212	135	137	AD	Disease	DOID:10652
+31517027_29212	211	236	plasma lipocalin-2 levels	Biomarker
+31517027_29212	218	229	lipocalin-2	Gene-protein
+31517027_29212	258	273	CSF Aβ₄₂ levels	Biomarker
+31517027_29212	262	266	Aβ₄₂	Gene-protein	not found
+31517027_29212	344	355	lipocalin-2	Gene-protein
+31517027_29212	359	361	AD	Disease
+31517027_29212	486	509	circulating lipocalin-2	Biomarker
+31517027_29212	498	509	lipocalin-2	Gene-protein
+31517027_29212	525	543	early Aβ pathology	Disease	not found
+31517027_29212	531	533	Aβ	Gene-protein	not found
+31517027_29212	659	670	lipocalin-2	Gene-protein
+31517027_29212	659	670	lipocalin-2	Biomarker	D000071068
+31517027_29212	686	728	neutrophil gelatinase-associated lipocalin	Gene-protein	HGNC:6526
+31517027_29212	730	734	24p3	Gene-protein	HGNC:6526
+31517027_29212	739	750	siderocalin	Gene-protein	HGNC:6526
+31517027_29212	756	775	Alzheimer's disease	Disease	DOID:10652
+31517027_29212	777	779	AD	Disease
+31517027_29212	905	907	AD	Disease
+31517027_29212	969	987	plasma lipocalin-2	Biomarker
+31517027_29212	976	987	lipocalin-2	Gene-protein
+31517027_29212	1023	1025	AD	Disease
+31517027_29212	1098	1109	lipocalin-2	Gene-protein
+31517027_29212	1098	1109	lipocalin-2	Biomarker
+31517027_29212	1134	1136	AD	Disease
+31517027_29212	1154	1172	plasma lipocalin-2	Biomarker
+31517027_29212	1161	1172	lipocalin-2	Gene-protein
+31517027_29212	1213	1225	amyloid-beta	Gene-protein	not found
+31517027_29212	1213	1235	amyloid-beta pathology	Disease	not found
+31517027_29212	1387	1418	cerebrospinal fluid lipocalin-2	Biomarker
+31517027_29212	1407	1418	lipocalin-2	Gene-protein
+31517027_29212	1434	1436	AD	Disease
+31517027_29212	1472	1490	plasma lipocalin-2	Biomarker
+31517027_29212	1479	1490	lipocalin-2	Gene-protein
+31517027_29212	1533	1544	lipocalin-2	Gene-protein
+31517027_29212	1533	1544	lipocalin-2	Biomarker
+31517027_29212	1548	1552	iron	Chemical
+31517027_29212	1589	1611	biomarker-confirmed AD	Disease	not found
+

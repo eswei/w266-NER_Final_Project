@@ -1,0 +1,37 @@
+29321235_20287|t|RSS_IDENT_p_29321235_b_1_4_4
+29321235_20287|a| At the dementia stage, ¹⁸F-AV-1451 was superior to CSF tau biomarkers for AD diagnosis. The diagnostic performance of CSF tau biomarkers may be confounded both by the physiologic between-person variability in CSF tau concentrations and by release of tau due to nonspecific neuronal injury. ²⁵ Another possibility that needs to be tested by longitudinal studies is that CSF tau may be more sensitive than ¹⁸F-AV-1451 to very early pathologic tau-related changes. For example, release of neuronal tau may be involved in interneuronal transmission of tau pathology, ²⁶ which hypothetically may occur before tau pathology is detected by ¹⁸F-AV-1451 imaging. Similarly, we have previously shown that CSF biomarkers may be more sensitive to Aβ pathology compared to PET imaging. ²⁷ The fact that CSF tau measures did not differ between prodromal AD and AD dementia suggests that these biomarkers plateau at the prodromal stage of the disease. In contrast, the ¹⁸F-AV-1451 signal was higher in the AD dementia than in the prodromal AD group, which likely reflects a continuous accumulation of tau as the disease progresses. One important difference between CSF and PET tau measurements is that ¹⁸F-AV-1451 makes it possible to track a potential spread of tau to new brain regions. Some regions may be affected later in the disease process (e.g., tau stage VI regions may be affected after tau stage V regions). This may explain why the latest stages show less separation between diagnostic groups than the earlier stages.
+29321235_20287	37	45	dementia	Disease	DOID:1307
+29321235_20287	53	64	¹⁸F-AV-1451	Chemical
+29321235_20287	81	88	CSF tau	Biomarker
+29321235_20287	85	88	tau	Gene-protein	HGNC:6893
+29321235_20287	104	106	AD	Disease	DOID:10652
+29321235_20287	148	155	CSF tau	Biomarker
+29321235_20287	152	155	tau	Gene-protein
+29321235_20287	239	261	CSF tau concentrations	Biomarker
+29321235_20287	243	246	tau	Gene-protein
+29321235_20287	269	318	release of tau due to nonspecific neuronal injury	Biomarker
+29321235_20287	280	283	tau	Gene-protein
+29321235_20287	399	406	CSF tau	Biomarker
+29321235_20287	403	406	tau	Gene-protein
+29321235_20287	434	445	¹⁸F-AV-1451	Chemical
+29321235_20287	471	474	tau	Gene-protein
+29321235_20287	525	528	tau	Gene-protein
+29321235_20287	578	581	tau	Gene-protein
+29321235_20287	634	637	tau	Gene-protein
+29321235_20287	663	674	¹⁸F-AV-1451	Chemical
+29321235_20287	765	767	Aβ	Gene-protein	not found
+29321235_20287	820	827	CSF tau	Biomarker
+29321235_20287	824	827	tau	Gene-protein
+29321235_20287	860	872	prodromal AD	Disease	not found
+29321235_20287	860	888	prodromal AD and AD dementia	Collection
+29321235_20287	877	888	AD dementia	Disease	not found
+29321235_20287	984	995	¹⁸F-AV-1451	Chemical
+29321235_20287	1021	1032	AD dementia	Disease
+29321235_20287	1045	1057	prodromal AD	Disease
+29321235_20287	1116	1119	tau	Gene-protein
+29321235_20287	1192	1195	tau	Gene-protein
+29321235_20287	1217	1228	¹⁸F-AV-1451	Chemical
+29321235_20287	1278	1281	tau	Gene-protein
+29321235_20287	1369	1372	tau	Gene-protein
+29321235_20287	1412	1415	tau	Gene-protein
+

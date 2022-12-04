@@ -1,0 +1,79 @@
+T0	Disease 91 119	neurodevelopmental disorders
+#1	AnnotatorNotes T0	D065886
+T1	Disease 131 134	ASD
+#2	AnnotatorNotes T1	DOID:0060041
+T10	Chemical 381 384	KYN
+T11	Disease 500 504	ADHD
+T12	Disease 509 512	ASD
+T13	Chemical 564 567	KYN
+T14	Drug 574 577	ATX
+T16	Chemical 726 729	KYN
+T17	Disease 782 786	ADHD
+T18	Disease 787 790	ASD
+T19	Chemical 925 928	KYN
+T2	Disease 139 143	ADHD
+#12	AnnotatorNotes T2	DOID:1094
+T22	Chemical 1125 1129	3-HK
+T23	Disease 1169 1173	ADHD
+T24	Disease 1193 1197	ADHD
+T3	Chemical 219 222	KYN
+T32	Disease 1528 1532	ADHD
+T33	Disease 1548 1552	ADHD
+T35	Chemical 1626 1630	KYNA
+T37	Chemical 1666 1669	KYN
+T38	Disease 1695 1699	ADHD
+T4	Chemical 228 232	KYNA
+T40	Chemical 1743 1746	TRP
+T41	Chemical 1748 1752	KYNA
+T42	Chemical 1758 1763	3-HAA
+T44	Chemical 1825 1829	KYNA
+T45	Chemical 1834 1838	KYNA
+T46	Chemical 1839 1842	KYN
+T47	Disease 1890 1893	ASD
+T5	Chemical 238 242	3-HK
+T6	Chemical 251 254	KYN
+T7	Chemical 263 267	KYNA
+T8	Chemical 268 271	KYN
+T9	Gene-Protein 330 336	Ptchd1
+T15	Gene-Protein 424 430	Ptchd1
+T20	Biomarker 1719 1776	lower concentrations of TRP, KYNA, and 3-HAA in the serum
+R1	Association Arg1:T20 Arg2:T38	
+T21	Biomarker 1801 1872	serum levels of TRP and KYNA and KYNA/KYN ratio are significantly lower
+R2	Association Arg1:T21 Arg2:T47	
+T25	Biomarker 1611 1643	reduced AA and KYNA serum levels
+T26	Biomarker 1648 1676	increased TRP and KYN levels
+T28	Collection 1611 1676	reduced AA and KYNA serum levels and increased TRP and KYN levels
+R3	Association Arg1:T28 Arg2:T33	
+T29	Biomarker 43 64	altered KP metabolism
+T30	Gene-Protein 360 363	TPR
+T31	Biomarker 360 420	TPR breakdown index (KYN/TRP ratio) was significantly higher
+T34	Chemical 224 226	AA
+T36	Chemical 255 258	TRP
+#3	AnnotatorNotes T14	CHEMBL641
+T39	Gene-Protein 631 637	Ptchd1
+T43	Biomarker 673 695	altered KP metabolites
+T48	Biomarker 712 729	high level of KYN
+T49	Collection 782 790	ADHD/ASD
+T50	Biomarker 1065 1093	Imbalances in TRP metabolism
+T51	Biomarker 1103 1129	lower serum levels of 3-HK
+T52	Collection 1065 1129	Imbalances in TRP metabolism ⁶⁶ and a lower serum levels of 3-HK
+R5	Association Arg1:T52 Arg2:T23	
+T53	GeneFamily 1220 1229	cytokines
+#4	AnnotatorNotes T53	not found
+T54	Biomarker 1203 1255	higher levels of cytokines, including IL-6 and IFN-γ
+T27	Chemical 1817 1820	TRP
+T55	Gene-Protein 1241 1245	IL-6
+#5	AnnotatorNotes T55	HGNC:6018
+T56	Chemical 1658 1661	TRP
+T57	Gene-Protein 1250 1255	IFN-γ
+#6	AnnotatorNotes T57	HGNC:5438
+R6	Association Arg1:T54 Arg2:T24	
+T58	Gene-Protein 1498 1503	IFN-γ
+T60	Chemical 1489 1493	3-HK
+T59	Biomarker 1479 1510	increased 3-HK and IFN-γ levels
+T61	Biomarker 1422 1441	lower birth weights
+T62	Biomarker 1390 1417	shorter pregnancy durations
+T63	Collection 500 512	ADHD and ASD
+R7	Association Arg1:T31 Arg2:T63	
+T64	Collection 673 729	altered KP metabolites, particularly a high level of KYN
+R4	Association Arg1:T64 Arg2:T49	

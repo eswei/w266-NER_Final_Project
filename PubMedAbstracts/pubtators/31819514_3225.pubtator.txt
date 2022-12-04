@@ -1,0 +1,49 @@
+31819514_3225|t|RSS_IDENT_p_31819514_b_1_1_4
+31819514_3225|a| Novel oncogene with kinase domain (NOK), also known as serine threonine tyrosine kinase 1 (STYK1), consists of a kinase domain, intracellular domain, and transmembrane domain. NOK, a member of the receptor-type protein tyrosine kinase-like family, 10 is able to enhance tumor cell proliferation and tumor progression by acting as a growth factor membrane receptor. Aberrant expression of NOK has been found in a wide range of cancers, including lung, ovarian, breast, colorectal, prostate, and renal cell cancers. 11 – 16 Recently, NOK was found to be capable of promoting the malignant transformation of tumors in some cancers by activating the PI3K/AKT pathway. 17 , 18 All these studies indicate that NOK overexpression is associated with cancer progression, and NOK can induce EMT by activating the Akt pathway. However, the pathological function of NOK in the malignant transformation of NSCLC remains unknown. In this study, we estimated the NOK expression and its correlation with the Akt pathway and EMT marker expression in NSCLC. Furthermore, we investigated the possible signaling pathways by which NOK could contribute to EMT. These findings may provide a clue to investigate the oncogenic activity of NOK and identify the possible underlying mechanisms of EMT in NSCLC.
+31819514_3225	30	63	Novel oncogene with kinase domain	Gene-protein	HGNC:18889
+31819514_3225	65	68	NOK	Gene-protein	HGNC:18889
+31819514_3225	85	91	serine	Chemical
+31819514_3225	85	119	serine threonine tyrosine kinase 1	Gene-protein	HGNC:18889
+31819514_3225	102	110	tyrosine	Chemical
+31819514_3225	121	126	STYK1	Gene-protein	 HGNC:18889
+31819514_3225	143	156	kinase domain	Proteindomain
+31819514_3225	158	178	intracellular domain	Proteindomain
+31819514_3225	184	204	transmembrane domain	Proteindomain
+31819514_3225	206	209	NOK	Gene-protein
+31819514_3225	206	209	NOK	Biomarker	C482299
+31819514_3225	227	276	receptor-type protein tyrosine kinase-like family	Genefamily	family:321
+31819514_3225	249	257	tyrosine	Chemical
+31819514_3225	300	305	tumor	Disease	DOID:162
+31819514_3225	329	334	tumor	Disease
+31819514_3225	395	421	Aberrant expression of NOK	Biomarker
+31819514_3225	418	421	NOK	Gene-protein
+31819514_3225	456	463	cancers	Disease	DOID:162
+31819514_3225	456	542	cancers, including lung, ovarian, breast, colorectal, prostate, and renal cell cancers	Collection
+31819514_3225	475	542	lung, ovarian, breast, colorectal, prostate, and renal cell cancers	Disease	DOID:1324,DOID:2394, DOID:1612, DOID:9256,DOID:12083,DOID:263
+31819514_3225	562	565	NOK	Gene-protein
+31819514_3225	562	565	NOK	Biomarker
+31819514_3225	635	641	tumors	Disease	DOID:162
+31819514_3225	635	657	tumors in some cancers	Collection
+31819514_3225	650	657	cancers	Disease
+31819514_3225	676	680	PI3K	Genefamily	family:831
+31819514_3225	681	684	AKT	Genefamily	family:1900
+31819514_3225	734	737	NOK	Gene-protein
+31819514_3225	734	752	NOK overexpression	Biomarker
+31819514_3225	772	778	cancer	Disease	DOID:162
+31819514_3225	796	799	NOK	Gene-protein
+31819514_3225	833	836	Akt	Genefamily	family:1900
+31819514_3225	884	887	NOK	Gene-protein
+31819514_3225	884	887	NOK	Biomarker
+31819514_3225	923	928	NSCLC	Disease	DOID:3908
+31819514_3225	978	981	NOK	Gene-protein
+31819514_3225	978	992	NOK expression	Biomarker
+31819514_3225	1022	1025	Akt	Genefamily
+31819514_3225	1022	1033	Akt pathway	Biomarker
+31819514_3225	1038	1048	EMT marker	Biomarker
+31819514_3225	1063	1068	NSCLC	Disease
+31819514_3225	1140	1143	NOK	Gene-protein
+31819514_3225	1140	1143	NOK	Biomarker
+31819514_3225	1244	1247	NOK	Gene-protein
+31819514_3225	1244	1247	NOK	Biomarker
+31819514_3225	1306	1311	NSCLC	Disease
+

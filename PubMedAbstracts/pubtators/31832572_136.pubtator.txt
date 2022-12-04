@@ -1,0 +1,102 @@
+31832572_136|t|RSS_IDENT_p_31832572_a_1_1
+31832572_136|a| We have recently shown that loss of β‐catenin prevents the development of cholestatic liver injury and fibrosis after bile duct ligation (BDL) due to loss of the inhibitory farnesoid X receptor (FXR)/β‐catenin complex, which results in decreased hepatic bile acids (BAs) through activation of FXR. To further understand the role of Wnt/β‐catenin signaling in regulating BA metabolism and cholestasis, we performed BDL on mice in which hepatocyte Wnt signaling is deficient but β‐catenin is intact (low‐density lipoprotein receptor‐related protein [LRP]5/6 knockout [DKO]) as well as mice that have enhanced hepatocyte β‐catenin expression (serine 45 mutated to aspartic acid [S45D] transgenic [TG] mice). Despite decreased biliary injury after BDL, hepatic injury, fibrosis, and inflammation were comparable in DKO and wild‐type (WT) mice. Notably, the FXR/β‐catenin complex was maintained in DKO livers after BDL, coincident with significantly elevated hepatic BA levels. Similarly, TG mice did not display accelerated injury or increased mortality despite overexpression of β‐catenin. There was no augmentation of FXR/β‐catenin association in TG livers; this resulted in equivalent hepatic BAs in WT and TG mice after BDL. Finally, we analyzed the effect of BDL on β‐catenin activity and identified an increase in periportal cytoplasmic stabilization and association with T‐cell factor 4 that correlated with increased expression of distinct downstream target genes. Conclusion: Localization of β‐catenin and expression of Wnt‐regulated genes were altered in liver after BDL; however, neither elimination of Wnt/β‐catenin signaling nor overexpression of β‐catenin in hepatocytes significantly impacted the phenotype or progression of BA‐driven cholestatic injury. β‐catenin plays a role in regulating bile acid metabolism through an inhibitory association with farnesoid X receptor (FXR), and β‐catenin loss protects mice from bile duct ligation (BDL)‐induced liver injury. In this study, we show that FXR/β‐catenin association and progression of injury is unaffected by either loss of Wnt signaling or overexpression of β‐catenin. We also show that localization of β‐catenin was altered in liver after BDL, and may be activating target genes that are involved in hepatocyte reprogramming. Abbreviations ALP alkaline phosphatase ALT alanine aminotransferase AST aspartate aminotransferase BA bile acid BDL bile duct ligation BSEP bile salt export pump CD clusters of differentiation Cyp cytochrome P450 DKO low‐density lipoprotein receptor‐related protein knockout FXR farnesoid X receptor GS glutamine synthetase IHC immunohistochemistry IP immunoprecipitation KO conditional knockout LRP low‐density lipoprotein receptor‐related protein MRP multidrug resistance‐associated protein Myc myelocytomatosis oncogene NTCP sodium‐taurocholate cotransporting polypeptide OATP4 organic anion transporting polypeptide 4 Ost organic solute transporter panCK pan cytokeratin RXR retinoic X receptor S45D serine 45 mutated to aspartic acid SHP small heterodimer partner Sox17 sex‐determining region Y‐box 17 TCF T‐cell factor TG transgenic WB western blot WT wild type
+31832572_136	56	73	loss of β‐catenin	Drug	not found
+31832572_136	64	73	β‐catenin	Genefamily	family:1542
+31832572_136	102	126	cholestatic liver injury	Disease	DOID:13580
+31832572_136	102	139	cholestatic liver injury and fibrosis	Collection
+31832572_136	131	139	fibrosis	Disease	D005355
+31832572_136	201	221	farnesoid X receptor	Gene-protein	HGNC:7967
+31832572_136	223	226	FXR	Gene-protein	HGNC:7967
+31832572_136	228	237	β‐catenin	Genefamily
+31832572_136	282	292	bile acids	Chemical
+31832572_136	294	297	BAs	Chemical
+31832572_136	321	324	FXR	Gene-protein
+31832572_136	360	363	Wnt	Genefamily
+31832572_136	364	373	β‐catenin	Genefamily
+31832572_136	416	427	cholestasis	Disease	DOID:13580
+31832572_136	474	477	Wnt	Genefamily
+31832572_136	505	514	β‐catenin	Genefamily
+31832572_136	538	583	lipoprotein receptor‐related protein [LRP]5/6	Gene-protein
+31832572_136	646	655	β‐catenin	Genefamily
+31832572_136	668	702	serine 45 mutated to aspartic acid	Variant	p.Ser45Asp
+31832572_136	668	709	serine 45 mutated to aspartic acid [S45D]	Collection
+31832572_136	704	708	S45D	Variant	p.Ser45Asp
+31832572_136	751	765	biliary injury	Disease	not found
+31832572_136	777	791	hepatic injury	Disease	DOID:409
+31832572_136	793	801	fibrosis	Disease
+31832572_136	807	819	inflammation	Disease	D007249
+31832572_136	881	884	FXR	Gene-protein
+31832572_136	885	894	β‐catenin	Genefamily
+31832572_136	973	999	elevated hepatic BA levels	Biomarker
+31832572_136	1104	1113	β‐catenin	Genefamily
+31832572_136	1144	1147	FXR	Gene-protein
+31832572_136	1148	1157	β‐catenin	Genefamily
+31832572_136	1295	1304	β‐catenin	Genefamily
+31832572_136	1402	1417	T‐cell factor 4	Gene-protein
+31832572_136	1509	1585	Localization of β‐catenin and expression of Wnt‐regulated genes were altered	Biomarker
+31832572_136	1525	1534	β‐catenin	Genefamily
+31832572_136	1553	1556	Wnt	Genefamily
+31832572_136	1638	1708	Wnt/β‐catenin signaling nor overexpression of β‐catenin in hepatocytes	Biomarker
+31832572_136	1684	1693	β‐catenin	Genefamily
+31832572_136	1764	1792	BA‐driven cholestatic injury	Disease	DOID:12236
+31832572_136	1794	1803	β‐catenin	Biomarker
+31832572_136	1831	1840	bile acid	Chemical
+31832572_136	1891	1911	farnesoid X receptor	Gene-protein
+31832572_136	1913	1916	FXR	Gene-protein
+31832572_136	1923	1932	β‐catenin	Genefamily
+31832572_136	1976	2002	(BDL)‐induced liver injury	Disease	not found
+31832572_136	2032	2035	FXR	Gene-protein
+31832572_136	2036	2045	β‐catenin	Genefamily
+31832572_136	2116	2119	Wnt	Genefamily
+31832572_136	2151	2160	β‐catenin	Genefamily
+31832572_136	2196	2205	β‐catenin	Genefamily
+31832572_136	2334	2337	ALP	Genefamily
+31832572_136	2338	2358	alkaline phosphatase	Genefamily
+31832572_136	2359	2362	ALT	Gene-protein	HGNC:4552
+31832572_136	2363	2370	alanine	Chemical
+31832572_136	2363	2387	alanine aminotransferase	Gene-protein	HGNC:4552
+31832572_136	2388	2391	AST	Genefamily	not found
+31832572_136	2392	2401	aspartate	Chemical
+31832572_136	2392	2418	aspartate aminotransferase	Genefamily	not found
+31832572_136	2419	2421	BA	Chemical
+31832572_136	2422	2431	bile acid	Chemical
+31832572_136	2455	2459	BSEP	Gene-protein
+31832572_136	2460	2469	bile salt	Chemical
+31832572_136	2460	2481	bile salt export pump	Gene-protein
+31832572_136	2482	2484	CD	Genefamily
+31832572_136	2485	2512	clusters of differentiation	Genefamily
+31832572_136	2513	2532	Cyp cytochrome P450	Genefamily
+31832572_136	2537	2585	low‐density lipoprotein receptor‐related protein	Gene-protein
+31832572_136	2595	2598	FXR	Gene-protein
+31832572_136	2599	2619	farnesoid X receptor	Gene-protein
+31832572_136	2620	2622	GS	Gene-protein
+31832572_136	2623	2632	glutamine	Chemical
+31832572_136	2623	2643	glutamine synthetase	Gene-protein
+31832572_136	2716	2719	LRP	Gene-protein
+31832572_136	2720	2768	low‐density lipoprotein receptor‐related protein	Gene-protein
+31832572_136	2769	2772	MRP	Gene-protein
+31832572_136	2773	2812	multidrug resistance‐associated protein	Gene-protein
+31832572_136	2813	2816	Myc	Gene-protein
+31832572_136	2817	2833	myelocytomatosis	Gene-protein
+31832572_136	2843	2847	NTCP	Gene-protein
+31832572_136	2848	2854	sodium	Chemical
+31832572_136	2848	2894	sodium‐taurocholate cotransporting polypeptide	Gene-protein
+31832572_136	2855	2867	taurocholate	Chemical
+31832572_136	2895	2900	OATP4	Gene-protein
+31832572_136	2901	2941	organic anion transporting polypeptide 4	Gene-protein
+31832572_136	2942	2945	Ost	Genefamily
+31832572_136	2946	2971	organic solute transporte	Genefamily
+31832572_136	2973	2978	panCK	Genefamily
+31832572_136	2979	2994	pan cytokeratin	Genefamily
+31832572_136	2995	2998	RXR	Gene-protein
+31832572_136	2999	3018	retinoic X receptor	Gene-protein
+31832572_136	3019	3023	S45D	Variant
+31832572_136	3019	3058	S45D serine 45 mutated to aspartic acid	Collection
+31832572_136	3024	3058	serine 45 mutated to aspartic acid	Variant
+31832572_136	3059	3062	SHP	Gene-protein
+31832572_136	3063	3088	small heterodimer partner	Gene-protein
+31832572_136	3089	3094	Sox17	Gene-protein
+31832572_136	3095	3126	sex‐determining region Y‐box 17	Gene-protein
+31832572_136	3127	3130	TCF	Gene-protein
+31832572_136	3131	3144	T‐cell factor	Gene-protein
+

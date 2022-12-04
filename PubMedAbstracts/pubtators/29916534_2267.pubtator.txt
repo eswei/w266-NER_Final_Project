@@ -1,0 +1,63 @@
+29916534_2267|t|RSS_IDENT_p_29916534_b_1_1_3
+29916534_2267|a| The pathophysiological mechanisms of HPSCC are not yet well understood. Previous studies have demonstrated that ectopically expressed genes, microRNAs (miRNAs or miRs) and long non-coding RNAs were involved in the initiation, development and prognosis of HPSCC. Tumor necrosis factor receptor 1 (TNFR1) is a membranous receptor that anchors on the surface of the cell membrane, which belongs to the TNF receptor superfamily ( 6 , 7 ). The upregulation of TNFR1 has been shown to be associated with clinical staging, T stage, cervical lymph node metastasis and histological grade in HPSCC ( 8 ). The immunoglobulin heavy chain binding protein (BiP)/glucose-regulated protein 78 (GRP78) plays an important role in the endoplasmic reticulum stress and is known to be highly expressed in various human neoplasms. A decreased expression of GRP78/BiP has been reported to predict a poor overall survival and progression-free survival of patients with advanced HPSCC ( 9 ). The downregulation of miR-140-5p has also been shown to be associated with tumor stage and lymph node metastasis, and the restoration of miR-140-5p inhibits cell migration and invasion in HPSCC by targeting ADAM metallopeptidase (ADAM10), which is involved in the Notch1 signaling pathway ( 10 ). The expression of AB209630, a long non-coding RNA, has been shown to be markedly lower in HPSCC cell lines and tumor tissues compared with the normal cells and tissues, and functions as a tumor suppressor in HPSCC. A high expression of AB209630 significantly has been shown to inhibit the growth, metastasis and invasion of HSPCC in vitro, and a decreased expression of AB209630 predicts a poorer prognosis ( 11 ). In addition, abnormal methylation is associated with tumorigenesis in HSPCC. The hypermethylation of G protein-coupled receptor kinase 6 (GRK6) has been observed in HPSCC tissues compared to the matched adjacent normal tissues. GRK6 is also associated with tumor invasion and TNM stage in HPSCC ( 12 ).
+29916534_2267	67	72	HPSCC	Disease	DOID:2876
+29916534_2267	142	222	ectopically expressed genes, microRNAs (miRNAs or miRs) and long non-coding RNAs	Biomarker
+29916534_2267	171	180	microRNAs	Rna-noncoding	family:476
+29916534_2267	182	188	miRNAs	Rna-noncoding	family:476
+29916534_2267	192	196	miRs	Rna-noncoding	family:476
+29916534_2267	202	222	long non-coding RNAs	Rna-noncoding	family:788
+29916534_2267	285	290	HPSCC	Disease
+29916534_2267	292	324	Tumor necrosis factor receptor 1	Gene-protein	HGNC:11916
+29916534_2267	326	331	TNFR1	Gene-protein	HGNC:11916
+29916534_2267	429	453	TNF receptor superfamily	Genefamily	family:782
+29916534_2267	469	490	upregulation of TNFR1	Biomarker
+29916534_2267	485	490	TNFR1	Gene-protein
+29916534_2267	528	544	clinical staging	Biomarker
+29916534_2267	546	553	T stage	Biomarker
+29916534_2267	555	585	cervical lymph node metastasis	Biomarker
+29916534_2267	590	608	histological grade	Biomarker
+29916534_2267	612	617	HPSCC	Disease
+29916534_2267	629	671	immunoglobulin heavy chain binding protein	Gene-protein	HGNC:5238
+29916534_2267	629	810	immunoglobulin heavy chain binding protein (BiP)/glucose-regulated protein 78 (GRP78) plays an important role in the endoplasmic reticulum stress and is known to be highly expressed	Biomarker
+29916534_2267	673	676	BiP	Gene-protein	HGNC:5238
+29916534_2267	678	685	glucose	Chemical
+29916534_2267	678	706	glucose-regulated protein 78	Gene-protein	HGNC:5238
+29916534_2267	708	713	GRP78	Gene-protein	HGNC:5238
+29916534_2267	828	837	neoplasms	Disease	DOID:162
+29916534_2267	841	874	decreased expression of GRP78/BiP	Biomarker
+29916534_2267	865	870	GRP78	Gene-protein
+29916534_2267	871	874	BiP	Gene-protein
+29916534_2267	975	989	advanced HPSCC	Disease	DOID:2876
+29916534_2267	1001	1029	downregulation of miR-140-5p	Biomarker
+29916534_2267	1019	1029	miR-140-5p	Rna-noncoding	HGNC:31527
+29916534_2267	1072	1083	tumor stage	Biomarker
+29916534_2267	1088	1109	lymph node metastasis	Biomarker
+29916534_2267	1119	1144	restoration of miR-140-5p	Drug	not found
+29916534_2267	1134	1144	miR-140-5p	Rna-noncoding
+29916534_2267	1185	1190	HPSCC	Disease
+29916534_2267	1204	1225	ADAM metallopeptidase	Gene-protein	HGNC:188
+29916534_2267	1227	1233	ADAM10	Gene-protein	HGNC:188
+29916534_2267	1261	1267	Notch1	Gene-protein	HGNC:7881
+29916534_2267	1298	1380	expression of AB209630, a long non-coding RNA, has been shown to be markedly lower	Biomarker
+29916534_2267	1312	1320	AB209630	Rna-noncoding
+29916534_2267	1384	1389	HPSCC	Disease
+29916534_2267	1384	1410	HPSCC cell lines and tumor	Collection
+29916534_2267	1405	1410	tumor	Disease	DOID:162
+29916534_2267	1502	1507	HPSCC	Disease
+29916534_2267	1511	1538	high expression of AB209630	Drug	not found
+29916534_2267	1530	1538	AB209630	Rna-noncoding
+29916534_2267	1618	1623	HSPCC	Disease
+29916534_2267	1640	1681	decreased expression of AB209630 predicts	Biomarker
+29916534_2267	1664	1672	AB209630	Rna-noncoding
+29916534_2267	1722	1742	abnormal methylation	Biomarker
+29916534_2267	1779	1784	HSPCC	Disease
+29916534_2267	1790	1852	hypermethylation of G protein-coupled receptor kinase 6 (GRK6)	Biomarker
+29916534_2267	1810	1845	G protein-coupled receptor kinase 6	Gene-protein	HGNC:4545
+29916534_2267	1847	1851	GRK6	Gene-protein	HGNC:4545
+29916534_2267	1874	1879	HPSCC	Disease
+29916534_2267	1937	1941	GRK6	Biomarker	C089176
+29916534_2267	1937	1941	GRK6	Gene-protein
+29916534_2267	1966	1980	tumor invasion	Biomarker
+29916534_2267	1985	1994	TNM stage	Biomarker
+29916534_2267	1998	2003	HPSCC	Disease
+

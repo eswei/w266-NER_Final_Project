@@ -1,0 +1,78 @@
+T1	Chemical 28 39	Cholesterol
+T10	Chemical 321 331	mevalonate
+T11	Disease 344 347	GCa
+T13	Chemical 522 532	acetyl‐CoA
+T14	Collection 522 570	acetyl‐CoA production and the mevalonate pathway
+T15	Chemical 552 562	mevalonate
+T16	Disease 591 594	GCa
+T18	Chemical 637 647	acetyl‐CoA
+T19	Chemical 670 678	acyl‐coA
+T2	Biomarker 28 39	Cholesterol
+T20	Disease 720 723	GCa
+T21	Chemical 804 814	mevalonate
+T22	Biomarker 829 911	lower mevalonate pathway enzymes (e.g., MVK, LSS, DHCR14A1, SC4MOL, HSD17B7, SC5D)
+T23	Chemical 835 845	mevalonate
+T24	Disease 920 923	GCa
+T25	Biomarker 1007 1012	ACSS3
+T26	Disease 1053 1056	GCa
+T27	Biomarker 1101 1127	higher expression of ACSS3
+T28	Disease 1131 1136	tumor
+#15	AnnotatorNotes T28	DOID:162
+T29	Disease 1214 1217	GCa
+T3	Disease 48 54	cancer
+#17	AnnotatorNotes T3	DOID:162
+T30	Disease 1287 1290	GCa
+T31	Biomarker 1404 1409	ACSS3
+T32	Disease 1423 1429	cancer
+T33	Disease 1509 1515	cancer
+T34	Disease 1531 1534	GCa
+T4	Chemical 72 82	acetyl‐CoA
+T5	Chemical 157 168	cholesterol
+T7	Disease 215 229	gastric cancer
+#24	AnnotatorNotes T7	DOID:10534
+T8	Disease 231 234	GCa
+#25	AnnotatorNotes T8	DOID:10534
+T9	Chemical 288 298	acetyl‐CoA
+R1	Association Arg1:T2 Arg2:T3	
+T6	Biomarker 522 543	acetyl‐CoA production
+T35	Biomarker 552 570	mevalonate pathway
+R2	Association Arg1:T14 Arg2:T16	
+T36	Biomarker 615 711	mitochondrial‐derived acetyl‐CoA contributing enzymes (acyl‐coA synthetase super‐family 3; ACSS3
+T17	Gene-Protein 706 711	ACSS3
+#1	AnnotatorNotes T17	 HGNC:24723
+T37	Gene-Protein 670 704	acyl‐coA synthetase super‐family 3
+#2	AnnotatorNotes T37	 HGNC:24723
+R3	Association Arg1:T36 Arg2:T20	
+R4	Prognostic-Good Arg1:T22 Arg2:T24	
+T38	Gene-Protein 869 872	MVK
+#3	AnnotatorNotes T38	HGNC:7530
+T39	Gene-Protein 874 877	LSS
+#5	AnnotatorNotes T39	HGNC:6708
+T40	Gene-Protein 889 895	SC4MOL
+#6	AnnotatorNotes T40	HGNC:10545
+T41	Gene-Protein 897 904	HSD17B7
+#7	AnnotatorNotes T41	HGNC:5215
+T42	Gene-Protein 906 910	SC5D
+#8	AnnotatorNotes T42	HGNC:10547
+R5	Association Arg1:T25 Arg2:T26	
+T43	Drug-Class 1214 1225	GCa therapy
+R6	Association Arg1:T27 Arg2:T28	
+T44	Drug 1233 1248	knockdown ACSS3
+R7	Response Arg1:T44 Arg2:T30	
+#9	AnnotatorNotes T44	not found
+R8	Association Arg1:T31 Arg2:T32	
+T45	Drug 1451 1466	Targeting ACSS3
+#10	AnnotatorNotes T45	not found
+T46	Collection 1509 1534	cancer, in this case, GCa
+R9	Response Arg1:T45 Arg2:T46	
+T47	Gene-Protein 1007 1012	ACSS3
+T48	Gene-Protein 1122 1127	ACSS3
+T49	Gene-Protein 1404 1409	ACSS3
+T50	Gene-Protein 1243 1248	ACSS3
+T51	Gene-Protein 1461 1466	ACSS3
+#11	AnnotatorNotes T2	D002784
+T12	Gene-Protein 773 778	HMGCR
+#4	AnnotatorNotes T12	HGNC:5006
+T52	Biomarker 157 176	cholesterol bioflux
+R10	Association Arg1:T52 Arg2:T7	
+T53	Gene-Protein 879 887	DHCR14A1

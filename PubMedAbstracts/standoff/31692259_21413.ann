@@ -1,0 +1,56 @@
+T0	Disease 200 206	cancer
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 388 394	cancer
+T19	Disease 918 931	breast cancer
+#4	AnnotatorNotes T19	DOID:1612
+T21	Disease 1076 1104	advanced lung adenocarcinoma
+#5	AnnotatorNotes T21	DOID:3910
+T22	Drug 1118 1127	gefitinib
+T25	Disease 1233 1259	non‐small cell lung cancer
+#7	AnnotatorNotes T25	DOID:3908
+T27	Disease 1261 1266	NSCLC
+#9	AnnotatorNotes T27	DOID:3908
+T28	Disease 1339 1360	radiation pneumonitis
+#10	AnnotatorNotes T28	D017564
+T31	Disease 1550 1555	tumor
+T32	Disease 1609 1633	grade 3–4 oral mucositis
+#12	AnnotatorNotes T32	not found
+T8	Disease 551 562	lung cancer
+#15	AnnotatorNotes T8	DOID:1324
+T2	Gene-Protein 483 488	ATG10
+#2	AnnotatorNotes T2	HGNC:20315
+T5	Biomarker 483 524	ATG10 rs10514231, rs1864182 and rs1864183
+R1	Prognostic-Poor Arg1:T5 Arg2:T8	
+T3	Gene-Protein 603 608	ATG10
+T4	Gene-Protein 653 658	ATG10
+T6	Gene-Protein 832 837	ATG10
+T7	Drug-Class 1285 1297	radiotherapy
+T9	Drug-Class 1514 1526	radiotherapy
+T13	Gene-Protein 1163 1170	ATG16L2
+#6	AnnotatorNotes T13	HGNC:25464
+T15	Gene-Protein 1442 1449	ATG16L2
+T18	Drug-Class 749 761	radiotherapy
+T20	Biomarker 832 862	ATG10 rs1864182 and rs10514231
+R2	Risk-Reduce Arg1:T20 Arg2:T19	
+T16	GeneFamily 1015 1019	ATGs
+T17	Biomarker 993 1019	genetic variations in ATGs
+R3	Association Arg1:T17 Arg2:T21	
+#14	AnnotatorNotes T22	CHEMBL939
+T23	Biomarker 1163 1181	ATG16L2 rs10898880
+R4	Prognostic-Good Arg1:T23 Arg2:T25	
+T24	Biomarker 1442 1460	ATG16L2 rs10898880
+T26	GeneFamily 309 313	ATGs
+#8	AnnotatorNotes T26	family:1022
+T29	Biomarker 309 313	ATGs
+#16	AnnotatorNotes T29	C000616891
+R5	Association Arg1:T29 Arg2:T1	
+T14	Disease 778 783	tumor
+#3	AnnotatorNotes T14	DOID:162
+R6	Mediated-Non-Response Arg1:T18 Arg2:T14	
+T30	Biomarker 653 695	ATG10 rs10514231, rs1864183, and rs4703533
+R7	Mediator Arg1:T18 Arg2:T30	
+T10	Biomarker 603 619	ATG10 expression
+R8	Risk-Factor Arg1:T23 Arg2:T28	
+R9	Mediator Arg1:T9 Arg2:T24	
+R11	Mediated-Response Arg1:T9 Arg2:T31	
+R10	Risk-Factor Arg1:T24 Arg2:T32	

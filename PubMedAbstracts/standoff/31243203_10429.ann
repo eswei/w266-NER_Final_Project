@@ -1,0 +1,55 @@
+T0	Disease 85 89	EGPA
+T10	Disease 416 420	EGPA
+T14	Disease 495 516	myocardial infarction
+#6	AnnotatorNotes T14	DOID:5844
+T16	Disease 518 539	cardiac insufficiency
+#7	AnnotatorNotes T16	D006333
+T18	Disease 544 554	arrhythmia
+#8	AnnotatorNotes T18	D001145
+T20	Disease 598 602	EGPA
+T25	Biomarker 686 705	vasculitic syndrome
+T3	Disease 168 172	EGPA
+T32	Disease 882 886	EGPA
+T36	Disease 972 989	cardiac tamponade
+#22	AnnotatorNotes T36	DOID:115
+T5	Disease 203 231	ANCA-associated vasculitides
+#26	AnnotatorNotes T5	D056648
+T8	Disease 359 363	EGPA
+#1	AnnotatorNotes T0	DOID:3049
+T1	Disease 114 150	ANCA-positive and ANCA-negative EGPA
+T2	Disease 233 237	AAVs
+T4	Biomarker 282 297	ANCA positivity
+#2	AnnotatorNotes T1	not found, not found
+#3	AnnotatorNotes T2	D056648
+R1	Association Arg1:T4 Arg2:T8	
+T6	Gene-Protein 402 406	IgG4
+#4	AnnotatorNotes T6	not found
+T7	Biomarker 396 412	serum IgG4 level
+T9	Disease 653 671	ANCA-positive EGPA
+#5	AnnotatorNotes T9	not found
+T11	Biomarker 717 752	renal, skin, and neural involvement
+T12	Collection 686 752	vasculitic syndrome, including renal, skin, and neural involvement
+R2	Association Arg1:T12 Arg2:T9	
+T21	Disease 939 966	anti-PR3 ANCA-positive EGPA
+T22	Disease 1048 1084	ANCA-positive and ANCA-negative EGPA
+T23	Gene-Protein 114 118	ANCA
+#11	AnnotatorNotes T23	not found
+T24	Gene-Protein 132 136	ANCA
+T26	Gene-Protein 176 180	ANCA
+T27	Gene-Protein 270 274	ANCA
+T28	Gene-Protein 622 626	ANCA
+T29	Gene-Protein 282 286	ANCA
+T30	Gene-Protein 203 207	ANCA
+T31	Gene-Protein 653 657	ANCA
+T33	Gene-Protein 1048 1052	ANCA
+T34	Gene-Protein 1066 1070	ANCA
+T35	Biomarker 250 274	highly positive for ANCA
+T37	Biomarker 176 189	ANCA-positive
+R3	Association Arg1:T35 Arg2:T5	
+R4	Association Arg1:T37 Arg2:T3	
+T38	Gene-Protein 818 831	anti-MPO ANCA
+#12	AnnotatorNotes T38	not found
+T13	Gene-Protein 840 853	anti-PR3 ANCA
+#9	AnnotatorNotes T13	not found
+T15	Gene-Protein 939 952	anti-PR3 ANCA
+T17	Gene-Protein 1138 1151	anti-PR3 ANCA

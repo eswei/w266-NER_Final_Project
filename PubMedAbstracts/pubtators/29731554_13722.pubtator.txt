@@ -1,0 +1,33 @@
+29731554_13722|t|RSS_IDENT_p_29731554_b_1_4_6
+29731554_13722|a| The most interesting and novel finding of the current study was that NO level increases with increasing histopathological grading of the tumor [Table 3]. Patel et al.[ 26 ] found the plasma NO level comparable in well to moderately differentiated OSCC but not comparable in poorly differentiated OSCC. The study results showed categorical increase in NO levels with decreased differentiation of tumor. This can be supported by studies carried out by Brennan et al.,[ 27 ] who showed that iNOS expression correlated with severity of dysplasia. Rajendran and Varkey[ 27 28 ] immunohistochemically investigated the expression of iNOS in thirty OSMF samples and correlated it with different grades of epithelial dysplasia associated with the disease. Korde et al.[ 9 ] found increased total NO levels in oral precancer and cancer patients. Biopsies of human mammary tumors showed that there is a greater expression of iNOS in higher tumor grades which tend to be more invasive.[ 29 ] These data support the hypothesis that NO may play a critical role in the growth and spread of tumors.[ 16 ] This study is unique in itself, as this is the first study, according to the best of authors’ knowledge, ever being conducted to evaluate the NO levels in different histopathological grading of the tumor. 
+29731554_13722	99	101	NO	Chemical
+29731554_13722	99	117	NO level increases	Biomarker
+29731554_13722	123	172	increasing histopathological grading of the tumor	Biomarker
+29731554_13722	213	239	plasma NO level comparable	Biomarker
+29731554_13722	220	222	NO	Chemical
+29731554_13722	262	281	differentiated OSCC	Disease	DOID:0050866
+29731554_13722	326	330	OSCC	Disease	DOID:0050866
+29731554_13722	369	390	increase in NO levels	Biomarker
+29731554_13722	381	383	NO	Chemical
+29731554_13722	396	430	decreased differentiation of tumor	Biomarker
+29731554_13722	518	522	iNOS	Gene-protein	HGNC:7873
+29731554_13722	518	533	iNOS expression	Biomarker
+29731554_13722	550	571	severity of dysplasia	Biomarker
+29731554_13722	642	660	expression of iNOS	Biomarker
+29731554_13722	656	660	iNOS	Gene-protein
+29731554_13722	671	675	OSMF	Disease	DOID:5773
+29731554_13722	727	747	epithelial dysplasia	Disease	not found
+29731554_13722	801	826	increased total NO levels	Biomarker
+29731554_13722	817	819	NO	Chemical
+29731554_13722	830	855	oral precancer and cancer	Disease	not found,DOID:8618
+29731554_13722	884	898	mammary tumors	Disease	DOID:1612
+29731554_13722	922	948	greater expression of iNOS	Biomarker
+29731554_13722	944	948	iNOS	Gene-protein
+29731554_13722	952	971	higher tumor grades	Biomarker
+29731554_13722	1049	1051	NO	Chemical
+29731554_13722	1049	1051	NO	Biomarker	D009569
+29731554_13722	1105	1111	tumors	Disease	DOID:162
+29731554_13722	1261	1263	NO	Chemical
+29731554_13722	1261	1270	NO levels	Biomarker
+29731554_13722	1274	1322	different histopathological grading of the tumor	Biomarker
+

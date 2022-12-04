@@ -1,0 +1,59 @@
+T0	Gene-Protein 30 35	DDX56
+T10	Gene-Protein 496 501	DDX56
+T11	Disease 507 519	malignancies
+#4	AnnotatorNotes T11	DOID:162
+T12	Gene-Protein 571 576	DDX56
+T14	Disease 602 605	CRC
+T16	Biomarker 689 707	lymphatic invasion
+T17	Biomarker 712 730	distant metastasis
+T18	Gene-Protein 741 746	DDX56
+T20	Disease 802 805	CRC
+T21	Gene-Protein 851 856	DDX56
+T24	Gene-Protein 1005 1010	DDX56
+T26	Disease 1039 1046	cancers
+T27	Gene-Protein 1109 1114	DDX56
+T29	Disease 1138 1141	CRC
+T30	Disease 1188 1195	cancers
+T31	Disease 1211 1214	CRC
+T5	GeneFamily 205 208	DDX
+T7	Gene-Protein 411 416	DDX56
+T8	Disease 447 472	West Nile virus infection
+#26	AnnotatorNotes T8	D014901
+T13	Biomarker 741 761	DDX56 overexpression
+R1	Association Arg1:T13 Arg2:T20	
+#1	AnnotatorNotes T0	HGNC:18193
+T19	GeneFamily 55 58	DDX
+#2	AnnotatorNotes T19	family:499
+T22	Gene-Protein 266 270	DDX5
+#3	AnnotatorNotes T22	HGNC:2746
+T25	Biomarker 1005 1027	DDX56 is overexpressed
+R2	Association Arg1:T25 Arg2:T26	
+T23	Gene-Protein 986 990	WEE1
+#5	AnnotatorNotes T23	HGNC:12761
+T28	Biomarker 1109 1114	DDX56
+R3	Association Arg1:T28 Arg2:T36	
+T15	Biomarker 571 598	DDX56 on Ch.7p is amplified
+R4	Association Arg1:T15 Arg2:T14	
+T32	Gene-Protein 275 280	DDX17
+#6	AnnotatorNotes T32	HGNC:2740
+T9	Biomarker 496 501	DDX56
+T33	Biomarker 411 416	DDX56
+R5	Association Arg1:T33 Arg2:T8	
+#7	AnnotatorNotes T33	C410330
+#8	AnnotatorNotes T26	DOID:162
+#9	AnnotatorNotes T14	DOID:9256
+T3	Disease 295 300	tumor
+#10	AnnotatorNotes T3	DOID:162
+T4	Biomarker 266 270	DDX5
+T6	Biomarker 275 280	DDX17
+T34	Collection 266 280	DDX5 and DDX17
+R6	Association Arg1:T34 Arg2:T3	
+T35	GeneFamily 103 115	RNA helicase
+#11	AnnotatorNotes T35	family:1168
+T36	Collection 1188 1214	cancers in addition to CRC
+#12	AnnotatorNotes T4	C506749
+#13	AnnotatorNotes T6	C102004
+T1	Chemical 167 170	Asp
+T2	Chemical 171 174	Glu
+T37	Chemical 179 182	Asp
+T38	Chemical 175 178	Ala

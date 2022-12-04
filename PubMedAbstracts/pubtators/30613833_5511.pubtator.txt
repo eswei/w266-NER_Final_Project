@@ -1,0 +1,54 @@
+30613833_5511|t|RSS_IDENT_p_30613833_b_1_1_5
+30613833_5511|a| To gain further insight into the potential for F10 to replace 5-FU for the treatment of CRC, we have undertaken a study investigating the relative potency of F10 and 5-FU towards four isogenic human CRC cell lines derived from HCT-116 but that differ in TP53 mutational status[ ²¹ ]. HCT-116 is a cellular model of KRAS-mutant[ ²⁷ ], MSI+ CRC[ ²⁸ ] and is considered relatively 5-FU-resistant[ ²⁹ ]. HCT-116 is p53 wild-type and variants that are p53−/− or that express the p53 GOF mutation R248W on one allele with the second allele either expressing WT p53 (R248W/+) or being inactivated (R248W/−) were previously developed[ ²¹ ]. The R248W mutation affects the DNA binding surface of p53[ ³⁰ ] and HCT-116 R248W/− display reduced induction of p53 relative to WT cells while induction of p21 is absent in 5-FU-treated R248W/− cells[ ²¹ ]. Our studies show that F10 is a true DNA-directed FP[ ³¹ ] with efficient rescue only by exogenous Thy[ ³² ], but not Urd. Further, F10 is considerably more potent than 5-FU to all CRC cells tested regardless of p53 mutations. The largest resistance factor (~8-fold) occurred for both 5-FU and F10 towards HCT-116 R248W/− cells indicating GOF mutations of this class confer resistance broadly to FP drugs. However, even these cells remained sensitive to F10 at sub-micromolar concentrations that are likely therapeutically achievable while the IC₅₀ for 5-FU towards these cells was 69.5 ± 12.8 μmol/L, consistent with CRC tumors with this genotype being resistant to treatment with 5-FU. Our studies indicate F10 and other polymeric FPs are likely to be effective for treatment of CRC regardless of TP53 mutational status. 
+30613833_5511	77	80	F10	Drug	not found
+30613833_5511	92	96	5-FU	Drug	CHEMBL185
+30613833_5511	118	121	CRC	Disease	DOID:9256
+30613833_5511	188	191	F10	Drug
+30613833_5511	196	200	5-FU	Drug
+30613833_5511	229	232	CRC	Disease
+30613833_5511	257	264	HCT-116	Cellline
+30613833_5511	284	288	TP53	Gene-protein	HGNC:11998
+30613833_5511	314	321	HCT-116	Cellline
+30613833_5511	345	349	KRAS	Gene-protein	HGNC:6407
+30613833_5511	345	356	KRAS-mutant	Biomarker
+30613833_5511	364	372	MSI+ CRC	Disease	not found
+30613833_5511	408	412	5-FU	Drug
+30613833_5511	430	437	HCT-116	Cellline
+30613833_5511	441	444	p53	Gene-protein	HGNC:11998
+30613833_5511	477	480	p53	Gene-protein
+30613833_5511	504	507	p53	Gene-protein
+30613833_5511	521	526	R248W	Variant	p.Arg248Trp	Gain-of-funtion
+30613833_5511	585	588	p53	Gene-protein
+30613833_5511	590	595	R248W	Variant	Gain-of-funtion
+30613833_5511	590	626	R248W/+) or being inactivated (R248W	Collection
+30613833_5511	621	626	R248W	Variant	Gain-of-funtion
+30613833_5511	667	672	R248W	Variant
+30613833_5511	717	720	p53	Gene-protein
+30613833_5511	731	738	HCT-116	Cellline
+30613833_5511	739	744	R248W	Variant
+30613833_5511	776	779	p53	Gene-protein
+30613833_5511	820	823	p21	Gene-protein
+30613833_5511	837	841	5-FU	Drug
+30613833_5511	850	855	R248W	Variant
+30613833_5511	893	896	F10	Drug
+30613833_5511	920	922	FP	Drug-class
+30613833_5511	969	972	Thy	Chemical
+30613833_5511	988	991	Urd	Chemical
+30613833_5511	1002	1005	F10	Drug
+30613833_5511	1039	1043	5-FU	Drug
+30613833_5511	1051	1054	CRC	Disease
+30613833_5511	1082	1085	p53	Gene-protein
+30613833_5511	1155	1159	5-FU	Drug
+30613833_5511	1164	1167	F10	Drug
+30613833_5511	1176	1183	HCT-116	Cellline
+30613833_5511	1184	1189	R248W	Variant	Gain-of-funtion
+30613833_5511	1266	1268	FP	Drug-class
+30613833_5511	1324	1327	F10	Drug
+30613833_5511	1423	1427	5-FU	Drug
+30613833_5511	1488	1498	CRC tumors	Disease	DOID:9256
+30613833_5511	1552	1556	5-FU	Drug
+30613833_5511	1579	1582	F10	Drug
+30613833_5511	1593	1606	polymeric FPs	Drug-class
+30613833_5511	1651	1654	CRC	Disease
+30613833_5511	1669	1673	TP53	Gene-protein
+

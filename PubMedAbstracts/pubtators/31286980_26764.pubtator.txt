@@ -1,0 +1,42 @@
+31286980_26764|t|RSS_IDENT_p_31286980_b_1_4_4
+31286980_26764|a| Not only that, inhibiting COL6A3 expression was related to insulin resistance and adipose tissue inflammation via suppression of the induction of monocyte chemoattractant protein (MCP1) [ 14 ]. And COL6A3 was highly expressed in pancreatic ductal adenocarcinoma (PDA) tissue. In serum levels, its expression was higher associated with perineural invasion and cigarette smoking. And significantly upregulated expression of multiple genes (including COL6A2, and COL6A3) were found in adamantinomatous craniopharyngioma tumor samples [ 15 ]. Ran Ao et al. reported that silencing of COL6A3 can inhibit gastric cancer cell proliferation, migration, invasion, and apoptosis by the PI3k-Akt signaling pathway [ 16 ]. In addition, COL6A3 played the clinical relevance in the development of colorectal cancer validated by silico analysis of cell type-specific gene expression and COL6A3 knockout experiments [ 17 ]. In the database of UALCAN (<url>) (Additional file 1: Figure S1 and Additional file 2: Figure S2), COL6A3 expression indicated a significant difference between normal lung tissues and lung adenocarcinoma- or lung squamous cell carcinoma tumor-samples. Further, the correlations of survival rates with the expression of COL6A3 in lung cancer illustrated that lung cancer patients with higher COL6A3 expression had a lower survival rates (HR =1.32, 95%CI: 1.11–1.58, log-rank p = 0.0018, Additional file 3: Figure S3) shown in the database of Kaplan-Meier Plotter (<url>). Hence, COL6A3 was indeed involved in the process of many cancers. 
+31286980_26764	56	62	COL6A3	Gene-protein	HGNC:2213
+31286980_26764	89	96	insulin	Gene-protein	HGNC:6081
+31286980_26764	89	107	insulin resistance	Disease	D007333
+31286980_26764	89	139	insulin resistance and adipose tissue inflammation	Collection
+31286980_26764	112	139	adipose tissue inflammation	Disease	not found
+31286980_26764	176	208	monocyte chemoattractant protein	Gene-protein	HGNC:10618
+31286980_26764	210	214	MCP1	Gene-protein	HGNC:10618
+31286980_26764	228	234	COL6A3	Gene-protein
+31286980_26764	228	255	COL6A3 was highly expressed	Biomarker
+31286980_26764	259	291	pancreatic ductal adenocarcinoma	Disease	DOID:3498
+31286980_26764	293	296	PDA	Disease	DOID:3498
+31286980_26764	365	384	perineural invasion	Biomarker
+31286980_26764	389	406	cigarette smoking	Biomarker
+31286980_26764	426	497	upregulated expression of multiple genes (including COL6A2, and COL6A3)	Biomarker
+31286980_26764	478	484	COL6A2	Gene-protein	HGNC:2212
+31286980_26764	490	496	COL6A3	Gene-protein
+31286980_26764	512	552	adamantinomatous craniopharyngioma tumor	Disease	DOID:3846
+31286980_26764	597	616	silencing of COL6A3	Drug	not found
+31286980_26764	610	616	COL6A3	Gene-protein
+31286980_26764	629	643	gastric cancer	Disease	DOID:10534
+31286980_26764	706	710	PI3k	Genefamily	family:831
+31286980_26764	711	714	Akt	Genefamily	family:1900
+31286980_26764	754	760	COL6A3	Gene-protein
+31286980_26764	754	760	COL6A3	Biomarker
+31286980_26764	813	830	colorectal cancer	Disease	DOID:9256
+31286980_26764	902	908	COL6A3	Gene-protein
+31286980_26764	1037	1043	COL6A3	Gene-protein
+31286980_26764	1037	1054	COL6A3 expression	Biomarker
+31286980_26764	1122	1141	lung adenocarcinoma	Disease	DOID:3910
+31286980_26764	1122	1180	lung adenocarcinoma- or lung squamous cell carcinoma tumor	Collection
+31286980_26764	1146	1180	lung squamous cell carcinoma tumor	Disease	DOID:3907
+31286980_26764	1257	1263	COL6A3	Gene-protein
+31286980_26764	1267	1278	lung cancer	Disease	DOID:1324
+31286980_26764	1296	1307	lung cancer	Disease
+31286980_26764	1322	1346	higher COL6A3 expression	Biomarker
+31286980_26764	1329	1335	COL6A3	Gene-protein
+31286980_26764	1516	1522	COL6A3	Gene-protein
+31286980_26764	1516	1522	COL6A3	Biomarker
+31286980_26764	1566	1573	cancers	Disease	DOID:162
+

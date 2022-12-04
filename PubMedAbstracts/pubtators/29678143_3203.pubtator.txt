@@ -1,0 +1,54 @@
+29678143_3203|t|RSS_IDENT_p_29678143_b_1_1_3
+29678143_3203|a| Several genes involved in maintaining and monitoring genomic stability have emerged as breast cancer (BC) susceptibility genes. High-throughput methods have allowed identification of variants associated with breast cancer in more than 20 genes involved in DNA damage signaling and repair [ 2 ]. BRCA1, BRCA2 and CHEK2 are known breast cancer predisposition genes. Mutations in BRCA1 or BRCA2 have been detected in 20% of families with a history of breast cancer in Poland. Polish founder mutations (5382insC, C61G and 4153delA) are reported to be responsible for nearly 90% of BRCA1 mutations [ 3 , 4 ]. Furthermore, variants of CHEK2 (1100delC, IVS2 + 1G/A, del5395bp, and I157T), PALB2 (509_510delGA and 172_175delTTGT) and RECQL (c.1667_1667 + 3delAGTA) are also associated with breast cancer in the Polish population. Patients with CHEK2 mutations have a greater-than-25% risk of breast cancer [ 5 , 6 ]. The presence of PALB2 mutations is associated with increased breast cancer risk (odds ratio [OR] = 4.4, 95% confidence interval [CI] 2.30 to 8.37; P < 0.0001) [ 7 ]. Moreover, a mutation in the RECQL gene is associated with a 5.5-fold increase in the risk of breast cancer in Poland [ 8 ]. In addition, individuals with certain rare genetic syndromes, such as Peutz-Jeghers (caused by STK11 mutations, where the risk of BC is 45% by the age of 70) or Li-Fraumeni (caused by TP53 mutations, with a BC relative risk of 6.4×), have an increased risk of breast cancer [ 9 , 10 ].
+29678143_3203	117	130	breast cancer	Disease	DOID:1612
+29678143_3203	132	134	BC	Disease	DOID:1612
+29678143_3203	238	251	breast cancer	Disease
+29678143_3203	325	330	BRCA1	Gene-protein	HGNC:1100
+29678143_3203	325	330	BRCA1	Biomarker	D019398
+29678143_3203	325	347	BRCA1, BRCA2 and CHEK2	Collection
+29678143_3203	332	337	BRCA2	Biomarker	D024522
+29678143_3203	332	337	BRCA2	Gene-protein	HGNC:1101
+29678143_3203	342	347	CHEK2	Biomarker	C578634
+29678143_3203	342	347	CHEK2	Gene-protein	HGNC:16627
+29678143_3203	358	371	breast cancer	Disease
+29678143_3203	394	421	Mutations in BRCA1 or BRCA2	Biomarker
+29678143_3203	407	412	BRCA1	Gene-protein
+29678143_3203	416	421	BRCA2	Gene-protein
+29678143_3203	478	491	breast cancer	Disease
+29678143_3203	529	537	5382insC	Variant
+29678143_3203	529	556	5382insC, C61G and 4153delA	Collection
+29678143_3203	539	543	C61G	Variant	p.Cys61Gly
+29678143_3203	548	556	4153delA	Variant
+29678143_3203	607	612	BRCA1	Gene-protein
+29678143_3203	659	664	CHEK2	Gene-protein
+29678143_3203	666	674	1100delC	Variant
+29678143_3203	666	709	1100delC, IVS2 + 1G/A, del5395bp, and I157T	Collection
+29678143_3203	676	687	IVS2 + 1G/A	Variant
+29678143_3203	689	698	del5395bp	Variant
+29678143_3203	704	709	I157T	Variant	p.Ile157Thr
+29678143_3203	712	717	PALB2	Gene-protein	HGNC:26144
+29678143_3203	719	731	509_510delGA	Variant
+29678143_3203	719	750	509_510delGA and 172_175delTTGT	Collection
+29678143_3203	736	750	172_175delTTGT	Variant
+29678143_3203	756	761	RECQL	Gene-protein	HGNC:9948
+29678143_3203	763	785	c.1667_1667 + 3delAGTA	Variant
+29678143_3203	812	825	breast cancer	Disease
+29678143_3203	866	871	CHEK2	Gene-protein
+29678143_3203	866	881	CHEK2 mutations	Biomarker
+29678143_3203	914	927	breast cancer	Disease
+29678143_3203	943	970	presence of PALB2 mutations	Biomarker
+29678143_3203	955	960	PALB2	Gene-protein
+29678143_3203	1000	1013	breast cancer	Disease
+29678143_3203	1117	1143	mutation in the RECQL gene	Biomarker
+29678143_3203	1133	1138	RECQL	Gene-protein
+29678143_3203	1198	1211	breast cancer	Disease
+29678143_3203	1299	1312	Peutz-Jeghers	Disease	DOID:3852
+29678143_3203	1324	1329	STK11	Gene-protein	HGNC:11389
+29678143_3203	1324	1339	STK11 mutations	Biomarker
+29678143_3203	1359	1361	BC	Disease
+29678143_3203	1390	1401	Li-Fraumeni	Disease	DOID:3012
+29678143_3203	1413	1417	TP53	Gene-protein	HGNC:11998
+29678143_3203	1413	1427	TP53 mutations	Biomarker
+29678143_3203	1436	1438	BC	Disease
+29678143_3203	1489	1502	breast cancer	Disease
+

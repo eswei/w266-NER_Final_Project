@@ -1,0 +1,34 @@
+31300040_42090|t|RSS_IDENT_p_31300040_b_1_3_4
+31300040_42090|a| Atherosclerosis contributes significantly to coronary artery disease, the leading cause of death in the developed world [ 29 ]. It is the combined consequence of chronic VI and lipid metabolism dysfunction, characterized by abnormally elevated levels of low-density lipoprotein (LDL) in the blood. Sub-endothelial retention of LDL, particularly oxLDL, is an initiating event in atherogenesis [ 30 ] and a contributing factor in plaque development [ 30 ]. However, combating rising LDL levels alone with HMG-CoA reductase inhibitors (statins) has failed to completely eliminate MACE events due to atherosclerosis [ 31 ]. Despite LDL management, approximately 1/3 of all CVD patients on statins still experience cardiovascular events due to residual inflammation [ 32 ]. Compounds that inhibit hyper-inflammatory signaling or block leukocyte-endothelial interactions are now being developed to combat residual inflammatory risk in atherosclerosis. For instance, direct suppression of inflammation with an interleukin IL-1β monoclonal antibody (canakinumab) reduced the relative risk of MACE by 15% in CVD patients over 3.7 years [ 33 ]. The Canakinumab Anti-Inflammatory Thrombosis Outcomes Study (CANTOS) has demonstrated that inflammation is another viable therapeutic target for the prevention of CVD-related events. The BD2-selective BETi apabetalone has also been shown to significantly reduce the relative risk of MACE. This may be attributed to its suppression of inflammatory gene expression and transcription of genes key to atherogenesis. These genes contribute to monocyte activation and recruitment, leukocyte capture, rolling, adhesion, firm adhesion, macrophage differentiation, plaque development, and stability (Fig. 1).
+31300040_42090	30	45	Atherosclerosis	Biomarker	D050197
+31300040_42090	75	98	coronary artery disease	Disease	DOID:3393
+31300040_42090	192	202	chronic VI	Disease	not found
+31300040_42090	192	235	chronic VI and lipid metabolism dysfunction	Collection
+31300040_42090	207	212	lipid	Chemical
+31300040_42090	207	235	lipid metabolism dysfunction	Disease	DOID:3146
+31300040_42090	254	326	abnormally elevated levels of low-density lipoprotein (LDL) in the blood	Biomarker
+31300040_42090	284	307	low-density lipoprotein	Chemical
+31300040_42090	309	312	LDL	Chemical
+31300040_42090	357	360	LDL	Chemical
+31300040_42090	375	380	oxLDL	Chemical
+31300040_42090	511	514	LDL	Chemical
+31300040_42090	533	550	HMG-CoA reductase	Gene-protein	HGNC:5006
+31300040_42090	533	561	HMG-CoA reductase inhibitors	Drug-class
+31300040_42090	563	570	statins	Drug-class
+31300040_42090	626	641	atherosclerosis	Disease	DOID:1936
+31300040_42090	658	661	LDL	Chemical
+31300040_42090	699	702	CVD	Disease	DOID:1287
+31300040_42090	715	722	statins	Drug-class
+31300040_42090	778	790	inflammation	Disease	D007249
+31300040_42090	959	974	atherosclerosis	Disease
+31300040_42090	1012	1024	inflammation	Disease
+31300040_42090	1033	1070	interleukin IL-1β monoclonal antibody	Drug	CHEMBL1201834
+31300040_42090	1072	1083	canakinumab	Drug	CHEMBL1201834
+31300040_42090	1129	1132	CVD	Disease
+31300040_42090	1169	1180	Canakinumab	Drug	CHEMBL1201834
+31300040_42090	1256	1268	inflammation	Disease
+31300040_42090	1328	1331	CVD	Disease
+31300040_42090	1352	1355	BD2	Proteindomain
+31300040_42090	1352	1370	BD2-selective BETi	Drug-class
+31300040_42090	1371	1382	apabetalone	Drug	CHEMBL2393130
+

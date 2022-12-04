@@ -1,0 +1,68 @@
+31191804_100|t|RSS_IDENT_p_31191804_a_1_1
+31191804_100|a| Intestinal ischemia/reperfusion (I/R), which is associated with high morbidity and mortality, is also accompanied with abnormal energy metabolism and liver injury. Irisin, a novel exercise-induced hormone, can regulate adipose browning and thermogenesis. The following study investigated the potential role of dexmedetomidine in liver injury during intestinal I/R in rats. Adult male Sprague–Dawley rats underwent occlusion of the superior mesenteric artery for 90 min followed by 2 h of reperfusion. Dexmedetomidine or irisin-neutralizing antibody was intravenously administered for 1 h before surgery. The results demonstrated that severe intestine and liver injuries occurred during intestinal I/R as evidenced by pathological scores and an apparent increase in serum diamine oxidase (DAO), aspartate aminotransferase (AST), alanine aminotransferase (ALT), and lactate dehydrogenase (LDH) levels. In addition, the hepatic irisin, cleaved caspase-3, Bax, and NLRP3 inflammasome components (including NLRP3, ASC, and caspase-1), protein expressions, apoptotic index, reactive oxygen species (ROS), malondialdehyde (MDA), myeloperoxidase (MPO), tumor necrosis factor- (TNF-) α, and interleukin- (IL-) 6 levels increased; however, the serum irisin level and hepatic Bcl-2 protein expression and superoxide dismutase (SOD) activity decreased after intestinal I/R. Interestingly, dexmedetomidine could reduce the above listed changes and increase the irisin levels in plasma and the liver in I/R rats. Dexmedetomidine-mediated protective effects on liver injury and NLRP3 inflammasome activation during intestinal I/R were partially abrogated via irisin-neutralizing antibody treatment. The results suggest that irisin might contribute to the hepatoprotection of dexmedetomidine during intestinal ischemia/reperfusion.
+31191804_100	28	59	Intestinal ischemia/reperfusion	Disease	D015427
+31191804_100	61	64	I/R	Disease	D015427
+31191804_100	92	120	high morbidity and mortality	Biomarker
+31191804_100	92	191	high morbidity and mortality, is also accompanied with abnormal energy metabolism and liver injury.	Collection
+31191804_100	147	173	abnormal energy metabolism	Biomarker
+31191804_100	178	190	liver injury	Biomarker
+31191804_100	192	198	Irisin	Gene-protein	HGNC:20240
+31191804_100	338	353	dexmedetomidine	Drug	CHEMBL778
+31191804_100	357	369	liver injury	Disease	DOID:409
+31191804_100	377	391	intestinal I/R	Disease	D015427
+31191804_100	529	544	Dexmedetomidine	Drug	CHEMBL778
+31191804_100	548	554	irisin	Gene-protein	HGNC:20240
+31191804_100	548	576	irisin-neutralizing antibody	Drug	not found
+31191804_100	662	697	severe intestine and liver injuries	Biomarker
+31191804_100	714	728	intestinal I/R	Disease	D015427
+31191804_100	781	926	increase in serum diamine oxidase (DAO), aspartate aminotransferase (AST), alanine aminotransferase (ALT), and lactate dehydrogenase (LDH) levels	Biomarker
+31191804_100	799	806	diamine	Chemical
+31191804_100	799	814	diamine oxidase	Gene-protein	HGNC:80
+31191804_100	816	819	DAO	Gene-protein	HGNC:80
+31191804_100	822	831	aspartate	Chemical
+31191804_100	822	848	aspartate aminotransferase	Genefamily	not found
+31191804_100	850	853	AST	Genefamily	not found
+31191804_100	856	863	alanine	Chemical
+31191804_100	856	880	alanine aminotransferase	Gene-protein	HGNC:4552
+31191804_100	882	885	ALT	Gene-protein	HGNC:4552
+31191804_100	892	899	lactate	Chemical
+31191804_100	892	913	lactate dehydrogenase	Genefamily	not found
+31191804_100	915	918	LDH	Genefamily	not found
+31191804_100	945	1247	hepatic irisin, cleaved caspase-3, Bax, and NLRP3 inflammasome components (including NLRP3, ASC, and caspase-1), protein expressions, apoptotic index, reactive oxygen species (ROS), malondialdehyde (MDA), myeloperoxidase (MPO), tumor necrosis factor- (TNF-) α, and interleukin- (IL-) 6 levels increased	Biomarker
+31191804_100	953	959	irisin	Gene-protein
+31191804_100	969	978	caspase-3	Gene-protein	HGNC:1504
+31191804_100	980	983	Bax	Gene-protein	HGNC:959
+31191804_100	989	994	NLRP3	Gene-protein	HGNC:16400
+31191804_100	1030	1035	NLRP3	Gene-protein
+31191804_100	1037	1040	ASC	Gene-protein	HGNC:16608
+31191804_100	1046	1055	caspase-1	Gene-protein	HGNC:1499
+31191804_100	1096	1119	reactive oxygen species	Chemical
+31191804_100	1121	1124	ROS	Chemical
+31191804_100	1127	1142	malondialdehyde	Chemical
+31191804_100	1144	1147	MDA	Chemical
+31191804_100	1150	1165	myeloperoxidase	Gene-protein	HGNC:7218
+31191804_100	1167	1170	MPO	Gene-protein	HGNC:7218
+31191804_100	1173	1204	tumor necrosis factor- (TNF-) α	Gene-protein	HGNC:11892
+31191804_100	1210	1230	interleukin- (IL-) 6	Gene-protein	HGNC:6018
+31191804_100	1262	1367	serum irisin level and hepatic Bcl-2 protein expression and superoxide dismutase (SOD) activity decreased	Biomarker
+31191804_100	1268	1274	irisin	Gene-protein
+31191804_100	1293	1298	Bcl-2	Gene-protein	HGNC:990
+31191804_100	1322	1332	superoxide	Chemical
+31191804_100	1322	1342	superoxide dismutase	Genefamily	family:1929
+31191804_100	1344	1347	SOD	Genefamily	family:1929
+31191804_100	1374	1388	intestinal I/R	Disease
+31191804_100	1405	1420	dexmedetomidine	Drug
+31191804_100	1476	1482	irisin	Gene-protein
+31191804_100	1476	1489	irisin levels	Biomarker
+31191804_100	1517	1520	I/R	Disease
+31191804_100	1527	1542	Dexmedetomidine	Drug
+31191804_100	1574	1586	liver injury	Disease
+31191804_100	1591	1596	NLRP3	Gene-protein
+31191804_100	1628	1642	intestinal I/R	Disease
+31191804_100	1672	1678	irisin	Gene-protein
+31191804_100	1672	1700	irisin-neutralizing antibody	Drug
+31191804_100	1737	1743	irisin	Gene-protein
+31191804_100	1737	1743	irisin	Drug	C577593
+31191804_100	1788	1803	dexmedetomidine	Drug
+31191804_100	1811	1842	intestinal ischemia/reperfusion	Disease
+

@@ -1,0 +1,57 @@
+T10	Chemical 903 909	GalNAc
+T12	Chemical 983 989	GalNAc
+T13	Disease 996 999	EOC
+T14	Chemical 1030 1036	GalNAc
+T20	Disease 1249 1252	EOC
+T23	Disease 1475 1478	EOC
+T25	Chemical 1727 1733	GalNAc
+T27	Disease 1740 1743	EOC
+T6	Chemical 772 778	GalNAc
+T9	Disease 825 831	cancer
+#23	AnnotatorNotes T9	DOID:162
+T15	GeneFamily 246 255	proteases
+#1	AnnotatorNotes T15	not found
+T16	GeneFamily 453 458	mucin
+#2	AnnotatorNotes T16	family:648
+T1	GeneFamily 700 705	mucin
+T2	Biomarker 790 821	Altered expression of O-glycans
+T3	Biomarker 860 918	under- or overexpression of members of the GalNAc-T family
+T4	GeneFamily 903 911	GalNAc-T
+T8	GeneFamily 983 992	GalNAc-Ts
+T11	GeneFamily 1727 1736	GalNAc-Ts
+T18	Gene-Protein 1041 1047	GALNT3
+#3	AnnotatorNotes T18	HGNC:4125
+T19	Gene-Protein 1030 1039	GalNAc-T3
+#4	AnnotatorNotes T19	HGNC:4125
+T17	Disease 1069 1072	EOC
+T26	Gene-Protein 1124 1130	GALNT3
+#5	AnnotatorNotes T13	DOID:2152
+T29	Biomarker 1124 1141	GALNT3 expression
+R2	Prognostic-Poor Arg1:T29 Arg2:T17	
+T30	Gene-Protein 1222 1228	GALNT3
+T31	Biomarker 1222 1228	GALNT3
+R3	Association Arg1:T31 Arg2:T20	
+T32	Gene-Protein 1346 1350	MUC1
+#6	AnnotatorNotes T32	HGNC:7508
+T33	Gene-Protein 1445 1451	GALNT3
+T24	Gene-Protein 1693 1699	GALNT3
+T34	Gene-Protein 1773 1780	GALNT14
+#7	AnnotatorNotes T34	HGNC:22946
+T35	GeneFamily 772 781	GalNAc-Ts
+#8	AnnotatorNotes T35	family:433
+T5	GeneFamily 736 770	N-acetylgalactosaminyltransferases
+#9	AnnotatorNotes T5	family:433
+T36	Disease 1794 1797	EOC
+#10	AnnotatorNotes T4	family:433
+T21	Gene-Protein 1827 1832	MUC13
+#11	AnnotatorNotes T21	 HGNC:7511
+T37	Gene-Protein 1891 1895	EGFR
+#13	AnnotatorNotes T37	HGNC:3236
+T22	Biomarker 1773 1780	GALNT14
+R4	Association Arg1:T22 Arg2:T36	
+#12	AnnotatorNotes T22	C471038
+T38	Gene-Protein 1872 1877	GALN6
+R5	Association Arg1:T2 Arg2:T9	
+T7	Biomarker 1727 1736	GalNAc-Ts
+R6	Association Arg1:T7 Arg2:T27	
+#14	AnnotatorNotes T7	D017350

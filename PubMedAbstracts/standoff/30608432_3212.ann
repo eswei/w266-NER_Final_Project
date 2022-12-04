@@ -1,0 +1,73 @@
+T0	Disease 111 114	CAD
+T1	Biomarker 139 161	chronic kidney disease
+#2	AnnotatorNotes T1	D051436
+T10	Biomarker 272 275	CKD
+T12	Disease 316 338	cardiovascular disease
+#4	AnnotatorNotes T12	DOID:1287
+T13	Disease 340 343	CVD
+T14	Disease 471 492	vascular inflammation
+#6	AnnotatorNotes T14	not found
+T16	Disease 530 533	CKD
+T17	Disease 573 576	CKD
+T18	Biomarker 586 593	hypoxia
+#9	AnnotatorNotes T18	D000860
+T22	Chemical 632 655	reactive oxygen species
+T25	Disease 763 766	CKD
+T28	Disease 865 876	albuminuria
+#14	AnnotatorNotes T28	D000419
+T3	Disease 163 166	CKD
+#16	AnnotatorNotes T3	DOID:784
+T30	Disease 892 925	systemic microinflammation in CKD
+#17	AnnotatorNotes T30	not found, DOID:784
+T31	Disease 1007 1019	hypertension
+#18	AnnotatorNotes T31	DOID:10763
+T32	Disease 1023 1040	diabetes mellitus
+#19	AnnotatorNotes T32	DOID:9351
+T34	Disease 1183 1201	glomerulonephritis
+#20	AnnotatorNotes T34	DOID:2921
+T36	Disease 1212 1245	renal ischemia/reperfusion injury
+#22	AnnotatorNotes T36	not found
+T39	Disease 1289 1319	renal microvascular remodeling
+#24	AnnotatorNotes T39	not found
+T4	Biomarker 173 186	heart failure
+#25	AnnotatorNotes T4	D006333
+T40	Disease 1339 1347	fibrosis
+#26	AnnotatorNotes T40	D005355
+T6	Biomarker 197 200	CAD
+T8	Disease 218 237	renal insufficiency
+#28	AnnotatorNotes T8	D051437
+#1	AnnotatorNotes T0	DOID:3393
+R2	Risk-Factor Arg1:T4 Arg2:T8	
+#3	AnnotatorNotes T13	DOID:1287
+R3	Risk-Factor Arg1:T10 Arg2:T12	
+T2	Gene-Protein 412 417	Ang-2
+#5	AnnotatorNotes T2	HGNC:485
+#12	AnnotatorNotes T10	D051436
+T5	Collection 471 533	vascular inflammation[ ¹¹ ] and plays an important role in CKD
+T7	Gene-Protein 595 618	tumor necrosis factor-α
+#7	AnnotatorNotes T7	HGNC:11892
+T9	Gene-Protein 620 625	TNF-α
+#8	AnnotatorNotes T9	HGNC:11892
+T11	Chemical 657 660	ROS
+T15	Gene-Protein 687 692	Ang-2
+T19	Biomarker 715 742	Serum Ang-2 levels increase
+T20	Gene-Protein 721 726	Ang-2
+R5	Association Arg1:T19 Arg2:T25	
+T21	Biomarker 412 417	Ang-2
+R4	Association Arg1:T21 Arg2:T5	
+T23	Biomarker 825 845	serum angiopoietin-2
+T24	Gene-Protein 831 845	angiopoietin-2
+#10	AnnotatorNotes T24	HGNC:485
+A1	Conjunction T30
+R6	Association Arg1:T23 Arg2:T28	
+T26	Gene-Protein 1048 1053	Ang-2
+T27	Biomarker 1042 1068	serum Ang-2 concentrations
+T29	Biomarker 1150 1179	glomerular Ang-2 is increased
+T33	Gene-Protein 1161 1166	Ang-2
+R7	Association Arg1:T29 Arg2:T34	
+T35	Biomarker 1247 1272	Ang-2 is highly expressed
+T37	Gene-Protein 1247 1252	Ang-2
+R8	Association Arg1:T35 Arg2:T36	
+T38	Collection 1289 1347	renal microvascular remodeling and development of fibrosis
+R9	Association Arg1:T35 Arg2:T38	
+R1	Association Arg1:T1 Arg2:T0	

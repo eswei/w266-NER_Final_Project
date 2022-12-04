@@ -1,0 +1,50 @@
+T0	Gene-Protein 47 52	CPT-I
+T1	Disease 47 63	CPT-I deficiency
+#2	AnnotatorNotes T1	DOID:0090129
+T10	Gene-Protein 379 384	CPT-I
+T11	Disease 379 395	CPT-I deficiency
+T13	Gene-Protein 464 469	CPT-I
+T14	Disease 464 480	CPT-I deficiency
+T15	Chemical 545 566	d₃₁-hexadecanoic acid
+T17	Gene-Protein 780 785	CPT-I
+T18	Disease 780 795	CPT-I-deficient
+T19	Chemical 893 914	d₃₁-hexadecanoic acid
+T2	Chemical 89 103	acylcarnitines
+T20	Chemical 923 940	d₁₅-octanoic acid
+T21	Chemical 945 966	d₃₁-hexadecanoic acid
+T22	Chemical 1002 1013	fatty acids
+T23	Chemical 1047 1054	d₃₁-C16
+T24	Chemical 1077 1084	d₃₁-C16
+T25	Chemical 1193 1200	d₃₁-C16
+T26	Gene-Protein 1330 1335	CPT-I
+T27	Disease 1330 1346	CPT-I deficiency
+T3	Chemical 109 117	acyl-CoA
+T4	Chemical 122 131	carnitine
+T5	Chemical 156 165	carnitine
+T6	Chemical 199 212	acylcarnitine
+T7	Chemical 260 284	medium-chain fatty acids
+T9	Gene-Protein 334 339	CPT-I
+#1	AnnotatorNotes T0	HGNC:2328
+T28	Biomarker 65 143	synthesis of long-chain acylcarnitines from acyl-CoA and carnitine is impaired
+R1	Association Arg1:T28 Arg2:T1	
+T8	Biomarker 420 446	d₇-C4 and d₃₁-C16 in PBMCs
+R3	Association Arg1:T8 Arg2:T14	
+T12	Chemical 601 608	d₃₁-C16
+T16	Chemical 430 437	d₃₁-C16
+T29	Chemical 420 425	d₇-C4
+T30	Chemical 1015 1020	d₇-C4
+T31	Biomarker 1071 1117	d₇-C4/d₃₁-C16 ratio was significantly elevated
+T32	Chemical 1071 1076	d₇-C4
+T33	Chemical 1187 1192	d₇-C4
+T34	Biomarker 1187 1207	d₇-C4/d₃₁-C16 ratios
+R5	Association Arg1:T34 Arg2:T27	
+#3	AnnotatorNotes T18	DOID:0090129
+T35	Biomarker 151 182	free carnitine levels increased
+T36	Biomarker 188 245	long-chain acylcarnitine levels decreased in mitochondria
+T37	Collection 151 245	free carnitine levels increased, and long-chain acylcarnitine levels decreased in mitochondria
+R6	Association Arg1:T37 Arg2:T1	
+T38	Biomarker 1015 1030	d₇-C4 increased
+T39	Biomarker 1043 1061	low d₃₁-C16 levels
+T40	Collection 1015 1117	d₇-C4 increased despite the low d₃₁-C16 levels, and the d₇-C4/d₃₁-C16 ratio was significantly elevated
+R2	Association Arg1:T40 Arg2:T27	
+T41	Biomarker 601 615	d₃₁-C16 levels

@@ -1,0 +1,51 @@
+30031230_23644|t|RSS_IDENT_p_30031230_b_1_4_3
+30031230_23644|a| Identification of proteins with prognostic value benefits the tumor classification. The dysregulation of HP1 proteins and their clinical significances have been documents in human cancers. Elevated expression of CBX3 was found in prostate cancer [14] , breast cancer [15] , lung cancer and colorectal cancer [16] . Overexpression of CBX3 was correlated with poor prognosis in tongue squamous cell carcinoma [17] , non-small cell lung cancer [18] and prostate cancer [14] . Increased CBX5 expression was reported in prostate cancer [19] , [20] and breast cancer [15] . Furthermore, CBX1 was upregulated in prostate cancer [21] and breast cancer [12] . High expression of CBX1 transcript was associated with poor recurrence-free survival of patients with breast cancer [12] . On the other hand, CBX1 was reduced in thyroid carcinomas [22] . In the present study, CBX1 was markedly induced in HCC tissues. Patients with high CBX1 mRNA or protein expression survived shorter and experienced a shorter interval of tumor relapse or metastasis in two cohorts containing 648 patients. This might be attributed to high CBX1 expression was closely associated with larger tumor size, poor tumor differentiation and tumor vascular invasion. In addition, after adjusting for the prognostic factors established in the univariate analysis, a significant correlation between CBX1 expression and overall survival was confirmed. Collectively, these data indicate HP1 proteins as promising biomarkers for prediction of post-surgical prognosis of patients with malignances. 
+30031230_23644	92	97	tumor	Disease	DOID:162
+30031230_23644	118	147	dysregulation of HP1 proteins	Biomarker
+30031230_23644	135	138	HP1	Gene-protein	HGNC:1555
+30031230_23644	210	217	cancers	Disease	DOID:162
+30031230_23644	219	246	Elevated expression of CBX3	Biomarker
+30031230_23644	242	246	CBX3	Gene-protein	HGNC:1553
+30031230_23644	260	275	prostate cancer	Disease	DOID:10283
+30031230_23644	260	337	prostate cancer [14] , breast cancer [15] , lung cancer and colorectal cancer	Collection
+30031230_23644	283	296	breast cancer	Disease	DOID:1612
+30031230_23644	304	315	lung cancer	Disease	DOID:1324
+30031230_23644	320	337	colorectal cancer	Disease	DOID:9256
+30031230_23644	345	367	Overexpression of CBX3	Biomarker
+30031230_23644	363	367	CBX3	Gene-protein
+30031230_23644	406	436	tongue squamous cell carcinoma	Disease	DOID:0050865
+30031230_23644	406	495	tongue squamous cell carcinoma [17] , non-small cell lung cancer [18] and prostate cancer	Collection
+30031230_23644	444	470	non-small cell lung cancer	Disease	DOID:3908
+30031230_23644	480	495	prostate cancer	Disease
+30031230_23644	503	528	Increased CBX5 expression	Biomarker
+30031230_23644	513	517	CBX5	Gene-protein	HGNC:1555
+30031230_23644	545	560	prostate cancer	Disease
+30031230_23644	545	590	prostate cancer [19] , [20] and breast cancer	Collection
+30031230_23644	577	590	breast cancer	Disease
+30031230_23644	611	615	CBX1	Gene-protein	 HGNC:1551
+30031230_23644	611	631	CBX1 was upregulated	Biomarker
+30031230_23644	635	650	prostate cancer	Disease
+30031230_23644	635	673	prostate cancer [21] and breast cancer	Collection
+30031230_23644	660	673	breast cancer	Disease
+30031230_23644	681	715	High expression of CBX1 transcript	Biomarker
+30031230_23644	700	704	CBX1	Gene-protein
+30031230_23644	783	796	breast cancer	Disease
+30031230_23644	823	827	CBX1	Gene-protein
+30031230_23644	823	839	CBX1 was reduced	Biomarker
+30031230_23644	843	861	thyroid carcinomas	Disease	DOID:1781
+30031230_23644	891	895	CBX1	Gene-protein
+30031230_23644	891	916	CBX1 was markedly induced	Biomarker
+30031230_23644	920	923	HCC	Disease	DOID:684
+30031230_23644	947	983	high CBX1 mRNA or protein expression	Biomarker
+30031230_23644	952	956	CBX1	Gene-protein
+30031230_23644	1135	1155	high CBX1 expression	Biomarker
+30031230_23644	1140	1144	CBX1	Gene-protein
+30031230_23644	1184	1201	larger tumor size	Biomarker
+30031230_23644	1203	1229	poor tumor differentiation	Biomarker
+30031230_23644	1234	1257	tumor vascular invasion	Biomarker
+30031230_23644	1389	1393	CBX1	Gene-protein
+30031230_23644	1389	1406	CBX1 expression a	Biomarker
+30031230_23644	1475	1478	HP1	Gene-protein
+30031230_23644	1475	1487	HP1 proteins	Biomarker
+30031230_23644	1571	1582	malignances	Disease	DOID:162
+

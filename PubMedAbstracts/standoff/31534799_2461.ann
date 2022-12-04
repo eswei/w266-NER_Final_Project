@@ -1,0 +1,68 @@
+T0	Disease 182 185	CKD
+#1	AnnotatorNotes T0	DOID:784
+T10	Chemical 845 855	amino acid
+T11	Disease 906 916	cystinuria
+#3	AnnotatorNotes T11	DOID:9266
+T13	Disease 1015 1018	CKD
+T15	Gene-Protein 1068 1078	cystatin C
+T16	Disease 1134 1148	kidney disease
+T18	Disease 1273 1307	focal segmental glomerulosclerosis
+#7	AnnotatorNotes T18	DOID:1312
+T19	Disease 1309 1313	FSGS
+#8	AnnotatorNotes T19	DOID:1312
+T2	Disease 286 289	CKD
+T21	Disease 1316 1386	HIV-associated nephropathy CKD with admixed nondiabetic kidney disease
+#11	AnnotatorNotes T21	not found, not found
+T26	Disease 1388 1416	hypertension-associated ESRD
+#15	AnnotatorNotes T26	not found
+T28	Disease 1422 1452	nondiabetic etiologies of ESRD
+T31	Disease 1571 1575	ESRD
+T32	Disease 1587 1603	nondiabetic ESRD
+T5	Disease 589 603	kidney disease
+#20	AnnotatorNotes T5	DOID:557
+T7	Biomarker 647 690	CKD-associated SHROOM3 variants, rs17319721
+T9	Disease 736 760	renal allograft fibrosis
+#22	AnnotatorNotes T9	not found
+T1	Gene-Protein 228 250	shroom family member 3
+#2	AnnotatorNotes T1	HGNC:30422
+T3	Gene-Protein 252 259	SHROOM3
+#5	AnnotatorNotes T3	HGNC:30422
+T4	Biomarker 204 250	genetic polymorphism in shroom family member 3
+R1	Risk-Factor Arg1:T4 Arg2:T2	
+T8	Gene-Protein 325 332	SHROOM3
+T12	Gene-Protein 515 522	SHROOM3
+T14	Biomarker 515 522	SHROOM3
+#9	AnnotatorNotes T14	C000596976
+R2	Association Arg1:T14 Arg2:T5	
+T17	Gene-Protein 662 669	SHROOM3
+R3	Association Arg1:T7 Arg2:T9	
+T6	Gene-Protein 794 826	solute carrier family 7-member 9
+#16	AnnotatorNotes T6	HGNC:11067
+T23	Gene-Protein 828 834	SLC7A9
+#17	AnnotatorNotes T23	HGNC:11067
+T29	Biomarker 769 840	Genetic polymorphisms in solute carrier family 7-member 9 (SLC7A9) gene
+R4	Risk-Factor Arg1:T29 Arg2:T39	
+T30	Biomarker 953 956	GFR
+#4	AnnotatorNotes T15	HGNC:2475
+T33	Gene-Protein 1080 1084	CST3
+#18	AnnotatorNotes T33	HGNC:2475
+T34	Biomarker 1056 1078	Variants of cystatin C
+T35	Biomarker 1117 1129	altered eGFR
+R6	Association Arg1:T34 Arg2:T16	
+T36	Gene-Protein 1174 1194	myosin heavy chain 9
+#6	AnnotatorNotes T36	HGNC:7579
+T37	Gene-Protein 1196 1200	MYH9
+#19	AnnotatorNotes T37	HGNC:7579
+T38	Biomarker 1157 1206	Polymorphisms in myosin heavy chain 9 (MYH9) gene
+A1	Conjunction T21
+#10	AnnotatorNotes T28	not found
+T20	Collection 1273 1452	focal segmental glomerulosclerosis (FSGS), HIV-associated nephropathy CKD with admixed nondiabetic kidney disease, hypertension-associated ESRD, and nondiabetic etiologies of ESRD
+R7	Risk-Factor Arg1:T38 Arg2:T20	
+T22	Biomarker 1470 1493	MYH9 risk polymorphisms
+T24	Gene-Protein 1470 1474	MYH9
+#12	AnnotatorNotes T31	DOID:783
+T25	Collection 1571 1603	ESRD and 70% of nondiabetic ESRD
+R8	Risk-Factor Arg1:T22 Arg2:T25	
+T27	Biomarker 612 625	estimated GFR
+T39	Collection 906 1018	cystinuria [ 14 ], showing an association with GFR [ 3 , 15 ], and have been identified as a risk factor for CKD
+#13	AnnotatorNotes T32	not found

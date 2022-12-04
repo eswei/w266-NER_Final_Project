@@ -1,0 +1,179 @@
+T1	Disease 322 350	advanced chronic hepatitis C
+#1	AnnotatorNotes T1	DOID:1883
+T10	Chemical 1141 1150	rapamycin
+T11	Chemical 1201 1210	bile acid
+T12	Chemical 1425 1432	alanine
+T13	Disease 1476 1497	liver fibrosis in CHC
+#5	AnnotatorNotes T13	DOID:5082, DOID:1883
+T15	Disease 1605 1617	liver damage
+#7	AnnotatorNotes T15	not found
+T16	Disease 1670 1725	abnormal liver metabolism in patients with advanced CHC
+#8	AnnotatorNotes T16	not found, DOID:1883
+T18	Disease 1744 1779	hepatitis C‐related liver cirrhosis
+#10	AnnotatorNotes T18	not found
+T19	Biomarker 1781 1808	liver tissue miR‐10a levels
+T2	Disease 352 355	CHC
+T20	Biomarker 1879 1909	esophageal varix complications
+T21	Disease 1915 1959	hepatitis C‐related hepatocellular carcinoma
+#13	AnnotatorNotes T21	not found
+T22	Biomarker 1984 1993	MiRNA‐10a
+T24	Disease 2009 2053	abnormal liver metabolism in cirrhotic liver
+#15	AnnotatorNotes T24	not found, DOID:5082
+T26	Biomarker 2143 2150	miR‐10a
+T27	Disease 2214 2229	liver cirrhosis
+T28	Chemical 2290 2297	alanine
+T29	Chemical 2320 2343	adenosine monophosphate
+T3	Biomarker 367 445	miR‐10a regulated various liver metabolism genes and was markedly up‐regulated
+T30	Chemical 2373 2382	aspartate
+T31	Chemical 2420 2430	amino acid
+T32	Chemical 2454 2470	aryl hydrocarbon
+T33	Chemical 2508 2512	CDCA
+T34	Chemical 2513 2534	chenodeoxycholic acid
+T35	Disease 2535 2538	CHC
+T36	Disease 2539 2558	chronic hepatitis C
+#26	AnnotatorNotes T36	DOID:1883
+T37	Chemical 2670 2680	fatty acid
+T38	Disease 2741 2765	hepatocellular carcinoma
+#28	AnnotatorNotes T38	DOID:684
+T39	MicroOrganism 2766 2769	HCV
+T4	MicroOrganism 449 466	hepatitis C virus
+T40	MicroOrganism 2770 2787	hepatitis C virus
+T41	MicroOrganism 2807 2824	hepatitis C virus
+T42	Chemical 2825 2833	HDL‐Chol
+T43	Chemical 2834 2869	high‐density lipoprotein cholestero
+T44	Disease 2920 2922	LC
+T45	Disease 2923 2938	liver cirrhosis
+#36	AnnotatorNotes T45	DOID:5082
+T47	Chemical 3090 3099	rapamycin
+T48	Chemical 3142 3161	phosphoenolpyruvate
+T5	Disease 449 476	hepatitis C virus infection
+#41	AnnotatorNotes T5	DOID:1883
+T50	Chemical 3206 3213	PEG‐IFN
+T51	Chemical 3378 3387	ribavirin
+T52	Chemical 3580 3586	sterol
+T53	Chemical 3657 3661	Chol
+T54	Chemical 3668 3679	cholesterol
+T55	Chemical 3683 3695	triglyceride
+T6	Chemical 629 645	aryl hydrocarbon
+T8	Chemical 913 919	sterol
+T9	Chemical 965 975	fatty acid
+T56	Biomarker 276 318	miRNAs that are significantly up‐regulated
+R1	Association Arg1:T56 Arg2:T1	
+#2	AnnotatorNotes T2	DOID:1883
+T57	RNA-Noncoding 276 282	miRNAs
+#3	AnnotatorNotes T57	family:476
+T58	RNA-Noncoding 367 374	miR‐10a
+#4	AnnotatorNotes T58	HGNC:31497
+R2	Association Arg1:T3 Arg2:T5	
+T59	RNA-Noncoding 528 535	miR‐10a
+T60	Gene-Protein 684 689	Bmal1
+#6	AnnotatorNotes T60	HGNC:701
+T61	Gene-Protein 612 682	brain and muscle aryl hydrocarbon receptor nuclear translocator‐like 1
+#11	AnnotatorNotes T61	HGNC:701
+T62	Gene-Protein 776 780	RORA
+#18	AnnotatorNotes T62	HGNC:10258
+T63	Gene-Protein 733 774	RA receptor‐related orphan receptor alpha
+#19	AnnotatorNotes T63	HGNC:10258
+T64	RNA-Noncoding 801 808	miR‐10a
+T65	Gene-Protein 852 857	Bmal1
+T66	Gene-Protein 913 963	sterol regulatory element binding protein [SREBP]1
+#20	AnnotatorNotes T66	HGNC:11289
+T67	Gene-Protein 986 990	FASN
+#21	AnnotatorNotes T67	HGNC:3594
+T68	Gene-Protein 965 984	fatty acid synthase
+#22	AnnotatorNotes T68	HGNC:3594
+T69	Gene-Protein 997 1003	SREBP2
+#23	AnnotatorNotes T69	HGNC:11290
+T70	Gene-Protein 1093 1098	PGC1α
+#24	AnnotatorNotes T70	HGNC:9237
+T71	Gene-Protein 1023 1091	peroxisome proliferator‐activated receptor gamma coactivator 1 alpha
+#25	AnnotatorNotes T71	HGNC:9237
+T72	Gene-Protein 1152 1156	mTOR
+#27	AnnotatorNotes T72	HGNC:3942
+T73	Gene-Protein 1121 1150	mammalian target of rapamycin
+#29	AnnotatorNotes T73	HGNC:3942
+T74	Gene-Protein 1191 1194	S6K
+#30	AnnotatorNotes T74	HGNC:10437
+T75	Gene-Protein 1162 1189	ribosomal protein S6 kinase
+#33	AnnotatorNotes T75	HGNC:10437
+T76	Gene-Protein 1248 1252	LRH1
+#34	AnnotatorNotes T76	HGNC:7984
+T77	Gene-Protein 1221 1246	(liver receptor homolog 1
+#35	AnnotatorNotes T77	HGNC:7984
+T78	Biomarker 1260 1279	expression of Bmal1
+T79	Gene-Protein 1274 1279	Bmal1
+T80	Biomarker 1318 1370	expression of mitochondrial biogenesis‐related genes
+T81	Biomarker 1375 1388	reduced Bmal1
+T82	Gene-Protein 1383 1388	Bmal1
+T83	Biomarker 1409 1456	increased serum alanine aminotransferase levels
+T84	Gene-Protein 1425 1449	alanine aminotransferase
+#38	AnnotatorNotes T84	HGNC:4552
+A1	Conjunction T13
+R3	Association Arg1:T81 Arg2:T13	
+T14	Biomarker 1505 1550	impaired circadian rhythm expression of Bmal1
+T85	Gene-Protein 1545 1550	Bmal1
+T86	RNA-Noncoding 1554 1561	miR‐10a
+A2	Conjunction T16
+T17	Collection 1605 1725	liver damage, and is closely associated with the exacerbation of abnormal liver metabolism in patients with advanced CHC
+R4	Association Arg1:T14 Arg2:T17	
+T87	RNA-Noncoding 1794 1801	miR‐10a
+T88	Biomarker 1844 1859	hepatic reserve
+T89	Biomarker 1861 1877	fibrosis markers
+R5	Association Arg1:T19 Arg2:T21	
+A3	Conjunction T24
+T23	RNA-Noncoding 1984 1993	MiRNA‐10a
+R6	Association Arg1:T22 Arg2:T24	
+T25	RNA-Noncoding 2143 2150	miR‐10a
+T90	Biomarker 2062 2130	down‐regulation of the expression of the circadian rhythm gene Bmal1
+T91	Gene-Protein 2125 2130	Bmal1
+R7	Association Arg1:T26 Arg2:T27	
+#9	AnnotatorNotes T27	DOID:5082
+T92	Gene-Protein 2250 2260	beta‐actin
+T93	Gene-Protein 2245 2249	ACTB
+T94	Gene-Protein 2261 2264	ALP
+T95	Gene-Protein 2265 2285	alkaline phosphatase
+T96	Gene-Protein 2290 2314	alanine aminotransferase
+T97	Gene-Protein 2286 2289	ALT
+T98	GeneFamily 2320 2368	adenosine monophosphate–activated protein kinase
+T99	GeneFamily 2315 2319	AMPK
+T100	GeneFamily 2373 2399	aspartate aminotransferase
+T101	GeneFamily 2369 2372	AST
+T102	Gene-Protein 2437 2507	brain and muscle aryl hydrocarbon receptor nuclear translocator‐like 1
+T103	Gene-Protein 2431 2436	Bmal1
+#12	AnnotatorNotes T35	DOID:1883
+T104	Gene-Protein 2572 2578	CYP7A1
+T105	Gene-Protein 2579 2624	cytochrome P450 family 7 subfamily A member 1
+T106	Gene-Protein 2670 2689	fatty acid synthase
+T107	Gene-Protein 2665 2669	FASN
+T108	Disease 2737 2740	HCC
+#16	AnnotatorNotes T108	DOID:684
+T109	RNA-Noncoding 2871 2878	hsa‐miR
+T110	RNA-Noncoding 2879 2893	human microRNA
+#14	AnnotatorNotes T44	DOID:5082
+T46	Gene-Protein 2957 2961	LRH1
+T111	Gene-Protein 2962 2986	liver receptor homolog 1
+T112	RNA-Noncoding 2993 2996	miR
+T113	RNA-Noncoding 2987 2992	miRNA
+T114	RNA-Noncoding 2997 3005	microRNA
+T115	Gene-Protein 3065 3069	mTOR
+T116	Gene-Protein 3070 3099	mammalian target of rapamycin
+T117	Gene-Protein 3138 3141	PCK
+T118	Gene-Protein 3142 3175	phosphoenolpyruvate carboxykinase
+T49	Gene-Protein 3235 3240	PGC1α
+T119	Gene-Protein 3241 3309	peroxisome proliferator‐activated receptor gamma coactivator 1 alpha
+T120	Gene-Protein 3310 3318	PPAR/A/G
+T121	Gene-Protein 3319 3373	peroxisome proliferator‐activated receptor/alpha/gamma
+T122	Chemical 3374 3377	RBV
+T123	Gene-Protein 3388 3391	ROR
+T124	Gene-Protein 3392 3427	RA receptor‐related orphan receptor
+T125	Gene-Protein 3428 3432	RORE
+T126	Gene-Protein 3433 3487	RA receptor‐related orphan receptor‐responsive element
+T127	Gene-Protein 3542 3545	S6K
+T128	Gene-Protein 3546 3573	ribosomal protein S6 kinase
+T129	Gene-Protein 3580 3621	sterol regulatory element binding protein
+T130	Gene-Protein 3574 3579	SREBP
+T131	Chemical 3680 3682	TG
+T132	GeneFamily 3696 3701	TGF‐β
+T133	GeneFamily 3702 3730	transforming growth factor β
+#17	AnnotatorNotes T22	C547183
+T7	Gene-Protein 3214 3234	pegylated interferon

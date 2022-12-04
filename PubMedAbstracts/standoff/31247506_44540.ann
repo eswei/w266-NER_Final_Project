@@ -1,0 +1,31 @@
+T0	Disease 141 144	CKD
+#1	AnnotatorNotes T0	DOID:784
+T1	Disease 234 247	nephropathies
+#2	AnnotatorNotes T1	DOID:557
+T2	Disease 300 303	CKD
+T3	Disease 605 621	fibrotic disease
+#9	AnnotatorNotes T3	not found
+T4	Disease 630 633	UUO
+T5	Disease 881 895	kidney disease
+#11	AnnotatorNotes T5	DOID:557
+T15	Gene-Protein 42 46	NOX4
+#3	AnnotatorNotes T15	HGNC:7891
+T16	Biomarker 183 225	glomerular NOX4 expression may be enhanced
+T17	Gene-Protein 194 198	NOX4
+T18	Biomarker 249 269	loss of tubular NOX4
+T19	Gene-Protein 265 269	NOX4
+R1	Association Arg1:T18 Arg2:T2	
+R2	Association Arg1:T16 Arg2:T1	
+T20	Biomarker 305 327	Overexpression of NOX4
+T21	Gene-Protein 323 327	NOX4
+T22	Gene-Protein 412 416	NRF2
+#4	AnnotatorNotes T22	HGNC:4071
+T23	Gene-Protein 460 464	NOX4
+T24	Chemical 473 476	ROS
+T25	Biomarker 554 573	NOX4 overexpression
+T26	Gene-Protein 554 558	NOX4
+#5	AnnotatorNotes T4	not found
+T27	Gene-Protein 641 645	NOX4
+T28	Gene-Protein 794 798	NOX4
+T29	Gene-Protein 831 835	NOX4
+T30	Biomarker 823 835	tubular NOX4

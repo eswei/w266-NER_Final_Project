@@ -1,0 +1,50 @@
+31257489_18673|t|RSS_IDENT_p_31257489_b_1_4_4
+31257489_18673|a| It was further revealed that Smad2 was the potential target of miR-18a-5p, and in addition, it was determined that miR-18a-5p negatively regulated the expression of Smad2 and Smad4, and positively regulated the expression of Smad7. Studies have confirmed that Smad2 and Smad4 are two major downstream regulators in the TGF-β1/Smad signaling pathway and both of them act as tumor suppressors in many human cancers, while Smad7 serves as a negative feedback regulator of this pathway ( 14 , 15 ). Numerous studies have demonstrated that the TGF-β1/Smad signaling pathway is an important pathogenic mechanism in various cancers, such as breast ( 16 ), prostate ( 17 ), and gastric cancer ( 18 ), as well as hepatocellular carcinoma ( 19 ) and esophageal squamous cell carcinoma ( 14 ). Thus, we speculated that miR-18a-5p may promote OSCC cancer cell biological progression though activation of the TGF-β1/Smad signaling pathway and it may be an important therapeutic strategy for OSCC. Furthermore, our results indicated that miR-18a-5p could increase the expression of collagen I, α-SMA and vimentin, but decrease E-cadherin expression. While miR-18a-5p inhibitor presented the opposite effects. It is well recognized, that collagen I as one of extracellular matrix components, plays an important role cancer cell infiltration and metastasis ( 20 ). α-SMA has been revealed to be a negative prognostic marker and associated with cancer metastases ( 21 ). Vimentin is now being perceived as a canonical prognostic marker and has been revealed to have a high expression level in many cancers ( 22 ). Previous studies have demonstrated that E-cadherin, a well-known tumor suppressor protein ( 23 ), is involved in the TGF-β1/Smad signaling pathway ( 24 ). All these findings were consistent with our present study. Thus, our findings indicated that high expression of miR-18a-5p may indicate a poor prognosis. 
+31257489_18673	59	64	Smad2	Gene-protein	HGNC:6768
+31257489_18673	93	103	miR-18a-5p	Rna-noncoding	HGNC:31548
+31257489_18673	145	155	miR-18a-5p	Rna-noncoding
+31257489_18673	195	200	Smad2	Gene-protein
+31257489_18673	205	210	Smad4	Gene-protein	HGNC:6770
+31257489_18673	255	260	Smad7	Gene-protein	HGNC:6773
+31257489_18673	290	295	Smad2	Gene-protein
+31257489_18673	300	305	Smad4	Gene-protein
+31257489_18673	349	355	TGF-β1	Gene-protein	HGNC:11766
+31257489_18673	356	360	Smad	Genefamily	family:750
+31257489_18673	435	442	cancers	Disease	DOID:162
+31257489_18673	450	455	Smad7	Gene-protein
+31257489_18673	569	575	TGF-β1	Gene-protein
+31257489_18673	569	598	TGF-β1/Smad signaling pathway	Biomarker
+31257489_18673	576	580	Smad	Genefamily
+31257489_18673	647	654	cancers	Disease
+31257489_18673	647	804	cancers, such as breast ( 16 ), prostate ( 17 ), and gastric cancer ( 18 ), as well as hepatocellular carcinoma ( 19 ) and esophageal squamous cell carcinoma	Collection
+31257489_18673	664	714	breast ( 16 ), prostate ( 17 ), and gastric cancer	Disease	DOID:1612,DOID:10283,DOID:10534
+31257489_18673	734	758	hepatocellular carcinoma	Disease	DOID:684
+31257489_18673	770	804	esophageal squamous cell carcinoma	Disease	DOID:7051
+31257489_18673	838	848	miR-18a-5p	Rna-noncoding
+31257489_18673	838	848	miR-18a-5p	Biomarker	C524941
+31257489_18673	861	872	OSCC cancer	Disease	DOID:0050866
+31257489_18673	926	932	TGF-β1	Gene-protein
+31257489_18673	933	937	Smad	Genefamily
+31257489_18673	1008	1012	OSCC	Disease	DOID:0050866
+31257489_18673	1054	1064	miR-18a-5p	Rna-noncoding
+31257489_18673	1098	1108	collagen I	Genefamily	not found
+31257489_18673	1110	1115	α-SMA	Gene-protein	HGNC:11117
+31257489_18673	1120	1128	vimentin	Gene-protein	 HGNC:12692
+31257489_18673	1143	1153	E-cadherin	Gene-protein	HGNC:1748
+31257489_18673	1172	1182	miR-18a-5p	Rna-noncoding
+31257489_18673	1172	1192	miR-18a-5p inhibitor	Drug-class
+31257489_18673	1253	1263	collagen I	Genefamily
+31257489_18673	1253	1263	collagen I	Biomarker	D024042
+31257489_18673	1331	1337	cancer	Disease	DOID:162
+31257489_18673	1379	1384	α-SMA	Gene-protein
+31257489_18673	1379	1384	α-SMA	Biomarker	C541116
+31257489_18673	1458	1464	cancer	Disease
+31257489_18673	1484	1492	Vimentin	Gene-protein	HGNC:12692
+31257489_18673	1484	1602	Vimentin is now being perceived as a canonical prognostic marker and has been revealed to have a high expression level	Biomarker
+31257489_18673	1611	1618	cancers	Disease
+31257489_18673	1667	1677	E-cadherin	Gene-protein
+31257489_18673	1744	1750	TGF-β1	Gene-protein
+31257489_18673	1751	1755	Smad	Genefamily
+31257489_18673	1875	1904	high expression of miR-18a-5p	Biomarker
+31257489_18673	1894	1904	miR-18a-5p	Rna-noncoding
+

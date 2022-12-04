@@ -1,0 +1,53 @@
+31242630_13126|t|RSS_IDENT_p_31242630_b_1_3_8
+31242630_13126|a| As a novel discovery, urinary levels of HE4 were significantly higher in the TAC–AKI group than in the non-AKI group during post-transplantation tacrolimus treatment. HE4 is a secreted protein encoded by the WFDC2 gene, which is located on chromosome 20q12-131 [ 30 ]. It reproducibly identifies epithelial ovarian cancers, endometrial carcinomas, and lung malignancies, [ 6 , 7 , 8 ] and is a potential biomarker for renal fibrosis, cystic fibrosis, lupus nephritis, and chronic kidney disease in systemic lupus erythematosus [ 31 , 32 ]. The physiological and pathological functions of HE4 are not completely understood. HE4 is upregulated in fibrotic kidneys where it promotes renal fibrosis by suppressing the activity of serine proteases and matrix metalloproteinases and, consequently, the degradation of type I collagen [ 31 ]. In patients with kidney allografts, elevated HE4 levels may induce renal fibrosis [ 33 ] and increase the severity of tubulointerstitial fibrosis and tubular cell damage [ 34 ]. The increase in HE4 urinary levels, but not NGAL urinary levels, in the TAC–AKI group suggests that tacrolimus induces AKI by triggering the release of cytokines and chemokines, which exacerbate tubular injury. HE4 may also contribute to interstitial fibrosis by stimulating myoblast differentiation.
+31242630_13126	52	99	urinary levels of HE4 were significantly higher	Biomarker
+31242630_13126	70	73	HE4	Gene-protein	HGNC:15939
+31242630_13126	107	110	TAC	Drug	CHEMBL269732
+31242630_13126	107	114	TAC–AKI	Disease	not found
+31242630_13126	175	185	tacrolimus	Drug	CHEMBL269732
+31242630_13126	197	200	HE4	Gene-protein
+31242630_13126	197	200	HE4	Biomarker	C569698
+31242630_13126	238	243	WFDC2	Gene-protein	HGNC:15939
+31242630_13126	299	301	It	Biomarker
+31242630_13126	299	301	It	Gene-protein
+31242630_13126	299	301	It	Pronoun
+31242630_13126	326	352	epithelial ovarian cancers	Disease	DOID:2152
+31242630_13126	326	399	epithelial ovarian cancers, endometrial carcinomas, and lung malignancies	Collection
+31242630_13126	354	376	endometrial carcinomas	Disease	DOID:2871
+31242630_13126	382	399	lung malignancies	Disease	DOID:1324
+31242630_13126	448	462	renal fibrosis	Disease	DOID:0050855
+31242630_13126	448	556	renal fibrosis, cystic fibrosis, lupus nephritis, and chronic kidney disease in systemic lupus erythematosus	Collection
+31242630_13126	464	479	cystic fibrosis	Disease	DOID:1485
+31242630_13126	481	496	lupus nephritis	Disease	DOID:0080162
+31242630_13126	502	524	chronic kidney disease	Disease	DOID:784
+31242630_13126	528	556	systemic lupus erythematosus	Disease	DOID:9074
+31242630_13126	618	621	HE4	Gene-protein
+31242630_13126	653	656	HE4	Gene-protein
+31242630_13126	653	671	HE4 is upregulated	Biomarker
+31242630_13126	675	691	fibrotic kidneys	Disease	DOID:0050855
+31242630_13126	675	724	fibrotic kidneys where it promotes renal fibrosis	Collection
+31242630_13126	710	724	renal fibrosis	Disease	DOID:0050855
+31242630_13126	756	762	serine	Chemical
+31242630_13126	756	772	serine proteases	Genefamily	family:738
+31242630_13126	777	802	matrix metalloproteinases	Genefamily	family:891
+31242630_13126	841	856	type I collagen	Genefamily	not found
+31242630_13126	901	920	elevated HE4 levels	Biomarker
+31242630_13126	910	913	HE4	Gene-protein
+31242630_13126	932	946	renal fibrosis	Disease
+31242630_13126	932	1034	renal fibrosis [ 33 ] and increase the severity of tubulointerstitial fibrosis and tubular cell damage	Collection
+31242630_13126	983	1010	tubulointerstitial fibrosis	Disease	DOID:0050855
+31242630_13126	1015	1034	tubular cell damage	Disease	not found
+31242630_13126	1047	1077	increase in HE4 urinary levels	Biomarker
+31242630_13126	1059	1062	HE4	Gene-protein
+31242630_13126	1087	1091	NGAL	Gene-protein	HGNC:6526
+31242630_13126	1115	1118	TAC	Drug
+31242630_13126	1115	1122	TAC–AKI	Disease
+31242630_13126	1143	1153	tacrolimus	Drug
+31242630_13126	1162	1165	AKI	Disease	DOID:3021
+31242630_13126	1195	1204	cytokines	Genefamily	not found
+31242630_13126	1209	1219	chemokines	Genefamily	family:483
+31242630_13126	1238	1252	tubular injury	Disease	not found
+31242630_13126	1254	1257	HE4	Gene-protein
+31242630_13126	1254	1257	HE4	Biomarker
+31242630_13126	1281	1302	interstitial fibrosis	Disease	not found
+

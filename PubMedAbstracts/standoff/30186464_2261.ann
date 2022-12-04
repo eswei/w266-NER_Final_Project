@@ -1,0 +1,69 @@
+T11	Disease 1007 1013	cancer
+#3	AnnotatorNotes T11	DOID:162
+T13	Disease 1188 1200	glioblastoma
+#4	AnnotatorNotes T13	DOID:3068
+T15	Drug 1333 1343	paclitaxel
+T16	Disease 1358 1372	ovarian cancer
+#6	AnnotatorNotes T16	DOID:2394
+T18	Chemical 1401 1405	zinc
+T19	Disease 1533 1537	OSCC
+T2	Disease 556 560	OSCC
+T4	Gene-Protein 595 621	taurine upregulated gene 1
+T5	Disease 646 650	OSCC
+T6	Chemical 675 681	formin
+T8	Disease 822 826	OSCC
+T3	Disease 385 399	tumourigenesis
+#5	AnnotatorNotes T3	DOID:162
+T7	GeneFamily 192 199	lncRNAs
+#7	AnnotatorNotes T7	family:788
+T9	Biomarker 192 199	lncRNAs
+#8	AnnotatorNotes T9	D062085
+R1	Association Arg1:T9 Arg2:T3	
+T10	GeneFamily 456 463	lncRNAs
+T12	Biomarker 456 463	lncRNAs
+#1	AnnotatorNotes T2	DOID:0050866
+R2	Association Arg1:T12 Arg2:T2	
+#2	AnnotatorNotes T4	HGNC:26066
+T1	Biomarker 595 621	taurine upregulated gene 1
+#9	AnnotatorNotes T1	C000598536
+R3	Association Arg1:T1 Arg2:T5	
+T14	Gene-Protein 675 688	formin-like 2
+#10	AnnotatorNotes T14	HGNC:18267
+T17	Biomarker 659 688	upregulation of formin-like 2
+T20	RNA-Noncoding 724 742	microRNA (miR)-219
+#11	AnnotatorNotes T20	family:1710
+T21	RNA-Noncoding 758 780	maternally expressed 3
+#12	AnnotatorNotes T21	HGNC:14575
+T22	Drug 758 780	maternally expressed 3
+#13	AnnotatorNotes T22	C498907
+R4	Response Arg1:T22 Arg2:T8	
+T23	GeneFamily 849 852	WNT
+#14	AnnotatorNotes T23	family:360
+T24	GeneFamily 853 862	β-catenin
+#15	AnnotatorNotes T24	family:1542
+T25	RNA-Noncoding 947 952	NEAT1
+#16	AnnotatorNotes T25	HGNC:30815
+T26	RNA-Noncoding 907 945	nuclear enriched abundant transcript 1
+#17	AnnotatorNotes T26	HGNC:30815
+T27	Biomarker 907 989	nuclear enriched abundant transcript 1 (NEAT1) has been observed to be upregulated
+R5	Association Arg1:T27 Arg2:T11	
+T28	RNA-Noncoding 1091 1096	NEAT1
+T29	Gene-Protein 1117 1149	epidermal growth factor receptor
+#18	AnnotatorNotes T29	HGNC:3236
+T30	Biomarker 1091 1096	NEAT1
+#19	AnnotatorNotes T30	C577276
+R6	Association Arg1:T30 Arg2:T13	
+T31	GeneFamily 1225 1228	WNT
+T32	GeneFamily 1229 1238	β-catenin
+T33	Gene-Protein 1276 1303	enhancer of zeste homolog 2
+#20	AnnotatorNotes T33	HGNC:3527
+T34	RNA-Noncoding 1312 1317	NEAT1
+T35	Biomarker 1312 1317	NEAT1
+#21	AnnotatorNotes T15	CHEMBL428647
+R7	Mediated-Non-Response Arg1:T15 Arg2:T16	
+R8	Mediator Arg1:T15 Arg2:T35	
+T36	Gene-Protein 1401 1437	zinc finger E-box-binding homeobox 1
+#22	AnnotatorNotes T36	HGNC:11642
+T37	RNA-Noncoding 1453 1460	miR-194
+#23	AnnotatorNotes T37	family:1720
+T38	RNA-Noncoding 1524 1529	NEAT1

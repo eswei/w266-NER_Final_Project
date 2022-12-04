@@ -1,0 +1,35 @@
+29605429_29305|t|RSS_IDENT_p_29605429_b_1_4_3
+29605429_29305|a| Alterations in sodium channel function in SIDS are qualitatively similar to those reported in infants with life-threatening respiratory events. 9 , 12 , 14 Both gain-of-function and loss-of-function SCN4A variants can cause severe respiratory presentations in infancy and some of these cases have had a fatal outcome. 8 , 9 , 14 In our study, only the SCN4A variants present in white SIDS cases caused significant alterations in channel function compared with wild type. By contrast, the variants we discovered in control adults did not alter channel function. The Arg1463Ser and Ser682Trp variants caused impaired fast inactivation that resulted in a predominantly gain-of-function effect in the NaV1.4 sodium channel. Similar gain-of-function alterations in channel function are the hallmark of SCN4A variants in patients with myotonia, including in infants with severe respiratory complications. ²⁵ The pathogenic role of Arg1463Ser is also supported by its presence in a patient under our care (EM, MGH) with generalised myotonia. The heterozygous loss-of-function variants we discovered in the SIDS cohort caused either substantial enhancement of fast inactivation (Val1442Met) or reduced current density (Glu1520Lys). Compound heterozygous or homozygous loss-of-function NaV1.4 variants (including the previously reported Val1442Met variant) cause myasthenic syndrome and congenital myopathy. 12 , 14 Some of these patients need respiratory support. 12 , 14 These observations support the notion that disrupted sodium channel function in the respiratory muscles can contribute to life-threatening events.
+29605429_29305	30	68	Alterations in sodium channel function	Biomarker
+29605429_29305	45	51	sodium	Chemical
+29605429_29305	45	59	sodium channel	Genefamily	family:179
+29605429_29305	72	76	SIDS	Disease	DOID:9007
+29605429_29305	191	243	gain-of-function and loss-of-function SCN4A variants	Biomarker
+29605429_29305	229	234	SCN4A	Gene-protein	HGNC:10591
+29605429_29305	382	387	SCN4A	Gene-protein
+29605429_29305	382	396	SCN4A variants	Biomarker
+29605429_29305	414	418	SIDS	Disease
+29605429_29305	595	605	Arg1463Ser	Variant	p.Arg1463Ser	Gain-of-funtion
+29605429_29305	595	619	Arg1463Ser and Ser682Trp	Collection
+29605429_29305	610	619	Ser682Trp	Variant	p.Ser682Trp	Gain-of-funtion
+29605429_29305	727	748	NaV1.4 sodium channel	Gene-protein	HGNC:10591
+29605429_29305	734	740	sodium	Chemical
+29605429_29305	827	832	SCN4A	Gene-protein
+29605429_29305	827	841	SCN4A variants	Biomarker
+29605429_29305	859	867	myotonia	Disease	D009222
+29605429_29305	859	927	myotonia, including in infants with severe respiratory complications	Collection
+29605429_29305	895	927	severe respiratory complications	Disease	not found
+29605429_29305	955	965	Arg1463Ser	Variant
+29605429_29305	1055	1063	myotonia	Disease
+29605429_29305	1129	1133	SIDS	Disease
+29605429_29305	1201	1211	Val1442Met	Variant	p.Val1442Met
+29605429_29305	1201	1251	Val1442Met) or reduced current density (Glu1520Lys	Collection
+29605429_29305	1241	1251	Glu1520Lys	Variant	p.Glu545Lys
+29605429_29305	1307	1313	NaV1.4	Gene-protein
+29605429_29305	1358	1368	Val1442Met	Variant	Loss-of-funtion
+29605429_29305	1384	1403	myasthenic syndrome	Disease	DOID:3635
+29605429_29305	1384	1427	myasthenic syndrome and congenital myopathy	Collection
+29605429_29305	1408	1427	congenital myopathy	Disease	DOID:0080100
+29605429_29305	1547	1553	sodium	Chemical
+29605429_29305	1547	1561	sodium channel	Genefamily
+

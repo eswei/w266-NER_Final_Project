@@ -1,0 +1,69 @@
+T1	Disease 235 240	tumor
+#1	AnnotatorNotes T1	DOID:162
+T13	Disease 745 748	CRC
+T15	Disease 826 829	CRC
+T17	RNA-Noncoding 869 876	MiR-214
+T19	Disease 1018 1025	cancers
+#7	AnnotatorNotes T19	DOID:162
+T20	Disease 1036 1049	breast cancer
+#8	AnnotatorNotes T20	DOID:1612
+T21	Disease 1055 1070	cervical cancer
+#9	AnnotatorNotes T21	DOID:4362
+T22	Disease 1076 1093	pancreatic cancer
+#10	AnnotatorNotes T22	DOID:1793
+T23	Disease 1099 1115	rhabdomyosarcoma
+#11	AnnotatorNotes T23	DOID:3247
+T24	Disease 1125 1146	hepatocellular cancer
+#12	AnnotatorNotes T24	DOID:5015
+T26	Disease 1205 1231	non-small cell lung cancer
+#13	AnnotatorNotes T26	DOID:3908
+T28	Disease 1239 1244	NSCLC
+#15	AnnotatorNotes T28	DOID:3908
+T30	Disease 1372 1375	CRC
+T6	RNA-Noncoding 224 230	miRNAs
+T12	Biomarker 271 298	upregulation of let-7 miRNA
+T14	Biomarker 212 230	deregulated miRNAs
+R1	Association Arg1:T14 Arg2:T1	
+T16	Disease 338 344	glioma
+R2	Association Arg1:T12 Arg2:T16	
+T3	Disease 486 501	prostate cancer
+#6	AnnotatorNotes T3	DOID:10283
+T5	Gene-Protein 1264 1271	p38MAPK
+T18	RNA-Noncoding 359 365	MiR-34
+T25	Biomarker 359 394	MiR-34 is significantly upregulated
+T29	RNA-Noncoding 287 298	let-7 miRNA
+#16	AnnotatorNotes T29	family:1697
+#17	AnnotatorNotes T16	DOID:0060108
+R3	Association Arg1:T25 Arg2:T3	
+T31	Disease 599 666	breast ⁵ , lung ⁶ , ⁷ , glioblastoma ⁸ , and nasopharyngeal cancers
+#18	AnnotatorNotes T31	DOID: 1612, DOID:1324, DOID:3068, DOID:9261
+T7	RNA-Noncoding 517 523	MiR-21
+T8	Biomarker 671 713	Upregulation of miR-106b ¹⁰ and miR-100 ¹¹
+T10	Biomarker 517 523	MiR-21
+R4	Association Arg1:T10 Arg2:T31	
+R5	Association Arg1:T8 Arg2:T13	
+T11	RNA-Noncoding 807 813	miRNAs
+T32	Drug-Class 1180 1192	radiotherapy
+T33	RNA-Noncoding 1342 1349	miR-214
+T34	RNA-Noncoding 1162 1169	miR-214
+T35	RNA-Noncoding 845 852	miR-622
+T36	RNA-Noncoding 860 867	miR-214
+#2	AnnotatorNotes T10	C524940
+T9	RNA-Noncoding 687 695	miR-106b
+T37	RNA-Noncoding 703 710	miR-100
+#3	AnnotatorNotes T37	HGNC:31487
+#14	AnnotatorNotes T7	HGNC:31586
+#19	AnnotatorNotes T17	HGNC:31591
+T27	Gene-Protein 956 960	DNM3
+#20	AnnotatorNotes T27	HGNC:29125
+T38	Gene-Protein 940 949	Dynamin-3
+#21	AnnotatorNotes T38	HGNC:29125
+T39	Collection 1018 1146	cancers including breast cancer ¹³ , cervical cancer ¹⁴ , pancreatic cancer ¹⁵ , rhabdomyosarcoma ¹⁶ , and hepatocellular cancer
+#22	AnnotatorNotes T35	HGNC:32878
+#23	AnnotatorNotes T36	HGNC:31591
+T40	Biomarker 869 1000	MiR-214, located in the chromosomal region 1q24.3, in intron 14 of the Dynamin-3 gene (DNM3), has been reported to be downregulated
+R6	Association Arg1:T40 Arg2:T39	
+#24	AnnotatorNotes T5	HGNC:6876
+#4	AnnotatorNotes T13	DOID:9256
+T2	Biomarker 782 813	differentially expressed miRNAs
+R8	Association Arg1:T2 Arg2:T15	

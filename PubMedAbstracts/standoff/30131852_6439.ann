@@ -1,0 +1,61 @@
+T0	Disease 387 395	leukemia
+#1	AnnotatorNotes T0	DOID:1240
+T10	Disease 966 969	IBC
+T12	Gene-Protein 1075 1079	BP-1
+T16	Gene-Protein 1277 1281	BP-1
+T18	Disease 1319 1322	IBC
+T19	Disease 1327 1332	tumor
+#8	AnnotatorNotes T19	DOID:162
+T2	Disease 492 515	prostate adenocarcinoma
+#9	AnnotatorNotes T2	DOID:2526
+T20	Disease 1518 1521	IBC
+T22	Gene-Protein 1747 1750	Neu
+T23	Chemical 1752 1760	estrogen
+T25	Chemical 1779 1791	progesterone
+T5	Chemical 709 717	estrogen
+T6	Disease 709 740	estrogen negative breast cancer
+#16	AnnotatorNotes T6	DOID:0060076
+T9	Gene-Protein 848 852	BP-1
+T1	Gene-Protein 34 38	DLX4
+#2	AnnotatorNotes T1	HGNC:2917
+T3	Gene-Protein 78 81	BP1
+#4	AnnotatorNotes T3	HGNC:2917
+T4	Gene-Protein 86 90	DLX7
+#6	AnnotatorNotes T4	HGNC:2917
+T8	Gene-Protein 173 176	BP1
+T13	Gene-Protein 257 261	DXL7
+T15	Gene-Protein 457 461	DLX4
+T17	Biomarker 457 461	DLX4
+#7	AnnotatorNotes T17	C105304
+R1	Association Arg1:T17 Arg2:T2	
+T24	Gene-Protein 553 558	Ki-67
+#10	AnnotatorNotes T24	HGNC:7107
+T26	Biomarker 553 573	Ki-67 positive cells
+T27	Biomarker 610 668	over expression and/or gene amplification of the DLX4 gene
+T28	Gene-Protein 659 663	DLX4
+R3	Association Arg1:T27 Arg2:T6	
+T7	Gene-Protein 827 831	DLX4
+#12	AnnotatorNotes T9	HGNC:2917
+#13	AnnotatorNotes T10	DOID:6263
+T29	Biomarker 827 831	DLX4
+R4	Association Arg1:T29 Arg2:T10	
+T14	Collection 1319 1332	IBC and tumor
+T30	Biomarker 1277 1281	BP-1
+#5	AnnotatorNotes T30	C105304
+R5	Association Arg1:T30 Arg2:T14	
+T31	Gene-Protein 1499 1503	DLX4
+T21	Gene-Protein 1568 1572	DLX4
+T32	Gene-Protein 1742 1746	Her2
+#11	AnnotatorNotes T32	HGNC:3430
+#14	AnnotatorNotes T22	HGNC:3430
+T33	Gene-Protein 1752 1769	estrogen receptor
+#15	AnnotatorNotes T33	 HGNC:3467
+T34	Gene-Protein 1771 1773	ER
+#17	AnnotatorNotes T34	 HGNC:3467
+T35	Gene-Protein 1779 1800	progesterone receptor
+#18	AnnotatorNotes T35	HGNC:8910
+T36	Gene-Protein 1802 1804	PR
+#19	AnnotatorNotes T36	HGNC:8910
+T37	Gene-Protein 220 236	human b-globulin
+#20	AnnotatorNotes T37	HGNC:4827
+T38	Disease 1592 1595	IBC

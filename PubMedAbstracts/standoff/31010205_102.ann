@@ -1,0 +1,82 @@
+T1	Disease 40 57	Colorectal cancer
+#1	AnnotatorNotes T1	DOID:9256
+T10	Disease 315 318	CRC
+T12	Chemical 537 541	Ca²⁺
+T13	Disease 683 686	CRC
+T15	Biomarker 755 783	KCNN4 and TRPM2 were induced
+T16	Biomarker 790 825	KCNMA1 and TRPM6 were downregulated
+T17	Disease 829 834	tumor
+T18	Disease 884 890	tumors
+#7	AnnotatorNotes T18	DOID:162
+T19	Biomarker 892 924	STIM2 and KCNN2 were upregulated
+T2	Disease 59 62	CRC
+T20	Biomarker 931 965	ORAI2 and TRPM6 were downregulated
+T21	Biomarker 967 982	ORAI1 decreased
+T22	Disease 986 1014	lymph node metastatic tumors
+#9	AnnotatorNotes T22	DOID:10619
+T23	Biomarker 1016 1021	TRPC1
+T24	Biomarker 1026 1031	ORAI3
+T25	Disease 1060 1063	CRC
+T26	Biomarker 1098 1128	ORAI3/ORAI1 ratio is increased
+T27	Disease 1132 1135	CRC
+T3	Disease 88 94	cancer
+#13	AnnotatorNotes T3	DOID:162
+T30	Chemical 1199 1203	Ca²⁺
+T31	Disease 1248 1251	CRC
+T32	Chemical 1316 1319	KCa
+T33	Chemical 1324 1328	Ca²⁺
+T34	Disease 1352 1355	CRC
+T4	Chemical 96 100	Ca²⁺
+T5	Biomarker 96 119	Ca²⁺-dependent channels
+T6	Disease 157 162	tumor
+#20	AnnotatorNotes T6	DOID:162
+T7	Chemical 252 256	Ca²⁺
+T8	Chemical 270 274	Ca²⁺
+T9	Chemical 285 294	potassium
+R1	Association Arg1:T5 Arg2:T6	
+#2	AnnotatorNotes T2	DOID:9256
+T35	GeneFamily 96 119	Ca²⁺-dependent channels
+T36	GeneFamily 234 265	non-voltage gated Ca²⁺ channels
+T37	GeneFamily 270 303	Ca²⁺-dependent potassium channels
+T38	GeneFamily 305 308	KCa
+T39	GeneFamily 419 431	KCa channels
+T40	Gene-Protein 432 439	KCNN1–4
+T11	Gene-Protein 441 447	KCNMA1
+T41	Gene-Protein 467 475	KCNMB1–4
+T42	Gene-Protein 520 525	STIM1
+T43	Gene-Protein 530 535	STIM2
+T44	GeneFamily 537 550	Ca²⁺ channels
+T45	Gene-Protein 551 558	ORAI1–3
+T46	Gene-Protein 598 605	TRPC1–7
+T47	Gene-Protein 607 612	TRPA1
+T48	Gene-Protein 614 625	TRPV1/2,4–6
+T49	Gene-Protein 630 637	TRPM1–8
+T50	GeneFamily 577 596	cation channels TRP
+T14	Gene-Protein 755 760	KCNN4
+T51	Gene-Protein 765 770	TRPM2
+T52	Collection 755 825	KCNN4 and TRPM2 were induced while KCNMA1 and TRPM6 were downregulated
+T53	Gene-Protein 790 796	KCNMA1
+T54	Gene-Protein 801 806	TRPM6
+R2	Association Arg1:T52 Arg2:T17	
+T55	Gene-Protein 892 897	STIM2
+T56	Gene-Protein 902 907	KCNN2
+T57	Gene-Protein 931 936	ORAI2
+T58	Gene-Protein 941 946	TRPM6
+T59	Collection 892 965	STIM2 and KCNN2 were upregulated while ORAI2 and TRPM6 were downregulated
+R3	Association Arg1:T59 Arg2:T18	
+T60	Gene-Protein 967 972	ORAI1
+R4	Association Arg1:T21 Arg2:T22	
+T61	Gene-Protein 1026 1031	ORAI3
+T62	Gene-Protein 1016 1021	TRPC1
+T63	Collection 1016 1031	TRPC1 and ORAI3
+#3	AnnotatorNotes T23	C096351
+R5	Prognostic-Poor Arg1:T63 Arg2:T25	
+T64	Gene-Protein 1098 1103	ORAI3
+T65	Gene-Protein 1104 1109	ORAI1
+R6	Prognostic-Poor Arg1:T26 Arg2:T27	
+#4	AnnotatorNotes T24	C522867
+T67	GeneFamily 1191 1212	KCa and Ca²⁺ channels
+T68	Biomarker 1191 1212	KCa and Ca²⁺ channels
+R7	Association Arg1:T68 Arg2:T31	
+T28	GeneFamily 1316 1337	KCa and Ca²⁺ channels
+T29	Biomarker 1316 1348	KCa and Ca²⁺ channels remodeling

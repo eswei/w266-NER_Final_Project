@@ -1,0 +1,46 @@
+T0	Biomarker 51 71	non-genetic diseases
+T10	Disease 667 670	MFS
+T12	Chemical 725 736	glutathione
+T13	Disease 759 779	chronic inflammation
+#4	AnnotatorNotes T13	D007249
+T17	Chemical 923 937	thromboxane A₂
+T18	Chemical 939 943	TXA₂
+T19	Chemical 949 961	prostacyclin
+T2	Disease 92 105	aortic damage
+#9	AnnotatorNotes T2	DOID:520
+T21	Chemical 1079 1095	prostaglandin E₂
+T22	Chemical 1097 1101	PGE₂
+T23	Chemical 1104 1108	TXA₂
+T24	Disease 1146 1162	aortic aneurysms
+#13	AnnotatorNotes T24	DOID:3627
+T8	Disease 445 457	aortopathies
+R1	Association Arg1:T0 Arg2:T2	
+T1	Biomarker 180 196	Oxidative stress
+#1	AnnotatorNotes T1	D018384
+T3	Biomarker 197 199	OS
+#2	AnnotatorNotes T3	D018384
+T4	Biomarker 206 238	degree of inflammation and edema
+T5	Disease 276 336	aortic tissue damage associated with endothelial dysfunction
+#3	AnnotatorNotes T5	not found
+T6	Collection 180 238	Oxidative stress(OS), the degree of inflammation and edema
+R2	Association Arg1:T6 Arg2:T5	
+T9	Disease 592 605	aortic damage
+#6	AnnotatorNotes T10	DOID:14323
+T7	Biomarker 661 663	OS
+R3	Association Arg1:T7 Arg2:T10	
+T11	Biomarker 690 736	alterations in enzymes that employ glutathione
+R4	Association Arg1:T11 Arg2:T10	
+R5	Risk-Factor Arg1:T11 Arg2:T13	
+T14	GeneFamily 1014 1044	cyclooxygenase (COXs) isoforms
+#5	AnnotatorNotes T14	not found
+T15	Gene-Protein 1114 1118	IL-6
+#7	AnnotatorNotes T15	HGNC:6018
+T16	Biomarker 1069 1142	Levels of prostaglandin E₂ (PGE₂), TXA₂, and IL-6 were significant higher
+R6	Association Arg1:T16 Arg2:T24	
+T20	Biomarker 1187 1261	overexpression in the aneurysmal wall of the inflammatory cyclooxygenase 2
+T25	Gene-Protein 1245 1261	cyclooxygenase 2
+#8	AnnotatorNotes T25	HGNC:9605
+T26	Gene-Protein 1263 1267	COX2
+#10	AnnotatorNotes T26	HGNC:9605
+T27	Biomarker 429 431	OS
+#11	AnnotatorNotes T8	not found

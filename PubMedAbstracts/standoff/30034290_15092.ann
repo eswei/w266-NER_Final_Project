@@ -1,0 +1,76 @@
+T0	Disease 195 198	IMN
+T1	Disease 386 389	IMN
+T10	Disease 1421 1433	renal injury
+#3	AnnotatorNotes T10	DOID:1074
+T11	Disease 1484 1498	renal fibrosis
+#4	AnnotatorNotes T11	DOID:0050855
+T12	Disease 1528 1550	chronic kidney disease
+#5	AnnotatorNotes T12	DOID:784
+T13	Biomarker 1580 1594	renal fibrosis
+T14	Disease 1700 1718	proteinuria in IMN
+#7	AnnotatorNotes T14	DOID:576, DOID:10976
+T2	Disease 540 551	proteinuria
+#9	AnnotatorNotes T2	DOID:576
+T4	Disease 633 682	proteinuria in acute tubulointerstitial nephritis
+#11	AnnotatorNotes T4	DOID:576, C564356
+T5	Disease 828 831	IMN
+T7	Disease 1056 1059	IMN
+T8	Biomarker 1079 1090	proteinuria
+T9	Disease 1117 1142	tubulointerstitial damage
+#16	AnnotatorNotes T9	not found
+#1	AnnotatorNotes T0	DOID:10976
+T16	Gene-Protein 238 242	CD14
+#2	AnnotatorNotes T16	HGNC:1628
+T17	Gene-Protein 243 248	CD163
+#8	AnnotatorNotes T17	HGNC:1631
+T18	Biomarker 231 268	higher CD14⁺CD163⁺ M2 monocyte counts
+R1	Association Arg1:T18 Arg2:T0	
+T19	Gene-Protein 311 315	CD14
+T20	Gene-Protein 316 321	CD163
+T21	Gene-Protein 322 327	CD206
+#12	AnnotatorNotes T21	HGNC:7228
+T22	Biomarker 300 340	numbers of CD14⁺CD163⁺CD206⁺ M2 monocyte
+R2	Association Arg1:T22 Arg2:T1	
+T23	Gene-Protein 478 483	CD206
+T24	Biomarker 478 493	CD206⁺ M2 cells
+R3	Association Arg1:T24 Arg2:T2	
+T25	Gene-Protein 596 601	CD206
+A1	Conjunction T4
+T3	Biomarker 596 612	CD206⁺ monocytes
+R4	Association Arg1:T3 Arg2:T4	
+T26	Biomarker 734 779	increased CD14⁺CD163⁺CD206⁺ M2-like monocytes
+T27	Gene-Protein 744 748	CD14
+T28	Gene-Protein 755 760	CD206
+T29	Gene-Protein 749 754	CD163
+R5	Association Arg1:T26 Arg2:T5	
+T30	Disease 898 901	IMN
+T31	Biomarker 945 997	macrophage infiltration in tubulointerstitial lesion
+R6	Association Arg1:T31 Arg2:T7	
+#10	AnnotatorNotes T8	D011507
+R7	Association Arg1:T8 Arg2:T9	
+T6	Gene-Protein 1202 1206	CD14
+T32	Gene-Protein 1207 1212	CD163
+T33	Gene-Protein 1213 1218	CD206
+T34	Gene-Protein 1266 1270	IL-4
+#13	AnnotatorNotes T34	HGNC:6014
+T35	Gene-Protein 1275 1280	IL-13
+#14	AnnotatorNotes T35	HGNC:5973
+T36	Gene-Protein 1315 1318	IMN
+T37	Biomarker 1435 1447	M2 monocytes
+R8	Risk-Reduce Arg1:T37 Arg2:T10	
+T38	Biomarker 1507 1510	IMN
+T40	Drug 1616 1653	increased CD14⁺CD163⁺CD206⁺ monocytes
+T41	Gene-Protein 1626 1630	CD14
+T42	Gene-Protein 1631 1636	CD163
+T43	Gene-Protein 1637 1642	CD206
+A2	Conjunction T14
+#6	AnnotatorNotes T40	not found
+R11	Response Arg1:T40 Arg2:T14	
+T15	Biomarker 1460 1471	fibronectin
+#15	AnnotatorNotes T15	D005353
+R9	Association Arg1:T15 Arg2:T11	
+#17	AnnotatorNotes T38	D015433
+R10	Association Arg1:T38 Arg2:T12	
+R12	Association Arg1:T13 Arg2:T12	
+T39	Gene-Protein 1460 1471	fibronectin
+#18	AnnotatorNotes T39	HGNC: 3778

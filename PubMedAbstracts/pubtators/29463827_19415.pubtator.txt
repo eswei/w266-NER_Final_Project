@@ -1,0 +1,21 @@
+29463827_19415|t|RSS_IDENT_p_29463827_b_1_3_4
+29463827_19415|a| In our previous study, we established the first complete lncRNA expression microarray profile in seven pairs of LSCC tissues, which can be obtained from the National Center for Biotechnology Information (NCBI) Gene Expression Omnibus (GEO) by searching the accession number GSE59652 (<url>) ¹² . To verify the microarray result that AC026166.2-001 is down-regulated in LSCC tissues, we expanded the sample size to 87 paired surgical samples and metastatic neck lymph nodes. The final results showed that AC026166.2-001 is down-regulated in laryngeal cancer tissues compared with adjacent tissues and is reduced in metastatic cervical lymph nodes. There was no distinct relationship between AC026166.2-001 and clinicopathological features; however, survival data suggested that lower levels of AC026166.2-001 in tumor tissues were significantly correlated with poor prognosis. Additionally, AC026166.2-001 could be a potential biomarker for LSCC diagnosis as the area under the ROC curve was 0.65. Although down-regulated AC026166.2-001 has been demonstrated to contribute to the development of LSCC, its functional role in LSCC remains largely unknown. 
+29463827_19415	142	146	LSCC	Disease	DOID:2876
+29463827_19415	363	377	AC026166.2-001	Rna-noncoding	HGNC:51300
+29463827_19415	363	395	AC026166.2-001 is down-regulated	Biomarker
+29463827_19415	399	403	LSCC	Disease
+29463827_19415	534	548	AC026166.2-001	Rna-noncoding
+29463827_19415	534	566	AC026166.2-001 is down-regulated	Biomarker
+29463827_19415	570	586	laryngeal cancer	Disease	DOID:2596
+29463827_19415	720	734	AC026166.2-001	Rna-noncoding
+29463827_19415	807	837	lower levels of AC026166.2-001	Biomarker
+29463827_19415	823	837	AC026166.2-001	Rna-noncoding
+29463827_19415	841	846	tumor	Disease	DOID:162
+29463827_19415	920	934	AC026166.2-001	Rna-noncoding
+29463827_19415	920	934	AC026166.2-001	Biomarker
+29463827_19415	970	974	LSCC	Disease
+29463827_19415	1036	1065	down-regulated AC026166.2-001	Biomarker
+29463827_19415	1051	1065	AC026166.2-001	Rna-noncoding
+29463827_19415	1124	1128	LSCC	Disease
+29463827_19415	1153	1157	LSCC	Disease
+

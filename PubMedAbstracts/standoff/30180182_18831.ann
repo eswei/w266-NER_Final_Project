@@ -1,0 +1,61 @@
+T11	Variant 571 580	rs2106261
+T13	Chemical 655 662	calcium
+T14	Disease 740 742	AF
+T2	Disease 127 129	AF
+T21	Disease 1364 1366	AF
+T22	Disease 1398 1411	paroxysmal AF
+T24	Disease 1460 1462	AF
+T26	Disease 1559 1561	AF
+T27	Disease 1573 1586	paroxysmal AF
+T3	Disease 166 168	AF
+T6	Disease 217 219	AF
+T7	Disease 283 285	AF
+T4	Biomarker 66 102	ZFHX3 SNP rs2106261 minor allele (T)
+R1	Association Arg1:T4 Arg2:T2	
+T1	Gene-Protein 460 465	ZFHX3
+T8	Gene-Protein 183 188	ZFHX3
+T10	Gene-Protein 1426 1431	ZFHX3
+T12	Gene-Protein 1510 1515	ZFHX3
+T15	Gene-Protein 809 814	ZFHX3
+T16	Gene-Protein 858 863	ZFHX3
+T17	Gene-Protein 1601 1606	ZFHX3
+T18	Gene-Protein 1268 1273	ZFHX3
+T20	Gene-Protein 561 566	ZFHX3
+T23	Gene-Protein 915 920	PITX2
+T25	Biomarker 1268 1287	ZFHX3 SNP rs2106261
+T28	Biomarker 1113 1136	Overexpression of PITX2
+T30	Gene-Protein 66 71	ZFHX3
+#1	AnnotatorNotes T30	HGNC:777
+#3	AnnotatorNotes T2	DOID:0060224
+T32	Biomarker 183 202	ZFHX3 SNP rs2106261
+R3	Association Arg1:T32 Arg2:T6	
+T5	Gene-Protein 592 597	ZFHX3
+T33	Gene-Protein 823 828	PITX2
+#4	AnnotatorNotes T33	HGNC:9005
+T36	Gene-Protein 1131 1136	PITX2
+R4	Variant-Of Arg1:T20 Arg2:T11	
+T37	Biomarker 444 479	minor allele of ZFHX3 SNP rs2106261
+T38	Biomarker 505 513	high BMI
+T39	Gene-Protein 885 891	PITX2c
+#5	AnnotatorNotes T39	HGNC:9005
+T40	Biomarker 858 863	ZFHX3
+T41	Biomarker 885 891	PITX2c
+T42	Gene-Protein 1301 1307	PITX2c
+T31	Gene-Protein 1533 1539	PITX2c
+#2	AnnotatorNotes T22	DOID:0060224
+T29	Variant 1516 1519	SNP
+R5	Variant-Of Arg1:T12 Arg2:T29	
+T43	Biomarker 1601 1623	ZFHX3 SNP minor allele
+#6	AnnotatorNotes T40	C071660
+#7	AnnotatorNotes T41	C102447
+T44	Variant 815 818	SNP
+R6	Variant-Of Arg1:T15 Arg2:T44	
+T35	Variant 829 832	SNP
+R7	Variant-Of Arg1:T33 Arg2:T35	
+T34	Drug 592 607	ZFHX3 knockdown
+#8	AnnotatorNotes T34	not found
+R2	Causes Arg1:T34 Arg2:T14	
+R8	Association Arg1:T25 Arg2:T21	
+T45	Biomarker 1426 1448	ZFHX3 SNP minor allele
+R9	Prognostic-Good Arg1:T45 Arg2:T22	
+R10	Association Arg1:T43 Arg2:T27	

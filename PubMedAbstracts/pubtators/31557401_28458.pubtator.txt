@@ -1,0 +1,35 @@
+31557401_28458|t|RSS_IDENT_p_31557401_b_1_4_4
+31557401_28458|a| In the present study, we identified another lncRNA LINC01133 and founded that its expression was significantly reduced in breast cancer tissues compared with those in the corresponding non‐cancerous tissues. Down‐regulated LINC01133 expression was remarkably associated with progression and poor prognosis in breast cancer patients. Moreover, down‐regulated expression of LINC01133 can be regarded as an independent prognostic indicator for breast cancer patients. These data implied that LINC01133 may have a critical role in the breast cancer progression. Previous studies have reported that LINC01133 was down‐regulated in colorectal cancer.13, 14 However, Zang et al15 reported that LINC01133 was upregulated in non‐small cell lung cancer. These findings are probably because lncRNAs exhibit a more remarkably tissue‐specific expression pattern than protein‐coding genes.27, 28 And, these data also indicated that LINC01133 had such tissue‐specific expression pattern. To further explore the role of LINC01133 in breast cancer, loss of function assays was performed and found that LINC01133 could promote breast cancer cell migration and invasion in vitro and facilitate breast cancer metastasis in vivo. Conversely, the overexpression of LIC01133 can impair breast cancer cell migration and invasion in vitro. These data indicated that LINC01133 may function as anti‐oncogene and might play vital biological role in the development of breast cancer. 
+31557401_28458	81	90	LINC01133	Rna-noncoding	HGNC:49447
+31557401_28458	81	148	LINC01133 and founded that its expression was significantly reduced	Biomarker
+31557401_28458	152	165	breast cancer	Disease	DOID:1612
+31557401_28458	238	273	Down‐regulated LINC01133 expression	Biomarker
+31557401_28458	253	262	LINC01133	Rna-noncoding
+31557401_28458	339	352	breast cancer	Disease
+31557401_28458	373	411	down‐regulated expression of LINC01133	Biomarker
+31557401_28458	402	411	LINC01133	Rna-noncoding
+31557401_28458	471	484	breast cancer	Disease
+31557401_28458	519	528	LINC01133	Rna-noncoding
+31557401_28458	519	528	LINC01133	Biomarker	C000621545
+31557401_28458	561	574	breast cancer	Disease
+31557401_28458	624	633	LINC01133	Rna-noncoding
+31557401_28458	624	652	LINC01133 was down‐regulated	Biomarker
+31557401_28458	656	673	colorectal cancer	Disease	DOID:9256
+31557401_28458	717	726	LINC01133	Rna-noncoding
+31557401_28458	717	742	LINC01133 was upregulated	Biomarker
+31557401_28458	746	772	non‐small cell lung cancer	Disease	DOID:3908
+31557401_28458	948	957	LINC01133	Rna-noncoding
+31557401_28458	1034	1043	LINC01133	Rna-noncoding
+31557401_28458	1034	1043	LINC01133	Biomarker
+31557401_28458	1047	1060	breast cancer	Disease
+31557401_28458	1115	1124	LINC01133	Rna-noncoding
+31557401_28458	1115	1124	LINC01133	Biomarker
+31557401_28458	1139	1152	breast cancer	Disease
+31557401_28458	1205	1218	breast cancer	Disease
+31557401_28458	1255	1281	overexpression of LIC01133	Drug	not found
+31557401_28458	1273	1281	LIC01133	Rna-noncoding
+31557401_28458	1293	1306	breast cancer	Disease
+31557401_28458	1371	1380	LINC01133	Rna-noncoding
+31557401_28458	1371	1380	LINC01133	Biomarker
+31557401_28458	1470	1483	breast cancer	Disease
+

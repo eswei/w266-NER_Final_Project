@@ -1,0 +1,69 @@
+T10	Drug 627 636	cisplatin
+T11	Disease 652 666	ovarian cancer
+#2	AnnotatorNotes T11	DOID:2394
+T17	Disease 1206 1209	ALI
+T18	Drug 1317 1320	AZA
+T2	Drug 256 266	paclitaxel
+T3	Drug 268 271	PTX
+T4	Gene-Protein 315 348	Yamaguchi sarcoma viral homolog 1
+#8	AnnotatorNotes T4	HGNC:12841
+T5	Disease 359 374	prostate cancer
+#9	AnnotatorNotes T5	DOID:10283
+T8	Disease 403 417	gastric cancer
+#11	AnnotatorNotes T8	DOID:10534
+T1	RNA-Noncoding 47 58	miR-199a-3p
+#1	AnnotatorNotes T1	not found
+T7	Biomarker 47 58	miR-199a-3p
+#4	AnnotatorNotes T7	C531408
+T9	Biomarker 214 240	downregulation of miR-199a
+T12	GeneFamily 232 240	miR-199a
+#5	AnnotatorNotes T12	not found
+#6	AnnotatorNotes T2	CHEMBL428647
+#7	AnnotatorNotes T3	CHEMBL428647
+T6	Gene-Protein 350 354	YES1
+#10	AnnotatorNotes T6	HGNC:12841
+R1	Mediated-Non-Response Arg1:T2 Arg2:T5	
+R2	Mediator Arg1:T2 Arg2:T9	
+T13	RNA-Noncoding 380 393	MiR-199a/b-3p
+#12	AnnotatorNotes T13	not found, HGNC:31573
+T15	Drug 380 393	MiR-199a/b-3p
+#13	AnnotatorNotes T15	C531408, C531408
+R3	Response Arg1:T15 Arg2:T8	
+T16	Gene-Protein 460 464	PAK4
+#14	AnnotatorNotes T16	HGNC:16059
+T19	Gene-Protein 466 488	p21 activated kinase 4
+#15	AnnotatorNotes T19	HGNC:16059
+T20	GeneFamily 495 534	mitogen-activated protein kinase kinase
+#16	AnnotatorNotes T20	family:653
+T21	GeneFamily 490 493	MEK
+#17	AnnotatorNotes T21	family:653
+T22	GeneFamily 536 540	MAPK
+#18	AnnotatorNotes T22	family:651
+T23	Gene-Protein 542 576	mitogen-activated protein kinase 1
+T24	RNA-Noncoding 601 612	MiR-199a-3p
+T25	Drug 601 612	MiR-199a-3p
+#19	AnnotatorNotes T25	C531408
+#20	AnnotatorNotes T10	CHEMBL11359
+R4	Synergy-Response Arg1:T25 Arg2:T11	
+R5	Synergy-Response Arg1:T10 Arg2:T11	
+T26	Gene-Protein 691 696	ITGB8
+#21	AnnotatorNotes T26	HGNC:6163
+T27	Gene-Protein 698 721	Integrin subunit Beta 8
+#22	AnnotatorNotes T27	HGNC:6163
+T28	Biomarker 739 764	MiR-199a is downregulated
+T29	RNA-Noncoding 739 747	MiR-199a
+T14	Biomarker 843 858	increased SIRT1
+T30	Gene-Protein 853 858	SIRT1
+#3	AnnotatorNotes T30	HGNC:14929
+T31	Gene-Protein 860 869	Sirtuin 1
+#23	AnnotatorNotes T31	HGNC:14929
+T32	RNA-Noncoding 918 929	miR-199a-3p
+T33	Biomarker 1111 1142	miR-199a-3p aberrant expression
+T34	RNA-Noncoding 1111 1122	miR-199a-3p
+T35	RNA-Noncoding 1176 1187	miR-199a-3p
+T36	Biomarker 1176 1202	miR-199a-3p downregulation
+#24	AnnotatorNotes T17	D055371
+R6	Association Arg1:T36 Arg2:T17	
+T37	Drug-Class 1291 1316	DNA methylation inhibitor
+#25	AnnotatorNotes T18	CHEMBL1201129
+#26	AnnotatorNotes T23	HGNC:6871

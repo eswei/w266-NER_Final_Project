@@ -1,0 +1,80 @@
+T1	Drug 65 74	cisplatin
+T12	Drug-Class 542 570	cisplatin-based chemotherapy
+T13	Disease 625 650	epithelial ovarian cancer
+#4	AnnotatorNotes T13	DOID:2152
+T14	Drug 747 756	cisplatin
+T15	Disease 778 784	cancer
+T16	Drug 801 810	cisplatin
+T17	Disease 835 846	lung cancer
+T2	Drug 160 169	cisplatin
+T24	Disease 991 997	cancer
+#10	AnnotatorNotes T24	DOID:162
+T25	Drug 1075 1084	cisplatin
+T26	Disease 1108 1119	lung cancer
+T27	Drug 1142 1151	cisplatin
+T28	Disease 1178 1197	lung adenocarcinoma
+#14	AnnotatorNotes T28	DOID:3910
+T29	Drug 1268 1277	cisplatin
+T3	Disease 191 197	cancer
+#16	AnnotatorNotes T3	DOID:162
+T30	Disease 1287 1306	lung adenocarcinoma
+T5	Drug 313 322	cisplatin
+T6	Disease 337 351	ovarian cancer
+#19	AnnotatorNotes T6	DOID:2394
+T8	Disease 405 416	lung cancer
+#20	AnnotatorNotes T8	DOID:1324
+T9	Drug 426 435	cisplatin
+T4	Drug-Class 30 50	Platinum-based drugs
+T7	Drug-Class 91 103	chemotherapy
+#1	AnnotatorNotes T1	CHEMBL11359
+T10	Gene-Protein 245 282	insulin like growth factor 1 receptor
+#2	AnnotatorNotes T10	HGNC:5465
+T11	RNA-Noncoding 287 295	miR-1294
+#3	AnnotatorNotes T11	HGNC:35287
+R1	Mediated-Non-Response Arg1:T5 Arg2:T6	
+T19	RNA-Noncoding 360 367	miR-539
+#7	AnnotatorNotes T19	HGNC:32529
+T20	Biomarker 360 367	miR-539
+#9	AnnotatorNotes T20	C552081
+R3	Mediated-Non-Response Arg1:T9 Arg2:T8	
+R4	Mediator Arg1:T9 Arg2:T20	
+T21	Gene-Protein 468 473	DCLK1
+#11	AnnotatorNotes T21	 HGNC:2700
+T22	RNA-Noncoding 482 489	miR-363
+#13	AnnotatorNotes T22	  HGNC:32023
+T23	Biomarker 482 489	miR-363
+#15	AnnotatorNotes T23	C574861
+T31	Gene-Protein 574 579	snail
+#18	AnnotatorNotes T31	HGNC:11128
+T32	RNA-Noncoding 912 918	miR-93
+#6	AnnotatorNotes T32	HGNC:31645
+T33	RNA-Noncoding 920 927	miR-26a
+#8	AnnotatorNotes T33	not found
+T34	RNA-Noncoding 929 936	miR-26b
+#21	AnnotatorNotes T34	HGNC:31612
+T35	RNA-Noncoding 938 945	miR-29a
+#22	AnnotatorNotes T35	HGNC:31616
+T36	RNA-Noncoding 947 954	miR-29c
+#23	AnnotatorNotes T36	HGNC:31621
+T37	RNA-Noncoding 959 966	miR-125
+#24	AnnotatorNotes T37	not found
+T38	Biomarker 959 966	miR-125
+#25	AnnotatorNotes T38	C531888
+T39	Biomarker 947 954	miR-29c
+#26	AnnotatorNotes T39	C532045
+T40	Biomarker 938 945	miR-29a
+#27	AnnotatorNotes T40	C532045
+T41	Biomarker 929 936	miR-26b
+T42	Biomarker 920 927	miR-26a
+#28	AnnotatorNotes T42	C528163
+T43	Biomarker 912 918	miR-93
+#29	AnnotatorNotes T43	C543350
+T44	Collection 912 966	miR-93, miR-26a, miR-26b, miR-29a, miR-29c and miR-125
+R5	Association Arg1:T44 Arg2:T24	
+R6	Response Arg1:T27 Arg2:T28	
+R7	Response Arg1:T29 Arg2:T30	
+T45	RNA-Noncoding 1378 1384	miR-93
+T46	RNA-Noncoding 1389 1396	miR-26a
+T47	Biomarker 220 295	epigenetic regulation of insulin like growth factor 1 receptor via miR-1294
+R2	Mediator Arg1:T5 Arg2:T47	
+#12	AnnotatorNotes T41	C528163

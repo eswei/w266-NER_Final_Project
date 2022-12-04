@@ -1,0 +1,84 @@
+T0	Disease 237 244	cancers
+#1	AnnotatorNotes T0	DOID:162
+T10	Gene-Protein 818 821	CEA
+T11	Disease 913 919	tumour
+#3	AnnotatorNotes T11	DOID:162
+T12	Disease 969 975	cancer
+#4	AnnotatorNotes T12	DOID:14566|DOID:162
+T15	Disease 1095 1102	tumours
+#6	AnnotatorNotes T15	DOID:162
+T16	Disease 1137 1142	NSCLC
+T17	Disease 1144 1161	gastric carcinoma
+#8	AnnotatorNotes T17	DOID:5517
+T18	Disease 1166 1183	colorectal cancer
+#9	AnnotatorNotes T18	DOID:9256
+T19	Disease 1211 1217	tumour
+T21	Disease 1263 1268	NSCLC
+T23	Disease 1511 1517	cancer
+T25	Disease 1644 1662	malignant features
+#13	AnnotatorNotes T25	DOID:1909
+T27	Disease 1749 1754	NSCLC
+T28	Disease 1914 1919	NSCLC
+T3	Disease 474 480	cancer
+#16	AnnotatorNotes T3	DOID:162
+T5	Disease 563 575	colon cancer
+#17	AnnotatorNotes T5	DOID:219
+T6	Disease 588 613	colon and prostate cancer
+#18	AnnotatorNotes T6	DOID:219,DOID:10283
+T8	Disease 689 694	NSCLC
+#19	AnnotatorNotes T8	DOID:3908
+T1	Gene-Protein 83 94	E-selectins
+#2	AnnotatorNotes T1	HGNC:10721
+T2	Gene-Protein 651 661	E-selectin
+T4	Gene-Protein 793 803	E-selectin
+T7	Gene-Protein 496 500	CD44
+#11	AnnotatorNotes T7	HGNC:1681
+T9	Gene-Protein 520 559	hematopoietic cell E-/L-selectin ligand
+#20	AnnotatorNotes T9	HGNC:1681
+T14	Gene-Protein 1885 1895	E-selectin
+T20	Biomarker 1587 1614	CEA-E-selectin interactions
+T22	Gene-Protein 1875 1878	CEA
+T24	Gene-Protein 581 584	CEA
+#10	AnnotatorNotes T24	HGNC:1819
+T26	Gene-Protein 414 424	E-selectin
+T29	Gene-Protein 734 737	CEA
+T30	Gene-Protein 988 991	CEA
+T31	Gene-Protein 1242 1245	CEA
+T32	Gene-Protein 1673 1676	CEA
+T33	Gene-Protein 1587 1590	CEA
+T34	Gene-Protein 1591 1601	E-selectin
+T35	Gene-Protein 1423 1426	CEA
+T36	Biomarker 286 324	sLeˣ/sLeᵃ -decorated protein scaffolds
+R1	Association Arg1:T20 Arg2:T25	
+T37	Biomarker 402 432	carriers of E-selectin ligands
+T38	Biomarker 651 669	E-selectin ligands
+R2	Association Arg1:T37 Arg2:T3	
+T39	Biomarker 496 510	CD44 glycoform
+T40	Biomarker 581 584	CEA
+R4	Association Arg1:T40 Arg2:T6	
+R3	Association Arg1:T39 Arg2:T5	
+T41	Gene-Protein 840 861	endothelial selectins
+T42	Biomarker 818 861	CEA interactions with endothelial selectins
+T13	Biomarker 1423 1426	CEA
+R5	Association Arg1:T13 Arg2:T23	
+T43	Biomarker 1236 1245	Serum CEA
+R6	Prognostic-Poor Arg1:T43 Arg2:T21	
+T44	Collection 1095 1217	tumours with epithelial origin, including NSCLC, gastric carcinoma and colorectal cancer, for which it is used as a tumour
+T45	Biomarker 988 1091	CEA is a glycoprotein with low and limited expression in normal tissues, but is detected at high levels
+R7	Association Arg1:T45 Arg2:T44	
+T46	Collection 913 975	tumour cells to the endothelium, consequently promoting cancer
+R8	Association Arg1:T42 Arg2:T46	
+#5	AnnotatorNotes T26	HGNC:10721
+#7	AnnotatorNotes T40	C548518
+#12	AnnotatorNotes T39	C497483
+T47	Biomarker 1681 1690	sLeˣ/sLeᵃ
+T48	Collection 1673 1690	CEA and sLeˣ/sLeᵃ
+T49	Biomarker 1673 1676	CEA
+R9	Association Arg1:T48 Arg2:T27	
+T50	Biomarker 1854 1902	sLeˣ/sLeᵃ-associated CEA as an E-selectin ligand
+R10	Association Arg1:T50 Arg2:T28	
+T51	Biomarker 1285 1314	advanced stage of the disease
+T52	Biomarker 1316 1341	poor therapeutic response
+T53	Biomarker 1343 1356	early relapse
+T54	Biomarker 1361 1377	shorter survival
+#14	AnnotatorNotes T41	HGNC:10721

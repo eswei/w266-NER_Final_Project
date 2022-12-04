@@ -1,0 +1,87 @@
+T1	Biomarker 42 69	reduced miR-181a expression
+T10	Biomarker 469 508	CARD11 was mutated and highly expressed
+T11	Disease 512 521	ABC DLBCL
+#1	AnnotatorNotes T11	not found
+T12	Gene-Protein 648 652	API2
+T13	Biomarker 703 742	high CARD11 mRNA and protein expression
+T14	Disease 776 781	DLBCL
+T15	Biomarker 819 853	overexpression of CARD11 and CARD9
+T16	Disease 874 892	gastric B lymphoma
+#4	AnnotatorNotes T16	DOID:10540
+T17	Biomarker 922 959	loss of function screen of 2500 genes
+T18	Disease 963 968	DLBCL
+T19	Collection 984 1009	CARD11, MALT1, and BCL-10
+T20	Disease 1034 1039	tumor
+T21	Biomarker 1077 1083	CARD11
+T23	Disease 1106 1115	ABC-DLBCL
+#9	AnnotatorNotes T23	not found
+T25	Biomarker 1134 1159	higher CARD11 mRNA levels
+T27	Disease 1177 1186	ABC-DLBCL
+T29	Disease 1217 1226	GCB-DLBCL
+T3	Disease 77 91	ABC-type DLBCL
+T30	Disease 1332 1341	ABC-DLBCL
+T31	Biomarker 1362 1386	CARD11 is only expressed
+T33	Disease 1451 1460	ABC-DLBCL
+T4	Biomarker 107 126	miR-181b expression
+T7	Drug 207 243	exogenous overexpression of miR-181a
+T8	Disease 268 273	tumor
+#22	AnnotatorNotes T8	DOID:162
+T9	Chemical 376 385	guanylate
+T2	RNA-Noncoding 50 58	miR-181a
+#2	AnnotatorNotes T2	HGNC:31549
+R1	Association Arg1:T1 Arg2:T3	
+#3	AnnotatorNotes T3	not found
+T35	RNA-Noncoding 107 115	miR-181b
+#5	AnnotatorNotes T35	not found
+T36	RNA-Noncoding 235 243	miR-181a
+#6	AnnotatorNotes T7	not found
+R2	Response Arg1:T7 Arg2:T8	
+T37	Gene-Protein 295 301	CARD11
+#10	AnnotatorNotes T37	HGNC:16393
+T38	Gene-Protein 303 309	CARD11
+T39	GeneFamily 356 392	membrane-associated guanylate kinase
+#13	AnnotatorNotes T39	family:904
+T40	GeneFamily 437 440	BCR
+#14	AnnotatorNotes T40	not found
+T41	GeneFamily 445 448	TCR
+#15	AnnotatorNotes T41	family:370
+T42	Gene-Protein 469 475	CARD11
+R3	Association Arg1:T10 Arg2:T11	
+T43	GeneFamily 551 556	NF-κB
+#19	AnnotatorNotes T43	family:1254
+T44	Gene-Protein 642 646	BCL2
+#20	AnnotatorNotes T44	HGNC:990
+#21	AnnotatorNotes T12	HGNC:591
+T45	Gene-Protein 658 662	BCLX
+#23	AnnotatorNotes T45	HGNC:992
+T46	Gene-Protein 708 714	CARD11
+#24	AnnotatorNotes T14	DOID:0050745
+R4	Association Arg1:T13 Arg2:T14	
+R5	Association Arg1:T15 Arg2:T16	
+T47	Gene-Protein 837 843	CARD11
+T48	Gene-Protein 848 853	CARD9
+#25	AnnotatorNotes T48	HGNC:16391
+R6	Association Arg1:T17 Arg2:T18	
+T49	Gene-Protein 984 990	CARD11
+T50	Biomarker 984 990	CARD11
+#7	AnnotatorNotes T50	C426242
+T51	Gene-Protein 992 997	MALT1
+#26	AnnotatorNotes T51	HGNC:6819
+T52	Biomarker 992 997	MALT1
+#27	AnnotatorNotes T52	D000074884
+T53	Gene-Protein 1003 1009	BCL-10
+#28	AnnotatorNotes T53	HGNC:993
+T54	Biomarker 1003 1009	BCL-10
+#29	AnnotatorNotes T54	D000074018
+R7	Association Arg1:T19 Arg2:T18	
+T55	Gene-Protein 1077 1083	CARD11
+R8	Association Arg1:T21 Arg2:T23	
+T22	Gene-Protein 1141 1147	CARD11
+R9	Association Arg1:T25 Arg2:T27	
+T24	Gene-Protein 1261 1267	CARD11
+T26	Gene-Protein 1298 1303	BCL10
+T28	GeneFamily 1314 1317	IKK
+#8	AnnotatorNotes T28	family:1817
+T56	Gene-Protein 1362 1368	CARD11
+R10	Association Arg1:T31 Arg2:T33	
+#11	AnnotatorNotes T29	not found

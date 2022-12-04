@@ -1,0 +1,47 @@
+T1	Chemical 43 70	γ-glutamyl-cysteinylglycine
+T10	Chemical 816 819	GSH
+T11	Chemical 936 947	glutathione
+T12	Chemical 1009 1028	reduced glutathione
+T13	Chemical 1030 1033	GSH
+T14	Chemical 1053 1073	oxidized glutathione
+T15	Chemical 1075 1079	GSSG
+T16	Chemical 1172 1183	glutathione
+T17	Disease 1224 1237	hyperglycemia
+#10	AnnotatorNotes T17	DOID:4195
+T18	Chemical 1466 1477	glutathione
+T19	Disease 1501 1509	diabetic
+#12	AnnotatorNotes T19	not found
+T2	Chemical 240 251	glutathione
+T3	Chemical 253 256	GSH
+T4	Disease 302 317	type 2 diabetes
+#15	AnnotatorNotes T4	DOID:9352
+T5	Chemical 377 388	glutathione
+T6	Disease 403 418	type 2 diabetes
+T7	Chemical 487 490	GSH
+T8	Disease 580 601	uncontrolled diabetes
+#19	AnnotatorNotes T8	not found
+T9	Chemical 714 717	GSH
+T20	Disease 157 173	oxidative stress
+#1	AnnotatorNotes T20	D018384
+T21	Drug 30 41	Glutathione
+#2	AnnotatorNotes T21	D005978
+R1	Response Arg1:T21 Arg2:T20	
+T22	Biomarker 228 284	erythrocyte glutathione (GSH) concentration is decreased
+R2	Association Arg1:T22 Arg2:T4	
+T23	Biomarker 377 399	glutathione deficiency
+R3	Association Arg1:T23 Arg2:T6	
+T24	Biomarker 487 505	GSH synthesis rate
+R4	Association Arg1:T24 Arg2:T8	
+T25	Biomarker 807 833	reducing GSH concentration
+T26	Disease 872 887	type 2 diabetes
+T27	Biomarker 918 954	total erythrocyte glutathione levels
+T28	Biomarker 992 1048	concentration of reduced glutathione (GSH) was decreased
+T29	Biomarker 1053 1099	oxidized glutathione (GSSG) levels were higher
+T30	Collection 992 1099	concentration of reduced glutathione (GSH) was decreased and oxidized glutathione (GSSG) levels were higher
+R5	Association Arg1:T30 Arg2:T26	
+T31	Biomarker 1163 1194	impaired glutathione metabolism
+T32	Disease 1301 1317	oxidative stress
+T33	Biomarker 1364 1391	microvascular complications
+R6	Association Arg1:T33 Arg2:T32	
+T34	Biomarker 1452 1488	more impaired glutathione metabolism
+R7	Association Arg1:T31 Arg2:T17	

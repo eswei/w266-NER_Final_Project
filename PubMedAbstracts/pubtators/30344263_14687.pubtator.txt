@@ -1,0 +1,38 @@
+30344263_14687|t|RSS_IDENT_p_30344263_b_1_4_3
+30344263_14687|a| Here, we observed slight deviations from the Hardy-Weinberg equilibrium in rs6323 of ADHD girls and ADHD-C girls (p < 0.05). It is known that a deviation from the Hardy-Weinberg equilibrium in the case group presents a genetic association with disease [ 37 ]. Thus, it implies the significant role of the rs6323 polymorphism on the occurrence of ADHD in Korean girls. We observed significant differences in the genetic models of MAOA gene rs6323 polymorphism between ADHD girls and control girls (p < 0.05) (Table 2). The frequency of the rs6323 TT genotype was higher in the control girls than in the ADHD girls (ADHD girls: 7.5% and control girls: 20.6%) and the frequencies of the rs6323 genotype and allele in the control girls were consistent with the previous study [ 14 ]. The rs6323 was located in the exon 8 of MAOA gene, which makes an amino acid change from valine to phenylalanine [ 38 ]. It has been reported that the rs6323 gene polymorphism was associated with high (G allele) and low (T allele) MAOA enzyme activity [ 26 ]. Xu et al. (2007) found that the rs6323 G allele frequency was higher in ADHD children when compared to the controls [ 24 ]. Domschke et al. (2005) also observed a significantly increased transmission of rs6323 G allele in ADHD cases [ 39 ]. In particular, the study reported that the increased MAOA enzyme activity led to dopamine deficiency and ADHD. These findings are consistent with the general hypothesis that the imbalance of dopamine levels contribute to the development of ADHD. Therefore, our result implies that the rs6323 TT genotype would be a protective factor against ADHD in Korean girls. 
+30344263_14687	105	111	rs6323	Biomarker
+30344263_14687	115	119	ADHD	Disease	DOID:1094
+30344263_14687	115	136	ADHD girls and ADHD-C	Collection
+30344263_14687	130	136	ADHD-C	Disease	not found
+30344263_14687	335	354	rs6323 polymorphism	Biomarker
+30344263_14687	376	380	ADHD	Disease
+30344263_14687	459	463	MAOA	Gene-protein	HGNC:6833
+30344263_14687	459	488	MAOA gene rs6323 polymorphism	Biomarker
+30344263_14687	497	501	ADHD	Disease
+30344263_14687	569	598	rs6323 TT genotype was higher	Biomarker
+30344263_14687	632	636	ADHD	Disease
+30344263_14687	644	648	ADHD	Disease
+30344263_14687	714	720	rs6323	Variant
+30344263_14687	814	820	rs6323	Variant
+30344263_14687	850	854	MAOA	Gene-protein
+30344263_14687	876	886	amino acid	Chemical
+30344263_14687	899	905	valine	Chemical
+30344263_14687	909	922	phenylalanine	Chemical
+30344263_14687	961	967	rs6323	Variant
+30344263_14687	1041	1045	MAOA	Gene-protein
+30344263_14687	1102	1138	rs6323 G allele frequency was higher	Biomarker
+30344263_14687	1142	1146	ADHD	Disease
+30344263_14687	1233	1288	significantly increased transmission of rs6323 G allele	Biomarker
+30344263_14687	1292	1296	ADHD	Disease
+30344263_14687	1354	1384	increased MAOA enzyme activity	Biomarker
+30344263_14687	1364	1368	MAOA	Gene-protein
+30344263_14687	1392	1400	dopamine	Chemical
+30344263_14687	1392	1411	dopamine deficiency	Disease	not found
+30344263_14687	1392	1420	dopamine deficiency and ADHD	Collection
+30344263_14687	1416	1420	ADHD	Disease
+30344263_14687	1489	1517	imbalance of dopamine levels	Biomarker
+30344263_14687	1502	1510	dopamine	Chemical
+30344263_14687	1551	1555	ADHD	Disease
+30344263_14687	1596	1614	rs6323 TT genotype	Biomarker
+30344263_14687	1652	1656	ADHD	Disease
+

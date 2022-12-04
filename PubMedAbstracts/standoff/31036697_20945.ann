@@ -1,0 +1,105 @@
+T0	Disease 60 64	CPFE
+T1	Disease 137 141	CPFE
+T10	Chemical 837 847	nucleoside
+T11	Chemical 895 904	adenosine
+T12	Chemical 968 977	adenosine
+T13	Disease 1014 1025	lung injury
+#6	AnnotatorNotes T13	D055370
+T15	Disease 1102 1106	CPFE
+T16	Biomarker 1117 1165	downward trend for ENT2 (SLC29A2) in lower lobes
+T17	Disease 1169 1173	CPFE
+T19	Chemical 1212 1221	adenosine
+T2	Chemical 291 300	adenosine
+T20	Disease 1309 1313	CPFE
+T21	Biomarker 1348 1407	increased expression of ADORA2B was detected in lower lobes
+T22	Disease 1411 1415	CPFE
+T23	Disease 1611 1615	CPFE
+T24	Disease 1693 1697	CPFE
+T25	Disease 1711 1732	chronic lung diseases
+#15	AnnotatorNotes T25	not found
+T26	Chemical 1770 1779	adenosine
+T27	Biomarker 1770 1866	adenosine synthesis is increased, together with expression of its low-affinity receptor, ADORA2B
+T28	Disease 1906 1910	CPFE
+T3	Chemical 317 326	adenosine
+T31	Disease 2102 2106	CPFE
+T33	Disease 2195 2199	CPFE
+T34	Disease 2302 2306	CPFE
+T4	Disease 341 345	CPFE
+T5	Biomarker 347 387	upper lobes often present with emphysema
+T7	Biomarker 397 449	fibrotic deposition is more prevalent in lower lobes
+T8	Disease 662 666	CPFE
+T9	GeneFamily 823 860	Equilibrative nucleoside transporters
+#1	AnnotatorNotes T0	DOID:3770, DOID:9675
+T36	GeneFamily 317 336	adenosine receptors
+#2	AnnotatorNotes T36	family:211
+T6	Collection 347 449	upper lobes often present with emphysema, whereas fibrotic deposition is more prevalent in lower lobes
+R1	Association Arg1:T6 Arg2:T4	
+T37	Gene-Protein 497 501	CD39
+#3	AnnotatorNotes T37	HGNC:3363
+T38	Gene-Protein 503 509	ENTPD1
+#4	AnnotatorNotes T38	HGNC:3363
+T39	Gene-Protein 521 525	NT5E
+#5	AnnotatorNotes T39	HGNC:8021
+T40	Gene-Protein 515 519	CD73
+#7	AnnotatorNotes T40	HGNC:8021
+T41	Gene-Protein 601 605	CD73
+T42	Biomarker 552 633	increased expression of the rate limiting enzyme CD73 but not CD39 in lower lobes
+T43	Gene-Protein 614 618	CD39
+R2	Association Arg1:T42 Arg2:T8	
+T44	Gene-Protein 739 742	ADA
+#8	AnnotatorNotes T44	HGNC:186
+#9	AnnotatorNotes T9	not found
+T45	GeneFamily 862 865	ENT
+#10	AnnotatorNotes T45	not found
+T46	Biomarker 823 860	Equilibrative nucleoside transporters
+R3	Association Arg1:T46 Arg2:T13	
+T47	GeneFamily 1084 1087	ENT
+R4	Association Arg1:T16 Arg2:T17	
+T14	Gene-Protein 1136 1140	ENT2
+#11	AnnotatorNotes T14	HGNC:11004
+T48	Gene-Protein 1142 1149	SLC29A2
+#12	AnnotatorNotes T48	HGNC:11004
+T18	GeneFamily 1212 1231	adenosine receptors
+T49	Gene-Protein 1272 1278	ADORA1
+#13	AnnotatorNotes T49	HGNC:262
+T50	Gene-Protein 1282 1289	ADORA2A
+#14	AnnotatorNotes T50	HGNC:263
+T51	Gene-Protein 1372 1379	ADORA2B
+#16	AnnotatorNotes T51	HGNC:264
+R5	Association Arg1:T21 Arg2:T22	
+T52	Gene-Protein 1509 1515	ADORA1
+T53	Gene-Protein 1520 1527	ADORA2A
+T54	Gene-Protein 1572 1578	ADORA3
+#17	AnnotatorNotes T54	HGNC:268
+T55	Collection 1693 1732	CPFE, as in other chronic lung diseases
+T56	Gene-Protein 1859 1866	ADORA2B
+R6	Association Arg1:T27 Arg2:T55	
+T29	Gene-Protein 1945 1949	CD39
+T57	Gene-Protein 1955 1959	CD73
+T58	Gene-Protein 1965 1968	ADA
+T59	Gene-Protein 1974 1978	ENT2
+T60	Gene-Protein 1984 1990	ADORA1
+T61	Gene-Protein 1996 2003	ADORA2A
+T62	Gene-Protein 2009 2016	ADORA2B
+T63	Gene-Protein 2025 2031	ADORA3
+A1	Conjunction T0
+A2	Conjunction T1
+A3	Conjunction T4
+A4	Conjunction T8
+T30	Biomarker 739 760	ADA expression levels
+T32	Biomarker 881 911	extracellular adenosine levels
+T35	Biomarker 958 990	increased adenosine accumulation
+T64	Biomarker 1191 1231	Expression levels of adenosine receptors
+T65	Biomarker 1558 1578	expression of ADORA3
+T66	Biomarker 1257 1289	alterations in ADORA1 or ADORA2A
+T67	Biomarker 1084 1098	ENT expression
+A5	Conjunction T15
+A6	Conjunction T17
+A7	Conjunction T20
+A8	Conjunction T22
+A9	Conjunction T23
+A10	Conjunction T24
+A11	Conjunction T28
+A12	Conjunction T33
+A13	Conjunction T31
+A14	Conjunction T34

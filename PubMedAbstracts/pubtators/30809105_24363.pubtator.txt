@@ -1,0 +1,99 @@
+30809105_24363|t|RSS_IDENT_s_30809105_b_1_3_5
+30809105_24363|a| 3.3. Expression of Cytokines and Chemokines Stimulated by Resistin in OA The proinflammatory properties of resistin have been observed in animal models and human tissue samples [ 20 , 43 , 47 , 61 ]. Numerous cytokines and chemokines are upregulated by resistin, making it a novel and interesting therapeutic target in chronic inflammatory diseases such as RA and OA. Thus far, the proinflammatory properties of resistin have been studied in human knee fibroblast-like synoviocytes from RA patients, human monocytes/macrophages, and human knee articular chondrocytes. In human knee fibroblast-like synoviocytes harvested from RA patients and incubated with resistin in vitro, the expression levels of 18 molecules were more than 2-fold higher in resistin-stimulated cells than in unstimulated cells. These upregulated molecules included the seven chemokines, CXCL1, CXCL2, CXCL3, CXCL5, CXCL6, CXCL8, and CCL2, as well as IL-6 [ 70 ]. Consistent with the results in fibroblast-like synoviocytes, another study showed that treatment of human primary monocytes with recombinant human resistin (10 μg/mL) for 48 h led to the release of cytokines and chemokines, such as IL-1α, IL-1β, IL-1Rα, IL-6, IL-7, CCL4/macrophage inflammatory protein- (MIP-) 1α, CCL3/MIP-1β, CXCL8/IL-8, IL-10, CCL2/methyl-accepted chemotaxis protein- (MCP-) 1, granulocyte colony-stimulating factor (G-CSF), and TNF-α [ 43 ]. Other researchers have found that resistin leads to the upregulation of the mRNA and protein levels of inflammatory cytokines such as IL-6, TNF-α, and IL-1β via the PKA and NF-κB signaling pathways [ 67 ]. OA is characterized by cartilage degeneration, soft tissue damage, and inflammation. In OA, chondrocytes are ultimately damaged by proinflammatory chemokines, cytokines, and other molecules. Compared to knee chondrocytes from healthy controls, those from OA patients exhibited a greater than 10-fold increase in the expression of IL-1α, IL-1β, CCL3, CCL3L1, CCL4, CCL5, CCL8, CCL20, CXCL1, CXCL2, CXCL3, CXCL5, CXCL6, CXCL8 (IL-8), MMP-1, and MMP-13 and a less than 10-fold increase in the expression of TNFα, CCL2, CX3CL1, and ADAMTS-4 in response to resistin treatment [ 60 ]. These above results further support the notion that resistin plays a proinflammatory role in cell metabolism, and the cytokines/chemokines triggered by resistin play a larger role in promoting catabolism than anabolism in OA.
+30809105_24363	49	58	Cytokines	Genefamily	not found
+30809105_24363	63	73	Chemokines	Genefamily	not found
+30809105_24363	88	96	Resistin	Gene-protein	HGNC:20389
+30809105_24363	100	102	OA	Disease	DOID:8398
+30809105_24363	137	145	resistin	Gene-protein	HGNC:20389
+30809105_24363	230	279	Numerous cytokines and chemokines are upregulated	Biomarker
+30809105_24363	239	248	cytokines	Genefamily	not found
+30809105_24363	253	263	chemokines	Genefamily	not found
+30809105_24363	283	291	resistin	Gene-protein
+30809105_24363	283	291	resistin	Biomarker	D052243
+30809105_24363	349	378	chronic inflammatory diseases	Disease	not found
+30809105_24363	349	396	chronic inflammatory diseases such as RA and OA	Collection
+30809105_24363	387	389	RA	Disease	DOID:7148
+30809105_24363	394	396	OA	Disease
+30809105_24363	412	450	proinflammatory properties of resistin	Biomarker
+30809105_24363	442	450	resistin	Gene-protein
+30809105_24363	517	519	RA	Disease
+30809105_24363	656	658	RA	Disease
+30809105_24363	687	695	resistin	Gene-protein
+30809105_24363	776	784	resistin	Gene-protein
+30809105_24363	836	956	upregulated molecules included the seven chemokines, CXCL1, CXCL2, CXCL3, CXCL5, CXCL6, CXCL8, and CCL2, as well as IL-6	Biomarker
+30809105_24363	889	894	CXCL1	Gene-protein	HGNC:4602
+30809105_24363	896	901	CXCL2	Gene-protein	HGNC:4603
+30809105_24363	903	908	CXCL3	Gene-protein	HGNC:4604
+30809105_24363	910	915	CXCL5	Gene-protein	HGNC:10642
+30809105_24363	917	922	CXCL6	Gene-protein	HGNC:10643
+30809105_24363	924	929	CXCL8	Gene-protein	HGNC:6025
+30809105_24363	935	939	CCL2	Gene-protein	HGNC:10618
+30809105_24363	952	956	IL-6	Gene-protein	HGNC:6018
+30809105_24363	1112	1120	resistin	Gene-protein
+30809105_24363	1163	1172	cytokines	Genefamily
+30809105_24363	1177	1187	chemokines	Genefamily
+30809105_24363	1197	1202	IL-1α	Gene-protein	HGNC:5991
+30809105_24363	1204	1209	IL-1β	Gene-protein	HGNC:5992
+30809105_24363	1211	1217	IL-1Rα	Gene-protein	HGNC:6019
+30809105_24363	1219	1223	IL-6	Gene-protein
+30809105_24363	1225	1229	IL-7	Gene-protein	HGNC:6023
+30809105_24363	1231	1235	CCL4	Gene-protein	HGNC:10630
+30809105_24363	1236	1278	macrophage inflammatory protein- (MIP-) 1α	Gene-protein	HGNC:10627
+30809105_24363	1280	1284	CCL3	Gene-protein	HGNC:10627
+30809105_24363	1285	1291	MIP-1β	Gene-protein	HGNC:10630
+30809105_24363	1293	1298	CXCL8	Gene-protein
+30809105_24363	1299	1303	IL-8	Gene-protein	HGNC:6025
+30809105_24363	1305	1310	IL-10	Gene-protein	HGNC:5962
+30809105_24363	1312	1316	CCL2	Gene-protein
+30809105_24363	1317	1323	methyl	Chemical
+30809105_24363	1317	1361	methyl-accepted chemotaxis protein- (MCP-) 1	Gene-protein	HGNC:10618
+30809105_24363	1363	1400	granulocyte colony-stimulating factor	Gene-protein	HGNC:2438
+30809105_24363	1402	1407	G-CSF	Gene-protein	HGNC:2438
+30809105_24363	1414	1419	TNF-α	Gene-protein	HGNC:11892
+30809105_24363	1462	1470	resistin	Gene-protein
+30809105_24363	1562	1566	IL-6	Gene-protein
+30809105_24363	1568	1573	TNF-α	Gene-protein
+30809105_24363	1579	1584	IL-1β	Gene-protein
+30809105_24363	1593	1596	PKA	Genefamily	not found
+30809105_24363	1601	1606	NF-κB	Genefamily	family:1254
+30809105_24363	1634	1636	OA	Disease
+30809105_24363	1657	1679	cartilage degeneration	Biomarker
+30809105_24363	1657	1717	cartilage degeneration, soft tissue damage, and inflammation	Collection
+30809105_24363	1681	1699	soft tissue damage	Biomarker
+30809105_24363	1705	1717	inflammation	Biomarker	D007249
+30809105_24363	1722	1724	OA	Disease
+30809105_24363	1765	1791	proinflammatory chemokines	Genefamily	not found
+30809105_24363	1793	1802	cytokines	Genefamily
+30809105_24363	1889	1891	OA	Disease
+30809105_24363	1913	2083	greater than 10-fold increase in the expression of IL-1α, IL-1β, CCL3, CCL3L1, CCL4, CCL5, CCL8, CCL20, CXCL1, CXCL2, CXCL3, CXCL5, CXCL6, CXCL8 (IL-8), MMP-1, and MMP-13	Biomarker
+30809105_24363	1913	2170	greater than 10-fold increase in the expression of IL-1α, IL-1β, CCL3, CCL3L1, CCL4, CCL5, CCL8, CCL20, CXCL1, CXCL2, CXCL3, CXCL5, CXCL6, CXCL8 (IL-8), MMP-1, and MMP-13 and a less than 10-fold increase in the expression of TNFα, CCL2, CX3CL1, and ADAMTS-4	Collection
+30809105_24363	1964	1969	IL-1α	Gene-protein
+30809105_24363	1971	1976	IL-1β	Gene-protein
+30809105_24363	1978	1982	CCL3	Gene-protein
+30809105_24363	1984	1990	CCL3L1	Gene-protein	HGNC:10628
+30809105_24363	1992	1996	CCL4	Gene-protein
+30809105_24363	1998	2002	CCL5	Gene-protein	HGNC:10632
+30809105_24363	2004	2008	CCL8	Gene-protein	HGNC:10635
+30809105_24363	2010	2015	CCL20	Gene-protein	HGNC:10619
+30809105_24363	2017	2022	CXCL1	Gene-protein
+30809105_24363	2024	2029	CXCL2	Gene-protein
+30809105_24363	2031	2036	CXCL3	Gene-protein
+30809105_24363	2038	2043	CXCL5	Gene-protein
+30809105_24363	2045	2050	CXCL6	Gene-protein
+30809105_24363	2052	2057	CXCL8	Gene-protein
+30809105_24363	2059	2063	IL-8	Gene-protein
+30809105_24363	2066	2071	MMP-1	Gene-protein	HGNC:7155
+30809105_24363	2077	2083	MMP-13	Gene-protein	HGNC:7159
+30809105_24363	2090	2170	less than 10-fold increase in the expression of TNFα, CCL2, CX3CL1, and ADAMTS-4	Biomarker
+30809105_24363	2138	2142	TNFα	Gene-protein	HGNC:11892
+30809105_24363	2144	2148	CCL2	Gene-protein
+30809105_24363	2150	2156	CX3CL1	Gene-protein	HGNC:10647
+30809105_24363	2162	2170	ADAMTS-4	Gene-protein	HGNC:220
+30809105_24363	2186	2194	resistin	Gene-protein
+30809105_24363	2265	2273	resistin	Gene-protein
+30809105_24363	2331	2340	cytokines	Genefamily
+30809105_24363	2331	2373	cytokines/chemokines triggered by resistin	Biomarker
+30809105_24363	2341	2351	chemokines	Genefamily
+30809105_24363	2365	2373	resistin	Gene-protein
+30809105_24363	2435	2437	OA	Disease
+

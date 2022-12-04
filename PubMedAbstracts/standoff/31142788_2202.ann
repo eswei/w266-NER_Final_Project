@@ -1,0 +1,114 @@
+T1	Disease 122 130	melanoma
+#2	AnnotatorNotes T1	DOID:1909
+T12	Disease 789 797	melanoma
+T13	Disease 831 839	melanoma
+T15	Chemical 907 922	prostaglandin E
+T19	Disease 1222 1230	melanoma
+T20	Disease 1293 1301	melanoma
+T22	Disease 1458 1467	melanomas
+#11	AnnotatorNotes T22	DOID:1909
+T3	Chemical 185 191	serine
+T4	Chemical 192 201	threonine
+T9	Disease 511 530	metastatic melanoma
+#17	AnnotatorNotes T9	DOID:1909
+T2	Gene-Protein 216 220	BRAF
+#6	AnnotatorNotes T2	HGNC:1097
+T8	Gene-Protein 185 214	serine/threonine kinase B-Raf
+#12	AnnotatorNotes T8	HGNC:1097
+T10	Gene-Protein 268 271	KIT
+#1	AnnotatorNotes T10	HGNC:6342
+T14	Gene-Protein 223 266	mast/stem cell growth factor receptor c-Kit
+#13	AnnotatorNotes T14	HGNC:6342
+T5	Gene-Protein 316 320	NRAS
+#14	AnnotatorNotes T5	HGNC:7989
+T17	Gene-Protein 274 314	neuroblastoma RAS viral oncogene homolog
+#18	AnnotatorNotes T17	HGNC:7989
+T21	Gene-Protein 357 361	PTEN
+#19	AnnotatorNotes T21	HGNC:9588
+T23	Gene-Protein 323 355	phosphatase and tensin homologue
+#20	AnnotatorNotes T23	HGNC:9588
+T24	Gene-Protein 386 389	P53
+#21	AnnotatorNotes T24	HGNC:11998
+T25	Gene-Protein 364 384	tumor suppressor p53
+#22	AnnotatorNotes T25	HGNC:11998
+T6	Gene-Protein 426 430	TERT
+#15	AnnotatorNotes T6	HGNC:11730
+T26	Gene-Protein 392 424	telomerase reverse transcriptase
+#23	AnnotatorNotes T26	HGNC:11730
+T27	Gene-Protein 485 489	MITF
+#24	AnnotatorNotes T27	HGNC:7105
+T28	Gene-Protein 437 483	microphthalmia-associated transcription factor
+#25	AnnotatorNotes T28	HGNC:7105
+T7	Gene-Protein 596 602	CDKN2A
+#3	AnnotatorNotes T7	HGNC:1787
+T11	Gene-Protein 558 594	cyclin-dependent kinase inhibitor 2A
+#16	AnnotatorNotes T11	HGNC:1787
+T29	Gene-Protein 645 648	p16
+#26	AnnotatorNotes T29	HGNC:1787
+T30	Gene-Protein 653 656	p14
+#27	AnnotatorNotes T30	HGNC:30833
+T31	Gene-Protein 744 748	MC1R
+#28	AnnotatorNotes T31	HGNC:6929
+T32	Gene-Protein 719 742	melanocortin-1 receptor
+#29	AnnotatorNotes T32	HGNC:6929
+T33	Gene-Protein 861 870	enolase 1
+#4	AnnotatorNotes T33	HGNC:3350
+T34	Gene-Protein 872 904	parkinsonism-associated deglycas
+#5	AnnotatorNotes T34	HGNC:16369
+T35	Gene-Protein 907 933	prostaglandin E synthase 3
+#30	AnnotatorNotes T35	HGNC:16049
+T36	Gene-Protein 935 948	nucleophosmin
+#31	AnnotatorNotes T36	HGNC:7910
+T37	Gene-Protein 954 964	stathmin 1
+#32	AnnotatorNotes T37	HGNC:6510
+T16	Gene-Protein 1077 1081	PTEN
+T38	Gene-Protein 1122 1127	MMAC1
+#7	AnnotatorNotes T38	HGNC:9588
+T18	Gene-Protein 1082 1120	mutated in multiple advanced cancers 1
+#8	AnnotatorNotes T18	HGNC:9588
+T39	Gene-Protein 1209 1213	PTEN
+T40	Gene-Protein 1411 1415	VEGF
+#9	AnnotatorNotes T40	HGNC:12680
+T41	Gene-Protein 1375 1409	vascular endothelial growth factor
+#10	AnnotatorNotes T41	HGNC:12680
+T42	Gene-Protein 1436 1442	VEGF-R
+#33	AnnotatorNotes T42	HGNC:6307
+T43	Biomarker 185 214	serine/threonine kinase B-Raf
+#34	AnnotatorNotes T43	D048493
+T44	Biomarker 223 266	mast/stem cell growth factor receptor c-Kit
+#35	AnnotatorNotes T44	D019009
+T45	Biomarker 323 355	phosphatase and tensin homologue
+#36	AnnotatorNotes T45	D051059
+T46	Biomarker 274 314	neuroblastoma RAS viral oncogene homolog
+#37	AnnotatorNotes T46	C579846
+T47	Biomarker 364 384	tumor suppressor p53
+#38	AnnotatorNotes T47	D016158
+T48	Biomarker 392 424	telomerase reverse transcriptase
+#39	AnnotatorNotes T48	C509186
+T49	Biomarker 437 483	microphthalmia-associated transcription factor
+#40	AnnotatorNotes T49	C497234
+T50	Collection 185 490	serine/threonine kinase B-Raf (BRAF), mast/stem cell growth factor receptor c-Kit (KIT), neuroblastoma RAS viral oncogene homolog (NRAS), phosphatase and tensin homologue (PTEN), tumor suppressor p53 (P53), telomerase reverse transcriptase (TERT), and microphthalmia-associated transcription factor (MITF)
+R1	Association Arg1:T50 Arg2:T9	
+T53	Biomarker 545 749	mutations in cyclin-dependent kinase inhibitor 2A (CDKN2A) encoding two tumour suppressor proteins, p16 and p14, as well as genes involved in the DNA repair mechanism or the melanocortin-1 receptor (MC1R)
+T54	Collection 861 964	enolase 1, parkinsonism-associated deglycase, prostaglandin E synthase 3, nucleophosmin, and stathmin 1
+R3	Association Arg1:T54 Arg2:T13	
+T55	Biomarker 861 870	enolase 1
+#41	AnnotatorNotes T55	C095157
+T56	Biomarker 872 905	parkinsonism-associated deglycase
+#42	AnnotatorNotes T56	D000071617
+T57	Biomarker 907 933	prostaglandin E synthase 3
+#43	AnnotatorNotes T57	D000071876
+T58	Biomarker 935 948	nucleophosmin
+#44	AnnotatorNotes T58	C029739
+T59	Biomarker 954 964	stathmin 1
+#45	AnnotatorNotes T59	C493995
+T60	Biomarker 1209 1218	PTEN loss
+T61	Drug 1077 1128	PTEN/mutated in multiple advanced cancers 1 (MMAC1)
+T62	Biomarker 1248 1260	angiogenesis
+R4	Association Arg1:T62 Arg2:T20	
+T63	Biomarker 1361 1454	expression of vascular endothelial growth factor (VEGF) and its receptors (VEGF-R) are higher
+R5	Association Arg1:T63 Arg2:T22	
+R2	Association Arg1:T53 Arg2:T12	
+#46	AnnotatorNotes T61	C494929
+R6	Response Arg1:T61 Arg2:T19	
+R7	Association Arg1:T60 Arg2:T19	

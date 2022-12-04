@@ -1,0 +1,51 @@
+31508570_1591|t|RSS_IDENT_p_31508570_b_1_1_3
+31508570_1591|a| The p450c17 enzyme is encoded by the CYP17A1 gene located on 10q24.3 (3) and spans 6.6 kb, which comprises eight exons (4). "This gene transcribes 2.1-kb mRNA molecule, which expresses in both the adrenals and gonads and generates a 57-kDa microsomal cytochrome P450c17 enzyme. The CYP17A1 enzyme catalyzes both steroid 17-hydroxylase and 17,20-lyase activities" (5). Enzymatic failure of the P450c17 enzyme leads to both glucocorticoids and sex steroids deficiencies. After a reduction in blood glucocorticoids levels due to P450c17 defect, anterior pituitary tries to compensate for the insufficiency of glucocorticoids levels by producing extra Adrenocorticotropic hormone (ACTH). This results in the extra generation of steroid precursors and elevated ACTH level, which leads to some Congenital adrenal hyperplasia and result in hypertension, hypokalemia, and a suppressed renin-angiotensin system (6, 7). Moreover, due to the impairments in CYP17A1, the mineralocorticoid precursors (corticosterone and 11-deoxycorticosterone) accumulate, which demonstrate glucocorticoid activity, therefore defect in P450c17 does not associate with adrenal crisis, rather than other CAH variants (8). Mutations in the CYP17A1 gene are the rarest defects in CAH that yields to steroid 17-hydroxylase and 17,20-lyase deficiencies (9). Several mutations in the CYP17 gene have been reported that cause either complete or combined17-hydroxylase/17,20-lyase or isolated 17, 20-lyase enzyme deficiencies (10-14). 
+31508570_1591	34	41	p450c17	Gene-protein	HGNC:2593
+31508570_1591	67	74	CYP17A1	Gene-protein	HGNC:2593
+31508570_1591	292	299	P450c17	Gene-protein	HGNC:2593
+31508570_1591	312	319	CYP17A1	Gene-protein
+31508570_1591	342	349	steroid	Chemical
+31508570_1591	342	364	steroid 17-hydroxylase	Gene-protein	not found
+31508570_1591	369	380	17,20-lyase	Gene-protein	not found
+31508570_1591	398	437	Enzymatic failure of the P450c17 enzyme	Biomarker
+31508570_1591	423	430	P450c17	Gene-protein
+31508570_1591	452	467	glucocorticoids	Chemical
+31508570_1591	452	497	glucocorticoids and sex steroids deficiencies	Disease	not found, not found
+31508570_1591	472	484	sex steroids	Chemical
+31508570_1591	526	541	glucocorticoids	Chemical
+31508570_1591	556	563	P450c17	Gene-protein
+31508570_1591	636	651	glucocorticoids	Chemical
+31508570_1591	678	705	Adrenocorticotropic hormone	Gene-protein	HGNC:9201
+31508570_1591	707	711	ACTH	Gene-protein	HGNC:9201
+31508570_1591	734	772	extra generation of steroid precursors	Biomarker
+31508570_1591	734	796	extra generation of steroid precursors and elevated ACTH level	Collection
+31508570_1591	754	761	steroid	Chemical
+31508570_1591	777	796	elevated ACTH level	Biomarker
+31508570_1591	786	790	ACTH	Gene-protein
+31508570_1591	818	848	Congenital adrenal hyperplasia	Disease	DOID:0050811
+31508570_1591	818	888	Congenital adrenal hyperplasia and result in hypertension, hypokalemia	Collection
+31508570_1591	863	875	hypertension	Disease	DOID:10763
+31508570_1591	877	888	hypokalemia	Disease	DOID:4500
+31508570_1591	896	931	suppressed renin-angiotensin system	Biomarker
+31508570_1591	907	912	renin	Gene-protein	HGNC:9958
+31508570_1591	913	924	angiotensin	Gene-protein	HGNC:333
+31508570_1591	976	983	CYP17A1	Gene-protein
+31508570_1591	1019	1033	corticosterone	Chemical
+31508570_1591	1038	1060	11-deoxycorticosterone	Chemical
+31508570_1591	1092	1106	glucocorticoid	Chemical
+31508570_1591	1137	1144	P450c17	Gene-protein
+31508570_1591	1203	1206	CAH	Disease	DOID:0050811
+31508570_1591	1221	1250	Mutations in the CYP17A1 gene	Biomarker
+31508570_1591	1238	1245	CYP17A1	Gene-protein
+31508570_1591	1277	1280	CAH	Disease
+31508570_1591	1296	1303	steroid	Chemical
+31508570_1591	1296	1318	steroid 17-hydroxylase	Gene-protein
+31508570_1591	1296	1347	steroid 17-hydroxylase and 17,20-lyase deficiencies	Disease	not found, not found
+31508570_1591	1323	1334	17,20-lyase	Gene-protein
+31508570_1591	1361	1388	mutations in the CYP17 gene	Biomarker
+31508570_1591	1378	1383	CYP17	Gene-protein	 HGNC:2593
+31508570_1591	1426	1517	complete or combined17-hydroxylase/17,20-lyase or isolated 17, 20-lyase enzyme deficiencies	Disease	not found, not found, not found
+31508570_1591	1438	1460	combined17-hydroxylase	Gene-protein
+31508570_1591	1461	1472	17,20-lyase	Gene-protein
+31508570_1591	1476	1497	isolated 17, 20-lyase	Gene-protein	not found
+

@@ -1,0 +1,55 @@
+31345960_19139|t|RSS_IDENT_p_31345960_b_1_4_3
+31345960_19139|a| We further investigated the clinical significance of KRT18, and observed high KRT18 expression was positively associated with clinical stage, tumor invasion depth, lymph node metastasis, distant metastasis, and degree of differentiation. In lung cancer patients, KRT18 expression was suggested to be correlated with clinical lymph node metastasis [ 25 ]. In addition, KRT18 expression had 4.6-times increase in high metastatic lung cancer cell line compared with low metastatic lung cancer cell line [ 26 ]. In hepatocellular carcinoma patients, levels of KRT18 expression were positively correlated with lymph node metastasis and aggressive phenotype [ 27 , 28 ]. Moreover, Afrem et al. [ 29 ] reported KRT18 overexpression was correlated with advanced clinical stage, poor differentiation, and high invasion pattern in oral squamous cell carcinoma patients. In bladder cancer, Wild et al. [ 20 ] and Catto et al. [ 30 ] conformably found KRT18 served as one of artificial intelligence-selected genes for predicting clinical progression. Moreover, Yin et al. [ 31 ] suggested high expression of KRT18 was associated with tumor aggressiveness and paclitaxel resistance in prostate cancer patients. In breast cancer, Chalabi et al. [ 32 ] revealed that high expression of KRT18 often observed in luminal B patients from Lebanon, Tunisia, and Morocco, and in luminal A patients from France. Besides, Kilic-Baygutalp et al. [ 17 ] found KRT18 expression was positively associated with clinical stage, tumor stage, and metastasis stage in patients with esophageal cancer. In gastric cancer, high KRT18 expression was suggested to be associated with positive lymph nodes, advanced clinical stage, and chemoresistance [ 33 , 34 ]. 
+31345960_19139	83	88	KRT18	Gene-protein	HGNC:6430
+31345960_19139	103	124	high KRT18 expression	Biomarker
+31345960_19139	108	113	KRT18	Gene-protein
+31345960_19139	156	170	clinical stage	Biomarker
+31345960_19139	172	192	tumor invasion depth	Biomarker
+31345960_19139	194	215	lymph node metastasis	Biomarker
+31345960_19139	217	235	distant metastasis	Biomarker
+31345960_19139	241	266	degree of differentiation	Biomarker
+31345960_19139	271	282	lung cancer	Disease	DOID:1324
+31345960_19139	293	298	KRT18	Gene-protein
+31345960_19139	293	309	KRT18 expression	Biomarker
+31345960_19139	346	376	clinical lymph node metastasis	Biomarker
+31345960_19139	398	403	KRT18	Gene-protein
+31345960_19139	398	437	KRT18 expression had 4.6-times increase	Biomarker
+31345960_19139	441	468	high metastatic lung cancer	Disease	not found
+31345960_19139	493	519	low metastatic lung cancer	Disease	not found
+31345960_19139	541	565	hepatocellular carcinoma	Disease	DOID:684
+31345960_19139	576	602	levels of KRT18 expression	Biomarker
+31345960_19139	586	591	KRT18	Gene-protein
+31345960_19139	635	656	lymph node metastasis	Biomarker
+31345960_19139	661	681	aggressive phenotype	Biomarker
+31345960_19139	734	739	KRT18	Gene-protein
+31345960_19139	734	754	KRT18 overexpression	Biomarker
+31345960_19139	775	798	advanced clinical stage	Biomarker
+31345960_19139	800	820	poor differentiation	Biomarker
+31345960_19139	826	846	high invasion patter	Biomarker
+31345960_19139	851	879	oral squamous cell carcinoma	Disease	DOID:0050866
+31345960_19139	893	907	bladder cancer	Disease	DOID:11054
+31345960_19139	970	975	KRT18	Gene-protein
+31345960_19139	970	975	KRT18	Biomarker	C488421
+31345960_19139	1107	1131	high expression of KRT18	Biomarker
+31345960_19139	1126	1131	KRT18	Gene-protein
+31345960_19139	1152	1172	tumor aggressiveness	Biomarker
+31345960_19139	1177	1187	paclitaxel	Drug	CHEMBL428647
+31345960_19139	1202	1217	prostate cancer	Disease	DOID:10283
+31345960_19139	1231	1244	breast cancer	Disease	DOID:1612
+31345960_19139	1282	1306	high expression of KRT18	Biomarker
+31345960_19139	1301	1306	KRT18	Gene-protein
+31345960_19139	1325	1334	luminal B	Disease	DOID:0080674
+31345960_19139	1325	1396	luminal B patients from Lebanon, Tunisia, and Morocco, and in luminal A	Collection
+31345960_19139	1387	1396	luminal A	Disease	DOID:0060548
+31345960_19139	1464	1469	KRT18	Gene-protein
+31345960_19139	1464	1480	KRT18 expression	Biomarker
+31345960_19139	1512	1526	clinical stage	Biomarker
+31345960_19139	1528	1539	tumor stage	Biomarker
+31345960_19139	1545	1561	metastasis stage	Biomarker
+31345960_19139	1579	1596	esophageal cancer	Disease	DOID:5041
+31345960_19139	1601	1615	gastric cancer	Disease	DOID:10534
+31345960_19139	1617	1638	high KRT18 expression	Biomarker
+31345960_19139	1622	1627	KRT18	Gene-protein
+31345960_19139	1675	1695	positive lymph nodes	Biomarker
+31345960_19139	1697	1720	advanced clinical stage	Biomarker
+

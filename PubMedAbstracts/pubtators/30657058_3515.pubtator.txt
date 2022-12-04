@@ -1,0 +1,55 @@
+30657058_3515|t|RSS_IDENT_p_30657058_b_1_1_3
+30657058_3515|a| Although MYCN gene amplification and/or N-Myc oncoprotein overexpression is found in ~ 40% NEPC [ 5 ] and up to 20% CRPC without neuroendocrine phenotype [ 13 ], they are also found in ~ 5% PCA [ 5 , 28 ], suggesting that these amplification events can arise early before hormonal therapy. Two recent studies have firmly established N-Myc as an oncogenic driver for NEPC tumorigenesis [ 13 , 22 ]. Lee et al. took advantage of their tissue recombination system to demonstrate that N-Myc overexpression in human prostate epithelial cells, together with activated AKT (Myr-Akt), can initiate both PCA and NEPC tumorigenesis and the resulted N-Myc/Myr-Akt tumors are castration resistant and metastatic with low level of AR expression [ 22 ]. Dardenne et al. utilized transgenic animal models to show that N-Myc can cooperate with EZH2 to drive the progression from CRPC-Ade to CRPC-NE and the co-operation confers the resistance to the newer generation of AR-targeted therapies including Enzalutamide [ 13 ]. N-Myc overexpression, whatever in PCA or in CPRC stage, shuts down AR signaling that is required for prostate cancer growth, and as a consequence should benefit the N-Myc overexpressed prostate tumors to AR-targeted therapies. However, the N-Myc overexpressed prostate tumors are resistant to AR-targeted therapies, including ADT and Enzalutamide, indicating that N-Myc re-establishes other AR-independent pro-survival mechanisms/pathways to drive the disease progression and therapeutic resistance development. Unfortunately, these N-Myc-induced new pro-survival mechanisms/pathways remain largely unknown. 
+30657058_3515	39	43	MYCN	Gene-protein	HGNC:7559
+30657058_3515	39	62	MYCN gene amplification	Biomarker
+30657058_3515	39	102	MYCN gene amplification and/or N-Myc oncoprotein overexpression	Collection
+30657058_3515	70	75	N-Myc	Gene-protein	HGNC:7559
+30657058_3515	70	102	N-Myc oncoprotein overexpression	Biomarker
+30657058_3515	121	125	NEPC	Disease	DOID:2992
+30657058_3515	121	223	NEPC [ 5 ] and up to 20% CRPC without neuroendocrine phenotype [ 13 ], they are also found in ~ 5% PCA	Collection
+30657058_3515	146	183	CRPC without neuroendocrine phenotype	Disease	not found
+30657058_3515	220	223	PCA	Disease	DOID:2526
+30657058_3515	363	368	N-Myc	Gene-protein
+30657058_3515	363	368	N-Myc	Biomarker	D000071447
+30657058_3515	396	400	NEPC	Disease
+30657058_3515	511	516	N-Myc	Gene-protein
+30657058_3515	511	605	N-Myc overexpression in human prostate epithelial cells, together with activated AKT (Myr-Akt)	Biomarker
+30657058_3515	592	595	AKT	Genefamily	family:1900
+30657058_3515	597	600	Myr	Chemical
+30657058_3515	601	604	Akt	Genefamily	family:1900
+30657058_3515	625	628	PCA	Disease
+30657058_3515	625	637	PCA and NEPC	Collection
+30657058_3515	633	637	NEPC	Disease
+30657058_3515	669	674	N-Myc	Gene-protein
+30657058_3515	669	689	N-Myc/Myr-Akt tumors	Disease	not found
+30657058_3515	675	678	Myr	Chemical
+30657058_3515	679	682	Akt	Genefamily
+30657058_3515	735	761	low level of AR expression	Biomarker
+30657058_3515	748	750	AR	Gene-protein	HGNC:644
+30657058_3515	833	838	N-Myc	Gene-protein
+30657058_3515	833	862	N-Myc can cooperate with EZH2	Biomarker
+30657058_3515	858	862	EZH2	Gene-protein	HGNC:3527
+30657058_3515	893	901	CRPC-Ade	Disease	not found
+30657058_3515	905	912	CRPC-NE	Disease	not found, not found
+30657058_3515	984	986	AR	Gene-protein
+30657058_3515	1016	1028	Enzalutamide	Drug	CHEMBL1082407
+30657058_3515	1037	1042	N-Myc	Gene-protein
+30657058_3515	1037	1057	N-Myc overexpression	Biomarker
+30657058_3515	1071	1074	PCA	Disease
+30657058_3515	1071	1153	PCA or in CPRC stage, shuts down AR signaling that is required for prostate cancer	Collection
+30657058_3515	1104	1106	AR	Gene-protein
+30657058_3515	1138	1153	prostate cancer	Disease	DOID:10283
+30657058_3515	1202	1207	N-Myc	Gene-protein
+30657058_3515	1202	1237	N-Myc overexpressed prostate tumors	Disease	not found
+30657058_3515	1241	1243	AR	Gene-protein
+30657058_3515	1241	1262	AR-targeted therapies	Drug-class
+30657058_3515	1277	1312	N-Myc overexpressed prostate tumors	Disease
+30657058_3515	1330	1332	AR	Gene-protein
+30657058_3515	1330	1351	AR-targeted therapies	Drug-class
+30657058_3515	1330	1366	AR-targeted therapies, including ADT	Collection
+30657058_3515	1363	1366	ADT	Drug-class
+30657058_3515	1371	1383	Enzalutamide	Drug
+30657058_3515	1401	1406	N-Myc	Gene-protein
+30657058_3515	1428	1430	AR	Gene-protein
+30657058_3515	1570	1575	N-Myc	Gene-protein
+

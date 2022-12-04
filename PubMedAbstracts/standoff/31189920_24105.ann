@@ -1,0 +1,76 @@
+T1	Disease 268 292	nasopharyngeal carcinoma
+#1	AnnotatorNotes T1	DOID:9261
+T11	Disease 1028 1035	cancers
+#3	AnnotatorNotes T11	DOID:162
+T13	Disease 1117 1134	pancreatic cancer
+#4	AnnotatorNotes T13	DOID:1793
+T15	Disease 1228 1253	colorectal adenocarcinoma
+#5	AnnotatorNotes T15	DOID:0050861
+T16	Chemical 1316 1323	glucose
+T17	Disease 1394 1400	glioma
+T2	Disease 298 314	ischaemic stroke
+#8	AnnotatorNotes T2	D000083242
+T20	Disease 1545 1559	gastric cancer
+#9	AnnotatorNotes T20	DOID:10534
+T21	Disease 1565 1579	ovarian cancer
+#10	AnnotatorNotes T21	DOID:2394
+T22	Disease 1587 1611	papillary adenocarcinoma
+#11	AnnotatorNotes T22	DOID:3112
+T23	Disease 1638 1644	glioma
+T25	Disease 1740 1746	glioma
+T26	Disease 1786 1792	glioma
+T27	Disease 1872 1878	glioma
+T3	Disease 322 334	osteosarcoma
+#16	AnnotatorNotes T3	DOID:3347
+T5	Disease 404 410	glioma
+#17	AnnotatorNotes T5	DOID:0060108
+T7	Disease 582 588	glioma
+T8	Disease 712 718	glioma
+T9	RNA-Noncoding 961 968	MiR-194
+T4	RNA-Noncoding 238 243	SNHG1
+#6	AnnotatorNotes T4	HGNC:32688
+T6	Biomarker 238 243	SNHG1
+#20	AnnotatorNotes T6	C000613724
+T12	Collection 268 334	nasopharyngeal carcinoma ²⁹ , ischaemic stroke ³⁰ and osteosarcoma
+R1	Association Arg1:T6 Arg2:T12	
+T14	RNA-Noncoding 388 393	SNHG1
+T18	RNA-Noncoding 489 494	SNHG1
+T19	RNA-Noncoding 510 520	miR-154-5p
+#21	AnnotatorNotes T19	HGNC:31541
+T24	Biomarker 489 494	SNHG1
+R2	Association Arg1:T24 Arg2:T7	
+T28	RNA-Noncoding 521 532	miR-376b-3p
+#22	AnnotatorNotes T28	HGNC:32066
+T29	RNA-Noncoding 651 656	SNHG1
+T31	RNA-Noncoding 803 808	SNHG1
+T32	RNA-Noncoding 918 925	miR-194
+#18	AnnotatorNotes T32	family:1720
+T33	RNA-Noncoding 954 959	SNHG1
+T10	RNA-Noncoding 1075 1082	miR-194
+T34	Biomarker 1075 1082	miR-194
+#2	AnnotatorNotes T34	C554846
+R4	Association Arg1:T34 Arg2:T13	
+T35	RNA-Noncoding 1162 1169	miR-194
+T36	Biomarker 1162 1169	miR-194
+R5	Association Arg1:T36 Arg2:T15	
+T37	RNA-Noncoding 1299 1306	miR-194
+T38	Drug 1299 1306	miR-194
+#19	AnnotatorNotes T38	C554846
+R6	Response Arg1:T38 Arg2:T17	
+T39	Gene-Protein 1428 1434	PHLDA1
+#7	AnnotatorNotes T39	HGNC:8933
+T40	RNA-Noncoding 1463 1470	miR-194
+T41	Gene-Protein 1504 1510	PHLDA1
+T42	Biomarker 1504 1510	PHLDA1
+#23	AnnotatorNotes T42	C491923
+T43	Collection 1545 1611	gastric cancer ³⁴ , ovarian cancer ³⁵ and papillary adenocarcinoma
+R7	Association Arg1:T42 Arg2:T43	
+T44	Biomarker 1715 1736	PHLDA1 is upregulated
+T45	Gene-Protein 1715 1721	PHLDA1
+R8	Association Arg1:T44 Arg2:T25	
+T46	RNA-Noncoding 1911 1918	miR-194
+T47	Drug-Class 1911 1929	miR-194 inhibitors
+R9	Response Arg1:T47 Arg2:T27	
+T48	Biomarker 1860 1868	sh-SNHG1
+T49	RNA-Noncoding 1863 1868	SNHG1
+R10	Association Arg1:T48 Arg2:T27	

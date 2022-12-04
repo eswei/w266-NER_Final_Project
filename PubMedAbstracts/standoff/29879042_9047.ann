@@ -1,0 +1,73 @@
+T1	Biomarker 30 53	Small vessel vasculitis
+#1	AnnotatorNotes T1	C565222
+T11	Gene-Protein 420 424	ANCA
+T12	Disease 420 463	ANCA negative pauci immune renal vasculitis
+#3	AnnotatorNotes T12	not found
+T16	Biomarker 536 592	idiopathic bronchiolitis obliterans organizing pneumonia
+#7	AnnotatorNotes T16	D018549
+T19	Disease 594 598	BOOP
+#9	AnnotatorNotes T19	D018549
+T21	Biomarker 616 645	pauci-immune renal vasculitis
+T23	Disease 665 703	rapidly progressive glomerulonephritis
+#12	AnnotatorNotes T23	DOID:4776
+T24	Disease 705 709	RPGN
+T25	Biomarker 736 763	diffuse alveolar hemorrhage
+T27	Gene-Protein 769 773	ANCA
+T29	Disease 769 801	ANCA negative glomerulonephritis
+T3	Disease 72 88	pulmonary lesion
+#18	AnnotatorNotes T3	not found
+T31	Disease 899 917	glomerular lesions
+#19	AnnotatorNotes T31	DOID:1312
+T33	Gene-Protein 1031 1042	lactoferrin
+T34	Disease 1060 1116	ANCA-negative pauci-immune crescentic glomerulonephritis
+#21	AnnotatorNotes T34	not found
+T37	Disease 1139 1160	ANCA-positive disease
+#23	AnnotatorNotes T37	not found
+T38	Biomarker 1191 1215	pulmonary renal syndrome
+#24	AnnotatorNotes T38	C538458
+T4	Disease 106 130	pulmonary renal syndrome
+#25	AnnotatorNotes T4	C538458
+T40	Disease 1219 1243	ANCA negative vasculitis
+#26	AnnotatorNotes T40	not found
+T42	Disease 1359 1364	cough
+#27	AnnotatorNotes T42	DOID:1116
+T43	Disease 1369 1376	dyspnea
+T44	Disease 1416 1426	hemoptysis
+T46	Disease 1490 1493	DAH
+T48	Biomarker 1598 1607	hematuria
+#33	AnnotatorNotes T48	D006417
+T5	Disease 184 236	ANCA-negative rapidly progressive glomerulonephritis
+#34	AnnotatorNotes T5	not found
+T50	Biomarker 1609 1620	proteinuria
+#35	AnnotatorNotes T50	D011507
+T52	Disease 1653 1666	renal failure
+#36	AnnotatorNotes T52	DOID:1074
+T6	Gene-Protein 301 305	ANCA
+T7	Disease 301 325	ANCA positive vasculitis
+#38	AnnotatorNotes T7	not found
+T2	Gene-Protein 184 188	ANCA
+#2	AnnotatorNotes T2	not found
+#4	AnnotatorNotes T24	DOID:4776
+#5	AnnotatorNotes T29	not found
+T8	Biomarker 862 885	neutrophil infiltration
+#6	AnnotatorNotes T8	D020556
+R2	Association Arg1:T8 Arg2:T31	
+T9	Gene-Protein 1060 1064	ANCA
+#10	AnnotatorNotes T33	HGNC:6720
+T10	Biomarker 961 1042	higher levels of serum neutrophil-gelatinase-associated lipocalin and lactoferrin
+T13	Gene-Protein 984 1026	neutrophil-gelatinase-associated lipocalin
+#8	AnnotatorNotes T13	HGNC:6526
+R3	Association Arg1:T10 Arg2:T34	
+T14	Gene-Protein 1139 1143	ANCA
+T15	Gene-Protein 1219 1223	ANCA
+R4	Association Arg1:T38 Arg2:T40	
+#13	AnnotatorNotes T43	D004417
+#15	AnnotatorNotes T44	D006469
+#17	AnnotatorNotes T46	not found
+T17	Biomarker 1428 1438	Hemoptysis
+T18	Collection 1598 1620	hematuria, proteinuria
+R6	Association Arg1:T18 Arg2:T52	
+R7	Association Arg1:T1 Arg2:T4	
+#16	AnnotatorNotes T17	D006469
+R1	Association Arg1:T16 Arg2:T23	
+R5	Association Arg1:T21 Arg2:T23	

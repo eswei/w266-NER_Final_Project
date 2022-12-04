@@ -1,0 +1,63 @@
+T0	Gene-Protein 30 33	FTO
+T1	Chemical 79 97	N3-methylthymidine
+T10	Disease 572 575	AML
+#3	AnnotatorNotes T10	DOID:9119
+T12	Gene-Protein 597 600	FTO
+T13	Disease 726 729	AML
+T14	Gene-Protein 772 775	FTO
+T15	Disease 813 816	AML
+T16	Chemical 859 882	all-trans-retinoic acid
+T17	Gene-Protein 906 909	FTO
+T18	Disease 945 948	AML
+T2	Chemical 129 145	N3-methyluridine
+T20	Gene-Protein 1012 1015	FTO
+T21	Disease 1019 1024	tumor
+#13	AnnotatorNotes T21	DOID:162
+T22	Disease 1050 1082	cervical squamous cell carcinoma
+#14	AnnotatorNotes T22	DOID:3744
+T23	Disease 1084 1088	CSCC
+T24	Gene-Protein 1208 1211	FTO
+T25	Gene-Protein 1391 1394	FTO
+T27	Disease 1423 1427	CSCC
+T29	Gene-Protein 1537 1540	FTO
+T3	Gene-Protein 192 195	FTO
+T30	Disease 1613 1617	CSCC
+T4	Gene-Protein 271 274	FTO
+T5	Chemical 307 332	N6-hydroxymethyladenosine
+T6	Chemical 334 338	hm6A
+T7	Chemical 372 390	N6-formyladenosine
+T8	Chemical 392 395	f6A
+T9	Disease 548 570	acute myeloid leukemia
+#27	AnnotatorNotes T9	DOID:9119
+#1	AnnotatorNotes T0	HGNC:24678
+T11	Chemical 234 237	m6A
+T19	Chemical 284 287	m6A
+T26	Gene-Protein 656 660	ASB2
+#4	AnnotatorNotes T26	HGNC:16012
+T28	Gene-Protein 665 669	RARA
+#6	AnnotatorNotes T28	HGNC:9864
+T31	Biomarker 578 600	high expression of FTO
+T32	Biomarker 753 775	high expression of FTO
+R1	Association Arg1:T31 Arg2:T9	
+R2	Association Arg1:T32 Arg2:T15	
+#5	AnnotatorNotes T23	DOID:3744
+T33	Collection 1019 1082	tumor tissues of patients with cervical squamous cell carcinoma
+T34	Biomarker 982 1015	increase in the expression of FTO
+T35	Drug-Class 1161 1173	chemotherapy
+T36	Drug-Class 1144 1156	radiotherapy
+T37	Collection 1144 1173	radiotherapy and chemotherapy
+R3	Mediated-Non-Response Arg1:T37 Arg2:T33	
+T38	GeneFamily 1287 1296	β-catenin
+#7	AnnotatorNotes T38	family:1542
+T39	Gene-Protein 1337 1342	ERCC1
+#8	AnnotatorNotes T39	HGNC:3433
+T40	GeneFamily 1399 1408	β-catenin
+T41	Biomarker 1391 1419	FTO and β-catenin expression
+T42	GeneFamily 1545 1554	β-catenin
+T43	Biomarker 1523 1554	expression of FTO and β-catenin
+R4	Prognostic-Poor Arg1:T41 Arg2:T27	
+R5	Association Arg1:T43 Arg2:T30	
+T44	Biomarker 616 675	level of m⁶A methylation in the mRNA of ASB2 and RARA genes
+T45	Chemical 625 628	m⁶A
+T46	Chemical 1224 1227	m⁶A
+R6	Mediator Arg1:T37 Arg2:T34	

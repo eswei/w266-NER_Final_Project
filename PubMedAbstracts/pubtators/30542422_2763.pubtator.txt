@@ -1,0 +1,42 @@
+30542422_2763|t|RSS_IDENT_p_30542422_b_1_1_3
+30542422_2763|a| Micro ribonucleic acids (miRNAs) are a class of endo-genous, non-coding small molecule RNA, which regulate the expression of target genes by inhibiting or promoting the lysis of messenger RNA (mRNA) through specific translation of sequences, resulting in the different impacts of biological behavior of tumors ( 6 ). Many studies have found that miRNA is expressed in other cancers and diseases. miRNA-141 (miR-141), a member of the miRNA-200 family, plays an important role in the occurrence, development and physiological status of diseases by regulating different signaling pathways ( 7 ). Research has shown that ( 8 ) miR-141 is closely related to tumor and angiogenesis. In the study of Liu et al ( 9 ), through the analysis of 7 GEO chips, it was found that miR-141 was differentially expressed in the tissues of liver cancer patients. miRNA-183 (miR-183), located on human 7q32.2 chromosome, is one of the most important members of the miR-183 family. In addition, research has shown that miR-183 is closely related to tumor occurrence and recurrence ( 10 ). The study of Fan et al ( 11 ) has shown that the differential expression of miR-183 in breast cancer patients was found through the analysis of GEO (GSE39093) chip. However, it is not clear whether miR-141, miR-183 and IAAA are related. Some studies have shown that ( 12 , 13 ) miR-183 and miR-141 are highly expressed in TB patients, while TB bacillus, as the main pathogenic microorganism of IAAA, has not been reported in relevant studies before. The relationship between miR-183, miR-141 and clinicopathological characteristics as well as follow-up data were studied by detecting the expression levels of miR-141 and miR-183 in IAAA to explore whether miR-183 and miR-141 were potential risk factors for the poor prognosis of patients with IAAA. 
+30542422_2763	333	339	tumors	Disease	DOID:162
+30542422_2763	376	381	miRNA	Rna-noncoding	family:476
+30542422_2763	376	381	miRNA	Biomarker	D035683
+30542422_2763	404	411	cancers	Disease	DOID:162
+30542422_2763	426	435	miRNA-141	Rna-noncoding	HGNC:31528
+30542422_2763	437	444	miR-141	Rna-noncoding	HGNC:31528
+30542422_2763	463	472	miRNA-200	Rna-noncoding	family:1709
+30542422_2763	653	660	miR-141	Rna-noncoding
+30542422_2763	653	660	miR-141	Biomarker	C533895
+30542422_2763	683	688	tumor	Disease	DOID:162
+30542422_2763	795	802	miR-141	Rna-noncoding
+30542422_2763	795	802	miR-141	Biomarker
+30542422_2763	850	862	liver cancer	Disease	DOID:3571
+30542422_2763	873	882	miRNA-183	Rna-noncoding	HGNC:31554
+30542422_2763	884	891	miR-183	Rna-noncoding	HGNC:31554
+30542422_2763	974	981	miR-183	Rna-noncoding
+30542422_2763	1025	1036	t miR-183 i	Rna-noncoding
+30542422_2763	1027	1034	miR-183	Biomarker	C533449
+30542422_2763	1057	1062	tumor	Disease
+30542422_2763	1173	1180	miR-183	Rna-noncoding
+30542422_2763	1173	1180	miR-183	Biomarker
+30542422_2763	1184	1197	breast cancer	Disease	DOID:1612
+30542422_2763	1295	1302	miR-141	Rna-noncoding
+30542422_2763	1304	1311	miR-183	Rna-noncoding
+30542422_2763	1316	1320	IAAA	Disease	not found
+30542422_2763	1375	1382	miR-183	Rna-noncoding
+30542422_2763	1375	1415	miR-183 and miR-141 are highly expressed	Biomarker
+30542422_2763	1387	1394	miR-141	Rna-noncoding
+30542422_2763	1419	1421	TB	Disease	DOID:399
+30542422_2763	1438	1449	TB bacillus	Microorganism
+30542422_2763	1491	1495	IAAA	Disease
+30542422_2763	1572	1579	miR-183	Rna-noncoding
+30542422_2763	1581	1588	miR-141	Rna-noncoding
+30542422_2763	1706	1713	miR-141	Rna-noncoding
+30542422_2763	1718	1725	miR-183	Rna-noncoding
+30542422_2763	1729	1733	IAAA	Disease
+30542422_2763	1753	1760	miR-183	Rna-noncoding
+30542422_2763	1765	1772	miR-141	Rna-noncoding
+30542422_2763	1841	1845	IAAA	Disease
+

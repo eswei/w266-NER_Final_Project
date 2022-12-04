@@ -1,0 +1,34 @@
+30558126_8339|t|RSS_IDENT_p_30558126_b_1_3_4
+30558126_8339|a| Similar to our results, a few previous in vivo/in vitro studies have demonstrated that silica dust exposure could increase the expression levels of HMGB-1. For instance, Zhang et al. found that SiO₂ induced a rapid and sustained increase of HMGB-1 expression in RAW264.7 cells [ 16 ]. Laurie et al. reported that the expression of HMGB-1 in lung tissues was significantly elevated by intratracheal instillation crystalline silica suspension in mice [ 14 ]. Although the above-mentioned studies provide important evidence that long-term silica could induce HMGB-1 overexpression, whether the elevated HMGB-1 also played an important role in the development of silica-induced lung fibrosis is still largely unknown. Previous studies have suggested that HMGB-1 is significantly associated with idiopathic pulmonary fibrosis (IPF). For instance, Hamada et al. reported that the concentrations of HMGB-1 in bronchoalveolar lavage fluid (BALF) were significantly increased in subjects with IPF [ 17 ]. Abe et al. found that the concentrations of HMGB-1 in serum were increased in IPF with acute exacerbation [ 18 ]. In agreement with previous studies, our results show that the elevated HMGB-1 level was significantly associated with higher odds of silicosis. These results indicate that the HMGB-1-mediated inflammatory signaling pathway might be involved in the process of silicosis. 
+30558126_8339	117	123	silica	Chemical
+30558126_8339	178	184	HMGB-1	Gene-protein	HGNC:4983
+30558126_8339	224	228	SiO₂	Chemical
+30558126_8339	271	277	HMGB-1	Gene-protein
+30558126_8339	292	300	RAW264.7	Cellline
+30558126_8339	361	367	HMGB-1	Gene-protein
+30558126_8339	361	410	HMGB-1 in lung tissues was significantly elevated	Biomarker
+30558126_8339	453	459	silica	Chemical
+30558126_8339	566	572	silica	Chemical
+30558126_8339	586	592	HMGB-1	Gene-protein
+30558126_8339	586	607	HMGB-1 overexpression	Biomarker
+30558126_8339	621	636	elevated HMGB-1	Biomarker
+30558126_8339	630	636	HMGB-1	Gene-protein
+30558126_8339	689	695	silica	Chemical
+30558126_8339	689	717	silica-induced lung fibrosis	Disease	not found
+30558126_8339	781	787	HMGB-1	Gene-protein
+30558126_8339	781	787	HMGB-1	Biomarker	D024243
+30558126_8339	821	850	idiopathic pulmonary fibrosis	Disease	DOID:0050156
+30558126_8339	852	855	IPF	Disease	DOID:0050156
+30558126_8339	904	996	concentrations of HMGB-1 in bronchoalveolar lavage fluid (BALF) were significantly increased	Biomarker
+30558126_8339	922	928	HMGB-1	Gene-protein
+30558126_8339	1014	1017	IPF	Disease
+30558126_8339	1052	1100	concentrations of HMGB-1 in serum were increased	Biomarker
+30558126_8339	1070	1076	HMGB-1	Gene-protein
+30558126_8339	1104	1107	IPF	Disease
+30558126_8339	1202	1223	elevated HMGB-1 level	Biomarker
+30558126_8339	1211	1217	HMGB-1	Gene-protein
+30558126_8339	1273	1282	silicosis	Disease	DOID:10325
+30558126_8339	1316	1322	HMGB-1	Gene-protein
+30558126_8339	1316	1362	HMGB-1-mediated inflammatory signaling pathway	Biomarker
+30558126_8339	1399	1408	silicosis	Disease
+

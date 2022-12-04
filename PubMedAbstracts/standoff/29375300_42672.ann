@@ -1,0 +1,75 @@
+T1	Disease 185 190	tumor
+#1	AnnotatorNotes T1	DOID:162
+T10	Disease 949 952	GBM
+#2	AnnotatorNotes T10	DOID:3068
+T12	RNA-Noncoding 999 1006	MiR-211
+T13	Disease 1139 1153	gastric cancer
+#4	AnnotatorNotes T13	DOID:10534
+T14	Disease 1313 1321	melanoma
+#5	AnnotatorNotes T14	DOID:1909
+T16	Disease 1500 1508	melanoma
+T17	Disease 1544 1559	cervical cancer
+#7	AnnotatorNotes T17	DOID:4362
+T18	Disease 1641 1647	cancer
+#8	AnnotatorNotes T18	DOID:162
+T21	Disease 1793 1796	GBM
+T4	Disease 338 355	bladder carcinoma
+#10	AnnotatorNotes T4	DOID:4007
+T6	Disease 399 416	bladder carcinoma
+T8	Disease 552 567	prostate cancer
+#12	AnnotatorNotes T8	DOID:10283
+T9	Disease 608 623	prostate cancer
+#13	AnnotatorNotes T9	DOID:10283
+T2	Gene-Protein 757 761	KLF5
+T3	Gene-Protein 250 254	KLF5
+T5	Gene-Protein 993 997	KLF5
+T7	Gene-Protein 592 596	KLF5
+T11	Gene-Protein 875 879	KLF5
+T15	Gene-Protein 529 533	KLF5
+T19	RNA-Noncoding 1266 1273	miR-211
+T20	RNA-Noncoding 1561 1568	miR-211
+T22	RNA-Noncoding 1398 1405	miR-211
+T23	RNA-Noncoding 931 938	miR-211
+T24	RNA-Noncoding 1101 1108	miR-211
+T25	Gene-Protein 1823 1827	KLF5
+T26	Gene-Protein 1479 1484	PRAME
+T27	RNA-Noncoding 854 861	miR-211
+T28	Gene-Protein 159 163	KLF5
+T29	Gene-Protein 43 47	KLF5
+#3	AnnotatorNotes T29	HGNC:6349
+T30	Gene-Protein 298 302	KLF5
+T31	Gene-Protein 384 388	KLF5
+T32	Gene-Protein 1282 1288	KCNMA1
+#14	AnnotatorNotes T32	HGNC:6284
+T33	Gene-Protein 1448 1453	PRAME
+#15	AnnotatorNotes T33	HGNC:9336
+T34	RNA-Noncoding 1774 1781	miR-211
+T35	Biomarker 159 163	KLF5
+#16	AnnotatorNotes T35	C492214
+T36	Biomarker 298 334	KLF5 has been found highly expressed
+R1	Association Arg1:T35 Arg2:T1	
+R2	Association Arg1:T36 Arg2:T4	
+T37	Biomarker 529 548	KLF5 is upregulated
+R3	Association Arg1:T37 Arg2:T8	
+T38	GeneFamily 664 667	AKT
+#11	AnnotatorNotes T38	family:1900
+T39	RNA-Noncoding 793 800	miR-211
+#17	AnnotatorNotes T39	HGNC:31588
+T40	Drug 931 938	miR-211
+#18	AnnotatorNotes T40	C549405
+R4	Response Arg1:T40 Arg2:T10	
+#19	AnnotatorNotes T12	HGNC:31588
+T41	Gene-Protein 1204 1208	SOX4
+#20	AnnotatorNotes T41	HGNC:11200
+T42	Drug 1101 1108	miR-211
+T43	Drug 1266 1273	miR-211
+R5	Response Arg1:T43 Arg2:T14	
+T44	Drug 1774 1781	miR-211
+R6	Response Arg1:T44 Arg2:T21	
+T45	Drug 1561 1568	miR-211
+R7	Response Arg1:T45 Arg2:T17	
+T46	Gene-Protein 1667 1671	MUC4
+#6	AnnotatorNotes T46	HGNC:7514
+T47	Biomarker 1380 1405	downregulation of miR-211
+R8	Response Arg1:T42 Arg2:T13	
+R9	Association Arg1:T47 Arg2:T16	

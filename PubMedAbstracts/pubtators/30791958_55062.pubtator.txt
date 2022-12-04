@@ -1,0 +1,36 @@
+30791958_55062|t|RSS_IDENT_p_30791958_b_1_4_3
+30791958_55062|a| Initially, we found that LINC00968 was poorly expressed during breast cancer while WNT2 and β-catenin expression as well as β-catenin and GSK3β phosphorylation were markedly increased. A recent study demonstrated that LINC00968, one of the top 10 aberrantly expressed lncRNAs, was low in lung squamous cell carcinoma expression profile than the adjacent normal lung tissues [ 31 ]. Additionally, another similar work has shown that a lncRNA, i.e. lncRNA-GAS5, was also under-expressed in breast cancer cells [ 32 ]. LncRNA anti-differentiation noncoding RNA was also down-regulated in breast cancer, and enhances transforming growth factor-β-induced epithelial to mesenchymal transition and metastasis [ 33 ]. On the other hand, relative expression profiles of WNT2 were also documented to be elevated in cervical cancer and its abundance have a significant impact on positive parametrium, lymphovascular space involvement, tumor size and pelvic lymph node metastasis [ 34 ]. Another previous study in line with our current work also demonstrated relatively higher WNT2 expression in breast cancer, which may play an important role for breast cancer development and in turn, its treatment [ 35 ]. Lastly, axin1, phospho-β-catenin and GSK3β complex has been demonstrated to be associated with heat shock protein 90 α/β in the human MCF-7 epithelial breast cancer model [ 36 ]. 
+30791958_55062	55	64	LINC00968	Rna-noncoding	HGNC:48727
+30791958_55062	55	85	LINC00968 was poorly expressed	Biomarker
+30791958_55062	93	106	breast cancer	Disease	DOID:1612
+30791958_55062	113	117	WNT2	Gene-protein	HGNC:12780
+30791958_55062	113	213	WNT2 and β-catenin expression as well as β-catenin and GSK3β phosphorylation were markedly increased	Biomarker
+30791958_55062	122	131	β-catenin	Genefamily	family:1542
+30791958_55062	154	163	β-catenin	Genefamily
+30791958_55062	168	173	GSK3β	Gene-protein	HGNC:4617
+30791958_55062	248	257	LINC00968	Rna-noncoding
+30791958_55062	248	257	LINC00968	Biomarker
+30791958_55062	318	346	lung squamous cell carcinoma	Disease	DOID:3907
+30791958_55062	477	488	lncRNA-GAS5	Rna-noncoding	HGNC:16355
+30791958_55062	477	514	lncRNA-GAS5, was also under-expressed	Biomarker
+30791958_55062	518	531	breast cancer	Disease
+30791958_55062	553	587	anti-differentiation noncoding RNA	Rna-noncoding	HGNC:28964
+30791958_55062	553	611	anti-differentiation noncoding RNA was also down-regulated	Biomarker
+30791958_55062	615	628	breast cancer	Disease
+30791958_55062	643	672	transforming growth factor-β-	Genefamily	family:1664
+30791958_55062	791	795	WNT2	Gene-protein
+30791958_55062	791	831	WNT2 were also documented to be elevated	Biomarker
+30791958_55062	835	850	cervical cancer	Disease	DOID:4362
+30791958_55062	1077	1099	relatively higher WNT2	Biomarker
+30791958_55062	1095	1099	WNT2	Gene-protein
+30791958_55062	1114	1127	breast cancer	Disease
+30791958_55062	1166	1179	breast cancer	Disease
+30791958_55062	1235	1240	axin1	Gene-protein	HGNC:903
+30791958_55062	1235	1277	axin1, phospho-β-catenin and GSK3β complex	Biomarker
+30791958_55062	1242	1259	phospho-β-catenin	Genefamily	family:1542
+30791958_55062	1264	1269	GSK3β	Gene-protein
+30791958_55062	1322	1347	heat shock protein 90 α/β	Gene-protein	HGNC:5253, HGNC:5258
+30791958_55062	1322	1347	heat shock protein 90 α/β	Biomarker	C112969, C493165
+30791958_55062	1361	1366	MCF-7	Cellline
+30791958_55062	1378	1391	breast cancer	Disease
+

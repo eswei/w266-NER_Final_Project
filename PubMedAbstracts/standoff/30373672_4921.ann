@@ -1,0 +1,42 @@
+T0	Disease 68 71	GSS
+T10	Chemical 864 877	malononitrile
+T11	Chemical 879 889	[¹⁸F]FDDNP
+T12	Chemical 896 919	[¹⁸F]fluorodeoxyglucose
+T13	Chemical 921 924	FDG
+T15	Disease 997 1011	PRNP F198S GSS
+T17	Chemical 1064 1074	[¹⁸F]FDDNP
+T2	Disease 294 308	PRNP F198S GSS
+T21	Disease 1233 1247	PRNP F198S GSS
+T22	Chemical 1300 1308	[¹¹C]PiB
+T23	Variant 1436 1441	P102L
+T24	Variant 1463 1468	F198S
+T3	Disease 457 460	GSS
+T4	Variant 497 502	F198S
+T5	Variant 557 562	F198S
+T6	Disease 675 678	GSS
+T8	Disease 736 750	PRNP F198S GSS
+T9	Chemical 790 864	-(1-(6-[(2-[fluorine-18]fluoroethyl)(methyl)amino]-2-naphthyl)-ethylidene)
+#1	AnnotatorNotes T0	DOID:4249
+T16	Gene-Protein 294 298	PRNP
+#2	AnnotatorNotes T16	HGNC:9449
+T18	Gene-Protein 492 496	PRNP
+R2	Variant-Of Arg1:T18 Arg2:T4	
+T26	Gene-Protein 736 740	PRNP
+T27	Gene-Protein 1233 1237	PRNP
+T28	Gene-Protein 552 556	PRNP
+T29	Gene-Protein 1431 1435	PRNP
+T30	Gene-Protein 1458 1462	PRNP
+R4	Variant-Of Arg1:T29 Arg2:T23	
+R5	Variant-Of Arg1:T30 Arg2:T24	
+R6	Variant-Of Arg1:T28 Arg2:T5	
+T31	Gene-Protein 997 1001	PRNP
+T32	Biomarker 1054 1146	increased [¹⁸F]FDDNP binding in the basal ganglia, thalamus, cerebral cortex, and cerebellum
+R9	Association Arg1:T32 Arg2:T15	
+#4	AnnotatorNotes T23	p.Pro102Leu
+T25	Disease 1171 1183	mild atrophy
+#5	AnnotatorNotes T25	not found
+T33	Gene-Protein 1333 1335	Aβ
+#6	AnnotatorNotes T33	not found
+R10	Association Arg1:T4 Arg2:T3	
+#7	AnnotatorNotes T2	not found
+#3	AnnotatorNotes T4	p.Phe198Ser

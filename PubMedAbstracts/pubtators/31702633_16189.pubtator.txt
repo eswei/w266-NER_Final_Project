@@ -1,0 +1,44 @@
+31702633_16189|t|RSS_IDENT_p_31702633_b_1_4_6
+31702633_16189|a| AAU is the most common form of immune-mediated uveitis, which was suggested to be strongly associated with HLA-B27 and AS and other seronegative spondyloarthropathies (SpA).[ ⁴⁴ ] Recent publications have shown that AAU has been associated with the early onset of SpA in HLA-B27-positive patients.[ ⁴⁵ ] Maksymowych et al. suggested that the frequency of LMP2 gene polymorphism was significantly different in AS patients with and without a history of AAU.[ ³¹ ] At the same time, LMP2 gene polymorphism was correlated with the incidence of peripheral joints of AS. Studies have reported that there were significant differences between the normal population and patients with AS alone and those with AAU history (P < .05) but also between the normal population and patients with AS alone and those with AAU history (P < .05), and there was no significant difference between the latter two groups, indicating that there was a significant increase in LMP2 AA genotype in patients with AAU alone.[ ⁴⁶ ] Therefore, the increased frequency of the AA genotype or allele A of the LMP2 gene is not only correlated with the occurrence of AS AAU but also correlated with the occurrence of pure AAU. Homozygous AA was associated with the incidence of AS +AAU or pure AAU, but the cause was not clear. According to previous data, the LMP2 AA genotype may have linkage imbalance with HLA-B27, which may independently play a role in the pathogenesis of AAU.[ ²⁸ ] In our meta-analysis, no association was found between all the genetic models of LMP CofI polymorphism, which was in contrast with previous work conducted by Maksymowych et al.[ ¹⁶ , ¹⁹ ] Based on the larger sample size in the present meta-analysis, we may conclude that the LMP CofI polymorphism might not be a susceptible factor for AAU. 
+31702633_16189	30	33	AAU	Disease	DOID:1407
+31702633_16189	61	84	immune-mediated uveitis	Disease	DOID:0040088
+31702633_16189	137	144	HLA-B27	Biomarker	 D015796
+31702633_16189	137	196	HLA-B27 and AS and other seronegative spondyloarthropathies	Collection
+31702633_16189	149	151	AS	Biomarker	D013167
+31702633_16189	162	196	seronegative spondyloarthropathies	Biomarker
+31702633_16189	198	201	SpA	Disease	not found
+31702633_16189	246	249	AAU	Disease
+31702633_16189	279	317	early onset of SpA in HLA-B27-positive	Biomarker
+31702633_16189	372	435	frequency of LMP2 gene polymorphism was significantly different	Biomarker
+31702633_16189	385	389	LMP2	Gene-protein	HGNC:9546
+31702633_16189	439	441	AS	Disease	DOID:7147
+31702633_16189	481	484	AAU	Disease
+31702633_16189	510	514	LMP2	Gene-protein
+31702633_16189	510	532	LMP2 gene polymorphism	Biomarker
+31702633_16189	591	593	AS	Disease
+31702633_16189	705	707	AS	Disease
+31702633_16189	729	732	AAU	Disease
+31702633_16189	808	810	AS	Disease
+31702633_16189	832	835	AAU	Disease
+31702633_16189	954	994	significant increase in LMP2 AA genotype	Biomarker
+31702633_16189	978	982	LMP2	Gene-protein
+31702633_16189	1012	1015	AAU	Disease
+31702633_16189	1044	1111	increased frequency of the AA genotype or allele A of the LMP2 gene	Biomarker
+31702633_16189	1102	1106	LMP2	Gene-protein
+31702633_16189	1158	1164	AS AAU	Disease	DOID:7147, DOID:1407	Conjunction
+31702633_16189	1158	1216	AS AAU but also correlated with the occurrence of pure AAU	Collection
+31702633_16189	1213	1216	AAU	Disease
+31702633_16189	1218	1231	Homozygous AA	Biomarker
+31702633_16189	1269	1276	AS +AAU	Disease	Conjunction
+31702633_16189	1269	1288	AS +AAU or pure AAU	Collection
+31702633_16189	1285	1288	AAU	Disease
+31702633_16189	1351	1355	LMP2	Gene-protein
+31702633_16189	1351	1367	LMP2 AA genotype	Biomarker
+31702633_16189	1385	1407	imbalance with HLA-B27	Biomarker
+31702633_16189	1468	1471	AAU	Disease
+31702633_16189	1560	1563	LMP	Gene-protein
+31702633_16189	1560	1581	LMP CofI polymorphism	Biomarker
+31702633_16189	1754	1757	LMP	Gene-protein
+31702633_16189	1754	1775	LMP CofI polymorphism	Biomarker
+31702633_16189	1814	1817	AAU	Disease
+

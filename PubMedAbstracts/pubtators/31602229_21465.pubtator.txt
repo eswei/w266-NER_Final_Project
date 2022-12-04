@@ -1,0 +1,103 @@
+31602229_21465|t|RSS_IDENT_s_31602229_b_1_4
+31602229_21465|a| Discussion Breast cancer is one of the leading causes of cancer-associated mortality among women worldwide ( 1 , 2 ). Despite advances in breast cancer chemotherapy ( 7 ), the development of chemotherapy resistance remains a major obstacle in successful breast cancer treatment ( 8 ). Gemcitabine is a widely used chemotherapy drug that serves an important role in the treatment of advanced breast cancer ( 6 ). However, its therapeutic use in cancer chemotherapy is impeded, at least in part, by drug resistance ( 25 ). Over the past decade, increasing research efforts focused on exploring the underlying mechanisms of drug resistance. Recently, various studies have suggested that miRNAs serve an important role in chemotherapy resistance ( 26 , 27 ). miRNAs are tumor suppressors or oncogenes and are able to modulate cancer progression, including cell proliferation and apoptosis ( 16 , 28 ). Certain miRNAs, including let-7, miR-122, miR-152 and miR-1246, have been reported to modulate liver cancer stem cells by directly or indirectly binding to specific target genes that are involved in signal pathways, including the Wnt/β-catenin signaling, TGF-β signaling, JAK/STAT signaling and epithelial-mesenchymal transition (EMT) pathway ( 27 ). Yu et al ( 29 ) reported that miR-200a was overexpressed in gemcitabine-resistant breast cancer cells and that miR-200a inhibition restored sensitivity. In this study, miR-200a promoted DNA damage resistance by inhibiting DNA damage-induced apoptosis via Yes associated protein 1 and tumor protein p53 inducible nuclear protein 1. Previous studies revealed that miR-205-5p is one of the most researched miRNAs in breast cancer and it regulates cell proliferation and invasion ( 21 , 30 ). Li and Li ( 31 ) reported that miR-205-5p inhibited cell migration and invasion in prostate carcinoma by targeting zinc finger E-box binding homeobox (ZEB) 1. Previous studies further reported that compared with differentiated tumor cells, patient-derived breast cancer stem cells expressed higher levels of miR-205-5p ( 22 ). miR-205-5p upregulation controls cancer stem cell phenotype by targeting erb-b2 receptor tyrosine kinase 2, tumor protein p63 and epidermal growth factor receptor contributing to targeted therapy resistance ( 24 ). miR-205 accumulation confers gemcitabine sensitivity and in gemcitabine-resistant cancer stem cells it targets and suppresses ZEB1/2, E2F transcriptional factor 1, erb-b2 receptor tyrosine kinase 3 and vascular endothelial growth factor A ( 32 ). However, the effects of miR-205-5p on gemcitabine resistance in breast cancer cells remain to be elucidated. In the current study, using cell viability assays, miR-205-5p overexpression in combination with gemcitabine treatment at varying concentration was used to investigate gemcitabine-sensitivity of breast cancer cells. miR-205-5p overexpression increased gemcitabine sensitivity in breast cancer cells. Additionally, miR-205-5p was downregulated in the established MDA-MB-231/GEM cells and induced miR-205-5p overexpression reversed gemcitabine resistance of MDA-MB-231/GEM cells. Furthermore, in the present study, miR-205-5p overexpression increased apoptosis in MDA-MB-231/GEM cells following treatment with 40 nM gemcitabine. The results revealed the role of miR-205-5p in breast cancer gemcitabine resistance.
+31602229_21465	39	52	Breast cancer	Biomarker	D001943
+31602229_21465	85	112	cancer-associated mortality	Disease	not found
+31602229_21465	166	179	breast cancer	Disease	DOID:1612
+31602229_21465	180	192	chemotherapy	Drug-class
+31602229_21465	219	231	chemotherapy	Drug-class
+31602229_21465	282	295	breast cancer	Disease
+31602229_21465	313	324	Gemcitabine	Drug	CHEMBL888
+31602229_21465	342	354	chemotherapy	Drug-class
+31602229_21465	410	432	advanced breast cancer	Disease	DOID:1612
+31602229_21465	472	478	cancer	Disease	DOID:162
+31602229_21465	479	491	chemotherapy	Drug-class
+31602229_21465	712	718	miRNAs	Biomarker	D035683
+31602229_21465	712	718	miRNAs	Rna-noncoding	family:476
+31602229_21465	746	758	chemotherapy	Drug-class
+31602229_21465	783	789	miRNAs	Biomarker
+31602229_21465	783	789	miRNAs	Rna-noncoding
+31602229_21465	850	856	cancer	Disease
+31602229_21465	952	957	let-7	Rna-noncoding
+31602229_21465	952	957	let-7	Biomarker
+31602229_21465	952	989	let-7, miR-122, miR-152 and miR-1246,	Collection
+31602229_21465	959	966	miR-122	Rna-noncoding	HGNC:31501
+31602229_21465	959	966	miR-122	Biomarker
+31602229_21465	968	975	miR-152	Rna-noncoding
+31602229_21465	968	975	miR-152	Biomarker
+31602229_21465	980	988	miR-1246	Rna-noncoding	HGNC:35312
+31602229_21465	980	988	miR-1246	Biomarker
+31602229_21465	1021	1033	liver cancer	Disease	DOID:3571
+31602229_21465	1156	1159	Wnt	Genefamily	family:360
+31602229_21465	1160	1169	β-catenin	Genefamily	family:1542
+31602229_21465	1181	1186	TGF-β	Genefamily	family:1664
+31602229_21465	1198	1201	JAK	Genefamily	family:1459
+31602229_21465	1202	1206	STAT	Genefamily
+31602229_21465	1307	1315	miR-200a	Rna-noncoding	HGNC:31578
+31602229_21465	1307	1333	miR-200a was overexpressed	Biomarker
+31602229_21465	1337	1348	gemcitabine	Drug	CHEMBL888
+31602229_21465	1337	1372	gemcitabine-resistant breast cancer	Disease
+31602229_21465	1388	1396	miR-200a	Rna-noncoding
+31602229_21465	1445	1453	miR-200a	Rna-noncoding
+31602229_21465	1532	1556	Yes associated protein 1	Gene-protein	HGNC:16262
+31602229_21465	1575	1606	p53 inducible nuclear protein 1	Gene-protein	HGNC:18022
+31602229_21465	1639	1649	miR-205-5p	Biomarker
+31602229_21465	1639	1649	miR-205-5p	Rna-noncoding
+31602229_21465	1690	1703	breast cancer	Disease
+31602229_21465	1797	1807	miR-205-5p	Drug	not found
+31602229_21465	1797	1807	miR-205-5p	Rna-noncoding
+31602229_21465	1849	1867	prostate carcinoma	Disease	DOID:10286
+31602229_21465	1881	1885	zinc	Chemical
+31602229_21465	1881	1923	zinc finger E-box binding homeobox (ZEB) 1	Gene-protein	HGNC:11642
+31602229_21465	1993	1998	tumor	Disease	DOID:162
+31602229_21465	2022	2035	breast cancer	Disease
+31602229_21465	2057	2091	higher levels of miR-205-5p ( 22 )	Biomarker
+31602229_21465	2074	2084	miR-205-5p	Rna-noncoding
+31602229_21465	2093	2103	miR-205-5p	Rna-noncoding
+31602229_21465	2093	2116	miR-205-5p upregulation	Biomarker
+31602229_21465	2126	2132	cancer	Disease
+31602229_21465	2166	2199	erb-b2 receptor tyrosine kinase 2	Gene-protein	HGNC:3430
+31602229_21465	2166	2255	erb-b2 receptor tyrosine kinase 2, tumor protein p63 and epidermal growth factor receptor	Biomarker
+31602229_21465	2182	2190	tyrosine	Chemical
+31602229_21465	2215	2218	p63	Gene-protein	HGNC:15979
+31602229_21465	2223	2255	epidermal growth factor receptor	Gene-protein	HGNC:3236
+31602229_21465	2308	2315	miR-205	Rna-noncoding
+31602229_21465	2308	2328	miR-205 accumulation	Biomarker
+31602229_21465	2337	2348	gemcitabine	Drug
+31602229_21465	2368	2379	gemcitabine	Drug
+31602229_21465	2368	2396	gemcitabine-resistant cancer	Disease
+31602229_21465	2434	2440	ZEB1/2	Gene-protein	HGNC:11642, HGNC:14881
+31602229_21465	2442	2470	E2F transcriptional factor 1	Gene-protein	HGNC:3113
+31602229_21465	2472	2505	erb-b2 receptor tyrosine kinase 3	Gene-protein	HGNC:3431
+31602229_21465	2488	2496	tyrosine	Chemical
+31602229_21465	2510	2546	vascular endothelial growth factor A	Gene-protein	HGNC:12680
+31602229_21465	2579	2589	miR-205-5p	Rna-noncoding
+31602229_21465	2593	2604	gemcitabine	Drug
+31602229_21465	2619	2632	breast cancer	Disease
+31602229_21465	2715	2725	miR-205-5p	Rna-noncoding
+31602229_21465	2715	2740	miR-205-5p overexpression	Drug	not found
+31602229_21465	2761	2772	gemcitabine	Drug
+31602229_21465	2832	2843	gemcitabine	Drug
+31602229_21465	2859	2872	breast cancer	Disease
+31602229_21465	2880	2890	miR-205-5p	Rna-noncoding
+31602229_21465	2880	2905	miR-205-5p overexpression	Drug
+31602229_21465	2916	2927	gemcitabine	Drug
+31602229_21465	2943	2956	breast cancer	Disease
+31602229_21465	2978	2988	miR-205-5p	Rna-noncoding
+31602229_21465	2978	3006	miR-205-5p was downregulated	Biomarker
+31602229_21465	3026	3036	MDA-MB-231	Cellline
+31602229_21465	3037	3040	GEM	Drug	CHEMBL888
+31602229_21465	3059	3069	miR-205-5p	Rna-noncoding
+31602229_21465	3059	3084	miR-205-5p overexpression	Drug
+31602229_21465	3094	3105	gemcitabine	Drug
+31602229_21465	3120	3130	MDA-MB-231	Cellline
+31602229_21465	3131	3134	GEM	Drug
+31602229_21465	3177	3187	miR-205-5p	Rna-noncoding
+31602229_21465	3177	3202	miR-205-5p overexpression	Drug
+31602229_21465	3226	3236	MDA-MB-231	Cellline
+31602229_21465	3237	3240	GEM	Drug
+31602229_21465	3278	3289	gemcitabine	Drug
+31602229_21465	3324	3334	miR-205-5p	Biomarker
+31602229_21465	3324	3334	miR-205-5p	Rna-noncoding
+31602229_21465	3338	3351	breast cancer	Disease
+31602229_21465	3352	3363	gemcitabine	Drug
+

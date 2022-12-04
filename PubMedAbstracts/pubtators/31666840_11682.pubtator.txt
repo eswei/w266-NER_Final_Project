@@ -1,0 +1,36 @@
+31666840_11682|t|RSS_IDENT_p_31666840_b_1_4_3
+31666840_11682|a| Similarly, other studies found that hs-CRP was significantly elevated in PHT patients. They added that inflammation is a contributing factor to the progression of pulmonary hypertension [ 15 ], [ 16 ], hs-CRP is one of the short pentraxins and is strongly released secondary to inflammation. To clarify our results, multiple correlations were calculated between serum pentraxin3 and all other variables. It showed that PAP was positively correlated with serum pentraxin 3. This may be explained by that pentraxin 3 has a role in angiogenesis and vascular diseases. It is secreted at sites of inflammation not only by endothelial cells but also by macrophages and monocytes infiltrating sites of inflammation that happens in pulmonary hypertension [ 17 ]. No correlation was found between serum pentraxin 3 and hs-CRP as found in previous study [ 15 ]. To show the influence of pentraxin 3 and CRP on PAP as a dependent factor, we did linear regression analysis. This analysis showed that Pentraxin3 was the main sensitive biomarker of PAP than hs-CRP. This is similar to findings of Tamura et al., who added that hs-CRP is increased to a significant degree in the PAH group. This study also found that PAP was positively correlated with FS [ 15 ]. 
+31666840_11682	66	72	hs-CRP	Gene-protein	HGNC:2367
+31666840_11682	66	99	hs-CRP was significantly elevated	Biomarker
+31666840_11682	103	106	PHT	Disease	DOID:6432
+31666840_11682	133	145	inflammation	Biomarker	D007249
+31666840_11682	193	215	pulmonary hypertension	Disease	DOID:6432
+31666840_11682	232	238	hs-CRP	Gene-protein
+31666840_11682	232	294	hs-CRP is one of the short pentraxins and is strongly released	Biomarker
+31666840_11682	253	269	short pentraxins	Genefamily	family:1143
+31666840_11682	308	320	inflammation	Disease	D007249
+31666840_11682	398	408	pentraxin3	Gene-protein	HGNC:9692
+31666840_11682	449	452	PAP	Biomarker
+31666840_11682	484	501	serum pentraxin 3	Biomarker
+31666840_11682	490	501	pentraxin 3	Gene-protein
+31666840_11682	533	544	pentraxin 3	Gene-protein
+31666840_11682	533	544	pentraxin 3	Biomarker	C077657
+31666840_11682	576	593	vascular diseases	Disease	DOID:178
+31666840_11682	622	634	inflammation	Disease
+31666840_11682	725	737	inflammation	Disease
+31666840_11682	754	776	pulmonary hypertension	Disease
+31666840_11682	818	835	serum pentraxin 3	Biomarker
+31666840_11682	824	835	pentraxin 3	Gene-protein
+31666840_11682	840	846	hs-CRP	Biomarker	D002097
+31666840_11682	840	846	hs-CRP	Gene-protein
+31666840_11682	907	918	pentraxin 3	Gene-protein
+31666840_11682	923	926	CRP	Gene-protein	HGNC:2367
+31666840_11682	930	933	PAP	Biomarker
+31666840_11682	1018	1028	Pentraxin3	Gene-protein
+31666840_11682	1018	1028	Pentraxin3	Biomarker
+31666840_11682	1065	1068	PAP	Biomarker
+31666840_11682	1074	1080	hs-CRP	Gene-protein
+31666840_11682	1074	1080	hs-CRP	Biomarker
+31666840_11682	1143	1162	hs-CRP is increased	Biomarker
+31666840_11682	1232	1235	PAP	Biomarker
+

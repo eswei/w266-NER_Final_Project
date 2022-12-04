@@ -1,0 +1,47 @@
+31695681_38037|t|RSS_IDENT_p_31695681_b_1_4_7
+31695681_38037|a| miR-146a induced M2 phenotype polarization and up-regulated tumor-associated macrophages expression to regulate breast cancer tumor growth ( 35 ). Our results showed that high glucose increased TNF-α and IL-6 expression while reduced IL-10 expression, which was reversed by overexpression of miR-146a. Similar results was observed in another study. Overexpression of miR-146a attenuated the inhibitory effects of NIFK-AS1 M2 phenotype polarization in macrophages, while the expression of IL-10 and Arg-1 were increased ( 36 ). Altered expression of miR-146a in the brains of patients with Alzheimer's disease (AD) underpinned inflammatory senile plaque lesions in AD brains ( 37 , 38 ). miR-146a expression was decreased in DRG cells in hyperglycemia studies of diabetic peripheral neuropathy; cell survival rate was decreased, but this was attenuated by miR-146a mimics ( 39 , 40 ). Rong et al. reported that the expression of miR-146a in plasma of patients with type 2 diabetes was significantly decreased ( 29 ). Our study revealed that the expression of miR-146a was significantly decreased in cell cultures by high glucose and glucose fluctuations, which partially verified that low levels of miR-146a expression were induced by hyperglycemia ( 41 ). Both in vitro and in vivo studies suggest that miR146a is involved in the regulation of neuroinflammation and plays an important role in various diseases such as diabetes and neurodegenerative diseases. Therefore, we speculated that miR-146a was involved in regulating the polarization transitions of microglia induced by high glucose and glucose fluctuations. Overexpression of miR-146a regulated polarization transitions induced by high glucose and glucose fluctuations promoting M1 to M2 phenotype polarization. 
+31695681_38037	30	38	miR-146a	Rna-noncoding	HGNC:31533
+31695681_38037	30	38	miR-146a	Biomarker	C542542
+31695681_38037	142	155	breast cancer	Disease	DOID:1612
+31695681_38037	206	213	glucose	Chemical
+31695681_38037	224	229	TNF-α	Gene-protein	HGNC:11892
+31695681_38037	234	238	IL-6	Gene-protein	HGNC:6018
+31695681_38037	264	269	IL-10	Gene-protein	HGNC:5962
+31695681_38037	322	330	miR-146a	Rna-noncoding
+31695681_38037	397	405	miR-146a	Rna-noncoding
+31695681_38037	443	451	NIFK-AS1	Gene-protein	HGNC:27385
+31695681_38037	518	523	IL-10	Gene-protein
+31695681_38037	528	533	Arg-1	Gene-protein	HGNC:663
+31695681_38037	557	601	Altered expression of miR-146a in the brains	Biomarker
+31695681_38037	579	587	miR-146a	Rna-noncoding
+31695681_38037	619	638	Alzheimer's disease	Disease	DOID:10652
+31695681_38037	640	642	AD	Disease	DOID:10652
+31695681_38037	656	690	inflammatory senile plaque lesions	Disease	not found
+31695681_38037	694	696	AD	Disease
+31695681_38037	717	725	miR-146a	Rna-noncoding
+31695681_38037	717	762	miR-146a expression was decreased in DRG cell	Biomarker
+31695681_38037	767	780	hyperglycemia	Disease	DOID:4195
+31695681_38037	767	822	hyperglycemia studies of diabetic peripheral neuropathy	Collection
+31695681_38037	792	822	diabetic peripheral neuropathy	Disease	DOID:9743
+31695681_38037	885	893	miR-146a	Rna-noncoding
+31695681_38037	944	976	expression of miR-146a in plasma	Biomarker
+31695681_38037	958	966	miR-146a	Rna-noncoding
+31695681_38037	994	1009	type 2 diabetes	Disease	DOID:9352
+31695681_38037	1088	1096	miR-146a	Rna-noncoding
+31695681_38037	1150	1157	glucose	Chemical
+31695681_38037	1162	1169	glucose	Chemical
+31695681_38037	1228	1236	miR-146a	Rna-noncoding
+31695681_38037	1264	1277	hyperglycemia	Disease
+31695681_38037	1333	1340	miR146a	Rna-noncoding
+31695681_38037	1333	1340	miR146a	Biomarker
+31695681_38037	1374	1391	neuroinflammation	Disease	not found
+31695681_38037	1374	1487	neuroinflammation and plays an important role in various diseases such as diabetes and neurodegenerative diseases	Collection
+31695681_38037	1448	1456	diabetes	Disease	not found
+31695681_38037	1461	1487	neurodegenerative diseases	Disease	DOID:1289
+31695681_38037	1519	1527	miR-146a	Rna-noncoding
+31695681_38037	1613	1620	glucose	Chemical
+31695681_38037	1625	1632	glucose	Chemical
+31695681_38037	1665	1673	miR-146a	Rna-noncoding
+31695681_38037	1725	1732	glucose	Chemical
+31695681_38037	1737	1744	glucose	Chemical
+

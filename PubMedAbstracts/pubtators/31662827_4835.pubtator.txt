@@ -1,0 +1,51 @@
+31662827_4835|t|RSS_IDENT_p_31662827_b_1_2_4
+31662827_4835|a| A recent study reported that the level of acylcarnitine in steatohepatitis (SH) patients with HCC was increased compared with that reported in SH patients without HCC[ 6 ]. In addition, CPT2 was downregulated in SH patients with HCC[ 6 , 7 ]. Hence, a high level of acylcarnitine may serve as a useful biomarker for the early diagnosis of HCC in SH patients. Consequently, a high level of acylcarnitine has been linked to the development of HCC in SH patients. In contrast, another study reported that the level of acetylcarnitine (AC2) - one of the acylcarnitine species - was decreased in non-SH patients with HCC vs those without HCC, the level of AC2 was associated with tumor stage, and the expression of AC2 in HCC tissue was decreased according to tumor stage[ 8 ]. In addition, CPT1 was shown to be downregulated in non-SH patients with HCC[ 8 , 9 ]. Therefore, a low level of AC2 has been associated with the development of HCC. Furthermore, a recent study reported that AC2 significantly downregulated the expression of vascular endothelial growth factor (VEGF), VEGF receptor 2 (VEGFR-2), C-X-C motif chemokine 12 (CXCL12) and C-X-C chemokine receptor 4 (CXCR4) in human umbilical vein endothelial cells (HUVECs)[ 10 ]. Thus, it was suggested that AC2 possesses anti-angiogenic properties through the VEGF and CXCL12 pathways. 
+31662827_4835	63	85	level of acylcarnitine	Biomarker
+31662827_4835	72	85	acylcarnitine	Chemical
+31662827_4835	89	127	steatohepatitis (SH) patients with HCC	Disease	D005234, DOID:684	Conjunction
+31662827_4835	173	175	SH	Disease	D005234
+31662827_4835	193	196	HCC	Disease	DOID:684
+31662827_4835	216	220	CPT2	Gene-protein	HGNC:2330
+31662827_4835	216	238	CPT2 was downregulated	Biomarker
+31662827_4835	242	262	SH patients with HCC	Disease	D005234, DOID:684	Conjunction
+31662827_4835	282	309	high level of acylcarnitine	Biomarker
+31662827_4835	296	309	acylcarnitine	Chemical
+31662827_4835	369	378	HCC in SH	Disease	DOID:684, D005234	Conjunction
+31662827_4835	405	432	high level of acylcarnitine	Biomarker
+31662827_4835	419	432	acylcarnitine	Chemical
+31662827_4835	471	480	HCC in SH	Disease	Conjunction
+31662827_4835	536	617	level of acetylcarnitine (AC2) - one of the acylcarnitine species - was decreased	Biomarker
+31662827_4835	545	560	acetylcarnitine	Chemical
+31662827_4835	562	565	AC2	Chemical
+31662827_4835	580	593	acylcarnitine	Chemical
+31662827_4835	621	645	non-SH patients with HCC	Disease	not found	Conjunction
+31662827_4835	663	666	HCC	Disease
+31662827_4835	672	684	level of AC2	Biomarker
+31662827_4835	681	684	AC2	Chemical
+31662827_4835	705	716	tumor stage	Biomarker
+31662827_4835	726	743	expression of AC2	Biomarker
+31662827_4835	740	743	AC2	Chemical
+31662827_4835	747	750	HCC	Disease	DOID:684
+31662827_4835	785	796	tumor stage	Biomarker
+31662827_4835	816	820	CPT1	Gene-protein	HGNC:2328
+31662827_4835	816	850	CPT1 was shown to be downregulated	Biomarker
+31662827_4835	854	878	non-SH patients with HCC	Disease	Conjunction
+31662827_4835	902	918	low level of AC2	Biomarker
+31662827_4835	915	918	AC2	Chemical
+31662827_4835	963	966	HCC	Disease
+31662827_4835	1010	1013	AC2	Chemical
+31662827_4835	1010	1041	AC2 significantly downregulated	Biomarker
+31662827_4835	1060	1094	vascular endothelial growth factor	Genefamily	family:1267
+31662827_4835	1096	1100	VEGF	Genefamily	family:1267
+31662827_4835	1103	1118	VEGF receptor 2	Gene-protein	HGNC:6307
+31662827_4835	1120	1127	VEGFR-2	Gene-protein	HGNC:6307
+31662827_4835	1130	1154	C-X-C motif chemokine 12	Gene-protein	HGNC:10672
+31662827_4835	1156	1162	CXCL12	Gene-protein	HGNC:10672
+31662827_4835	1168	1194	C-X-C chemokine receptor 4	Gene-protein	HGNC:2561
+31662827_4835	1196	1201	CXCR4	Gene-protein	HGNC:2561
+31662827_4835	1206	1244	human umbilical vein endothelial cells	Cellline
+31662827_4835	1246	1252	HUVECs	Cellline
+31662827_4835	1289	1292	AC2	Chemical
+31662827_4835	1342	1346	VEGF	Genefamily
+31662827_4835	1351	1357	CXCL12	Gene-protein
+

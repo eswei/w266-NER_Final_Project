@@ -1,0 +1,45 @@
+31251735_4201|t|RSS_IDENT_p_31251735_b_1_1_4
+31251735_4201|a| Epithelial-to-mesenchymal transition (EMT) is a cellular transdifferentiation process, whereby losing the epithelial polarities and junctions, and acquiring alterations in gene expressions and behaviors which are typically correlated with mesenchymal cells [ 12 ]. Emerging evidence has also indicated that EMT process is involved tumor progression. For instance, Jeong et al. [ 13 ] found that EMT in breast cancer was related to the triple-negative phenotype and high histological grade. Transforming growth factor β (TGF-β)/Smad signaling pathway, an important driver in carcinogenesis, is commonly dysregulated in the progression of various cancers, including cervical carcinoma [ 14 ], gastric carcinoma [ 15 ], and hepatocellular carcinoma [ 16 ]. TGF-β/Smad is a multi-functional regulator implicated in multiple processes such as cell metastases and growth [ 17 , 18 ]. TGF-β signaling pathway has been verified to function as an important cancer promoter via inducing EMT [ 19 ]. Therefore, it is hypothesized that EMT and the TGF-β/Smad pathway are involved in progression of OS. It is well-known that TGF-β1 can activate downstream mediators, such as SMAD2 and SMAD3, to exert its biological functions, while SMAD7 can negatively regulate its effects [ 20 ]. Previous studies have demonstrated that SMAD7 is one of the most vital factors in tumor development. Studies by De Simone et al. [ 21 ] showed that SMAD7 knockdown lead to colon cancer cell death via activating protein kinase RNA-associated eIF2alpha pathway. Another study by Javelaud et al. [ 22 ] revealed that stable SMAD7 overexpression inhibited the tumorigenicity in human melanoma cells. Hence, in this present study, we detected the association between SMAD7 and TGF-β signaling pathway in OS. 
+31251735_4201	337	348	EMT process	Biomarker	D058750
+31251735_4201	361	366	tumor	Disease	DOID:162
+31251735_4201	425	428	EMT	Biomarker	D058750
+31251735_4201	432	445	breast cancer	Disease	DOID:1612
+31251735_4201	465	490	triple-negative phenotype	Biomarker
+31251735_4201	495	518	high histological grade	Biomarker
+31251735_4201	520	548	Transforming growth factor β	Genefamily	family:1664
+31251735_4201	520	644	Transforming growth factor β (TGF-β)/Smad signaling pathway, an important driver in carcinogenesis, is commonly dysregulated	Biomarker
+31251735_4201	550	555	TGF-β	Genefamily	family:1664
+31251735_4201	557	561	Smad	Genefamily	family:750
+31251735_4201	675	682	cancers	Disease	DOID:162
+31251735_4201	675	775	cancers, including cervical carcinoma [ 14 ], gastric carcinoma [ 15 ], and hepatocellular carcinoma	Collection
+31251735_4201	694	712	cervical carcinoma	Disease	DOID:4362
+31251735_4201	721	738	gastric carcinoma	Disease	DOID:5517
+31251735_4201	751	775	hepatocellular carcinoma	Disease	DOID:684
+31251735_4201	784	789	TGF-β	Genefamily
+31251735_4201	790	794	Smad	Genefamily
+31251735_4201	908	913	TGF-β	Genefamily
+31251735_4201	908	931	TGF-β signaling pathway	Biomarker
+31251735_4201	978	984	cancer	Disease
+31251735_4201	1066	1071	TGF-β	Genefamily
+31251735_4201	1072	1076	Smad	Genefamily
+31251735_4201	1116	1118	OS	Disease	DOID:3347
+31251735_4201	1142	1148	TGF-β1	Gene-protein	HGNC:11766
+31251735_4201	1192	1197	SMAD2	Gene-protein	HGNC:6768
+31251735_4201	1202	1207	SMAD3	Chemical	HGNC:6769
+31251735_4201	1250	1255	SMAD7	Gene-protein	HGNC:6773
+31251735_4201	1340	1345	SMAD7	Gene-protein
+31251735_4201	1340	1345	SMAD7	Biomarker	D051906
+31251735_4201	1382	1387	tumor	Disease	DOID:162
+31251735_4201	1448	1453	SMAD7	Gene-protein
+31251735_4201	1448	1463	SMAD7 knockdown	Drug	not found
+31251735_4201	1472	1484	colon cancer	Disease	DOID:219
+31251735_4201	1541	1550	eIF2alpha	Gene-protein	HGNC:3265
+31251735_4201	1621	1626	SMAD7	Gene-protein
+31251735_4201	1621	1641	SMAD7 overexpression	Drug	not found
+31251735_4201	1680	1688	melanoma	Disease	DOID:1909
+31251735_4201	1762	1767	SMAD7	Genefamily
+31251735_4201	1762	1767	SMAD7	Biomarker
+31251735_4201	1772	1777	TGF-β	Genefamily
+31251735_4201	1772	1777	TGF-β	Biomarker	D016212
+31251735_4201	1799	1801	OS	Disease
+

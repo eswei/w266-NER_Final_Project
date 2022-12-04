@@ -1,0 +1,85 @@
+T1	Disease 28 44	Hepatic fibrosis
+#1	AnnotatorNotes T1	DOID:5082
+T10	Drug 372 375	TAA
+T11	Drug 478 481	TAA
+T12	Chemical 524 531	alanine
+T13	Chemical 556 565	aspartate
+T14	Chemical 622 632	γ-glutamyl
+T15	Drug 701 704	TAA
+T16	Drug 739 742	TAA
+T17	Biomarker 775 843	α-smooth muscle actin (α-SMA) expression was significantly increased
+T18	Drug 864 867	TAA
+T19	Disease 938 946	fibrosis
+#10	AnnotatorNotes T19	D005355
+T2	Biomarker 134 156	chronic liver diseases
+#11	AnnotatorNotes T2	not found
+T20	Chemical 994 1008	hydroxyproline
+T21	Drug 1026 1029	TAA
+T22	Disease 1061 1063	ED
+T23	Chemical 1087 1098	glutathione
+T24	Chemical 1100 1103	GSH
+T25	Chemical 1143 1153	superoxide
+T26	Drug 1182 1185	TAA
+T28	Chemical 1225 1240	malondialdehyde
+T29	Chemical 1242 1245	MDA
+T3	Chemical 213 221	estrogen
+T30	Drug 1271 1274	TAA
+T31	Drug 1330 1333	TAA
+T33	Biomarker 1431 1530	increases in interleukin-6 (IL-6) and tumor necrosis factor-α (TNF-α) concentrations were exhibited
+T35	Drug 1534 1537	TAA
+T36	Disease 1584 1592	fibrosis
+#26	AnnotatorNotes T36	DOID:0050855
+T38	Disease 1678 1680	ED
+T39	Drug 1693 1696	TAA
+T4	Disease 213 232	estrogen deficiency
+#29	AnnotatorNotes T4	not found
+T40	Biomarker 1752 1754	ED
+T41	Disease 1783 1799	hepatic fibrosis
+T5	Disease 234 236	ED
+T6	Disease 250 266	hepatic fibrosis
+#33	AnnotatorNotes T6	DOID:5082
+T7	Drug 272 285	thioacetamide
+T8	Drug 287 290	TAA
+T9	Disease 311 319	Fibrosis
+#36	AnnotatorNotes T9	D005355
+T42	Biomarker 65 119	persistent deposition of extracellular matrix proteins
+T43	Collection 65 156	persistent deposition of extracellular matrix proteins and occurs in chronic liver diseases
+R1	Association Arg1:T43 Arg2:T1	
+#2	AnnotatorNotes T5	not found
+#3	AnnotatorNotes T7	CHEMBL38737
+#4	AnnotatorNotes T8	CHEMBL38737
+R2	Causes Arg1:T10 Arg2:T9	
+T44	Gene-Protein 524 548	alanine aminotransferase
+T45	Gene-Protein 550 553	ALT
+T46	GeneFamily 556 582	aspartate aminotransferase
+T47	GeneFamily 584 587	AST
+T48	Gene-Protein 590 610	alkaline phosphatase
+T49	Gene-Protein 612 615	ALP
+T50	GeneFamily 622 644	γ-glutamyl transferase
+T51	GeneFamily 646 649	GGT
+T52	Gene-Protein 775 796	α-smooth muscle actin
+T53	Gene-Protein 798 803	α-SMA
+T54	Gene-Protein 968 976	vimentin
+T55	Gene-Protein 978 988	collagen-I
+T56	Biomarker 968 1022	vimentin, collagen-I, and hydroxyproline, in the liver
+T57	Biomarker 1073 1178	reduced total glutathione (GSH) levels, as well as catalase (CAT) and superoxide dismutase (SOD) activity
+R4	Association Arg1:T57 Arg2:T22	
+T58	Gene-Protein 1124 1132	catalase
+T59	Gene-Protein 1134 1137	CAT
+T60	GeneFamily 1143 1163	superoxide dismutase
+T61	GeneFamily 1165 1168	SOD
+T27	Gene-Protein 1377 1380	p53
+T32	Gene-Protein 1382 1387	Bcl-2
+T62	Gene-Protein 1401 1410	caspase 3
+T63	Gene-Protein 1444 1457	interleukin-6
+T64	Gene-Protein 1459 1463	IL-6
+T65	Gene-Protein 1494 1499	TNF-α
+T66	Gene-Protein 1469 1492	tumor necrosis factor-α
+R5	Association Arg1:T33 Arg2:T36	
+T34	GeneFamily 1605 1633	transforming growth factor-β
+T37	GeneFamily 1642 1646	Smad
+T67	GeneFamily 1635 1640	TGF-β
+R6	Association Arg1:T40 Arg2:T41	
+T68	Biomarker 518 679	serum alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase (ALP), and γ-glutamyl transferase (GGT) were significantly increased
+T69	Biomarker 1368 1417	elevated p53, Bcl-2, and cleaved caspase 3 levels
+T70	Biomarker 1217 1253	hepatic malondialdehyde (MDA) levels

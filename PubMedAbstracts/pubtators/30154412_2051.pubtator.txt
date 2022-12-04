@@ -1,0 +1,57 @@
+30154412_2051|t|RSS_IDENT_p_30154412_b_1_1_3
+30154412_2051|a| Arrest-defective protein 1 (ARD1; also known as N-α-acetyltransferase 10 [Naa10p]) was originally found in yeast and is a catalytic subunit of the NatA acetyltransferase, which is responsible for N-terminal α-acetylation ⁷ , ⁸ . ARD1 has both N-terminal α-protein and ε-protein acetyltransferase activities, and promotes the growth of lung cancer cells through the ε-acetylation of β-catenin ⁸ , ⁹ . A previous study revealed that ARD1 overexpression correlated with poor survival of human lung cancer patients ¹⁰ . ARD1 was found to be overexpressed in breast cancer ¹¹ , colorectal cancer ¹² , and hepatocellular cancer ¹³ . Likewise, ARD1 also mediates the growth of colon cancer cells, and high expression of ARD1 in colon cancer is associated with poor prognosis ¹² , ¹⁴ . Depletion of ARD1 sensitizes colon cancer cells to induce apoptosis through RelA/p65-regulated MCL1 expression ¹⁵ . These findings tend to support the model that ARD1 is an oncoprotein that promotes tumor growth. However, ARD1 was also shown to promote DNA damage-mediated apoptosis ⁸ , ¹⁶ . Furthermore, ARD1 was found to inhibit breast and lung cancer cell metastasis ¹⁷ – ¹⁹ . Meanwhile, increased ARD1 expression was reported to associate with better clinical effects in patients with breast and lung cancer. ARD1 overexpression inhibited breast cancer cell growth and tumorigenesis ¹⁷ – ¹⁹ . These results suggest that ARD1 may function as a tumor suppressor. These conflicting experimental data might result not only from different experimental methods and materials in different laboratories but also might indicate that ARD1 can play different roles in different tumor cell types and even subtypes. After all, ARD1 is highly expressed in primary tumors but has low expression in tumors with lymph node metastases ¹⁷ . 
+30154412_2051	30	56	Arrest-defective protein 1	Gene-protein	HGNC:18704
+30154412_2051	58	62	ARD1	Gene-protein	HGNC:18704
+30154412_2051	78	79	N	Chemical
+30154412_2051	78	102	N-α-acetyltransferase 10	Gene-protein	HGNC:18704
+30154412_2051	104	110	Naa10p	Gene-protein	HGNC:18704
+30154412_2051	177	199	NatA acetyltransferase	Gene-protein	HGNC:18704
+30154412_2051	259	263	ARD1	Gene-protein
+30154412_2051	259	263	ARD1	Biomarker	C504824
+30154412_2051	273	274	N	Chemical
+30154412_2051	273	283	N-terminal	Proteindomain
+30154412_2051	284	325	α-protein and ε-protein acetyltransferase	Gene-protein	not found, not found
+30154412_2051	365	376	lung cancer	Disease	DOID:1324
+30154412_2051	412	421	β-catenin	Genefamily	family:1542
+30154412_2051	461	465	ARD1	Gene-protein
+30154412_2051	461	480	ARD1 overexpression	Biomarker
+30154412_2051	520	531	lung cancer	Disease
+30154412_2051	546	550	ARD1	Gene-protein
+30154412_2051	546	580	ARD1 was found to be overexpressed	Biomarker
+30154412_2051	584	597	breast cancer	Disease	DOID:1612
+30154412_2051	584	651	breast cancer ¹¹ , colorectal cancer ¹² , and hepatocellular cancer	Collection
+30154412_2051	603	620	colorectal cancer	Disease	DOID:9256
+30154412_2051	630	651	hepatocellular cancer	Disease	DOID:684
+30154412_2051	667	671	ARD1	Gene-protein
+30154412_2051	667	671	ARD1	Biomarker
+30154412_2051	700	712	colon cancer	Disease	DOID:219
+30154412_2051	724	747	high expression of ARD1	Biomarker
+30154412_2051	743	747	ARD1	Gene-protein
+30154412_2051	751	763	colon cancer	Disease
+30154412_2051	821	825	ARD1	Gene-protein
+30154412_2051	837	849	colon cancer	Disease
+30154412_2051	884	888	RelA	Gene-protein	HGNC:9955
+30154412_2051	889	892	p65	Gene-protein	HGNC:9955
+30154412_2051	903	907	MCL1	Gene-protein	HGNC:6943
+30154412_2051	970	974	ARD1	Gene-protein
+30154412_2051	970	974	ARD1	Biomarker
+30154412_2051	1007	1012	tumor	Disease	DOID:162
+30154412_2051	1030	1034	ARD1	Gene-protein
+30154412_2051	1113	1117	ARD1	Gene-protein
+30154412_2051	1113	1117	ARD1	Drug	C504824
+30154412_2051	1139	1161	breast and lung cancer	Disease	DOID:1612, DOID:1324
+30154412_2051	1199	1224	increased ARD1 expression	Drug
+30154412_2051	1209	1213	ARD1	Gene-protein
+30154412_2051	1297	1319	breast and lung cancer	Disease
+30154412_2051	1321	1325	ARD1	Gene-protein
+30154412_2051	1321	1340	ARD1 overexpression	Drug	not found
+30154412_2051	1351	1364	breast cancer	Disease
+30154412_2051	1432	1436	ARD1	Gene-protein
+30154412_2051	1636	1640	ARD1	Gene-protein
+30154412_2051	1636	1640	ARD1	Biomarker
+30154412_2051	1679	1684	tumor	Disease
+30154412_2051	1726	1730	ARD1	Gene-protein
+30154412_2051	1726	1750	ARD1 is highly expressed	Biomarker
+30154412_2051	1754	1768	primary tumors	Disease	DOID:162
+30154412_2051	1795	1801	tumors	Disease	DOID:162
+

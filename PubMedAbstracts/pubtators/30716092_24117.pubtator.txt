@@ -1,0 +1,42 @@
+30716092_24117|t|RSS_IDENT_p_30716092_b_1_5_4
+30716092_24117|a| CENPE expression might be induced under a stressful environment in cancer cells. For example, in triple-negative breast cancer cells, CENPE expression was upregulated after Docetaxel treatment [ 13 ]. In castration-resistant prostate cancer cells, the reprogramming of the binding of lysine-specific demethylase 1A (LSD1), which is a histone-modifying enzyme responsible for demethylation of histone H3 lysine 4 (H3K4), results in an increase of AR binding at the CENPE promoter and subsequently enhanced CENPE transcription [ 12 ]. These results suggest that epigenetic regulation might be a mechanism of CENPE dysregulation in cancer cells. In fact, epigenetic regulations, such as DNA methylation, histone acetylation, and up-regulation/down-regulation of genes by non-codling RNAs, have been characterized as important epigenetic regulations related to dysregulated tumor suppressors and other growth regulating genes during the progression of EA [ 23 , 24 ]. In this study, by checking the methylation status of 18 CpG sites in CENPE DNA in EA, we found that three CpG sites with hypomethylated in EA, among which two sites (cg27443373 and cg24651824) showed moderately negative correlation with CENPE expression. Besides, the high methylation group was associated with better OS. In addition, we found that although heterozygous loss (-1) was frequent in EA (50/88, 56.8%), it was not necessarily associated with decreased CENPE expression. The significantly lower level of the average methylation of cg27443373 and cg24651824 in this group provides a plausible explanation of this phenomenon. Based on these findings, we infer that hypomethylation of certain CpG sites in CENPE DNA might be an important epigenetic mechanism of upregulated CENPE in EA. 
+30716092_24117	30	35	CENPE	Gene-protein	HGNC:1856
+30716092_24117	30	46	CENPE expression	Biomarker
+30716092_24117	97	103	cancer	Disease	DOID:162
+30716092_24117	127	156	triple-negative breast cancer	Disease	DOID:0060081
+30716092_24117	164	169	CENPE	Gene-protein
+30716092_24117	203	212	Docetaxel	Drug	CHEMBL92
+30716092_24117	234	270	castration-resistant prostate cancer	Disease	not found
+30716092_24117	314	320	lysine	Chemical
+30716092_24117	314	344	lysine-specific demethylase 1A	Gene-protein	HGNC:29079
+30716092_24117	346	350	LSD1	Gene-protein	HGNC:29079
+30716092_24117	364	371	histone	Genefamily	family:864
+30716092_24117	422	429	histone	Genefamily
+30716092_24117	430	432	H3	Genefamily	family:864
+30716092_24117	433	439	lysine	Chemical
+30716092_24117	476	478	AR	Gene-protein	HGNC:644
+30716092_24117	494	499	CENPE	Gene-protein
+30716092_24117	535	540	CENPE	Gene-protein
+30716092_24117	636	641	CENPE	Gene-protein
+30716092_24117	636	655	CENPE dysregulation	Biomarker
+30716092_24117	659	665	cancer	Disease
+30716092_24117	731	738	histone	Genefamily
+30716092_24117	978	980	EA	Disease	DOID:10485
+30716092_24117	1050	1053	CpG	Chemical
+30716092_24117	1063	1068	CENPE	Gene-protein
+30716092_24117	1076	1078	EA	Disease
+30716092_24117	1100	1103	CpG	Chemical
+30716092_24117	1133	1135	EA	Disease
+30716092_24117	1149	1186	two sites (cg27443373 and cg24651824)	Biomarker
+30716092_24117	1231	1236	CENPE	Gene-protein
+30716092_24117	1262	1284	high methylation group	Biomarker
+30716092_24117	1352	1374	heterozygous loss (-1)	Biomarker
+30716092_24117	1391	1393	EA	Disease
+30716092_24117	1459	1464	CENPE	Gene-protein
+30716092_24117	1495	1562	lower level of the average methylation of cg27443373 and cg24651824	Biomarker
+30716092_24117	1696	1699	CpG	Chemical
+30716092_24117	1709	1714	CENPE	Gene-protein
+30716092_24117	1765	1782	upregulated CENPE	Biomarker
+30716092_24117	1777	1782	CENPE	Gene-protein
+30716092_24117	1786	1788	EA	Disease
+

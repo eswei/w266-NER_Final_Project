@@ -1,0 +1,79 @@
+T10	Disease 365 388	prostate adenocarcinoma
+#2	AnnotatorNotes T10	DOID:2526
+T12	Disease 498 504	cancer
+#3	AnnotatorNotes T12	DOID:162
+T14	Disease 619 633	ovarian cancer
+T17	Disease 705 729	hepatocellular carcinoma
+#5	AnnotatorNotes T17	DOID:684
+T18	Disease 752 757	tumor
+#6	AnnotatorNotes T18	DOID:162
+T19	Drug 779 790	doxorubicin
+T2	Disease 144 166	malignant solid tumors
+#8	AnnotatorNotes T2	DOID:162
+T23	Drug 854 857	CTX
+T24	Disease 854 883	CTX-resistant colon carcinoma
+#11	AnnotatorNotes T24	not found
+T26	Disease 930 936	cancer
+T27	Disease 1073 1079	cancer
+T3	Disease 175 190	hepatocarcinoma
+T30	Disease 1354 1360	cancer
+T31	Disease 1535 1541	cancer
+T32	Disease 1640 1646	cancer
+T33	Disease 1824 1832	leukemia
+#19	AnnotatorNotes T33	DOID:1240
+T4	Disease 198 215	colorectal cancer
+#20	AnnotatorNotes T4	DOID:9256
+T5	Disease 224 237	breast cancer
+#21	AnnotatorNotes T5	DOID:1612
+T6	Disease 246 260	ovarian cancer
+#22	AnnotatorNotes T6	DOID:2394
+T7	Disease 268 280	osteosarcoma
+#23	AnnotatorNotes T7	DOID:3347
+T8	Disease 288 316	bladder urothelial carcinoma
+#24	AnnotatorNotes T8	DOID:4006
+T9	Disease 325 352	papillary thyroid carcinoma
+#25	AnnotatorNotes T9	DOID:3969
+T11	RNA-Noncoding 66 77	miR-199a-5p
+#7	AnnotatorNotes T11	not found
+T1	Biomarker 66 131	miR-199a-5p, functioning as a cancer suppressor, is downregulated
+#1	AnnotatorNotes T3	DOID:684
+T13	Collection 144 388	malignant solid tumors such as hepatocarcinoma [ 7 ], colorectal cancer [ 10 ], breast cancer [ 37 ], ovarian cancer [ 8 ], osteosarcoma [ 9 ], bladder urothelial carcinoma [ 38 ], papillary thyroid carcinoma [ 39 ], and prostate adenocarcinoma
+R1	Association Arg1:T1 Arg2:T13	
+T15	RNA-Noncoding 439 450	miR-199a-5p
+T16	Biomarker 430 461	aberrant miR-199a-5p expression
+R2	Association Arg1:T16 Arg2:T12	
+T20	Drug 547 571	silencing of miR-199a-5p
+#9	AnnotatorNotes T20	not found
+T21	RNA-Noncoding 560 571	miR-199a-5p
+T25	Gene-Protein 648 652	IKKB
+#4	AnnotatorNotes T25	HGNC:5960
+T29	Biomarker 672 701	Overexpression of miR-199a-5p
+#10	AnnotatorNotes T19	CHEMBL53463
+T34	Gene-Protein 808 811	MET
+#15	AnnotatorNotes T34	HGNC:7029
+#26	AnnotatorNotes T23	not found
+T22	RNA-Noncoding 891 902	miR-199a-5p
+T35	Gene-Protein 966 972	PHLPP1
+#12	AnnotatorNotes T35	HGNC:20610
+T36	RNA-Noncoding 990 1001	miR-199a-5p
+T28	Biomarker 990 1001	miR-199a-5p
+#14	AnnotatorNotes T28	C531408
+T37	RNA-Noncoding 1306 1317	miR-199a-5p
+T38	Biomarker 1306 1317	miR-199a-5p
+T39	Biomarker 891 902	miR-199a-5p
+T40	Drug-Class 1555 1567	chemotherapy
+T41	Drug-Class 1690 1702	chemotherapy
+T42	Drug 1579 1602	inhibition of autophagy
+#16	AnnotatorNotes T42	not found
+R4	Synergy-Response Arg1:T42 Arg2:T32	
+R5	Synergy-Response Arg1:T41 Arg2:T32	
+T43	Biomarker 1433 1442	autophagy
+#17	AnnotatorNotes T43	 D001343
+R6	Mediated-Non-Response Arg1:T40 Arg2:T31	
+R7	Mediator Arg1:T40 Arg2:T43	
+T44	RNA-Noncoding 1722 1733	miR-199a-5p
+T45	RNA-Noncoding 1794 1805	miR-199a-5p
+T46	Biomarker 1810 1819	autophagy
+T47	Biomarker 1794 1805	miR-199a-5p
+R8	Association Arg1:T38 Arg2:T30	
+R9	Association Arg1:T28 Arg2:T27	

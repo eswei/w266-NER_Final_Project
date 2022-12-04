@@ -1,0 +1,41 @@
+31692508_2319|t|RSS_IDENT_p_31692508_b_1_1_3
+31692508_2319|a| Recent studies have highlighted that long non-coding RNAs (lncRNAs) are related to cancer progression. Long non-coding RNAs are endogenous cellular RNAs which are more than 200 nucleotides in length. LncRNAs may regulate the cell processes by mediating transcription or post-transcription. It was reported that lncRNAs could interact with DNA, RNA, and protein to play the regulatory roles. Their dysregulation may lead to many diseases including cancers. For example, lncRNA p10247 overexpression is correlated with metastasis in breast cancer. 3 Downregulated lncRNA-HOTAIR suppressed colorectal cancer proliferation, invasion, and migration. 4 LncRNA MIR4435-2HG promoted lung cancer progression. 5 LINC00844 regulates cell migration and invasion in prostate cancer. 6 LncRNA TBILA may promote the epithelial–mesenchymal transition of non-small cell lung cancer. 7 Besides the above-mentioned cancer types, lncRNAs also play roles in HCC. LncRNA FLVCR-AS1, 8 HNF1A-AS1, 9 HOXA11-AS, 10 and lncRNA OGFRP1 11 were upregulated, while XLOC006926, 12 CASC2, 13 and lncRNA NKILA 14 were downregulated in HCC. However, there are still many lncRNAs involved in HCC tumorigenesis and progression that need to be explored.
+31692508_2319	67	87	long non-coding RNAs	Biomarker	D062085
+31692508_2319	67	87	long non-coding RNAs	Rna-noncoding	family:788
+31692508_2319	113	119	cancer	Disease	DOID:162
+31692508_2319	207	218	nucleotides	Chemical
+31692508_2319	477	484	cancers	Disease	DOID:162
+31692508_2319	499	527	lncRNA p10247 overexpression	Biomarker
+31692508_2319	506	512	p10247	Rna-noncoding	not found
+31692508_2319	561	574	breast cancer	Disease	DOID:1612
+31692508_2319	578	605	Downregulated lncRNA-HOTAIR	Drug	not found
+31692508_2319	599	605	HOTAIR	Rna-noncoding	HGNC:33510
+31692508_2319	617	634	colorectal cancer	Disease	DOID:9256
+31692508_2319	677	695	LncRNA MIR4435-2HG	Biomarker	C000632564
+31692508_2319	684	695	MIR4435-2HG	Rna-noncoding	HGNC:35163
+31692508_2319	705	716	lung cancer	Disease	DOID:1324
+31692508_2319	732	741	LINC00844	Biomarker
+31692508_2319	732	741	LINC00844	Rna-noncoding	HGNC:45031
+31692508_2319	783	798	prostate cancer	Disease	DOID:10283
+31692508_2319	802	814	LncRNA TBILA	Biomarker
+31692508_2319	809	814	TBILA	Rna-noncoding	HGNC:53943
+31692508_2319	868	894	non-small cell lung cancer	Disease	DOID:3908
+31692508_2319	926	932	cancer	Disease
+31692508_2319	940	947	lncRNAs	Biomarker	D062085
+31692508_2319	940	947	lncRNAs	Rna-noncoding	family:788
+31692508_2319	967	970	HCC	Disease	DOID:684
+31692508_2319	972	1056	LncRNA FLVCR-AS1, 8 HNF1A-AS1, 9 HOXA11-AS, 10 and lncRNA OGFRP1 11 were upregulated	Biomarker
+31692508_2319	972	1127	LncRNA FLVCR-AS1, 8 HNF1A-AS1, 9 HOXA11-AS, 10 and lncRNA OGFRP1 11 were upregulated, while XLOC006926, 12 CASC2, 13 and lncRNA NKILA 14 were downregulated	Collection
+31692508_2319	979	988	FLVCR-AS1	Rna-noncoding	not found
+31692508_2319	992	1001	HNF1A-AS1	Rna-noncoding	HGNC:26785
+31692508_2319	1005	1014	HOXA11-AS	Rna-noncoding	HGNC:24957
+31692508_2319	1030	1036	OGFRP1	Rna-noncoding	HGNC:50511
+31692508_2319	1064	1074	XLOC006926	Rna-noncoding	not found
+31692508_2319	1064	1127	XLOC006926, 12 CASC2, 13 and lncRNA NKILA 14 were downregulated	Biomarker
+31692508_2319	1079	1084	CASC2	Rna-noncoding	HGNC:22933
+31692508_2319	1100	1105	NKILA	Rna-noncoding	HGNC:51599
+31692508_2319	1131	1134	HCC	Disease
+31692508_2319	1166	1173	lncRNAs	Rna-noncoding
+31692508_2319	1166	1173	lncRNAs	Biomarker
+31692508_2319	1186	1189	HCC	Disease
+

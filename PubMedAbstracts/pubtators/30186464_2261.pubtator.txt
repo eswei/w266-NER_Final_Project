@@ -1,0 +1,41 @@
+30186464_2261|t|RSS_IDENT_p_30186464_b_1_1_3
+30186464_2261|a| Long non-coding RNAs (lncRNAs) are a group of small and single-stranded non-coding RNAs that are >200 nt in size and evolutionarily conserved ( 6 , 7 ). Although lncRNAs exhibit no protein-coding capacity, they are key regulators of gene expression and serve important roles in various biological processes, including cell growth, migration, invasion and tumourigenesis ( 8 , 9 ). In recent years, evidence has suggested that lncRNAs serve promoting or tumour suppressive roles in the development and malignant progression of OSCC ( 10 , 11 ). For instance, lncRNA taurine upregulated gene 1 promotes progression of OSCC through upregulation of formin-like 2 by acting as molecular sponges for microRNA (miR)-219 ( 12 ). LncRNA maternally expressed 3 inhibits proliferation and metastasis of OSCC via regulation of the WNT/β-catenin signalling pathway ( 13 ). Recently, lncRNA nuclear enriched abundant transcript 1 (NEAT1) has been observed to be upregulated in several human cancer types and studies have revealed its oncogenic role ( 14 – 16 ). For example, NEAT1 is regulated by the epidermal growth factor receptor signalling pathway and contributes to glioblastoma progression through the WNT/β-catenin pathway by serving as a scaffold for enhancer of zeste homolog 2 ( 15 ). NEAT1 contributes to paclitaxel resistance in ovarian cancer cells through regulation of zinc finger E-box-binding homeobox 1 expression via miR-194 ( 16 ). However, to the best of our knowledge, the function of NEAT1 in OSCC has not yet been reported. 
+30186464_2261	192	199	lncRNAs	Genefamily	family:788
+30186464_2261	192	199	lncRNAs	Biomarker	D062085
+30186464_2261	385	399	tumourigenesis	Disease	DOID:162
+30186464_2261	456	463	lncRNAs	Genefamily
+30186464_2261	456	463	lncRNAs	Biomarker
+30186464_2261	556	560	OSCC	Disease	DOID:0050866
+30186464_2261	595	621	taurine upregulated gene 1	Gene-protein	HGNC:26066
+30186464_2261	595	621	taurine upregulated gene 1	Biomarker	C000598536
+30186464_2261	646	650	OSCC	Disease
+30186464_2261	659	688	upregulation of formin-like 2	Biomarker
+30186464_2261	675	681	formin	Chemical
+30186464_2261	675	688	formin-like 2	Gene-protein	HGNC:18267
+30186464_2261	724	742	microRNA (miR)-219	Rna-noncoding	family:1710
+30186464_2261	758	780	maternally expressed 3	Rna-noncoding	HGNC:14575
+30186464_2261	758	780	maternally expressed 3	Drug	C498907
+30186464_2261	822	826	OSCC	Disease
+30186464_2261	849	852	WNT	Genefamily	family:360
+30186464_2261	853	862	β-catenin	Genefamily	family:1542
+30186464_2261	907	945	nuclear enriched abundant transcript 1	Rna-noncoding	HGNC:30815
+30186464_2261	907	989	nuclear enriched abundant transcript 1 (NEAT1) has been observed to be upregulated	Biomarker
+30186464_2261	947	952	NEAT1	Rna-noncoding	HGNC:30815
+30186464_2261	1007	1013	cancer	Disease	DOID:162
+30186464_2261	1091	1096	NEAT1	Rna-noncoding
+30186464_2261	1091	1096	NEAT1	Biomarker	C577276
+30186464_2261	1117	1149	epidermal growth factor receptor	Gene-protein	HGNC:3236
+30186464_2261	1188	1200	glioblastoma	Disease	DOID:3068
+30186464_2261	1225	1228	WNT	Genefamily
+30186464_2261	1229	1238	β-catenin	Genefamily
+30186464_2261	1276	1303	enhancer of zeste homolog 2	Gene-protein	HGNC:3527
+30186464_2261	1312	1317	NEAT1	Rna-noncoding
+30186464_2261	1312	1317	NEAT1	Biomarker
+30186464_2261	1333	1343	paclitaxel	Drug	CHEMBL428647
+30186464_2261	1358	1372	ovarian cancer	Disease	DOID:2394
+30186464_2261	1401	1405	zinc	Chemical
+30186464_2261	1401	1437	zinc finger E-box-binding homeobox 1	Gene-protein	HGNC:11642
+30186464_2261	1453	1460	miR-194	Rna-noncoding	family:1720
+30186464_2261	1524	1529	NEAT1	Rna-noncoding
+30186464_2261	1533	1537	OSCC	Disease
+

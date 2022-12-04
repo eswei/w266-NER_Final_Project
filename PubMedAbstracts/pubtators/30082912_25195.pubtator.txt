@@ -1,0 +1,85 @@
+30082912_25195|t|RSS_IDENT_p_30082912_b_1_3_3
+30082912_25195|a| FGFs are produced by cancer cells or secreted by stromal compartment. Deregulation of FGF signaling has been found in both tumor cells and the cells in the tumorous environment [ 16 , 17 ]. FGFs binds to their receptors and triggers dimerization and cross-phosphorylation of the kinase domains, subsequently, downstream effectors are activated [ 18 ]. When FGF signaling is activated, the phosphorylated FGFR substrate 2 (FRS2) recruits son of sevenless (SOS) and growth factor receptor-bound 2 (GFRB2), this complex further induces the activation of RAS-RAF-MEK-ERK signaling pathway which mediates cell proliferation, differentiation, and migration [ 17 , 19 ]. A couple of studies provided evidences to demonstrate the role of FGF members in different cancer types via ERK-MAPK signaling pathway. FGF2 was indicated to regulate the FGFR-ERK signaling in esophageal squamous cell carcinoma to accelerate tumor growth [ 20 ]. In hepatocellular carcinoma, FGF8 subfamily members, including FGF8, FGF17 and FGF18, were upregulated to facilitate cell survival and angiogenesis via activating ERK [ 21 ]. The involvement of FGF7 and FGF9 secreted by cancer-associated fibroblasts were also demonstrated to promote migration and invasion of GC cells [ 22 , 23 ]. However, apart from paracrine manner, the secretion of FGFs by cancer cells themselves also contributes to cancer cell growth [ 24 ]. The function of FGF ligands secreted by GC cells remains unknown. In our study, FGF18 was demonstrated to be a prominent ligand released by GC cells which functions as a potential oncogene to promote gastric carcinogenesis. On one hand, downregulated FGF18 led to cell growth inhibition and cell-cycle arrest. Herein, activation of ATM/γH2AX cascade and inactivation of TGF-β/SMAD signaling were revealed. It implied that DNA damage was caused by FGF18 knockdown, since the activation of ATM/γH2AX cascade was responsible for DNA double-strand break [ 25 ]. On the other hand, we also confirmed FGF18 derived CM significantly enhanced proliferation and invasion ability of GC cells. EMT properties were exhibited in the cells treated with FGF18-CM. TGF-β/SMAD signaling was proposed to play the mediated and crucial role in this process. It has been implicated that TGF-β/SMAD signaling accelerates cell migration, invasion, as well as EMT in the late stage of cancer [ 26 ]. One of the most prominent finding of FGFR in GC is the overexpression and amplification of FGFR2. It thus makes FGFR2 a significant prognostic and therapeutic target of GC [ 27 – 30 ]. Our results comprehensively delineated the detailed mechanisms of FGF18-FGFR2 signaling in gastric tumorigenesis.
+30082912_25195	30	34	FGFs	Genefamily	family:1895
+30082912_25195	30	34	FGFs	Biomarker	D005346
+30082912_25195	51	57	cancer	Disease	DOID:162
+30082912_25195	100	129	Deregulation of FGF signaling	Biomarker
+30082912_25195	116	119	FGF	Genefamily	family:1895
+30082912_25195	153	158	tumor	Disease	DOID:162
+30082912_25195	220	224	FGFs	Genefamily
+30082912_25195	309	323	kinase domains	Proteindomain
+30082912_25195	387	390	FGF	Genefamily
+30082912_25195	434	450	FGFR substrate 2	Gene-protein	HGNC:16971
+30082912_25195	452	456	FRS2	Gene-protein	HGNC:16971
+30082912_25195	467	483	son of sevenless	Genefamily	not found
+30082912_25195	485	488	SOS	Genefamily	not found
+30082912_25195	494	524	growth factor receptor-bound 2	Gene-protein	HGNC:4566
+30082912_25195	526	531	GFRB2	Gene-protein	HGNC:4566
+30082912_25195	581	584	RAS	Genefamily	family:389
+30082912_25195	585	588	RAF	Genefamily	family:1157
+30082912_25195	589	592	MEK	Genefamily	not found
+30082912_25195	593	596	ERK	Genefamily	not found
+30082912_25195	760	763	FGF	Genefamily
+30082912_25195	760	771	FGF members	Biomarker
+30082912_25195	785	791	cancer	Disease
+30082912_25195	802	805	ERK	Genefamily
+30082912_25195	806	810	MAPK	Genefamily	family:651
+30082912_25195	830	834	FGF2	Biomarker	D016222
+30082912_25195	830	834	FGF2	Gene-protein	 HGNC:3676
+30082912_25195	865	869	FGFR	Genefamily	not found
+30082912_25195	865	883	FGFR-ERK signaling	Biomarker
+30082912_25195	870	873	ERK	Genefamily
+30082912_25195	887	921	esophageal squamous cell carcinoma	Disease	DOID:3748
+30082912_25195	936	941	tumor	Disease
+30082912_25195	960	984	hepatocellular carcinoma	Disease	DOID:684
+30082912_25195	986	990	FGF8	Gene-protein	HGNC:3686
+30082912_25195	1020	1024	FGF8	Gene-protein
+30082912_25195	1020	1059	FGF8, FGF17 and FGF18, were upregulated	Biomarker
+30082912_25195	1026	1031	FGF17	Gene-protein	HGNC:3673
+30082912_25195	1036	1041	FGF18	Gene-protein	HGNC:3674
+30082912_25195	1120	1123	ERK	Genefamily
+30082912_25195	1151	1155	FGF7	Gene-protein	HGNC:3685
+30082912_25195	1160	1164	FGF9	Gene-protein	HGNC:3687
+30082912_25195	1177	1206	cancer-associated fibroblasts	Biomarker
+30082912_25195	1267	1269	GC	Disease	DOID:10534
+30082912_25195	1331	1348	secretion of FGFs	Biomarker
+30082912_25195	1344	1348	FGFs	Genefamily
+30082912_25195	1352	1358	cancer	Disease
+30082912_25195	1396	1402	cancer	Disease
+30082912_25195	1439	1442	FGF	Genefamily
+30082912_25195	1463	1465	GC	Disease
+30082912_25195	1503	1508	FGF18	Gene-protein
+30082912_25195	1503	1508	FGF18	Biomarker	C113569
+30082912_25195	1563	1565	GC	Disease
+30082912_25195	1623	1645	gastric carcinogenesis	Disease	DOID:10534
+30082912_25195	1674	1679	FGF18	Gene-protein
+30082912_25195	1755	1758	ATM	Gene-protein	HGNC:795
+30082912_25195	1759	1764	γH2AX	Gene-protein	HGNC:4739
+30082912_25195	1793	1798	TGF-β	Genefamily	family:1664
+30082912_25195	1799	1803	SMAD	Genefamily	family:750
+30082912_25195	1870	1875	FGF18	Gene-protein
+30082912_25195	1911	1914	ATM	Gene-protein
+30082912_25195	1915	1920	γH2AX	Gene-protein
+30082912_25195	2018	2023	FGF18	Gene-protein
+30082912_25195	2018	2034	FGF18 derived CM	Drug	not found
+30082912_25195	2096	2098	GC	Disease
+30082912_25195	2162	2167	FGF18	Gene-protein
+30082912_25195	2162	2170	FGF18-CM	Drug	not found
+30082912_25195	2172	2177	TGF-β	Genefamily
+30082912_25195	2178	2182	SMAD	Gene-protein
+30082912_25195	2289	2294	TGF-β	Genefamily
+30082912_25195	2289	2309	TGF-β/SMAD signaling	Biomarker
+30082912_25195	2295	2299	SMAD	Gene-protein
+30082912_25195	2384	2390	cancer	Disease
+30082912_25195	2436	2440	FGFR	Gene-protein
+30082912_25195	2444	2446	GC	Disease
+30082912_25195	2454	2495	overexpression and amplification of FGFR2	Biomarker
+30082912_25195	2490	2495	FGFR2	Gene-protein
+30082912_25195	2511	2516	FGFR2	Biomarker	D051497
+30082912_25195	2511	2516	FGFR2	Gene-protein
+30082912_25195	2568	2570	GC	Disease
+30082912_25195	2650	2655	FGF18	Gene-protein
+30082912_25195	2650	2671	FGF18-FGFR2 signaling	Biomarker
+30082912_25195	2656	2661	FGFR2	Gene-protein
+30082912_25195	2675	2696	gastric tumorigenesis	Disease	DOID:10534
+

@@ -1,0 +1,120 @@
+T1	Disease 102 126	cholestatic liver injury
+#1	AnnotatorNotes T1	DOID:13580
+T12	Disease 751 765	biliary injury
+#3	AnnotatorNotes T12	not found
+T14	Disease 777 791	hepatic injury
+#5	AnnotatorNotes T14	DOID:409
+T15	Disease 793 801	fibrosis
+T16	Disease 807 819	inflammation
+#7	AnnotatorNotes T16	D007249
+T17	Biomarker 1509 1585	Localization of β‐catenin and expression of Wnt‐regulated genes were altered
+T19	Biomarker 1638 1708	Wnt/β‐catenin signaling nor overexpression of β‐catenin in hepatocytes
+T2	Disease 131 139	fibrosis
+#9	AnnotatorNotes T2	D005355
+T20	Disease 1764 1792	BA‐driven cholestatic injury
+#10	AnnotatorNotes T20	DOID:12236
+T21	Biomarker 1794 1803	β‐catenin
+T22	Chemical 1831 1840	bile acid
+T24	Disease 1976 2002	(BDL)‐induced liver injury
+#13	AnnotatorNotes T24	not found
+T27	Chemical 2363 2370	alanine
+T28	Chemical 2392 2401	aspartate
+T29	Chemical 2422 2431	bile acid
+T30	Chemical 2460 2469	bile salt
+T31	Chemical 2623 2632	glutamine
+T33	Chemical 2848 2854	sodium
+T34	Chemical 2855 2867	taurocholate
+T35	Variant 3019 3023	S45D
+T37	Variant 3024 3058	serine 45 mutated to aspartic acid
+T5	Chemical 282 292	bile acids
+T6	Chemical 294 297	BAs
+T7	Disease 416 427	cholestasis
+#29	AnnotatorNotes T7	DOID:13580
+T39	GeneFamily 64 73	β‐catenin
+#2	AnnotatorNotes T39	family:1542
+T3	Gene-Protein 201 221	farnesoid X receptor
+#4	AnnotatorNotes T3	HGNC:7967
+T4	Gene-Protein 223 226	FXR
+#8	AnnotatorNotes T4	HGNC:7967
+T40	Gene-Protein 321 324	FXR
+T41	Gene-Protein 881 884	FXR
+T42	Gene-Protein 1144 1147	FXR
+T43	GeneFamily 228 237	β‐catenin
+T44	GeneFamily 885 894	β‐catenin
+T45	GeneFamily 1148 1157	β‐catenin
+T46	Gene-Protein 1913 1916	FXR
+T47	Gene-Protein 2595 2598	FXR
+T48	Gene-Protein 2032 2035	FXR
+T49	GeneFamily 2036 2045	β‐catenin
+T50	GeneFamily 1923 1932	β‐catenin
+T51	GeneFamily 646 655	β‐catenin
+T52	GeneFamily 505 514	β‐catenin
+T53	Gene-Protein 2999 3018	retinoic X receptor
+T54	Gene-Protein 2995 2998	RXR
+T55	GeneFamily 2151 2160	β‐catenin
+T56	Gene-Protein 3089 3094	Sox17
+T57	Gene-Protein 3095 3126	sex‐determining region Y‐box 17
+T58	Gene-Protein 2901 2941	organic anion transporting polypeptide 4
+T59	Gene-Protein 2895 2900	OATP4
+T60	GeneFamily 2942 2945	Ost
+T61	GeneFamily 2946 2971	organic solute transporte
+T62	Gene-Protein 3131 3144	T‐cell factor
+T63	Gene-Protein 2769 2772	MRP
+T64	Gene-Protein 2773 2812	multidrug resistance‐associated protein
+T65	Gene-Protein 3127 3130	TCF
+T66	Gene-Protein 3059 3062	SHP
+T67	Gene-Protein 3063 3088	small heterodimer partner
+T68	GeneFamily 2979 2994	pan cytokeratin
+T69	GeneFamily 2973 2978	panCK
+T70	Gene-Protein 2599 2619	farnesoid X receptor
+T71	Gene-Protein 2720 2768	low‐density lipoprotein receptor‐related protein
+T72	Gene-Protein 2716 2719	LRP
+T73	Gene-Protein 2817 2833	myelocytomatosis
+T32	GeneFamily 2513 2532	Cyp cytochrome P450
+T74	Gene-Protein 2363 2387	alanine aminotransferase
+#11	AnnotatorNotes T74	HGNC:4552
+T75	Gene-Protein 2359 2362	ALT
+#15	AnnotatorNotes T75	HGNC:4552
+T76	GeneFamily 2116 2119	Wnt
+T77	GeneFamily 2338 2358	alkaline phosphatase
+T78	GeneFamily 2334 2337	ALP
+T79	GeneFamily 2388 2391	AST
+T80	GeneFamily 2392 2418	aspartate aminotransferase
+T81	Gene-Protein 2623 2643	glutamine synthetase
+T82	Gene-Protein 2620 2622	GS
+T83	Gene-Protein 2537 2585	low‐density lipoprotein receptor‐related protein
+T84	Gene-Protein 2813 2816	Myc
+T38	Gene-Protein 2843 2847	NTCP
+T86	Gene-Protein 2848 2894	sodium‐taurocholate cotransporting polypeptide
+T36	Gene-Protein 1891 1911	farnesoid X receptor
+T13	GeneFamily 360 363	Wnt
+T18	GeneFamily 364 373	β‐catenin
+T23	GeneFamily 1295 1304	β‐catenin
+T87	GeneFamily 1684 1693	β‐catenin
+T8	GeneFamily 1104 1113	β‐catenin
+T10	GeneFamily 474 477	Wnt
+T88	Drug 56 73	loss of β‐catenin
+#12	AnnotatorNotes T88	not found
+R2	Protects-from Arg1:T88 Arg2:T90	
+T90	Collection 102 139	cholestatic liver injury and fibrosis
+T91	Gene-Protein 538 583	lipoprotein receptor‐related protein [LRP]5/6
+T9	Gene-Protein 1402 1417	T‐cell factor 4
+T11	GeneFamily 1525 1534	β‐catenin
+T89	GeneFamily 1553 1556	Wnt
+T25	Variant 668 702	serine 45 mutated to aspartic acid
+#6	AnnotatorNotes T25	p.Ser45Asp
+T26	Variant 704 708	S45D
+#14	AnnotatorNotes T26	p.Ser45Asp
+T85	Collection 668 709	serine 45 mutated to aspartic acid [S45D]
+R1	Variant-Of Arg1:T51 Arg2:T85	
+T92	GeneFamily 2196 2205	β‐catenin
+T93	Collection 3019 3058	S45D serine 45 mutated to aspartic acid
+R3	Variant-Of Arg1:T92 Arg2:T93	
+T94	Biomarker 973 999	elevated hepatic BA levels
+T95	Chemical 2419 2421	BA
+#16	AnnotatorNotes T79	not found
+#17	AnnotatorNotes T80	not found
+T96	Gene-Protein 2455 2459	BSEP
+T97	Gene-Protein 2460 2481	bile salt export pump
+T98	GeneFamily 2482 2484	CD
+T99	GeneFamily 2485 2512	clusters of differentiation

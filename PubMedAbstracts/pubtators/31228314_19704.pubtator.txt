@@ -1,0 +1,39 @@
+31228314_19704|t|RSS_IDENT_p_31228314_b_1_5_3
+31228314_19704|a| lncRNA KIAA0125 has been studied in different diseases. It exerts a regulatory effect in neurogenesis and may be responsible for Abeta ratio in Alzheimer disease (Uhrig et al., 2009). Some studies have shown that KIAA0125 as a mediator gene correlated with the survival of acute myeloid leukemia (Hornung et al., 2018). In the meanwhile, the expression pattern of KIAA0125 in tumors also seems inconsistent. It is upregulated in ameloblastomas but the function has not been characterized (Diniz et al., 2018). The role of KIAA0125 in gallbladder cancer is not certainly defined because of the original related article was retracted (International BR, 2017). The bioinformatics analysis has shown KIAA0125 is downregulated in pancreatic cancer, but further investigations are required to elucidate the function (Yao et al., 2017). Therefore, the role of KIAA0125 in tumors may be cell‐type dependent, although this possibility needs to be further investigated. Our results suggest that KIAA0125 may act as an oncosuppressor gene in CRC cells since overexpression of KIAA0125 significantly supressed cell growth and the potentials of invasion and migration whereas the reversal effects were showed in knockdown experiments. We chose HCT116 and SW480 cell lines because of the relative low expression that close to the results we found in tumor tissues. Also, the knockdown experiments indicated the low expressed KIAA0125 still obtained the function in cell proliferation, migration, and invasion. Thus, the relative low expression in CRC tissues and cells suggested loss of function and KIAA0125 may exist putative roles in balancing the cell microenvironment. 
+31228314_19704	37	45	KIAA0125	Rna-noncoding	HGNC:19955
+31228314_19704	37	45	KIAA0125	Biomarker
+31228314_19704	159	170	Abeta ratio	Biomarker
+31228314_19704	174	191	Alzheimer disease	Disease	DOID:10652
+31228314_19704	243	251	KIAA0125	Rna-noncoding
+31228314_19704	243	251	KIAA0125	Biomarker
+31228314_19704	303	325	acute myeloid leukemia	Disease	DOID:9119
+31228314_19704	394	402	KIAA0125	Rna-noncoding
+31228314_19704	394	402	KIAA0125	Biomarker
+31228314_19704	406	412	tumors	Disease	DOID:162
+31228314_19704	438	440	It	Pronoun
+31228314_19704	438	440	It	Rna-noncoding
+31228314_19704	438	440	It	Biomarker
+31228314_19704	459	473	ameloblastomas	Disease	DOID:0050894
+31228314_19704	552	560	KIAA0125	Rna-noncoding
+31228314_19704	552	560	KIAA0125	Biomarker
+31228314_19704	564	582	gallbladder cancer	Disease	DOID:3121
+31228314_19704	726	734	KIAA0125	Rna-noncoding
+31228314_19704	726	751	KIAA0125 is downregulated	Biomarker
+31228314_19704	755	772	pancreatic cancer	Disease	DOID:1793
+31228314_19704	883	891	KIAA0125	Rna-noncoding
+31228314_19704	883	891	KIAA0125	Biomarker
+31228314_19704	895	901	tumors	Disease
+31228314_19704	1015	1023	KIAA0125	Rna-noncoding
+31228314_19704	1015	1023	KIAA0125	Biomarker
+31228314_19704	1061	1064	CRC	Disease
+31228314_19704	1077	1103	overexpression of KIAA0125	Drug	not found
+31228314_19704	1095	1103	KIAA0125	Rna-noncoding
+31228314_19704	1261	1267	HCT116	Cellline
+31228314_19704	1272	1277	SW480	Cellline
+31228314_19704	1366	1371	tumor	Disease	DOID:162
+31228314_19704	1427	1449	low expressed KIAA0125	Biomarker
+31228314_19704	1441	1449	KIAA0125	Rna-noncoding
+31228314_19704	1563	1566	CRC	Disease
+31228314_19704	1616	1624	KIAA0125	Rna-noncoding
+31228314_19704	1616	1624	KIAA0125	Biomarker
+

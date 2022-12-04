@@ -1,0 +1,36 @@
+29872401_34692|t|RSS_IDENT_p_29872401_b_1_4_4
+29872401_34692|a| Consistent with the results on short-term HA travelers published by others (Piperno et al., 2011 ), our results showed that hepcidin levels remained continuously low during chronic hypoxic exposure in long-term HA residents. Crucially, we found a remarkable decrease in hepcidin levels in patients with HAPC compared with healthy migrants who lived at the same altitude. Decreased hepcidin may be involved in the occurrence of excessive iron mobilization and subsequent runaway polycythemia among some HAPC patients, and this hypothesis is supported by the correlation analysis between the hepcidin levels and both serum iron concentrations and hemoglobin contents. The decrease in hepcidin is beneficial to the body if it is moderate and compatible with the physiological iron demand at high altitudes. However, greater decreases in hepcidin in HAPC may result in excessive iron absorption and the reuse and release of stored iron to exceed the iron demands of the body. It can be speculated that those without HAPC have controlled iron availability to synthesize hemoglobin. To a certain extent, iron deficiency limits the rate of erythrocyte formation and the development of HAPC. In contrast, it is easier for HAPC patients to obtain iron than others, particularly through the reuse of iron from damaged aging RBCs, as raw material for generating RBCs. 
+29872401_34692	154	162	hepcidin	Gene-protein	 HGNC:15598
+29872401_34692	154	195	hepcidin levels remained continuously low	Biomarker
+29872401_34692	203	243	chronic hypoxic exposure in long-term HA	Disease	D000532
+29872401_34692	288	315	decrease in hepcidin levels	Biomarker
+29872401_34692	300	308	hepcidin	Gene-protein
+29872401_34692	333	337	HAPC	Disease	not found
+29872401_34692	401	419	Decreased hepcidin	Biomarker
+29872401_34692	411	419	hepcidin	Gene-protein
+29872401_34692	467	471	iron	Chemical
+29872401_34692	508	520	polycythemia	Disease	DOID:8432
+29872401_34692	532	536	HAPC	Disease
+29872401_34692	620	628	hepcidin	Gene-protein
+29872401_34692	651	655	iron	Chemical
+29872401_34692	675	685	hemoglobin	Genefamily	family:940
+29872401_34692	712	720	hepcidin	Gene-protein
+29872401_34692	803	807	iron	Chemical
+29872401_34692	843	872	greater decreases in hepcidin	Biomarker
+29872401_34692	864	872	hepcidin	Gene-protein
+29872401_34692	876	880	HAPC	Disease
+29872401_34692	895	920	excessive iron absorption	Biomarker
+29872401_34692	905	909	iron	Chemical
+29872401_34692	929	961	reuse and release of stored iron	Biomarker
+29872401_34692	957	961	iron	Chemical
+29872401_34692	976	980	iron	Chemical
+29872401_34692	1042	1046	HAPC	Disease
+29872401_34692	1063	1067	iron	Chemical
+29872401_34692	1095	1105	hemoglobin	Genefamily
+29872401_34692	1128	1132	iron	Chemical
+29872401_34692	1128	1143	iron deficiency	Biomarker	D018798
+29872401_34692	1208	1212	HAPC	Disease
+29872401_34692	1244	1248	HAPC	Disease
+29872401_34692	1268	1272	iron	Chemical
+29872401_34692	1320	1324	iron	Chemical
+

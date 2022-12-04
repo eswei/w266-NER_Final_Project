@@ -1,0 +1,100 @@
+T1	Chemical 30 40	Oestrogens
+T10	Disease 326 339	breast cancer
+T12	Disease 356 395	hormone receptor-positive breast cancer
+T15	Disease 397 431	HER-2-overexpressing breast cancer
+#7	AnnotatorNotes T15	DOID:0060079
+T17	Disease 436 440	TNBC
+T18	Biomarker 470 473	ERα
+T19	Chemical 497 506	oestrogen
+T2	Disease 94 107	breast cancer
+#11	AnnotatorNotes T2	DOID:1612
+T20	Biomarker 508 529	increases VEGF levels
+T21	Disease 533 558	ER-positive breast cancer
+#12	AnnotatorNotes T21	DOID:0060075
+T23	Chemical 592 601	oestrogen
+T25	Disease 844 850	tumour
+#16	AnnotatorNotes T25	DOID:162
+T27	Chemical 975 983	androgen
+T29	Drug-Class 1211 1234	GPER-1-specific agonist
+T30	Disease 1271 1277	tumour
+T31	Disease 1334 1338	TNBC
+T32	Drug 1375 1416	activation of ERβ or GPER-1 by oestrogens
+T34	Disease 1441 1445	TNBC
+T35	Disease 1643 1647	TNBC
+T36	Drug 1674 1676	E2
+T37	Disease 1692 1698	tumour
+T39	Disease 1747 1754	tumours
+#28	AnnotatorNotes T39	DOID:162
+T41	Disease 1852 1865	breast cancer
+T7	Biomarker 194 198	VEGF
+T9	Disease 266 279	breast cancer
+T42	Biomarker 30 40	Oestrogens
+#1	AnnotatorNotes T42	D004967
+R1	Association Arg1:T42 Arg2:T2	
+T43	GeneFamily 122 125	ERs
+#9	AnnotatorNotes T43	not found
+T8	GeneFamily 194 198	VEGF
+#10	AnnotatorNotes T8	family:1267
+R2	Association Arg1:T7 Arg2:T9	
+T44	Biomarker 131 150	Tumour angiogenesis
+#3	AnnotatorNotes T17	DOID:0060081
+T4	Gene-Protein 470 473	ERα
+#2	AnnotatorNotes T4	HGNC:3467
+T5	GeneFamily 578 582	VEGF
+T6	Gene-Protein 685 691	GPER-1
+#4	AnnotatorNotes T6	HGNC:4485
+T11	Gene-Protein 710 714	EGFR
+#5	AnnotatorNotes T11	HGNC:3236
+T13	GeneFamily 648 652	VEGF
+T14	GeneFamily 715 718	ERK
+#6	AnnotatorNotes T14	not found
+T16	Gene-Protein 719 724	c-FOS
+#8	AnnotatorNotes T16	HGNC:3796
+T22	Gene-Protein 397 402	HER-2
+#13	AnnotatorNotes T22	HGNC:3430
+T45	Disease 747 781	HER-2-overexpressing breast cancer
+T24	Gene-Protein 747 752	HER-2
+T46	Disease 864 883	ERβ-expressing TNBC
+#14	AnnotatorNotes T46	not found
+T47	Gene-Protein 864 867	ERβ
+#15	AnnotatorNotes T47	HGNC:3468
+T26	Gene-Protein 917 949	cyclin-dependent kinases 1 and 7
+#17	AnnotatorNotes T26	HGNC:1722,HGNC:1778
+T48	Gene-Protein 975 992	androgen receptor
+#18	AnnotatorNotes T48	HGNC:644
+T49	Disease 975 1006	androgen receptor-positive TNBC
+#19	AnnotatorNotes T49	not found
+T28	CellLine 1018 1028	MDA-MB-231
+T51	Gene-Protein 1045 1049	ERβ1
+#20	AnnotatorNotes T51	not found
+T56	GeneFamily 1502 1506	VEGF
+T57	Drug 1807 1809	E2
+T58	Gene-Protein 1814 1820	GPER-1
+R4	Response Arg1:T36 Arg2:T37	
+T40	CellLine 1726 1736	MDA-MB-468
+T38	Gene-Protein 1569 1575	GPER-1
+T60	Gene-Protein 1396 1402	GPER-1
+T61	Gene-Protein 1389 1392	ERβ
+T62	Gene-Protein 1211 1217	GPER-1
+T63	Gene-Protein 1326 1330	IL-6
+#23	AnnotatorNotes T63	HGNC:6018
+T50	CellLine 1033 1039	Hs5787
+T64	Gene-Protein 1169 1173	ZEB1
+#24	AnnotatorNotes T64	HGNC:11642
+T65	GeneFamily 1320 1325	NF-kB
+#21	AnnotatorNotes T65	family:1254
+#25	AnnotatorNotes T32	not found
+R5	Response Arg1:T32 Arg2:T34	
+#26	AnnotatorNotes T18	C506487
+T33	Drug 821 823	E2
+#27	AnnotatorNotes T33	not found
+T66	Collection 844 883	tumour formation in ERβ-expressing TNBC
+R6	Response Arg1:T33 Arg2:T66	
+T67	Collection 1271 1338	tumour angiogenesis in vitro and in vivo through NF-kB/IL-6 in TNBC
+R7	Response Arg1:T29 Arg2:T67	
+#29	AnnotatorNotes T12	not found
+T3	Drug 1601 1603	E2
+T68	Gene-Protein 533 535	ER
+T69	Drug 1235 1238	G-1
+#30	AnnotatorNotes T69	CHEMBL569766
+T52	Drug 1490 1492	E2

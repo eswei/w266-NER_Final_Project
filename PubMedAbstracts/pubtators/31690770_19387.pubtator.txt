@@ -1,0 +1,30 @@
+31690770_19387|t|RSS_IDENT_p_31690770_b_1_3_8
+31690770_19387|a| Although immune checkpoint inhibitor tremendously improved overall survival for patients with diverse solid tumor types, there is no promising data from current clinical trials for the treatment of gliomas thus far ³⁰ . Many studies have demonstrated the infiltration of CD8 positive cells in GBM is normally weaker than that in tumors like melanoma and lung cancer ³¹ . Apart from the impact of immune microenviroment, intrinsically weak PD-L1 expression level in GBM may be another reason ³² . As a genomic biomarker of response to immunotherapy, TMB was also investigated in this study. It is known that the use of TMZ would induce high level of TMB, which could explain the higher TMB we observed in recurrent gliomas. Additionally, patients with MMR gene mutations correspond to higher TMB in gliomas. However, the predictive effect on DFS or OS in gliomas have yet to be studied. In this study, we found a clear trend toward better prognosis with increasing TMB in patients. Furthermore, a recent study, irrelevant to immunotherapy, has implicated that high TMB leads to better prognosis in NSCLC ²⁰ . The insignificance may be due to insufficient follow-up time.
+31690770_19387	39	66	immune checkpoint inhibitor	Drug-class
+31690770_19387	132	143	solid tumor	Disease	not found
+31690770_19387	228	235	gliomas	Disease	DOID:0060108
+31690770_19387	285	319	infiltration of CD8 positive cells	Biomarker
+31690770_19387	301	304	CD8	Gene-protein	HGNC:1706
+31690770_19387	323	326	GBM	Disease	DOID:3073
+31690770_19387	359	365	tumors	Disease	DOID:162
+31690770_19387	371	379	melanoma	Disease	DOID:1909
+31690770_19387	384	395	lung cancer	Disease	DOID:1324
+31690770_19387	450	491	intrinsically weak PD-L1 expression level	Biomarker
+31690770_19387	469	474	PD-L1	Gene-protein	HGNC:17635
+31690770_19387	495	498	GBM	Disease
+31690770_19387	564	577	immunotherapy	Drug-class
+31690770_19387	579	582	TMB	Biomarker
+31690770_19387	648	651	TMZ	Drug	CHEMBL810
+31690770_19387	665	682	high level of TMB	Biomarker
+31690770_19387	708	718	higher TMB	Biomarker
+31690770_19387	744	751	gliomas	Disease
+31690770_19387	781	799	MMR gene mutations	Biomarker
+31690770_19387	814	824	higher TMB	Biomarker
+31690770_19387	821	824	TMB	Chemical
+31690770_19387	828	835	gliomas	Disease
+31690770_19387	884	891	gliomas	Disease
+31690770_19387	983	997	increasing TMB	Biomarker
+31690770_19387	1054	1067	immunotherapy	Drug-class
+31690770_19387	1089	1097	high TMB	Biomarker
+31690770_19387	1127	1132	NSCLC	Disease	DOID:3908
+

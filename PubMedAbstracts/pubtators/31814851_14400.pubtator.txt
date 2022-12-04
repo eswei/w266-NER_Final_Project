@@ -1,0 +1,38 @@
+31814851_14400|t|RSS_IDENT_p_31814851_b_1_4_3
+31814851_14400|a| Accumulating evidence shows that HJURP may be an oncogene that has a crucial role in PCa ( 10 – 12 ). To the best of our knowledge, the current study is the first to report the role of HJURP expression in PCa. The findings demonstrated that HJURP was upregulated in PCa tissues compared with benign prostate tissues, which was in accordance with the Taylor dataset. Upregulation of HJURP has also been identified in other types of cancer, including brain, breast, ovarian and lung cancer, suggesting that HJURP may be involved in tumor progression ( 10 – 13 ). According to the analysis of the Taylor dataset in the present study, upregulation of HJURP was associated with aggressive tumor progression in patients with PCa. In addition, Kaplan-Meier results indicated that high HJURP mRNA expression was associated with shorter BCR-free survival time, and hence, HJURP expression may be useful to determine BCR-free survival in patients with PCa. It has been previously reported that upregulation of HJURP mRNA is associated with the progesterone and estrogen negative status, which has relatively poor prognosis and aggressive behavior in breast cancer ( 11 ). Similar results have also been identified in lung cancer and glioma reports ( 12 , 13 ).
+31814851_14400	63	68	HJURP	Gene-protein	HGNC:25444
+31814851_14400	63	68	HJURP	Biomarker	C524371
+31814851_14400	115	118	PCa	Disease	DOID:10283
+31814851_14400	215	220	HJURP	Gene-protein
+31814851_14400	215	231	HJURP expression	Biomarker
+31814851_14400	235	238	PCa	Disease
+31814851_14400	271	276	HJURP	Gene-protein
+31814851_14400	271	292	HJURP was upregulated	Biomarker
+31814851_14400	296	299	PCa	Disease
+31814851_14400	322	337	benign prostate	Disease	DOID:2883
+31814851_14400	396	417	Upregulation of HJURP	Biomarker
+31814851_14400	412	417	HJURP	Gene-protein
+31814851_14400	461	467	cancer	Disease	DOID:162
+31814851_14400	461	517	cancer, including brain, breast, ovarian and lung cancer	Collection
+31814851_14400	479	517	brain, breast, ovarian and lung cancer	Disease	DOID:1319, DOID:1612, DOID:2394,DOID:1324
+31814851_14400	535	540	HJURP	Gene-protein
+31814851_14400	535	540	HJURP	Biomarker
+31814851_14400	560	565	tumor	Disease	DOID:162
+31814851_14400	661	682	upregulation of HJURP	Biomarker
+31814851_14400	677	682	HJURP	Gene-protein
+31814851_14400	703	731	aggressive tumor progression	Biomarker
+31814851_14400	749	752	PCa	Disease
+31814851_14400	803	829	high HJURP mRNA expression	Biomarker
+31814851_14400	808	813	HJURP	Gene-protein
+31814851_14400	893	898	HJURP	Gene-protein
+31814851_14400	972	975	PCa	Disease
+31814851_14400	1014	1040	upregulation of HJURP mRNA	Biomarker
+31814851_14400	1030	1035	HJURP	Gene-protein
+31814851_14400	1064	1076	progesterone	Chemical
+31814851_14400	1064	1105	progesterone and estrogen negative status	Biomarker
+31814851_14400	1081	1089	estrogen	Chemical
+31814851_14400	1170	1183	breast cancer	Disease	DOID:1612
+31814851_14400	1237	1248	lung cancer	Disease	DOID:1324
+31814851_14400	1237	1259	lung cancer and glioma	Collection
+31814851_14400	1253	1259	glioma	Disease	DOID:0060108
+

@@ -1,0 +1,47 @@
+29716544_25132|t|RSS_IDENT_p_29716544_b_1_4_3
+29716544_25132|a| Increasing evidences have emphasized the chronic inflammation is crucial for the initiation, growth and metastasis of cancer [ 27 ]. Therefore, the roles of the inflammation related immune molecules have received great attention. The pattern recognition receptors [PRRs, including the Toll-like receptors (TLRs) and NLRs etc.], which recognize the pathogen associated molecular pattern (PAMP) or damage associated molecular pattern (DAMP) and initiate the inflammatory responses, have been observed aberrantly expressed in various cancers [ 12 ]. Yang et al. reported that TLR4 was overexpressed in human breast cancer tissue and correlated with lymph node metastasis [ 28 ]. Zhou et al. found high expression of TLR5 correlated with better prognosis in non-small-cell lung cancer [ 29 ]. Moreover, TLR7 and TLR9 expression was discovered to be up-regulated in human hepatic cell carcinoma tissue [ 30 ]. For NLRs, the intensity of NLRP12 immunostaining was found significantly higher in malignant prostate as compared to their adjacent benign tissues [ 31 ]. Paugh et al. found NLRP3 inflammasome upregulation and caspase-1 cleavage of the glucocorticoid receptor caused glucocorticoid resistance in leukemia cells [ 22 ]. Our previous studies also reported the abnormal expression of PRRs-TLR3 and TLR4 in OSCC [ 32 , 33 ]. In this study, we found NLRP3 was overexpressed in OSCC cells, and the expression was associated with the clinicopathological characteristics of the OSCC patients. Thus we inferred that the abnormal expression of NLRP3 in OSCC was functional and went on further investigation. 
+29716544_25132	71	91	chronic inflammation	Disease	D007249
+29716544_25132	148	154	cancer	Disease	DOID:162
+29716544_25132	191	203	inflammation	Disease	D007249
+29716544_25132	264	293	pattern recognition receptors	Genefamily	not found
+29716544_25132	264	549	pattern recognition receptors [PRRs, including the Toll-like receptors (TLRs) and NLRs etc.], which recognize the pathogen associated molecular pattern (PAMP) or damage associated molecular pattern (DAMP) and initiate the inflammatory responses, have been observed aberrantly expressed	Biomarker
+29716544_25132	295	299	PRRs	Genefamily	not found
+29716544_25132	315	334	Toll-like receptors	Genefamily	family:948
+29716544_25132	336	340	TLRs	Genefamily	family:948
+29716544_25132	346	350	NLRs	Genefamily	family:666
+29716544_25132	561	568	cancers	Disease	DOID:162
+29716544_25132	603	607	TLR4	Gene-protein	HGNC:11850
+29716544_25132	603	625	TLR4 was overexpressed	Biomarker
+29716544_25132	635	648	breast cancer	Disease	DOID:1612
+29716544_25132	676	697	lymph node metastasis	Biomarker
+29716544_25132	724	747	high expression of TLR5	Biomarker
+29716544_25132	743	747	TLR5	Gene-protein	HGNC:11851
+29716544_25132	784	810	non-small-cell lung cancer	Disease	DOID:3908
+29716544_25132	829	833	TLR7	Gene-protein	HGNC:15631
+29716544_25132	829	887	TLR7 and TLR9 expression was discovered to be up-regulated	Biomarker
+29716544_25132	838	842	TLR9	Gene-protein	HGNC:15633
+29716544_25132	897	919	hepatic cell carcinoma	Disease	DOID:684
+29716544_25132	939	943	NLRs	Genefamily
+29716544_25132	962	968	NLRP12	Gene-protein	HGNC:22938
+29716544_25132	962	1014	NLRP12 immunostaining was found significantly higher	Biomarker
+29716544_25132	1018	1036	malignant prostate	Disease	DOID:10283
+29716544_25132	1109	1114	NLRP3	Gene-protein	HGNC:16400
+29716544_25132	1109	1140	NLRP3 inflammasome upregulation	Biomarker
+29716544_25132	1109	1194	NLRP3 inflammasome upregulation and caspase-1 cleavage of the glucocorticoid receptor	Collection
+29716544_25132	1145	1154	caspase-1	Gene-protein	HGNC:1499
+29716544_25132	1145	1194	caspase-1 cleavage of the glucocorticoid receptor	Biomarker
+29716544_25132	1171	1194	glucocorticoid receptor	Gene-protein	HGNC:7978
+29716544_25132	1202	1216	glucocorticoid	Drug-class
+29716544_25132	1231	1239	leukemia	Disease	DOID:1240
+29716544_25132	1293	1334	abnormal expression of PRRs-TLR3 and TLR4	Biomarker
+29716544_25132	1321	1325	TLR3	Gene-protein	HGNC:11849
+29716544_25132	1330	1334	TLR4	Gene-protein
+29716544_25132	1338	1342	OSCC	Disease	DOID:0050866
+29716544_25132	1380	1385	NLRP3	Gene-protein
+29716544_25132	1380	1403	NLRP3 was overexpressed	Biomarker
+29716544_25132	1407	1411	OSCC	Disease
+29716544_25132	1505	1509	OSCC	Disease
+29716544_25132	1546	1574	abnormal expression of NLRP3	Biomarker
+29716544_25132	1569	1574	NLRP3	Gene-protein
+29716544_25132	1578	1582	OSCC	Disease
+

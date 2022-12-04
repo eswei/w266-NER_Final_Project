@@ -1,0 +1,48 @@
+31636082_12282|t|RSS_IDENT_p_31636082_b_1_1_10
+31636082_12282|a| The majority of repurposing candidates are ‘generally recognized as safe’ plant-derived polyphenols or phytochemicals, specifically a structurally related group of antidiabetic and antioxidant dietary flavonoids. These flavonoids (e.g. fisetin, ellagic acid) appear to share a common target and mechanism of action with a cinnamic acid derivative that can specifically rescue a F119L yeast model of PMM2-CDG ( Lao et al., 2019 ), namely aldose reductase inhibition. Based on structure–activity relationships, we found that epalrestat, a generic diabetic peripheral neuropathy drug and the only safe aldose reductase inhibitor (ARI) approved for use in humans ( Hotta et al., 2006 ), is a first-in-class PMM2 enzyme activator. The efficacy of epalrestat in the four genotypically distinct PMM2-CDG fibroblasts tested in this study suggests that epalrestat could be given to PMM2-CDG patients who are compound heterozygous for R141H and any pathogenic variant. However, epalrestat treatment of PMM2-CDG fibroblasts did not increase PMM2 protein levels as measured by immunoblotting, suggesting that aldose reductase inhibition acts post-translationally to boost PMM2 enzyme activity. We propose that aldose reductase inhibition leads to an increase in glucose-1,6-bisphosphate levels as a result of glucose being shunted away from the polyol pathway toward production of phosphorylated glucose. Evidence from epalrestat-treated pmm-2 mutant worms suggests there may also be a minor role for NRF2 as an indirect transcriptional activator of PMM2, which is consistent with a role for NRF2 activation in rescuing hypoglycosylation stress phenotypes in pmm2 mutant zebrafish ( Mukaigasa et al., 2018 ).
+31636082_12282	119	130	polyphenols	Chemical
+31636082_12282	134	148	phytochemicals	Chemical
+31636082_12282	232	242	flavonoids	Chemical
+31636082_12282	250	260	flavonoids	Drug-class
+31636082_12282	267	274	fisetin	Drug	CHEMBL31574
+31636082_12282	267	288	fisetin, ellagic acid	Collection
+31636082_12282	276	288	ellagic acid	Drug	CHEMBL6246
+31636082_12282	353	366	cinnamic acid	Chemical
+31636082_12282	430	434	PMM2	Gene-protein
+31636082_12282	430	438	PMM2-CDG	Disease	DOID:0080552
+31636082_12282	468	474	aldose	Chemical
+31636082_12282	468	484	aldose reductase	Gene-protein
+31636082_12282	554	564	epalrestat	Drug	 CHEMBL56337
+31636082_12282	576	606	diabetic peripheral neuropathy	Disease	not found
+31636082_12282	630	646	aldose reductase	Gene-protein	HGNC:381
+31636082_12282	630	656	aldose reductase inhibitor	Drug-class
+31636082_12282	658	661	ARI	Drug-class
+31636082_12282	734	738	PMM2	Gene-protein	HGNC:9115
+31636082_12282	734	755	PMM2 enzyme activator	Drug-class
+31636082_12282	773	783	epalrestat	Drug
+31636082_12282	819	823	PMM2	Gene-protein
+31636082_12282	819	827	PMM2-CDG	Disease
+31636082_12282	875	885	epalrestat	Drug
+31636082_12282	904	908	PMM2	Gene-protein
+31636082_12282	904	912	PMM2-CDG	Disease
+31636082_12282	956	961	R141H	Variant	p,Arg141His
+31636082_12282	999	1009	epalrestat	Drug
+31636082_12282	1023	1027	PMM2	Gene-protein
+31636082_12282	1023	1031	PMM2-CDG	Disease
+31636082_12282	1061	1065	PMM2	Gene-protein
+31636082_12282	1128	1134	aldose	Chemical
+31636082_12282	1128	1144	aldose reductase	Gene-protein	not found
+31636082_12282	1191	1195	PMM2	Gene-protein
+31636082_12282	1229	1235	aldose	Chemical
+31636082_12282	1229	1245	aldose reductase	Gene-protein
+31636082_12282	1281	1305	glucose-1,6-bisphosphate	Chemical
+31636082_12282	1328	1335	glucose	Chemical
+31636082_12282	1400	1422	phosphorylated glucose	Chemical
+31636082_12282	1438	1448	epalrestat	Drug
+31636082_12282	1457	1462	pmm-2	Gene-protein
+31636082_12282	1520	1524	NRF2	Gene-protein
+31636082_12282	1569	1573	PMM2	Gene-protein
+31636082_12282	1611	1615	NRF2	Gene-protein
+31636082_12282	1639	1663	hypoglycosylation stress	Disease	not found
+31636082_12282	1678	1682	pmm2	Gene-protein
+

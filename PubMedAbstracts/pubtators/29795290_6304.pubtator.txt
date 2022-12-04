@@ -1,0 +1,64 @@
+29795290_6304|t|RSS_IDENT_s_29795290_b_1_2_4
+29795290_6304|a| rs438811 confers risk in APOE ε4 carriers predominantly We used multivariate logistic regression analysis to identify eQTLs which can confer AD risk in the 34 proxy eQTLs for APOE. After adjustment for age and gender, substantia nigra eQTL rs438811 (odds ratio [OR], 2.343; 95% confidence interval [CI], 2.205–2.490; raw P-value = 7.49 × 10−¹⁶⁷) was associated with AD (Table 2). After adjustment for age, gender and APOE ε4 status, rs438811 (OR, 1.049; 95% CI, 0.969–1.135; P-value = 0.237) was not associated with AD (Table 2). After introducing interaction item rs438811 genotype × APOE ε4 status into the model, rs438811 was found can confer AD risk by interacting with APOE ε4 status strongly (OR, 1.448; 95% CI, 1.231–1.704; P-value = 7.94 × 10−⁶; Table 3). Sub-group analysis showed rs438811 confer risk predominantly in APOE ε4 carriers (OR, 1.267; 95% CI, 1.124–1.430; P-value = 1.12 × 10−⁴; Table 3), which indicates carrying one minor allele T of rs438811 can increase the opportunity of developing to AD by 26.75% in APOE ε4 carriers. As shown in BRAINEAC, minor allele T of rs438811 was associated with increased APOE expression level in substantia nigra. The APOE eQTL P-values of rs438811 across the ten different brain regions were shown in Table S2. Table 2 Substantia nigra eQTL rs438811 for APOE identified as a susceptibility locus for AD. SNP Minor allele MAF* Adjusted for age and gender Adjusted for age, gender and APOE ε4 status OR (95% CI) P-value OR (95% CI) P-value rs438811 T 0.287 2.343 (2.205–2.490) 7.49 × 10−¹⁶⁷ 1.049 (0.969–1.135) 0.237 *Weighed-average minor allele frequency. Table 3 Interactive effect of substantia nigra eQTL rs438811 for APOE with APOE ε4 status on AD risk. SNP APOE ε4 carriers* APOE ε4 non-carriers* SNP × APOE ε4 status interaction* OR (95% CI) P-value OR (95% CI) P-value OR (95% CI) P-value rs438811 1.267 (1.124–1.430) 1.12 × 10−⁴ 0.882 (0.788–0.986) 0.028 1.448 (1.231–1.704) 7.94 × 10−⁶ *Adjusted for age and gender. By querying Encyclopedia of DNA Elements (ENCODE), rs438811 was found to be target of transcription factors POLR2A and RPC155. rs483082, a brain eQTL for APOE which is in complete linkage with rs438811 and was also identified can interact with APOE ε4 status to confer AD risk in this study, was the target of multiple transcription factors: HNF4G, CEBPB, MXI1, HDAC2, SP1, RFX5, MAX, EP300, JUND, FOSL2, ZBTB7A and CEBPD. rs483082 was also found be to located in a DNase I hypersensitivity cluster.
+29795290_6304	30	38	rs438811	Variant
+29795290_6304	55	62	APOE ε4	Gene-protein	HGNC:613
+29795290_6304	171	173	AD	Disease	DOID:10652
+29795290_6304	205	209	APOE	Gene-protein
+29795290_6304	270	278	rs438811	Variant
+29795290_6304	396	398	AD	Disease
+29795290_6304	447	454	APOE ε4	Gene-protein
+29795290_6304	463	471	rs438811	Variant
+29795290_6304	546	548	AD	Disease
+29795290_6304	595	603	rs438811	Variant
+29795290_6304	615	622	APOE ε4	Gene-protein
+29795290_6304	646	654	rs438811	Variant
+29795290_6304	676	678	AD	Disease	DOID:0110035
+29795290_6304	704	711	APOE ε4	Gene-protein
+29795290_6304	820	828	rs438811	Variant
+29795290_6304	858	865	APOE ε4	Gene-protein
+29795290_6304	957	996	carrying one minor allele T of rs438811	Biomarker
+29795290_6304	1043	1045	AD	Disease
+29795290_6304	1059	1066	APOE ε4	Gene-protein
+29795290_6304	1099	1125	minor allele T of rs438811	Biomarker
+29795290_6304	1146	1197	increased APOE expression level in substantia nigra	Biomarker
+29795290_6304	1156	1160	APOE	Gene-protein	HGNC:613
+29795290_6304	1203	1207	APOE	Gene-protein
+29795290_6304	1225	1233	rs438811	Variant
+29795290_6304	1327	1335	rs438811	Variant
+29795290_6304	1340	1344	APOE	Gene-protein
+29795290_6304	1386	1388	AD	Disease
+29795290_6304	1469	1476	APOE ε4	Gene-protein
+29795290_6304	1524	1532	rs438811	Variant
+29795290_6304	1694	1702	rs438811	Variant
+29795290_6304	1707	1711	APOE	Gene-protein
+29795290_6304	1717	1724	APOE ε4	Gene-protein
+29795290_6304	1735	1737	AD	Disease	DOID:0110035
+29795290_6304	1748	1752	APOE	Gene-protein
+29795290_6304	1748	1755	APOE ε4	Biomarker
+29795290_6304	1766	1770	APOE	Gene-protein
+29795290_6304	1766	1773	APOE ε4	Biomarker
+29795290_6304	1794	1798	APOE	Gene-protein
+29795290_6304	1794	1801	APOE ε4	Biomarker
+29795290_6304	1882	1890	rs438811	Variant
+29795290_6304	2062	2070	rs438811	Variant
+29795290_6304	2119	2125	POLR2A	Gene-protein	HGNC:9187
+29795290_6304	2130	2136	RPC155	Gene-protein	HGNC:30074
+29795290_6304	2138	2269	rs483082, a brain eQTL for APOE which is in complete linkage with rs438811 and was also identified can interact with APOE ε4 status	Biomarker
+29795290_6304	2165	2169	APOE	Gene-protein
+29795290_6304	2255	2262	APOE ε4	Gene-protein
+29795290_6304	2280	2282	AD	Disease
+29795290_6304	2353	2358	HNF4G	Gene-protein	HGNC:5026
+29795290_6304	2360	2365	CEBPB	Gene-protein	HGNC:1834
+29795290_6304	2367	2371	MXI1	Gene-protein	HGNC:7534
+29795290_6304	2373	2378	HDAC2	Gene-protein	HGNC:4853
+29795290_6304	2380	2383	SP1	Gene-protein	HGNC:11205
+29795290_6304	2385	2389	RFX5	Gene-protein	HGNC:9986
+29795290_6304	2391	2394	MAX	Gene-protein	HGNC:6913
+29795290_6304	2396	2401	EP300	Gene-protein	HGNC:3373
+29795290_6304	2403	2407	JUND	Gene-protein	HGNC:6206
+29795290_6304	2409	2414	FOSL2	Gene-protein	HGNC:3798
+29795290_6304	2416	2422	ZBTB7A	Gene-protein	HGNC:18078
+29795290_6304	2427	2432	CEBPD	Gene-protein	HGNC:1835
+29795290_6304	2434	2442	rs483082	Variant
+29795290_6304	2434	2442	rs483082	Biomarker
+

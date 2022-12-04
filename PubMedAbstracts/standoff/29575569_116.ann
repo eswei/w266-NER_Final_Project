@@ -1,0 +1,75 @@
+T11	Biomarker 274 282	seizures
+T12	Biomarker 284 300	elevated lactate
+T13	Chemical 293 300	lactate
+T15	Biomarker 306 329	brain MRI abnormalities
+T16	Disease 346 360	Leigh syndrome
+#5	AnnotatorNotes T16	DOID:3652
+T17	Disease 362 364	LS
+T18	Disease 429 461	dysfunction of valine metabolism
+#7	AnnotatorNotes T18	C536524
+T20	Chemical 444 450	valine
+T21	Disease 592 594	LS
+T22	Chemical 660 698	erythro‐2,3‐dihydroxy‐2‐methylbutyrate
+T23	Chemical 703 722	3‐methylglutaconate
+T24	Chemical 724 729	3‐MGC
+T25	Biomarker 732 813	Increased urine excretion of methacrylyl‐CoA and acryloyl‐CoA related metabolites
+T26	Chemical 761 776	methacrylyl‐CoA
+T27	Chemical 781 793	acryloyl‐CoA
+T28	Disease 855 870	SCEH deficiency
+#16	AnnotatorNotes T28	DOID:0080154
+T29	Variant 1002 1012	c.476A > G
+T3	Disease 28 86	Short‐chain enoyl‐CoA hydratase (SCEH or ECHS1) deficiency
+#17	AnnotatorNotes T3	DOID:0080154
+T30	Variant 1014 1025	p.Gln159Arg
+T32	Variant 1070 1080	c.538A > G
+T33	Variant 1082 1094	p.(Thr180Ala
+T35	Variant 1144 1154	c.538A > G
+T36	Variant 1159 1168	Thr180Ala
+T37	Chemical 1445 1483	erythro‐2,3‐dihydroxy‐2‐methylbutyrate
+T38	Biomarker 1571 1599	increased excretion of 3‐MGC
+T39	Chemical 1594 1599	3‐MGC
+T4	Chemical 40 49	enoyl‐CoA
+T40	Biomarker 1630 1658	normal acylcarnitine profile
+T41	Chemical 1617 1624	lactate
+T42	Chemical 1637 1650	acylcarnitine
+T43	Disease 1678 1683	Leigh
+#25	AnnotatorNotes T43	DOID:3652
+T44	Disease 1748 1763	SCEH deficiency
+T45	Disease 1795 1811	ECHS1 deficiency
+#27	AnnotatorNotes T45	DOID:0080154
+T47	Chemical 1856 1861	3‐MGA
+T6	Biomarker 134 171	biallelic mutations in the gene ECHS1
+T2	Gene-Protein 61 65	SCEH
+#1	AnnotatorNotes T2	HGNC:3151
+T48	Gene-Protein 69 74	ECHS1
+#3	AnnotatorNotes T48	HGNC:3151
+T49	Gene-Protein 28 59	Short‐chain enoyl‐CoA hydratase
+#6	AnnotatorNotes T49	HGNC:3151
+T5	Gene-Protein 166 171	ECHS1
+R1	Risk-Factor Arg1:T6 Arg2:T3	
+T1	Gene-Protein 1795 1800	ECHS1
+T7	Gene-Protein 1170 1175	ECHS1
+T8	Gene-Protein 988 993	ECHS1
+T50	Gene-Protein 1788 1793	ECHS1
+T51	Gene-Protein 1096 1101	ECHS1
+T19	Biomarker 640 730	increased levels of erythro‐2,3‐dihydroxy‐2‐methylbutyrate and 3‐methylglutaconate (3‐MGC)
+T31	Collection 1144 1169	c.538A > G, p.(Thr180Ala)
+T46	Collection 1002 1026	c.476A > G (p.Gln159Arg)
+#9	AnnotatorNotes T30	p.Gln159Arg
+R2	Variant-Of Arg1:T8 Arg2:T46	
+T53	Collection 1070 1095	c.538A > G, p.(Thr180Ala)
+R3	Variant-Of Arg1:T51 Arg2:T53	
+#8	AnnotatorNotes T33	p.Thr180Ala
+R4	Variant-Of Arg1:T7 Arg2:T31	
+T34	Collection 1678 1763	Leigh‐like presentation should prompt consideration of a diagnosis of SCEH deficiency
+T54	Biomarker 1422 1483	presence of detectable erythro‐2,3‐dihydroxy‐2‐methylbutyrate
+T55	Collection 1422 1658	presence of detectable erythro‐2,3‐dihydroxy‐2‐methylbutyrate is a nonspecific marker on urine organic acid analysis but this finding, together with increased excretion of 3‐MGC, elevated plasma lactate, and normal acylcarnitine profile
+R5	Association Arg1:T55 Arg2:T34	
+#10	AnnotatorNotes T17	DOID:3652
+T9	Biomarker 218 272	infantile‐onset severe developmental delay, regression
+R6	Association Arg1:T25 Arg2:T28	
+T10	Biomarker 1601 1624	elevated plasma lactate
+T14	Collection 218 329	infantile‐onset severe developmental delay, regression, seizures, elevated lactate, and brain MRI abnormalities
+R7	Association Arg1:T12 Arg2:T3	
+R8	Association Arg1:T12 Arg2:T16	
+#2	AnnotatorNotes T11	D012640

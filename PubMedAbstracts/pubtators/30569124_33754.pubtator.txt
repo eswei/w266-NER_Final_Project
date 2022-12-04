@@ -1,0 +1,44 @@
+30569124_33754|t|RSS_IDENT_p_30569124_b_1_4_5
+30569124_33754|a| Aberrant levels of miR-134 have been detected in various malignancies, and may regulate tumor development, differentiation, proliferation, invasion and metastasis ( 35 , 36 ). Overexpression of miR-134 inhibits migration, invasion and EMT of lung cancer cells by targeting integrin β1 mRNA ( 37 ). Similarly, Zha et al revealed that miR-134 specifically targets integrin β1 to suppress the invasion and metastasis of hepatocellular carcinoma cells in vitro and in vivo ( 38 ). Additionally, forced expression of miR-134 inhibits the migration and invasion of renal cell carcinoma cells by blocking EMT ( 39 ). These findings indicated the miR-134 may serve as a tumor suppressor in human cancer ( 40 ); however, the pathogenetic roles of miR-134 were obscure in GC, particularly in GC associated with H. pylori infection. To the best of our knowledge, the current study was the first to reveal that forced overexpression of miR-134 could significantly reverse H. pyloriCₐgA₊/P₊ infection-induced cell proliferation, invasion and EMT. Notably, the molecular and modulated mechanisms of miRNA are complex and variable ( 41 ), and a recent study revealed that miR-134 has diverse target genes in cancer ( 40 ). Using bioinformatics analysis and molecular experiments, the present study demonstrated that the downregulation of miR-134 in H. pyloriCₐgA₊/P₊-infected GC tissues was associated with upregulated FoxM1 mRNA and protein expression. In agreement with the sequence alignment, the luciferase reporter assays confirmed the direct targeting of the FoxM1 3′-untranslated region by miR-134, and suggested that a strong affinity may exist between miR-134 and FoxM1 mRNA in patients with GC and H. pyloriCₐgA₊/P₊ infection. 
+30569124_33754	30	56	Aberrant levels of miR-134	Biomarker
+30569124_33754	49	56	miR-134	Rna-noncoding	HGNC:31519
+30569124_33754	118	123	tumor	Disease	DOID:162
+30569124_33754	206	231	Overexpression of miR-134	Drug	not found
+30569124_33754	224	231	miR-134	Rna-noncoding
+30569124_33754	272	283	lung cancer	Disease	DOID:1324
+30569124_33754	303	314	integrin β1	Gene-protein	HGNC:6153
+30569124_33754	363	370	miR-134	Rna-noncoding
+30569124_33754	363	370	miR-134	Drug	C569273
+30569124_33754	392	403	integrin β1	Gene-protein
+30569124_33754	447	471	hepatocellular carcinoma	Disease	DOID:684
+30569124_33754	521	549	forced expression of miR-134	Drug	not found
+30569124_33754	542	549	miR-134	Rna-noncoding
+30569124_33754	589	609	renal cell carcinoma	Disease	DOID:4450
+30569124_33754	669	676	miR-134	Rna-noncoding
+30569124_33754	669	676	miR-134	Drug
+30569124_33754	718	724	cancer	Disease	DOID:162
+30569124_33754	768	775	miR-134	Rna-noncoding
+30569124_33754	768	775	miR-134	Biomarker	C569273
+30569124_33754	792	794	GC	Disease	DOID:10534
+30569124_33754	812	850	GC associated with H. pylori infection	Disease	not found
+30569124_33754	831	840	H. pylori	Microorganism
+30569124_33754	936	961	overexpression of miR-134	Biomarker
+30569124_33754	954	961	miR-134	Rna-noncoding
+30569124_33754	990	1017	H. pyloriCₐgA₊/P₊ infection	Disease	not found
+30569124_33754	1187	1194	miR-134	Rna-noncoding
+30569124_33754	1187	1194	miR-134	Biomarker
+30569124_33754	1223	1229	cancer	Disease
+30569124_33754	1335	1360	downregulation of miR-134	Biomarker
+30569124_33754	1353	1360	miR-134	Rna-noncoding
+30569124_33754	1364	1393	H. pyloriCₐgA₊/P₊-infected GC	Disease	not found
+30569124_33754	1422	1467	upregulated FoxM1 mRNA and protein expression	Biomarker
+30569124_33754	1434	1439	FoxM1	Gene-protein	HGNC:3818
+30569124_33754	1580	1585	FoxM1	Gene-protein
+30569124_33754	1612	1619	miR-134	Rna-noncoding
+30569124_33754	1642	1698	strong affinity may exist between miR-134 and FoxM1 mRNA	Biomarker
+30569124_33754	1676	1683	miR-134	Rna-noncoding
+30569124_33754	1688	1693	FoxM1	Gene-protein
+30569124_33754	1716	1718	GC	Disease
+30569124_33754	1716	1750	GC and H. pyloriCₐgA₊/P₊ infection	Collection
+30569124_33754	1723	1750	H. pyloriCₐgA₊/P₊ infection	Disease
+

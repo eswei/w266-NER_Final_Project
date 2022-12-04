@@ -1,0 +1,52 @@
+T0	Disease 124 127	PCa
+#1	AnnotatorNotes T0	DOID:10283
+T1	Chemical 154 165	nucleotides
+T11	Disease 721 751	de novo acute myeloid leukemia
+#3	AnnotatorNotes T11	DOID:9119
+T13	Disease 768 780	solid tumors
+#5	AnnotatorNotes T13	DOID:162
+T15	Disease 847 853	cancer
+T16	Disease 909 936	stage II/III gastric cancer
+#7	AnnotatorNotes T16	not found, not found
+T19	Disease 1141 1144	PCa
+T22	Disease 1274 1277	PCa
+T4	Disease 287 311	autism spectrum disorder
+#12	AnnotatorNotes T4	DOID:0060041
+T5	Disease 391 396	tumor
+#13	AnnotatorNotes T5	DOID:162
+T6	RNA-Noncoding 437 443	NAP1L6
+T7	Disease 499 502	PCa
+T8	Disease 590 596	cancer
+#16	AnnotatorNotes T8	DOID:162
+T3	RNA-Noncoding 114 120	NAP1L6
+#2	AnnotatorNotes T3	HGNC:31706
+T10	Biomarker 107 120	lncRNA NAP1L6
+R1	Association Arg1:T10 Arg2:T0	
+T14	RNA-Noncoding 129 135	NAP1L6
+T2	Biomarker 233 264	copy number variation of NAP1L6
+T18	Biomarker 437 443	NAP1L6
+R3	Association Arg1:T18 Arg2:T7	
+T20	Gene-Protein 541 546	INHBA
+#9	AnnotatorNotes T20	HGNC:6066
+T21	Gene-Protein 678 683	INHBA
+T23	Gene-Protein 782 787	INHBA
+T17	Gene-Protein 1060 1065	INHBA
+T24	Gene-Protein 1146 1151	INHBA
+T25	Gene-Protein 1252 1257	INHBA
+T9	Biomarker 1146 1182	INHBA was found to be over-expressed
+R4	Association Arg1:T9 Arg2:T19	
+T26	Biomarker 659 683	high expression of INHBA
+R5	Prognostic-Poor Arg1:T26 Arg2:T11	
+T27	RNA-Noncoding 258 264	NAP1L6
+T28	Gene-Protein 581 586	INHBA
+T12	Biomarker 782 842	INHBA expression levels were found to be significantly highe
+T29	Drug-Class 950 971	adjuvant chemotherapy
+T30	Biomarker 1055 1076	high INHBA expression
+T31	Biomarker 1252 1257	INHBA
+R8	Association Arg1:T31 Arg2:T22	
+R9	Prognostic-Poor Arg1:T30 Arg2:T16	
+T32	Drug-Class 977 980	S-1
+T33	Biomarker 558 586	regulative function of INHBA
+R10	Association Arg1:T33 Arg2:T8	
+R2	Association Arg1:T12 Arg2:T34	
+T34	Collection 847 936	cancer tissue than in adjacent normal mucosa in patients with stage II/III gastric cancer

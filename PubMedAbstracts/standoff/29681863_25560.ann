@@ -1,0 +1,54 @@
+T0	Chemical 49 60	cholesterol
+T1	Chemical 119 130	cholesterol
+T11	Chemical 563 574	cholesterol
+T18	Drug 975 978	TSF
+T19	Chemical 1009 1020	cholesterol
+T20	Drug 1135 1138	TSF
+T21	Chemical 1159 1170	cholesterol
+T23	Chemical 1234 1245	cholesterol
+T24	Chemical 1286 1297	cholesterol
+T25	Disease 1326 1328	DN
+T3	Disease 285 300	Tangier disease
+#16	AnnotatorNotes T3	DOID:1388
+T4	Biomarker 327 342	atherosclerosis
+#17	AnnotatorNotes T4	D050197
+T5	Biomarker 344 355	proteinuria
+#18	AnnotatorNotes T5	D011507
+T6	Biomarker 361 375	HDL deficiency
+#19	AnnotatorNotes T6	C538394
+T8	Disease 480 503	coronary artery disease
+#20	AnnotatorNotes T8	DOID:3393
+T9	Disease 545 547	DN
+#21	AnnotatorNotes T9	D003928
+T2	Gene-Protein 84 89	ABCA1
+#1	AnnotatorNotes T2	HGNC:29
+T7	Gene-Protein 146 151	ABCA1
+T10	Gene-Protein 772 777	ABCA1
+T16	Gene-Protein 608 613	ABCA1
+T22	Gene-Protein 902 907	ABCA1
+T26	Gene-Protein 1219 1224	ABCA1
+T27	Gene-Protein 1062 1067	ABCA1
+T28	Gene-Protein 1079 1084	ABCA1
+T29	Gene-Protein 258 263	ABCA1
+T30	Gene-Protein 416 421	ABCA1
+T31	Biomarker 234 268	molecular defect in the ABCA1 gene
+T32	Collection 327 375	atherosclerosis, proteinuria, and HDL deficiency
+T33	Biomarker 416 438	ABCA1 genetic variants
+R1	Risk-Factor Arg1:T33 Arg2:T8	
+R2	Association Arg1:T31 Arg2:T3	
+T13	Disease 677 740	type 1 diabetes mellitus and diabetic apolipoprotein E knockout
+T17	Biomarker 761 809	expression ABCA1 was downregulated in the kidney
+R3	Association Arg1:T17 Arg2:T13	
+T34	Chemical 1142 1144	PA
+#2	AnnotatorNotes T13	DOID:9744, not found
+T12	Gene-Protein 715 731	apolipoprotein E
+T14	Gene-Protein 742 746	apoE
+T15	Biomarker 608 628	ABCA1 downregulation
+T35	Chemical 183 189	lipids
+T36	Biomarker 553 587	increased cholesterol accumulation
+T37	Biomarker 1219 1252	ABCA1-mediated cholesterol efflux
+R4	Association Arg1:T37 Arg2:T25	
+#3	AnnotatorNotes T18	not found
+R5	Association Arg1:T32 Arg2:T3	
+T38	Biomarker 1280 1310	renal cholesterol accumulation
+T39	Biomarker 902 940	ABCA1 was downregulated in the kidneys

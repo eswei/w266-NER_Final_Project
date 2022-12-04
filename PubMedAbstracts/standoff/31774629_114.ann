@@ -1,0 +1,99 @@
+T1	Disease 28 66	Perioperative neurocognitive disorders
+#1	AnnotatorNotes T1	not found
+T12	Biomarker 1055 1070	tibial fracture
+T13	Biomarker 1089 1160	decreased M2 microglial polarization (CD206, Ym1/2, Arg1) in aged brain
+T15	Chemical 1283 1326	nicotinamide adenine dinucleotide phosphate
+T16	Chemical 1328 1333	NADPH
+T17	Biomarker 1392 1466	percentage of CD16/32‐positive M1 microglia colabeling with Hv1 was higher
+T18	Disease 1470 1501	aged mice after tibial fracture
+T19	Biomarker 1517 1565	Hv1/NADPH oxidase upregulation in the aged brain
+T20	Chemical 1521 1526	NADPH
+T21	Disease 1677 1694	neuroinflammatory
+T22	Chemical 1802 1806	DAPI
+T23	Chemical 1807 1836	4′,6‐diamidino‐2‐phenylindole
+T25	Chemical 1896 1903	calcium
+T26	Chemical 1967 1979	nitric oxide
+T27	Chemical 2014 2019	NADPH
+T29	Chemical 2020 2063	nicotinamide adenine dinucleotide phosphate
+T3	Biomarker 149 154	Aging
+T30	Chemical 2068 2093	phosphate‐buffered saline
+T31	Chemical 2094 2097	PFA
+T32	Chemical 2098 2114	paraformaldehyde
+T33	Disease 2120 2155	postoperative cognitive dysfunction
+#20	AnnotatorNotes T33	D000079690
+T36	Chemical 2183 2187	PVDF
+T37	Chemical 2188 2211	polyvinylidene fluoride
+T38	Disease 2266 2269	TBI
+T39	Disease 2270 2292	traumatic brain injury
+#26	AnnotatorNotes T39	D000070642
+T4	Disease 289 343	microglia‐mediated neuroinflammation in the aged brain
+T41	Gene-Protein 2299 2322	tumor necrosis factor‐α
+T5	Disease 553 570	neuroinflammation
+T7	Disease 681 696	tibial fracture
+#31	AnnotatorNotes T7	D013978
+#3	AnnotatorNotes T4	not found
+R1	Association Arg1:T3 Arg2:T4	
+#4	AnnotatorNotes T5	not found
+T2	Gene-Protein 750 773	tumor necrosis factor‐α
+T6	Gene-Protein 775 780	TNF‐α
+T42	Gene-Protein 786 800	interleukin‐1β
+T43	Gene-Protein 802 807	IL‐1β
+T8	Gene-Protein 864 877	synaptophysin
+T44	Gene-Protein 879 882	SYP
+T10	Gene-Protein 1127 1132	CD206
+T11	Gene-Protein 1032 1039	CD16/32
+T45	Gene-Protein 1134 1139	Ym1/2
+T46	Gene-Protein 1141 1145	Arg1
+T47	Biomarker 1165 1215	enhanced M2 microglial polarization in adult brain
+#2	AnnotatorNotes T12	D013978
+T48	Gene-Protein 1283 1342	nicotinamide adenine dinucleotide phosphate (NADPH) oxidase
+T14	Gene-Protein 1406 1413	CD16/32
+T49	GeneFamily 1244 1272	voltage‐gated proton channel
+T50	GeneFamily 1274 1277	Hv1
+T51	GeneFamily 1452 1455	Hv1
+R2	Association Arg1:T17 Arg2:T18	
+T52	Gene-Protein 1521 1534	NADPH oxidase
+T53	GeneFamily 1517 1520	Hv1
+R3	Association Arg1:T19 Arg2:T21	
+T54	Gene-Protein 1759 1763	Arg1
+T55	Gene-Protein 1764 1774	Arginase 1
+T24	Disease 1843 1882	distal middle cerebral artery occlusion
+#5	AnnotatorNotes T24	not found
+T56	Disease 1837 1842	dMCAO
+#6	AnnotatorNotes T56	not found
+T57	Gene-Protein 1888 1930	ionized calcium‐binding adapter molecule‐1
+T58	Gene-Protein 1883 1887	Iba1
+T59	Gene-Protein 1931 1936	IL‐1β
+T60	Gene-Protein 1937 1951	interleukin‐1β
+T61	Gene-Protein 1952 1956	iNOS
+T62	Gene-Protein 1957 1988	inducible nitric oxide synthase
+T63	Gene-Protein 1993 2013	myelin basic protein
+T64	Gene-Protein 1989 1992	MBP
+T28	Chemical 2064 2067	PBS
+T65	Disease 2115 2119	POCD
+#7	AnnotatorNotes T65	D000079690
+T66	Disease 2160 2182	postoperative delirium
+#8	AnnotatorNotes T66	not found
+T9	Disease 2156 2159	POD
+#9	AnnotatorNotes T9	not found
+T34	Gene-Protein 2252 2265	synaptophysin
+T35	Gene-Protein 2248 2251	SYP
+#10	AnnotatorNotes T38	D000070642
+T40	Gene-Protein 2293 2298	TNF‐α
+T67	Biomarker 514 519	aging
+#11	AnnotatorNotes T67	D000375
+#12	AnnotatorNotes T3	D000375
+#13	AnnotatorNotes T55	HGNC:663
+#14	AnnotatorNotes T54	HGNC:663
+#15	AnnotatorNotes T58	HGNC:352
+#16	AnnotatorNotes T57	HGNC:352
+#17	AnnotatorNotes T59	HGNC:5992
+#18	AnnotatorNotes T60	HGNC:5992
+#19	AnnotatorNotes T61	HGNC:29821
+#21	AnnotatorNotes T62	HGNC:29821
+#22	AnnotatorNotes T64	HGNC:6925
+#23	AnnotatorNotes T63	HGNC:6925
+#24	AnnotatorNotes T35	HGNC:11506
+#25	AnnotatorNotes T34	HGNC:11506
+#27	AnnotatorNotes T40	HGNC:11892
+#28	AnnotatorNotes T41	HGNC:11892

@@ -1,0 +1,59 @@
+T1	Disease 224 230	cancer
+#2	AnnotatorNotes T1	DOID:162
+T10	Disease 928 933	tumor
+T12	Chemical 983 986	Ca⁺
+T14	Disease 1104 1119	prostate cancer
+T16	Disease 1245 1260	prostate cancer
+T18	Chemical 1342 1345	Ca⁺
+T19	Disease 1404 1419	prostate cancer
+T2	Disease 252 267	prostate cancer
+#9	AnnotatorNotes T2	DOID:10283
+T20	Disease 1495 1510	prostate cancer
+T22	Disease 1609 1636	invasive sarcomatoid tumors
+#11	AnnotatorNotes T22	not found
+T24	Disease 1743 1758	prostate cancer
+T26	Disease 1879 1886	cancers
+T27	Disease 1940 1955	prostate cancer
+T5	Disease 330 356	prostate cancer metastasis
+#17	AnnotatorNotes T5	DOID:10283
+T6	Disease 521 526	tumor
+#18	AnnotatorNotes T6	DOID:162
+T9	Disease 813 828	prostate cancer
+T3	Gene-Protein 102 106	KLF4
+#4	AnnotatorNotes T3	HGNC:6348
+T7	Gene-Protein 173 177	KLF4
+T11	Gene-Protein 291 295	KLF4
+T4	Biomarker 291 320	KLF4 expression is diminished
+R1	Association Arg1:T4 Arg2:T5	
+T13	Gene-Protein 481 485	KLF4
+T15	Gene-Protein 707 711	KLF4
+T8	Gene-Protein 873 877	Klf4
+T17	Biomarker 873 877	Klf4
+R2	Association Arg1:T17 Arg2:T10	
+T21	Gene-Protein 957 971	Sonic hedgehog
+#1	AnnotatorNotes T21	HGNC:10848
+T23	Gene-Protein 973 976	Shh
+#3	AnnotatorNotes T23	HGNC:10848
+T28	GeneFamily 979 982	Wnt
+#7	AnnotatorNotes T28	family:360
+T29	GeneFamily 992 996	PPAR
+#16	AnnotatorNotes T29	not found
+T30	GeneFamily 1023 1031	Hedgehog
+#19	AnnotatorNotes T30	family:1373
+T31	GeneFamily 1033 1035	Hh
+#20	AnnotatorNotes T31	family:1373
+T32	Biomarker 1023 1044	Hedgehog (Hh) pathway
+R3	Association Arg1:T32 Arg2:T14	
+T33	GeneFamily 1204 1206	Hh
+T34	Drug 1190 1216	inhibition of Hh signaling
+R4	Response Arg1:T34 Arg2:T16	
+T35	GeneFamily 1338 1341	Wnt
+T36	Gene-Protein 1369 1373	Klf4
+T37	Biomarker 1338 1400	Wnt/Ca⁺ activity, regulated by Klf4 in our model, is increased
+R5	Association Arg1:T37 Arg2:T19	
+T38	Biomarker 1453 1468	PPAR activation
+T39	GeneFamily 1453 1457	PPAR
+R6	Risk-Factor Arg1:T38 Arg2:T20	
+T40	Gene-Protein 1648 1652	Klf4
+#5	AnnotatorNotes T26	DOID:162
+T25	Biomarker 173 193	KLF4-regulated genes

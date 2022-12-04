@@ -1,0 +1,56 @@
+31535669_10179|t|RSS_IDENT_p_31535669_b_1_4_3
+31535669_10179|a| Tumor angiogenesis is the pathological basis of decreased blood flow resistance and increased blood perfusion. VEGF165 is an important member of the VEGF family, with receptors on endothelial cells and tumor cell membranes. NPR-1, after combination, promotes endothelial cells tube structure, and can promote the growth of tumor cells [ 12 – 16 ]. SphK1 catalytic sphingosine phosphorylation of SIP is an important catalytic enzyme process. SIP, after combining with the membrane surface SIPR, can initiate downstream MAPK and PI3K/AKT signaling, which promotes endothelial cell proliferation and migration and formation of tube-type structures [ 17 , 18 ]. CD31 is the vascular tight junction marker, and CD31 overexpression in vessels may play a key role in cancer development [ 19 , 20 ]. Under the combined action of VEGF165 and S1P, the formation of new blood vessels in breast cancer lesions is significantly increased. To assess the role of VEGF165 in breast lesions and to determine how S1P angiogenesis is mediated, we analyzed the angiogenic gene expression levels. The results showed that VEGF165, NRP-1, SphK1, and CD31 proteins expressions in the breast cancer groups were significantly higher compared with those of benign tumor patients; however, VEGF165, NRP-1, SphK1, and CD31 proteins levels in the III–IV stage group were higher than those of the I–II stage breast cancer group. Further analysis of the correlation between angiogenesis gene expression and blood flow characteristics showed the following: Vmax was positively correlated with VEGF165, NRP-1, SphK1, and CD31 proteins expressions and RI was negatively correlated with VEGF165, NRP-1, SphK1, and CD31 proteins expressions in breast cancer patients. This indicates that vascular neovascularization mediated by VEGF165, NRP-1, SphK1 and CD31 in breast cancer can reduce blood flow resistance and increase blood perfusion. 
+31535669_10179	30	35	Tumor	Disease	DOID:162
+31535669_10179	141	148	VEGF165	Gene-protein	not found
+31535669_10179	179	183	VEGF	Genefamily	family:1267
+31535669_10179	232	237	tumor	Disease	DOID:162
+31535669_10179	254	259	NPR-1	Gene-protein	HGNC:7943
+31535669_10179	254	278	NPR-1, after combination	Biomarker
+31535669_10179	353	358	tumor	Disease
+31535669_10179	378	383	SphK1	Gene-protein	HGNC:11240
+31535669_10179	394	405	sphingosine	Chemical
+31535669_10179	425	428	SIP	Chemical
+31535669_10179	471	474	SIP	Chemical
+31535669_10179	518	522	SIPR	Genefamily	family:206
+31535669_10179	548	552	MAPK	Genefamily	family:651
+31535669_10179	557	561	PI3K	Genefamily	family:831
+31535669_10179	562	565	AKT	Genefamily	family:1900
+31535669_10179	688	692	CD31	Gene-protein	HGNC:8823
+31535669_10179	736	740	CD31	Gene-protein
+31535669_10179	736	766	CD31 overexpression in vessels	Biomarker
+31535669_10179	790	796	cancer	Disease	DOID:14566|DOID:162
+31535669_10179	832	866	combined action of VEGF165 and S1P	Biomarker
+31535669_10179	851	858	VEGF165	Gene-protein
+31535669_10179	863	866	S1P	Chemical
+31535669_10179	906	927	breast cancer lesions	Disease	DOID:1612
+31535669_10179	978	985	VEGF165	Gene-protein
+31535669_10179	989	1003	breast lesions	Disease	DOID:3463
+31535669_10179	1025	1028	S1P	Chemical
+31535669_10179	1130	1137	VEGF165	Gene-protein
+31535669_10179	1130	1182	VEGF165, NRP-1, SphK1, and CD31 proteins expressions	Biomarker
+31535669_10179	1139	1144	NRP-1	Gene-protein
+31535669_10179	1146	1151	SphK1	Gene-protein
+31535669_10179	1157	1161	CD31	Gene-protein
+31535669_10179	1190	1203	breast cancer	Disease	DOID:1612
+31535669_10179	1260	1272	benign tumor	Disease	DOID:0060072
+31535669_10179	1292	1299	VEGF165	Gene-protein
+31535669_10179	1292	1339	VEGF165, NRP-1, SphK1, and CD31 proteins levels	Biomarker
+31535669_10179	1301	1306	NRP-1	Gene-protein
+31535669_10179	1308	1313	SphK1	Gene-protein
+31535669_10179	1319	1323	CD31	Gene-protein
+31535669_10179	1396	1420	I–II stage breast cancer	Disease	not found
+31535669_10179	1590	1597	VEGF165	Gene-protein
+31535669_10179	1599	1604	NRP-1	Gene-protein
+31535669_10179	1606	1611	SphK1	Gene-protein
+31535669_10179	1617	1621	CD31	Gene-protein
+31535669_10179	1681	1688	VEGF165	Gene-protein
+31535669_10179	1690	1695	NRP-1	Gene-protein
+31535669_10179	1697	1702	SphK1	Gene-protein
+31535669_10179	1708	1712	CD31	Gene-protein
+31535669_10179	1737	1750	breast cancer	Disease
+31535669_10179	1821	1828	VEGF165	Gene-protein
+31535669_10179	1830	1835	NRP-1	Gene-protein
+31535669_10179	1837	1842	SphK1	Gene-protein
+31535669_10179	1847	1851	CD31	Gene-protein
+31535669_10179	1855	1868	breast cancer	Disease
+

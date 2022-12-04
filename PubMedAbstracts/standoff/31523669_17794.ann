@@ -1,0 +1,42 @@
+T0	Chemical 33 41	dopamine
+T11	Chemical 511 519	dopamine
+T12	Chemical 552 560	dopamine
+T13	Disease 584 624	attention-deficit hyperactivity disorder
+T15	Disease 743 746	TBI
+T17	Chemical 820 828	dopamine
+T18	Disease 905 908	TBI
+T2	Chemical 145 153	dopamine
+T20	Chemical 923 931	dopamine
+T21	Disease 948 951	TBI
+T22	Chemical 1023 1031	dopamine
+T23	Disease 1048 1051	TBI
+T24	Chemical 1103 1111	dopamine
+T25	Disease 1178 1181	TBI
+T26	Chemical 1239 1247	dopamine
+T27	Disease 1324 1327	TBI
+T3	Chemical 259 267	dopamine
+T5	Chemical 315 323	dopamine
+T6	Disease 347 387	attention-deficit hyperactivity disorder
+#20	AnnotatorNotes T6	DOID:1094
+T8	Disease 441 481	attention deficit hyperactivity disorder
+T1	Gene-Protein 30 50	D₂ dopamine receptor
+#1	AnnotatorNotes T1	HGNC:3023
+T4	Biomarker 133 171	Impaired D₂ dopamine receptor function
+T10	Gene-Protein 142 162	D₂ dopamine receptor
+T16	Biomarker 196 223	decreased physical activity
+T19	Biomarker 250 273	Decrease dopamine level
+T28	Biomarker 302 343	increased D₂ dopamine receptor expression
+T29	Gene-Protein 312 332	D₂ dopamine receptor
+T7	Gene-Protein 549 569	D₂ dopamine receptor
+T9	Biomarker 651 675	Genetic variations of D₂
+R1	Association Arg1:T9 Arg2:T15	
+#2	AnnotatorNotes T15	D000070642
+T14	Gene-Protein 817 837	D₂ dopamine receptor
+T30	Biomarker 802 894	expressions of D₂ dopamine receptor in the PFC, striatum, hippocampus, and SN were increased
+T31	Biomarker 910 940	Increased D₂ dopamine receptor
+T32	Gene-Protein 920 940	D₂ dopamine receptor
+R2	Association Arg1:T31 Arg2:T21	
+T33	Gene-Protein 1100 1120	D₂ dopamine receptor
+T34	Gene-Protein 1236 1256	D₂ dopamine receptor
+R3	Association Arg1:T30 Arg2:T18	
+T35	Biomarker 1015 1037	reduced dopamine level

@@ -1,0 +1,48 @@
+T1	Disease 93 113	renal cell carcinoma
+#1	AnnotatorNotes T1	DOID:4450
+T10	Disease 458 464	tumors
+#2	AnnotatorNotes T10	DOID:162
+T13	Disease 621 624	HCC
+T14	Disease 678 696	HBsAg‐positive HCC
+T17	Disease 877 880	HCC
+T18	Disease 960 965	tumor
+#6	AnnotatorNotes T18	DOID:14566|DOID:162
+T22	Disease 1265 1268	HCC
+T3	Disease 187 190	HCC
+T5	Disease 329 332	HCC
+T6	Disease 351 354	HCC
+T2	RNA-Noncoding 51 61	miR‐497‐5p
+#3	AnnotatorNotes T2	HGNC:32088
+T4	Biomarker 51 61	miR‐497‐5p
+#4	AnnotatorNotes T4	C559640
+T7	RNA-Noncoding 173 183	miR‐497‐5p
+T8	RNA-Noncoding 297 307	miR‐497‐5p
+T11	Biomarker 297 325	miR‐497‐5p was downregulated
+#5	AnnotatorNotes T3	DOID:684
+R2	Association Arg1:T11 Arg2:T5	
+T12	RNA-Noncoding 367 377	MiR‐497‐5p
+#7	AnnotatorNotes T12	HGNC:32088
+T15	Biomarker 367 392	MiR‐497‐5p downregulation
+T9	Biomarker 411 428	larger tumor size
+R3	Prognostic-Poor Arg1:T15 Arg2:T10	
+#8	AnnotatorNotes T14	not found
+T16	RNA-Noncoding 772 782	miR‐497‐5p
+T19	Biomarker 754 782	expression of the miR‐497‐5p
+T20	Biomarker 791 807	serum AFP levels
+T21	Gene-Protein 797 800	AFP
+#9	AnnotatorNotes T21	HGNC:317
+T23	RNA-Noncoding 822 832	miR‐497‐5p
+T24	Biomarker 822 832	miR‐497‐5p
+R4	Association Arg1:T24 Arg2:T17	
+T25	RNA-Noncoding 991 1001	miR‐497‐5p
+T26	Biomarker 1055 1083	overexpression of miR‐497‐5p
+T27	RNA-Noncoding 1073 1083	miR‐497‐5p
+T28	CellLine 1087 1091	Huh7
+T29	CellLine 1096 1101	HepG2
+T30	MicroOrganism 560 563	HBV
+T31	MicroOrganism 489 492	HBV
+T32	Biomarker 480 503	positive HBV DNA levels
+T33	MicroOrganism 927 930	HBV
+T34	Biomarker 560 574	HBV DNA levels
+R1	Association Arg1:T34 Arg2:T13	
+T35	Biomarker 927 941	HBV DNA levels

@@ -1,0 +1,84 @@
+30305115_18788|t|RSS_IDENT_s_30305115_b_1_3_4
+30305115_18788|a| DEGs in pretreatment tumors between non-responders and responders Pretreatment samples from 32 responders were first compared to those of 18 non-responders: 30 genes were found to be significantly differentially expressed (Table 2). Twenty-three of these 30 DEGs were relatively overexpressed and 7 genes were relatively underexpressed in responding tumors. Tyrosine-sulfated secretory protein encoding gene CHGB, PTEN-related encoding gene TPTE, and G protein-coupled receptor encoding gene NMBR were significantly overexpressed in responders (FDR < 0.05). Intriguingly, CHGB, TPTE were upregulated after months of NET in responders, but not in non-responders. In contrast, potassium channel proteins encoding gene KCNK3 was overexpressed and upregulated after NET in non-responders. Table 2 Genes differentially expressed between non-responders and responders in pretreatment samples Gene symbol Description log2 FC (R/NR) Upregulated genes CHGB Chromogranin B 1.3 TPTE Transmembrane phosphatase with tensin homology 1.2 NMBR Neuromedin-B-preferring bombesin receptor 1.0 MYO3B Myosin IIIB 1.1 CEP72 Centrosomal protein 72 0.9 GRB14 Growth factor receptor bound protein 14 1.0 MEGF10 Multiple epidermal growth factor-like domains protein 10 1.0 RP5-1043L13,1 LncRNA 1.0 ZXDC ZXD family zinc finger C 0.3 VSX1 Visual system homeobox 1 0.9 MBTPS1 Membrane bound transcription factor peptidase, site 1 0.6 CTRL Chymotrypsin Like 0.4 SESN3 Sestrin 3 0.9 PSKH1 Protein serine kinase H1 0.4 TPPP Tubulin polymerization promoting protein 1.0 LINC00578 Long intergenic non-protein coding RNA 578 1.0 RP11-712B9,2 LncRNA 0.9 GBA3 Glucosylceramidase beta 3 0.9 CPLX2 Complexin 2 0.7 HSDL1 Hydroxysteroid dehydrogenase like 1 0.5 AC008174,3 LncRNA 0.9 FUK Fucokinase 0.5 MT1L Metallothionein 1L 0.9 Downregulated genes ASAH1 N-Acylsphingosine amidohydrolase 1 − 0.8 ANK1 Ankyrin 1 − 1.0 PCSK1 Proprotein convertase subtilisin/kexin type 1 − 0.9 SEZ6L Seizure related 6 homolog like − 0.9 TMC3 Transmembrane channel like 3 − 0.9 RP11-761I4,3 LncRNA − 1.0 KCNK3 Potassium two pore domain channel subfamily K member 3 − 0.9 Genes were selected by class comparison analysis at a FDR of 0.1; FC fold change, NR non-responder, R responder
+30305115_18788	51	57	tumors	Disease	DOID:162
+30305115_18788	263	322	Twenty-three of these 30 DEGs were relatively overexpressed	Biomarker
+30305115_18788	263	365	Twenty-three of these 30 DEGs were relatively overexpressed and 7 genes were relatively underexpressed	Collection
+30305115_18788	327	365	7 genes were relatively underexpressed	Biomarker
+30305115_18788	380	386	tumors	Disease
+30305115_18788	388	396	Tyrosine	Chemical
+30305115_18788	388	559	Tyrosine-sulfated secretory protein encoding gene CHGB, PTEN-related encoding gene TPTE, and G protein-coupled receptor encoding gene NMBR were significantly overexpressed	Biomarker
+30305115_18788	438	442	CHGB	Gene-protein	HGNC:1930
+30305115_18788	444	448	PTEN	Gene-protein	HGNC:9588
+30305115_18788	471	475	TPTE	Gene-protein	HGNC:12023
+30305115_18788	481	507	G protein-coupled receptor	Genefamily	family:139
+30305115_18788	522	526	NMBR	Gene-protein	HGNC:7843
+30305115_18788	602	606	CHGB	Gene-protein
+30305115_18788	602	629	CHGB, TPTE were upregulated	Biomarker
+30305115_18788	608	612	TPTE	Gene-protein
+30305115_18788	646	649	NET	Drug-class
+30305115_18788	705	714	potassium	Chemical
+30305115_18788	705	731	potassium channel proteins	Genefamily	family:183
+30305115_18788	746	751	KCNK3	Gene-protein	HGNC:6278
+30305115_18788	792	795	NET	Drug-class
+30305115_18788	973	977	CHGB	Gene-protein
+30305115_18788	978	992	Chromogranin B	Gene-protein	HGNC:1930
+30305115_18788	997	1001	TPTE	Gene-protein
+30305115_18788	1002	1048	Transmembrane phosphatase with tensin homology	Gene-protein
+30305115_18788	1053	1057	NMBR	Gene-protein
+30305115_18788	1058	1099	Neuromedin-B-preferring bombesin receptor	Gene-protein
+30305115_18788	1082	1090	bombesin	Chemical
+30305115_18788	1104	1109	MYO3B	Gene-protein
+30305115_18788	1110	1121	Myosin IIIB	Gene-protein
+30305115_18788	1126	1131	CEP72	Gene-protein
+30305115_18788	1132	1154	Centrosomal protein 72	Gene-protein
+30305115_18788	1159	1164	GRB14	Gene-protein
+30305115_18788	1165	1204	Growth factor receptor bound protein 14	Gene-protein
+30305115_18788	1209	1215	MEGF10	Gene-protein
+30305115_18788	1216	1272	Multiple epidermal growth factor-like domains protein 10	Gene-protein
+30305115_18788	1277	1290	RP5-1043L13,1	Rna-noncoding
+30305115_18788	1302	1306	ZXDC	Gene-protein
+30305115_18788	1307	1331	ZXD family zinc finger C	Gene-protein
+30305115_18788	1318	1322	zinc	Chemical
+30305115_18788	1336	1340	VSX1	Gene-protein
+30305115_18788	1341	1365	Visual system homeobox 1	Gene-protein
+30305115_18788	1370	1376	MBTPS1	Gene-protein
+30305115_18788	1377	1430	Membrane bound transcription factor peptidase, site 1	Gene-protein
+30305115_18788	1435	1439	CTRL	Gene-protein
+30305115_18788	1440	1457	Chymotrypsin Like	Gene-protein
+30305115_18788	1462	1467	SESN3	Gene-protein
+30305115_18788	1468	1477	Sestrin 3	Gene-protein
+30305115_18788	1482	1487	PSKH1	Gene-protein
+30305115_18788	1488	1509	Protein serine kinase	Gene-protein
+30305115_18788	1496	1502	serine	Chemical
+30305115_18788	1517	1521	TPPP	Gene-protein
+30305115_18788	1522	1562	Tubulin polymerization promoting protein	Gene-protein
+30305115_18788	1567	1576	LINC00578	Rna-noncoding
+30305115_18788	1577	1618	Long intergenic non-protein coding RNA 57	Rna-noncoding
+30305115_18788	1624	1636	RP11-712B9,2	Rna-noncoding
+30305115_18788	1648	1652	GBA3	Gene-protein
+30305115_18788	1653	1678	Glucosylceramidase beta 3	Gene-protein
+30305115_18788	1683	1688	CPLX2	Gene-protein
+30305115_18788	1689	1700	Complexin 2	Gene-protein
+30305115_18788	1705	1710	HSDL1	Gene-protein
+30305115_18788	1711	1744	Hydroxysteroid dehydrogenase like	Gene-protein
+30305115_18788	1751	1761	AC008174,3	Rna-noncoding
+30305115_18788	1773	1776	FUK	Gene-protein
+30305115_18788	1777	1787	Fucokinase	Gene-protein
+30305115_18788	1792	1796	MT1L	Gene-protein
+30305115_18788	1797	1815	Metallothionein 1L	Gene-protein
+30305115_18788	1840	1845	ASAH1	Gene-protein
+30305115_18788	1846	1863	N-Acylsphingosine	Chemical
+30305115_18788	1846	1880	N-Acylsphingosine amidohydrolase 1	Gene-protein
+30305115_18788	1887	1891	ANK1	Gene-protein
+30305115_18788	1892	1901	Ankyrin 1	Gene-protein
+30305115_18788	1908	1913	PCSK1	Gene-protein
+30305115_18788	1914	1959	Proprotein convertase subtilisin/kexin type 1	Gene-protein
+30305115_18788	1966	1971	SEZ6L	Gene-protein
+30305115_18788	1972	2002	Seizure related 6 homolog like	Gene-protein
+30305115_18788	2009	2013	TMC3	Gene-protein
+30305115_18788	2014	2042	Transmembrane channel like 3	Gene-protein
+30305115_18788	2049	2061	RP11-761I4,3	Rna-noncoding
+30305115_18788	2075	2080	KCNK3	Gene-protein
+30305115_18788	2081	2090	Potassium	Chemical
+30305115_18788	2081	2135	Potassium two pore domain channel subfamily K member 3	Gene-protein
+

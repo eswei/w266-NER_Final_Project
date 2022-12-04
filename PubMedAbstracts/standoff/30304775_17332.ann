@@ -1,0 +1,47 @@
+T0	Disease 95 103	diabetes
+#1	AnnotatorNotes T0	not found
+T1	Chemical 215 219	DOPA
+T10	Chemical 1119 1122	NAS
+T11	Chemical 1136 1145	melatonin
+T12	Chemical 1195 1199	5-HT
+T13	Disease 1232 1240	diabetes
+T14	Chemical 1379 1393	catecholamines
+T15	Disease 1395 1422	Diabetes-induced neuropathy
+#8	AnnotatorNotes T15	not found
+T17	Chemical 1475 1483	tyrosine
+T18	Drug 1509 1523	streptozotocin
+T19	Disease 1509 1540	streptozotocin-induced diabetes
+T2	Disease 258 266	diabetic
+#13	AnnotatorNotes T2	not found
+T20	Chemical 1755 1769	catecholamines
+T21	Disease 1799 1807	diabetes
+T3	Chemical 327 332	DOPAC
+T4	Chemical 406 409	VMA
+T5	Disease 459 467	diabetic
+T6	Drug 536 550	streptozotocin
+T7	Disease 536 567	streptozotocin-induced diabetes
+#20	AnnotatorNotes T7	not found
+T8	Drug 720 734	streptozotocin
+T9	Disease 720 751	streptozotocin-induced diabetes
+T22	Biomarker 183 254	level of NE and its precursors, DOPA and DA, were significantly reduced
+T23	Chemical 192 194	NE
+T24	Chemical 224 226	DA
+R1	Association Arg1:T22 Arg2:T2	
+T25	Chemical 350 352	DA
+T26	Biomarker 316 372	content of DOPAC, a metabolite of DA, was also decreased
+T27	Chemical 427 429	NE
+T28	Biomarker 397 455	level of VMA, a metabolite of NE, was significantly higher
+R2	Association Arg1:T28 Arg2:T5	
+#2	AnnotatorNotes T6	CHEMBL1651906
+T29	Chemical 876 878	NE
+T30	Biomarker 936 958	increased level of VMA
+T31	Chemical 955 958	VMA
+T32	Chemical 985 987	NE
+T33	Chemical 1019 1021	NE
+T16	Gene-Protein 1475 1495	tyrosine hydroxylase
+T34	Chemical 1564 1566	NE
+T35	Biomarker 1553 1597	content of NE was lower in the pineal glands
+T36	Disease 1601 1609	diabetic
+R3	Association Arg1:T35 Arg2:T36	
+R4	Association Arg1:T26 Arg2:T2	
+T37	Biomarker 865 891	release of NE is augmented

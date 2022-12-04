@@ -1,0 +1,68 @@
+T10	Biomarker 447 451	GROα
+T11	Disease 457 460	CCA
+T12	Disease 499 502	CCA
+T14	Biomarker 521 526	IL-10
+T15	Disease 532 535	CCA
+T16	Disease 546 549	CCA
+T19	Biomarker 663 675	higher MCP-2
+T2	Disease 128 131	CCA
+T21	Gene-Protein 693 696	ANG
+T22	Disease 706 721	prostate cancer
+#12	AnnotatorNotes T22	DOID:10283
+T23	Disease 829 832	CCA
+T25	Disease 915 918	CCA
+T27	Disease 986 989	CCA
+T3	Disease 156 162	cancer
+#19	AnnotatorNotes T3	DOID:162
+T4	Biomarker 189 298	cytokine production including IL-6, MCP-2, MCP-3, CXCL-5, GROα, ANG, GRO a/b/g, IL-8, and IL-10 was increased
+T7	Biomarker 316 351	Elevations of CXCL5, IL-6, and IL-8
+T8	Disease 399 402	CCA
+#1	AnnotatorNotes T2	DOID:4947
+T1	Biomarker 45 105	altered phenotypes and phagocytic activities in TAM-like MDM
+T5	Gene-Protein 219 223	IL-6
+#2	AnnotatorNotes T5	HGNC:6018
+T6	Gene-Protein 225 230	MCP-2
+#3	AnnotatorNotes T6	HGNC:10635
+T29	Chemical 232 237	MCP-3
+#4	AnnotatorNotes T29	HGNC:10634
+T30	Gene-Protein 239 245	CXCL-5
+#5	AnnotatorNotes T30	HGNC:10642
+T31	Gene-Protein 247 251	GROα
+#6	AnnotatorNotes T31	HGNC:4602
+T32	Gene-Protein 253 256	ANG
+#7	AnnotatorNotes T32	HGNC:483
+T33	Gene-Protein 258 267	GRO a/b/g
+#8	AnnotatorNotes T33	HGNC:4602, HGNC:4603, HGNC:4604
+T34	Gene-Protein 269 273	IL-8
+#9	AnnotatorNotes T34	HGNC:6025
+T35	Gene-Protein 279 284	IL-10
+#10	AnnotatorNotes T35	HGNC:5962
+T36	Gene-Protein 330 335	CXCL5
+#11	AnnotatorNotes T36	HGNC:10642
+T37	Gene-Protein 337 341	IL-6
+T38	Gene-Protein 347 351	IL-8
+R1	Prognostic-Poor Arg1:T7 Arg2:T8	
+T9	Gene-Protein 438 442	IL-6
+T39	Biomarker 438 442	IL-6
+#13	AnnotatorNotes T39	D015850
+#14	AnnotatorNotes T10	C475829
+T40	Gene-Protein 447 451	GROα
+T41	Collection 438 451	IL-6 and GROα
+R2	Association Arg1:T41 Arg2:T12	
+T13	Gene-Protein 521 526	IL-10
+#15	AnnotatorNotes T14	D016753
+R3	Association Arg1:T14 Arg2:T15	
+T17	Gene-Protein 597 602	MCP-2
+#16	AnnotatorNotes T17	HGNC:10635
+T42	Gene-Protein 606 611	M-CSF
+#17	AnnotatorNotes T42	HGNC:2432
+#18	AnnotatorNotes T21	HGNC:483
+T18	Biomarker 693 696	ANG
+#20	AnnotatorNotes T18	C046366
+R4	Association Arg1:T18 Arg2:T22	
+T20	GeneFamily 886 895	cytokines
+#21	AnnotatorNotes T20	not found
+T24	Gene-Protein 670 675	MCP-2
+T26	Gene-Protein 935 940	MCP-2
+T28	Gene-Protein 942 947	MCP-3
+T43	Gene-Protein 953 956	ANG

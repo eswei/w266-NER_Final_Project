@@ -1,0 +1,55 @@
+30214568_15852|t|RSS_IDENT_p_30214568_b_1_4_4
+30214568_15852|a| Chronic inflammation plays pivotal roles in cancer and autoimmune diseases. We hypothesized that IL-17 and IL-23 may also play important roles in UBC. To verify this, RT-PCR and ELISA were used to detect the expression of IL-23R in tumor tissue and serum of patients with UBC. Results showed that levels of IL-23R and IL-17 mRNAs were higher in tumor tissue than in adjacent tissue. In addition, levels of IL-23R and IL-17 in serum of patients with UBC were also higher than those in normal control group. Correlation analysis suggested that IL-23R and IL-17 protein levels were correlated with clinical stage and lymphatic metastasis. Further Cox hazard model analysis showed that IL-23R and IL-17 may be independent factors for UBC. In addition, protein levels of IL-23R and IL-17 in serum of UBC patients can be used to effectively predict clinical stage and lymphatic metastasis of UBC. The sensitivity and specificity of combined diagnosis using both IL-23R and IL-17 were higher than those of diagnosis using IL-23R or IL-17 alone. In conclusion, we found that IL-23R and IL-17 were upregulated in UBC tumor tissue, and the increased expression levels were associated with poor prognosis. IL-23R and IL-17 may serve as potential diagnostic and prognostic indicators for UBC. 
+30214568_15852	30	50	Chronic inflammation	Biomarker	D007249
+30214568_15852	74	80	cancer	Disease	DOID:162
+30214568_15852	74	104	cancer and autoimmune diseases	Collection
+30214568_15852	85	104	autoimmune diseases	Disease	DOID:417
+30214568_15852	127	132	IL-17	Gene-protein	HGNC:5981
+30214568_15852	127	132	IL-17	Biomarker	D020381
+30214568_15852	127	142	IL-17 and IL-23	Collection
+30214568_15852	137	142	IL-23	Gene-protein	HGNC:15488
+30214568_15852	137	142	IL-23	Biomarker	D053759
+30214568_15852	176	179	UBC	Disease	DOID:11054
+30214568_15852	252	258	IL-23R	Gene-protein	HGNC:19100
+30214568_15852	262	267	tumor	Disease	DOID:162
+30214568_15852	302	305	UBC	Disease
+30214568_15852	327	371	levels of IL-23R and IL-17 mRNAs were higher	Biomarker
+30214568_15852	337	343	IL-23R	Gene-protein
+30214568_15852	348	353	IL-17	Gene-protein
+30214568_15852	375	380	tumor	Disease
+30214568_15852	426	473	levels of IL-23R and IL-17 in serum of patients	Biomarker
+30214568_15852	436	442	IL-23R	Gene-protein
+30214568_15852	447	452	IL-17	Gene-protein
+30214568_15852	479	482	UBC	Disease
+30214568_15852	572	578	IL-23R	Gene-protein
+30214568_15852	572	603	IL-23R and IL-17 protein levels	Biomarker
+30214568_15852	583	588	IL-17	Gene-protein
+30214568_15852	625	639	clinical stage	Biomarker
+30214568_15852	644	664	lymphatic metastasis	Biomarker
+30214568_15852	712	718	IL-23R	Gene-protein
+30214568_15852	712	718	IL-23R	Biomarker	C000603137
+30214568_15852	712	728	IL-23R and IL-17	Collection
+30214568_15852	723	728	IL-17	Gene-protein
+30214568_15852	723	728	IL-17	Biomarker
+30214568_15852	760	763	UBC	Disease
+30214568_15852	778	812	protein levels of IL-23R and IL-17	Biomarker
+30214568_15852	796	802	IL-23R	Gene-protein
+30214568_15852	807	812	IL-17	Gene-protein
+30214568_15852	825	828	UBC	Disease
+30214568_15852	916	919	UBC	Disease
+30214568_15852	986	992	IL-23R	Gene-protein
+30214568_15852	986	1002	IL-23R and IL-17	Biomarker
+30214568_15852	997	1002	IL-17	Gene-protein
+30214568_15852	1045	1051	IL-23R	Gene-protein
+30214568_15852	1055	1060	IL-17	Gene-protein
+30214568_15852	1097	1103	IL-23R	Gene-protein
+30214568_15852	1097	1130	IL-23R and IL-17 were upregulated	Biomarker
+30214568_15852	1108	1113	IL-17	Gene-protein
+30214568_15852	1134	1143	UBC tumor	Disease	DOID:11054
+30214568_15852	1225	1231	IL-23R	Gene-protein
+30214568_15852	1225	1231	IL-23R	Biomarker
+30214568_15852	1225	1241	IL-23R and IL-17	Collection
+30214568_15852	1236	1241	IL-17	Gene-protein
+30214568_15852	1236	1241	IL-17	Biomarker
+30214568_15852	1306	1309	UBC	Disease
+

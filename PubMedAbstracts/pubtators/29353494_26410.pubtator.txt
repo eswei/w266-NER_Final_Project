@@ -1,0 +1,80 @@
+29353494_26410|t|RSS_IDENT_s_29353494_b_1_2_4
+29353494_26410|a| Inflammation and Cholangiocarcinoma Carcinogenesis Carcinogenesis in the biliary tract following chronic inflammation is a clinically acknowledged event. Chemical injury, inflammation, stones, or infections are all proven risk factors. For example, pancreaticobiliary maljunction causes the reflux of bile and pancreatic secretions, injuring the mucosa in the gallbladder and common bile duct. A variety of inflammatory modulators and molecules produced or activated during chronic inflammation act to activate oncogenic signaling in biliary mucosa. A separate class of inflammatory ICC has been demonstrated, with activation of inflammatory pathways. Chronic inflammatory processes induce productions of multiple cytokines, such as tumor necrosis factor-α (TNF-α), interleukin-6 (IL-6), transforming growth factor-β (TGF-β), and platelet-derived growth factor; these molecules are involved in carcinogenesis of cholangiocarcinoma by affecting biliary epithelial function and proliferation. ⁷⁵ Multiple important signaling pathways have been identified to be involved in biliary carcinogenesis, which include TGF-β/Smad, IL-6/STAT-3, PI3K/AKT, Wnt, RAF/MEK/MAPK, and Notch cascade. For example, IL-6 induces antiapoptotic protein myeloid cell leukemia 1 (Mcl-1) via phosphorylation of signal transducers and activators of transcription 3 in cholangiocarcinoma. ⁷⁶ Gankyrin activates IL-6/STAT3 signaling by suppressing Rb. ⁷⁷ Silencing of suppressor of cytokine signaling 3, which controls the IL-6/STAT-3 signaling, further contributes to sustained IL-6/STAT-3 signaling and enhanced Mcl-1 expression in cholangiocarcinoma. ⁷⁸ Epigenetic regulation by IL-6 contributes to cholangiocarcinoma progression via affecting promoter methylation and gene expression in growth regulatory pathways, including that of EGFR. ⁷⁹ A well-studied example illustrating the intimacy between biliary carcinogenesis and chronic inflammatory processes is PSC and ICC. Primary sclerosing cholangitis, which is an idiopathic and progressive cholestatic liver disease characterized by inflammation, concentric fibrosis, and obliteration of the intrahepatic and extrahepatic bile ducts, with concomitant ductal injury and ductal disappearance, is tightly connected to cholangiocarcinoma. ⁸⁰ Multiple biliary molecules have been uncovered to play distinct roles in cholangiocarcinoma carcinogenesis. One of them is S100A9, a calcium-binding protein and a marker for disease activity in PSC. ⁸¹ Interestingly, innate natural killer immunity is associated with protection against cholangiocarcinoma carcinogenesis in patients with PSC, although the involved molecular mechanism has not been clearly established; presumably its interaction with the major histocompatibility complex (MHC) class I polypeptide plays a key role in this process. ⁸²
+29353494_26410	30	42	Inflammation	Disease	D007249
+29353494_26410	47	65	Cholangiocarcinoma	Disease	DOID:4947
+29353494_26410	81	116	Carcinogenesis in the biliary tract	Disease	DOID:4607
+29353494_26410	127	147	chronic inflammation	Disease	not found
+29353494_26410	184	199	Chemical injury	Biomarker
+29353494_26410	184	236	Chemical injury, inflammation, stones, or infections	Collection
+29353494_26410	201	213	inflammation	Biomarker
+29353494_26410	215	221	stones	Biomarker	D002137
+29353494_26410	226	236	infections	Biomarker	D007239
+29353494_26410	279	309	pancreaticobiliary maljunction	Biomarker
+29353494_26410	504	524	chronic inflammation	Disease
+29353494_26410	613	616	ICC	Disease	DOID:4928
+29353494_26410	720	890	productions of multiple cytokines, such as tumor necrosis factor-α (TNF-α), interleukin-6 (IL-6), transforming growth factor-β (TGF-β), and platelet-derived growth factor	Biomarker
+29353494_26410	744	753	cytokines	Genefamily	not found
+29353494_26410	763	786	tumor necrosis factor-α	Gene-protein	HGNC:11892
+29353494_26410	788	793	TNF-α	Gene-protein	HGNC:11892
+29353494_26410	796	809	interleukin-6	Gene-protein	HGNC:6018
+29353494_26410	811	815	IL-6	Gene-protein	HGNC:6018
+29353494_26410	818	846	transforming growth factor-β	Genefamily	family:1664
+29353494_26410	848	853	TGF-β	Genefamily	family:1664
+29353494_26410	860	890	platelet-derived growth factor	Genefamily	not found
+29353494_26410	942	960	cholangiocarcinoma	Disease	DOID:4947
+29353494_26410	1101	1123	biliary carcinogenesis	Disease	DOID:4607
+29353494_26410	1139	1145	TGF-β/	Genefamily
+29353494_26410	1139	1210	TGF-β/Smad, IL-6/STAT-3, PI3K/AKT, Wnt, RAF/MEK/MAPK, and Notch cascade	Biomarker
+29353494_26410	1145	1149	Smad	Genefamily	family:750
+29353494_26410	1151	1155	IL-6	Gene-protein
+29353494_26410	1156	1162	STAT-3	Gene-protein	HGNC:11364
+29353494_26410	1164	1168	PI3K	Genefamily	family:831
+29353494_26410	1169	1172	AKT	Genefamily	family:1900
+29353494_26410	1174	1177	Wnt	Genefamily	family:360
+29353494_26410	1179	1182	RAF	Genefamily	family:1157
+29353494_26410	1183	1186	MEK	Genefamily	not found
+29353494_26410	1187	1191	MAPK	Genefamily	family:651
+29353494_26410	1197	1202	Notch	Genefamily	family:1689
+29353494_26410	1225	1229	IL-6	Gene-protein
+29353494_26410	1260	1283	myeloid cell leukemia 1	Gene-protein	HGNC:6943
+29353494_26410	1285	1290	Mcl-1	Gene-protein	HGNC:6943
+29353494_26410	1315	1367	signal transducers and activators of transcription 3	Gene-protein	HGNC:11364
+29353494_26410	1371	1389	cholangiocarcinoma	Disease
+29353494_26410	1394	1402	Gankyrin	Gene-protein	HGNC:9555
+29353494_26410	1413	1417	IL-6	Gene-protein
+29353494_26410	1418	1423	STAT3	Gene-protein	HGNC:11364
+29353494_26410	1449	1451	Rb	Gene-protein	HGNC:9884
+29353494_26410	1469	1503	suppressor of cytokine signaling 3	Gene-protein	HGNC:19391
+29353494_26410	1524	1529	IL-6/	Gene-protein
+29353494_26410	1529	1535	STAT-3	Gene-protein
+29353494_26410	1580	1584	IL-6	Gene-protein
+29353494_26410	1585	1591	STAT-3	Gene-protein
+29353494_26410	1615	1620	Mcl-1	Gene-protein
+29353494_26410	1635	1653	cholangiocarcinoma	Disease
+29353494_26410	1658	1687	Epigenetic regulation by IL-6	Biomarker
+29353494_26410	1683	1687	IL-6	Gene-protein
+29353494_26410	1703	1721	cholangiocarcinoma	Disease
+29353494_26410	1838	1842	EGFR	Gene-protein	HGNC:3236
+29353494_26410	1904	1926	biliary carcinogenesis	Disease
+29353494_26410	1965	1968	PSC	Disease	DOID:0060643
+29353494_26410	1973	1976	ICC	Disease
+29353494_26410	1978	2008	Primary sclerosing cholangitis	Disease	DOID:0060643
+29353494_26410	2049	2074	cholestatic liver disease	Disease	DOID:13580
+29353494_26410	2092	2104	inflammation	Biomarker
+29353494_26410	2092	2248	inflammation, concentric fibrosis, and obliteration of the intrahepatic and extrahepatic bile ducts, with concomitant ductal injury and ductal disappearance	Collection
+29353494_26410	2106	2125	concentric fibrosis	Biomarker
+29353494_26410	2131	2191	obliteration of the intrahepatic and extrahepatic bile ducts	Biomarker
+29353494_26410	2198	2223	concomitant ductal injury	Biomarker
+29353494_26410	2228	2248	ductal disappearance	Biomarker
+29353494_26410	2274	2292	cholangiocarcinoma	Disease
+29353494_26410	2297	2323	Multiple biliary molecules	Biomarker
+29353494_26410	2370	2403	cholangiocarcinoma carcinogenesis	Disease	DOID:4947
+29353494_26410	2420	2453	S100A9, a calcium-binding protein	Biomarker	C000628744
+29353494_26410	2420	2453	S100A9, a calcium-binding protein	Gene-protein	HGNC:10499
+29353494_26410	2430	2437	calcium	Chemical
+29353494_26410	2491	2494	PSC	Disease
+29353494_26410	2514	2544	innate natural killer immunity	Drug	not found
+29353494_26410	2583	2616	cholangiocarcinoma carcinogenesis	Disease
+29353494_26410	2634	2637	PSC	Disease
+29353494_26410	2751	2797	major histocompatibility complex (MHC) class I	Genefamily	not found
+

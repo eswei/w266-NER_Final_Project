@@ -1,0 +1,110 @@
+T1	Disease 69 77	NASH-HCC
+#1	AnnotatorNotes T1	DOID:0080547, DOID:684
+T11	Disease 597 606	NASH-HCCs
+T14	Disease 741 768	HF-associated steatosis-HCC
+T17	Biomarker 793 824	(Kif3c) was recurrently mutated
+T18	Disease 828 842	steatosis-HCCs
+#7	AnnotatorNotes T18	DOID:9452, DOID:684
+T2	Disease 139 148	NASH-HCCs
+T21	Chemical 964 975	cholesterol
+T23	Disease 964 995	cholesterol-associated NASH-HCC
+#12	AnnotatorNotes T23	not found, not found
+T25	Biomarker 1001 1047	recurrent mutations suggest that Mtor and Sdk1
+T26	Disease 1069 1075	cancer
+T27	Disease 1087 1095	NASH-HCC
+T28	Biomarker 1109 1134	recurrently mutated genes
+T29	Disease 1184 1192	NASH-HCC
+T3	Disease 194 201	cancers
+#17	AnnotatorNotes T3	DOID:14566|DOID:162
+T4	Biomarker 315 349	82 genes to be recurrently mutated
+T6	Disease 365 374	NASH-HCCs
+T7	Disease 448 457	NASH-HCCs
+T9	Disease 498 507	NASH-HCCs
+A1	Conjunction T1
+A2	Conjunction T2
+T30	Gene-Protein 211 215	Mtor
+T31	Gene-Protein 221 225	Sdk1
+T32	Biomarker 211 215	Mtor
+T33	Biomarker 221 225	Sdk1
+T34	Gene-Protein 231 235	Braf
+T35	Biomarker 231 235	Braf
+T36	Gene-Protein 241 247	Pik3cb
+T37	Biomarker 241 247	Pik3cb
+T38	Gene-Protein 253 259	Ctnnd1
+T39	Biomarker 253 259	Ctnnd1
+T40	Gene-Protein 265 271	Ctnna3
+T41	Biomarker 265 271	Ctnna3
+T42	Gene-Protein 277 281	Akt3
+T43	Biomarker 277 281	Akt3
+T44	Gene-Protein 291 295	Nos2
+T45	Biomarker 291 295	Nos2
+T46	Collection 211 295	Mtor ¹³ , Sdk1 ¹⁴ , Braf ¹⁵ , Pik3cb ¹⁶ , Ctnnd1 ¹⁷ , Ctnna3 ¹⁸ , Akt3 ¹⁹ , and Nos2
+R1	Association Arg1:T46 Arg2:T2	
+A3	Conjunction T6
+R2	Association Arg1:T4 Arg2:T6	
+A4	Conjunction T7
+T5	Gene-Protein 468 472	Sdk1
+T47	Gene-Protein 459 463	Ryr1
+T48	Biomarker 459 463	Ryr1
+T49	Biomarker 468 472	Sdk1
+T50	Collection 459 472	Ryr1 and Sdk1
+R3	Association Arg1:T50 Arg2:T7	
+A5	Conjunction T9
+T8	Gene-Protein 509 514	Epha8
+T10	Gene-Protein 516 522	Pcdh15
+T51	Biomarker 509 514	Epha8
+T52	Biomarker 516 522	Pcdh15
+T53	Gene-Protein 524 528	Fat2
+T54	Biomarker 524 528	Fat2
+T55	Gene-Protein 530 536	Cep152
+T56	Biomarker 530 536	Cep152
+T57	Gene-Protein 538 541	Ttn
+T58	Biomarker 538 541	Ttn
+T59	Gene-Protein 543 548	Rxfp1
+T60	Biomarker 543 548	Rxfp1
+T61	Gene-Protein 550 556	Aox3l1
+T62	Biomarker 550 556	Aox3l1
+T63	Gene-Protein 561 567	Pkd1l3
+T64	Biomarker 561 567	Pkd1l3
+T65	Collection 509 567	Epha8, Pcdh15, Fat2, Cep152, Ttn, Rxfp1, Aox3l1 and Pkd1l3
+R4	Association Arg1:T65 Arg2:T9	
+A6	Conjunction T11
+T66	Biomarker 616 620	Mtor
+T67	Gene-Protein 616 620	Mtor
+T68	Gene-Protein 622 626	Ryr2
+T69	Biomarker 622 626	Ryr2
+T70	Gene-Protein 628 635	Cacna1h
+T71	Biomarker 628 635	Cacna1h
+T72	Gene-Protein 637 643	Col7a1
+T73	Biomarker 637 643	Col7a1
+T74	Gene-Protein 645 650	Fcgbp
+T75	Biomarker 645 650	Fcgbp
+T76	Gene-Protein 652 658	Adam29
+T77	Biomarker 652 658	Adam29
+T78	Gene-Protein 660 665	Gpr98
+T79	Biomarker 660 665	Gpr98
+T80	Gene-Protein 670 674	Pclo
+T81	Biomarker 670 674	Pclo
+T82	Collection 616 674	Mtor, Ryr2, Cacna1h, Col7a1, Fcgbp, Adam29, Gpr98 and Pclo
+R5	Association Arg1:T82 Arg2:T11	
+A7	Conjunction T14
+#2	AnnotatorNotes T14	not found, DOID:684
+T12	Gene-Protein 701 704	Ttn
+T13	Gene-Protein 709 714	Obscn
+T15	Biomarker 709 714	Obscn
+T16	Biomarker 701 704	Ttn
+T83	Collection 701 714	Ttn and Obscn
+R6	Association Arg1:T83 Arg2:T14	
+A8	Conjunction T18
+T84	Gene-Protein 794 799	Kif3c
+R7	Association Arg1:T17 Arg2:T18	
+A9	Conjunction T23
+T20	Gene-Protein 1034 1038	Mtor
+T22	Gene-Protein 1043 1047	Sdk1
+#3	AnnotatorNotes T26	DOID:162
+A10	Conjunction T27
+R9	Association Arg1:T25 Arg2:T27	
+R10	Association Arg1:T28 Arg2:T29	
+A11	Conjunction T29
+T19	Biomarker 873 930	mutations of these known or potential cancer driver genes
+R8	Association Arg1:T19 Arg2:T23	

@@ -1,0 +1,61 @@
+T10	Chemical 526 537	cholesterol
+T13	Chemical 590 625	low-density lipoprotein cholesterol
+T14	Chemical 639 651	triglyceride
+T15	Disease 681 684	MCI
+T17	Disease 757 760	MCI
+T19	Disease 928 930	AD
+#7	AnnotatorNotes T19	DOID:10652
+T2	Disease 149 166	cognitive decline
+#8	AnnotatorNotes T2	DOID:1561
+T20	Disease 934 954	cognitive impairment
+T23	Disease 993 996	MCI
+T26	Disease 1065 1085	cognitive impairment
+T28	Disease 1148 1151	MCI
+T3	Disease 240 243	MCI
+T4	Chemical 286 299	triglycerides
+T6	Disease 337 340	MCI
+T7	Disease 361 378	cognitive decline
+T8	Chemical 443 454	cholesterol
+T9	Disease 459 479	cognitive impairment
+#18	AnnotatorNotes T9	DOID:1561
+T1	Biomarker 30 61	Elevated lipid levels in plasma
+R1	Association Arg1:T1 Arg2:T2	
+T5	Biomarker 222 235	plasma lipids
+T11	Biomarker 286 299	triglycerides
+T16	Chemical 544 580	high-density lipoprotein cholesterol
+T12	Chemical 582 587	HDL-C
+T18	Chemical 539 541	TC
+T21	Chemical 627 632	LDL-C
+T22	Chemical 653 655	TG
+T24	Biomarker 737 753	higher TC levels
+R2	Association Arg1:T24 Arg2:T17	
+T25	Biomarker 976 989	reduced HDL-C
+T27	Biomarker 520 663	total cholesterol (TC), high-density lipoprotein cholesterol (HDL-C), low-density lipoprotein cholesterol (LDL-C), and triglyceride (TG) levels
+R3	Association Arg1:T27 Arg2:T15	
+T29	Drug 881 888	high TC
+T30	Collection 928 954	AD or cognitive impairment
+R4	Protects-from Arg1:T29 Arg2:T30	
+T31	Drug 1023 1028	HDL-C
+R5	Protects-from Arg1:T31 Arg2:T26	
+R6	Association Arg1:T25 Arg2:T23	
+T32	Chemical 1134 1136	TG
+T33	Drug 1169 1171	TG
+T34	Chemical 1239 1242	TGs
+T35	Chemical 1290 1293	TGs
+T36	Gene-Protein 1337 1339	Aβ
+#1	AnnotatorNotes T36	not found
+T37	Gene-Protein 1247 1256	amyloid-β
+#2	AnnotatorNotes T37	not found
+#3	AnnotatorNotes T3	DOID:0080832
+T38	Chemical 229 235	lipids
+#4	AnnotatorNotes T11	D014280
+#5	AnnotatorNotes T31	not found
+T39	Biomarker 1127 1143	plasma TG levels
+R7	Association Arg1:T39 Arg2:T28	
+R8	Protects-from Arg1:T33 Arg2:T28	
+#6	AnnotatorNotes T33	D014280
+#9	AnnotatorNotes T29	not found
+R9	Association Arg1:T11 Arg2:T40	
+T40	Collection 337 378	MCI, and could preserve cognitive decline
+T41	Biomarker 443 454	cholesterol
+#10	AnnotatorNotes T41	D002784

@@ -1,0 +1,46 @@
+31049030_22478|t|RSS_IDENT_p_31049030_b_1_4_3
+31049030_22478|a| In the present study, we have ascertained novel molecular mechanisms miR-591 inhibited cell proliferation and invasion in breast cancer. We found that miR-519 expression was low in breast cancer tissues and cells. Lower miR-591 expression notably related to lymph node metastasis and TNM stage. Bone metastasis is frequent in breast cancer patients, in the study, the clinical analysis results showed no association between miR-519 expression and bone metastasis. We speculated the cases number may be inadequate and needed to extend the cases in the further. Moreover, the cell lines use in the study is not association with osteotropism, we did evaluate the expression of miR-591 is lower in several breast cancer cell lines. In vitro, cell proliferation and invasion were inhibited by transfection of miR-591 mimic in breast cancer. In vivo, our results also indicated that upregulation of miR-591 suppressed the proliferation of breast cancer cells in vivo. Moreover, we identified that TCF4 was a target of miR-591 in breast cancer. TCF4 play crucial functional role in breast cancer. The TCF4/β-catenin pathway and chromatin structure cooperate to regulate d-glucuronyl C5-epimerase expression in breast cancer [ 14 ]. MicroRNA-100 suppresses the migration and invasion of breast cancer cells by targeting FZD-8 and inhibiting T-cell factor-4 (TCF-4) expression [ 15 ]. By upregulating the TCF4 expression, we demonstrated that TCF4 mediated the inhibiting effects of miR-591 expression on cell proliferation and invasion in breast cancer cells. 
+31049030_22478	99	106	miR-591	Rna-noncoding	HGNC:32847
+31049030_22478	99	106	miR-591	Drug	C583766
+31049030_22478	152	165	breast cancer	Disease	DOID:1612
+31049030_22478	181	188	miR-519	Rna-noncoding
+31049030_22478	181	207	miR-519 expression was low	Biomarker
+31049030_22478	211	224	breast cancer	Disease
+31049030_22478	244	268	Lower miR-591 expression	Biomarker
+31049030_22478	250	257	miR-591	Rna-noncoding
+31049030_22478	325	340	Bone metastasis	Biomarker
+31049030_22478	356	369	breast cancer	Disease
+31049030_22478	454	461	miR-519	Rna-noncoding
+31049030_22478	454	472	miR-519 expression	Biomarker
+31049030_22478	477	492	bone metastasis	Biomarker
+31049030_22478	704	711	miR-591	Rna-noncoding
+31049030_22478	704	720	miR-591 is lower	Biomarker
+31049030_22478	732	745	breast cancer	Disease	DOID:1612
+31049030_22478	834	841	miR-591	Rna-noncoding
+31049030_22478	834	847	miR-591 mimic	Drug	not found
+31049030_22478	851	864	breast cancer	Disease
+31049030_22478	907	930	upregulation of miR-591	Drug	not found
+31049030_22478	963	976	breast cancer	Disease
+31049030_22478	1021	1025	TCF4	Gene-protein	HGNC:11634
+31049030_22478	1042	1049	miR-591	Rna-noncoding
+31049030_22478	1053	1066	breast cancer	Disease
+31049030_22478	1068	1072	TCF4	Gene-protein
+31049030_22478	1068	1072	TCF4	Biomarker	D058118
+31049030_22478	1105	1118	breast cancer	Disease
+31049030_22478	1124	1128	TCF4	Gene-protein
+31049030_22478	1129	1138	β-catenin	Genefamily	family:1542
+31049030_22478	1193	1208	d-glucuronyl C5	Chemical
+31049030_22478	1193	1218	d-glucuronyl C5-epimerase	Gene-protein	HGNC:17855
+31049030_22478	1233	1246	breast cancer	Disease
+31049030_22478	1255	1267	MicroRNA-100	Rna-noncoding	HGNC:31487
+31049030_22478	1255	1267	MicroRNA-100	Drug	C544266
+31049030_22478	1309	1322	breast cancer	Disease
+31049030_22478	1342	1347	FZD-8	Gene-protein	HGNC:4046
+31049030_22478	1363	1378	T-cell factor-4	Gene-protein	HGNC:11634
+31049030_22478	1380	1385	TCF-4	Gene-protein	HGNC:11634
+31049030_22478	1426	1430	TCF4	Gene-protein
+31049030_22478	1464	1468	TCF4	Gene-protein
+31049030_22478	1504	1511	miR-591	Rna-noncoding
+31049030_22478	1504	1511	miR-591	Drug
+31049030_22478	1561	1574	breast cancer	Disease
+

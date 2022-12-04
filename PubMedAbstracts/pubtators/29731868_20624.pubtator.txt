@@ -1,0 +1,43 @@
+29731868_20624|t|RSS_IDENT_p_29731868_b_1_4_3
+29731868_20624|a| Aberrant expression of miR-192 played a crucial role in the development and progression of multiple malignant tumors ( 34 – 36 ). Previous studies have proved that miR-192 was significantly downregulated in many cancers, and miR-192 also has been reported to regulate cell biological functions in tumors, including proliferation, migration, invasion and apoptosis ( 37 , 38 ). For instance, Feng et al ( 15 ) suggested that miR-192-5p was significantly low in lung cancer. They further demonstrated that miR-192-5p suppressed cell proliferation and induced cell apoptosis through RB1. Lian et al ( 16 ) also proved that miR-192-5p reduced tumor metastasis by targeting the SLC39A6/SNAIL pathway in HCC cells. Although previous study had researched the effect of miR-192 on human osteosarcoma, which indicated that miR-192 was downregulated in osteosarcoma and miR-192 could suppressed the progression of osteosarcoma ( 17 , 39 ), the exact molecular mechanism remained largely unclear. Consistent with the above studies, we identified that upregulation of miR-192-5p inhibited cell proliferation by preventing cell cycle from G1 to S phase and inducing cell apoptosis in osteosarcoma cells. We also found that miR-192-5p repressed cell migration and invasion, and increased cells more sensitivity to cisplatin in osteosarcoma cells. Taken together, we came to the conclusion that miR-192-5p played an important role in suppressing osteosarcoma. 
+29731868_20624	30	60	Aberrant expression of miR-192	Biomarker
+29731868_20624	53	60	miR-192	Rna-noncoding	family:1719
+29731868_20624	130	146	malignant tumors	Disease	DOID:162
+29731868_20624	194	201	miR-192	Rna-noncoding
+29731868_20624	194	233	miR-192 was significantly downregulated	Biomarker
+29731868_20624	242	249	cancers	Disease	DOID:162
+29731868_20624	255	262	miR-192	Rna-noncoding
+29731868_20624	255	262	miR-192	Biomarker	C546783
+29731868_20624	327	333	tumors	Disease	DOID:162
+29731868_20624	454	464	miR-192-5p	Rna-noncoding	family:1719
+29731868_20624	454	486	miR-192-5p was significantly low	Biomarker
+29731868_20624	490	501	lung cancer	Disease	DOID:1324
+29731868_20624	534	544	miR-192-5p	Rna-noncoding
+29731868_20624	534	544	miR-192-5p	Drug	C546783
+29731868_20624	610	613	RB1	Gene-protein	HGNC:9884
+29731868_20624	650	660	miR-192-5p	Rna-noncoding
+29731868_20624	650	660	miR-192-5p	Drug
+29731868_20624	669	674	tumor	Disease	DOID:162
+29731868_20624	670	731	umor metastasis by targeting the SLC39A6/SNAIL pathway in HCC	Collection
+29731868_20624	703	710	SLC39A6	Gene-protein	HGNC:18607
+29731868_20624	711	716	SNAIL	Gene-protein	HGNC:11128
+29731868_20624	728	731	HCC	Disease	DOID:684
+29731868_20624	792	799	miR-192	Rna-noncoding
+29731868_20624	809	821	osteosarcoma	Disease	DOID:3347
+29731868_20624	844	851	miR-192	Rna-noncoding
+29731868_20624	844	869	miR-192 was downregulated	Biomarker
+29731868_20624	873	885	osteosarcoma	Disease
+29731868_20624	890	897	miR-192	Rna-noncoding
+29731868_20624	890	897	miR-192	Drug
+29731868_20624	934	946	osteosarcoma	Disease
+29731868_20624	1070	1096	upregulation of miR-192-5p	Drug	not found
+29731868_20624	1086	1096	miR-192-5p	Rna-noncoding
+29731868_20624	1201	1213	osteosarcoma	Disease
+29731868_20624	1240	1250	miR-192-5p	Drug
+29731868_20624	1240	1250	miR-192-5p	Rna-noncoding
+29731868_20624	1330	1339	cisplatin	Drug	CHEMBL11359
+29731868_20624	1343	1355	osteosarcoma	Disease
+29731868_20624	1410	1420	miR-192-5p	Rna-noncoding
+29731868_20624	1410	1420	miR-192-5p	Drug
+29731868_20624	1461	1473	osteosarcoma	Disease
+

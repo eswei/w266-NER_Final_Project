@@ -1,0 +1,56 @@
+T0	Drug 254 266	escitalopram
+T1	Drug 268 280	trimipramine
+T10	Drug 1006 1018	escitalopram
+T11	Disease 1032 1035	MDD
+T12	Drug 1254 1267	amitriptyline
+T13	Drug 1269 1279	paroxetine
+T14	Drug 1281 1292	venlafaxine
+T15	Drug 1298 1310	escitalopram
+T16	Variant 1372 1378	G2677T
+T17	Variant 1380 1389	rs2032582
+T18	Variant 1395 1401	C3435T
+T19	Variant 1403 1412	rs1045642
+T2	Drug 282 295	amitriptyline
+T20	Drug 1462 1472	paroxetine
+T21	Disease 1490 1493	MDD
+T24	Drug 1651 1661	citalopram
+T3	Drug 297 304	doxepin
+T4	Drug 306 317	venlafaxine
+T5	Drug 323 333	paroxetine
+T8	Drug 559 569	paroxetine
+T9	Drug 816 828	escitalopram
+T25	Gene-Protein 154 159	ABCB1
+T26	Gene-Protein 193 198	ABCB1
+T27	Disease 573 582	depressed
+#1	AnnotatorNotes T27	D003863
+T28	Biomarker 493 531	nonsynonymous SNP G2677T/A (rs2032582)
+#2	AnnotatorNotes T8	CHEMBL490
+T30	Biomarker 630 647	3435C–2677G–1236T
+T29	Disease 750 759	depressed
+T32	Biomarker 883 898	2677TT genotype
+T33	Gene-Protein 1097 1102	ABCB1
+T34	Disease 1160 1169	depressed
+T35	Gene-Protein 1358 1362	MDR1
+#3	AnnotatorNotes T35	HGNC:40
+T36	Collection 1372 1413	G2677T (rs2032582) and C3435T (rs1045642)
+R1	Variant-Of Arg1:T35 Arg2:T36	
+#4	AnnotatorNotes T0	CHEMBL1508
+#5	AnnotatorNotes T1	CHEMBL644
+#6	AnnotatorNotes T2	CHEMBL629
+#7	AnnotatorNotes T3	CHEMBL1628227
+#8	AnnotatorNotes T4	CHEMBL637
+#9	AnnotatorNotes T5	CHEMBL490
+R4	Prognostic-Poor Arg1:T30 Arg2:T27	
+R5	Mediated-Response Arg1:T9 Arg2:T29	
+#10	AnnotatorNotes T29	not found
+#11	AnnotatorNotes T11	DOID:1470
+T6	Biomarker 1076 1107	polymorphisms in the ABCB1 gene
+#12	AnnotatorNotes T24	CHEMBL549
+T31	Drug-Class 89 104	antidepressants
+R3	Association Arg1:T6 Arg2:T34	
+T37	Gene-Protein 30 34	P-gp
+#13	AnnotatorNotes T37	HGNC:40
+R2	Prognostic-Good Arg1:T28 Arg2:T27	
+T7	Biomarker 1588 1620	G2677T, and C1236T polymorphisms
+T22	Biomarker 783 802	2677 GG/GT genotype
+R6	Mediator Arg1:T9 Arg2:T22	

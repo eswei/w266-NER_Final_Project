@@ -1,0 +1,68 @@
+T1	Disease 118 124	cancer
+#2	AnnotatorNotes T1	DOID:162
+T10	Disease 797 800	HCC
+T12	Disease 897 900	HCC
+T15	Disease 1088 1091	HCC
+T16	Disease 1092 1097	tumor
+#6	AnnotatorNotes T16	DOID:162
+T3	Disease 199 216	colorectal cancer
+#7	AnnotatorNotes T3	DOID:9256
+T4	Disease 342 368	non-small cell lung cancer
+#8	AnnotatorNotes T4	DOID:3908
+T6	Drug 493 502	cisplatin
+T7	Disease 506 519	breast cancer
+#10	AnnotatorNotes T7	DOID:1612
+T2	RNA-Noncoding 30 37	miR-944
+#3	AnnotatorNotes T2	HGNC:33690
+T8	Drug 151 171	miR-944 upregulation
+T11	RNA-Noncoding 151 158	miR-944
+R2	Response Arg1:T8 Arg2:T3	
+T13	GeneFamily 251 254	AKT
+#1	AnnotatorNotes T13	family:1900
+T14	Gene-Protein 241 246	MACC1
+#9	AnnotatorNotes T14	HGNC:30215
+T17	Gene-Protein 247 250	Met
+#12	AnnotatorNotes T17	HGNC:7029
+T18	RNA-Noncoding 277 284	miR-944
+T19	Drug 277 284	miR-944
+T20	Gene-Protein 302 307	EPHA7
+#13	AnnotatorNotes T20	HGNC:3390
+T22	RNA-Noncoding 404 411	miR-944
+T23	Biomarker 404 422	miR-944 expression
+#15	AnnotatorNotes T6	CHEMBL11359
+R5	Mediated-Response Arg1:T6 Arg2:T7	
+R6	Mediator Arg1:T6 Arg2:T23	
+T24	Gene-Protein 538 543	BNIP3
+#16	AnnotatorNotes T24	HGNC:1084
+T25	GeneFamily 544 547	MMP
+#17	AnnotatorNotes T25	family:891
+T26	Gene-Protein 548 557	caspase-3
+#18	AnnotatorNotes T26	HGNC:1504
+T27	RNA-Noncoding 570 577	miR-944
+T29	RNA-Noncoding 689 696	miR-944
+T30	CellLine 739 744	Hep3B
+T31	RNA-Noncoding 786 793	miR-944
+T32	Drug 863 885	miR-944 overexpression
+#19	AnnotatorNotes T32	not found
+R8	Response Arg1:T32 Arg2:T12	
+T33	RNA-Noncoding 863 870	miR-944
+#20	AnnotatorNotes T10	DOID:684
+T34	RNA-Noncoding 991 998	miR-944
+T35	Drug 1052 1078	ectopic miR-944 expression
+#5	AnnotatorNotes T35	not found
+T36	RNA-Noncoding 1060 1067	miR-944
+R9	Response Arg1:T35 Arg2:T15	
+T37	RNA-Noncoding 1153 1160	miR-944
+T38	Drug 689 706	miR-944 knockdown
+#21	AnnotatorNotes T38	not found
+#22	AnnotatorNotes T19	C000603398
+R3	Response Arg1:T19 Arg2:T4	
+T39	Biomarker 570 577	miR-944
+T40	Biomarker 786 793	miR-944
+T53	Disease 613 651	endometrial 20 and cervical 21 cancers
+T41	Biomarker 1153 1160	miR-944
+T48	Disease 65 70	tumor
+#4	AnnotatorNotes T48	DOID:162
+#11	AnnotatorNotes T39	C000603398
+R1	Association Arg1:T41 Arg2:T15	
+#14	AnnotatorNotes T53	DOID:1380, DOID:4362

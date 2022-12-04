@@ -1,0 +1,47 @@
+31804973_15858|t|RSS_IDENT_p_31804973_b_1_3_3
+31804973_15858|a| LINC00958 has been shown to play important roles in the development of tumors. For example, Seitz and colleagues investigated the role of LINC00958 in bladder cancer [ 37 ]. They used RNA-sequencing to find aberrantly expressed lncRNAs in bladder cancer. Their data suggested that LINC00958 was upregulated in bladder cancer and knockdown of LINC00958 suppressed cell migration and viability. Silencing of LINC00958 affected resistance to anoikis and invasion. Chen and colleagues showed that LINC00958 was overexpressed in endometrial cancer, and LINC01480 was shown to be required to express the micropeptide [ 40 ]. He and colleagues demonstrated that LINC00958 was upregulated in bladder tumor-associated lymphatic metastasis and lymphangiogenesis [ 41 ]. Ectopic expression of LINC00958 promoted VEGF-C expression by associating with WDR5. However, the expression and functional role of LINC00958 remained unknown. In our study, we first determined the expression of LINC00958 in the degenerative NP samples. We found that LINC00958 expression was upregulated in degenerative NP samples, and LINC00958 expression increased gradually along with the grade of exacerbation of disc degeneration. It is suggested that there is correlation between expression of LINC00958 and low back pain. In addition, we showed that LINC00958 overexpression induced NP cell proliferation, decreased aggrecan and Col II expression and promoted MMP-2 and MMP-13 expression. 
+31804973_15858	30	39	LINC00958	Rna-noncoding	HGNC:48671
+31804973_15858	30	39	LINC00958	Biomarker
+31804973_15858	101	107	tumors	Disease	DOID:162
+31804973_15858	168	177	LINC00958	Rna-noncoding
+31804973_15858	168	177	LINC00958	Biomarker
+31804973_15858	181	195	bladder cancer	Disease	DOID:11054
+31804973_15858	237	265	aberrantly expressed lncRNAs	Biomarker
+31804973_15858	258	265	lncRNAs	Rna-noncoding	family:788
+31804973_15858	269	283	bladder cancer	Disease
+31804973_15858	311	320	LINC00958	Rna-noncoding
+31804973_15858	311	336	LINC00958 was upregulated	Biomarker
+31804973_15858	340	354	bladder cancer	Disease	DOID:11054
+31804973_15858	372	381	LINC00958	Rna-noncoding
+31804973_15858	436	445	LINC00958	Rna-noncoding
+31804973_15858	523	532	LINC00958	Rna-noncoding
+31804973_15858	523	550	LINC00958 was overexpressed	Biomarker
+31804973_15858	554	572	endometrial cancer	Disease	DOID:1380
+31804973_15858	578	587	LINC01480	Rna-noncoding	HGNC:51124
+31804973_15858	685	694	LINC00958	Rna-noncoding
+31804973_15858	685	710	LINC00958 was upregulated	Biomarker
+31804973_15858	714	781	bladder tumor-associated lymphatic metastasis and lymphangiogenesis	Disease	not found
+31804973_15858	812	821	LINC00958	Rna-noncoding
+31804973_15858	831	837	VEGF-C	Gene-protein	HGNC:12682
+31804973_15858	869	873	WDR5	Gene-protein	HGNC:12757
+31804973_15858	922	931	LINC00958	Rna-noncoding
+31804973_15858	988	1011	expression of LINC00958	Biomarker
+31804973_15858	1002	1011	LINC00958	Rna-noncoding
+31804973_15858	1019	1034	degenerative NP	Disease	DOID:90
+31804973_15858	1058	1067	LINC00958	Rna-noncoding
+31804973_15858	1058	1094	LINC00958 expression was upregulated	Biomarker
+31804973_15858	1098	1113	degenerative NP	Disease
+31804973_15858	1127	1136	LINC00958	Rna-noncoding
+31804973_15858	1127	1157	LINC00958 expression increased	Biomarker
+31804973_15858	1208	1225	disc degeneration	Disease	DOID:90
+31804973_15858	1277	1300	expression of LINC00958	Biomarker
+31804973_15858	1291	1300	LINC00958	Rna-noncoding
+31804973_15858	1305	1318	low back pain	Disease	D017116
+31804973_15858	1348	1357	LINC00958	Rna-noncoding
+31804973_15858	1348	1372	LINC00958 overexpression	Biomarker
+31804973_15858	1381	1383	NP	Disease	not found
+31804973_15858	1414	1422	aggrecan	Gene-protein	HGNC:319
+31804973_15858	1427	1433	Col II	Gene-protein	HGNC:2200
+31804973_15858	1458	1463	MMP-2	Gene-protein	HGNC:7166
+31804973_15858	1468	1474	MMP-13	Gene-protein	HGNC:7159
+

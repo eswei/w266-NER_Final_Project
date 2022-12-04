@@ -1,0 +1,47 @@
+T0	RNA-Noncoding 179 188	LINC00667
+T10	RNA-Noncoding 615 624	LINC00667
+T12	RNA-Noncoding 683 692	LINC00667
+T13	Disease 742 747	NSCLC
+T14	RNA-Noncoding 876 885	LINC00667
+T15	Disease 964 969	NSCLC
+T16	RNA-Noncoding 1023 1032	LINC00667
+T17	Disease 1178 1183	tumor
+#8	AnnotatorNotes T17	DOID:162
+T18	RNA-Noncoding 1219 1228	LINC00667
+T2	RNA-Noncoding 246 255	LINC00667
+T4	Disease 314 338	hepatocellular carcinoma
+#12	AnnotatorNotes T4	DOID:684
+T5	Disease 368 373	NSCLC
+#13	AnnotatorNotes T5	DOID:3908
+T6	RNA-Noncoding 457 466	LINC00667
+T8	Disease 491 497	cancer
+#15	AnnotatorNotes T8	DOID:14566|DOID:162
+T9	Disease 510 515	NSCLC
+#1	AnnotatorNotes T0	HGNC:27906
+T1	RNA-Noncoding 234 244	miR-143-3p
+#2	AnnotatorNotes T1	HGNC:31530
+T3	RNA-Noncoding 1046 1056	miR-143-3p
+T7	RNA-Noncoding 629 639	miR-143-3p
+T11	RNA-Noncoding 890 900	miR-143-3p
+T19	RNA-Noncoding 697 707	miR-143-3p
+T21	Biomarker 246 255	LINC00667
+R1	Association Arg1:T21 Arg2:T4	
+T22	Biomarker 457 487	LINC00667 was highly expressed
+T23	Collection 491 515	cancer tissues and NSCLC
+R2	Association Arg1:T22 Arg2:T23	
+T24	Biomarker 615 624	LINC00667
+T25	Biomarker 629 639	miR-143-3p
+T26	Biomarker 669 707	expression of LINC00667 and miR-143-3p
+T28	Gene-Protein 849 853	RRM2
+#3	AnnotatorNotes T28	HGNC:10452
+T29	Biomarker 849 941	RRM2 was regulated by both LINC00667 and miR-143-3p, and all three molecules synergistically
+R3	Association Arg1:T29 Arg2:T15	
+T30	Gene-Protein 1105 1109	RRM2
+T31	Drug 1023 1042	LINC00667 knockdown
+#4	AnnotatorNotes T31	not found
+T32	Drug 1046 1071	miR-143-3p overexpression
+#5	AnnotatorNotes T32	not found
+T33	Collection 1023 1071	LINC00667 knockdown or miR-143-3p overexpression
+R4	Response Arg1:T33 Arg2:T17	
+T34	Biomarker 1219 1228	LINC00667
+R5	Association Arg1:T34 Arg2:T15	

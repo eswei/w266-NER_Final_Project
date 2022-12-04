@@ -1,0 +1,77 @@
+T1	Disease 28 47	Hyper-IgE syndromes
+#1	AnnotatorNotes T1	DOID:0080545
+T10	Gene-Protein 309 314	GP130
+T11	Variant 333 340	p.N404Y
+T13	Disease 453 471	hyper-IgE syndrome
+#4	AnnotatorNotes T13	DOID:0080545
+T14	Disease 505 523	hyper-IgE syndrome
+T16	Variant 572 579	p.P498L
+T17	Gene-Protein 640 645	GP130
+T18	Gene-Protein 824 829	GP130
+T2	Biomarker 68 93	inborn errors of immunity
+T20	Biomarker 1031 1107	CCR6-expressing memory CD4⁺ T cells (including T-helper 17-enriched subsets)
+T21	Biomarker 1112 1159	non-conventional CD8⁺T cells which were reduced
+T22	Gene-Protein 1216 1221	GP130
+T23	Variant 1231 1238	p.N404Y
+T24	Variant 1243 1250	p.P498L
+T25	Variant 1306 1313	p.P498L
+T26	Biomarker 1372 1396	reduced T-helper 1 cells
+T27	Gene-Protein 1491 1496	GP130
+T28	Disease 1491 1525	GP130-deficient hyper-IgE syndrome
+#12	AnnotatorNotes T28	not found
+T3	Disease 95 129	STAT3-deficient hyper-IgE syndrome
+#13	AnnotatorNotes T3	DOID:3261
+T4	Biomarker 150 175	elevated serum IgE levels
+T5	Biomarker 177 208	recurrent infections and eczema
+T7	Biomarker 214 247	characteristic skeletal anomalies
+R1	Association Arg1:T2 Arg2:T1	
+T29	Gene-Protein 95 100	STAT3
+#2	AnnotatorNotes T29	HGNC:11364
+T30	GeneFamily 34 37	IgE
+#3	AnnotatorNotes T30	not found
+T31	Gene-Protein 117 120	IgE
+T32	Gene-Protein 165 168	IgE
+T6	Collection 150 247	elevated serum IgE levels, recurrent infections and eczema, and characteristic skeletal anomalies
+R2	Association Arg1:T6 Arg2:T3	
+T8	Gene-Protein 290 295	IL6ST
+#6	AnnotatorNotes T8	HGNC:6021
+#7	AnnotatorNotes T10	HGNC:6021
+R3	Variant-Of Arg1:T8 Arg2:T11	
+#9	AnnotatorNotes T11	p.Asn404Tyr
+R4	Association Arg1:T11 Arg2:T13	
+A1	Loss-of-funtion T11
+T9	Gene-Protein 565 570	IL6ST
+R5	Variant-Of Arg1:T9 Arg2:T16	
+#5	AnnotatorNotes T16	p.Pro498Leu
+R6	Association Arg1:T16 Arg2:T14	
+T12	Gene-Protein 679 683	IL-6
+#10	AnnotatorNotes T12	HGNC:6018
+T15	Gene-Protein 688 693	IL-27
+#11	AnnotatorNotes T15	HGNC:19157
+T33	Gene-Protein 743 747	IL-6
+T34	Gene-Protein 752 757	IL-11
+#14	AnnotatorNotes T34	HGNC:5966
+T19	GeneFamily 886 894	cytokine
+#8	AnnotatorNotes T19	not found
+T35	Gene-Protein 993 997	IL-6
+T36	Gene-Protein 1031 1035	CCR6
+#15	AnnotatorNotes T36	HGNC:1607
+T37	Collection 1231 1250	p.N404Y and p.P498L
+R7	Variant-Of Arg1:T22 Arg2:T37	
+T38	Gene-Protein 1290 1295	IL-27
+R8	Variant-Of Arg1:T22 Arg2:T25	
+A2	Loss-of-funtion T23
+T39	Biomarker 1540 1564	IL-6 and IL-11 dominated
+T40	Gene-Protein 1540 1544	IL-6
+T41	Gene-Protein 1549 1554	IL-11
+R9	Association Arg1:T39 Arg2:T28	
+T42	Biomarker 1598 1631	aberrant IL-6 and IL-27 signaling
+T43	Gene-Protein 1616 1621	IL-27
+T44	Gene-Protein 1607 1611	IL-6
+T45	Gene-Protein 1054 1057	CD4
+#16	AnnotatorNotes T45	HGNC:1678
+T46	Gene-Protein 1129 1132	CD8
+#17	AnnotatorNotes T46	HGNC:1706
+T47	GeneFamily 511 514	IgE
+T48	GeneFamily 459 462	IgE
+T49	GeneFamily 1513 1516	IgE

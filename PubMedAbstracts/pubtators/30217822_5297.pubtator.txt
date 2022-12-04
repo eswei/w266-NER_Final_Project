@@ -1,0 +1,71 @@
+30217822_5297|t|RSS_IDENT_p_30217822_b_1_1_6
+30217822_5297|a| Genetic variants in FH are associated with disease ( 34 ). In AMD, FH SCR-7 harbors the AMD-risk polymorphism Y402H ( 7 – 10 ). Individuals homozygous for His-402 have a 6-fold increased risk of developing AMD compared with 2.5-fold for His-402 heterozygotes ( 35 ). The presence of His-402 weakened heparin binding to both FH SCR-6/8 and full-length FH ( 36 , 37 ), FH binding to CRP ( 38 , 39 ), and full-length FH binding to HS in Bruch's membrane ( 40 ). For the development of AMD, age-related changes in glycosaminoglycan structures such as a decrease in the sulfation of HS, together with the presence of FH His-402, have been proposed to reduce FH binding over time. At host cell surfaces, FH His-402 showed weaker SCR-7 binding to eye tissue-specific HS only ( 41 ). In opposition to these observations of weaker HS binding for the His-402 allotype, His-402 in SCR-6/8 was seen to be bound to the highly-sulfated glycosaminoglycan analogue sucrose octasulfate using X-ray crystallography, whereas no such crystals were reported for the Tyr-402 allotype ( 42 ). Although the statistical association of Y402H with AMD is one of the strongest, many other complement variants in CFH and other complement genes associate also with AMD, suggesting that AMD is caused by several different molecular mechanisms. For example, at the other heparin-binding site on FH, SCR-20 harbors the AMD-risk rare variant R1210C ( 43 ). AMD is associated with another 12 rare variants in FH in its signal peptide or in SCR-1, SCR-3/5, SCR-8, SCR-16, or SCR-18 ( 44 ). AMD is also associated with the protective polymorphism V62I in SCR-1 ( 10 , 45 ), common synonymous and noncoding variants in a region overlapping the CFH gene ( 36 , 46 , 47 ), and genetic variants in complement C3, CFI, CFB, and C9 ( 44 , 49 ).
+30217822_5297	30	52	Genetic variants in FH	Biomarker
+30217822_5297	50	52	FH	Gene-protein	HGNC:4883
+30217822_5297	92	95	AMD	Disease	DOID:10871
+30217822_5297	97	99	FH	Gene-protein
+30217822_5297	100	105	SCR-7	Proteindomain
+30217822_5297	118	121	AMD	Disease
+30217822_5297	140	145	Y402H	Variant	p.Tyr402His
+30217822_5297	158	192	Individuals homozygous for His-402	Biomarker
+30217822_5297	185	188	His	Chemical
+30217822_5297	236	239	AMD	Disease
+30217822_5297	254	288	2.5-fold for His-402 heterozygotes	Biomarker
+30217822_5297	267	270	His	Chemical
+30217822_5297	313	316	His	Chemical
+30217822_5297	330	337	heparin	Chemical
+30217822_5297	354	356	FH	Gene-protein
+30217822_5297	357	364	SCR-6/8	Proteindomain
+30217822_5297	381	383	FH	Gene-protein
+30217822_5297	397	399	FH	Gene-protein
+30217822_5297	411	414	CRP	Gene-protein	HGNC:2367
+30217822_5297	444	446	FH	Gene-protein
+30217822_5297	458	460	HS	Chemical
+30217822_5297	512	515	AMD	Disease
+30217822_5297	517	652	age-related changes in glycosaminoglycan structures such as a decrease in the sulfation of HS, together with the presence of FH His-402	Biomarker
+30217822_5297	540	557	glycosaminoglycan	Chemical
+30217822_5297	608	610	HS	Chemical
+30217822_5297	642	644	FH	Gene-protein
+30217822_5297	683	685	FH	Gene-protein
+30217822_5297	728	730	FH	Gene-protein
+30217822_5297	731	734	His	Chemical
+30217822_5297	753	758	SCR-7	Proteindomain
+30217822_5297	790	792	HS	Chemical
+30217822_5297	852	854	HS	Chemical
+30217822_5297	871	874	His	Chemical
+30217822_5297	889	892	His	Chemical
+30217822_5297	900	907	SCR-6/8	Proteindomain
+30217822_5297	952	969	glycosaminoglycan	Chemical
+30217822_5297	979	998	sucrose octasulfate	Chemical
+30217822_5297	1075	1078	Tyr	Chemical
+30217822_5297	1140	1145	Y402H	Variant
+30217822_5297	1151	1154	AMD	Disease
+30217822_5297	1191	1244	complement variants in CFH and other complement genes	Biomarker
+30217822_5297	1214	1217	CFH	Gene-protein	HGNC:4883
+30217822_5297	1265	1268	AMD	Disease
+30217822_5297	1286	1289	AMD	Disease
+30217822_5297	1369	1376	heparin	Chemical
+30217822_5297	1393	1395	FH	Gene-protein
+30217822_5297	1397	1403	SCR-20	Proteindomain
+30217822_5297	1416	1419	AMD	Disease
+30217822_5297	1438	1444	R1210C	Variant	p.Arg1210Cys
+30217822_5297	1453	1456	AMD	Disease
+30217822_5297	1487	1528	rare variants in FH in its signal peptide	Biomarker
+30217822_5297	1504	1506	FH	Gene-protein
+30217822_5297	1535	1540	SCR-1	Proteindomain
+30217822_5297	1542	1549	SCR-3/5	Proteindomain
+30217822_5297	1551	1556	SCR-8	Proteindomain
+30217822_5297	1558	1564	SCR-16	Proteindomain
+30217822_5297	1569	1575	SCR-18	Proteindomain
+30217822_5297	1584	1587	AMD	Disease
+30217822_5297	1640	1644	V62I	Variant	p.Val62Ile
+30217822_5297	1648	1653	SCR-1	Proteindomain
+30217822_5297	1689	1744	noncoding variants in a region overlapping the CFH gene	Biomarker
+30217822_5297	1689	1818	noncoding variants in a region overlapping the CFH gene ( 36 , 46 , 47 ), and genetic variants in complement C3, CFI, CFB, and C9	Collection
+30217822_5297	1736	1739	CFH	Gene-protein
+30217822_5297	1767	1818	genetic variants in complement C3, CFI, CFB, and C9	Biomarker
+30217822_5297	1798	1800	C3	Gene-protein	HGNC:1318
+30217822_5297	1802	1805	CFI	Gene-protein	HGNC:5394
+30217822_5297	1807	1810	CFB	Gene-protein	HGNC:1037
+30217822_5297	1816	1818	C9	Gene-protein	HGNC:1358
+

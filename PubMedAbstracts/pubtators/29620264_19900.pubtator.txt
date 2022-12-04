@@ -1,0 +1,45 @@
+29620264_19900|t|RSS_IDENT_p_29620264_b_1_4_4
+29620264_19900|a| Previously, recombinant TNF-α has been demonstrated to be beneficial in patients with epithelial ovarian cancer receiving PTX and cisplatinum ( 30 ). In the present study, PL-PTX treatment was associated with the suppression of ovarian cancer via activation of the TNF-caspase-3 cascade within ovarian cancer cells. Suyama et al ( 31 ) reported that ERK activation and retinoblastoma protein phosphorylation may serve as markers of PTX sensitivity of lung adenocarcinoma cells. In addition, previous studies have demonstrated PTX-induced apoptosis of human gastric cancer cells via inhibition of the ERK/AKT signaling pathway ( 32 ). In the present study, PTX induced ovarian cancer cell apoptosis via the induction of the TNF-mediated downregulation of ERK/AKT signaling pathway; a previous study proposed the association of the ERK/AKT signaling activation with cancer cell-resistance to PTX treatment ( 33 ). Additionally, a previous report demonstrated that upregulation of caspase-3 expression levels inhibits lung cancer metastasis and migration in a protease-independent manner via the downregulation of the ERK signaling pathway ( 34 ). The present study suggested that the ERK/AKT signaling pathway is involved in the activation of the TNF/caspase-3 cascade via PL-PTX within ovarian cancer cells. 
+29620264_19900	42	59	recombinant TNF-α	Drug	not found
+29620264_19900	54	59	TNF-α	Gene-protein	HGNC:11892
+29620264_19900	116	141	epithelial ovarian cancer	Disease	DOID:2152
+29620264_19900	152	155	PTX	Drug	CHEMBL428647
+29620264_19900	152	171	PTX and cisplatinum	Collection
+29620264_19900	160	171	cisplatinum	Drug	CHEMBL11359
+29620264_19900	202	208	PL-PTX	Drug	not found
+29620264_19900	258	272	ovarian cancer	Disease	DOID:2394
+29620264_19900	295	298	TNF	Gene-protein	HGNC:11892
+29620264_19900	299	308	caspase-3	Gene-protein	HGNC:1504
+29620264_19900	324	338	ovarian cancer	Disease
+29620264_19900	380	383	ERK	Genefamily	not found
+29620264_19900	380	394	ERK activation	Biomarker
+29620264_19900	380	437	ERK activation and retinoblastoma protein phosphorylation	Collection
+29620264_19900	399	413	retinoblastoma	Gene-protein	HGNC:9884
+29620264_19900	399	437	retinoblastoma protein phosphorylation	Biomarker
+29620264_19900	462	465	PTX	Drug
+29620264_19900	481	500	lung adenocarcinoma	Disease	DOID:3910
+29620264_19900	556	559	PTX	Drug
+29620264_19900	587	601	gastric cancer	Disease	DOID:10534
+29620264_19900	630	633	ERK	Genefamily
+29620264_19900	634	637	AKT	Genefamily	family:1900
+29620264_19900	686	689	PTX	Drug
+29620264_19900	698	712	ovarian cancer	Disease
+29620264_19900	753	756	TNF	Gene-protein
+29620264_19900	784	787	ERK	Genefamily
+29620264_19900	788	791	AKT	Genefamily
+29620264_19900	860	863	ERK	Genefamily
+29620264_19900	864	867	AKT	Genefamily
+29620264_19900	894	900	cancer	Disease	DOID:162
+29620264_19900	920	923	PTX	Drug
+29620264_19900	992	1035	upregulation of caspase-3 expression levels	Drug	not found
+29620264_19900	1008	1017	caspase-3	Gene-protein
+29620264_19900	1045	1056	lung cancer	Disease	DOID:1324
+29620264_19900	1087	1095	protease	Genefamily	not found
+29620264_19900	1145	1148	ERK	Genefamily
+29620264_19900	1212	1215	ERK	Genefamily
+29620264_19900	1216	1219	AKT	Genefamily
+29620264_19900	1275	1278	TNF	Gene-protein
+29620264_19900	1279	1288	caspase-3	Gene-protein
+29620264_19900	1301	1307	PL-PTX	Drug
+29620264_19900	1315	1329	ovarian cancer	Disease
+

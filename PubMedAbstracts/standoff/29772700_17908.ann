@@ -1,0 +1,91 @@
+T0	Chemical 169 175	oxygen
+T1	Chemical 193 209	arachidonic acid
+T10	Disease 771 787	cardiac fibrosis
+#3	AnnotatorNotes T10	not found
+T12	Biomarker 859 886	infiltration of macrophages
+T13	Disease 931 943	inflammation
+#4	AnnotatorNotes T13	D007249
+T14	Disease 948 956	fibrosis
+T15	Disease 960 973	heart failure
+#6	AnnotatorNotes T15	D006333
+T16	Biomarker 982 986	TGFβ
+T17	Disease 1032 1040	fibrosis
+T18	Biomarker 1067 1073	TIMP-1
+T19	Disease 1083 1098	tissue fibrosis
+#8	AnnotatorNotes T19	not found
+T21	Disease 1179 1187	fibrosis
+T22	Biomarker 1244 1284	Alox12/15 as the most upregulated factor
+T23	Variant 1309 1321	IVS4+919 G>A
+T24	Biomarker 1540 1571	expression pattern of Alox12/15
+T25	Disease 1606 1631	cardiomyocyte hypertrophy
+#11	AnnotatorNotes T25	D006332
+T26	Disease 1644 1652	fibrosis
+T27	Biomarker 1672 1716	TGFβ, TIMP-1, and collagen-1 are upregulated
+T28	Biomarker 1783 1792	Alox12/15
+T29	Disease 1859 1879	FC with IVS4+919 G>A
+T3	Disease 400 415	atherosclerosis
+#14	AnnotatorNotes T3	DOID:1936
+T4	Biomarker 424 451	Overexpression of Alox12/15
+T5	Disease 520 535	atherosclerotic
+T6	Biomarker 573 590	cardiac Alox12/15
+T7	Disease 668 687	cardiac dysfunction
+#16	AnnotatorNotes T7	DOID:114
+T8	Disease 692 700	fibrosis
+#17	AnnotatorNotes T8	D005355
+T9	Disease 704 727	diabetic cardiomyopathy
+#18	AnnotatorNotes T9	D058065
+T31	GeneFamily 30 43	Lipoxygenases
+#1	AnnotatorNotes T31	family:407
+T32	GeneFamily 75 87	dioxygenases
+#2	AnnotatorNotes T32	not found
+T2	Gene-Protein 335 344	Alox12/15
+T33	Biomarker 335 344	Alox12/15
+R1	Association Arg1:T33 Arg2:T3	
+R2	Association Arg1:T4 Arg2:T5	
+R3	Association Arg1:T16 Arg2:T17	
+T34	Gene-Protein 442 451	Alox12/15
+T35	Gene-Protein 581 590	Alox12/15
+T36	Gene-Protein 1244 1253	Alox12/15
+T37	Gene-Protein 805 814	Alox12/15
+T38	Gene-Protein 290 294	COX2
+#13	AnnotatorNotes T38	HGNC:9605
+T39	Gene-Protein 274 288	cyclooxygenase
+#15	AnnotatorNotes T39	HGNC:9605
+T40	GeneFamily 301 316	cytochrome P450
+#19	AnnotatorNotes T40	family:862
+T41	Gene-Protein 111 143	5-, 12-, and 12/15-lipoxygenases
+#20	AnnotatorNotes T2	HGNC:429, HGNC:433
+T42	Collection 668 727	cardiac dysfunction and fibrosis in diabetic cardiomyopathy
+R4	Association Arg1:T6 Arg2:T42	
+R5	Association Arg1:T12 Arg2:T10	
+T11	Gene-Protein 1783 1792	Alox12/15
+T43	Gene-Protein 1678 1684	TIMP-1
+T44	Gene-Protein 1462 1469	TIMP-1,
+T45	GeneFamily 1690 1700	collagen-1
+T46	Gene-Protein 1672 1676	TGFβ
+R7	Association Arg1:T28 Arg2:T29	
+#10	AnnotatorNotes T29	not found
+T47	Gene-Protein 1562 1571	Alox12/15
+#21	AnnotatorNotes T41	HGNC:429,HGNC:433
+#22	AnnotatorNotes T33	C476558, C515716
+T48	Collection 931 973	inflammation and fibrosis in heart failure
+R8	Association Arg1:T12 Arg2:T48	
+T49	GeneFamily 982 986	TGFβ
+#5	AnnotatorNotes T49	family:1664
+T20	Gene-Protein 1067 1073	TIMP-1
+#7	AnnotatorNotes T20	HGNC:11820
+#9	AnnotatorNotes T18	D019715
+#23	AnnotatorNotes T16	D016212
+T50	Collection 1083 1187	tissue fibrosis by inhibiting extracellular matrix degradation and has been used as a marker of fibrosis
+T51	Disease 1288 1290	FC
+R9	Association Arg1:T22 Arg2:T51	
+R10	Association Arg1:T18 Arg2:T50	
+T53	Gene-Protein 1485 1494	Alox12/15
+T54	Disease 1395 1397	FC
+T55	GeneFamily 1456 1460	TGFβ
+T56	GeneFamily 1470 1480	collagen-1
+R11	Association Arg1:T23 Arg2:T51	
+T57	Disease 1349 1351	FC
+R12	Association Arg1:T24 Arg2:T25	
+#12	AnnotatorNotes T5	D006332
+T58	Gene-Protein 1435 1438	GLA

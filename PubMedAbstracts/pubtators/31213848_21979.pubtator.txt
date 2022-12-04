@@ -1,0 +1,38 @@
+31213848_21979|t|RSS_IDENT_p_31213848_b_1_4_4
+31213848_21979|a| Recent studies have revealed that lncRNAs act as ceRNAs and interact with miRNAs. LncRNA H19 promotes cell proliferation by sponging miR-200a, thereby increasing β-catenin expression in CRC. 19 LncRNA FTX markedly promoted CRC cell proliferation, migration, and invasion by sponging miR-215. 20 Several studies have reported that miR-206 acts as a tumor suppressor, and its expression was downregulated in various human malignancies. 21 , 22 In CRC, miRNA-206 levels were significantly downregulated in CRC tissues, 23 , 24 and miR-206 overexpression inhibited the proliferation, migration, and invasion of CRC cells. 24 The expression profile and function of miR-206 in CRC is opposite to that of LINC00707. So we predicted that LINC00707 may function as ceRNA of miR-206. Here, our study revealed that miR-206 is a target of LINC00707. Changes in LINC00707 expression led to corresponding changes in the expression levels of miR-206, suggestive of the negative regulation of miR-206 expression by LINC00707. Therefore, the effects of LINC00707 on CRC cell proliferation, migration, and invasion may be explained, at least in part, by its role as a molecular sponge of miR-206. 
+31213848_21979	119	122	H19	Rna-noncoding	HGNC:4713
+31213848_21979	119	122	H19	Biomarker	C094335
+31213848_21979	163	171	miR-200a	Rna-noncoding	HGNC:31578
+31213848_21979	192	201	β-catenin	Genefamily	family:1542
+31213848_21979	216	219	CRC	Disease	DOID:9256
+31213848_21979	231	234	FTX	Rna-noncoding	HGNC:37190
+31213848_21979	231	234	FTX	Biomarker	C000620866
+31213848_21979	253	256	CRC	Disease
+31213848_21979	313	320	miR-215	Rna-noncoding	HGNC:31592
+31213848_21979	360	367	miR-206	Rna-noncoding	HGNC:31584
+31213848_21979	360	432	miR-206 acts as a tumor suppressor, and its expression was downregulated	Biomarker
+31213848_21979	450	462	malignancies	Disease	DOID:162
+31213848_21979	475	478	CRC	Disease
+31213848_21979	480	489	miRNA-206	Rna-noncoding
+31213848_21979	480	529	miRNA-206 levels were significantly downregulated	Biomarker
+31213848_21979	533	536	CRC	Disease
+31213848_21979	558	565	miR-206	Rna-noncoding
+31213848_21979	637	640	CRC	Disease
+31213848_21979	690	697	miR-206	Rna-noncoding
+31213848_21979	690	697	miR-206	Biomarker	C546087
+31213848_21979	701	704	CRC	Disease
+31213848_21979	728	737	LINC00707	Rna-noncoding	 HGNC:44691
+31213848_21979	728	737	LINC00707	Biomarker
+31213848_21979	760	769	LINC00707	Rna-noncoding
+31213848_21979	795	802	miR-206	Rna-noncoding
+31213848_21979	834	841	miR-206	Rna-noncoding
+31213848_21979	857	866	LINC00707	Rna-noncoding
+31213848_21979	879	888	LINC00707	Rna-noncoding
+31213848_21979	957	964	miR-206	Rna-noncoding
+31213848_21979	1007	1014	miR-206	Rna-noncoding
+31213848_21979	1029	1038	LINC00707	Rna-noncoding
+31213848_21979	1066	1075	LINC00707	Rna-noncoding
+31213848_21979	1066	1075	LINC00707	Biomarker
+31213848_21979	1079	1082	CRC	Disease
+31213848_21979	1200	1207	miR-206	Rna-noncoding
+

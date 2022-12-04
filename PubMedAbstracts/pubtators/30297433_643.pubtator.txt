@@ -1,0 +1,31 @@
+30297433_643|t|RSS_IDENT_p_30297433_a_1_1
+30297433_643|a| Damage to intestinal epithelial cell (IEC) layers during intestinal inflammation is associated with inflammatory bowel disease. Here we show that the endoribonuclease Regnase-1 controls colon epithelial regeneration by regulating protein kinase mTOR (the mechanistic target of rapamycin kinase) and purine metabolism. During dextran sulfate sodium-induced intestinal epithelial injury and acute colitis, Regnase-1∆ᴵᴱC mice, which lack Regnase-1 specifically in the intestinal epithelium, were resistant to body weight loss, maintained an intact intestinal barrier, and showed increased cell proliferation and decreased epithelial apoptosis. Chronic colitis and tumor progression were also attenuated in Regnase-1∆ᴵᴱC mice. Regnase-1 predominantly regulates mTORC1 signaling. Metabolic analysis revealed that Regnase-1 participates in purine metabolism and energy metabolism during inflammation. Furthermore, increased expression of ectonucleotidases contributed to the resolution of acute inflammation in Regnase-1∆ᴵᴱC mice. These findings provide evidence that Regnase-1 deficiency has beneficial effects on the prevention and/or blocking of intestinal inflammatory disorders.
+30297433_643	28	108	Damage to intestinal epithelial cell (IEC) layers during intestinal inflammation	Biomarker	DOID:10690
+30297433_643	128	154	inflammatory bowel disease	Disease	DOID:0050589
+30297433_643	178	194	endoribonuclease	Genefamily	family:1687
+30297433_643	195	204	Regnase-1	Gene-protein	HGNC:26259
+30297433_643	273	277	mTOR	Gene-protein	HGNC:3942
+30297433_643	283	321	mechanistic target of rapamycin kinase	Gene-protein	HGNC:3942
+30297433_643	305	314	rapamycin	Chemical
+30297433_643	327	333	purine	Chemical
+30297433_643	353	375	dextran sulfate sodium	Chemical
+30297433_643	353	430	dextran sulfate sodium-induced intestinal epithelial injury and acute colitis	Disease	not found
+30297433_643	432	441	Regnase-1	Gene-protein
+30297433_643	463	472	Regnase-1	Gene-protein
+30297433_643	463	472	Regnase-1	Biomarker
+30297433_643	669	684	Chronic colitis	Disease	not found
+30297433_643	689	694	tumor	Disease	DOID:162
+30297433_643	731	740	Regnase-1	Gene-protein
+30297433_643	751	760	Regnase-1	Gene-protein
+30297433_643	785	791	mTORC1	Genefamily	family:1332
+30297433_643	836	845	Regnase-1	Gene-protein
+30297433_643	862	868	purine	Chemical
+30297433_643	909	921	inflammation	Disease	D007249
+30297433_643	936	977	increased expression of ectonucleotidases	Biomarker
+30297433_643	960	977	ectonucleotidases	Genefamily
+30297433_643	1011	1029	acute inflammation	Disease
+30297433_643	1033	1042	Regnase-1	Gene-protein
+30297433_643	1090	1099	Regnase-1	Gene-protein
+30297433_643	1090	1110	Regnase-1 deficiency	Drug	not found
+30297433_643	1171	1204	intestinal inflammatory disorders	Disease	DOID:0050589
+

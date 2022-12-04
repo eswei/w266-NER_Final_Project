@@ -1,0 +1,58 @@
+31186640_1056|t|RSS_IDENT_s_31186640_a_1_3
+31186640_1056|a| Results We identified numerous significantly upregulated genes (such as CTHRC1, NFE2L3, SULF1, SOX9, ENC1, and CCND1) and significantly downregulated genes (such as MYOT, ASPA, KIAA2022, ARHGEF37, BCL-2, and PPARGC1A) in CTS versus colon normal stroma. Furthermore, we identified significantly upregulated pathways in CTS that were mainly involved in cellular development, immune regulation, and metabolism, as well as significantly downregulated pathways in CTS that were mostly metabolism-related. Moreover, we identified upstream TFs (such as SUZ12, NFE2L2, RUNX1, STAT3, and SOX2), kinases (such as MAPK14, CSNK2A1, CDK1, CDK2, and CDK4), and master metabolic transcriptional regulators (MMTRs) (such as HNF1A, NFKB1, ZBTB7A, GATA2, and GATA5) regulating the DEGs. We found that CD8+ T cells were more enriched in CTS than in colon normal stroma. Interestingly, we found that many of the DEGs and their regulators were prognostic markers for colon cancer, including CEBPB, PPARGC1, STAT3, MTOR, BCL2, JAK2, and CDK1.
+31186640_1056	73	145	upregulated genes (such as CTHRC1, NFE2L3, SULF1, SOX9, ENC1, and CCND1)	Biomarker
+31186640_1056	73	245	upregulated genes (such as CTHRC1, NFE2L3, SULF1, SOX9, ENC1, and CCND1) and significantly downregulated genes (such as MYOT, ASPA, KIAA2022, ARHGEF37, BCL-2, and PPARGC1A)	Collection
+31186640_1056	100	106	CTHRC1	Gene-protein
+31186640_1056	108	114	NFE2L3	Gene-protein
+31186640_1056	116	121	SULF1	Gene-protein
+31186640_1056	123	127	SOX9	Gene-protein
+31186640_1056	129	133	ENC1	Gene-protein
+31186640_1056	139	144	CCND1	Gene-protein
+31186640_1056	164	244	downregulated genes (such as MYOT, ASPA, KIAA2022, ARHGEF37, BCL-2, and PPARGC1A	Biomarker
+31186640_1056	193	197	MYOT	Gene-protein
+31186640_1056	199	203	ASPA	Gene-protein
+31186640_1056	205	213	KIAA2022	Gene-protein
+31186640_1056	215	223	ARHGEF37	Gene-protein
+31186640_1056	225	231	BCL-2,	Gene-protein
+31186640_1056	236	244	PPARGC1A	Gene-protein
+31186640_1056	249	252	CTS	Disease	DOID:219
+31186640_1056	346	349	CTS	Disease
+31186640_1056	487	490	CTS	Disease
+31186640_1056	574	579	SUZ12	Gene-protein
+31186640_1056	581	587	NFE2L2	Gene-protein
+31186640_1056	589	594	RUNX1	Gene-protein
+31186640_1056	596	601	STAT3	Gene-protein
+31186640_1056	607	611	SOX2	Gene-protein
+31186640_1056	614	621	kinases	Genefamily
+31186640_1056	631	637	MAPK14	Gene-protein
+31186640_1056	639	646	CSNK2A1	Gene-protein
+31186640_1056	648	652	CDK1	Gene-protein
+31186640_1056	654	658	CDK2	Gene-protein
+31186640_1056	664	668	CDK4	Gene-protein
+31186640_1056	675	718	master metabolic transcriptional regulators	Gene-protein
+31186640_1056	720	725	MMTRs	Gene-protein
+31186640_1056	736	741	HNF1A	Gene-protein
+31186640_1056	743	748	NFKB1	Gene-protein
+31186640_1056	750	756	ZBTB7A	Gene-protein
+31186640_1056	758	763	GATA2	Gene-protein
+31186640_1056	769	774	GATA5	Gene-protein
+31186640_1056	811	814	CD8	Gene-protein
+31186640_1056	811	842	CD8+ T cells were more enriched	Biomarker
+31186640_1056	846	849	CTS	Disease
+31186640_1056	974	986	colon cancer	Disease	DOID:219|DOID:235
+31186640_1056	998	1003	CEBPB	Gene-protein
+31186640_1056	998	1003	CEBPB	Biomarker
+31186640_1056	998	1047	CEBPB, PPARGC1, STAT3, MTOR, BCL2, JAK2, and CDK1	Collection
+31186640_1056	1005	1012	PPARGC1	Gene-protein
+31186640_1056	1005	1012	PPARGC1	Biomarker
+31186640_1056	1014	1019	STAT3	Gene-protein
+31186640_1056	1014	1019	STAT3	Biomarker
+31186640_1056	1021	1025	MTOR	Gene-protein
+31186640_1056	1021	1025	MTOR	Biomarker
+31186640_1056	1027	1031	BCL2	Gene-protein
+31186640_1056	1027	1031	BCL2	Biomarker
+31186640_1056	1033	1037	JAK2	Gene-protein
+31186640_1056	1033	1037	JAK2	Biomarker
+31186640_1056	1043	1047	CDK1	Gene-protein
+31186640_1056	1043	1047	CDK1	Biomarker
+

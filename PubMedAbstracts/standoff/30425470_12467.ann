@@ -1,0 +1,49 @@
+T0	Biomarker 601 617	CC-16 deficiency
+T2	Disease 767 771	COPD
+T3	Disease 864 868	COPD
+T4	Disease 1169 1178	emphysema
+#5	AnnotatorNotes T4	D004646
+T5	Disease 1264 1300	chronic inflammatory airway diseases
+#6	AnnotatorNotes T5	not found
+T6	Gene-Protein 1054 1059	CC-16
+T7	Gene-Protein 891 896	CC-16
+T8	Gene-Protein 30 35	CC-16
+#4	AnnotatorNotes T8	HGNC:12523
+T10	Gene-Protein 197 202	CC-16
+T11	Disease 298 314	oxidative stress
+#8	AnnotatorNotes T11	D018384
+T12	Biomarker 324 355	Decreased serum levels of CC-16
+T13	Biomarker 375 382	smokers
+#9	AnnotatorNotes T13	D000074285
+T14	Gene-Protein 350 355	CC-16
+T15	Disease 480 484	COPD
+#10	AnnotatorNotes T15	DOID:3083
+T16	Gene-Protein 486 491	CC-16
+T17	Gene-Protein 601 606	CC-16
+T18	Gene-Protein 702 707	CC-16
+T19	Gene-Protein 787 792	CC-16
+T20	Disease 628 666	smoking-induced pulmonary inflammation
+#3	AnnotatorNotes T20	not found
+R1	Association Arg1:T0 Arg2:T20	
+T1	Biomarker 702 707	CC-16
+T21	Biomarker 725 746	lung function decline
+T22	Biomarker 787 792	CC-16
+T23	Disease 986 990	COPD
+R2	Association Arg1:T22 Arg2:T3	
+T24	Biomarker 883 903	reduced CC-16 levels
+T25	Biomarker 927 973	accelerated decline in lung function over time
+R3	Association Arg1:T24 Arg2:T23	
+T26	Biomarker 1054 1069	CC-16 was lower
+T27	Biomarker 1087 1120	low FEV₁, DLCO, FVC, and FEV₁/FVC
+T28	Drug 197 202	CC-16
+#1	AnnotatorNotes T28	C481939
+T29	Disease 228 255	inflammation of the airways
+#2	AnnotatorNotes T29	not found
+R4	Response Arg1:T28 Arg2:T29	
+R5	Protects-from Arg1:T28 Arg2:T11	
+T9	Biomarker 486 570	CC-16 in bronchoalveolar lavage fluid (BALF) and serum has been reported to be lower
+R6	Association Arg1:T9 Arg2:T15	
+#7	AnnotatorNotes T1	C481939
+T30	Biomarker 1209 1244	increased destruction of club cells
+R7	Association Arg1:T30 Arg2:T5	
+T31	Biomarker 1306 1337	severely impaired lung function

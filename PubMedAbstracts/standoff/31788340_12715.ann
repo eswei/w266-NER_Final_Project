@@ -1,0 +1,58 @@
+T11	Drug 583 591	miR-125b
+T12	Disease 595 597	AD
+T13	Biomarker 599 635	MiR-125b was found highly expression
+T14	Disease 639 641	AD
+T15	Chemical 963 974	sphingosine
+T16	Biomarker 1029 1060	aberrant expression of miR-125b
+T2	Disease 43 45	AD
+#7	AnnotatorNotes T2	DOID:10652
+T3	Biomarker 50 83	serum miR-125b was down-regulated
+T4	Disease 87 89	AD
+T5	Biomarker 169 199	decreased circulating miR-125b
+T6	Disease 257 259	AD
+T8	Biomarker 306 336	reduced expression of miR-125b
+T9	Drug 404 417	17β-estradiol
+T19	RNA-Noncoding 30 38	miR-125b
+T20	RNA-Noncoding 56 64	miR-125b
+T21	RNA-Noncoding 191 199	miR-125b
+T22	RNA-Noncoding 328 336	miR-125b
+T23	RNA-Noncoding 599 607	MiR-125b
+T24	RNA-Noncoding 676 684	miR-125b
+T25	Gene-Protein 922 927	FOXQ1
+T26	Gene-Protein 905 920	forkhead box Q1
+T27	Gene-Protein 985 990	SphK1
+T28	Gene-Protein 963 983	sphingosine kinase 1
+T29	RNA-Noncoding 1052 1060	miR-125b
+R1	Association Arg1:T13 Arg2:T14	
+T31	Gene-Protein 827 831	CDK5
+T33	Gene-Protein 836 842	p35/25
+T34	Gene-Protein 952 957	Bcl-W
+R2	Association Arg1:T3 Arg2:T4	
+T1	RNA-Noncoding 497 505	miR-125b
+T36	Gene-Protein 275 277	Aβ
+T37	Gene-Protein 222 225	APP
+T7	Gene-Protein 447 457	Aβ-peptide
+T38	Disease 447 478	Aβ-peptide caused neurotoxicity
+T39	Gene-Protein 692 695	tau
+#1	AnnotatorNotes T38	not found
+R3	Protects-from Arg1:T9 Arg2:T38	
+T10	Disease 1102 1104	AD
+#2	AnnotatorNotes T9	CHEMBL135
+#3	AnnotatorNotes T11	C531888
+#4	AnnotatorNotes T10	DOID:10652
+T17	Gene-Protein 226 229	PS1
+T18	Biomarker 1080 1098	neural dysfunction
+#5	AnnotatorNotes T36	not found
+#6	AnnotatorNotes T7	not found
+#8	AnnotatorNotes T39	HGNC:6893
+#9	AnnotatorNotes T31	HGNC:1774
+#10	AnnotatorNotes T33	HGNC:1775
+T35	Gene-Protein 844 855	p44/42-MAPK
+#11	AnnotatorNotes T35	HGNC:6877
+#12	AnnotatorNotes T26	HGNC:20951
+#13	AnnotatorNotes T25	HGNC:20951
+#14	AnnotatorNotes T34	HGNC:995
+#15	AnnotatorNotes T28	HGNC:11240
+#16	AnnotatorNotes T27	HGNC:11240
+T30	Drug 659 684	Up-regulation of miR-125b
+R4	Response Arg1:T30 Arg2:T14	

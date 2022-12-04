@@ -1,0 +1,70 @@
+T0	Disease 84 87	HCC
+T10	Disease 714 717	HCC
+T12	Disease 783 786	HCC
+T15	Disease 922 925	HCC
+T17	Disease 987 990	HCC
+T20	Disease 1133 1136	HCC
+T21	Disease 1185 1188	HCC
+T22	Chemical 1278 1285	leucine
+T26	Disease 1453 1456	HCC
+T29	Disease 1592 1595	HCC
+T3	Disease 425 431	glioma
+#11	AnnotatorNotes T3	D005910
+T31	Disease 1754 1757	HCC
+T6	Disease 615 618	HCC
+T9	Disease 696 703	tumours
+#15	AnnotatorNotes T9	DOID:162
+T1	RNA-Noncoding 62 71	HOXA11‐AS
+#1	AnnotatorNotes T1	HGNC:24957
+T2	Biomarker 62 71	HOXA11‐AS
+R1	Association Arg1:T2 Arg2:T0	
+#2	AnnotatorNotes T0	DOID:684
+T4	Gene-Protein 369 378	HOXA11‐AS
+T5	Biomarker 369 378	HOXA11‐AS
+R2	Association Arg1:T5 Arg2:T3	
+T7	RNA-Noncoding 473 483	miR‐214‐3p
+#3	AnnotatorNotes T7	HGNC:31591
+T11	Gene-Protein 484 488	EZH2
+#4	AnnotatorNotes T11	HGNC:3527
+T13	RNA-Noncoding 560 569	HOXA11‐AS
+T14	Biomarker 560 569	HOXA11‐AS
+T16	RNA-Noncoding 586 596	miR‐214‐3p
+R3	Association Arg1:T14 Arg2:T6	
+T18	RNA-Noncoding 625 632	miR‐214
+#5	AnnotatorNotes T18	HGNC:31591
+T23	RNA-Noncoding 761 768	miR‐214
+T24	Drug 761 768	miR‐214
+R5	Response Arg1:T24 Arg2:T12	
+T25	Gene-Protein 824 828	E2F3
+#7	AnnotatorNotes T25	HGNC:3115
+T27	Biomarker 878 918	expression of miR‐214 was down‐regulated
+T28	RNA-Noncoding 892 899	miR‐214
+R6	Association Arg1:T27 Arg2:T15	
+T32	RNA-Noncoding 968 975	miR‐214
+T33	GeneFamily 1024 1033	β‐catenin
+#9	AnnotatorNotes T33	family:1542
+T34	Biomarker 1086 1129	expression of miR‐214‐3p was down‐regulated
+T35	RNA-Noncoding 1100 1110	miR‐214‐3p
+R8	Association Arg1:T34 Arg2:T20	
+T37	Gene-Protein 1149 1159	miR‐214‐3p
+T38	Gene-Protein 1301 1305	MELK
+#12	AnnotatorNotes T38	HGNC:16870
+T39	Gene-Protein 1268 1299	embryonic leucine zipper kinase
+#13	AnnotatorNotes T39	HGNC:16870
+T40	RNA-Noncoding 1348 1358	miR‐214‐3p
+T41	RNA-Noncoding 1373 1382	HOXA11‐AS
+T42	RNA-Noncoding 1405 1415	miR‐214‐3p
+T43	Biomarker 1405 1445	miR‐214‐3p expression was down‐regulated
+R10	Association Arg1:T43 Arg2:T26	
+T44	RNA-Noncoding 1487 1497	miR‐214‐3p
+T45	RNA-Noncoding 1547 1556	HOXA11‐AS
+T46	Biomarker 1558 1582	HOXA11‐AS overexpression
+T47	RNA-Noncoding 1558 1567	HOXA11‐AS
+R11	Association Arg1:T46 Arg2:T29	
+T48	RNA-Noncoding 1658 1668	miR‐214‐3p
+T49	Biomarker 1710 1726	lncRNA HOXA11‐AS
+T50	RNA-Noncoding 1717 1726	HOXA11‐AS
+R12	Association Arg1:T49 Arg2:T31	
+T51	RNA-Noncoding 1786 1796	miR‐214‐3p
+T19	Biomarker 625 632	miR‐214
+#6	AnnotatorNotes T19	C547397

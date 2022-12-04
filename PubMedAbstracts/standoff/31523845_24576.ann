@@ -1,0 +1,53 @@
+T1	Gene-Protein 228 233	NCAPH
+T10	Disease 606 609	HCC
+T11	Gene-Protein 650 655	NCAPH
+T13	Disease 671 674	HCC
+T15	Gene-Protein 725 730	NCAPH
+T16	Disease 734 737	HCC
+T17	Gene-Protein 766 771	NCAPH
+T19	Disease 789 792	HCC
+T2	Gene-Protein 297 302	NCAPH
+T20	Gene-Protein 864 869	NCAPH
+T22	Gene-Protein 953 958	NCAPH
+T23	Disease 1009 1012	HCC
+T24	Gene-Protein 1035 1040	NCAPH
+T25	Disease 1044 1047	HCC
+T26	Disease 1132 1135	HCC
+T27	Gene-Protein 1171 1176	NCAPH
+T28	Gene-Protein 1309 1314	NCAPH
+T30	Gene-Protein 1394 1399	NCAPH
+T31	Gene-Protein 1510 1515	NCAPH
+T32	Disease 1527 1530	HCC
+T34	Gene-Protein 1647 1652	NCAPH
+T35	Disease 1647 1669	NCAPH knockdown tumors
+#23	AnnotatorNotes T35	not found
+T4	Disease 321 333	colon cancer
+#24	AnnotatorNotes T4	DOID:219
+T5	Gene-Protein 405 410	NCAPH
+T7	Chemical 505 508	Ser
+T9	Chemical 580 586	serine
+T3	GeneFamily 34 53	condensin I complex
+#1	AnnotatorNotes T3	family:1452
+#2	AnnotatorNotes T1	HGNC:1112
+T6	Biomarker 930 958	aberrant expression of NCAPH
+R1	Prognostic-Poor Arg1:T6 Arg2:T23	
+T8	Biomarker 297 317	NCAPH is upregulated
+R2	Prognostic-Poor Arg1:T8 Arg2:T4	
+T12	Biomarker 1377 1399	higher levels of NCAPH
+#3	AnnotatorNotes T10	DOID:684
+T14	GeneFamily 251 268	condensin complex
+#4	AnnotatorNotes T14	family:1454
+T18	Gene-Protein 1610 1615	Ki‐67
+#5	AnnotatorNotes T18	HGNC:7107
+T21	GeneFamily 491 501	histone H3
+#6	AnnotatorNotes T21	family:1938
+T29	GeneFamily 569 579	histone H3
+T33	Drug 1496 1515	inhibition of NCAPH
+#7	AnnotatorNotes T33	not found
+R3	Response Arg1:T33 Arg2:T32	
+T36	Biomarker 1610 1643	Ki‐67 was significantly decreased
+R4	Association Arg1:T36 Arg2:T35	
+T37	Biomarker 550 586	phosphorylation of histone H3 serine
+R5	Association Arg1:T37 Arg2:T10	
+T38	Biomarker 766 785	NCAPH was increased
+R6	Association Arg1:T38 Arg2:T19	

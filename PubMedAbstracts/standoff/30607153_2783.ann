@@ -1,0 +1,62 @@
+T1	Disease 99 112	breast cancer
+#2	AnnotatorNotes T1	DOID:1612
+T10	Disease 647 671	hepatocellular carcinoma
+T13	Disease 829 834	tumor
+#6	AnnotatorNotes T13	DOID:162
+T14	Disease 882 896	gastric cancer
+#7	AnnotatorNotes T14	DOID:10534
+T17	Disease 1001 1042	hematological and gastrointestinal cancer
+#10	AnnotatorNotes T17	DOID:2531,DOID:3119
+T20	Disease 1108 1122	ovarian cancer
+#13	AnnotatorNotes T20	DOID:2394
+T22	Disease 1246 1253	cancers
+#15	AnnotatorNotes T22	DOID:162
+T24	Disease 1314 1328	ovarian cancer
+T27	Disease 1445 1459	ovarian cancer
+T6	Disease 309 316	myeloma
+#24	AnnotatorNotes T6	DOID:0070004
+T8	Disease 473 497	hepatocellular carcinoma
+#26	AnnotatorNotes T8	DOID:684
+T2	Gene-Protein 60 65	Gal-9
+T28	Drug 60 65	Gal-9
+#1	AnnotatorNotes T28	not found
+T29	Gene-Protein 161 166	Gal-9
+T30	Drug 262 267	Gal-9
+T31	Gene-Protein 211 216	Gal-9
+T32	Drug 435 440	Gal-9
+T3	Gene-Protein 610 615	Gal-9
+T4	Gene-Protein 718 723	Gal-9
+T33	Drug 718 723	Gal-9
+T34	Biomarker 816 821	Gal-9
+T35	Gene-Protein 1091 1096	Gal-9
+R1	Response Arg1:T28 Arg2:T1	
+T9	Drug 1170 1175	Gal-9
+T11	Gene-Protein 1419 1424	Gal-9
+T12	Drug 1419 1424	Gal-9
+T19	Gene-Protein 1170 1175	Gal-9
+T21	Gene-Protein 965 970	Gal-9
+T23	Drug 965 970	Gal-9
+T16	Gene-Protein 1305 1310	Gal-9
+T5	Gene-Protein 262 267	Gal-9
+T26	Gene-Protein 435 440	Gal-9
+T36	Biomarker 610 615	Gal-9
+T37	Gene-Protein 816 821	Gal-9
+R2	Response Arg1:T30 Arg2:T6	
+T40	Gene-Protein 380 401	caspase-8, -9, and -3
+#4	AnnotatorNotes T40	HGNC:1509,HGNC:1511,HGNC:1504
+R3	Response Arg1:T32 Arg2:T8	
+T41	Drug-Class 672 684	chemotherapy
+R4	Association Arg1:T36 Arg2:T10	
+T42	Gene-Protein 750 759	caspase-1
+#5	AnnotatorNotes T42	HGNC:1499
+T43	Collection 829 896	tumor cells may be a critical target to treatment of gastric cancer
+R5	Association Arg1:T34 Arg2:T43	
+R6	Response Arg1:T23 Arg2:T17	
+T18	CellLine 1100 1107	OVCAR-3
+T44	Biomarker 1091 1096	Gal-9
+R7	Association Arg1:T44 Arg2:T20	
+R8	Response Arg1:T9 Arg2:T22	
+T25	CellLine 1428 1435	OVCAR-3
+#8	AnnotatorNotes T2	HGNC: 6570
+T7	Biomarker 1305 1310	Gal-9
+#3	AnnotatorNotes T36	C105032

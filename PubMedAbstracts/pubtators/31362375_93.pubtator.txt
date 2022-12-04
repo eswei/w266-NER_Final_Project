@@ -1,0 +1,73 @@
+31362375_93|t|RSS_IDENT_p_31362375_a_1_1
+31362375_93|a| Hepatic fibrosis is characterized by persistent deposition of extracellular matrix proteins and occurs in chronic liver diseases. The aim of the present study is to investigate whether estrogen deficiency (ED) potentiates hepatic fibrosis in a thioacetamide (TAA)-treated rat model. Fibrosis was induced via intraperitoneal injection (i.p.) of TAA (150 mg/kg/day) for four weeks in ovariectomized (OVX) female, sham-operated female, or male rats. In TAA-treated OVX rats, the activities of serum alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase (ALP), and γ-glutamyl transferase (GGT) were significantly increased compared to those in TAA-treated sham-operated OVX rats or TAA-treated male rats. Furthermore, α-smooth muscle actin (α-SMA) expression was significantly increased compared to that in TAA-treated sham-operated rats. This was accompanied by the appearance of fibrosis biomarkers including vimentin, collagen-I, and hydroxyproline, in the liver of TAA-treated OVX rats. In addition, ED markedly reduced total glutathione (GSH) levels, as well as catalase (CAT) and superoxide dismutase (SOD) activity in TAA-treated OVX rats. In contrast, hepatic malondialdehyde (MDA) levels were elevated in TAA-treated OVX rats. Apoptosis significantly increased in TAA-treated OVX rats, as reflected by elevated p53, Bcl-2, and cleaved caspase 3 levels. Significant increases in interleukin-6 (IL-6) and tumor necrosis factor-α (TNF-α) concentrations were exhibited in TAA-treated OVX rats, and this further aggravated fibrosis through the transforming growth factor-β (TGF-β)/Smad pathway. Our data suggest that ED potentiates TAA-induced oxidative damage in the liver, suggesting that ED may enhance the severity of hepatic fibrosis in menopausal women.
+31362375_93	28	44	Hepatic fibrosis	Disease	DOID:5082
+31362375_93	65	119	persistent deposition of extracellular matrix proteins	Biomarker
+31362375_93	65	156	persistent deposition of extracellular matrix proteins and occurs in chronic liver diseases	Collection
+31362375_93	134	156	chronic liver diseases	Biomarker	not found
+31362375_93	213	221	estrogen	Chemical
+31362375_93	213	232	estrogen deficiency	Disease	not found
+31362375_93	234	236	ED	Disease	not found
+31362375_93	250	266	hepatic fibrosis	Disease	DOID:5082
+31362375_93	272	285	thioacetamide	Drug	CHEMBL38737
+31362375_93	287	290	TAA	Drug	CHEMBL38737
+31362375_93	311	319	Fibrosis	Disease	D005355
+31362375_93	372	375	TAA	Drug
+31362375_93	478	481	TAA	Drug
+31362375_93	518	679	serum alanine aminotransferase (ALT), aspartate aminotransferase (AST), alkaline phosphatase (ALP), and γ-glutamyl transferase (GGT) were significantly increased	Biomarker
+31362375_93	524	531	alanine	Chemical
+31362375_93	524	548	alanine aminotransferase	Gene-protein
+31362375_93	550	553	ALT	Gene-protein
+31362375_93	556	565	aspartate	Chemical
+31362375_93	556	582	aspartate aminotransferase	Genefamily
+31362375_93	584	587	AST	Genefamily
+31362375_93	590	610	alkaline phosphatase	Gene-protein
+31362375_93	612	615	ALP	Gene-protein
+31362375_93	622	632	γ-glutamyl	Chemical
+31362375_93	622	644	γ-glutamyl transferase	Genefamily
+31362375_93	646	649	GGT	Genefamily
+31362375_93	701	704	TAA	Drug
+31362375_93	739	742	TAA	Drug
+31362375_93	775	796	α-smooth muscle actin	Gene-protein
+31362375_93	775	843	α-smooth muscle actin (α-SMA) expression was significantly increased	Biomarker
+31362375_93	798	803	α-SMA	Gene-protein
+31362375_93	864	867	TAA	Drug
+31362375_93	938	946	fibrosis	Disease	D005355
+31362375_93	968	976	vimentin	Gene-protein
+31362375_93	968	1022	vimentin, collagen-I, and hydroxyproline, in the liver	Biomarker
+31362375_93	978	988	collagen-I	Gene-protein
+31362375_93	994	1008	hydroxyproline	Chemical
+31362375_93	1026	1029	TAA	Drug
+31362375_93	1061	1063	ED	Disease
+31362375_93	1073	1178	reduced total glutathione (GSH) levels, as well as catalase (CAT) and superoxide dismutase (SOD) activity	Biomarker
+31362375_93	1087	1098	glutathione	Chemical
+31362375_93	1100	1103	GSH	Chemical
+31362375_93	1124	1132	catalase	Gene-protein
+31362375_93	1134	1137	CAT	Gene-protein
+31362375_93	1143	1153	superoxide	Chemical
+31362375_93	1143	1163	superoxide dismutase	Genefamily
+31362375_93	1165	1168	SOD	Genefamily
+31362375_93	1182	1185	TAA	Drug
+31362375_93	1217	1253	hepatic malondialdehyde (MDA) levels	Biomarker
+31362375_93	1225	1240	malondialdehyde	Chemical
+31362375_93	1242	1245	MDA	Chemical
+31362375_93	1271	1274	TAA	Drug
+31362375_93	1330	1333	TAA	Drug
+31362375_93	1368	1417	elevated p53, Bcl-2, and cleaved caspase 3 levels	Biomarker
+31362375_93	1377	1380	p53	Gene-protein
+31362375_93	1382	1387	Bcl-2	Gene-protein
+31362375_93	1401	1410	caspase 3	Gene-protein
+31362375_93	1431	1530	increases in interleukin-6 (IL-6) and tumor necrosis factor-α (TNF-α) concentrations were exhibited	Biomarker
+31362375_93	1444	1457	interleukin-6	Gene-protein
+31362375_93	1459	1463	IL-6	Gene-protein
+31362375_93	1469	1492	tumor necrosis factor-α	Gene-protein
+31362375_93	1494	1499	TNF-α	Gene-protein
+31362375_93	1534	1537	TAA	Drug
+31362375_93	1584	1592	fibrosis	Disease	DOID:0050855
+31362375_93	1605	1633	transforming growth factor-β	Genefamily
+31362375_93	1635	1640	TGF-β	Genefamily
+31362375_93	1642	1646	Smad	Genefamily
+31362375_93	1678	1680	ED	Disease
+31362375_93	1693	1696	TAA	Drug
+31362375_93	1752	1754	ED	Biomarker
+31362375_93	1783	1799	hepatic fibrosis	Disease
+

@@ -1,0 +1,61 @@
+31612017_37048|t|RSS_IDENT_p_31612017_b_1_4_6
+31612017_37048|a| The formation of various types of tumor in humans is modulated by NOTCH signaling pathway, which has been reported to serve a crucial role in the development and formation of normal choroid plexus ( 54 ). Insertion of G and A in PARP1 gene (c.1056_1057insG and c.1056_1057insA) causes a frameshift in the reading frame and a termination at 35th coding position from this insertion. In addition, insertion of G (c.21904_21905insG) in PARP1 causes a frameshift in the reading frame and a termination codon at 3rd coding position from insertion ( 55 ). PARP enzymes are involved in DNA damage repair ( 56 ). Mutations in SYNE1 (ARCA1) gene are known to cause autosomal recessive cerebellar ataxia type-1 ( 57 ), and patients with CPP are known to have symptoms of ataxia ( 5 ). Previous studies reported that SYNE1 and STK36 mutations are present in GBM cases ( 58 ). In addition, deletion variant in NOTCH1 [c.4732_4734delGTG p. (Val1578delVal)], which causes a frameshift in reading frame, was also observed in hematopoietic and lymphoid tissues, but this variant has not previously reported in GBM ( 59 ). Mutations in NOTCH1 are associated with altered drug sensitivity, such as to tyrosine kinase inhibitors ( 60 ). Frameshift-deletion in exon 26 of NOTCH1 has been reported in hematopoietic and lymphoid skin, salivary gland and thymus ( 61 ). KDM5C, also known as ‘Jumonji. AT-rich interactive domain 1c’ JARID1C, codes for a histone demethylase, and mutations in this gene are associated with mental retardation and microcephaly ( 62 ). This suggests that alteration in chromatin remodeling might serves a role in CPP. It is therefore crucial to further investigate choroid plexus tumor to better understand the role of chromatin remodeling, since this type of tumor exhibits mutations in enzymes responsible for chromatin remodeling, including PARP, SMARCA4 and ATM. A mutation in GATA2 gene [c.967C>T p. (His323Tyr)] has been previously identified in large intestine with a FATHMM prediction score of 1.00 ( 25 ). To the best of our knowledge, the missense mutation detected in the GATA2 gene in the present study has not yet been reported in GBM tumors. GATA2 is a hematopoietic factor that has been implicated in hematopoietic malignancies, and this transcription factor has been implicated in prostate tumorigenesis ( 63 , 64 ).
+31612017_37048	64	69	tumor	Disease	DOID:162
+31612017_37048	96	101	NOTCH	Genefamily	family:1689
+31612017_37048	96	119	NOTCH signaling pathway	Biomarker
+31612017_37048	259	264	PARP1	Gene-protein	HGNC:270
+31612017_37048	271	286	c.1056_1057insG	Variant
+31612017_37048	271	306	c.1056_1057insG and c.1056_1057insA	Collection
+31612017_37048	291	306	c.1056_1057insA	Variant
+31612017_37048	441	458	c.21904_21905insG	Variant
+31612017_37048	463	468	PARP1	Gene-protein
+31612017_37048	580	584	PARP	Genefamily	family:684
+31612017_37048	635	661	Mutations in SYNE1 (ARCA1)	Biomarker
+31612017_37048	648	653	SYNE1	Gene-protein	HGNC:17089
+31612017_37048	655	660	ARCA1	Gene-protein	HGNC:17089
+31612017_37048	686	730	autosomal recessive cerebellar ataxia type-1	Disease	DOID:0111618
+31612017_37048	757	760	CPP	Disease	DOID:2626
+31612017_37048	791	797	ataxia	Biomarker	D001259
+31612017_37048	836	841	SYNE1	Gene-protein
+31612017_37048	836	861	SYNE1 and STK36 mutations	Biomarker
+31612017_37048	846	851	STK36	Gene-protein	HGNC:17209
+31612017_37048	877	880	GBM	Disease	DOID:3068
+31612017_37048	928	934	NOTCH1	Gene-protein	HGNC:7881
+31612017_37048	936	953	c.4732_4734delGTG	Variant
+31612017_37048	936	972	c.4732_4734delGTG p. (Val1578delVal)	Collection
+31612017_37048	954	972	p. (Val1578delVal)	Variant	p.Val1578delVal
+31612017_37048	1124	1127	GBM	Disease
+31612017_37048	1136	1155	Mutations in NOTCH1	Biomarker
+31612017_37048	1149	1155	NOTCH1	Gene-protein
+31612017_37048	1213	1239	tyrosine kinase inhibitors	Drug-class
+31612017_37048	1248	1288	Frameshift-deletion in exon 26 of NOTCH1	Biomarker
+31612017_37048	1282	1288	NOTCH1	Gene-protein
+31612017_37048	1377	1382	KDM5C	Gene-protein	HGNC:11114
+31612017_37048	1399	1437	Jumonji. AT-rich interactive domain 1c	Gene-protein	HGNC:11114
+31612017_37048	1439	1446	JARID1C	Gene-protein	HGNC:11114
+31612017_37048	1439	1446	JARID1C	Biomarker	C086877
+31612017_37048	1460	1479	histone demethylase	Genefamily	family:485
+31612017_37048	1528	1546	mental retardation	Disease	D008607
+31612017_37048	1528	1563	mental retardation and microcephaly	Collection
+31612017_37048	1551	1563	microcephaly	Disease	DOID:10907
+31612017_37048	1591	1625	alteration in chromatin remodeling	Biomarker
+31612017_37048	1649	1652	CPP	Disease
+31612017_37048	1701	1721	choroid plexus tumor	Disease	DOID:3540
+31612017_37048	1796	1801	tumor	Disease
+31612017_37048	1811	1901	mutations in enzymes responsible for chromatin remodeling, including PARP, SMARCA4 and ATM	Biomarker
+31612017_37048	1880	1884	PARP	Genefamily
+31612017_37048	1886	1893	SMARCA4	Gene-protein	HGNC:11100
+31612017_37048	1898	1901	ATM	Gene-protein	HGNC:795
+31612017_37048	1917	1922	GATA2	Gene-protein	HGNC:4171
+31612017_37048	1929	1937	c.967C>T	Variant
+31612017_37048	1929	1952	c.967C>T p. (His323Tyr)	Collection
+31612017_37048	1938	1952	p. (His323Tyr)	Variant	P.His323Tyr
+31612017_37048	2085	2124	missense mutation detected in the GATA2	Biomarker
+31612017_37048	2119	2124	GATA2	Gene-protein
+31612017_37048	2180	2190	GBM tumors	Disease	DOID:3068
+31612017_37048	2192	2197	GATA2	Biomarker	C494711
+31612017_37048	2192	2197	GATA2	Gene-protein
+31612017_37048	2252	2278	hematopoietic malignancies	Disease	DOID:2531
+31612017_37048	2252	2355	hematopoietic malignancies, and this transcription factor has been implicated in prostate tumorigenesis	Collection
+31612017_37048	2333	2355	prostate tumorigenesis	Disease	DOID:10283
+

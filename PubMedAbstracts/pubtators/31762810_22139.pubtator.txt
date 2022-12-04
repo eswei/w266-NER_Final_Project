@@ -1,0 +1,44 @@
+31762810_22139|t|RSS_IDENT_p_31762810_b_1_4_3
+31762810_22139|a| Ma et al. elucidated the relationship between LOC554202 and miR-31 in chordoma 34 . They found that up-regulation of LOC554202 was associated with a decreased level of miR-31 in chordoma tissues. Moreover, silencing of LOC554202 or upregulation of miR-31 could repress the proliferation and migration/ invasion of chordoma cells. In laryngeal squamous cell carcinoma (LSCC), Yang et al. observed that the expression of miR-31 was negatively correlated with the expression of LOC55420 35 . Overexpression of LOC554202 increased Hep-2 cell proliferation, cell cycle and invasion and overexpression of miR-31 inhibited Hep-2 cell proliferation, cell cycle and invasion. Consequently, these studies suggested that miR-31 was a tumor repressor in tumor. Contrary to these conclusions, Xi and colleagues reported that over-expression of miR-31, as a oncomir, significantly enhanced proliferation and tumorigenicity of lung cancer cells whereas downregulation of miR-31 repressed proliferation of lung cancer cells 36 . We are still a bit confused about the relationship between LOC554202 and miR-31, and also their biological functions in tumors. These studies indicated that LOC554202 and miR-31 may play different roles in different tumors. 
+31762810_22139	76	85	LOC554202	Rna-noncoding	HGNC:37187
+31762810_22139	90	96	miR-31	Rna-noncoding	HGNC:31630
+31762810_22139	100	108	chordoma	Disease	DOID:3302
+31762810_22139	130	156	up-regulation of LOC554202	Biomarker
+31762810_22139	147	156	LOC554202	Rna-noncoding
+31762810_22139	179	204	decreased level of miR-31	Biomarker
+31762810_22139	198	204	miR-31	Rna-noncoding
+31762810_22139	208	216	chordoma	Disease
+31762810_22139	236	258	silencing of LOC554202	Drug	not found
+31762810_22139	236	284	silencing of LOC554202 or upregulation of miR-31	Collection
+31762810_22139	249	258	LOC554202	Rna-noncoding
+31762810_22139	262	284	upregulation of miR-31	Drug	not found
+31762810_22139	278	284	miR-31	Rna-noncoding
+31762810_22139	344	352	chordoma	Disease
+31762810_22139	363	396	laryngeal squamous cell carcinoma	Disease	DOID:2876
+31762810_22139	398	402	LSCC	Disease	DOID:2876
+31762810_22139	435	470	expression of miR-31 was negatively	Biomarker
+31762810_22139	449	455	miR-31	Rna-noncoding
+31762810_22139	491	513	expression of LOC55420	Biomarker
+31762810_22139	505	513	LOC55420	Rna-noncoding
+31762810_22139	537	546	LOC554202	Rna-noncoding
+31762810_22139	557	562	Hep-2	Cellline
+31762810_22139	629	635	miR-31	Rna-noncoding
+31762810_22139	646	651	Hep-2	Cellline
+31762810_22139	740	746	miR-31	Rna-noncoding
+31762810_22139	772	777	tumor	Disease	DOID:162
+31762810_22139	842	905	over-expression of miR-31, as a oncomir, significantly enhanced	Biomarker
+31762810_22139	861	867	miR-31	Rna-noncoding
+31762810_22139	942	953	lung cancer	Disease	DOID:1324
+31762810_22139	968	992	downregulation of miR-31	Drug
+31762810_22139	986	992	miR-31	Rna-noncoding
+31762810_22139	1020	1031	lung cancer	Disease
+31762810_22139	1102	1111	LOC554202	Rna-noncoding
+31762810_22139	1116	1122	miR-31	Rna-noncoding
+31762810_22139	1163	1169	tumors	Disease	DOID:162
+31762810_22139	1200	1209	LOC554202	Rna-noncoding
+31762810_22139	1200	1209	LOC554202	Biomarker	C000622485
+31762810_22139	1200	1220	LOC554202 and miR-31	Collection
+31762810_22139	1214	1220	miR-31	Rna-noncoding
+31762810_22139	1214	1220	miR-31	Biomarker	C534612
+31762810_22139	1259	1265	tumors	Disease
+

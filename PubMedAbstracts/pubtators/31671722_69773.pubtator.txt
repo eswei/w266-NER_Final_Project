@@ -1,0 +1,57 @@
+31671722_69773|t|RSS_IDENT_p_31671722_b_1_5_2
+31671722_69773|a| The authors declare no conflict of interest. Abbreviations 5-HT 5-hydroxytryptamine ATRX Alpha-thalassemia/mental retardation syndrome X-linked protein ATRXt Truncated ATRX c-fos c-FBJ osteosarcoma oncogene c-kit c-KIT proto-oncogene receptor tyrosine kinase ChIP Chromatin immunoprecipitation ChRO1 Chromatin reorganization 1 CSK Cytoskeletal DAPI 4′,6-diamidino-2-phenylindole EGS Ethylene glycol bis(succinimidyl succinate) FISH Fluorescence In Situ Hybridization FL-ATRX Full-length ATRX GABA γ-aminobutyric acid Gapdh Glyceraldehyde 3 phosphate dehydrogenase GFAP Glial fibrillary acidic protein H3K9me3 Trimethylated H3-Lys9 H4K20me4 Trimethylated H4-Lys20 HDAC1 Histone deacetylase 1 HP1 Heterochromatin protein 1 ko Knockout LNA Locked nucleic acids MajSat Major satellite MajSat-fw Major satellite forward MeCP2 Methyl-CpG binding protein 2 mESC Murine embryonic stem cell Mxd4 Max dimerization protein 4 ncRNAs Non-coding RNAs NGS Normal goat serum PCH Pericentric heterochromatin PHD Plant homeodomain PRC2 Polycomb-repressive complex 2 qPCR Quantitative PCR RT-qPCR qPCR after reverse transcription RTT Rett syndrome SDK Suv3(9)h1 and h2 double knock-out Sin3A Switch-independent 3A SNF2 Sucrose Non-Fermentable 2 SUMO Small ubiquitin-like modifier Suv39H1-H2 Suppressor of variegation 3-9 homolog 1-2 SWI/SNF SWItch/Sucrose Non-Fermentable TH Tyrosine hydroxylase TSS Transcriptional start site VRC Vanadyl ribonucleoside complex WT Wild-type Xist X-inactive specific transcript
+31671722_69773	89	93	5-HT	Chemical
+31671722_69773	94	113	5-hydroxytryptamine	Chemical
+31671722_69773	114	118	ATRX	Gene-protein
+31671722_69773	119	181	Alpha-thalassemia/mental retardation syndrome X-linked protein	Gene-protein
+31671722_69773	198	202	ATRX	Gene-protein
+31671722_69773	203	208	c-fos	Gene-protein
+31671722_69773	209	236	c-FBJ osteosarcoma oncogene	Gene-protein
+31671722_69773	237	242	c-kit	Gene-protein
+31671722_69773	243	288	c-KIT proto-oncogene receptor tyrosine kinase	Gene-protein
+31671722_69773	273	281	tyrosine	Chemical
+31671722_69773	324	329	ChRO1	Rna-noncoding
+31671722_69773	330	356	Chromatin reorganization 1	Rna-noncoding
+31671722_69773	374	378	DAPI	Chemical
+31671722_69773	379	456	4′,6-diamidino-2-phenylindole EGS Ethylene glycol bis(succinimidyl succinate)	Chemical
+31671722_69773	500	504	ATRX	Gene-protein
+31671722_69773	517	521	ATRX	Gene-protein
+31671722_69773	522	526	GABA	Chemical
+31671722_69773	527	546	γ-aminobutyric acid	Chemical
+31671722_69773	547	552	Gapdh	Gene-protein
+31671722_69773	553	579	Glyceraldehyde 3 phosphate	Chemical
+31671722_69773	553	593	Glyceraldehyde 3 phosphate dehydrogenase	Gene-protein
+31671722_69773	594	598	GFAP	Gene-protein
+31671722_69773	599	630	Glial fibrillary acidic protein	Gene-protein
+31671722_69773	653	655	H3	Genefamily
+31671722_69773	684	686	H4	Genefamily
+31671722_69773	693	698	HDAC1	Gene-protein
+31671722_69773	699	720	Histone deacetylase 1	Gene-protein
+31671722_69773	721	724	HP1	Gene-protein
+31671722_69773	725	750	Heterochromatin protein 1	Gene-protein
+31671722_69773	845	850	MeCP2	Gene-protein
+31671722_69773	851	857	Methyl	Chemical
+31671722_69773	851	879	Methyl-CpG binding protein 2	Gene-protein
+31671722_69773	912	916	Mxd4	Gene-protein
+31671722_69773	917	943	Max dimerization protein 4	Gene-protein
+31671722_69773	1043	1047	PRC2	Genefamily
+31671722_69773	1048	1077	Polycomb-repressive complex 2	Genefamily
+31671722_69773	1141	1144	RTT	Disease	DOID:1206
+31671722_69773	1145	1158	Rett syndrome	Disease	DOID:1206
+31671722_69773	1163	1179	Suv3(9)h1 and h2	Gene-protein
+31671722_69773	1225	1229	SNF2	Gene-protein
+31671722_69773	1230	1237	Sucrose	Chemical
+31671722_69773	1230	1255	Sucrose Non-Fermentable 2	Gene-protein	HGNC:11100
+31671722_69773	1256	1260	SUMO	Genefamily
+31671722_69773	1261	1290	Small ubiquitin-like modifier	Genefamily
+31671722_69773	1291	1301	Suv39H1-H2	Gene-protein
+31671722_69773	1302	1343	Suppressor of variegation 3-9 homolog 1-2	Gene-protein
+31671722_69773	1344	1351	SWI/SNF	Genefamily
+31671722_69773	1352	1382	SWItch/Sucrose Non-Fermentable	Genefamily
+31671722_69773	1359	1366	Sucrose	Chemical
+31671722_69773	1383	1385	TH	Gene-protein
+31671722_69773	1386	1394	Tyrosine	Chemical
+31671722_69773	1386	1406	Tyrosine hydroxylase	Gene-protein
+31671722_69773	1486	1490	Xist	Rna-noncoding
+31671722_69773	1491	1521	X-inactive specific transcript	Rna-noncoding
+

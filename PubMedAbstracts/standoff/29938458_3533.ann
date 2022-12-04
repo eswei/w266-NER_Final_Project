@@ -1,0 +1,73 @@
+T1	Chemical 97 103	copper
+T11	Disease 1059 1072	breast cancer
+T2	Chemical 114 119	amine
+T3	Disease 382 388	cancer
+#6	AnnotatorNotes T3	DOID:162
+T4	Disease 476 481	tumor
+#7	AnnotatorNotes T4	DOID:162
+T5	Disease 515 529	breast cancers
+#8	AnnotatorNotes T5	DOID:1612
+T6	Disease 615 621	tumors
+#9	AnnotatorNotes T6	DOID:162
+T7	Disease 715 728	breast cancer
+#10	AnnotatorNotes T7	DOID:1612
+T12	Gene-Protein 30 43	Lysyl oxidase
+#1	AnnotatorNotes T12	HGNC:6664
+T13	Gene-Protein 45 48	LOX
+#2	AnnotatorNotes T13	HGNC:6664
+T14	Gene-Protein 73 92	LOX-like (LOXL) 1–4
+#5	AnnotatorNotes T14	HGNC:6665, HGNC:6666, HGNC:13869, HGNC:17171
+T15	GeneFamily 172 180	collagen
+#13	AnnotatorNotes T15	family:490
+T16	Gene-Protein 185 192	elastin
+#14	AnnotatorNotes T16	HGNC:3327
+T17	Gene-Protein 259 278	LOX family oxidases
+#15	AnnotatorNotes T17	HGNC:6664
+T18	Gene-Protein 408 411	LOX
+T19	Gene-Protein 428 433	LOXL2
+#16	AnnotatorNotes T19	HGNC:6666
+T20	Gene-Protein 548 553	LOXL2
+T21	Gene-Protein 669 674	LOXL2
+T22	Gene-Protein 783 788	LOXL2
+T23	Gene-Protein 958 963	LOXL2
+T24	Disease 878 939	head and neck, lung, breast, stomach, and esophageal cancers.
+#11	AnnotatorNotes T24	DOID:11934, DOID:1324,DOID:1612,DOID:10534,DOID:5041
+T25	Gene-Protein 1124 1129	LOXL2
+T26	Gene-Protein 1376 1381	LOXL2
+T27	Gene-Protein 1575 1580	LOXL2
+T10	Gene-Protein 1776 1781	LOXL2
+T9	Disease 1802 1805	HCC
+T28	Disease 1608 1611	HCC
+T29	Gene-Protein 1141 1144	LOX
+T30	Disease 1202 1205	HCC
+#3	AnnotatorNotes T30	DOID:684
+T31	Disease 1080 1084	HCCs
+#4	AnnotatorNotes T31	DOID:684
+T32	GeneFamily 1298 1326	transforming growth factor β
+#12	AnnotatorNotes T32	family:1664
+T33	GeneFamily 1328 1333	TGF-β
+#17	AnnotatorNotes T33	family:1664
+T34	Biomarker 236 314	aberrant expression of LOX family oxidases and/or deregulated oxidase activity
+T35	Biomarker 428 433	LOXL2
+#18	AnnotatorNotes T35	C119091
+R1	Association Arg1:T34 Arg2:T3	
+R2	Association Arg1:T35 Arg2:T4	
+T36	Biomarker 548 568	LOXL2 overexpression
+R3	Association Arg1:T36 Arg2:T6	
+T37	Biomarker 659 685	increased LOXL2 expression
+T38	Biomarker 773 799	increased LOXL2 expression
+R4	Association Arg1:T37 Arg2:T7	
+T8	Biomarker 835 855	tumor aggressiveness
+R5	Prognostic-Poor Arg1:T38 Arg2:T24	
+T39	Drug 958 981	LOXL2-specific antibody
+T40	Biomarker 1124 1129	LOXL2
+R6	Response Arg1:T39 Arg2:T11	
+T41	Disease 1286 1293	hypoxia
+#19	AnnotatorNotes T41	D000860
+R7	Association Arg1:T40 Arg2:T30	
+T42	Disease 1646 1653	hypoxic
+#20	AnnotatorNotes T42	D000860
+T43	Biomarker 1575 1580	LOXL2
+T44	Biomarker 1776 1781	LOXL2
+R8	Association Arg1:T43 Arg2:T28	
+#21	AnnotatorNotes T39	not found

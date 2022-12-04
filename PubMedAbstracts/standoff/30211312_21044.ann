@@ -1,0 +1,53 @@
+T11	Biomarker 2169 2331	upregulation of the androgen receptor (AR), estrogen-related genes (ESR1, AGR2, SCUBE2, SCGB2A2, SCGB2A1, TFF1, TFF3), as well as HER2-related genes (ERBB2, GRB7)
+T12	Chemical 2189 2197	androgen
+T13	Chemical 2213 2221	estrogen
+T3	Disease 260 284	metastatic breast cancer
+#6	AnnotatorNotes T3	DOID:1612
+T9	Biomarker 2097 2167	upregulation of epithelial (KRT7, KRT19, MUC1) and EMT (SNAI1) markers
+T1	Gene-Protein 2125 2129	KRT7
+#1	AnnotatorNotes T1	HGNC:6445
+T2	Gene-Protein 2131 2136	KRT19
+#2	AnnotatorNotes T2	HGNC:6436
+T4	Gene-Protein 2138 2142	MUC1
+#3	AnnotatorNotes T4	HGNC:7508
+T5	Gene-Protein 2153 2158	SNAI1
+#4	AnnotatorNotes T5	HGNC:11128
+T6	Gene-Protein 2208 2210	AR
+#5	AnnotatorNotes T6	HGNC:644
+T7	Gene-Protein 2237 2241	ESR1
+#7	AnnotatorNotes T7	HGNC:3467
+T8	Gene-Protein 2243 2247	AGR2
+#8	AnnotatorNotes T8	HGNC:328
+T10	Gene-Protein 2257 2264	SCGB2A2
+#9	AnnotatorNotes T10	HGNC:7050
+T15	Gene-Protein 2266 2273	SCGB2A1
+#10	AnnotatorNotes T15	HGNC:7051
+T16	Gene-Protein 2275 2279	TFF1
+#11	AnnotatorNotes T16	HGNC:11755
+T17	Gene-Protein 2281 2285	TFF3
+#12	AnnotatorNotes T17	HGNC:11757
+T18	Gene-Protein 2299 2303	HER2
+#13	AnnotatorNotes T18	HGNC:3430
+T19	Gene-Protein 2319 2324	ERBB2
+#14	AnnotatorNotes T19	HGNC:3430
+T20	Gene-Protein 2326 2330	GRB7
+#15	AnnotatorNotes T20	HGNC:4567
+T21	Gene-Protein 2436 2441	KRT6A
+#16	AnnotatorNotes T21	HGNC:6443
+T22	Gene-Protein 2443 2448	KRT6B
+#17	AnnotatorNotes T22	HGNC:6444
+T23	Gene-Protein 2450 2455	KRT18
+#18	AnnotatorNotes T23	HGNC:6430
+T24	Gene-Protein 2249 2255	SCUBE2
+#19	AnnotatorNotes T24	HGNC:30425
+T25	Gene-Protein 2488 2495	ALDH1A1
+#20	AnnotatorNotes T25	HGNC:402
+T26	Biomarker 2378 2495	upregulation of mesenchymal (VIM) and epithelial markers (KRT6A, KRT6B, KRT18), and putative stem cell marker ALDH1A1
+T14	Gene-Protein 2189 2206	androgen receptor
+#21	AnnotatorNotes T14	HGNC:644
+T27	Gene-Protein 2407 2410	VIM
+#22	AnnotatorNotes T27	HGNC:12692
+T28	Gene-Protein 440 445	RPS18
+#23	AnnotatorNotes T28	HGNC:10401
+T29	Gene-Protein 450 454	ACTB
+#24	AnnotatorNotes T29	HGNC:132

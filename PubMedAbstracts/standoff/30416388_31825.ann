@@ -1,0 +1,124 @@
+T0	Biomarker 72 106	aberrant miRNA expression profiles
+T1	Disease 110 112	RA
+#1	AnnotatorNotes T1	DOID:7148
+T10	Biomarker 811 870	negative regulator of MCP-1 in fibroblast-like synoviocytes
+T11	Disease 876 878	RA
+T12	Biomarker 897 947	DNA methylation-mediated downregulation of miR-34a
+T13	Disease 951 953	RA
+T16	Disease 1785 1787	RA
+T18	Biomarker 1906 1928	IκBα was downregulated
+T19	Disease 1932 1934	RA
+T2	Chemical 262 270	cysteine
+T20	Biomarker 1966 1994	upregulated miRNA, miR-16-5p
+T21	Biomarker 2109 2129	downregulated miRNAs
+T22	Disease 2202 2204	RA
+T23	Disease 2453 2455	RA
+T3	Disease 367 369	RA
+T6	Biomarker 642 672	56 miRNAs with aberrant levels
+T7	Disease 676 693	foot and ankle RA
+#11	AnnotatorNotes T7	not found
+T8	Disease 761 763	RA
+T9	Biomarker 792 800	miR-124a
+R1	Association Arg1:T0 Arg2:T1	
+T24	RNA-Noncoding 81 86	miRNA
+#7	AnnotatorNotes T24	family:476
+T25	RNA-Noncoding 230 236	miR-22
+#13	AnnotatorNotes T25	HGNC:31599
+T26	Gene-Protein 262 297	cysteine-rich angiogenic inducer 61
+#14	AnnotatorNotes T26	HGNC:2654
+T27	Gene-Protein 299 304	CYR61
+#15	AnnotatorNotes T27	HGNC:2654
+T28	Biomarker 230 236	miR-22
+#16	AnnotatorNotes T28	C548375
+R2	Association Arg1:T28 Arg2:T3	
+T29	RNA-Noncoding 384 391	MiR-23b
+#10	AnnotatorNotes T29	HGNC:31606
+T30	Gene-Protein 494 498	TAB2
+#17	AnnotatorNotes T30	HGNC:17075
+T31	Gene-Protein 442 466	TGF-β-activated kinase 1
+#18	AnnotatorNotes T31	HGNC:17075
+T32	Gene-Protein 501 505	TAB3
+#19	AnnotatorNotes T32	HGNC:30681
+T33	Gene-Protein 510 515	IKK-α
+#20	AnnotatorNotes T33	HGNC:1974
+T34	Gene-Protein 549 554	IL-17
+#21	AnnotatorNotes T34	HGNC:5981
+T35	Gene-Protein 557 562	TNF-α
+#22	AnnotatorNotes T35	HGNC:11892
+T36	Gene-Protein 567 572	IL-1β
+#23	AnnotatorNotes T36	HGNC:5992
+T37	GeneFamily 596 601	NF-κB
+#24	AnnotatorNotes T37	family:1254
+R3	Association Arg1:T6 Arg2:T7	
+T5	RNA-Noncoding 792 800	miR-124a
+#25	AnnotatorNotes T5	not found
+T38	Gene-Protein 833 838	MCP-1
+#26	AnnotatorNotes T38	HGNC:10618
+T39	Gene-Protein 940 947	miR-34a
+#2	AnnotatorNotes T39	HGNC:31635
+R4	Association Arg1:T12 Arg2:T13	
+T40	Gene-Protein 1065 1069	XIAP
+#3	AnnotatorNotes T40	HGNC:592
+T41	Gene-Protein 1024 1063	X-linked inhibitor of apoptosis protein
+#12	AnnotatorNotes T41	HGNC:592
+T15	Gene-Protein 1089 1097	miR-146a
+#4	AnnotatorNotes T15	HGNC:31533
+T14	Gene-Protein 1168 1173	TRAF6
+#27	AnnotatorNotes T14	HGNC:12036
+T42	Gene-Protein 1116 1166	tumor necrosis factor receptor-associated factor 6
+#28	AnnotatorNotes T42	HGNC:12036
+T43	Gene-Protein 1179 1212	IL-1 receptor-associated kinase 1
+#29	AnnotatorNotes T43	HGNC:6112
+T44	Gene-Protein 1214 1220	IRAK-1
+#30	AnnotatorNotes T44	HGNC:6112
+T45	RNA-Noncoding 1269 1277	miR-7-5p
+#31	AnnotatorNotes T45	family:1736
+T46	Gene-Protein 1335 1340	TNF-α
+T47	GeneFamily 1341 1346	NF-кB
+T48	GeneFamily 1369 1374	NF-кB
+T49	RNA-Noncoding 1469 1479	miR-214-5p
+#32	AnnotatorNotes T49	HGNC:31591
+T50	Gene-Protein 1508 1513	TRAF2
+#33	AnnotatorNotes T50	HGNC:12032
+T51	RNA-Noncoding 1576 1587	miR-181a-5p
+#34	AnnotatorNotes T51	not found
+T52	RNA-Noncoding 1589 1600	miR-181b-5p
+#35	AnnotatorNotes T52	not found
+T53	RNA-Noncoding 1602 1613	miR-181c-5p
+#36	AnnotatorNotes T53	HGNC:31552
+T54	RNA-Noncoding 1618 1629	miR-181d-5p
+#37	AnnotatorNotes T54	HGNC:32089
+T55	Gene-Protein 1658 1663	TNF-α
+T56	Gene-Protein 1870 1875	TNF-α
+T57	Gene-Protein 1876 1881	NF-кB
+T58	Gene-Protein 1906 1910	IκBα
+#5	AnnotatorNotes T58	HGNC:7797
+T17	RNA-Noncoding 1985 1994	miR-16-5p
+#6	AnnotatorNotes T17	not found
+T59	RNA-Noncoding 2035 2039	IκBα
+T60	Biomarker 2143 2161	upregulated miRNAs
+T61	RNA-Noncoding 645 651	miRNAs
+T62	RNA-Noncoding 2123 2129	miRNAs
+T63	RNA-Noncoding 2155 2161	miRNAs
+T64	Collection 2109 2161	downregulated miRNAs but also the upregulated miRNAs
+R5	Association Arg1:T64 Arg2:T22	
+T65	GeneFamily 2216 2225	cytokines
+#8	AnnotatorNotes T65	not found
+T66	Gene-Protein 2234 2239	TNF-α
+T67	Gene-Protein 2241 2246	IL-1β
+T68	Gene-Protein 2251 2256	IL-17
+T69	Gene-Protein 2354 2359	TNF-α
+T70	Gene-Protein 2364 2369	IL-1β
+T71	Gene-Protein 2381 2389	miR-146a
+T72	Gene-Protein 2412 2417	IL-17
+T73	RNA-Noncoding 2431 2438	miR-23b
+#40	AnnotatorNotes T73	HGNC:31606
+T74	Gene-Protein 2488 2493	TNF-α
+T75	Gene-Protein 2497 2502	IL-1β
+T76	RNA-Noncoding 2520 2528	miR-7-5p
+#9	AnnotatorNotes T9	C509207
+T4	Gene-Protein 467 492	MAP3K7- binding protein 2
+#39	AnnotatorNotes T4	HGNC:17075
+R6	Association Arg1:T9 Arg2:T11	
+R7	Association Arg1:T18 Arg2:T19	
+R8	Association Arg1:T20 Arg2:T19	

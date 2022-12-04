@@ -1,0 +1,53 @@
+30518875_2836|t|RSS_IDENT_p_30518875_b_1_1_3
+30518875_2836|a| Ribonucleotide reductase (RNR) catalyzes the rate-limiting step in the biosynthesis of dNTPs, which are essential for DNA replication and DNA damage repair [ 5 ]. RNR consists of two RRM1 subunits and two RRM2 subunits [ 6 ]. The relevance of RRM2 to cancer is underscored by the fact that RRM2 is overexpressed in gastric, ovarian, bladder and colorectal cancers [ 7 – 11 ], and that RRM2 overexpression contributes to gemcitabine resistance in human oral [ 12 ] and pancreatic [ 13 ] cancer cells. Furthermore, overexpression of RRM2 in breast cancer cells causes resistance to tamoxifen [ 14 ]. Therefore, inhibitors of RRM2, such as hydroxyurea (HU), 3-aminopyridine-2-carboxaldehyde thiosemicarbazone (3-AP, Triapine) and antisense GTI-2040, are currently used to treat chronic myelogenous leukemia and head and neck cancer [ 15 , 16 ]. Targeting RRM2 is also a strategy for overcoming gemcitabine resistance [ 17 ]. For example, COH29 (a RRM2 inhibitor currently in a phase I clinical trial) inhibits the growth of cancer cells that are resistant to HU and gemcitabine [ 18 , 19 ]. Another RRM2 inhibitor, GW8510, has been reported to suppress colorectal cancer growth [ 20 ]. Together, these studies demonstrate that RRM2 is an important target for the development of novel anticancer drugs [ 5 ]. RRM2B is one small subunit of RRM2, which is induced by p53 and required for DNA repair and mtDNA synthesis [ 21 , 22 ]. 
+30518875_2836	30	44	Ribonucleotide	Chemical
+30518875_2836	30	54	Ribonucleotide reductase	Genefamily	not found
+30518875_2836	56	59	RNR	Genefamily	not found
+30518875_2836	117	122	dNTPs	Chemical
+30518875_2836	193	196	RNR	Genefamily
+30518875_2836	213	217	RRM1	Gene-protein	HGNC:10451
+30518875_2836	235	239	RRM2	Gene-protein	HGNC:10452
+30518875_2836	273	277	RRM2	Gene-protein
+30518875_2836	281	287	cancer	Disease	DOID:162
+30518875_2836	320	324	RRM2	Gene-protein
+30518875_2836	320	341	RRM2 is overexpressed	Biomarker
+30518875_2836	345	393	gastric, ovarian, bladder and colorectal cancers	Disease	DOID:10534, DOID:2394, DOID:11054, DOID:9256
+30518875_2836	415	419	RRM2	Gene-protein
+30518875_2836	415	434	RRM2 overexpression	Biomarker
+30518875_2836	450	461	gemcitabine	Drug	CHEMBL888
+30518875_2836	482	522	oral [ 12 ] and pancreatic [ 13 ] cancer	Disease	DOID:8618, DOID:1793
+30518875_2836	543	565	overexpression of RRM2	Biomarker
+30518875_2836	561	565	RRM2	Gene-protein
+30518875_2836	569	582	breast cancer	Disease	DOID:1612
+30518875_2836	610	619	tamoxifen	Drug	CHEMBL83
+30518875_2836	639	657	inhibitors of RRM2	Drug-class
+30518875_2836	653	657	RRM2	Gene-protein
+30518875_2836	667	678	hydroxyurea	Drug	CHEMBL467
+30518875_2836	667	775	hydroxyurea (HU), 3-aminopyridine-2-carboxaldehyde thiosemicarbazone (3-AP, Triapine) and antisense GTI-2040	Collection
+30518875_2836	680	682	HU	Drug	CHEMBL467
+30518875_2836	685	735	3-aminopyridine-2-carboxaldehyde thiosemicarbazone	Drug	C078157
+30518875_2836	737	741	3-AP	Drug	C078157
+30518875_2836	743	751	Triapine	Drug	C078157
+30518875_2836	757	775	antisense GTI-2040	Drug	not found
+30518875_2836	805	833	chronic myelogenous leukemia	Disease	DOID:8552
+30518875_2836	805	858	chronic myelogenous leukemia and head and neck cancer	Collection
+30518875_2836	838	858	head and neck cancer	Disease	DOID:11934
+30518875_2836	882	886	RRM2	Gene-protein
+30518875_2836	921	932	gemcitabine	Drug
+30518875_2836	965	970	COH29	Drug	CHEMBL4297421
+30518875_2836	974	978	RRM2	Gene-protein
+30518875_2836	974	988	RRM2 inhibitor	Drug-class
+30518875_2836	1051	1057	cancer	Disease	DOID:162
+30518875_2836	1086	1088	HU	Drug
+30518875_2836	1086	1104	HU and gemcitabine	Collection
+30518875_2836	1093	1104	gemcitabine	Drug
+30518875_2836	1126	1130	RRM2	Gene-protein
+30518875_2836	1126	1140	RRM2 inhibitor	Drug-class
+30518875_2836	1142	1148	GW8510	Drug	C500810
+30518875_2836	1180	1197	colorectal cancer	Disease	DOID:9256
+30518875_2836	1254	1258	RRM2	Gene-protein
+30518875_2836	1254	1258	RRM2	Biomarker	C093713
+30518875_2836	1335	1340	RRM2B	Gene-protein	HGNC:17296
+30518875_2836	1365	1369	RRM2	Gene-protein
+30518875_2836	1391	1394	p53	Gene-protein	HGNC:11998
+

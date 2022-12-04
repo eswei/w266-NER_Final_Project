@@ -1,0 +1,36 @@
+T0	Disease 47 53	21-OHD
+#1	AnnotatorNotes T0	not found
+T10	Disease 784 787	CAH
+#3	AnnotatorNotes T10	DOID:0050811
+T12	Disease 803 816	SW and NC CAH
+#5	AnnotatorNotes T12	not found, C565977
+T13	Disease 874 880	SV CAH
+#6	AnnotatorNotes T13	not found
+T16	Disease 1030 1036	21-OHD
+T18	Disease 1159 1165	NC CAH
+T21	Variant 1476 1485	c.1024C>T
+T22	Variant 1487 1499	p. Arg342Trp
+T24	Disease 1580 1586	SV CAH
+T3	Disease 183 209	SW-, SV- or NC-type 21-OHD
+#13	AnnotatorNotes T3	not found, not found, C565977
+T5	Disease 331 337	SW CAH
+#15	AnnotatorNotes T5	not found
+T6	Disease 561 567	21-OHD
+T7	Disease 599 602	CAH
+#17	AnnotatorNotes T7	DOID:0050811
+T1	Biomarker 77 181	genotype, including point mutations, frame shift mutations and deletion mutations of small DNA fragments
+R1	Association Arg1:T1 Arg2:T0	
+T2	Biomarker 724 752	P30L, I2Gand I172N mutations
+R2	Association Arg1:T2 Arg2:T10	
+T4	Biomarker 949 970	exon 4 I172N mutation
+R3	Association Arg1:T4 Arg2:T13	
+T11	Gene-Protein 1361 1368	CYP21A2
+#2	AnnotatorNotes T11	HGNC:2600
+T15	Variant 1505 1536	heterozygous deletion mutations
+T17	Collection 1476 1536	c.1024C>T (p. Arg342Trp) and heterozygous deletion mutations
+R4	Variant-Of Arg1:T11 Arg2:T17	
+T8	Disease 1244 1261	SV form of 21-OHD
+#7	AnnotatorNotes T8	not found
+T9	Drug-Class 1275 1309	glucocorticoid replacement therapy
+#8	AnnotatorNotes T22	p.Arg342Trp
+R5	Diagnostic-of Arg1:T17 Arg2:T24	

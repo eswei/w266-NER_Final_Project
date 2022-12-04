@@ -1,0 +1,87 @@
+T0	Chemical 34 44	nucleotide
+T1	Disease 192 204	inflammation
+#2	AnnotatorNotes T1	D007249
+T12	Disease 982 987	CINCA
+#4	AnnotatorNotes T12	DOID:0090029
+T13	Disease 988 993	NOMID
+#5	AnnotatorNotes T13	DOID:0090029
+T14	Chemical 1050 1059	cryopyrin
+T15	Disease 1050 1088	cryopyrin-associated periodic syndrome
+#7	AnnotatorNotes T15	DOID:0090029
+T16	Disease 1090 1094	CAPS
+T21	Disease 1315 1335	rheumatoid arthritis
+#9	AnnotatorNotes T21	DOID:7148
+T22	Disease 1344 1359	Crohn's disease
+#10	AnnotatorNotes T22	DOID:8778
+T23	Disease 1372 1398	abdominal aortic aneurysms
+#11	AnnotatorNotes T23	DOID:7693
+T25	Disease 1500 1515	ischemic stroke
+#12	AnnotatorNotes T25	D000083242
+T26	Disease 1684 1694	LAA stroke
+#13	AnnotatorNotes T26	not found
+T29	Disease 1907 1917	LAA stroke
+T3	Disease 675 690	atherosclerosis
+#17	AnnotatorNotes T3	DOID:1936
+T4	Disease 753 789	dominantly inherited periodic fevers
+#19	AnnotatorNotes T4	DOID:0090018
+T5	Disease 791 830	familial cold autoinflammatory syndrome
+#20	AnnotatorNotes T5	DOID:0090061
+T6	Disease 832 836	FCAS
+T7	Disease 839 860	Muckle-Wells syndrome
+#22	AnnotatorNotes T7	DOID:0050854
+T8	Disease 873 932	chronic infantile neurological cutaneous articular syndrome
+#23	AnnotatorNotes T8	DOID:0090029
+T9	Disease 933 980	neonatal onset multisystem inflammatory disease
+#24	AnnotatorNotes T9	DOID:0090029
+T2	Gene-Protein 34 83	nucleotide-binding domain-like receptor protein 3
+#1	AnnotatorNotes T2	HGNC:16400
+T11	Gene-Protein 85 90	NLRP3
+#6	AnnotatorNotes T11	HGNC:16400
+T17	Biomarker 34 104	nucleotide-binding domain-like receptor protein 3 (NLRP3) inflammasome
+R1	Association Arg1:T17 Arg2:T1	
+T18	Gene-Protein 210 215	NLRP3
+T19	Gene-Protein 244 249	NLRP3
+T20	Gene-Protein 313 316	ASC
+#14	AnnotatorNotes T20	HGNC:16608
+T24	Gene-Protein 272 303	apoptosis-associated speck-like
+#15	AnnotatorNotes T24	HGNC:16608
+T32	Gene-Protein 339 348	caspase-1
+#21	AnnotatorNotes T32	HGNC:1499
+T33	Gene-Protein 369 374	NLRP3
+T34	Gene-Protein 475 480	NLRP3
+T35	GeneFamily 528 553	proinflammatory cytokines
+#25	AnnotatorNotes T35	not found
+T36	Gene-Protein 563 568	IL-1β
+#26	AnnotatorNotes T36	HGNC:5992
+T37	Gene-Protein 573 578	IL-18
+#27	AnnotatorNotes T37	HGNC:5986
+T38	Gene-Protein 601 606	NLRP3
+T39	Biomarker 601 619	NLRP3 inflammasome
+#28	AnnotatorNotes T39	C453881
+R2	Association Arg1:T39 Arg2:T3	
+T40	Gene-Protein 696 701	NLRP3
+#29	AnnotatorNotes T6	DOID:0090061
+T10	Collection 774 994	periodic fevers: familial cold autoinflammatory syndrome (FCAS), Muckle-Wells syndrome [ 10 ], and chronic infantile neurological cutaneous articular syndrome/neonatal onset multisystem inflammatory disease (CINCA/NOMID)
+T41	Biomarker 696 742	NLRP3 gene was identified as the genetic locus
+R3	Association Arg1:T41 Arg2:T10	
+#3	AnnotatorNotes T16	DOID:0090029
+T42	Biomarker 1136 1153	variants of NLRP3
+T43	Gene-Protein 1148 1153	NLRP3
+R4	Association Arg1:T42 Arg2:T15	
+T44	Gene-Protein 1195 1200	NLRP3
+T45	Biomarker 1172 1200	hyperactive version of NLRP3
+T46	Gene-Protein 1240 1245	IL-1β
+T47	Gene-Protein 1254 1259	NLRP3
+T48	Biomarker 1254 1274	NLRP3 gene mutations
+T49	Collection 1315 1398	rheumatoid arthritis [ 13 ], Crohn's disease [ 14 ], and abdominal aortic aneurysms
+R5	Association Arg1:T48 Arg2:T49	
+T50	Biomarker 1443 1473	genetic polymorphisms in NLRP3
+T51	Gene-Protein 1468 1473	NLRP3
+R6	Association Arg1:T50 Arg2:T25	
+T52	Biomarker 1641 1660	NLRP3 polymorphisms
+T53	Gene-Protein 1641 1646	NLRP3
+R7	Association Arg1:T52 Arg2:T26	
+T27	Biomarker 1814 1838	NLRP3 gene polymorphisms
+T54	Gene-Protein 1814 1819	NLRP3
+T55	Biomarker 1862 1886	NLRP3 gene polymorphisms
+T56	Gene-Protein 1862 1867	NLRP3

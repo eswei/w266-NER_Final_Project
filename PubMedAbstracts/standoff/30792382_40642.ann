@@ -1,0 +1,88 @@
+T1	Chemical 66 69	Lys
+T11	Disease 838 851	breast cancer
+T12	Biomarker 894 939	Aberrant epigenetic alterations in the genome
+T13	Disease 1068 1081	breast cancer
+T15	Chemical 1285 1291	lysine
+T16	Disease 1421 1426	tumor
+#6	AnnotatorNotes T16	DOID:162
+T17	Biomarker 1460 1467	miR-29a
+T18	Disease 1536 1542	cancer
+#7	AnnotatorNotes T18	DOID:162
+T19	RNA-Noncoding 1550 1557	miR-29a
+T2	Biomarker 161 197	loss of histone H4K20 trimethylation
+T20	Disease 1591 1602	lung cancer
+#8	AnnotatorNotes T20	DOID:1324
+T21	GeneFamily 1645 1648	TET
+T22	Disease 1687 1711	hepatocellular carcinoma
+#10	AnnotatorNotes T22	DOID:684
+T23	Disease 1723 1736	breast cancer
+T24	Biomarker 1830 1870	miR-29a-targeting epigenetics regulators
+T3	Disease 226 239	breast cancer
+#12	AnnotatorNotes T3	DOID:1612
+T4	Biomarker 308 316	SUV420H2
+T5	Disease 378 402	metastatic breast cancer
+#13	AnnotatorNotes T5	DOID:1612
+T6	Disease 510 523	breast cancer
+T9	Disease 701 714	breast cancer
+T25	Gene-Protein 30 38	SUV420H2
+#1	AnnotatorNotes T25	HGNC:28405
+T26	GeneFamily 76 86	histone H4
+#4	AnnotatorNotes T26	family:1939
+R1	Prognostic-Poor Arg1:T2 Arg2:T3	
+T27	Biomarker 321 341	H4K20 trimethylation
+T28	Gene-Protein 308 316	SUV420H2
+#5	AnnotatorNotes T4	 C542918
+T29	Collection 308 341	SUV420H2 and H4K20 trimethylation
+R2	Association Arg1:T29 Arg2:T5	
+T30	Gene-Protein 498 506	SUV420H2
+T31	Biomarker 498 506	SUV420H2
+R3	Association Arg1:T31 Arg2:T6	
+T7	Gene-Protein 584 592	SUV420H2
+T32	RNA-Noncoding 567 574	miR-29a
+#9	AnnotatorNotes T32	HGNC:31616
+T33	Gene-Protein 663 671	SUV420H2
+T8	Biomarker 608 624	loss of H4K20me3
+T34	RNA-Noncoding 801 808	miR-29a
+T10	Gene-Protein 865 873	SUV420H2
+T35	Biomarker 950 965	DNA methylation
+T36	Biomarker 967 987	histone modification
+T37	Biomarker 989 1014	non-coding RNA expression
+T38	Biomarker 1020 1040	chromatin remodeling
+T14	Collection 894 1040	Aberrant epigenetic alterations in the genome including DNA methylation, histone modification, non-coding RNA expression, and chromatin remodeling
+T39	GeneFamily 967 974	histone
+#2	AnnotatorNotes T39	family:864
+R5	Association Arg1:T14 Arg2:T13	
+T40	GeneFamily 1125 1142	Methyltransferase
+#3	AnnotatorNotes T40	family:1398
+T41	GeneFamily 1151 1173	DNA methyltransferases
+#14	AnnotatorNotes T41	not found
+T42	GeneFamily 1175 1180	DNMTs
+#15	AnnotatorNotes T42	not found
+T43	GeneFamily 1229 1232	TET
+#16	AnnotatorNotes T43	family:2049
+T44	GeneFamily 1203 1227	Ten eleven translocation
+#17	AnnotatorNotes T44	family:2049
+T46	Gene-Protein 1316 1320	LSD1
+#19	AnnotatorNotes T46	HGNC:29079
+T47	Gene-Protein 1277 1314	histone lysine-specific demethylase 1
+#20	AnnotatorNotes T47	HGNC:29079
+T48	Gene-Protein 1347 1351	EZH2
+#21	AnnotatorNotes T48	HGNC:3527
+T49	Gene-Protein 1331 1346	zeste homolog 2
+#22	AnnotatorNotes T49	HGNC:3527
+R6	Association Arg1:T17 Arg2:T18	
+T50	RNA-Noncoding 1460 1467	miR-29a
+#23	AnnotatorNotes T17	C532045
+T52	Gene-Protein 1573 1587	DNMT3A and −3B
+#24	AnnotatorNotes T52	HGNC:2978, HGNC:2979
+T53	RNA-Noncoding 1830 1837	miR-29a
+T54	Disease 1909 1922	tumorigenesis
+#11	AnnotatorNotes T54	DOID:162
+R7	Association Arg1:T24 Arg2:T54	
+T55	Biomarker 801 808	miR-29a
+#25	AnnotatorNotes T55	C532045
+R8	Association Arg1:T55 Arg2:T11	
+T45	GeneFamily 1243 1250	histone
+T51	Drug 567 574	miR-29a
+#18	AnnotatorNotes T51	C532045
+R4	Response Arg1:T51 Arg2:T9	

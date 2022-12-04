@@ -1,0 +1,57 @@
+30954949_35954|t|RSS_IDENT_s_30954949_b_1_5_8
+30954949_35954|a| Negative prognostic role of cholesterol pathway activation in human hepatocellular carcinoma Finally, we evaluated the mRNA levels and activity of SREBP2 in a human HCC cohort whose clinicopathological data were available (n=65; online supplementary table S3). We found that SREBP2 mRNA expression did not significantly differ between HCC and corresponding SL (online supplementary figure S26A). In contrast, SREBP2 transcriptional activity was significantly higher in HCC than in SL (online supplementary figure S26A). Furthermore, SREBP2 activity was significantly more elevated in HCC samples with poorer prognosis (HCCP) when compared with those with better prognosis (HCCB). When assessing the relationship between SREBP2 and patients’ clinicopathological data, we found that higher activity of the SREBP2 gene correlates with lower HCC survival rate (P<0.0001; online supplementary figure S26B). This association remained strongly significant after multivariate Cox regression analysis (p<0.0001; online supplementary table S3), thus implying SREBP2 activity as an independent prognostic factor for HCC. No relationship between the transcriptional activity of SREBP2 and other clinicopathological parameters of the patients, including age, gender, aetiology, the presence of cirrhosis, tumour size and tumour grade were detected (online supplementary table S3). A similar correlation with tumour aggressiveness and patients’ survival was detected when assessing the levels of SREBP2 target HMGCR in the same sample collection (online supplementary figure S26C). In addition, a significant, positive correlation between the transcription activity of SREBP2 and the mRNA levels of HMGCR was identified (p<0.0001; online supplementary figure S26D). To further validate these results, we analysed the mRNA expression of additional SREBP2 target genes, including MVK, lanosterol synthase (LSS), and 24-dehydrocholesterol reductase (DHCR24). Noticeably, mRNA expression of these genes correlated with SREBP2 activity in human HCC samples, but not SREBP2 mRNA levels (online supplementary figure S27A–C). Importantly, high levels of MVK, LSS and DHCR24 were all associated with poor patients’ prognosis (online supplementary figure S27D). Supplementary data Altogether, these data demonstrate that upregulation of SREBP2 and its transcriptional programme is a molecular feature of aggressive HCC in humans.
+30954949_35954	58	69	cholesterol	Chemical
+30954949_35954	98	122	hepatocellular carcinoma	Disease	DOID:684
+30954949_35954	149	183	mRNA levels and activity of SREBP2	Biomarker
+30954949_35954	177	183	SREBP2	Gene-protein	HGNC:11290
+30954949_35954	195	198	HCC	Disease	DOID:684
+30954949_35954	305	311	SREBP2	Gene-protein
+30954949_35954	305	327	SREBP2 mRNA expression	Biomarker
+30954949_35954	365	368	HCC	Disease
+30954949_35954	439	445	SREBP2	Gene-protein
+30954949_35954	439	495	SREBP2 transcriptional activity was significantly higher	Biomarker
+30954949_35954	499	502	HCC	Disease
+30954949_35954	563	569	SREBP2	Gene-protein
+30954949_35954	563	610	SREBP2 activity was significantly more elevated	Biomarker
+30954949_35954	614	617	HCC	Disease
+30954949_35954	750	756	SREBP2	Gene-protein
+30954949_35954	811	845	higher activity of the SREBP2 gene	Biomarker
+30954949_35954	834	840	SREBP2	Gene-protein
+30954949_35954	868	871	HCC	Disease
+30954949_35954	1079	1085	SREBP2	Gene-protein
+30954949_35954	1079	1094	SREBP2 activity	Biomarker
+30954949_35954	1135	1138	HCC	Disease
+30954949_35954	1168	1202	transcriptional activity of SREBP2	Biomarker
+30954949_35954	1196	1202	SREBP2	Gene-protein
+30954949_35954	1271	1274	age	Biomarker	D017668
+30954949_35954	1276	1282	gender	Biomarker	D005783
+30954949_35954	1284	1293	aetiology	Biomarker
+30954949_35954	1295	1320	the presence of cirrhosis	Biomarker
+30954949_35954	1322	1333	tumour size	Biomarker
+30954949_35954	1338	1350	tumour grade	Biomarker
+30954949_35954	1425	1431	tumour	Disease	DOID:14566|DOID:162
+30954949_35954	1512	1518	SREBP2	Gene-protein
+30954949_35954	1526	1531	HMGCR	Gene-protein	HGNC:5006
+30954949_35954	1659	1691	transcription activity of SREBP2	Biomarker
+30954949_35954	1685	1691	SREBP2	Gene-protein
+30954949_35954	1700	1720	mRNA levels of HMGCR	Biomarker
+30954949_35954	1715	1720	HMGCR	Gene-protein
+30954949_35954	1863	1869	SREBP2	Gene-protein
+30954949_35954	1894	1897	MVK	Gene-protein	HGNC:7530
+30954949_35954	1899	1909	lanosterol	Chemical
+30954949_35954	1899	1918	lanosterol synthase	Gene-protein	HGNC:6708
+30954949_35954	1920	1923	LSS	Gene-protein	HGNC:6708
+30954949_35954	1930	1951	24-dehydrocholesterol	Chemical
+30954949_35954	1930	1961	24-dehydrocholesterol reductase	Gene-protein	HGNC:2859
+30954949_35954	1963	1969	DHCR24	Gene-protein	HGNC:2859
+30954949_35954	2031	2037	SREBP2	Gene-protein
+30954949_35954	2056	2059	HCC	Disease
+30954949_35954	2077	2083	SREBP2	Gene-protein
+30954949_35954	2147	2181	high levels of MVK, LSS and DHCR24	Biomarker
+30954949_35954	2162	2165	MVK	Gene-protein
+30954949_35954	2167	2170	LSS	Gene-protein
+30954949_35954	2175	2181	DHCR24	Gene-protein
+30954949_35954	2327	2383	upregulation of SREBP2 and its transcriptional programme	Biomarker
+30954949_35954	2343	2349	SREBP2	Gene-protein
+30954949_35954	2421	2424	HCC	Disease
+

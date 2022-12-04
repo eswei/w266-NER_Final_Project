@@ -1,0 +1,39 @@
+30145601_15169|t|RSS_IDENT_p_30145601_b_1_4_3
+30145601_15169|a| Initially, our results implied that decreased serum NGF level might be associated with the incidence to DPN. NGF was a neurotrophic factor, which played a significant role in the adult peripheral nervous system and has been studied as a potential therapy for DPN [ 24 ]. NGF is known for affecting the phenotype of mature nociceptors receptors as well as normal development of the embryonic nervous system, and changes in NGF levels are involved in the pathophysiology of chronic pain conditions like neuropathic pain [ 25 ]. Decreased expression of NGF protein and its 2 receptors, TrkA and the neurotrophin receptor p75NTR, are positively correlated with the death of neurons in clinical diabetes, which further confirms that it is associated with the occurrence and development of DPN [ 24 , 26 ]. Moreover, the results of our study showed that increasing NGF level could protect against DPN. Similarly, recent research has suggested that vitamin A may reverse injuries in nerve and restore functional changes caused by DPN upon inducing the expression of NGF [ 27 ]. In addition, Li et al. have suggested that NGF could alleviate high glucose-induced endoplasmic reticulum (ER) stress which triggers progression of DPN, and that treatment with exogenous NGF could repair the structure of the sciatic nerve in DPN rats [ 28 ]. Furthermore, KANG TH et al. found that through upregulation of NFG, diosgenin could release its neuroprotective effect on diabetic peripheral neuropathy in diabetic rodent model [ 29 ], which is coincident with the findings of our study. 
+30145601_15169	66	91	decreased serum NGF level	Biomarker
+30145601_15169	82	85	NGF	Gene-protein	HGNC:7808
+30145601_15169	134	137	DPN	Disease	DOID:9743
+30145601_15169	139	142	NGF	Gene-protein
+30145601_15169	289	292	DPN	Disease
+30145601_15169	301	304	NGF	Gene-protein
+30145601_15169	352	373	nociceptors receptors	Gene-protein	not found
+30145601_15169	441	462	changes in NGF levels	Biomarker
+30145601_15169	452	455	NGF	Gene-protein
+30145601_15169	502	525	chronic pain conditions	Disease	not found
+30145601_15169	502	547	chronic pain conditions like neuropathic pain	Collection
+30145601_15169	531	547	neuropathic pain	Disease	D009437
+30145601_15169	556	654	Decreased expression of NGF protein and its 2 receptors, TrkA and the neurotrophin receptor p75NTR	Biomarker
+30145601_15169	580	583	NGF	Gene-protein
+30145601_15169	613	617	TrkA	Gene-protein	HGNC:8031
+30145601_15169	648	654	p75NTR	Gene-protein	HGNC:7809
+30145601_15169	720	728	diabetes	Disease	not found
+30145601_15169	720	817	diabetes, which further confirms that it is associated with the occurrence and development of DPN	Collection
+30145601_15169	814	817	DPN	Disease
+30145601_15169	878	898	increasing NGF level	Drug	not found
+30145601_15169	889	892	NGF	Gene-protein
+30145601_15169	921	924	DPN	Disease
+30145601_15169	972	981	vitamin A	Drug	CHEMBL986
+30145601_15169	994	1011	injuries in nerve	Disease	not found
+30145601_15169	1053	1056	DPN	Disease
+30145601_15169	1089	1092	NGF	Gene-protein
+30145601_15169	1144	1147	NGF	Gene-protein
+30145601_15169	1144	1147	NGF	Biomarker	D020932
+30145601_15169	1169	1176	glucose	Chemical
+30145601_15169	1249	1252	DPN	Disease
+30145601_15169	1278	1291	exogenous NGF	Drug	not found
+30145601_15169	1288	1291	NGF	Gene-protein
+30145601_15169	1343	1346	DPN	Disease
+30145601_15169	1423	1426	NFG	Gene-protein
+30145601_15169	1428	1437	diosgenin	Drug	CHEMBL412437
+30145601_15169	1482	1524	diabetic peripheral neuropathy in diabetic	Disease	DOID:9743, not found	Conjunction
+

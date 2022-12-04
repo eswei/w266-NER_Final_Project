@@ -1,0 +1,45 @@
+31754292_24856|t|RSS_IDENT_p_31754292_b_1_5_3
+31754292_24856|a| MiR-30c has been identified to be tumor suppressive and downregulated in various cancers. In esophageal squamous cell carcinoma, downregulated miR-30c inhibited biological behaviors and epithelial-mesenchymal transition of ESCC by directly targeting SNAI1[ 18 ]. In breast cancer, micRNA-30c negatively regulated collagen triple helix repeat containing-1 and suppressed cell proliferation and metastasis[ 5 ]. MiRNA-30c inhibited proliferation of non-small cell lung cancer cells by targeting Rab18[ 19 ]. In our study, we found that downregulation of miR-30c occurred widely in pancreatic cancer, and predicted a poor prognosis. Similarly, miR-30c was downregulated in five pancreatic cancer cell lines compared with HPDE. Consistent with these findings, experiments in vitro and in vivo showed that re-expression of miR-30c significantly inhibited cell proliferation by inducing apoptosis and G1-phase arrest. Bioinformatics prediction analysis was carried out to search for potential targets of miR-30c and identified TWF1 as a promising target. TWF1 was shown to be a target of miR-30c. Furthermore, rescue experiments showed that enforced overexpression of TWF1 could strongly restore the proliferation of miR-30c-overexpressing cells. The TWF1 mRNA level exhibited an inverse correlation with the level of miRNA-30c in both pancreatic cancer patient tissues and subcutaneous tumors derived from nude mice. We concluded that miR-30c might exert its effect by influencing TWF1 expression to inhibit pancreatic cancer proliferation. 
+31754292_24856	30	37	MiR-30c	Rna-noncoding	family:1741
+31754292_24856	30	99	MiR-30c has been identified to be tumor suppressive and downregulated	Biomarker
+31754292_24856	111	118	cancers	Disease	DOID:162
+31754292_24856	123	157	esophageal squamous cell carcinoma	Disease	DOID:7051
+31754292_24856	159	180	downregulated miR-30c	Biomarker
+31754292_24856	173	180	miR-30c	Rna-noncoding	family:1741
+31754292_24856	253	257	ESCC	Disease	DOID:7051
+31754292_24856	280	285	SNAI1	Gene-protein	HGNC:11128
+31754292_24856	296	309	breast cancer	Disease	DOID:1612
+31754292_24856	311	321	micRNA-30c	Rna-noncoding	family:1741
+31754292_24856	311	321	micRNA-30c	Drug	C546086
+31754292_24856	343	384	collagen triple helix repeat containing-1	Gene-protein	HGNC:18831
+31754292_24856	440	449	MiRNA-30c	Rna-noncoding	family:1741
+31754292_24856	440	449	MiRNA-30c	Drug	C546086
+31754292_24856	477	503	non-small cell lung cancer	Disease	DOID:3908
+31754292_24856	523	528	Rab18	Gene-protein	HGNC:14244
+31754292_24856	564	589	downregulation of miR-30c	Biomarker
+31754292_24856	582	589	miR-30c	Genefamily
+31754292_24856	609	626	pancreatic cancer	Disease	DOID:1793
+31754292_24856	671	678	miR-30c	Rna-noncoding
+31754292_24856	671	696	miR-30c was downregulated	Biomarker
+31754292_24856	705	722	pancreatic cancer	Disease
+31754292_24856	748	752	HPDE	Cellline
+31754292_24856	831	855	re-expression of miR-30c	Drug	not found
+31754292_24856	848	855	miR-30c	Rna-noncoding
+31754292_24856	1028	1035	miR-30c	Rna-noncoding
+31754292_24856	1051	1055	TWF1	Gene-protein	HGNC:9620
+31754292_24856	1079	1083	TWF1	Gene-protein
+31754292_24856	1112	1119	miR-30c	Rna-noncoding
+31754292_24856	1174	1196	overexpression of TWF1	Biomarker
+31754292_24856	1192	1196	TWF1	Gene-protein
+31754292_24856	1241	1248	miR-30c	Rna-noncoding
+31754292_24856	1275	1279	TWF1	Gene-protein
+31754292_24856	1275	1290	TWF1 mRNA level	Biomarker
+31754292_24856	1333	1351	level of miRNA-30c	Biomarker
+31754292_24856	1342	1351	miRNA-30c	Rna-noncoding
+31754292_24856	1360	1377	pancreatic cancer	Disease
+31754292_24856	1398	1417	subcutaneous tumors	Disease	DOID:162
+31754292_24856	1460	1467	miR-30c	Rna-noncoding
+31754292_24856	1460	1467	miR-30c	Drug
+31754292_24856	1506	1510	TWF1	Gene-protein
+31754292_24856	1533	1550	pancreatic cancer	Disease
+

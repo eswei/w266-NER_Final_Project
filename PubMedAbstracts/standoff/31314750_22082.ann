@@ -1,0 +1,74 @@
+T0	Disease 88 100	osteoporosis
+#1	AnnotatorNotes T0	DOID:11476
+T11	Gene-Protein 477 480	OCN
+T12	Disease 518 530	osteoporosis
+T14	Disease 690 702	osteoporosis
+T15	Disease 756 768	osteoporosis
+T16	Drug 810 817	sesamin
+T17	Disease 863 875	osteoporosis
+T18	Drug 906 913	sesamin
+T19	Gene-Protein 939 942	OSX
+T20	Gene-Protein 961 964	OCN
+T21	Drug 1081 1088	sesamin
+T22	Gene-Protein 1122 1125	OCN
+T23	Disease 1152 1164	osteoporosis
+T24	Drug 1247 1254	sesamin
+T25	Disease 1358 1370	osteoporosis
+T4	Gene-Protein 162 165	OCN
+T5	Disease 220 232	osteoporosis
+T6	Disease 248 260	osteoporosis
+T8	Gene-Protein 305 308	OCN
+T1	GeneFamily 102 105	ALP
+#2	AnnotatorNotes T1	family:1072
+T2	Gene-Protein 114 117	OSX
+#6	AnnotatorNotes T2	HGNC:17321
+T3	Gene-Protein 126 130	SOX9
+#8	AnnotatorNotes T3	HGNC:11204
+T7	Gene-Protein 139 144	RUNX2
+#9	AnnotatorNotes T7	HGNC:10472
+T9	Biomarker 102 105	ALP
+#10	AnnotatorNotes T9	D000469
+T10	Biomarker 114 117	OSX
+#11	AnnotatorNotes T10	C478163
+T13	Biomarker 126 130	SOX9
+#12	AnnotatorNotes T13	D055758
+T26	Biomarker 139 144	RUNX2
+#14	AnnotatorNotes T26	C493709
+#16	AnnotatorNotes T4	HGNC:1043
+T27	Biomarker 162 165	OCN
+#19	AnnotatorNotes T27	C000628935
+T28	Collection 102 165	ALP [ 24 ], OSX [ 25 ], SOX9 [ 26 ], RUNX2 [ 27 , 28 ], and OCN
+R1	Association Arg1:T28 Arg2:T5	
+T29	Biomarker 272 308	lower ALP, OSX, SOX9, RUNX2, and OCN
+T30	Gene-Protein 278 281	ALP
+T31	Gene-Protein 283 286	OSX
+T32	Gene-Protein 288 292	SOX9
+T33	Gene-Protein 294 299	RUNX2
+R2	Association Arg1:T29 Arg2:T6	
+T34	Gene-Protein 351 356	RUNX2
+T35	Gene-Protein 450 453	ALP
+T36	Gene-Protein 455 458	OSX
+T37	Gene-Protein 460 464	SOX9
+T38	Gene-Protein 466 471	RUNX2
+T39	Biomarker 477 480	OCN
+T40	Biomarker 466 471	RUNX2
+T41	Biomarker 460 464	SOX9
+T42	Biomarker 455 458	OSX
+T43	Biomarker 450 453	ALP
+T44	Collection 450 480	ALP, OSX, SOX9, RUNX2, and OCN
+R3	Association Arg1:T44 Arg2:T12	
+T45	GeneFamily 609 612	Wnt
+#3	AnnotatorNotes T45	family:360
+T46	GeneFamily 613 622	β-catenin
+#17	AnnotatorNotes T46	family:1542
+T47	Biomarker 609 630	Wnt/β-catenin pathway
+R4	Association Arg1:T47 Arg2:T14	
+#4	AnnotatorNotes T16	CHEMBL252915
+T48	Gene-Protein 934 937	ALP
+T49	Gene-Protein 944 948	SOX9
+T50	Gene-Protein 950 955	RUNX2
+T51	GeneFamily 991 994	Wnt
+T52	GeneFamily 995 1004	β-catenin
+R6	Protects-from Arg1:T24 Arg2:T25	
+T53	GeneFamily 1393 1402	β-catenin
+T54	GeneFamily 1389 1392	Wnt

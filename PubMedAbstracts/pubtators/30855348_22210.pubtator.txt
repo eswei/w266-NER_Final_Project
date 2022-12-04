@@ -1,0 +1,51 @@
+30855348_22210|t|RSS_IDENT_p_30855348_b_1_4_3
+30855348_22210|a| Part of PE was found to have a close correlation with FAO dysfunction. The FAO disorders were important in the pathogenesis of PE and were closely related to pathological pregnancy such as acute fatty liver of pregnancy and hemolysis, elevated liver enzymes and low platelet (HELLP) syndrome. [¹⁴] In some patients with PE, fatty infiltration of liver and placenta and increased levels of serum triglycerides and FFA existed. [¹⁵] Minakami et al [¹⁶] performed Oil Red O staining in the liver tissue of 41 patients with PE and liver dysfunction, showing various degrees of fatty disposition in the livers of the patients. Hubel et al [¹⁷] found that compared with normal pregnancy, the serum levels of triglyceride and FFA in patients with PE increased nearly twice and were positively correlated with the concentration of lipid peroxide malondialdehyde. The exploration of the pathogenic mechanism of FAO disorders indicated the involvement of LCHAD, an important enzyme for the oxidation of long-chain fatty acids. Previous studies have shown that fetal LCHAD deficiency was often associated with maternal acute fatty liver or HELLP syndrome. [¹⁸] Both domestic and international studies have shown an abnormal expression of LCHAD gene in some patients with PE. A previous study found that the placental expression of LCHAD was significantly reduced in PE with liver damage, whose onset time was less than 28 weeks or 28 to 32 weeks, suggesting that the occurrence of early-onset severe PE was associated with FAO disorders. [³] This study also observed lipid deposition and decreased protein expression of LCHAD in the liver and placenta and elevated serum FFA levels in the L-NAME PE-like mouse model. 
+30855348_22210	38	40	PE	Disease	DOID:10591
+30855348_22210	84	99	FAO dysfunction	Biomarker
+30855348_22210	105	118	FAO disorders	Biomarker
+30855348_22210	157	159	PE	Disease
+30855348_22210	157	263	PE and were closely related to pathological pregnancy such as acute fatty liver of pregnancy and hemolysis	Collection
+30855348_22210	219	249	acute fatty liver of pregnancy	Disease	C537957
+30855348_22210	254	263	hemolysis	Disease	D006461
+30855348_22210	265	287	elevated liver enzymes	Biomarker
+30855348_22210	292	321	low platelet (HELLP) syndrome	Disease	DOID:13133
+30855348_22210	350	352	PE	Disease
+30855348_22210	354	394	fatty infiltration of liver and placenta	Biomarker
+30855348_22210	354	446	fatty infiltration of liver and placenta and increased levels of serum triglycerides and FFA	Collection
+30855348_22210	399	446	increased levels of serum triglycerides and FFA	Biomarker
+30855348_22210	425	438	triglycerides	Chemical
+30855348_22210	550	552	PE	Disease
+30855348_22210	550	574	PE and liver dysfunction	Collection
+30855348_22210	557	574	liver dysfunction	Disease	D008107
+30855348_22210	584	634	various degrees of fatty disposition in the livers	Biomarker
+30855348_22210	716	752	serum levels of triglyceride and FFA	Biomarker
+30855348_22210	732	744	triglyceride	Chemical
+30855348_22210	770	772	PE	Disease
+30855348_22210	805	883	positively correlated with the concentration of lipid peroxide malondialdehyde	Biomarker
+30855348_22210	853	883	lipid peroxide malondialdehyde	Chemical
+30855348_22210	932	945	FAO disorders	Disease	not found
+30855348_22210	975	980	LCHAD	Gene-protein	HGNC:4801
+30855348_22210	975	980	LCHAD	Biomarker
+30855348_22210	1034	1045	fatty acids	Chemical
+30855348_22210	1080	1102	fetal LCHAD deficiency	Biomarker
+30855348_22210	1086	1091	LCHAD	Gene-protein
+30855348_22210	1129	1155	maternal acute fatty liver	Disease	C537957
+30855348_22210	1129	1173	maternal acute fatty liver or HELLP syndrome	Collection
+30855348_22210	1159	1173	HELLP syndrome	Disease	DOID:13133
+30855348_22210	1234	1267	abnormal expression of LCHAD gene	Biomarker
+30855348_22210	1257	1262	LCHAD	Gene-protein
+30855348_22210	1290	1292	PE	Disease
+30855348_22210	1326	1381	placental expression of LCHAD was significantly reduced	Biomarker
+30855348_22210	1350	1355	LCHAD	Gene-protein
+30855348_22210	1385	1405	PE with liver damage	Disease	DOID:10591, not found	Conjunction
+30855348_22210	1519	1521	PE	Disease
+30855348_22210	1542	1555	FAO disorders	Biomarker
+30855348_22210	1586	1602	lipid deposition	Biomarker
+30855348_22210	1586	1700	lipid deposition and decreased protein expression of LCHAD in the liver and placenta and elevated serum FFA levels	Collection
+30855348_22210	1607	1670	decreased protein expression of LCHAD in the liver and placenta	Biomarker
+30855348_22210	1639	1644	LCHAD	Gene-protein
+30855348_22210	1675	1700	elevated serum FFA levels	Biomarker
+30855348_22210	1690	1693	FFA	Chemical
+30855348_22210	1708	1714	L-NAME	Chemical
+30855348_22210	1708	1717	L-NAME PE	Disease	not found
+

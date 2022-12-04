@@ -1,0 +1,51 @@
+T0	Gene-Protein 30 36	RAB22A
+T11	Gene-Protein 579 585	RAB22A
+T12	Gene-Protein 741 747	RAB22A
+T14	Gene-Protein 874 880	RAB22A
+T15	Disease 895 900	tumor
+T16	Gene-Protein 1032 1038	RAB22A
+T18	Disease 1166 1171	tumor
+T19	Gene-Protein 1243 1249	RAB22A
+T2	GeneFamily 56 59	RAS
+#9	AnnotatorNotes T2	family:389
+T3	Disease 119 125	tumors
+#10	AnnotatorNotes T3	DOID:162
+T4	Disease 137 148	lung cancer
+#11	AnnotatorNotes T4	DOID:1324
+T5	Disease 150 158	melanoma
+#12	AnnotatorNotes T5	DOID:1909
+T6	Disease 163 175	osteosarcoma
+#13	AnnotatorNotes T6	DOID:3347
+T7	Gene-Protein 485 491	RAB22A
+T9	Disease 515 539	hepatocellular carcinoma
+#15	AnnotatorNotes T9	DOID:684
+#1	AnnotatorNotes T0	HGNC:9764
+T1	Biomarker 30 106	RAB22A is a member of the RAS oncogene family that is amplified or expressed
+T8	Collection 119 175	tumors, including lung cancer, melanoma and osteosarcoma
+R1	Association Arg1:T1 Arg2:T8	
+T10	GeneFamily 189 193	Rabs
+#2	AnnotatorNotes T10	family:388
+T13	Biomarker 485 511	RAB22A is highly expressed
+R2	Association Arg1:T13 Arg2:T9	
+T17	Biomarker 561 585	overexpression of RAB22A
+T20	Biomarker 864 891	excessive RAB22A activation
+R3	Association Arg1:T20 Arg2:T15	
+T21	Gene-Protein 939 963	early endosome antigen 1
+#3	AnnotatorNotes T21	HGNC:3185
+T22	GeneFamily 1066 1069	RAF
+#4	AnnotatorNotes T22	family:1157
+T23	GeneFamily 1070 1102	mitogen-activated protein kinase
+#5	AnnotatorNotes T23	family:651
+T24	GeneFamily 1103 1106	ERK
+#6	AnnotatorNotes T24	not found
+T25	Drug 1032 1048	RAB22A depletion
+#7	AnnotatorNotes T25	not found
+R4	Causes Arg1:T25 Arg2:T18	
+T26	RNA-Noncoding 1225 1233	miR-193b
+#8	AnnotatorNotes T26	HGNC:32087
+T27	GeneFamily 1262 1265	Ras
+#14	AnnotatorNotes T27	family:389
+T28	Gene-Protein 1323 1329	ERK1/2
+#16	AnnotatorNotes T28	HGNC:6877, HGNC:6871
+T29	GeneFamily 466 470	Rabs
+#17	AnnotatorNotes T15	DOID:162

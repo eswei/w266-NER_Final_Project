@@ -1,0 +1,56 @@
+T0	Chemical 30 39	Vitamin D
+T1	Chemical 60 67	calcium
+T10	Chemical 384 393	vitamin D
+T11	Biomarker 384 404	vitamin D deficiency
+#4	AnnotatorNotes T11	D014808
+T14	Disease 436 474	temporomandibular joint osteoarthritis
+#6	AnnotatorNotes T14	D013705
+T16	Chemical 559 568	vitamin D
+T17	Disease 698 702	TMDs
+T18	Chemical 707 716	vitamin D
+T19	Chemical 756 763	calcium
+T20	Disease 850 854	TMDs
+T23	Chemical 979 988	vitamin D
+T24	Chemical 1018 1028	phosphorus
+T25	Chemical 1033 1040	calcium
+T26	Chemical 1153 1160	calcium
+T27	Chemical 1162 1171	magnesium
+T28	Chemical 1177 1187	phosphorus
+T29	Chemical 1208 1217	vitamin D
+T3	Chemical 141 158	25 (OH) vitamin D
+T30	Disease 1208 1228	vitamin D deficiency
+#20	AnnotatorNotes T30	D014808
+T31	Chemical 1334 1341	calcium
+T32	Chemical 1343 1352	magnesium
+T33	Chemical 1357 1367	phosphorus
+T4	Disease 179 204	musculoskeletal disorders
+#24	AnnotatorNotes T4	DOID:17
+T5	Disease 214 239	chronic low back-leg pain
+#25	AnnotatorNotes T5	not found
+T7	Disease 244 256	fibromyalgia
+#27	AnnotatorNotes T7	DOID:631
+T8	Chemical 282 291	vitamin D
+T9	Disease 303 307	TMDs
+#29	AnnotatorNotes T9	D013705
+T2	Biomarker 117 158	reduced serum levels of 25 (OH) vitamin D
+T12	Collection 179 256	musculoskeletal disorders, such as chronic low back-leg pain and fibromyalgia
+R1	Association Arg1:T11 Arg2:T14	
+R2	Association Arg1:T2 Arg2:T12	
+T15	GeneFamily 525 547	inflammatory cytokines
+#1	AnnotatorNotes T15	not found
+T21	Biomarker 549 575	Decreased vitamin D levels
+T6	Biomarker 877 924	significantly higher parathyroid hormone levels
+R3	Association Arg1:T6 Arg2:T20	
+T13	Biomarker 963 997	serum levels of vitamin D were low
+T22	Biomarker 1018 1028	phosphorus
+T34	Biomarker 1033 1040	calcium
+T35	Biomarker 725 751	parathyroid hormone levels
+T36	Biomarker 707 723	vitamin D status
+T37	Biomarker 756 774	calcium metabolism
+T38	Biomarker 607 658	radiographic changes in the temporomandibular joint
+T39	Chemical 725 744	parathyroid hormone
+T40	Chemical 898 917	parathyroid hormone
+T41	Gene-Protein 1141 1151	calcitonin
+#2	AnnotatorNotes T41	HGNC:1437
+T42	Biomarker 1135 1194	serum calcitonin, calcium, magnesium, and phosphorus levels
+T43	Biomarker 1334 1374	calcium, magnesium and phosphorus levels

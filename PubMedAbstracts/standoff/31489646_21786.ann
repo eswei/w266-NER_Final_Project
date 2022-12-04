@@ -1,0 +1,68 @@
+T0	Gene-Protein 100 104	PTX3
+T1	Disease 231 242	endotoxemia
+T10	Gene-Protein 508 512	PTX3
+T11	Disease 537 543	sepsis
+T12	Disease 577 589	septic shock
+T13	Gene-Protein 690 694	PTX3
+T15	Disease 705 711	sepsis
+T16	Disease 716 728	septic shock
+T18	Disease 927 933	sepsis
+T19	Gene-Protein 1000 1004	PTX3
+T2	Gene-Protein 277 281	PTX3
+T20	Gene-Protein 1032 1036	PTX3
+T22	Disease 1066 1081	atherosclerosis
+#13	AnnotatorNotes T22	DOID:1936
+T23	Gene-Protein 1142 1146	PTX3
+T24	Disease 1309 1315	sepsis
+T25	Disease 1319 1331	septic shock
+T26	Gene-Protein 1401 1405	PTX3
+T3	Disease 321 327	sepsis
+#18	AnnotatorNotes T3	D018805
+T30	Disease 1474 1480	sepsis
+T31	Disease 1485 1497	septic shock
+T33	Gene-Protein 1535 1539	PTX3
+T34	Disease 1578 1584	sepsis
+T35	Gene-Protein 1627 1631	PTX3
+T37	Disease 1674 1680	sepsis
+T38	Disease 1685 1697	septic shock
+T5	Gene-Protein 362 366	PTX3
+T6	Disease 400 406	sepsis
+T7	Disease 411 423	septic shock
+#28	AnnotatorNotes T7	D012772
+T8	Disease 444 450	sepsis
+#1	AnnotatorNotes T0	HGNC:9692
+T4	Gene-Protein 95 98	CRP
+#2	AnnotatorNotes T4	HGNC:2367
+T9	Biomarker 1401 1405	PTX3
+T14	Biomarker 1627 1631	PTX3
+T17	Collection 1674 1697	sepsis and septic shock
+R1	Association Arg1:T14 Arg2:T17	
+T21	Biomarker 1528 1539	plasma PTX3
+R2	Association Arg1:T21 Arg2:T34	
+T27	GeneFamily 1195 1221	pro‐inflammatory cytokines
+#3	AnnotatorNotes T27	not found
+T28	GeneFamily 843 869	Pro‐inflammatory cytokines
+#4	AnnotatorNotes T28	not found
+T29	Gene-Protein 878 883	TNF‐⍺
+#5	AnnotatorNotes T29	HGNC:11892
+T32	Gene-Protein 888 893	IL‐1β
+#6	AnnotatorNotes T32	HGNC:5992
+T36	Gene-Protein 1113 1118	IL‐10
+#7	AnnotatorNotes T36	HGNC:5962
+T39	Biomarker 1032 1036	PTX3
+R3	Association Arg1:T39 Arg2:T22	
+T40	Gene-Protein 1222 1226	IL‐6
+#8	AnnotatorNotes T40	HGNC:6018
+T41	Gene-Protein 1231 1236	TNF‐⍺
+T42	Biomarker 508 533	PTX3 levels were elevated
+T43	Collection 537 589	sepsis patients and were even higher in septic shock
+R4	Association Arg1:T42 Arg2:T43	
+T44	Biomarker 355 373	plasma PTX3 levels
+#9	AnnotatorNotes T1	D019446
+T45	Collection 400 423	sepsis and septic shock
+#10	AnnotatorNotes T39	C077657
+R5	Association Arg1:T44 Arg2:T45	
+T46	Biomarker 690 701	PTX3 levels
+T47	Biomarker 843 920	Pro‐inflammatory cytokines such as TNF‐⍺ and IL‐1β were excessively activated
+T48	Biomarker 1460 1470	SOFA score
+T49	Biomarker 1440 1455	APACHE II score

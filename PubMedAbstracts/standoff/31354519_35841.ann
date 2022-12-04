@@ -1,0 +1,76 @@
+T0	Chemical 75 79	TMAO
+T1	Disease 83 106	cardiovascular diseases
+#2	AnnotatorNotes T1	DOID:1287
+T10	Chemical 712 716	TMAO
+T12	Disease 725 789	transverse aortic constriction (TAC)-induced cardiac hypertrophy
+#5	AnnotatorNotes T12	not found
+T13	Disease 794 802	fibrosis
+#6	AnnotatorNotes T13	D005355
+T15	Disease 876 896	cardiac inflammation
+#7	AnnotatorNotes T15	not found
+T16	Disease 901 909	fibrosis
+T17	Chemical 969 973	TMAO
+T18	Disease 969 998	TMAO-induced cardiac fibrosis
+#10	AnnotatorNotes T18	not found
+T19	Chemical 1063 1067	TMAO
+T2	Disease 158 173	atherosclerosis
+#12	AnnotatorNotes T2	DOID:1936
+T20	Disease 1076 1092	cardiac fibrosis
+T22	Disease 1230 1246	cardiac fibrosis
+T23	Chemical 1253 1257	TMAO
+T25	Chemical 1331 1335	TMAO
+T26	Disease 1331 1361	TMAO-mediated cardiac fibrosis
+#17	AnnotatorNotes T26	not found
+T27	Disease 1414 1430	cardiac fibrosis
+T4	Chemical 175 179	TMAO
+T5	Disease 192 215	endothelial dysfunction
+#21	AnnotatorNotes T5	not found
+T6	Chemical 280 284	TMAO
+T7	Chemical 478 482	TMAO
+T8	Disease 498 514	cardiac fibrosis
+#24	AnnotatorNotes T8	not found
+T9	Chemical 548 555	glucose
+T14	Biomarker 75 79	TMAO
+#1	AnnotatorNotes T14	C005855
+R1	Association Arg1:T14 Arg2:T1	
+T3	Biomarker 175 179	TMAO
+R2	Association Arg1:T3 Arg2:T5	
+T21	Gene-Protein 242 245	PKC
+#3	AnnotatorNotes T21	HGNC:30500
+T24	GeneFamily 246 251	NF-κB
+#9	AnnotatorNotes T24	family:1254
+T28	Gene-Protein 252 258	VCAM-1
+#11	AnnotatorNotes T28	HGNC:12663
+T29	Biomarker 478 482	TMAO
+R3	Association Arg1:T29 Arg2:T31	
+T30	Disease 519 562	inflammation induced by high glucose levels
+#15	AnnotatorNotes T30	not found
+T31	Collection 498 562	cardiac fibrosis and inflammation induced by high glucose levels
+T32	GeneFamily 584 609	proinflammatory cytokines
+#16	AnnotatorNotes T32	not found
+T33	Gene-Protein 610 615	TNF-α
+#19	AnnotatorNotes T33	HGNC:11892
+T34	Gene-Protein 620 625	IL-1β
+#20	AnnotatorNotes T34	HGNC:5992
+T35	Biomarker 712 716	TMAO
+T11	Collection 725 802	transverse aortic constriction (TAC)-induced cardiac hypertrophy and fibrosis
+R4	Association Arg1:T35 Arg2:T11	
+T36	Gene-Protein 813 818	Smad3
+#4	AnnotatorNotes T36	HGNC:6769
+T37	Biomarker 834 852	NLRP3 inflammasome
+T38	Gene-Protein 834 839	NLRP3
+#22	AnnotatorNotes T38	HGNC:16400
+T39	Collection 876 909	cardiac inflammation and fibrosis
+R5	Association Arg1:T37 Arg2:T39	
+T41	Gene-Protein 947 952	NLRP3
+T40	Biomarker 1063 1067	TMAO
+R6	Association Arg1:T40 Arg2:T20	
+T42	Gene-Protein 1123 1128	NLRP3
+T43	Gene-Protein 1184 1189	NLRP3
+T44	Biomarker 1184 1202	NLRP3 inflammasome
+R7	Association Arg1:T44 Arg2:T22	
+T45	Gene-Protein 1311 1316	NLRP3
+T46	Drug 1297 1316	inhibition of NLRP3
+#8	AnnotatorNotes T46	not found
+R8	Response Arg1:T46 Arg2:T26	
+#13	AnnotatorNotes T44	C453881

@@ -1,0 +1,35 @@
+30305036_13335|t|RSS_IDENT_p_30305036_b_1_3_5
+30305036_13335|a| In summary, AA amyloidosis can occur in sickle cell disease. This case report highlights several teaching points. This case emphasizes the importance of increased awareness among nephrologists for AA amyloidosis as a cause of proteinuria in sickle cell disease. Nephrotic-range proteinuria is uncommon in sickle cell disease and kidney biopsy is necessary for diagnosis. Sickle cell disease can cause chronic kidney disease with proteinuria, reduced glomerular filtration rate and is associated with increased mortality [ 1 ]. AA amyloidosis in sickle cell disease may be caused by frequent vaso-occlusive crises so their prevention is important. Although unstudied in sickle cell disease with AA amyloidosis per se, ACE inhibition and hydroxyurea decrease proteinuria so they may limit progression of chronic kidney disease [ 8 , 9 ]. Hydroxyurea decreases frequency of vaso-occlusive pain crises so it might be helpful in limiting progression of renal AA amyloidosis. However, further studies are needed to determine optimal treatment strategies for AA amyloidosis in sickle cell disease. Abbreviations ACR Albumin to creatinine ratio CKD-EPI Chronic Kidney Disease Epidemiology Collaboration GFR Glomerular Filtration Rate SCD Sickle cell disease SLE Systemic lupus erythematosus Authors’ contributions 
+30305036_13335	42	56	AA amyloidosis	Biomarker
+30305036_13335	70	89	sickle cell disease	Disease	DOID:10923
+30305036_13335	227	241	AA amyloidosis	Biomarker
+30305036_13335	256	290	proteinuria in sickle cell disease	Disease	DOID:576, DOID:10923	Conjunction
+30305036_13335	292	319	Nephrotic-range proteinuria	Biomarker	not found
+30305036_13335	335	354	sickle cell disease	Disease
+30305036_13335	401	420	Sickle cell disease	Biomarker	D000755
+30305036_13335	431	470	chronic kidney disease with proteinuria	Disease	not found
+30305036_13335	431	549	chronic kidney disease with proteinuria, reduced glomerular filtration rate and is associated with increased mortality	Collection
+30305036_13335	472	506	reduced glomerular filtration rate	Biomarker
+30305036_13335	540	549	mortality	Disease	D009026
+30305036_13335	557	594	AA amyloidosis in sickle cell disease	Disease	not found, DOID:10923	Conjunction
+30305036_13335	612	642	frequent vaso-occlusive crises	Biomarker
+30305036_13335	699	738	sickle cell disease with AA amyloidosis	Disease	 DOID:10923, not found	Conjunction
+30305036_13335	747	750	ACE	Gene-protein	HGNC:2707
+30305036_13335	747	761	ACE inhibition	Drug	not found
+30305036_13335	747	777	ACE inhibition and hydroxyurea	Collection
+30305036_13335	766	777	hydroxyurea	Drug	CHEMBL467
+30305036_13335	787	798	proteinuria	Disease	DOID:576
+30305036_13335	787	854	proteinuria so they may limit progression of chronic kidney disease	Collection
+30305036_13335	832	854	chronic kidney disease	Disease	DOID:784
+30305036_13335	866	877	Hydroxyurea	Drug	CHEMBL467
+30305036_13335	901	920	vaso-occlusive pain	Biomarker
+30305036_13335	978	998	renal AA amyloidosis	Disease	not found
+30305036_13335	1082	1119	AA amyloidosis in sickle cell disease	Disease	Conjunction
+30305036_13335	1139	1146	Albumin	Gene-protein	HGNC:399
+30305036_13335	1150	1160	creatinine	Chemical
+30305036_13335	1167	1170	CKD	Disease	DOID:784
+30305036_13335	1256	1259	SCD	Disease	DOID:10923
+30305036_13335	1260	1279	Sickle cell disease	Disease	DOID:10923
+30305036_13335	1280	1283	SLE	Disease	DOID:9074
+30305036_13335	1284	1312	Systemic lupus erythematosus	Disease	DOID:9074
+

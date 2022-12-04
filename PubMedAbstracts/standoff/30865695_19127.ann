@@ -1,0 +1,61 @@
+T0	Drug-Class 78 84	NB-UVB
+T11	Disease 1025 1046	systemic inflammation
+#2	AnnotatorNotes T11	not found
+T12	Disease 1059 1076	skin inflammation
+#3	AnnotatorNotes T12	DOID:2723
+T13	Disease 1097 1106	psoriasis
+T14	Drug 1114 1124	etanercept
+T16	Disease 1198 1207	psoriasis
+T18	Gene-Protein 1325 1336	Koebnerisin
+T19	Gene-Protein 1350 1359	Psoriasin
+T2	Drug-Class 372 378	NB-UVB
+T20	Disease 1450 1459	psoriasis
+T4	Disease 514 523	psoriasis
+#11	AnnotatorNotes T4	DOID:8893
+T7	Disease 719 747	systemic lupus erythematosus
+#12	AnnotatorNotes T7	DOID:9074
+T9	Disease 911 933	cardiovascular disease
+#13	AnnotatorNotes T9	DOID:1287
+T1	Gene-Protein 127 136	S100A8/A9
+#1	AnnotatorNotes T1	HGNC:10498, HGNC:10499
+T3	Gene-Protein 424 433	S100A8/A9
+T5	Gene-Protein 768 777	S100A8/A9
+T6	Gene-Protein 1161 1170	S100A8/A9
+T8	Gene-Protein 837 846	S100A8/A9
+T10	Gene-Protein 656 665	S100A8/A9
+T15	Gene-Protein 477 486	S100A8/A9
+T17	Gene-Protein 1584 1593	S100A8/A9
+T22	Gene-Protein 1215 1224	S100A8/A9
+T21	Gene-Protein 973 982	S100A8/A9
+T23	Biomarker 462 493	elevated serum S100A8/A9 levels
+R1	Association Arg1:T23 Arg2:T4	
+T24	Biomarker 828 853	Elevated S100A8/A9 levels
+R2	Risk-Factor Arg1:T24 Arg2:T9	
+T25	Gene-Protein 1482 1488	S100A9
+#4	AnnotatorNotes T25	HGNC:10499
+T26	Gene-Protein 1471 1477	S100A8
+#5	AnnotatorNotes T26	HGNC:10498
+#6	AnnotatorNotes T18	HGNC:21657
+T27	Gene-Protein 1316 1323	S100A15
+#7	AnnotatorNotes T27	HGNC:21657
+#8	AnnotatorNotes T19	HGNC:10497
+T28	Gene-Protein 1342 1348	S100A7
+#9	AnnotatorNotes T28	HGNC:10497
+T29	Biomarker 963 988	increased S100A8/A9 serum
+R3	Association Arg1:T29 Arg2:T11	
+#10	AnnotatorNotes T14	CHEMBL1201572
+T30	Biomarker 1302 1432	expression of S100A15 (Koebnerisin) and S100A7 (Psoriasin) are increased in circulating peripheral blood mononuclear cells (PBMCs)
+R4	Association Arg1:T30 Arg2:T20	
+T31	Biomarker 118 165	elevated S100A8/A9 protein heterocomplex levels
+T32	Biomarker 408 433	serum levels of S100A8/A9
+T33	Biomarker 656 665	S100A8/A9
+T34	Biomarker 762 777	serum S100A8/A9
+T35	Biomarker 1155 1179	serum S100A8/A9 reductio
+T36	Biomarker 1575 1593	elevated S100A8/A9
+T37	Biomarker 1215 1224	S100A8/A9
+#14	AnnotatorNotes T33	C000628745,C000628744
+T38	Disease 169 182	lesional skin
+#15	AnnotatorNotes T38	not found
+T39	Disease 546 559	lesional skin
+R5	Association Arg1:T33 Arg2:T7	
+R6	Association Arg1:T35 Arg2:T16	

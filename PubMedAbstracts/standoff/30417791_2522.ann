@@ -1,0 +1,59 @@
+T0	Biomarker 132 135	HDP
+T1	Disease 324 327	HDP
+T10	Chemical 874 883	uric acid
+T11	Disease 905 908	HDP
+T12	Disease 985 993	acidosis
+#5	AnnotatorNotes T12	DOID:0050758
+T13	Chemical 1020 1028	xanthine
+T14	Chemical 1122 1131	uric acid
+T15	Chemical 1241 1250	uric acid
+T16	Chemical 1334 1343	uric acid
+T17	Chemical 1420 1428	estrogen
+T18	Chemical 1517 1526	uric acid
+T19	Disease 1615 1658	pregnant women who are prone to develop HDP
+T2	Chemical 413 422	uric acid
+T20	Chemical 1697 1706	uric acid
+T21	Chemical 1788 1797	uric acid
+T3	Chemical 447 456	uric acid
+T4	Disease 482 485	HDP
+T5	Disease 592 595	HDP
+T6	Chemical 674 683	uric acid
+T7	Chemical 752 761	uric acid
+T8	Disease 789 801	hypertension
+#21	AnnotatorNotes T8	DOID:10763
+T9	Disease 809 820	proteinuria
+#22	AnnotatorNotes T9	DOID:576
+#1	AnnotatorNotes T0	not found
+T22	Disease 69 115	maternal and perinatal morbidity and mortality
+R1	Association Arg1:T0 Arg2:T22	
+#2	AnnotatorNotes T22	not found, not found
+T23	Disease 242 245	HDP
+#3	AnnotatorNotes T23	not found
+T24	Biomarker 398 428	maternal serum uric acid level
+R2	Association Arg1:T24 Arg2:T1	
+T25	Biomarker 441 456	serum uric acid
+R3	Association Arg1:T25 Arg2:T4	
+T26	Biomarker 648 690	increasing maternal serum uric acid levels
+R4	Association Arg1:T26 Arg2:T5	
+T27	Disease 731 734	HDP
+T28	Biomarker 739 761	elevation of uric acid
+R5	Association Arg1:T28 Arg2:T27	
+T29	Biomarker 861 890	raised serum uric acid levels
+R6	Association Arg1:T29 Arg2:T11	
+T30	Biomarker 924 955	impaired clearance from kidneys
+T31	Biomarker 957 983	increased tissue breakdown
+T32	Biomarker 998 1050	increased activity of xanthine oxidase/dehydrogenase
+T33	Gene-Protein 1020 1050	xanthine oxidase/dehydrogenase
+#4	AnnotatorNotes T33	not found, HGNC:12805
+T34	Biomarker 1094 1131	impaired renal clearance of uric acid
+T35	Biomarker 1135 1169	reduced glomerular filtration rate
+T36	Biomarker 1171 1191	increased absorption
+T37	Biomarker 1196 1215	decreased secretion
+T38	Biomarker 1227 1257	raising serum uric acid levels
+T39	Disease 1272 1275	HDP
+R7	Association Arg1:T38 Arg2:T39	
+T40	Biomarker 1445 1470	increase renal blood flow
+T41	Biomarker 1495 1549	increase in levels of uric acid in the third trimester
+T42	Biomarker 1665 1735	slightly higher levels of serum uric acid during their first trimester
+R8	Association Arg1:T42 Arg2:T19	
+T43	Biomarker 1769 1804	elevation of serum uric acid levels

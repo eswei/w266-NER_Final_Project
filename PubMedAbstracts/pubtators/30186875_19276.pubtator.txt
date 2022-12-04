@@ -1,0 +1,33 @@
+30186875_19276|t|RSS_IDENT_p_30186875_b_1_4_3
+30186875_19276|a| APN is a multipurpose adipokine which is primarily secreted in adipose tissues and then released into the blood, further exerting antidiabetic and anti-inflammatory properties. In accordance with a previous study [ 36 ], we confirmed that APN significantly decreases blood glucose compared with the diabetic group, whereas AS had no obvious effect on blood glucose (Figure 3(b)). In addition, APN was reported to block cannabinoid type 1 receptor [ 37 ] and increase free fatty acid β-oxidation [ 38 ], therefore ameliorating the fat accumulation in the liver. In another study, the level of APN was found to be negatively related to the progression of NAFLD and may be a potential marker to distinguish different stages of NAFLD [ 9 ]. In this study, the serum APN level and hepatic APN expression were also significantly low in the diabetic group (Figure 7(a) and Table 1). However, the underlying molecular mechanism is still largely unknown. In the present study, we have demonstrated beneficial effects of APN on T1DM-induced NAFLD and explored its molecular mechanisms. We demonstrated that APN inhibited T1DM-induced NAFLD via reduction of the expression of FoxO1. Moreover, Akt1 signaling may represent a mechanism by which APN mediated the suppression of FoxO1 in T1DM-induced NAFLD (Figure 7). 
+30186875_19276	30	33	APN	Gene-protein	HGNC:13633
+30186875_19276	52	61	adipokine	Genefamily	not found
+30186875_19276	269	272	APN	Gene-protein
+30186875_19276	303	310	glucose	Chemical
+30186875_19276	329	337	diabetic	Disease	not found
+30186875_19276	353	355	AS	Drug	C553926
+30186875_19276	387	394	glucose	Chemical
+30186875_19276	423	426	APN	Gene-protein
+30186875_19276	449	476	cannabinoid type 1 receptor	Gene-protein	HGNC:2159
+30186875_19276	497	512	free fatty acid	Chemical
+30186875_19276	613	625	level of APN	Biomarker
+30186875_19276	622	625	APN	Gene-protein
+30186875_19276	683	688	NAFLD	Disease	DOID:0080208
+30186875_19276	754	759	NAFLD	Disease
+30186875_19276	786	856	serum APN level and hepatic APN expression were also significantly low	Biomarker
+30186875_19276	792	795	APN	Gene-protein
+30186875_19276	814	817	APN	Gene-protein
+30186875_19276	864	872	diabetic	Disease
+30186875_19276	1041	1044	APN	Gene-protein
+30186875_19276	1041	1044	APN	Drug	D052242
+30186875_19276	1048	1066	T1DM-induced NAFLD	Disease	not found
+30186875_19276	1127	1130	APN	Gene-protein
+30186875_19276	1127	1130	APN	Drug
+30186875_19276	1141	1159	T1DM-induced NAFLD	Disease
+30186875_19276	1164	1200	reduction of the expression of FoxO1	Biomarker
+30186875_19276	1195	1200	FoxO1	Gene-protein	HGNC:3819
+30186875_19276	1212	1216	Akt1	Gene-protein	HGNC:391
+30186875_19276	1262	1265	APN	Gene-protein
+30186875_19276	1294	1299	FoxO1	Gene-protein
+30186875_19276	1303	1321	T1DM-induced NAFLD	Disease
+

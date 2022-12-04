@@ -1,0 +1,95 @@
+T0	Disease 140 154	aaRS disorders
+#1	AnnotatorNotes T0	not found
+T1	Disease 202 215	aaRS diseases
+#2	AnnotatorNotes T1	not found
+T11	Biomarker 677 693	lobular disarray
+T12	Biomarker 695 718	canalicular cholestasis
+T13	Biomarker 720 729	steatosis
+#5	AnnotatorNotes T13	D005234
+T14	Chemical 735 739	iron
+T15	Gene-Protein 785 789	MARS
+T17	Disease 866 891	interstitial lung disease
+#8	AnnotatorNotes T17	DOID:3082
+T18	Chemical 903 914	cholesterol
+T19	Disease 903 926	cholesterol pneumonitis
+T2	Chemical 427 437	amino acid
+T20	Biomarker 936 1021	Autosomal-recessive IARS (encoding isoleucyl-tRNA synthetase) (MIM: <url>) deficiency
+T22	Chemical 971 980	isoleucyl
+T24	Disease 1041 1054	liver disease
+T25	Disease 1056 1065	hypotonia
+T26	Disease 1071 1094	intellectual disability
+#17	AnnotatorNotes T26	DOID:1059
+T3	Gene-Protein 481 486	FARSB
+T30	Chemical 1246 1258	phenylalanyl
+T31	Disease 1284 1329	combined oxidative phosphorylation deficiency
+#22	AnnotatorNotes T31	DOID:0060286
+T32	Biomarker 1353 1372	developmental delay
+T33	Biomarker 1374 1393	refractory seizures
+T34	Biomarker 1399 1414	lactic acidosis
+#25	AnnotatorNotes T34	D000140
+T35	Disease 1474 1495	mitochondrial disease
+#26	AnnotatorNotes T35	D028361
+T5	Chemical 552 561	methionyl
+T6	Disease 612 621	hypotonia
+#29	AnnotatorNotes T6	D009123
+T7	Disease 623 644	endocrine dysfunction
+#30	AnnotatorNotes T7	DOID:28
+T9	Disease 646 659	liver disease
+#31	AnnotatorNotes T9	DOID:409
+T4	Gene-Protein 67 72	FARSB
+#6	AnnotatorNotes T4	HGNC:17800
+T8	Variant 73 82	mutations
+R1	Variant-Of Arg1:T4 Arg2:T8	
+T10	GeneFamily 140 144	aaRS
+#7	AnnotatorNotes T10	family:130
+T16	GeneFamily 202 206	aaRS
+T23	GeneFamily 438 443	aaRSs
+#9	AnnotatorNotes T23	family:130
+T29	Gene-Protein 537 541	MARS
+#11	AnnotatorNotes T29	HGNC:6898
+T37	Gene-Protein 552 577	methionyl-tRNA synthetase
+#14	AnnotatorNotes T37	HGNC:6898
+T38	Biomarker 514 541	recessive mutations in MARS
+T39	Collection 612 659	hypotonia, endocrine dysfunction, liver disease
+R2	Association Arg1:T38 Arg2:T39	
+T40	Biomarker 785 799	MARS mutations
+#10	AnnotatorNotes T19	DOID:3082
+R3	Association Arg1:T40 Arg2:T36	
+T41	Gene-Protein 956 960	IARS
+#12	AnnotatorNotes T41	HGNC:5330
+T42	Gene-Protein 971 996	isoleucyl-tRNA synthetase
+#20	AnnotatorNotes T42	HGNC:5330
+T21	Collection 1041 1094	liver disease, hypotonia, and intellectual disability
+R4	Association Arg1:T20 Arg2:T21	
+T27	Gene-Protein 1163 1168	FARSB
+T43	Biomarker 1170 1226	compound heterozygous mutations in nuclear-encoded FARS2
+T44	Gene-Protein 1221 1226	FARS2
+#13	AnnotatorNotes T44	HGNC:21062
+T45	Gene-Protein 1246 1274	phenylalanyl-tRNA synthetase
+#15	AnnotatorNotes T45	HGNC:21062
+T47	Collection 1353 1414	developmental delay, refractory seizures, and lactic acidosis
+R5	Association Arg1:T47 Arg2:T31	
+T48	GeneFamily 1529 1538	complex I
+#16	AnnotatorNotes T48	family:640
+T49	Biomarker 1529 1561	complex I activity was decreased
+T50	Variant 1606 1615	mutations
+T51	Gene-Protein 1619 1623	IARS
+R7	Variant-Of Arg1:T51 Arg2:T50	
+T52	Gene-Protein 1628 1632	FARS
+T53	Gene-Protein 1634 1638	MARS
+T54	Gene-Protein 1644 1648	IARS
+#18	AnnotatorNotes T52	HGNC:21062
+T55	GeneFamily 1734 1739	aaRSs
+T56	GeneFamily 1750 1791	aaRS-interacting multifunctional proteins
+#19	AnnotatorNotes T56	not found
+T57	Gene-Protein 1792 1797	AIMP1
+#21	AnnotatorNotes T57	HGNC:10648
+T58	Gene-Protein 1799 1804	AIMP2
+#23	AnnotatorNotes T58	HGNC:20609
+T59	Gene-Protein 1810 1815	AIMP3
+#24	AnnotatorNotes T59	HGNC:3212
+T36	Collection 866 926	interstitial lung disease defined by cholesterol pneumonitis
+T60	Biomarker 735 750	iron deposition
+R6	Association Arg1:T43 Arg2:T31	
+T28	Collection 677 750	lobular disarray, canalicular cholestasis, steatosis, and iron deposition
+R8	Association Arg1:T28 Arg2:T9	

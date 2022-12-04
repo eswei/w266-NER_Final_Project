@@ -1,0 +1,53 @@
+29403273_14609|t|RSS_IDENT_p_29403273_b_1_4_3
+29403273_14609|a| Current studies have demonstrated that CyPA is involved in the pathogenesis of several human diseases, such as cardiovascular disease, rheumatoid arthritis, sepsis, viral infection, cancer, nervous system degeneration, asthma, and periodontitis. 18 , 23 – 29 Proteomic analysis has found that the expression of CyPA is upregulated in smokers and particularly notable in COPD smokers. 30 However, alterations of serum CyPA in COPD patients remain unclear. Our present study showed that serum CyPA levels were increased in convalescent COPD patients compared to healthy controls, and further elevated in COPD patients with acute exacerbation. The major reason for the upregulation of serum CyPA concentration in COPD patients may be due to the inflammatory stimuli and oxidative stress. In addition, it has been reported that extracellular CyPA binds to extracellular matrix metalloproteinase inducer (EMMPRIN, CD147) and thereby initiates a cascade of inflammatory processes such as leucocyte chemotaxis and induction of MMP-9 and IL-6 expression. 31 , 32 Therefore, we further evaluated serum concentrations of IL-6 and MMP-9 in COPD patients. Serum levels of IL-6 and MMP-9 were also increased in convalescent COPD patients and further increased in exacerbated COPD patients. Correlation analysis showed that CyPA positively correlated with IL-6 and MMP-9 in COPD patients with acute exacerbation and convalescence phases, suggesting that CyPA can strengthen its effect through the induction of IL-6 and MMP-9 expression.
+29403273_14609	69	73	CyPA	Gene-protein	HGNC:9253
+29403273_14609	69	73	CyPA	Biomarker	D016572
+29403273_14609	141	163	cardiovascular disease	Disease	DOID:1287
+29403273_14609	141	274	cardiovascular disease, rheumatoid arthritis, sepsis, viral infection, cancer, nervous system degeneration, asthma, and periodontitis	Collection
+29403273_14609	165	185	rheumatoid arthritis	Disease	DOID:7148
+29403273_14609	187	193	sepsis	Disease	D018805
+29403273_14609	195	210	viral infection	Disease	DOID:934
+29403273_14609	212	218	cancer	Disease	DOID:162
+29403273_14609	220	247	nervous system degeneration	Disease	DOID:863
+29403273_14609	249	255	asthma	Disease	DOID:2841
+29403273_14609	261	274	periodontitis	Disease	DOID:824
+29403273_14609	341	345	CyPA	Gene-protein
+29403273_14609	341	360	CyPA is upregulated	Biomarker
+29403273_14609	400	404	COPD	Disease	DOID:3083
+29403273_14609	426	451	alterations of serum CyPA	Biomarker
+29403273_14609	447	451	CyPA	Gene-protein
+29403273_14609	455	459	COPD	Disease
+29403273_14609	515	547	serum CyPA levels were increased	Biomarker
+29403273_14609	521	525	CyPA	Gene-protein
+29403273_14609	564	568	COPD	Disease
+29403273_14609	564	669	COPD patients compared to healthy controls, and further elevated in COPD patients with acute exacerbation	Collection
+29403273_14609	632	669	COPD patients with acute exacerbation	Disease	not found
+29403273_14609	696	736	upregulation of serum CyPA concentration	Biomarker
+29403273_14609	718	722	CyPA	Gene-protein
+29403273_14609	740	744	COPD	Disease
+29403273_14609	868	872	CyPA	Gene-protein
+29403273_14609	896	920	matrix metalloproteinase	Genefamily	family:891
+29403273_14609	930	937	EMMPRIN	Gene-protein	HGNC:1116
+29403273_14609	939	944	CD147	Gene-protein	HGNC:1116
+29403273_14609	1050	1055	MMP-9	Gene-protein	HGNC:7176
+29403273_14609	1060	1064	IL-6	Gene-protein	HGNC:6018
+29403273_14609	1141	1145	IL-6	Gene-protein
+29403273_14609	1150	1155	MMP-9	Gene-protein
+29403273_14609	1159	1163	COPD	Disease
+29403273_14609	1174	1224	Serum levels of IL-6 and MMP-9 were also increased	Biomarker
+29403273_14609	1190	1194	IL-6	Gene-protein
+29403273_14609	1199	1204	MMP-9	Gene-protein
+29403273_14609	1241	1245	COPD	Disease
+29403273_14609	1241	1296	COPD patients and further increased in exacerbated COPD	Collection
+29403273_14609	1280	1296	exacerbated COPD	Disease	not found
+29403273_14609	1340	1344	CyPA	Gene-protein
+29403273_14609	1340	1344	CyPA	Biomarker
+29403273_14609	1372	1376	IL-6	Gene-protein
+29403273_14609	1372	1376	IL-6	Biomarker
+29403273_14609	1381	1386	MMP-9	Gene-protein
+29403273_14609	1381	1386	MMP-9	Biomarker
+29403273_14609	1390	1427	COPD patients with acute exacerbation	Disease
+29403273_14609	1470	1474	CyPA	Gene-protein
+29403273_14609	1526	1530	IL-6	Gene-protein
+29403273_14609	1535	1540	MMP-9	Gene-protein
+

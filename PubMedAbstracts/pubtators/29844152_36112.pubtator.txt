@@ -1,0 +1,59 @@
+29844152_36112|t|RSS_IDENT_p_29844152_b_1_7_7
+29844152_36112|a| Important roles for eNOS uncoupling and BH4 deficiency in AAA formation have been recently reported in hph-1 mice, which have a moderate systemic BH4 deficiency because of a global reduction in Gch1 expression. Hph-1 mice treated with Ang II at 0.7 mg/kg per day, show an increased eNOS uncoupling and AAA formation. ⁵ However, the hph-1 mouse has a global BH4 deficiency, affecting all cells and tissues, so is not possible to dissect out how BH4 deficiency mediates the increase in vascular pathology. Notably, in the present studies, Ang II infusion even at a subpressor dose (0.4 mg/kg per day) greatly increased the incidence of AAA in Gch1ᶠˡ/ᶠˡTie2cre mice, associated with eNOS uncoupling and increased aortic eNOS-derived H₂O₂ generation. Vascular H₂O₂ has been previously implicated in the pathology of AAA in various mouse models of AAA, including the Ang II, elastase, and CaCl₂ model. ¹⁶ , ³² , ³³ Indeed, H₂O₂ has been reported to promote MMP-3 (matrix metalloproteinase-3), MMP-9, and MMP-12 expression, which are implicated in extracellular matrix degradation that is important in the pathogenesis of AAA. ³⁴ Administration of polyethylene glycol catalase or overexpression of catalase in VSMC has been reported to reduce the formation of AAA by enhancing VSMC survival and decreasing MMP activity. ³³ We have previously shown that increased endothelial cell superoxide by Nox-2 overexpression is sufficient to predispose mice to AAA formation. ²² Taken together, these data strongly indicate that increased endothelial cell H₂O₂ production because of eNOS uncoupling is sufficient to increase AAA formation. 
+29844152_36112	50	54	eNOS	Gene-protein
+29844152_36112	50	65	eNOS uncoupling	Biomarker
+29844152_36112	50	84	eNOS uncoupling and BH4 deficiency	Collection
+29844152_36112	70	73	BH4	Chemical
+29844152_36112	70	84	BH4 deficiency	Biomarker
+29844152_36112	88	91	AAA	Disease	DOID:7693
+29844152_36112	133	138	hph-1	Disease	not found
+29844152_36112	167	190	systemic BH4 deficiency	Biomarker
+29844152_36112	167	239	systemic BH4 deficiency because of a global reduction in Gch1 expression	Collection
+29844152_36112	176	179	BH4	Chemical
+29844152_36112	204	239	global reduction in Gch1 expression	Biomarker
+29844152_36112	224	228	Gch1	Gene-protein
+29844152_36112	241	246	Hph-1	Disease	not found
+29844152_36112	265	271	Ang II	Drug	CHEMBL3596085
+29844152_36112	302	327	increased eNOS uncoupling	Biomarker
+29844152_36112	332	335	AAA	Disease
+29844152_36112	362	367	hph-1	Disease
+29844152_36112	387	390	BH4	Chemical
+29844152_36112	387	401	BH4 deficiency	Biomarker
+29844152_36112	474	477	BH4	Chemical
+29844152_36112	474	488	BH4 deficiency	Biomarker
+29844152_36112	567	573	Ang II	Drug
+29844152_36112	664	667	AAA	Disease
+29844152_36112	710	714	eNOS	Gene-protein
+29844152_36112	710	725	eNOS uncoupling	Biomarker
+29844152_36112	730	775	increased aortic eNOS-derived H₂O₂ generation	Biomarker
+29844152_36112	747	751	eNOS	Gene-protein
+29844152_36112	760	764	H₂O₂	Chemical
+29844152_36112	777	790	Vascular H₂O₂	Biomarker
+29844152_36112	786	790	H₂O₂	Chemical
+29844152_36112	842	845	AAA	Disease
+29844152_36112	873	876	AAA	Disease
+29844152_36112	892	898	Ang II	Drug
+29844152_36112	900	908	elastase	Genefamily
+29844152_36112	914	919	CaCl₂	Chemical
+29844152_36112	948	952	H₂O₂	Drug	CHEMBL71595
+29844152_36112	982	987	MMP-3	Gene-protein
+29844152_36112	989	1015	matrix metalloproteinase-3	Gene-protein
+29844152_36112	1018	1023	MMP-9	Gene-protein
+29844152_36112	1029	1035	MMP-12	Gene-protein
+29844152_36112	1146	1149	AAA	Disease
+29844152_36112	1172	1200	polyethylene glycol catalase	Drug	not found
+29844152_36112	1172	1230	polyethylene glycol catalase or overexpression of catalase	Collection
+29844152_36112	1192	1200	catalase	Gene-protein
+29844152_36112	1204	1230	overexpression of catalase	Drug	not found
+29844152_36112	1222	1230	catalase	Gene-protein
+29844152_36112	1284	1287	AAA	Disease
+29844152_36112	1319	1342	decreasing MMP activity	Biomarker
+29844152_36112	1330	1333	MMP	Genefamily
+29844152_36112	1377	1438	increased endothelial cell superoxide by Nox-2 overexpression	Biomarker
+29844152_36112	1404	1414	superoxide	Chemical
+29844152_36112	1475	1478	AAA	Disease
+29844152_36112	1543	1612	increased endothelial cell H₂O₂ production because of eNOS uncoupling	Biomarker
+29844152_36112	1570	1574	H₂O₂	Chemical
+29844152_36112	1597	1601	eNOS	Gene-protein
+29844152_36112	1639	1642	AAA	Disease
+

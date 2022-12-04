@@ -1,0 +1,51 @@
+T1	Disease 139 152	breast cancer
+#1	AnnotatorNotes T1	DOID:1612
+T10	Disease 917 930	breast cancer
+T14	Disease 1123 1164	breast CSCs that are resistant to therapy
+#3	AnnotatorNotes T14	not found
+T15	Disease 1288 1301	breast cancer
+T17	Disease 1405 1437	pancreatic ductal adenocarcinoma
+#5	AnnotatorNotes T17	DOID:3498
+T19	Drug 1496 1507	gemcitabine
+T20	Drug 1673 1676	DOX
+T21	Drug 1681 1684	PTX
+T23	Drug 1787 1790	PTX
+T3	Disease 239 252	breast cancer
+T9	Disease 815 818	CSC
+T2	RNA-Noncoding 57 64	miR-155
+#6	AnnotatorNotes T2	HGNC:31542
+T4	RNA-Noncoding 128 135	miR-155
+T5	RNA-Noncoding 656 663	miR-155
+T6	RNA-Noncoding 277 284	miR-155
+T7	RNA-Noncoding 431 438	miR-155
+T8	RNA-Noncoding 177 184	miR-155
+T11	RNA-Noncoding 1759 1766	miR-155
+T12	RNA-Noncoding 674 681	miR-155
+T13	RNA-Noncoding 1622 1629	miR-155
+T16	RNA-Noncoding 1450 1457	miR-155
+T18	RNA-Noncoding 1248 1255	miR-155
+T22	RNA-Noncoding 786 793	miR-155
+T24	RNA-Noncoding 1343 1350	miR-155
+T25	RNA-Noncoding 593 600	miR-155
+T27	RNA-Noncoding 952 959	miR-155
+T26	RNA-Noncoding 844 851	miR-155
+T28	RNA-Noncoding 327 334	miR-155
+T29	RNA-Noncoding 550 557	miR-155
+T30	RNA-Noncoding 1077 1084	miR-155
+T31	Biomarker 1450 1457	miR-155
+#7	AnnotatorNotes T20	CHEMBL53463
+#8	AnnotatorNotes T19	CHEMBL888
+#9	AnnotatorNotes T21	CHEMBL428647
+T32	Gene-Protein 386 393	C/EBP-β
+#10	AnnotatorNotes T32	HGNC:1834
+T33	GeneFamily 409 414	TGF-β
+#11	AnnotatorNotes T33	family:1932
+T34	Gene-Protein 420 426	FOXO3a
+#12	AnnotatorNotes T34	HGNC:3821
+T35	GeneFamily 477 482	TGF-β
+T36	GeneFamily 488 496	cytokine
+#13	AnnotatorNotes T36	not found
+R1	Mediated-Non-Response Arg1:T19 Arg2:T17	
+R2	Mediator Arg1:T19 Arg2:T31	
+T37	Biomarker 1622 1629	miR-155
+#2	AnnotatorNotes T37	C524942

@@ -1,0 +1,49 @@
+31432162_19486|t|RSS_IDENT_p_31432162_b_1_4_3
+31432162_19486|a| Platinum-based drugs, particularly cisplatin, are first-line chemotherapy drugs ( 30 ). miRNAs are involved into the mechanism of cisplatin for the treatment of cancer ( 14 , 31 , 32 ). The epigenetic regulation of insulin like growth factor 1 receptor via miR-1294 is important for cisplatin resistance in ovarian cancer ( 32 ). miR-539 can increase the chemosensitivity of lung cancer cells to cisplatin treatment by directly targeting DCLK1 ( 14 ). miR-363 may be a biomarker for predicting responsiveness to cisplatin-based chemotherapy by snail-induced epithelial-mesenchymal transition in epithelial ovarian cancer cells ( 31 ). Although these studies support that miRNAs participate in the anticancer roles of cisplatin for the treatment of cancer, the effects of cisplatin on the proliferation of lung cancer cells require further investigation. Previous studies found that miR-93, miR-26a, miR-26b, miR-29a, miR-29c and miR-125 play important roles in cancer ( 22 – 24 ). The present study investigated the roles of these miRNAs in the cisplatin-induced suppression of lung cancer and demonstrated that cisplatin could effectively inhibit lung adenocarcinoma cell proliferation in a dose-dependent manner. The mechanism by which cisplatin inhibits lung adenocarcinoma cell proliferation is proposed to be associated with the expression of miR-93 and miR-26a. 
+31432162_19486	30	50	Platinum-based drugs	Drug-class
+31432162_19486	65	74	cisplatin	Drug	CHEMBL11359
+31432162_19486	91	103	chemotherapy	Drug-class
+31432162_19486	160	169	cisplatin	Drug
+31432162_19486	191	197	cancer	Disease	DOID:162
+31432162_19486	220	295	epigenetic regulation of insulin like growth factor 1 receptor via miR-1294	Biomarker
+31432162_19486	245	282	insulin like growth factor 1 receptor	Gene-protein	HGNC:5465
+31432162_19486	287	295	miR-1294	Rna-noncoding	HGNC:35287
+31432162_19486	313	322	cisplatin	Drug
+31432162_19486	337	351	ovarian cancer	Disease	DOID:2394
+31432162_19486	360	367	miR-539	Rna-noncoding	HGNC:32529
+31432162_19486	360	367	miR-539	Biomarker	C552081
+31432162_19486	405	416	lung cancer	Disease	DOID:1324
+31432162_19486	426	435	cisplatin	Drug
+31432162_19486	468	473	DCLK1	Gene-protein	 HGNC:2700
+31432162_19486	482	489	miR-363	Rna-noncoding	  HGNC:32023
+31432162_19486	482	489	miR-363	Biomarker	C574861
+31432162_19486	542	570	cisplatin-based chemotherapy	Drug-class
+31432162_19486	574	579	snail	Gene-protein	HGNC:11128
+31432162_19486	625	650	epithelial ovarian cancer	Disease	DOID:2152
+31432162_19486	747	756	cisplatin	Drug
+31432162_19486	778	784	cancer	Disease
+31432162_19486	801	810	cisplatin	Drug
+31432162_19486	835	846	lung cancer	Disease
+31432162_19486	912	918	miR-93	Rna-noncoding	HGNC:31645
+31432162_19486	912	918	miR-93	Biomarker	C543350
+31432162_19486	912	966	miR-93, miR-26a, miR-26b, miR-29a, miR-29c and miR-125	Collection
+31432162_19486	920	927	miR-26a	Rna-noncoding	not found
+31432162_19486	920	927	miR-26a	Biomarker	C528163
+31432162_19486	929	936	miR-26b	Rna-noncoding	HGNC:31612
+31432162_19486	929	936	miR-26b	Biomarker	C528163
+31432162_19486	938	945	miR-29a	Rna-noncoding	HGNC:31616
+31432162_19486	938	945	miR-29a	Biomarker	C532045
+31432162_19486	947	954	miR-29c	Rna-noncoding	HGNC:31621
+31432162_19486	947	954	miR-29c	Biomarker	C532045
+31432162_19486	959	966	miR-125	Rna-noncoding	not found
+31432162_19486	959	966	miR-125	Biomarker	C531888
+31432162_19486	991	997	cancer	Disease	DOID:162
+31432162_19486	1075	1084	cisplatin	Drug
+31432162_19486	1108	1119	lung cancer	Disease
+31432162_19486	1142	1151	cisplatin	Drug
+31432162_19486	1178	1197	lung adenocarcinoma	Disease	DOID:3910
+31432162_19486	1268	1277	cisplatin	Drug
+31432162_19486	1287	1306	lung adenocarcinoma	Disease
+31432162_19486	1378	1384	miR-93	Rna-noncoding
+31432162_19486	1389	1396	miR-26a	Rna-noncoding
+

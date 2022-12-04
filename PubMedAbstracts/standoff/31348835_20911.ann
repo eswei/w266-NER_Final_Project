@@ -1,0 +1,97 @@
+T1	Disease 73 76	AML
+#1	AnnotatorNotes T1	DOID:9119
+T12	Disease 954 959	e‐AML
+T14	Disease 963 968	s‐AML
+T16	Biomarker 993 1071	significant genetic alterations such as TP53, TET2, ASXL1, and RUNX1 mutations
+T18	Disease 1202 1207	e‐AML
+T19	Biomarker 1222 1299	mutations concerning PTPN11, NPM1, RUNX1, ASXL1, TET2, DNMT3A, and TP53 genes
+T2	Disease 174 177	AML
+T20	Biomarker 1342 1367	DNMT3A and TP53 mutations
+T22	Disease 1558 1563	e‐AML
+T24	Disease 1670 1675	S‐AML
+T25	Biomarker 1713 1727	NPM1 mutations
+T27	Disease 1771 1800	AML secondary to MDS and CMML
+T3	Biomarker 233 263	TP53, RUNX1, ASXL1 aberrations
+T30	Biomarker 1814 1838	ASXL1 and NRAS mutations
+T32	Disease 2060 2067	e/s‐AML
+T4	Biomarker 349 366	biCEBPA mutations
+T8	Biomarker 717 733	DNMT3A mutations
+T9	Biomarker 800 815	biallelic CEBPA
+T34	Gene-Protein 233 237	TP53
+T35	Gene-Protein 239 244	RUNX1
+T36	Gene-Protein 223 227	FLT3
+T37	Gene-Protein 246 251	ASXL1
+T38	Gene-Protein 269 274	KMT2A
+T39	Gene-Protein 368 373	RUNX1
+T40	Gene-Protein 374 382	RUNXT1T1
+T41	Gene-Protein 393 398	MYH11
+T42	Gene-Protein 388 392	CBFβ
+T43	Gene-Protein 349 356	biCEBPA
+T44	Disease 567 574	e/s‐AML
+T5	Biomarker 223 231	FLT3‐ITD
+T6	Biomarker 368 382	RUNX1‐RUNXT1T1
+T7	Biomarker 269 289	KMT2A rearrangements
+T45	Biomarker 388 398	CBFβ‐MYH11
+T46	Collection 223 289	FLT3‐ITD, TP53, RUNX1, ASXL1 aberrations, and KMT2A rearrangements
+T48	Gene-Protein 709 712	AF9
+T49	Gene-Protein 703 708	KMT2A
+T50	Gene-Protein 717 723	DNMT3A
+T51	Biomarker 703 712	KMT2A‐AF9
+T52	Biomarker 768 782	RUNX1‐RUNXT1T1
+T53	Gene-Protein 774 782	RUNXT1T1
+T54	Gene-Protein 768 773	RUNX1
+T55	Biomarker 784 794	CBFβ‐MYH11
+T56	Gene-Protein 789 794	MYH11
+T57	Gene-Protein 784 788	CBFβ
+T58	Gene-Protein 810 815	CEBPA
+T59	Gene-Protein 860 864	NRAS
+T60	Gene-Protein 1520 1525	ASXL1
+T61	Gene-Protein 1056 1061	RUNX1
+T62	Gene-Protein 1039 1043	TET2
+T63	Gene-Protein 1045 1050	ASXL1
+T64	Gene-Protein 1243 1249	PTPN11
+T65	Gene-Protein 1289 1293	TP53
+T66	Gene-Protein 1271 1275	TET2
+T67	Gene-Protein 1277 1283	DNMT3A
+T68	Gene-Protein 1251 1255	NPM1
+T69	Gene-Protein 1264 1269	ASXL1
+T70	Gene-Protein 1257 1262	RUNX1
+T71	Gene-Protein 1314 1317	WT1
+T17	Gene-Protein 1512 1518	DNMT3A
+T72	Gene-Protein 1531 1535	TET2
+T73	Gene-Protein 1732 1736	FLT3
+T74	Gene-Protein 1814 1819	ASXL1
+T75	Gene-Protein 1824 1828	NRAS
+T76	Gene-Protein 1353 1357	TP53
+T77	Gene-Protein 1342 1348	DNMT3A
+T78	Gene-Protein 1713 1717	NPM1
+T13	Gene-Protein 899 904	MYH11
+T15	Gene-Protein 866 872	DNMT3A
+T31	Gene-Protein 874 878	IDH1
+T79	Gene-Protein 1033 1037	TP53
+T23	Gene-Protein 894 898	CBFβ
+T33	Biomarker 1469 1554	epigenetic modifier genes (EMGs) including DNMT3A, ASXL1, and TET2 were more frequent
+R16	Prognostic-Poor Arg1:T33 Arg2:T22	
+T21	Disease 1614 1646	age‐related clonal hematopoiesis
+#2	AnnotatorNotes T21	D000082182
+#3	AnnotatorNotes T44	not found, not found
+#4	AnnotatorNotes T12	not found
+#5	AnnotatorNotes T14	not found
+T80	Biomarker 1309 1327	less WT1 mutations
+T81	Collection 1217 1327	more mutations concerning PTPN11, NPM1, RUNX1, ASXL1, TET2, DNMT3A, and TP53 genes, but had less WT1 mutations
+R21	Association Arg1:T81 Arg2:T18	
+R22	Prognostic-Poor Arg1:T20 Arg2:T18	
+#6	AnnotatorNotes T24	not found
+T82	Biomarker 1732 1740	FLT3‐ITD
+T26	Collection 1708 1740	less NPM1 mutations and FLT3‐ITD
+R23	Association Arg1:T26 Arg2:T24	
+R24	Association Arg1:T30 Arg2:T27	
+T86	Collection 349 398	biCEBPA mutations, RUNX1‐RUNXT1T1, and CBFβ‐MYH11
+R2	Prognostic-Good Arg1:T86 Arg2:T2	
+R1	Prognostic-Poor Arg1:T46 Arg2:T2	
+T47	Biomarker 830 904	genetic aberrations including NRAS, DNMT3A, IDH1 mutations, and CBFβ‐MYH11
+T87	Collection 954 968	e‐AML or s‐AML
+R4	Association Arg1:T47 Arg2:T87	
+T10	Collection 703 815	KMT2A‐AF9 and DNMT3A mutations and less favorable ones including RUNX1‐RUNXT1T1, CBFβ‐MYH11, and biallelic CEBPA
+R5	Prognostic-Poor Arg1:T10 Arg2:T44	
+#7	AnnotatorNotes T27	not found

@@ -1,0 +1,65 @@
+T0	Disease 61 66	Fabry
+#1	AnnotatorNotes T0	DOID:14499
+T1	Drug-Class 488 494	statin
+T3	Drug 673 680	aspirin
+T4	Disease 850 852	FD
+T5	Biomarker 971 1022	TNF, TNFR1, TNFR2, MMP‐2, and Lyso‐Gb₃ are elevated
+T6	Disease 1026 1028	FD
+T7	Disease 1132 1134	FD
+T8	Disease 1136 1149	Fabry disease
+T9	Chemical 1161 1186	lysoglobotriaosylceramide
+T11	Gene-Protein 149 152	TNF
+T12	Drug-Class 104 107	ERT
+T13	Gene-Protein 154 159	TNFR1
+T14	Gene-Protein 161 166	TNFR2
+T15	Gene-Protein 168 173	MMP‐2
+T16	Drug-Class 309 348	angiotensin‐converting enzyme inhibitor
+T17	Gene-Protein 309 338	angiotensin‐converting enzyme
+#2	AnnotatorNotes T17	HGNC:2707
+T18	Drug-Class 352 380	angiotensin receptor blocker
+T19	GeneFamily 352 372	angiotensin receptor
+#4	AnnotatorNotes T19	family:221
+T20	Gene-Protein 401 406	MMP‐2
+T21	Gene-Protein 411 416	MMP‐8
+T22	Gene-Protein 552 555	BNP
+T23	Gene-Protein 568 578	galectin‐1
+T24	Gene-Protein 584 594	galectin‐3
+#5	AnnotatorNotes T3	CHEMBL25
+T2	Gene-Protein 737 740	BNP
+T25	Gene-Protein 757 762	MMP‐8
+#6	AnnotatorNotes T4	DOID:14499
+T26	Drug-Class 904 907	ERT
+T27	Drug-Class 959 962	ERT
+T28	Drug-Class 1049 1052	ERT
+T29	Drug-Class 1085 1088	ERT
+T30	Gene-Protein 971 974	TNF
+T31	Gene-Protein 976 981	TNFR1
+T32	Gene-Protein 983 988	TNFR2
+T33	Gene-Protein 990 995	MMP‐2
+T34	GeneFamily 1188 1191	MMP
+T35	GeneFamily 1193 1215	matrix metalloprotease
+T36	Gene-Protein 1217 1220	TNF
+T37	Gene-Protein 1222 1243	tumor necrosis factor
+T10	GeneFamily 1245 1249	TNFR
+T38	GeneFamily 1251 1263	TNF receptor
+T39	Drug-Class 1090 1093	ERT
+T40	Drug-Class 1104 1130	enzyme replacement therapy
+T41	Gene-Protein 557 566	MR‐proANP
+#3	AnnotatorNotes T41	not found
+T42	Gene-Protein 742 751	MR‐proANP
+#7	AnnotatorNotes T11	HGNC:11892
+#8	AnnotatorNotes T13	HGNC:11916
+#9	AnnotatorNotes T14	HGNC:11917
+#10	AnnotatorNotes T15	HGNC:7166
+#11	AnnotatorNotes T21	HGNC:7175
+#12	AnnotatorNotes T23	HGNC:6561
+#13	AnnotatorNotes T24	HGNC:6563
+#14	AnnotatorNotes T34	family:891
+#15	AnnotatorNotes T35	family:891
+#16	AnnotatorNotes T10	family:782
+#17	AnnotatorNotes T38	family:782
+#18	AnnotatorNotes T8	DOID:14499
+#19	AnnotatorNotes T37	HGNC:11892
+T43	Biomarker 394 430	plasma MMP‐2 and MMP‐8 were elevated
+T44	Biomarker 525 594	increased plasma levels of BNP, MR‐proANP, galectin‐1, and galectin‐3
+T45	Biomarker 711 762	elevated plasma levels of BNP, MR‐proANP, and MMP‐8

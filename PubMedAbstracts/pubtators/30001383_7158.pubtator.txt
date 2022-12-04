@@ -1,0 +1,95 @@
+30001383_7158|t|RSS_IDENT_p_30001383_b_1_1_3
+30001383_7158|a| Since OM has high potential to metastasize, a combination of treatments is usually required for the late-stage OM, clinical stages III and IV. A number of chemotherapy drugs have been used to cure canine oral cancers after surgery. At the animal teaching hospital, Faculty of Veterinary Science, Chulalongkorn University, dogs with the late-stage OM undergo carboplatin chemotherapy with the median dosage 300 mg/m² for 6 times or else the metronomic therapy, continuous administration of low doses cyclophosphamide (10 mg/m²) and standard dose piroxicam (0.3 mg/kg) as previously reported [ 36 , 37 ]. Carboplatin, a derivative of the anti-cancer drug cisplatin, and doxorubicin (also called adriamycin) are common chemotherapy drugs used in canine oral cancer treatment, whereas cyclophosphamide and piroxicam have also been widely used in metronomic chemotherapy [ 36 , 38 , 39 ]. In the present study, a fast and inexpensive bioinformatic tool was used to uncover functional relationships between drugs and disease proteins and fulfill experimental data. The proposed network maps demonstrated the molecular basis of disease, which could probably help select potential targets for early diagnosis, prognosis or effective treatment. The present study aimed to characterize PMFs of OM, OSCC, BN and normal control subjects, using MALDI-TOF and liquid chromatography tandem mass spectrometry (LC-MS/MS), to identify potential protein candidates associated with the diseases, using GeLC-MS/MS and to search for relationships between chemotherapy drugs and disease-perturbed proteins. Herein, we found a distinct cluster and a unique PMF in each canine oral tumor group. In addition, unique peptide fragment at 2,274 Da of sacsin molecular chaperone (SACS) was observed in early-stage OM, and at 1,958 Da of sodium voltage-gated channel alpha subunit 10 (SCN10A) in early- and late-stage OM. The peptide mass at 2,316 Da of Notch1 appeared in early-stage OM and benign oral tumors while the peptide mass at 2,505 Da of glutamate ionotropic receptor N-methyl-D-aspartate type subunit 3A (GRIN3A) was identified in all sample groups. We also found a peptide fragment at 3,039 Da of leucine-tRNA synthetase (LARS) in early-stage OM, OSCC, and benign oral tumors. Using GeLC-MS/MS, we discovered potentially novel candidate markers of canine oral tumors such as Jumonji domain containing 1C (JMJD1C or TRIP8) in benign tumors, inversin (INVS) and rho guanine nucleotide exchange factor 28 (ARHGEF28) in OM, BTB domain-containing 16 (BTBD16) in OSCC, and protein tyrosine phosphatase non-receptor type 1 (PTPN1), BRCA2, WW domain binding protein 2 (WBP2), purinergic receptor P2Y1 variant 2 (P2Y1) and proteasome activator subunit 4 (PSME4) in all cancerous groups. We also demonstrated relationships between cisplatin and doxorubicin and disease-perturbed proteins, whereas cyclophosphamide/piroxicam showed no or very faint relationships with most proteins. These data might help veterinarians choose drugs of choice and treatment plan.
+30001383_7158	36	38	OM	Disease	not found
+30001383_7158	141	143	OM	Disease
+30001383_7158	185	203	chemotherapy drugs	Drug-class
+30001383_7158	227	246	canine oral cancers	Disease	not found
+30001383_7158	377	379	OM	Disease
+30001383_7158	388	399	carboplatin	Drug	CHEMBL1351
+30001383_7158	470	488	metronomic therapy	Drug-class
+30001383_7158	529	545	cyclophosphamide	Drug	CHEMBL88
+30001383_7158	575	584	piroxicam	Drug	CHEMBL527
+30001383_7158	633	644	Carboplatin	Drug	CHEMBL1351
+30001383_7158	633	734	Carboplatin, a derivative of the anti-cancer drug cisplatin, and doxorubicin (also called adriamycin)	Collection
+30001383_7158	683	692	cisplatin	Drug	CHEMBL11359
+30001383_7158	698	709	doxorubicin	Drug	CHEMBL53463
+30001383_7158	723	733	adriamycin	Drug	CHEMBL53463
+30001383_7158	746	764	chemotherapy drugs	Drug-class
+30001383_7158	773	791	canine oral cancer	Disease	DOID:8618
+30001383_7158	811	827	cyclophosphamide	Drug
+30001383_7158	811	841	cyclophosphamide and piroxicam	Collection
+30001383_7158	832	841	piroxicam	Drug
+30001383_7158	872	895	metronomic chemotherapy	Drug-class
+30001383_7158	1314	1316	OM	Disease
+30001383_7158	1318	1322	OSCC	Disease	DOID:0050866
+30001383_7158	1324	1326	BN	Disease	DOID:0060072
+30001383_7158	1563	1581	chemotherapy drugs	Drug-class
+30001383_7158	1675	1692	canine oral tumor	Disease
+30001383_7158	1720	1778	peptide fragment at 2,274 Da of sacsin molecular chaperone	Biomarker
+30001383_7158	1752	1778	sacsin molecular chaperone	Gene-protein
+30001383_7158	1780	1784	SACS	Gene-protein
+30001383_7158	1802	1816	early-stage OM	Disease
+30001383_7158	1837	1843	sodium	Chemical
+30001383_7158	1837	1882	sodium voltage-gated channel alpha subunit 10	Gene-protein
+30001383_7158	1837	1882	sodium voltage-gated channel alpha subunit 10	Biomarker	D062559
+30001383_7158	1884	1890	SCN10A	Gene-protein
+30001383_7158	1895	1919	early- and late-stage OM	Disease
+30001383_7158	1925	1959	peptide mass at 2,316 Da of Notch1	Biomarker
+30001383_7158	1953	1959	Notch1	Gene-protein
+30001383_7158	1972	1986	early-stage OM	Disease
+30001383_7158	1972	2009	early-stage OM and benign oral tumors	Collection
+30001383_7158	1991	2009	benign oral tumors	Disease
+30001383_7158	2020	2114	peptide mass at 2,505 Da of glutamate ionotropic receptor N-methyl-D-aspartate type subunit 3A	Biomarker
+30001383_7158	2048	2057	glutamate	Chemical
+30001383_7158	2048	2114	glutamate ionotropic receptor N-methyl-D-aspartate type subunit 3A	Gene-protein
+30001383_7158	2078	2098	N-methyl-D-aspartate	Chemical
+30001383_7158	2116	2122	GRIN3A	Gene-protein
+30001383_7158	2177	2232	peptide fragment at 3,039 Da of leucine-tRNA synthetase	Biomarker
+30001383_7158	2209	2216	leucine	Chemical
+30001383_7158	2209	2232	leucine-tRNA synthetase	Gene-protein
+30001383_7158	2234	2238	LARS	Gene-protein
+30001383_7158	2243	2257	early-stage OM	Disease
+30001383_7158	2243	2287	early-stage OM, OSCC, and benign oral tumors	Collection
+30001383_7158	2259	2263	OSCC	Disease
+30001383_7158	2269	2287	benign oral tumors	Disease
+30001383_7158	2360	2378	canine oral tumors	Disease
+30001383_7158	2387	2415	Jumonji domain containing 1C	Gene-protein
+30001383_7158	2387	2415	Jumonji domain containing 1C	Biomarker
+30001383_7158	2417	2423	JMJD1C	Gene-protein
+30001383_7158	2427	2432	TRIP8	Gene-protein
+30001383_7158	2437	2450	benign tumors	Disease	DOID:0060072
+30001383_7158	2452	2460	inversin	Gene-protein
+30001383_7158	2452	2460	inversin	Biomarker
+30001383_7158	2452	2513	inversin (INVS) and rho guanine nucleotide exchange factor 28	Collection
+30001383_7158	2462	2466	INVS	Gene-protein
+30001383_7158	2472	2513	rho guanine nucleotide exchange factor 28	Gene-protein
+30001383_7158	2472	2513	rho guanine nucleotide exchange factor 28	Biomarker
+30001383_7158	2476	2494	guanine nucleotide	Chemical
+30001383_7158	2515	2523	ARHGEF28	Gene-protein
+30001383_7158	2528	2530	OM	Disease
+30001383_7158	2532	2556	BTB domain-containing 16	Gene-protein
+30001383_7158	2532	2556	BTB domain-containing 16	Biomarker
+30001383_7158	2558	2564	BTBD16	Gene-protein
+30001383_7158	2569	2573	OSCC	Disease
+30001383_7158	2579	2627	protein tyrosine phosphatase non-receptor type 1	Gene-protein
+30001383_7158	2579	2627	protein tyrosine phosphatase non-receptor type 1	Biomarker
+30001383_7158	2579	2764	protein tyrosine phosphatase non-receptor type 1 (PTPN1), BRCA2, WW domain binding protein 2 (WBP2), purinergic receptor P2Y1 variant 2 (P2Y1) and proteasome activator subunit 4 (PSME4)	Collection
+30001383_7158	2587	2595	tyrosine	Chemical
+30001383_7158	2629	2634	PTPN1	Gene-protein
+30001383_7158	2637	2642	BRCA2	Gene-protein
+30001383_7158	2637	2642	BRCA2	Biomarker
+30001383_7158	2644	2671	WW domain binding protein 2	Gene-protein
+30001383_7158	2644	2671	WW domain binding protein 2	Biomarker
+30001383_7158	2673	2677	WBP2	Gene-protein
+30001383_7158	2680	2714	purinergic receptor P2Y1 variant 2	Gene-protein
+30001383_7158	2680	2714	purinergic receptor P2Y1 variant 2	Biomarker
+30001383_7158	2716	2720	P2Y1	Gene-protein
+30001383_7158	2726	2756	proteasome activator subunit 4	Gene-protein
+30001383_7158	2726	2756	proteasome activator subunit 4	Biomarker
+30001383_7158	2758	2763	PSME4	Gene-protein
+30001383_7158	2772	2781	cancerous	Disease	DOID:162
+30001383_7158	2833	2842	cisplatin	Drug
+30001383_7158	2847	2858	doxorubicin	Drug
+30001383_7158	2899	2915	cyclophosphamide	Drug
+30001383_7158	2916	2925	piroxicam	Drug
+

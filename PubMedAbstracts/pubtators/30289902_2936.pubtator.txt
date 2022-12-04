@@ -1,0 +1,47 @@
+30289902_2936|t|RSS_IDENT_p_30289902_b_1_1_3
+30289902_2936|a| However, some patients still develop resistance to RA and/or ATO. It is known that mutations in PML-RARA confer resistance to RA and ATO, and are associated with poor prognosis in APL patients [ 12 , 13 ]. Reportedly, mutations in PML-RARA were identified in about 30% and 60% of APL patients at the first and second relapse, respectively [ 14 ]. Although most acquired mutations associated with RA resistance were point mutations in PML-RARA, we identified a novel seven amino acid deletion mutation (p.K227_T233del) as well as a point mutation, p.R217S, in the RARA region of PML-RARA from an RA-resistant APL patient; however, the biological significance of these mutations was not analyzed. Here we report on the clinical and biological significance of the deletion mutation in the RARA region of PML-RARA. We demonstrated that the deletion mutation was critical for RA sensitivity, whereas p.R217S did not affect the sensitivity in vitro. Moreover, we found that RA-induced PML-nuclear body (NB) formation was affected in the APL cells harboring the deletion mutation. Our results indicate that this acquired deletion mutation in PML-RARA was a critical mechanism for the acquisition of resistance to RA therapy, and thus that it is necessary to evaluate the biological significance of such mutations to improve clinical strategies for relapse/refractory APL patients. 
+30289902_2936	81	83	RA	Drug	not found
+30289902_2936	91	94	ATO	Drug	CHEMBL2362016
+30289902_2936	113	134	mutations in PML-RARA	Biomarker
+30289902_2936	126	129	PML	Gene-protein	HGNC:9113
+30289902_2936	130	134	RARA	Gene-protein	HGNC:9864
+30289902_2936	156	158	RA	Drug
+30289902_2936	156	166	RA and ATO	Collection
+30289902_2936	163	166	ATO	Drug
+30289902_2936	210	213	APL	Disease	DOID:0060318
+30289902_2936	248	269	mutations in PML-RARA	Biomarker
+30289902_2936	261	264	PML	Gene-protein
+30289902_2936	265	269	RARA	Gene-protein
+30289902_2936	310	313	APL	Disease
+30289902_2936	426	428	RA	Drug
+30289902_2936	464	467	PML	Gene-protein
+30289902_2936	464	472	PML-RARA	Variant
+30289902_2936	468	472	RARA	Gene-protein
+30289902_2936	502	512	amino acid	Chemical
+30289902_2936	531	584	(p.K227_T233del) as well as a point mutation, p.R217S	Collection
+30289902_2936	532	546	p.K227_T233del	Variant
+30289902_2936	577	584	p.R217S	Variant	p.Arg217Ser
+30289902_2936	593	597	RARA	Gene-protein
+30289902_2936	608	611	PML	Gene-protein
+30289902_2936	608	616	PML-RARA	Variant
+30289902_2936	612	616	RARA	Gene-protein
+30289902_2936	625	627	RA	Drug
+30289902_2936	625	641	RA-resistant APL	Disease	not found
+30289902_2936	791	808	deletion mutation	Variant
+30289902_2936	816	820	RARA	Gene-protein
+30289902_2936	831	834	PML	Gene-protein
+30289902_2936	832	839	ML-RARA	Variant
+30289902_2936	835	839	RARA	Gene-protein
+30289902_2936	866	883	deletion mutation	Variant
+30289902_2936	866	932	deletion mutation was critical for RA sensitivity, whereas p.R217S	Collection
+30289902_2936	901	903	RA	Drug	DOID:0060831
+30289902_2936	925	932	p.R217S	Variant
+30289902_2936	998	1000	RA	Drug
+30289902_2936	1009	1012	PML	Gene-protein
+30289902_2936	1061	1102	APL cells harboring the deletion mutation	Disease	not found
+30289902_2936	1135	1173	acquired deletion mutation in PML-RARA	Biomarker
+30289902_2936	1165	1168	PML	Gene-protein
+30289902_2936	1169	1173	RARA	Gene-protein
+30289902_2936	1236	1246	RA therapy	Drug-class
+30289902_2936	1390	1393	APL	Disease
+

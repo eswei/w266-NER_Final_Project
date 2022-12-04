@@ -1,0 +1,83 @@
+T0	Disease 105 123	endometrial cancer
+#1	AnnotatorNotes T0	DOID:1380
+T11	Disease 774 779	tumor
+T13	Disease 883 898	prostate cancer
+#3	AnnotatorNotes T13	DOID:10283
+T15	Disease 967 993	advanced colorectal cancer
+#4	AnnotatorNotes T15	DOID:9256
+T16	Disease 998 1024	infiltrating breast cancer
+#5	AnnotatorNotes T16	not found
+T17	Disease 1048 1070	invasive breast cancer
+#6	AnnotatorNotes T17	not found
+T18	Drug 1234 1243	cisplatin
+T19	Disease 1307 1325	endometrial cancer
+T22	CellLine 1582 1588	RL-952
+T3	Disease 295 313	endometrial cancer
+T5	Disease 468 473	tumor
+#12	AnnotatorNotes T5	DOID:162
+T8	Disease 648 653	tumor
+T9	Disease 670 687	pancreatic cancer
+#14	AnnotatorNotes T9	DOID:1793
+T1	Gene-Protein 48 53	HAI-1
+#7	AnnotatorNotes T1	HGNC:11246
+T2	Biomarker 34 53	expression of HAI-1
+R1	Association Arg1:T2 Arg2:T0	
+T4	Gene-Protein 223 228	HAI-1
+T6	Drug 188 233	Increased expression levels of the HAI-1 gene
+T7	Gene-Protein 275 285	matriptase
+#10	AnnotatorNotes T7	HGNC:11344
+R2	Synergy-Response Arg1:T6 Arg2:T3	
+T10	Gene-Protein 410 420	matriptase
+T12	Gene-Protein 421 426	HAI-1
+T14	Biomarker 410 438	matriptase/HAI-1 equilibrium
+R3	Association Arg1:T14 Arg2:T5	
+T20	Gene-Protein 518 528	matriptase
+T23	Gene-Protein 529 534	HAI-1
+T24	Biomarker 518 550	matriptase/HAI-1 ratio imbalance
+T25	Biomarker 567 601	increased expression of matriptase
+T26	Biomarker 605 634	decreased expression of HAI-1
+T27	Collection 518 634	matriptase/HAI-1 ratio imbalance, which includes increased expression of matriptase or decreased expression of HAI-1
+R5	Association Arg1:T27 Arg2:T8	
+T28	Gene-Protein 591 601	matriptase
+T29	Gene-Protein 629 634	HAI-1
+T30	Biomarker 695 727	increased matriptase/HAI-1 ratio
+T31	Gene-Protein 705 715	matriptase
+T32	Gene-Protein 716 721	HAI-1
+T33	Biomarker 731 757	decreased HAI-1 expression
+T34	Gene-Protein 741 746	HAI-1
+T35	Collection 695 757	increased matriptase/HAI-1 ratio by decreased HAI-1 expression
+R4	Association Arg1:T35 Arg2:T9	
+T36	Biomarker 808 840	increased matriptase/HAI-1 ratio
+T37	Gene-Protein 818 828	matriptase
+T38	Gene-Protein 829 834	HAI-1
+T39	Biomarker 846 877	increased matriptase expression
+T40	Gene-Protein 856 866	matriptase
+T41	Collection 808 877	increased matriptase/HAI-1 ratio with increased matriptase expression
+R6	Risk-Factor Arg1:T41 Arg2:T13	
+T42	Biomarker 932 963	matriptase/HAI-1 ratio declined
+T43	Gene-Protein 943 948	HAI-1
+T44	Gene-Protein 932 942	matriptase
+T45	Collection 967 1024	advanced colorectal cancer and infiltrating breast cancer
+R7	Association Arg1:T42 Arg2:T45	
+R8	Association Arg1:T36 Arg2:T17	
+T46	Biomarker 1161 1183	matriptase/HAI-1 ratio
+T47	Gene-Protein 1172 1177	HAI-1
+T48	Gene-Protein 1161 1171	matriptase
+#2	AnnotatorNotes T18	CHEMBL11359
+T49	Biomarker 1378 1402	expression of matriptase
+T21	Gene-Protein 1392 1402	matriptase
+T50	CellLine 1593 1599	HEC-1A
+T52	Gene-Protein 1567 1572	HAI-1
+T53	Gene-Protein 1556 1566	matriptase
+T54	Biomarker 1523 1552	reduced matriptase expression
+T55	Gene-Protein 1531 1541	matriptase
+T56	Gene-Protein 1616 1621	HAI-1
+T57	Biomarker 1654 1686	matriptase/HAI-1 ratio decreased
+T58	Gene-Protein 1665 1670	HAI-1
+T59	Gene-Protein 1654 1664	matriptase
+T51	Drug 251 285	decreased expression of matriptase
+#8	AnnotatorNotes T51	not found
+#9	AnnotatorNotes T6	not found
+R9	Synergy-Response Arg1:T51 Arg2:T3	
+T60	Gene-Protein 1282 1292	matriptase
+T61	Biomarker 1454 1486	cellular invasion and metastasis

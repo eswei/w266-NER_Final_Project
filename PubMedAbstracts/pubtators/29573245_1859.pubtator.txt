@@ -1,0 +1,33 @@
+29573245_1859|t|RSS_IDENT_p_29573245_b_1_1_3
+29573245_1859|a| ATP6V1B1 and ATP6V0A4 encode for B1 and A4 subunits of the apical H⁺-ATPase pump, respectively, and mutations in these genes cause autosomal recessive (AR) forms of dRTA with or without sensorineural hearing loss. 4 5 Mutations in SLC4A1 (solute carrier family 4 member 1), encoding the basolateral anion (Cl−/HCO₃−) exchanger 1 (AE1), can cause both dominant and recessive form of dRTA. 1 AE1 is expressed not only in the α-intercalated cells, but also in the erythrocytes (erythrocyte membrane protein band 3). Therefore, SLC4A1 mutations can cause dRTA and/or hemolytic anemia with abnormal red cell morphology. 6 7 SLC4A1 mutations were initially reported to be always associated with autosomal dominant (AD) form of dRTA. 6 AR dRTA caused by SLC4A1 mutations have been reported mostly from tropical Southeast Asia and other tropical areas, therefore called as tropical recessive dRTA. 7 8 9 10 11 12 13 14 15 Here, we report three Lao patients from two unrelated families with AR dRTA in association with the same homozygous SLC4A1 mutation, p.Gly701Asp.
+29573245_1859	30	38	ATP6V1B1	Gene-protein	HGNC:853
+29573245_1859	30	139	ATP6V1B1 and ATP6V0A4 encode for B1 and A4 subunits of the apical H⁺-ATPase pump, respectively, and mutations	Biomarker
+29573245_1859	43	51	ATP6V0A4	Gene-protein	HGNC:866
+29573245_1859	63	110	B1 and A4 subunits of the apical H⁺-ATPase pump	Gene-protein	HGNC:853, HGNC:866
+29573245_1859	96	98	H⁺	Chemical
+29573245_1859	161	242	autosomal recessive (AR) forms of dRTA with or without sensorineural hearing loss	Disease	C537758, DOID:10003	Conjunction
+29573245_1859	248	301	Mutations in SLC4A1 (solute carrier family 4 member 1	Biomarker
+29573245_1859	261	267	SLC4A1	Gene-protein	HGNC:11027
+29573245_1859	269	301	solute carrier family 4 member 1	Gene-protein	HGNC:11027
+29573245_1859	329	358	anion (Cl−/HCO₃−) exchanger 1	Gene-protein	HGNC:11027
+29573245_1859	336	338	Cl	Chemical
+29573245_1859	340	345	HCO₃−	Chemical
+29573245_1859	360	363	AE1	Gene-protein	HGNC:11027
+29573245_1859	381	416	dominant and recessive form of dRTA	Disease	D000141, C537758
+29573245_1859	420	423	AE1	Gene-protein
+29573245_1859	554	560	SLC4A1	Gene-protein
+29573245_1859	554	570	SLC4A1 mutations	Biomarker
+29573245_1859	581	585	dRTA	Disease	DOID:14219
+29573245_1859	581	643	dRTA and/or hemolytic anemia with abnormal red cell morphology	Collection
+29573245_1859	593	643	hemolytic anemia with abnormal red cell morphology	Disease	not found
+29573245_1859	649	655	SLC4A1	Gene-protein
+29573245_1859	649	665	SLC4A1 mutations	Biomarker
+29573245_1859	719	755	autosomal dominant (AD) form of dRTA	Disease	D000141
+29573245_1859	759	766	AR dRTA	Disease	C537758
+29573245_1859	777	783	SLC4A1	Gene-protein
+29573245_1859	777	793	SLC4A1 mutations	Biomarker
+29573245_1859	895	918	tropical recessive dRTA	Disease	C537758
+29573245_1859	1012	1019	AR dRTA	Disease
+29573245_1859	1060	1066	SLC4A1	Gene-protein
+29573245_1859	1077	1088	p.Gly701Asp	Variant	p.Gly701Asp
+

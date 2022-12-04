@@ -1,0 +1,48 @@
+31085718_29306|t|RSS_IDENT_p_31085718_b_1_4_3
+31085718_29306|a| In our work, we observed that miR-940 was highly expressed in EC, and connected with poor prognosis of this cancer. To explore the roles of miR-940 in EC, miR-940 mimics or inhibitors were employed to increase or reduce miR-940 expression in RL95-2 cells. The results demonstrated that the transfection of miR-940 mimics significantly increased the proliferation and migration/invasion of RL95-2 cells, and the RL95-2 cell growth and migration/invasion in the miR-940 inhibitor group were inhibited, implicating that miR-940 might play an oncogene role in EC. Consistently, Fan et al. [ 27 ] have suggested that miR-940 induces the cell proliferation and migration of gastric cancer through up-regulating the expression level of programmed death ligand-1. Moreover, Liu et al. [ 18 ] have reported that miR-940 enhances the cell migration, invasion, and metastasis of gastric cancer via mediating the expression level of ZNF24. Another study has also demonstrated that high expression of miR-940 promotes proliferation of pancreatic cancer through regulating GSK3β and sFRP1 [ 28 ]. On the contrary, opposite findings were obtained. For example, Rajendiran et al. [ 20 ] have revealed that miR-940 attenuates growth ability, and suppresses the migratory and invasive potential of prostate cancer cells by regulating MIEN1. Ding et al. [ 29 ] have implied that miR-940 blocks cell migration and invasion via regulating CXCR2 in liver cancer. MiR-940 has also been demonstrated to inhibit pancreatic ductal adenocarcinoma growth through targeting MyD88 [ 30 ]. These discrepancies may indicate that miR-940 acts as different roles among diverse human cancers, partially through regulating different targets, to a certain degree. 
+31085718_29306	60	67	miR-940	Rna-noncoding	HGNC:33683
+31085718_29306	60	88	miR-940 was highly expressed	Biomarker
+31085718_29306	92	94	EC	Disease	DOID:2871
+31085718_29306	138	144	cancer	Disease	DOID:162
+31085718_29306	170	177	miR-940	Rna-noncoding
+31085718_29306	181	183	EC	Disease
+31085718_29306	185	192	miR-940	Rna-noncoding
+31085718_29306	185	213	miR-940 mimics or inhibitors	Drug-class
+31085718_29306	250	257	miR-940	Rna-noncoding
+31085718_29306	272	278	RL95-2	Cellline
+31085718_29306	336	343	miR-940	Rna-noncoding
+31085718_29306	419	425	RL95-2	Cellline
+31085718_29306	441	447	RL95-2	Cellline
+31085718_29306	490	497	miR-940	Rna-noncoding
+31085718_29306	490	507	miR-940 inhibitor	Drug-class
+31085718_29306	547	554	miR-940	Rna-noncoding
+31085718_29306	586	588	EC	Disease
+31085718_29306	642	649	miR-940	Rna-noncoding
+31085718_29306	642	649	miR-940	Biomarker	C000594732
+31085718_29306	698	712	gastric cancer	Disease	DOID:10534
+31085718_29306	759	784	programmed death ligand-1	Gene-protein	HGNC:17635
+31085718_29306	833	840	miR-940	Rna-noncoding
+31085718_29306	833	840	miR-940	Biomarker
+31085718_29306	898	912	gastric cancer	Disease
+31085718_29306	951	956	ZNF24	Gene-protein	HGNC:13032
+31085718_29306	999	1025	high expression of miR-940	Biomarker
+31085718_29306	1018	1025	miR-940	Rna-noncoding
+31085718_29306	1052	1069	pancreatic cancer	Disease	DOID:1793
+31085718_29306	1089	1094	GSK3β	Gene-protein	HGNC:4617
+31085718_29306	1099	1104	sFRP1	Gene-protein	HGNC:10776
+31085718_29306	1220	1227	miR-940	Rna-noncoding
+31085718_29306	1220	1227	miR-940	Drug	C000594732
+31085718_29306	1310	1325	prostate cancer	Disease	DOID:10283
+31085718_29306	1346	1351	MIEN1	Gene-protein	HGNC:28230
+31085718_29306	1390	1397	miR-940	Rna-noncoding
+31085718_29306	1390	1397	miR-940	Drug
+31085718_29306	1448	1453	CXCR2	Gene-protein	HGNC:6027
+31085718_29306	1457	1469	liver cancer	Disease	DOID:3571
+31085718_29306	1471	1478	MiR-940	Rna-noncoding	HGNC:33683
+31085718_29306	1471	1478	MiR-940	Drug	C000594732
+31085718_29306	1517	1549	pancreatic ductal adenocarcinoma	Disease	DOID:3498
+31085718_29306	1575	1580	MyD88	Gene-protein	HGNC:7562
+31085718_29306	1627	1634	miR-940	Rna-noncoding
+31085718_29306	1627	1634	miR-940	Biomarker
+31085718_29306	1679	1686	cancers	Disease	DOID:162
+

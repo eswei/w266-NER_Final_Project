@@ -1,0 +1,89 @@
+T1	Chemical 104 108	zinc
+T10	Biomarker 610 617	miR-145
+T11	Biomarker 710 753	KLF4-mediated suppression of CD44 signaling
+T12	Disease 774 791	pancreatic cancer
+#2	AnnotatorNotes T12	DOID:1793
+T13	Biomarker 849 853	KLF4
+T14	Disease 958 983	pancreatic carcinogenesis
+#3	AnnotatorNotes T14	DOID:1793
+T15	Disease 991 1011	colorectal carcinoma
+#4	AnnotatorNotes T15	DOID:0080199
+T16	Biomarker 1031 1038	miR-543
+T17	Disease 1048 1054	cancer
+#5	AnnotatorNotes T17	DOID:162
+T19	Disease 1145 1148	CRC
+T2	Biomarker 252 256	KLF4
+T20	Biomarker 1233 1256	over-expression of KLF4
+T22	Disease 1394 1397	CRC
+T3	Disease 278 290	malignancies
+#10	AnnotatorNotes T3	DOID:162
+T4	Biomarker 333 337	KLF4
+T5	Biomarker 342 347	NANOG
+T6	Disease 389 418	triple-negative breast cancer
+#11	AnnotatorNotes T6	DOID:0060081
+T7	Biomarker 459 476	SNHG5/miR-32 axis
+T8	Disease 487 501	gastric cancer
+#12	AnnotatorNotes T8	DOID:10534
+T9	Disease 560 574	bladder cancer
+#13	AnnotatorNotes T9	DOID:11054
+T24	Gene-Protein 30 34	KLF4
+#1	AnnotatorNotes T24	HGNC:6348
+T25	Gene-Protein 252 256	KLF4
+T26	Gene-Protein 333 337	KLF4
+T27	Gene-Protein 548 552	KLF4
+T28	Gene-Protein 667 671	KLF4
+T29	Gene-Protein 1097 1101	KLF4
+T30	Gene-Protein 1130 1134	KLF4
+T31	Gene-Protein 710 714	KLF4
+T32	Gene-Protein 1252 1256	KLF4
+T33	Gene-Protein 1386 1390	KLF4
+T34	Gene-Protein 1441 1445	KLF4
+T35	Gene-Protein 1737 1741	KLF4
+T36	GeneFamily 50 57	Kruppel
+#6	AnnotatorNotes T36	family:624
+T37	GeneFamily 104 124	zinc finger proteins
+#8	AnnotatorNotes T37	family:26
+R1	Association Arg1:T2 Arg2:T3	
+T38	Gene-Protein 342 347	NANOG
+#14	AnnotatorNotes T38	HGNC:20857
+#15	AnnotatorNotes T5	C486780
+T39	Collection 333 347	KLF4 and NANOG
+R2	Association Arg1:T39 Arg2:T6	
+T40	RNA-Noncoding 459 464	SNHG5
+#16	AnnotatorNotes T40	HGNC:21026
+T41	RNA-Noncoding 465 471	miR-32
+#17	AnnotatorNotes T41	HGNC:31631
+T42	Gene-Protein 676 681	PTBP1
+#18	AnnotatorNotes T42	HGNC:9583
+T43	Gene-Protein 739 743	CD44
+#19	AnnotatorNotes T43	HGNC:1681
+T44	RNA-Noncoding 610 617	miR-145
+#20	AnnotatorNotes T44	HGNC:31532
+T45	Gene-Protein 849 853	KLF4
+T46	RNA-Noncoding 1031 1038	miR-543
+#21	AnnotatorNotes T46	HGNC:33664
+T47	Gene-Protein 1181 1186	NDRG2
+#22	AnnotatorNotes T47	HGNC:14460
+T48	Drug 1130 1134	KLF4
+R3	Response Arg1:T48 Arg2:T19	
+T49	RNA-Noncoding 1290 1297	miR-203
+#23	AnnotatorNotes T49	family:1723
+T50	Gene-Protein 1298 1306	survivin
+#24	AnnotatorNotes T50	HGNC:593
+T51	Gene-Protein 1307 1310	p21
+#25	AnnotatorNotes T51	HGNC:1784
+T52	RNA-Noncoding 1471 1480	miR-153-1
+#26	AnnotatorNotes T52	HGNC:31539
+T21	RNA-Noncoding 1773 1782	miR-153-1
+R4	Association Arg1:T7 Arg2:T8	
+R5	Association Arg1:T10 Arg2:T9	
+#7	AnnotatorNotes T10	C541010
+R6	Risk-Reduce Arg1:T11 Arg2:T12	
+R7	Association Arg1:T13 Arg2:T14	
+R8	Association Arg1:T16 Arg2:T17	
+R9	Association Arg1:T16 Arg2:T15	
+#9	AnnotatorNotes T16	C577592
+#27	AnnotatorNotes T48	not found
+T18	Drug 1386 1390	KLF4
+R10	Response Arg1:T18 Arg2:T22	
+#28	AnnotatorNotes T19	DOID:9256

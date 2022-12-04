@@ -1,0 +1,35 @@
+T0	Gene-Protein 97 105	visfatin
+T1	Disease 110 114	PCOS
+#2	AnnotatorNotes T1	DOID:11612
+T12	Gene-Protein 678 686	visfatin
+T13	Disease 709 714	obese
+T14	Gene-Protein 805 813	visfatin
+T15	Disease 829 833	PCOS
+T16	Disease 893 900	obesity
+#7	AnnotatorNotes T16	DOID:9970
+T17	Gene-Protein 941 949	visfatin
+T18	Gene-Protein 1038 1046	visfatin
+T2	Disease 237 241	PCOS
+T20	Gene-Protein 1307 1315	visfatin
+T22	Disease 1376 1380	PCOS
+T23	Disease 1417 1424	obesity
+T4	Gene-Protein 361 369	visfatin
+T6	Disease 394 398	PCOS
+T7	Disease 450 455	obese
+#16	AnnotatorNotes T7	DOID:9970
+T9	Disease 566 570	PCOS
+#1	AnnotatorNotes T0	HGNC:30092
+T3	Biomarker 247 269	higher visfatin levels
+R1	Association Arg1:T3 Arg2:T2	
+T5	Gene-Protein 254 262	visfatin
+T8	Biomarker 361 369	visfatin
+T10	Gene-Protein 498 506	visfatin
+R2	Association Arg1:T8 Arg2:T6	
+T11	Biomarker 672 705	serum visfatin levels were higher
+R3	Association Arg1:T11 Arg2:T13	
+T19	Gene-Protein 1144 1152	visfatin
+#3	AnnotatorNotes T8	D054409
+T21	Biomarker 1138 1152	serum visfatin
+T24	Biomarker 799 813	serum visfatin
+T25	Biomarker 1032 1046	serum visfatin
+T26	Biomarker 492 506	serum visfatin

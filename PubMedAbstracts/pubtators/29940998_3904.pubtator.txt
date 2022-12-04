@@ -1,0 +1,58 @@
+29940998_3904|t|RSS_IDENT_p_29940998_b_1_1_3
+29940998_3904|a| ER-α36 (Estrogen receptor-alpha36), a member of ER superfamily with molecular weight 36 kDa, is a recently identified ER-α66 variant [ 11 ]. ER-α36 is responsible for estrogen-stimulated cell proliferation and development of ER-positive breast cancer [ 12 ]. A large amount of studies have reported that high-level expression of ER-α36 is closely related to tamoxifen resistance in breast cancer cells and is one of the underlying mechanisms of tamoxifen resistance [ 13 – 15 ]. In breast cancer cells overexpressing ER-α36, tamoxifen displays estrogen-like effects and activates MAPK/ERK signaling mediated by ER-α36, which is also known as ER-α36-mediated nongenomic estrogen signaling, and thereby stimulates cell survival and proliferation [ 16 – 18 ]. Recent studies have shown the existence of the ER-α36-EGFR/HER-2 positive regulatory loops in either ER-α negative or ER-α positive breast cancer cells [ 19 , 20 ]. ER-α36 can physically interact with the EGFR/HER-2. EGFR signaling can activate ER-α36 transcription through an AP1 site in the ER-α36 promoter, and ER-α36 expression stabilizes EGFR protein or positively regulates HER-2 expression [ 20 , 21 ]. In tamoxifen-resistant MCF-7 cells (MCF-7/TAM), tamoxifen induces expression of ER-α36-EGFR/HER-2 positive regulatory loops and the destruction of the loops restores tamoxifen sensitivity [ 19 ]. The role of ER-α36-mediated nongenomic estrogen signaling in tamoxifen resistance has attracted considerable attention, however, the significance of ER-α36 in cisplatin resistance in breast cancer cells has not been investigated.
+29940998_3904	30	36	ER-α36	Gene-protein	not found
+29940998_3904	38	46	Estrogen	Chemical
+29940998_3904	38	63	Estrogen receptor-alpha36	Gene-protein	not found
+29940998_3904	78	80	ER	Genefamily	not found
+29940998_3904	148	162	ER-α66 variant	Variant
+29940998_3904	171	177	ER-α36	Gene-protein
+29940998_3904	171	177	ER-α36	Biomarker
+29940998_3904	197	205	estrogen	Chemical
+29940998_3904	255	257	ER	Genefamily
+29940998_3904	255	280	ER-positive breast cancer	Disease	DOID:0060075
+29940998_3904	334	365	high-level expression of ER-α36	Biomarker
+29940998_3904	359	365	ER-α36	Gene-protein
+29940998_3904	388	397	tamoxifen	Drug	CHEMBL83
+29940998_3904	412	425	breast cancer	Disease	DOID:1612
+29940998_3904	475	484	tamoxifen	Drug
+29940998_3904	512	525	breast cancer	Disease
+29940998_3904	547	553	ER-α36	Gene-protein
+29940998_3904	555	564	tamoxifen	Drug
+29940998_3904	574	582	estrogen	Chemical
+29940998_3904	610	614	MAPK	Genefamily	family:651
+29940998_3904	615	618	ERK	Genefamily	family:not found
+29940998_3904	641	647	ER-α36	Gene-protein
+29940998_3904	672	678	ER-α36	Gene-protein
+29940998_3904	699	707	estrogen	Chemical
+29940998_3904	834	840	ER-α36	Gene-protein
+29940998_3904	834	877	ER-α36-EGFR/HER-2 positive regulatory loops	Biomarker
+29940998_3904	841	845	EGFR	Gene-protein	HGNC:3236
+29940998_3904	846	851	HER-2	Gene-protein	 HGNC:3430
+29940998_3904	888	892	ER-α	Gene-protein	HGNC:3467
+29940998_3904	888	932	ER-α negative or ER-α positive breast cancer	Disease	not found, DOID:0060075
+29940998_3904	905	909	ER-α	Gene-protein
+29940998_3904	952	958	ER-α36	Gene-protein
+29940998_3904	992	996	EGFR	Gene-protein
+29940998_3904	997	1002	HER-2	Gene-protein
+29940998_3904	1004	1008	EGFR	Gene-protein
+29940998_3904	1032	1038	ER-α36	Gene-protein
+29940998_3904	1080	1086	ER-α36	Gene-protein
+29940998_3904	1101	1107	ER-α36	Gene-protein
+29940998_3904	1130	1134	EGFR	Gene-protein
+29940998_3904	1167	1172	HER-2	Gene-protein
+29940998_3904	1200	1209	tamoxifen	Drug
+29940998_3904	1220	1225	MCF-7	Cellline
+29940998_3904	1233	1238	MCF-7	Cellline
+29940998_3904	1239	1242	TAM	Drug	CHEMBL83
+29940998_3904	1245	1254	tamoxifen	Drug
+29940998_3904	1277	1283	ER-α36	Gene-protein
+29940998_3904	1284	1288	EGFR	Gene-protein
+29940998_3904	1289	1294	HER-2	Gene-protein
+29940998_3904	1363	1372	tamoxifen	Drug
+29940998_3904	1405	1411	ER-α36	Gene-protein
+29940998_3904	1432	1440	estrogen	Chemical
+29940998_3904	1454	1463	tamoxifen	Drug
+29940998_3904	1542	1548	ER-α36	Gene-protein
+29940998_3904	1552	1561	cisplatin	Drug	CHEMBL11359
+29940998_3904	1576	1589	breast cancer	Disease
+

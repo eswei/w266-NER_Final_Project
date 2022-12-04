@@ -1,0 +1,49 @@
+31539407_27043|t|RSS_IDENT_p_31539407_b_1_4_5
+31539407_27043|a| The seemingly paradoxical role of GDF-15 in prostate cancer might be attributed to the biphasic regulation of GDF15 expression in early-stage of tumor development versus during tumor progression. Albeit GDF15 expression is downregulated in metastatic CRPCs compared to primary tumors, we found that the levels of GDF15 RNA and protein are higher in primary prostate tumors than in benign prostate tissues (S1 and S2 Figs). This is consistent with the report from a previous study, in which immunohistochemical staining of tissue microarrays containing over 1600 cores of benign prostate tissues, low- and high-grade prostatic intraepithelial neoplasia, and primary prostate cancer samples showed a progressive increase of GDF15 protein levels from benign tissues to low- and high-grade prostatic intraepithelial neoplasia and to prostate cancer [ 60 ]. However, the same study showed that in prostate cancer samples, lower GDF15 expression is associated with higher Gleason pattern and pathologic stage and increased risk of relapse after surgery [ 60 ]. This biphasic regulation of GDF15 expression was also observed in another study, which demonstrated a higher level of GDF15 mRNA in prostate cancer than in benign prostate tissues but a lower level of GDF15 mRNA in moderately and poorly differentiated adenocarcinomas than in well-differentiated prostate cancer [ 61 ]. Therefore, the role of GDF15 in prostate cancer is likely to be stage specific. It may promote early stages of tumorigenesis but suppress the progression of advanced prostate cancer. Consequently, the role of GDF15 in mediating the growth-suppressive effects of MSA is likely to be specific to prostate cancer cells that are at an advanced stage. 
+31539407_27043	64	70	GDF-15	Gene-protein	HGNC:30142
+31539407_27043	64	70	GDF-15	Biomarker	D055436
+31539407_27043	74	89	prostate cancer	Disease	DOID:10283
+31539407_27043	117	156	biphasic regulation of GDF15 expression	Biomarker
+31539407_27043	140	145	GDF15	Gene-protein
+31539407_27043	160	192	early-stage of tumor development	Disease	not found
+31539407_27043	207	212	tumor	Disease	DOID:162
+31539407_27043	233	238	GDF15	Gene-protein	HGNC:30142
+31539407_27043	233	266	GDF15 expression is downregulated	Biomarker
+31539407_27043	270	286	metastatic CRPCs	Disease	not found
+31539407_27043	299	313	primary tumors	Disease	DOID:162
+31539407_27043	333	375	levels of GDF15 RNA and protein are higher	Biomarker
+31539407_27043	343	348	GDF15	Gene-protein
+31539407_27043	379	402	primary prostate tumors	Disease	DOID:10283
+31539407_27043	411	434	benign prostate tissues	Disease	DOID:2883
+31539407_27043	601	624	benign prostate tissues	Disease
+31539407_27043	626	681	low- and high-grade prostatic intraepithelial neoplasia	Disease	not found, not found
+31539407_27043	687	710	primary prostate cancer	Disease
+31539407_27043	740	772	increase of GDF15 protein levels	Biomarker
+31539407_27043	752	757	GDF15	Gene-protein
+31539407_27043	778	792	benign tissues	Disease	DOID:0060072
+31539407_27043	796	851	low- and high-grade prostatic intraepithelial neoplasia	Disease
+31539407_27043	796	874	low- and high-grade prostatic intraepithelial neoplasia and to prostate cancer	Collection
+31539407_27043	859	874	prostate cancer	Disease
+31539407_27043	922	937	prostate cancer	Disease
+31539407_27043	947	969	lower GDF15 expression	Biomarker
+31539407_27043	953	958	GDF15	Gene-protein
+31539407_27043	989	1011	higher Gleason pattern	Biomarker
+31539407_27043	1016	1032	pathologic stage	Biomarker
+31539407_27043	1037	1062	increased risk of relapse	Biomarker
+31539407_27043	1113	1118	GDF15	Gene-protein
+31539407_27043	1187	1213	higher level of GDF15 mRNA	Biomarker
+31539407_27043	1203	1208	GDF15	Gene-protein
+31539407_27043	1217	1232	prostate cancer	Disease
+31539407_27043	1241	1264	benign prostate tissues	Disease
+31539407_27043	1271	1296	lower level of GDF15 mRNA	Biomarker
+31539407_27043	1286	1291	GDF15	Gene-protein
+31539407_27043	1337	1352	adenocarcinomas	Disease	DOID:299
+31539407_27043	1381	1396	prostate cancer	Disease
+31539407_27043	1428	1433	GDF15	Gene-protein
+31539407_27043	1428	1433	GDF15	Biomarker	D055436
+31539407_27043	1437	1452	prostate cancer	Disease	DOID:10283
+31539407_27043	1562	1586	advanced prostate cancer	Disease	not found
+31539407_27043	1614	1619	GDF15	Gene-protein
+31539407_27043	1667	1670	MSA	Chemical
+31539407_27043	1699	1714	prostate cancer	Disease
+

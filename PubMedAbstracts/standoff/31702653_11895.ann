@@ -1,0 +1,65 @@
+T0	Biomarker 148 190	Hyperpermeability of the intestinal mucosa
+T10	Disease 636 641	IgAVN
+T12	Gene-Protein 715 719	AECA
+T14	Disease 835 845	vasculitis
+#4	AnnotatorNotes T14	DOID:865
+T15	Disease 991 996	IgAVN
+T16	Disease 1062 1074	periaortitis
+T17	Disease 1117 1127	thrombosis
+#7	AnnotatorNotes T17	DOID:0060903
+T18	Disease 1140 1156	Vascular disease
+#8	AnnotatorNotes T18	DOID:178
+T22	Disease 1532 1548	vascular disease
+#11	AnnotatorNotes T22	DOID:178
+T3	Disease 299 303	IgAN
+T7	Disease 353 358	IgAVN
+T8	Disease 389 399	vasculitis
+#17	AnnotatorNotes T8	DOID:865
+T1	Disease 53 58	IgAVN
+#3	AnnotatorNotes T1	not found
+T2	Disease 120 124	IgAN
+#6	AnnotatorNotes T2	DOID:2986
+T6	Disease 130 135	IgAVN
+T9	Drug 78 89	bevacizumab
+#2	AnnotatorNotes T9	CHEMBL1201583
+T11	Drug 97 108	bevacizumab
+T13	Drug 201 212	bevacizumab
+T21	Drug 752 763	bevacizumab
+T24	Drug 922 933	bevacizumab
+T25	Drug 1028 1039	bevacizumab
+T26	Gene-Protein 253 256	IgA
+#5	AnnotatorNotes T26	not found
+T27	Biomarker 243 266	excessive IgA secretion
+T4	Biomarker 310 317	Gd-IgA1
+T5	Gene-Protein 313 317	IgA1
+#13	AnnotatorNotes T5	not found
+R2	Association Arg1:T4 Arg2:T7	
+T28	Gene-Protein 430 433	IgA
+T29	Biomarker 430 509	IgA and anti-epithelial cell antibodies (AECA) bind to the vascular endothelium
+R3	Association Arg1:T29 Arg2:T10	
+T30	Gene-Protein 438 469	anti-epithelial cell antibodies
+#14	AnnotatorNotes T30	not found
+T31	Gene-Protein 471 475	AECA
+#15	AnnotatorNotes T31	not found
+T32	Disease 867 883	acute-phase IgAV
+#16	AnnotatorNotes T32	not found
+T33	Collection 835 883	vasculitis and in children with acute-phase IgAV
+T34	GeneFamily 800 804	VEGF
+#18	AnnotatorNotes T34	family:1267
+T35	Biomarker 781 804	high expression of VEGF
+R4	Association Arg1:T35 Arg2:T33	
+T36	Collection 1062 1127	periaortitis and leading to an increase in the rate of thrombosis
+R6	Causes Arg1:T25 Arg2:T36	
+#19	AnnotatorNotes T16	not found
+T20	Biomarker 1173 1228	imbalance between vascular injury and epithelial repair
+R7	Association Arg1:T20 Arg2:T18	
+T19	GeneFamily 1276 1296	angiogenic cytokines
+#9	AnnotatorNotes T19	not found
+T37	GeneFamily 1309 1313	VEGF
+T38	Gene-Protein 1471 1491	anti-VEGF antibodies
+T39	Biomarker 1397 1491	inability to mobilize endothelial progenitor cells due to the presence of anti-VEGF antibodies
+R8	Risk-Factor Arg1:T39 Arg2:T22	
+T40	Disease 1603 1639	chemotherapy-induced vascular damage
+#10	AnnotatorNotes T40	not found
+#12	AnnotatorNotes T38	not found
+T23	Drug-Class 1603 1615	chemotherapy

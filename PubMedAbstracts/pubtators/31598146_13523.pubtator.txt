@@ -1,0 +1,49 @@
+31598146_13523|t|RSS_IDENT_p_31598146_b_1_4_5
+31598146_13523|a| The roles of miR-107 are different for different cancers. For example miR-107 is a suppressor of breast cancer 44 , 45 , renal cancer 46 and glioma 47 ; in contrast, this miRNA can promote human gastric cancer 48 , 49 and hepatocellular carcinoma 50 . In 2014, Wang et al. found that the TT genotype of rs2296616 was a risk factor for gastric cancer 51 . In addition, they also found that the TT genotype was associated with higher miR-107 expression than the CC genotype 51 . MiR-125a is a suppressor of colon cancer 52 , prostate cancer 53 , ovarian cancer 54 , breast cancer 55 and prostate cancer 56 . In cervical cancer, miR-125a suppresses tumour growth, invasion and metastasis by targeting STAT3. In 2016, Xu et al. 57 reported that the AA genotype of rs8111742 in miR-125a increased the risk for gastric cancer associated with H. pylori, and this same effect was found by Wu et al. 58 in the H. pylori-positive group. SNP rs999885, located at the promoter region of the miR-106b-25 cluster, has been reported to be associated with the risk for hepatocellular carcinoma 59 . It was reported that rs1143770 in the let7-a-2 gene is associated with non-small-cell lung cancer 60 but not gastric cancer 61 . In the current study, we did not find that rs2296616, rs8111742, rs999885 and rs1143770 were associated with cervical cancer. The reasons for these differences between the other studies and the current study could be the various roles of the same miRNAs in different human cancers, and this possibility is supported by the tissue-specific expression of miRNAs 62 . Thus, it is necessary to investigate the function of the SNPs in miRNA genes in specific tissues. 
+31598146_13523	43	50	miR-107	Rna-noncoding	HGNC:31496
+31598146_13523	43	50	miR-107	Biomarker	C549045
+31598146_13523	79	86	cancers	Disease	DOID:162
+31598146_13523	100	107	miR-107	Rna-noncoding
+31598146_13523	127	140	breast cancer	Disease	DOID:1612
+31598146_13523	151	163	renal cancer	Disease	DOID:263
+31598146_13523	171	177	glioma	Disease	DOID:3070
+31598146_13523	201	206	miRNA	Biomarker	D035683
+31598146_13523	201	206	miRNA	Rna-noncoding	family:476
+31598146_13523	225	239	gastric cancer	Disease	DOID:10534
+31598146_13523	225	276	gastric cancer 48 , 49 and hepatocellular carcinoma	Collection
+31598146_13523	252	276	hepatocellular carcinoma	Disease	DOID:684
+31598146_13523	318	342	TT genotype of rs2296616	Biomarker
+31598146_13523	365	379	gastric cancer	Disease
+31598146_13523	423	434	TT genotype	Biomarker
+31598146_13523	455	480	higher miR-107 expression	Biomarker
+31598146_13523	462	469	miR-107	Rna-noncoding
+31598146_13523	507	515	MiR-125a	Rna-noncoding	HGNC:31505
+31598146_13523	535	547	colon cancer	Disease	DOID:219|DOID:235
+31598146_13523	553	568	prostate cancer	Disease	DOID:10283
+31598146_13523	574	588	ovarian cancer	Disease	DOID:2394
+31598146_13523	594	607	breast cancer	Disease
+31598146_13523	615	630	prostate cancer	Disease
+31598146_13523	639	654	cervical cancer	Disease	DOID:4362
+31598146_13523	656	664	miR-125a	Drug	C531888
+31598146_13523	656	664	miR-125a	Rna-noncoding	HGNC:31505
+31598146_13523	676	682	tumour	Disease	DOID:162
+31598146_13523	728	733	STAT3	Gene-protein	HGNC:11364
+31598146_13523	775	811	AA genotype of rs8111742 in miR-125a	Biomarker
+31598146_13523	803	811	miR-125a	Rna-noncoding
+31598146_13523	835	875	gastric cancer associated with H. pylori	Disease	not found
+31598146_13523	866	874	H. pylor	Microorganism
+31598146_13523	931	940	H. pylori	Microorganism
+31598146_13523	961	969	rs999885	Biomarker
+31598146_13523	1009	1020	miR-106b-25	Rna-noncoding
+31598146_13523	1083	1107	hepatocellular carcinoma	Disease
+31598146_13523	1134	1164	rs1143770 in the let7-a-2 gene	Biomarker
+31598146_13523	1151	1159	let7-a-2	Rna-noncoding	HGNC:31477
+31598146_13523	1184	1210	non-small-cell lung cancer	Disease	DOID:3908
+31598146_13523	1222	1236	gastric cancer	Disease
+31598146_13523	1285	1294	rs2296616	Biomarker
+31598146_13523	1296	1305	rs8111742	Biomarker
+31598146_13523	1307	1315	rs999885	Biomarker
+31598146_13523	1320	1329	rs1143770	Biomarker
+31598146_13523	1351	1366	cervical cancer	Disease
+31598146_13523	1515	1522	cancers	Disease
+

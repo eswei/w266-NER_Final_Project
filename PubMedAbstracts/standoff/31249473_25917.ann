@@ -1,0 +1,67 @@
+T0	Disease 123 137	gastric cancer
+#1	AnnotatorNotes T0	DOID:10534
+T10	Disease 674 691	gastric carcinoma
+#2	AnnotatorNotes T10	DOID:5517
+T13	Disease 879 893	gastric cancer
+T15	Disease 990 992	GC
+T16	Disease 1028 1030	GC
+T17	Disease 1141 1143	GC
+T18	Disease 1247 1261	gastric cancer
+T3	Disease 402 432	chemo-resistant gastric cancer
+#9	AnnotatorNotes T3	not found
+T5	Disease 514 519	tumor
+#11	AnnotatorNotes T5	DOID:162
+T6	Disease 559 573	gastric cancer
+T1	Gene-Protein 30 35	HMGA2
+#3	AnnotatorNotes T1	HGNC:5009
+T2	Gene-Protein 167 172	HMGA2
+T7	Gene-Protein 229 234	HMGA2
+T9	Gene-Protein 320 325	HMGA2
+T12	Gene-Protein 441 446	HMGA2
+T14	Gene-Protein 582 587	HMGA2
+T19	Gene-Protein 998 1003	HMGA2
+T20	Gene-Protein 958 963	HMGA2
+T21	Biomarker 220 252	Elevated HMGA2 expression levels
+R1	Prognostic-Poor Arg1:T21 Arg2:T0	
+T22	Gene-Protein 326 331	FOXL2
+#5	AnnotatorNotes T22	HGNC:1092
+T4	Biomarker 320 346	HMGA2-FOXL2 axis regulates
+R2	Association Arg1:T4 Arg2:T3	
+T23	Gene-Protein 549 555	TWIST1
+#6	AnnotatorNotes T23	HGNC:12428
+T24	Gene-Protein 664 670	Twist1
+#7	AnnotatorNotes T24	HGNC:12428
+T8	Biomarker 582 587	HMGA2
+T25	Biomarker 651 670	upregulating Twist1
+R3	Association Arg1:T8 Arg2:T10	
+T26	Collection 514 573	tumor stem cell properties through TWIST1 in gastric cancer
+T27	Biomarker 441 446	HMGA2
+R4	Association Arg1:T27 Arg2:T26	
+T28	RNA-Noncoding 728 735	miR-503
+#10	AnnotatorNotes T28	HGNC:32138
+T29	RNA-Noncoding 979 986	miR-503
+T30	Disease 703 705	GC
+T11	Gene-Protein 1275 1280	HMGA2
+T31	Gene-Protein 1074 1079	HMGA2
+T32	RNA-Noncoding 1193 1200	MiR-503
+#12	AnnotatorNotes T32	HGNC:32138
+T33	RNA-Noncoding 1130 1137	miR-503
+T34	RNA-Noncoding 898 905	miR-503
+T35	Gene-Protein 807 812	ERBB2
+#13	AnnotatorNotes T35	HGNC:3430
+T36	Gene-Protein 906 912	CACUL1
+#14	AnnotatorNotes T36	HGNC:23727
+T37	GeneFamily 1298 1301	WNT
+#15	AnnotatorNotes T37	family:360
+#16	AnnotatorNotes T27	D025743
+T38	Biomarker 773 812	upregulation of circular RNA circ-ERBB2
+R5	Prognostic-Poor Arg1:T38 Arg2:T13	
+#4	AnnotatorNotes T30	DOID:10534
+T39	Biomarker 998 1018	HMGA2 overexpression
+R6	Association Arg1:T39 Arg2:T16	
+T40	Drug 1193 1200	MiR-503
+R7	Response Arg1:T40 Arg2:T18	
+#8	AnnotatorNotes T40	C545473
+T41	Drug 1130 1137	miR-503
+#17	AnnotatorNotes T41	C545473
+R8	Response Arg1:T41 Arg2:T17	

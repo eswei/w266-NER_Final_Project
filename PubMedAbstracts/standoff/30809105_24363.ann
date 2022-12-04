@@ -1,0 +1,144 @@
+T0	Disease 100 102	OA
+#1	AnnotatorNotes T0	DOID:8398
+T1	Biomarker 230 279	Numerous cytokines and chemokines are upregulated
+T10	Chemical 1317 1323	methyl
+T12	Disease 1634 1636	OA
+T14	Biomarker 1657 1679	cartilage degeneration
+T15	Biomarker 1681 1699	soft tissue damage
+T17	Biomarker 1705 1717	inflammation
+T18	Disease 1722 1724	OA
+T19	Disease 1889 1891	OA
+T2	Gene-Protein 283 291	resistin
+T20	Biomarker 1913 2083	greater than 10-fold increase in the expression of IL-1α, IL-1β, CCL3, CCL3L1, CCL4, CCL5, CCL8, CCL20, CXCL1, CXCL2, CXCL3, CXCL5, CXCL6, CXCL8 (IL-8), MMP-1, and MMP-13
+T21	Gene-Protein 2186 2194	resistin
+T22	Gene-Protein 2265 2273	resistin
+T23	Disease 2435 2437	OA
+T3	Disease 349 378	chronic inflammatory diseases
+#11	AnnotatorNotes T3	not found
+T4	Disease 387 389	RA
+#12	AnnotatorNotes T4	DOID:7148
+T5	Disease 394 396	OA
+T6	Disease 517 519	RA
+T7	Disease 656 658	RA
+T9	Biomarker 836 956	upregulated molecules included the seven chemokines, CXCL1, CXCL2, CXCL3, CXCL5, CXCL6, CXCL8, and CCL2, as well as IL-6
+T24	GeneFamily 49 58	Cytokines
+#2	AnnotatorNotes T24	not found
+T25	GeneFamily 63 73	Chemokines
+#9	AnnotatorNotes T25	not found
+T26	Gene-Protein 88 96	Resistin
+#16	AnnotatorNotes T26	HGNC:20389
+T27	Gene-Protein 137 145	resistin
+#17	AnnotatorNotes T27	HGNC:20389
+T28	GeneFamily 239 248	cytokines
+#18	AnnotatorNotes T28	not found
+T29	GeneFamily 253 263	chemokines
+#19	AnnotatorNotes T29	not found
+T30	Biomarker 283 291	resistin
+#20	AnnotatorNotes T30	D052243
+T31	Collection 349 396	chronic inflammatory diseases such as RA and OA
+R1	Association Arg1:T30 Arg2:T31	
+T32	Gene-Protein 442 450	resistin
+T33	Biomarker 412 450	proinflammatory properties of resistin
+T34	Gene-Protein 687 695	resistin
+T8	Gene-Protein 776 784	resistin
+T35	Gene-Protein 889 894	CXCL1
+#13	AnnotatorNotes T35	HGNC:4602
+T36	Gene-Protein 896 901	CXCL2
+#14	AnnotatorNotes T36	HGNC:4603
+T37	Gene-Protein 903 908	CXCL3
+#15	AnnotatorNotes T37	HGNC:4604
+T38	Gene-Protein 910 915	CXCL5
+#21	AnnotatorNotes T38	HGNC:10642
+T39	Gene-Protein 917 922	CXCL6
+#22	AnnotatorNotes T39	HGNC:10643
+T40	Gene-Protein 924 929	CXCL8
+#23	AnnotatorNotes T40	HGNC:6025
+T41	Gene-Protein 935 939	CCL2
+#24	AnnotatorNotes T41	HGNC:10618
+T42	Gene-Protein 952 956	IL-6
+#25	AnnotatorNotes T42	HGNC:6018
+T43	Gene-Protein 1112 1120	resistin
+T44	GeneFamily 1163 1172	cytokines
+T45	GeneFamily 1177 1187	chemokines
+T46	Gene-Protein 1197 1202	IL-1α
+#26	AnnotatorNotes T46	HGNC:5991
+T47	Gene-Protein 1204 1209	IL-1β
+#27	AnnotatorNotes T47	HGNC:5992
+T48	Gene-Protein 1211 1217	IL-1Rα
+#28	AnnotatorNotes T48	HGNC:6019
+T49	Gene-Protein 1219 1223	IL-6
+T50	Gene-Protein 1225 1229	IL-7
+#30	AnnotatorNotes T50	HGNC:6023
+T51	Gene-Protein 1231 1235	CCL4
+#31	AnnotatorNotes T51	HGNC:10630
+T52	Gene-Protein 1236 1278	macrophage inflammatory protein- (MIP-) 1α
+#32	AnnotatorNotes T52	HGNC:10627
+T53	Gene-Protein 1280 1284	CCL3
+#33	AnnotatorNotes T53	HGNC:10627
+T54	Gene-Protein 1285 1291	MIP-1β
+#34	AnnotatorNotes T54	HGNC:10630
+T55	Gene-Protein 1293 1298	CXCL8
+T56	Gene-Protein 1299 1303	IL-8
+#36	AnnotatorNotes T56	HGNC:6025
+T57	Gene-Protein 1305 1310	IL-10
+#37	AnnotatorNotes T57	HGNC:5962
+T58	Gene-Protein 1312 1316	CCL2
+T59	Gene-Protein 1317 1361	methyl-accepted chemotaxis protein- (MCP-) 1
+#39	AnnotatorNotes T59	HGNC:10618
+T60	Gene-Protein 1363 1400	granulocyte colony-stimulating factor
+#40	AnnotatorNotes T60	HGNC:2438
+T61	Gene-Protein 1402 1407	G-CSF
+#41	AnnotatorNotes T61	HGNC:2438
+T62	Gene-Protein 1414 1419	TNF-α
+#42	AnnotatorNotes T62	HGNC:11892
+T63	Gene-Protein 1462 1470	resistin
+T11	Gene-Protein 1562 1566	IL-6
+T64	Gene-Protein 1568 1573	TNF-α
+T65	Gene-Protein 1579 1584	IL-1β
+T66	GeneFamily 1593 1596	PKA
+#43	AnnotatorNotes T66	not found
+T67	GeneFamily 1601 1606	NF-κB
+#44	AnnotatorNotes T67	family:1254
+#3	AnnotatorNotes T17	D007249
+T13	Collection 1657 1717	cartilage degeneration, soft tissue damage, and inflammation
+R2	Association Arg1:T13 Arg2:T12	
+T16	GeneFamily 1765 1791	proinflammatory chemokines
+#4	AnnotatorNotes T16	not found
+T68	GeneFamily 1793 1802	cytokines
+T69	Gene-Protein 1964 1969	IL-1α
+T70	Gene-Protein 1971 1976	IL-1β
+T71	Gene-Protein 1978 1982	CCL3
+T72	Gene-Protein 1984 1990	CCL3L1
+#5	AnnotatorNotes T72	HGNC:10628
+T73	Gene-Protein 1992 1996	CCL4
+T74	Gene-Protein 1998 2002	CCL5
+#6	AnnotatorNotes T74	HGNC:10632
+T75	Gene-Protein 2004 2008	CCL8
+#7	AnnotatorNotes T75	HGNC:10635
+T76	Gene-Protein 2010 2015	CCL20
+#8	AnnotatorNotes T76	HGNC:10619
+T77	Gene-Protein 2017 2022	CXCL1
+T78	Gene-Protein 2024 2029	CXCL2
+T79	Gene-Protein 2031 2036	CXCL3
+T80	Gene-Protein 2038 2043	CXCL5
+T81	Gene-Protein 2045 2050	CXCL6
+T82	Gene-Protein 2052 2057	CXCL8
+T83	Gene-Protein 2059 2063	IL-8
+T84	Gene-Protein 2066 2071	MMP-1
+#35	AnnotatorNotes T84	HGNC:7155
+T85	Gene-Protein 2077 2083	MMP-13
+#45	AnnotatorNotes T85	HGNC:7159
+T86	Gene-Protein 2138 2142	TNFα
+#46	AnnotatorNotes T86	HGNC:11892
+T87	Gene-Protein 2150 2156	CX3CL1
+#47	AnnotatorNotes T87	HGNC:10647
+T88	Gene-Protein 2144 2148	CCL2
+T89	Gene-Protein 2162 2170	ADAMTS-4
+#48	AnnotatorNotes T89	HGNC:220
+T90	Biomarker 2090 2170	less than 10-fold increase in the expression of TNFα, CCL2, CX3CL1, and ADAMTS-4
+T91	Collection 1913 2170	greater than 10-fold increase in the expression of IL-1α, IL-1β, CCL3, CCL3L1, CCL4, CCL5, CCL8, CCL20, CXCL1, CXCL2, CXCL3, CXCL5, CXCL6, CXCL8 (IL-8), MMP-1, and MMP-13 and a less than 10-fold increase in the expression of TNFα, CCL2, CX3CL1, and ADAMTS-4
+T92	Biomarker 2331 2373	cytokines/chemokines triggered by resistin
+R4	Association Arg1:T92 Arg2:T23	
+T93	GeneFamily 2341 2351	chemokines
+T94	GeneFamily 2331 2340	cytokines
+T95	Gene-Protein 2365 2373	resistin

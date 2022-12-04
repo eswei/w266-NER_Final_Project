@@ -1,0 +1,52 @@
+30134822_41661|t|RSS_IDENT_s_30134822_b_1_5
+30134822_41661|a| Conclusions In conclusion, our study provides an insight into the potential role of EGFR in advanced and invasive PCa possibly by acting as an upstream regulator of AR via the PI3K/AKT axis in growth and survival while likely acting through distinct pathways in invasive mechanisms. The study also provides a clue about the communication between the EGFR/AR axis and MMP-9, which might be a crucial component of tumor dissemination and establishment at the metastatic sites. Abbreviations AR Androgen receptor BCR Biochemical recurrence CNA Copy-number alteration CRPC Castration-resistant prostate cancer CTCs Circulating tumor cells DFS Disease-free survival DHT Dihydrotestosterone ECM Extracellular matrix EGFR Epidermal growth factor receptor ER Estrogen receptor FBS Fetal bovine serum HER-2 Human epidermal growth factor receptor-2 IGF Insulin-like growth factor MMP-9 Matrix metalloproteinase-9 PCa Prostate cancer p-GSK-3β Phospho-Glycogen synthase kinase-3-beta PIP5K1α Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha PSA Prostate-specific antigen PSN Penicillin-streptomycin-neomycin PTEN Phosphatase and tensin homolog TICs Tumor initiating cells TMAs Tissue microarrays VEGF Vascular endothelial growth factor Authors’ contributions
+30134822_41661	112	116	EGFR	Gene-protein	HGNC:3236
+30134822_41661	112	116	EGFR	Biomarker	D066246
+30134822_41661	120	145	advanced and invasive PCa	Disease	not found, not found
+30134822_41661	193	195	AR	Gene-protein	HGNC:644
+30134822_41661	204	208	PI3K	Genefamily	family:831
+30134822_41661	209	212	AKT	Genefamily	family:1900
+30134822_41661	352	400	communication between the EGFR/AR axis and MMP-9	Biomarker
+30134822_41661	378	382	EGFR	Gene-protein
+30134822_41661	383	385	AR	Gene-protein
+30134822_41661	395	400	MMP-9	Gene-protein	HGNC:7176
+30134822_41661	440	445	tumor	Disease	DOID:162
+30134822_41661	517	519	AR	Gene-protein
+30134822_41661	520	528	Androgen	Chemical
+30134822_41661	520	536	Androgen recepto	Gene-protein	HGNC:644
+30134822_41661	592	596	CRPC	Disease	DOID:0080909
+30134822_41661	597	633	Castration-resistant prostate cancer	Disease	DOID:0080909
+30134822_41661	651	656	tumor	Disease
+30134822_41661	689	692	DHT	Chemical
+30134822_41661	693	712	Dihydrotestosterone	Chemical
+30134822_41661	738	742	EGFR	Gene-protein
+30134822_41661	743	775	Epidermal growth factor receptor	Gene-protein	HGNC:3236
+30134822_41661	776	778	ER	Genefamily	not found
+30134822_41661	779	787	Estrogen	Chemical
+30134822_41661	779	796	Estrogen receptor	Genefamily	not found
+30134822_41661	820	825	HER-2	Gene-protein	HGNC:3430
+30134822_41661	826	866	Human epidermal growth factor receptor-2	Gene-protein	HGNC:3430
+30134822_41661	867	870	IGF	Genefamily	not found
+30134822_41661	871	897	Insulin-like growth factor	Genefamily	not found
+30134822_41661	898	903	MMP-9	Gene-protein	HGNC:7176
+30134822_41661	904	930	Matrix metalloproteinase-9	Gene-protein	HGNC:7176
+30134822_41661	931	934	PCa	Disease	DOID:10283
+30134822_41661	935	950	Prostate cancer	Disease	DOID:10283
+30134822_41661	953	959	GSK-3β	Gene-protein	HGNC:4617
+30134822_41661	960	967	Phospho	Chemical
+30134822_41661	968	999	Glycogen synthase kinase-3-beta	Gene-protein	HGNC:4617
+30134822_41661	1000	1007	PIP5K1α	Gene-protein	HGNC:8994
+30134822_41661	1008	1040	Phosphatidylinositol 4-phosphate	Chemical
+30134822_41661	1008	1062	Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha	Gene-protein	HGNC:8994
+30134822_41661	1063	1066	PSA	Gene-protein	HGNC:6364
+30134822_41661	1067	1092	Prostate-specific antigen	Gene-protein	HGNC:6364
+30134822_41661	1093	1096	PSN	Chemical
+30134822_41661	1097	1107	Penicillin	Chemical
+30134822_41661	1108	1120	streptomycin	Chemical
+30134822_41661	1121	1129	neomycin	Chemical
+30134822_41661	1130	1134	PTEN	Gene-protein	HGNC:9588
+30134822_41661	1135	1165	Phosphatase and tensin homolog	Gene-protein	HGNC:9588
+30134822_41661	1171	1176	Tumor	Disease	DOID:162
+30134822_41661	1218	1222	VEGF	Genefamily	family:1267
+30134822_41661	1223	1257	Vascular endothelial growth factor	Genefamily	family:1267
+

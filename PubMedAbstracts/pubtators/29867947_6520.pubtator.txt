@@ -1,0 +1,87 @@
+29867947_6520|t|RSS_IDENT_s_29867947_b_1_2_4
+29867947_6520|a| Antibodies The following antibodies were used in flow cytometry experiments: FITC-conjugated antibodies to mouse CD5 (53-7.3), IgD (11-26c.2a), CD21/35 (4E3), CD44 (IM7), CD40 (HM40-3) and CD69 (H1.2F3); PE-conjugated antibodies to mouse IgM (RMM-1), CD27 (lg.3a10), CD25 (PC61), CD80 (16-10A1), MHC class II (I-A/I-E) (M5/114.15.2) and CD45.2 (104); PE/Cy5-conjugated antibodies to mouse CD45R/B220 (RA3-6B2) and CD19 (6D5); and APC-conjugated antibodies to mouse CD138 (281-2), CD86 (GL-1), CD45.1 (A20), and CD21/35 (4E3). All antibodies were purchased from BioLegend (San Diego, CA, USA), except the FITC-conjugated antibodies to mouse CD21/35 (4E3) and CD93 (AA4.4), and the APC-conjugated antibody to mouse CD23 (B3B4), which were from Ebioscience (San Diego, CA, USA); as well as the FITC-conjugated antibody to mouse GL-7 (GL7) and the PE-conjugated antibody to mouse CD95/Fas (Jo2), which were from BD Biosciences (San Diego, CA, USA). For immunoblots, anti-mouse Lyn, anti-mouse phospho-Syk (Try532), TRAF2/3/6 antibody were purchased from Santa Cruz Biotechnology (Santa Cruz, CA, USA), anti-mouse Akt, anti-mouse phospho-Akt (Ser473), anti-mouse IκBa, anti-mouse PLCγ2, anti-mouse phospho-PLCγ2 (Tyr759), anti-mouse JNK2, anti-mouse phospho-JNK (Thr183/Tyr185), anti-mouse p44/42 MAPK (Erk1/2), anti-mouse phospho- p44/42 MAPK (Erk1/2) (Thr202/Tyr204), anti-mouse p38 MAPK, and anti-mouse phospho-p38 MAPK (Thr180/Tyr182) antibodies were purchased from Cell Signaling Technology (Danvers, MA, USA). The anti-mouse GRB2, anti-mouse phospho-IκBa (Ser32), anti-mouse BLNK, anti-mouse Btk, anti-mouse phospho-GRB2 (Tyr614), anti-mouse phospho-BLNK (Tyr84), and anti-mouse phospho-Btk (Tyr223) antibodies were from Beijing 4A Biotechnology (Beijing, China). The anti-mouse Syk and anti-mouse NLAT (LAB) antibodies were from BioLegend (San Diego, CA, USA). The anti-mouse phospho-Lyn (Tyr507) antibody was from Abcam (Cambridge, MA, USA), the anti-mouse phospho-NLAT (LAB) (Tyr136) antibody was from Thermo Fisher Scientific (Waltham, MA, USA), and the anti-mouse GAPDH monoclonal antibody was from CWbiotech (Beijing, China).
+29867947_6520	107	111	FITC	Chemical
+29867947_6520	143	146	CD5	Gene-protein
+29867947_6520	148	154	53-7.3	Gene-protein
+29867947_6520	157	160	IgD	Genefamily
+29867947_6520	162	171	11-26c.2a	Gene-protein
+29867947_6520	174	181	CD21/35	Gene-protein
+29867947_6520	183	186	4E3	Gene-protein
+29867947_6520	189	193	CD44	Gene-protein
+29867947_6520	195	198	IM7	Gene-protein
+29867947_6520	201	205	CD40	Gene-protein
+29867947_6520	207	213	HM40-3	Gene-protein
+29867947_6520	219	223	CD69	Gene-protein
+29867947_6520	225	231	H1.2F3	Gene-protein
+29867947_6520	234	236	PE	Chemical
+29867947_6520	268	271	IgM	Genefamily
+29867947_6520	273	278	RMM-1	Gene-protein
+29867947_6520	281	285	CD27	Gene-protein
+29867947_6520	287	294	lg.3a10	Gene-protein
+29867947_6520	297	301	CD25	Gene-protein
+29867947_6520	303	307	PC61	Gene-protein
+29867947_6520	310	314	CD80	Gene-protein
+29867947_6520	316	323	16-10A1	Gene-protein
+29867947_6520	326	338	MHC class II	Genefamily
+29867947_6520	340	347	I-A/I-E	Gene-protein
+29867947_6520	350	361	M5/114.15.2	Gene-protein
+29867947_6520	367	373	CD45.2	Gene-protein
+29867947_6520	375	378	104	Gene-protein
+29867947_6520	381	383	PE	Chemical
+29867947_6520	384	387	Cy5	Chemical
+29867947_6520	419	429	CD45R/B220	Gene-protein
+29867947_6520	431	438	RA3-6B2	Gene-protein
+29867947_6520	444	448	CD19	Gene-protein
+29867947_6520	450	453	6D5	Gene-protein
+29867947_6520	460	463	APC	Chemical
+29867947_6520	495	500	CD138	Gene-protein
+29867947_6520	502	507	281-2	Gene-protein
+29867947_6520	510	514	CD86	Gene-protein
+29867947_6520	516	520	GL-1	Gene-protein
+29867947_6520	523	529	CD45.1	Gene-protein
+29867947_6520	531	534	A20	Gene-protein
+29867947_6520	541	548	CD21/35	Gene-protein
+29867947_6520	550	553	4E3	Gene-protein
+29867947_6520	634	638	FITC	Chemical
+29867947_6520	670	677	CD21/35	Gene-protein
+29867947_6520	679	682	4E3	Gene-protein
+29867947_6520	688	692	CD93	Gene-protein
+29867947_6520	694	699	AA4.4	Gene-protein
+29867947_6520	743	747	CD23	Gene-protein
+29867947_6520	749	753	B3B4	Gene-protein
+29867947_6520	821	825	FITC	Chemical
+29867947_6520	855	859	GL-7	Gene-protein
+29867947_6520	861	864	GL7	Gene-protein
+29867947_6520	874	876	PE	Chemical
+29867947_6520	906	910	CD95	Gene-protein
+29867947_6520	911	914	Fas	Gene-protein
+29867947_6520	916	919	Jo2	Gene-protein
+29867947_6520	992	1006	anti-mouse Lyn	Gene-protein
+29867947_6520	1008	1030	anti-mouse phospho-Syk	Gene-protein
+29867947_6520	1041	1059	TRAF2/3/6 antibody	Gene-protein
+29867947_6520	1128	1142	anti-mouse Akt	Gene-protein
+29867947_6520	1144	1166	anti-mouse phospho-Akt	Gene-protein
+29867947_6520	1177	1192	anti-mouse IκBa	Gene-protein
+29867947_6520	1194	1210	anti-mouse PLCγ2	Gene-protein
+29867947_6520	1212	1236	anti-mouse phospho-PLCγ2	Gene-protein
+29867947_6520	1247	1262	anti-mouse JNK2	Gene-protein
+29867947_6520	1264	1286	anti-mouse phospho-JNK	Gene-protein
+29867947_6520	1304	1326	anti-mouse p44/42 MAPK	Gene-protein
+29867947_6520	1328	1334	Erk1/2	Gene-protein
+29867947_6520	1337	1368	anti-mouse phospho- p44/42 MAPK	Gene-protein
+29867947_6520	1370	1376	Erk1/2	Gene-protein
+29867947_6520	1395	1414	anti-mouse p38 MAPK	Gene-protein
+29867947_6520	1420	1447	anti-mouse phospho-p38 MAPK	Gene-protein
+29867947_6520	1545	1560	anti-mouse GRB2	Gene-protein
+29867947_6520	1562	1585	anti-mouse phospho-IκBa	Gene-protein
+29867947_6520	1595	1610	anti-mouse BLNK	Gene-protein
+29867947_6520	1612	1626	anti-mouse Btk	Gene-protein
+29867947_6520	1628	1651	anti-mouse phospho-GRB2	Gene-protein
+29867947_6520	1662	1685	anti-mouse phospho-BLNK	Gene-protein
+29867947_6520	1699	1721	anti-mouse phospho-Btk	Gene-protein
+29867947_6520	1799	1813	anti-mouse Syk	Gene-protein
+29867947_6520	1818	1833	anti-mouse NLAT	Gene-protein
+29867947_6520	1897	1919	anti-mouse phospho-Lyn	Gene-protein
+29867947_6520	1979	2002	anti-mouse phospho-NLAT	Gene-protein
+29867947_6520	2089	2125	anti-mouse GAPDH monoclonal antibody	Gene-protein
+

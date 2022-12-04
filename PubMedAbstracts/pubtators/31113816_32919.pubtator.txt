@@ -1,0 +1,47 @@
+31113816_32919|t|RSS_IDENT_p_31113816_b_1_11_3
+31113816_32919|a| The level of 7α-HCO is normally regarded as a marker for bile acid synthesis. It has been reported that the serum level of 7α-HCO is significantly increased in patients with NASH ( 46 – 48 ). In another study, it was shown that the mRNA expression of CYP7A1, the rate-limiting enzyme in bile acid synthesis, was induced in human NASH livers ( 49 ). In partial agreement with a previous study ( 48 ), we found that the level of 7α-HC and its downstream metabolites 7α-HCO, 7α,12α-diHCO, and 7α,27-diHCO were significantly higher in NASH livers, which directly confirmed the upregulation of bile acid synthesis associated with NASH. We also found an increase of 24S-HC and 24R-HC in humans and mice with NASH. 24S-HC is mainly produced in the brain by the enzyme cholesterol 24S-hydroxylase (CYP46A1), which is expressed in neurons. After enzymatic conversion, 24S-HC is able to cross the blood-brain barrier and is metabolized in the liver by the enzyme 24-hydroxycholesterol 7-α-hydroxylase (CYP39A1) to 7α,24S-diHC and then to bile acids. To the best of our knowledge, the 24-HC epimers have, so far, not been implicated in NASH. The mechanism of 24-HC accumulation in NASH remains unclear; the most likely explanation for 24S-HC accumulation is decreased downstream metabolism. The origin of 24R-HC is not known, and it is seldom analyzed in MS studies. The level of 7α,24S-diHC is below its detection limit (<5 pg/mg liver), but in future studies we will investigate whether CYP39A1 is downregulated in NASH livers. 
+31113816_32919	44	50	7α-HCO	Chemical
+31113816_32919	88	97	bile acid	Chemical
+31113816_32919	139	187	serum level of 7α-HCO is significantly increased	Biomarker
+31113816_32919	154	160	7α-HCO	Chemical
+31113816_32919	205	209	NASH	Disease	DOID:0080547
+31113816_32919	263	288	mRNA expression of CYP7A1	Biomarker
+31113816_32919	282	288	CYP7A1	Gene-protein	HGNC:2651
+31113816_32919	318	327	bile acid	Chemical
+31113816_32919	360	364	NASH	Disease
+31113816_32919	449	558	level of 7α-HC and its downstream metabolites 7α-HCO, 7α,12α-diHCO, and 7α,27-diHCO were significantly higher	Biomarker
+31113816_32919	458	463	7α-HC	Chemical
+31113816_32919	495	501	7α-HCO	Chemical
+31113816_32919	503	515	7α,12α-diHCO	Chemical
+31113816_32919	521	532	7α,27-diHCO	Chemical
+31113816_32919	562	566	NASH	Disease
+31113816_32919	604	639	upregulation of bile acid synthesis	Biomarker
+31113816_32919	620	629	bile acid	Chemical
+31113816_32919	656	660	NASH	Disease
+31113816_32919	679	708	increase of 24S-HC and 24R-HC	Biomarker
+31113816_32919	691	697	24S-HC	Chemical
+31113816_32919	702	708	24R-HC	Chemical
+31113816_32919	733	737	NASH	Disease
+31113816_32919	739	745	24S-HC	Chemical
+31113816_32919	792	803	cholesterol	Chemical
+31113816_32919	792	819	cholesterol 24S-hydroxylase	Gene-protein	HGNC:2641
+31113816_32919	821	828	CYP46A1	Gene-protein	HGNC:2641
+31113816_32919	890	896	24S-HC	Chemical
+31113816_32919	984	1005	24-hydroxycholesterol	Chemical
+31113816_32919	984	1021	24-hydroxycholesterol 7-α-hydroxylase	Gene-protein	HGNC:17449
+31113816_32919	1023	1030	CYP39A1	Gene-protein	HGNC:17449
+31113816_32919	1035	1046	7α,24S-diHC	Chemical
+31113816_32919	1059	1069	bile acids	Chemical
+31113816_32919	1105	1110	24-HC	Chemical
+31113816_32919	1105	1118	24-HC epimers	Biomarker
+31113816_32919	1156	1160	NASH	Disease
+31113816_32919	1179	1184	24-HC	Chemical
+31113816_32919	1179	1197	24-HC accumulation	Biomarker
+31113816_32919	1201	1205	NASH	Disease
+31113816_32919	1255	1261	24S-HC	Chemical
+31113816_32919	1325	1331	24R-HC	Chemical
+31113816_32919	1400	1411	7α,24S-diHC	Chemical
+31113816_32919	1509	1516	CYP39A1	Gene-protein
+31113816_32919	1509	1533	CYP39A1 is downregulated	Biomarker
+31113816_32919	1537	1541	NASH	Disease
+

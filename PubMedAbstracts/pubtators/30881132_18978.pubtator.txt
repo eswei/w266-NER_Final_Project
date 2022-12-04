@@ -1,0 +1,52 @@
+30881132_18978|t|RSS_IDENT_p_30881132_b_1_4_3
+30881132_18978|a| Malignant cancer cells are characterized by increased glucose uptake, with high fluorodeoxyglucose (FDG) uptake by the tumor indicative of a poor prognosis in patients with head and neck cancers and laryngeal carcinoma. 1 , 8 GLUT-1 modulates the cellular influx of glucose 9 and is the main glucose transporter in several types of solid carcinomas. It has thus become a frequent focus of cancer research. 10 Cancer cells are under hypoxic stress, which causes them to mobilize glucose uptake to provide energy for cell proliferation. 11 GLUT-1 therefore serves as an intrinsic marker of hypoxia in cancer cells. 12 HIF-1α, as a hypoxia response gene, promotes GLUT-1 expression 12 , 13 via the PI3K/AKT signaling pathway, as also demonstrated during FDG uptake. 14 In most types of cancers, GLUT-1 and HIF-1α cooperate to accelerate cancer development, resulting in a poor outcome for patients. 15 – 20 The HIF-1α-induced upregulation of GLUT-1 is significantly associated with cancer recurrence and metastasis in patients with laryngeal carcinoma. This observation suggests the use of HIF-1α/GLUT-1 as a gene signature for the diagnosis and prediction of laryngeal carcinoma 1 and also as a potential therapeutic target for laryngeal carcinoma. 
+30881132_18978	30	46	Malignant cancer	Disease	DOID:162
+30881132_18978	74	98	increased glucose uptake	Biomarker
+30881132_18978	84	91	glucose	Chemical
+30881132_18978	105	141	high fluorodeoxyglucose (FDG) uptake	Biomarker
+30881132_18978	110	128	fluorodeoxyglucose	Chemical
+30881132_18978	130	133	FDG	Chemical
+30881132_18978	149	154	tumor	Disease	DOID:162
+30881132_18978	203	224	head and neck cancers	Disease	DOID:11934
+30881132_18978	203	248	head and neck cancers and laryngeal carcinoma	Collection
+30881132_18978	229	248	laryngeal carcinoma	Disease	DOID:2600
+30881132_18978	256	262	GLUT-1	Gene-protein	HGNC:11005
+30881132_18978	256	262	GLUT-1	Biomarker	D051272
+30881132_18978	296	303	glucose	Chemical
+30881132_18978	322	329	glucose	Chemical
+30881132_18978	322	341	glucose transporter	Genefamily	family:752
+30881132_18978	362	378	solid carcinomas	Disease	DOID:162
+30881132_18978	419	425	cancer	Disease	DOID:162
+30881132_18978	439	445	Cancer	Disease	DOID:162
+30881132_18978	508	515	glucose	Chemical
+30881132_18978	568	574	GLUT-1	Gene-protein
+30881132_18978	568	574	GLUT-1	Biomarker
+30881132_18978	618	635	hypoxia in cancer	Disease	D000860, DOID:162	Conjunction
+30881132_18978	646	652	HIF-1α	Gene-protein	HGNC:4910
+30881132_18978	646	652	HIF-1α	Biomarker	C497442
+30881132_18978	659	666	hypoxia	Disease
+30881132_18978	691	697	GLUT-1	Gene-protein
+30881132_18978	725	729	PI3K	Genefamily	family:831
+30881132_18978	730	733	AKT	Genefamily	family:1900
+30881132_18978	781	784	FDG	Chemical
+30881132_18978	813	820	cancers	Disease	DOID:162
+30881132_18978	822	828	GLUT-1	Gene-protein
+30881132_18978	822	828	GLUT-1	Biomarker
+30881132_18978	822	839	GLUT-1 and HIF-1α	Collection
+30881132_18978	833	839	HIF-1α	Gene-protein
+30881132_18978	833	839	HIF-1α	Biomarker
+30881132_18978	864	870	cancer	Disease
+30881132_18978	938	944	HIF-1α	Gene-protein
+30881132_18978	938	975	HIF-1α-induced upregulation of GLUT-1	Biomarker
+30881132_18978	969	975	GLUT-1	Gene-protein
+30881132_18978	1009	1015	cancer	Disease
+30881132_18978	1059	1078	laryngeal carcinoma	Disease
+30881132_18978	1117	1123	HIF-1α	Gene-protein
+30881132_18978	1117	1123	HIF-1α	Biomarker
+30881132_18978	1117	1130	HIF-1α/GLUT-1	Collection
+30881132_18978	1124	1130	GLUT-1	Gene-protein
+30881132_18978	1124	1130	GLUT-1	Biomarker
+30881132_18978	1187	1206	laryngeal carcinoma	Disease
+30881132_18978	1187	1275	laryngeal carcinoma 1 and also as a potential therapeutic target for laryngeal carcinoma	Collection
+30881132_18978	1256	1275	laryngeal carcinoma	Disease
+

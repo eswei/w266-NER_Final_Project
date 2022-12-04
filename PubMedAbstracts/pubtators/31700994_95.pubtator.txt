@@ -1,0 +1,56 @@
+31700994_95|t|RSS_IDENT_p_31700994_a_1_1
+31700994_95|a| Breast cancer is a common disease partially caused by genetic risk factors. Germline pathogenic variants in DNA repair genes BRCA1, BRCA2, PALB2, ATM, and CHEK2 are associated with breast cancer risk. FANCM, which encodes for a DNA translocase, has been proposed as a breast cancer predisposition gene, with greater effects for the ER-negative and triple-negative breast cancer (TNBC) subtypes. We tested the three recurrent protein-truncating variants FANCM:p.Arg658*, p.Gln1701*, and p.Arg1931* for association with breast cancer risk in 67,112 cases, 53,766 controls, and 26,662 carriers of pathogenic variants of BRCA1 or BRCA2. These three variants were also studied functionally by measuring survival and chromosome fragility in FANCM−/− patient-derived immortalized fibroblasts treated with diepoxybutane or olaparib. We observed that FANCM:p.Arg658* was associated with increased risk of ER-negative disease and TNBC (OR = 2.44, P = 0.034 and OR = 3.79; P = 0.009, respectively). In a country-restricted analysis, we confirmed the associations detected for FANCM:p.Arg658* and found that also FANCM:p.Arg1931* was associated with ER-negative breast cancer risk (OR = 1.96; P = 0.006). The functional results indicated that all three variants were deleterious affecting cell survival and chromosome stability with FANCM:p.Arg658* causing more severe phenotypes. In conclusion, we confirmed that the two rare FANCM deleterious variants p.Arg658* and p.Arg1931* are risk factors for ER-negative and TNBC subtypes. Overall our data suggest that the effect of truncating variants on breast cancer risk may depend on their position in the gene. Cell sensitivity to olaparib exposure, identifies a possible therapeutic option to treat FANCM-associated tumors.
+31700994_95	28	41	Breast cancer	Disease	DOID:1612
+31700994_95	82	102	genetic risk factors	Biomarker
+31700994_95	104	188	Germline pathogenic variants in DNA repair genes BRCA1, BRCA2, PALB2, ATM, and CHEK2	Biomarker
+31700994_95	153	158	BRCA1	Gene-protein	HGNC:1100
+31700994_95	160	165	BRCA2	Gene-protein	HGNC:1101
+31700994_95	167	172	PALB2	Gene-protein	HGNC:26144
+31700994_95	174	177	ATM	Gene-protein	HGNC:795
+31700994_95	183	188	CHEK2	Gene-protein	HGNC:16627
+31700994_95	209	222	breast cancer	Disease	DOID:1612
+31700994_95	229	234	FANCM	Gene-protein	HGNC:23168
+31700994_95	229	234	FANCM	Biomarker	C518295
+31700994_95	296	309	breast cancer	Disease
+31700994_95	296	405	breast cancer predisposition gene, with greater effects for the ER-negative and triple-negative breast cancer	Collection
+31700994_95	360	362	ER	Gene-protein	HGNC:3467
+31700994_95	360	405	ER-negative and triple-negative breast cancer	Disease	DOID:0060076,DOID:0060081
+31700994_95	407	411	TNBC	Disease	DOID:0060081
+31700994_95	481	486	FANCM	Gene-protein
+31700994_95	487	496	p.Arg658*	Variant	p.Arg658Ter	Loss-of-funtion
+31700994_95	489	524	Arg658*, p.Gln1701*, and p.Arg1931*	Collection
+31700994_95	498	508	p.Gln1701*	Variant	p.Gln1701Ter	Loss-of-funtion
+31700994_95	514	524	p.Arg1931*	Variant	p.Arg1931Ter	Loss-of-funtion
+31700994_95	546	559	breast cancer	Disease
+31700994_95	645	650	BRCA1	Gene-protein
+31700994_95	654	659	BRCA2	Gene-protein
+31700994_95	763	768	FANCM	Gene-protein
+31700994_95	826	839	diepoxybutane	Drug	C007366
+31700994_95	843	851	olaparib	Drug	CHEMBL521686
+31700994_95	870	875	FANCM	Gene-protein
+31700994_95	876	885	p.Arg658*	Variant
+31700994_95	924	926	ER	Gene-protein
+31700994_95	924	943	ER-negative disease	Disease	DOID:0060076
+31700994_95	924	952	ER-negative disease and TNBC	Collection
+31700994_95	948	952	TNBC	Disease
+31700994_95	1093	1098	FANCM	Gene-protein
+31700994_95	1093	1145	FANCM:p.Arg658* and found that also FANCM:p.Arg1931*	Collection
+31700994_95	1099	1108	p.Arg658*	Variant
+31700994_95	1129	1134	FANCM	Gene-protein
+31700994_95	1135	1145	p.Arg1931*	Variant
+31700994_95	1166	1168	ER	Gene-protein
+31700994_95	1166	1191	ER-negative breast cancer	Disease	DOID:0060076
+31700994_95	1349	1354	FANCM	Gene-protein
+31700994_95	1355	1364	p.Arg658*	Variant	Loss-of-funtion
+31700994_95	1443	1448	FANCM	Gene-protein
+31700994_95	1470	1479	p.Arg658*	Variant	Loss-of-funtion
+31700994_95	1470	1494	p.Arg658* and p.Arg1931*	Collection
+31700994_95	1484	1494	p.Arg1931*	Variant	Loss-of-funtion
+31700994_95	1516	1518	ER	Gene-protein
+31700994_95	1516	1536	ER-negative and TNBC	Disease	DOID:0060076,DOID:0060081
+31700994_95	1516	1536	ER-negative and TNBC	Collection
+31700994_95	1614	1627	breast cancer	Disease
+31700994_95	1695	1703	olaparib	Drug
+31700994_95	1764	1769	FANCM	Gene-protein
+31700994_95	1764	1787	FANCM-associated tumors	Disease	not found
+

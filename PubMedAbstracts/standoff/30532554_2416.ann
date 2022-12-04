@@ -1,0 +1,127 @@
+T1	Disease 103 115	colon cancer
+#1	AnnotatorNotes T1	DOID:219
+T10	Disease 793 798	tumor
+T12	Biomarker 2103 2120	TLR polymorphisms
+T13	Disease 2208 2215	cancers
+#4	AnnotatorNotes T13	DOID:162
+T15	Variant 2323 2333	rs11536898
+T16	Disease 2354 2366	colon cancer
+T17	Biomarker 2380 2421	SNPs in the TLR1, TLR6, and TLR10 cluster
+T18	Disease 2431 2446	prostate cancer
+#6	AnnotatorNotes T18	DOID:10283
+T2	Biomarker 198 218	chronic inflammation
+T20	Disease 2534 2548	gastric cancer
+#9	AnnotatorNotes T20	DOID:10534
+T22	Biomarker 2662 2695	innate immunity gene polymorphism
+T23	Biomarker 2700 2712	inflammation
+T24	Disease 2760 2782	gastric carcinogenesis
+#11	AnnotatorNotes T24	DOID:10534
+T26	Variant 2819 2828	Asp299Gly
+T27	Disease 2887 2902	prostate cancer
+#12	AnnotatorNotes T27	DOID:10283
+T28	Variant 3047 3056	Asp299Gly
+T29	Disease 3076 3099	gastrointestinal cancer
+#13	AnnotatorNotes T29	DOID:3119
+T3	Disease 223 295	cancer involving Toll-like receptors (TLRs) and their signaling pathways
+#14	AnnotatorNotes T3	not found
+T30	Disease 3125 3140	prostate cancer
+T31	Variant 3248 3257	Ser150Gly
+T33	Variant 3262 3273	Val 220 Met
+T36	Variant 3282 3292	Phe 670Leu
+T4	Biomarker 329 352	TLRs and their agonists
+T5	Disease 397 403	cancer
+T7	Disease 408 423	immune diseases
+#24	AnnotatorNotes T7	DOID:2914
+T9	Disease 715 720	tumor
+#26	AnnotatorNotes T9	DOID:162
+T40	Biomarker 41 53	Inflammation
+#16	AnnotatorNotes T40	D007249
+R1	Association Arg1:T40 Arg2:T1	
+R2	Association Arg1:T2 Arg2:T3	
+T41	GeneFamily 240 259	Toll-like receptors
+#8	AnnotatorNotes T41	family:948
+T42	GeneFamily 261 265	TLRs
+#17	AnnotatorNotes T42	family:948
+T6	GeneFamily 329 333	TLRs
+T8	Collection 397 423	cancer and immune diseases
+R4	Association Arg1:T4 Arg2:T8	
+T44	GeneFamily 688 692	TLRs
+T45	Biomarker 688 692	TLRs
+#18	AnnotatorNotes T45	D051193
+R5	Association Arg1:T45 Arg2:T9	
+T46	GeneFamily 1173 1195	nuclear factor-kappa B
+#2	AnnotatorNotes T46	family:1254
+T47	GeneFamily 1197 1202	NF-κB
+#22	AnnotatorNotes T47	family:1254
+T48	Gene-Protein 1208 1238	interferon regulatory factor 3
+#23	AnnotatorNotes T48	HGNC:6118
+T49	GeneFamily 1299 1321	inflammatory cytokines
+#25	AnnotatorNotes T49	not found
+T50	Gene-Protein 1333 1354	tumor necrosis factor
+#27	AnnotatorNotes T50	HGNC:11892
+T11	Gene-Protein 1359 1372	interleukin-6
+#3	AnnotatorNotes T11	HGNC:6018
+T51	GeneFamily 1374 1377	TLR
+#28	AnnotatorNotes T51	family:948
+T52	Gene-Protein 1441 1492	myeloid differentiation primary-response protein-88
+#29	AnnotatorNotes T52	HGNC:7562
+T53	Gene-Protein 1494 1499	MyD88
+#30	AnnotatorNotes T53	HGNC:7562
+T54	Gene-Protein 1539 1544	MYD88
+#31	AnnotatorNotes T54	HGNC:7562
+T55	GeneFamily 1563 1567	TLRs
+T56	Gene-Protein 1583 1588	MYD88
+T57	GeneFamily 1627 1631	TLRs
+T58	Gene-Protein 1659 1664	MYD88
+T59	Gene-Protein 1666 1727	Toll-interleukin 1 receptor domain-containing adaptor protein
+#32	AnnotatorNotes T59	HGNC:17192
+T60	Gene-Protein 1729 1790	Toll/interleukin-1 receptor domain-containing adaptor protein
+T61	Gene-Protein 1800 1815	interferon beta
+#33	AnnotatorNotes T61	HGNC:5434
+T62	Gene-Protein 1821 1885	Toll-interleukin 1 receptor domain-containing adapter molecule 2
+#34	AnnotatorNotes T62	HGNC:21354
+T63	GeneFamily 1920 1924	TLRs
+T64	GeneFamily 1961 1965	TLRs
+T65	Gene-Protein 1982 1991	TLRs 1–10
+T66	Gene-Protein 2044 2054	TLRs 11–13
+T67	Biomarker 2131 2165	dysregulation of the immune system
+R6	Association Arg1:T12 Arg2:T13	
+T68	Gene-Protein 2103 2106	TLR
+T14	Gene-Protein 2280 2284	TLR4
+R7	Variant-Of Arg1:T14 Arg2:T15	
+R8	Association Arg1:T15 Arg2:T16	
+T69	Gene-Protein 2392 2396	TLR1
+#5	AnnotatorNotes T69	HGNC:11847
+T70	Gene-Protein 2398 2402	TLR6
+#36	AnnotatorNotes T70	HGNC:16711
+T71	Gene-Protein 2408 2413	TLR10
+#37	AnnotatorNotes T71	HGNC:15634
+R9	Association Arg1:T17 Arg2:T18	
+T19	Biomarker 2577 2598	SNPs in TLR2 and TLR4
+T21	Gene-Protein 2585 2589	TLR2
+T72	Gene-Protein 2594 2598	TLR4
+#7	AnnotatorNotes T21	HGNC:11848
+#10	AnnotatorNotes T14	HGNC:11850
+R10	Risk-Factor Arg1:T19 Arg2:T20	
+T73	Collection 2662 2712	innate immunity gene polymorphism and inflammation
+R11	Association Arg1:T73 Arg2:T24	
+T25	Gene-Protein 2813 2817	TLR4
+R12	Variant-Of Arg1:T25 Arg2:T26	
+#38	AnnotatorNotes T26	p.Asp299Gly
+R13	Risk-Factor Arg1:T26 Arg2:T27	
+T74	Gene-Protein 3042 3046	TLR4
+R14	Variant-Of Arg1:T74 Arg2:T28	
+R15	Risk-Factor Arg1:T28 Arg2:T29	
+R16	Risk-Reduce Arg1:T28 Arg2:T30	
+T75	GeneFamily 3232 3235	TLR
+T76	Gene-Protein 3243 3247	TLR1
+R17	Variant-Of Arg1:T76 Arg2:T32	
+#15	AnnotatorNotes T31	p.Ser150Gly
+#39	AnnotatorNotes T33	p.Val220 Met
+T32	Collection 3248 3273	Ser150Gly and Val 220 Met
+T34	Gene-Protein 3275 3279	TLR2
+#40	AnnotatorNotes T36	p.Phe670Leu
+R18	Variant-Of Arg1:T34 Arg2:T36	
+T35	MicroOrganism 3329 3373	Mycobacterium avium subsp. Para tuberculosis
+#19	AnnotatorNotes T60	HGNC:17192
+#20	AnnotatorNotes T65	HGNC:11847, HGNC:11848, HGNC:11849, HGNC:11850, HGNC:11851, HGNC:16711, HGNC:15631, HGNC:15632, HGNC:15633, HGNC:15634

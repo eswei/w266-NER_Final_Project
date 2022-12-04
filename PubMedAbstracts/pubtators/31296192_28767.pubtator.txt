@@ -1,0 +1,60 @@
+31296192_28767|t|RSS_IDENT_p_31296192_b_1_4_5
+31296192_28767|a| We further included serum folate in the model to assess whether the associations between inflammation markers and MCI were mediated by serum folate level. Considering the MCI could be directly linked to the inflammation markers or the serum folate might have an indirect effect on MCI through improving the inflammation markers, we evaluated the associations of inflammation markers and MCI after further adjusting for serum folate. In the present study, there was a significant positive association of serum hs-CRP and MCI after adjusted for common diabetes related factors and cardiovascular diseases risk factors among T2D patients in the low folate subgroup (< 7.0 μg/L). Our results have indicated that there might be somewhat relationship among peripheral folate, inflammatory cytokines and cognition status [ 37 ]. It has been reported that folate deficiency might enhance the expression of the inflammatory mediators including IL-1β, IL-6 and TNF-α, independent of the concentration of homocysteine [ 38 ]. On the contrary, folic acid may inhibit lipopolysaccharide-induced production of IL-1β and TNF-α through inhibiting the MAPKs and NF-κB pathways [ 39 ]. A recent animal study aimed to evaluate the efficacy of folic acid in prevention of apoptosis by inhibiting TNF-α action in ischemia-reperfusion induced liver injury has also shown that folic acid might inhibit apoptosis by inhibiting the action of TNF-α [ 40 ]. Moreover, folic acid supplement to the patients with MCI could significantly reduce peripheral TNF-α and IL-6 levels [ 41 ]. These data indicated that optimal serum folate status might influence the release of proinflammatory cytokines such as IL-6 and TNF-α among T2D patients with MCI. Thus, more randomized controlled trials will be performed to explore whether serum folate might have an indirect effect on MCI through improving the inflammation reactions among T2D patients. 
+31296192_28767	56	62	folate	Chemical
+31296192_28767	119	139	inflammation markers	Biomarker
+31296192_28767	144	147	MCI	Disease	DOID:0080832
+31296192_28767	165	183	serum folate level	Biomarker
+31296192_28767	171	177	folate	Chemical
+31296192_28767	201	204	MCI	Disease
+31296192_28767	237	257	inflammation markers	Biomarker
+31296192_28767	271	277	folate	Chemical
+31296192_28767	311	314	MCI	Disease
+31296192_28767	417	420	MCI	Disease
+31296192_28767	455	461	folate	Chemical
+31296192_28767	533	545	serum hs-CRP	Biomarker
+31296192_28767	542	545	CRP	Gene-protein	HGNC:2367
+31296192_28767	550	553	MCI	Disease
+31296192_28767	580	588	diabetes	Disease	not found
+31296192_28767	609	632	cardiovascular diseases	Disease	DOID:1287
+31296192_28767	652	655	T2D	Disease	DOID:9352
+31296192_28767	672	691	low folate subgroup	Biomarker
+31296192_28767	676	682	folate	Chemical
+31296192_28767	781	798	peripheral folate	Biomarker
+31296192_28767	792	798	folate	Chemical
+31296192_28767	800	822	inflammatory cytokines	Genefamily	not found
+31296192_28767	800	822	inflammatory cytokines	Biomarker
+31296192_28767	827	843	cognition status	Biomarker
+31296192_28767	878	884	folate	Chemical
+31296192_28767	878	895	folate deficiency	Biomarker
+31296192_28767	902	986	enhance the expression of the inflammatory mediators including IL-1β, IL-6 and TNF-α	Biomarker
+31296192_28767	965	970	IL-1β	Gene-protein	HGNC:5992
+31296192_28767	972	976	IL-6	Gene-protein	HGNC:6018
+31296192_28767	981	986	TNF-α	Gene-protein	HGNC:11892
+31296192_28767	1024	1036	homocysteine	Chemical
+31296192_28767	1062	1072	folic acid	Chemical
+31296192_28767	1085	1103	lipopolysaccharide	Chemical
+31296192_28767	1126	1131	IL-1β	Gene-protein
+31296192_28767	1136	1141	TNF-α	Gene-protein
+31296192_28767	1165	1170	MAPKs	Genefamily	family:651
+31296192_28767	1175	1180	NF-κB	Genefamily	family:1254
+31296192_28767	1254	1264	folic acid	Chemical
+31296192_28767	1306	1311	TNF-α	Gene-protein
+31296192_28767	1322	1363	ischemia-reperfusion induced liver injury	Disease	not found
+31296192_28767	1384	1394	folic acid	Chemical
+31296192_28767	1447	1452	TNF-α	Gene-protein
+31296192_28767	1471	1481	folic acid	Chemical
+31296192_28767	1514	1517	MCI	Disease
+31296192_28767	1556	1561	TNF-α	Gene-protein
+31296192_28767	1566	1570	IL-6	Gene-protein
+31296192_28767	1612	1639	optimal serum folate status	Biomarker
+31296192_28767	1626	1632	folate	Chemical
+31296192_28767	1671	1696	proinflammatory cytokines	Genefamily	not found
+31296192_28767	1705	1709	IL-6	Gene-protein
+31296192_28767	1714	1719	TNF-α	Gene-protein
+31296192_28767	1726	1747	T2D patients with MCI	Disease	DOID:9352, DOID:0080832	Conjunction
+31296192_28767	1826	1838	serum folate	Biomarker
+31296192_28767	1832	1838	folate	Chemical
+31296192_28767	1872	1875	MCI	Disease
+31296192_28767	1898	1910	inflammation	Disease	D007249
+31296192_28767	1927	1930	T2D	Disease
+

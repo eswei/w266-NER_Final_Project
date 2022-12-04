@@ -1,0 +1,33 @@
+29483954_3385|t|RSS_IDENT_p_29483954_b_1_1_4
+29483954_3385|a| For the early diagnosis of cancer, several tumor biomarkers have been widely used in order to improve sensitivity and specificity of diagnosis. Previous studies have demonstrated serum carcinoembryonic antigen (CEA) to be both an important prognostic factor as well as an indicator of the therapeutic effect and recurrence in patients with rectal cancer 9 , 10 . CEA is produced in normal cells and at a higher level in the presence of certain cancers. Persistent elevation of CEA levels after surgery of colorectal cancer could indicate incomplete resection or occult metastatic disease, and it demonstrates a prognostic feature for relapse 11 . Some other serum tumor biomarkers, such as carbohydrate antigen 72-4 (CA 72-4), carbohydrate antigen 19-9 (CA 19-9) can also be elevated in tumors of the digestive system. CA 19-9 is a commonly researched tumor biomarker in gastric cancer. It has been investigated as a prognostic indicator or a predictive factor in patients with gastric cancer 12 . CA 72-4 was shown to be expressed in GC and CRC and it was considered to be more specific and sensitive than other bio-markers 13 , 14 . However, a combined diagnosis based on the levels of CEA, CA 19-9 and CA 72-4 was able to considerably improve sensitivity without impairing specificity.
+29483954_3385	57	63	cancer	Disease	DOID:162
+29483954_3385	73	78	tumor	Disease	DOID:162
+29483954_3385	209	239	serum carcinoembryonic antigen	Biomarker
+29483954_3385	215	239	carcinoembryonic antigen	Genefamily	family:1317
+29483954_3385	241	244	CEA	Genefamily	family:1317
+29483954_3385	370	383	rectal cancer	Disease	DOID:1993
+29483954_3385	393	396	CEA	Genefamily
+29483954_3385	393	446	CEA is produced in normal cells and at a higher level	Biomarker
+29483954_3385	474	481	cancers	Disease	DOID:162
+29483954_3385	483	531	Persistent elevation of CEA levels after surgery	Biomarker
+29483954_3385	507	510	CEA	Genefamily
+29483954_3385	535	552	colorectal cancer	Disease	DOID:9256
+29483954_3385	592	617	occult metastatic disease	Disease	not found
+29483954_3385	694	699	tumor	Disease
+29483954_3385	720	732	carbohydrate	Chemical
+29483954_3385	720	813	carbohydrate antigen 72-4 (CA 72-4), carbohydrate antigen 19-9 (CA 19-9) can also be elevated	Biomarker
+29483954_3385	757	769	carbohydrate	Chemical
+29483954_3385	817	823	tumors	Disease	DOID:162
+29483954_3385	849	856	CA 19-9	Biomarker	D018395
+29483954_3385	882	887	tumor	Disease
+29483954_3385	901	915	gastric cancer	Disease	DOID:10534
+29483954_3385	1008	1022	gastric cancer	Disease
+29483954_3385	1028	1035	CA 72-4	Biomarker	C083825
+29483954_3385	1065	1067	GC	Disease	DOID:10534
+29483954_3385	1065	1075	GC and CRC	Collection
+29483954_3385	1072	1075	CRC	Disease	DOID:9256
+29483954_3385	1218	1221	CEA	Genefamily
+29483954_3385	1218	1221	CEA	Biomarker	D002272
+29483954_3385	1223	1230	CA 19-9	Biomarker
+29483954_3385	1235	1242	CA 72-4	Biomarker
+

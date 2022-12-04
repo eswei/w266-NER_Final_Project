@@ -1,0 +1,98 @@
+T1	Chemical 271 274	H₂O
+T12	Disease 935 937	AD
+T15	Disease 1047 1049	AD
+T16	Chemical 1122 1129	sulfate
+T17	Chemical 1215 1221	sodium
+T18	Chemical 1222 1228	iodine
+T19	Chemical 1318 1320	Na
+T21	Chemical 1331 1338	Cl–HCO3
+T23	Chemical 1419 1426	Na–HCO3
+T26	Chemical 1515 1522	Na–K–Cl
+T29	Chemical 1615 1622	Na–K–Cl
+T3	GeneFamily 315 318	SLC
+T30	Chemical 1667 1671	Na–K
+T31	Chemical 1693 1697	Na–K
+T32	Chemical 1770 1774	Na–K
+T33	Chemical 2029 2032	ATP
+T35	Chemical 2055 2058	ATP
+T36	Chemical 2069 2070	H
+T37	Chemical 2185 2188	ATP
+T38	Chemical 2257 2260	ATP
+T39	Chemical 2271 2273	H+
+T4	Disease 377 379	AD
+#33	AnnotatorNotes T4	DOID:10652
+T40	Chemical 2373 2376	ATP
+T41	Chemical 2465 2468	ATP
+T42	Chemical 2479 2481	H+
+T44	Disease 2872 2874	AD
+T45	Disease 2934 2936	AD
+T5	Biomarker 389 472	genes for HCO₃− exchange and co-transport (SLC4 subfamily) had decreased expression
+T6	Chemical 399 403	HCO₃
+T7	Disease 476 478	AD
+T8	GeneFamily 571 574	SLC
+T9	Chemical 619 626	Na–K–Cl
+T46	GeneFamily 192 195	SLC
+#1	AnnotatorNotes T46	family:752
+T47	GeneFamily 1068 1071	SLC
+T48	GeneFamily 432 436	SLC4
+#2	AnnotatorNotes T48	not found
+T2	Gene-Protein 490 497	SLC4A10
+#4	AnnotatorNotes T2	HGNC:13811
+T49	Gene-Protein 530 536	SLC4A5
+#8	AnnotatorNotes T49	HGNC:18168
+T50	Gene-Protein 643 650	SLC12A1
+#9	AnnotatorNotes T50	HGNC:10910
+T51	Gene-Protein 682 689	SLC12A2
+#10	AnnotatorNotes T51	HGNC:10911
+T14	Disease 982 984	AD
+T53	Gene-Protein 1079 1086	SLC26A2
+T54	Gene-Protein 1087 1141	Solute carrier family 26 member 2; sulfate transporter
+T55	Gene-Protein 1174 1180	SLC5A5
+T56	Gene-Protein 1181 1242	Solute carrier family 5 member 5; sodium/iodine cotransporter
+T57	Gene-Protein 1275 1282	SLC4A10
+T58	Gene-Protein 1283 1348	Solute carrier family 4 member 10: Na-dependent Cl–HCO3 exchanger
+T24	Gene-Protein 2742 2772	Amyloid beta precursor protein
+T43	Gene-Protein 2738 2741	APP
+T59	Gene-Protein 2692 2701	Claudin-5
+T60	Gene-Protein 2686 2691	CLDN5
+T61	Gene-Protein 2599 2609	Claudin-18
+T62	Gene-Protein 2592 2598	CLDN18
+T63	GeneFamily 2568 2591	Tight junction claudins
+T64	Gene-Protein 2639 2645	CLDN11
+T65	Gene-Protein 2646 2656	Claudin-11
+T66	Gene-Protein 2459 2464	ATP5B
+T67	Gene-Protein 2465 2538	ATP synthase, H+ transporting, mitochondrial F1 complex, beta polypeptide
+T68	Gene-Protein 2373 2428	ATP synthase mitochondrial F1 complex assembly factor 1
+T69	Gene-Protein 2366 2372	ATPAF1
+T70	Gene-Protein 2250 2256	ATP5G3
+T71	Gene-Protein 2257 2335	ATP synthase, H+ transporting, mitochondrial Fo complex subunit C3 (subunit 9)
+T72	Gene-Protein 2158 2221	ATP23 metallopeptidase and ATP synthase assembly factor homolog
+T73	Gene-Protein 2152 2157	ATP23
+T74	GeneFamily 2029 2041	ATP synthase
+T75	Gene-Protein 2055 2118	ATP synthase, H+ transporting, mitochondrial Fo complex subunit
+T76	Gene-Protein 1979 1999	Carbonic anhydrase 3
+T77	Gene-Protein 1975 1978	CA3
+T78	Gene-Protein 1925 1945	Carbonic anhydrase 2
+T79	Gene-Protein 1921 1924	CA2
+T80	Gene-Protein 1869 1889	Carbonic anhydrase 4
+T81	Gene-Protein 1865 1868	CA4
+T82	GeneFamily 1839 1857	Carbonic anhydrase
+T83	Gene-Protein 1763 1769	ATP1B1
+T84	Gene-Protein 1770 1809	Na–K ATPase transporting subunit beta 1
+T85	Gene-Protein 1693 1733	Na–K ATPase transporting subunit alpha 2
+T86	Gene-Protein 1686 1692	ATP1A2
+T87	GeneFamily 1667 1678	Na–K ATPase
+T28	Gene-Protein 1609 1614	NKCC1
+T89	Gene-Protein 1574 1607	Solute carrier family 12 member 2
+T90	Gene-Protein 1566 1573	SLC12A2
+T91	Gene-Protein 1474 1536	Solute carrier family 12 member 1: NKCC2 Na–K–Cl cotransporter
+T92	Gene-Protein 1466 1473	SLC12A1
+T93	Gene-Protein 1385 1436	Solute carrier family 4 member 5: Na–HCO3 exchanger
+T94	Gene-Protein 1378 1384	SLC4A5
+R2	Association Arg1:T5 Arg2:T7	
+T20	Biomarker 490 497	SLC4A10
+T22	Biomarker 530 536	SLC4A5
+T95	Collection 490 536	SLC4A10 (p = 0.028, log2FC = 0.039) and SLC4A5
+R3	Association Arg1:T95 Arg2:T7	
+T13	Gene-Protein 1615 1636	Na–K–Cl cotransporter
+T10	Gene-Protein 2049 2054	ATP5L

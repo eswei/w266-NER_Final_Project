@@ -1,0 +1,85 @@
+29772458_133|t|RSS_IDENT_p_29772458_a_1_1
+29772458_133|a| Leukemic stem cells (LSCs) are an emerging target of curative anti-leukemia therapy. In acute lymphoblastic leukemia (ALL), LSCs frequently express CD34 and often lack CD38. However, little is known about markers and targets expressed in ALL LSCs. We have examined marker- and target expression profiles in CD34⁺/CD38− LSCs in patients with Ph⁺ ALL (n = 22) and Ph− ALL (n = 27) by multi-color flow cytometry and qPCR. ALL LSCs expressed CD19 (B4), CD44 (Pgp-1), CD123 (IL-3RA), and CD184 (CXCR4) in all patients tested. Moreover, in various subgroups of patients, LSCs also displayed CD20 (MS4A1) (10/41 = 24%), CD22 (12/20 = 60%), CD33 (Siglec-3) (20/48 = 42%), CD52 (CAMPATH-1) (17/40 = 43%), IL-1RAP (13/29 = 45%), and/or CD135 (FLT3) (4/20 = 20%). CD25 (IL-2RA) and CD26 (DPPIV) were expressed on LSCs in Ph⁺ ALL exhibiting BCR/ABL1ₚ₂₁₀, whereas in Ph⁺ ALL with BCR/ABL1ₚ₁₉₀, LSCs variably expressed CD25 but did not express CD26. In Ph− ALL, CD34⁺/CD38− LSCs expressed IL-1RAP in 6/18 patients (33%), but did not express CD25 or CD26. Normal stem cells stained negative for CD25, CD26 and IL-1RAP, and expressed only low amounts of CD52. In xenotransplantation experiments, CD34⁺/CD38− and CD34⁺/CD38⁺ cells engrafted NSG mice after 12–20 weeks, and targeting with antibodies against CD33 and CD52 resulted in reduced engraftment. Together, LSCs in Ph⁺ and Ph− ALL display unique marker- and target expression profiles. In Ph⁺ ALL with BCR/ABL1ₚ₂₁₀, the LSC-phenotype closely resembles the marker-profile of CD34⁺/CD38− LSCs in chronic myeloid leukemia, confirming the close biologic relationship of these neoplasms. Targeting of LSCs with specific antibodies or related immunotherapies may facilitate LSC eradication in ALL.
+29772458_133	90	111	anti-leukemia therapy	Drug-class
+29772458_133	116	144	acute lymphoblastic leukemia	Disease	DOID:9952
+29772458_133	146	149	ALL	Disease	DOID:9952
+29772458_133	152	200	LSCs frequently express CD34 and often lack CD38	Biomarker
+29772458_133	176	180	CD34	Gene-protein	HGNC:1662
+29772458_133	196	200	CD38	Gene-protein	HGNC:1667
+29772458_133	266	269	ALL	Disease
+29772458_133	335	339	CD34	Gene-protein
+29772458_133	341	345	CD38	Gene-protein
+29772458_133	369	376	Ph⁺ ALL	Disease	not found
+29772458_133	390	397	Ph− ALL	Disease	not found
+29772458_133	447	450	ALL	Disease
+29772458_133	466	470	CD19	Gene-protein	HGNC:1633
+29772458_133	466	470	CD19	Biomarker
+29772458_133	466	516	CD19 (B4), CD44 (Pgp-1), CD123 (IL-3RA), and CD184	Collection
+29772458_133	472	474	B4	Gene-protein	HGNC:1633
+29772458_133	477	481	CD44	Gene-protein	HGNC:1681
+29772458_133	477	481	CD44	Biomarker
+29772458_133	483	488	Pgp-1	Gene-protein	HGNC:1681
+29772458_133	491	496	CD123	Gene-protein	HGNC:6012
+29772458_133	491	496	CD123	Biomarker
+29772458_133	498	504	IL-3RA	Gene-protein	HGNC:6012
+29772458_133	511	516	CD184	Gene-protein	HGNC:2561
+29772458_133	511	516	CD184	Biomarker
+29772458_133	518	523	CXCR4	Gene-protein	HGNC:2561
+29772458_133	613	617	CD20	Gene-protein	HGNC:7315
+29772458_133	613	617	CD20	Biomarker
+29772458_133	613	759	CD20 (MS4A1) (10/41 = 24%), CD22 (12/20 = 60%), CD33 (Siglec-3) (20/48 = 42%), CD52 (CAMPATH-1) (17/40 = 43%), IL-1RAP (13/29 = 45%), and/or CD135	Collection
+29772458_133	619	624	MS4A1	Gene-protein	HGNC:7315
+29772458_133	641	645	CD22	Gene-protein	HGNC:1643
+29772458_133	641	645	CD22	Biomarker
+29772458_133	661	665	CD33	Gene-protein	HGNC:1659
+29772458_133	661	665	CD33	Biomarker
+29772458_133	667	675	Siglec-3	Gene-protein	HGNC:1659
+29772458_133	692	696	CD52	Gene-protein	HGNC:1804
+29772458_133	692	696	CD52	Biomarker
+29772458_133	698	707	CAMPATH-1	Gene-protein	HGNC:1804
+29772458_133	724	731	IL-1RAP	Gene-protein	HGNC:5995
+29772458_133	724	731	IL-1RAP	Biomarker
+29772458_133	754	759	CD135	Gene-protein	HGNC:3765
+29772458_133	754	759	CD135	Biomarker
+29772458_133	761	765	FLT3	Gene-protein	HGNC:3765
+29772458_133	781	785	CD25	Gene-protein	HGNC:6008
+29772458_133	781	834	CD25 (IL-2RA) and CD26 (DPPIV) were expressed on LSCs	Biomarker
+29772458_133	787	793	IL-2RA	Gene-protein	HGNC:6008
+29772458_133	799	803	CD26	Gene-protein	HGNC:3009
+29772458_133	805	810	DPPIV	Gene-protein	HGNC:3009
+29772458_133	838	869	Ph⁺ ALL exhibiting BCR/ABL1ₚ₂₁₀	Disease	not found
+29772458_133	857	860	BCR	Gene-protein	HGNC:1014
+29772458_133	882	907	Ph⁺ ALL with BCR/ABL1ₚ₁₉₀	Disease	not found
+29772458_133	895	898	BCR	Gene-protein
+29772458_133	909	937	LSCs variably expressed CD25	Biomarker
+29772458_133	933	937	CD25	Gene-protein
+29772458_133	958	962	CD26	Gene-protein
+29772458_133	967	974	Ph− ALL	Disease
+29772458_133	976	980	CD34	Gene-protein
+29772458_133	976	1010	CD34⁺/CD38− LSCs expressed IL-1RAP	Biomarker
+29772458_133	982	986	CD38	Gene-protein
+29772458_133	1003	1010	IL-1RAP	Gene-protein
+29772458_133	1055	1059	CD25	Gene-protein
+29772458_133	1063	1067	CD26	Gene-protein
+29772458_133	1095	1130	negative for CD25, CD26 and IL-1RAP	Biomarker
+29772458_133	1108	1112	CD25	Gene-protein
+29772458_133	1114	1118	CD26	Gene-protein
+29772458_133	1123	1130	IL-1RAP	Gene-protein
+29772458_133	1151	1170	low amounts of CD52	Biomarker
+29772458_133	1166	1170	CD52	Gene-protein
+29772458_133	1208	1212	CD34	Gene-protein
+29772458_133	1214	1218	CD38	Gene-protein
+29772458_133	1224	1228	CD34	Gene-protein
+29772458_133	1230	1234	CD38	Gene-protein
+29772458_133	1318	1322	CD33	Gene-protein
+29772458_133	1327	1331	CD52	Gene-protein
+29772458_133	1383	1398	Ph⁺ and Ph− ALL	Disease	not found, not found
+29772458_133	1457	1482	Ph⁺ ALL with BCR/ABL1ₚ₂₁₀	Disease	not found
+29772458_133	1470	1473	BCR	Gene-protein
+29772458_133	1474	1478	ABL1	Gene-protein
+29772458_133	1488	1586	LSC-phenotype closely resembles the marker-profile of CD34⁺/CD38− LSCs in chronic myeloid leukemia	Biomarker
+29772458_133	1542	1546	CD34	Gene-protein
+29772458_133	1548	1552	CD38	Gene-protein
+29772458_133	1640	1649	neoplasms	Disease	DOID:162
+29772458_133	1755	1758	ALL	Disease
+

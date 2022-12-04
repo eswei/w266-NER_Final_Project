@@ -1,0 +1,55 @@
+T1	Chemical 146 155	Vitamin D
+T11	Disease 768 799	precancerous colorectal lesions
+#3	AnnotatorNotes T11	not found
+T13	Disease 968 971	CRC
+T16	Chemical 1108 1117	vitamin D
+T17	Disease 1148 1151	CRC
+T18	Chemical 1166 1175	vitamin D
+T19	Biomarker 1166 1186	vitamin D deficiency
+#8	AnnotatorNotes T19	D014808
+T21	Disease 1303 1306	CRC
+T22	Chemical 1329 1338	vitamin D
+T23	Biomarker 1329 1349	vitamin D deficiency
+#11	AnnotatorNotes T23	D014808
+T3	Chemical 172 179	vitamin
+T5	Disease 217 220	CRC
+T6	Chemical 382 391	Vitamin D
+T7	Disease 416 423	cancers
+#16	AnnotatorNotes T7	DOID:162
+T8	Chemical 497 506	vitamin D
+T9	Disease 572 575	CRC
+T2	Gene-Protein 52 55	VDR
+#1	AnnotatorNotes T2	 HGNC:12679
+T10	Gene-Protein 82 86	MEG3
+#2	AnnotatorNotes T10	HGNC:14575
+T4	Biomarker 146 155	Vitamin D
+#4	AnnotatorNotes T4	D014807
+R1	Prognostic-Poor Arg1:T4 Arg2:T5	
+#5	AnnotatorNotes T5	DOID:9256
+T12	Gene-Protein 400 403	VDR
+T14	RNA-Noncoding 332 335	H19
+#6	AnnotatorNotes T14	HGNC:4713
+T15	RNA-Noncoding 340 346	HOTAIR
+#7	AnnotatorNotes T15	HGNC:33510
+T20	Gene-Protein 520 523	VDR
+T24	Gene-Protein 583 586	VDR
+T25	Gene-Protein 600 604	MEG3
+T26	Gene-Protein 732 736	MEG3
+T27	Biomarker 732 764	MEG3 was epigenetically silenced
+T28	Gene-Protein 858 862	MEG3
+T29	Gene-Protein 866 869	VDR
+R2	Association Arg1:T27 Arg2:T11	
+T30	Gene-Protein 909 912	VDR
+T31	Biomarker 999 1009	higher VDR
+T32	Gene-Protein 1006 1009	VDR
+R3	Prognostic-Good Arg1:T31 Arg2:T13	
+T33	Gene-Protein 954 958	MEG3
+T34	Gene-Protein 1089 1093	MEG3
+T35	Gene-Protein 1118 1121	VDR
+T36	Biomarker 1239 1262	down-regulation of MEG3
+R4	Prognostic-Poor Arg1:T19 Arg2:T17	
+R5	Risk-Factor Arg1:T36 Arg2:T21	
+R6	Association Arg1:T23 Arg2:T21	
+T37	Gene-Protein 553 557	MEG3
+T38	Biomarker 909 918	VDR level
+T39	Biomarker 954 964	MEG3 level

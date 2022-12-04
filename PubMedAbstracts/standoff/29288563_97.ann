@@ -1,0 +1,103 @@
+T1	Biomarker 426 431	Cdc37
+T10	Disease 1148 1151	CRC
+T11	Disease 1248 1251	CRC
+T12	Biomarker 1278 1283	Cdc37
+T13	Disease 1320 1323	CRC
+T14	Biomarker 1415 1420	Cdc37
+T15	Disease 1470 1473	CRC
+T16	Chemical 1501 1509	androgen
+T17	Drug 1580 1593	cycloheximide
+T18	Disease 1594 1597	CRC
+T19	Disease 1598 1618	colorectal carcinoma
+T2	Disease 459 479	colorectal carcinoma
+#9	AnnotatorNotes T2	DOID:0080199
+T20	Drug 1624 1636	fluorouracil
+T21	Disease 1637 1640	HCC
+T22	Disease 1641 1665	hepatocellular carcinoma
+#12	AnnotatorNotes T22	DOID:684
+T25	Chemical 1699 1787	3‐(4,5‐dimethylthiazol‐2‐yl)‐5‐(3‐carboxymethoxyphenyl)‐2‐(4‐sulfophenyl)‐2H‐tetrazolium
+T27	Chemical 1804 1820	propidium iodide
+T28	Gene-Protein 1859 1873	retinoblastoma
+#17	AnnotatorNotes T28	HGNC:9884
+T3	Disease 481 484	CRC
+T4	Disease 581 584	CRC
+T5	Disease 664 667	CRC
+T6	Biomarker 733 766	Cdc37 was remarkably up‐regulated
+T7	Disease 770 773	CRC
+T29	Gene-Protein 28 50	Cell division cycle 37
+#1	AnnotatorNotes T29	HGNC:1735
+T30	Gene-Protein 52 57	Cdc37
+#2	AnnotatorNotes T30	HGNC:1735
+T31	GeneFamily 87 108	heat shock protein 90
+#3	AnnotatorNotes T31	family:586
+T32	GeneFamily 110 115	HSP90
+#4	AnnotatorNotes T32	family:586
+T34	Gene-Protein 271 276	Cdc37
+T35	Biomarker 271 276	Cdc37
+#6	AnnotatorNotes T35	C498362
+T36	Disease 327 341	carcinogenesis
+#7	AnnotatorNotes T36	DOID:162
+R1	Association Arg1:T35 Arg2:T36	
+T37	Gene-Protein 426 431	Cdc37
+R2	Association Arg1:T1 Arg2:T2	
+#10	AnnotatorNotes T3	DOID:0080199
+T38	Biomarker 528 547	expression of Cdc37
+T39	Gene-Protein 542 547	Cdc37
+T40	Gene-Protein 655 660	Cdc37
+T41	Biomarker 655 660	Cdc37
+R3	Association Arg1:T41 Arg2:T5	
+T42	Gene-Protein 733 738	Cdc37
+R4	Association Arg1:T6 Arg2:T7	
+T43	Gene-Protein 927 932	Cdc37
+T8	Gene-Protein 987 991	CDK4
+#11	AnnotatorNotes T8	HGNC:1773
+T44	Gene-Protein 960 985	cyclin‐dependent kinase 4
+#13	AnnotatorNotes T44	HGNC:1773
+T45	Gene-Protein 1009 1025	retinoblastoma 1
+#14	AnnotatorNotes T45	HGNC:9884
+T46	Gene-Protein 1027 1030	RB1
+#15	AnnotatorNotes T46	HGNC:9884
+T9	Gene-Protein 1087 1092	Bcl‐2
+#16	AnnotatorNotes T9	HGNC:990
+T47	Gene-Protein 1097 1103	Bcl‐xL
+#18	AnnotatorNotes T47	HGNC:992
+T48	Biomarker 927 932	Cdc37
+R5	Association Arg1:T48 Arg2:T10	
+T49	Gene-Protein 1194 1199	Cdc37
+T50	Gene-Protein 1176 1180	CDK4
+T51	Gene-Protein 1278 1283	Cdc37
+R6	Association Arg1:T12 Arg2:T13	
+T52	Gene-Protein 1352 1356	CDK4
+T53	Gene-Protein 1383 1386	RB1
+T54	Gene-Protein 1415 1420	Cdc37
+R7	Association Arg1:T14 Arg2:T15	
+T55	Gene-Protein 1519 1524	Cdc37
+T56	Gene-Protein 1525 1547	cell division cycle 37
+#19	AnnotatorNotes T56	HGNC:1735
+T57	Gene-Protein 1501 1518	androgen receptor
+#20	AnnotatorNotes T57	HGNC:644
+T58	Gene-Protein 1498 1500	AR
+#21	AnnotatorNotes T58	HGNC:644
+T23	GeneFamily 1672 1693	heat shock protein 90
+T59	GeneFamily 1666 1671	HSP90
+T60	GeneFamily 1552 1575	cyclin‐dependent kinase
+#22	AnnotatorNotes T60	family:496
+T61	GeneFamily 1548 1551	CDK
+#23	AnnotatorNotes T61	family:496
+T62	Drug 1576 1579	Chx
+#8	AnnotatorNotes T21	DOID:684
+T63	Drug 1619 1623	5‐FU
+#24	AnnotatorNotes T17	CHEMBL123292
+#25	AnnotatorNotes T62	CHEMBL123292
+#26	AnnotatorNotes T20	CHEMBL185
+#27	AnnotatorNotes T63	CHEMBL185
+T24	Chemical 1694 1697	MTS
+T26	Chemical 1801 1803	PI
+T64	Gene-Protein 1826 1855	phosphorylated‐retinoblastoma
+#28	AnnotatorNotes T64	HGNC:9884
+T65	Gene-Protein 1821 1825	p‐RB
+#29	AnnotatorNotes T65	HGNC:9884
+T66	Gene-Protein 1856 1858	RB
+#30	AnnotatorNotes T66	HGNC:9884
+T33	Biomarker 1194 1199	Cdc37
+R8	Association Arg1:T33 Arg2:T11	

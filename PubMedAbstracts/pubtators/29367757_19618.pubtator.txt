@@ -1,0 +1,43 @@
+29367757_19618|t|RSS_IDENT_p_29367757_b_1_3_3
+29367757_19618|a| The FGF pathways can be regulated by miRNAs, through directly targeting the ligands or receptors. ³¹ For example, miR-338 directly regulates FGFR2 expression in osteoblasts, miR-424 and miR-503 directly suppress FGF2 and FGFR1 expression in pulmonary artery endothelial cells, and miR-710 is a direct regulator of FGF15 expression in myofibroblasts. Dysfunction of miRNA regulation of FGF signaling can also result in cancer progression. In non-small-cell lung cancer (NSCLC), for example, down regulation of miR-152 and miR-198 leads to increased levels of FGF2 and FGFR1 respectively, leading to decreased apoptosis and increased proliferation and invasion. In breast cancer, reduced expression of miR-503 results in increased FGF8 and consequent increased angiogenesis and proliferation. In the present study, we identified 59 microRNAs that were up-regulated and 43 that were suppressed by FGFR1 signaling, including well known oncomiRNAs miR-27a, ³² miR-210, ³³ miR-155, ³⁴ miR-483 ³⁵ and the miR-17/92 cluster. ³⁶ – ⁴¹ In addition, miR-26a/b, ⁴² miR-150, ⁴³ , ⁴⁴ miR-433 ⁴⁵ and miR-503, ⁴⁶ likely function as tumor suppressors in SCLL neoplasms. Consistent with this speculation, over expression of miR-17/92 only partially rescued the cells from BGJ398 induced cell cycle inhibition and apoptosis, implying the involvement of other miRNAs in FGFR1 fusion kinase driven SCLL. These observations reveal an integrative picture of microRNAs and components of the FGFR signaling pathway to orchestrate development and differentiation.
+29367757_19618	34	37	FGF	Genefamily	family:1895
+29367757_19618	144	151	miR-338	Rna-noncoding	HGNC:31775
+29367757_19618	171	176	FGFR2	Gene-protein	HGNC:3689
+29367757_19618	204	211	miR-424	Rna-noncoding	HGNC:31881
+29367757_19618	216	223	miR-503	Rna-noncoding	HGNC:32138
+29367757_19618	242	246	FGF2	Gene-protein	HGNC:3676
+29367757_19618	251	256	FGFR1	Gene-protein	HGNC:3688
+29367757_19618	311	318	miR-710	Rna-noncoding	not found
+29367757_19618	344	349	FGF15	Gene-protein	not found
+29367757_19618	380	428	Dysfunction of miRNA regulation of FGF signaling	Biomarker
+29367757_19618	415	418	FGF	Genefamily
+29367757_19618	448	454	cancer	Disease	DOID:162
+29367757_19618	471	497	non-small-cell lung cancer	Disease	DOID:3908
+29367757_19618	499	504	NSCLC	Disease	DOID:3908
+29367757_19618	520	558	down regulation of miR-152 and miR-198	Biomarker
+29367757_19618	539	546	miR-152	Rna-noncoding	HGNC:31538
+29367757_19618	551	558	miR-198	Rna-noncoding	HGNC:31570
+29367757_19618	588	592	FGF2	Gene-protein
+29367757_19618	597	602	FGFR1	Gene-protein
+29367757_19618	693	706	breast cancer	Disease	DOID:1612
+29367757_19618	708	737	reduced expression of miR-503	Biomarker
+29367757_19618	730	737	miR-503	Rna-noncoding
+29367757_19618	759	763	FGF8	Gene-protein	HGNC:3686
+29367757_19618	924	929	FGFR1	Gene-protein
+29367757_19618	973	980	miR-27a	Rna-noncoding	HGNC:31613
+29367757_19618	985	992	miR-210	Rna-noncoding	HGNC:31587
+29367757_19618	997	1004	miR-155	Rna-noncoding	HGNC:31542
+29367757_19618	1009	1016	miR-483	Rna-noncoding	HGNC:32340
+29367757_19618	1028	1037	miR-17/92	Rna-noncoding	HGNC:23564
+29367757_19618	1068	1077	miR-26a/b	Rna-noncoding	not found, HGNC:31612
+29367757_19618	1082	1089	miR-150	Rna-noncoding	HGNC:31537
+29367757_19618	1099	1106	miR-433	Rna-noncoding	HGNC:32026
+29367757_19618	1114	1121	miR-503	Rna-noncoding	HGNC:32138
+29367757_19618	1145	1150	tumor	Disease	DOID:162
+29367757_19618	1166	1180	SCLL neoplasms	Disease	not found
+29367757_19618	1235	1244	miR-17/92	Rna-noncoding
+29367757_19618	1283	1289	BGJ398	Drug	CHEMBL1852688
+29367757_19618	1379	1384	FGFR1	Gene-protein
+29367757_19618	1406	1410	SCLL	Disease
+29367757_19618	1496	1500	FGFR	Genefamily	not found
+

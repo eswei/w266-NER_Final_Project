@@ -1,0 +1,42 @@
+31693521_2750|t|RSS_IDENT_p_31693521_b_1_1_3
+31693521_2750|a| We reported that MELAS is associated with endothelial dysfunction using endothelial-dependent vasodilatation methods by a high-resolution doppler echocardiography [ 4 ]. Because patients with MELAS have defective respiratory chain enzyme activities, a high NADH/NAD⁺ ratio inhibits the nitric oxide (NO) synthetase reaction to cause a decreased production of NO at the endothelial cells or smooth muscle cells in the artery. In addition, asymmetrical dimethyl-arginine (ADMA), a risk factor of ischemic heart disorders, was relatively increased in patients with MELAS [ 5 ], which may lead to a negative effect on the endothelial NO synthetase activity. Indeed, decreased NO metabolite concentrations during SLE and lower NO synthesis rate were observed in patients with MELAS [ 5 – 8 ]. If hyperactive cytochrome c oxidase (COX) may decrease the regional NO concentration, all of the above scenarios lead to the segmental vasodilatation defect especially in the segment of strongly SDH-reactive blood vessel (SSV) regions in the cerebral artery or arterioles. These findings suggest that endothelial dysfunction because of NO deficiency is involved in the pathogenesis of SLE [ 9▪ , 10 , 11 ]. Low plasma concentration of l-arginine, a potent donor of NO, observed in patients with MELAS [ 5 , 8 ] supports the hypothesis and indicates the therapeutic potential of l-arginine on SLE. 
+31693521_2750	47	52	MELAS	Disease	DOID:3687
+31693521_2750	72	95	endothelial dysfunction	Biomarker
+31693521_2750	222	227	MELAS	Disease
+31693521_2750	233	278	defective respiratory chain enzyme activities	Biomarker
+31693521_2750	282	302	high NADH/NAD⁺ ratio	Biomarker
+31693521_2750	287	291	NADH	Chemical
+31693521_2750	292	296	NAD⁺	Chemical
+31693521_2750	316	328	nitric oxide	Chemical
+31693521_2750	316	344	nitric oxide (NO) synthetase	Genefamily	not found
+31693521_2750	330	332	NO	Chemical
+31693521_2750	365	391	decreased production of NO	Biomarker
+31693521_2750	389	391	NO	Chemical
+31693521_2750	468	498	asymmetrical dimethyl-arginine	Biomarker
+31693521_2750	481	498	dimethyl-arginine	Chemical
+31693521_2750	500	504	ADMA	Chemical
+31693521_2750	524	548	ischemic heart disorders	Disease	D017202
+31693521_2750	592	597	MELAS	Disease
+31693521_2750	648	673	endothelial NO synthetase	Gene-protein	HGNC:7876
+31693521_2750	660	662	NO	Chemical
+31693521_2750	692	730	decreased NO metabolite concentrations	Biomarker
+31693521_2750	702	704	NO	Chemical
+31693521_2750	738	741	SLE	Disease	not found
+31693521_2750	746	769	lower NO synthesis rate	Biomarker
+31693521_2750	752	754	NO	Chemical
+31693521_2750	801	806	MELAS	Disease
+31693521_2750	821	853	hyperactive cytochrome c oxidase	Biomarker
+31693521_2750	833	853	cytochrome c oxidase	Genefamily	family:643
+31693521_2750	855	858	COX	Genefamily	family:643
+31693521_2750	886	888	NO	Chemical
+31693521_2750	943	974	segmental vasodilatation defect	Disease	not found
+31693521_2750	1119	1167	endothelial dysfunction because of NO deficiency	Biomarker
+31693521_2750	1154	1156	NO	Chemical
+31693521_2750	1203	1206	SLE	Disease
+31693521_2750	1225	1263	Low plasma concentration of l-arginine	Biomarker
+31693521_2750	1253	1263	l-arginine	Chemical
+31693521_2750	1283	1285	NO	Chemical
+31693521_2750	1313	1318	MELAS	Disease
+31693521_2750	1396	1406	l-arginine	Drug	CHEMBL1485
+31693521_2750	1410	1413	SLE	Disease
+

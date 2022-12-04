@@ -1,0 +1,43 @@
+31683881_13874|t|RSS_IDENT_p_31683881_b_1_4_4
+31683881_13874|a| For the last decade, several trials to raise HDL-C concentrations pharmacologically by inhibiting the cholesteryl ester transfer protein were mostly unsuccessful in the prevention of CVD [ 13 , 14 , 15 ], suggesting that some factors beyond HDL-C concentration per se may be responsible for the increased risks of CVD. In the current results, the underlying mechanism between extremely high HDL-C and impaired glucose metabolism, a well-known risk for CVD, remains unknown, although participants with extremely high HDL-C levels had favorable profiles for weight, lipids, exercise, and smoking. Likely contributors to the observed associations can include rare dysfunctional HDL-C that exerts an impairing glucose metabolism, if any, and other factors, such as genetic factors (CETP, APOA1, LCAT, and so on) [ 4 ], and impaired hormones relating to glucose metabolism, such as reduced insulin secretion and increased counterregulatory hormones (adrenaline, glucagon, thyroid hormones, growth hormone, and cortisol, among others). Particularly concerning adrenaline, a catecholamine hormone secreted by the adrenal medulla, Okamura et al. [ 16 ] have shown that BMI was significantly increased, and serum HbA₁c and HDL-C were decreased after an adrenalectomy in patients with pheochromocytoma. Similar findings were observed after treatment of pheochromocytoma in another study by Bosanska et al. [ 17 ], albeit a significant reduction in HDL-C was not observed. Moreover, it is possible that an elevated HDL-C in patients with pheochromocytoma could be considered an indirect effect of catecholamines-induced thermogenic activation of adipocytes [ 18 , 19 ]. 
+31683881_13874	75	80	HDL-C	Chemical
+31683881_13874	132	149	cholesteryl ester	Chemical
+31683881_13874	213	216	CVD	Disease	DOID:1287
+31683881_13874	271	276	HDL-C	Chemical
+31683881_13874	344	347	CVD	Disease
+31683881_13874	416	426	high HDL-C	Biomarker
+31683881_13874	416	458	high HDL-C and impaired glucose metabolism	Collection
+31683881_13874	421	426	HDL-C	Chemical
+31683881_13874	431	458	impaired glucose metabolism	Biomarker
+31683881_13874	440	447	glucose	Chemical
+31683881_13874	482	485	CVD	Disease
+31683881_13874	541	558	high HDL-C levels	Biomarker
+31683881_13874	546	551	HDL-C	Chemical
+31683881_13874	594	600	lipids	Chemical
+31683881_13874	686	710	rare dysfunctional HDL-C	Biomarker
+31683881_13874	726	754	impairing glucose metabolism	Disease	DOID:4194
+31683881_13874	736	743	glucose	Chemical
+31683881_13874	808	812	CETP	Gene-protein	HGNC:1869
+31683881_13874	814	819	APOA1	Gene-protein	 HGNC:600
+31683881_13874	821	825	LCAT	Gene-protein	HGNC:6522
+31683881_13874	879	886	glucose	Chemical
+31683881_13874	915	922	insulin	Gene-protein	HGNC:6081
+31683881_13874	975	985	adrenaline	Chemical
+31683881_13874	987	995	glucagon	Gene-protein	not found
+31683881_13874	997	1013	thyroid hormones	Genefamily	not found
+31683881_13874	1015	1029	growth hormone	Gene-protein	HGNC:4261
+31683881_13874	1035	1043	cortisol	Chemical
+31683881_13874	1084	1094	adrenaline	Chemical
+31683881_13874	1098	1111	catecholamine	Chemical
+31683881_13874	1191	1222	BMI was significantly increased	Biomarker
+31683881_13874	1228	1264	serum HbA₁c and HDL-C were decreased	Biomarker
+31683881_13874	1244	1249	HDL-C	Chemical
+31683881_13874	1305	1321	pheochromocytoma	Disease	DOID:0050771
+31683881_13874	1373	1389	pheochromocytoma	Disease
+31683881_13874	1443	1473	significant reduction in HDL-C	Biomarker
+31683881_13874	1468	1473	HDL-C	Chemical
+31683881_13874	1525	1539	elevated HDL-C	Biomarker
+31683881_13874	1534	1539	HDL-C	Chemical
+31683881_13874	1557	1573	pheochromocytoma	Disease
+31683881_13874	1616	1630	catecholamines	Chemical
+

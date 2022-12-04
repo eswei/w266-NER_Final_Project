@@ -1,0 +1,42 @@
+T0	Chemical 117 123	silica
+T1	Chemical 224 228	SiO₂
+T11	Disease 821 850	idiopathic pulmonary fibrosis
+#3	AnnotatorNotes T11	DOID:0050156
+T12	Disease 852 855	IPF
+T14	Disease 1014 1017	IPF
+T16	Disease 1104 1107	IPF
+T18	Disease 1273 1282	silicosis
+#7	AnnotatorNotes T18	DOID:10325
+T20	Disease 1399 1408	silicosis
+T4	Chemical 453 459	silica
+T5	Chemical 566 572	silica
+T8	Chemical 689 695	silica
+T9	Disease 689 717	silica-induced lung fibrosis
+#12	AnnotatorNotes T9	not found
+T2	Gene-Protein 178 184	HMGB-1
+#1	AnnotatorNotes T2	HGNC:4983
+T3	Gene-Protein 271 277	HMGB-1
+T6	Gene-Protein 361 367	HMGB-1
+T7	Gene-Protein 1211 1217	HMGB-1
+T10	Gene-Protein 922 928	HMGB-1
+T13	Gene-Protein 1316 1322	HMGB-1
+T15	Gene-Protein 1070 1076	HMGB-1
+T17	Gene-Protein 781 787	HMGB-1
+T19	Gene-Protein 586 592	HMGB-1
+T21	Biomarker 904 996	concentrations of HMGB-1 in bronchoalveolar lavage fluid (BALF) were significantly increased
+R1	Association Arg1:T21 Arg2:T14	
+T22	Biomarker 1052 1100	concentrations of HMGB-1 in serum were increased
+R2	Association Arg1:T22 Arg2:T16	
+T23	Biomarker 1202 1223	elevated HMGB-1 level
+R3	Association Arg1:T23 Arg2:T18	
+T24	Biomarker 781 787	HMGB-1
+R4	Association Arg1:T24 Arg2:T11	
+T25	Gene-Protein 630 636	HMGB-1
+T26	Biomarker 1316 1362	HMGB-1-mediated inflammatory signaling pathway
+R5	Association Arg1:T26 Arg2:T20	
+T27	Biomarker 361 410	HMGB-1 in lung tissues was significantly elevated
+#2	AnnotatorNotes T12	DOID:0050156
+#4	AnnotatorNotes T24	D024243
+T29	Biomarker 586 607	HMGB-1 overexpression
+T28	Biomarker 621 636	elevated HMGB-1
+T30	CellLine 292 300	RAW264.7

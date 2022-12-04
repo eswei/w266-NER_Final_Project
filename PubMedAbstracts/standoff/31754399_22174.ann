@@ -1,0 +1,78 @@
+T0	Disease 114 121	cancers
+#1	AnnotatorNotes T0	DOID:162
+T10	Disease 616 630	pilomatricomas
+#3	AnnotatorNotes T10	DOID:5374
+T13	Disease 819 826	cancers
+T16	Disease 921 935	HF hyperplasia
+#7	AnnotatorNotes T16	DOID:5375
+T17	Disease 940 943	SCC
+#8	AnnotatorNotes T17	DOID:5514
+T19	Disease 1110 1113	SCC
+T21	Disease 1303 1314	skin cancer
+#10	AnnotatorNotes T21	DOID:4159
+T23	Disease 1421 1432	hyperplasia
+T24	Disease 1437 1440	SCC
+T25	Disease 1539 1542	SCC
+T26	Disease 1731 1734	SCC
+T5	Disease 340 366	pilomatricoma-like lesions
+#16	AnnotatorNotes T5	DOID:5374
+T6	Disease 399 404	tumor
+#17	AnnotatorNotes T6	DOID:162
+T7	Disease 483 491	HF tumor
+#18	AnnotatorNotes T7	DOID:5375
+T8	Disease 500 517	trichofolliculoma
+T9	Drug 536 545	tamoxifen
+T2	GeneFamily 34 43	β-catenin
+#2	AnnotatorNotes T2	family:1542
+T3	GeneFamily 30 33	Wnt
+#4	AnnotatorNotes T3	family:360
+T1	GeneFamily 315 324	β-catenin
+T4	GeneFamily 556 565	β-catenin
+T11	GeneFamily 683 692	β-catenin
+T14	GeneFamily 1027 1036	β-catenin
+T18	GeneFamily 1168 1177	β-catenin
+T20	GeneFamily 1277 1286	β-catenin
+T12	GeneFamily 878 887	β-catenin
+T15	Gene-Protein 1264 1268	Pten
+T27	GeneFamily 1269 1272	Akt
+T28	GeneFamily 1187 1190	Akt
+T29	GeneFamily 1669 1672	Akt
+T30	Gene-Protein 1664 1668	Pten
+T31	GeneFamily 1501 1504	Akt
+T32	Gene-Protein 1496 1500	Pten
+T33	Gene-Protein 1182 1186	Pten
+T34	GeneFamily 1059 1062	Akt
+#5	AnnotatorNotes T34	family:1900
+T35	Gene-Protein 1054 1058	Pten
+T36	Biomarker 34 43	β-catenin
+#9	AnnotatorNotes T36	D051176
+T37	Biomarker 30 33	Wnt
+#12	AnnotatorNotes T37	D051153
+T38	Collection 30 43	Wnt/β-catenin
+R1	Association Arg1:T38 Arg2:T0	
+T39	Biomarker 288 331	Constitutive activation of β-catenin in HFs
+R2	Association Arg1:T39 Arg2:T5	
+T40	GeneFamily 271 274	Wnt
+T41	Biomarker 659 692	activating mutations in β-catenin
+R3	Association Arg1:T41 Arg2:T10	
+T42	Gene-Protein 869 873	Pten
+#6	AnnotatorNotes T42	HGNC:9588
+T43	Drug 852 902	deletion of both Pten and β-catenin in Lgr5⁺ HFSCs
+T22	Gene-Protein 1363 1366	TNF
+#11	AnnotatorNotes T22	HGNC:11892
+T44	Gene-Protein 1488 1491	TNF
+T45	Gene-Protein 1604 1607	TNF
+T46	Gene-Protein 1394 1398	Pten
+T47	Gene-Protein 891 895	Lgr5
+#13	AnnotatorNotes T47	HGNC:4504
+T48	Gene-Protein 1656 1659	TNF
+#14	AnnotatorNotes T8	C536553
+T49	Biomarker 1142 1200	gain and lose function of β-catenin and Pten/Akt signaling
+T50	Biomarker 1394 1403	Pten loss
+T51	Biomarker 1363 1366	TNF
+#15	AnnotatorNotes T9	CHEMBL83
+#19	AnnotatorNotes T43	not found
+T52	Collection 924 943	hyperplasia and SCC
+R4	Response Arg1:T43 Arg2:T52	
+T53	Biomarker 1656 1727	TNF and Pten/Akt signaling pathways possibly exhibit synergistic effect
+R5	Association Arg1:T53 Arg2:T26	

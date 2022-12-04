@@ -1,0 +1,156 @@
+T1	Disease 66 70	VMTD
+T10	Disease 267 283	stroke syndromes
+#2	AnnotatorNotes T10	not found
+T12	Disease 285 299	cardiac angina
+#3	AnnotatorNotes T12	not found
+T14	Disease 305 369	coronary procedure-associated transient microthrombotic syndrome
+#5	AnnotatorNotes T14	not found
+T17	Disease 399 403	VMTD
+T18	Disease 572 592	hemostatic disorders
+#8	AnnotatorNotes T18	D020141
+T19	Disease 727 731	AFHF
+T2	Disease 104 107	TTP
+T20	Disease 732 763	Acute fulminant hepatic failure
+#11	AnnotatorNotes T20	D017114
+T21	Disease 764 766	AI
+#12	AnnotatorNotes T21	D000309
+T22	Disease 767 788	Adrenal insufficiency
+#13	AnnotatorNotes T22	D000309
+T23	Disease 789 792	APL
+T24	Disease 793 821	Acute promyelocytic leukemia
+#15	AnnotatorNotes T24	DOID:0060318
+T25	Disease 870 905	Acute respiratory distress syndrome
+#16	AnnotatorNotes T25	DOID:11394
+T26	Disease 941 960	Acute renal failure
+#17	AnnotatorNotes T26	D058186
+T27	Chemical 961 965	ATRA
+T29	Chemical 966 989	All-trans retinoic acid
+T32	Disease 1088 1125	Disseminated intravascular thrombosis
+#24	AnnotatorNotes T32	not found
+T33	Chemical 1148 1151	FDP
+T39	Disease 1354 1357	HUS
+T4	Disease 112 129	TTP-like syndrome
+#30	AnnotatorNotes T4	not found
+T40	Disease 1358 1383	Hemolytic uremic syndrome
+#31	AnnotatorNotes T40	DOID:12554
+T42	Chemical 1388 1395	Lactate
+T44	Disease 1438 1440	MI
+T45	Disease 1441 1462	Myocardial infarction
+#35	AnnotatorNotes T45	DOID:5844
+T46	Disease 1468 1501	Microangiopathic hemolytic anemia
+#36	AnnotatorNotes T46	D000743
+T47	Disease 1485 1501	hemolytic anemia
+#37	AnnotatorNotes T47	DOID:583
+T48	Disease 1527 1559	Multi-organ dysfunction syndrome
+#38	AnnotatorNotes T48	not found
+T49	Disease 1560 1562	PF
+T50	Disease 1563 1580	Purpura fulminans
+#41	AnnotatorNotes T50	DOID:0060538
+T51	Disease 1606 1645	Systemic inflammatory response syndrome
+#42	AnnotatorNotes T51	D018746
+T52	Disease 1646 1648	SS
+#43	AnnotatorNotes T52	not found
+T53	Disease 1649 1664	Stroke syndrome
+#44	AnnotatorNotes T53	not found
+T54	Disease 1705 1721	Thrombocytopenia
+#45	AnnotatorNotes T54	DOID:1588
+T56	Disease 1801 1836	Thrombotic thrombocytopenic purpura
+#46	AnnotatorNotes T56	DOID:10772
+T61	Disease 1970 1974	VMTD
+T63	Disease 1975 2007	Vascular microthrombotic disease
+#51	AnnotatorNotes T63	not found
+T65	Disease 2041 2048	EA-VMTD
+T67	Disease 2049 2080	Endotheliopathy associated VMTD
+T69	Disease 2089 2118	Gene mutation associated VMTD
+T7	Disease 151 218	hereditary focal, multifocal and localized microthrombotic diseases
+#58	AnnotatorNotes T7	not found, not found, not found
+T9	Disease 224 258	acquired microthrombotic disorders
+#60	AnnotatorNotes T9	not found
+#1	AnnotatorNotes T1	not found
+#7	AnnotatorNotes T2	DOID:10772
+T3	Gene-Protein 608 616	ADAMTS13
+#4	AnnotatorNotes T3	HGNC:1366
+T5	Gene-Protein 617 698	A disintegrin and metalloproteinase with a thrombospondin type 1 motif, member 13
+#6	AnnotatorNotes T5	HGNC:1366
+T6	Drug-Class 703 726	Anti-fibrinolytic agent
+T8	Drug-Class 699 702	AFA
+#9	AnnotatorNotes T19	D017114
+#10	AnnotatorNotes T23	DOID:0060318
+T11	Disease 865 869	ARDS
+#14	AnnotatorNotes T11	DOID:11394
+T13	Gene-Protein 916 936	Recombinant ADAMTS13
+#18	AnnotatorNotes T13	HGNC:1366
+T15	Gene-Protein 906 915	rADAMTS13
+#19	AnnotatorNotes T15	HGNC:1366
+T16	Disease 937 940	ARF
+#20	AnnotatorNotes T16	D058186
+T28	Disease 1045 1083	disseminated intravascular coagulation
+#21	AnnotatorNotes T28	DOID:11247
+T30	Disease 994 1032	Disseminated intravascular coagulation
+#22	AnnotatorNotes T30	DOID:11247
+T31	Disease 990 993	DIC
+#23	AnnotatorNotes T31	DOID:11247
+T70	Disease 1084 1087	DIT
+#25	AnnotatorNotes T70	not found
+T73	GeneFamily 1152 1158	Fibrin
+#26	AnnotatorNotes T73	not found
+T34	Gene-Protein 1210 1230	Activated factor VII
+#29	AnnotatorNotes T34	HGNC:3546
+T74	Gene-Protein 1231 1236	FVIII
+#32	AnnotatorNotes T74	HGNC:3546
+T75	Gene-Protein 1237 1248	Factor VIII
+#34	AnnotatorNotes T75	HGNC:3546
+T76	Disease 1252 1272	Hepatic coagulopathy
+#39	AnnotatorNotes T76	not found
+T35	Disease 1249 1251	HC
+#40	AnnotatorNotes T35	not found
+T77	GeneFamily 1273 1275	IL
+#49	AnnotatorNotes T77	family:601
+T36	Gene-Protein 1276 1287	Interleukin
+#27	AnnotatorNotes T36	family:601
+T41	Disease 1295 1353	Hemolysis elevated liver enzymes and low platelet syndrome
+#52	AnnotatorNotes T41	DOID:13133
+T37	Disease 1288 1294	HELLPs
+#53	AnnotatorNotes T37	DOID:13133
+#28	AnnotatorNotes T39	DOID:12554
+T38	GeneFamily 1388 1409	Lactate dehydrogenase
+#33	AnnotatorNotes T38	not found
+T43	GeneFamily 1384 1387	LDH
+#54	AnnotatorNotes T43	not found
+#57	AnnotatorNotes T44	DOID:5844
+T80	Disease 1463 1467	MAHA
+#59	AnnotatorNotes T80	D000743
+T81	Disease 1508 1521	Atypical MAHA
+#61	AnnotatorNotes T81	not found
+T82	Disease 1502 1507	aMAHA
+#62	AnnotatorNotes T82	not found
+T83	Disease 1522 1526	MODS
+#63	AnnotatorNotes T83	not found
+#64	AnnotatorNotes T49	DOID:0060538
+T84	Gene-Protein 1584 1595	Prothrombin
+#65	AnnotatorNotes T84	not found
+T85	Disease 1601 1605	SIRS
+#66	AnnotatorNotes T85	D018746
+T86	MicroOrganism 1692 1699	E. coli
+T87	Chemical 1670 1681	Shiga toxin
+T55	Disease 1797 1800	TTP
+#67	AnnotatorNotes T55	DOID:10772
+T57	Gene-Protein 1841 1862	von Willebrand factor
+#68	AnnotatorNotes T57	HGNC:12726
+T88	Gene-Protein 1837 1840	vWF
+#69	AnnotatorNotes T88	HGNC:12726
+T58	Gene-Protein 1885 1906	von Willebrand factor
+T59	Disease 2016 2040	antibody associated VMTD
+#47	AnnotatorNotes T59	not found
+T60	Disease 2008 2015	AA-VMTD
+#48	AnnotatorNotes T60	not found
+#50	AnnotatorNotes T67	not found
+#70	AnnotatorNotes T65	not found
+T62	Disease 2081 2088	GA-VMTD
+#71	AnnotatorNotes T62	not found
+#72	AnnotatorNotes T69	not found
+T64	Gene-Protein 1204 1209	FVIIa
+T66	Gene-Protein 1751 1764	Tissue factor
+#73	AnnotatorNotes T66	HGNC:3541
+T68	Gene-Protein 1748 1750	TF
+#74	AnnotatorNotes T68	HGNC:3541

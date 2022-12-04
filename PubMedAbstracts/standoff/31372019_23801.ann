@@ -1,0 +1,92 @@
+T0	Disease 56 112	hyperglycemia-induced myocardial tissue oxidative stress
+#1	AnnotatorNotes T0	not found
+T10	Disease 659 672	heart failure
+#3	AnnotatorNotes T10	D006333
+T12	Disease 674 693	cardiac hypertrophy
+#4	AnnotatorNotes T12	D006332
+T13	Disease 698 721	diabetic cardiomyopathy
+#5	AnnotatorNotes T13	D058065
+T15	Drug 805 808	STZ
+T16	Disease 805 825	STZ-induced diabetic
+#7	AnnotatorNotes T16	not found
+T18	Disease 914 950	NF-κB- mediated cardiac inflammation
+#9	AnnotatorNotes T18	not found
+T19	Chemical 1360 1367	glucose
+T21	Disease 1403 1408	T2 DM
+T23	Drug 1503 1506	STZ
+T24	Disease 1503 1523	STZ-induced diabetic
+T25	Drug 1566 1572	GS Rg1
+T27	Drug 1743 1749	GS Rg1
+T28	Disease 1753 1782	myocardial inflammation in DM
+#18	AnnotatorNotes T28	not found, DOID:9352
+T5	Disease 458 477	cardiac dysfunction
+#20	AnnotatorNotes T5	not found
+T6	Disease 481 496	type 2 diabetic
+#21	AnnotatorNotes T6	DOID:9352
+T8	Disease 636 657	myocardial infarction
+#22	AnnotatorNotes T8	DOID:5844
+T1	Biomarker 132 144	inflammation
+#2	AnnotatorNotes T1	D007249
+R1	Association Arg1:T1 Arg2:T0	
+T2	GeneFamily 166 192	pro-inflammatory cytokines
+#6	AnnotatorNotes T2	not found
+T3	GeneFamily 197 202	NF-κB
+#8	AnnotatorNotes T3	family:1254
+T4	Biomarker 197 202	NF-κB
+#10	AnnotatorNotes T4	D016328
+T7	Disease 324 336	inflammation
+#13	AnnotatorNotes T7	D007249
+R2	Association Arg1:T4 Arg2:T7	
+T9	GeneFamily 343 348	NF-κB
+T11	Disease 361 377	oxidative stress
+#15	AnnotatorNotes T11	D018384
+T14	Disease 382 404	inflammatory responses
+#17	AnnotatorNotes T14	D007249
+T22	Collection 361 496	oxidative stress and inflammatory responses in myocardial tissue are simultaneously reduced, and cardiac dysfunction in type 2 diabetic
+T30	Drug 343 359	NF-κB is blocked
+#19	AnnotatorNotes T30	not found
+R3	Response Arg1:T30 Arg2:T22	
+T31	GeneFamily 548 553	NF-κB
+T32	Collection 636 721	myocardial infarction, heart failure, cardiac hypertrophy and diabetic cardiomyopathy
+T33	Biomarker 534 563	activation of NF-κB signaling
+R4	Association Arg1:T33 Arg2:T32	
+T34	Biomarker 765 801	NF-κB mRNA and protein was increased
+T35	Gene-Protein 765 770	NF-κB
+#23	AnnotatorNotes T15	CHEMBL1651906
+R5	Association Arg1:T34 Arg2:T16	
+T36	Drug 895 901	GS Rg1
+T37	Drug 836 842	GS Rg1
+#24	AnnotatorNotes T37	CHEMBL501637
+T17	GeneFamily 914 919	NF-κB
+R6	Response Arg1:T36 Arg2:T18	
+T38	GeneFamily 994 999	NF-κB
+T39	Gene-Protein 1020 1040	Toll-like receptor 4
+T40	Gene-Protein 1042 1046	TLR4
+T41	Chemical 1057 1060	ROS
+T42	Gene-Protein 1142 1147	NLRP3
+T43	Gene-Protein 1164 1171	insulin
+T44	GeneFamily 1209 1217	cytokine
+T45	Gene-Protein 1274 1279	NLRP3
+#12	AnnotatorNotes T21	DOID:9352
+T20	Gene-Protein 1467 1471	TLR4
+T46	Gene-Protein 1473 1478	NLRP3
+T47	Gene-Protein 1483 1486	ASC
+T48	Biomarker 1453 1499	expression of TLR4, NLRP3 and ASC in the heart
+R7	Association Arg1:T48 Arg2:T24	
+T49	Disease 1585 1597	inflammation
+R8	Response Arg1:T25 Arg2:T49	
+T50	Gene-Protein 1605 1610	NLRP3
+A1	Conjunction T28
+T26	GeneFamily 1800 1805	NF-κB
+T29	GeneFamily 1810 1815	NLRP3
+T51	GeneFamily 1847 1851	AMPK
+T52	Drug 1687 1689	CC
+#11	AnnotatorNotes T52	CHEMBL478629
+T53	Drug 1705 1707	CC
+T54	Disease 1343 1355	lipotoxicity
+#14	AnnotatorNotes T54	not found
+T55	Disease 1360 1376	glucose toxicity
+#16	AnnotatorNotes T55	not found
+T56	Collection 1343 1376	lipotoxicity and glucose toxicity
+T57	Biomarker 1274 1299	NLRP3 inflammatory bodies
+R11	Association Arg1:T57 Arg2:T56	

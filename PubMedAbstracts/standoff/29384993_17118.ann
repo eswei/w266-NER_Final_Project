@@ -1,0 +1,34 @@
+T1	Chemical 77 81	ADMA
+T11	Chemical 435 439	ADMA
+T12	Disease 458 476	cognitive deficits
+#3	AnnotatorNotes T12	DOID:1561
+T13	Chemical 542 546	ADMA
+T15	Disease 1044 1060	spatial deficits
+#5	AnnotatorNotes T15	not found
+T16	Chemical 1153 1157	ADMA
+T19	Chemical 1231 1235	ADMA
+T2	Chemical 157 161	ADMA
+T22	Drug 1324 1333	melatonin
+T23	Chemical 1377 1381	ADMA
+T24	Drug 1439 1448	melatonin
+T25	Chemical 1479 1483	ADMA
+T26	Drug 1579 1588	melatonin
+T27	Chemical 1610 1614	ADMA
+T28	Disease 1653 1667	brain disorder
+#18	AnnotatorNotes T28	DOID:936
+T3	Drug 203 226	ornithine phenylacetate
+T5	Disease 283 298	liver cirrhosis
+#21	AnnotatorNotes T5	DOID:5082
+T6	Biomarker 306 327	cognition dysfunction
+#22	AnnotatorNotes T6	D060825
+T8	Chemical 345 349	ADMA
+T7	Biomarker 71 114	brain ADMA levels were significantly higher
+#1	AnnotatorNotes T3	CHEMBL4297204
+T4	Biomarker 332 356	higher serum ADMA levels
+T10	Collection 306 356	cognition dysfunction and higher serum ADMA levels
+R1	Association Arg1:T10 Arg2:T5	
+T14	Biomarker 418 446	increased plasma ADMA levels
+T9	Biomarker 532 553	increased ADMA levels
+T17	Biomarker 1221 1249	increased ADMA concentration
+#2	AnnotatorNotes T22	CHEMBL45
+T18	Biomarker 1139 1164	difference in ADMA levels

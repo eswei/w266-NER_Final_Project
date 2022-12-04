@@ -1,0 +1,43 @@
+29726288_19662|t|RSS_IDENT_p_29726288_b_1_4_4
+29726288_19662|a| The MTNR1B rs8192552 variant E allele is associated with reduced PFG levels. ¹⁶ Our study demonstrated that a mutant 24 E allele may have a protective role against IR in obese adolescents. Although the underlying mechanisms of this protective effect are not fully understood, the mutant allele may alter glucose-stimulated insulin secretion and proinsulin conversion. ⁴ Another possible mechanism may relate to differential regulation of the melatonin receptor in specific target tissues with crucial functions in carbohydrate metabolism (e.g. adipose tissue, skeletal muscle, liver and hypothalamus). ⁴ , ¹⁶ The protective effect also may be attributable to leptin, which is associated with IR independent of obesity by imparing insulin signaling. Leptin levels are increased in individuals with MetS, but in individuals with severe MetS, adipose tissue dysfunction may lead to decreased leptin levels. ¹⁷ It could be argued, therefore, that a mutant allele may lead to the development of relative hypoleptinemia via adipose tissue dysfunction. Elevated leptin has been shown to be an independent risk factor for hyperlipidemia. ¹⁷ Brydon et al. reported that MTNR1B activation in adipose tissue leads to increased lipid levels and adipocytes. ¹¹ Surprisingly, we found that the mutant E allele was associated with reduced total cholesterol levels in morbidly obese adolescents. We speculate that a protective effect against hyperlipidemia may occur because of relative hypoleptinemia caused by adipose tissue dysfunction in morbidly obese adolescents. Our study illustrates that morbidly obese adolescents carrying an E allele may have reduced cardiometabolic risk of dyslipidemia, although further studies are required to confirm this effect. 
+29726288_19662	34	40	MTNR1B	Gene-protein	HGNC:7464
+29726288_19662	41	67	rs8192552 variant E allele	Variant
+29726288_19662	87	105	reduced PFG levels	Biomarker
+29726288_19662	140	158	mutant 24 E allele	Drug	not found
+29726288_19662	194	205	IR in obese	Disease	D007333, DOID:9970	Conjunction
+29726288_19662	334	341	glucose	Chemical
+29726288_19662	353	360	insulin	Gene-protein	HGNC:6081
+29726288_19662	375	385	proinsulin	Gene-protein	HGNC:6081
+29726288_19662	472	481	melatonin	Chemical
+29726288_19662	472	490	melatonin receptor	Genefamily	family:209
+29726288_19662	544	556	carbohydrate	Chemical
+29726288_19662	689	695	leptin	Gene-protein	HGNC:6553
+29726288_19662	722	724	IR	Disease	D007333
+29726288_19662	740	747	obesity	Disease	DOID:9970
+29726288_19662	760	767	insulin	Gene-protein
+29726288_19662	779	785	Leptin	Gene-protein	HGNC:6553
+29726288_19662	779	806	Leptin levels are increased	Biomarker
+29726288_19662	827	831	MetS	Disease	DOID:14221
+29726288_19662	857	868	severe MetS	Disease	not found
+29726288_19662	870	896	adipose tissue dysfunction	Biomarker
+29726288_19662	909	932	decreased leptin levels	Biomarker
+29726288_19662	919	925	leptin	Gene-protein
+29726288_19662	1020	1043	relative hypoleptinemia	Disease	not found
+29726288_19662	1048	1074	adipose tissue dysfunction	Disease
+29726288_19662	1076	1091	Elevated leptin	Biomarker
+29726288_19662	1085	1091	leptin	Gene-protein
+29726288_19662	1144	1158	hyperlipidemia	Disease	DOID:1168
+29726288_19662	1191	1197	MTNR1B	Gene-protein
+29726288_19662	1236	1273	increased lipid levels and adipocytes	Biomarker
+29726288_19662	1246	1251	lipid	Chemical
+29726288_19662	1310	1325	mutant E allele	Biomarker
+29726288_19662	1346	1378	reduced total cholesterol levels	Biomarker
+29726288_19662	1360	1371	cholesterol	Chemical
+29726288_19662	1382	1408	morbidly obese adolescents	Disease	DOID:9970
+29726288_19662	1456	1470	hyperlipidemia	Disease
+29726288_19662	1492	1515	relative hypoleptinemia	Biomarker
+29726288_19662	1526	1552	adipose tissue dysfunction	Biomarker
+29726288_19662	1556	1582	morbidly obese adolescents	Disease
+29726288_19662	1611	1658	morbidly obese adolescents carrying an E allele	Biomarker
+29726288_19662	1700	1712	dyslipidemia	Disease	DOID:3146
+

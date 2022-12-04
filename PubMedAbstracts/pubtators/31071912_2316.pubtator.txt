@@ -1,0 +1,40 @@
+31071912_2316|t|RSS_IDENT_p_31071912_b_1_1_3
+31071912_2316|a| Glycosylation is the most complex form of all post-translational modifications (PTMs) and is defined by the regulated process of adding lipids and carbohydrates to proteins, as this regulation depends on enzymes and proteases that allow for the diversification of glycoprotein structure and function [ 3 ]. Several protein glycosylation types are currently known, the major ones representing the N-linked and the O-linked (mucin) glycosylation [ 4 ]. Glycosylation perturbations, including aberrantly glycosylated sugars, affect cellular proliferation, differentiation, migration, invasion, and cell cycle control [ 5 ]. The most examined type of O-glycosylation is the mucin type, which is mediated by 20 N-acetylgalactosaminyltransferases (GalNAc-Ts) [ 6 ]. Altered expression of O-glycans in cancer is frequently attributed to under- or overexpression of members of the GalNAc-T family [ 7 ]; however, few studies have examined the role of different GalNAc-Ts in EOC. We previously identified the GalNAc-T3 (GALNT3) gene as a potential EOC oncogene, highly expressed in advanced disease, as GALNT3 expression was significantly associated with poor outcome [ 8 ]. We also demonstrated that GALNT3 could contribute to EOC dissemination through the aberrant glycosylation of different O-glycoproteins, including the MUC1 oncogene [ 8 ]. Consecutively, we analyzed alterations in glycoproteins’ expression following GALNT3 gene knockdown (KD) in EOC cells using a metabolic labeling strategy for enrichment and glycoprotein analysis [ 9 ]. This glycoproteomics approach led to the identification of numerous O-glycoproteins that were differentially expressed upon GALNT3 KD [ 9 ]. Studies on other GalNAc-Ts in EOC were indicative of a role of GALNT14 in promoting EOC cell migration by modulating MUC13 glycosylation [ 10 ], and of a role of GALN6 in modifying EGFR O-glycosylation [ 11 ]. 
+31071912_2316	246	255	proteases	Genefamily	not found
+31071912_2316	453	458	mucin	Genefamily	family:648
+31071912_2316	700	705	mucin	Genefamily
+31071912_2316	736	770	N-acetylgalactosaminyltransferases	Genefamily	family:433
+31071912_2316	772	778	GalNAc	Chemical
+31071912_2316	772	781	GalNAc-Ts	Genefamily	family:433
+31071912_2316	790	821	Altered expression of O-glycans	Biomarker
+31071912_2316	825	831	cancer	Disease	DOID:162
+31071912_2316	860	918	under- or overexpression of members of the GalNAc-T family	Biomarker
+31071912_2316	903	909	GalNAc	Chemical
+31071912_2316	903	911	GalNAc-T	Genefamily	family:433
+31071912_2316	983	989	GalNAc	Chemical
+31071912_2316	983	992	GalNAc-Ts	Genefamily
+31071912_2316	996	999	EOC	Disease	DOID:2152
+31071912_2316	1030	1036	GalNAc	Chemical
+31071912_2316	1030	1039	GalNAc-T3	Gene-protein	HGNC:4125
+31071912_2316	1041	1047	GALNT3	Gene-protein	HGNC:4125
+31071912_2316	1069	1072	EOC	Disease
+31071912_2316	1124	1130	GALNT3	Gene-protein
+31071912_2316	1124	1141	GALNT3 expression	Biomarker
+31071912_2316	1222	1228	GALNT3	Gene-protein
+31071912_2316	1222	1228	GALNT3	Biomarker
+31071912_2316	1249	1252	EOC	Disease
+31071912_2316	1346	1350	MUC1	Gene-protein	HGNC:7508
+31071912_2316	1445	1451	GALNT3	Gene-protein
+31071912_2316	1475	1478	EOC	Disease
+31071912_2316	1693	1699	GALNT3	Gene-protein
+31071912_2316	1727	1733	GalNAc	Chemical
+31071912_2316	1727	1736	GalNAc-Ts	Genefamily
+31071912_2316	1727	1736	GalNAc-Ts	Biomarker	D017350
+31071912_2316	1740	1743	EOC	Disease
+31071912_2316	1773	1780	GALNT14	Gene-protein	HGNC:22946
+31071912_2316	1773	1780	GALNT14	Biomarker	C471038
+31071912_2316	1794	1797	EOC	Disease
+31071912_2316	1827	1832	MUC13	Gene-protein	 HGNC:7511
+31071912_2316	1872	1877	GALN6	Gene-protein
+31071912_2316	1891	1895	EGFR	Gene-protein	HGNC:3236
+

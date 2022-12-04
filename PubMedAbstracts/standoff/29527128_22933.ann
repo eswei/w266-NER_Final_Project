@@ -1,0 +1,154 @@
+T0	Biomarker 213 227	HIF-2α subunit
+T1	Disease 231 236	ccRCC
+#1	AnnotatorNotes T1	DOID:4467
+T10	Disease 678 683	ccRCC
+T11	Drug 698 704	PT2385
+T13	Drug 709 715	PT2399
+T14	Disease 736 742	cancer
+#5	AnnotatorNotes T14	DOID:162
+T15	Disease 775 781	tumour
+#6	AnnotatorNotes T15	DOID:162
+T16	Disease 979 999	renal cell carcinoma
+#7	AnnotatorNotes T16	DOID:4450
+T19	Disease 1038 1042	mRCC
+#10	AnnotatorNotes T19	DOID:4450
+T2	Biomarker 242 248	HIF-1α
+T20	Disease 1043 1074	metastatic renal cell carcinoma
+#11	AnnotatorNotes T20	DOID:4450
+T22	Gene-Protein 1075 1078	VHL
+T26	Chemical 1289 1298	rapamycin
+T28	Chemical 1589 1597	tyrosine
+T29	Chemical 1618 1626	tyrosine
+T3	Gene-Protein 272 275	VHL
+T30	Chemical 1639 1659	phosphatidylinositol
+T31	Disease 1753 1778	non-smallcell lung cancer
+#21	AnnotatorNotes T31	DOID:3908
+T33	Chemical 2141 2154	glutathione S
+T35	Chemical 2259 2267	tyrosine
+T36	Chemical 2413 2421	tyrosine
+T4	Biomarker 261 280	frequently VHL loss
+T5	Disease 284 289	ccRCC
+T6	Biomarker 304 332	increased expression of HIFs
+T7	Disease 381 386	ccRCC
+T8	Gene-Protein 407 410	VHL
+T9	Biomarker 398 415	frequent VHL loss
+T38	Drug-Class 46 56	VEGFR-TKIs
+T39	GeneFamily 46 51	VEGFR
+T40	Drug-Class 58 86	immune checkpoint inhibitors
+T41	Drug-Class 92 106	HIF inhibitors
+T42	GeneFamily 92 95	HIF
+T43	Gene-Protein 213 219	HIF-2α
+T44	Gene-Protein 242 248	HIF-1α
+T45	GeneFamily 328 332	HIFs
+T46	GeneFamily 344 348	HIFs
+T47	GeneFamily 433 436	HIF
+T48	GeneFamily 449 453	HIFs
+T49	Gene-Protein 544 547	EGF
+T50	GeneFamily 605 609	HIFs
+T51	Drug-Class 622 625	TKI
+T52	GeneFamily 549 553	PDGF
+#2	AnnotatorNotes T11	C000614279
+#3	AnnotatorNotes T13	C000614278
+T53	Disease 1000 1005	ccRCC
+T17	Disease 975 978	RCC
+#4	AnnotatorNotes T17	DOID:4450
+T18	Disease 1006 1037	clear cell renal cell carcinoma
+T21	Gene-Protein 1079 1096	von Hippel–Lindau
+T24	GeneFamily 1097 1101	HIFs
+T54	GeneFamily 1102 1127	hypoxia-inducible factors
+T55	Gene-Protein 1132 1155	epidermal growth factor
+T56	Gene-Protein 1128 1131	EGF
+T23	GeneFamily 1196 1200	PDGF
+T57	GeneFamily 1161 1195	vascular endothelial growth factor
+T58	GeneFamily 1201 1231	platelet-derived growth factor
+T59	Drug-Class 1232 1236	TKIs
+T60	Drug-Class 1237 1263	tyrosine kinase inhibitors
+T25	Gene-Protein 1264 1268	mTOR
+T61	Gene-Protein 1269 1298	mammalian target of rapamycin
+T62	Gene-Protein 1304 1335	programmed cell death protein 1
+T63	Gene-Protein 1336 1341	PD-L1
+T64	Gene-Protein 1342 1367	programmed death ligand 1
+T65	Gene-Protein 1821 1827	mTORC1
+T66	Gene-Protein 1368 1372	EGFR
+T67	Gene-Protein 1406 1411	VEGFR
+T68	Gene-Protein 1299 1303	PD-1
+T69	Gene-Protein 1456 1460	FGFR
+T70	Gene-Protein 1373 1405	epidermal growth factor receptor
+T71	Gene-Protein 1412 1455	vascular endothelial growth factor receptor
+T27	Gene-Protein 1461 1494	fibroblast growth factor receptor
+T72	Gene-Protein 1541 1547	IGF-1R
+T73	Gene-Protein 1548 1585	insulin-like growth factor 1 receptor
+T74	Gene-Protein 1501 1540	platelet-derived growth factor receptor
+T75	Gene-Protein 1495 1500	PDGFR
+T76	GeneFamily 1589 1604	tyrosine kinase
+T77	GeneFamily 1586 1588	TK
+T78	GeneFamily 1605 1608	RTK
+T79	GeneFamily 1609 1633	receptor tyrosine kinase
+T80	GeneFamily 1634 1638	PI3K
+T81	GeneFamily 1639 1668	phosphatidylinositol 3-kinase
+T82	GeneFamily 1669 1672	PLC
+T83	GeneFamily 1673 1688	phospholipase C
+T84	GeneFamily 1689 1693	STAT
+T85	GeneFamily 1698 1746	signal transducer and activator of transcription
+T86	Disease 1747 1752	NSCLC
+#8	AnnotatorNotes T86	DOID:3908
+T87	GeneFamily 1806 1808	IL
+T88	GeneFamily 1809 1820	interleukin
+T89	Gene-Protein 1828 1847	mTOR/raptor complex
+T90	Gene-Protein 1885 1923	heparin-binding EGF-like growth factor
+T91	Gene-Protein 1878 1884	HB-EGF
+T92	Gene-Protein 1924 1928	TGFα
+T93	Gene-Protein 1962 1967	α-SMA
+T94	Gene-Protein 1968 1989	α-smooth muscle actin
+T95	Gene-Protein 2035 2038	BIM
+T96	Gene-Protein 2039 2079	Bcl-2 interacting mediator of cell death
+T97	Gene-Protein 2105 2133	multidrug resistance protein
+T98	Gene-Protein 2100 2104	MDR1
+T99	GeneFamily 2141 2166	glutathione S-transferase
+T34	Gene-Protein 2167 2170	MRP
+T32	GeneFamily 2136 2140	GSTs
+T100	Gene-Protein 2250 2276	Fms-like tyrosine kinase 3
+T101	Gene-Protein 2245 2249	FLT3
+T102	Gene-Protein 2217 2244	colony stimulating factor 1
+T103	Gene-Protein 2211 2216	CSF-1
+T104	Gene-Protein 2171 2210	multidrug resistance-associated protein
+T105	Gene-Protein 2277 2281	BDNF
+T106	Gene-Protein 2282 2315	brain-derived neurotrophic factor
+T107	Gene-Protein 2316 2320	GDNF
+T108	Gene-Protein 2321 2364	glial cell line-derived neurotrophic factor
+T109	Gene-Protein 2365 2368	NGF
+T110	Gene-Protein 2369 2388	nerve growth factor
+T111	Gene-Protein 2395 2408	neuregulin 2β
+T112	Gene-Protein 2389 2394	NRG2β
+T113	Gene-Protein 2467 2470	ALK
+T37	Gene-Protein 2471 2497	anaplastic lymphoma kinase
+T114	Gene-Protein 2442 2466	hepatocyte growth factor
+T115	Gene-Protein 2438 2441	HGF
+T116	GeneFamily 2409 2412	Trk
+T117	GeneFamily 2413 2437	tyrosine receptor kinase
+T118	Gene-Protein 1929 1961	transforming growth factor alpha
+#12	AnnotatorNotes T18	DOID:4467
+T119	GeneFamily 842 845	HIF
+T120	Drug-Class 850 878	immune checkpoint inhibitors
+T121	Drug-Class 932 947	PD-1 inhibitors
+T122	Gene-Protein 932 936	PD-1
+T12	Collection 736 781	cancer cell growth, proliferation, and tumour
+T123	Collection 698 715	PT2385 and PT2399
+R1	Response Arg1:T123 Arg2:T10	
+R2	Response Arg1:T123 Arg2:T12	
+R3	Association Arg1:T0 Arg2:T1	
+R4	Association Arg1:T4 Arg2:T5	
+T124	Biomarker 423 448	increases HIF expression.
+T125	GeneFamily 1156 1160	VEGF
+T126	Drug 334 348	targeting HIFs
+#9	AnnotatorNotes T126	not found
+R5	Response Arg1:T126 Arg2:T7	
+#13	AnnotatorNotes T39	not found
+#14	AnnotatorNotes T42	not found
+#15	AnnotatorNotes T43	HGNC:3374
+#16	AnnotatorNotes T44	HGNC:4910
+#17	AnnotatorNotes T45	not found
+#18	AnnotatorNotes T3	HGNC:12687
+#19	AnnotatorNotes T49	HGNC:3229
+#20	AnnotatorNotes T52	not found
+#22	AnnotatorNotes T122	HGNC:8760

@@ -1,0 +1,99 @@
+T1	Disease 34 39	TCPTC
+T11	Disease 438 443	TCPTC
+T13	Biomarker 458 540	TMPRSS6, TM7SF4, SYT12, MUC21, and TMPRSS4 were the most significantly upregulated
+T14	Biomarker 551 630	PKHD1L1, TFF3, LRP1B, CUX2, and ZMAT4 were the most significantly downregulated
+T15	Disease 683 688	TCPTC
+T17	Disease 693 697	cPTC
+T19	Disease 806 811	TCPTC
+T20	Disease 852 855	PTC
+T22	Disease 897 902	TCPTC
+T24	Disease 966 971	TCPTC
+T26	Disease 1019 1024	TCPTC
+T29	Disease 1122 1127	TCPTC
+T32	Disease 1198 1201	PTC
+T33	Disease 1221 1226	TCPTC
+T35	Biomarker 1341 1424	COL11A1, MMP13, VTCN1, COL10A1, and SLC18A3 were the most significantly upregulated
+T36	Disease 1437 1442	TCPTC
+T38	Gene-Protein 1458 1461	CA4
+T39	Biomarker 1458 1533	CA4, EDN3, TPO, PKHD1L1 and FOXJ1 were the most significantly downregulated
+T40	Disease 1546 1551	TCPTC
+T47	Disease 1778 1783	TCPTC
+T5	Disease 221 226	TCPTC
+T54	Disease 2003 2008	TCPTC
+T56	Disease 2078 2083	TCPTC
+T58	Disease 2114 2119	TCPTC
+T60	Disease 2180 2185	TCPTC
+T62	Disease 2197 2201	cPTC
+T63	Disease 2217 2222	TCPTC
+T65	Disease 2230 2234	cPTC
+T66	Disease 2304 2362	classical/conventional variant Papillary Thyroid Carcinoma
+#48	AnnotatorNotes T66	not found
+T67	Disease 2364 2369	TCPTC
+T69	Disease 2372 2417	tall cell variant papillary thyroid carcinoma
+#51	AnnotatorNotes T69	DOID:7089
+T7	Disease 367 372	TCPTC
+T71	Disease 2447 2452	TCPTC
+T73	Disease 2501 2506	TCPTC
+T75	Disease 2561 2566	TCPTC
+T77	Disease 2673 2732	classical/conventional variant Papillary Thyroid Carcinoma,
+T78	Disease 2776 2781	TCPTC
+T81	Disease 2784 2829	tall cell variant papillary thyroid carcinoma
+T9	Disease 408 413	TCPTC
+#1	AnnotatorNotes T1	DOID:7089
+T3	Disease 321 325	cPTC
+#2	AnnotatorNotes T3	not found
+T6	Gene-Protein 458 465	TMPRSS6
+#3	AnnotatorNotes T6	HGNC:16517
+T8	Gene-Protein 467 473	TM7SF4
+#4	AnnotatorNotes T8	HGNC:18549
+T10	Gene-Protein 475 480	SYT12
+#5	AnnotatorNotes T10	HGNC:18381
+T12	Gene-Protein 482 487	MUC21
+#6	AnnotatorNotes T12	HGNC:21661
+T82	Gene-Protein 493 500	TMPRSS4
+#7	AnnotatorNotes T82	HGNC:11878
+T83	Gene-Protein 551 558	PKHD1L1
+#8	AnnotatorNotes T83	HGNC:20313
+T84	Gene-Protein 560 564	TFF3
+#9	AnnotatorNotes T84	HGNC:11757
+T85	Gene-Protein 566 571	LRP1B
+#10	AnnotatorNotes T85	HGNC:6693
+T86	Gene-Protein 573 577	CUX2
+#11	AnnotatorNotes T86	HGNC:19347
+T87	Gene-Protein 583 588	ZMAT4
+#12	AnnotatorNotes T87	HGNC:25844
+T88	Collection 458 630	TMPRSS6, TM7SF4, SYT12, MUC21, and TMPRSS4 were the most significantly upregulated DEGs, and PKHD1L1, TFF3, LRP1B, CUX2, and ZMAT4 were the most significantly downregulated
+R3	Association Arg1:T88 Arg2:T11	
+T16	Collection 683 697	TCPTC and cPTC
+T89	Disease 816 820	cPTC
+T23	Disease 907 911	cPTC
+T21	Disease 1132 1136	cPTC
+T25	Collection 1122 1136	TCPTC and cPTC
+T27	Disease 1231 1235	cPTC
+T30	Gene-Protein 1341 1348	COL11A1
+#13	AnnotatorNotes T30	HGNC:2186
+T31	Gene-Protein 1350 1355	MMP13
+#14	AnnotatorNotes T31	HGNC:7159
+T34	Gene-Protein 1357 1362	VTCN1
+#15	AnnotatorNotes T34	HGNC:28873
+T37	Gene-Protein 1364 1371	COL10A1
+#16	AnnotatorNotes T37	HGNC:2185
+T90	Gene-Protein 1377 1384	SLC18A3
+#17	AnnotatorNotes T90	HGNC:10936
+R6	Association Arg1:T35 Arg2:T36	
+#18	AnnotatorNotes T38	HGNC:1375
+T91	Gene-Protein 1463 1467	EDN3
+#19	AnnotatorNotes T91	HGNC:3178
+T92	Gene-Protein 1469 1472	TPO
+#20	AnnotatorNotes T92	HGNC:12015
+T93	Gene-Protein 1474 1481	PKHD1L1
+#21	AnnotatorNotes T93	HGNC:20313
+T94	Gene-Protein 1486 1491	FOXJ1
+#22	AnnotatorNotes T94	HGNC:3816
+R7	Association Arg1:T39 Arg2:T40	
+T41	Disease 1578 1582	cPTC
+T43	Disease 1810 1814	cPTC
+T44	Disease 2035 2039	cPTC
+T45	Disease 2297 2301	cPTC
+T46	Disease 2571 2575	cPTC
+T48	Disease 2666 2670	cPTC

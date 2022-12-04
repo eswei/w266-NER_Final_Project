@@ -1,0 +1,54 @@
+29899838_22146|t|RSS_IDENT_p_29899838_b_1_3_5
+29899838_22146|a| Previous studies showed that ACTH responsiveness is associated with somatic mutations in APA [ 9 ]. In an in vitro study, Kitamoto et al. reported that the responsiveness of aldosterone production to ACTH is higher in both ATP2B3- and CACNA1D-mutated APAs than in wild-type APAs [ 20 ]. In this study, no patients had APA with these mutations, while most had KCNJ5 mutations, although the number of surgical cases was small. A recent meta-analysis in Western countries showed that young age, female sex, and larger tumors are the phenotypic features of APA patients with KCNJ5 mutations [ 21 ]. Although the number of PA patients was small in this study, the size of tumors harboring mutated KCNJ5 (n = 11) was larger than that of wild-type KCNJ5 tumors (n = 5) (13.1 vs. 6.4, p = 0.009). However, we did not find any significant differences in age, sex, or laboratory data in patients with mutant versus wild-type KCNJ5 tumors. Furthermore, a previous study reported that KCNJ5 mutations are associated with a higher LI, thereby influencing AVS results [ 9 ]. In this study, the LI was higher in APA patients with somatic KCNJ5 mutations than in those without mutations on both pre- (13.4 vs. 7.0, p = 0.06) and post-ACTH AVS (8.2 vs. 4.7, p = 0.17), but not significantly. In addition, there was no significant difference in the proportion of patients with KCNJ5 mutations between the c-APA and pre-APA groups. These results suggest that somatic mutations in APA might not be related to the diagnostic discrepancy. Previous reports showed that the CYP11B2 H-score in APAs displayed a positive correlation with plasma aldosterone levels and the ARR, which reflect the biochemical severity of PA [ 13 ]. We investigated the relationship between the CYP11B2 immunostaining level in APAs and the AVS findings. However, there was no significant correlation.
+29899838_22146	59	63	ACTH	Gene-protein	HGNC:9201
+29899838_22146	59	78	ACTH responsiveness	Biomarker
+29899838_22146	98	115	somatic mutations	Biomarker
+29899838_22146	119	122	APA	Disease	DOID:12028
+29899838_22146	186	244	responsiveness of aldosterone production to ACTH is higher	Biomarker
+29899838_22146	204	215	aldosterone	Chemical
+29899838_22146	230	234	ACTH	Gene-protein
+29899838_22146	253	259	ATP2B3	Gene-protein	HGNC:816
+29899838_22146	253	285	ATP2B3- and CACNA1D-mutated APAs	Disease	not found
+29899838_22146	265	272	CACNA1D	Gene-protein	 HGNC:1391
+29899838_22146	304	308	APAs	Disease	DOID:12028
+29899838_22146	348	351	APA	Disease
+29899838_22146	389	394	KCNJ5	Gene-protein	HGNC:6266
+29899838_22146	389	404	KCNJ5 mutations	Biomarker
+29899838_22146	511	520	young age	Biomarker
+29899838_22146	511	551	young age, female sex, and larger tumors	Collection
+29899838_22146	522	532	female sex	Biomarker	D005260
+29899838_22146	538	551	larger tumors	Biomarker
+29899838_22146	583	616	APA patients with KCNJ5 mutations	Disease	not found
+29899838_22146	601	606	KCNJ5	Gene-protein
+29899838_22146	648	650	PA	Disease	DOID:12028
+29899838_22146	689	747	size of tumors harboring mutated KCNJ5 (n = 11) was larger	Biomarker
+29899838_22146	722	727	KCNJ5	Gene-protein
+29899838_22146	771	776	KCNJ5	Gene-protein
+29899838_22146	771	783	KCNJ5 tumors	Disease	not found
+29899838_22146	875	878	age	Biomarker
+29899838_22146	880	883	sex	Biomarker	D012723
+29899838_22146	945	950	KCNJ5	Gene-protein
+29899838_22146	945	957	KCNJ5 tumors	Disease
+29899838_22146	1003	1008	KCNJ5	Gene-protein
+29899838_22146	1003	1018	KCNJ5 mutations	Biomarker
+29899838_22146	1041	1050	higher LI	Biomarker
+29899838_22146	1110	1123	LI was higher	Biomarker
+29899838_22146	1127	1168	APA patients with somatic KCNJ5 mutations	Disease	not found
+29899838_22146	1153	1158	KCNJ5	Gene-protein
+29899838_22146	1248	1252	ACTH	Gene-protein
+29899838_22146	1389	1394	KCNJ5	Gene-protein
+29899838_22146	1389	1404	KCNJ5 mutations	Biomarker
+29899838_22146	1419	1422	APA	Disease
+29899838_22146	1431	1434	APA	Disease
+29899838_22146	1470	1494	somatic mutations in APA	Disease	not found
+29899838_22146	1580	1587	CYP11B2	Gene-protein	HGNC:2592
+29899838_22146	1580	1595	CYP11B2 H-score	Biomarker
+29899838_22146	1599	1603	APAs	Disease
+29899838_22146	1642	1667	plasma aldosterone levels	Biomarker
+29899838_22146	1649	1660	aldosterone	Chemical
+29899838_22146	1723	1725	PA	Disease
+29899838_22146	1779	1786	CYP11B2	Gene-protein
+29899838_22146	1779	1807	CYP11B2 immunostaining level	Biomarker
+29899838_22146	1811	1815	APAs	Disease
+29899838_22146	1824	1827	AVS	Disease
+

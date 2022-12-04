@@ -1,0 +1,59 @@
+T0	Chemical 28 37	Serotonin
+T1	Chemical 42 46	5-HT
+T10	Disease 454 457	IBD
+T12	Chemical 500 504	5-HT
+T14	Gene-Protein 544 549	5-HTT
+T19	Disease 745 752	colitis
+T2	Disease 70 73	IBD
+#11	AnnotatorNotes T2	DOID:0050589
+T23	Disease 914 916	UC
+T25	Chemical 963 967	5-HT
+T27	Chemical 1004 1008	5-HT
+T28	Disease 1045 1064	collagenous colitis
+#18	AnnotatorNotes T28	DOID:0060183
+T29	Chemical 1157 1161	5-HT
+T3	Disease 98 105	colitis
+#20	AnnotatorNotes T3	DOID:0060180
+T30	Disease 1165 1181	gut inflammation
+#21	AnnotatorNotes T30	DOID:10605
+T31	Chemical 1234 1238	5-HT
+T32	Disease 1294 1297	IBD
+T4	Disease 125 139	TPH1-deficient
+#24	AnnotatorNotes T4	not found
+T6	Chemical 169 173	5-HT
+T7	Disease 230 237	colitis
+T8	Chemical 344 348	5-HT
+T5	Disease 388 442	chemical and infection-induced intestinal inflammation
+#1	AnnotatorNotes T5	not found
+T9	Biomarker 305 358	pharmacological blocking of peripheral 5-HT synthesis
+R1	Association Arg1:T9 Arg2:T5	
+T11	Biomarker 490 531	increased 5-HT expressing EC cell numbers
+T13	Biomarker 536 560	reduced 5-HTT expression
+T17	Collection 490 560	increased 5-HT expressing EC cell numbers and reduced 5-HTT expression
+R2	Association Arg1:T17 Arg2:T10	
+T24	Biomarker 950 974	higher serum 5-HT levels
+T26	Disease 714 733	microscopic colitis
+#4	AnnotatorNotes T26	DOID:0060182
+T18	Disease 890 909	microscopic colitis
+T22	Collection 890 916	microscopic colitis and UC
+R3	Association Arg1:T24 Arg2:T22	
+T33	Biomarker 986 1008	elevated level of 5-HT
+R4	Association Arg1:T33 Arg2:T28	
+T34	Biomarker 1157 1161	5-HT
+R5	Association Arg1:T34 Arg2:T30	
+T36	Gene-Protein 125 129	TPH1
+T37	Biomarker 157 181	reduced gut 5-HT content
+T38	Biomarker 248 286	lower inflammatory cytokine production
+R7	Association Arg1:T38 Arg2:T7	
+T39	GeneFamily 254 275	inflammatory cytokine
+#5	AnnotatorNotes T14	HGNC:11050
+T40	Disease 615 633	inflammation in UC
+#6	AnnotatorNotes T40	D007249,DOID:8577
+#7	AnnotatorNotes T23	DOID:8577
+T15	Drug-Class 820 844	5-HT reuptake inhibitors
+T16	Biomarker 701 709	5-HTTLPR
+T20	GeneFamily 1284 1290	5-HTRs
+#2	AnnotatorNotes T20	family:171
+R6	Risk-Reduce Arg1:T37 Arg2:T7	
+R9	Association Arg1:T37 Arg2:T4	
+R10	Association Arg1:T13 Arg2:T40	

@@ -1,0 +1,64 @@
+30679579_14306|t|RSS_IDENT_s_30679579_b_1_3_3
+30679579_14306|a| Differences in cytokine/chemokine levels between TAK and GCA To determine cytokine/chemokine profiles suitable to distinguish TAK and GCA, we compared the levels of cytokines/chemokines at diagnosis between the two diseases (Fig. 1). Among the 38 cytokines and chemokines tested, the levels of 7 cytokines and chemokines, IL-1RA, IL-10, GM-CSF, G-CSF, FGF-2, eotaxin, and IP-10, were significantly different between TAK and GCA. The levels of IL-1RA, IL-10, GM-CSF, G-CSF, and FGF-2 were higher in TAK than in GCA. The levels of eotaxin and IP-10 were higher in patients with GCA than those with TAK. No differences were found in the levels of IL-6, IL-12(p40), IL-17, IFN-γ, and TNF-α, which have been reported to be associated with TAK ⁹ and/or GCA ¹⁰ . Figure 1 Results of a multiplex cytokines/chemokine bead assay using serum obtained at diagnosis from patients with Takayasu arteritis (TAK) and giant cell arteritis (GCA) and sex- and age-matched healthy donors (HD-TAK and HD-GCA). Symbols represent individual patients or donors. Horizontal lines show the median and interquartile range. The Steel-Dwass test was performed for comparisons of multiplex cytokine/chemokine bead assay results in the four groups, i.e., TAK, GCA, HD-TAK, and HD-GCA.
+30679579_14306	45	53	cytokine	Genefamily	not found
+30679579_14306	54	63	chemokine	Genefamily	not found
+30679579_14306	79	82	TAK	Disease	DOID:2508
+30679579_14306	87	90	GCA	Disease	DOID:13375
+30679579_14306	104	112	cytokine	Genefamily
+30679579_14306	113	122	chemokine	Genefamily
+30679579_14306	156	159	TAK	Disease
+30679579_14306	164	167	GCA	Disease
+30679579_14306	185	215	levels of cytokines/chemokines	Biomarker
+30679579_14306	195	204	cytokines	Genefamily	not found
+30679579_14306	205	215	chemokines	Genefamily	not found
+30679579_14306	277	286	cytokines	Genefamily
+30679579_14306	291	301	chemokines	Genefamily
+30679579_14306	340	350	chemokines	Genefamily
+30679579_14306	352	358	IL-1RA	Gene-protein	HGNC:6019
+30679579_14306	352	437	IL-1RA, IL-10, GM-CSF, G-CSF, FGF-2, eotaxin, and IP-10, were significantly different	Biomarker
+30679579_14306	360	365	IL-10	Gene-protein	HGNC:5962
+30679579_14306	367	373	GM-CSF	Gene-protein	HGNC:2434
+30679579_14306	375	380	G-CSF	Gene-protein	HGNC:2438
+30679579_14306	382	387	FGF-2	Gene-protein	HGNC:3676
+30679579_14306	389	396	eotaxin	Gene-protein	HGNC:10610
+30679579_14306	402	407	IP-10	Gene-protein	HGNC:10637
+30679579_14306	446	449	TAK	Disease
+30679579_14306	446	457	TAK and GCA	Collection
+30679579_14306	454	457	GCA	Disease
+30679579_14306	463	524	levels of IL-1RA, IL-10, GM-CSF, G-CSF, and FGF-2 were higher	Biomarker
+30679579_14306	473	479	IL-1RA	Gene-protein
+30679579_14306	481	486	IL-10	Gene-protein
+30679579_14306	488	494	GM-CSF	Gene-protein
+30679579_14306	496	501	G-CSF	Gene-protein
+30679579_14306	507	512	FGF-2	Gene-protein
+30679579_14306	528	531	TAK	Disease
+30679579_14306	540	543	GCA	Disease
+30679579_14306	549	588	levels of eotaxin and IP-10 were higher	Biomarker
+30679579_14306	559	566	eotaxin	Gene-protein
+30679579_14306	571	576	IP-10	Gene-protein
+30679579_14306	606	609	GCA	Disease
+30679579_14306	626	629	TAK	Disease
+30679579_14306	660	715	the levels of IL-6, IL-12(p40), IL-17, IFN-γ, and TNF-α	Biomarker
+30679579_14306	674	678	IL-6	Gene-protein	HGNC:6018
+30679579_14306	680	690	IL-12(p40)	Gene-protein	HGNC:5970
+30679579_14306	692	697	IL-17	Gene-protein	HGNC:5981
+30679579_14306	699	704	IFN-γ	Gene-protein	 HGNC:5438
+30679579_14306	710	715	TNF-α	Gene-protein	HGNC:11892
+30679579_14306	764	767	TAK	Disease
+30679579_14306	764	780	TAK ⁹ and/or GCA	Collection
+30679579_14306	777	780	GCA	Disease
+30679579_14306	818	827	cytokines	Genefamily
+30679579_14306	828	837	chemokine	Genefamily
+30679579_14306	902	920	Takayasu arteritis	Disease	DOID:2508
+30679579_14306	922	925	TAK	Disease
+30679579_14306	931	951	giant cell arteritis	Disease	DOID:13375
+30679579_14306	953	956	GCA	Disease
+30679579_14306	1002	1005	TAK	Disease
+30679579_14306	1013	1016	GCA	Disease
+30679579_14306	1190	1198	cytokine	Genefamily
+30679579_14306	1199	1208	chemokine	Genefamily
+30679579_14306	1254	1257	TAK	Disease
+30679579_14306	1259	1262	GCA	Disease
+30679579_14306	1267	1270	TAK	Disease
+30679579_14306	1279	1282	GCA	Disease
+

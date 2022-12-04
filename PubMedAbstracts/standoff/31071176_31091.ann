@@ -1,0 +1,66 @@
+T1	Disease 265 269	IUGR
+T12	Chemical 892 899	glucose
+T13	Chemical 1027 1038	glucosamine
+T14	Disease 1027 1064	glucosamine-induced insulin-resistant
+#5	AnnotatorNotes T14	not found
+T16	Chemical 1100 1107	glucose
+T19	Disease 1391 1434	insulin resistance in individuals with IUGR
+T3	Chemical 295 302	phospho
+T4	Disease 337 341	IUGR
+T5	Disease 440 444	IUGR
+T6	Chemical 558 574	phosphoinositide
+T7	Disease 673 677	IUGR
+T9	Disease 795 813	insulin resistance
+#14	AnnotatorNotes T9	 D007333
+T2	GeneFamily 70 73	Akt
+#1	AnnotatorNotes T2	family:1900
+T8	GeneFamily 79 83	PI3K
+#3	AnnotatorNotes T8	family:831
+T10	Gene-Protein 139 144	GLUT4
+#4	AnnotatorNotes T10	HGNC:11009
+T15	GeneFamily 179 183	PI3K
+T17	GeneFamily 211 215	PI3K
+T20	Biomarker 159 194	reductions of total PI3K abundances
+T21	Biomarker 203 243	phospho-PI3K p85ᵀʸʳ⁴⁵⁸/p55ᵀʸʳ¹⁹⁹ subunit
+T22	Collection 159 243	reductions of total PI3K abundances and its phospho-PI3K p85ᵀʸʳ⁴⁵⁸/p55ᵀʸʳ¹⁹⁹ subunit
+R1	Association Arg1:T22 Arg2:T1	
+T23	Biomarker 286 329	level of phospho-AktSᵉʳ⁴⁷³ was also reduced
+R2	Association Arg1:T23 Arg2:T4	
+T24	GeneFamily 405 409	PI3K
+T25	GeneFamily 410 413	Akt
+#6	AnnotatorNotes T1	D005317
+T26	Biomarker 375 432	significant inhibition of the PI3K/Akt signaling activity
+R3	Association Arg1:T26 Arg2:T5	
+T27	GeneFamily 522 525	Akt
+T28	Gene-Protein 457 461	PTEN
+#8	AnnotatorNotes T28	HGNC:9588
+T29	Gene-Protein 642 646	PTEN
+T30	Biomarker 626 652	increase of the PTEN level
+R4	Association Arg1:T30 Arg2:T7	
+T31	Biomarker 731 756	increased PTEN expression
+T32	Gene-Protein 741 745	PTEN
+R5	Association Arg1:T31 Arg2:T9	
+T11	Gene-Protein 839 843	PTEN
+T33	Variant 844 853	mutations
+A1	Loss-of-funtion T33
+R6	Variant-Of Arg1:T11 Arg2:T33	
+T34	Gene-Protein 795 802	insulin
+#2	AnnotatorNotes T34	 HGNC:6081
+T35	Gene-Protein 929 936	insulin
+T36	Gene-Protein 989 994	GLUT4
+T37	Biomarker 1092 1182	rate of glucose uptake as well as the expression and translocation of GLUT4 were decreased
+T38	Gene-Protein 1162 1167	GLUT4
+T39	Biomarker 1196 1247	expressions of PTEN and phospho-PTEN were increased
+T40	Collection 1092 1247	rate of glucose uptake as well as the expression and translocation of GLUT4 were decreased, whereas the expressions of PTEN and phospho-PTEN were increased
+R7	Association Arg1:T40 Arg2:T14	
+T41	Gene-Protein 1211 1215	PTEN
+T42	Gene-Protein 1220 1232	phospho-PTEN
+#9	AnnotatorNotes T42	HGNC:9588
+T43	Gene-Protein 1307 1311	PTEN
+#7	AnnotatorNotes T19	D007333, D005317
+T18	Biomarker 1307 1311	PTEN
+#10	AnnotatorNotes T18	C494929
+R8	Association Arg1:T18 Arg2:T19	
+T44	Gene-Protein 1047 1054	insulin
+T45	Gene-Protein 1391 1398	insulin
+A2	Conjunction T19

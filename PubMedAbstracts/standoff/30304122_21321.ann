@@ -1,0 +1,43 @@
+T1	Disease 161 163	CP
+T13	Disease 881 902	inflammatory diseases
+#4	AnnotatorNotes T13	not found
+T16	Disease 1155 1171	bone destruction
+#6	AnnotatorNotes T16	not found
+T18	Disease 1315 1317	CP
+T20	Disease 1366 1368	CP
+T4	Disease 267 269	CP
+T7	Disease 480 482	CP
+T9	Disease 696 698	CP
+T3	Gene-Protein 73 78	IFN-γ
+#1	AnnotatorNotes T3	HGNC:5438
+T6	Gene-Protein 234 239	IFN-γ
+T8	Gene-Protein 435 440	IFN-γ
+T11	Gene-Protein 520 525	IFN-γ
+T15	Gene-Protein 578 583	IFN-γ
+T17	Gene-Protein 634 639	IFN-γ
+T19	Gene-Protein 772 777	IFN-γ
+T21	Gene-Protein 982 987	IFN-γ
+T23	Gene-Protein 1239 1244	IFN-γ
+T24	Gene-Protein 1350 1355	IFN-γ
+#3	AnnotatorNotes T1	DOID:824
+T2	Biomarker 49 78	high levels of mRNA and IFN-γ
+R1	Association Arg1:T2 Arg2:T1	
+T5	Biomarker 219 263	high levels of IFN-γ in the gingival tissues
+R2	Association Arg1:T5 Arg2:T4	
+T25	Biomarker 426 466	elevated IFN-γ levels in gingival tissue
+R3	Association Arg1:T25 Arg2:T7	
+T10	Biomarker 634 692	IFN-γ concentrations were found to be significantly higher
+R4	Association Arg1:T10 Arg2:T9	
+T12	Biomarker 767 784	high IFN-γ levels
+R5	Association Arg1:T12 Arg2:T13	
+T14	GeneFamily 1084 1102	metalloproteinases
+#2	AnnotatorNotes T14	family:891
+T26	GeneFamily 1104 1107	MMP
+#5	AnnotatorNotes T26	family:891
+T27	Biomarker 1234 1270	high IFN-γ levels in gingival tissue
+T22	Disease 1395 1410	bone destructio
+T28	Biomarker 1275 1307	clinical parameters (PD and CAL)
+T29	Biomarker 1350 1362	IFN-γ levels
+R6	Association Arg1:T29 Arg2:T20	
+T30	Biomarker 924 952	antigen stimuli and pathways
+T31	Biomarker 961 987	chronic elevation of IFN-γ

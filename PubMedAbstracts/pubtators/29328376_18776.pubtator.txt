@@ -1,0 +1,24 @@
+29328376_18776|t|RSS_IDENT_p_29328376_b_1_4_7
+29328376_18776|a| The phenotype of 21-OHD is associated with its genotype, including point mutations, frame shift mutations and deletion mutations of small DNA fragments. SW-, SV- or NC-type 21-OHD maybe predicted by clinical gene sequencing. Concolino et al ( 24 ) demonstrated that the consensus between genotype and SW CAH patients was 81.8%. Baumgartner-Parzer et al ( 25 ) reported that the consistency between genotype and clinical phenotype was 80%. However, genotype and clinical phenotype are not always completely consistent, and the same 21-OHD gene mutation in patients with CAH may result in different clinical phenotypes ( 26 , 27 ). New et al ( 28 ) reported that certain mutations, including the P30L, I2Gand I172N mutations, were prone to yield different CAH phenotypes. In SW and NC CAH, a phenotype maybe attributed to a genotype. However, in SV CAH, wide phenotypic variability may be observed, particularly with the exon 4 I172N mutation ( 28 ). Janjanin et al ( 29 ) described five patients with 21-OHD belonging to three generations of the same family (grandmother, parents and two children), whose genotype corresponded to NC CAH. Notably, in spite of one minorCYP21 mutation, the proband presented with the SV form of 21-OHD and required glucocorticoid replacement therapy from the age of 4 years. In the present study, the CYP21A2 gene sequencing of the patient, in addition to the clinical symptoms and gene sequencing results, revealed c.1024C>T (p. Arg342Trp) and heterozygous deletion mutations, which supported the clinical diagnosis of SV CAH. 
+29328376_18776	47	53	21-OHD	Disease	not found
+29328376_18776	77	181	genotype, including point mutations, frame shift mutations and deletion mutations of small DNA fragments	Biomarker
+29328376_18776	183	209	SW-, SV- or NC-type 21-OHD	Disease	not found, not found, C565977
+29328376_18776	331	337	SW CAH	Disease	not found
+29328376_18776	561	567	21-OHD	Disease
+29328376_18776	599	602	CAH	Disease	DOID:0050811
+29328376_18776	724	752	P30L, I2Gand I172N mutations	Biomarker
+29328376_18776	784	787	CAH	Disease	DOID:0050811
+29328376_18776	803	816	SW and NC CAH	Disease	not found, C565977
+29328376_18776	874	880	SV CAH	Disease	not found
+29328376_18776	949	970	exon 4 I172N mutation	Biomarker
+29328376_18776	1030	1036	21-OHD	Disease
+29328376_18776	1159	1165	NC CAH	Disease
+29328376_18776	1244	1261	SV form of 21-OHD	Disease	not found
+29328376_18776	1275	1309	glucocorticoid replacement therapy	Drug-class
+29328376_18776	1361	1368	CYP21A2	Gene-protein	HGNC:2600
+29328376_18776	1476	1485	c.1024C>T	Variant
+29328376_18776	1476	1536	c.1024C>T (p. Arg342Trp) and heterozygous deletion mutations	Collection
+29328376_18776	1487	1499	p. Arg342Trp	Variant	p.Arg342Trp
+29328376_18776	1505	1536	heterozygous deletion mutations	Variant
+29328376_18776	1580	1586	SV CAH	Disease
+

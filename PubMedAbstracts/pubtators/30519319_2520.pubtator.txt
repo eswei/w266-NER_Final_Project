@@ -1,0 +1,59 @@
+30519319_2520|t|RSS_IDENT_p_30519319_b_1_1_3
+30519319_2520|a| MicroRNAs (miRNAs) are potential regulators of tumorigenesis and progression 5 . miRNAs directly bind to 3'-UTR of target mRNA via complementary pairing sequences 6 , which induces degradation of the target mRNA and/or leads to translational silence 6 . During the hepatocarcinogenesis, it has been demonstrated that miRNAs function as either tumor promoters or suppressors 7 - 9 . Recent years, abnormal expression of miRNA-376c is determined in several types of human cancer including ovarian cancer 10 , osteosarcoma 11 , head and neck squamous cell carcinoma (HNSCC) 12 , colorectal cancer (CRC) 13 and oral squamous cell carcinoma (OSCC) 14 . Furthermore, deregulation of serum miR-376c is recognized as a novel prognostic as well as diagnostic marker in gliomas 15 , colon cancer 16 , breast cancers 17 - 19 and gastric cancer 20 , 21 . According to previous studies, miR-376c functions as either oncogenic or tumor suppressive miRNA , which depends on cancer types. For instance, miRNA-376c upregulation contributes to cell proliferation, survival and poorly response to chemotherapy, and inhibits apoptosis by repressing activin receptor-like kinase 7 (ALK7) in ovarian cancer 10 . In CRC, miR-376c-3p facilitates the growth of cancer cells by suppressing long noncoding RNA (lncRNA) LINC00152 13 . While, miR-376c overexpression restricts cell growth and migration in melanoma 22 . Restoration of miR-376c-3p expression suppresses migratory and invasive abilities of HNSCC cells by repressing runt related transcription factor 2 (RUNX2) 12 . A recent study reports that miR-376c-3p is up-regulated in HBV-related HCC, suggesting an oncogenic role of miR-376c-3p in HCC 23 . Yet, the biological function of miR-376c-3p and its downstream target are still unclear in HCC progression. 
+30519319_2520	30	39	MicroRNAs	Rna-noncoding	family:476
+30519319_2520	30	39	MicroRNAs	Biomarker	D035683
+30519319_2520	77	90	tumorigenesis	Disease	DOID:162
+30519319_2520	295	315	hepatocarcinogenesis	Disease	DOID:684
+30519319_2520	347	353	miRNAs	Rna-noncoding	family:476
+30519319_2520	347	353	miRNAs	Biomarker	D035683
+30519319_2520	426	459	abnormal expression of miRNA-376c	Biomarker
+30519319_2520	449	459	miRNA-376c	Rna-noncoding	family:1777
+30519319_2520	500	506	cancer	Disease	DOID:162
+30519319_2520	500	672	cancer including ovarian cancer 10 , osteosarcoma 11 , head and neck squamous cell carcinoma (HNSCC) 12 , colorectal cancer (CRC) 13 and oral squamous cell carcinoma (OSCC)	Collection
+30519319_2520	517	531	ovarian cancer	Disease	DOID:2394
+30519319_2520	537	549	osteosarcoma	Disease	DOID:3347
+30519319_2520	555	592	head and neck squamous cell carcinoma	Disease	DOID:5520
+30519319_2520	594	599	HNSCC	Disease	DOID:5520
+30519319_2520	606	623	colorectal cancer	Disease	DOID:9256
+30519319_2520	625	628	CRC	Disease	DOID:9256
+30519319_2520	637	665	oral squamous cell carcinoma	Disease	DOID:0050866
+30519319_2520	667	671	OSCC	Disease	DOID:0050866
+30519319_2520	691	721	deregulation of serum miR-376c	Biomarker
+30519319_2520	713	721	miR-376c	Rna-noncoding
+30519319_2520	790	797	gliomas	Disease	DOID:0060108
+30519319_2520	790	864	gliomas 15 , colon cancer 16 , breast cancers 17 - 19 and gastric cancer 2	Collection
+30519319_2520	803	815	colon cancer	Disease	DOID:219
+30519319_2520	821	835	breast cancers	Disease	DOID:1612
+30519319_2520	848	862	gastric cancer	Disease	DOID:10534
+30519319_2520	904	912	miR-376c	Rna-noncoding
+30519319_2520	904	912	miR-376c	Biomarker	C573498
+30519319_2520	989	995	cancer	Disease
+30519319_2520	1017	1027	miRNA-376c	Rna-noncoding
+30519319_2520	1017	1040	miRNA-376c upregulation	Biomarker
+30519319_2520	1108	1120	chemotherapy	Drug-class
+30519319_2520	1159	1189	activin receptor-like kinase 7	Gene-protein	HGNC:18123
+30519319_2520	1191	1195	ALK7	Gene-protein	HGNC:18123
+30519319_2520	1200	1214	ovarian cancer	Disease
+30519319_2520	1223	1226	CRC	Disease
+30519319_2520	1228	1239	miR-376c-3p	Rna-noncoding	family:1777
+30519319_2520	1228	1239	miR-376c-3p	Biomarker	C573498
+30519319_2520	1266	1272	cancer	Disease
+30519319_2520	1322	1331	LINC00152	Rna-noncoding	HGNC:28717
+30519319_2520	1344	1352	miR-376c	Rna-noncoding
+30519319_2520	1344	1367	miR-376c overexpression	Biomarker
+30519319_2520	1407	1415	melanoma	Disease	DOID:1909
+30519319_2520	1421	1458	Restoration of miR-376c-3p expression	Drug	not found
+30519319_2520	1436	1447	miR-376c-3p	Rna-noncoding
+30519319_2520	1506	1511	HNSCC	Disease
+30519319_2520	1532	1567	runt related transcription factor 2	Gene-protein	HGNC:10472
+30519319_2520	1569	1574	RUNX2	Gene-protein	HGNC:10472
+30519319_2520	1609	1620	miR-376c-3p	Rna-noncoding
+30519319_2520	1609	1636	miR-376c-3p is up-regulated	Biomarker
+30519319_2520	1640	1655	HBV-related HCC	Disease	not found
+30519319_2520	1689	1700	miR-376c-3p	Rna-noncoding
+30519319_2520	1689	1700	miR-376c-3p	Biomarker
+30519319_2520	1704	1707	HCC	Disease
+30519319_2520	1745	1756	miR-376c-3p	Rna-noncoding
+30519319_2520	1745	1756	miR-376c-3p	Biomarker
+30519319_2520	1804	1807	HCC	Disease
+

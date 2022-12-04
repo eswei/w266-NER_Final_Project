@@ -1,0 +1,52 @@
+T0	Disease 150 171	metabolic dysfunction
+#1	AnnotatorNotes T0	D008659
+T10	Chemical 498 510	triglyceride
+T11	Disease 536 554	metabolic syndrome
+#3	AnnotatorNotes T11	D024821
+T14	Chemical 653 658	sugar
+T15	Chemical 663 676	triglycerides
+T17	Chemical 797 809	triglyceride
+T19	Chemical 1054 1062	glycerol
+T2	Disease 259 286	type 2 diabetic nephropathy
+#9	AnnotatorNotes T2	not found
+T20	Chemical 1225 1237	triglyceride
+T21	Chemical 1491 1503	triglyceride
+T22	Disease 1552 1570	insulin resistance
+#12	AnnotatorNotes T22	D007333
+T4	Biomarker 314 334	hypertriglyceridemia
+#14	AnnotatorNotes T4	D015228
+T7	Disease 354 419	overweight and obese pregnant women with gestational hypertension
+#17	AnnotatorNotes T7	not found
+T1	Gene-Protein 92 97	IL-13
+#2	AnnotatorNotes T1	HGNC:5973
+T3	Biomarker 219 255	PBMC show increased IL-13 expression
+T8	Gene-Protein 239 244	IL-13
+R1	Association Arg1:T3 Arg2:T2	
+R2	Association Arg1:T4 Arg2:T2	
+A1	Conjunction T7
+T5	Biomarker 425 454	increased IL-13 concentration
+T6	Gene-Protein 435 440	IL-13
+R3	Association Arg1:T5 Arg2:T7	
+T9	Biomarker 489 517	elevated triglyceride levels
+T12	Biomarker 572 593	increased serum IL-13
+T13	Gene-Protein 588 593	IL-13
+R4	Association Arg1:T12 Arg2:T11	
+T16	Biomarker 623 676	rising concentration of blood sugar and triglycerides
+T23	Gene-Protein 762 767	IL-13
+T18	Gene-Protein 820 827	insulin
+#4	AnnotatorNotes T18	HGNC:6081
+T24	Gene-Protein 914 918	IL-4
+#5	AnnotatorNotes T24	HGNC:6014
+T25	GeneFamily 932 940	cytokine
+#6	AnnotatorNotes T25	not found
+T26	Gene-Protein 982 987	IL-13
+T27	GeneFamily 1194 1203	cytokines
+T29	Gene-Protein 1302 1307	IL-13
+T30	Gene-Protein 1337 1341	IL-4
+T31	Gene-Protein 1403 1408	IL-13
+T32	CellLine 1020 1025	3T3L1
+T28	Biomarker 797 816	triglyceride values
+T33	Biomarker 740 767	circulating levels of IL-13
+T34	Disease 820 837	insulin-resistant
+#7	AnnotatorNotes T34	D007333
+T35	Gene-Protein 1552 1559	insulin

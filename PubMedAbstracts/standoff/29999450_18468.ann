@@ -1,0 +1,69 @@
+T0	Biomarker 70 86	TRAIL deficiency
+T10	Disease 640 659	autoimmune diabetes
+#2	AnnotatorNotes T10	DOID:9744
+T12	Disease 759 761	DN
+T13	Disease 766 768	DM
+T15	Disease 876 878	DN
+T16	Disease 880 884	T2DM
+T17	Disease 1036 1038	DN
+T18	Disease 1043 1047	T2DM
+T20	Disease 1148 1150	DN
+T21	Disease 1155 1159	T2DM
+T23	Disease 1347 1355	diabetic
+#12	AnnotatorNotes T23	not found
+T24	Disease 1454 1470	microalbuminuria
+T25	Disease 1474 1490	macroalbuminuria
+T29	Disease 1696 1698	DM
+T3	Disease 115 128	renal disease
+#17	AnnotatorNotes T3	DOID:557
+T30	Disease 1703 1705	DN
+T4	Disease 133 151	insulin resistance
+#19	AnnotatorNotes T4	D007333
+T6	Disease 330 334	T2DM
+#20	AnnotatorNotes T6	DOID:9352
+T8	Disease 520 539	DN with foot ulcers
+#21	AnnotatorNotes T8	D003928, D016523
+T1	Gene-Protein 37 53	apolipoprotein E
+T2	Collection 115 151	renal disease and insulin resistance
+R1	Association Arg1:T0 Arg2:T2	
+T5	Gene-Protein 70 75	TRAIL
+T7	Gene-Protein 247 253	sTRAIL
+#9	AnnotatorNotes T7	HGNC:11925
+T11	Biomarker 237 265	levels of sTRAIL were higher
+T14	Biomarker 449 502	levels of sTRAIL were found to be significantly lower
+T19	Gene-Protein 459 465	sTRAIL
+A1	Conjunction T8
+R2	Association Arg1:T14 Arg2:T8	
+T9	Drug 608 612	SDR5
+#13	AnnotatorNotes T9	not found
+T22	Gene-Protein 622 627	TRAIL
+R3	Causes Arg1:T9 Arg2:T10	
+T26	Gene-Protein 723 728	TRAIL
+T28	Drug 723 728	TRAIL
+#14	AnnotatorNotes T28	D053221
+#3	AnnotatorNotes T13	DOID:9351
+T31	Collection 759 768	DN and DM
+R4	Protects-from Arg1:T28 Arg2:T31	
+T32	Gene-Protein 826 832	sTRAIL
+T33	Gene-Protein 837 842	TRAIL
+T34	Gene-Protein 984 989	TRAIL
+T35	Biomarker 1272 1343	expression of TRAIL was found to be significantly higher in the kidneys
+T36	Gene-Protein 1286 1291	TRAIL
+R5	Association Arg1:T35 Arg2:T23	
+T37	Gene-Protein 1072 1077	TRAIL
+T38	Gene-Protein 1096 1102	sTRAIL
+T39	Biomarker 1062 1140	levels of TRAIL mRNA in PBMCs and sTRAIL in sera were both significantly lower
+T40	Collection 1148 1159	DN and T2DM
+R6	Association Arg1:T39 Arg2:T40	
+T27	Biomarker 1509 1537	higher serum levels of TRAIL
+T41	Gene-Protein 1532 1537	TRAIL
+T42	Gene-Protein 1610 1615	TRAIL
+T43	Biomarker 1610 1615	TRAIL
+T44	Collection 1696 1705	DM and DN
+R7	Association Arg1:T43 Arg2:T44	
+#5	AnnotatorNotes T24	not found
+T45	Collection 1454 1490	microalbuminuria or macroalbuminuria
+R8	Association Arg1:T27 Arg2:T45	
+T46	Biomarker 984 1010	TRAIL mRNA levels in PBMCs
+T47	Collection 1036 1047	DN and T2DM
+R9	Association Arg1:T46 Arg2:T47	

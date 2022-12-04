@@ -1,0 +1,50 @@
+T0	Chemical 248 252	FeNO
+T1	Disease 281 300	airway inflammation
+#2	AnnotatorNotes T1	not found
+T10	Chemical 975 979	FeNO
+T11	Chemical 1050 1054	FeNO
+T12	Chemical 1228 1232	FeNO
+T13	Disease 1253 1290	non-asthmatic eosinophilic bronchitis
+T14	Disease 1292 1296	NAEB
+T15	Disease 1391 1395	NAEB
+T16	Chemical 1426 1430	FeNO
+T17	Disease 1459 1491	eosinophilic airway inflammation
+#10	AnnotatorNotes T17	not found
+T18	Chemical 1504 1508	FeNO
+T2	Chemical 337 341	FeNO
+T20	Disease 1552 1579	airway inflammation in ACOS
+T21	Chemical 1630 1634	FeNO
+T3	Chemical 476 488	nitric oxide
+T4	Chemical 509 519	L-arginine
+T5	Disease 559 579	airway inflammations
+T6	Disease 643 669	eosinophilic inflammations
+#19	AnnotatorNotes T6	not found
+T7	Chemical 768 772	FeNO
+T8	Chemical 877 881	FeNO
+T9	Disease 899 903	ACOS
+T22	Biomarker 248 252	FeNO
+R1	Association Arg1:T22 Arg2:T1	
+T23	Chemical 434 436	NO
+T24	GeneFamily 476 497	nitric oxide synthase
+#1	AnnotatorNotes T24	not found
+T25	Biomarker 592 603	elevated NO
+T26	Chemical 601 603	NO
+R2	Association Arg1:T25 Arg2:T5	
+R3	Association Arg1:T25 Arg2:T6	
+#3	AnnotatorNotes T9	D000080445
+T27	Biomarker 877 881	FeNO
+R4	Association Arg1:T27 Arg2:T9	
+T28	Disease 994 998	ACOS
+#4	AnnotatorNotes T13	not found
+#5	AnnotatorNotes T14	not found
+T29	Biomarker 1426 1430	FeNO
+R5	Association Arg1:T29 Arg2:T17	
+T30	Biomarker 1504 1508	FeNO
+A1	Conjunction T20
+#6	AnnotatorNotes T20	not found, D000080445
+T19	Biomarker 1630 1634	FeNO
+R6	Association Arg1:T30 Arg2:T20	
+T31	Disease 1677 1681	ACOS
+R7	Association Arg1:T19 Arg2:T31	
+T32	Biomarker 975 979	FeNO
+R8	Association Arg1:T32 Arg2:T28	

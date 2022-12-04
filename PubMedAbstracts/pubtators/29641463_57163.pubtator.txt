@@ -1,0 +1,98 @@
+29641463_57163|t|RSS_IDENT_p_29641463_b_1_4_2
+29641463_57163|a| The authors declare no conflict of interest. Abbreviations 2D-LC-MS/MS Two-dimensional liquid chromatography-electrospray tandem mass spectrometry AKR1A1 Alcohol dehydrogenase [NADP(+)] ALDOA Fructose-bisphosphate aldolase A ALDOC Fructose-bisphosphate aldolase C APOA4 Apolipoprotein A-IV APOC2 Apolipoprotein C-II APOC3 Apolipoprotein C-III BRB Blood-retinal barrier C1R Complement component 1 C8A Complement component 8 C8B Complement component 8 C9 Complement component 9 ENO2 Enolase 2 F12 Coagulation factor XII F9 Coagulation factor IX FBP1 Fructose-1,6-bisphosphatase 1 GO Gene ontology GPI Glucose-6-phosphate isomerase GSTP1 Gstp1 HIF-1 Transcriptional regulator hypoxia-inducible factor-1 iTRAQ Isobaric tags for relative and absolute quantitation KEGG Kyoto encyclopedia of genes and genomes LC-ESI-MS/MS Liquid chromatography-electrospray ion trap-mass spectrometry-mass spectrometry LDHB L-lactate dehydrogenase MALDI-TOF/TOF Matrix-assisted laser desorption/ionization-tandem time-of-flight mass spectrometry MEM Macular epiretinal membranes NSR Neurosensory retina PDC Phosducin PDE6G Retinal rod rhodopsin-sensitive cgmp 3~,5~-cyclic phosphodiesterase PGAM1 Phosphoglycerate mutase 1 PGK1 Phosphoglycerate kinase 1 PKM Pyruvate kinase PVR Proliferative vitreoretinopathy RBP1 Retinol-binding protein 1 RBP3 Retinol-binding protein 3 RBP4 Retinol-binding protein 4 RD Retinal detachment RD Retinal detachment RHO Rhodopsin RLBP1 Retinaldehyde-binding protein 1 ROS Retinal rod outer segment RPE Retinal pigment epithelium RRD Rhegmatogenous retinal detachment RRDCD Rhegmatogenous retinal detachment associated with choroidal detachment SAG S-arrestin SLC2A1 solute carrier family 2, facilitated glucose transporter member 1 STRAP Software Tool for Rapid Annotation of Proteins STRING Search Tool for the Retrieval of Interacting Genes/Proteins TALDO1 Transaldolase TPI1 Triosephosphate isomerase VEGF-A Vascular endothelial growth factor A VEGF-B Vascular endothelial growth factor B WB Western blotting
+29641463_57163	177	183	AKR1A1	Gene-protein
+29641463_57163	184	191	Alcohol	Chemical
+29641463_57163	184	205	Alcohol dehydrogenase	Gene-protein
+29641463_57163	207	214	NADP(+)	Chemical
+29641463_57163	216	221	ALDOA	Gene-protein
+29641463_57163	222	243	Fructose-bisphosphate	Chemical
+29641463_57163	222	254	Fructose-bisphosphate aldolase A	Gene-protein
+29641463_57163	255	260	ALDOC	Gene-protein
+29641463_57163	261	269	Fructose	Chemical
+29641463_57163	261	293	Fructose-bisphosphate aldolase C	Gene-protein
+29641463_57163	270	282	bisphosphate	Chemical
+29641463_57163	294	299	APOA4	Gene-protein
+29641463_57163	300	319	Apolipoprotein A-IV	Gene-protein
+29641463_57163	320	325	APOC2	Gene-protein
+29641463_57163	326	345	Apolipoprotein C-II	Gene-protein
+29641463_57163	346	351	APOC3	Gene-protein
+29641463_57163	352	372	Apolipoprotein C-III	Gene-protein
+29641463_57163	399	402	C1R	Gene-protein
+29641463_57163	403	425	Complement component 1	Gene-protein
+29641463_57163	426	429	C8A	Gene-protein
+29641463_57163	430	452	Complement component 8	Gene-protein
+29641463_57163	453	456	C8B	Gene-protein
+29641463_57163	457	479	Complement component 8	Gene-protein
+29641463_57163	480	482	C9	Gene-protein
+29641463_57163	483	505	Complement component 9	Gene-protein
+29641463_57163	506	510	ENO2	Chemical
+29641463_57163	511	520	Enolase 2	Gene-protein
+29641463_57163	521	524	F12	Gene-protein
+29641463_57163	525	547	Coagulation factor XII	Gene-protein
+29641463_57163	548	550	F9	Gene-protein
+29641463_57163	551	572	Coagulation factor IX	Gene-protein
+29641463_57163	573	577	FBP1	Gene-protein
+29641463_57163	578	607	Fructose-1,6-bisphosphatase 1	Gene-protein
+29641463_57163	625	628	GPI	Gene-protein
+29641463_57163	629	648	Glucose-6-phosphate	Chemical
+29641463_57163	629	658	Glucose-6-phosphate isomerase	Gene-protein
+29641463_57163	659	664	GSTP1	Gene-protein
+29641463_57163	665	670	Gstp1	Gene-protein
+29641463_57163	671	676	HIF-1	Gene-protein
+29641463_57163	677	729	Transcriptional regulator hypoxia-inducible factor-1	Gene-protein
+29641463_57163	730	735	iTRAQ	Gene-protein
+29641463_57163	927	931	LDHB	Gene-protein
+29641463_57163	932	941	L-lactate	Chemical
+29641463_57163	932	955	L-lactate dehydrogenase	Gene-protein
+29641463_57163	1111	1114	PDC	Gene-protein
+29641463_57163	1115	1124	Phosducin	Gene-protein
+29641463_57163	1125	1130	PDE6G	Gene-protein
+29641463_57163	1131	1198	Retinal rod rhodopsin-sensitive cgmp 3~,5~-cyclic phosphodiesterase	Gene-protein
+29641463_57163	1199	1204	PGAM1	Gene-protein
+29641463_57163	1205	1221	Phosphoglycerate	Chemical
+29641463_57163	1205	1230	Phosphoglycerate mutase 1	Gene-protein
+29641463_57163	1231	1235	PGK1	Gene-protein
+29641463_57163	1236	1252	Phosphoglycerate	Chemical
+29641463_57163	1236	1261	Phosphoglycerate kinase 1	Gene-protein
+29641463_57163	1262	1265	PKM	Gene-protein
+29641463_57163	1266	1274	Pyruvate	Chemical
+29641463_57163	1266	1281	Pyruvate kinase	Gene-protein
+29641463_57163	1282	1285	PVR	Disease	DOID:9719
+29641463_57163	1286	1317	Proliferative vitreoretinopathy	Disease	DOID:9719
+29641463_57163	1318	1322	RBP1	Gene-protein
+29641463_57163	1323	1330	Retinol	Chemical
+29641463_57163	1323	1348	Retinol-binding protein 1	Gene-protein
+29641463_57163	1349	1353	RBP3	Gene-protein
+29641463_57163	1354	1361	Retinol	Chemical
+29641463_57163	1354	1379	Retinol-binding protein 3	Gene-protein
+29641463_57163	1380	1384	RBP4	Gene-protein
+29641463_57163	1385	1392	Retinol	Chemical
+29641463_57163	1385	1410	Retinol-binding protein 4	Gene-protein
+29641463_57163	1411	1413	RD	Disease	DOID:5327
+29641463_57163	1414	1432	Retinal detachment	Disease	DOID:5327
+29641463_57163	1433	1435	RD	Disease
+29641463_57163	1436	1454	Retinal detachment	Disease
+29641463_57163	1455	1458	RHO	Gene-protein
+29641463_57163	1459	1468	Rhodopsin	Gene-protein
+29641463_57163	1469	1474	RLBP1	Gene-protein
+29641463_57163	1475	1488	Retinaldehyde	Chemical
+29641463_57163	1475	1506	Retinaldehyde-binding protein 1	Gene-protein
+29641463_57163	1568	1571	RRD	Disease	DOID:5327
+29641463_57163	1572	1605	Rhegmatogenous retinal detachment	Disease	DOID:5327
+29641463_57163	1606	1611	RRDCD	Disease	not found
+29641463_57163	1612	1682	Rhegmatogenous retinal detachment associated with choroidal detachment	Disease	not found
+29641463_57163	1683	1686	SAG	Gene-protein
+29641463_57163	1687	1697	S-arrestin	Gene-protein
+29641463_57163	1698	1704	SLC2A1	Gene-protein
+29641463_57163	1705	1770	solute carrier family 2, facilitated glucose transporter member 1	Gene-protein
+29641463_57163	1742	1749	glucose	Chemical
+29641463_57163	1891	1897	TALDO1	Gene-protein
+29641463_57163	1898	1911	Transaldolase	Gene-protein
+29641463_57163	1912	1916	TPI1	Gene-protein
+29641463_57163	1917	1932	Triosephosphate	Chemical
+29641463_57163	1917	1942	Triosephosphate isomerase	Gene-protein
+29641463_57163	1943	1949	VEGF-A	Gene-protein
+29641463_57163	1950	1986	Vascular endothelial growth factor A	Gene-protein
+29641463_57163	1987	1993	VEGF-B	Gene-protein
+29641463_57163	1994	2030	Vascular endothelial growth factor B	Gene-protein
+

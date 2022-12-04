@@ -1,0 +1,51 @@
+30570110_27308|t|RSS_IDENT_p_30570110_b_1_4_4
+30570110_27308|a| Consistent with the findings of previous studies, PLK4 expression was upregulated in human CRC tissues in the present study. Furthermore, PLK4 promoted the proliferation and invasion of CRC cells. PLK4 also affected the expression of several EMT-associated proteins; N-cadherin and snail were upregulated, and occludin was downregulated in cells overexpressing PLK4, thus suggesting a novel mechanism underlying the role of PLK4 in cancer. The present study investigated the function of PLK4 and suggested that it may act as an oncogene in CRC. Previous studies revealed that PLK4 manipulates numerous signaling pathways, including the transforming growth factor β and epidermal growth factor receptor signaling pathways. In addition, the Wnt/β-catenin pathway is a critical mediator of carcinogenic signals in various tumor types ( 17 , 28 - 30 ). The Wnt/β-catenin signaling pathway induces the EMT process and inhibits the transcription of E-cadherin, which is commonly considered an activator of cancer progression ( 31 - 33 ). β-catenin directly influences the biological characteristics of cells, and has been reported to downregulate E-cadherin expression, and to promote EMT-like transition and invasiveness in carcinoma cells ( 34 ). In addition, activation of the Wnt/β-catenin pathway contributes to EMT through upregulation of EMT-associated factors, including snail and slug ( 34 - 36 ). In the present study, the expression levels of β-catenin were significantly increased in response to PLK4 overexpression in CRC cells. These findings indicated that PLK4 may mediate EMT in CRC cells via its effects on the Wnt/β-catenin signaling pathway, ultimately improving the migratory and invasive potential of the cells.
+30570110_27308	80	84	PLK4	Gene-protein	HGNC:11397
+30570110_27308	80	111	PLK4 expression was upregulated	Biomarker
+30570110_27308	121	124	CRC	Disease	DOID:9256
+30570110_27308	168	172	PLK4	Gene-protein
+30570110_27308	168	172	PLK4	Biomarker	C490219
+30570110_27308	216	219	CRC	Disease
+30570110_27308	227	231	PLK4	Gene-protein
+30570110_27308	297	307	N-cadherin	Gene-protein	HGNC:1759
+30570110_27308	297	334	N-cadherin and snail were upregulated	Biomarker
+30570110_27308	312	317	snail	Gene-protein	HGNC:11128
+30570110_27308	340	348	occludin	Gene-protein	HGNC:8104
+30570110_27308	340	366	occludin was downregulated	Biomarker
+30570110_27308	391	395	PLK4	Gene-protein
+30570110_27308	454	458	PLK4	Gene-protein
+30570110_27308	454	458	PLK4	Biomarker
+30570110_27308	462	468	cancer	Disease	DOID:162
+30570110_27308	517	521	PLK4	Gene-protein
+30570110_27308	570	573	CRC	Disease
+30570110_27308	606	610	PLK4	Gene-protein
+30570110_27308	666	694	transforming growth factor β	Genefamily	family:1664
+30570110_27308	699	731	epidermal growth factor receptor	Gene-protein	HGNC:3236
+30570110_27308	769	772	Wnt	Genefamily	family:360
+30570110_27308	769	790	Wnt/β-catenin pathway	Biomarker
+30570110_27308	773	782	β-catenin	Genefamily	family:1542
+30570110_27308	849	854	tumor	Disease	DOID:162
+30570110_27308	883	886	Wnt	Genefamily
+30570110_27308	887	896	β-catenin	Genefamily
+30570110_27308	973	983	E-cadherin	Gene-protein	HGNC:1748
+30570110_27308	973	983	E-cadherin	Biomarker	D015820
+30570110_27308	1030	1036	cancer	Disease
+30570110_27308	1062	1071	β-catenin	Genefamily
+30570110_27308	1062	1071	β-catenin	Biomarker	D051176
+30570110_27308	1171	1181	E-cadherin	Gene-protein
+30570110_27308	1249	1258	carcinoma	Disease	DOID:305
+30570110_27308	1304	1307	Wnt	Genefamily
+30570110_27308	1308	1317	β-catenin	Genefamily
+30570110_27308	1403	1408	snail	Gene-protein
+30570110_27308	1413	1417	slug	Gene-protein	HGNC:11094
+30570110_27308	1457	1516	expression levels of β-catenin were significantly increased	Biomarker
+30570110_27308	1478	1487	β-catenin	Genefamily
+30570110_27308	1532	1536	PLK4	Gene-protein
+30570110_27308	1532	1551	PLK4 overexpression	Biomarker
+30570110_27308	1555	1558	CRC	Disease
+30570110_27308	1596	1600	PLK4	Gene-protein
+30570110_27308	1596	1600	PLK4	Biomarker
+30570110_27308	1620	1623	CRC	Disease
+30570110_27308	1653	1656	Wnt	Genefamily
+30570110_27308	1657	1666	β-catenin	Genefamily
+

@@ -1,0 +1,50 @@
+30112024_14618|t|RSS_IDENT_p_30112024_b_1_4_5
+30112024_14618|a| Studies have been found that, in many other cancers, Nrf2 may be closely linked to chemotherapy resistance, promote tumor growth and lead to poor prognosis, including lung cancer ( 27 ), pancreatic carcinoma ( 23 , 28 ), breast cancer ( 29 , 30 ), head and neck cancer ( 31 ), prostate cancer ( 32 ), ovarian carcinoma ( 33 , 34 ) and cervical cancer ( 35 ). In addition, in hematopoietic malignancies, only few studies have reported on Nrf2 expression in lymphoma cell lines. Zha et al ( 36 ) reported that in the Raji cell line, treatment with disulfiram (DS) and DS/Cu causes excessive production of reactive oxygen species such that Nrf2 expression is inhibited, which subsequently promotes apoptosis in transplanted tumors in nude mice. It has also been indicated that inhibition of Nrf2 expression may promote apoptosis of lymphoma cells. A study by Chen et al ( 37 ) on the relapse of mantle cell lymphoma compared Nrf2 expression between bortezomib-sensitive cell lines (Jeko and SP53) and resistant cell lines (Mino and Rec-1) after bortezomib treatment. The results indicated that Nrf2 expression was upregulated in bortezomib-resistant cell lines, whereas it was decreased or not significantly changed in sensitive cell lines. This suggested that elevated Nrf2 expression may be associated with bortezomib resistance in mantle cell lymphoma. These studies indicated that elevated Keap1 and Nrf2 expression may be associated with chemotherapy resistance and replace of lymphoma, but the underlying mechanisms remain to be elucidated.
+30112024_14618	74	81	cancers	Disease	DOID:162
+30112024_14618	83	87	Nrf2	Gene-protein	HGNC:7782
+30112024_14618	83	87	Nrf2	Biomarker	C495635
+30112024_14618	113	125	chemotherapy	Drug-class
+30112024_14618	146	151	tumor	Disease	DOID:162
+30112024_14618	197	208	lung cancer	Disease	DOID:1324
+30112024_14618	197	380	lung cancer ( 27 ), pancreatic carcinoma ( 23 , 28 ), breast cancer ( 29 , 30 ), head and neck cancer ( 31 ), prostate cancer ( 32 ), ovarian carcinoma ( 33 , 34 ) and cervical cancer	Collection
+30112024_14618	217	237	pancreatic carcinoma	Disease	DOID:4905
+30112024_14618	251	264	breast cancer	Disease	DOID:1612
+30112024_14618	278	298	head and neck cancer	Disease	DOID:11934
+30112024_14618	307	322	prostate cancer	Disease	DOID:10283
+30112024_14618	331	348	ovarian carcinoma	Disease	DOID:4001
+30112024_14618	365	380	cervical cancer	Disease	DOID:4362
+30112024_14618	405	431	hematopoietic malignancies	Disease	DOID:2531
+30112024_14618	467	471	Nrf2	Gene-protein
+30112024_14618	467	482	Nrf2 expression	Biomarker
+30112024_14618	486	494	lymphoma	Disease	DOID:0060058
+30112024_14618	545	559	Raji cell line	Cellline
+30112024_14618	576	586	disulfiram	Drug	CHEMBL964
+30112024_14618	588	590	DS	Drug	CHEMBL964
+30112024_14618	596	598	DS	Drug
+30112024_14618	599	601	Cu	Chemical
+30112024_14618	633	656	reactive oxygen species	Chemical
+30112024_14618	667	671	Nrf2	Gene-protein
+30112024_14618	804	833	inhibition of Nrf2 expression	Drug	not found
+30112024_14618	818	822	Nrf2	Gene-protein
+30112024_14618	859	867	lymphoma	Disease
+30112024_14618	922	942	mantle cell lymphoma	Disease	DOID:0050746
+30112024_14618	952	956	Nrf2	Gene-protein
+30112024_14618	976	986	bortezomib	Drug	CHEMBL325041
+30112024_14618	1009	1013	Jeko	Cellline
+30112024_14618	1018	1022	SP53	Cellline
+30112024_14618	1050	1054	Mino	Cellline
+30112024_14618	1059	1064	Rec-1	Cellline
+30112024_14618	1072	1082	bortezomib	Drug
+30112024_14618	1121	1125	Nrf2	Gene-protein
+30112024_14618	1121	1152	Nrf2 expression was upregulated	Biomarker
+30112024_14618	1156	1166	bortezomib	Drug
+30112024_14618	1288	1312	elevated Nrf2 expression	Biomarker
+30112024_14618	1297	1301	Nrf2	Gene-protein
+30112024_14618	1336	1346	bortezomib	Drug
+30112024_14618	1361	1381	mantle cell lymphoma	Disease
+30112024_14618	1412	1446	elevated Keap1 and Nrf2 expression	Biomarker
+30112024_14618	1421	1426	Keap1	Gene-protein	HGNC:23177
+30112024_14618	1431	1435	Nrf2	Gene-protein
+30112024_14618	1470	1482	chemotherapy	Drug-class
+30112024_14618	1509	1517	lymphoma	Disease
+

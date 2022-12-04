@@ -1,0 +1,65 @@
+31528236_21641|t|RSS_IDENT_p_31528236_b_1_4_4
+31528236_21641|a| A novel lncRNA-LOC646762, located at 7p14.3, was a protective factor for adult AML patients, and overexpression of it predicted a favorable prognosis in risk stratification. In the present study, LOC646762, regulating co-expressed mRNA, may contribute to AML through the "endocytosis" signaling pathway. A previous study has demonstrated that the protein encoded by cyclin D3 (CCND3) belongs to the highly conserved cyclin family, which affects the cell cycle by regulating the transition from G(1) to the S phase, and high CCND3 expression predicts a poor outcome in patients with diffuse large B-cell lymphoma 19 . The present study revealed that CCND3 is a risk factor for AML, and its overexpression predicts a poor prognosis. The protein encoded by carbonyl reductase 1 (CBR1) belongs to the short-chain dehydrogenases/reductases (SDR) family, which function as NADPH-dependent oxidoreductases 20 . A previous study demonstrated that low expression of CBR1 promotes growth and proliferation of ovarian cancer 21 . However, the present study indicated that overexpression of CBR1, a risk factor for AML, predicts an adverse outcome. C10orf54 is also known as V-set immunoregulatory receptor (VSIR) and its expression is significantly associated with tumor immune evasion in colorectal carcinoma tumors 22 . High expression of C10orf54 is related to a poor prognosis, but C10orf54 is a protective factor when LOC646762, CCND3, CBR1, CD97 and BLOC1S1 are expressed. Overexpression of CD97, also known as adhesion G protein-coupled receptor E5 (ADGRE5), in the leukemia stem cells of AML patients is associated with a poor prognosis 23 , which is in line with the results of the present study. Biogenesis of lysosomal organelles complex 1 subunit 1 (BLOC1S1) is a component of the BLOC1 multisubunit protein complex 24 . High expression of BLOC1S1 predicts an adverse outcome, while BLOC1S1 overexpression is correlated with a favorable prognosis when LOC646762, CCND3, CBR1, CD97 and BLOC1S1 are expressed. In summary, risk stratification for adult AML patients can be performed based on the combination of these six prognostic genes.
+31528236_21641	45	54	LOC646762	Rna-noncoding
+31528236_21641	45	54	LOC646762	Biomarker
+31528236_21641	103	112	adult AML	Disease	DOID:9119
+31528236_21641	226	235	LOC646762	Rna-noncoding
+31528236_21641	226	265	LOC646762, regulating co-expressed mRNA	Biomarker
+31528236_21641	285	288	AML	Disease	DOID:9119
+31528236_21641	396	405	cyclin D3	Gene-protein	HGNC:1585
+31528236_21641	407	412	CCND3	Gene-protein	HGNC:1585
+31528236_21641	446	452	cyclin	Genefamily	family:473
+31528236_21641	549	570	high CCND3 expression	Biomarker
+31528236_21641	554	559	CCND3	Gene-protein
+31528236_21641	612	641	diffuse large B-cell lymphoma	Disease	DOID:0050745
+31528236_21641	679	684	CCND3	Biomarker
+31528236_21641	679	684	CCND3	Gene-protein
+31528236_21641	706	709	AML	Disease
+31528236_21641	784	792	carbonyl	Chemical
+31528236_21641	784	804	carbonyl reductase 1	Gene-protein	HGNC:1548
+31528236_21641	806	810	CBR1	Gene-protein	HGNC:1548
+31528236_21641	827	864	short-chain dehydrogenases/reductases	Genefamily	family:743
+31528236_21641	866	869	SDR	Genefamily	family:743
+31528236_21641	897	902	NADPH	Chemical
+31528236_21641	897	928	NADPH-dependent oxidoreductases	Genefamily
+31528236_21641	969	991	low expression of CBR1	Biomarker
+31528236_21641	987	991	CBR1	Gene-protein
+31528236_21641	1029	1043	ovarian cancer	Disease	DOID:2394
+31528236_21641	1091	1113	overexpression of CBR1	Biomarker
+31528236_21641	1109	1113	CBR1	Gene-protein
+31528236_21641	1133	1136	AML	Disease
+31528236_21641	1167	1175	C10orf54	Gene-protein	HGNC:30085
+31528236_21641	1167	1250	C10orf54 is also known as V-set immunoregulatory receptor (VSIR) and its expression	Biomarker
+31528236_21641	1193	1224	V-set immunoregulatory receptor	Gene-protein	HGNC:30085
+31528236_21641	1226	1230	VSIR	Gene-protein	HGNC:30085
+31528236_21641	1284	1304	tumor immune evasion	Biomarker
+31528236_21641	1308	1328	colorectal carcinoma	Disease	DOID:0080199
+31528236_21641	1341	1368	High expression of C10orf54	Biomarker
+31528236_21641	1360	1368	C10orf54	Gene-protein
+31528236_21641	1405	1413	C10orf54	Gene-protein
+31528236_21641	1442	1451	LOC646762	Rna-noncoding
+31528236_21641	1453	1458	CCND3	Gene-protein
+31528236_21641	1460	1464	CBR1	Gene-protein
+31528236_21641	1466	1470	CD97	Gene-protein	HGNC:1711
+31528236_21641	1475	1482	BLOC1S1	Gene-protein	HGNC:4200
+31528236_21641	1498	1574	Overexpression of CD97, also known as adhesion G protein-coupled receptor E5	Biomarker
+31528236_21641	1516	1520	CD97	Gene-protein
+31528236_21641	1536	1574	adhesion G protein-coupled receptor E5	Gene-protein	HGNC:1711
+31528236_21641	1576	1582	ADGRE5	Gene-protein	HGNC:1711
+31528236_21641	1592	1600	leukemia	Disease	DOID:1240
+31528236_21641	1592	1618	leukemia stem cells of AML	Collection
+31528236_21641	1615	1618	AML	Disease
+31528236_21641	1725	1779	Biogenesis of lysosomal organelles complex 1 subunit 1	Gene-protein
+31528236_21641	1781	1788	BLOC1S1	Gene-protein
+31528236_21641	1812	1817	BLOC1	Gene-protein
+31528236_21641	1852	1878	High expression of BLOC1S1	Biomarker
+31528236_21641	1871	1878	BLOC1S1	Gene-protein
+31528236_21641	1914	1921	BLOC1S1	Gene-protein
+31528236_21641	1914	1936	BLOC1S1 overexpression	Biomarker
+31528236_21641	1983	1992	LOC646762	Rna-noncoding
+31528236_21641	1994	1999	CCND3	Gene-protein
+31528236_21641	2001	2005	CBR1	Gene-protein
+31528236_21641	2007	2011	CD97	Gene-protein
+31528236_21641	2016	2023	BLOC1S1	Gene-protein
+31528236_21641	2081	2084	AML	Disease
+

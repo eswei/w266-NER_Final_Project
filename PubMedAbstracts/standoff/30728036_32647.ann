@@ -1,0 +1,56 @@
+T0	RNA-Noncoding 47 56	LINC00346
+T11	Disease 562 579	colorectal cancer
+#2	AnnotatorNotes T11	DOID:9256
+T12	Disease 619 636	pancreatic cancer
+T14	Drug 724 735	gemcitabine
+T15	Disease 752 769	pancreatic cancer
+T16	RNA-Noncoding 794 803	LINC00346
+T18	Disease 850 867	pancreatic cancer
+T2	RNA-Noncoding 184 193	LINC00346
+T20	RNA-Noncoding 922 931	LINC00346
+T22	RNA-Noncoding 1048 1057	LINC00346
+T24	RNA-Noncoding 1224 1233	LINC00346
+T25	Disease 1252 1269	pancreatic cancer
+T26	RNA-Noncoding 1297 1306	LINC00346
+T3	Disease 197 214	pancreatic cancer
+#14	AnnotatorNotes T3	DOID:1793
+T4	RNA-Noncoding 331 340	LINC00346
+T5	RNA-Noncoding 362 371	LINC00346
+T7	RNA-Noncoding 438 447	LINC00346
+T9	Disease 484 501	pancreatic cancer
+#1	AnnotatorNotes T0	HGNC:27492
+T1	RNA-Noncoding 88 98	miR-188-3p
+#4	AnnotatorNotes T1	HGNC:31559
+T6	RNA-Noncoding 132 142	miR-188-3p
+T8	RNA-Noncoding 317 327	miR-188-3p
+T10	RNA-Noncoding 376 386	miR-188-3p
+T13	Gene-Protein 403 407	Ago2
+#6	AnnotatorNotes T13	HGNC:3263
+T17	RNA-Noncoding 452 462	miR-188-3p
+T19	RNA-Noncoding 518 528	miR-188-3p
+T21	Collection 562 636	colorectal cancer [ 30 ], an opposite effect is noted in pancreatic cancer
+T23	Biomarker 518 528	miR-188-3p
+#3	AnnotatorNotes T23	C584093
+R1	Association Arg1:T23 Arg2:T21	
+T27	RNA-Noncoding 676 686	miR-188-3p
+#5	AnnotatorNotes T14	CHEMBL888
+R3	Synergy-Response Arg1:T14 Arg2:T15	
+T29	Drug 658 686	overexpression of miR-188-3p
+#8	AnnotatorNotes T29	not found
+R2	Response Arg1:T29 Arg2:T15	
+R4	Synergy-Response Arg1:T29 Arg2:T15	
+T28	RNA-Noncoding 808 818	miR-188-3p
+T30	RNA-Noncoding 972 982	miR-188-3p
+T31	Biomarker 808 818	miR-188-3p
+T32	Biomarker 794 803	LINC00346
+T33	Collection 794 818	LINC00346 and miR-188-3p
+R5	Association Arg1:T33 Arg2:T18	
+T34	RNA-Noncoding 1129 1139	miR-188-3p
+T35	RNA-Noncoding 1238 1248	miR-188-3p
+T36	RNA-Noncoding 1348 1358	miR-188-3p
+T38	Biomarker 438 480	LINC00346 and miR-188-3p were co-localized
+T41	Biomarker 1224 1233	LINC00346
+T42	Biomarker 1238 1248	miR-188-3p
+T43	Biomarker 1297 1306	LINC00346
+T44	Drug 114 142	overexpression of miR-188-3p
+#7	AnnotatorNotes T44	not found

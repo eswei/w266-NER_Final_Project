@@ -1,0 +1,43 @@
+29776350_26826|t|RSS_IDENT_p_29776350_b_1_4_3
+29776350_26826|a| A growing body of literature showing evidence that a solid pathological association between chronic low-grade inflammation and carcinogenesis [ 25 ]. High sensitive CRP, an acute-phase reactant synthesized in the liver that is regulated by pro-inflammatory cytokines, primarily interleukin (IL) 6 [ 26 ]. It has been reported to be associated with a poor prognosis in patients with different types of cancer, which including HCC [ 26 ]. In this study, hsCRP was found to elevated in HCC patients when compared to healthy volunteers. In this context, the previous studies showing compelling evidence that systemic inflammation is known to associate with tumor development and poor survival in patients with HCC [ 3 , 11 ]. In addition, a moderate increase of hsCRP showed to predict recurrence and survival in patients with early-stage HCC [ 27 ]. Further, it has been demonstrated that a novel prognostic scoring system, which includes the CRP level, predict overall survival in late-stage HCC following treatment with Sorafenib [ 28 ]. Shin et al., found that increased serum CRP concentration indicates poor prognosis in patients with HCC [ 29 ]. Also, increased immunoreactivity of CRP is considered a key feature of inflammatory hepatic adenomas with an increased risk of malignant transformation [ 29 ]. Furthermore, the ratio of hsCRP and albumin predicted outcomes in patients with HCC [ 30 ] and considered a novel inflammation-based prognostic score. We found decreased albumin concentrations in HCC patients compared to healthy control. However, there is no correlation between elevated hsCRP and lowered albumin levels in HCC. 
+29776350_26826	122	152	chronic low-grade inflammation	Biomarker	not found
+29776350_26826	157	171	carcinogenesis	Disease	DOID:162
+29776350_26826	180	198	High sensitive CRP	Biomarker
+29776350_26826	195	198	CRP	Gene-protein	HGNC:2367
+29776350_26826	270	296	pro-inflammatory cytokines	Genefamily	not found
+29776350_26826	308	326	interleukin (IL) 6	Gene-protein	HGNC:6018
+29776350_26826	431	437	cancer	Disease	DOID:162
+29776350_26826	431	458	cancer, which including HCC	Collection
+29776350_26826	455	458	HCC	Disease	DOID:684
+29776350_26826	482	487	hsCRP	Gene-protein	HGNC:2367
+29776350_26826	482	509	hsCRP was found to elevated	Biomarker
+29776350_26826	513	516	HCC	Disease
+29776350_26826	634	655	systemic inflammation	Biomarker
+29776350_26826	683	688	tumor	Disease	DOID:162
+29776350_26826	736	739	HCC	Disease
+29776350_26826	767	793	moderate increase of hsCRP	Biomarker
+29776350_26826	788	793	hsCRP	Gene-protein
+29776350_26826	865	868	HCC	Disease
+29776350_26826	970	973	CRP	Gene-protein	HGNC:2367
+29776350_26826	970	979	CRP level	Biomarker	D002097
+29776350_26826	1020	1023	HCC	Disease
+29776350_26826	1049	1058	Sorafenib	Drug	CHEMBL1336
+29776350_26826	1091	1124	increased serum CRP concentration	Biomarker
+29776350_26826	1107	1110	CRP	Gene-protein
+29776350_26826	1167	1170	HCC	Disease
+29776350_26826	1185	1218	increased immunoreactivity of CRP	Biomarker
+29776350_26826	1215	1218	CRP	Gene-protein
+29776350_26826	1250	1279	inflammatory hepatic adenomas	Disease	not found
+29776350_26826	1356	1382	ratio of hsCRP and albumin	Biomarker
+29776350_26826	1365	1370	hsCRP	Gene-protein
+29776350_26826	1375	1382	albumin	Gene-protein	HGNC:399
+29776350_26826	1419	1422	HCC	Disease
+29776350_26826	1499	1531	decreased albumin concentrations	Biomarker
+29776350_26826	1509	1516	albumin	Gene-protein
+29776350_26826	1535	1538	HCC	Disease
+29776350_26826	1618	1632	elevated hsCRP	Biomarker
+29776350_26826	1627	1632	hsCRP	Gene-protein
+29776350_26826	1637	1659	lowered albumin levels	Biomarker
+29776350_26826	1645	1652	albumin	Gene-protein
+29776350_26826	1663	1666	HCC	Disease
+

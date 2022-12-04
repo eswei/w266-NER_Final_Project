@@ -1,0 +1,77 @@
+T0	Disease 106 112	cancer
+#1	AnnotatorNotes T0	DOID:162
+T10	Gene-Protein 644 677	Parkinsonism associated deglycase
+#3	AnnotatorNotes T10	HGNC:16369
+T12	Disease 761 767	cancer
+T13	Disease 779 792	breast cancer
+#5	AnnotatorNotes T13	DOID:1612
+T14	Disease 794 819	epithelial ovarian cancer
+#6	AnnotatorNotes T14	DOID:2152
+T15	Disease 821 825	ESCC
+T16	Disease 827 842	prostate cancer
+#8	AnnotatorNotes T16	DOID:10283
+T17	Disease 847 871	hepatocellular carcinoma
+T18	Disease 901 907	cancer
+T19	Chemical 1068 1072	E2F5
+T2	Disease 123 135	osteosarcoma
+#12	AnnotatorNotes T2	DOID:3347
+T20	Disease 1076 1080	ESCC
+T21	Disease 1131 1135	ESCC
+T22	Disease 1269 1273	ESCC
+T24	Disease 1414 1418	ESCC
+T27	Disease 1581 1585	ESCC
+T4	Disease 215 239	hepatocellular carcinoma
+#18	AnnotatorNotes T4	DOID:684
+T6	Disease 461 478	colorectal cancer
+#19	AnnotatorNotes T6	DOID:9256
+T8	Disease 528 540	glioblastoma
+#20	AnnotatorNotes T8	DOID:3073
+T1	RNA-Noncoding 63 70	miR-544
+#2	AnnotatorNotes T1	family:1799
+T3	RNA-Noncoding 137 144	miR-544
+T5	RNA-Noncoding 398 405	miR-544
+T7	RNA-Noncoding 542 549	miR-544
+T9	Gene-Protein 719 723	E2F5
+#7	AnnotatorNotes T9	HGNC:3119
+T11	Gene-Protein 198 204	axin-2
+#11	AnnotatorNotes T11	HGNC:904
+T23	Gene-Protein 355 390	runt-related transcription factor 3
+#13	AnnotatorNotes T23	HGNC:10473
+T25	RNA-Noncoding 1227 1234	miR-544
+T26	RNA-Noncoding 1490 1497	miR-544
+T28	RNA-Noncoding 1534 1541	miR-544
+T29	Gene-Protein 1546 1550	E2F5
+T30	Gene-Protein 1611 1615	E2F5
+T31	Gene-Protein 1454 1458	E2F5
+T32	Gene-Protein 1338 1342	E2F5
+T33	RNA-Noncoding 1396 1403	miR-544
+T34	Gene-Protein 1261 1265	E2F5
+T35	Gene-Protein 1123 1127	E2F5
+T36	Gene-Protein 1024 1028	E2F5
+T37	RNA-Noncoding 971 978	miR-34a
+#4	AnnotatorNotes T37	HGNC:31635
+T38	RNA-Noncoding 983 991	miR-1179
+#10	AnnotatorNotes T38	HGNC:35260
+T39	Gene-Protein 501 516	forkhead box O1
+#14	AnnotatorNotes T39	HGNC:3819
+T40	Biomarker 63 70	miR-544
+#9	AnnotatorNotes T40	C582640
+R1	Association Arg1:T40 Arg2:T0	
+T41	Biomarker 137 144	miR-544
+R2	Association Arg1:T41 Arg2:T2	
+T42	Gene-Protein 336 341	NKp46
+#15	AnnotatorNotes T42	HGNC:6731
+T43	Gene-Protein 293 335	natural cytotoxicity triggering receptor 1
+#16	AnnotatorNotes T43	HGNC:6731
+T44	Biomarker 398 405	miR-544
+R3	Association Arg1:T44 Arg2:T6	
+T45	Drug 542 549	miR-544
+R4	Response Arg1:T45 Arg2:T8	
+T46	Biomarker 719 740	E2F5 is overexpressed
+T47	Collection 761 871	cancer, including breast cancer, epithelial ovarian cancer, ESCC, prostate cancer and hepatocellular carcinoma
+R5	Association Arg1:T46 Arg2:T47	
+#17	AnnotatorNotes T15	DOID:3748
+T48	Biomarker 1513 1550	expression levels of miR-544 and E2F5
+R6	Association Arg1:T48 Arg2:T27	
+#21	AnnotatorNotes T7	C582640
+T49	Biomarker 275 341	downregulation of natural cytotoxicity triggering receptor 1/NKp46

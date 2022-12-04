@@ -1,0 +1,46 @@
+29615063_30949|t|RSS_IDENT_p_29615063_b_1_4_5
+29615063_30949|a| The present study also investigated how the expressions of these immune checkpoint proteins affected responses to NAC in breast cancer. Previous studies have shown that high, compared to low, PD-1 expression is associated with a poorer prognosis in malignant melanoma, RCC, and breast cancer [ 10 , 11 , 37 ]. Moreover, more reports about PD-L1 than about PD-1 suggest a correlation between PD-L1 expression and the degree of cancer malignancy and a poorer prognosis [ 12 , 14 – 16 ]. In TNBC, PD-1 and PD-L1 expression has been reported frequently in TNBC [ 1 , 12 ]. In the present study, patients with high PD-1 and PD-L1 expressions had significantly higher rates of TNBC. In addition, patients with low PD-1 and PD-L1 expressions had a significantly longer DFS. In particular, low PD-1 and PD-L1 expressions in TNBC were associated with a higher pCR rate and significantly longer DFS, and low PD-L1 expression was an independent prognostic factor. These results suggest that immune escape mediated by immune checkpoints may play a role in the biological malignancy of TNBC. Among patients who received NAC, a longer DFS in patients with low PD-L1 expression suggests increased chemotherapy sensitivity. However, as limitation of this study, it is thought that pCR which has an influence on the prognosis of TNBC after NAC was included as a factor [ 38 , 39 ]. On the other hand, although HER2⁺BC showed correlation with PD-1 and PD-L1 expression, there was no effect on prognosis. 
+29615063_30949	144	147	NAC	Drug-class
+29615063_30949	151	164	breast cancer	Disease	DOID:1612
+29615063_30949	222	226	PD-1	Gene-protein	HGNC:8760
+29615063_30949	222	237	PD-1 expression	Biomarker
+29615063_30949	279	297	malignant melanoma	Disease	DOID:1909
+29615063_30949	279	321	malignant melanoma, RCC, and breast cancer	Collection
+29615063_30949	299	302	RCC	Disease	DOID:4450
+29615063_30949	308	321	breast cancer	Disease
+29615063_30949	369	374	PD-L1	Gene-protein
+29615063_30949	386	390	PD-1	Gene-protein
+29615063_30949	421	426	PD-L1	Gene-protein
+29615063_30949	421	437	PD-L1 expression	Biomarker
+29615063_30949	456	473	cancer malignancy	Disease	DOID:162
+29615063_30949	518	522	TNBC	Disease	DOID:0060081
+29615063_30949	524	528	PD-1	Gene-protein
+29615063_30949	524	549	PD-1 and PD-L1 expression	Biomarker
+29615063_30949	533	538	PD-L1	Gene-protein
+29615063_30949	582	586	TNBC	Disease
+29615063_30949	635	666	high PD-1 and PD-L1 expressions	Biomarker
+29615063_30949	640	644	PD-1	Gene-protein
+29615063_30949	649	654	PD-L1	Gene-protein
+29615063_30949	701	705	TNBC	Disease
+29615063_30949	734	764	low PD-1 and PD-L1 expressions	Biomarker
+29615063_30949	738	742	PD-1	Gene-protein
+29615063_30949	747	752	PD-L1	Gene-protein
+29615063_30949	812	842	low PD-1 and PD-L1 expressions	Biomarker
+29615063_30949	816	820	PD-1	Gene-protein
+29615063_30949	825	830	PD-L1	Gene-protein
+29615063_30949	846	850	TNBC	Disease
+29615063_30949	924	944	low PD-L1 expression	Biomarker
+29615063_30949	928	933	PD-L1	Gene-protein
+29615063_30949	1010	1054	immune escape mediated by immune checkpoints	Biomarker
+29615063_30949	1103	1107	TNBC	Disease
+29615063_30949	1137	1140	NAC	Drug-class
+29615063_30949	1172	1192	low PD-L1 expression	Biomarker
+29615063_30949	1176	1181	PD-L1	Gene-protein
+29615063_30949	1212	1224	chemotherapy	Drug-class
+29615063_30949	1342	1346	TNBC	Disease
+29615063_30949	1353	1356	NAC	Drug-class
+29615063_30949	1423	1430	HER2⁺BC	Disease	DOID:0060079
+29615063_30949	1455	1459	PD-1	Gene-protein
+29615063_30949	1455	1481	PD-1 and PD-L1 expression,	Biomarker
+29615063_30949	1464	1469	PD-L1	Gene-protein
+

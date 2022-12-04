@@ -1,0 +1,72 @@
+T0	Disease 74 81	cancers
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 146 151	tumor
+#2	AnnotatorNotes T1	DOID:162
+T10	Disease 486 494	lymphoma
+#3	AnnotatorNotes T10	DOID:0060058
+T11	Drug 576 586	disulfiram
+T12	Drug 588 590	DS
+T14	Chemical 599 601	Cu
+T15	Chemical 633 656	reactive oxygen species
+T17	Disease 859 867	lymphoma
+T18	Disease 922 942	mantle cell lymphoma
+#11	AnnotatorNotes T18	DOID:0050746
+T2	Disease 197 208	lung cancer
+#13	AnnotatorNotes T2	DOID:1324
+T20	Drug 1072 1082	bortezomib
+T21	Drug 1156 1166	bortezomib
+T22	Drug 1336 1346	bortezomib
+T23	Disease 1361 1381	mantle cell lymphoma
+T24	Drug-Class 1470 1482	chemotherapy
+T25	Disease 1509 1517	lymphoma
+T3	Disease 217 237	pancreatic carcinoma
+#20	AnnotatorNotes T3	DOID:4905
+T4	Disease 251 264	breast cancer
+#21	AnnotatorNotes T4	DOID:1612
+T6	Disease 307 322	prostate cancer
+#23	AnnotatorNotes T6	DOID:10283
+T7	Disease 331 348	ovarian carcinoma
+#24	AnnotatorNotes T7	DOID:4001
+T8	Disease 365 380	cervical cancer
+#25	AnnotatorNotes T8	DOID:4362
+T9	Disease 405 431	hematopoietic malignancies
+#26	AnnotatorNotes T9	DOID:2531
+T26	Gene-Protein 83 87	Nrf2
+#4	AnnotatorNotes T26	HGNC:7782
+T27	Disease 278 298	head and neck cancer
+#5	AnnotatorNotes T27	DOID:11934
+T28	Gene-Protein 467 471	Nrf2
+T29	Gene-Protein 667 671	Nrf2
+T30	Gene-Protein 818 822	Nrf2
+#6	AnnotatorNotes T11	CHEMBL964
+T5	Gene-Protein 952 956	Nrf2
+#7	AnnotatorNotes T12	CHEMBL964
+T31	Drug 596 598	DS
+T32	Gene-Protein 1121 1125	Nrf2
+T33	Gene-Protein 1297 1301	Nrf2
+T34	Gene-Protein 1431 1435	Nrf2
+T13	Drug 976 986	bortezomib
+#8	AnnotatorNotes T13		CHEMBL325041
+T19	CellLine 1009 1013	Jeko
+T35	CellLine 1018 1022	SP53
+T36	CellLine 1050 1054	Mino
+T37	CellLine 1059 1064	Rec-1
+T38	Drug-Class 113 125	chemotherapy
+T39	Biomarker 1412 1446	elevated Keap1 and Nrf2 expression
+T40	Gene-Protein 1421 1426	Keap1
+#10	AnnotatorNotes T40	HGNC:23177
+T41	Biomarker 467 482	Nrf2 expression
+T42	Drug 804 833	inhibition of Nrf2 expression
+#12	AnnotatorNotes T42	not found
+R1	Association Arg1:T41 Arg2:T10	
+T43	Collection 197 380	lung cancer ( 27 ), pancreatic carcinoma ( 23 , 28 ), breast cancer ( 29 , 30 ), head and neck cancer ( 31 ), prostate cancer ( 32 ), ovarian carcinoma ( 33 , 34 ) and cervical cancer
+T44	Biomarker 83 87	Nrf2
+R2	Mediated-Non-Response Arg1:T38 Arg2:T43	
+R3	Mediator Arg1:T38 Arg2:T44	
+R4	Response Arg1:T42 Arg2:T17	
+T45	Biomarker 1121 1152	Nrf2 expression was upregulated
+T46	Biomarker 1288 1312	elevated Nrf2 expression
+R5	Mediated-Non-Response Arg1:T22 Arg2:T23	
+R7	Mediator Arg1:T22 Arg2:T46	
+T47	CellLine 545 559	Raji cell line
+#9	AnnotatorNotes T44	C495635

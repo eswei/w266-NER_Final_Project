@@ -1,0 +1,47 @@
+T0	RNA-Noncoding 65 74	LINC00941
+T1	RNA-Noncoding 82 91	LINC00941
+T11	Disease 755 774	lung adenocarcinoma
+#3	AnnotatorNotes T11	DOID:3910
+T13	RNA-Noncoding 847 856	LINC00941
+T14	Disease 945 969	hepatocellular carcinoma
+#5	AnnotatorNotes T14	DOID:684
+T16	RNA-Noncoding 990 999	LINC00941
+T17	RNA-Noncoding 1115 1124	LINC00941
+T19	Disease 1287 1299	colon cancer
+#8	AnnotatorNotes T19	DOID:219
+T2	RNA-Noncoding 143 152	LINC00941
+T20	RNA-Noncoding 1369 1378	LINC00941
+T21	Disease 1398 1403	tumor
+T22	Disease 1446 1448	GC
+T23	RNA-Noncoding 1485 1494	LINC00941
+T3	RNA-Noncoding 269 278	LINC00941
+T4	RNA-Noncoding 399 408	LINC00941
+T5	Disease 555 560	tumor
+#16	AnnotatorNotes T5	DOID:162
+T6	RNA-Noncoding 601 610	LINC00941
+T8	Disease 657 659	GC
+T9	RNA-Noncoding 661 670	LINC00941
+#1	AnnotatorNotes T0	HGNC:48635
+T7	Biomarker 1369 1394	LINC00941 is up-regulated
+T10	Disease 78 80	GC
+#2	AnnotatorNotes T10	DOID:10534
+T12	Disease 1365 1367	GC
+T15	Disease 187 189	GC
+T18	Biomarker 601 610	LINC00941
+R1	Association Arg1:T7 Arg2:T12	
+R2	Association Arg1:T7 Arg2:T21	
+R3	Association Arg1:T18 Arg2:T8	
+T24	GeneFamily 892 896	PI3K
+#4	AnnotatorNotes T24	family:831
+T25	GeneFamily 897 900	AKT
+#6	AnnotatorNotes T25	family:1900
+T26	Biomarker 971 999	high expression of LINC00941
+R4	Prognostic-Poor Arg1:T26 Arg2:T14	
+T27	Biomarker 828 856	high expression of LINC00941
+R5	Prognostic-Poor Arg1:T27 Arg2:T11	
+T28	CellLine 1174 1178	A549
+T29	Gene-Protein 1157 1163	TGF-β1
+#7	AnnotatorNotes T29	HGNC:11766
+T30	Drug-Class 1311 1333	chemotherapeutic drugs
+T31	RNA-Noncoding 740 750	lncRNA-MUF
+#9	AnnotatorNotes T31	HGNC:48635

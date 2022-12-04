@@ -1,0 +1,65 @@
+T0	Biomarker 122 152	chronic low-grade inflammation
+#1	AnnotatorNotes T0	not found
+T11	Disease 865 868	HCC
+T12	Disease 1020 1023	HCC
+T13	Drug 1049 1058	Sorafenib
+T15	Disease 1167 1170	HCC
+T17	Disease 1250 1279	inflammatory hepatic adenomas
+#6	AnnotatorNotes T17	not found
+T19	Disease 1419 1422	HCC
+T2	Disease 431 437	cancer
+#8	AnnotatorNotes T2	DOID:162
+T21	Disease 1535 1538	HCC
+T23	Disease 1663 1666	HCC
+T3	Disease 455 458	HCC
+T5	Disease 513 516	HCC
+T6	Biomarker 634 655	systemic inflammation
+T8	Disease 683 688	tumor
+#14	AnnotatorNotes T8	DOID:162
+T9	Disease 736 739	HCC
+T1	Disease 157 171	carcinogenesis
+#2	AnnotatorNotes T1	DOID:162
+R1	Association Arg1:T0 Arg2:T1	
+T4	Gene-Protein 195 198	CRP
+#3	AnnotatorNotes T4	HGNC:2367
+T7	GeneFamily 270 296	pro-inflammatory cytokines
+#4	AnnotatorNotes T7	not found
+T10	Gene-Protein 308 326	interleukin (IL) 6
+#5	AnnotatorNotes T10	HGNC:6018
+#7	AnnotatorNotes T3	DOID:684
+T14	Collection 431 458	cancer, which including HCC
+T16	Biomarker 180 198	High sensitive CRP
+R2	Prognostic-Poor Arg1:T16 Arg2:T14	
+T18	Biomarker 482 509	hsCRP was found to elevated
+T20	Gene-Protein 482 487	hsCRP
+#9	AnnotatorNotes T20	HGNC:2367
+R3	Association Arg1:T18 Arg2:T5	
+R4	Association Arg1:T6 Arg2:T8	
+R5	Prognostic-Poor Arg1:T6 Arg2:T9	
+T22	Gene-Protein 788 793	hsCRP
+T24	Biomarker 767 793	moderate increase of hsCRP
+R6	Association Arg1:T24 Arg2:T11	
+T25	Biomarker 970 979	CRP level
+#10	AnnotatorNotes T25	D002097
+T26	Gene-Protein 970 973	CRP
+#11	AnnotatorNotes T26	HGNC:2367
+R7	Association Arg1:T25 Arg2:T12	
+#12	AnnotatorNotes T13	CHEMBL1336
+T27	Biomarker 1091 1124	increased serum CRP concentration
+T28	Gene-Protein 1107 1110	CRP
+R8	Prognostic-Poor Arg1:T27 Arg2:T15	
+T29	Biomarker 1185 1218	increased immunoreactivity of CRP
+T30	Gene-Protein 1215 1218	CRP
+R9	Association Arg1:T29 Arg2:T17	
+T31	Gene-Protein 1365 1370	hsCRP
+T32	Gene-Protein 1375 1382	albumin
+#13	AnnotatorNotes T32	HGNC:399
+T33	Biomarker 1356 1382	ratio of hsCRP and albumin
+R10	Association Arg1:T33 Arg2:T19	
+T34	Biomarker 1499 1531	decreased albumin concentrations
+T35	Gene-Protein 1509 1516	albumin
+R11	Association Arg1:T34 Arg2:T21	
+T36	Biomarker 1618 1632	elevated hsCRP
+T37	Gene-Protein 1627 1632	hsCRP
+T38	Biomarker 1637 1659	lowered albumin levels
+T39	Gene-Protein 1645 1652	albumin

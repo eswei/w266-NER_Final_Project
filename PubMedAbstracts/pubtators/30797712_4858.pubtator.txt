@@ -1,0 +1,46 @@
+30797712_4858|t|RSS_IDENT_p_30797712_b_1_2_4
+30797712_4858|a| MicroRNAs (miRNAs, 18–24 nucleotides) are small non-coding RNAs that suppress the expression of targeted genes via binding to the 3-untranslated regions (3′UTRs) and regulate the progression of cancer [ 4 ]. Previously, we reported that as members of the miR-106b ∼ 25 cluster, miR25and miR93 were downregulated in colon cancer and the low expression of miR93/25 promoted the invasiveness and metastasis of colon cancer cells [ 5 ].Similarly, miR-106b-5p, also as the member of miR-106b ∼ 25 cluster, is overexpressed in various chemo/radioresistant cancers, including clear cell renal cell carcinoma (ccRCC) and CRC. Furthermore, miR-106b-5p overexpression induces cell radioresistance via the PTEN/PI3K/AKT pathways and p21 in colorectal cancer [ 6 ]. Moreover in ccRCC, characterized by exceptionally high resistance to radiation and chemotherapy, miR-106b-5p promotes renal cell carcinoma aggressiveness and stem-cell-like phenotype by activating Wnt/β-catenin signaling [ 7 ]. In addition, miR-106b-5p was found to be upregulated in ccRCC patients, and by inhibiting the function of the TRIM8 protein, the tumor suppressor activity of p53 is prevented, thereby enhancing the N-Myc pathway [ 8 ]. Thus, the miR-106b-5p might exert a dual role as a tumor suppressor or as an oncogene, thereby requiring further exploration of its roles in CRC.
+30797712_4858	30	39	MicroRNAs	Rna-noncoding	family:476
+30797712_4858	30	39	MicroRNAs	Biomarker	D035683
+30797712_4858	224	230	cancer	Disease	DOID:162
+30797712_4858	270	341	members of the miR-106b ∼ 25 cluster, miR25and miR93 were downregulated	Biomarker
+30797712_4858	285	293	miR-106b	Rna-noncoding	HGNC:31495
+30797712_4858	317	322	miR93	Rna-noncoding	HGNC:31645
+30797712_4858	345	357	colon cancer	Disease	DOID:219
+30797712_4858	366	392	low expression of miR93/25	Biomarker
+30797712_4858	384	392	miR93/25	Rna-noncoding	HGNC:31645, HGNC:31609
+30797712_4858	437	449	colon cancer	Disease
+30797712_4858	473	484	miR-106b-5p	Rna-noncoding	HGNC:31495
+30797712_4858	473	547	miR-106b-5p, also as the member of miR-106b ∼ 25 cluster, is overexpressed	Biomarker
+30797712_4858	508	516	miR-106b	Rna-noncoding
+30797712_4858	559	587	chemo/radioresistant cancers	Disease	not found
+30797712_4858	559	646	chemo/radioresistant cancers, including clear cell renal cell carcinoma (ccRCC) and CRC	Collection
+30797712_4858	599	630	clear cell renal cell carcinoma	Disease	DOID:4467
+30797712_4858	632	637	ccRCC	Disease	DOID:4467
+30797712_4858	643	646	CRC	Disease	DOID:9256
+30797712_4858	661	672	miR-106b-5p	Rna-noncoding
+30797712_4858	661	687	miR-106b-5p overexpression	Biomarker
+30797712_4858	725	729	PTEN	Genefamily	family:902
+30797712_4858	730	734	PI3K	Genefamily	family:831
+30797712_4858	735	738	AKT	Genefamily	family:1900
+30797712_4858	752	755	p21	Gene-protein	HGNC:1784
+30797712_4858	759	776	colorectal cancer	Disease	DOID:9256
+30797712_4858	796	801	ccRCC	Disease
+30797712_4858	853	862	radiation	Drug-class
+30797712_4858	853	879	radiation and chemotherapy	Collection
+30797712_4858	867	879	chemotherapy	Drug-class
+30797712_4858	881	892	miR-106b-5p	Rna-noncoding
+30797712_4858	881	892	miR-106b-5p	Biomarker	C542541
+30797712_4858	902	922	renal cell carcinoma	Disease	DOID:4450
+30797712_4858	981	984	Wnt	Genefamily	family:360
+30797712_4858	985	994	β-catenin	Genefamily	family:1542
+30797712_4858	1025	1036	miR-106b-5p	Rna-noncoding
+30797712_4858	1025	1064	miR-106b-5p was found to be upregulated	Biomarker
+30797712_4858	1068	1073	ccRCC	Disease
+30797712_4858	1122	1127	TRIM8	Gene-protein	HGNC:15579
+30797712_4858	1170	1173	p53	Gene-protein	HGNC:11998
+30797712_4858	1210	1211	N	Chemical
+30797712_4858	1210	1215	N-Myc	Gene-protein	HGNC:7559
+30797712_4858	1241	1252	miR-106b-5p	Gene-protein
+30797712_4858	1372	1375	CRC	Disease
+

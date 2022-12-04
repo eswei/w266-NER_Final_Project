@@ -1,0 +1,52 @@
+T10	Chemical 301 310	bilirubin
+T11	Disease 380 383	CAD
+T12	Chemical 411 414	UDP
+T13	Chemical 501 510	bilirubin
+T14	Chemical 630 639	bilirubin
+T15	Chemical 680 689	bilirubin
+T16	Disease 701 704	CAD
+T18	Chemical 769 778	bilirubin
+T19	Disease 831 834	CAD
+T2	Chemical 79 88	bilirubin
+T21	Chemical 941 950	bilirubin
+T22	Disease 962 965	CAD
+T24	Chemical 1035 1044	bilirubin
+T25	Disease 1056 1059	CAD
+T27	Chemical 1077 1100	reactive oxygen species
+T3	Disease 123 126	CAD
+T30	Disease 1164 1179	atherosclerosis
+#17	AnnotatorNotes T30	DOID:1936
+T32	Chemical 1185 1194	bilirubin
+T33	Disease 1219 1222	CAD
+T34	Disease 1245 1248	CAD
+T4	Chemical 160 169	bilirubin
+T6	Disease 206 209	CAD
+T7	Disease 223 226	CAD
+T8	Disease 275 278	CAD
+T1	Biomarker 73 105	serum bilirubin levels to be low
+R1	Association Arg1:T1 Arg2:T3	
+#1	AnnotatorNotes T3	DOID:3393
+T5	Biomarker 160 188	bilirubin levels to be lower
+R2	Association Arg1:T5 Arg2:T6	
+T9	Biomarker 297 317	Low bilirubin levels
+R3	Association Arg1:T9 Arg2:T11	
+T17	Gene-Protein 444 450	UGT1A1
+#2	AnnotatorNotes T17	HGNC:12530
+T20	Gene-Protein 411 442	UDP-glucuronosyltransferase 1A1
+#3	AnnotatorNotes T20	HGNC:12530
+T23	Gene-Protein 598 604	UGT1A1
+T26	Biomarker 671 696	elevated bilirubin levels
+T28	Biomarker 748 785	genetically elevated bilirubin levels
+T29	Biomarker 920 957	genetically elevated bilirubin levels
+T31	Biomarker 1026 1051	elevated bilirubin levels
+T35	Biomarker 1067 1100	increased reactive oxygen species
+T36	Chemical 1102 1105	ROS
+T37	Biomarker 1111 1127	oxidative stress
+#4	AnnotatorNotes T37	D018384
+T38	Collection 1067 1127	increased reactive oxygen species (ROS) and oxidative stress
+R4	Association Arg1:T38 Arg2:T30	
+T39	Biomarker 1181 1201	low bilirubin levels
+T40	Disease 1282 1298	oxidative stress
+T41	Biomarker 623 646	plasma bilirubin levels
+T42	Biomarker 598 618	UGT1A1 gene genotype
+#5	AnnotatorNotes T40	D018384

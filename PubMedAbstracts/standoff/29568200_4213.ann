@@ -1,0 +1,40 @@
+T0	Chemical 66 75	vitamin D
+T1	Biomarker 66 86	vitamin D deficiency
+#2	AnnotatorNotes T1	D014808
+T10	Chemical 548 557	vitamin D
+T11	Disease 677 679	CD
+#4	AnnotatorNotes T11	DOID:8778
+T12	Chemical 681 690	vitamin D
+T14	Chemical 851 866	1, 25-vitamin D
+T15	Chemical 962 971	vitamin D
+T16	Disease 1046 1048	CD
+T17	Disease 1147 1149	CD
+T18	Chemical 1220 1229	vitamin D
+T19	Disease 1306 1308	CD
+T2	Chemical 156 165	Vitamin D
+T20	Disease 1426 1428	CD
+T3	Biomarker 156 198	Vitamin D deficiency has a high prevalence
+T4	Disease 202 205	IBD
+T6	Chemical 374 383	vitamin D
+T7	Chemical 398 407	Vitamin D
+T8	Chemical 468 475	calcium
+T9	Chemical 480 489	phosphate
+T21	Disease 140 143	IBD
+#1	AnnotatorNotes T21	DOID:0050589
+R1	Association Arg1:T1 Arg2:T21	
+R2	Association Arg1:T3 Arg2:T4	
+T22	Drug-Class 290 329	tumor necrosis factor (TNF)-α inhibitor
+T5	Gene-Protein 290 319	tumor necrosis factor (TNF)-α
+#3	AnnotatorNotes T5	HGNC:11892
+T13	Gene-Protein 722 726	NOD2
+#5	AnnotatorNotes T13	HGNC:5331
+T23	Gene-Protein 992 996	NOD2
+T24	Biomarker 992 1006	NOD2 mutations
+T25	Biomarker 962 971	vitamin D
+#6	AnnotatorNotes T25	 D014807
+T27	Gene-Protein 1195 1199	NOD2
+T28	Variant 1200 1208	mutation
+R4	Variant-Of Arg1:T27 Arg2:T28	
+T29	Variant 1313 1322	mutations
+T30	Gene-Protein 1330 1334	NOD2
+R5	Variant-Of Arg1:T30 Arg2:T29	

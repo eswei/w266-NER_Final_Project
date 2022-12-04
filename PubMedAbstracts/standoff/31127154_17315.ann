@@ -1,0 +1,71 @@
+T0	Disease 78 81	DLB
+T1	Disease 206 223	synucleinopathies
+#2	AnnotatorNotes T1	DOID:0050890
+T10	Disease 864 867	DLB
+T11	Disease 983 986	DLB
+T13	Disease 1027 1033	T+ DLB
+T14	Disease 1109 1111	AD
+T15	Disease 1116 1119	DLB
+T16	Disease 1181 1184	DLB
+T17	Disease 1280 1282	AD
+T18	Disease 1380 1383	DLB
+T19	Disease 1476 1478	AD
+T2	Disease 391 393	AD
+#13	AnnotatorNotes T2	DOID:10652
+T3	Disease 403 425	FTLD-related syndromes
+#14	AnnotatorNotes T3	not found
+T7	Disease 752 755	DLB
+T8	Disease 773 775	AD
+T9	Disease 820 822	AD
+T20	Gene-Protein 58 64	YKL-40
+#1	AnnotatorNotes T20	HGNC:1932
+T21	Gene-Protein 381 387	YKL-40
+T22	Gene-Protein 577 583	YKL-40
+T23	Gene-Protein 678 684	YKL-40
+T24	Gene-Protein 915 921	YKL-40
+T25	Gene-Protein 1094 1100	YKL-40
+T26	Gene-Protein 1003 1009	YKL-40
+#3	AnnotatorNotes T0	DOID:12217
+T27	Disease 121 123	PD
+#4	AnnotatorNotes T27	DOID:14330
+T28	Disease 128 131	DLB
+T29	Collection 391 425	AD and also FTLD-related syndromes
+T30	Biomarker 365 387	increase of CSF YKL-40
+R1	Association Arg1:T30 Arg2:T29	
+T31	GeneFamily 508 517	synuclein
+#5	AnnotatorNotes T31	not found
+T32	Gene-Protein 523 526	tau
+#6	AnnotatorNotes T32	HGNC:6893
+T33	Disease 508 562	synuclein- and tau-related neurodegenerative dementias
+T34	Biomarker 577 583	YKL-40
+R2	Association Arg1:T34 Arg2:T33	
+T35	Disease 688 720	DLB patients with concomitant AD
+T36	Biomarker 666 684	increase in YKL-40
+T4	Gene-Protein 1433 1436	tau
+T5	Gene-Protein 1440 1443	tau
+#7	AnnotatorNotes T34	C084533
+T6	Gene-Protein 969 972	tau
+T12	Gene-Protein 959 962	tau
+T37	Gene-Protein 1132 1143	α-synuclein
+T38	Gene-Protein 288 299	α-synuclein
+#8	AnnotatorNotes T38	HGNC:11138
+T39	Biomarker 34 64	lack of increase in CSF YKL-40
+R3	Association Arg1:T39 Arg2:T1	
+#9	AnnotatorNotes T33	not found
+R4	Association Arg1:T36 Arg2:T35	
+A1	Conjunction T35
+#10	AnnotatorNotes T35	DOID:12217, DOID:10652
+T40	Biomarker 957 979	t-tau and p-tau levels
+T41	Biomarker 915 928	YKL-40 levels
+T42	Biomarker 1003 1023	YKL-40 was increased
+R5	Association Arg1:T42 Arg2:T13	
+T43	Biomarker 1132 1177	α-synuclein inclusions observed in astrocytes
+R6	Association Arg1:T43 Arg2:T16	
+T44	Disease 1287 1291	FTLD
+#11	AnnotatorNotes T44	D057174
+T45	Biomarker 1090 1100	CSF YKL-40
+#12	AnnotatorNotes T45	C084533
+T46	Collection 1109 1119	AD and DLB
+R7	Association Arg1:T45 Arg2:T46	
+T48	Disease 1260 1271	tauopathies
+#16	AnnotatorNotes T48	DOID:680

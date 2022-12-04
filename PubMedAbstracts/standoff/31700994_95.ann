@@ -1,0 +1,93 @@
+T1	Disease 28 41	Breast cancer
+#1	AnnotatorNotes T1	DOID:1612
+T10	Collection 489 524	Arg658*, p.Gln1701*, and p.Arg1931*
+T11	Variant 498 508	p.Gln1701*
+T12	Variant 514 524	p.Arg1931*
+T13	Disease 546 559	breast cancer
+T15	Drug 826 839	diepoxybutane
+T16	Drug 843 851	olaparib
+T17	Variant 876 885	p.Arg658*
+T2	Biomarker 104 188	Germline pathogenic variants in DNA repair genes BRCA1, BRCA2, PALB2, ATM, and CHEK2
+T20	Disease 924 943	ER-negative disease
+#7	AnnotatorNotes T20	DOID:0060076
+T21	Disease 948 952	TNBC
+T22	Variant 1099 1108	p.Arg658*
+T26	Disease 1166 1191	ER-negative breast cancer
+#11	AnnotatorNotes T26	DOID:0060076
+T27	Variant 1355 1364	p.Arg658*
+T3	Disease 209 222	breast cancer
+#12	AnnotatorNotes T3	DOID:1612
+T30	Variant 1470 1479	p.Arg658*
+T31	Variant 1484 1494	p.Arg1931*
+T32	Disease 1516 1536	ER-negative and TNBC
+#13	AnnotatorNotes T32	DOID:0060076,DOID:0060081
+T35	Disease 1614 1627	breast cancer
+T36	Disease 1764 1787	FANCM-associated tumors
+#16	AnnotatorNotes T36	not found
+T4	Disease 296 309	breast cancer
+T6	Disease 360 405	ER-negative and triple-negative breast cancer
+#18	AnnotatorNotes T6	DOID:0060076,DOID:0060081
+T8	Disease 407 411	TNBC
+T9	Variant 487 496	p.Arg658*
+T37	Biomarker 82 102	genetic risk factors
+R1	Association Arg1:T37 Arg2:T1	
+T38	Gene-Protein 153 158	BRCA1
+T39	Gene-Protein 160 165	BRCA2
+T40	Gene-Protein 167 172	PALB2
+T41	Gene-Protein 174 177	ATM
+T42	Gene-Protein 183 188	CHEK2
+R2	Risk-Factor Arg1:T2 Arg2:T3	
+T43	Gene-Protein 229 234	FANCM
+T7	Gene-Protein 645 650	BRCA1
+T5	Gene-Protein 481 486	FANCM
+R3	Variant-Of Arg1:T5 Arg2:T10	
+#2	AnnotatorNotes T8	DOID:0060081
+#3	AnnotatorNotes T9	p.Arg658Ter
+T14	Gene-Protein 360 362	ER
+#4	AnnotatorNotes T11	p.Gln1701Ter
+T45	Gene-Protein 654 659	BRCA2
+#5	AnnotatorNotes T12	p.Arg1931Ter
+T46	Gene-Protein 763 768	FANCM
+#6	AnnotatorNotes T15	C007366
+#8	AnnotatorNotes T16	CHEMBL521686
+T18	Gene-Protein 870 875	FANCM
+R4	Variant-Of Arg1:T18 Arg2:T17	
+T19	Collection 924 952	ER-negative disease and TNBC
+T47	Gene-Protein 1093 1098	FANCM
+T24	Variant 1135 1145	p.Arg1931*
+T25	Gene-Protein 1129 1134	FANCM
+R5	Variant-Of Arg1:T47 Arg2:T22	
+R6	Variant-Of Arg1:T25 Arg2:T24	
+T23	Collection 1093 1145	FANCM:p.Arg658* and found that also FANCM:p.Arg1931*
+R7	Risk-Factor Arg1:T23 Arg2:T26	
+T28	Gene-Protein 1349 1354	FANCM
+R8	Variant-Of Arg1:T28 Arg2:T27	
+T29	Gene-Protein 1443 1448	FANCM
+T34	Collection 1470 1494	p.Arg658* and p.Arg1931*
+R9	Variant-Of Arg1:T29 Arg2:T34	
+T48	Collection 1516 1536	ER-negative and TNBC
+R10	Risk-Factor Arg1:T34 Arg2:T48	
+T33	Drug 1695 1703	olaparib
+R11	Response Arg1:T33 Arg2:T36	
+R12	Risk-Factor Arg1:T17 Arg2:T19	
+#9	AnnotatorNotes T14	HGNC:3467
+T49	Gene-Protein 924 926	ER
+T50	Gene-Protein 1516 1518	ER
+T51	Gene-Protein 1764 1769	FANCM
+T52	Gene-Protein 1166 1168	ER
+A1	Loss-of-funtion T27
+A2	Loss-of-funtion T30
+A3	Loss-of-funtion T31
+#10	AnnotatorNotes T38	HGNC:1100
+#14	AnnotatorNotes T39	HGNC:1101
+#15	AnnotatorNotes T40	HGNC:26144
+#17	AnnotatorNotes T41	HGNC:795
+#19	AnnotatorNotes T42	HGNC:16627
+#20	AnnotatorNotes T43	HGNC:23168
+T44	Biomarker 229 234	FANCM
+#21	AnnotatorNotes T44	C518295
+T53	Collection 296 405	breast cancer predisposition gene, with greater effects for the ER-negative and triple-negative breast cancer
+R13	Risk-Factor Arg1:T44 Arg2:T53	
+A4	Loss-of-funtion T9
+A5	Loss-of-funtion T11
+A6	Loss-of-funtion T12

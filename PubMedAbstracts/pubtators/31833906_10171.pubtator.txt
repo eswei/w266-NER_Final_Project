@@ -1,0 +1,115 @@
+31833906_10171|t|RSS_IDENT_s_31833906_b_1_3_3
+31833906_10171|a| Pathological and molecular features of diffuse gliomas with IDH2 mutations Among the 12 IDH2 mutant gliomas, initial histological diagnosis was oligodendroglioma (grade II) in eight patients, anaplastic oligodendroglioma (grade III) in three patients, and anaplastic astrocytoma in one patient. Histologically low-grade tumors (grade II) were more frequent than high-grade ones (grade III) among the IDH2-mutant gliomas. Ten patients harbored the IDH2 R172K (c.515G>A) mutation, one patient harbored the IDH2 R172W (c.514A>T) mutation, and one patient harbored the IDH2 R172S (c.516G>T) mutation [Figure 1]. The IDH2 mutations were frequently associated with TERT promoter mutation (9/12, four patients with C228T mutation and five patients with C250T mutation) and 1p/19q co-deletion (11/12), and were negatively associated with loss of ATRX expression (2/12) and p53 overexpression (2/12). Only in one patient, the tumor showed the morphology of anaplastic astrocytoma, harbored IDH2 R172S mutation and also revealed a loss of ATRX expression and p53 overexpression. This patient was diagnosed with anaplastic astrocytoma, IDH-mutant, WHO grade III. None of the IDH2-mutant gliomas was positive for the H3K27M mutation. Among the ten patients that were available for detecting MGMT promoter methylation, nine patients were found to harbor MGMT promoter methylation [Figure 2]. Figure 1 Representative clinico-neuropathological images of patients with lower-grade gliomas. (A) A patient (No. 9) with IDH2 mutant glioma showed a high-signal space-occupying lesion was on right frontal lobe on axial T2-weighted image of MRI. (B) The oligodendroglioma features of “fried eggs” nucleus and “chicken claw” vessels were observed, and mitotic figures were common (hematoxylin and eosin staining, original magnification ×400). (C–F) Immunohistochemical staining, original magnification ×400; tumor cells were immunopositive for GFAP (C), negative for IDH1 R132H (D) and p53 (E), and immunopositive for ATRX (F). (G and H) The tumor cells were harboring 1p/19q co-deletion detected by FISH (G: 1p loss of heterozygosity, H: 19q loss of heterozygosity; original magnification ×1000). (I and J) Sanger sequencing showed tumors were IDH1 wild-type (I: arrow, IDH1 wild-type) and IDH2 mutation (J: arrow, IDH2 R172K, AGG>AAG). (K) A patient (No. 11) showed IDH2 R172W mutation (Sanger sequencing, arrow, IDH2 R172W, AGG>TGG). (L) A patient (No. 12) showed IDH2 R172S mutation (Sanger sequencing, arrow, IDH2 R172S, AGG>AGT). ATRX: Alpha-thalassemia X-linked mental retardation; FISH: Fluorescence in situ hybridization; GFAP: Glial fibrillary acidic protein; IDH: Isocitrate dehydrogenase. Figure 2 Clinical and molecular characteristics of 12 lower-grade gliomas with IDH2 mutation. ATRX: Alpha-thalassemia X-linked mental retardation; H3K27M: Histone H3K27M; IDH: Isocitrate dehydrogenase; MGMT: O⁶-methylguanine-DNA-methyltransferase; TERT: Telomerase reverse transcriptase.
+31833906_10171	69	104	diffuse gliomas with IDH2 mutations	Disease	not found
+31833906_10171	90	94	IDH2	Gene-protein	HGNC:5383
+31833906_10171	118	122	IDH2	Gene-protein
+31833906_10171	118	137	IDH2 mutant gliomas	Disease	not found
+31833906_10171	174	191	oligodendroglioma	Disease	DOID:3181
+31833906_10171	222	250	anaplastic oligodendroglioma	Disease	DOID:7154
+31833906_10171	286	308	anaplastic astrocytoma	Disease	DOID:3078
+31833906_10171	340	367	low-grade tumors (grade II)	Biomarker	not found
+31833906_10171	392	419	high-grade ones (grade III)	Biomarker
+31833906_10171	430	434	IDH2	Gene-protein
+31833906_10171	430	449	IDH2-mutant gliomas	Disease
+31833906_10171	477	481	IDH2	Gene-protein
+31833906_10171	482	487	R172K	Variant	p.Arg172Lys
+31833906_10171	482	498	R172K (c.515G>A)	Collection
+31833906_10171	482	605	R172K (c.515G>A) mutation, one patient harbored the IDH2 R172W (c.514A>T) mutation, and one patient harbored the IDH2 R172S	Collection
+31833906_10171	489	497	c.515G>A	Variant
+31833906_10171	534	538	IDH2	Gene-protein
+31833906_10171	539	544	R172W	Variant	p.Arg172Trp
+31833906_10171	539	555	R172W (c.514A>T)	Collection
+31833906_10171	546	554	c.514A>T	Variant
+31833906_10171	595	599	IDH2	Gene-protein
+31833906_10171	600	605	R172S	Variant	p.Arg172Ser
+31833906_10171	600	616	R172S (c.516G>T)	Collection
+31833906_10171	607	615	c.516G>T	Variant
+31833906_10171	642	646	IDH2	Gene-protein
+31833906_10171	642	656	IDH2 mutations	Biomarker
+31833906_10171	689	693	TERT	Gene-protein	HGNC:11730
+31833906_10171	689	711	TERT promoter mutation	Biomarker
+31833906_10171	738	743	C228T	Variant
+31833906_10171	738	781	C228T mutation and five patients with C250T	Collection
+31833906_10171	776	781	C250T	Variant
+31833906_10171	796	822	1p/19q co-deletion (11/12)	Biomarker
+31833906_10171	860	883	loss of ATRX expression	Biomarker
+31833906_10171	868	872	ATRX	Gene-protein	HGNC:886
+31833906_10171	895	898	p53	Gene-protein	HGNC:11998
+31833906_10171	895	913	p53 overexpression	Biomarker
+31833906_10171	947	952	tumor	Disease	DOID:162
+31833906_10171	978	1000	anaplastic astrocytoma	Disease
+31833906_10171	1011	1015	IDH2	Gene-protein
+31833906_10171	1016	1021	R172S	Variant
+31833906_10171	1051	1074	loss of ATRX expression	Biomarker
+31833906_10171	1051	1097	loss of ATRX expression and p53 overexpression	Collection
+31833906_10171	1059	1063	ATRX	Gene-protein
+31833906_10171	1079	1082	p53	Gene-protein
+31833906_10171	1079	1097	p53 overexpression	Biomarker
+31833906_10171	1131	1153	anaplastic astrocytoma	Disease
+31833906_10171	1155	1158	IDH	Genefamily	family:1926
+31833906_10171	1155	1165	IDH-mutant	Biomarker
+31833906_10171	1167	1180	WHO grade III	Biomarker
+31833906_10171	1194	1198	IDH2	Gene-protein
+31833906_10171	1194	1213	IDH2-mutant gliomas	Disease
+31833906_10171	1235	1250	H3K27M mutation	Biomarker
+31833906_10171	1309	1313	MGMT	Gene-protein	HGNC:7059
+31833906_10171	1371	1375	MGMT	Gene-protein
+31833906_10171	1483	1502	lower-grade gliomas	Disease	DOID:0060108
+31833906_10171	1531	1535	IDH2	Gene-protein
+31833906_10171	1531	1549	IDH2 mutant glioma	Disease
+31833906_10171	1663	1680	oligodendroglioma	Disease
+31833906_10171	1693	1713	“fried eggs” nucleus	Biomarker
+31833906_10171	1693	1740	“fried eggs” nucleus and “chicken claw” vessels	Collection
+31833906_10171	1718	1740	“chicken claw” vessels	Biomarker
+31833906_10171	1789	1800	hematoxylin	Chemical
+31833906_10171	1805	1810	eosin	Chemical
+31833906_10171	1916	1921	tumor	Disease
+31833906_10171	1933	1956	immunopositive for GFAP	Biomarker
+31833906_10171	1952	1956	GFAP	Gene-protein	HGNC:4235
+31833906_10171	1975	1979	IDH1	Gene-protein	HGNC:5382
+31833906_10171	1980	1985	R132H	Variant	p.Arg132His
+31833906_10171	1994	1997	p53	Gene-protein
+31833906_10171	2026	2030	ATRX	Gene-protein
+31833906_10171	2050	2055	tumor	Disease
+31833906_10171	2077	2094	1p/19q co-deletio	Biomarker
+31833906_10171	2241	2247	tumors	Disease
+31833906_10171	2253	2257	IDH1	Gene-protein
+31833906_10171	2279	2283	IDH1	Gene-protein
+31833906_10171	2299	2303	IDH2	Gene-protein
+31833906_10171	2324	2328	IDH2	Gene-protein
+31833906_10171	2329	2334	R172K	Variant
+31833906_10171	2329	2343	R172K, AGG>AAG	Collection
+31833906_10171	2336	2343	AGG>AAG	Variant
+31833906_10171	2376	2380	IDH2	Gene-protein
+31833906_10171	2381	2386	R172W	Variant
+31833906_10171	2423	2427	IDH2	Gene-protein
+31833906_10171	2428	2433	R172W	Variant
+31833906_10171	2428	2442	R172W, AGG>TGG	Collection
+31833906_10171	2435	2442	AGG>TGG	Variant
+31833906_10171	2475	2479	IDH2	Gene-protein
+31833906_10171	2480	2485	R172S	Variant
+31833906_10171	2522	2526	IDH2	Gene-protein
+31833906_10171	2527	2532	R172S	Variant
+31833906_10171	2527	2541	R172S, AGG>AGT	Collection
+31833906_10171	2534	2541	AGG>AGT	Variant
+31833906_10171	2544	2548	ATRX	Gene-protein
+31833906_10171	2550	2595	Alpha-thalassemia X-linked mental retardation	Gene-protein	HGNC:886
+31833906_10171	2639	2643	GFAP	Gene-protein
+31833906_10171	2645	2676	Glial fibrillary acidic protein	Gene-protein	HGNC:4235
+31833906_10171	2678	2681	IDH	Genefamily
+31833906_10171	2683	2693	Isocitrate	Chemical
+31833906_10171	2683	2707	Isocitrate dehydrogenase	Genefamily	family:1926
+31833906_10171	2763	2801	lower-grade gliomas with IDH2 mutation	Disease	not found
+31833906_10171	2788	2792	IDH2	Gene-protein
+31833906_10171	2803	2807	ATRX	Gene-protein
+31833906_10171	2809	2854	Alpha-thalassemia X-linked mental retardation	Gene-protein
+31833906_10171	2864	2871	Histone	Gene-protein	family:864
+31833906_10171	2880	2883	IDH	Genefamily
+31833906_10171	2885	2895	Isocitrate	Chemical
+31833906_10171	2885	2909	Isocitrate dehydrogenase	Genefamily
+31833906_10171	2911	2915	MGMT	Gene-protein	HGNC:7059
+31833906_10171	2917	2933	O⁶-methylguanine	Chemical
+31833906_10171	2917	2955	O⁶-methylguanine-DNA-methyltransferase	Gene-protein	HGNC:7059
+31833906_10171	2957	2961	TERT	Gene-protein	HGNC:11730
+31833906_10171	2963	2995	Telomerase reverse transcriptase	Gene-protein	HGNC:11730
+

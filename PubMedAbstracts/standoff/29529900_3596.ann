@@ -1,0 +1,50 @@
+T1	Gene-Protein 338 341	VDR
+T10	Disease 782 784	BC
+T11	Disease 833 835	BC
+T13	Disease 905 907	BC
+T15	Disease 1096 1098	BC
+T16	Disease 1207 1209	BC
+T18	Disease 1374 1376	BC
+T2	Disease 437 461	type 2 diabetes mellitus
+#8	AnnotatorNotes T2	DOID:9352
+T20	Disease 1451 1453	BC
+T21	Disease 1601 1603	BC
+T22	Disease 1720 1722	BC
+T3	Disease 463 478	prostate cancer
+#12	AnnotatorNotes T3	DOID:10283
+T4	Disease 484 486	BC
+#13	AnnotatorNotes T4	DOID:1612
+T7	Chemical 677 684	25(OH)D
+T8	Disease 702 704	BC
+T5	Gene-Protein 68 71	VDR
+#1	AnnotatorNotes T5	HGNC:12679
+T9	Biomarker 296 341	single nucleotide polymorphisms (SNPs) in VDR
+T12	Collection 437 486	type 2 diabetes mellitus, prostate cancer, and BC
+R1	Association Arg1:T9 Arg2:T12	
+T6	Biomarker 655 672	VDR Taq1 variants
+T14	Biomarker 709 736	Bsm1 and Cdx2 polymorphisms
+R2	Association Arg1:T14 Arg2:T10	
+T17	Drug 821 829	Fok1 SNP
+#2	AnnotatorNotes T17	not found
+R3	Protects-from Arg1:T17 Arg2:T11	
+T19	Biomarker 873 881	Bsm1 SNP
+T25	Biomarker 986 1026	Bsm1 “B” allele and “Bb” variants of VDR
+R4	Risk-Factor Arg1:T25 Arg2:T15	
+T26	Biomarker 1156 1193	VDR SNPs (Fok1, Bsm1, Taq1, and Apa1)
+T31	Biomarker 1318 1333	Bsm1 “b” allele
+T32	Gene-Protein 1292 1299	BRCA1/2
+#3	AnnotatorNotes T32	HGNC:1100, HGNC:1101
+R5	Risk-Factor Arg1:T31 Arg2:T18	
+T33	Biomarker 1411 1433	VDR Fok1 and Bsm1 SNPs
+T34	Biomarker 1548 1570	VDR Tru9I polymorphism
+T35	Biomarker 1687 1715	low penetrance VDR Tru9I SNP
+R6	Risk-Factor Arg1:T33 Arg2:T20	
+T40	Gene-Protein 1023 1026	VDR
+T41	Gene-Protein 655 658	VDR
+T42	Gene-Protein 1411 1414	VDR
+T43	Gene-Protein 1548 1551	VDR
+T44	Gene-Protein 1702 1705	VDR
+T45	Biomarker 677 684	25(OH)D
+T46	Collection 655 684	VDR Taq1 variants and 25(OH)D
+R7	Association Arg1:T46 Arg2:T8	
+#4	AnnotatorNotes T45	D002112

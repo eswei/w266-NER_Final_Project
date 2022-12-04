@@ -1,0 +1,52 @@
+30896868_25597|t|RSS_IDENT_p_30896868_b_1_4_5
+30896868_25597|a| Various studies have demonstrated that miRNAs regulate liver insulin sensitivity. A study reported that in the livers of ob/ob mice or mice with HFD-induced obesity, the expression levels of miR-103 and miR-107 were significantly increased ( 35 ). Furthermore, overexpression of miR-103 and miR-107 in the livers of normal mice induced impaired glucose homeostasis, hyperglycaemia and hyperinsulinaemia, whereas inhibiting the expression of miR-103 and miR-107 improved glucose homeostasis and insulin sensitivity. It has also been reported that caveolin-1, an important regulator of the insulin receptor, stabilised the insulin receptor in the cell membrane, and that overexpression of miR-103 and miR-107 inhibited caveolin-1 expression at the cell membrane, thereby inducing hepatic insulin resistance ( 35 ). Jordan et al ( 49 ) demonstrated that the levels of miR-143 expression were elevated in the livers of genetically altered or diet-induced models of insulin resistance. Overexpression of miR-143 was observed to result in glucose intolerance and insulin resistance in mice, whereas inhibition of miR-143 expression improved glucose tolerance and increased insulin sensitivity ( 43 ). MiR-215 is involved in the pathogenesis of various types of human malignant tumour ( 50 , 51 ); however, certain studies have reported the aberrant expression of miR-215 in fatty liver ( 36 , 37 ). The potential involvement of miR-215 in the development of T2D and fatty liver requires further investigation. 
+30896868_25597	91	98	insulin	Gene-protein	HGNC:6081
+30896868_25597	175	178	HFD	Drug	D059305
+30896868_25597	175	194	HFD-induced obesity	Disease	not found
+30896868_25597	200	269	expression levels of miR-103 and miR-107 were significantly increased	Biomarker
+30896868_25597	221	228	miR-103	Rna-noncoding
+30896868_25597	233	240	miR-107	Rna-noncoding
+30896868_25597	291	328	overexpression of miR-103 and miR-107	Biomarker
+30896868_25597	309	316	miR-103	Rna-noncoding
+30896868_25597	321	328	miR-107	Rna-noncoding
+30896868_25597	366	394	impaired glucose homeostasis	Disease	DOID:4194
+30896868_25597	366	432	impaired glucose homeostasis, hyperglycaemia and hyperinsulinaemia	Collection
+30896868_25597	375	382	glucose	Chemical
+30896868_25597	396	410	hyperglycaemia	Disease	D006943
+30896868_25597	415	432	hyperinsulinaemia	Disease	D006946
+30896868_25597	471	478	miR-103	Rna-noncoding
+30896868_25597	483	490	miR-107	Rna-noncoding
+30896868_25597	500	507	glucose	Chemical
+30896868_25597	524	531	insulin	Gene-protein
+30896868_25597	576	586	caveolin-1	Gene-protein	 HGNC:1527
+30896868_25597	618	634	insulin receptor	Gene-protein	HGNC:6091
+30896868_25597	651	667	insulin receptor	Gene-protein
+30896868_25597	699	736	overexpression of miR-103 and miR-107	Drug	not found
+30896868_25597	717	724	miR-103	Rna-noncoding	family:1754
+30896868_25597	729	736	miR-107	Rna-noncoding	HGNC:31496
+30896868_25597	747	757	caveolin-1	Gene-protein
+30896868_25597	808	834	hepatic insulin resistance	Disease	not found
+30896868_25597	816	823	insulin	Gene-protein
+30896868_25597	885	927	levels of miR-143 expression were elevated	Biomarker
+30896868_25597	895	902	miR-143	Rna-noncoding
+30896868_25597	945	1009	genetically altered or diet-induced models of insulin resistance	Disease	not found, not found
+30896868_25597	991	998	insulin	Gene-protein
+30896868_25597	1011	1036	Overexpression of miR-143	Drug	not found
+30896868_25597	1029	1036	miR-143	Rna-noncoding
+30896868_25597	1063	1070	glucose	Chemical
+30896868_25597	1063	1082	glucose intolerance	Disease	DOID:10603
+30896868_25597	1063	1105	glucose intolerance and insulin resistance	Collection
+30896868_25597	1087	1094	insulin	Gene-protein
+30896868_25597	1087	1105	insulin resistance	Disease	D007333
+30896868_25597	1137	1144	miR-143	Rna-noncoding
+30896868_25597	1165	1172	glucose	Chemical
+30896868_25597	1197	1204	insulin	Gene-protein
+30896868_25597	1225	1232	MiR-215	Rna-noncoding
+30896868_25597	1225	1232	MiR-215	Biomarker	C553667
+30896868_25597	1291	1307	malignant tumour	Disease	DOID:162
+30896868_25597	1387	1394	miR-215	Rna-noncoding
+30896868_25597	1398	1409	fatty liver	Disease	DOID:9452
+30896868_25597	1452	1459	miR-215	Rna-noncoding
+30896868_25597	1482	1485	T2D	Disease	DOID:9352
+30896868_25597	1490	1501	fatty liver	Disease
+

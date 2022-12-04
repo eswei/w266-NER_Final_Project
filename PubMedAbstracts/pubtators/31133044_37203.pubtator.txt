@@ -1,0 +1,41 @@
+31133044_37203|t|RSS_IDENT_p_31133044_b_1_4_3
+31133044_37203|a| Previous studies have focused mainly on the RAS-RAF-MEK-ERK pathway in cancer cells. However, p-ERK1/2 expression has been shown prognostic and metastatic implications in PDAC [ 40 , 41 ]. Our result showed HMPDAC cells had high levels of activated ERK1/2, whereas inhibiting ERK1/2 suppressed EMT in these cells. Furthermore, activation of ERK1/2 also increased in PDAC cells after co-culture with PSCs. These findings indicate that activation of ERK1/2 promotes metastasis and cancer–stromal interaction in PDAC cells. We found that activation of ERK1/2 was frequently observed in stroma even compared with PCCs in the resected pancreatic cancer tissues. Moreover, cancer-associated PSCs were more sensitive to ERK inhibitor SCH772984 than cancer cells. Therefore, the present research focused on the activation of ERK1/2 in PSCs as well as PCCs. Cancer-associated PSCs are the major components of extensive desmoplasia, which contribute to PDAC progression and chemoresistance [ 42 ]. Recently, anti-stromal drugs were reported to inhibit PDAC progression via suppression of PSCs [ 43 , 44 ]. These findings suggest that inhibiting PSCs could be the basis of an effective therapeutic strategy for PDAC. 
+31133044_37203	74	77	RAS	Genefamily	family:389
+31133044_37203	78	81	RAF	Genefamily	family:1157
+31133044_37203	82	85	MEK	Genefamily	not found
+31133044_37203	86	89	ERK	Genefamily	not found
+31133044_37203	101	107	cancer	Disease	DOID:162
+31133044_37203	124	143	p-ERK1/2 expression	Biomarker
+31133044_37203	126	132	ERK1/2	Gene-protein	HGNC:6877, HGNC:6871
+31133044_37203	201	205	PDAC	Disease	DOID:3498
+31133044_37203	237	243	HMPDAC	Disease	DOID:3498
+31133044_37203	254	285	high levels of activated ERK1/2	Biomarker
+31133044_37203	279	285	ERK1/2	Gene-protein
+31133044_37203	306	312	ERK1/2	Gene-protein
+31133044_37203	357	392	activation of ERK1/2 also increased	Biomarker
+31133044_37203	371	377	ERK1/2	Gene-protein
+31133044_37203	396	400	PDAC	Disease
+31133044_37203	464	484	activation of ERK1/2	Biomarker
+31133044_37203	478	484	ERK1/2	Gene-protein
+31133044_37203	509	515	cancer	Disease
+31133044_37203	509	543	cancer–stromal interaction in PDAC	Collection
+31133044_37203	539	543	PDAC	Disease
+31133044_37203	565	585	activation of ERK1/2	Biomarker
+31133044_37203	579	585	ERK1/2	Gene-protein
+31133044_37203	639	643	PCCs	Disease	DOID:1793
+31133044_37203	660	677	pancreatic cancer	Disease	DOID:1793
+31133044_37203	697	703	cancer	Disease
+31133044_37203	743	756	ERK inhibitor	Drug-class
+31133044_37203	757	766	SCH772984	Drug	C587178
+31133044_37203	772	778	cancer	Disease
+31133044_37203	847	853	ERK1/2	Gene-protein
+31133044_37203	873	877	PCCs	Disease
+31133044_37203	879	901	Cancer-associated PSCs	Biomarker
+31133044_37203	940	951	desmoplasia	Disease	not found
+31133044_37203	940	977	desmoplasia, which contribute to PDAC	Collection
+31133044_37203	973	977	PDAC	Disease
+31133044_37203	1028	1046	anti-stromal drugs	Drug-class
+31133044_37203	1072	1076	PDAC	Disease
+31133044_37203	1154	1169	inhibiting PSCs	Drug	not found
+31133044_37203	1230	1234	PDAC	Disease
+

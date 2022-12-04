@@ -1,0 +1,65 @@
+T0	Disease 183 186	GDM
+#1	AnnotatorNotes T0	DOID:11714
+T1	Biomarker 243 245	HG
+T10	Disease 1835 1838	GDM
+T2	Disease 270 273	GDM
+T4	Disease 935 952	pancreatic cancer
+#6	AnnotatorNotes T4	DOID:1793
+T5	Disease 964 997	laryngeal squamous cell carcinoma
+#7	AnnotatorNotes T5	DOID:2876
+T6	Disease 1077 1080	GDM
+T7	Disease 1208 1225	pancreatic cancer
+T8	Disease 1403 1406	GDM
+T9	Disease 1730 1733	GDM
+R1	Association Arg1:T1 Arg2:T2	
+T11	Biomarker 288 326	impaired function of trophoblast cells
+T12	Biomarker 209 235	maldevelopment of placenta
+T13	RNA-Noncoding 661 668	miR-132
+#2	AnnotatorNotes T13	HGNC:31516
+T14	Biomarker 757 798	suppressed trophoblast cell proliferation
+T15	Biomarker 837 862	overexpression of miR-132
+T16	Disease 1497 1500	GDM
+T17	RNA-Noncoding 855 862	miR-132
+T18	RNA-Noncoding 1824 1831	miR-132
+T19	RNA-Noncoding 1719 1726	miR-132
+T21	RNA-Noncoding 1161 1168	miR-132
+T20	RNA-Noncoding 1031 1038	miR-132
+T22	RNA-Noncoding 864 871	miR-132
+T23	CellLine 451 462	HTR-8/SVneo
+T24	Gene-Protein 1443 1447	PTEN
+#4	AnnotatorNotes T24	HGNC:9588
+T25	GeneFamily 1333 1337	PI3K
+#12	AnnotatorNotes T25	family:831
+T26	Gene-Protein 1277 1281	PTEN
+#13	AnnotatorNotes T26	HGNC:9588
+T27	Gene-Protein 1245 1275	phosphatase and tensin homolog
+#14	AnnotatorNotes T27	HGNC:9588
+T28	GeneFamily 1338 1341	AKT
+#15	AnnotatorNotes T28	family:1900
+T29	CellLine 467 471	BeWo
+T3	Collection 935 997	pancreatic cancer [ 34 ] and laryngeal squamous cell carcinoma
+T30	Gene-Protein 1550 1554	PTEN
+T31	Biomarker 864 871	miR-132
+#5	AnnotatorNotes T31	C547077
+R4	Association Arg1:T31 Arg2:T3	
+T32	Drug 1031 1038	miR-132
+#16	AnnotatorNotes T32	C547077
+R5	Protects-from Arg1:T32 Arg2:T6	
+T33	Biomarker 1161 1168	miR-132
+R6	Association Arg1:T33 Arg2:T7	
+T34	Biomarker 1436 1454	plasma PTEN levels
+T35	Disease 1475 1493	insulin resistance
+#8	AnnotatorNotes T35	D007333
+T36	Gene-Protein 1475 1482	insulin
+#9	AnnotatorNotes T36	 HGNC:6081
+T37	RNA-Noncoding 1590 1596	miR-21
+#10	AnnotatorNotes T37	HGNC:31586
+T38	Gene-Protein 1772 1776	PTEN
+R7	Association Arg1:T34 Arg2:T42	
+T39	Drug 1719 1726	miR-132
+T40	RNA-Noncoding 1608 1615	miR-144
+#11	AnnotatorNotes T40	HGNC:31531
+R8	Protects-from Arg1:T39 Arg2:T9	
+T41	Biomarker 1824 1831	miR-132
+R9	Association Arg1:T41 Arg2:T10	
+T42	Collection 1475 1500	insulin resistance of GDM

@@ -1,0 +1,54 @@
+T0	Chemical 54 61	25(OH)D
+T11	Disease 503 506	GDM
+T13	Disease 643 646	GDM
+T15	Disease 755 758	GDM
+T16	Disease 820 823	GDM
+T18	Disease 909 912	GDM
+T2	Disease 95 98	GDM
+#7	AnnotatorNotes T2	DOID:11714
+T20	Variant 1036 1045	rs2228570
+T22	Disease 1208 1211	GDM
+T24	Disease 1291 1294	GDM
+T3	Chemical 132 141	Vitamin D
+T4	Biomarker 132 152	Vitamin D deficiency
+#11	AnnotatorNotes T4	D014808
+T6	Disease 173 191	insulin resistance
+#12	AnnotatorNotes T6	D007333
+T7	Disease 196 199	GDM
+T9	Disease 380 384	T2DM
+#14	AnnotatorNotes T9	DOID:9352
+T1	Biomarker 54 87	25(OH)D concentrations were lower
+R1	Association Arg1:T1 Arg2:T2	
+T5	Collection 173 199	insulin resistance and GDM
+R2	Association Arg1:T4 Arg2:T5	
+T8	Gene-Protein 173 180	insulin
+#1	AnnotatorNotes T8	HGNC:6081
+T10	Gene-Protein 259 266	insulin
+T12	Gene-Protein 211 214	VDR
+#2	AnnotatorNotes T12	HGNC:12679
+T14	Gene-Protein 274 277	VDR
+T17	Gene-Protein 428 431	VDR
+T19	Gene-Protein 592 595	VDR
+T21	Gene-Protein 679 682	VDR
+T23	Gene-Protein 914 917	VDR
+T25	Gene-Protein 829 832	VDR
+T26	Gene-Protein 1241 1244	VDR
+T27	Gene-Protein 760 763	VDR
+T28	Biomarker 274 293	VDR gene variations
+R3	Risk-Factor Arg1:T28 Arg2:T9	
+T29	Biomarker 428 446	VDR gene FokI SNPs
+R4	Risk-Factor Arg1:T29 Arg2:T11	
+T30	Biomarker 592 610	VDR gene FokI SNPs
+R5	Association Arg1:T30 Arg2:T13	
+T31	Biomarker 760 794	VDR gene ApaI, TaqI, and BsmI SNPs
+T32	Biomarker 679 708	VDR gene ApaI, TaqI, and BsmI
+T33	Biomarker 829 846	VDR gene FokI SNP
+R6	Association Arg1:T33 Arg2:T18	
+T34	Biomarker 1022 1048	VDR gene FokI rs2228570 TT
+T35	Biomarker 1108 1124	CT heterozygotes
+T36	Collection 1022 1123	VDR gene FokI rs2228570 TT (TT vs. CC, OR = 3.95, 95% CI: [1.56–9.96], p = 0.002) and CT heterozygote
+R7	Association Arg1:T36 Arg2:T22	
+T37	Biomarker 1241 1259	VDR gene FokI SNPs
+R8	Association Arg1:T37 Arg2:T24	
+T38	Biomarker 914 954	VDR gene FokI (variant or heterozygotes)
+R9	Association Arg1:T38 Arg2:T18	

@@ -1,0 +1,71 @@
+T0	MicroOrganism 228 237	H. pylori
+T1	Chemical 351 355	iron
+T10	Chemical 855 859	iron
+T11	Disease 855 870	iron deficiency
+T12	Chemical 898 902	iron
+T14	Disease 898 942	iron deficiency who have H. pylori infection
+#7	AnnotatorNotes T14	DOID:11758, not found
+T17	Chemical 999 1003	iron
+T18	Disease 999 1014	iron deficiency
+T19	Disease 1023 1042	H. pylori infection
+T20	Disease 1091 1110	H. pylori infection
+T22	Disease 1133 1145	malnourished
+T23	Biomarker 1151 1186	hypoferremia caused by inflammation
+T24	Disease 1213 1235	nutritional deficiency
+#17	AnnotatorNotes T24	DOID:5113
+T25	Chemical 1295 1299	iron
+T26	Disease 1295 1310	iron deficiency
+T28	Chemical 1314 1318	iron
+T29	Disease 1314 1336	iron deficiency anemia
+#21	AnnotatorNotes T29	DOID:11758
+T3	Disease 444 463	H. pylori infection
+#22	AnnotatorNotes T3	not found
+T30	Disease 1341 1360	H. pylori infection
+T34	Disease 1810 1829	H. pylori infection
+T35	Chemical 1850 1854	iron
+T36	Disease 1850 1865	iron deficiency
+T4	Disease 534 553	H. pylori infection
+T5	Chemical 558 562	iron
+T6	Disease 558 573	iron deficiency
+#31	AnnotatorNotes T6	DOID:11758
+T7	Disease 667 686	H. pylori infection
+T8	Chemical 746 750	iron
+T9	Disease 819 838	H. pylori infection
+T2	Disease 213 237	infection with H. pylori
+#1	AnnotatorNotes T2	not found
+T16	Biomarker 249 271	higher hepcidin levels
+T27	Gene-Protein 256 264	hepcidin
+#2	AnnotatorNotes T27	HGNC:15598
+R1	Association Arg1:T16 Arg2:T2	
+T32	Gene-Protein 319 327	hepcidin
+T37	Biomarker 319 345	hepcidin levels were lower
+T38	Collection 534 573	H. pylori infection and iron deficiency
+T39	Biomarker 594 621	hepcidin levels were higher
+T40	Gene-Protein 594 602	hepcidin
+R2	Association Arg1:T39 Arg2:T38	
+T41	Gene-Protein 692 700	hepcidin
+T42	Biomarker 692 725	hepcidin synthesis is upregulated
+R3	Association Arg1:T42 Arg2:T7	
+T43	Biomarker 790 811	synthesis of hepcidin
+T44	Gene-Protein 803 811	hepcidin
+R4	Association Arg1:T43 Arg2:T9	
+A1	Conjunction T14
+T13	Biomarker 944 970	hepcidin levels are higher
+T15	Gene-Protein 944 952	hepcidin
+R5	Association Arg1:T13 Arg2:T14	
+R6	Association Arg1:T23 Arg2:T24	
+T21	Gene-Protein 1549 1557	hepcidin
+T45	Gene-Protein 1700 1708	hepcidin
+T33	Biomarker 1870 1897	high production of hepcidin
+T46	Gene-Protein 1889 1897	hepcidin
+T47	Biomarker 352 371	ron stores were low
+T48	MicroOrganism 534 543	H. pylori
+T49	MicroOrganism 667 676	H. pylori
+T50	MicroOrganism 819 828	H. pylori
+#3	AnnotatorNotes T22	D044342
+T51	Drug 1464 1480	iron supplements
+T31	MicroOrganism 923 932	H. pylori
+T52	MicroOrganism 1023 1032	H. pylori
+T53	MicroOrganism 1091 1100	H. pylori
+T54	MicroOrganism 1341 1350	H. pylori
+T55	MicroOrganism 1810 1819	H. pylori

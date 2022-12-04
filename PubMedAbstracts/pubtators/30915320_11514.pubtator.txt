@@ -1,0 +1,87 @@
+30915320_11514|t|RSS_IDENT_s_30915320_b_1_2_5
+30915320_11514|a| Statistical Analysis HLA alleles were deduced into three loci haplotypes (DRB1-DQA1-DQB1) as described earlier ( 10 ). DRB1*03:01-DQA1*05:01-DQB1*02:01 haplotype was abbreviated as DR3-DQ2, DRB1*07:01–DQA1*02:01-DQB1*02:02 as DR7-DQ2 and DRB1*11/12–DQA1*05:05–DQB1*03:01 as DR5-DQ7. DRB1*04:01-DQA1*03:01-DQB1*03:02, DRB1*04:02-DQA1*03:01-DQB1*03:02, DRB1*04:04-DQA1* 03:01-DQB1*03:02, DRB1*04:05-DQA1*03:01-DQB1*03:02, and DRB1*04:08-DQA1*03:01-DQB1*03:04 haplotypes were considered as DR4-DQ8. X was defined as non-DR3-DQ2 and non-DR4-DQ8 haplotype. HLA-DRB1-DQA1-DQB1/DRB1-DQA1-DQB1 genotypes (combination of two DRB1-DQA1-DQB1 haplotypes) were grouped into two HLA-risk categories encoded as low-risk (LR) and high-risk (HR) categorical variables by means of the known risk associated with T1D and CD in the Slovenian population. The heterozygous genotype DR3-DQ2/DR4-DQ8 and genotype DR4-DQ8/ DR4-DQ8 were defined as HR for T1D ( 8 , 33 , 34 ). Since the HLA influence on CD susceptibility showed a dose effect, DR3-DQ2/ DR3-DQ2 and DR3-DQ2/ DR7-DQ2, which are DQB1*02 homozygous combinations were classified as high risk for CD ( 10 ). DR3-DQ2/X and DR4-DQ8/X single dose combinations, DRB1*07-DQA1*02:01-DQB1*02:02/DRB1*11/12-DQA1*05:05-DQB1*03:01 haplotype combination with DQ2 alleles carried in trans as well as non-DQ2 and non-DQ8 (X/X) haplotype combinations were considered as low risk. For the description of continuous and categorical variables, median with interquartile range and frequencies were used, respectively. Standard chi square test was used to compare distribution of categorical clinical characteristics between different patient groups and to assess deviation from Hardy-Weinberg equilibrium. Nonparametric Mann-Whitney and Kruskal-Wallis tests were used to compare continuous clinical characteristics between different patient groups. Logistic regression was used for comparison of genotype frequencies, calculating odds ratio (OR) and 95% confidence interval (CI), as well as for the analysis of interaction between polymorphisms. Two-tailed Fisher's exact test was used for comparisons of the frequencies of HLA deduced genotypes. The level of statistical significance was set at 0.05. All statistical analyses were performed using IBM SPSS Statistics 19.0 (IBM Corporation, Armonk, NY, USA).
+30915320_11514	51	54	HLA	Genefamily	family:588
+30915320_11514	104	108	DRB1	Gene-protein	HGNC:4948
+30915320_11514	109	113	DQA1	Gene-protein	HGNC:4942
+30915320_11514	114	118	DQB1	Gene-protein	HGNC:4944
+30915320_11514	149	153	DRB1	Gene-protein
+30915320_11514	153	159	*03:01	Variant
+30915320_11514	160	164	DQA1	Gene-protein
+30915320_11514	164	170	*05:01	Variant
+30915320_11514	171	175	DQB1	Gene-protein
+30915320_11514	175	181	*02:01	Variant
+30915320_11514	220	224	DRB1	Gene-protein
+30915320_11514	224	230	*07:01	Variant
+30915320_11514	231	235	DQA1	Gene-protein
+30915320_11514	235	241	*02:01	Variant
+30915320_11514	242	246	DQB1	Gene-protein
+30915320_11514	246	252	*02:02	Variant
+30915320_11514	268	272	DRB1	Gene-protein
+30915320_11514	272	278	*11/12	Variant
+30915320_11514	279	283	DQA1	Gene-protein
+30915320_11514	283	289	*05:05	Variant
+30915320_11514	290	294	DQB1	Gene-protein
+30915320_11514	294	300	*03:01	Variant
+30915320_11514	313	317	DRB1	Gene-protein
+30915320_11514	317	323	*04:01	Variant
+30915320_11514	324	328	DQA1	Gene-protein
+30915320_11514	328	334	*03:01	Variant
+30915320_11514	335	339	DQB1	Gene-protein
+30915320_11514	339	345	*03:02	Variant
+30915320_11514	347	351	DRB1	Gene-protein
+30915320_11514	351	357	*04:02	Variant
+30915320_11514	358	362	DQA1	Gene-protein
+30915320_11514	362	368	*03:01	Variant
+30915320_11514	368	373	-DQB1	Gene-protein
+30915320_11514	373	379	*03:02	Variant
+30915320_11514	381	385	DRB1	Gene-protein
+30915320_11514	385	391	*04:04	Variant
+30915320_11514	392	396	DQA1	Gene-protein
+30915320_11514	396	403	* 03:01	Variant
+30915320_11514	404	408	DQB1	Gene-protein
+30915320_11514	408	414	*03:02	Variant
+30915320_11514	416	420	DRB1	Gene-protein
+30915320_11514	420	426	*04:05	Variant
+30915320_11514	427	431	DQA1	Gene-protein
+30915320_11514	431	437	*03:01	Variant
+30915320_11514	438	442	DQB1	Gene-protein
+30915320_11514	442	448	*03:02	Variant
+30915320_11514	454	458	DRB1	Gene-protein
+30915320_11514	458	464	*04:08	Variant
+30915320_11514	465	469	DQA1	Gene-protein
+30915320_11514	469	475	*03:01	Variant
+30915320_11514	476	480	DQB1	Gene-protein
+30915320_11514	480	486	*03:04	Variant
+30915320_11514	582	585	HLA	Genefamily
+30915320_11514	586	590	DRB1	Gene-protein
+30915320_11514	591	595	DQA1	Gene-protein
+30915320_11514	596	600	DQB1	Gene-protein
+30915320_11514	601	605	DRB1	Gene-protein
+30915320_11514	606	610	DQA1	Gene-protein
+30915320_11514	611	615	DQB1	Gene-protein
+30915320_11514	646	650	DRB1	Gene-protein
+30915320_11514	651	655	DQA1	Gene-protein
+30915320_11514	656	660	DQB1	Gene-protein
+30915320_11514	695	698	HLA	Genefamily
+30915320_11514	824	827	T1D	Disease	DOID:9744
+30915320_11514	832	834	CD	Disease	DOID:10608
+30915320_11514	868	935	heterozygous genotype DR3-DQ2/DR4-DQ8 and genotype DR4-DQ8/ DR4-DQ8	Biomarker
+30915320_11514	959	962	T1D	Disease
+30915320_11514	990	993	HLA	Genefamily
+30915320_11514	1007	1009	CD	Disease
+30915320_11514	1047	1127	DR3-DQ2/ DR3-DQ2 and DR3-DQ2/ DR7-DQ2, which are DQB1*02 homozygous combinations	Biomarker
+30915320_11514	1161	1163	CD	Disease
+30915320_11514	1222	1226	DRB1	Gene-protein
+30915320_11514	1226	1229	*07	Variant
+30915320_11514	1230	1234	DQA1	Gene-protein
+30915320_11514	1234	1240	*02:01	Variant
+30915320_11514	1241	1245	DQB1	Gene-protein
+30915320_11514	1245	1251	*02:02	Variant
+30915320_11514	1252	1256	DRB1	Gene-protein
+30915320_11514	1256	1262	*11/12	Variant
+30915320_11514	1263	1267	DQA1	Gene-protein
+30915320_11514	1267	1273	*05:05	Variant
+30915320_11514	1274	1278	DQB1	Gene-protein
+30915320_11514	1278	1284	*03:01	Variant
+30915320_11514	2170	2173	HLA	Genefamily
+

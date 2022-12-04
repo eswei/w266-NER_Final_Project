@@ -1,0 +1,57 @@
+T1	Disease 30 74	Familial hypocalciuric hypercalcaemia type 3
+#1	AnnotatorNotes T1	DOID:0060702
+T11	Disease 267 271	FHH3
+T12	Biomarker 285 355	mutations of the adaptor-related protein complex 2 (AP2) sigma subunit
+T14	GeneFamily 429 432	AP2
+T15	GeneFamily 692 695	AP2
+T17	GeneFamily 1018 1021	AP2
+T18	GeneFamily 1401 1404	AP2
+T2	Disease 76 80	FHH3
+#9	AnnotatorNotes T2	DOID:0060702
+T4	Disease 141 144	FHH
+#10	AnnotatorNotes T4	DOID:0060699
+T6	Biomarker 187 201	hypercalcaemia
+#11	AnnotatorNotes T6	D006934
+T7	Biomarker 203 215	osteoporosis
+#12	AnnotatorNotes T7	D010024
+T8	Biomarker 217 229	osteomalacia
+#13	AnnotatorNotes T8	D010018
+T9	Biomarker 234 255	cognitive dysfunction
+#14	AnnotatorNotes T9	D060825
+R1	Risk-Factor Arg1:T12 Arg2:T11	
+T3	Gene-Protein 302 355	adaptor-related protein complex 2 (AP2) sigma subunit
+#3	AnnotatorNotes T3	HGNC:565
+T5	Gene-Protein 357 361	AP2σ
+#4	AnnotatorNotes T5	HGNC:565
+T19	Gene-Protein 379 384	AP2S1
+#5	AnnotatorNotes T19	HGNC:565
+T20	Gene-Protein 764 768	AP2σ
+T21	Gene-Protein 969 973	AP2σ
+T22	Gene-Protein 1269 1273	AP2σ
+#6	AnnotatorNotes T14	family:1672
+T23	GeneFamily 755 759	AP2α
+#7	AnnotatorNotes T23	not found
+T24	Gene-Protein 797 801	AP2β
+#8	AnnotatorNotes T24	HGNC:563
+T25	Gene-Protein 806 810	AP2µ
+#15	AnnotatorNotes T25	HGNC:564
+T26	GeneFamily 892 896	AP2α
+T27	Gene-Protein 901 905	AP2β
+T28	Gene-Protein 960 964	AP2µ
+T29	GeneFamily 1066 1070	AP2α
+T30	Gene-Protein 1075 1079	AP2β
+T31	Gene-Protein 1116 1120	AP2σ
+T32	Gene-Protein 1155 1159	AP2µ
+T33	GeneFamily 1142 1146	AP2α
+T34	Gene-Protein 1260 1264	AP2µ
+T10	GeneFamily 601 609	clathrin
+#2	AnnotatorNotes T10	family:1647
+T13	GeneFamily 663 668	GPCRs
+#16	AnnotatorNotes T13	family:139
+T35	Gene-Protein 682 686	CaSR
+#17	AnnotatorNotes T35	HGNC:1514
+T36	GeneFamily 1383 1391	clathrin
+T37	GeneFamily 634 661	G-protein-coupled receptors
+#18	AnnotatorNotes T37	family:139
+T38	Collection 187 255	hypercalcaemia, osteoporosis, osteomalacia and cognitive dysfunction
+R2	Association Arg1:T38 Arg2:T1	

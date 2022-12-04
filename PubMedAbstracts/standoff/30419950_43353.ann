@@ -1,0 +1,83 @@
+T0	Disease 89 94	tumor
+#1	AnnotatorNotes T0	DOID:162
+T10	Chemical 520 528	estrogen
+T11	Disease 520 566	estrogen receptor alpha-positive breast cancer
+#3	AnnotatorNotes T11	DOID:0060075
+T14	Chemical 680 688	estrogen
+T15	Disease 680 750	estrogen receptor alpha-positive and lymph node-positive breast cancer
+#6	AnnotatorNotes T15	DOID:0060075,not found
+T18	Disease 850 867	pancreatic cancer
+#8	AnnotatorNotes T18	DOID:1793
+T2	Disease 158 179	neuroendocrine tumors
+#10	AnnotatorNotes T2	DOID:169
+T20	Disease 1112 1129	esophageal cancer
+#11	AnnotatorNotes T20	DOID:5041
+T22	Drug 1253 1263	paclitaxel
+T23	Disease 1253 1297	paclitaxel-resistant W1 human ovarian cancer
+#13	AnnotatorNotes T23	not found
+T24	Disease 1404 1418	ovarian cancer
+#14	AnnotatorNotes T24	DOID:2394
+T27	Disease 1619 1636	pancreatic cancer
+T28	Drug 1656 1659	GEM
+T29	Chemical 1690 1699	glutamine
+T3	Disease 191 207	pheochromocytoma
+#18	AnnotatorNotes T3	DOID:0050771
+T4	Disease 212 239	medullary thyroid carcinoma
+#19	AnnotatorNotes T4	DOID:3973
+T5	Chemical 302 324	dihydroxyphenylalanine
+T7	Disease 418 435	uterine leiomyoma
+#21	AnnotatorNotes T7	DOID:13223
+T8	Disease 453 466	breast cancer
+#22	AnnotatorNotes T8	DOID:1612
+T1	Gene-Protein 602 608	SLC7A8
+T6	Gene-Protein 1586 1590	LAT2
+T9	Gene-Protein 1710 1714	LAT2
+T13	Gene-Protein 30 34	LAT2
+#2	AnnotatorNotes T13	HGNC:12749
+T17	Gene-Protein 132 136	LAT2
+T21	Gene-Protein 362 366	LAT2
+T25	Biomarker 30 34	LAT2
+#5	AnnotatorNotes T25	C419196
+T26	Gene-Protein 794 798	LAT2
+R1	Association Arg1:T25 Arg2:T0	
+T30	Biomarker 132 154	LAT2 was overexpressed
+T31	Collection 158 240	neuroendocrine tumors, including pheochromocytoma and medullary thyroid carcinoma,
+T32	Gene-Protein 468 474	SLC7A8
+#9	AnnotatorNotes T32	HGNC:11066
+R2	Association Arg1:T30 Arg2:T31	
+T33	Gene-Protein 1459 1463	LAT2
+T34	Biomarker 362 366	LAT2
+T35	Gene-Protein 972 978	SLC7A8
+R3	Association Arg1:T34 Arg2:T7	
+T36	Biomarker 468 503	SLC7A8 mRNA expression was elevated
+R4	Association Arg1:T36 Arg2:T11	
+T12	Biomarker 588 613	high level of SLC7A8 mRNA
+R5	Prognostic-Good Arg1:T12 Arg2:T15	
+T16	Biomarker 789 804	high LAT2 level
+R6	Prognostic-Poor Arg1:T16 Arg2:T18	
+T37	Drug-Class 1087 1108	platinum chemotherapy
+T19	Gene-Protein 1206 1212	SLC7A8
+T38	Biomarker 1188 1245	expression of the SLC7A8 gene was significantly decreased
+#4	AnnotatorNotes T22	CHEMBL428647
+T39	Gene-Protein 1347 1353	SLC7A8
+R7	Association Arg1:T38 Arg2:T23	
+T41	Biomarker 1586 1590	LAT2
+T43	Drug 1507 1510	GEM
+#7	AnnotatorNotes T43	CHEMBL888
+T44	Gene-Protein 1715 1719	mTOR
+#12	AnnotatorNotes T44	HGNC:3942
+T45	Gene-Protein 1720 1724	LDHB
+#15	AnnotatorNotes T45	HGNC:6541
+T47	Gene-Protein 680 703	estrogen receptor alpha
+T48	Gene-Protein 520 543	estrogen receptor alpha
+#17	AnnotatorNotes T48	HGNC:3467
+R9	Mediated-Non-Response Arg1:T28 Arg2:T27	
+R10	Mediator Arg1:T28 Arg2:T41	
+T42	Variant 925 956	single nucleotide polymorphisms
+R8	Variant-Of Arg1:T35 Arg2:T42	
+T40	CellLine 1500 1506	AsPC-1
+T46	Biomarker 1347 1353	SLC7A8
+R11	Association Arg1:T46 Arg2:T24	
+R12	Mediated-Response Arg1:T37 Arg2:T20	
+R13	Mediator Arg1:T37 Arg2:T42	
+#16	AnnotatorNotes T46	C420646

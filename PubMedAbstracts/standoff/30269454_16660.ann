@@ -1,0 +1,49 @@
+T0	Disease 57 60	DNS
+T1	Disease 186 204	acute CO poisoning
+#2	AnnotatorNotes T1	not found
+T12	Disease 818 836	acute CO poisoning
+T13	Chemical 824 826	CO
+T15	Disease 962 965	DNS
+T16	Disease 1013 1016	DNS
+T18	Disease 1366 1369	DNS
+T19	Disease 1472 1475	DNS
+T2	Chemical 192 194	CO
+T21	Chemical 1932 1934	CO
+T22	Disease 1932 1941	CO injury
+#12	AnnotatorNotes T22	not found
+T3	Disease 445 448	DNS
+T4	Biomarker 496 503	hypoxia
+#14	AnnotatorNotes T4	D000860
+T5	Biomarker 508 516	ischemia
+#15	AnnotatorNotes T5	D007511
+T6	Disease 528 546	acute CO poisoning
+T7	Chemical 534 536	CO
+T8	Disease 684 696	brain injury
+#18	AnnotatorNotes T8	D001930
+T9	Biomarker 700 718	acute CO poisoning
+#1	AnnotatorNotes T0	not found
+T11	Gene-Protein 155 159	IL-6
+#3	AnnotatorNotes T11	HGNC:6018
+T14	Gene-Protein 297 301	IL-6
+T17	Biomarker 297 301	IL-6
+#5	AnnotatorNotes T17	D015850
+R1	Association Arg1:T17 Arg2:T3	
+T20	Biomarker 462 492	Blood-brain barrier disruption
+R2	Association Arg1:T20 Arg2:T6	
+T23	Gene-Protein 602 606	IL-6
+T24	Biomarker 576 606	relatively high amount of IL-6
+R3	Risk-Factor Arg1:T9 Arg2:T8	
+T10	Gene-Protein 940 944	IL-6
+T25	Gene-Protein 1047 1051	IL-6
+T26	Disease 1065 1068	DNS
+T27	Biomarker 1034 1057	median serum IL-6 level
+R4	Association Arg1:T27 Arg2:T26	
+T28	Gene-Protein 1357 1361	IL-6
+T29	Biomarker 1341 1361	serum levels of IL-6
+T30	Gene-Protein 1459 1463	IL-6
+T31	Gene-Protein 1600 1604	IL-6
+T32	Gene-Protein 1668 1672	IL-6
+T33	Gene-Protein 1762 1766	IL-6
+T34	Biomarker 1748 1784	CSF levels of IL-6 abruptly increase
+T35	Gene-Protein 1851 1855	IL-6
+T36	Gene-Protein 761 765	IL-6

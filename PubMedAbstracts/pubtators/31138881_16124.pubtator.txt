@@ -1,0 +1,39 @@
+31138881_16124|t|RSS_IDENT_p_31138881_b_1_3_4
+31138881_16124|a| We found no correlation between TK1 expression and FTD sensitivity in a panel of colorectal cancer cell lines. Furthermore, overexpression of TK1 did not increase the sensitivity of cells to FTD. Other factors, in addition to the TK1 expression level, might determine FTD sensitivity. Indeed, nucleoside transporters (hENT1, hENT2 and hCNT1) ¹³ – ¹⁶ contribute to FTD cytotoxicity. Furthermore, nucleoside kinases, such as TMPK and NDK, are predicted to be involved in FTD phosphorylation. Hence, overexpression of TK1 alone is insufficient to increase the sensitivity of cells to FTD. On the other hand, doxycycline-inducible expression of TK1 increased FTD sensitivity in a doxycycline dose-dependent manner in cells with the same genetic background as TK1-knock-out cells. These results strongly indicate that the TK1 expression level highly correlates with cellular cytotoxicity to FTD in an isogenic background because the TK1 expression level was dependent on the doxycycline concentration and doxycycline did not affect cell growth or the cell cycle. Together, these data suggest that FTD would more effectively treat cancers with high TK1 expression than those with low TK1 expression. 
+31138881_16124	62	65	TK1	Gene-protein	HGNC:11830
+31138881_16124	81	84	FTD	Drug	CHEMBL1129
+31138881_16124	111	128	colorectal cancer	Disease	DOID:9256
+31138881_16124	154	175	overexpression of TK1	Biomarker
+31138881_16124	172	175	TK1	Gene-protein
+31138881_16124	221	224	FTD	Drug
+31138881_16124	260	263	TK1	Gene-protein
+31138881_16124	298	301	FTD	Drug
+31138881_16124	323	333	nucleoside	Chemical
+31138881_16124	323	346	nucleoside transporters	Genefamily	not found
+31138881_16124	348	353	hENT1	Gene-protein	HGNC:11003
+31138881_16124	355	360	hENT2	Gene-protein	HGNC:11004
+31138881_16124	365	370	hCNT1	Gene-protein	HGNC:23096
+31138881_16124	394	397	FTD	Drug
+31138881_16124	425	435	nucleoside	Chemical
+31138881_16124	425	443	nucleoside kinases	Genefamily	not found
+31138881_16124	453	457	TMPK	Gene-protein	HGNC:3061
+31138881_16124	462	465	NDK	Gene-protein	HGNC:27015
+31138881_16124	499	502	FTD	Drug
+31138881_16124	545	548	TK1	Gene-protein
+31138881_16124	611	614	FTD	Drug
+31138881_16124	635	646	doxycycline	Drug	CHEMBL1433
+31138881_16124	671	674	TK1	Gene-protein
+31138881_16124	685	688	FTD	Drug
+31138881_16124	706	717	doxycycline	Drug
+31138881_16124	785	788	TK1	Gene-protein
+31138881_16124	847	850	TK1	Gene-protein
+31138881_16124	916	919	FTD	Drug
+31138881_16124	958	961	TK1	Gene-protein
+31138881_16124	1000	1011	doxycycline	Drug
+31138881_16124	1030	1041	doxycycline	Drug
+31138881_16124	1122	1125	FTD	Drug
+31138881_16124	1155	1187	cancers with high TK1 expression	Disease	not found
+31138881_16124	1173	1176	TK1	Gene-protein
+31138881_16124	1204	1222	low TK1 expression	Biomarker
+31138881_16124	1208	1211	TK1	Gene-protein
+

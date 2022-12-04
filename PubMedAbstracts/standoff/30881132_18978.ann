@@ -1,0 +1,74 @@
+T0	Disease 30 46	Malignant cancer
+#1	AnnotatorNotes T0	DOID:162
+T11	Chemical 296 303	glucose
+T12	Chemical 322 329	glucose
+T13	Disease 362 378	solid carcinomas
+#4	AnnotatorNotes T13	DOID:162
+T15	Disease 419 425	cancer
+#6	AnnotatorNotes T15	DOID:162
+T16	Disease 439 445	Cancer
+#7	AnnotatorNotes T16	DOID:162
+T17	Chemical 508 515	glucose
+T19	Disease 618 635	hypoxia in cancer
+#9	AnnotatorNotes T19	D000860, DOID:162
+T2	Chemical 84 91	glucose
+T21	Disease 659 666	hypoxia
+T22	Chemical 781 784	FDG
+T23	Disease 813 820	cancers
+#14	AnnotatorNotes T23	DOID:162
+T25	Disease 864 870	cancer
+T27	Disease 1009 1015	cancer
+T29	Disease 1059 1078	laryngeal carcinoma
+T31	Disease 1187 1206	laryngeal carcinoma
+T32	Disease 1256 1275	laryngeal carcinoma
+T4	Chemical 110 128	fluorodeoxyglucose
+T5	Chemical 130 133	FDG
+T6	Disease 149 154	tumor
+#23	AnnotatorNotes T6	DOID:162
+T7	Disease 203 224	head and neck cancers
+#24	AnnotatorNotes T7	DOID:11934
+T9	Disease 229 248	laryngeal carcinoma
+#26	AnnotatorNotes T9	DOID:2600
+T1	Biomarker 74 98	increased glucose uptake
+T3	Biomarker 105 141	high fluorodeoxyglucose (FDG) uptake
+R1	Association Arg1:T1 Arg2:T0	
+T8	Collection 203 248	head and neck cancers and laryngeal carcinoma
+R2	Prognostic-Poor Arg1:T3 Arg2:T8	
+T10	Gene-Protein 256 262	GLUT-1
+#2	AnnotatorNotes T10	HGNC:11005
+A1	Conjunction T19
+T14	Gene-Protein 568 574	GLUT-1
+T18	Biomarker 568 574	GLUT-1
+R3	Association Arg1:T18 Arg2:T19	
+T20	Gene-Protein 646 652	HIF-1α
+#5	AnnotatorNotes T20	HGNC:4910
+T24	Biomarker 646 652	HIF-1α
+#8	AnnotatorNotes T24	C497442
+R4	Association Arg1:T24 Arg2:T21	
+T26	Gene-Protein 691 697	GLUT-1
+T30	GeneFamily 725 729	PI3K
+#10	AnnotatorNotes T30	family:831
+T33	GeneFamily 730 733	AKT
+#11	AnnotatorNotes T33	family:1900
+T34	Gene-Protein 822 828	GLUT-1
+T35	Biomarker 822 828	GLUT-1
+T36	Gene-Protein 833 839	HIF-1α
+T37	Biomarker 833 839	HIF-1α
+T38	Collection 822 839	GLUT-1 and HIF-1α
+R5	Prognostic-Poor Arg1:T38 Arg2:T23	
+T39	Biomarker 938 975	HIF-1α-induced upregulation of GLUT-1
+T40	Gene-Protein 969 975	GLUT-1
+T41	Gene-Protein 938 944	HIF-1α
+R6	Association Arg1:T39 Arg2:T29	
+T28	Gene-Protein 1117 1123	HIF-1α
+T42	Gene-Protein 1124 1130	GLUT-1
+T43	Biomarker 1117 1123	HIF-1α
+T44	Biomarker 1124 1130	GLUT-1
+T45	Collection 1117 1130	HIF-1α/GLUT-1
+R7	Association Arg1:T45 Arg2:T48	
+T46	GeneFamily 322 341	glucose transporter
+#12	AnnotatorNotes T46	family:752
+T47	Biomarker 256 262	GLUT-1
+#3	AnnotatorNotes T47	D051272
+R9	Association Arg1:T47 Arg2:T13	
+T48	Collection 1187 1275	laryngeal carcinoma 1 and also as a potential therapeutic target for laryngeal carcinoma

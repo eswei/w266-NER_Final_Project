@@ -1,0 +1,40 @@
+30518088_3001|t|RSS_IDENT_p_30518088_b_1_1_3
+30518088_3001|a| Glycodelin (gene name progesterone associated endometrial protein (PAEP)) has been well described during the menstrual cycle and pregnancy [ 8 , 9 ]. It has been shown to be expressed by the inner layers of the endometrium with high local concentrations and to act as an immunosuppressive protein [ 9 , 10 ]. Glycodelin expression during pregnancy has also been suggested to regulate the invasion deepness of the trophoblast and to be involved in successful implantation [ 11 ]. Beside its function during pregnancy and implantation, glycodelin has been shown to be overexpressed in hormone-related cancers, such as ovarian cancer [ 12 ] and breast cancer [ 13 ]. In part, contrary data has been published for endometrial cancer and breast cancer concerning prognostic influence and molecular functions of glycodelin [ 14 , 15 ]. In the last decade, increased glycodelin expression levels have also been described for hormone-independent malignancies as the malignant melanoma [ 16 ], non-small cell lung cancer [ 17 ] and the malignant pleural mesothelioma [ 18 ]. In 2015, we investigated the expression and function of glycodelin in a large surgical NSCLC cohort [ 17 ]. We observed that the gene was overexpressed in approximately 80% of all tumors. While PAEP was not expressed in normal lung tissue in half of the patients we examined, it was expressed up to 10,000 fold higher in tumor tissue. Moreover, we were able to detect glycodelin in the serum of approximately 40% of patients with NSCLC. Therefore, we suggested glycodelin as a diagnostic and prognostic biomarker for NSCLC. 
+30518088_3001	30	40	Glycodelin	Gene-protein	HGNC:8573
+30518088_3001	52	64	progesterone	Chemical
+30518088_3001	52	95	progesterone associated endometrial protein	Gene-protein	HGNC:8573
+30518088_3001	97	101	PAEP	Gene-protein	HGNC:8573
+30518088_3001	339	349	Glycodelin	Gene-protein
+30518088_3001	564	574	glycodelin	Gene-protein	HGNC:8573
+30518088_3001	564	609	glycodelin has been shown to be overexpressed	Biomarker
+30518088_3001	613	636	hormone-related cancers	Disease	not found
+30518088_3001	613	685	hormone-related cancers, such as ovarian cancer [ 12 ] and breast cancer	Collection
+30518088_3001	646	660	ovarian cancer	Disease	DOID:2394
+30518088_3001	672	685	breast cancer	Disease	DOID:1612
+30518088_3001	740	758	endometrial cancer	Disease	DOID:1380
+30518088_3001	763	776	breast cancer	Disease
+30518088_3001	836	846	glycodelin	Gene-protein
+30518088_3001	880	918	increased glycodelin expression levels	Biomarker
+30518088_3001	890	900	glycodelin	Gene-protein
+30518088_3001	948	980	hormone-independent malignancies	Disease	not found
+30518088_3001	948	1087	hormone-independent malignancies as the malignant melanoma [ 16 ], non-small cell lung cancer [ 17 ] and the malignant pleural mesothelioma	Collection
+30518088_3001	988	1006	malignant melanoma	Disease	DOID:1909
+30518088_3001	1015	1041	non-small cell lung cancer	Disease	DOID:3908
+30518088_3001	1057	1087	malignant pleural mesothelioma	Disease	DOID:7474
+30518088_3001	1152	1162	glycodelin	Gene-protein
+30518088_3001	1152	1162	glycodelin	Biomarker
+30518088_3001	1183	1188	NSCLC	Disease	DOID:3908
+30518088_3001	1225	1229	gene	Pronoun
+30518088_3001	1225	1229	gene	Gene-protein
+30518088_3001	1225	1229	gene	Biomarker
+30518088_3001	1276	1282	tumors	Disease	DOID:162
+30518088_3001	1290	1294	PAEP	Gene-protein
+30518088_3001	1290	1294	PAEP	Biomarker	C045246
+30518088_3001	1417	1422	tumor	Disease	DOID:162
+30518088_3001	1464	1474	glycodelin	Gene-protein
+30518088_3001	1464	1474	glycodelin	Biomarker	C045246
+30518088_3001	1526	1531	NSCLC	Disease
+30518088_3001	1557	1567	glycodelin	Gene-protein
+30518088_3001	1557	1567	glycodelin	Biomarker
+30518088_3001	1613	1618	NSCLC	Disease
+

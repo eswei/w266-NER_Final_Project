@@ -1,0 +1,62 @@
+T0	Drug 63 66	SAF
+T1	Disease 94 99	tumor
+#2	AnnotatorNotes T1	DOID:162
+T10	Drug 528 537	cisplatin
+T11	Disease 554 568	ovarian cancer
+#4	AnnotatorNotes T11	DOID:2394
+T12	Drug 589 598	sorafenib
+T13	Disease 612 625	breast cancer
+#6	AnnotatorNotes T13	DOID:1612
+T14	Drug 655 665	irinotecan
+T15	Disease 679 694	colon carcinoma
+#8	AnnotatorNotes T15	DOID:1520
+T16	Disease 765 768	HCC
+T17	Drug 795 798	SAF
+T18	Drug 910 913	SAF
+T19	Disease 927 933	tumors
+#12	AnnotatorNotes T19	DOID:162
+T2	Disease 113 116	HCC
+T20	Disease 980 985	tumor
+T24	Drug 1152 1155	SAF
+T25	Disease 1152 1170	SAF-treated tumors
+T27	Drug 1294 1297	SAF
+T28	Disease 1294 1312	SAF-treated tumors
+T29	Drug 1379 1382	SAF
+T3	Drug 167 170	SAF
+T30	Disease 1429 1432	HCC
+T5	Disease 198 208	HCC tumors
+#25	AnnotatorNotes T5	DOID:684
+T6	Disease 349 365	malignant tumors
+#26	AnnotatorNotes T6	DOID:162
+T4	Collection 94 116	tumor growth in an HCC
+R1	Response Arg1:T0 Arg2:T4	
+#1	AnnotatorNotes T10	CHEMBL11359
+#3	AnnotatorNotes T12	CHEMBL1336
+#5	AnnotatorNotes T14	CHEMBL481
+#7	AnnotatorNotes T2	DOID:684 
+T7	Biomarker 214 223	ADC value
+R2	Association Arg1:T7 Arg2:T6	
+T8	Biomarker 496 506	ADC values
+T9	Biomarker 751 761	ADC values
+T22	Biomarker 939 961	increase in ADC values
+R3	Association Arg1:T22 Arg2:T20	
+T23	Biomarker 878 888	ADC values
+R4	Response Arg1:T29 Arg2:T30	
+T26	Gene-Protein 1245 1254	caspase-3
+#9	AnnotatorNotes T26	HGNC:1504
+T31	Gene-Protein 1267 1276	caspase-7
+#10	AnnotatorNotes T31	HGNC:1508
+#11	AnnotatorNotes T0	CHEBI:144227
+T21	Chemical 1050 1051	E
+T32	Biomarker 1110 1134	less compact cell spaces
+T33	Biomarker 1082 1105	ncreased tumor necrosis
+T34	Collection 1081 1134	Increased tumor necrosis and less compact cell spaces
+T35	Chemical 1176 1177	H
+T37	Chemical 1178 1179	E
+T36	Biomarker 1194 1276	higher levels of the proapoptotic proteins cleaved caspase-3 and cleaved caspase-7
+R5	Association Arg1:T34 Arg2:T25	
+R6	Association Arg1:T36 Arg2:T28	
+T38	Chemical 1048 1049	H
+#13	AnnotatorNotes T25	not found
+T56	Disease 390 395	tumor
+T40	Disease 409 414	tumor

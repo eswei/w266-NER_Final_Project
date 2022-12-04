@@ -1,0 +1,67 @@
+30027138_148|t|RSS_IDENT_p_30027138_a_1_1
+30027138_148|a| Single nucleotide polymorphism (SNP) rs738409 C>G in the patatin‐like phospholipase domain containing 3 (PNPLA3) gene results in an amino acid exchange from isoleucin to methionine at position I148M of PNPLA3. The expression of this loss‐of‐function mutation leads to impaired hepatocellular triglyceride hydrolysis and is associated with the development of liver steatosis, fibrosis, and hepatocellular carcinoma. In contrast to these well‐established associations, the relationship of the PNPLA3 rs738409 variant with other metabolic traits is incompletely understood. We therefore assessed the association of the PNPLA3 rs738409 genotype with relevant metabolic traits in a prospective study of patients at high risk for cardiovascular events, i.e., patients undergoing coronary angiography. In a total of 270 patients, known associations of the PNPLA3 rs738409 GG genotype with nonalcoholic steatohepatitis and liver fibrosis were confirmed. In addition, we found an association of the PNPLA3 rs738409 G allele with the presence of diabetes (22% versus 28% versus 58% for CC versus CG versus GG genotype, respectively; P = 0.02). In contrast to its association with nonalcoholic fatty liver disease, liver fibrosis, and diabetes, the minor G allele of PNPLA3 rs738409 was inversely associated with total serum cholesterol and low‐density lipoprotein serum levels (P = 0.003 and P = 0.02, respectively). Finally, there was a trend toward an inverse association between the presence of the PNPLA3 rs738409 G allele and significant coronary heart disease. Comparable trends were observed for the transmembrane 6 superfamily member 2 (TM6SF2) 167 K variant, but the sample size was too small to evaluate this rarer variant. Conclusion: The PNPLA3 rs738409 G allele is associated with liver disease but also with a relatively benign cardiovascular risk profile. (Hepatology Communications 2018;2:798‐806) Abbreviations CAD coronary artery disease CAP controlled attenuation parameter CHD coronary heart disease HDL high‐density lipoprotein LDL low‐density lipoprotein NAFLD nonalcoholic fatty liver disease NASH nonalcoholic steatohepatitis PNPLA3 patatin‐like phospholipase domain containing 3 SNP single nucleotide polymorphism TE transient elastography TM6SF2 transmembrane 6 superfamily member 2 VLDL very low‐density lipoprotein
+30027138_148	65	73	rs738409	Variant
+30027138_148	65	77	rs738409 C>G	Collection
+30027138_148	74	77	C>G	Variant
+30027138_148	85	131	patatin‐like phospholipase domain containing 3	Gene-protein	HGNC:18590
+30027138_148	133	139	PNPLA3	Gene-protein	HGNC:18590
+30027138_148	185	194	isoleucin	Chemical
+30027138_148	198	208	methionine	Chemical
+30027138_148	221	226	I148M	Variant	p.Ile148Met	Loss-of-funtion
+30027138_148	230	236	PNPLA3	Gene-protein
+30027138_148	296	343	impaired hepatocellular triglyceride hydrolysis	Biomarker
+30027138_148	320	332	triglyceride	Chemical
+30027138_148	386	401	liver steatosis	Disease	DOID:9452
+30027138_148	386	441	liver steatosis, fibrosis, and hepatocellular carcinoma	Collection
+30027138_148	403	411	fibrosis	Disease	DOID:0050855
+30027138_148	417	441	hepatocellular carcinoma	Disease	DOID:684
+30027138_148	519	525	PNPLA3	Gene-protein
+30027138_148	526	534	rs738409	Variant
+30027138_148	644	650	PNPLA3	Gene-protein
+30027138_148	651	659	rs738409	Variant
+30027138_148	877	883	PNPLA3	Gene-protein
+30027138_148	884	904	rs738409 GG genotype	Variant
+30027138_148	910	938	nonalcoholic steatohepatitis	Disease	DOID:0080547
+30027138_148	910	957	nonalcoholic steatohepatitis and liver fibrosis	Collection
+30027138_148	943	957	liver fibrosis	Disease	DOID:0050855
+30027138_148	1018	1024	PNPLA3	Gene-protein
+30027138_148	1025	1042	rs738409 G allele	Variant
+30027138_148	1064	1072	diabetes	Disease	not found
+30027138_148	1198	1230	nonalcoholic fatty liver disease	Disease	DOID:0080208
+30027138_148	1198	1260	nonalcoholic fatty liver disease, liver fibrosis, and diabetes	Collection
+30027138_148	1232	1246	liver fibrosis	Disease
+30027138_148	1252	1260	diabetes	Disease
+30027138_148	1266	1299	minor G allele of PNPLA3 rs738409	Biomarker
+30027138_148	1284	1290	PNPLA3	Gene-protein
+30027138_148	1330	1353	total serum cholesterol	Biomarker
+30027138_148	1342	1353	cholesterol	Chemical
+30027138_148	1358	1394	low‐density lipoprotein serum levels	Biomarker
+30027138_148	1520	1526	PNPLA3	Gene-protein
+30027138_148	1527	1544	rs738409 G allele	Variant
+30027138_148	1561	1583	coronary heart disease	Disease	DOID:3393
+30027138_148	1625	1661	transmembrane 6 superfamily member 2	Gene-protein	HGNC:11861
+30027138_148	1663	1669	TM6SF2	Gene-protein	HGNC:11861
+30027138_148	1671	1684	167 K variant	Variant
+30027138_148	1768	1774	PNPLA3	Gene-protein
+30027138_148	1775	1792	rs738409 G allele	Variant
+30027138_148	1812	1825	liver disease	Disease	DOID:409
+30027138_148	1853	1879	benign cardiovascular risk	Biomarker
+30027138_148	1946	1949	CAD	Disease	DOID:3393
+30027138_148	1950	1973	coronary artery disease	Disease
+30027138_148	2011	2014	CHD	Disease	DOID:3393
+30027138_148	2015	2037	coronary heart disease	Disease
+30027138_148	2038	2041	HDL	Chemical
+30027138_148	2042	2066	high‐density lipoprotein	Chemical
+30027138_148	2067	2070	LDL	Chemical
+30027138_148	2071	2094	low‐density lipoprotein	Chemical
+30027138_148	2095	2100	NAFLD	Disease	DOID:0080208
+30027138_148	2101	2133	nonalcoholic fatty liver disease	Disease
+30027138_148	2134	2138	NASH	Disease	DOID:0080547
+30027138_148	2139	2167	nonalcoholic steatohepatitis	Disease
+30027138_148	2168	2174	PNPLA3	Gene-protein
+30027138_148	2175	2221	patatin‐like phospholipase domain containing 3	Gene-protein
+30027138_148	2283	2289	TM6SF2	Gene-protein
+30027138_148	2290	2326	transmembrane 6 superfamily member 2	Gene-protein
+30027138_148	2327	2331	VLDL	Chemical
+30027138_148	2332	2360	very low‐density lipoprotein	Chemical
+

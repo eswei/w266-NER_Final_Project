@@ -1,0 +1,56 @@
+T10	Chemical 532 539	leucine
+T12	Disease 584 587	PCa
+T14	Chemical 611 614	DCN
+T15	Disease 686 689	PCa
+T16	Gene-Protein 751 754	DCN
+T17	Disease 779 784	tumor
+T18	Disease 844 850	cancer
+#9	AnnotatorNotes T18	DOID:162
+T19	Chemical 864 867	DCN
+T21	Disease 927 933	cancer
+T22	Disease 1033 1036	PCa
+T23	Gene-Protein 1184 1187	DCN
+T24	Disease 1215 1218	PCa
+T3	Disease 348 351	PCa
+T5	Disease 428 431	PCa
+T6	Disease 462 467	tumor
+#17	AnnotatorNotes T6	DOID:162
+T8	Gene-Protein 519 522	DCN
+T1	Disease 277 280	PCa
+T2	Biomarker 589 614	Reduced expression of DCN
+R1	Prognostic-Poor Arg1:T2 Arg2:T15	
+T4	RNA-Noncoding 301 308	miR-183
+#1	AnnotatorNotes T4	HGNC:31554
+T7	RNA-Noncoding 30 39	LSAMP-AS1
+#2	AnnotatorNotes T7	HGNC:40350
+T9	Gene-Protein 219 224	LSAMP
+#3	AnnotatorNotes T9	HGNC:6705
+T11	Gene-Protein 75 116	limbic system-associated membrane protein
+#4	AnnotatorNotes T11	HGNC:6705
+T13	Biomarker 201 260	deletion near the LSAMP locus on the chromosome 3 (3q13.31)
+R2	Association Arg1:T13 Arg2:T1	
+T25	RNA-Noncoding 376 383	miR-183
+T26	Gene-Protein 496 501	Dkk-3
+#6	AnnotatorNotes T26	HGNC:2893
+T27	Gene-Protein 506 511	SMAD4
+#7	AnnotatorNotes T27	HGNC:6770
+T28	Drug 363 383	knockdown of miR-183
+#8	AnnotatorNotes T28	not found
+#10	AnnotatorNotes T8	HGNC:2705
+T29	Drug 519 522	DCN
+#12	AnnotatorNotes T29	C546878
+T30	Drug 751 754	DCN
+T31	RNA-Noncoding 834 840	miR-21
+#13	AnnotatorNotes T31	HGNC:31586
+T32	Collection 779 850	tumor growth by diminishing the abundance of oncogenic miR-21 in cancer
+R4	Response Arg1:T30 Arg2:T32	
+T33	RNA-Noncoding 1003 1010	lncRNAs
+T34	Biomarker 1003 1010	lncRNAs
+#11	AnnotatorNotes T34	D062085
+R5	Association Arg1:T34 Arg2:T22	
+T35	RNA-Noncoding 1163 1172	LSAMP-AS1
+T36	RNA-Noncoding 1173 1183	miR-183–5p
+#14	AnnotatorNotes T36	HGNC:31554
+T37	Biomarker 1163 1192	LSAMP-AS1/miR-183–5p/DCN axis
+#15	AnnotatorNotes T1	DOID:10283
+R6	Response Arg1:T28 Arg2:T5	

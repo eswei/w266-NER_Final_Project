@@ -1,0 +1,60 @@
+29577671_22144|t|RSS_IDENT_p_29577671_b_1_4_3
+29577671_22144|a| Although the initial role of NFIs was demonstrated in the development of many organ systems, such as central nervous system 25 and lung 26, recent studies revealed that NFIs also play essential role in the context of cancer 7. NFIA mainly acts as a tumor‐promoting gene in glioma and ESCC 10, while NFIB exerts its oncogenic effect in SCLC, melanoma, breast cancer, and colon cancer and functions as a tumor suppressor in osteosarcoma, cutaneous squamous cell carcinoma, and NSCLC 11. Interestingly, Denny recently reported that chromatin in metastatic lesions exhibited a widespread increase in accessibility at gene distal regions that are enriched for NFI motifs, and NFIB regulates the expression of genes related to axon guidance, focal adhesion, and extracellular matrix–receptor interactions 13. Most recently, NFIB has been shown to promote proliferation of breast cancer cells in the absence of estrogen and inhibit the transcription activity of ERα 18. Consistent with the previous study that NFIA promotes growth of ESCC cells 11, we show here that NFIA is overexpressed in ESCC tissues, and high NFIA expression correlates with poor differentiation, lymph node metastasis, and advanced TNM stage in ESCC. It is worth noting that although NFIB was also overexpressed in ESCC, it is of no clinicopathological value in ESCC. On the other hand, NFIB was highly expressed in EJA, and high NFIB expression is of negative prognostic value in EJA. The small sample size of EJA is a main limitation of this work. Further work is needed to validate the role of NFIB in EJA using a large sample size. The differential roles of NFIA and NFIB reflect not only the distinct features of ESCC and EJA, but also the versatile functions of NFI family members. 
+29577671_22144	59	63	NFIs	Genefamily	family:1985
+29577671_22144	199	203	NFIs	Genefamily
+29577671_22144	199	203	NFIs	Biomarker	D051839
+29577671_22144	247	253	cancer	Disease	DOID:162
+29577671_22144	257	261	NFIA	Gene-protein	HGNC:7784
+29577671_22144	257	261	NFIA	Biomarker	D051839
+29577671_22144	279	284	tumor	Disease	DOID:162
+29577671_22144	279	318	tumor‐promoting gene in glioma and ESCC	Collection
+29577671_22144	303	309	glioma	Disease	D005910
+29577671_22144	314	318	ESCC	Disease	DOID:3748
+29577671_22144	329	333	NFIB	Biomarker	C110754
+29577671_22144	329	333	NFIB	Gene-protein	HGNC:7785
+29577671_22144	365	369	SCLC	Disease	DOID:5409
+29577671_22144	371	379	melanoma	Disease	DOID:1909
+29577671_22144	381	394	breast cancer	Disease	DOID:1612
+29577671_22144	400	412	colon cancer	Disease	DOID:219
+29577671_22144	452	464	osteosarcoma	Disease	DOID:3347
+29577671_22144	452	510	osteosarcoma, cutaneous squamous cell carcinoma, and NSCLC	Collection
+29577671_22144	466	499	cutaneous squamous cell carcinoma	Disease	DOID:1749
+29577671_22144	505	510	NSCLC	Disease	DOID:3908
+29577671_22144	572	590	metastatic lesions	Disease	not found
+29577671_22144	685	688	NFI	Genefamily
+29577671_22144	701	705	NFIB	Gene-protein
+29577671_22144	848	852	NFIB	Gene-protein
+29577671_22144	848	852	NFIB	Biomarker
+29577671_22144	896	909	breast cancer	Disease	DOID:1612
+29577671_22144	934	942	estrogen	Chemical
+29577671_22144	985	988	ERα	Gene-protein	HGNC:3467
+29577671_22144	1033	1037	NFIA	Gene-protein
+29577671_22144	1033	1037	NFIA	Biomarker	D051839
+29577671_22144	1057	1061	ESCC	Disease
+29577671_22144	1090	1094	NFIA	Gene-protein
+29577671_22144	1090	1111	NFIA is overexpressed	Biomarker
+29577671_22144	1115	1119	ESCC	Disease
+29577671_22144	1133	1153	high NFIA expression	Biomarker
+29577671_22144	1138	1142	NFIA	Gene-protein
+29577671_22144	1241	1245	ESCC	Disease
+29577671_22144	1280	1284	NFIB	Gene-protein
+29577671_22144	1280	1307	NFIB was also overexpressed	Biomarker
+29577671_22144	1311	1315	ESCC	Disease
+29577671_22144	1358	1362	ESCC	Disease
+29577671_22144	1383	1387	NFIB	Gene-protein
+29577671_22144	1383	1408	NFIB was highly expressed	Biomarker
+29577671_22144	1412	1415	EJA	Disease	DOID:4944
+29577671_22144	1421	1441	high NFIB expression	Biomarker
+29577671_22144	1426	1430	NFIB	Gene-protein
+29577671_22144	1477	1480	EJA	Disease
+29577671_22144	1507	1510	EJA	Disease
+29577671_22144	1593	1597	NFIB	Gene-protein
+29577671_22144	1601	1604	EJA	Disease
+29577671_22144	1636	1671	differential roles of NFIA and NFIB	Biomarker
+29577671_22144	1658	1662	NFIA	Gene-protein
+29577671_22144	1667	1671	NFIB	Gene-protein
+29577671_22144	1714	1718	ESCC	Disease
+29577671_22144	1714	1726	ESCC and EJA	Collection
+29577671_22144	1723	1726	EJA	Disease
+29577671_22144	1764	1767	NFI	Genefamily
+

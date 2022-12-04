@@ -1,0 +1,39 @@
+30562682_27059|t|RSS_IDENT_p_30562682_b_1_4_4
+30562682_27059|a| In vivo we observed a significant difference in size between erlotinib- and vehicle-treated PC9ᵍCᵀᴿ xenografted tumors, a difference not present in PC9ᵍFᴳFᴿ¹ tumors. Gene expression analysis revealed a persistent FGFR1 gene up-regulation in PC9ᵍFᴳFᴿ¹ at the end of the in vivo experiment in both vehicle- and erlotinib-treated mice. Analyses of human/mouse RNA-ratios in the tumors revealed decreased contribution from human cancer cells in erlotinib-treated PC9ᵍCᵀᴿ xenografts compared to vehicle treated, supporting a pronounced erlotinib-induced PC9ᵍCᵀᴿ cell death. In addition, the increased mouse cell contribution may have led to an overestimated tumor size in erlotinib-treated PC9ᵍCᵀᴿ xenografts during the experiment. We measured the FGF2 levels in the tumor tissue and observed FGF2 levels in the order of 20–80 pg/μg protein for all tumor samples. The FGF2 levels correlated with tumor size in PC9ᵍFᴳFᴿ¹ xenografts, but not in PC9ᵍCᵀᴿ xenografts suggesting a role for the FGF2-FGFR1 pathway in tumor growth. For PC9ᵍCᵀᴿ tumors FGF2 levels in the erlotinib treated tumor group was higher than expected. This could be a consequence of a higher degree of mouse cell infiltration. We also observed presence of significantly lower FGF2 levels in erlotinib-treated PC9ᵍFᴳFᴿ¹ xenografts compared to vehicle-treated PC9ᵍFᴳFᴿ¹ xenografts. This difference in FGF2-levels could indicate a greater turnover of FGF2 in the tumors caused by FGF2-internalization upon receptor-binding or may partly be due to a tendency towards larger sizes of vehicle tumors (Figure 5D) [30] .
+30562682_27059	91	100	erlotinib	Drug	CHEMBL553
+30562682_27059	142	148	tumors	Disease	DOID:162
+30562682_27059	178	194	PC9ᵍFᴳFᴿ¹ tumors	Disease	not found
+30562682_27059	243	248	FGFR1	Gene-protein	HGNC:3688
+30562682_27059	243	267	FGFR1 gene up-regulation	Biomarker
+30562682_27059	339	348	erlotinib	Drug
+30562682_27059	405	411	tumors	Disease
+30562682_27059	455	461	cancer	Disease	DOID:162
+30562682_27059	471	480	erlotinib	Drug
+30562682_27059	561	570	erlotinib	Drug
+30562682_27059	697	706	erlotinib	Drug
+30562682_27059	773	777	FGF2	Gene-protein	HGNC:3676
+30562682_27059	792	797	tumor	Disease	DOID:162
+30562682_27059	818	822	FGF2	Gene-protein
+30562682_27059	818	829	FGF2 levels	Biomarker
+30562682_27059	874	879	tumor	Disease
+30562682_27059	893	897	FGF2	Gene-protein
+30562682_27059	893	904	FGF2 levels	Biomarker
+30562682_27059	921	931	tumor size	Biomarker
+30562682_27059	1013	1017	FGF2	Gene-protein
+30562682_27059	1013	1031	FGF2-FGFR1 pathway	Biomarker
+30562682_27059	1018	1023	FGFR1	Gene-protein
+30562682_27059	1035	1040	tumor	Disease
+30562682_27059	1061	1067	tumors	Disease
+30562682_27059	1068	1072	FGF2	Gene-protein
+30562682_27059	1068	1079	FGF2 levels	Biomarker
+30562682_27059	1087	1096	erlotinib	Drug
+30562682_27059	1087	1110	erlotinib treated tumor	Disease
+30562682_27059	1261	1278	lower FGF2 levels	Biomarker
+30562682_27059	1267	1271	FGF2	Gene-protein
+30562682_27059	1282	1291	erlotinib	Drug
+30562682_27059	1390	1394	FGF2	Gene-protein
+30562682_27059	1439	1443	FGF2	Gene-protein
+30562682_27059	1451	1457	tumors	Disease
+30562682_27059	1468	1472	FGF2	Gene-protein
+30562682_27059	1578	1584	tumors	Disease
+

@@ -1,0 +1,97 @@
+T1	Disease 121 125	COPD
+#1	AnnotatorNotes T1	DOID:3083
+T10	Disease 1773 1777	COPD
+T11	Disease 1988 1995	cancers
+#3	AnnotatorNotes T11	DOID:162
+T12	Disease 2071 2075	COPD
+T14	Biomarker 2137 2182	irreversible, progressive airflow obstruction
+T16	Biomarker 2212 2218	HIF‐1α
+T17	Chemical 2268 2274	oxygen
+T18	Disease 2411 2415	COPD
+T19	Biomarker 2455 2461	HIF‐1α
+T2	Disease 348 352	COPD
+T20	Disease 2493 2497	COPD
+T21	Disease 2619 2636	airway remodeling
+#11	AnnotatorNotes T21	D056151
+T22	Disease 2712 2716	COPD
+T23	Biomarker 2788 2793	HIF‐1
+T24	Disease 2856 2879	pulmonary heart disease
+#13	AnnotatorNotes T24	DOID:8515
+T25	Disease 2897 2927	hypoxic pulmonary hypertension
+#14	AnnotatorNotes T25	not found
+T26	Disease 2932 2936	COPD
+T27	Chemical 3088 3095	mir‐186
+T4	Disease 463 467	COPD
+T5	Disease 835 839	COPD
+T9	Disease 1597 1601	COPD
+T29	RNA-Noncoding 90 97	miR‐186
+T30	RNA-Noncoding 630 645	hsa‐miR‐146b‐5p
+T31	RNA-Noncoding 647 661	hsa‐miR‐141‐3p
+T32	RNA-Noncoding 663 677	hsa‐miR‐186‐5p
+T33	RNA-Noncoding 679 691	hsa‐miR‐4532
+T34	RNA-Noncoding 742 757	hsa‐miR‐196b‐5p
+T35	RNA-Noncoding 724 736	hsa‐miR‐4503
+T36	RNA-Noncoding 707 722	hsa‐miR‐2681‐3p
+T37	RNA-Noncoding 693 705	hsa‐miR‐4635
+T38	RNA-Noncoding 1050 1060	miR‐141‐3p
+T39	RNA-Noncoding 1034 1045	miR‐146b‐5p
+T40	RNA-Noncoding 1314 1321	miR‐141
+T41	RNA-Noncoding 1301 1309	miR‐146b
+T42	CellLine 1347 1352	MRC‐5
+T43	RNA-Noncoding 1401 1408	miR‐186
+T44	CellLine 1429 1434	MRC‐5
+T45	RNA-Noncoding 1229 1240	miR‐196b‐5p
+T46	RNA-Noncoding 1141 1152	hsa‐miR‐186
+T47	RNA-Noncoding 1836 1843	miR‐186
+T48	RNA-Noncoding 1863 1875	MicroRNA‐186
+T49	RNA-Noncoding 1877 1884	miR‐186
+T50	Gene-Protein 2212 2218	HIF‐1α
+T51	RNA-Noncoding 3154 3161	mir‐186
+T52	RNA-Noncoding 3229 3235	HIF‐1α
+T53	Gene-Protein 3132 3138	HIF‐1α
+T54	Gene-Protein 2788 2793	HIF‐1
+T55	Gene-Protein 2455 2461	HIF‐1α
+T56	GeneFamily 2670 2673	HIF
+T57	Gene-Protein 2499 2504	HIF‐1
+T58	Gene-Protein 147 153	HIF‐1α
+T59	Biomarker 90 97	miR‐186
+#2	AnnotatorNotes T59	C533096
+T3	Biomarker 1653 1757	regulating the function of fibroblasts, including inducing apoptosis and inhibiting their proliferation,
+T6	Biomarker 1863 1875	MicroRNA‐186
+R1	Association Arg1:T6 Arg2:T11	
+R2	Association Arg1:T3 Arg2:T10	
+R3	Association Arg1:T14 Arg2:T12	
+R4	Association Arg1:T16 Arg2:T18	
+R5	Association Arg1:T19 Arg2:T20	
+T7	Disease 2568 2580	inflammation
+#4	AnnotatorNotes T7	D007249
+T8	Collection 2568 2636	inflammation, energy metabolism, angiogenesis, and airway remodeling
+T13	Biomarker 2499 2504	HIF‐1
+R6	Association Arg1:T13 Arg2:T8	
+T15	Biomarker 2670 2673	HIF
+R7	Association Arg1:T15 Arg2:T22	
+T60	Collection 2856 2936	pulmonary heart disease in patients with hypoxic pulmonary hypertension and COPD
+R8	Association Arg1:T23 Arg2:T60	
+R9	Association Arg1:T59 Arg2:T1	
+#5	AnnotatorNotes T6	C533096
+#6	AnnotatorNotes T16	C497442
+T28	Biomarker 1483 1548	imbalance of apoptosis and proliferation in pulmonary fibroblasts
+R10	Association Arg1:T28 Arg2:T9	
+#7	AnnotatorNotes T29	HGNC:31557
+#8	AnnotatorNotes T58	HGNC:4910
+#9	AnnotatorNotes T30	family:1716
+#10	AnnotatorNotes T41	family:1716
+#12	AnnotatorNotes T31	HGNC:31528
+#15	AnnotatorNotes T40	HGNC:31528
+#16	AnnotatorNotes T32	HGNC:31557
+#17	AnnotatorNotes T33	HGNC:41869
+#18	AnnotatorNotes T37	HGNC:41748
+#19	AnnotatorNotes T36	HGNC:41532
+#20	AnnotatorNotes T34	HGNC:31790
+#21	AnnotatorNotes T35	HGNC:41675
+#22	AnnotatorNotes T48	HGNC:31557
+T61	Biomarker 1034 1045	miR‐146b‐5p
+#23	AnnotatorNotes T61	C542542
+T63	Biomarker 1050 1060	miR‐141‐3p
+T64	Biomarker 1141 1152	hsa‐miR‐186
+#24	AnnotatorNotes T64	C533096

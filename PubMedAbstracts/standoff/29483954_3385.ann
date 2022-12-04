@@ -1,0 +1,52 @@
+T0	Disease 57 63	cancer
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 73 78	tumor
+#2	AnnotatorNotes T1	DOID:162
+T10	Disease 882 887	tumor
+T11	Disease 901 915	gastric cancer
+#4	AnnotatorNotes T11	DOID:10534
+T12	Disease 1008 1022	gastric cancer
+T13	GeneFamily 1218 1221	CEA
+T2	Disease 370 383	rectal cancer
+#7	AnnotatorNotes T2	DOID:1993
+T3	Disease 474 481	cancers
+#8	AnnotatorNotes T3	DOID:162
+T4	Disease 535 552	colorectal cancer
+#9	AnnotatorNotes T4	DOID:9256
+T5	Disease 592 617	occult metastatic disease
+#10	AnnotatorNotes T5	not found
+T6	Disease 694 699	tumor
+T7	Chemical 720 732	carbohydrate
+T8	Chemical 757 769	carbohydrate
+T9	Disease 817 823	tumors
+#14	AnnotatorNotes T9	DOID:162
+T14	GeneFamily 215 239	carcinoembryonic antigen
+#6	AnnotatorNotes T14	family:1317
+T15	GeneFamily 241 244	CEA
+#12	AnnotatorNotes T15	family:1317
+T16	Biomarker 209 239	serum carcinoembryonic antigen
+R1	Association Arg1:T16 Arg2:T2	
+T17	GeneFamily 393 396	CEA
+T18	Biomarker 393 446	CEA is produced in normal cells and at a higher level
+R2	Association Arg1:T18 Arg2:T3	
+T19	Biomarker 483 531	Persistent elevation of CEA levels after surgery
+T20	GeneFamily 507 510	CEA
+R3	Association Arg1:T19 Arg2:T5	
+T25	Biomarker 720 813	carbohydrate antigen 72-4 (CA 72-4), carbohydrate antigen 19-9 (CA 19-9) can also be elevated
+R4	Association Arg1:T25 Arg2:T9	
+T27	Biomarker 849 856	CA 19-9
+#17	AnnotatorNotes T27	D018395
+R5	Association Arg1:T27 Arg2:T11	
+R6	Prognostic-Poor Arg1:T27 Arg2:T12	
+T29	Biomarker 1028 1035	CA 72-4
+#3	AnnotatorNotes T29	C083825
+T30	Disease 1065 1067	GC
+#5	AnnotatorNotes T30	DOID:10534
+T31	Disease 1072 1075	CRC
+#18	AnnotatorNotes T31	DOID:9256
+T32	Collection 1065 1075	GC and CRC
+R7	Association Arg1:T29 Arg2:T32	
+T35	Biomarker 1235 1242	CA 72-4
+T36	Biomarker 1223 1230	CA 19-9
+T37	Biomarker 1218 1221	CEA
+#19	AnnotatorNotes T37	D002272

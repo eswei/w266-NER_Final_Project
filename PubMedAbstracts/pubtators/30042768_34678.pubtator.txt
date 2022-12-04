@@ -1,0 +1,49 @@
+30042768_34678|t|RSS_IDENT_p_30042768_b_1_4_3
+30042768_34678|a| Here, we found that IL-1 activity may contribute to fibrosis by inducing IL-6 and TGF-β expression in skin fibroblast and resulted in increased fibrosis in BLM-induced SSc model. We identified that exacerbated fibrosis and inflammation by IL-1 activity shown in vivo is largely dependent on IL-17. IL-1β, one of proinflammatory cytokine, has been unrevealed to promote collagen synthesis and aggregate fibrosis, suggesting its pro-fibrotic property ( 30 , 31 ). Previous studies have demonstrated the abnormally high activities of IL-1 as well as IL-1 receptor in SSc patients ( 32 , 33 ), indicating the pathophysiological roles of IL-1 signal transduction in SSc. Recently, Wilson et al. reported that intratracheal administration of IL-1β induces pulmonary fibrosis similar to BLM-induced fibrosis model, which is dependent on IL-17 activity ( 34 ). Their study is consistent with our findings showing that BLM-induced tissue fibrosis was exacerbated by systemically increased IL-1 activity through IL-1Ra depletion. Here, we demonstrated that IL-1 and IL-17, located in the downstream signal of IL-1, are important therapeutic targets for fibrosis inhibition of SSc. Furthermore, we identified that blocking the IL-1 receptor in vivo by anakinra administration significantly attenuated BLM-induced tissue fibrosis. 
+30042768_34678	50	54	IL-1	Gene-protein	HGNC:5991
+30042768_34678	50	63	IL-1 activity	Biomarker
+30042768_34678	82	90	fibrosis	Disease	D005355
+30042768_34678	103	107	IL-6	Gene-protein	HGNC:6018
+30042768_34678	112	117	TGF-β	Genefamily	family:1932
+30042768_34678	174	182	fibrosis	Disease
+30042768_34678	186	189	BLM	Chemical
+30042768_34678	186	201	BLM-induced SSc	Disease	not found
+30042768_34678	240	248	fibrosis	Disease
+30042768_34678	253	265	inflammation	Disease	D007249
+30042768_34678	269	273	IL-1	Gene-protein
+30042768_34678	321	326	IL-17	Gene-protein	HGNC:5981
+30042768_34678	328	333	IL-1β	Gene-protein	HGNC:5992
+30042768_34678	328	333	IL-1β	Biomarker	D053583
+30042768_34678	342	366	proinflammatory cytokine	Genefamily	not found
+30042768_34678	399	407	collagen	Genefamily	not found
+30042768_34678	432	440	fibrosis	Disease
+30042768_34678	531	590	abnormally high activities of IL-1 as well as IL-1 receptor	Biomarker
+30042768_34678	561	565	IL-1	Gene-protein
+30042768_34678	577	590	IL-1 receptor	Gene-protein	HGNC:5993
+30042768_34678	594	597	SSc	Disease	DOID:418
+30042768_34678	663	667	IL-1	Gene-protein
+30042768_34678	663	687	IL-1 signal transduction	Biomarker
+30042768_34678	691	694	SSc	Disease
+30042768_34678	766	771	IL-1β	Gene-protein
+30042768_34678	780	798	pulmonary fibrosis	Disease	D011658
+30042768_34678	810	813	BLM	Chemical
+30042768_34678	810	830	BLM-induced fibrosis	Disease
+30042768_34678	860	865	IL-17	Gene-protein
+30042768_34678	940	943	BLM	Chemical
+30042768_34678	940	967	BLM-induced tissue fibrosis	Disease
+30042768_34678	1010	1014	IL-1	Gene-protein
+30042768_34678	1032	1038	IL-1Ra	Gene-protein	HGNC:6000
+30042768_34678	1077	1081	IL-1	Gene-protein
+30042768_34678	1077	1081	IL-1	Biomarker	D007375
+30042768_34678	1077	1091	IL-1 and IL-17	Collection
+30042768_34678	1086	1091	IL-17	Gene-protein
+30042768_34678	1086	1091	IL-17	Biomarker	D020381
+30042768_34678	1129	1133	IL-1	Gene-protein
+30042768_34678	1173	1181	fibrosis	Disease
+30042768_34678	1173	1199	fibrosis inhibition of SSc	Collection
+30042768_34678	1196	1199	SSc	Disease
+30042768_34678	1246	1259	IL-1 receptor	Gene-protein
+30042768_34678	1271	1279	anakinra	Drug	CHEMBL1201570
+30042768_34678	1320	1323	BLM	Chemical
+30042768_34678	1320	1347	BLM-induced tissue fibrosis	Disease
+

@@ -1,0 +1,72 @@
+T10	Disease 393 396	SCD
+T12	Biomarker 485 506	high frequency of FVL
+T14	Disease 544 562	sickle cell anemia
+#5	AnnotatorNotes T14	DOID:10923
+T17	Disease 627 643	occlusive crisis
+#7	AnnotatorNotes T17	not found
+T18	Biomarker 784 817	inherited thrombophilic mutations
+T19	Disease 864 867	SCD
+T20	Variant 921 926	C677T
+T21	Chemical 943 968	methylenetetrahydrofolate
+T22	Variant 993 999	C1565T
+T24	Disease 1220 1223	SCD
+T26	Disease 1260 1263	AVN
+T27	Disease 1264 1287	Avascular bone necrosis
+#14	AnnotatorNotes T27	DOID:10159
+T28	Chemical 1376 1402	Methylene tetrahydrofolate
+T3	Disease 176 179	SCD
+T30	Disease 1556 1559	SCD
+T31	Disease 1560 1579	Sickle cell disease
+#18	AnnotatorNotes T31	DOID:10923
+T33	Disease 1594 1612	sickle cell anemia
+T5	Biomarker 190 193	FVL
+T34	Gene-Protein 128 139	prothrombin
+#1	AnnotatorNotes T34	HGNC:3535
+#2	AnnotatorNotes T3	DOID:10923
+T1	Biomarker 321 379	higher incidence of pain in chest, abdomen and bone joints
+T35	Disease 276 297	SCD patients with FVL
+#3	AnnotatorNotes T35	not found
+R2	Association Arg1:T1 Arg2:T35	
+R3	Association Arg1:T12 Arg2:T14	
+R4	Risk-Factor Arg1:T12 Arg2:T17	
+T7	Biomarker 836 860	thrombotic complications
+T8	GeneFamily 904 914	fibrinogen
+#4	AnnotatorNotes T8	not found
+T9	Gene-Protein 980 985	MTHFR
+#6	AnnotatorNotes T9	HGNC:7436
+T11	Gene-Protein 943 978	methylenetetrahydrofolate reductase
+#8	AnnotatorNotes T11	HGNC:7436
+T13	Gene-Protein 1016 1042	platelet glycoprotein IIIa
+#9	AnnotatorNotes T13	HGNC:6156
+T15	Gene-Protein 1062 1072	factor VII
+#13	AnnotatorNotes T15	HGNC:3544
+T16	Gene-Protein 1338 1364	Platelet glycoprotein IIIa
+T36	Gene-Protein 1370 1375	MTHFR
+T37	Gene-Protein 1376 1412	Methylene tetrahydrofolate reductase
+T39	Gene-Protein 1311 1314	FVL
+T40	Gene-Protein 1315 1330	Factor V Leiden
+T41	Gene-Protein 1331 1337	GPIIIa
+T42	Gene-Protein 1044 1050	GPIIIa
+#17	AnnotatorNotes T42	HGNC:6156
+T23	Biomarker 1141 1174	inherited thrombophilic mutations
+#10	AnnotatorNotes T26	DOID:10159
+T25	Gene-Protein 190 193	FVL
+T43	Biomarker 120 123	FVL
+#12	AnnotatorNotes T43	C095381
+T44	Disease 219 221	SS
+#20	AnnotatorNotes T44	DOID:10923
+T45	Variant 140 147	G20210A
+R7	Association Arg1:T5 Arg2:T44	
+R8	Variant-Of Arg1:T11 Arg2:T20	
+R5	Variant-Of Arg1:T13 Arg2:T22	
+#11	AnnotatorNotes T33	DOID:10923
+T2	Gene-Protein 1613 1615	βS
+T47	Gene-Protein 1616 1628	Hemoglobin S
+R1	Variant-Of Arg1:T34 Arg2:T45	
+R6	Association Arg1:T45 Arg2:T3	
+R9	Association Arg1:T43 Arg2:T3	
+T4	Gene-Protein 120 123	FVL
+#15	AnnotatorNotes T4	HGNC:3542
+T6	Gene-Protein 503 506	FVL
+T29	Gene-Protein 294 297	FVL
+#16	AnnotatorNotes T40	HGNC:3542

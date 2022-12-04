@@ -1,0 +1,65 @@
+T1	Disease 100 103	HCC
+T10	Disease 511 528	pancreatic cancer
+#2	AnnotatorNotes T10	DOID:1793
+T11	Disease 546 558	glioblastoma
+#3	AnnotatorNotes T11	DOID:3068
+T12	Disease 623 638	prostate cancer
+#4	AnnotatorNotes T12	DOID:10283
+T13	Disease 660 684	nasopharyngeal carcinoma
+#5	AnnotatorNotes T13	DOID:9261
+T14	Disease 737 740	HCC
+T16	Disease 853 856	HCC
+T19	Disease 972 975	HCC
+T2	Disease 115 120	tumor
+#11	AnnotatorNotes T2	DOID:162
+T22	Disease 1107 1110	HCC
+T24	Disease 1231 1246	HBV-related HCC
+#13	AnnotatorNotes T24	not found
+T26	Disease 1365 1368	HCC
+T27	Disease 1524 1527	HCC
+T5	Disease 294 306	solid tumors
+#16	AnnotatorNotes T5	DOID:162
+T8	Disease 459 472	breast tumors
+#17	AnnotatorNotes T8	DOID:1612
+T9	Disease 486 498	colon cancer
+#18	AnnotatorNotes T9	DOID:219
+T3	Biomarker 55 96	miRNAs have been found to be dysregulated
+T4	GeneFamily 55 61	miRNAs
+#1	AnnotatorNotes T4	family:476
+R1	Association Arg1:T3 Arg2:T1	
+#6	AnnotatorNotes T1	DOID:684
+T6	RNA-Noncoding 246 254	miR-663a
+#7	AnnotatorNotes T6	HGNC:32919
+T7	Biomarker 246 285	miR-663a has been proven to be abnormal
+R2	Association Arg1:T7 Arg2:T5	
+T15	RNA-Noncoding 329 337	miR-663a
+T20	Biomarker 329 337	miR-663a
+T21	Disease 341 354	tumorigenesis
+#8	AnnotatorNotes T21	DOID:162
+R3	Association Arg1:T20 Arg2:T21	
+T23	RNA-Noncoding 402 410	miR-663a
+T28	Collection 459 558	breast tumors [ 14 , 30 ], colon cancer [ 31 , 32 ] pancreatic cancer [ 33 – 35 ], and glioblastoma
+T29	Collection 623 684	prostate cancer [ 21 , 37 , 38 ] and nasopharyngeal carcinoma
+T31	Biomarker 725 733	miR-663a
+T32	RNA-Noncoding 725 733	miR-663a
+R6	Association Arg1:T31 Arg2:T14	
+T33	Biomarker 809 849	miR-663a was significantly downregulated
+T34	RNA-Noncoding 809 817	miR-663a
+R7	Association Arg1:T33 Arg2:T16	
+T17	RNA-Noncoding 953 961	miR-663a
+T18	Drug 953 961	miR-663a
+R8	Response Arg1:T18 Arg2:T19	
+T35	Gene-Protein 1032 1037	HMGA2
+#10	AnnotatorNotes T35	HGNC:5009
+T36	RNA-Noncoding 1060 1068	miR-663a
+T37	Biomarker 1060 1068	miR-663a
+R9	Association Arg1:T37 Arg2:T22	
+T38	RNA-Noncoding 1156 1164	miR-663a
+T39	Biomarker 1156 1195	miR-663a was specifically downregulated
+R10	Association Arg1:T39 Arg2:T24	
+T40	Drug 1327 1353	downregulation of miR-663a
+T41	RNA-Noncoding 1345 1353	miR-663a
+R11	Response Arg1:T40 Arg2:T26	
+T42	Gene-Protein 1468 1474	TGF-β1
+#12	AnnotatorNotes T42	HGNC:11766
+T43	RNA-Noncoding 1492 1500	miR-663a

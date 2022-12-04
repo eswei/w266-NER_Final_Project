@@ -1,0 +1,63 @@
+29979980_53015|t|RSS_IDENT_p_29979980_b_1_4_6
+29979980_53015|a| Although the novel disease caused by FARSB mutations described here shares some similarities with other known aaRS disorders, it is unique in other ways. None of the known aaRS diseases have extensive vascular and multi-organ manifestations, involving the lungs, brain, liver, kidney, intestine, and vasculature. However, other diseases caused by mutations encoding both non-polar and hydrophobic amino acid aaRSs share some clinical aspects with our FARSB individuals. For instance, recessive mutations in MARS (encoding methionyl-tRNA synthetase) (MIM: <url>) are associated with hypotonia, endocrine dysfunction, liver disease characterized by lobular disarray, canalicular cholestasis, steatosis, and iron deposition. ²⁵ Of interest, individuals with MARS mutations share with all five participants described here an extremely rare interstitial lung disease defined by cholesterol pneumonitis. 32 , 52 Autosomal-recessive IARS (encoding isoleucyl-tRNA synthetase) (MIM: <url>) deficiency is associated with liver disease, hypotonia, and intellectual disability. 23 , 24 In contrast to our findings with deficiency of cytoplasmic FARSB, compound heterozygous mutations in nuclear-encoded FARS2 (the mitochondrial phenylalanyl-tRNA synthetase) lead to combined oxidative phosphorylation deficiency associated with global developmental delay, refractory seizures, and lactic acidosis. ⁵³ Interestingly, in three individuals (P1, P3, and P5) a mitochondrial disease was suspected clinically. In P5, complex I activity was decreased, an observation similar to individuals with mutations in IARS. ²³ FARS, MARS, and IARS are part of a multi-synthetase complex (MSC), which is organized by nine cytoplasmic aaRSs and three aaRS-interacting multifunctional proteins AIMP1, AIMP2, and AIMP3. 2 , 3 , 54 Some aspects of the clinical phenotype may be related to such non-canonical functions or to involvement in the MSC. 
+29979980_53015	67	72	FARSB	Gene-protein	HGNC:17800
+29979980_53015	73	82	mutations	Variant
+29979980_53015	140	144	aaRS	Genefamily	family:130
+29979980_53015	140	154	aaRS disorders	Disease	not found
+29979980_53015	202	206	aaRS	Genefamily
+29979980_53015	202	215	aaRS diseases	Disease	not found
+29979980_53015	427	437	amino acid	Chemical
+29979980_53015	438	443	aaRSs	Genefamily	family:130
+29979980_53015	481	486	FARSB	Gene-protein
+29979980_53015	514	541	recessive mutations in MARS	Biomarker
+29979980_53015	537	541	MARS	Gene-protein	HGNC:6898
+29979980_53015	552	561	methionyl	Chemical
+29979980_53015	552	577	methionyl-tRNA synthetase	Gene-protein	HGNC:6898
+29979980_53015	612	621	hypotonia	Disease	D009123
+29979980_53015	612	659	hypotonia, endocrine dysfunction, liver disease	Collection
+29979980_53015	623	644	endocrine dysfunction	Disease	DOID:28
+29979980_53015	646	659	liver disease	Disease	DOID:409
+29979980_53015	677	693	lobular disarray	Biomarker
+29979980_53015	677	750	lobular disarray, canalicular cholestasis, steatosis, and iron deposition	Collection
+29979980_53015	695	718	canalicular cholestasis	Biomarker
+29979980_53015	720	729	steatosis	Biomarker	D005234
+29979980_53015	735	739	iron	Chemical
+29979980_53015	735	750	iron deposition	Biomarker
+29979980_53015	785	789	MARS	Gene-protein
+29979980_53015	785	799	MARS mutations	Biomarker
+29979980_53015	866	891	interstitial lung disease	Disease	DOID:3082
+29979980_53015	866	926	interstitial lung disease defined by cholesterol pneumonitis	Collection
+29979980_53015	903	914	cholesterol	Chemical
+29979980_53015	903	926	cholesterol pneumonitis	Disease	DOID:3082
+29979980_53015	936	1021	Autosomal-recessive IARS (encoding isoleucyl-tRNA synthetase) (MIM: <url>) deficiency	Biomarker
+29979980_53015	956	960	IARS	Gene-protein	HGNC:5330
+29979980_53015	971	980	isoleucyl	Chemical
+29979980_53015	971	996	isoleucyl-tRNA synthetase	Gene-protein	HGNC:5330
+29979980_53015	1041	1054	liver disease	Disease
+29979980_53015	1041	1094	liver disease, hypotonia, and intellectual disability	Collection
+29979980_53015	1056	1065	hypotonia	Disease
+29979980_53015	1071	1094	intellectual disability	Disease	DOID:1059
+29979980_53015	1163	1168	FARSB	Gene-protein
+29979980_53015	1170	1226	compound heterozygous mutations in nuclear-encoded FARS2	Biomarker
+29979980_53015	1221	1226	FARS2	Gene-protein	HGNC:21062
+29979980_53015	1246	1258	phenylalanyl	Chemical
+29979980_53015	1246	1274	phenylalanyl-tRNA synthetase	Gene-protein	HGNC:21062
+29979980_53015	1284	1329	combined oxidative phosphorylation deficiency	Disease	DOID:0060286
+29979980_53015	1353	1372	developmental delay	Biomarker
+29979980_53015	1353	1414	developmental delay, refractory seizures, and lactic acidosis	Collection
+29979980_53015	1374	1393	refractory seizures	Biomarker
+29979980_53015	1399	1414	lactic acidosis	Biomarker	D000140
+29979980_53015	1474	1495	mitochondrial disease	Disease	D028361
+29979980_53015	1529	1538	complex I	Genefamily	family:640
+29979980_53015	1529	1561	complex I activity was decreased	Biomarker
+29979980_53015	1606	1615	mutations	Variant
+29979980_53015	1619	1623	IARS	Gene-protein
+29979980_53015	1628	1632	FARS	Gene-protein	HGNC:21062
+29979980_53015	1634	1638	MARS	Gene-protein
+29979980_53015	1644	1648	IARS	Gene-protein
+29979980_53015	1734	1739	aaRSs	Genefamily
+29979980_53015	1750	1791	aaRS-interacting multifunctional proteins	Genefamily	not found
+29979980_53015	1792	1797	AIMP1	Gene-protein	HGNC:10648
+29979980_53015	1799	1804	AIMP2	Gene-protein	HGNC:20609
+29979980_53015	1810	1815	AIMP3	Gene-protein	HGNC:3212
+

@@ -1,0 +1,107 @@
+T1	GeneFamily 144 155	Rat sarcoma
+#1	AnnotatorNotes T1	family:389
+T10	Biomarker 575 615	PI3-K pathway may also be over-activated
+T11	Disease 619 621	TC
+T12	Biomarker 660 691	dysregulation of the IGF system
+T13	Biomarker 744 769	IGFs are locally produced
+T14	Disease 773 776	TCs
+T16	Biomarker 923 972	IGF-1R and IR have been found to be overexpressed
+T20	Biomarker 1182 1200	fetal IR-A isoform
+T23	Biomarker 1275 1339	autocrine loop involving IGF-2 and the isoform IR-A is activated
+T24	Disease 1353 1360	cancers
+#8	AnnotatorNotes T24	DOID:162
+T25	Disease 1385 1389	PDTC
+T26	Biomarker 1552 1617	IR-A, IGF-1R, and their ligands IGF-1 and IGF-2 are overexpressed
+T27	Disease 1691 1693	TC
+T28	Gene-Protein 1707 1712	IGF-2
+T30	Chemical 1900 1908	tyrosine
+T33	Disease 2153 2155	TC
+T4	Disease 233 236	TCs
+#13	AnnotatorNotes T4	DOID:1781
+T5	Biomarker 265 305	BRAF is the most frequently mutated gene
+T6	Disease 309 311	TC
+#14	AnnotatorNotes T6	DOID:1781
+T7	Disease 379 381	TC
+T8	Biomarker 393 562	mutations in PI3-K signaling effectors, such as Phosphatase and tensin homolog (PTEN) and phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha (PIK3CA)
+T9	Chemical 483 520	phosphatidylinositol-4,5-bisphosphate
+T34	Biomarker 30 60	Activation of the MAPK cascade
+T35	GeneFamily 48 52	MAPK
+#9	AnnotatorNotes T35	family:651
+T36	Biomarker 65 194	mutations and/or rearrangements of genes REarranged during Transfection (RET), Rat sarcoma (RAS), and proto-oncogene B-Raf (BRAF)
+T37	Gene-Protein 138 141	RET
+#11	AnnotatorNotes T37	HGNC:9967
+T38	Gene-Protein 106 136	REarranged during Transfection
+#16	AnnotatorNotes T38	HGNC:9967
+T2	GeneFamily 157 160	RAS
+#6	AnnotatorNotes T2	family:389
+T39	Gene-Protein 182 187	B-Raf
+#17	AnnotatorNotes T39	HGNC:1097
+T40	Gene-Protein 189 193	BRAF
+#18	AnnotatorNotes T40	HGNC:1097
+T3	Gene-Protein 265 269	BRAF
+R4	Prognostic-Poor Arg1:T5 Arg2:T6	
+T41	GeneFamily 406 411	PI3-K
+#19	AnnotatorNotes T41	family:831
+T42	Gene-Protein 483 553	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+#20	AnnotatorNotes T42	HGNC:8975
+T43	Gene-Protein 555 561	PIK3CA
+#21	AnnotatorNotes T43	HGNC:8975
+T44	Gene-Protein 473 477	PTEN
+#22	AnnotatorNotes T44	HGNC:9588
+T45	Gene-Protein 441 471	Phosphatase and tensin homolog
+#23	AnnotatorNotes T45	HGNC:9588
+R5	Association Arg1:T8 Arg2:T7	
+T46	GeneFamily 575 580	PI3-K
+R6	Association Arg1:T10 Arg2:T11	
+T47	GeneFamily 681 684	IGF
+#2	AnnotatorNotes T47	not found
+T48	GeneFamily 744 748	IGFs
+#24	AnnotatorNotes T48	not found
+R7	Association Arg1:T13 Arg2:T14	
+T49	Gene-Protein 778 783	IGF-1
+#3	AnnotatorNotes T49	HGNC:5464
+T50	Gene-Protein 805 810	IGF-2
+#25	AnnotatorNotes T50	HGNC:5466
+T15	Gene-Protein 923 929	IGF-1R
+#4	AnnotatorNotes T15	HGNC:5465
+T51	Gene-Protein 934 936	IR
+#26	AnnotatorNotes T51	HGNC:6091
+T52	Gene-Protein 1077 1082	IGF-1
+T53	Gene-Protein 1039 1045	IGF-1R
+T54	Gene-Protein 1036 1038	IR
+T18	Biomarker 1133 1149	overexpressed IR
+T19	Gene-Protein 1147 1149	IR
+T55	Gene-Protein 1188 1192	IR-A
+#27	AnnotatorNotes T55	not found
+T21	Gene-Protein 1263 1268	IGF-2
+T22	Gene-Protein 1300 1305	IGF-2
+T56	Gene-Protein 1322 1326	IR-A
+T57	Collection 1353 1389	cancers and particularly in the PDTC
+#7	AnnotatorNotes T25	not found
+R9	Association Arg1:T23 Arg2:T57	
+T58	Gene-Protein 1552 1556	IR-A
+T59	Gene-Protein 1558 1564	IGF-1R
+T60	Gene-Protein 1584 1589	IGF-1
+T61	Gene-Protein 1594 1599	IGF-2
+R10	Association Arg1:T26 Arg2:T27	
+T62	Gene-Protein 1824 1826	IR
+T63	Gene-Protein 1827 1833	IGF-1R
+T29	Gene-Protein 1885 1889	IR-A
+T31	Gene-Protein 1938 1968	non-integrin collagen receptor
+#10	AnnotatorNotes T31	not found
+T32	Gene-Protein 1970 1997	discoidin domain receptor 1
+#28	AnnotatorNotes T32	HGNC:2730
+T64	Gene-Protein 1999 2003	DDR1
+#29	AnnotatorNotes T64	HGNC:2730
+T65	Gene-Protein 2053 2056	HGF
+#30	AnnotatorNotes T65	HGNC:4893
+T66	Gene-Protein 2027 2051	Hepatocyte Growth Factor
+#31	AnnotatorNotes T66	HGNC:4893
+T67	Gene-Protein 2058 2061	Met
+#32	AnnotatorNotes T67	HGNC:7029
+T68	Biomarker 2145 2149	IR-A
+T69	Gene-Protein 2145 2149	IR-A
+R11	Association Arg1:T68 Arg2:T33	
+T70	GeneFamily 1900 1925	tyrosine kinase receptors
+#12	AnnotatorNotes T70	family:321
+R1	Association Arg1:T34 Arg2:T4	

@@ -1,0 +1,36 @@
+T0	Disease 238 265	nonectopic Cushing syndrome
+#1	AnnotatorNotes T0	not found
+T1	Chemical 368 376	cortisol
+T10	Chemical 979 987	androgen
+T11	Disease 1025 1035	malignancy
+#4	AnnotatorNotes T11	DOID:162
+T12	Chemical 1113 1121	cortisol
+T13	Chemical 1160 1173	catecholamine
+T14	Disease 1212 1228	pheochromocytoma
+#7	AnnotatorNotes T14	DOID:0050771
+T15	Chemical 1250 1264	catecholamines
+T16	Biomarker 1552 1586	Severe intraoperative hypertension
+T17	Disease 1664 1680	pheochromocytoma
+T18	Chemical 1766 1779	catecholamine
+T2	Disease 425 436	hypokalemia
+#12	AnnotatorNotes T2	DOID:4500
+T3	Chemical 492 501	potassium
+T4	Disease 512 523	hypokalemia
+T5	Chemical 556 565	potassium
+T6	Disease 616 631	Cushing disease
+#16	AnnotatorNotes T6	DOID:446
+T7	Disease 677 688	hypokalemia
+T8	Biomarker 777 788	hypotension
+#18	AnnotatorNotes T8	D007022
+T9	Biomarker 845 858	hyperglycemia
+#19	AnnotatorNotes T9	D006943
+T19	Gene-Protein 359 363	ACTH
+#2	AnnotatorNotes T19	HGNC:9201
+T20	Biomarker 342 375	higher levels of ACTH and cortiso
+T21	Biomarker 492 507	potassium level
+R1	Association Arg1:T21 Arg2:T4	
+T22	Biomarker 710 733	Elevated blood pressure
+T23	Biomarker 970 994	elevated androgen levels
+R2	Association Arg1:T23 Arg2:T11	
+T24	Biomarker 1104 1128	elevated cortisol levels
+T25	Biomarker 1152 1173	lack of catecholamine

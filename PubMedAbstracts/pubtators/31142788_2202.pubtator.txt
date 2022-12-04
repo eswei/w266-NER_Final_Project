@@ -1,0 +1,64 @@
+31142788_2202|t|RSS_IDENT_p_31142788_b_1_1_3
+31142788_2202|a| Several studies identified the molecular events involved in the malignant transformation of melanoma. Transcription regulators and proto-oncogenes such as serine/threonine kinase B-Raf (BRAF), mast/stem cell growth factor receptor c-Kit (KIT), neuroblastoma RAS viral oncogene homolog (NRAS), phosphatase and tensin homologue (PTEN), tumor suppressor p53 (P53), telomerase reverse transcriptase (TERT), and microphthalmia-associated transcription factor (MITF) are associated with metastatic melanoma. In addition, mutations in cyclin-dependent kinase inhibitor 2A (CDKN2A) encoding two tumour suppressor proteins, p16 and p14, as well as genes involved in the DNA repair mechanism or the melanocortin-1 receptor (MC1R) play an important role in the onset of melanoma ² , ⁶ . We recently reported new melanoma oncotargets, such as enolase 1, parkinsonism-associated deglycase, prostaglandin E synthase 3, nucleophosmin, and stathmin 1, playing a key role in malignant transformation ⁷ . Moreover, molecular analyses showed the central role of the PTEN/mutated in multiple advanced cancers 1 (MMAC1) in reducing cell proliferation or inducing apoptosis ⁸ , and the association of PTEN loss to melanoma ⁹ . Furthermore, angiogenesis is an important factor allowing melanoma migration and metastases. Mehnert et al. reported that the expression of vascular endothelial growth factor (VEGF) and its receptors (VEGF-R) are higher in melanomas compare to normal melanocytes ¹⁰ . 
+31142788_2202	122	130	melanoma	Disease	DOID:1909
+31142788_2202	185	191	serine	Chemical
+31142788_2202	185	214	serine/threonine kinase B-Raf	Gene-protein	HGNC:1097
+31142788_2202	185	214	serine/threonine kinase B-Raf	Biomarker	D048493
+31142788_2202	185	490	serine/threonine kinase B-Raf (BRAF), mast/stem cell growth factor receptor c-Kit (KIT), neuroblastoma RAS viral oncogene homolog (NRAS), phosphatase and tensin homologue (PTEN), tumor suppressor p53 (P53), telomerase reverse transcriptase (TERT), and microphthalmia-associated transcription factor (MITF)	Collection
+31142788_2202	192	201	threonine	Chemical
+31142788_2202	216	220	BRAF	Gene-protein	HGNC:1097
+31142788_2202	223	266	mast/stem cell growth factor receptor c-Kit	Gene-protein	HGNC:6342
+31142788_2202	223	266	mast/stem cell growth factor receptor c-Kit	Biomarker	D019009
+31142788_2202	268	271	KIT	Gene-protein	HGNC:6342
+31142788_2202	274	314	neuroblastoma RAS viral oncogene homolog	Gene-protein	HGNC:7989
+31142788_2202	274	314	neuroblastoma RAS viral oncogene homolog	Biomarker	C579846
+31142788_2202	316	320	NRAS	Gene-protein	HGNC:7989
+31142788_2202	323	355	phosphatase and tensin homologue	Gene-protein	HGNC:9588
+31142788_2202	323	355	phosphatase and tensin homologue	Biomarker	D051059
+31142788_2202	357	361	PTEN	Gene-protein	HGNC:9588
+31142788_2202	364	384	tumor suppressor p53	Gene-protein	HGNC:11998
+31142788_2202	364	384	tumor suppressor p53	Biomarker	D016158
+31142788_2202	386	389	P53	Gene-protein	HGNC:11998
+31142788_2202	392	424	telomerase reverse transcriptase	Gene-protein	HGNC:11730
+31142788_2202	392	424	telomerase reverse transcriptase	Biomarker	C509186
+31142788_2202	426	430	TERT	Gene-protein	HGNC:11730
+31142788_2202	437	483	microphthalmia-associated transcription factor	Gene-protein	HGNC:7105
+31142788_2202	437	483	microphthalmia-associated transcription factor	Biomarker	C497234
+31142788_2202	485	489	MITF	Gene-protein	HGNC:7105
+31142788_2202	511	530	metastatic melanoma	Disease	DOID:1909
+31142788_2202	545	749	mutations in cyclin-dependent kinase inhibitor 2A (CDKN2A) encoding two tumour suppressor proteins, p16 and p14, as well as genes involved in the DNA repair mechanism or the melanocortin-1 receptor (MC1R)	Biomarker
+31142788_2202	558	594	cyclin-dependent kinase inhibitor 2A	Gene-protein	HGNC:1787
+31142788_2202	596	602	CDKN2A	Gene-protein	HGNC:1787
+31142788_2202	645	648	p16	Gene-protein	HGNC:1787
+31142788_2202	653	656	p14	Gene-protein	HGNC:30833
+31142788_2202	719	742	melanocortin-1 receptor	Gene-protein	HGNC:6929
+31142788_2202	744	748	MC1R	Gene-protein	HGNC:6929
+31142788_2202	789	797	melanoma	Disease
+31142788_2202	831	839	melanoma	Disease
+31142788_2202	861	870	enolase 1	Gene-protein	HGNC:3350
+31142788_2202	861	870	enolase 1	Biomarker	C095157
+31142788_2202	861	964	enolase 1, parkinsonism-associated deglycase, prostaglandin E synthase 3, nucleophosmin, and stathmin 1	Collection
+31142788_2202	872	904	parkinsonism-associated deglycas	Gene-protein	HGNC:16369
+31142788_2202	872	905	parkinsonism-associated deglycase	Biomarker	D000071617
+31142788_2202	907	922	prostaglandin E	Chemical
+31142788_2202	907	933	prostaglandin E synthase 3	Gene-protein	HGNC:16049
+31142788_2202	907	933	prostaglandin E synthase 3	Biomarker	D000071876
+31142788_2202	935	948	nucleophosmin	Gene-protein	HGNC:7910
+31142788_2202	935	948	nucleophosmin	Biomarker	C029739
+31142788_2202	954	964	stathmin 1	Gene-protein	HGNC:6510
+31142788_2202	954	964	stathmin 1	Biomarker	C493995
+31142788_2202	1077	1081	PTEN	Gene-protein
+31142788_2202	1077	1128	PTEN/mutated in multiple advanced cancers 1 (MMAC1)	Drug	C494929
+31142788_2202	1082	1120	mutated in multiple advanced cancers 1	Gene-protein	HGNC:9588
+31142788_2202	1122	1127	MMAC1	Gene-protein	HGNC:9588
+31142788_2202	1209	1213	PTEN	Gene-protein
+31142788_2202	1209	1218	PTEN loss	Biomarker
+31142788_2202	1222	1230	melanoma	Disease
+31142788_2202	1248	1260	angiogenesis	Biomarker
+31142788_2202	1293	1301	melanoma	Disease
+31142788_2202	1361	1454	expression of vascular endothelial growth factor (VEGF) and its receptors (VEGF-R) are higher	Biomarker
+31142788_2202	1375	1409	vascular endothelial growth factor	Gene-protein	HGNC:12680
+31142788_2202	1411	1415	VEGF	Gene-protein	HGNC:12680
+31142788_2202	1436	1442	VEGF-R	Gene-protein	HGNC:6307
+31142788_2202	1458	1467	melanomas	Disease	DOID:1909
+

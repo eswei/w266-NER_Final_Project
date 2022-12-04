@@ -1,0 +1,74 @@
+T1	Biomarker 59 112	gene signature of SDC3 downstream and its expressions
+T10	Disease 683 688	cance
+#1	AnnotatorNotes T10	DOID:162
+T11	Disease 774 788	gastric cancer
+#2	AnnotatorNotes T11	DOID:10534
+T12	Biomarker 790 819	aberrant expression of PLXDC1
+T13	Disease 829 835	cancer
+T15	Biomarker 941 984	dysregulated expression of some TBX members
+T16	Disease 1039 1053	thyroid cancer
+#4	AnnotatorNotes T16	DOID:1781
+T17	Biomarker 1061 1164	expression of TBX15 induced Bcl2 and Bcl‐XL (anti‐apoptotic proteins) expression and its overexpression
+T18	Biomarker 1226 1257	SDC3 and its regulatory network
+T19	Disease 1302 1305	RCC
+T2	Disease 143 149	cancer
+#6	AnnotatorNotes T2	DOID:162
+T20	Biomarker 1327 1331	SDC3
+T21	Disease 1404 1407	RCC
+T3	Disease 238 241	RCC
+#8	AnnotatorNotes T3	DOID:4450
+T4	Biomarker 256 261	ITGA4
+T5	Disease 271 277	cancer
+T6	Disease 379 382	RCC
+T7	Biomarker 405 486	high expression of 7 genes (SDC3, PLXDC1, IL18RAP, GZMH, ATP8B3, TBX15, and TMC8)
+T9	Disease 529 532	RCC
+T22	Gene-Protein 77 81	SDC3
+#11	AnnotatorNotes T22	HGNC:10660
+R1	Association Arg1:T1 Arg2:T2	
+T23	Gene-Protein 256 261	ITGA4
+#9	AnnotatorNotes T23	HGNC:6140
+R2	Association Arg1:T4 Arg2:T6	
+R3	Prognostic-Poor Arg1:T7 Arg2:T9	
+T24	Gene-Protein 433 437	SDC3
+T25	Gene-Protein 439 445	PLXDC1
+#10	AnnotatorNotes T25	HGNC:20945
+T26	Gene-Protein 447 454	IL18RAP
+#13	AnnotatorNotes T26	HGNC:5989
+T27	Gene-Protein 456 460	GZMH
+#14	AnnotatorNotes T27	HGNC:4710
+T28	Gene-Protein 462 468	ATP8B3
+#15	AnnotatorNotes T28	HGNC:13535
+T8	Gene-Protein 470 475	TBX15
+#16	AnnotatorNotes T8	HGNC:11594
+T29	Gene-Protein 481 485	TMC8
+#17	AnnotatorNotes T29	HGNC:20474
+T30	Gene-Protein 570 576	PLXDC1
+T31	Gene-Protein 592 596	TEM7
+#12	AnnotatorNotes T31	HGNC:20945
+T32	Biomarker 570 576	PLXDC1
+#18	AnnotatorNotes T32	C510620
+T33	Biomarker 592 596	TEM7
+#19	AnnotatorNotes T33	C510620
+T34	Collection 570 597	PLXDC1 (also known as TEM7)
+R4	Association Arg1:T34 Arg2:T10	
+R5	Association Arg1:T12 Arg2:T11	
+T35	Gene-Protein 813 819	PLXDC1
+T14	Gene-Protein 877 882	TBX15
+T36	GeneFamily 902 939	T‐box family of transcription factors
+#3	AnnotatorNotes T36	family:766
+T37	GeneFamily 973 976	TBX
+#20	AnnotatorNotes T37	family:766
+R6	Association Arg1:T15 Arg2:T13	
+T38	Gene-Protein 1075 1080	TBX15
+T39	Gene-Protein 1089 1093	Bcl2
+#21	AnnotatorNotes T39	HGNC:990
+T40	Gene-Protein 1098 1104	Bcl‐XL
+#22	AnnotatorNotes T40	HGNC:992
+R7	Association Arg1:T17 Arg2:T16	
+T41	Gene-Protein 1226 1230	SDC3
+R8	Association Arg1:T18 Arg2:T19	
+T42	Gene-Protein 1327 1331	SDC3
+#5	AnnotatorNotes T20	C508301
+R9	Association Arg1:T20 Arg2:T21	
+T43	GeneFamily 302 309	kinesin
+#7	AnnotatorNotes T43	family:622

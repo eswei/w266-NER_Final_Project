@@ -1,0 +1,55 @@
+29950867_20732|t|RSS_IDENT_p_29950867_b_1_4_4
+29950867_20732|a| It has been well established that MiRNAs are abnormally expressed in carcinogenesis. A bunch of miRNAs have been demonstrated to regulate the progression of OS proliferation, invasion, and metastasis through repressing their specific target genes. For these reasons, we suspected there could be some miRNAs involved in TRIM44 upregulation in OS. The TRIM44 transcript was predicted to be a direct target of miR-410 by bioinformatics tools, and was further confirmed by luciferase reporter assay, qRT-PCR, and Western blotting. There is a growing body of literature indicating the suppressive role of miR-410 in human cancers, including pancreatic cancer, gastric cancer, glioma, and breast cancer. 25 – 28 Xiong et al have shown that miR-410 attenuates gemcitabine resistance by suppressing HMGB1-mediated autophagy in pancreatic ductal adenocarcinoma. 29 In addition, miR-410 exerts a tumor-suppressing role in breast cancer progression by downregulating oncogenic Snail. 27 Surprisingly, miR-410 also served as an oncogenic miRNA in some other types of cancer. 30 – 32 Therefore, we believe that miR-410 may play a contradictory role in tumorigenesis depending on the type of cancer. Here, we identified that miR-410 was frequently downregulated in OS tissues and cell lines, indicating that miR-410 may be implicated in OS carcinogenesis. Consistent with previous studies, we also found overexpression of miR-410 inhibited cell proliferation, migration, invasion, and EMT, which mimics the cellular outcomes of TRIM44 knockdown. More intriguingly, ectopic expression of TRIM44 reversed the inhibitory effects of miR-410 on OS cells. To conclude, our data indicate that TRIM44 is another main functional target gene of miR-410, and miR-410 functions as a crucial tumor suppressor in OS. 
+29950867_20732	64	70	MiRNAs	Rna-noncoding	family:476
+29950867_20732	64	95	MiRNAs are abnormally expressed	Biomarker
+29950867_20732	99	113	carcinogenesis	Disease	DOID:162
+29950867_20732	126	132	miRNAs	Rna-noncoding	family:476
+29950867_20732	126	132	miRNAs	Biomarker	D035683
+29950867_20732	187	189	OS	Disease	DOID:3347
+29950867_20732	330	336	miRNAs	Rna-noncoding
+29950867_20732	330	336	miRNAs	Biomarker
+29950867_20732	330	368	miRNAs involved in TRIM44 upregulation	Collection
+29950867_20732	349	355	TRIM44	Gene-protein	HGNC:19016
+29950867_20732	349	368	TRIM44 upregulation	Biomarker
+29950867_20732	372	374	OS	Disease
+29950867_20732	380	386	TRIM44	Gene-protein
+29950867_20732	437	444	miR-410	Rna-noncoding	HGNC:32065
+29950867_20732	630	637	miR-410	Rna-noncoding
+29950867_20732	630	637	miR-410	Biomarker	C568527
+29950867_20732	647	654	cancers	Disease	DOID:162
+29950867_20732	647	726	cancers, including pancreatic cancer, gastric cancer, glioma, and breast cancer	Collection
+29950867_20732	666	683	pancreatic cancer	Disease	DOID:1793
+29950867_20732	685	699	gastric cancer	Disease	DOID:10534
+29950867_20732	701	707	glioma	Disease	DOID:0060108
+29950867_20732	713	726	breast cancer	Disease	DOID:1612
+29950867_20732	764	771	miR-410	Rna-noncoding
+29950867_20732	764	771	miR-410	Biomarker
+29950867_20732	783	794	gemcitabine	Drug	CHEMBL888
+29950867_20732	821	826	HMGB1	Gene-protein	HGNC:4983
+29950867_20732	849	881	pancreatic ductal adenocarcinoma	Disease	DOID:3498
+29950867_20732	899	906	miR-410	Rna-noncoding
+29950867_20732	899	906	miR-410	Drug	C568527
+29950867_20732	942	955	breast cancer	Disease
+29950867_20732	1020	1027	miR-410	Rna-noncoding
+29950867_20732	1020	1027	miR-410	Biomarker
+29950867_20732	1085	1091	cancer	Disease	DOID:162
+29950867_20732	1128	1135	miR-410	Biomarker
+29950867_20732	1128	1135	miR-410	Rna-noncoding
+29950867_20732	1208	1214	cancer	Disease
+29950867_20732	1241	1248	miR-410	Rna-noncoding
+29950867_20732	1241	1277	miR-410 was frequently downregulated	Biomarker
+29950867_20732	1281	1283	OS	Disease
+29950867_20732	1324	1331	miR-410	Rna-noncoding
+29950867_20732	1324	1331	miR-410	Biomarker
+29950867_20732	1353	1355	OS	Disease
+29950867_20732	1420	1445	overexpression of miR-410	Drug	not found
+29950867_20732	1438	1445	miR-410	Rna-noncoding
+29950867_20732	1544	1550	TRIM44	Gene-protein
+29950867_20732	1603	1609	TRIM44	Gene-protein
+29950867_20732	1645	1652	miR-410	Rna-noncoding
+29950867_20732	1656	1658	OS	Disease
+29950867_20732	1702	1708	TRIM44	Gene-protein
+29950867_20732	1751	1758	miR-410	Rna-noncoding
+29950867_20732	1764	1771	miR-410	Rna-noncoding
+29950867_20732	1815	1817	OS	Disease
+

@@ -1,0 +1,57 @@
+T0	RNA-Noncoding 76 85	LOC554202
+T1	Disease 100 108	chordoma
+#2	AnnotatorNotes T1	DOID:3302
+T10	Disease 398 402	LSCC
+T12	RNA-Noncoding 537 546	LOC554202
+T15	Disease 772 777	tumor
+#6	AnnotatorNotes T15	DOID:162
+T18	Disease 942 953	lung cancer
+#8	AnnotatorNotes T18	DOID:1324
+T20	Disease 1020 1031	lung cancer
+T21	RNA-Noncoding 1102 1111	LOC554202
+T22	Disease 1163 1169	tumors
+T23	RNA-Noncoding 1200 1209	LOC554202
+T25	Disease 1259 1265	tumors
+T3	RNA-Noncoding 147 156	LOC554202
+T5	Disease 208 216	chordoma
+T7	RNA-Noncoding 249 258	LOC554202
+T8	Disease 344 352	chordoma
+T9	Disease 363 396	laryngeal squamous cell carcinoma
+#18	AnnotatorNotes T9	DOID:2876
+#1	AnnotatorNotes T0	HGNC:37187
+T2	RNA-Noncoding 90 96	miR-31
+#3	AnnotatorNotes T2	HGNC:31630
+T4	RNA-Noncoding 198 204	miR-31
+T6	RNA-Noncoding 278 284	miR-31
+T11	RNA-Noncoding 449 455	miR-31
+T13	RNA-Noncoding 505 513	LOC55420
+T17	RNA-Noncoding 629 635	miR-31
+T19	RNA-Noncoding 740 746	miR-31
+T24	RNA-Noncoding 861 867	miR-31
+T16	RNA-Noncoding 986 992	miR-31
+T14	RNA-Noncoding 1116 1122	miR-31
+T26	RNA-Noncoding 1214 1220	miR-31
+#4	AnnotatorNotes T10	DOID:2876
+T27	CellLine 557 562	Hep-2
+T28	CellLine 646 651	Hep-2
+T29	Biomarker 179 204	decreased level of miR-31
+T30	Biomarker 130 156	up-regulation of LOC554202
+T32	Biomarker 1200 1209	LOC554202
+T33	Biomarker 1214 1220	miR-31
+T34	Collection 1200 1220	LOC554202 and miR-31
+R1	Association Arg1:T34 Arg2:T25	
+T35	Drug 262 284	upregulation of miR-31
+#5	AnnotatorNotes T35	not found
+T36	Drug 236 258	silencing of LOC554202
+#7	AnnotatorNotes T36	not found
+T37	Collection 236 284	silencing of LOC554202 or upregulation of miR-31
+R2	Response Arg1:T37 Arg2:T8	
+T38	Biomarker 435 470	expression of miR-31 was negatively
+T39	Biomarker 491 513	expression of LOC55420
+T31	Biomarker 842 905	over-expression of miR-31, as a oncomir, significantly enhanced
+R4	Association Arg1:T31 Arg2:T18	
+T40	Drug 968 992	downregulation of miR-31
+R3	Response Arg1:T40 Arg2:T20	
+#9	AnnotatorNotes T32	C000622485
+#10	AnnotatorNotes T33	C534612
+#11	AnnotatorNotes T22	DOID:162

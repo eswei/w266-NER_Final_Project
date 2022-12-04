@@ -1,0 +1,54 @@
+31007608_22298|t|RSS_IDENT_p_31007608_b_1_4_4
+31007608_22298|a| In the ceRNA network, the lncRNA LINC00221 (connection degree = 2) had the highest connection degree among the prognostic DElncRNAs (MYCNOS, DLX6-AS1, LINC00221, and CRNDE) (Additional file 5: Table S5). Therefore, we concluded that it might exert a strong influence on HCC pathogenesis. Russell et al. showed that the expression of LINC00221 is 2.4-fold higher in high-risk neuroblastomas than in low-risk neuroblastomas [ 30 ]. LINC00221 was involved in ceRNA networks in several tumor types. Fan et al. reported that LINC00221 is upregulated in breast cancer compared to adjacent-normal breast tissues and is involved in the lncRNA–miRNA–mRNA ceRNA network of breast cancer [ 31 ]. He et al. demonstrated that LINC00221 is dysregulated in gastric cancer and competes with six miRNAs (hsa‑miR‑96, hsa‑miR‑143, hsa‑miR‑204, hsa‑miR‑372, hsa‑miR‑373 and hsa‑miR‑519d) to mediate target mRNA expression in gastric cancer [ 32 ]. Zhang et al. found that LINC00221 is associated with a poor prognosis in patients with gastric cancer, and an 11‑lncRNA signature consisting of LINC00221 can predict the survival rate for gastric cancer [ 33 ]. Wang et al. noted that LINC00221 is involved in the lncRNA–miRNA–mRNA ceRNA network of muscle-invasive bladder cancer, and its high expression level was significantly related to the progression of muscle-invasive bladder cancer [ 34 ]. Our study also showed that LINC00221 expression is 77-fold higher in HCC tissues than in paired nontumorous tissues. Increased expression of LINC00221 was associated with a poor prognosis in patients with HCC. Moreover, we found that LINC00221 might compete with two key DEmiRNAs (hsa-miR-182 and hsa-miR-96) to mediate target DEmRNA expression in HCC. 
+31007608_22298	63	72	LINC00221	Rna-noncoding	 HGNC:20169
+31007608_22298	163	169	MYCNOS	Rna-noncoding	HGNC:16911
+31007608_22298	171	179	DLX6-AS1	Rna-noncoding	HGNC:37151
+31007608_22298	181	190	LINC00221	Rna-noncoding
+31007608_22298	181	190	LINC00221	Biomarker
+31007608_22298	196	201	CRNDE	Rna-noncoding	HGNC:37078
+31007608_22298	263	265	it	Rna-noncoding
+31007608_22298	263	265	it	Biomarker
+31007608_22298	263	265	it	Pronoun
+31007608_22298	300	303	HCC	Disease	DOID:684
+31007608_22298	349	391	expression of LINC00221 is 2.4-fold higher	Biomarker
+31007608_22298	363	372	LINC00221	Rna-noncoding
+31007608_22298	395	419	high-risk neuroblastomas	Disease	not found
+31007608_22298	428	451	low-risk neuroblastomas	Disease	not found
+31007608_22298	460	469	LINC00221	Rna-noncoding
+31007608_22298	460	469	LINC00221	Biomarker
+31007608_22298	512	517	tumor	Disease	DOID:162
+31007608_22298	550	559	LINC00221	Rna-noncoding
+31007608_22298	550	574	LINC00221 is upregulated	Biomarker
+31007608_22298	578	591	breast cancer	Disease	DOID:1612
+31007608_22298	693	706	breast cancer	Disease
+31007608_22298	743	752	LINC00221	Rna-noncoding
+31007608_22298	743	768	LINC00221 is dysregulated	Biomarker
+31007608_22298	772	786	gastric cancer	Disease	DOID:10534
+31007608_22298	817	827	hsa‑miR‑96	Rna-noncoding	HGNC:31648
+31007608_22298	829	840	hsa‑miR‑143	Rna-noncoding	HGNC:31530
+31007608_22298	842	853	hsa‑miR‑204	Rna-noncoding	HGNC:31582
+31007608_22298	855	866	hsa‑miR‑372	Rna-noncoding	HGNC:31786
+31007608_22298	868	879	hsa‑miR‑373	Rna-noncoding	HGNC:31787
+31007608_22298	884	896	hsa‑miR‑519d	Rna-noncoding
+31007608_22298	935	949	gastric cancer	Disease
+31007608_22298	982	991	LINC00221	Rna-noncoding
+31007608_22298	982	991	LINC00221	Biomarker
+31007608_22298	1045	1059	gastric cancer	Disease
+31007608_22298	1068	1111	11‑lncRNA signature consisting of LINC00221	Biomarker
+31007608_22298	1102	1111	LINC00221	Rna-noncoding
+31007608_22298	1146	1160	gastric cancer	Disease
+31007608_22298	1192	1201	LINC00221	Rna-noncoding
+31007608_22298	1192	1201	LINC00221	Biomarker
+31007608_22298	1256	1286	muscle-invasive bladder cancer	Disease	DOID:11054
+31007608_22298	1366	1396	muscle-invasive bladder cancer	Disease
+31007608_22298	1432	1441	LINC00221	Rna-noncoding
+31007608_22298	1432	1470	LINC00221 expression is 77-fold higher	Biomarker
+31007608_22298	1474	1477	HCC	Disease
+31007608_22298	1522	1555	Increased expression of LINC00221	Biomarker
+31007608_22298	1546	1555	LINC00221	Rna-noncoding
+31007608_22298	1610	1613	HCC	Disease
+31007608_22298	1639	1648	LINC00221	Rna-noncoding
+31007608_22298	1686	1697	hsa-miR-182	Rna-noncoding	HGNC:31553
+31007608_22298	1702	1712	hsa-miR-96	Rna-noncoding	HGNC:31648
+31007608_22298	1753	1756	HCC	Disease
+

@@ -1,0 +1,99 @@
+29729186_114|t|RSS_IDENT_p_29729186_a_1_1
+29729186_114|a| Chronic hepatitis C virus (HCV) infection can result in steatosis, a condition displaying aberrant accumulation of neutral lipid vesicles, the component of lipid droplets (LDs), which are essential for HCV assembly. However, the interplay between HCV infection and steatosis remains unclear. Here, we show that HCV‐infected cells have higher levels of CD2‐associated protein (CD2AP), which plays two distinct, yet tightly linked, roles in HCV pathogenesis: Elevated CD2AP binds to nonstructural protein 5A (NS5A) and participates in the transport of NS5A to LDs to facilitate viral assembly; Up‐regulated CD2AP also interacts with casitas B‐lineage lymphoma (b) (Cbl/Cbl‐b) E3 ligases to degrade insulin receptor substrate 1 (IRS1), which, in turn, disrupts insulin signaling and increases LD accumulation through the IRS1/protein kinase B (Akt)/adenosine monophosphate‐activated protein kinase (AMPK)/hormone‐sensitive lipase (HSL) signaling axis to accommodate viral assembly. In the HCV‐infected mouse model, CD2AP expression is up‐regulated during the chronic infection stage and this up‐regulation correlates well with liver steatosis. Importantly, CD2AP up‐regulation was also detected in HCV‐infected human liver biopsies showing steatosis compared to non‐HCV‐infected controls. Conclusion: CD2AP is indicated as a protein up‐regulated by HCV infection, which, in turn, stimulates HCV propagation and steatosis by disrupting insulin signaling; targeting CD2AP may offer an opportunity for alleviating HCV infection and its associated liver pathology. (Hepatology 2018;XX:XXX‐XXX.) Abbreviations ACC1/2 acetyl‐CoA carboxylases 1 and 2 Akt protein kinase B AMPK adenosine monophosphate kinase BioID proximity‐dependent biotinylation method BirA* BirA (R118G)‐HA Cbl/Cbl‐b casitas B‐lineage lymphoma (b) CD2AP CD2‐associated protein Erk extracellular signal‐regulated kinase HA hemagglutinin HCC hepatocellular carcinoma HCV hepatitis C virus HSL hormone‐sensitive lipase Ig immunoglobulin IHC immunohistochemistry IRS1 insulin receptor substrate 1 JFH1 Japanese fulminant hepatitis type 1 LDs lipid droplets LS liver steatosis NS5A nonstructural protein 5A OA oleic acid p phosphorylated SH3 Src homology 3
+29729186_114	28	53	Chronic hepatitis C virus	Microorganism
+29729186_114	28	69	Chronic hepatitis C virus (HCV) infection	Biomarker
+29729186_114	55	58	HCV	Microorganism
+29729186_114	84	93	steatosis	Disease	DOID:9452
+29729186_114	151	156	lipid	Chemical
+29729186_114	184	189	lipid	Chemical
+29729186_114	230	233	HCV	Microorganism
+29729186_114	275	278	HCV	Microorganism
+29729186_114	275	288	HCV infection	Disease	DOID:1883
+29729186_114	293	302	steatosis	Disease
+29729186_114	339	342	HCV	Microorganism
+29729186_114	339	351	HCV‐infected	Disease	DOID:1883
+29729186_114	363	410	higher levels of CD2‐associated protein (CD2AP)	Biomarker
+29729186_114	380	402	CD2‐associated protein	Gene-protein	HGNC:14258
+29729186_114	404	409	CD2AP	Gene-protein	HGNC:14258
+29729186_114	467	470	HCV	Disease
+29729186_114	485	499	Elevated CD2AP	Biomarker
+29729186_114	494	499	CD2AP	Gene-protein
+29729186_114	620	638	Up‐regulated CD2AP	Biomarker
+29729186_114	633	638	CD2AP	Gene-protein
+29729186_114	659	685	casitas B‐lineage lymphoma	Gene-protein	HGNC:1541
+29729186_114	691	694	Cbl	Gene-protein	HGNC:1541
+29729186_114	695	700	Cbl‐b	Gene-protein	 HGNC:1542
+29729186_114	724	752	insulin receptor substrate 1	Gene-protein	HGNC:6125
+29729186_114	754	758	IRS1	Gene-protein	HGNC:6125
+29729186_114	786	793	insulin	Gene-protein	HGNC:6081
+29729186_114	846	850	IRS1	Gene-protein
+29729186_114	851	867	protein kinase B	Genefamily	family:1900
+29729186_114	869	872	Akt	Genefamily	family:1900
+29729186_114	874	897	adenosine monophosphate	Chemical
+29729186_114	874	922	adenosine monophosphate‐activated protein kinase	Genefamily	not found
+29729186_114	924	928	AMPK	Genefamily	not found
+29729186_114	930	954	hormone‐sensitive lipase	Gene-protein	HGNC:6621
+29729186_114	956	959	HSL	Gene-protein	HGNC:6621
+29729186_114	1014	1017	HCV	Microorganism
+29729186_114	1014	1026	HCV‐infected	Disease
+29729186_114	1040	1045	CD2AP	Gene-protein
+29729186_114	1040	1072	CD2AP expression is up‐regulated	Biomarker
+29729186_114	1152	1167	liver steatosis	Disease	DOID:9452
+29729186_114	1182	1187	CD2AP	Gene-protein
+29729186_114	1182	1201	CD2AP up‐regulation	Biomarker
+29729186_114	1223	1226	HCV	Microorganism
+29729186_114	1223	1235	HCV‐infected	Disease
+29729186_114	1265	1274	steatosis	Disease
+29729186_114	1291	1294	HCV	Microorganism
+29729186_114	1326	1331	CD2AP	Gene-protein
+29729186_114	1326	1370	CD2AP is indicated as a protein up‐regulated	Biomarker
+29729186_114	1374	1377	HCV	Microorganism
+29729186_114	1374	1387	HCV infection	Disease
+29729186_114	1416	1419	HCV	Disease
+29729186_114	1436	1445	steatosis	Disease
+29729186_114	1460	1467	insulin	Gene-protein
+29729186_114	1479	1494	targeting CD2AP	Drug	not found
+29729186_114	1489	1494	CD2AP	Gene-protein
+29729186_114	1536	1539	HCV	Microorganism
+29729186_114	1536	1549	HCV infection	Disease
+29729186_114	1630	1636	ACC1/2	Gene-protein
+29729186_114	1637	1647	acetyl‐CoA	Chemical
+29729186_114	1637	1668	acetyl‐CoA carboxylases 1 and 2	Gene-protein
+29729186_114	1669	1672	Akt	Genefamily
+29729186_114	1673	1689	protein kinase B	Genefamily
+29729186_114	1690	1694	AMPK	Genefamily
+29729186_114	1695	1718	adenosine monophosphate	Chemical
+29729186_114	1695	1725	adenosine monophosphate kinase	Genefamily
+29729186_114	1792	1794	HA	Gene-protein
+29729186_114	1795	1798	Cbl	Gene-protein
+29729186_114	1799	1804	Cbl‐b	Gene-protein
+29729186_114	1805	1835	casitas B‐lineage lymphoma (b)	Gene-protein
+29729186_114	1836	1841	CD2AP	Gene-protein
+29729186_114	1842	1864	CD2‐associated protein	Gene-protein
+29729186_114	1865	1868	Erk	Genefamily
+29729186_114	1869	1906	extracellular signal‐regulated kinase	Genefamily
+29729186_114	1907	1909	HA	Gene-protein
+29729186_114	1910	1923	hemagglutinin	Gene-protein
+29729186_114	1924	1927	HCC	Disease	DOID:684
+29729186_114	1928	1952	hepatocellular carcinoma	Disease	DOID:684
+29729186_114	1953	1956	HCV	Microorganism
+29729186_114	1957	1974	hepatitis C virus	Microorganism
+29729186_114	1975	1978	HSL	Gene-protein
+29729186_114	1979	2003	hormone‐sensitive lipase	Gene-protein
+29729186_114	2004	2006	Ig	Gene-protein
+29729186_114	2007	2021	immunoglobulin	Gene-protein
+29729186_114	2047	2051	IRS1	Gene-protein
+29729186_114	2052	2080	insulin receptor substrate 1	Gene-protein
+29729186_114	2081	2085	JFH1	Disease	not found
+29729186_114	2086	2121	Japanese fulminant hepatitis type 1	Disease	not found
+29729186_114	2122	2125	LDs	Chemical
+29729186_114	2126	2140	lipid droplets	Chemical
+29729186_114	2141	2143	LS	Disease	DOID:9452
+29729186_114	2144	2159	liver steatosis	Disease
+29729186_114	2160	2164	NS5A	Gene-protein
+29729186_114	2165	2189	nonstructural protein 5A	Gene-protein
+29729186_114	2190	2192	OA	Chemical
+29729186_114	2193	2203	oleic acid	Chemical
+29729186_114	2221	2224	SH3	Gene-protein
+29729186_114	2225	2239	Src homology 3	Gene-protein
+

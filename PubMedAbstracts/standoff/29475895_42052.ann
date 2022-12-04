@@ -1,0 +1,56 @@
+T12	Disease 939 943	BrCa
+T13	Disease 1008 1014	tumour
+T14	Disease 1078 1086	pT2 BrCa
+T16	Disease 1233 1250	pancreatic cancer
+#5	AnnotatorNotes T16	DOID:1793
+T17	Disease 1557 1563	tumour
+T18	Disease 1574 1580	cancer
+#7	AnnotatorNotes T18	DOID:162
+T2	Disease 347 353	tumour
+#8	AnnotatorNotes T2	DOID:162
+T21	Disease 1698 1704	tumour
+T22	Disease 1769 1775	cancer
+T24	Disease 1879 1883	BrCa
+T4	Disease 533 537	BrCa
+#14	AnnotatorNotes T4	DOID:1612
+T7	Disease 624 630	tumour
+T9	Disease 727 731	BrCa
+T1	Gene-Protein 1828 1832	t-PA
+T3	Gene-Protein 1625 1629	t-PA
+T6	Biomarker 1812 1832	higher level of t-PA
+R1	Prognostic-Poor Arg1:T6 Arg2:T24	
+T5	Gene-Protein 80 84	t-PA
+#1	AnnotatorNotes T5	HGNC:9051
+T11	Gene-Protein 116 120	Ki67
+#2	AnnotatorNotes T11	HGNC:7107
+T15	Gene-Protein 166 170	Ki67
+T19	Gene-Protein 284 288	Ki67
+T20	Biomarker 284 288	Ki67
+#4	AnnotatorNotes T20	C000628856
+R2	Association Arg1:T20 Arg2:T2	
+T23	Gene-Protein 405 409	Ki67
+T25	Gene-Protein 1188 1192	t-PA
+T26	Gene-Protein 862 866	t-PA
+T10	Gene-Protein 1056 1060	t-PA
+T27	Gene-Protein 1373 1377	t-PA
+T28	Biomarker 1181 1207	higher t-PA concentrations
+R3	Association Arg1:T28 Arg2:T16	
+T8	Gene-Protein 591 595	Ki67
+T29	Gene-Protein 740 744	t-PA
+T30	Biomarker 405 461	Ki67 expression above 15% indicates a high mitotic index
+T31	Biomarker 1625 1629	t-PA
+T32	Biomarker 1373 1377	t-PA
+T33	Collection 1557 1580	tumour invasion, cancer
+R4	Association Arg1:T32 Arg2:T33	
+R5	Risk-Factor Arg1:T31 Arg2:T21	
+T34	Biomarker 1016 1060	a significantly higher concentration of t-PA
+R6	Association Arg1:T34 Arg2:T14	
+T35	Biomarker 862 866	t-PA
+R7	Association Arg1:T35 Arg2:T12	
+T36	Biomarker 591 606	Ki67 expression
+T37	Collection 624 731	tumour proliferation rate and correlates with the initiation, progression, metastasis and prognosis of BrCa
+R8	Association Arg1:T36 Arg2:T37	
+R9	Prognostic-Poor Arg1:T30 Arg2:T4	
+#3	AnnotatorNotes T35	C067262
+T38	Gene-Protein 1441 1447	fibrin
+#10	AnnotatorNotes T38	not found

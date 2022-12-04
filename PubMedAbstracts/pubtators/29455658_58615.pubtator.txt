@@ -1,0 +1,65 @@
+29455658_58615|t|RSS_IDENT_s_29455658_b_1_2
+29455658_58615|a| Conclusions Overexpression or dysregulation of RTKs in breast cancer cells leads to accelerated tumor growth, angiogenesis and metastasis through the activation of various downstream signaling pathways. RTKs play a key role in cancer stemness and drug resistance to various conventional anti-cancer therapies. Hence, targeting RTKs is one of the more promising approaches for the management of breast cancer. Many of RTK targeting drugs are in clinic for the treatment of breast cancer. However, resistance-driven by mutations in RTKs and alternate pathway activation limits the use of anti-RTK therapeutics for the treatment of metastatic breast cancer. The comprehensive mechanism underlying the resistance to anti-RTK therapy needs to be investigated to develop therapeutic regimens for successful treatment of anti-RTK therapy-resistant breast cancer. Abbreviations CSCs Cancer stem cells EGFRs Epidermal growth factor receptors FGFRs Fibroblast growth factor receptors FRS2 FGF receptor substrate 2 Gab1 Grb2-associated binder 1 IGFRs Insulin-like growth factor receptors IRS1 Insulin receptor substrate 1 JAK Janus kinase MAPK Mitogen-activated protein kinase NGF Nerve growth factor PDGFRs Platelet-derived growth factor receptors PI3K Phosphoinositide 3-kinase PTB Phosphotyrosine-binding RTKs Receptor tyrosine kinases SCF Stem cell factor SH2 Src homology 2 STAT Signal transducer and activator of transcription TKD Tyrosine kinase domain VEGFRs Vascular endothelial growth factor receptors
+29455658_58615	40	79	Overexpression or dysregulation of RTKs	Biomarker
+29455658_58615	75	79	RTKs	Genefamily	family:321
+29455658_58615	83	96	breast cancer	Disease	DOID:1612
+29455658_58615	231	235	RTKs	Biomarker	D020794
+29455658_58615	231	235	RTKs	Genefamily
+29455658_58615	255	261	cancer	Disease	DOID:162
+29455658_58615	315	336	anti-cancer therapies	Drug-class
+29455658_58615	345	359	targeting RTKs	Drug	not found
+29455658_58615	355	359	RTKs	Genefamily
+29455658_58615	355	359	RTKs	Biomarker
+29455658_58615	422	435	breast cancer	Disease
+29455658_58615	445	448	RTK	Genefamily
+29455658_58615	445	464	RTK targeting drugs	Drug-class
+29455658_58615	500	513	breast cancer	Disease
+29455658_58615	524	595	resistance-driven by mutations in RTKs and alternate pathway activation	Biomarker
+29455658_58615	558	562	RTKs	Genefamily
+29455658_58615	614	635	anti-RTK therapeutics	Drug-class
+29455658_58615	619	622	RTK	Genefamily
+29455658_58615	657	681	metastatic breast cancer	Disease	DOID:1612
+29455658_58615	740	756	anti-RTK therapy	Drug-class
+29455658_58615	745	748	RTK	Genefamily
+29455658_58615	842	858	anti-RTK therapy	Drug-class
+29455658_58615	842	881	anti-RTK therapy-resistant breast cance	Disease
+29455658_58615	847	850	RTK	Genefamily
+29455658_58615	903	909	Cancer	Disease	DOID:14566|DOID:162
+29455658_58615	921	926	EGFRs	Gene-protein	HGNC:3236
+29455658_58615	927	960	Epidermal growth factor receptors	Gene-protein	HGNC:3236
+29455658_58615	961	966	FGFRs	Genefamily	not found
+29455658_58615	967	1001	Fibroblast growth factor receptors	Genefamily	not found
+29455658_58615	1002	1006	FRS2	Gene-protein	HGNC:16971
+29455658_58615	1007	1031	FGF receptor substrate 2	Gene-protein	HGNC:16971
+29455658_58615	1032	1036	Gab1	Gene-protein	HGNC:4066
+29455658_58615	1037	1061	Grb2-associated binder 1	Gene-protein	HGNC:4066
+29455658_58615	1062	1067	IGFRs	Genefamily	not found
+29455658_58615	1068	1104	Insulin-like growth factor receptors	Genefamily	not found
+29455658_58615	1105	1109	IRS1	Gene-protein	HGNC:6125
+29455658_58615	1110	1138	Insulin receptor substrate 1	Gene-protein	HGNC:6125
+29455658_58615	1139	1142	JAK	Genefamily	family:1459
+29455658_58615	1143	1155	Janus kinase	Genefamily	family:1459
+29455658_58615	1156	1160	MAPK	Genefamily	family:651
+29455658_58615	1161	1193	Mitogen-activated protein kinase	Genefamily	family:651
+29455658_58615	1194	1197	NGF	Gene-protein	HGNC:7808
+29455658_58615	1198	1217	Nerve growth factor	Gene-protein	HGNC:7808
+29455658_58615	1218	1224	PDGFRs	Genefamily	not found
+29455658_58615	1225	1265	Platelet-derived growth factor receptors	Genefamily	not found
+29455658_58615	1266	1270	PI3K	Genefamily	family:831
+29455658_58615	1271	1296	Phosphoinositide 3-kinase	Genefamily	family:831
+29455658_58615	1301	1316	Phosphotyrosine	Chemical
+29455658_58615	1325	1329	RTKs	Genefamily
+29455658_58615	1330	1355	Receptor tyrosine kinases	Genefamily	family:321
+29455658_58615	1339	1347	tyrosine	Chemical
+29455658_58615	1356	1359	SCF	Gene-protein	HGNC:6343
+29455658_58615	1360	1376	Stem cell factor	Gene-protein	HGNC:6343
+29455658_58615	1377	1380	SH2	Proteindomain
+29455658_58615	1381	1395	Src homology 2	Proteindomain
+29455658_58615	1396	1400	STAT	Genefamily	not found
+29455658_58615	1401	1449	Signal transducer and activator of transcription	Genefamily	not found
+29455658_58615	1450	1453	TKD	Proteindomain
+29455658_58615	1454	1462	Tyrosine	Chemical
+29455658_58615	1454	1476	Tyrosine kinase domain	Proteindomain
+29455658_58615	1477	1483	VEGFRs	Genefamily	family:1267
+29455658_58615	1484	1528	Vascular endothelial growth factor receptors	Genefamily	family:1267
+

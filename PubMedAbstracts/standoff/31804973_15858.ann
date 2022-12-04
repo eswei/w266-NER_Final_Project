@@ -1,0 +1,71 @@
+T0	RNA-Noncoding 30 39	LINC00958
+T1	Disease 101 107	tumors
+#2	AnnotatorNotes T1	DOID:162
+T11	RNA-Noncoding 436 445	LINC00958
+T12	RNA-Noncoding 523 532	LINC00958
+T14	Disease 554 572	endometrial cancer
+#5	AnnotatorNotes T14	DOID:1380
+T15	RNA-Noncoding 685 694	LINC00958
+T17	Disease 714 781	bladder tumor-associated lymphatic metastasis and lymphangiogenesis
+#7	AnnotatorNotes T17	not found
+T19	RNA-Noncoding 812 821	LINC00958
+T2	RNA-Noncoding 168 177	LINC00958
+T20	RNA-Noncoding 922 931	LINC00958
+T21	RNA-Noncoding 1002 1011	LINC00958
+T22	Disease 1019 1034	degenerative NP
+#13	AnnotatorNotes T22	DOID:90
+T23	RNA-Noncoding 1058 1067	LINC00958
+T25	Disease 1098 1113	degenerative NP
+T26	RNA-Noncoding 1127 1136	LINC00958
+T28	Disease 1208 1225	disc degeneration
+#17	AnnotatorNotes T28	DOID:90
+T29	RNA-Noncoding 1291 1300	LINC00958
+T3	Disease 181 195	bladder cancer
+#19	AnnotatorNotes T3	DOID:11054
+T30	Disease 1305 1318	low back pain
+#20	AnnotatorNotes T30	D017116
+T31	RNA-Noncoding 1348 1357	LINC00958
+T32	Disease 1381 1383	NP
+T5	Disease 269 283	bladder cancer
+T6	RNA-Noncoding 311 320	LINC00958
+T8	Disease 340 354	bladder cancer
+#25	AnnotatorNotes T8	DOID:11054
+T9	RNA-Noncoding 372 381	LINC00958
+#1	AnnotatorNotes T0	HGNC:48671
+T4	Biomarker 30 39	LINC00958
+R1	Association Arg1:T4 Arg2:T1	
+T7	Biomarker 168 177	LINC00958
+T10	Biomarker 237 265	aberrantly expressed lncRNAs
+T13	RNA-Noncoding 258 265	lncRNAs
+#3	AnnotatorNotes T13	family:788
+R2	Association Arg1:T10 Arg2:T5	
+T16	Biomarker 311 336	LINC00958 was upregulated
+R3	Association Arg1:T16 Arg2:T8	
+T27	Biomarker 523 550	LINC00958 was overexpressed
+R5	Association Arg1:T27 Arg2:T14	
+T33	RNA-Noncoding 578 587	LINC01480
+#6	AnnotatorNotes T33	HGNC:51124
+T34	Biomarker 685 710	LINC00958 was upregulated
+R6	Association Arg1:T34 Arg2:T17	
+T18	Gene-Protein 831 837	VEGF-C
+#8	AnnotatorNotes T18	HGNC:12682
+T35	Gene-Protein 869 873	WDR5
+#9	AnnotatorNotes T35	HGNC:12757
+T36	Biomarker 988 1011	expression of LINC00958
+T37	Biomarker 1058 1094	LINC00958 expression was upregulated
+R8	Association Arg1:T37 Arg2:T25	
+T38	Biomarker 1127 1157	LINC00958 expression increased
+R9	Association Arg1:T38 Arg2:T28	
+T39	Biomarker 1277 1300	expression of LINC00958
+R10	Association Arg1:T39 Arg2:T30	
+T40	Biomarker 1348 1372	LINC00958 overexpression
+R11	Association Arg1:T40 Arg2:T32	
+#10	AnnotatorNotes T32	not found
+T41	Gene-Protein 1414 1422	aggrecan
+#11	AnnotatorNotes T41	HGNC:319
+T42	Gene-Protein 1427 1433	Col II
+#12	AnnotatorNotes T42	HGNC:2200
+T43	Gene-Protein 1458 1463	MMP-2
+#14	AnnotatorNotes T43	HGNC:7166
+T44	Gene-Protein 1468 1474	MMP-13
+#15	AnnotatorNotes T44	HGNC:7159

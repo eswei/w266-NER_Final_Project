@@ -1,0 +1,71 @@
+31143705_2463|t|RSS_IDENT_p_31143705_b_1_1_3
+31143705_2463|a| N⁶-methyladenosine (m⁶A) represents a predominant RNA modification that, not surprisingly, regulates tumorigenesis, and tumor progression ( 10 ). The m⁶A RNA modification is a reversible process that is coordinated by methyltransferase (m⁶A “writers”), m⁶A reader proteins and demethylase (m⁶A “erasers”) ( 11 ). These members cover more than 13 enzymes. The m⁶A “writers” complex consists of METTL3, METTL14, WTAP, CBLL1, RBM15, ZC3H13, and VIRMA and is responsible for methylation of target RNA transcripts ( 12 ). Then, m⁶A readers, including YTHDF1-3, YTHDC1, IGF2BPs, and eIF3, discern these m⁶A modifications to direct RNA alternative splicing, translation, localization, and RNA stability, among other processes ( 13 ). However, as the m⁶A “erasers,” FTO and ALKBH5 remove m⁶A from the aforementioned target transcripts ( 14 , 15 ). FTO, the first identified m⁶A demethylase, belongs to the AlkB family of Fe(II)/α-ketoglutarate-dependent dioxygenases ( 16 ). FTO mediates multiple RNA modifications, including m⁶A and m⁶Aₘ in mRNA and snRNA as well as m¹A in tRNA ( 17 ). Recent studies demonstrated that FTO plays an oncogenic role in cancers ( 18 – 20 ). For example, in one study, FTO significantly promoted leukemic cell proliferation, transformation, leukemogenesis, curtailed AML cell differentiation and apoptosis by targeting ASB2, and RARA ( 18 ). However, this process may be suppressed by R-2-hydroxyglutarate (R-2HG) and IDH mutations, which competitively inhibit FTO ( 21 , 22 ). FTO also removes m⁶A from β-catenin to induce the chemo-radiotherapy resistance in cervical squamous cell carcinoma (CSCC) ( 20 ). In addition, the overexpression of FTO can promote breast cancer and gastric cancer progression ( 19 , 23 ). These studies suggest that FTO participates in the regulation of various biological processes in cancer cells through modulation of the RNA transcripts which are critical to the respective pathways.
+31143705_2463	30	48	N⁶-methyladenosine	Chemical
+31143705_2463	30	48	N⁶-methyladenosine	Biomarker
+31143705_2463	50	53	m⁶A	Chemical
+31143705_2463	150	155	tumor	Disease	DOID:162
+31143705_2463	180	183	m⁶A	Chemical
+31143705_2463	248	265	methyltransferase	Gene-protein
+31143705_2463	267	270	m⁶A	Chemical
+31143705_2463	283	286	m⁶A	Chemical
+31143705_2463	307	318	demethylase	Genefamily
+31143705_2463	389	392	m⁶A	Chemical
+31143705_2463	423	429	METTL3	Gene-protein
+31143705_2463	431	438	METTL14	Gene-protein
+31143705_2463	440	444	WTAP	Gene-protein
+31143705_2463	446	451	CBLL1	Gene-protein
+31143705_2463	453	458	RBM15	Gene-protein
+31143705_2463	460	466	ZC3H13	Gene-protein
+31143705_2463	472	477	VIRMA	Gene-protein
+31143705_2463	553	556	m⁶A	Chemical
+31143705_2463	576	584	YTHDF1-3	Gene-protein
+31143705_2463	586	592	YTHDC1	Gene-protein
+31143705_2463	594	601	IGF2BPs	Gene-protein
+31143705_2463	607	611	eIF3	Gene-protein
+31143705_2463	627	630	m⁶A	Chemical
+31143705_2463	773	776	m⁶A	Chemical
+31143705_2463	788	791	FTO	Gene-protein
+31143705_2463	796	802	ALKBH5	Gene-protein
+31143705_2463	810	813	m⁶A	Chemical
+31143705_2463	870	873	FTO	Gene-protein
+31143705_2463	896	899	m⁶A	Chemical
+31143705_2463	896	911	m⁶A demethylase	Gene-protein
+31143705_2463	928	932	AlkB	Genefamily
+31143705_2463	943	949	Fe(II)	Chemical
+31143705_2463	943	988	Fe(II)/α-ketoglutarate-dependent dioxygenases	Genefamily
+31143705_2463	950	965	α-ketoglutarate	Chemical
+31143705_2463	976	988	dioxygenases	Chemical
+31143705_2463	997	1000	FTO	Gene-protein
+31143705_2463	1048	1051	m⁶A	Chemical
+31143705_2463	1056	1060	m⁶Aₘ	Chemical
+31143705_2463	1090	1093	m¹A	Chemical
+31143705_2463	1143	1146	FTO	Gene-protein
+31143705_2463	1174	1181	cancers	Disease	DOID:162
+31143705_2463	1222	1225	FTO	Gene-protein
+31143705_2463	1222	1225	FTO	Biomarker	D000071516
+31143705_2463	1249	1257	leukemic	Disease	DOID:1240
+31143705_2463	1249	1323	leukemic cell proliferation, transformation, leukemogenesis, curtailed AML	Collection
+31143705_2463	1320	1323	AML	Disease	DOID:9119
+31143705_2463	1372	1376	ASB2	Gene-protein
+31143705_2463	1382	1386	RARA	Gene-protein
+31143705_2463	1438	1458	R-2-hydroxyglutarate	Chemical
+31143705_2463	1460	1465	R-2HG	Chemical
+31143705_2463	1471	1474	IDH	Genefamily
+31143705_2463	1471	1484	IDH mutations	Biomarker
+31143705_2463	1514	1517	FTO	Gene-protein
+31143705_2463	1531	1534	FTO	Gene-protein
+31143705_2463	1531	1534	FTO	Biomarker
+31143705_2463	1548	1551	m⁶A	Chemical
+31143705_2463	1557	1566	β-catenin	Genefamily
+31143705_2463	1581	1599	chemo-radiotherapy	Drug-class
+31143705_2463	1614	1646	cervical squamous cell carcinoma	Disease	DOID:3744
+31143705_2463	1648	1652	CSCC	Disease	DOID:3744
+31143705_2463	1679	1700	overexpression of FTO	Biomarker
+31143705_2463	1697	1700	FTO	Gene-protein
+31143705_2463	1713	1726	breast cancer	Disease	DOID:1612
+31143705_2463	1713	1745	breast cancer and gastric cancer	Collection
+31143705_2463	1731	1745	gastric cancer	Disease	DOID:10534
+31143705_2463	1798	1801	FTO	Gene-protein
+31143705_2463	1798	1801	FTO	Biomarker
+31143705_2463	1868	1874	cancer	Disease	DOID:162
+

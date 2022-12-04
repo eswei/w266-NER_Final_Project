@@ -1,0 +1,56 @@
+T0	Disease 135 142	cancers
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 152 180	oral squamous cell carcinoma
+#2	AnnotatorNotes T1	DOID:0050866
+T10	Disease 409 443	cisplatin-resistant ovarian cancer
+#3	AnnotatorNotes T10	not found
+T11	Drug 475 484	cisplatin
+T12	Disease 475 509	cisplatin-sensitive ovarian cancer
+#5	AnnotatorNotes T12	not found
+T13	Drug 591 600	cisplatin
+T15	Drug 680 689	cisplatin
+T16	Disease 680 714	cisplatin-resistant ovarian cancer
+T2	Disease 185 193	melanoma
+#11	AnnotatorNotes T2	DOID:1909
+T20	Drug 802 811	cisplatin
+T21	Disease 802 836	cisplatin-sensitive ovarian cancer
+T22	Drug 976 985	cisplatin
+T23	Drug 1029 1038	cisplatin
+T24	Drug 1118 1127	cisplatin
+T25	Drug 1172 1181	cisplatin
+T26	Drug 1204 1213	cisplatin
+T3	Disease 198 212	gastric cancer
+#19	AnnotatorNotes T3	DOID:10534
+T4	Disease 221 234	breast cancer
+#20	AnnotatorNotes T4	DOID:1612
+T6	Disease 321 335	ovarian cancer
+#21	AnnotatorNotes T6	DOID:2394
+T7	Drug 343 352	cisplatin
+T9	Drug 409 418	cisplatin
+T5	Biomarker 34 118	lncRNA UCA1 is generally regarded as an oncogene, and it is usually highly expressed
+T8	RNA-Noncoding 41 45	UCA1
+#4	AnnotatorNotes T8	HGNC:37126
+T14	Collection 135 234	cancers, such as oral squamous cell carcinoma, ¹⁰ melanoma, ¹¹ gastric cancer, ¹² and breast cancer
+R1	Association Arg1:T5 Arg2:T14	
+T19	Biomarker 286 305	UCA1 overexpression
+T27	RNA-Noncoding 286 290	UCA1
+#6	AnnotatorNotes T7	 CHEMBL11359
+R2	Mediated-Non-Response Arg1:T7 Arg2:T6	
+R3	Mediator Arg1:T7 Arg2:T19	
+T28	Biomarker 365 392	Upregulated UCA1 expression
+T29	RNA-Noncoding 377 381	UCA1
+R4	Association Arg1:T28 Arg2:T10	
+T30	RNA-Noncoding 565 569	UCA1
+T17	RNA-Noncoding 668 672	UCA1
+T31	CellLine 741 751	SKOV-3-DDP
+T32	CellLine 727 736	A2780-DDP
+T18	RNA-Noncoding 783 787	UCA1
+T34	RNA-Noncoding 906 910	UCA1
+T35	RNA-Noncoding 1085 1089	UCA1
+T36	RNA-Noncoding 859 863	UCA1
+T33	Drug 891 910	Suppression of UCA1
+#7	AnnotatorNotes T33	not found
+R5	Response Arg1:T33 Arg2:T16	
+T37	Biomarker 1085 1104	UCA1 overexpression
+R6	Mediated-Response Arg1:T26 Arg2:T21	
+R7	Mediator Arg1:T26 Arg2:T37	

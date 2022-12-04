@@ -1,0 +1,46 @@
+30953513_38445|t|RSS_IDENT_p_30953513_b_1_4_3
+30953513_38445|a| Numerous researchers have suggested that MMPs play a critical role during vascular remodeling in diabetes, which is closely related to the comorbidities of cardiovascular diseases. Meanwhile, the study of the mechanism on how DM upregulates MMPs is scarce. Our work indicates that CD147 is essential for the activity of MMPs in DM. Rats with DM showed upregulated expression of CD147, especially HG-CD147 on astrocytes and endothelium, followed by elevated MMP activity in both ischemic brain tissue and serum. CD147, as an important MMP-regulating protein, has been extensively studied in tumor research and has been proven to participate in multiple processes, including cell proliferation and tumor metastasis. In CNS biology, alongside induction of MMPs, CD147 is also involved in homeostasis [ 35 ]. But the function of CD147 in ischemic stroke under the diabetic condition is poorly understood. Portik-Dobos et al. explored CD147 function in cardiac artery specimens from DM patients and concluded that CD147 decreased the activity of MMPs, which might contribute to the increased collagen deposition and pathological remodeling observed in diabetes [ 36 ]. In contrast, Abu et al. suggested that CD147 upregulated the activity of MMPs and that the CD147/MMPs/VEGF pathway was involved in proliferative diabetic retinopathy angiogenesis [ 37 ]. Our conclusive results are in accordance with the latter study, and the reason may be that CD147 function differs between tissues.
+30953513_38445	71	75	MMPs	Genefamily	family:891
+30953513_38445	71	75	MMPs	Biomarker	D020782
+30953513_38445	104	135	vascular remodeling in diabetes	Disease	D066253, not found	Conjunction
+30953513_38445	104	209	vascular remodeling in diabetes, which is closely related to the comorbidities of cardiovascular diseases	Collection
+30953513_38445	186	209	cardiovascular diseases	Disease	DOID:1287
+30953513_38445	256	258	DM	Disease	DOID:9351
+30953513_38445	271	275	MMPs	Genefamily
+30953513_38445	311	316	CD147	Gene-protein	HGNC:1116
+30953513_38445	311	316	CD147	Biomarker	D051926
+30953513_38445	350	354	MMPs	Genefamily
+30953513_38445	350	354	MMPs	Biomarker
+30953513_38445	358	360	DM	Disease
+30953513_38445	372	374	DM	Disease
+30953513_38445	382	413	upregulated expression of CD147	Biomarker
+30953513_38445	382	499	upregulated expression of CD147, especially HG-CD147 on astrocytes and endothelium, followed by elevated MMP activity	Collection
+30953513_38445	408	413	CD147	Gene-protein
+30953513_38445	429	434	CD147	Gene-protein
+30953513_38445	478	499	elevated MMP activity	Biomarker
+30953513_38445	487	490	MMP	Genefamily	family:891
+30953513_38445	541	546	CD147	Gene-protein
+30953513_38445	541	546	CD147	Biomarker
+30953513_38445	564	567	MMP	Genefamily
+30953513_38445	620	625	tumor	Disease	DOID:162
+30953513_38445	783	787	MMPs	Genefamily
+30953513_38445	789	794	CD147	Gene-protein
+30953513_38445	855	860	CD147	Gene-protein
+30953513_38445	855	860	CD147	Biomarker
+30953513_38445	864	879	ischemic stroke	Disease	DOID:6713
+30953513_38445	890	898	diabetic	Disease	not found
+30953513_38445	960	965	CD147	Gene-protein
+30953513_38445	1008	1010	DM	Disease
+30953513_38445	1039	1044	CD147	Gene-protein
+30953513_38445	1071	1075	MMPs	Genefamily
+30953513_38445	1117	1125	collagen	Genefamily	family:490
+30953513_38445	1177	1185	diabetes	Disease	not found
+30953513_38445	1233	1238	CD147	Gene-protein
+30953513_38445	1267	1271	MMPs	Genefamily
+30953513_38445	1285	1290	CD147	Gene-protein
+30953513_38445	1285	1308	CD147/MMPs/VEGF pathway	Biomarker
+30953513_38445	1291	1295	MMPs	Genefamily
+30953513_38445	1296	1300	VEGF	Genefamily	family:1267
+30953513_38445	1339	1359	diabetic retinopathy	Disease	DOID:8947
+30953513_38445	1472	1477	CD147	Gene-protein
+

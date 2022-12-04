@@ -1,0 +1,41 @@
+31323040_22643|t|RSS_IDENT_p_31323040_b_1_4_3
+31323040_22643|a| Numerous studies have observed dysregulation of MCM1–10 in multiple cancers, and serve as potential diagnostic biomarkers. Previous reports showed increased expression of MCM2 in colorectal cancer (CRC) tissues could be adopted as diagnostic biomarker.[ 28 ]The MCM3 immune-histochemical staining can be adopted as biomarker for oral squamous cell carcinoma early detection.[ 29 ] MCM4 has been opined to participate in the tumorigenesis of esophageal cancer.[ 30 , 31 ]Different cancers like pancreaticobiliary malignancy (PBC), [ 32 , 33 ]esophageal cancer [ 11 ]and cervical cancer (CC)[ 34 ] have been studied in the light of MCM5 as a diagnostic marker. MCM6 may serve as potential biomarkers in patients with hepatocellular carcinoma(HCC)[ 22 ]. In addition, MCM7 has been helpful in early detection of gastric cancer (GC) [ 35 ], and altered diagnosis between malignant mesothelioma (MMCS) and reactive mesothelial cells (MCS)[ 36 ]. Deregulation of MCM2–7 can be potential biomarkers in meningioma tumor tissues[ 37 ].Consistent with the previous findings, our present work observed deregulations of MCM1–10 genes in LUAD cancer tissues which can be serve as potential diagnostic biomarkers. 
+31323040_22643	61	85	dysregulation of MCM1–10	Biomarker
+31323040_22643	78	85	MCM1–10	Gene-protein	HGNC:11291,HGNC:6944, HGNC:6945, HGNC:6947, HGNC:6948, HGNC:6949, HGNC:6950, HGNC:16147, HGNC:21484,HGNC:18043
+31323040_22643	98	105	cancers	Disease	DOID:162
+31323040_22643	177	205	increased expression of MCM2	Biomarker
+31323040_22643	201	205	MCM2	Gene-protein	HGNC:6944
+31323040_22643	209	226	colorectal cancer	Disease	DOID:9256
+31323040_22643	228	231	CRC	Disease	DOID:9256
+31323040_22643	292	296	MCM3	Gene-protein	HGNC:6945
+31323040_22643	292	326	MCM3 immune-histochemical staining	Biomarker
+31323040_22643	359	387	oral squamous cell carcinoma	Disease	DOID:0050866
+31323040_22643	411	415	MCM4	Gene-protein	HGNC:6947
+31323040_22643	411	415	MCM4	Biomarker	C099243
+31323040_22643	471	488	esophageal cancer	Disease	DOID:5041
+31323040_22643	510	517	cancers	Disease
+31323040_22643	523	552	pancreaticobiliary malignancy	Disease	not found
+31323040_22643	554	557	PBC	Disease
+31323040_22643	571	588	esophageal cancer	Disease
+31323040_22643	599	614	cervical cancer	Disease	DOID:4362
+31323040_22643	616	618	CC	Disease	DOID:4362
+31323040_22643	660	664	MCM5	Gene-protein	HGNC:6948
+31323040_22643	660	664	MCM5	Biomarker	C489423
+31323040_22643	689	693	MCM6	Gene-protein	HGNC:6949
+31323040_22643	689	693	MCM6	Biomarker	C103258
+31323040_22643	745	769	hepatocellular carcinoma	Disease	DOID:684
+31323040_22643	770	773	HCC	Disease	DOID:684
+31323040_22643	795	799	MCM7	Gene-protein	HGNC:6950
+31323040_22643	795	799	MCM7	Biomarker	C101624
+31323040_22643	839	853	gastric cancer	Disease	DOID:10534
+31323040_22643	839	926	gastric cancer (GC) [ 35 ], and altered diagnosis between malignant mesothelioma (MMCS)	Collection
+31323040_22643	855	857	GC	Disease	DOID:10534
+31323040_22643	897	919	malignant mesothelioma	Disease	DOID:1790
+31323040_22643	921	925	MMCS	Disease	DOID:1790
+31323040_22643	971	993	Deregulation of MCM2–7	Biomarker
+31323040_22643	987	993	MCM2–7	Genefamily	family:1998
+31323040_22643	1025	1041	meningioma tumor	Disease	DOID:3565
+31323040_22643	1121	1151	deregulations of MCM1–10 genes	Biomarker
+31323040_22643	1138	1145	MCM1–10	Gene-protein
+31323040_22643	1155	1166	LUAD cancer	Disease	DOID:3910
+

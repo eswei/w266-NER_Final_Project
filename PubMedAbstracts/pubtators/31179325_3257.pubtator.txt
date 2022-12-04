@@ -1,0 +1,48 @@
+31179325_3257|t|RSS_IDENT_p_31179325_b_1_1_4
+31179325_3257|a| As a cardiac- and skeletal muscle-enriched miRNA, miR-22 has been reported to participate in cardiomyocyte hypertrophy and cardiac remodeling in response to stress [ 11 ]. The miR-132/212 cluster has been confirmed to play a critical role in cardiac hypertrophy [ 12 ]. As a dominant member of the miR-132/212 family, miR-132 negatively regulates cardiac function during cardiac remodeling by inducing angiogenesis. miR-150, a miRNA that is closely associated with inflammation, has been implicated in the pathogenesis of various cardiovascular diseases [ 13 – 15 ]. miR-150 has been shown to regulate high glucose-induced cardiomyocyte hypertrophy by targeting the transcriptional coactivator p300 [ 16 ]. Overall, these studies indicate that all three miRNAs play important roles in various cardiovascular diseases. Interestingly, a recent microarray analysis showed that the expression levels of miR-22, miR-132, and miR-150 were obviously dysregulated in patients with AMI [ 10 ]. However, the clinical significance of circulating miR-22-5p, miR-132-5p, and miR-150-3p in patients with AMI remains unclear. In this study, we investigated the dynamic expressions of miR-22-5p, miR-132-5p, and miR-150-3p in plasma obtained from patients in the early phase of AMI and explored the potential diagnostic value of these markers. Our findings suggest that circulating miR-22-5p, miR-132-5p, and miR-150-3p may be promising biomarkers for the early stage of AMI without affected by the affected by heparin or cardiovascular drugs. Furthermore, a composite of these miRNAs may provide superior predictive value. 
+31179325_3257	80	86	miR-22	Rna-noncoding	HGNC:31599
+31179325_3257	80	86	miR-22	Biomarker	C548375
+31179325_3257	123	148	cardiomyocyte hypertrophy	Disease	not found
+31179325_3257	123	171	cardiomyocyte hypertrophy and cardiac remodeling	Collection
+31179325_3257	153	171	cardiac remodeling	Disease	not found
+31179325_3257	206	217	miR-132/212	Rna-noncoding	family:1714
+31179325_3257	206	225	miR-132/212 cluster	Biomarker
+31179325_3257	272	291	cardiac hypertrophy	Disease	D006332
+31179325_3257	328	339	miR-132/212	Rna-noncoding
+31179325_3257	348	355	miR-132	Biomarker	C547077
+31179325_3257	348	355	miR-132	Rna-noncoding	HGNC:31516
+31179325_3257	401	419	cardiac remodeling	Disease
+31179325_3257	446	453	miR-150	Rna-noncoding	HGNC:31537
+31179325_3257	446	453	miR-150	Biomarker	C533097
+31179325_3257	495	507	inflammation	Disease	D007249
+31179325_3257	495	583	inflammation, has been implicated in the pathogenesis of various cardiovascular diseases	Collection
+31179325_3257	560	583	cardiovascular diseases	Disease	DOID:1287
+31179325_3257	597	604	miR-150	Biomarker
+31179325_3257	597	604	miR-150	Rna-noncoding
+31179325_3257	632	678	high glucose-induced cardiomyocyte hypertrophy	Disease	not found
+31179325_3257	637	644	glucose	Chemical
+31179325_3257	724	728	p300	Gene-protein	HGNC:3373
+31179325_3257	784	790	miRNAs	Biomarker	D035683
+31179325_3257	784	790	miRNAs	Rna-noncoding	family:476
+31179325_3257	823	846	cardiovascular diseases	Disease
+31179325_3257	908	985	expression levels of miR-22, miR-132, and miR-150 were obviously dysregulated	Biomarker
+31179325_3257	929	935	miR-22	Rna-noncoding
+31179325_3257	937	944	miR-132	Rna-noncoding
+31179325_3257	950	957	miR-150	Rna-noncoding
+31179325_3257	1003	1006	AMI	Disease	DOID:9408
+31179325_3257	1065	1074	miR-22-5p	Rna-noncoding	HGNC:31599
+31179325_3257	1076	1086	miR-132-5p	Rna-noncoding
+31179325_3257	1092	1102	miR-150-3p	Rna-noncoding	HGNC:31537
+31179325_3257	1120	1123	AMI	Disease
+31179325_3257	1199	1208	miR-22-5p	Rna-noncoding
+31179325_3257	1210	1220	miR-132-5p	Rna-noncoding
+31179325_3257	1226	1236	miR-150-3p	Rna-noncoding
+31179325_3257	1292	1295	AMI	Disease
+31179325_3257	1384	1433	circulating miR-22-5p, miR-132-5p, and miR-150-3p	Biomarker
+31179325_3257	1396	1405	miR-22-5p	Rna-noncoding
+31179325_3257	1407	1417	miR-132-5p	Rna-noncoding
+31179325_3257	1423	1433	miR-150-3p	Rna-noncoding
+31179325_3257	1485	1488	AMI	Disease
+31179325_3257	1525	1532	heparin	Drug	D006493
+31179325_3257	1536	1556	cardiovascular drugs	Drug-class
+

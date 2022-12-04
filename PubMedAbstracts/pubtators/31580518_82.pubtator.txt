@@ -1,0 +1,105 @@
+31580518_82|t|RSS_IDENT_p_31580518_a_1_1
+31580518_82|a| Over the last few decades, the number of cases of non‐melanoma skin cancer (NMSC) has risen to over 3 million cases every year worldwide. Members of the ERBB receptor family are important regulators of skin development and homeostasis and, when dysregulated, contribute to skin pathogenesis. In this study, we investigated leucine‐rich repeats and immunoglobulin‐like domains 2 (LRIG2), a transmembrane protein involved in feedback loop regulation of the ERBB receptor family during NMSC. LRIG2 was identified to be up‐regulated in various types of squamous cell carcinoma (SCC), but little is known about LRIG2 in cutaneous SCC (cSCC). To investigate the function of LRIG2 in cSCC in vivo, we generated a skin‐specific LRIG2 overexpressing transgenic mouse line (LRIG2‐TG) using the Tet‐Off system. We employed the 7,12‐dimethylbenz(a)anthracene/12‐O‐tetra‐decanoylphorbol‐13‐acetate (DMBA/TPA) two‐stage chemical carcinogenesis model and analyzed the skin during homeostasis and tumorigenesis. LRIG2‐TG mice did not exhibit alterations in skin development or homeostasis but showed an interaction between LRIG2 and thrombospondin‐1, which is often involved in angiogenesis and tumorigenesis. However, during carcinogenesis, transgenic animals showed significantly increased tumor progression and a more rapid development of cSCC. This was accompanied by changes in the ERBB system. After a single TPA application, inflammation of the epidermis was enhanced during LRIG2 overexpression. In human skin samples, LRIG2 expression was identified in the basal layer of the epidermis and in hair follicles of normal skin, but also in cSCC samples. In conclusion, epidermal LRIG2 excess is associated with activated EGFR/ERBB4‐MAPK signaling and accelerated tumor progression in experimentally induced NMSC, suggesting LRIG2 as a potential oncoprotein in skin. Abbreviations AKT RAC‐alpha serine/threonine‐protein kinase BME β‐mercaptoethanol BrdU bromodeoxyuridine CASP3 caspase 3 CDH1 E‐cadherin cSCC cutaneous squamous cell carcinoma EGF epidermal growth factor EGFR EGF receptor GAPDH glyceraldehyde‐3‐phosphate dehydrogenase HF hair follicle IB immunoblotted IL1A interleukin‐1‐alpha IL6 interleukin‐6 IP immunoprecipitation KRT keratin LOR loricrin LRIG leucine‐rich repeats and immunoglobulin‐like domains MAPK1/2 mitogen‐activated protein kinase 1/2 MKI67 proliferation marker protein Ki‐67 PCNA proliferating cell nuclear antigen PTEN phosphatidylinositol 3,4,5‐triphosphate 3‐phosphatase and dual specificity protein phosphatase PTEN RAS GTPase Ras proteins SHC1 SHC‐transforming protein 1 STAT signal transducer and activator of transcription THBS1 thrombospondin-1 TUBA1A tubulin alpha‐1a chain VIM vimentin
+31580518_82	78	102	non‐melanoma skin cancer	Disease	DOID:4159
+31580518_82	104	108	NMSC	Disease	DOID:4159
+31580518_82	181	194	ERBB receptor	Genefamily
+31580518_82	351	358	leucine	Chemical
+31580518_82	351	405	leucine‐rich repeats and immunoglobulin‐like domains 2	Gene-protein	HGNC:20889
+31580518_82	407	412	LRIG2	Gene-protein	HGNC:20889
+31580518_82	483	496	ERBB receptor	Genefamily
+31580518_82	511	515	NMSC	Disease
+31580518_82	517	522	LRIG2	Gene-protein
+31580518_82	517	556	LRIG2 was identified to be up‐regulated	Biomarker
+31580518_82	577	600	squamous cell carcinoma	Disease	DOID:1749
+31580518_82	602	605	SCC	Disease	DOID:5514
+31580518_82	634	639	LRIG2	Gene-protein
+31580518_82	643	656	cutaneous SCC	Disease	not found
+31580518_82	658	662	cSCC	Disease	not found
+31580518_82	696	701	LRIG2	Gene-protein
+31580518_82	705	709	cSCC	Disease
+31580518_82	748	753	LRIG2	Gene-protein
+31580518_82	792	797	LRIG2	Gene-protein
+31580518_82	844	875	7,12‐dimethylbenz(a)anthracene/	Chemical
+31580518_82	875	912	12‐O‐tetra‐decanoylphorbol‐13‐acetate	Chemical
+31580518_82	914	918	DMBA	Chemical
+31580518_82	919	922	TPA	Chemical
+31580518_82	1024	1029	LRIG2	Gene-protein
+31580518_82	1115	1161	interaction between LRIG2 and thrombospondin‐1	Biomarker
+31580518_82	1135	1140	LRIG2	Gene-protein
+31580518_82	1145	1161	thrombospondin‐1	Gene-protein
+31580518_82	1304	1309	tumor	Disease	DOID:162
+31580518_82	1354	1358	cSCC	Disease
+31580518_82	1399	1403	ERBB	Genefamily
+31580518_82	1444	1486	inflammation of the epidermis was enhanced	Biomarker
+31580518_82	1494	1499	LRIG2	Gene-protein
+31580518_82	1494	1514	LRIG2 overexpression	Biomarker
+31580518_82	1539	1544	LRIG2	Gene-protein
+31580518_82	1539	1555	LRIG2 expression	Biomarker
+31580518_82	1657	1661	cSCC	Disease
+31580518_82	1686	1708	epidermal LRIG2 excess	Biomarker
+31580518_82	1696	1701	LRIG2	Gene-protein
+31580518_82	1728	1763	activated EGFR/ERBB4‐MAPK signaling	Biomarker
+31580518_82	1738	1742	EGFR	Gene-protein
+31580518_82	1743	1748	ERBB4	Gene-protein
+31580518_82	1749	1753	MAPK	Genefamily
+31580518_82	1768	1797	accelerated tumor progression	Biomarker
+31580518_82	1824	1828	NMSC	Disease
+31580518_82	1841	1846	LRIG2	Gene-protein
+31580518_82	1841	1846	LRIG2	Biomarker
+31580518_82	1897	1900	AKT	Genefamily
+31580518_82	1901	1942	RAC‐alpha serine/threonine‐protein kinase	Genefamily
+31580518_82	1911	1917	serine	Chemical
+31580518_82	1918	1927	threonine	Chemical
+31580518_82	1943	1946	BME	Chemical
+31580518_82	1947	1964	β‐mercaptoethanol	Chemical
+31580518_82	1965	1969	BrdU	Chemical
+31580518_82	1970	1987	bromodeoxyuridine	Chemical
+31580518_82	1988	1993	CASP3	Gene-protein
+31580518_82	1988	2019	CASP3 caspase 3 CDH1 E‐cadherin	Biomarker
+31580518_82	1994	2003	caspase 3	Gene-protein
+31580518_82	2004	2008	CDH1	Gene-protein
+31580518_82	2009	2019	E‐cadherin	Gene-protein
+31580518_82	2020	2024	cSCC	Disease
+31580518_82	2025	2058	cutaneous squamous cell carcinoma	Disease	not found
+31580518_82	2059	2062	EGF	Gene-protein
+31580518_82	2063	2086	epidermal growth factor	Gene-protein
+31580518_82	2087	2091	EGFR	Gene-protein
+31580518_82	2092	2104	EGF receptor	Gene-protein
+31580518_82	2105	2110	GAPDH	Gene-protein
+31580518_82	2111	2137	glyceraldehyde‐3‐phosphate	Chemical
+31580518_82	2111	2151	glyceraldehyde‐3‐phosphate dehydrogenase	Gene-protein
+31580518_82	2186	2190	IL1A	Gene-protein
+31580518_82	2191	2210	interleukin‐1‐alpha	Gene-protein
+31580518_82	2211	2214	IL6	Gene-protein
+31580518_82	2215	2228	interleukin‐6	Gene-protein
+31580518_82	2252	2255	KRT	Gene-protein
+31580518_82	2256	2263	keratin	Gene-protein
+31580518_82	2264	2267	LOR	Gene-protein
+31580518_82	2268	2276	loricrin	Chemical
+31580518_82	2277	2281	LRIG	Gene-protein
+31580518_82	2282	2289	leucine	Chemical
+31580518_82	2282	2334	leucine‐rich repeats and immunoglobulin‐like domains	Gene-protein
+31580518_82	2335	2342	MAPK1/2	Gene-protein
+31580518_82	2343	2379	mitogen‐activated protein kinase 1/2	Gene-protein
+31580518_82	2380	2385	MKI67	Gene-protein
+31580518_82	2386	2420	proliferation marker protein Ki‐67	Gene-protein
+31580518_82	2421	2425	PCNA	Gene-protein
+31580518_82	2426	2460	proliferating cell nuclear antigen	Gene-protein
+31580518_82	2461	2465	PTEN	Gene-protein
+31580518_82	2466	2505	phosphatidylinositol 3,4,5‐triphosphate	Chemical
+31580518_82	2466	2560	phosphatidylinositol 3,4,5‐triphosphate 3‐phosphatase and dual specificity protein phosphatase	Gene-protein
+31580518_82	2561	2565	PTEN	Gene-protein
+31580518_82	2566	2569	RAS	Genefamily
+31580518_82	2570	2576	GTPase	Genefamily
+31580518_82	2577	2580	Ras	Genefamily
+31580518_82	2590	2594	SHC1	Gene-protein
+31580518_82	2595	2621	SHC‐transforming protein 1	Gene-protein
+31580518_82	2622	2626	STAT	Genefamily
+31580518_82	2627	2675	signal transducer and activator of transcription	Genefamily
+31580518_82	2676	2681	THBS1	Gene-protein
+31580518_82	2682	2698	thrombospondin-1	Gene-protein
+31580518_82	2699	2705	TUBA1A	Gene-protein
+31580518_82	2706	2722	tubulin alpha‐1a	Gene-protein
+31580518_82	2729	2732	VIM	Gene-protein
+31580518_82	2733	2741	vimentin	Gene-protein
+

@@ -1,0 +1,72 @@
+T0	Disease 121 124	CRC
+T1	Disease 216 219	CRC
+T2	Disease 462 468	cancer
+#3	AnnotatorNotes T2	DOID:162
+T3	Disease 570 573	CRC
+T4	Disease 849 854	tumor
+#5	AnnotatorNotes T4	DOID:162
+T5	Disease 1030 1036	cancer
+T6	Disease 1249 1258	carcinoma
+#7	AnnotatorNotes T6	DOID:305
+T7	Disease 1555 1558	CRC
+T8	Disease 1620 1623	CRC
+T9	Biomarker 80 111	PLK4 expression was upregulated
+T10	Gene-Protein 80 84	PLK4
+#1	AnnotatorNotes T10	HGNC:11397
+R1	Association Arg1:T9 Arg2:T0	
+#2	AnnotatorNotes T0	DOID:9256
+T11	Gene-Protein 168 172	PLK4
+T12	Biomarker 168 172	PLK4
+#4	AnnotatorNotes T12	C490219
+R2	Association Arg1:T12 Arg2:T1	
+T13	Gene-Protein 227 231	PLK4
+T14	Gene-Protein 297 307	N-cadherin
+#8	AnnotatorNotes T14	HGNC:1759
+T15	Gene-Protein 312 317	snail
+#9	AnnotatorNotes T15	HGNC:11128
+T16	Biomarker 297 334	N-cadherin and snail were upregulated
+T17	Gene-Protein 340 348	occludin
+#10	AnnotatorNotes T17	HGNC:8104
+T18	Biomarker 340 366	occludin was downregulated
+T20	Gene-Protein 391 395	PLK4
+T21	Gene-Protein 454 458	PLK4
+T22	Biomarker 454 458	PLK4
+R3	Association Arg1:T22 Arg2:T2	
+T23	Gene-Protein 517 521	PLK4
+T24	Gene-Protein 606 610	PLK4
+T25	GeneFamily 666 694	transforming growth factor β
+#11	AnnotatorNotes T25	family:1664
+T26	Gene-Protein 699 731	epidermal growth factor receptor
+#12	AnnotatorNotes T26	HGNC:3236
+T27	GeneFamily 769 772	Wnt
+#13	AnnotatorNotes T27	family:360
+T28	GeneFamily 773 782	β-catenin
+#14	AnnotatorNotes T28	family:1542
+T29	Biomarker 769 790	Wnt/β-catenin pathway
+R4	Association Arg1:T29 Arg2:T4	
+T30	GeneFamily 883 886	Wnt
+T31	GeneFamily 887 896	β-catenin
+T32	Gene-Protein 973 983	E-cadherin
+#15	AnnotatorNotes T32	HGNC:1748
+T33	Biomarker 973 983	E-cadherin
+#16	AnnotatorNotes T33	D015820
+R5	Association Arg1:T33 Arg2:T5	
+T34	GeneFamily 1062 1071	β-catenin
+T36	Gene-Protein 1171 1181	E-cadherin
+T37	Biomarker 1062 1071	β-catenin
+#17	AnnotatorNotes T37	D051176
+R6	Association Arg1:T37 Arg2:T6	
+T38	GeneFamily 1304 1307	Wnt
+T39	GeneFamily 1308 1317	β-catenin
+T40	Gene-Protein 1403 1408	snail
+T41	Gene-Protein 1413 1417	slug
+#18	AnnotatorNotes T41	HGNC:11094
+T35	Biomarker 1457 1516	expression levels of β-catenin were significantly increased
+T42	GeneFamily 1478 1487	β-catenin
+T43	Biomarker 1532 1551	PLK4 overexpression
+T44	Gene-Protein 1532 1536	PLK4
+T45	Gene-Protein 1596 1600	PLK4
+T46	Biomarker 1596 1600	PLK4
+R7	Association Arg1:T46 Arg2:T8	
+T47	GeneFamily 1653 1656	Wnt
+T48	GeneFamily 1657 1666	β-catenin

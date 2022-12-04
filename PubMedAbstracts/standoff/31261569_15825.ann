@@ -1,0 +1,41 @@
+T0	Disease 33 56	gastrointestinal tumors
+#1	AnnotatorNotes T0	DOID:3119
+T11	Gene-Protein 587 597	mesothelin
+T12	Disease 645 670	colorectal adenocarcinoma
+#3	AnnotatorNotes T12	DOID:0050861
+T19	Disease 1284 1289	tumor
+#7	AnnotatorNotes T19	DOID:162
+T3	Disease 199 216	pancreatic cancer
+#9	AnnotatorNotes T3	DOID:1793
+T6	Disease 307 321	gastric cancer
+#11	AnnotatorNotes T6	DOID:10534
+T8	Disease 406 435	extrahepatic bile duct cancer
+#12	AnnotatorNotes T8	DOID:4682
+T9	Gene-Protein 489 499	mesothelin
+T1	Gene-Protein 58 68	mesothelin
+#2	AnnotatorNotes T1	HGNC:7371
+T2	Gene-Protein 132 142	mesothelin
+T5	Gene-Protein 342 352	mesothelin
+T7	Gene-Protein 254 264	mesothelin
+T10	Gene-Protein 1632 1642	mesothelin
+T13	Gene-Protein 724 734	mesothelin
+T15	Gene-Protein 837 847	mesothelin
+T18	Biomarker 58 79	mesothelin expression
+R1	Prognostic-Poor Arg1:T18 Arg2:T0	
+T20	Gene-Protein 147 152	CA125
+#13	AnnotatorNotes T20	HGNC:15582
+T21	Biomarker 115 152	Co-expression of mesothelin and CA125
+R2	Prognostic-Poor Arg1:T21 Arg2:T3	
+T4	Biomarker 223 264	Luminal membrane expression of mesothelin
+R3	Prognostic-Poor Arg1:T4 Arg2:T6	
+T23	Biomarker 328 363	Intracellular mesothelin expression
+T24	Biomarker 567 597	luminal staining of mesothelin
+R4	Prognostic-Poor Arg1:T24 Arg2:T12	
+R5	Prognostic-Poor Arg1:T23 Arg2:T8	
+T14	Biomarker 705 745	luminal pattern of mesothelin expression
+T25	Biomarker 814 858	non-luminal pattern of mesothelin expression
+T16	Biomarker 920 933	tumor budding
+T17	Biomarker 935 958	high histologic grading
+T26	Biomarker 964 985	lymph node metastasis
+T27	Biomarker 1363 1378	luminal pattern
+T28	Biomarker 1423 1442	non-luminal pattern

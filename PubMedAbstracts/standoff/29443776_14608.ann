@@ -1,0 +1,26 @@
+T1	RNA-Noncoding 224 234	miR-141-3p
+#1	AnnotatorNotes T1	HGNC:31528
+T2	RNA-Noncoding 239 250	miR-1915-5p
+#2	AnnotatorNotes T2	HGNC:35399
+T3	Gene-Protein 272 276	ZEB1
+#3	AnnotatorNotes T3	HGNC:11642
+T4	Gene-Protein 278 282	ZEB2
+#4	AnnotatorNotes T4	HGNC:14881
+T5	Gene-Protein 284 289	EIF4E
+#5	AnnotatorNotes T5	HGNC:3287
+T6	Gene-Protein 291 295	BAP1
+#6	AnnotatorNotes T6	HGNC:950
+T7	Gene-Protein 297 302	CLOCK
+#7	AnnotatorNotes T7	HGNC:2082
+T8	Gene-Protein 304 309	CD133
+#8	AnnotatorNotes T8	HGNC:9454
+T9	Gene-Protein 315 319	PAX2
+#9	AnnotatorNotes T9	HGNC:8616
+T10	Gene-Protein 566 569	p53
+#10	AnnotatorNotes T10	HGNC:11998
+T11	GeneFamily 589 621	mitogen-activated protein kinase
+#11	AnnotatorNotes T11	family:651
+T12	GeneFamily 623 626	WNT
+#12	AnnotatorNotes T12	family:360
+T13	GeneFamily 632 641	Chemokine
+#13	AnnotatorNotes T13	not found

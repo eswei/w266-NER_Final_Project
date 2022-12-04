@@ -1,0 +1,60 @@
+T1	Biomarker 73 145	upregulated genes (such as CTHRC1, NFE2L3, SULF1, SOX9, ENC1, and CCND1)
+T11	Biomarker 811 842	CD8+ T cells were more enriched
+T12	Disease 846 849	CTS
+T14	Disease 974 986	colon cancer
+#2	AnnotatorNotes T14	DOID:219|DOID:235
+T3	Gene-Protein 205 213	KIAA2022
+T4	Disease 249 252	CTS
+T6	Disease 346 349	CTS
+T8	Disease 487 490	CTS
+T9	Gene-Protein 574 579	SUZ12
+T15	Gene-Protein 581 587	NFE2L2
+T16	Gene-Protein 589 594	RUNX1
+T17	Gene-Protein 596 601	STAT3
+T18	Gene-Protein 607 611	SOX2
+T19	Gene-Protein 631 637	MAPK14
+T20	Gene-Protein 639 646	CSNK2A1
+T21	Gene-Protein 648 652	CDK1
+T22	Gene-Protein 654 658	CDK2
+T23	Gene-Protein 664 668	CDK4
+T24	GeneFamily 614 621	kinases
+T25	Gene-Protein 743 748	NFKB1
+T26	Gene-Protein 750 756	ZBTB7A
+T27	Gene-Protein 758 763	GATA2
+T28	Gene-Protein 769 774	GATA5
+T29	Gene-Protein 736 741	HNF1A
+T30	Gene-Protein 720 725	MMTRs
+T31	Gene-Protein 675 718	master metabolic transcriptional regulators
+T32	Gene-Protein 811 814	CD8
+T33	Gene-Protein 100 106	CTHRC1
+T34	Gene-Protein 108 114	NFE2L3
+T35	Gene-Protein 116 121	SULF1
+T36	Gene-Protein 215 223	ARHGEF37
+T37	Gene-Protein 236 244	PPARGC1A
+T38	Gene-Protein 225 231	BCL-2,
+T39	Gene-Protein 199 203	ASPA
+T40	Gene-Protein 193 197	MYOT
+T41	Gene-Protein 139 144	CCND1
+T42	Gene-Protein 129 133	ENC1
+T43	Gene-Protein 123 127	SOX9
+T44	Biomarker 164 244	downregulated genes (such as MYOT, ASPA, KIAA2022, ARHGEF37, BCL-2, and PPARGC1A
+T2	Collection 73 245	upregulated genes (such as CTHRC1, NFE2L3, SULF1, SOX9, ENC1, and CCND1) and significantly downregulated genes (such as MYOT, ASPA, KIAA2022, ARHGEF37, BCL-2, and PPARGC1A)
+T45	Gene-Protein 998 1003	CEBPB
+T46	Gene-Protein 1005 1012	PPARGC1
+T47	Gene-Protein 1014 1019	STAT3
+T48	Gene-Protein 1043 1047	CDK1
+T49	Gene-Protein 1021 1025	MTOR
+T50	Gene-Protein 1027 1031	BCL2
+T51	Gene-Protein 1033 1037	JAK2
+T52	Collection 998 1047	CEBPB, PPARGC1, STAT3, MTOR, BCL2, JAK2, and CDK1
+T53	Biomarker 998 1003	CEBPB
+T54	Biomarker 1005 1012	PPARGC1
+T55	Biomarker 1014 1019	STAT3
+T56	Biomarker 1021 1025	MTOR
+T57	Biomarker 1027 1031	BCL2
+T58	Biomarker 1033 1037	JAK2
+T59	Biomarker 1043 1047	CDK1
+R1	Association Arg1:T52 Arg2:T14	
+#1	AnnotatorNotes T4	DOID:219
+R3	Association Arg1:T2 Arg2:T4	
+R4	Association Arg1:T11 Arg2:T12	

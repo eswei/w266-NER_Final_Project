@@ -1,0 +1,59 @@
+29699605_1431|t|RSS_IDENT_p_29699605_b_1_1
+29699605_1431|a| Chitinase is an enzyme that degrades chitin macromolecules, which are long-chain polymers of N-acetylglucosamine, a component of cell walls in fungi and the exoskeletons of arthropods. Surprisingly, several chitinase and chitinase-like proteins (CLPs) have been identified in mammals, and their expression is upregulated in various inflammatory diseases and tumors. Ym1/2 (Chi3l3, Chi3l4) are well-known CLPs as markers of alternative activated macrophages and contributors to allergic diseases. A recent study suggests that these CLPs promote γδ T-cell mediated-IL-17 production and neutrophilia in parasite infection. Chitinase-3-like protein 1 (Chi3l1), also known as YKL-40 in humans and BRP-39 in mice, is highly expressed in macrophages, epithelial cells, etc. The level of Chi3l1 in the blood has correlations with disease severity in allergic disease, such as asthma, and cancers. Chi3l1 KO mice were studied in Th2 inflammation models by OVA stimulation or IL-13 transgenic, suggesting Chi3l1 is a marker as well as an inducing factor for Th2 inflammation. Recently, Chi3l1 KO mice were also investigated in a study of pulmonary melanoma metastasis. Melanoma challenge induces Chi3l1 expression, and genetic ablation of Chi3l1 in mice leads to reduced pulmonary melanoma metastasis. More recently, it was reported that a cancer-associated fibroblast (CAF) expressed Chi3l1; secreted Chi3l1 increases tumor progression and M2 macrophage polarization. Collectively, previous studies of Chi3l1 in allergy and cancers suggest that Chi3l1 is a biomarker for inflammatory diseases and cancers that contributes to Th2 inflammation and tumor metastasis. However, its biological roles in adaptive immunity, such as T-cell functions, have been totally unknown. 
+29699605_1431	28	37	Chitinase	Genefamily	family:816
+29699605_1431	65	71	chitin	Chemical
+29699605_1431	121	140	N-acetylglucosamine	Chemical
+29699605_1431	235	244	chitinase	Genefamily	family:816
+29699605_1431	235	348	chitinase and chitinase-like proteins (CLPs) have been identified in mammals, and their expression is upregulated	Biomarker
+29699605_1431	249	272	chitinase-like proteins	Genefamily	not found
+29699605_1431	274	278	CLPs	Genefamily	not found
+29699605_1431	360	381	inflammatory diseases	Disease	not found
+29699605_1431	360	392	inflammatory diseases and tumors	Collection
+29699605_1431	386	392	tumors	Disease	DOID:162
+29699605_1431	394	399	Ym1/2	Gene-protein	not found, not found
+29699605_1431	394	416	Ym1/2 (Chi3l3, Chi3l4)	Biomarker
+29699605_1431	401	407	Chi3l3	Gene-protein	not found
+29699605_1431	409	415	Chi3l4	Gene-protein	not found
+29699605_1431	432	436	CLPs	Genefamily
+29699605_1431	505	522	allergic diseases	Disease	DOID:1205
+29699605_1431	559	563	CLPs	Genefamily
+29699605_1431	591	596	IL-17	Gene-protein	HGNC:5981
+29699605_1431	628	646	parasite infection	Disease	D010272
+29699605_1431	648	674	Chitinase-3-like protein 1	Gene-protein	HGNC:1932
+29699605_1431	676	682	Chi3l1	Gene-protein	HGNC:1932
+29699605_1431	699	705	YKL-40	Gene-protein	HGNC:1932
+29699605_1431	720	726	BRP-39	Gene-protein
+29699605_1431	799	827	level of Chi3l1 in the blood	Biomarker
+29699605_1431	808	814	Chi3l1	Gene-protein
+29699605_1431	870	886	allergic disease	Disease	DOID:1205
+29699605_1431	870	915	allergic disease, such as asthma, and cancers	Collection
+29699605_1431	896	902	asthma	Disease	DOID:2841
+29699605_1431	908	915	cancers	Disease	DOID:162
+29699605_1431	917	923	Chi3l1	Gene-protein
+29699605_1431	948	964	Th2 inflammation	Disease	not found
+29699605_1431	994	999	IL-13	Gene-protein	HGNC:5973
+29699605_1431	1023	1029	Chi3l1	Gene-protein
+29699605_1431	1023	1029	Chi3l1	Biomarker
+29699605_1431	1076	1092	Th2 inflammation	Disease
+29699605_1431	1104	1110	Chi3l1	Gene-protein
+29699605_1431	1156	1174	pulmonary melanoma	Disease	not found
+29699605_1431	1187	1195	Melanoma	Disease	DOID:1909
+29699605_1431	1214	1220	Chi3l1	Gene-protein
+29699605_1431	1214	1231	Chi3l1 expression	Biomarker
+29699605_1431	1257	1263	Chi3l1	Gene-protein
+29699605_1431	1289	1307	pulmonary melanoma	Disease
+29699605_1431	1358	1426	cancer-associated fibroblast (CAF) expressed Chi3l1; secreted Chi3l1	Biomarker
+29699605_1431	1403	1409	Chi3l1	Gene-protein
+29699605_1431	1420	1426	Chi3l1	Gene-protein
+29699605_1431	1437	1442	tumor	Disease	DOID:162
+29699605_1431	1521	1527	Chi3l1	Gene-protein
+29699605_1431	1531	1538	allergy	Disease	not found
+29699605_1431	1543	1550	cancers	Disease
+29699605_1431	1564	1570	Chi3l1	Gene-protein
+29699605_1431	1564	1570	Chi3l1	Biomarker
+29699605_1431	1590	1611	inflammatory diseases	Disease
+29699605_1431	1590	1623	inflammatory diseases and cancers	Collection
+29699605_1431	1616	1623	cancers	Disease
+29699605_1431	1644	1660	Th2 inflammation	Biomarker
+29699605_1431	1665	1681	tumor metastasis	Biomarker
+

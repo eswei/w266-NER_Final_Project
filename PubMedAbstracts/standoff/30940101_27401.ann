@@ -1,0 +1,57 @@
+T0	Chemical 30 34	Urea
+T1	Disease 65 68	CKD
+#2	AnnotatorNotes T1	DOID:784
+T11	Disease 623 640	diabetes mellitus
+#3	AnnotatorNotes T11	DOID:9351
+T16	Disease 1137 1151	kidney disease
+#6	AnnotatorNotes T16	DOID:557
+T18	Chemical 1161 1184	8-hydroxydeoxyguanosine
+T2	Chemical 108 131	reactive oxygen species
+T21	Chemical 1326 1341	malondialdehyde
+T23	Disease 1394 1412	glomerulosclerosis
+#12	AnnotatorNotes T23	DOID:0050851
+T25	Disease 1522 1537	IgA nephropathy
+#13	AnnotatorNotes T25	DOID:2986
+T26	Chemical 1582 1586	urea
+T28	Disease 1636 1650	kidney disease
+T3	Chemical 280 284	urea
+T4	Disease 334 352	insulin resistance
+#17	AnnotatorNotes T4	D007333
+T5	Chemical 393 397	urea
+T8	Chemical 437 459	O-linked N-glucosamine
+T9	Disease 494 519	insulin secretory defects
+#21	AnnotatorNotes T9	not found
+T6	Biomarker 280 284	urea
+R1	Association Arg1:T6 Arg2:T4	
+T10	Biomarker 393 397	urea
+R2	Association Arg1:T10 Arg2:T9	
+T12	Biomarker 563 580	higher BUN levels
+R3	Risk-Factor Arg1:T12 Arg2:T11	
+T15	Biomarker 897 939	oxidative stress is progressively enhanced
+T17	Disease 974 1013	kidney dysfunction in patients with CKD
+R4	Association Arg1:T15 Arg2:T17	
+T13	Biomarker 1059 1075	oxidative stress
+T14	Disease 1249 1281	diabetic nephropathy in diabetic
+T22	Biomarker 1153 1184	Urinary 8-hydroxydeoxyguanosine
+R5	Association Arg1:T22 Arg2:T14	
+T19	Biomarker 1326 1341	malondialdehyde
+R6	Association Arg1:T19 Arg2:T23	
+R7	Association Arg1:T13 Arg2:T16	
+T20	Biomarker 1429 1464	advanced oxidation protein products
+T24	Biomarker 1583 1611	rea-induced oxidative stress
+A1	Conjunction T17
+#1	AnnotatorNotes T17	DOID:557,DOID:784
+R8	Association Arg1:T20 Arg2:T25	
+#4	AnnotatorNotes T13	D018384
+A2	Conjunction T14
+#5	AnnotatorNotes T14	D003928, not found
+#7	AnnotatorNotes T19	D008315
+T7	Chemical 133 136	ROS
+T27	Biomarker 30 34	Urea
+#8	AnnotatorNotes T27	D014508
+R9	Association Arg1:T27 Arg2:T1	
+T29	Biomarker 99 158	increase reactive oxygen species (ROS) and oxidative stress
+#10	AnnotatorNotes T6	D014508
+T31	Gene-Protein 334 341	insulin
+#9	AnnotatorNotes T31	HGNC:6081
+T32	Gene-Protein 494 501	insulin

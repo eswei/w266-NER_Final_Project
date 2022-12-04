@@ -1,0 +1,71 @@
+29718794_179|t|RSS_IDENT_p_29718794_a_1_1
+29718794_179|a| Ring finger 213 (RNF213) is a susceptibility gene for moyamoya disease (MMD), a progressive cerebrovascular disease. Recent studies suggest that RNF213 plays an important role not only in MMD, but also in extracranial vascular diseases, such as pulmonary hypertension (PH). In this study, we undertook genetic screening of RNF213 in patients with PH and performed functional analysis of an RNF213 variant using mouse models. Direct sequencing of the exons in the C-terminal region of RNF213, where MMD-associated mutations are highly clustered, and of the entire coding exons of BMPR2 and CAV1, the causative genes for PH, was performed in 27 Japanese patients with PH. Two MMD-associated rare variants (p.R4810K and p.A4399T) in RNF213 were identified in two patients, three BMPR2 mutations (p.Q92H, p.L198Rfs*4, and p.S930X) were found in three patients, whereas no CAV1 mutations were identified. To test the effect of the RNF213 variants on PH, vascular endothelial cell (EC)-specific Rnf213 mutant transgenic mice were exposed to hypoxia. Overexpression of the EC-specific Rnf213 mutant, but neither Rnf213 ablation nor EC-specific wild-type Rnf213 overexpression, aggravated the hypoxia-induced PH phenotype (high right ventricular pressure, right ventricular hypertrophy, and muscularization of pulmonary vessels). Under hypoxia, electron microscopy showed unique EC detachment in pulmonary vessels, and western blots demonstrated a significant reduction in caveolin-1 (encoded by CAV1), a key molecule involved in EC functions, in lungs of EC-specific Rnf213 mutant transgenic mice, suggestive of EC dysfunction. RNF213 appears to be a genetic risk factor for PH and could play a role in systemic vasculopathy.
+29718794_179	28	43	Ring finger 213	Biomarker
+29718794_179	28	43	Ring finger 213	Gene-protein	HGNC:14539
+29718794_179	45	51	RNF213	Gene-protein	HGNC:14539
+29718794_179	82	98	moyamoya disease	Disease	DOID:13099
+29718794_179	100	103	MMD	Disease	DOID:13099
+29718794_179	120	143	cerebrovascular disease	Disease	DOID:6713
+29718794_179	173	179	RNF213	Gene-protein
+29718794_179	173	179	RNF213	Biomarker
+29718794_179	216	219	MMD	Disease	DOID:0070199
+29718794_179	216	295	MMD, but also in extracranial vascular diseases, such as pulmonary hypertension	Collection
+29718794_179	233	263	extracranial vascular diseases	Disease	not found
+29718794_179	273	295	pulmonary hypertension	Disease	DOID:6432
+29718794_179	297	299	PH	Disease	DOID:6432
+29718794_179	351	357	RNF213	Gene-protein
+29718794_179	351	357	RNF213	Biomarker
+29718794_179	375	377	PH	Disease
+29718794_179	418	424	RNF213	Chemical
+29718794_179	418	432	RNF213 variant	Biomarker
+29718794_179	491	492	C	Chemical
+29718794_179	512	518	RNF213	Gene-protein
+29718794_179	526	529	MMD	Disease
+29718794_179	607	612	BMPR2	Gene-protein	HGNC:1078
+29718794_179	607	612	BMPR2	Biomarker	D052006
+29718794_179	607	621	BMPR2 and CAV1	Collection
+29718794_179	617	621	CAV1	Gene-protein	HGNC:1527
+29718794_179	617	621	CAV1	Biomarker	C495540
+29718794_179	647	649	PH	Disease
+29718794_179	694	696	PH	Disease
+29718794_179	702	705	MMD	Disease
+29718794_179	732	740	p.R4810K	Variant	p.Arg4810Lys
+29718794_179	732	753	p.R4810K and p.A4399T	Collection
+29718794_179	745	753	p.A4399T	Variant	p.Ala4399Thr
+29718794_179	758	764	RNF213	Gene-protein
+29718794_179	804	809	BMPR2	Gene-protein
+29718794_179	821	827	p.Q92H	Variant	p.Gln92His
+29718794_179	821	853	p.Q92H, p.L198Rfs*4, and p.S930X	Collection
+29718794_179	829	840	p.L198Rfs*4	Variant	p.Leu198ArgRfsTer4
+29718794_179	846	853	p.S930X	Variant	p.Ser930aaX
+29718794_179	896	900	CAV1	Gene-protein
+29718794_179	896	910	CAV1 mutations	Biomarker
+29718794_179	954	960	RNF213	Gene-protein
+29718794_179	954	969	RNF213 variants	Biomarker
+29718794_179	973	975	PH	Disease
+29718794_179	1017	1023	Rnf213	Gene-protein
+29718794_179	1063	1070	hypoxia	Disease
+29718794_179	1072	1119	Overexpression of the EC-specific Rnf213 mutant	Biomarker
+29718794_179	1106	1112	Rnf213	Gene-protein
+29718794_179	1133	1139	Rnf213	Gene-protein
+29718794_179	1133	1148	Rnf213 ablation	Biomarker
+29718794_179	1153	1196	EC-specific wild-type Rnf213 overexpression	Biomarker
+29718794_179	1175	1181	Rnf213	Gene-protein
+29718794_179	1213	1231	hypoxia-induced PH	Disease	DOID:2835
+29718794_179	1243	1274	high right ventricular pressure	Biomarker
+29718794_179	1276	1305	right ventricular hypertrophy	Biomarker
+29718794_179	1311	1347	muscularization of pulmonary vessels	Biomarker
+29718794_179	1356	1362	hypoxi	Disease
+29718794_179	1392	1433	unique EC detachment in pulmonary vessels	Biomarker
+29718794_179	1392	1647	unique EC detachment in pulmonary vessels, and western blots demonstrated a significant reduction in caveolin-1 (encoded by CAV1), a key molecule involved in EC functions, in lungs of EC-specific Rnf213 mutant transgenic mice, suggestive of EC dysfunction	Collection
+29718794_179	1480	1503	reduction in caveolin-1	Biomarker
+29718794_179	1493	1503	caveolin-1	Gene-protein
+29718794_179	1516	1520	CAV1	Gene-protein
+29718794_179	1588	1594	Rnf213	Chemical
+29718794_179	1588	1601	Rnf213 mutant	Biomarker
+29718794_179	1633	1647	EC dysfunction	Biomarker
+29718794_179	1649	1655	RNF213	Gene-protein
+29718794_179	1649	1655	RNF213	Biomarker
+29718794_179	1696	1698	PH	Disease
+29718794_179	1724	1745	systemic vasculopathy	Disease	not found
+

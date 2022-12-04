@@ -1,0 +1,41 @@
+31382961_3947|t|RSS_IDENT_p_31382961_b_1_1_4
+31382961_3947|a| PPHN is a subgroup of pulmonary arterial hypertension (PAH), which is a complex disorder characterized by elevation of PVR and failure of right heart function. It is a common complication of many clinical diseases. PAH is classified into five types according to the pathogenesis of the disease (WHO classification) and PPHN is a specific group [ 7 ]. Pathogenic variants among several genes have been reported in PAH patients exhibiting both adulthood onset and childhood onset. Bone morphogenic protein receptor type 2 (BMPR2), a member of the transforming growth factor beta (TGF-β) superfamily, is associated with 70% of familial pulmonary arterial hypertension (FPAH)/heritable pulmonary arterial hypertension (HPAH) cases and 20% of idiopathic pulmonary hypertension (IPAH) cases [ 8 ]. SMAD9 [ 9 ], CAV1 [ 10 ], KCNK3 [ 11 ] are also known PAH genes listed in the Online Mendelian Inheritance in Man (OMIM) database. Hereditary hemorrhagic telangiectasia (HHT) gene variants in the activin receptor-like kinase 1 (ACVRL1) [ 12 ] and endoglin (ENG) [ 13 ] have been identified in PAH patients. To date, no causal genes for PPHN have been reported, and the genetic etiology remains unclear. We suggest that the genetic pathogenesis of PPHN may share some similarities with PAH in adults and children.
+31382961_3947	30	34	PPHN	Disease	DOID:13042
+31382961_3947	52	83	pulmonary arterial hypertension	Disease	D000081029
+31382961_3947	85	88	PAH	Disease	D000081029
+31382961_3947	136	152	elevation of PVR	Biomarker
+31382961_3947	136	188	elevation of PVR and failure of right heart function	Collection
+31382961_3947	157	188	failure of right heart function	Biomarker
+31382961_3947	245	248	PAH	Disease
+31382961_3947	349	353	PPHN	Disease
+31382961_3947	381	420	Pathogenic variants among several genes	Biomarker
+31382961_3947	443	446	PAH	Disease
+31382961_3947	509	549	Bone morphogenic protein receptor type 2	Biomarker	D052006
+31382961_3947	509	549	Bone morphogenic protein receptor type 2	Gene-protein	HGNC:1078
+31382961_3947	551	556	BMPR2	Gene-protein	HGNC:1078
+31382961_3947	575	626	transforming growth factor beta (TGF-β) superfamily	Genefamily	family:1932
+31382961_3947	654	694	familial pulmonary arterial hypertension	Disease	D065627
+31382961_3947	654	808	familial pulmonary arterial hypertension (FPAH)/heritable pulmonary arterial hypertension (HPAH) cases and 20% of idiopathic pulmonary hypertension (IPAH)	Collection
+31382961_3947	696	700	FPAH	Disease	D065627
+31382961_3947	702	743	heritable pulmonary arterial hypertension	Disease	D065627
+31382961_3947	745	749	HPAH	Disease	D065627
+31382961_3947	768	801	idiopathic pulmonary hypertension	Disease	 D065627
+31382961_3947	803	807	IPAH	Disease	 D065627
+31382961_3947	822	827	SMAD9	Gene-protein	HGNC:6774
+31382961_3947	822	827	SMAD9	Biomarker	C107514
+31382961_3947	822	860	SMAD9 [ 9 ], CAV1 [ 10 ], KCNK3 [ 11 ]	Collection
+31382961_3947	835	839	CAV1	Gene-protein	HGNC:1527
+31382961_3947	835	839	CAV1	Biomarker	C495540
+31382961_3947	848	853	KCNK3	Gene-protein	HGNC:6278
+31382961_3947	848	853	KCNK3	Biomarker	C420132
+31382961_3947	876	879	PAH	Disease
+31382961_3947	953	1077	Hereditary hemorrhagic telangiectasia (HHT) gene variants in the activin receptor-like kinase 1 (ACVRL1) [ 12 ] and endoglin	Biomarker
+31382961_3947	1018	1048	activin receptor-like kinase 1	Gene-protein	HGNC:175
+31382961_3947	1050	1056	ACVRL1	Gene-protein	HGNC:175
+31382961_3947	1069	1077	endoglin	Gene-protein	HGNC:3349
+31382961_3947	1079	1082	ENG	Gene-protein	HGNC:3349
+31382961_3947	1115	1118	PAH	Disease
+31382961_3947	1158	1162	PPHN	Disease
+31382961_3947	1269	1273	PPHN	Disease
+31382961_3947	1307	1310	PAH	Disease
+

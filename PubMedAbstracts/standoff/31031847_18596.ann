@@ -1,0 +1,51 @@
+T0	Gene-Protein 66 71	SUZ12
+T1	Disease 193 199	tumors
+#2	AnnotatorNotes T1	DOID:162
+T10	Disease 434 437	EOC
+T11	Gene-Protein 440 445	SUZ12
+T13	Disease 466 469	EOC
+T14	Gene-Protein 483 488	SUZ12
+T17	Gene-Protein 599 604	SUZ12
+T18	Disease 630 645	HBV-related HCC
+#8	AnnotatorNotes T18	not found
+T21	Gene-Protein 786 791	SUZ12
+T23	Disease 839 850	liver tumor
+#12	AnnotatorNotes T23	DOID:3571
+T25	Gene-Protein 926 931	SUZ12
+T26	Disease 942 953	liver tumor
+T3	Gene-Protein 249 254	SUZ12
+T30	Gene-Protein 1110 1115	SUZ12
+T32	Gene-Protein 1241 1246	SUZ12
+T33	Disease 1250 1253	HCC
+T5	Disease 276 281	HNSCC
+T7	Gene-Protein 298 303	SUZ12
+T9	Disease 407 432	epithelial ovarian cancer
+#26	AnnotatorNotes T9	DOID:2152
+#1	AnnotatorNotes T0	HGNC:17101
+#3	AnnotatorNotes T5	DOID:5520
+T2	Biomarker 249 272	SUZ12 was overexpressed
+R1	Association Arg1:T2 Arg2:T5	
+T4	Biomarker 289 314	elevated SUZ12 expression
+R2	Prognostic-Poor Arg1:T4 Arg2:T5	
+T6	Disease 862 877	HBV-induced HCC
+T12	Biomarker 440 462	SUZ12 was up-regulated
+R3	Association Arg1:T12 Arg2:T9	
+T15	Biomarker 483 503	SUZ12 overexpression
+R4	Prognostic-Poor Arg1:T15 Arg2:T13	
+T16	Biomarker 579 626	expression level of SUZ12 protein was decreased
+R5	Association Arg1:T16 Arg2:T18	
+T22	Biomarker 907 931	down-regulation of SUZ12
+R6	Association Arg1:T22 Arg2:T26	
+#5	AnnotatorNotes T33	D0ID:684
+T24	Biomarker 66 71	SUZ12
+#6	AnnotatorNotes T24	D017919
+T27	Biomarker 1110 1130	SUZ12 overexpression
+T20	Biomarker 786 809	SUZ12 is down-regulated
+R7	Association Arg1:T20 Arg2:T23	
+R8	Association Arg1:T24 Arg2:T1	
+T8	Biomarker 345 369	cervical node metastasis
+T29	Biomarker 378 402	reduced overall survival
+#4	AnnotatorNotes T10	DOID:2152
+T31	MicroOrganism 813 816	HBV
+T34	MicroOrganism 862 865	HBV
+T35	MicroOrganism 992 1017	woodchuck hepatitis virus

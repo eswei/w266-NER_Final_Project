@@ -1,0 +1,114 @@
+T1	Gene-Protein 30 41	Pentraxin 3
+T10	Biomarker 896 901	GAL-3
+T11	Disease 935 948	heart failure
+#1	AnnotatorNotes T11	D006333
+T12	Disease 950 970	cardiovascular death
+#2	AnnotatorNotes T12	not found
+T13	Biomarker 1084 1157	concentration of plasma plasminogen activator inhibitor (PAI-1) increases
+T14	Disease 1179 1194	atherosclerosis
+#3	AnnotatorNotes T14	DOID:1936
+T15	Disease 1223 1226	CAD
+T16	Chemical 1250 1257	retinol
+T17	Biomarker 1250 1275	retinol-binding protein-4
+T18	Disease 1302 1309	obesity
+#6	AnnotatorNotes T18	DOID:9970
+T19	Disease 1311 1329	insulin resistance
+#7	AnnotatorNotes T19	D007333
+T2	Disease 297 300	CAD
+T20	Disease 1335 1350	type 2 diabetes
+#9	AnnotatorNotes T20	DOID:9352
+T21	Chemical 1389 1398	vitamin A
+T22	Biomarker 1417 1421	RBP4
+T25	Gene-Protein 1510 1513	ADP
+T26	Gene-Protein 1657 1660	ADP
+T27	Drug 1657 1660	ADP
+T28	Disease 1705 1720	atherosclerosis
+#15	AnnotatorNotes T28	DOID:1936
+T3	Gene-Protein 311 315	PTX3
+T30	Biomarker 1886 1952	interleukin (IL) family, IL-37 often decreases in peripheral blood
+T33	Biomarker 2332 2336	NTN1
+T34	Disease 2366 2381	atherosclerosis
+T35	Disease 2387 2419	anti-ischemia reperfusion injury
+#19	AnnotatorNotes T35	not found
+T37	Disease 2459 2462	CAD
+T4	Biomarker 311 368	PTX3 is released from activated platelets and neutrophils
+T5	Biomarker 414 446	coronary atherosclerotic lesions
+T6	GeneFamily 454 463	Galectins
+T7	Chemical 468 481	β-galactoside
+T38	Gene-Protein 43 47	PTX3
+#4	AnnotatorNotes T38	 HGNC:9692
+#5	AnnotatorNotes T1	 HGNC:9692
+T39	GeneFamily 92 101	pentraxin
+#8	AnnotatorNotes T2	DOID:3393
+T40	GeneFamily 597 606	galectins
+T41	Gene-Protein 681 686	GAL-3
+T42	Gene-Protein 669 679	Galectin-3
+T8	Collection 935 995	heart failure, cardiovascular death, and all-cause mortality
+R2	Association Arg1:T10 Arg2:T8	
+T9	Gene-Protein 896 901	GAL-3
+T43	Gene-Protein 1141 1146	PAI-1
+R3	Association Arg1:T13 Arg2:T66	
+T44	Gene-Protein 1250 1275	retinol-binding protein-4
+T45	Gene-Protein 1277 1281	RBP4
+T46	Collection 1302 1350	obesity, insulin resistance, and type 2 diabetes
+R5	Association Arg1:T17 Arg2:T46	
+T47	Disease 1456 1479	arteriosclerosis in CAD
+T23	Gene-Protein 1417 1421	RBP4
+R6	Association Arg1:T22 Arg2:T47	
+T24	Gene-Protein 1497 1508	Adiponectin
+#10	AnnotatorNotes T24	HGNC:13633
+#11	AnnotatorNotes T25	HGNC:13633
+T48	GeneFamily 1597 1607	adipokines
+T49	GeneFamily 1530 1556	anti-inflammatory cytokine
+R7	Protects-from Arg1:T27 Arg2:T28	
+T29	Gene-Protein 1753 1780	tumor necrosis factor-alpha
+T50	Gene-Protein 1782 1787	TNF-α
+T51	GeneFamily 1886 1897	interleukin
+T52	GeneFamily 1899 1901	IL
+T53	Gene-Protein 1911 1916	IL-37
+T54	Gene-Protein 1999 2004	IL-37
+T55	GeneFamily 2102 2127	proinflammatory cytokines
+T56	CellLine 2031 2039	RAW264.7
+T57	GeneFamily 2136 2143	Netrins
+T58	Gene-Protein 2209 2213	NTN1
+T60	Gene-Protein 2332 2336	NTN1
+T61	Collection 2366 2420	atherosclerosis, and anti-ischemia reperfusion injury,
+R8	Association Arg1:T33 Arg2:T61	
+T36	Disease 986 995	mortality
+#12	AnnotatorNotes T36	D009026
+#13	AnnotatorNotes T47	DOID:1936, DOID:3393
+T62	Gene-Protein 1101 1139	plasma plasminogen activator inhibitor
+#14	AnnotatorNotes T27	D052242
+T31	Gene-Protein 2199 2207	Netrin-1
+T32	Drug-Class 1026 1078	inhibitor of plasminogen activation and fibrinolysis
+T59	Gene-Protein 1311 1318	insulin
+#16	AnnotatorNotes T59	HGNC:6081
+A1	Conjunction T47
+T63	Drug 2072 2090	lipopolysaccharide
+#17	AnnotatorNotes T63	CHEMBL1909064
+T64	GeneFamily 2243 2250	netrins
+T65	GeneFamily 468 504	β-galactoside-binding animal lectins
+R9	Risk-Reduce Arg1:T33 Arg2:T37	
+#18	AnnotatorNotes T39	family:1141
+R10	Association Arg1:T4 Arg2:T2	
+#20	AnnotatorNotes T6	family:629
+#21	AnnotatorNotes T65	family:629
+#22	AnnotatorNotes T40	family:629
+#23	AnnotatorNotes T42	HGNC:6563
+#24	AnnotatorNotes T41	HGNC:6563
+#25	AnnotatorNotes T62	HGNC: 8583
+#26	AnnotatorNotes T43	HGNC: 8583
+T66	Collection 1179 1226	atherosclerosis [ 9 ], making it a putative CAD
+#27	AnnotatorNotes T44	HGNC:9922
+#28	AnnotatorNotes T45	HGNC:9922
+#29	AnnotatorNotes T49	not found
+#30	AnnotatorNotes T48	not found
+#31	AnnotatorNotes T29	HGNC:11892
+#32	AnnotatorNotes T50	HGNC:11892
+#33	AnnotatorNotes T51	family:601
+#34	AnnotatorNotes T52	family:601
+#35	AnnotatorNotes T53	HGNC:15563
+#37	AnnotatorNotes T57	family:661
+#38	AnnotatorNotes T31	HGNC:8029
+#39	AnnotatorNotes T58	HGNC:8029
+#40	AnnotatorNotes T64	family:661

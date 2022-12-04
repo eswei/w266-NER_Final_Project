@@ -1,0 +1,68 @@
+31258724_16154|t|RSS_IDENT_p_31258724_b_1_4_5
+31258724_16154|a| The role of PSME3 in cancer has been well characterized. PSME3 knockout mice treated with dextran sodium sulfate to induce acute colitis showed decreased intestinal inflammation and colitis-associated cancer compared to wild-type mice. 27 In oral squamous cell carcinoma, high expression of PSME3 was correlated with worse OS, while PSME3 silencing inhibited the growth, proliferation and mobility of oral squamous cell carcinoma cells in vitro and reduced tumor growth and angiogenesis in mice in vivo . 12 Similarly, PSME3 silencing attenuated the cell proliferation, migration and invasive abilities of endometrial cancer cells. In a model of skin tumorigenesis, PSME3 functioned as an oncogene, whereby the TPA-induced overexpression of PSME3 was dependent on the activation of the MAPK-p38 signaling pathway. 28 In breast cancer, 5-year disease-free survival and OS in patients with undetectable or low PSME3 expression were significantly higher than in patients with high PSME3 expression. 6 In colorectal cancer, PSME3 expression was higher in colorectal cancer tissue than in healthy tissues. 10 Other studies indicate that mutations in the TP53 gene, which encodes the tumor suppressor protein p53, occur in various types of cancer, and that PSME3 negatively regulates p53, whereby the elimination of endogenous PSME3 in human cancer cells abrogates MDM2-mediated p53 degradation, increases the activity of p53, and enhances apoptosis. 29 Notably, p53 mutations show a positive correlation with PSME3 expression in various cancer cell lines. 30 In normal endometrium, expression of PSME3 was increased in p53-positive specimens compared to p53-negative specimens, 31 and in laryngeal carcinoma, the expression of PSME3 was correlated with p53 and p21. 11 , 32 - 34 
+31258724_16154	42	47	PSME3	Gene-protein	HGNC:9570
+31258724_16154	42	47	PSME3	Biomarker	C099558
+31258724_16154	51	57	cancer	Disease	DOID:162
+31258724_16154	87	92	PSME3	Gene-protein
+31258724_16154	120	142	dextran sodium sulfate	Drug	CHEMBL2108952
+31258724_16154	153	166	acute colitis	Disease	not found
+31258724_16154	184	207	intestinal inflammation	Biomarker
+31258724_16154	184	237	intestinal inflammation and colitis-associated cancer	Collection
+31258724_16154	212	237	colitis-associated cancer	Biomarker	D000083023
+31258724_16154	272	300	oral squamous cell carcinoma	Disease	DOID:0050866
+31258724_16154	302	326	high expression of PSME3	Biomarker
+31258724_16154	321	326	PSME3	Gene-protein
+31258724_16154	363	368	PSME3	Gene-protein
+31258724_16154	363	378	PSME3 silencing	Drug	not found
+31258724_16154	431	459	oral squamous cell carcinoma	Disease
+31258724_16154	431	492	oral squamous cell carcinoma cells in vitro and reduced tumor	Collection
+31258724_16154	487	492	tumor	Disease	DOID:162
+31258724_16154	549	554	PSME3	Gene-protein
+31258724_16154	549	564	PSME3 silencing	Drug	not found
+31258724_16154	636	654	endometrial cancer	Disease	DOID:1380
+31258724_16154	676	694	skin tumorigenesis	Disease	DOID:4159
+31258724_16154	696	701	PSME3	Gene-protein
+31258724_16154	696	701	PSME3	Biomarker
+31258724_16154	741	744	TPA	Chemical
+31258724_16154	771	776	PSME3	Gene-protein
+31258724_16154	816	820	MAPK	Genefamily
+31258724_16154	821	824	p38	Gene-protein
+31258724_16154	850	863	breast cancer	Disease	DOID:1612
+31258724_16154	918	954	undetectable or low PSME3 expression	Biomarker
+31258724_16154	938	943	PSME3	Gene-protein
+31258724_16154	1003	1024	high PSME3 expression	Biomarker
+31258724_16154	1008	1013	PSME3	Gene-protein
+31258724_16154	1031	1048	colorectal cancer	Disease	DOID:9256
+31258724_16154	1050	1055	PSME3	Gene-protein
+31258724_16154	1050	1077	PSME3 expression was higher	Biomarker
+31258724_16154	1081	1098	colorectal cancer	Disease
+31258724_16154	1162	1188	mutations in the TP53 gene	Biomarker
+31258724_16154	1179	1183	TP53	Gene-protein	HGNC:11998
+31258724_16154	1233	1236	p53	Gene-protein	HGNC:11998
+31258724_16154	1264	1270	cancer	Disease
+31258724_16154	1281	1286	PSME3	Gene-protein
+31258724_16154	1281	1286	PSME3	Biomarker
+31258724_16154	1308	1311	p53	Gene-protein
+31258724_16154	1308	1311	p53	Biomarker	D016159
+31258724_16154	1351	1356	PSME3	Gene-protein
+31258724_16154	1366	1372	cancer	Disease
+31258724_16154	1389	1393	MDM2	Gene-protein	HGNC:6973
+31258724_16154	1403	1406	p53	Gene-protein
+31258724_16154	1446	1449	p53	Gene-protein
+31258724_16154	1487	1490	p53	Gene-protein
+31258724_16154	1487	1500	p53 mutations	Biomarker
+31258724_16154	1534	1539	PSME3	Gene-protein
+31258724_16154	1534	1550	PSME3 expression	Biomarker
+31258724_16154	1562	1568	cancer	Disease
+31258724_16154	1607	1640	expression of PSME3 was increased	Biomarker
+31258724_16154	1621	1626	PSME3	Gene-protein
+31258724_16154	1644	1647	p53	Gene-protein
+31258724_16154	1679	1682	p53	Gene-protein
+31258724_16154	1713	1732	laryngeal carcinoma	Disease	DOID:2600
+31258724_16154	1752	1757	PSME3	Gene-protein
+31258724_16154	1752	1757	PSME3	Biomarker
+31258724_16154	1778	1781	p53	Gene-protein
+31258724_16154	1778	1781	p53	Biomarker
+31258724_16154	1786	1789	p21	Gene-protein	HGNC:1784
+31258724_16154	1786	1789	p21	Biomarker	D050759
+

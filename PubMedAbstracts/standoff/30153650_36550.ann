@@ -1,0 +1,105 @@
+T1	Disease 41 64	Cardiovascular diseases
+#1	AnnotatorNotes T1	DOID:1287
+T10	Biomarker 339 403	each 10 mm Hg increment in systolic blood pressure from baseline
+T11	Chemical 350 352	Hg
+T12	Biomarker 506 590	loci of the human D5R (hD5R), 4p15.1–16.1, and its pseudo genes, 1q21.1 2p11.1-p11.2
+T13	Disease 606 628	essential hypertension
+#3	AnnotatorNotes T13	DOID:10825
+T14	Chemical 683 687	cAMP
+T15	Biomarker 861 880	high blood pressure
+T17	Disease 1180 1183	DCM
+T18	Biomarker 1379 1382	D5R
+T19	Chemical 1448 1453	NADPH
+T2	Biomarker 87 99	hypertension
+#8	AnnotatorNotes T2	D006973
+T20	Disease 1533 1554	myocardial remodeling
+#9	AnnotatorNotes T20	not found
+T21	Biomarker 1597 1609	D5R mutation
+T22	Disease 1618 1640	dilated cardiomyopathy
+#10	AnnotatorNotes T22	DOID:12930
+T23	Biomarker 1660 1676	oxidative stress
+T25	Disease 1678 1692	D5R deficiency
+T26	Biomarker 1703 1737	increase in NADPH oxidase activity
+T27	Chemical 1715 1720	NADPH
+T28	Gene-Protein 1888 1919	masculoaponeurotic fibrosarcoma
+T3	Disease 113 116	DCM
+T30	Chemical 1996 2011	NAD(P)H quinone
+T32	Chemical 2039 2043	heme
+T33	Gene-Protein 2297 2310	Phospholamban
+T34	Chemical 2401 2405	Ca²⁺
+T35	Disease 2462 2480	cardiac remodeling
+#21	AnnotatorNotes T35	not found
+T36	Disease 2494 2516	dilated cardiomyopathy
+T5	Biomarker 135 157	ventricular dilatation
+T6	Biomarker 162 202	impaired systolic and diastolic function
+T9	Disease 312 334	cardiovascular disease
+#26	AnnotatorNotes T9	DOID:1287
+#2	AnnotatorNotes T3	DOID:12930
+T4	Biomarker 224 258	blood pressure exceeds 160/95 mmHg
+T7	Collection 135 202	ventricular dilatation and impaired systolic and diastolic function
+R2	Association Arg1:T7 Arg2:T3	
+R3	Risk-Factor Arg1:T4 Arg2:T3	
+R4	Association Arg1:T10 Arg2:T9	
+R5	Association Arg1:T12 Arg2:T13	
+T38	Biomarker 1255 1276	mutant human D5R gene
+T39	Gene-Protein 1425 1429	Nrf2
+T40	Gene-Protein 1448 1461	NADPH oxidase
+T41	Biomarker 1509 1528	ROS over-production
+T42	Chemical 1509 1512	ROS
+R6	Association Arg1:T18 Arg2:T20	
+T43	Gene-Protein 1559 1566	ERK1/2/
+T44	Gene-Protein 1566 1569	JNK
+R7	Association Arg1:T21 Arg2:T22	
+R8	Association Arg1:T23 Arg2:T22	
+#4	AnnotatorNotes T23	D018384
+T24	Gene-Protein 1715 1728	NADPH oxidase
+T45	Gene-Protein 1777 1781	Nrf2
+T46	Biomarker 1820 1959	failure of the transcription of a number of antioxidative genes via masculoaponeurotic fibrosarcoma (MAF) and antioxidant response elements
+T47	Gene-Protein 1921 1924	MAF
+T29	Gene-Protein 1997 2027	AD(P)H quinone 1 dehydrogenase
+T31	Gene-Protein 2029 2033	NQO1
+T48	Gene-Protein 2039 2055	heme oxygenase 1
+T49	Gene-Protein 2057 2060	HO1
+T50	Gene-Protein 2113 2119	ERK1/2
+T51	Gene-Protein 2124 2127	JNK
+T52	Gene-Protein 2178 2216	BCL2 associated X, apoptosis regulator
+T53	Gene-Protein 2218 2221	BAX
+T54	Gene-Protein 2244 2275	B aggressive lymphoma protein 2
+T55	Gene-Protein 2277 2281	BAL2
+T56	Gene-Protein 2283 2289	PARP14
+T57	Disease 2063 2079	Oxidative stress
+#7	AnnotatorNotes T57	D018384
+T58	Gene-Protein 2312 2315	PLN
+T59	GeneFamily 2414 2419	SERCA
+T60	GeneFamily 2401 2412	Ca²⁺-ATPase
+T61	Gene-Protein 2432 2438	ATP2A2
+T62	Collection 2462 2516	cardiac remodeling and finally, dilated cardiomyopathy
+T63	Biomarker 2297 2310	Phospholamban
+#11	AnnotatorNotes T63	C016056
+R9	Risk-Factor Arg1:T63 Arg2:T62	
+T64	Gene-Protein 2545 2580	Kelch-like ECH Associated Protein 1
+T65	Gene-Protein 2582 2587	Keap1
+T66	Gene-Protein 2599 2603	Nrf2
+T67	Gene-Protein 2663 2673	proteasome
+T68	Biomarker 659 667	hD5F¹⁷³ᴸ
+T69	Biomarker 672 713	diminished cAMP activity and D5R function
+T70	Biomarker 839 847	hD5F¹⁷³ᴸ
+T8	Biomarker 885 904	cardiac hypertrophy
+T37	Biomarker 974 982	hD5F¹⁷³ᴸ
+T71	Biomarker 1204 1212	hD5F¹⁷³ᴸ
+R10	Association Arg1:T71 Arg2:T17	
+T72	Gene-Protein 524 527	D5R
+#12	AnnotatorNotes T72	HGNC:3026
+T73	Gene-Protein 529 533	hD5R
+#14	AnnotatorNotes T73	HGNC:3026
+T74	Gene-Protein 701 704	D5R
+T75	Gene-Protein 774 777	D5R
+T76	Gene-Protein 1268 1271	D5R
+T77	Gene-Protein 1379 1382	D5R
+T78	Gene-Protein 1597 1600	D5R
+T79	Gene-Protein 1678 1681	D5R
+T80	Gene-Protein 2518 2521	D5R
+R1	Association Arg1:T2 Arg2:T1	
+#5	AnnotatorNotes T8	D006332
+T16	Collection 1703 1959	increase in NADPH oxidase activity (I), and prevents the translocation of Nrf2 into the nucleus (II), resulting in a failure of the transcription of a number of antioxidative genes via masculoaponeurotic fibrosarcoma (MAF) and antioxidant response elements
+R11	Association Arg1:T16 Arg2:T25	

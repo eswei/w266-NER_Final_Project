@@ -1,0 +1,33 @@
+30214187_2810|t|RSS_IDENT_p_30214187_b_1_1_3
+30214187_2810|a| Fractional exhaled nitric oxide (FENO), a biomarker synthesized endogenously in the human respiratory tract, plays a key role in physiological regulation of airway function, including neurotransmission, vasodilation, and immunoregulation. 6 Moreover, FENO is implicated in the pathophysiology of airway disease, and elevated FENO level is found in inflammatory lung disorders such as asthma, pulmonary hypertension, and cystic fibrosis. 7 The measurement of FENO has been suggested as a simple and noninvasive test in eosinophilic airway inflammation, and the utility in aiding diagnosis and monitoring of asthma has also been confirmed. 7 , 8 However, limited by the inconsistent results of FENO level in COPD, the value and application in this case still remains unknown. Interestingly, it was reported that FENO levels in patients with COPD could be reduced by smoking and inhaled corticosteroids, which indicated they were confounding factors in measuring FENO levels in COPD. COPD involves excessive inflammation in airway and lung, which induces the release of numerous proinflammatory cytokines. Yet, the available studies regarding FENO levels are controversial and conflicting in their conclusions. To address this issue, we performed a systematic review and meta-analysis of published studies to determine the levels of FENO in COPD, aiming to further the understanding of the role of FENO in patients with COPD.
+30214187_2810	30	61	Fractional exhaled nitric oxide	Biomarker
+30214187_2810	49	61	nitric oxide	Chemical
+30214187_2810	63	67	FENO	Biomarker
+30214187_2810	281	285	FENO	Biomarker
+30214187_2810	326	340	airway disease	Disease	not found
+30214187_2810	346	365	elevated FENO level	Biomarker
+30214187_2810	378	405	inflammatory lung disorders	Disease	not found
+30214187_2810	378	465	inflammatory lung disorders such as asthma, pulmonary hypertension, and cystic fibrosis	Collection
+30214187_2810	414	420	asthma	Disease	DOID:2841
+30214187_2810	422	444	pulmonary hypertension	Disease	DOID:6432
+30214187_2810	450	465	cystic fibrosis	Disease	DOID:1485
+30214187_2810	488	492	FENO	Biomarker
+30214187_2810	548	580	eosinophilic airway inflammation	Disease	not found
+30214187_2810	636	642	asthma	Disease
+30214187_2810	722	732	FENO level	Biomarker
+30214187_2810	736	740	COPD	Disease	DOID:3083
+30214187_2810	840	851	FENO levels	Biomarker
+30214187_2810	869	873	COPD	Disease
+30214187_2810	894	901	smoking	Biomarker
+30214187_2810	914	929	corticosteroids	Chemical
+30214187_2810	990	1001	FENO levels	Biomarker
+30214187_2810	1005	1009	COPD	Disease
+30214187_2810	1011	1015	COPD	Disease
+30214187_2810	1035	1066	inflammation in airway and lung	Biomarker
+30214187_2810	1106	1131	proinflammatory cytokines	Genefamily	not found
+30214187_2810	1170	1181	FENO levels	Biomarker
+30214187_2810	1350	1364	levels of FENO	Biomarker
+30214187_2810	1368	1372	COPD	Disease
+30214187_2810	1425	1429	FENO	Biomarker
+30214187_2810	1447	1451	COPD	Disease
+

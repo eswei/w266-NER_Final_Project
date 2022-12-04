@@ -1,0 +1,67 @@
+31366068_102|t|RSS_IDENT_p_31366068_a_1_1
+31366068_102|a| (1) Background: Oxidative stress, chronic inflammation, vasoocclusion, and free iron are all features present in sickle cell disease. Paraoxonases (PON) are a family (PON-1, PON-2, PON-3) of antioxidant enzymes with anti-inflammatory action. Here, for the first time, we described PON-1 activities and PON-1, PON-2, PON-3 polymorphisms in patients with sickle cell disease, homozygous for HbSS, compared with healthy controls. (2) Methods: The groups were matched for age and gender. PON-1 activities (arylesterase and paraoxonase) were determined by enzymatic hydrolysis of phenylcetate and paraoxon, respectively. Polymorphisms were determined by Restriction Fragment Length Polymorphism- Polymerase Chain Reaction (RFLP-PCR). (3) Results: Plasma cholesterol and fractions, ApoA1 and ApoB levels were all decreased in sickle cell disease patients, while anti-oxidized low-density lipoprotein (LDL) antibodies and C-reactive protein were increased. Serum arylesterase activity was lower in sickle cell disease patients when compared with healthy controls. In patients, paraoxonase activity was higher in those with PON-1 RR Q192R polymorphism. In these patients, the increase of serum iron and ferritin levels and transferrin saturation were less pronounced than those observed in patients with QQ or QR polymorphism. No differences were observed with PON-1 L55M, and PON-2 and PON-3 polymorphisms. Multivariate regression analysis showed that transferrin and ferritin concentrations correlated with arylesterase and paraoxonase activities. (4) Conclusions: Both transferrin and ferritin were the main predictors of decreased arylesterase and paraoxonase activities in patients with sickle cell disease. LDL oxidation increased, and RR PON-1 Q192R polymorphism is likely to be a protective factor against oxidative damage in these patients.
+31366068_102	44	60	Oxidative stress	Biomarker	D018384
+31366068_102	44	112	Oxidative stress, chronic inflammation, vasoocclusion, and free iron	Collection
+31366068_102	62	82	chronic inflammation	Biomarker
+31366068_102	84	97	vasoocclusion	Biomarker
+31366068_102	103	112	free iron	Biomarker
+31366068_102	108	112	iron	Chemical
+31366068_102	141	160	sickle cell disease	Disease	DOID:10923
+31366068_102	162	174	Paraoxonases	Genefamily	family:463
+31366068_102	176	179	PON	Genefamily	family:463
+31366068_102	195	200	PON-1	Gene-protein	HGNC:9204
+31366068_102	202	207	PON-2	Gene-protein	HGNC:9205
+31366068_102	209	214	PON-3	Gene-protein	HGNC:9206
+31366068_102	309	314	PON-1	Gene-protein
+31366068_102	309	325	PON-1 activities	Biomarker
+31366068_102	309	363	PON-1 activities and PON-1, PON-2, PON-3 polymorphisms	Collection
+31366068_102	330	335	PON-1	Gene-protein
+31366068_102	330	363	PON-1, PON-2, PON-3 polymorphisms	Biomarker
+31366068_102	337	342	PON-2	Gene-protein
+31366068_102	344	349	PON-3	Gene-protein
+31366068_102	381	421	sickle cell disease, homozygous for HbSS	Disease	not found
+31366068_102	512	517	PON-1	Gene-protein
+31366068_102	530	542	arylesterase	Genefamily	family:463
+31366068_102	547	558	paraoxonase	Genefamily	family:463
+31366068_102	603	615	phenylcetate	Chemical
+31366068_102	620	628	paraoxon	Chemical
+31366068_102	770	844	Plasma cholesterol and fractions, ApoA1 and ApoB levels were all decreased	Biomarker
+31366068_102	777	788	cholesterol	Chemical
+31366068_102	804	809	ApoA1	Gene-protein	HGNC:600
+31366068_102	814	818	ApoB	Gene-protein	HGNC:603
+31366068_102	848	867	sickle cell disease	Disease
+31366068_102	884	938	anti-oxidized low-density lipoprotein (LDL) antibodies	Gene-protein	not found
+31366068_102	884	976	anti-oxidized low-density lipoprotein (LDL) antibodies and C-reactive protein were increased	Biomarker
+31366068_102	943	961	C-reactive protein	Gene-protein	HGNC:2367
+31366068_102	978	1015	Serum arylesterase activity was lower	Biomarker
+31366068_102	984	996	arylesterase	Genefamily
+31366068_102	1019	1038	sickle cell disease	Disease
+31366068_102	1098	1129	paraoxonase activity was higher	Biomarker
+31366068_102	1144	1149	PON-1	Gene-protein
+31366068_102	1153	1158	Q192R	Variant	p.Gln192Arg
+31366068_102	1196	1265	increase of serum iron and ferritin levels and transferrin saturation	Biomarker
+31366068_102	1214	1218	iron	Chemical
+31366068_102	1223	1231	ferritin	Genefamily	family:1455
+31366068_102	1243	1254	transferrin	Genefamily	family:908
+31366068_102	1324	1345	QQ or QR polymorphism	Biomarker
+31366068_102	1381	1386	PON-1	Gene-protein
+31366068_102	1387	1391	L55M	Variant	p.Leu55Met
+31366068_102	1397	1402	PON-2	Gene-protein
+31366068_102	1397	1426	PON-2 and PON-3 polymorphisms	Biomarker
+31366068_102	1407	1412	PON-3	Gene-protein
+31366068_102	1473	1484	transferrin	Genefamily
+31366068_102	1489	1497	ferritin	Genefamily
+31366068_102	1529	1541	arylesterase	Genefamily
+31366068_102	1546	1557	paraoxonase	Genefamily
+31366068_102	1592	1603	transferrin	Genefamily
+31366068_102	1592	1616	transferrin and ferritin	Biomarker
+31366068_102	1608	1616	ferritin	Chemical
+31366068_102	1645	1694	decreased arylesterase and paraoxonase activities	Biomarker
+31366068_102	1655	1667	arylesterase	Genefamily
+31366068_102	1672	1683	paraoxonase	Genefamily
+31366068_102	1712	1731	sickle cell disease	Disease
+31366068_102	1733	1756	LDL oxidation increased	Biomarker
+31366068_102	1765	1770	PON-1	Gene-protein
+31366068_102	1771	1776	Q192R	Variant
+31366068_102	1834	1850	oxidative damage	Disease	D018384
+

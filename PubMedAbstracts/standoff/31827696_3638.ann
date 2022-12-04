@@ -1,0 +1,66 @@
+T0	Chemical 85 94	estradiol
+T1	Disease 168 191	gestational cholestasis
+#2	AnnotatorNotes T1	DOID:0070227
+T10	Disease 546 569	gestational cholestasis
+T11	Drug 668 672	UDCA
+T12	Disease 691 749	gestational cholestasis-induced adverse pregnancy outcomes
+T13	Disease 759 775	preterm delivery
+#6	AnnotatorNotes T13	D047928
+T14	Drug 813 817	UDCA
+T15	Disease 829 851	cholestatic conditions
+#8	AnnotatorNotes T15	not found
+T17	Chemical 947 970	reactive oxygen species
+T18	Disease 1005 1037	cholestasis-induced liver injury
+#10	AnnotatorNotes T18	not found
+T2	Drug 211 220	estradiol
+T20	Drug 1078 1094	Obeticholic acid
+T21	Drug 1096 1099	OCA
+T22	Disease 1159 1187	nonalcoholic steatohepatitis
+#15	AnnotatorNotes T22	DOID:0080547
+T23	Drug 1282 1285	OCA
+T24	Disease 1329 1346	E217α cholestasis
+#17	AnnotatorNotes T24	not found
+T26	Drug 1379 1382	OCA
+T27	Drug 1678 1681	OCA
+T28	Disease 1712 1746	sepsis-induced acute kidney injury
+#21	AnnotatorNotes T28	not found
+T3	Disease 280 303	gestational cholestasis
+T30	Disease 1766 1788	renal oxidative stress
+#24	AnnotatorNotes T30	not found
+T32	Drug 1843 1846	OCA
+T33	Disease 1871 1913	gestational cholestasis-induced fetal IUGR
+#27	AnnotatorNotes T33	not found
+T5	Drug 321 330	estradiol
+T6	Chemical 380 389	bile acid
+T8	Drug 473 493	Ursodeoxycholic acid
+T9	Drug 495 499	UDCA
+T4	Biomarker 76 100	elevated estradiol level
+#1	AnnotatorNotes T2	CHEMBL135
+R1	Causes Arg1:T2 Arg2:T3	
+T7	Gene-Protein 429 449	farnesoid X receptor
+#4	AnnotatorNotes T7	HGNC:7967
+T16	Gene-Protein 451 454	FXR
+#7	AnnotatorNotes T16	HGNC:7967
+#9	AnnotatorNotes T8	CHEMBL1551
+#12	AnnotatorNotes T9	CHEMBL1551
+R2	Response Arg1:T8 Arg2:T10	
+#3	AnnotatorNotes T12	not found
+T35	Chemical 972 975	ROS
+T36	Biomarker 940 970	excess reactive oxygen species
+R3	Association Arg1:T36 Arg2:T18	
+#5	AnnotatorNotes T20	CHEMBL566315
+#11	AnnotatorNotes T21	 CHEMBL566315
+T19	Gene-Protein 1223 1226	FXR
+T37	Gene-Protein 1298 1301	FXR
+R5	Protects-from Arg1:T23 Arg2:T24	
+T25	Disease 1386 1403	E217α cholestasis
+T38	Gene-Protein 1452 1457	FXR l
+T39	Biomarker 1452 1530	FXR ligand is a ligand-activated transcription factor that is highly expressed
+T40	Gene-Protein 1608 1611	FXR
+R6	Protects-from Arg1:T27 Arg2:T28	
+T29	Collection 691 775	gestational cholestasis-induced adverse pregnancy outcomes, such as preterm delivery
+R7	Non-Response Arg1:T11 Arg2:T29	
+T31	Drug-Class 1212 1226	agonist of FXR
+T34	Drug 1329 1334	E217α
+#13	AnnotatorNotes T34	CHEMBL566315
+T41	Drug 1386 1391	E217α

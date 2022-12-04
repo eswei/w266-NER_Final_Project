@@ -1,0 +1,118 @@
+T1	Variant 81 93	rs4420638A/G
+T13	Chemical 648 655	glucose
+T14	Chemical 660 665	lipid
+T16	Variant 692 701	rs4420638
+T17	Collection 814 840	rs4420638A/G and -317H1/H2
+T20	Disease 873 896	metabolic abnormalities
+#4	AnnotatorNotes T20	not found
+T21	Disease 901 921	chronic inflammation
+#5	AnnotatorNotes T21	not found
+T23	Variant 958 970	rs4420638A/G
+T25	Disease 1005 1049	endocrine abnormalities of reproductive axis
+#6	AnnotatorNotes T25	not found
+T26	Chemical 1312 1321	Estradiol
+T29	Chemical 1392 1399	Glucose
+T31	Disease 1486 1504	insulin resistance
+#12	AnnotatorNotes T31	D007333
+T32	Chemical 1554 1589	Low-density lipoprotein cholesterol
+T33	Chemical 1650 1661	cholesterol
+T34	Chemical 1665 1678	Triglycerides
+T35	Chemical 1682 1700	Total testosterone
+T4	Disease 166 170	PCOS
+#17	AnnotatorNotes T4	DOID:11612
+T5	Biomarker 370 392	the -317 H1H1 genotype
+T8	Disease 514 518	PCOS
+T9	Collection 571 597	rs4420638A/G and -317H1/H2
+T36	Gene-Protein 75 80	apoC1
+#2	AnnotatorNotes T36	HGNC:607
+T2	Gene-Protein 202 207	apoC1
+T3	Variant 208 222	rs4420638A → G
+T37	Biomarker 262 286	elevated serum LH levels
+T38	Biomarker 301 324	high ratio of LH to FSH
+T39	Biomarker 333 364	adverse lipid metabolic profile
+T40	Biomarker 412 467	increased the ratio of apoB-PAF-AH to H-PAF-AH activity
+T6	Gene-Protein 435 439	apoB
+#7	AnnotatorNotes T6	HGNC:603
+T41	GeneFamily 440 446	PAF-AH
+#8	AnnotatorNotes T41	not found
+T42	GeneFamily 452 458	PAF-AH
+#9	AnnotatorNotes T42	not found
+T7	Biomarker 476 492	acne grade score
+T43	Gene-Protein 565 570	apoC1
+T10	Chemical 341 346	lipid
+T11	Biomarker 640 683	adverse glucose and lipid metabolic profile
+T12	Biomarker 710 758	increases plasma PAF-AH and apoB-PAF-AH activity
+T15	GeneFamily 727 733	PAF-AH
+T44	Gene-Protein 738 742	apoB
+T45	GeneFamily 743 749	PAF-AH
+T46	Gene-Protein 808 813	apoC1
+R1	Association Arg1:T23 Arg2:T25	
+T18	Gene-Protein 1098 1103	apoA1
+#1	AnnotatorNotes T18	HGNC:600
+T19	Gene-Protein 1104 1121	Apolipoprotein A1
+#3	AnnotatorNotes T19	HGNC:600
+T22	Gene-Protein 1122 1126	apoB
+T24	Gene-Protein 1127 1143	Apolipoprotein B
+#10	AnnotatorNotes T24	HGNC:603
+T47	Gene-Protein 1144 1148	apoB
+T48	GeneFamily 1195 1237	platelet activating factor acetylhydrolase
+#11	AnnotatorNotes T48	not found
+T49	GeneFamily 1149 1155	PAF-AH
+T50	Gene-Protein 1156 1160	apoB
+T51	Gene-Protein 1238 1242	apoE
+#13	AnnotatorNotes T51	HGNC:613
+T52	Gene-Protein 1243 1259	Apolipoprotein E
+#14	AnnotatorNotes T52	HGNC:613
+T27	GeneFamily 1359 1387	Follicle stimulating hormone
+T53	GeneFamily 1355 1358	FSH
+#16	AnnotatorNotes T27	not found
+T28	Chemical 1388 1391	Glu
+T54	Chemical 1400 1405	HDL-C
+T55	Chemical 1406 1442	High-density lipoprotein cholesterol
+T30	Gene-Protein 1486 1493	insulin
+#18	AnnotatorNotes T30	HGNC:6081
+T56	GeneFamily 1529 1535	PAF-AH
+T57	Chemical 1514 1517	HDL
+T58	GeneFamily 1507 1513	PAF-AH
+T59	Gene-Protein 1540 1547	Insulin
+#19	AnnotatorNotes T59	HGNC:6081
+T60	Gene-Protein 1536 1539	Ins
+#20	AnnotatorNotes T60	HGNC:6081
+T61	Chemical 1548 1553	LDL-C
+T62	GeneFamily 1593 1612	Luteinizing hormone
+#21	AnnotatorNotes T62	not found
+R2	Variant-Of Arg1:T36 Arg2:T67	
+R3	Variant-Of Arg1:T2 Arg2:T3	
+T63	GeneFamily 277 279	LH
+#22	AnnotatorNotes T63	family:1896
+T64	GeneFamily 315 317	LH
+T65	GeneFamily 321 324	FSH
+#23	AnnotatorNotes T65	family:1896
+R4	Variant-Of Arg1:T43 Arg2:T9	
+R5	Variant-Of Arg1:T43 Arg2:T16	
+R6	Variant-Of Arg1:T46 Arg2:T17	
+R7	Variant-Of Arg1:T46 Arg2:T23	
+T66	Variant 98 107	-317H1/H2
+T67	Collection 81 107	rs4420638A/G and -317H1/H2
+T68	Variant 571 583	rs4420638A/G
+T69	Variant 588 597	-317H1/H2
+T70	Variant 814 826	rs4420638A/G
+T71	Variant 831 840	-317H1/H2
+T72	GeneFamily 1590 1592	LH
+T73	Biomarker 1080 1097	Atherogenic index
+T74	Biomarker 1077 1079	AI
+T75	Biomarker 1260 1263	BMI
+#15	AnnotatorNotes T75	D015992
+T76	Biomarker 1264 1279	Body mass index
+#24	AnnotatorNotes T76	D015992
+T77	Biomarker 1280 1283	DBP
+T78	Biomarker 1284 1308	Diastolic blood pressure
+T79	Biomarker 1322 1331	F-G score
+T80	Biomarker 1332 1354	Ferriman–Gallwey score
+T81	Biomarker 1443 1453	HOMA index
+T82	Biomarker 1454 1504	Homeostatic model assessment of insulin resistance
+T83	Biomarker 1613 1616	SBP
+T84	Biomarker 1617 1640	Systolic blood pressure
+T85	Chemical 1641 1643	TC
+T86	Chemical 1662 1664	TG
+T87	Chemical 1679 1681	TT

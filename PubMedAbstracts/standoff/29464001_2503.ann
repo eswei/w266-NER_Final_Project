@@ -1,0 +1,57 @@
+T0	Biomarker 864 896	PIWIL3 expression is deregulated
+T1	Disease 909 916	cancers
+#1	AnnotatorNotes T1	DOID:162
+T10	Disease 1473 1480	gliomas
+#2	AnnotatorNotes T10	DOID:0060108
+T11	RNA-Noncoding 1530 1543	piRNADQ570076
+T12	RNA-Noncoding 1560 1569	piR-30188
+T13	Disease 1622 1628	glioma
+#5	AnnotatorNotes T13	DOID:0060108
+T14	RNA-Noncoding 1704 1713	piR-30188
+T15	Disease 1751 1763	glioblastoma
+#7	AnnotatorNotes T15	DOID:3068
+T3	Biomarker 1106 1136	PIWIL3 is aberrantly expressed
+T4	Disease 1140 1168	breast and gastric carcinoma
+#8	AnnotatorNotes T4	DOID:3459, DOID:5517
+T5	Disease 1210 1223	breast cancer
+#9	AnnotatorNotes T5	DOID:1612
+T6	Biomarker 1274 1318	PIWIL3 has been shown to be highly expressed
+T7	Disease 1322 1363	stage III human ovarian epithelial cancer
+#10	AnnotatorNotes T7	not found
+T9	Biomarker 1445 1469	PIWIL3 is down-regulated
+T16	GeneFamily 499 508	Argonaute
+#3	AnnotatorNotes T16	family:408
+T17	GeneFamily 535 540	PIWIL
+#4	AnnotatorNotes T17	family:2038
+T18	Gene-Protein 684 690	PIWIL1
+#6	AnnotatorNotes T18	HGNC:9007
+T19	Gene-Protein 692 698	PIWIL2
+#12	AnnotatorNotes T19	HGNC:17644
+T20	Gene-Protein 700 706	PIWIL3
+#13	AnnotatorNotes T20	HGNC:18443
+T21	Gene-Protein 711 717	PIWIL4
+#14	AnnotatorNotes T21	HGNC:18444
+T22	GeneFamily 722 726	PIWI
+T23	Gene-Protein 864 870	PIWIL3
+R1	Association Arg1:T0 Arg2:T1	
+T24	ProteinDomain 851 862	PIWI domain
+T25	Gene-Protein 982 988	PIWIL3
+T2	Gene-Protein 1106 1112	PIWIL3
+T26	Collection 1140 1223	breast and gastric carcinoma 8 , 9 and is related to the prognosis of breast cancer
+R2	Association Arg1:T3 Arg2:T26	
+T27	Gene-Protein 1274 1280	PIWIL3
+R3	Association Arg1:T6 Arg2:T7	
+T8	Gene-Protein 1445 1451	PIWIL3
+R4	Association Arg1:T9 Arg2:T10	
+#11	AnnotatorNotes T12	not found
+T28	Biomarker 1530 1605	piRNADQ570076 (referred to as piR-30188 in NCBI genebank) is down-regulated
+T29	CellLine 1609 1612	U87
+T30	CellLine 1617 1621	U251
+R5	Association Arg1:T28 Arg2:T13	
+T31	Gene-Protein 1693 1699	PIWIL3
+T32	Biomarker 1693 1699	PIWIL3
+#16	AnnotatorNotes T32	C556794
+T33	Biomarker 1704 1713	piR-30188
+T34	GeneFamily 343 347	PIWI
+#15	AnnotatorNotes T34	family:408
+T35	GeneFamily 654 658	PIWI

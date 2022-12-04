@@ -1,0 +1,46 @@
+T0	Gene-Protein 30 34	SNCA
+T1	Disease 220 244	familial and sporadic PD
+#2	AnnotatorNotes T1	not found, not found
+T10	Disease 568 602	motor deficits in rotenone-exposed
+#3	AnnotatorNotes T10	not found
+T11	Chemical 586 594	rotenone
+T13	Gene-Protein 642 646	SNCA
+T14	Disease 687 689	PD
+T16	Gene-Protein 743 747	SNCA
+T17	Gene-Protein 984 988	SNCA
+T18	Disease 999 1016	neurodegeneration
+T2	Gene-Protein 278 282	SNCA
+T20	Gene-Protein 1145 1149	SNCA
+T21	Disease 1162 1179	neurodegeneration
+T3	Disease 323 342	neuronal toxicities
+#13	AnnotatorNotes T3	not found
+T5	Gene-Protein 385 389	SNCA
+T7	Chemical 453 497	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+T9	Gene-Protein 514 518	SNCA
+T4	Disease 113 115	PD
+#1	AnnotatorNotes T4	DOID:14330
+#4	AnnotatorNotes T0	HGNC:11138
+T12	Biomarker 30 34	SNCA
+#5	AnnotatorNotes T12	C497604
+R1	Association Arg1:T12 Arg2:T4	
+T19	Gene-Protein 175 180	hSNCA
+#7	AnnotatorNotes T19	HGNC:11138
+T22	Drug 256 293	reducing the level of SNCA expression
+#8	AnnotatorNotes T22	not found
+R3	Protects-from Arg1:T22 Arg2:T3	
+T23	Drug 372 400	reduction of SNCA expression
+T6	Drug 514 537	SNCA knockdown by shRNA
+#10	AnnotatorNotes T6	not found
+R4	Response Arg1:T6 Arg2:T10	
+T8	Drug 629 657	reduction of SNCA expression
+R5	Response Arg1:T8 Arg2:T14	
+T24	GeneFamily 812 852	major histocompatibility complex class 1
+T25	GeneFamily 854 859	MHC-1
+T26	Drug 953 988	normalization of overexpressed SNCA
+#9	AnnotatorNotes T18	D009410
+R6	Response Arg1:T26 Arg2:T18	
+T27	Drug 1127 1149	downregulation of SNCA
+R7	Protects-from Arg1:T27 Arg2:T21	
+T28	Gene-Protein 430 432	TH
+T15	Drug-Class 136 142	ASOᴬ¹⁹
+R2	Response Arg1:T15 Arg2:T1	

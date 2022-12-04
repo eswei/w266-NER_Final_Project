@@ -1,0 +1,74 @@
+T0	Disease 50 59	carcinoma
+#1	AnnotatorNotes T0	DOID:305
+T10	Disease 563 580	gastric carcinoma
+#2	AnnotatorNotes T10	DOID:5517
+T12	Disease 706 720	gastric cancer
+#3	AnnotatorNotes T12	DOID:10534
+T14	Disease 772 789	gastric carcinoma
+T15	Drug 839 850	carboplatin
+T16	Disease 899 913	ovarian cancer
+#7	AnnotatorNotes T16	DOID:2394
+T17	Drug 965 976	carboplatin
+T18	Disease 1010 1030	colorectal carcinoma
+#9	AnnotatorNotes T18	DOID:0080199
+T19	Drug 1067 1078	doxorubicin
+T2	Disease 120 140	mantle-cell lymphoma
+#11	AnnotatorNotes T2	DOID:0050746
+T20	Disease 1197 1202	tumor
+#12	AnnotatorNotes T20	DOID:162
+T21	Disease 1276 1291	cervical cancer
+#13	AnnotatorNotes T21	DOID:4362
+T23	Disease 1395 1420	Stage III cervical cancer
+#14	AnnotatorNotes T23	not found
+T26	Disease 1489 1504	cervical cancer
+T4	Disease 217 236	lung adenocarcinoma
+#18	AnnotatorNotes T4	DOID:3910
+T5	Disease 332 338	cancer
+#19	AnnotatorNotes T5	DOID:162
+T7	Disease 412 420	hepatoma
+#20	AnnotatorNotes T7	DOID:684
+T8	Drug 440 481	6-bromine-5-hydroxy-4-methoxybenzaldehyde
+T1	Gene-Protein 42 46	RCC1
+#6	AnnotatorNotes T1	HGNC:1913
+T3	Gene-Protein 74 78	RCC1
+T6	Biomarker 74 116	RCC1 was identified as being overexpressed
+R1	Association Arg1:T6 Arg2:T2	
+T9	Biomarker 173 213	RCC1 expression was significantly higher
+T11	Gene-Protein 173 177	RCC1
+R2	Association Arg1:T9 Arg2:T4	
+T22	Gene-Protein 315 319	RCC1
+T27	Biomarker 315 319	RCC1
+#8	AnnotatorNotes T27	C062521
+R3	Association Arg1:T27 Arg2:T5	
+T28	Biomarker 384 402	RCC1 was decreased
+T29	Gene-Protein 384 388	RCC1
+#10	AnnotatorNotes T8	C515564
+R4	Causes Arg1:T8 Arg2:T7	
+R5	Association Arg1:T28 Arg2:T7	
+T30	CellLine 406 411	HepG2
+T31	Biomarker 520 559	RCC1 expression was significantly lower
+T32	Gene-Protein 520 524	RCC1
+R6	Association Arg1:T31 Arg2:T10	
+T33	Drug 598 646	methylation-induced silencing of RCC1 expression
+T34	Gene-Protein 631 635	RCC1
+R7	Causes Arg1:T33 Arg2:T12	
+T13	Gene-Protein 738 742	RCC1
+#5	AnnotatorNotes T15	CHEMBL1351
+T36	Biomarker 935 961	RCC1 expression was higher
+T37	Gene-Protein 935 939	RCC1
+R9	Mediated-Response Arg1:T17 Arg2:T16	
+R10	Mediator Arg1:T17 Arg2:T36	
+T38	Gene-Protein 1038 1042	RCC1
+T39	Biomarker 1038 1042	RCC1
+#21	AnnotatorNotes T19	CHEMBL53463
+R11	Mediated-Non-Response Arg1:T19 Arg2:T18	
+R12	Mediator Arg1:T19 Arg2:T39	
+T40	Biomarker 1142 1157	RCC1 expression
+T41	Gene-Protein 1142 1146	RCC1
+R13	Association Arg1:T40 Arg2:T20	
+T42	Biomarker 1307 1329	RCC1 was overexpressed
+T43	Gene-Protein 1307 1311	RCC1
+R15	Association Arg1:T42 Arg2:T23	
+T24	Gene-Protein 1481 1485	RCC1
+T25	CellLine 1512 1518	HPV E7
+#15	AnnotatorNotes T33	not found

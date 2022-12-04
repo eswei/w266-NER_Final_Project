@@ -1,0 +1,37 @@
+30759861_4146|t|RSS_IDENT_p_30759861_b_1_1_4
+30759861_4146|a| Yet, Sly-KD mice phenotype is milder than that of mice with a 9/10th or complete deletion of NPYq. This could be due to insufficient Sly knockdown in Sly-KD, involvement of another NPYq gene in the phenotype of mice with NPYq deficiency, or both. To address this question and to further elucidate the role of Sly in the infertile phenotype of mice with NPYq deletions, we undertook a two-pronged approach. First, if sperm abnormalities in NPYq-deficient mice are a consequence of Sly deficiency, then there should be a correlation between the extent of Sly reduction and the severity of sperm defects. We showed earlier that Sly transcript levels correlated well with the phenotype [ 16 ]. However, the analysis of SLY protein expression was hampered by the fact that the only available SLY antibody only detects the SLY protein long isoform, SLY1, and not the shorter SLY2. To overcome this problem, we developed a new anti-SLY1/2 antibody and used it to characterize SLY expression in NPYq- and Sly-deficient mice. Second, if sperm abnormalities in NPYq-deficient mice are a consequence of Sly deficiency, then transgenically bringing Sly/SLY expression in NPY deficient mice to normal levels, should rescue their infertile phenotype. To address this, we developed mice transgenic for Sly and placed the Sly transgene in the context of sub- and infertile NPYq-deficient genotypes. 
+30759861_4146	35	38	Sly	Gene-protein
+30759861_4146	123	127	NPYq	Gene-protein
+30759861_4146	163	166	Sly	Gene-protein
+30759861_4146	180	183	Sly	Gene-protein
+30759861_4146	211	215	NPYq	Gene-protein
+30759861_4146	251	255	NPYq	Gene-protein
+30759861_4146	339	342	Sly	Gene-protein
+30759861_4146	383	387	NPYq	Gene-protein
+30759861_4146	446	483	sperm abnormalities in NPYq-deficient	Disease	not found
+30759861_4146	469	473	NPYq	Gene-protein
+30759861_4146	510	513	Sly	Gene-protein
+30759861_4146	510	524	Sly deficiency	Biomarker
+30759861_4146	583	586	Sly	Gene-protein
+30759861_4146	617	630	sperm defects	Disease	not found
+30759861_4146	655	658	Sly	Gene-protein
+30759861_4146	745	748	SLY	Gene-protein
+30759861_4146	817	829	SLY antibody	Gene-protein
+30759861_4146	847	850	SLY	Gene-protein
+30759861_4146	873	877	SLY1	Gene-protein
+30759861_4146	899	903	SLY2	Gene-protein
+30759861_4146	950	970	anti-SLY1/2 antibody	Gene-protein
+30759861_4146	999	1002	SLY	Gene-protein
+30759861_4146	1017	1021	NPYq	Gene-protein
+30759861_4146	1027	1030	Sly	Gene-protein
+30759861_4146	1058	1095	sperm abnormalities in NPYq-deficient	Disease	DOID:0070183
+30759861_4146	1081	1085	NPYq	Gene-protein
+30759861_4146	1122	1125	Sly	Chemical
+30759861_4146	1122	1136	Sly deficiency	Biomarker
+30759861_4146	1167	1170	Sly	Gene-protein
+30759861_4146	1171	1174	SLY	Gene-protein
+30759861_4146	1189	1192	NPY	Gene-protein
+30759861_4146	1317	1320	Sly	Gene-protein
+30759861_4146	1336	1339	Sly	Gene-protein
+30759861_4146	1387	1391	NPYq	Gene-protein
+

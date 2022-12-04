@@ -1,0 +1,61 @@
+T0	Disease 42 55	breast cancer
+#1	AnnotatorNotes T0	DOID:1612
+T1	Biomarker 88 140	C19MC miRNAs are the most tightly co-expressed miRNA
+T10	Disease 867 872	TNBCs
+T13	Disease 957 962	TNBCs
+T3	Disease 243 248	TNBCs
+#4	AnnotatorNotes T3	DOID:0060081
+T4	Biomarker 252 335	high CCAAT/Enhancer Binding Protein-β (CEBPBʰⁱᵍʰ) and low REST (RESTˡᵒʷ) expression
+T5	Biomarker 371 387	C19MC expression
+T6	Disease 392 397	TNBCs
+T7	Biomarker 399 421	C19MC miRNA expression
+T9	Biomarker 815 860	REST versus CEBPB plus C19MC miRNA expression
+R1	Association Arg1:T1 Arg2:T0	
+R2	Association Arg1:T1 Arg2:T3	
+T2	Gene-Protein 257 289	CCAAT/Enhancer Binding Protein-β
+#6	AnnotatorNotes T2	HGNC:1833
+T14	Gene-Protein 291 296	CEBPB
+#7	AnnotatorNotes T14	HGNC:1833
+T15	Gene-Protein 310 314	REST
+#5	AnnotatorNotes T15	HGNC:9966
+T16	Gene-Protein 316 320	REST
+R3	Association Arg1:T4 Arg2:T6	
+T8	Gene-Protein 449 452	PGR
+#8	AnnotatorNotes T8	HGNC:8910
+T17	Gene-Protein 454 458	ESR1
+#9	AnnotatorNotes T17	HGNC:3467
+T18	Gene-Protein 463 468	ERBB2
+#10	AnnotatorNotes T18	HGNC:3430
+T19	Gene-Protein 516 520	KRT5
+#11	AnnotatorNotes T19	HGNC:6442
+T20	Gene-Protein 522 527	KRT14
+#12	AnnotatorNotes T20	HGNC:6416
+T21	Gene-Protein 532 537	KRT17
+#13	AnnotatorNotes T21	HGNC:6427
+T22	Biomarker 449 484	PGR, ESR1 and ERBB2 mRNA expression
+T23	Biomarker 516 553	KRT5, KRT14 and KRT17 mRNA expression
+T24	Gene-Protein 638 642	REST
+T25	Gene-Protein 579 583	REST
+T26	Gene-Protein 658 663	CEBPB
+T27	Gene-Protein 688 691	PGR
+T28	Gene-Protein 693 697	ESR1
+T29	Gene-Protein 699 704	ERBB2
+T30	Gene-Protein 706 711	GATA3
+#2	AnnotatorNotes T30	HGNC:4172
+T31	Gene-Protein 713 719	SCUBE2
+#14	AnnotatorNotes T31	HGNC:30425
+T32	Gene-Protein 725 729	TFF3
+#15	AnnotatorNotes T32	HGNC:11757
+T33	Gene-Protein 815 819	REST
+T34	Gene-Protein 827 832	CEBPB
+T35	Gene-Protein 900 905	CEBPB
+R4	Association Arg1:T9 Arg2:T10	
+T36	Biomarker 882 905	C19MC miRNAs plus CEBPB
+R5	Association Arg1:T36 Arg2:T13	
+T11	RNA-Noncoding 88 100	C19MC miRNAs
+T12	RNA-Noncoding 371 376	C19MC
+T37	RNA-Noncoding 399 410	C19MC miRNA
+T38	RNA-Noncoding 555 567	C19MC miRNAs
+T39	RNA-Noncoding 838 849	C19MC miRNA
+T40	RNA-Noncoding 882 894	C19MC miRNAs
+T41	RNA-Noncoding 646 651	C19MC

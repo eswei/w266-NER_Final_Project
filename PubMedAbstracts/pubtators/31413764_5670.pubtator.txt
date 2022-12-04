@@ -1,0 +1,40 @@
+31413764_5670|t|RSS_IDENT_p_31413764_b_1_1_5
+31413764_5670|a| SDHx germline mutations have been associated to different kind of tumors, mainly paraganglioma and pheochromocytoma. SDHA (5p15.33) heterozygous pathogenic variants are related to an autosomal dominant inherited condition named paraganglioma syndrome type 5 (PGL5, OMIM 614165) associated to an increase in the risk of developing paragangliomas, pheochromocytomas, GIST and pituitary adenomas [ 23 ]. The Carney-Stratakis syndrome (CSS) also known as GIST-paraganglioma dyad, (OMIM 606864) characterized by the presence of paraganglioma and GIST in the same individual, is related to germline mutations in SDHB, SDHC and SDHD, but its association with SDHA pathogenic mutations has been rarely recognized [ 24 ]. Carney triad (CT, OMIM 604287), first described in 1977, is characterized by the presence of gastric GISTs, paragangliomas and pulmonary chondromas, it’s almost always not inherited and it’s related to SDHC promoter hypermethylation [ 25 ]. Lastly, homozygous and compound heterozygous mutations in the SDHA have been occasionally related to the Leigh syndrome [ 26 ], a rare recessive disease characterized by neurodegenerative mitochondrial encephalomyopathy that becomes apparent mostly in the first year of life.
+31413764_5670	30	34	SDHx	Genefamily	family:641
+31413764_5670	30	53	SDHx germline mutations	Biomarker
+31413764_5670	96	102	tumors	Disease	DOID:162
+31413764_5670	96	145	tumors, mainly paraganglioma and pheochromocytoma	Collection
+31413764_5670	111	124	paraganglioma	Disease	DOID:0050773
+31413764_5670	129	145	pheochromocytoma	Disease	DOID:0050771
+31413764_5670	147	151	SDHA	Gene-protein	HGNC:10680
+31413764_5670	147	194	SDHA (5p15.33) heterozygous pathogenic variants	Biomarker
+31413764_5670	258	287	paraganglioma syndrome type 5	Disease	not found
+31413764_5670	258	422	paraganglioma syndrome type 5 (PGL5, OMIM 614165) associated to an increase in the risk of developing paragangliomas, pheochromocytomas, GIST and pituitary adenomas	Collection
+31413764_5670	289	293	PGL5	Disease	not found
+31413764_5670	360	374	paragangliomas	Disease	DOID:0050773
+31413764_5670	376	393	pheochromocytomas	Disease	DOID:0050771
+31413764_5670	395	399	GIST	Disease	DOID:9253
+31413764_5670	404	422	pituitary adenomas	Disease	DOID:3829
+31413764_5670	435	460	Carney-Stratakis syndrome	Disease	DOID:0080533
+31413764_5670	462	465	CSS	Disease	DOID:0070042
+31413764_5670	481	504	GIST-paraganglioma dyad	Disease	DOID:0080533
+31413764_5670	541	598	presence of paraganglioma and GIST in the same individual	Biomarker
+31413764_5670	553	566	paraganglioma	Disease
+31413764_5670	571	575	GIST	Disease
+31413764_5670	614	655	germline mutations in SDHB, SDHC and SDHD	Biomarker
+31413764_5670	636	640	SDHB	Gene-protein	HGNC:10681
+31413764_5670	642	646	SDHC	Gene-protein	HGNC:10682
+31413764_5670	651	655	SDHD	Gene-protein	HGNC:10683
+31413764_5670	682	686	SDHA	Gene-protein
+31413764_5670	682	707	SDHA pathogenic mutations	Biomarker
+31413764_5670	743	755	Carney triad	Disease	C565803
+31413764_5670	757	759	CT	Disease	C565803
+31413764_5670	824	890	presence of gastric GISTs, paragangliomas and pulmonary chondromas	Biomarker
+31413764_5670	824	975	presence of gastric GISTs, paragangliomas and pulmonary chondromas, it’s almost always not inherited and it’s related to SDHC promoter hypermethylation	Collection
+31413764_5670	945	949	SDHC	Gene-protein
+31413764_5670	945	975	SDHC promoter hypermethylation	Biomarker
+31413764_5670	992	1050	homozygous and compound heterozygous mutations in the SDHA	Biomarker
+31413764_5670	1046	1050	SDHA	Gene-protein
+31413764_5670	1089	1103	Leigh syndrome	Disease	DOID:3652
+31413764_5670	1154	1203	neurodegenerative mitochondrial encephalomyopathy	Biomarker
+

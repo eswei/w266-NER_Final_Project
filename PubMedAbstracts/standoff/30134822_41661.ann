@@ -1,0 +1,84 @@
+T0	Disease 120 145	advanced and invasive PCa
+#1	AnnotatorNotes T0	not found, not found
+T11	Chemical 779 787	Estrogen
+T12	Disease 931 934	PCa
+#3	AnnotatorNotes T12	DOID:10283
+T13	Disease 935 950	Prostate cancer
+#4	AnnotatorNotes T13	DOID:10283
+T14	Chemical 960 967	Phospho
+T15	Chemical 1008 1040	Phosphatidylinositol 4-phosphate
+T16	Chemical 1097 1107	Penicillin
+T17	Chemical 1108 1120	streptomycin
+T18	Chemical 1121 1129	neomycin
+T19	Disease 1171 1176	Tumor
+T3	Disease 440 445	tumor
+#11	AnnotatorNotes T3	DOID:162
+T5	Chemical 520 528	Androgen
+T6	Disease 592 596	CRPC
+T7	Disease 597 633	Castration-resistant prostate cancer
+#14	AnnotatorNotes T7	DOID:0080909
+T8	Disease 651 656	tumor
+T9	Chemical 693 712	Dihydrotestosterone
+T20	Gene-Protein 112 116	EGFR
+#2	AnnotatorNotes T20	HGNC:3236
+T21	Gene-Protein 193 195	AR
+#5	AnnotatorNotes T21	HGNC:644
+T22	GeneFamily 204 208	PI3K
+#6	AnnotatorNotes T22	family:831
+T23	GeneFamily 209 212	AKT
+#7	AnnotatorNotes T23	family:1900
+T24	Gene-Protein 378 382	EGFR
+T25	Biomarker 112 116	EGFR
+#8	AnnotatorNotes T25	D066246
+R1	Association Arg1:T25 Arg2:T0	
+T1	Gene-Protein 383 385	AR
+T2	Gene-Protein 395 400	MMP-9
+#9	AnnotatorNotes T2	HGNC:7176
+T26	Biomarker 352 400	communication between the EGFR/AR axis and MMP-9
+R2	Association Arg1:T26 Arg2:T3	
+T4	Gene-Protein 517 519	AR
+#12	AnnotatorNotes T6	DOID:0080909
+T27	GeneFamily 779 796	Estrogen receptor
+#13	AnnotatorNotes T27	not found
+T28	GeneFamily 776 778	ER
+#15	AnnotatorNotes T28	not found
+T29	Gene-Protein 738 742	EGFR
+T30	Gene-Protein 820 825	HER-2
+#16	AnnotatorNotes T30	HGNC:3430
+T31	Gene-Protein 826 866	Human epidermal growth factor receptor-2
+#17	AnnotatorNotes T31	HGNC:3430
+T32	Gene-Protein 743 775	Epidermal growth factor receptor
+#18	AnnotatorNotes T32	HGNC:3236
+T33	Gene-Protein 904 930	Matrix metalloproteinase-9
+#19	AnnotatorNotes T33	HGNC:7176
+T10	Gene-Protein 898 903	MMP-9
+#20	AnnotatorNotes T10	HGNC:7176
+T34	GeneFamily 871 897	Insulin-like growth factor
+#21	AnnotatorNotes T34	not found
+T35	GeneFamily 867 870	IGF
+#22	AnnotatorNotes T35	not found
+T36	Gene-Protein 953 959	GSK-3β
+#23	AnnotatorNotes T36	HGNC:4617
+T37	Gene-Protein 968 999	Glycogen synthase kinase-3-beta
+#24	AnnotatorNotes T37	HGNC:4617
+T38	Gene-Protein 1000 1007	PIP5K1α
+#25	AnnotatorNotes T38	HGNC:8994
+T39	Gene-Protein 1008 1062	Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha
+#26	AnnotatorNotes T39	HGNC:8994
+T40	Gene-Protein 1135 1165	Phosphatase and tensin homolog
+#27	AnnotatorNotes T40	HGNC:9588
+T41	Gene-Protein 1130 1134	PTEN
+#28	AnnotatorNotes T41	HGNC:9588
+T42	Gene-Protein 1067 1092	Prostate-specific antigen
+#10	AnnotatorNotes T42	HGNC:6364
+T44	Gene-Protein 1063 1066	PSA
+#30	AnnotatorNotes T44	HGNC:6364
+T45	GeneFamily 1218 1222	VEGF
+#31	AnnotatorNotes T45	family:1267
+T46	GeneFamily 1223 1257	Vascular endothelial growth factor
+#32	AnnotatorNotes T46	family:1267
+T43	Chemical 1093 1096	PSN
+#29	AnnotatorNotes T19	DOID:162
+T47	Gene-Protein 520 536	Androgen recepto
+#33	AnnotatorNotes T47	HGNC:644
+T48	Chemical 689 692	DHT

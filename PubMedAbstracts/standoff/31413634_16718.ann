@@ -1,0 +1,65 @@
+T0	Disease 108 115	cancers
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 127 130	CRC
+T10	Disease 576 579	CRC
+T11	Disease 630 633	CRC
+T13	Disease 825 828	CRC
+T15	Disease 929 932	CRC
+T17	Disease 1062 1065	CRC
+T19	Disease 1221 1224	CRC
+T3	Disease 225 228	CRC
+T5	Disease 359 362	CRC
+T7	Disease 433 436	CRC
+T2	Biomarker 96 104	circRNAs
+#2	AnnotatorNotes T2	D000079962
+#3	AnnotatorNotes T1	DOID:9256
+T4	Collection 108 130	cancers, including CRC
+R1	Association Arg1:T2 Arg2:T4	
+T6	Biomarker 164 172	circRNAs
+R2	Association Arg1:T6 Arg2:T3	
+T8	Biomarker 303 319	hsa_circ_0136666
+R3	Association Arg1:T8 Arg2:T5	
+T9	RNA-Noncoding 377 384	miR-136
+#4	AnnotatorNotes T9	HGNC:31522
+T12	Biomarker 403 417	CircRNA_100290
+R4	Association Arg1:T12 Arg2:T7	
+T14	RNA-Noncoding 453 461	miR-516b
+#5	AnnotatorNotes T14	not found
+T16	Gene-Protein 462 466	FZD4
+#6	AnnotatorNotes T16	HGNC:4042
+T18	GeneFamily 467 470	Wnt
+#7	AnnotatorNotes T18	family:360
+T20	GeneFamily 471 480	β-catenin
+#8	AnnotatorNotes T20	family:1542
+T21	Gene-Protein 385 390	SH2B1
+#9	AnnotatorNotes T21	HGNC:30417
+T22	Biomarker 503 537	Overexpression of hsa_circ_0000069
+R5	Association Arg1:T22 Arg2:T10	
+T23	Biomarker 762 821	hsa_circRNA_102958 expression was significantly upregulated
+R6	Association Arg1:T23 Arg2:T13	
+T24	Biomarker 901 919	hsa_circRNA_102958
+R7	Association Arg1:T24 Arg2:T15	
+T25	Drug 996 1024	hsa_circRNA_102958 silencing
+#10	AnnotatorNotes T25	not found
+R8	Response Arg1:T25 Arg2:T17	
+T26	Biomarker 1130 1148	hsa_circRNA_102958
+T27	Biomarker 1193 1211	hsa_circRNA_102958
+R9	Association Arg1:T27 Arg2:T19	
+T28	Biomarker 694 712	hsa_circRNA_102958
+T29	RNA-Noncoding 96 104	circRNAs
+T30	RNA-Noncoding 164 172	circRNAs
+T31	RNA-Noncoding 303 319	hsa_circ_0136666
+#12	AnnotatorNotes T31	not found
+T32	RNA-Noncoding 403 417	CircRNA_100290
+#13	AnnotatorNotes T32	not found
+T33	RNA-Noncoding 521 537	hsa_circ_0000069
+#14	AnnotatorNotes T33	not found
+T34	RNA-Noncoding 618 625	circRNA
+#15	AnnotatorNotes T34	not found
+T35	RNA-Noncoding 694 712	hsa_circRNA_102958
+#16	AnnotatorNotes T35	not found
+T36	RNA-Noncoding 762 780	hsa_circRNA_102958
+T37	RNA-Noncoding 901 919	hsa_circRNA_102958
+T38	RNA-Noncoding 996 1014	hsa_circRNA_102958
+T39	RNA-Noncoding 1130 1148	hsa_circRNA_102958
+T40	RNA-Noncoding 1193 1211	hsa_circRNA_102958

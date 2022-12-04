@@ -1,0 +1,70 @@
+31010205_102|t|RSS_IDENT_p_31010205_a_1_1
+31010205_102|a| Background: Colorectal cancer (CRC) is a highly devastating cancer. Ca²⁺-dependent channels are now considered key regulators of tumor progression. In this study, we aimed to investigate the association of non-voltage gated Ca²⁺ channels and Ca²⁺-dependent potassium channels (KCa) with CRC using the transcriptional profile of their genes. Methods: We selected a total of 35 genes covering KCa channels KCNN1–4, KCNMA1 and their subunits KCNMB1–4, endoplasmic reticulum (ER) calcium sensors STIM1 and STIM2, Ca²⁺ channels ORAI1–3 and the family of cation channels TRP (TRPC1–7, TRPA1, TRPV1/2,4–6 and TRPM1–8). We analyzed their expression in two public CRC datasets from The Cancer Genome Atlas (TCGA) and GSE39582. Results: KCNN4 and TRPM2 were induced while KCNMA1 and TRPM6 were downregulated in tumor tissues comparing to normal tissues. In proximal tumors, STIM2 and KCNN2 were upregulated while ORAI2 and TRPM6 were downregulated. ORAI1 decreased in lymph node metastatic tumors. TRPC1 and ORAI3 predicted poor prognosis in CRC patients. Moreover, we found that ORAI3/ORAI1 ratio is increased in CRC progression and predicted poor prognosis. Conclusions: KCa and Ca²⁺ channels could be important contributors to CRC initiation and progression. Our results provide new insights on KCa and Ca²⁺ channels remodeling in CRC.
+31010205_102	40	57	Colorectal cancer	Disease	DOID:9256
+31010205_102	59	62	CRC	Disease	DOID:9256
+31010205_102	88	94	cancer	Disease	DOID:162
+31010205_102	96	100	Ca²⁺	Chemical
+31010205_102	96	119	Ca²⁺-dependent channels	Biomarker
+31010205_102	96	119	Ca²⁺-dependent channels	Genefamily
+31010205_102	157	162	tumor	Disease	DOID:162
+31010205_102	234	265	non-voltage gated Ca²⁺ channels	Genefamily
+31010205_102	252	256	Ca²⁺	Chemical
+31010205_102	270	274	Ca²⁺	Chemical
+31010205_102	270	303	Ca²⁺-dependent potassium channels	Genefamily
+31010205_102	285	294	potassium	Chemical
+31010205_102	305	308	KCa	Genefamily
+31010205_102	315	318	CRC	Disease
+31010205_102	419	431	KCa channels	Genefamily
+31010205_102	432	439	KCNN1–4	Gene-protein
+31010205_102	441	447	KCNMA1	Gene-protein
+31010205_102	467	475	KCNMB1–4	Gene-protein
+31010205_102	520	525	STIM1	Gene-protein
+31010205_102	530	535	STIM2	Gene-protein
+31010205_102	537	541	Ca²⁺	Chemical
+31010205_102	537	550	Ca²⁺ channels	Genefamily
+31010205_102	551	558	ORAI1–3	Gene-protein
+31010205_102	577	596	cation channels TRP	Genefamily
+31010205_102	598	605	TRPC1–7	Gene-protein
+31010205_102	607	612	TRPA1	Gene-protein
+31010205_102	614	625	TRPV1/2,4–6	Gene-protein
+31010205_102	630	637	TRPM1–8	Gene-protein
+31010205_102	683	686	CRC	Disease
+31010205_102	755	760	KCNN4	Gene-protein
+31010205_102	755	783	KCNN4 and TRPM2 were induced	Biomarker
+31010205_102	755	825	KCNN4 and TRPM2 were induced while KCNMA1 and TRPM6 were downregulated	Collection
+31010205_102	765	770	TRPM2	Gene-protein
+31010205_102	790	796	KCNMA1	Gene-protein
+31010205_102	790	825	KCNMA1 and TRPM6 were downregulated	Biomarker
+31010205_102	801	806	TRPM6	Gene-protein
+31010205_102	829	834	tumor	Disease
+31010205_102	884	890	tumors	Disease	DOID:162
+31010205_102	892	897	STIM2	Gene-protein
+31010205_102	892	924	STIM2 and KCNN2 were upregulated	Biomarker
+31010205_102	892	965	STIM2 and KCNN2 were upregulated while ORAI2 and TRPM6 were downregulated	Collection
+31010205_102	902	907	KCNN2	Gene-protein
+31010205_102	931	936	ORAI2	Gene-protein
+31010205_102	931	965	ORAI2 and TRPM6 were downregulated	Biomarker
+31010205_102	941	946	TRPM6	Gene-protein
+31010205_102	967	972	ORAI1	Gene-protein
+31010205_102	967	982	ORAI1 decreased	Biomarker
+31010205_102	986	1014	lymph node metastatic tumors	Disease	DOID:10619
+31010205_102	1016	1021	TRPC1	Biomarker	C096351
+31010205_102	1016	1021	TRPC1	Gene-protein
+31010205_102	1016	1031	TRPC1 and ORAI3	Collection
+31010205_102	1026	1031	ORAI3	Biomarker	C522867
+31010205_102	1026	1031	ORAI3	Gene-protein
+31010205_102	1060	1063	CRC	Disease
+31010205_102	1098	1103	ORAI3	Gene-protein
+31010205_102	1098	1128	ORAI3/ORAI1 ratio is increased	Biomarker
+31010205_102	1104	1109	ORAI1	Gene-protein
+31010205_102	1132	1135	CRC	Disease
+31010205_102	1191	1212	KCa and Ca²⁺ channels	Genefamily
+31010205_102	1191	1212	KCa and Ca²⁺ channels	Biomarker
+31010205_102	1199	1203	Ca²⁺	Chemical
+31010205_102	1248	1251	CRC	Disease
+31010205_102	1316	1319	KCa	Chemical
+31010205_102	1316	1337	KCa and Ca²⁺ channels	Genefamily
+31010205_102	1316	1348	KCa and Ca²⁺ channels remodeling	Biomarker
+31010205_102	1324	1328	Ca²⁺	Chemical
+31010205_102	1352	1355	CRC	Disease
+

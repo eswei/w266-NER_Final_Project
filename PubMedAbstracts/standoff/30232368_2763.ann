@@ -1,0 +1,105 @@
+T15	Biomarker 486 549	ATP13A2 gene encodes a lysosomal P-type ATPase, its dysfunction
+T16	Biomarker 562 582	lysosomal impairment
+T17	Biomarker 584 608	α-synuclein accumulation
+T21	Biomarker 702 718	ATP13A2 variants
+T22	Disease 746 748	PD
+T23	Chemical 808 815	calcium
+T24	Disease 907 934	neurodegenerative disorders
+#11	AnnotatorNotes T24	DOID:1289
+T25	Biomarker 940 981	increased basal ganglia iron accumulation
+T26	Chemical 964 968	iron
+T27	Disease 991 1022	infantile neuroaxonal dystrophy
+#13	AnnotatorNotes T27	DOID:0110735
+T28	Disease 1024 1028	INAD
+#14	AnnotatorNotes T28	DOID:0110735
+T30	Disease 1034 1080	neurodegeneration with brain iron accumulation
+#17	AnnotatorNotes T30	DOID:0110734
+T33	Chemical 1063 1067	iron
+T34	Disease 1082 1086	NBIA
+#20	AnnotatorNotes T34	DOID:0110734
+T36	Disease 1201 1222	classic idiopathic PD
+#22	AnnotatorNotes T36	not found
+T38	Biomarker 1388 1421	Pathogenic variants in FBXO7 gene
+T39	Disease 1446 1450	EOPD
+T6	Disease 322 342	Kufor–Rakeb syndrome
+#26	AnnotatorNotes T6	DOID:0060556
+T7	Disease 344 347	KRS
+T40	Gene-Protein 204 211	ATP13A2
+#7	AnnotatorNotes T40	HGNC:30213
+T41	Gene-Protein 191 202	ATPase 13A2
+#10	AnnotatorNotes T41	HGNC:30213
+T42	Gene-Protein 241 247	PLA2G6
+#12	AnnotatorNotes T42	HGNC:9039
+T43	Gene-Protein 214 239	phospholipase A2 group VI
+#19	AnnotatorNotes T43	HGNC:9039
+T44	Gene-Protein 270 275	FBXO7
+#24	AnnotatorNotes T44	HGNC:13586
+T45	Gene-Protein 253 268	F-box protein 7
+#27	AnnotatorNotes T45	HGNC:13586
+T46	Gene-Protein 291 296	PARK9
+T47	Gene-Protein 282 289	ATP13A2
+#30	AnnotatorNotes T46	HGNC:30213
+T2	Disease 108 179	autosomal recessive early-onset parkinsonism with pyramidal tract signs
+T1	Biomarker 282 297	ATP13A2 (PARK9)
+#1	AnnotatorNotes T1	C514983
+R1	Risk-Factor Arg1:T1 Arg2:T6	
+#16	AnnotatorNotes T7	DOID:0060556
+T3	Gene-Protein 486 493	ATP13A2
+T5	Gene-Protein 702 709	ATP13A2
+T48	Gene-Protein 767 773	PLA2G6
+#31	AnnotatorNotes T48	HGNC:9039
+T49	Gene-Protein 775 781	PARK14
+#32	AnnotatorNotes T49	HGNC:9039
+T50	Gene-Protein 804 849	VIA calcium-independent phospholipase A2 beta
+#33	AnnotatorNotes T50	HGNC:9039
+T29	Gene-Protein 1237 1242	FBOX7
+T31	Gene-Protein 1279 1299	F-box only protein 7
+#15	AnnotatorNotes T31	HGNC:13586
+T32	Gene-Protein 1244 1250	PARK15
+#18	AnnotatorNotes T32	HGNC:13586
+T51	Gene-Protein 1411 1416	FBXO7
+T37	GeneFamily 1268 1277	E3 ligase
+#23	AnnotatorNotes T37	not found
+T52	Disease 376 477	recessive, juvenile-onset, atypical parkinsonism with pyramidal tract signs and cognitive dysfunction
+#34	AnnotatorNotes T52	not found
+T8	GeneFamily 519 532	P-type ATPase
+#2	AnnotatorNotes T8	family:414
+T9	Collection 562 638	lysosomal impairment, α-synuclein accumulation and mitochondrial dysfunction
+T10	Disease 669 671	PD
+#3	AnnotatorNotes T10	DOID:14330
+T11	Gene-Protein 584 595	α-synuclein
+#6	AnnotatorNotes T11	HGNC:11138
+R3	Association Arg1:T21 Arg2:T22	
+T12	Biomarker 767 773	PLA2G6
+#8	AnnotatorNotes T12	D054522
+T13	Disease 1160 1196	juvenile-onset dystonia parkinsonism
+#28	AnnotatorNotes T13	not found
+R4	Association Arg1:T12 Arg2:T24	
+T14	Collection 1160 1222	juvenile-onset dystonia parkinsonism and classic idiopathic PD
+R5	Association Arg1:T12 Arg2:T14	
+#21	AnnotatorNotes T2	not found
+T4	GeneFamily 1322 1331	ubiquitin
+#25	AnnotatorNotes T4	not found
+#29	AnnotatorNotes T39	DOID:0060894
+R6	Association Arg1:T38 Arg2:T39	
+T18	Gene-Protein 1475 1481	Parkin
+#35	AnnotatorNotes T18	HGNC:8607
+T19	Gene-Protein 1486 1491	PINK1
+#36	AnnotatorNotes T19	HGNC:14581
+T20	Biomarker 613 638	mitochondrial dysfunction
+#4	AnnotatorNotes T20	D028361
+R7	Association Arg1:T9 Arg2:T10	
+T35	Collection 191 268	ATPase 13A2 (ATP13A2), phospholipase A2 group VI (PLA2G6) and F-box protein 7
+R2	Risk-Factor Arg1:T35 Arg2:T2	
+T53	Biomarker 191 202	ATPase 13A2
+#5	AnnotatorNotes T53	C514983
+T54	Biomarker 214 239	phospholipase A2 group VI
+#9	AnnotatorNotes T54	D054522
+T55	Biomarker 253 268	F-box protein 7
+#37	AnnotatorNotes T55	C489149
+T56	Biomarker 1475 1481	Parkin
+#38	AnnotatorNotes T56	C111567
+T57	Biomarker 1486 1491	PINK1
+#39	AnnotatorNotes T57	C433927
+T58	Collection 1475 1491	Parkin and PINK1
+R8	Association Arg1:T58 Arg2:T39	

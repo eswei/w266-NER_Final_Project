@@ -1,0 +1,57 @@
+T1	Disease 136 143	cancers
+#1	AnnotatorNotes T1	DOID:162
+T10	Disease 866 872	glioma
+#2	AnnotatorNotes T10	DOID:0060108
+T12	Gene-Protein 917 923	SEMA3C
+T14	Disease 991 996	tumor
+T15	Gene-Protein 1069 1075	SEMA3C
+T17	Disease 1116 1129	neuroblastoma
+#7	AnnotatorNotes T17	DOID:769
+T18	Gene-Protein 1160 1166	SEMA3C
+T19	Disease 1170 1185	cervical cancer
+T2	Disease 581 596	cervical cancer
+#10	AnnotatorNotes T2	DOID:4362
+T20	Gene-Protein 1287 1293	SEMA3C
+T21	Disease 1297 1312	cervical cancer
+T22	Gene-Protein 1351 1357	SEMA3C
+T23	Disease 1361 1367	cancer
+#14	AnnotatorNotes T23	DOID:14566|DOID:162
+T24	Gene-Protein 1471 1477	SEMA3C
+T4	Gene-Protein 649 655	SEMA3C
+T7	Disease 746 751	tumor
+#19	AnnotatorNotes T7	DOID:162
+T3	GeneFamily 30 41	Semaphorins
+#3	AnnotatorNotes T3	family:736
+T5	Biomarker 30 132	Semaphorins, multiple members of a family of signaling molecules, are known to be aberrantly expressed
+R1	Association Arg1:T5 Arg2:T1	
+T11	GeneFamily 236 247	semaphorins
+T16	Gene-Protein 480 486	SEMA3D
+#6	AnnotatorNotes T16	HGNC:10726
+#8	AnnotatorNotes T4	HGNC:10725
+T25	MicroOrganism 522 525	HPV
+T26	GeneFamily 274 293	class 3 semaphorins
+#9	AnnotatorNotes T26	not found
+T27	Biomarker 274 293	class 3 semaphorins
+T28	Disease 421 430	malignant
+#11	AnnotatorNotes T28	DOID:162
+R2	Association Arg1:T27 Arg2:T28	
+T29	GeneFamily 628 647	class 3 semaphorins
+T6	Collection 746 872	tumor types, including pancreatic ( 8 ), gastric ( 9 ), prostate ( 10 – 12 ), and breast cancer ( 13 – 15 ), as well as glioma
+T30	Biomarker 649 655	SEMA3C
+#12	AnnotatorNotes T30	C543908
+R3	Prognostic-Poor Arg1:T30 Arg2:T6	
+T8	Disease 769 841	pancreatic ( 8 ), gastric ( 9 ), prostate ( 10 – 12 ), and breast cancer
+#13	AnnotatorNotes T8	DOID:1793,DOID:10534, DOID:10283, DOID:1612
+T13	Drug 917 923	SEMA3C
+#4	AnnotatorNotes T13	C543908
+R4	Response Arg1:T13 Arg2:T14	
+T31	Drug 1069 1075	SEMA3C
+T32	Biomarker 1160 1166	SEMA3C
+T33	Biomarker 1249 1293	mRNA and protein expression levels of SEMA3C
+T34	Biomarker 1471 1488	SEMA3C expression
+#5	AnnotatorNotes T27	D039961
+#15	AnnotatorNotes T11	family:736
+R5	Response Arg1:T31 Arg2:T17	
+T9	Biomarker 480 486	SEMA3D
+#16	AnnotatorNotes T9	C000592402
+R6	Association Arg1:T9 Arg2:T2	

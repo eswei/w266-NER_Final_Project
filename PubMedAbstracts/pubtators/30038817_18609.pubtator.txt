@@ -1,0 +1,39 @@
+30038817_18609|t|RSS_IDENT_p_30038817_b_1_4_7
+30038817_18609|a| Some studies have not shown a protective effect of uric acid and even proposed that it triggers the inflammatory process [ 25 ]. In a study on the correlation between uric acid and inflammation, inflammatory markers, IL-6, TNF-α (tumor necrosis factor alpha), and CRP were used. The authors reported a positive correlation between uric acid and these inflammatory markers [ 26 , 27 ]. The protective effect of uric acid against cancer has not been shown by all studies. One of these studies by Boffetta et al. monitored 16857 gout patients in the long term and investigated whether uric acid had a protective effect against cancer. Over the years of monitoring, the protective effect of uric acid against cancer was not observed in these patients [ 28 ]. Some studies have proposed that it triggers the development of cancer. A study by Kolonel et al. on this topic found a positive correlation between PCa and high uric acid levels. However, this study did not show a protective effect of uric acid against prostate cancer and at the same time the correlation with recurrence was not shown [ 16 ]. Another study by Sangkop et al. reported that uric acid initiated the pathway for prostate cancer progression. The authors proposed that the development of tolerance against factors inhibiting growth of cancer cells was important [ 29 ]. Another study by Fini et al. found that increased extracellular uric acid levels protected the cancer cells from oxidative compounds. Additionally they reported that uric acid was important for proliferation, migration and survival of tumor cells [ 30 ]. Hammarsten et al. proposed that high uric acid levels were a predictor of future development of PCa [ 31 ]. These results do not agree with the results of our study. The reason for this difference may be due to the different methods used as the standard in the studies. 
+30038817_18609	81	90	uric acid	Chemical
+30038817_18609	197	206	uric acid	Chemical
+30038817_18609	197	206	uric acid	Biomarker
+30038817_18609	211	223	inflammation	Disease	D007249
+30038817_18609	247	251	IL-6	Gene-protein	HGNC:6018
+30038817_18609	253	258	TNF-α	Gene-protein	HGNC:11892
+30038817_18609	260	287	tumor necrosis factor alpha	Gene-protein	HGNC:11892
+30038817_18609	294	297	CRP	Gene-protein	HGNC:2367
+30038817_18609	361	370	uric acid	Chemical
+30038817_18609	440	449	uric acid	Chemical
+30038817_18609	458	464	cancer	Disease	DOID:162
+30038817_18609	556	560	gout	Disease	DOID:13189
+30038817_18609	612	621	uric acid	Chemical
+30038817_18609	654	660	cancer	Disease
+30038817_18609	717	726	uric acid	Chemical
+30038817_18609	717	726	uric acid	Biomarker	D014527
+30038817_18609	735	741	cancer	Disease
+30038817_18609	848	854	cancer	Disease
+30038817_18609	933	936	PCa	Disease	DOID:10283
+30038817_18609	941	962	high uric acid levels	Biomarker
+30038817_18609	946	955	uric acid	Chemical
+30038817_18609	1020	1029	uric acid	Chemical
+30038817_18609	1038	1053	prostate cancer	Disease	DOID:10283
+30038817_18609	1175	1184	uric acid	Chemical
+30038817_18609	1175	1184	uric acid	Biomarker
+30038817_18609	1211	1226	prostate cancer	Disease
+30038817_18609	1332	1338	cancer	Disease
+30038817_18609	1407	1447	increased extracellular uric acid levels	Biomarker
+30038817_18609	1431	1440	uric acid	Chemical
+30038817_18609	1462	1468	cancer	Disease
+30038817_18609	1533	1542	uric acid	Chemical
+30038817_18609	1533	1542	uric acid	Biomarker
+30038817_18609	1602	1607	tumor	Disease	DOID:162
+30038817_18609	1654	1675	high uric acid levels	Biomarker
+30038817_18609	1659	1668	uric acid	Chemical
+30038817_18609	1718	1721	PCa	Disease
+

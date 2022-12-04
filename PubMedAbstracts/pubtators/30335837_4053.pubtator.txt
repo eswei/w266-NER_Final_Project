@@ -1,0 +1,45 @@
+30335837_4053|t|RSS_IDENT_p_30335837_b_1_1_5
+30335837_4053|a| Using human breast cancer patient data here we show that, C19MC miRNAs are the most tightly co-expressed miRNA set among all miRNAs that are expressed, and their high expression tightly correlates with basal-like TNBCs. A high CCAAT/Enhancer Binding Protein-β (CEBPBʰⁱᵍʰ) and low REST (RESTˡᵒʷ) expression profile positively correlates with C19MC expression and TNBCs. C19MC miRNA expression negatively correlates with PGR, ESR1 and ERBB2 mRNA expression and positively correlates with KRT5, KRT14 and KRT17 mRNA expression. C19MC miRNAs can target REST mRNA to potentially relieve the repressive effects of REST on C19MC or at CEBPB enhancer and can target PGR, ESR1, ERBB2, GATA3, SCUBE2, and TFF3 to contribute towards triple negative phenotype. Thus our study demonstrates that, a REST versus CEBPB plus C19MC miRNA expression marks TNBCs and that C19MC miRNAs plus CEBPB may potentially drive expression of key markers of TNBCs.
+30335837_4053	42	55	breast cancer	Disease	DOID:1612
+30335837_4053	88	100	C19MC miRNAs	Rna-noncoding
+30335837_4053	88	140	C19MC miRNAs are the most tightly co-expressed miRNA	Biomarker
+30335837_4053	243	248	TNBCs	Disease	DOID:0060081
+30335837_4053	252	335	high CCAAT/Enhancer Binding Protein-β (CEBPBʰⁱᵍʰ) and low REST (RESTˡᵒʷ) expression	Biomarker
+30335837_4053	257	289	CCAAT/Enhancer Binding Protein-β	Gene-protein	HGNC:1833
+30335837_4053	291	296	CEBPB	Gene-protein	HGNC:1833
+30335837_4053	310	314	REST	Gene-protein	HGNC:9966
+30335837_4053	316	320	REST	Gene-protein
+30335837_4053	371	376	C19MC	Rna-noncoding
+30335837_4053	371	387	C19MC expression	Biomarker
+30335837_4053	392	397	TNBCs	Disease
+30335837_4053	399	410	C19MC miRNA	Rna-noncoding
+30335837_4053	399	421	C19MC miRNA expression	Biomarker
+30335837_4053	449	452	PGR	Gene-protein	HGNC:8910
+30335837_4053	449	484	PGR, ESR1 and ERBB2 mRNA expression	Biomarker
+30335837_4053	454	458	ESR1	Gene-protein	HGNC:3467
+30335837_4053	463	468	ERBB2	Gene-protein	HGNC:3430
+30335837_4053	516	520	KRT5	Gene-protein	HGNC:6442
+30335837_4053	516	553	KRT5, KRT14 and KRT17 mRNA expression	Biomarker
+30335837_4053	522	527	KRT14	Gene-protein	HGNC:6416
+30335837_4053	532	537	KRT17	Gene-protein	HGNC:6427
+30335837_4053	555	567	C19MC miRNAs	Rna-noncoding
+30335837_4053	579	583	REST	Gene-protein
+30335837_4053	638	642	REST	Gene-protein
+30335837_4053	646	651	C19MC	Rna-noncoding
+30335837_4053	658	663	CEBPB	Gene-protein
+30335837_4053	688	691	PGR	Gene-protein
+30335837_4053	693	697	ESR1	Gene-protein
+30335837_4053	699	704	ERBB2	Gene-protein
+30335837_4053	706	711	GATA3	Gene-protein	HGNC:4172
+30335837_4053	713	719	SCUBE2	Gene-protein	HGNC:30425
+30335837_4053	725	729	TFF3	Gene-protein	HGNC:11757
+30335837_4053	815	819	REST	Gene-protein
+30335837_4053	815	860	REST versus CEBPB plus C19MC miRNA expression	Biomarker
+30335837_4053	827	832	CEBPB	Gene-protein
+30335837_4053	838	849	C19MC miRNA	Rna-noncoding
+30335837_4053	867	872	TNBCs	Disease
+30335837_4053	882	894	C19MC miRNAs	Rna-noncoding
+30335837_4053	882	905	C19MC miRNAs plus CEBPB	Biomarker
+30335837_4053	900	905	CEBPB	Gene-protein
+30335837_4053	957	962	TNBCs	Disease
+

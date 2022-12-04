@@ -1,0 +1,75 @@
+30572540_12326|t|RSS_IDENT_s_30572540_b_1_3_5
+30572540_12326|a| 3.3 TCPTC-specific differentially expressed mRNAs Using |log2FC| > 1.0 and P < .05 as the cut-off criteria, we extracted 4138 DEGs (2312 downregulated and 1826 upregulated genes) between the TCPTC and normal tissues, and 3103 DEGs (1723 downregulated and 1380 upregulated genes) between the cPTC and normal tissues. The DEGs between the TCPTC and normal tissues were defined as TCPTC-related DEGs. Among the TCPTC-related DEGs, TMPRSS6, TM7SF4, SYT12, MUC21, and TMPRSS4 were the most significantly upregulated DEGs, and PKHD1L1, TFF3, LRP1B, CUX2, and ZMAT4 were the most significantly downregulated DEGs. Furthermore, 455 DEGs were identified between TCPTC and cPTC with the same threshold, of which 134 genes were downregulated and 321 genes were upregulated. DEGs between TCPTC and cPTC that were also found among the PTC-related DEGs (genes dysregulated in both TCPTC and cPTC tissues compared with normal tissues) were defined as TCPTC-specific DEGs. According to this protocol, 301 TCPTC-specific DEGs, including 96 downregulated and 205 upregulated genes, were identified between the TCPTC and cPTC tissues (Figs. 3 and 4). The average expression value in the PTC tissues (including TCPTC and cPTC tissues), fold change and P value details of the dysregulated genes are shown in Supplementary Table S2. COL11A1, MMP13, VTCN1, COL10A1, and SLC18A3 were the most significantly upregulated DEGs in the TCPTC tissues, while CA4, EDN3, TPO, PKHD1L1 and FOXJ1 were the most significantly downregulated DEGs in the TCPTC tissues compared with the cPTC tissues. Interestingly, the expression levels of nearly all putative oncogenes (genes upregulated in both TCPTC and cPTC compared with normal tissues, except for 7 genes) were much higher in the TCPTC tissues than those in the cPTC tissues. The expression levels of nearly all putative tumor suppressors (genes downregulated both in TCPTC and cPTC compared with normal tissues, except for 1 gene) were much lower in the TCPTC tissues than those in the cPTC tissues. Figure 3 Venn diagram of 301 TCPTC-specific DEGs. A total of 301 TCPTC-specific DEGs were identified from the 3 comparison groups (TCPTC versus NT, cPTC versus NT, and TCPTC versus cPTC). DEGs = differentially expressed genes, NT = normal tissues, cPTC = classical/conventional variant Papillary Thyroid Carcinoma, TCPTC = tall cell variant papillary thyroid carcinoma. Figure 4 Heatmap of the 301 TCPTC-specific DEGs. Hierarchical analysis of the 301 TCPTC-specific DEGs based on their expression values in the TCPTC and cPTC tissues. All values are presented as log10 (RSEM), DEGs = differentially expressed genes, cPTC = classical/conventional variant Papillary Thyroid Carcinoma, RSEM = RNAseq by expectation-maximization, TCPTC = tall cell variant papillary thyroid carcinoma.
+30572540_12326	34	39	TCPTC	Disease	DOID:7089
+30572540_12326	221	226	TCPTC	Disease
+30572540_12326	321	325	cPTC	Disease	not found
+30572540_12326	367	372	TCPTC	Disease
+30572540_12326	408	413	TCPTC	Disease
+30572540_12326	438	443	TCPTC	Disease
+30572540_12326	458	465	TMPRSS6	Gene-protein	HGNC:16517
+30572540_12326	458	540	TMPRSS6, TM7SF4, SYT12, MUC21, and TMPRSS4 were the most significantly upregulated	Biomarker
+30572540_12326	458	630	TMPRSS6, TM7SF4, SYT12, MUC21, and TMPRSS4 were the most significantly upregulated DEGs, and PKHD1L1, TFF3, LRP1B, CUX2, and ZMAT4 were the most significantly downregulated	Collection
+30572540_12326	467	473	TM7SF4	Gene-protein	HGNC:18549
+30572540_12326	475	480	SYT12	Gene-protein	HGNC:18381
+30572540_12326	482	487	MUC21	Gene-protein	HGNC:21661
+30572540_12326	493	500	TMPRSS4	Gene-protein	HGNC:11878
+30572540_12326	551	558	PKHD1L1	Gene-protein	HGNC:20313
+30572540_12326	551	630	PKHD1L1, TFF3, LRP1B, CUX2, and ZMAT4 were the most significantly downregulated	Biomarker
+30572540_12326	560	564	TFF3	Gene-protein	HGNC:11757
+30572540_12326	566	571	LRP1B	Gene-protein	HGNC:6693
+30572540_12326	573	577	CUX2	Gene-protein	HGNC:19347
+30572540_12326	583	588	ZMAT4	Gene-protein	HGNC:25844
+30572540_12326	683	688	TCPTC	Disease
+30572540_12326	683	697	TCPTC and cPTC	Collection
+30572540_12326	693	697	cPTC	Disease
+30572540_12326	806	811	TCPTC	Disease
+30572540_12326	816	820	cPTC	Disease
+30572540_12326	852	855	PTC	Disease
+30572540_12326	897	902	TCPTC	Disease
+30572540_12326	907	911	cPTC	Disease
+30572540_12326	966	971	TCPTC	Disease
+30572540_12326	1019	1024	TCPTC	Disease
+30572540_12326	1122	1127	TCPTC	Disease
+30572540_12326	1122	1136	TCPTC and cPTC	Collection
+30572540_12326	1132	1136	cPTC	Disease
+30572540_12326	1198	1201	PTC	Disease
+30572540_12326	1221	1226	TCPTC	Disease
+30572540_12326	1231	1235	cPTC	Disease
+30572540_12326	1341	1348	COL11A1	Gene-protein	HGNC:2186
+30572540_12326	1341	1424	COL11A1, MMP13, VTCN1, COL10A1, and SLC18A3 were the most significantly upregulated	Biomarker
+30572540_12326	1350	1355	MMP13	Gene-protein	HGNC:7159
+30572540_12326	1357	1362	VTCN1	Gene-protein	HGNC:28873
+30572540_12326	1364	1371	COL10A1	Gene-protein	HGNC:2185
+30572540_12326	1377	1384	SLC18A3	Gene-protein	HGNC:10936
+30572540_12326	1437	1442	TCPTC	Disease
+30572540_12326	1458	1461	CA4	Gene-protein	HGNC:1375
+30572540_12326	1458	1533	CA4, EDN3, TPO, PKHD1L1 and FOXJ1 were the most significantly downregulated	Biomarker
+30572540_12326	1463	1467	EDN3	Gene-protein	HGNC:3178
+30572540_12326	1469	1472	TPO	Gene-protein	HGNC:12015
+30572540_12326	1474	1481	PKHD1L1	Gene-protein	HGNC:20313
+30572540_12326	1486	1491	FOXJ1	Gene-protein	HGNC:3816
+30572540_12326	1546	1551	TCPTC	Disease
+30572540_12326	1578	1582	cPTC	Disease
+30572540_12326	1778	1783	TCPTC	Disease
+30572540_12326	1810	1814	cPTC	Disease
+30572540_12326	2003	2008	TCPTC	Disease
+30572540_12326	2035	2039	cPTC	Disease
+30572540_12326	2078	2083	TCPTC	Disease
+30572540_12326	2114	2119	TCPTC	Disease
+30572540_12326	2180	2185	TCPTC	Disease
+30572540_12326	2197	2201	cPTC	Disease
+30572540_12326	2217	2222	TCPTC	Disease
+30572540_12326	2230	2234	cPTC	Disease
+30572540_12326	2297	2301	cPTC	Disease
+30572540_12326	2304	2362	classical/conventional variant Papillary Thyroid Carcinoma	Disease	not found
+30572540_12326	2364	2369	TCPTC	Disease
+30572540_12326	2372	2417	tall cell variant papillary thyroid carcinoma	Disease	DOID:7089
+30572540_12326	2447	2452	TCPTC	Disease
+30572540_12326	2501	2506	TCPTC	Disease
+30572540_12326	2561	2566	TCPTC	Disease
+30572540_12326	2571	2575	cPTC	Disease
+30572540_12326	2666	2670	cPTC	Disease
+30572540_12326	2673	2732	classical/conventional variant Papillary Thyroid Carcinoma,	Disease
+30572540_12326	2776	2781	TCPTC	Disease
+30572540_12326	2784	2829	tall cell variant papillary thyroid carcinoma	Disease
+

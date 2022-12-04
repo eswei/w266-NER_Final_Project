@@ -1,0 +1,56 @@
+T1	Disease 314 318	CRPC
+T11	Drug 1144 1156	Enzalutamide
+T12	Disease 1269 1272	PCa
+T2	Disease 412 416	CRPC
+T4	Chemical 596 604	androgen
+T5	Disease 626 637	CRPC tumors
+#9	AnnotatorNotes T5	not found
+T6	Chemical 815 823	androgen
+T7	Chemical 847 855	androgen
+T13	Drug-Class 39 42	ADT
+#2	AnnotatorNotes T1	not found
+T14	Drug-Class 145 148	ADT
+T15	Disease 440 467	castration-resistant tumors
+#4	AnnotatorNotes T15	not found
+T16	Biomarker 472 514	enhanced expression of the AR was detected
+R1	Association Arg1:T16 Arg2:T15	
+T3	Gene-Protein 499 501	AR
+#6	AnnotatorNotes T3	HGNC:644
+T17	Gene-Protein 556 558	AR
+T18	Biomarker 642 664	enhanced AR expression
+T19	Gene-Protein 678 680	AR
+T20	Biomarker 678 700	AR gene amplifications
+T21	Biomarker 736 760	overexpression of 4-1BBL
+T22	Gene-Protein 651 653	AR
+T23	Disease 834 837	PCa
+#7	AnnotatorNotes T23	DOID:10283
+T24	Gene-Protein 754 760	4-1BBL
+#8	AnnotatorNotes T24	HGNC:11939
+R2	Association Arg1:T21 Arg2:T23	
+T25	Gene-Protein 1307 1309	AR
+T26	Biomarker 1011 1035	overexpression of 4-1BBL
+T27	Gene-Protein 911 913	AR
+T28	Gene-Protein 1029 1034	4-1BB
+T29	Biomarker 897 913	expression of AR
+T8	Gene-Protein 1050 1056	4-1BBL
+T9	Gene-Protein 1169 1171	AR
+T10	Disease 1288 1292	CRPC
+#3	AnnotatorNotes T11	CHEMBL1082407
+T30	CellLine 1118 1123	LNCaP
+T31	Gene-Protein 1232 1238	4-1BBL
+T32	Biomarker 1050 1056	4-1BBL
+#5	AnnotatorNotes T32	D053330
+T33	Biomarker 1232 1238	4-1BBL
+T34	Collection 1269 1292	PCa progression to CRPC
+R3	Association Arg1:T33 Arg2:T34	
+T35	Disease 89 128	de novo or recurrent metastatic disease
+#1	AnnotatorNotes T35	not found, not found
+R4	Response Arg1:T13 Arg2:T35	
+T36	Gene-Protein 181 206	prostate specific antigen
+#10	AnnotatorNotes T36	HGNC:6364
+T37	Gene-Protein 208 211	PSA
+#11	AnnotatorNotes T37	HGNC:6364
+T38	Disease 917 932	prostate cancer
+T39	Disease 951 973	PCa tumor bearing SCID
+#12	AnnotatorNotes T38	DOID:10283
+#13	AnnotatorNotes T39	not found, DOID:627

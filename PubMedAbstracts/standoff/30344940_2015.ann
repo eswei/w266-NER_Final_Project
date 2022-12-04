@@ -1,0 +1,107 @@
+T1	Disease 41 63	Acute myeloid leukemia
+#1	AnnotatorNotes T1	DOID:9119
+T10	Disease 570 592	colon and lung cancers
+#2	AnnotatorNotes T10	DOID:219, DOID:1324
+T11	Disease 628 631	AML
+T12	Biomarker 707 829	mutations in the Fms-like tyrosine kinase 3 (FLT3), nucleophosmin 1 (NPM1), and/or isocitrate dehydrogenase 1 (IDH1) genes
+T13	Chemical 733 741	tyrosine
+T14	Chemical 790 800	isocitrate
+T15	Biomarker 862 917	mutations of either NPM1 or FLT3 alone or both together
+T16	Disease 925 928	AML
+T17	Disease 1046 1049	AML
+T18	Biomarker 1056 1081	chromosomal abnormalities
+#8	AnnotatorNotes T18	D002869
+T19	Disease 1103 1106	AML
+T2	Disease 65 68	AML
+#10	AnnotatorNotes T2	DOID:9119
+T20	Biomarker 1119 1169	molecular alterations by chromosome translocations
+T22	Gene-Protein 1302 1324	promyelocytic leukemia
+#11	AnnotatorNotes T22	HGNC:9113
+T24	GeneFamily 1372 1394	mixed lineage leukemia
+#13	AnnotatorNotes T24	not found
+T25	GeneFamily 1396 1399	MLL
+T26	Collection 1448 1489	DNA methylation and histone modifications
+T28	Disease 1536 1539	AML
+T29	Biomarker 1547 1561	gene mutations
+T3	Disease 91 97	cancer
+#17	AnnotatorNotes T3	DOID:162
+T4	Disease 126 132	cancer
+T5	Disease 274 277	AML
+T6	Disease 334 342	leukemia
+#21	AnnotatorNotes T6	DOID:1240
+T7	Biomarker 366 402	growth of abnormal white blood cells
+T9	Disease 457 460	AML
+R1	Association Arg1:T7 Arg2:T5	
+T31	Gene-Protein 651 675	DNA methyltransferase 3A
+#3	AnnotatorNotes T31	HGNC:2978
+T32	Gene-Protein 677 683	DNMT3A
+#4	AnnotatorNotes T32	HGNC:2978
+T33	Biomarker 651 675	DNA methyltransferase 3A
+#5	AnnotatorNotes T33	C120395
+T34	Gene-Protein 752 756	FLT3
+#12	AnnotatorNotes T34	HGNC:3765
+T35	Gene-Protein 724 750	Fms-like tyrosine kinase 3
+#14	AnnotatorNotes T35	HGNC:3765
+T36	Gene-Protein 759 774	nucleophosmin 1
+#15	AnnotatorNotes T36	HGNC:7910
+T37	Gene-Protein 776 780	NPM1
+#19	AnnotatorNotes T37	HGNC:7910
+T38	Gene-Protein 790 816	isocitrate dehydrogenase 1
+#20	AnnotatorNotes T38	HGNC:5382
+T39	Gene-Protein 818 822	IDH1
+#22	AnnotatorNotes T39	HGNC:5382
+T40	Collection 651 829	DNA methyltransferase 3A (DNMT3A), which is followed by mutations in the Fms-like tyrosine kinase 3 (FLT3), nucleophosmin 1 (NPM1), and/or isocitrate dehydrogenase 1 (IDH1) genes
+R3	Association Arg1:T40 Arg2:T11	
+T41	Biomarker 677 683	DNMT3A
+#23	AnnotatorNotes T41	C120395
+T42	Gene-Protein 882 886	NPM1
+T43	Gene-Protein 890 894	FLT3
+R4	Association Arg1:T15 Arg2:T16	
+R5	Association Arg1:T15 Arg2:T17	
+R6	Association Arg1:T18 Arg2:T19	
+T21	Gene-Protein 1222 1229	RUNX1T1
+#6	AnnotatorNotes T21	HGNC:1535
+T44	Gene-Protein 1179 1221	Runt-related transcription factor (RUNX) 1
+#7	AnnotatorNotes T44	HGNC:10471
+T45	Gene-Protein 1265 1269	CBFB
+#9	AnnotatorNotes T45	HGNC:1539
+T46	Gene-Protein 1231 1263	Core-binding factor subunit beta
+#24	AnnotatorNotes T46	HGNC:1539
+T47	Gene-Protein 1294 1299	MYH11
+#25	AnnotatorNotes T47	HGNC:7569
+T48	Gene-Protein 1271 1292	myosin heavy chain 11
+#26	AnnotatorNotes T48	HGNC:7569
+T49	Gene-Protein 1326 1329	PML
+#27	AnnotatorNotes T49	HGNC:9113
+T50	Gene-Protein 1361 1365	RARA
+#28	AnnotatorNotes T50	HGNC:9864
+T51	Gene-Protein 1331 1359	retinoic acid receptor alpha
+#29	AnnotatorNotes T51	HGNC:9864
+#30	AnnotatorNotes T25	not found
+R7	Association Arg1:T26 Arg2:T28	
+T52	Biomarker 1468 1489	histone modifications
+T53	Biomarker 1448 1463	DNA methylation
+T27	Biomarker 1563 1588	chromosome translocations
+T54	Biomarker 1594 1618	epigenetic modifications
+T30	GeneFamily 1468 1475	histone
+#18	AnnotatorNotes T30	family:864
+T55	Disease 1669 1679	malignancy
+T56	Pronoun 1669 1679	malignancy
+R8	Refers-To Arg1:T56 Arg2:T28	
+T57	Collection 1547 1618	gene mutations, chromosome translocations, and epigenetic modifications
+R9	Association Arg1:T57 Arg2:T55	
+#16	AnnotatorNotes T55	DOID:9119
+T59	Variant 1231 1300	Core-binding factor subunit beta (CBFB)–myosin heavy chain 11 (MYH11)
+T63	Variant 1302 1366	promyelocytic leukemia (PML)–retinoic acid receptor alpha (RARA)
+T67	Biomarker 1372 1427	mixed lineage leukemia (MLL) fusions with various genes
+T69	Collection 1179 1366	Runt-related transcription factor (RUNX) 1–RUNX1T1, Core-binding factor subunit beta (CBFB)–myosin heavy chain 11 (MYH11), promyelocytic leukemia (PML)–retinoic acid receptor alpha (RARA)
+R2	Association Arg1:T69 Arg2:T19	
+T8	Variant 1179 1229	Runt-related transcription factor (RUNX) 1–RUNX1T1
+R10	Variant-Of Arg1:T44 Arg2:T8	
+R11	Variant-Of Arg1:T21 Arg2:T8	
+R12	Variant-Of Arg1:T46 Arg2:T59	
+R14	Variant-Of Arg1:T22 Arg2:T63	
+R15	Variant-Of Arg1:T51 Arg2:T63	
+R16	Association Arg1:T20 Arg2:T19	
+R17	Association Arg1:T67 Arg2:T19	
+R13	Variant-Of Arg1:T48 Arg2:T59	

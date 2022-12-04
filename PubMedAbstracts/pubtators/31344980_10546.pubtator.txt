@@ -1,0 +1,45 @@
+31344980_10546|t|RSS_IDENT_p_31344980_b_1_3_4
+31344980_10546|a| In 1994, Schwertner et al. [ 56 ] reported serum bilirubin levels to be low in patients with CAD. Since then, many studies showed bilirubin levels to be lower in patients with CAD than without CAD and to inversely correlate with the severity of CAD [ 57 , 58 , 59 ]. Low bilirubin levels in blood may thus play a promotive role in the development of CAD. Genetic variations in the UDP-glucuronosyltransferase 1A1 (UGT1A1) gene are known to be major determinants of serum bilirubin level [ 60 ]. However, Stender et al. [ 61 ] investigated the associations between the UGT1A1 gene genotype and plasma bilirubin levels and between genetically elevated bilirubin levels and CAD in 67,068 subjects. They demonstrated that genetically elevated bilirubin levels were not associated with a decreased risk of CAD. They also performed a meta-analysis of 11 studies and showed no association between genetically elevated bilirubin levels and CAD. These findings thus suggest no causal relationship between elevated bilirubin levels and CAD. Since increased reactive oxygen species (ROS) and oxidative stress are involved in the pathogenesis of atherosclerosis, low bilirubin levels in patients with CAD may not be a cause of CAD but rather a result of increased oxidative stress, leading to the consumption of endogenous anti-oxidants [ 52 ]. 
+31344980_10546	73	105	serum bilirubin levels to be low	Biomarker
+31344980_10546	79	88	bilirubin	Chemical
+31344980_10546	123	126	CAD	Disease	DOID:3393
+31344980_10546	160	169	bilirubin	Chemical
+31344980_10546	160	188	bilirubin levels to be lower	Biomarker
+31344980_10546	206	209	CAD	Disease
+31344980_10546	223	226	CAD	Disease
+31344980_10546	275	278	CAD	Disease
+31344980_10546	297	317	Low bilirubin levels	Biomarker
+31344980_10546	301	310	bilirubin	Chemical
+31344980_10546	380	383	CAD	Disease
+31344980_10546	411	414	UDP	Chemical
+31344980_10546	411	442	UDP-glucuronosyltransferase 1A1	Gene-protein	HGNC:12530
+31344980_10546	444	450	UGT1A1	Gene-protein	HGNC:12530
+31344980_10546	501	510	bilirubin	Chemical
+31344980_10546	598	604	UGT1A1	Gene-protein
+31344980_10546	598	618	UGT1A1 gene genotype	Biomarker
+31344980_10546	623	646	plasma bilirubin levels	Biomarker
+31344980_10546	630	639	bilirubin	Chemical
+31344980_10546	671	696	elevated bilirubin levels	Biomarker
+31344980_10546	680	689	bilirubin	Chemical
+31344980_10546	701	704	CAD	Disease
+31344980_10546	748	785	genetically elevated bilirubin levels	Biomarker
+31344980_10546	769	778	bilirubin	Chemical
+31344980_10546	831	834	CAD	Disease
+31344980_10546	920	957	genetically elevated bilirubin levels	Biomarker
+31344980_10546	941	950	bilirubin	Chemical
+31344980_10546	962	965	CAD	Disease
+31344980_10546	1026	1051	elevated bilirubin levels	Biomarker
+31344980_10546	1035	1044	bilirubin	Chemical
+31344980_10546	1056	1059	CAD	Disease
+31344980_10546	1067	1100	increased reactive oxygen species	Biomarker
+31344980_10546	1067	1127	increased reactive oxygen species (ROS) and oxidative stress	Collection
+31344980_10546	1077	1100	reactive oxygen species	Chemical
+31344980_10546	1102	1105	ROS	Chemical
+31344980_10546	1111	1127	oxidative stress	Biomarker	D018384
+31344980_10546	1164	1179	atherosclerosis	Disease	DOID:1936
+31344980_10546	1181	1201	low bilirubin levels	Biomarker
+31344980_10546	1185	1194	bilirubin	Chemical
+31344980_10546	1219	1222	CAD	Disease
+31344980_10546	1245	1248	CAD	Disease
+31344980_10546	1282	1298	oxidative stress	Disease	D018384
+

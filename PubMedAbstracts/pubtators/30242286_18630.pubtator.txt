@@ -1,0 +1,39 @@
+30242286_18630|t|RSS_IDENT_p_30242286_b_1_3_3
+30242286_18630|a| We aimed to investigate the relationship between LGI setting, increased levels of LTB4, and how this would affect the wound healing process in diabetic mice. We found that in peripheral blood from diabetic mice, the increased levels of cytokines (IFN-γ, IL-12, IL-6, TNF-α and IL-10) were dependent on leukotrienes as well as monocytes reprogramming towards a pro-inflammatory phenotype characterized by the increased frequency of the CD11b⁺Ly6Cʰⁱᵍʰ population. Resident peritoneal macrophages from diabetic WT mice bear a classically activated-like phenotype (higher Stat1 and Nos2 expression, and higher NO levels), while macrophages from diabetic 5LO−/− mice exhibit an alternatively activated phenotype (higher Arg1 and Ym1 expression, and higher activity of arginase). In the absence of leukotrienes, the enhanced phosphorylation of STAT6, and increased gene expression of STAT6 product genes (Arg1, Chi3l3) were observed when macrophages were stimulated with IL-4. Skin wound healing in diabetic WT mice was impaired and this correlated with the decreased frequency of alternatively activated macrophages (CD45⁺F4/80⁺CD206⁺) in the lesions.
+30242286_18630	79	82	LGI	Disease	not found
+30242286_18630	92	116	increased levels of LTB4	Biomarker
+30242286_18630	112	116	LTB4	Gene-protein
+30242286_18630	173	181	diabetic	Disease	not found
+30242286_18630	227	235	diabetic	Disease
+30242286_18630	246	344	increased levels of cytokines (IFN-γ, IL-12, IL-6, TNF-α and IL-10) were dependent on leukotrienes	Biomarker
+30242286_18630	266	275	cytokines	Genefamily
+30242286_18630	277	282	IFN-γ	Gene-protein
+30242286_18630	284	289	IL-12	Gene-protein
+30242286_18630	291	295	IL-6	Gene-protein
+30242286_18630	297	302	TNF-α	Gene-protein
+30242286_18630	307	312	IL-10	Gene-protein
+30242286_18630	332	344	leukotrienes	Chemical
+30242286_18630	438	477	increased frequency of the CD11b⁺Ly6Cʰⁱ	Biomarker
+30242286_18630	529	537	diabetic	Disease
+30242286_18630	565	623	activated-like phenotype (higher Stat1 and Nos2 expression	Biomarker
+30242286_18630	565	645	activated-like phenotype (higher Stat1 and Nos2 expression, and higher NO levels	Collection
+30242286_18630	598	603	Stat1	Gene-protein
+30242286_18630	608	612	Nos2	Gene-protein
+30242286_18630	629	645	higher NO levels	Biomarker
+30242286_18630	636	638	NO	Chemical
+30242286_18630	671	686	diabetic 5LO−/−	Disease	not found
+30242286_18630	717	768	activated phenotype (higher Arg1 and Ym1 expression	Biomarker
+30242286_18630	717	801	activated phenotype (higher Arg1 and Ym1 expression, and higher activity of arginase	Collection
+30242286_18630	745	749	Arg1	Gene-protein
+30242286_18630	754	757	Ym1	Gene-protein
+30242286_18630	774	801	higher activity of arginase	Biomarker
+30242286_18630	793	801	arginase	Gene-protein
+30242286_18630	822	834	leukotrienes	Chemical
+30242286_18630	868	873	STAT6	Gene-protein
+30242286_18630	908	913	STAT6	Gene-protein
+30242286_18630	929	933	Arg1	Gene-protein
+30242286_18630	935	941	Chi3l3	Gene-protein
+30242286_18630	995	999	IL-4	Gene-protein
+30242286_18630	1023	1031	diabetic	Disease
+30242286_18630	1082	1175	decreased frequency of alternatively activated macrophages (CD45⁺F4/80⁺CD206⁺) in the lesions	Biomarker
+

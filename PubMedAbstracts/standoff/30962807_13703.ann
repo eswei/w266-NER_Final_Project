@@ -1,0 +1,37 @@
+T0	Chemical 104 111	glucose
+T2	Chemical 246 253	glucose
+T3	Disease 451 459	diabetes
+#4	AnnotatorNotes T3	not found
+T4	Chemical 690 697	glucose
+T5	Disease 912 916	T2DM
+#6	AnnotatorNotes T5	DOID:9352
+T6	Disease 1091 1108	renal dysfunction
+#7	AnnotatorNotes T6	DOID:1074
+T7	Chemical 1423 1430	glucose
+T8	Biomarker 41 46	HbA1C
+T9	Chemical 130 136	1,5-AG
+T10	Biomarker 130 136	1,5-AG
+T1	Biomarker 203 208	HbA1C
+T11	Biomarker 228 234	1,5-AG
+T12	Chemical 228 234	1,5-AG
+T13	Biomarker 302 307	HbA1C
+T14	Biomarker 369 381	serum 1,5-AG
+T15	Chemical 375 381	1,5-AG
+R1	Diagnostic-of Arg1:T14 Arg2:T3	
+T16	Biomarker 499 504	HbA1c
+T17	Biomarker 583 596	1,5-AG levels
+T18	Chemical 583 589	1,5-AG
+T19	Chemical 649 655	1,5-AG
+T20	Chemical 859 865	1,5-AG
+T21	Biomarker 859 865	1,5-AG
+T22	Biomarker 903 908	HbA1c
+T23	Chemical 1001 1007	1,5-AG
+T24	Biomarker 1001 1007	1,5-AG
+R2	Association Arg1:T24 Arg2:T6	
+T25	Biomarker 1216 1235	serum 1,5-AG levels
+T26	Chemical 1222 1228	1,5-AG
+T27	Chemical 1304 1310	1,5-AG
+T28	Biomarker 1386 1440	age-associated decrease in the renal glucose threshold
+T29	Biomarker 649 655	1,5-AG
+#1	AnnotatorNotes T10	C006584
+#2	AnnotatorNotes T8	D006442

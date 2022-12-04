@@ -1,0 +1,53 @@
+30320337_3411|t|RSS_IDENT_p_30320337_b_1_1_3
+30320337_3411|a| MicroRNA-4295 (miR-4295) functions as an oncogene and may be a potential biomarker for the diagnosis and treatment of bladder cancer ( 10 ). According to a cell counting kit-8 (CCK-8) proliferation assay, proliferation was promoted by miR-4295, and miR-4295 was able to promote the invasion of the ATC cell line ( 11 ). The epidermal growth factor receptor (EGFR) signaling pathway is an important transduction pathway that serves a vital role in tumor progression. The activated receptor pathway includes Ras/mitogen-activated protein kinase (MAPK), PI3K/Akt, STAT and Src family kinases, which promote the activation of transcription factors, leading to cell proliferation, invasion and migration ( 12 ). Leucinerich repeats and immunoglobulin-like domains 1 (LRIG1) is a pan-negative regulator that is regarded as an inhibitor of the epidermal growth factor receptor ( 13 ). The results of a study undertaken by Jiang et al ( 12 ) indicated that dual blockage of EGFR and its downstream PI3K/Akt signaling can act as a valuable therapeutic method to promote the anti-proliferative activity of erlotinib in pancreatic cancer ( 12 ). LRIG1 is a pan-negative regulator of the EGFR signaling pathway ( 13 ). The overexpression of miR-4295 significantly promotes the proliferation, colony formation and migration of bladder cancer cells ( 10 ). EGFR is a vital signaling component that is associated with cell growth and survival. PI3K/Akt signaling pathway activation can increase cell proliferation in tumors ( 14 ). In the present study, the targeting association between miR-4295 and LRIG1 was determined by an initial bioinformatics prediction followed by a confirmatory dual-luciferase reporter assay. The present study aimed to confirm the hypothesis that miR-4295 inhibits the apoptosis of GC cells induced by DDP via the EGFR/PI3K/Akt signaling pathway by targeting the LRIG1 gene.
+30320337_3411	30	43	MicroRNA-4295	Rna-noncoding	HGNC:38220
+30320337_3411	30	43	MicroRNA-4295	Biomarker	C000602903
+30320337_3411	45	54	miR-4295)	Rna-noncoding	HGNC:38220
+30320337_3411	148	162	bladder cancer	Disease	DOID:11054
+30320337_3411	265	273	miR-4295	Biomarker	C000602903
+30320337_3411	265	273	miR-4295	Rna-noncoding
+30320337_3411	279	287	miR-4295	Biomarker
+30320337_3411	279	287	miR-4295	Rna-noncoding
+30320337_3411	354	386	epidermal growth factor receptor	Gene-protein	HGNC:3236
+30320337_3411	354	411	epidermal growth factor receptor (EGFR) signaling pathway	Biomarker
+30320337_3411	388	392	EGFR	Gene-protein	HGNC:3236
+30320337_3411	477	482	tumor	Disease	DOID:162
+30320337_3411	536	539	Ras	Genefamily	family:389
+30320337_3411	540	572	mitogen-activated protein kinase	Genefamily	family:651
+30320337_3411	574	578	MAPK	Genefamily	family:651
+30320337_3411	581	585	PI3K	Genefamily	family:831
+30320337_3411	586	589	Akt	Genefamily	family:1900
+30320337_3411	591	595	STAT	Genefamily	not found
+30320337_3411	600	618	Src family kinases	Genefamily	family:1388
+30320337_3411	737	790	Leucinerich repeats and immunoglobulin-like domains 1	Gene-protein	HGNC:17360
+30320337_3411	792	797	LRIG1	Gene-protein	HGNC:17360
+30320337_3411	850	899	inhibitor of the epidermal growth factor receptor	Drug-class
+30320337_3411	867	899	epidermal growth factor receptor	Gene-protein
+30320337_3411	979	1038	dual blockage of EGFR and its downstream PI3K/Akt signaling	Drug	not found
+30320337_3411	996	1000	EGFR	Gene-protein
+30320337_3411	1020	1024	PI3K	Genefamily
+30320337_3411	1025	1028	Akt	Genefamily
+30320337_3411	1126	1135	erlotinib	Drug	CHEMBL553
+30320337_3411	1139	1156	pancreatic cancer	Disease	DOID:1793
+30320337_3411	1165	1170	LRIG1	Gene-protein
+30320337_3411	1206	1210	EGFR	Gene-protein
+30320337_3411	1241	1267	overexpression of miR-4295	Biomarker
+30320337_3411	1259	1267	miR-4295	Rna-noncoding
+30320337_3411	1344	1358	bladder cancer	Disease
+30320337_3411	1373	1377	EGFR	Gene-protein
+30320337_3411	1459	1463	PI3K	Genefamily
+30320337_3411	1459	1496	PI3K/Akt signaling pathway activation	Biomarker
+30320337_3411	1464	1467	Akt	Genefamily
+30320337_3411	1532	1538	tumors	Disease	DOID:162
+30320337_3411	1603	1611	miR-4295	Rna-noncoding
+30320337_3411	1603	1611	miR-4295	Biomarker
+30320337_3411	1616	1621	LRIG1	Gene-protein
+30320337_3411	1616	1621	LRIG1	Biomarker	C484445
+30320337_3411	1791	1799	miR-4295	Rna-noncoding
+30320337_3411	1826	1828	GC	Disease	DOID:10534
+30320337_3411	1846	1849	DDP	Drug	CHEMBL2068237
+30320337_3411	1858	1862	EGFR	Gene-protein
+30320337_3411	1863	1867	PI3K	Genefamily
+30320337_3411	1868	1871	Akt	Genefamily
+30320337_3411	1907	1912	LRIG1	Gene-protein
+

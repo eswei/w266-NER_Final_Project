@@ -1,0 +1,42 @@
+29540704_129|t|RSS_IDENT_p_29540704_a_1_1
+29540704_129|a| Juvenile onset open-angle glaucoma (JOAG) affects patients before 40 years of age, causing high intraocular pressure and severe optic nerve damage. To expand the mutation spectrum of the causative genes in JOAG, with a view to identify novel disease-causing mutations, we investigated MYOC, OPTN, NTF4, WDR36 and CYP1B1 in a cohort of 67 unrelated Chinese JOAG patients. Whole exome sequencing was used to identify possible pathogenic mutations, which were further excluded in normal controls. After sequencing and the use of a database pipeline, as well as predictive assessment filtering, we identified a total of six mutations in three genes, MYOC, OPTN and CYP1B1. Among them, 2 heterozygous mutations in MYOC (c. 1109C > T, p. (P370L); c. 1150G > C, p. (D384H)), 2 heterozygous mutations in OPTN (c. 985A > G, p.(R329G); c. 1481T > G, p. (L494W)) and 2 homozygous mutations in CYP1B1 (c. 1412T > G, p.(I471S); c. 1169G > A, p.(R390H)) were identified as potentially causative mutations. No mutation was detected in NTF4 or WDR36. Our results enrich the mutation spectra and frequencies of MYOC, OPTN and CYP1B1 in JOAG among the Chinese population. Further studies are needed to address the pathogenicity of each of the mutations detected in this study.
+29540704_129	28	62	Juvenile onset open-angle glaucoma	Disease	not found
+29540704_129	64	68	JOAG	Disease	not found
+29540704_129	119	144	high intraocular pressure	Biomarker
+29540704_129	119	174	high intraocular pressure and severe optic nerve damage	Collection
+29540704_129	149	174	severe optic nerve damage	Biomarker
+29540704_129	234	238	JOAG	Disease
+29540704_129	313	317	MYOC	Gene-protein	HGNC:7610
+29540704_129	319	323	OPTN	Gene-protein	HGNC:17142
+29540704_129	325	329	NTF4	Gene-protein	HGNC:8024
+29540704_129	331	336	WDR36	Gene-protein	HGNC:30696
+29540704_129	341	347	CYP1B1	Gene-protein	HGNC:2597
+29540704_129	384	388	JOAG	Disease
+29540704_129	674	678	MYOC	Gene-protein
+29540704_129	680	684	OPTN	Gene-protein
+29540704_129	689	695	CYP1B1	Gene-protein
+29540704_129	737	741	MYOC	Gene-protein
+29540704_129	742	794	(c. 1109C > T, p. (P370L); c. 1150G > C, p. (D384H))	Collection
+29540704_129	743	755	c. 1109C > T	Variant
+29540704_129	761	766	P370L	Variant	p.Pro370Leu
+29540704_129	769	781	c. 1150G > C	Variant
+29540704_129	787	792	D384H	Variant	p.Asp384His
+29540704_129	824	828	OPTN	Gene-protein
+29540704_129	829	879	(c. 985A > G, p.(R329G); c. 1481T > G, p. (L494W))	Collection
+29540704_129	830	841	c. 985A > G	Variant
+29540704_129	843	852	p.(R329G)	Variant	p.Arg329Gly
+29540704_129	854	866	c. 1481T > G	Variant
+29540704_129	872	877	L494W	Variant	p.Leu494Trp
+29540704_129	910	916	CYP1B1	Gene-protein
+29540704_129	917	967	(c. 1412T > G, p.(I471S); c. 1169G > A, p.(R390H))	Collection
+29540704_129	918	930	c. 1412T > G	Variant
+29540704_129	932	941	p.(I471S)	Variant	p.Ile1471Ser
+29540704_129	943	955	c. 1169G > A	Variant
+29540704_129	957	966	p.(R390H)	Variant	p.Arg390His
+29540704_129	1048	1052	NTF4	Gene-protein
+29540704_129	1056	1061	WDR36	Gene-protein
+29540704_129	1122	1126	MYOC	Gene-protein
+29540704_129	1128	1132	OPTN	Gene-protein
+29540704_129	1137	1143	CYP1B1	Gene-protein
+29540704_129	1147	1151	JOAG	Disease
+

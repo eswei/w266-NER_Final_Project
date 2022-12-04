@@ -1,0 +1,93 @@
+T1	Disease 67 72	HPSCC
+T10	Disease 828 837	neoplasms
+#2	AnnotatorNotes T10	DOID:162
+T11	Biomarker 841 874	decreased expression of GRP78/BiP
+T12	Disease 975 989	advanced HPSCC
+#3	AnnotatorNotes T12	DOID:2876
+T14	Biomarker 1001 1029	downregulation of miR-140-5p
+T16	Disease 1185 1190	HPSCC
+T17	Biomarker 1298 1380	expression of AB209630, a long non-coding RNA, has been shown to be markedly lower
+T18	RNA-Noncoding 1312 1320	AB209630
+T19	Disease 1384 1389	HPSCC
+T2	Biomarker 142 222	ectopically expressed genes, microRNAs (miRNAs or miRs) and long non-coding RNAs
+T20	Disease 1405 1410	tumor
+#9	AnnotatorNotes T20	DOID:162
+T22	Disease 1502 1507	HPSCC
+T23	Drug 1511 1538	high expression of AB209630
+T24	RNA-Noncoding 1530 1538	AB209630
+T25	Disease 1618 1623	HSPCC
+T26	Biomarker 1640 1681	decreased expression of AB209630 predicts
+T27	RNA-Noncoding 1664 1672	AB209630
+T28	Biomarker 1722 1742	abnormal methylation
+T29	Disease 1779 1784	HSPCC
+T30	Biomarker 1790 1852	hypermethylation of G protein-coupled receptor kinase 6 (GRK6)
+T31	Disease 1874 1879	HPSCC
+T32	Biomarker 1937 1941	GRK6
+T34	Disease 1998 2003	HPSCC
+T4	Disease 285 290	HPSCC
+T6	Biomarker 469 490	upregulation of TNFR1
+T8	Biomarker 629 810	immunoglobulin heavy chain binding protein (BiP)/glucose-regulated protein 78 (GRP78) plays an important role in the endoplasmic reticulum stress and is known to be highly expressed
+T9	Chemical 678 685	glucose
+T35	Gene-Protein 326 331	TNFR1
+#1	AnnotatorNotes T35	HGNC:11916
+T36	Gene-Protein 292 324	Tumor necrosis factor receptor 1
+#4	AnnotatorNotes T36	HGNC:11916
+T37	GeneFamily 429 453	TNF receptor superfamily
+#6	AnnotatorNotes T37	family:782
+T38	Gene-Protein 485 490	TNFR1
+T3	Biomarker 528 544	clinical staging
+T5	Biomarker 546 553	T stage
+T39	Biomarker 555 585	cervical lymph node metastasis
+T40	Biomarker 590 608	histological grade
+T7	Gene-Protein 708 713	GRP78
+#7	AnnotatorNotes T7	HGNC:5238
+T41	Gene-Protein 678 706	glucose-regulated protein 78
+#8	AnnotatorNotes T41	HGNC:5238
+R1	Association Arg1:T8 Arg2:T10	
+T42	Biomarker 1072 1083	tumor stage
+T43	Gene-Protein 865 870	GRP78
+T44	RNA-Noncoding 1019 1029	miR-140-5p
+#11	AnnotatorNotes T44	HGNC:31527
+T45	Biomarker 1088 1109	lymph node metastasis
+T15	RNA-Noncoding 1134 1144	miR-140-5p
+T46	Gene-Protein 1227 1233	ADAM10
+#5	AnnotatorNotes T46	HGNC:188
+T47	Gene-Protein 1204 1225	ADAM metallopeptidase
+#12	AnnotatorNotes T47	HGNC:188
+#13	AnnotatorNotes T1	DOID:2876
+R2	Association Arg1:T2 Arg2:T4	
+R3	Prognostic-Poor Arg1:T11 Arg2:T12	
+T13	Gene-Protein 871 874	BiP
+T48	Drug 1119 1144	restoration of miR-140-5p
+#15	AnnotatorNotes T48	not found
+T49	Gene-Protein 1261 1267	Notch1
+#16	AnnotatorNotes T49	HGNC:7881
+R4	Response Arg1:T48 Arg2:T16	
+T21	Collection 1384 1410	HPSCC cell lines and tumor
+R5	Association Arg1:T17 Arg2:T21	
+#10	AnnotatorNotes T23	not found
+R6	Prognostic-Poor Arg1:T26 Arg2:T25	
+R7	Response Arg1:T23 Arg2:T25	
+R8	Association Arg1:T28 Arg2:T29	
+T50	Gene-Protein 1847 1851	GRK6
+#18	AnnotatorNotes T50	HGNC:4545
+T51	Gene-Protein 1810 1845	G protein-coupled receptor kinase 6
+#19	AnnotatorNotes T51	HGNC:4545
+R9	Association Arg1:T30 Arg2:T31	
+T52	Gene-Protein 1937 1941	GRK6
+T53	Biomarker 1985 1994	TNM stage
+T54	Biomarker 1966 1980	tumor invasion
+#17	AnnotatorNotes T32	C089176
+T33	RNA-Noncoding 171 180	microRNAs
+#20	AnnotatorNotes T33	family:476
+T55	RNA-Noncoding 182 188	miRNAs
+#21	AnnotatorNotes T55	family:476
+T56	RNA-Noncoding 192 196	miRs
+#22	AnnotatorNotes T56	family:476
+T57	RNA-Noncoding 202 222	long non-coding RNAs
+#23	AnnotatorNotes T57	family:788
+T58	Disease 612 617	HPSCC
+T59	Gene-Protein 629 671	immunoglobulin heavy chain binding protein
+T60	Gene-Protein 673 676	BiP
+#24	AnnotatorNotes T60	HGNC:5238
+#25	AnnotatorNotes T59	HGNC:5238

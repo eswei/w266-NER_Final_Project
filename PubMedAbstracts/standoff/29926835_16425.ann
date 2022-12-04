@@ -1,0 +1,57 @@
+T0	Disease 81 94	neuroblastoma
+#1	AnnotatorNotes T0	DOID:769
+T1	Chemical 126 127	N
+T10	Variant 626 631	T514A
+T11	Variant 684 689	T514A
+T12	Variant 741 746	S518A
+T13	Variant 798 803	S518A
+T14	Variant 855 860	S522A
+T15	Variant 912 917	S522A
+T16	Variant 969 974	T555A
+T17	Variant 1021 1026	T555A
+T18	Chemical 1215 1216	C
+T19	Drug 1238 1247	Kanamycin
+T2	Chemical 137 141	FLAG
+T20	Disease 1266 1279	neuroblastoma
+T22	Chemical 1553 1571	Lipofectamine 2000
+T24	Variant 1630 1635	T555A
+T25	Variant 1653 1658	T514A
+T26	Variant 1676 1681	T509A
+T27	Variant 1699 1704	S518A
+T28	Variant 1724 1729	S522A
+T3	Variant 429 434	T509A
+T4	Variant 436 441	T514A
+T5	Variant 443 448	S518A
+T6	Variant 450 455	S522A
+T7	Variant 461 466	T555A
+T8	Variant 496 501	T509A
+T9	Variant 561 566	T509A
+T29	Gene-Protein 30 36	CRMP-2
+#2	AnnotatorNotes T29	HGNC:3014
+T30	Gene-Protein 114 120	CRMP-2
+T31	CellLine 95 107	SH-SY5Ycells
+T32	Gene-Protein 413 419	CRMP-2
+T33	Collection 429 1026	T509A, T514A, S518A, S522A, and T555A using the following primers; T509A forward 5′-gtg tga agt gtc tgt ggc gcc caa gac agt cac-3′, T509A reverse 5′-gtg act gtc ttg ggc gcc aca gac act tca cac-3′, T514A forward, 5′-gcc caa gac agt cgc tcc agc ctc ctc-3′, T514A reverse 5′-gag gag gct gga gcg act gtc ttg ggc-3′, S518A forward 5’-cac tcc agc ctc cgc ggc caa gac gtc-3’, S518A reverse 5′-gac gtc ttg gcc gcg gag gct gga gtg-3′, S522A forward 5′-ctc ggc caa gac ggc tcc tgc caa gca-3′, S522A reverse 5′-tgc ttg gca gga gcc gtc ttg gcc gag-3′, T555A forward 5′-ccc gcc gca ccg ccc agc gta tc-3′, T555A
+R1	Variant-Of Arg1:T32 Arg2:T33	
+#3	AnnotatorNotes T3	p.Thr509Ala
+#4	AnnotatorNotes T4	p.Thr514Ala
+#5	AnnotatorNotes T5	p.Ser518Ala
+#7	AnnotatorNotes T6	p.Ser522Ala
+#8	AnnotatorNotes T7	p.Thr555Ala
+T34	Gene-Protein 1077 1083	CRMP-2
+#9	AnnotatorNotes T19	CHEMBL1384
+T35	CellLine 1280 1287	SH-SY5Y
+T36	Chemical 1328 1336	DMEM/F12
+T37	Gene-Protein 1624 1629	CRMP2
+R2	Variant-Of Arg1:T37 Arg2:T24	
+T38	Gene-Protein 1647 1652	CRMP2
+R3	Variant-Of Arg1:T38 Arg2:T25	
+T39	Gene-Protein 1670 1675	CRMP2
+R4	Variant-Of Arg1:T39 Arg2:T26	
+T40	Gene-Protein 1693 1698	CRMP2
+R5	Variant-Of Arg1:T40 Arg2:T27	
+T41	Gene-Protein 1718 1723	CRMP2
+R6	Variant-Of Arg1:T41 Arg2:T28	
+T21	Chemical 1107 1111	FLAG
+T23	Gene-Protein 1760 1771	Aβ peptides
+#6	AnnotatorNotes T23	HGNC:620

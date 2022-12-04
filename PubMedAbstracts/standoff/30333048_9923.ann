@@ -1,0 +1,44 @@
+T0	Variant 292 303	c.7843G > A
+T1	Variant 304 312	p.G2615S
+T10	Variant 819 827	p.R1441H
+T11	Variant 867 875	p.R1441H
+T12	Disease 1268 1279	familial PD
+#1	AnnotatorNotes T12	not found
+T13	Variant 1293 1301	p.R1441H
+T2	Variant 325 336	c.4322G > A
+T3	Variant 337 345	p.R1441H
+T4	Biomarker 348 385	Mucin 5B, oligomeric mucus/gelforming
+T5	Disease 441 459	pulmonary fibrosis
+#5	AnnotatorNotes T5	DOID:3770
+T7	Variant 519 530	c.4322G > A
+T8	Variant 532 540	p.R1441H
+T9	Variant 732 740	p.R1441H
+T17	Gene-Protein 285 290	MUC5B
+#2	AnnotatorNotes T17	HGNC:7516
+T18	Gene-Protein 318 323	LRRK2
+#3	AnnotatorNotes T18	HGNC:18618
+T19	Gene-Protein 387 392	MUC5B
+T20	Collection 292 312	c.7843G > A:p.G2615S
+R1	Variant-Of Arg1:T17 Arg2:T20	
+#4	AnnotatorNotes T1	p.Gly2615Ser
+T21	Collection 325 345	c.4322G > A:p.R1441H
+#6	AnnotatorNotes T3	p.Arg1441His
+R2	Variant-Of Arg1:T18 Arg2:T21	
+R3	Risk-Factor Arg1:T4 Arg2:T5	
+T22	Collection 519 540	c.4322G > A: p.R1441H
+T23	Gene-Protein 512 517	LRRK2
+#7	AnnotatorNotes T23	HGNC:18618
+R4	Variant-Of Arg1:T23 Arg2:T22	
+T24	Collection 732 875	p.R1441H, and four asymptomatic individuals (A-II-1, A-II-9, A-III-1, B-III-3) without p.R1441H, which signals complete segregation of p.R1441H
+R5	Variant-Of Arg1:T23 Arg2:T24	
+T25	Gene-Protein 1227 1231	SNCA
+#8	AnnotatorNotes T25	HGNC:11138
+T26	Gene-Protein 1241 1245	BST1
+#9	AnnotatorNotes T26	HGNC:1118
+T27	Gene-Protein 1251 1255	MAPT
+#10	AnnotatorNotes T27	HGNC:6893
+T14	Gene-Protein 1287 1292	LRRK2
+R6	Variant-Of Arg1:T14 Arg2:T13	
+T6	Gene-Protein 348 385	Mucin 5B, oligomeric mucus/gelforming
+#11	AnnotatorNotes T6	HGNC:7516
+#12	AnnotatorNotes T4	C524578

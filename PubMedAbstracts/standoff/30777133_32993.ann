@@ -1,0 +1,105 @@
+T10	Gene-Protein 1498 1534	Ethanolamine-phosphate phospholysate
+T12	Chemical 1612 1627	Dimethylaniline
+T14	Chemical 1647 1655	Glutamic
+T15	Chemical 2140 2153	Sphingomyelin
+T17	Disease 2280 2283	SLE
+#10	AnnotatorNotes T17	DOID:9074
+T18	Disease 2284 2312	Systemic lupus erythematosus
+#11	AnnotatorNotes T18	DOID:9074
+T22	Disease 2467 2469	SS
+#16	AnnotatorNotes T22	DOID:12894
+T23	Disease 2470 2488	Sjögren’s syndrome
+#17	AnnotatorNotes T23	DOID:12894
+T25	Gene-Protein 2497 2527	Sjögren’s syndrome antigen A/B
+T27	Chemical 2531 2544	Triglycerides
+T28	Chemical 2563 2571	tyrosine
+T29	Chemical 2597 2605	Tyrosine
+T5	Chemical 1275 1283	Ceramide
+T6	Chemical 1382 1386	EDTA
+T8	Chemical 1387 1418	Ethylenediaminetetraacetic acid
+T1	Gene-Protein 1336 1381	Insulin-like growth factor-binding protein 10
+T2	Gene-Protein 1302 1312	Claudin 16
+T3	Gene-Protein 1275 1294	Ceramide synthase 5
+T4	Gene-Protein 1217 1268	Tumor necrosis factor receptor superfamily member 5
+T30	Gene-Protein 1269 1274	CERS5
+T31	Gene-Protein 1295 1301	CLDN16
+T32	Gene-Protein 1318 1329	Cathepsin B
+T33	Gene-Protein 1313 1317	CTSB
+T34	Gene-Protein 1330 1335	CYR61
+T35	Gene-Protein 940 987	AT-rich interactive domain-containing protein 2
+T36	Gene-Protein 1423 1450	Pro-epidermal growth factor
+T37	Gene-Protein 1419 1422	EGF
+T38	Gene-Protein 934 939	ARID2
+T39	Gene-Protein 885 902	Anti-phospholipid
+T7	Gene-Protein 1212 1216	CD40
+T40	Gene-Protein 1642 1646	GOT1
+T41	Gene-Protein 1584 1606	Coagulation factor III
+T42	Gene-Protein 1612 1641	Dimethylaniline monooxygenase
+T13	Gene-Protein 1607 1611	FMO1
+T43	Gene-Protein 1535 1560	ETV7 Transcription factor
+T44	Gene-Protein 1647 1682	Glutamic-oxaloacetic transaminase 1
+T45	Gene-Protein 1714 1749	High-sensitivity C-reactive protein
+T46	Gene-Protein 1707 1713	Hs CRP
+T47	Gene-Protein 1750 1758	HSP90AA1
+T48	Gene-Protein 1759 1777	Heat shock protein
+T49	Gene-Protein 1778 1785	HSP 90α
+T50	Gene-Protein 1790 1806	Immunoglobulin G
+T51	Gene-Protein 1786 1789	IgG
+T52	Gene-Protein 1828 1833	ITGB1
+T53	Gene-Protein 1807 1810	IgM
+T54	Gene-Protein 1811 1827	Immunoglobulin M
+T55	Gene-Protein 1834 1849	Integrin beta-1
+T56	Gene-Protein 1864 1886	type II cytoskeletal 7
+T57	Gene-Protein 1890 1908	Lupus anticoagulan
+T58	Gene-Protein 1855 1862	Keratin
+T59	Gene-Protein 1850 1854	KRT7
+T60	Gene-Protein 1991 1996	MMP10
+T61	Gene-Protein 1997 2010	Stromelysin-2
+T62	Gene-Protein 2041 2063	Homeobox protein MSX-2
+T63	Gene-Protein 2011 2015	MMP8
+T64	Gene-Protein 2016 2035	Metalloproteinase 8
+T65	Gene-Protein 2036 2040	MSX2
+T66	Gene-Protein 2238 2245	SLC13A3
+T67	Gene-Protein 2246 2279	Solute carrier family 13 member 3
+T68	Gene-Protein 1887 1889	LA
+T69	Gene-Protein 2069 2123	Polybromo-associated barrier-to-autointegration factor
+T70	Gene-Protein 2064 2068	PBAF
+T71	Gene-Protein 2124 2127	REN
+T72	Gene-Protein 2134 2139	SAMD8
+T73	Gene-Protein 2128 2133	Renin
+T74	Gene-Protein 2186 2196	E-selectin
+T75	Gene-Protein 2140 2180	Sphingomyelin synthase-related protein 1
+T76	Gene-Protein 2181 2185	SELE
+T77	Gene-Protein 1491 1497	ETNPPL
+T78	Gene-Protein 1566 1568	F3
+T79	Gene-Protein 1569 1582	Tissue factor
+T9	Gene-Protein 1561 1565	ETV7
+T20	Gene-Protein 2587 2591	TYK2
+T16	Gene-Protein 2550 2586	Non-receptor tyrosine-protein kinase
+T24	Gene-Protein 2545 2549	TYK2
+T26	GeneFamily 2592 2596	YARS
+T80	GeneFamily 1002 1014	Component 1q
+T81	Chemical 2528 2530	TG
+T82	Disease 907 933	Anti-phospholipid syndrome
+#3	AnnotatorNotes T82	DOID:2988
+T83	Disease 903 906	APS
+#4	AnnotatorNotes T83	DOID:2988
+T84	Gene-Protein 1041 1052	Component 2
+T85	Gene-Protein 1038 1040	C2
+T86	Gene-Protein 1076 1078	C3
+T87	Gene-Protein 1079 1090	Component 3
+T88	GeneFamily 998 1001	C1q
+T89	Gene-Protein 991 997	BAF200
+T90	Gene-Protein 750 757	Anti-La
+T91	Gene-Protein 758 799	Anti-Sjögren’s-syndrome-related antigen B
+T92	Gene-Protein 800 807	Anti-Ro
+T93	Gene-Protein 808 849	Anti-Sjögren’s-syndrome-related antigen A
+T94	Gene-Protein 855 880	Serum amyloid P-component
+T95	Gene-Protein 850 854	APCS
+T96	Gene-Protein 1174 1176	C4
+T97	Gene-Protein 1177 1188	Component 4
+T11	Gene-Protein 2489 2496	SSA/SSB
+T19	Biomarker 2197 2201	SLAM
+T21	Biomarker 2202 2237	Systemic Lupus Activity Measurement
+T98	Biomarker 2323 2379	Systemic Lupus Erythematosus Disease Activity Index 2000
+T99	Biomarker 2313 2322	SLEDAI-2K

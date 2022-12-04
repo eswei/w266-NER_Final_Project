@@ -1,0 +1,53 @@
+31243924_3189|t|RSS_IDENT_p_31243924_b_1_1_3
+31243924_3189|a| Intravascular microthrombosis or extravascular compression leads to blockage of microvessels in the femoral head and ischemic necrosis. Many studies have shown that there is a tendency of coagulation and low fibrinolysis in patients with avascular necrosis of the femoral head9, 10. The levels of membrane microparticles were significantly heightened after methylprednisolone treatment, which indicated that increased levels of membrane microparticles may be related to hypercoagulability, thrombosis, and inflammation in the microcirculation, and play an important role in SINFH11. Many studies have shown that α2‐macroglobulin is an important indicator for the detection of thrombotic diseases, and it plays an important role in both coagulation and fibrinolysis systems12. α2‐Macroglobulin has been found to enhance thrombin activity and to inhibit plasmin activity; that is, α2‐macroglobulin plays a role in regulating coagulation and fibrin hydrolysis13. α2‐Macroglobulin is indicated to significantly increase the regenerative capacity of plasma plasmin, while the complex formed by the binding of α2‐macroglobulin and vascular endothelial growth factor inhibits the activity of heparin, resulting in a hypercoagulable state of the blood14. Chen et al.15 confirmed that the level of α2‐macroglobulin in bone tissue of patients with steroid‐induced femoral head necrosis was significantly decreased, which may be related to the hypercoagulability of the blood, hyperlipidemia, free radicals, and degradation of matrix metalloproteinase. The inhibition of thrombin plays a particularly important role. A study included μCT and histological findings suggested that elevated α2M serum level is suitable as an indicative biomarker for early GC‐induced osteonecrosis of the femoral head (ONFH) in rodents, and α2M plays a role in the host reparative response to GC‐associated effects16. 
+31243924_3189	30	59	Intravascular microthrombosis	Biomarker
+31243924_3189	63	88	extravascular compression	Biomarker
+31243924_3189	98	122	blockage of microvessels	Biomarker
+31243924_3189	130	164	femoral head and ischemic necrosis	Disease	not found
+31243924_3189	218	229	coagulation	Biomarker	D001777
+31243924_3189	218	250	coagulation and low fibrinolysis	Collection
+31243924_3189	234	250	low fibrinolysis	Biomarker
+31243924_3189	268	307	avascular necrosis of the femoral head9	Disease	D005271
+31243924_3189	387	405	methylprednisolone	Drug	CHEMBL650
+31243924_3189	438	481	increased levels of membrane microparticles	Biomarker
+31243924_3189	500	518	hypercoagulability	Disease	DOID:2452
+31243924_3189	500	572	hypercoagulability, thrombosis, and inflammation in the microcirculation	Collection
+31243924_3189	520	530	thrombosis	Disease	DOID:0060903
+31243924_3189	536	572	inflammation in the microcirculation	Disease	not found
+31243924_3189	642	658	α2‐macroglobulin	Gene-protein	HGNC:7
+31243924_3189	642	658	α2‐macroglobulin	Biomarker	D045384
+31243924_3189	706	725	thrombotic diseases	Disease	DOID:0060903
+31243924_3189	806	822	α2‐Macroglobulin	Gene-protein
+31243924_3189	841	866	enhance thrombin activity	Biomarker
+31243924_3189	849	857	thrombin	Gene-protein	HGNC:3535
+31243924_3189	874	898	inhibit plasmin activity	Biomarker
+31243924_3189	882	889	plasmin	Gene-protein	HGNC:9071
+31243924_3189	909	925	α2‐macroglobulin	Gene-protein
+31243924_3189	909	925	α2‐macroglobulin	Biomarker
+31243924_3189	969	975	fibrin	Genefamily	not found
+31243924_3189	990	1006	α2‐Macroglobulin	Gene-protein
+31243924_3189	1037	1089	increase the regenerative capacity of plasma plasmin	Biomarker
+31243924_3189	1082	1089	plasmin	Gene-protein
+31243924_3189	1101	1189	complex formed by the binding of α2‐macroglobulin and vascular endothelial growth factor	Drug
+31243924_3189	1134	1150	α2‐macroglobulin	Gene-protein
+31243924_3189	1155	1189	vascular endothelial growth factor	Genefamily	family:1267
+31243924_3189	1215	1222	heparin	Drug	CHEMBL1909300
+31243924_3189	1239	1260	hypercoagulable state	Disease	DOID:2452
+31243924_3189	1310	1350	level of α2‐macroglobulin in bone tissue	Biomarker
+31243924_3189	1319	1335	α2‐macroglobulin	Gene-protein
+31243924_3189	1368	1375	steroid	Drug-class
+31243924_3189	1368	1405	steroid‐induced femoral head necrosis	Disease	not found
+31243924_3189	1463	1481	hypercoagulability	Disease
+31243924_3189	1496	1510	hyperlipidemia	Disease	DOID:1168
+31243924_3189	1512	1525	free radicals	Biomarker
+31243924_3189	1531	1570	degradation of matrix metalloproteinase	Biomarker
+31243924_3189	1546	1570	matrix metalloproteinase	Genefamily	family:891
+31243924_3189	1590	1598	thrombin	Gene-protein
+31243924_3189	1698	1722	elevated α2M serum level	Biomarker
+31243924_3189	1707	1710	α2M	Gene-protein
+31243924_3189	1766	1816	early GC‐induced osteonecrosis of the femoral head	Disease	not found
+31243924_3189	1772	1774	GC	Chemical
+31243924_3189	1818	1822	ONFH	Disease	not found
+31243924_3189	1840	1843	α2M	Gene-protein
+31243924_3189	1892	1894	GC	Chemical
+

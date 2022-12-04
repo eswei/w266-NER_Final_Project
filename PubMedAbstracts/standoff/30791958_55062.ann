@@ -1,0 +1,54 @@
+T0	RNA-Noncoding 55 64	LINC00968
+T10	Disease 518 531	breast cancer
+T12	Disease 615 628	breast cancer
+T14	Disease 835 850	cervical cancer
+#4	AnnotatorNotes T14	DOID:4362
+T17	Disease 1114 1127	breast cancer
+T18	Disease 1166 1179	breast cancer
+T2	Disease 93 106	breast cancer
+#8	AnnotatorNotes T2	DOID:1612
+T21	CellLine 1361 1366	MCF-7
+T22	Disease 1378 1391	breast cancer
+T4	RNA-Noncoding 248 257	LINC00968
+T7	Disease 318 346	lung squamous cell carcinoma
+#14	AnnotatorNotes T7	DOID:3907
+#1	AnnotatorNotes T0	HGNC:48727
+T1	Biomarker 55 85	LINC00968 was poorly expressed
+R1	Association Arg1:T1 Arg2:T2	
+T3	Gene-Protein 113 117	WNT2
+#9	AnnotatorNotes T3	HGNC:12780
+T5	GeneFamily 122 131	β-catenin
+#10	AnnotatorNotes T5	family:1542
+T9	GeneFamily 154 163	β-catenin
+T11	Gene-Protein 168 173	GSK3β
+#12	AnnotatorNotes T11	HGNC:4617
+T13	Biomarker 113 213	WNT2 and β-catenin expression as well as β-catenin and GSK3β phosphorylation were markedly increased
+R2	Association Arg1:T13 Arg2:T2	
+T6	Biomarker 248 257	LINC00968
+R3	Association Arg1:T6 Arg2:T7	
+T8	RNA-Noncoding 477 488	lncRNA-GAS5
+#13	AnnotatorNotes T8	HGNC:16355
+T16	Biomarker 477 514	lncRNA-GAS5, was also under-expressed
+R4	Association Arg1:T16 Arg2:T10	
+T19	RNA-Noncoding 553 587	anti-differentiation noncoding RNA
+#2	AnnotatorNotes T19	HGNC:28964
+T23	Biomarker 553 611	anti-differentiation noncoding RNA was also down-regulated
+R5	Association Arg1:T23 Arg2:T12	
+T24	GeneFamily 643 672	transforming growth factor-β-
+#3	AnnotatorNotes T24	family:1664
+T25	Biomarker 791 831	WNT2 were also documented to be elevated
+T26	Gene-Protein 791 795	WNT2
+R6	Association Arg1:T25 Arg2:T14	
+T15	Biomarker 1077 1099	relatively higher WNT2
+T27	Gene-Protein 1095 1099	WNT2
+R7	Association Arg1:T15 Arg2:T17	
+T28	Gene-Protein 1235 1240	axin1
+#5	AnnotatorNotes T28	HGNC:903
+T29	GeneFamily 1242 1259	phospho-β-catenin
+#6	AnnotatorNotes T29	family:1542
+T30	Gene-Protein 1264 1269	GSK3β
+T31	Gene-Protein 1322 1347	heat shock protein 90 α/β
+#7	AnnotatorNotes T31	HGNC:5253, HGNC:5258
+T20	Biomarker 1235 1277	axin1, phospho-β-catenin and GSK3β complex
+T32	Biomarker 1322 1347	heat shock protein 90 α/β
+#11	AnnotatorNotes T32	C112969, C493165

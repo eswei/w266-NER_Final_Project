@@ -1,0 +1,57 @@
+T0	Disease 107 111	NASH
+#1	AnnotatorNotes T0	DOID:0080547
+T11	Drug 540 543	HFC
+T12	Gene-Protein 593 596	SAA
+T14	Gene-Protein 653 656	SAA
+T15	Disease 660 727	hyperlipidemic (low-density lipoprotein receptor-deficient) HFC-fed
+T18	Drug 720 723	HFC
+T19	Biomarker 748 752	NASH
+T21	Disease 994 1012	liver inflammation
+#12	AnnotatorNotes T21	not found
+T22	Drug 1028 1031	HFD
+T24	Gene-Protein 1096 1099	SAA
+T25	Gene-Protein 1101 1104	SAA
+T26	Gene-Protein 1485 1488	SAA
+T28	Disease 1547 1567	chronic inflammation
+#17	AnnotatorNotes T28	not found
+T30	Gene-Protein 1750 1753	SAA
+T34	Disease 1803 1838	inflammation in STAM mice with NASH
+#21	AnnotatorNotes T34	 D007249, DOID:0080547
+T5	Gene-Protein 342 345	SAA
+T6	Gene-Protein 366 369	SAA
+T8	Drug 508 511	HFD
+T9	Drug 518 538	HFD with cholesterol
+T1	Gene-Protein 231 235	SAA1
+T2	Gene-Protein 240 244	SAA2
+#6	AnnotatorNotes T8	D059305
+#7	AnnotatorNotes T9	not found
+#10	AnnotatorNotes T11	not found
+#9	AnnotatorNotes T15	not found
+T3	Biomarker 653 656	SAA
+#13	AnnotatorNotes T3	C035165
+R1	Association Arg1:T3 Arg2:T15	
+#8	AnnotatorNotes T19	D065626
+R2	Association Arg1:T19 Arg2:T15	
+T4	Drug 797 800	HFC
+T7	Biomarker 1485 1488	SAA
+R3	Association Arg1:T7 Arg2:T28	
+T10	Gene-Protein 1588 1606	C-reactive protein
+T13	Gene-Protein 1608 1611	CRP
+T16	Biomarker 1750 1753	SAA
+R4	Association Arg1:T16 Arg2:T34	
+T17	Gene-Protein 863 867	SAA1
+T20	Gene-Protein 872 875	SAA
+T23	GeneFamily 1204 1226	inflammatory cytokines
+T27	GeneFamily 1322 1331	cytokines
+T29	Gene-Protein 1724 1727	CRP
+T31	Biomarker 556 609	increase in the expression levels of SAA in the liver
+T32	Biomarker 842 909	expression levels of SAA1 and SAA protein levels markedly increased
+T33	Biomarker 366 411	SAA level at 8 weeks was significantly higher
+T35	Biomarker 1101 1104	SAA
+T36	Disease 256 268	inflammation
+#2	AnnotatorNotes T36	D007249
+T37	Biomarker 210 244	Expression levels of SAA1 and SAA2
+R5	Association Arg1:T37 Arg2:T36	
+T38	Disease 1671 1683	inflammation
+T39	Biomarker 1575 1656	The level of C-reactive protein (CRP), which can be measured in humans, increases
+R6	Association Arg1:T39 Arg2:T38	

@@ -1,0 +1,37 @@
+31595378_14972|t|RSS_IDENT_p_31595378_b_1_4_3
+31595378_14972|a| Our present study revealed that a cutoff level of approximately 20 pg/mL of sNfL results in a rather high specificity (85%) in discriminating FTLD and PPD. Almost precisely similar cutoff concentration was suggested in a previous study comparing bvFTD patients and healthy controls [ 16 ]. Thus, these findings suggest that PPD may not affect the sNfL cutoff value compared to healthy controls and that the 20 pg/mL cutoff for sNfL may be used in clinical diagnostics between FTLD and non-neurodegenerative conditions (including PPD). The fact that a few patients in our PPD group showed slightly elevated concentrations (over 20 pg/mL) could indicate potential axonal damage in these patients, which might result from the underlying psychiatric disorder, or some other reason, such as minor head trauma. Interestingly, one previous study has shown slightly elevated CSF NfL levels in a subset of patients with bipolar disorder [ 17 ], but another study showed that CSF NfL levels in these patients were not associated with clinical outcomes or disease progression [ 18 ]. Although the relevance of sNfL in PPD requires further studies, it appears that the possible axonal injury for example in bipolar disorder or psychotic disorders is relatively minor and hence does not significantly affect the potential of using sNfL levels to differentiate between FTLD and PPD. Notably, the positive correlation between NfL levels and age has been observed in healthy controls as well as in patients with a neurodegenerative disease [ 19 – 21 ], including our present study and, therefore, there may be a need for setting age-dependent cutoff values. 
+31595378_14972	71	110	level of approximately 20 pg/mL of sNfL	Biomarker
+31595378_14972	106	110	sNfL	Gene-protein	HGNC:7739
+31595378_14972	172	176	FTLD	Disease	DOID:9255
+31595378_14972	181	184	PPD	Disease	not found
+31595378_14972	276	281	bvFTD	Disease	not found
+31595378_14972	354	357	PPD	Disease
+31595378_14972	377	381	sNfL	Gene-protein
+31595378_14972	437	461	20 pg/mL cutoff for sNfL	Biomarker
+31595378_14972	457	461	sNfL	Gene-protein
+31595378_14972	506	510	FTLD	Disease
+31595378_14972	515	547	non-neurodegenerative conditions	Disease	not found
+31595378_14972	559	562	PPD	Disease
+31595378_14972	601	604	PPD	Disease
+31595378_14972	682	705	potential axonal damage	Biomarker
+31595378_14972	764	784	psychiatric disorder	Disease	D001523
+31595378_14972	816	833	minor head trauma	Disease	D006259
+31595378_14972	879	911	slightly elevated CSF NfL levels	Biomarker
+31595378_14972	941	957	bipolar disorder	Disease	DOID:3312
+31595378_14972	996	1003	CSF NfL	Biomarker
+31595378_14972	1000	1003	NfL	Gene-protein	HGNC:7739
+31595378_14972	1129	1133	sNfL	Biomarker
+31595378_14972	1129	1133	sNfL	Gene-protein
+31595378_14972	1137	1140	PPD	Disease
+31595378_14972	1196	1209	axonal injury	Biomarker
+31595378_14972	1225	1241	bipolar disorder	Disease
+31595378_14972	1225	1264	bipolar disorder or psychotic disorders	Collection
+31595378_14972	1245	1264	psychotic disorders	Disease	DOID:2468
+31595378_14972	1348	1352	sNfL	Gene-protein
+31595378_14972	1385	1389	FTLD	Disease
+31595378_14972	1394	1397	PPD	Disease
+31595378_14972	1441	1444	NfL	Gene-protein
+31595378_14972	1441	1451	NfL levels	Biomarker
+31595378_14972	1456	1459	age	Biomarker
+31595378_14972	1528	1553	neurodegenerative disease	Disease	DOID:1289
+

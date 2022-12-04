@@ -1,0 +1,79 @@
+T0	Chemical 72 85	acylcarnitine
+T10	Chemical 296 309	acylcarnitine
+T14	Chemical 419 432	acylcarnitine
+T18	Chemical 545 560	acetylcarnitine
+T19	Chemical 562 565	AC2
+T20	Chemical 580 593	acylcarnitine
+T22	Disease 663 666	HCC
+T24	Chemical 681 684	AC2
+T26	Chemical 740 743	AC2
+T27	Disease 747 750	HCC
+T32	Chemical 915 918	AC2
+T33	Disease 963 966	HCC
+T34	Chemical 1010 1013	AC2
+T35	Chemical 1289 1292	AC2
+T4	Disease 173 175	SH
+T5	Disease 193 196	HCC
+T6	Disease 89 127	steatohepatitis (SH) patients with HCC
+#1	AnnotatorNotes T6	D005234, DOID:684
+#2	AnnotatorNotes T4	D005234
+#3	AnnotatorNotes T5	DOID:684
+T1	Biomarker 63 85	level of acylcarnitine
+R1	Association Arg1:T1 Arg2:T6	
+T2	Gene-Protein 216 220	CPT2
+#4	AnnotatorNotes T2	HGNC:2330
+T3	Biomarker 216 238	CPT2 was downregulated
+T9	Disease 242 262	SH patients with HCC
+#5	AnnotatorNotes T9	D005234, DOID:684
+R2	Association Arg1:T3 Arg2:T9	
+T7	Disease 369 378	HCC in SH
+#6	AnnotatorNotes T7	DOID:684, D005234
+T8	Biomarker 282 309	high level of acylcarnitine
+R3	Association Arg1:T8 Arg2:T7	
+T11	Disease 471 480	HCC in SH
+T12	Biomarker 405 432	high level of acylcarnitine
+R4	Association Arg1:T12 Arg2:T11	
+T13	Disease 621 645	non-SH patients with HCC
+#7	AnnotatorNotes T13	not found
+T15	Biomarker 536 617	level of acetylcarnitine (AC2) - one of the acylcarnitine species - was decreased
+R5	Association Arg1:T15 Arg2:T13	
+T16	Biomarker 672 684	level of AC2
+T17	Biomarker 705 716	tumor stage
+T21	Biomarker 726 743	expression of AC2
+T23	Biomarker 816 850	CPT1 was shown to be downregulated
+T25	Disease 854 878	non-SH patients with HCC
+R6	Association Arg1:T23 Arg2:T25	
+T28	Biomarker 902 918	low level of AC2
+R7	Association Arg1:T28 Arg2:T33	
+T29	Biomarker 1010 1041	AC2 significantly downregulated
+T30	GeneFamily 1096 1100	VEGF
+#8	AnnotatorNotes T30	family:1267
+T31	GeneFamily 1060 1094	vascular endothelial growth factor
+#9	AnnotatorNotes T31	family:1267
+T36	Gene-Protein 1103 1118	VEGF receptor 2
+#10	AnnotatorNotes T36	HGNC:6307
+T37	Gene-Protein 1120 1127	VEGFR-2
+#11	AnnotatorNotes T37	HGNC:6307
+T38	Gene-Protein 1156 1162	CXCL12
+#12	AnnotatorNotes T38	HGNC:10672
+T39	Gene-Protein 1130 1154	C-X-C motif chemokine 12
+#13	AnnotatorNotes T39	HGNC:10672
+T40	Gene-Protein 1196 1201	CXCR4
+#14	AnnotatorNotes T40	HGNC:2561
+T41	Gene-Protein 1168 1194	C-X-C chemokine receptor 4
+#15	AnnotatorNotes T41	HGNC:2561
+T42	GeneFamily 1342 1346	VEGF
+T43	Gene-Protein 1351 1357	CXCL12
+T44	Gene-Protein 816 820	CPT1
+#16	AnnotatorNotes T44	HGNC:2328
+T45	CellLine 1246 1252	HUVECs
+T46	CellLine 1206 1244	human umbilical vein endothelial cells
+R8	Association Arg1:T21 Arg2:T27	
+A1	Conjunction T6
+A2	Conjunction T9
+A3	Conjunction T7
+T75	Biomarker 785 796	tumor stage
+A4	Conjunction T13
+A5	Conjunction T25
+A6	Conjunction T11
+#17	AnnotatorNotes T27	DOID:684

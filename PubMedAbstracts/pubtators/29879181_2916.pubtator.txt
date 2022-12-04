@@ -1,0 +1,37 @@
+29879181_2916|t|RSS_IDENT_p_29879181_b_1_1_3
+29879181_2916|a| Glutathione (γ-glutamyl-cysteinylglycine) is a major intracellular antioxidant and plays a key role in reducing the effects of oxidative stress [ 10 , 11 ]. Several investigators have reported that erythrocyte glutathione (GSH) concentration is decreased in patients with type 2 diabetes [ 12 – 15 ]. However, the exact mechanisms responsible for glutathione deficiency in type 2 diabetes have not been fully established. We are aware of one study in which GSH synthesis rate was directly measured and those data showed diminished synthesis rates in uncontrolled diabetes [ 16 ]. In another study, synthesis although low, was not directly measured, but imputed from the expression of GSH synthetic enzymes [ 17 ]. Nevertheless, irreversible utilization may also play a role in reducing GSH concentration. Whereas Afro-Caribbean patients with type 2 diabetes had similar concentrations of total erythrocyte glutathione levels [ 18 ] to non-diabetic controls, the concentration of reduced glutathione (GSH) was decreased and oxidized glutathione (GSSG) levels were higher [ 18 ] suggesting increased utilization. It is unclear whether impaired glutathione metabolism is a cause or consequence of hyperglycemia although there is some evidence for the later [ 16 ]. Although oxidative stress is significantly increased in the presence of microvascular complications [ 19 ], it is not clear if patients with complications have more impaired glutathione metabolism compared to diabetic patients without complications.
+29879181_2916	30	41	Glutathione	Drug	D005978
+29879181_2916	43	70	γ-glutamyl-cysteinylglycine	Chemical
+29879181_2916	157	173	oxidative stress	Disease	D018384
+29879181_2916	228	284	erythrocyte glutathione (GSH) concentration is decreased	Biomarker
+29879181_2916	240	251	glutathione	Chemical
+29879181_2916	253	256	GSH	Chemical
+29879181_2916	302	317	type 2 diabetes	Disease	DOID:9352
+29879181_2916	377	388	glutathione	Chemical
+29879181_2916	377	399	glutathione deficiency	Biomarker
+29879181_2916	403	418	type 2 diabetes	Disease
+29879181_2916	487	490	GSH	Chemical
+29879181_2916	487	505	GSH synthesis rate	Biomarker
+29879181_2916	580	601	uncontrolled diabetes	Disease	not found
+29879181_2916	714	717	GSH	Chemical
+29879181_2916	807	833	reducing GSH concentration	Biomarker
+29879181_2916	816	819	GSH	Chemical
+29879181_2916	872	887	type 2 diabetes	Disease
+29879181_2916	918	954	total erythrocyte glutathione levels	Biomarker
+29879181_2916	936	947	glutathione	Chemical
+29879181_2916	992	1048	concentration of reduced glutathione (GSH) was decreased	Biomarker
+29879181_2916	992	1099	concentration of reduced glutathione (GSH) was decreased and oxidized glutathione (GSSG) levels were higher	Collection
+29879181_2916	1009	1028	reduced glutathione	Chemical
+29879181_2916	1030	1033	GSH	Chemical
+29879181_2916	1053	1073	oxidized glutathione	Chemical
+29879181_2916	1053	1099	oxidized glutathione (GSSG) levels were higher	Biomarker
+29879181_2916	1075	1079	GSSG	Chemical
+29879181_2916	1163	1194	impaired glutathione metabolism	Biomarker
+29879181_2916	1172	1183	glutathione	Chemical
+29879181_2916	1224	1237	hyperglycemia	Disease	DOID:4195
+29879181_2916	1301	1317	oxidative stress	Disease
+29879181_2916	1364	1391	microvascular complications	Biomarker
+29879181_2916	1452	1488	more impaired glutathione metabolism	Biomarker
+29879181_2916	1466	1477	glutathione	Chemical
+29879181_2916	1501	1509	diabetic	Disease	not found
+

@@ -1,0 +1,58 @@
+30186744_29205|t|RSS_IDENT_p_30186744_b_1_7_9
+30186744_29205|a| In addition, we obtained three DElncRNA–nearby target DEmRNA pairs, namely HCG25–KIFC1, LOC105378687–CDC20 and LOC101927043–EPCAM. KIFC1 was widely overexpressed in various cancers such as breast cancer, non‐small‐cell lung cancer and gastric cancer, and was reported to be involved with the development and prognosis of cancers 35, 36, 37. A recent study found that overexpressed KIFC1 was found in HCC and was associated with shorter overall survival time of patients with HCC 38. Upregulated KIFC1 was also found in HCC with both diagnostic and prognostic value for HCC in our study, which provided evidence in support of the previous study. There is no study report on the association between HCC and HCG25. KIFC1 was a nearby target gene of HCG25 and HCG25 was significantly upregulated in HCC and has great diagnostic value for HCC. We speculate that HCG25 may regulate the process of HCC by its cis‐regulatory role on the expression of KIFC1. As one of the key genes associated with the hepatocyte cell cycle, CDC20 has been reported to be involved with the development of HCC 39. Silencing CDC20 could delay hepatocellular mitotic progression and inhibit HCC cell proliferation 40, 41. In this study, both diagnostic and prognostic values of CDC20 for HCC were observed. EPCAM is a cell surface glycoprotein that serves as a marker of cancer stem cells. Upregulated EPCAM has been found in HCC tissues compared with normal liver tissues. Moreover, EPCAM was associated with shorter survival of patients with HCC. We speculate that LOC105378687 and LOC101927043 may play roles in the development of HCC by interacting with CDC20 and EPCAM, respectively. 
+30186744_29205	105	110	HCG25	Gene-protein	HGNC:20196
+30186744_29205	111	116	KIFC1	Gene-protein	HGNC:6389
+30186744_29205	131	136	CDC20	Gene-protein	HGNC:1723
+30186744_29205	154	159	EPCAM	Gene-protein	HGNC:11529
+30186744_29205	161	166	KIFC1	Gene-protein	HGNC:6389
+30186744_29205	161	191	KIFC1 was widely overexpressed	Biomarker
+30186744_29205	203	210	cancers	Disease	DOID:162
+30186744_29205	203	279	cancers such as breast cancer, non‐small‐cell lung cancer and gastric cancer	Collection
+30186744_29205	219	232	breast cancer	Disease	DOID:1612
+30186744_29205	234	260	non‐small‐cell lung cancer	Disease	DOID:3908
+30186744_29205	265	279	gastric cancer	Disease	DOID:10534
+30186744_29205	351	358	cancers	Disease
+30186744_29205	397	416	overexpressed KIFC1	Biomarker
+30186744_29205	411	416	KIFC1	Gene-protein
+30186744_29205	430	433	HCC	Disease	DOID:684
+30186744_29205	505	508	HCC	Disease
+30186744_29205	513	530	Upregulated KIFC1	Biomarker
+30186744_29205	525	530	KIFC1	Gene-protein
+30186744_29205	549	552	HCC	Disease
+30186744_29205	599	602	HCC	Disease
+30186744_29205	727	730	HCC	Disease
+30186744_29205	735	740	HCG25	Gene-protein
+30186744_29205	742	747	KIFC1	Gene-protein
+30186744_29205	776	781	HCG25	Gene-protein
+30186744_29205	786	791	HCG25	Gene-protein
+30186744_29205	786	821	HCG25 was significantly upregulated	Biomarker
+30186744_29205	825	828	HCC	Disease
+30186744_29205	864	867	HCC	Disease
+30186744_29205	887	892	HCG25	Gene-protein
+30186744_29205	921	924	HCC	Disease
+30186744_29205	973	978	KIFC1	Gene-protein
+30186744_29205	1047	1052	CDC20	Gene-protein
+30186744_29205	1047	1052	CDC20	Biomarker	D064199
+30186744_29205	1110	1113	HCC	Disease
+30186744_29205	1118	1133	Silencing CDC20	Drug	not found
+30186744_29205	1128	1133	CDC20	Gene-protein
+30186744_29205	1193	1196	HCC	Disease
+30186744_29205	1280	1285	CDC20	Gene-protein
+30186744_29205	1280	1285	CDC20	Biomarker
+30186744_29205	1290	1293	HCC	Disease
+30186744_29205	1309	1314	EPCAM	Biomarker	D000071858
+30186744_29205	1309	1314	EPCAM	Gene-protein
+30186744_29205	1373	1379	cancer	Disease	DOID:14566|DOID:162
+30186744_29205	1392	1409	Upregulated EPCAM	Biomarker
+30186744_29205	1404	1409	EPCAM	Gene-protein
+30186744_29205	1428	1431	HCC	Disease
+30186744_29205	1486	1491	EPCAM	Biomarker
+30186744_29205	1486	1491	EPCAM	Gene-protein
+30186744_29205	1546	1549	HCC	Disease
+30186744_29205	1569	1581	LOC105378687	Biomarker
+30186744_29205	1569	1598	LOC105378687 and LOC101927043	Collection
+30186744_29205	1586	1598	LOC101927043	Biomarker
+30186744_29205	1636	1639	HCC	Disease
+30186744_29205	1660	1665	CDC20	Gene-protein
+30186744_29205	1670	1675	EPCAM	Gene-protein
+

@@ -1,0 +1,60 @@
+T0	Disease 55 60	tumor
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 75 98	initial stage of cancer
+#2	AnnotatorNotes T1	not found
+T10	Disease 741 747	glioma
+T11	RNA-Noncoding 801 806	AWPPH
+T13	Disease 849 855	glioma
+T15	Disease 917 923	glioma
+T16	Drug 1060 1069	LY2109761
+T18	Disease 1273 1279	glioma
+T2	Disease 124 129	tumor
+T4	Disease 261 267	glioma
+#10	AnnotatorNotes T4	DOID:0060108
+T6	Disease 361 367	glioma
+T3	Drug 30 45	TGF-β signaling
+T5	GeneFamily 30 35	TGF-β
+#4	AnnotatorNotes T5	family:1664
+#7	AnnotatorNotes T2	DOID:162
+R1	Response Arg1:T3 Arg2:T1	
+T7	Biomarker 30 45	TGF-β signaling
+R2	Association Arg1:T7 Arg2:T2	
+T9	Biomarker 173 214	Differential expression of TGF-β isoforms
+T12	GeneFamily 200 205	TGF-β
+R3	Association Arg1:T9 Arg2:T4	
+T14	GeneFamily 302 307	TGF-β
+T17	Biomarker 302 307	TGF-β
+#9	AnnotatorNotes T17	 D016212
+R4	Association Arg1:T17 Arg2:T6	
+T19	GeneFamily 399 404	TGF-β
+T20	Biomarker 399 404	TGF-β
+T21	GeneFamily 409 416	lncRNAs
+#11	AnnotatorNotes T21	family:788
+T22	Biomarker 409 416	lncRNAs
+T8	GeneFamily 575 580	TGF-β
+T23	Gene-Protein 707 713	TGF-β1
+#12	AnnotatorNotes T23	HGNC:11766
+T24	Biomarker 707 713	TGF-β1
+#13	AnnotatorNotes T24	D053773
+T25	Biomarker 718 723	AWPPH
+T26	RNA-Noncoding 718 723	AWPPH
+T27	Gene-Protein 839 845	TGF-β1
+T28	Biomarker 857 877	AWPPH overexpression
+T29	RNA-Noncoding 857 862	AWPPH
+T30	Gene-Protein 890 896	TGF-β1
+T31	Gene-Protein 937 943	TGF-β1
+T32	RNA-Noncoding 993 998	AWPPH
+T33	Drug-Class 1044 1059	TGF-β inhibitor
+T34	Gene-Protein 1044 1049	TGF-β
+#3	AnnotatorNotes T16	C530108
+T35	Biomarker 1153 1173	AWPPH overexpression
+T36	RNA-Noncoding 1153 1158	AWPPH
+T37	Gene-Protein 1229 1234	TGF-β
+T38	Drug 1204 1234	inhibition of endogenous TGF-β
+R6	Response Arg1:T38 Arg2:T18	
+T39	Disease 469 479	malignancy
+#5	AnnotatorNotes T39	DOID:162
+T40	Collection 399 416	TGF-β and lncRNAs
+R7	Association Arg1:T40 Arg2:T39	
+T41	Biomarker 890 907	TGF-β1 expression
+R5	Response Arg1:T16 Arg2:T15	

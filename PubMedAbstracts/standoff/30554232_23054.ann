@@ -1,0 +1,54 @@
+T1	Chemical 90 102	progesterone
+T10	Chemical 581 591	creatinine
+T11	Disease 629 647	sexual dysfunction
+T13	Disease 787 800	schizophrenia
+#4	AnnotatorNotes T13	DOID:5419
+T14	Disease 813 831	sexual dysfunction
+T15	Disease 860 878	sexual dysfunction
+T16	Chemical 1048 1054	oxygen
+T17	Chemical 1056 1058	O₂
+T18	Disease 1135 1153	sexual dysfunction
+T19	Chemical 1192 1204	testosterone
+T2	Disease 163 181	sexual dysfunction
+#11	AnnotatorNotes T2	DOID:1876
+T21	Disease 1273 1291	sexual dysfunction
+T22	Disease 1320 1338	sexual dysfunction
+T24	Chemical 1407 1419	testosterone
+T25	Disease 1458 1476	sexual dysfunction
+T26	Chemical 1575 1587	progesterone
+T27	Chemical 1589 1599	creatinine
+T28	Chemical 1617 1629	testosterone
+T29	Disease 1654 1667	schizophrenia
+T3	Disease 227 245	sexual dysfunction
+T30	Disease 1672 1690	sexual dysfunction
+T5	Chemical 297 307	creatinine
+T6	Disease 398 416	sexual dysfunction
+T7	Chemical 454 466	progesterone
+T8	Chemical 471 481	creatinine
+T9	Chemical 564 576	progesterone
+T4	Biomarker 83 136	median progesterone level was significantly increased
+R1	Association Arg1:T4 Arg2:T2	
+T12	Biomarker 292 343	mean creatinine levels were significantly increased
+T20	Biomarker 558 591	serum progesterone and creatinine
+T23	Biomarker 694 769	number of red blood cells and hemoglobin level were significantly increased
+R3	Association Arg1:T23 Arg2:T13	
+T31	Drug 1080 1101	high hemoglobin level
+R4	Protects-from Arg1:T31 Arg2:T18	
+#1	AnnotatorNotes T31	not found
+T32	Biomarker 1192 1252	testosterone levels were found to be significantly increased
+T33	Biomarker 1402 1425	high testosterone level
+T34	Biomarker 1575 1587	progesterone
+T35	Biomarker 1589 1599	creatinine
+T36	Biomarker 1601 1611	hemoglobin
+T37	Biomarker 1617 1629	testosterone
+#2	AnnotatorNotes T37	D013739
+#3	AnnotatorNotes T36	D006454
+#5	AnnotatorNotes T35	D003404
+#6	AnnotatorNotes T34	D011374
+T38	GeneFamily 724 734	hemoglobin
+#7	AnnotatorNotes T38	family:940
+T39	GeneFamily 1085 1095	hemoglobin
+T40	GeneFamily 1601 1611	hemoglobin
+T41	GeneFamily 1013 1023	hemoglobin
+T42	GeneFamily 1029 1039	hemoglobin
+T43	Biomarker 454 488	progesterone and creatinine levels

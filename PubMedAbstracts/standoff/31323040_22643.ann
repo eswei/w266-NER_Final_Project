@@ -1,0 +1,74 @@
+T1	Disease 98 105	cancers
+#1	AnnotatorNotes T1	DOID:162
+T10	Disease 523 552	pancreaticobiliary malignancy
+#2	AnnotatorNotes T10	not found
+T11	Disease 554 557	PBC
+T12	Disease 571 588	esophageal cancer
+T13	Disease 599 614	cervical cancer
+#5	AnnotatorNotes T13	DOID:4362
+T14	Disease 616 618	CC
+#6	AnnotatorNotes T14	DOID:4362
+T16	Disease 745 769	hepatocellular carcinoma
+#7	AnnotatorNotes T16	DOID:684
+T17	Disease 770 773	HCC
+T18	Disease 839 853	gastric cancer
+#9	AnnotatorNotes T18	DOID:10534
+T19	Disease 855 857	GC
+T20	Disease 897 919	malignant mesothelioma
+#11	AnnotatorNotes T20	DOID:1790
+T21	Disease 921 925	MMCS
+T24	Disease 1025 1041	meningioma tumor
+#13	AnnotatorNotes T24	DOID:3565
+T26	Disease 1155 1166	LUAD cancer
+#14	AnnotatorNotes T26	DOID:3910
+T3	Disease 209 226	colorectal cancer
+#15	AnnotatorNotes T3	DOID:9256
+T4	Disease 228 231	CRC
+T6	Disease 359 387	oral squamous cell carcinoma
+#17	AnnotatorNotes T6	DOID:0050866
+T8	Disease 471 488	esophageal cancer
+#18	AnnotatorNotes T8	DOID:5041
+T9	Disease 510 517	cancers
+T2	Biomarker 61 85	dysregulation of MCM1–10
+T5	Gene-Protein 78 85	MCM1–10
+#3	AnnotatorNotes T5	HGNC:11291,HGNC:6944, HGNC:6945, HGNC:6947, HGNC:6948, HGNC:6949, HGNC:6950, HGNC:16147, HGNC:21484,HGNC:18043
+T7	Gene-Protein 201 205	MCM2
+#8	AnnotatorNotes T7	HGNC:6944
+T15	Gene-Protein 292 296	MCM3
+#10	AnnotatorNotes T15	HGNC:6945
+T22	Gene-Protein 411 415	MCM4
+#12	AnnotatorNotes T22	HGNC:6947
+T23	Gene-Protein 660 664	MCM5
+#16	AnnotatorNotes T23	HGNC:6948
+T25	Gene-Protein 689 693	MCM6
+#20	AnnotatorNotes T25	HGNC:6949
+T27	Gene-Protein 795 799	MCM7
+#21	AnnotatorNotes T27	HGNC:6950
+T28	GeneFamily 987 993	MCM2–7
+#22	AnnotatorNotes T28	family:1998
+T29	Gene-Protein 1138 1145	MCM1–10
+R1	Association Arg1:T2 Arg2:T1	
+T30	Biomarker 177 205	increased expression of MCM2
+#23	AnnotatorNotes T4	DOID:9256
+R2	Association Arg1:T30 Arg2:T3	
+T31	Biomarker 292 326	MCM3 immune-histochemical staining
+R3	Association Arg1:T31 Arg2:T6	
+T32	Biomarker 411 415	MCM4
+#24	AnnotatorNotes T32	C099243
+R4	Association Arg1:T32 Arg2:T8	
+T33	Biomarker 660 664	MCM5
+#4	AnnotatorNotes T33	C489423
+#19	AnnotatorNotes T17	DOID:684
+T34	Biomarker 689 693	MCM6
+#25	AnnotatorNotes T34	C103258
+T35	Biomarker 795 799	MCM7
+#26	AnnotatorNotes T35	C101624
+R5	Association Arg1:T34 Arg2:T16	
+R6	Association Arg1:T35 Arg2:T38	
+#27	AnnotatorNotes T19	DOID:10534
+#28	AnnotatorNotes T21	DOID:1790
+T36	Biomarker 971 993	Deregulation of MCM2–7
+T37	Biomarker 1121 1151	deregulations of MCM1–10 genes
+R7	Association Arg1:T37 Arg2:T26	
+R8	Association Arg1:T36 Arg2:T24	
+T38	Collection 839 926	gastric cancer (GC) [ 35 ], and altered diagnosis between malignant mesothelioma (MMCS)

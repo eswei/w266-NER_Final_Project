@@ -1,0 +1,29 @@
+30333048_9923|t|RSS_IDENT_s_30333048_b_1_3
+30333048_9923|a| Results Genetic analyses We identified 13 consensus variants by WGS analysis (Table 1 and Additional file 1). Among them, 11 of the 13 variants were insertion/deletion, which might be misaligned false positive variant calls. The remaining two variants were MUC5B (c.7843G > A:p.G2615S) and LRRK2 (c.4322G > A:p.R1441H). Mucin 5B, oligomeric mucus/gelforming (MUC5B) has been reported as a susceptibility gene for pulmonary fibrosis [ 4 ]. Therefore, the results of WGS indicated that LRRK2 (c.4322G > A: p.R1441H) is a causative mutation for families A and B. Sanger sequencing validation identified eight symptomatic patients (A-II-2, A-II-3, A-II-5, A-II-6, A-II-7, B-III-2, B-III-6, and B-III-8) with p.R1441H, and four asymptomatic individuals (A-II-1, A-II-9, A-III-1, B-III-3) without p.R1441H, which signals complete segregation of p.R1441H in families A and B (Fig. 1b). In addition, Sanger sequencing revealed a homozygous mutation in five patients (A-II-3, A-II-5, A-II-6, B-III-6, and B-III-8) and a heterozygous mutation in three patients (A-II-2, A-II-7, and B-III-2; Additional file 1: Figure S1). There were no pathogenic mutations, as well as risk variants and haplotypes, including SNCA, PAKR16, BST1, and MAPT, related to familial PD except LRRK2 p.R1441H in our WGS reads. Haplotype analysis indicated that patients from families A and B shared a common haplotype in the region of between D12S2080 and D12S2522, which signals a founder effect (Additional file 1: Table S2). Table 1 Variant filtering of whole genome sequencing (WGS) reads Family A Family B ID A-II-2 A-II-6 B-III-2 B-III-6 Phenotype PD PD PD PD Mean depth of coverage 31.30 31.66 29.65 33.11 Exonic or splicing variants 20,330 20,417 20,594 20,680 Frequency < 0.0001 245 260 286 244 Consensus variants of each families 89 85 Consensus variants of all subjects 13 The variants detected in WGS were filtered using our criteria: (1) located in exons or splicing sites; (2) frequencies from variant databases (ExAC, Exome Variant Server, and HGVD) less than 0.0001. Consensus variants were selected regardless of zygosity
+30333048_9923	285	290	MUC5B	Gene-protein	HGNC:7516
+30333048_9923	292	303	c.7843G > A	Variant
+30333048_9923	292	312	c.7843G > A:p.G2615S	Collection
+30333048_9923	304	312	p.G2615S	Variant	p.Gly2615Ser
+30333048_9923	318	323	LRRK2	Gene-protein	HGNC:18618
+30333048_9923	325	336	c.4322G > A	Variant
+30333048_9923	325	345	c.4322G > A:p.R1441H	Collection
+30333048_9923	337	345	p.R1441H	Variant	p.Arg1441His
+30333048_9923	348	385	Mucin 5B, oligomeric mucus/gelforming	Biomarker	C524578
+30333048_9923	348	385	Mucin 5B, oligomeric mucus/gelforming	Gene-protein	HGNC:7516
+30333048_9923	387	392	MUC5B	Gene-protein
+30333048_9923	441	459	pulmonary fibrosis	Disease	DOID:3770
+30333048_9923	512	517	LRRK2	Gene-protein	HGNC:18618
+30333048_9923	519	530	c.4322G > A	Variant
+30333048_9923	519	540	c.4322G > A: p.R1441H	Collection
+30333048_9923	532	540	p.R1441H	Variant
+30333048_9923	732	740	p.R1441H	Variant
+30333048_9923	732	875	p.R1441H, and four asymptomatic individuals (A-II-1, A-II-9, A-III-1, B-III-3) without p.R1441H, which signals complete segregation of p.R1441H	Collection
+30333048_9923	819	827	p.R1441H	Variant
+30333048_9923	867	875	p.R1441H	Variant
+30333048_9923	1227	1231	SNCA	Gene-protein	HGNC:11138
+30333048_9923	1241	1245	BST1	Gene-protein	HGNC:1118
+30333048_9923	1251	1255	MAPT	Gene-protein	HGNC:6893
+30333048_9923	1268	1279	familial PD	Disease	not found
+30333048_9923	1287	1292	LRRK2	Gene-protein
+30333048_9923	1293	1301	p.R1441H	Variant
+

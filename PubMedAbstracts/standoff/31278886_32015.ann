@@ -1,0 +1,65 @@
+T0	Disease 30 41	Lung cancer
+#1	AnnotatorNotes T0	DOID:1324
+T1	Disease 154 165	lung cancer
+#2	AnnotatorNotes T1	DOID:1324
+T12	Disease 987 1026	Lung ADC with EGFR‐activating mutations
+#4	AnnotatorNotes T12	not found
+T14	Drug 1045 1054	gefitinib
+T15	Disease 1108 1135	EGFR‐nonmutated lung cancer
+#6	AnnotatorNotes T15	not found
+T22	Disease 1543 1551	lung ADC
+#10	AnnotatorNotes T22	DOID:3910
+T23	Disease 1556 1564	lung SCC
+#11	AnnotatorNotes T23	DOID:3907
+T25	Disease 1632 1635	ADC
+T26	Disease 1653 1656	SCC
+#13	AnnotatorNotes T26	DOID:1749
+T3	Disease 421 432	lung cancer
+T5	Disease 616 627	lung cancer
+T8	Disease 775 799	hepatocellular carcinoma
+#16	AnnotatorNotes T8	DOID:684
+T9	Disease 846 857	lung cancer
+T4	Gene-Protein 325 329	UCK2
+#5	AnnotatorNotes T4	HGNC:12562
+T2	Gene-Protein 396 400	UCK2
+T6	Gene-Protein 521 525	UCK2
+T7	Gene-Protein 648 652	UCK2
+T11	Gene-Protein 838 842	UCK2
+T13	Gene-Protein 742 746	UCK2
+T17	Gene-Protein 1465 1469	UCK2
+T19	Gene-Protein 1315 1319	UCK2
+T21	Gene-Protein 904 908	UCK2
+T24	Gene-Protein 1058 1062	UCK2
+T27	Gene-Protein 1524 1528	UCK2
+T28	Gene-Protein 1582 1586	UCK2
+T16	Disease 1200 1211	lung cancer
+T18	Biomarker 309 329	upregulation of UCK2
+T29	Biomarker 396 400	UCK2
+R1	Prognostic-Poor Arg1:T18 Arg2:T1	
+R2	Association Arg1:T29 Arg2:T3	
+T30	Biomarker 498 525	elevated expression of UCK2
+R3	Prognostic-Poor Arg1:T30 Arg2:T5	
+T31	Biomarker 742 746	UCK2
+R4	Association Arg1:T31 Arg2:T8	
+T10	Gene-Protein 929 933	EGFR
+#3	AnnotatorNotes T10	HGNC:3236
+T32	Gene-Protein 967 971	EGFR
+T33	Gene-Protein 1108 1112	EGFR
+T34	Gene-Protein 1001 1005	EGFR
+T20	Biomarker 1577 1597	high UCK2 expression
+#7	AnnotatorNotes T14	CHEMBL939
+R5	Response Arg1:T14 Arg2:T12	
+T35	Biomarker 648 652	UCK2
+#8	AnnotatorNotes T29	C483834
+T36	Biomarker 1146 1163	Long‐term smoking
+R6	Risk-Factor Arg1:T36 Arg2:T16	
+#9	AnnotatorNotes T25	DOID:299
+T37	Biomarker 1308 1330	higher UCK2 expression
+T38	Biomarker 1505 1528	high expression of UCK2
+T39	Biomarker 1058 1062	UCK2
+R7	Association Arg1:T39 Arg2:T15	
+R8	Association Arg1:T20 Arg2:T25	
+T40	Biomarker 1288 1303	smoking history
+T41	Biomarker 1422 1429	smoking
+T42	Biomarker 1451 1469	expression of UCK2
+T43	Biomarker 1532 1539	smoking

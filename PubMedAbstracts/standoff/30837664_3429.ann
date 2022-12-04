@@ -1,0 +1,39 @@
+T0	Disease 118 131	schizophrenia
+#1	AnnotatorNotes T0	DOID:5419
+T10	Disease 841 854	schizophrenia
+T16	Disease 1086 1099	schizophrenic
+T18	Disease 1182 1231	cortical electroencephalogram (EEG) abnormalities
+#9	AnnotatorNotes T18	not found
+T2	Chemical 234 241	calcium
+T5	Disease 407 420	schizophrenia
+T6	Disease 474 503	schizophrenia-like impairment
+#12	AnnotatorNotes T6	not found
+T7	Chemical 625 632	calcium
+T8	Disease 767 780	schizophrenia
+T1	Biomarker 145 335	reductions in the levels of two activity-dependent markers in TRN GABAergic neurons, the calcium binding protein parvalbumin (PV) and extracellular matrix structures called perineuronal nets
+R1	Association Arg1:T1 Arg2:T0	
+T3	Gene-Protein 258 269	parvalbumin
+#3	AnnotatorNotes T3	HGNC:9704
+T4	Gene-Protein 271 273	PV
+#4	AnnotatorNotes T4	HGNC:9704
+T9	Biomarker 354 390	mutations in the crystallin βB2 gene
+R2	Association Arg1:T9 Arg2:T20	
+T13	Gene-Protein 432 434	PV
+T19	Gene-Protein 371 385	crystallin βB2
+#5	AnnotatorNotes T19	HGNC:2398
+T20	Collection 407 503	schizophrenia reduce TRN-PV neuron density and are associated with schizophrenia-like impairment
+T21	Gene-Protein 582 589	CACNAI1
+T22	Biomarker 582 673	CACNAI1, a gene encoding the low-threshold calcium channel CaV3.3 which is highly expressed
+R3	Risk-Factor Arg1:T22 Arg2:T8	
+T23	Gene-Protein 872 877	ErbB4
+T24	Gene-Protein 888 900	somatostatin
+T25	Gene-Protein 902 905	SOM
+T11	Gene-Protein 991 993	PV
+T12	Gene-Protein 1003 1006	SOM
+#2	AnnotatorNotes T12	HGNC:11329
+T14	Biomarker 982 1015	TRN GABA/PV and GABA/SOM neurons,
+R5	Association Arg1:T14 Arg2:T16	
+T15	Biomarker 1127 1165	changes in the activity of TRN neurons
+#6	AnnotatorNotes T16	DOID:5419
+T17	Gene-Protein 641 647	CaV3.3
+#7	AnnotatorNotes T17	HGNC:1396

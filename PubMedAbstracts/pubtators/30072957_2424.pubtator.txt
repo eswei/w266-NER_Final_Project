@@ -1,0 +1,50 @@
+30072957_2424|t|RSS_IDENT_p_30072957_b_1_1_3
+30072957_2424|a| Angiopoietin-like protein 8 (ANGPTL8), also known as betatrophin, lipasin, TD26 and refeeding-induced fat and liver (RIFL), is a secreted protein of 198 amino acids primarily expressed in liver and adipose tissues ( 3 ). It is a newly identified endocrine regulator associated with insulin resistance, lipid and glucose metabolism, all of which are thought to be involved in the pathogenesis of diabetic kidney disease in type 2 diabetes ( 4 ). Animal studies showed that ANGPTL8 was positively related to triglycerides (TG) levels, TG levels were significantly lower in mice lacking ANGPTL8 than in control mice ( 5 ), whereas an overexpression of ANGPTL8 led to an increase in TG levels ( 6 ). A previous cohort study with the largest sample size has proved that circulating levels of ANGPTL8 were significantly higher in type 2 diabetic patients than in control subjects with normal glucose tolerance ( 7 ), in addition, other studies and meta-analysis have also shown that ANGPTL8 was increased in people with type 2 diabetes ( 8 – 15 ). Furthermore, some studies have reported a positive relationship between blood glucose, homeostasis model assessment of insulin resistance (HOMA-IR) and ANGPTL8 in type 2 diabetic patients ( 10 , 11 ). Consequently, these findings above motivated us to speculate that increased circulating levels of ANGPTL8 might be positively related to urine albumin-to- creatinine ratio (ACR) and serve as a novel biomarker for diabetic kidney disease in type 2 diabetes.
+30072957_2424	30	57	Angiopoietin-like protein 8	Gene-protein	HGNC:24933
+30072957_2424	59	66	ANGPTL8	Gene-protein	HGNC:24933
+30072957_2424	83	94	betatrophin	Gene-protein	HGNC:24933
+30072957_2424	96	103	lipasin	Gene-protein	HGNC:24933
+30072957_2424	105	109	TD26	Gene-protein	HGNC:24933
+30072957_2424	114	145	refeeding-induced fat and liver	Gene-protein	HGNC:24933
+30072957_2424	147	151	RIFL	Gene-protein	HGNC:24933
+30072957_2424	183	194	amino acids	Chemical
+30072957_2424	276	295	endocrine regulator	Biomarker
+30072957_2424	312	319	insulin	Gene-protein	HGNC:6081
+30072957_2424	312	330	insulin resistance	Biomarker	D007333
+30072957_2424	332	337	lipid	Chemical
+30072957_2424	332	360	lipid and glucose metabolism	Biomarker
+30072957_2424	342	349	glucose	Chemical
+30072957_2424	425	467	diabetic kidney disease in type 2 diabetes	Disease	D003928, DOID:9352	Conjunction
+30072957_2424	502	509	ANGPTL8	Gene-protein
+30072957_2424	502	509	ANGPTL8	Biomarker	C576683
+30072957_2424	536	549	triglycerides	Chemical
+30072957_2424	536	561	triglycerides (TG) levels	Biomarker	D014280
+30072957_2424	551	553	TG	Chemical
+30072957_2424	563	565	TG	Chemical
+30072957_2424	563	597	TG levels were significantly lower	Biomarker
+30072957_2424	614	621	ANGPTL8	Gene-protein
+30072957_2424	661	686	overexpression of ANGPTL8	Biomarker
+30072957_2424	679	686	ANGPTL8	Gene-protein
+30072957_2424	697	718	increase in TG levels	Biomarker
+30072957_2424	709	711	TG	Chemical
+30072957_2424	817	824	ANGPTL8	Gene-protein
+30072957_2424	817	850	ANGPTL8 were significantly higher	Biomarker
+30072957_2424	854	869	type 2 diabetic	Disease	DOID:9352
+30072957_2424	916	923	glucose	Chemical
+30072957_2424	1007	1014	ANGPTL8	Gene-protein
+30072957_2424	1007	1028	ANGPTL8 was increased	Biomarker
+30072957_2424	1044	1059	type 2 diabetes	Disease	DOID:9352
+30072957_2424	1144	1157	blood glucose	Biomarker
+30072957_2424	1150	1157	glucose	Chemical
+30072957_2424	1159	1209	homeostasis model assessment of insulin resistance	Biomarker
+30072957_2424	1191	1198	insulin	Gene-protein
+30072957_2424	1224	1231	ANGPTL8	Biomarker
+30072957_2424	1224	1231	ANGPTL8	Gene-protein
+30072957_2424	1235	1250	type 2 diabetic	Disease
+30072957_2424	1339	1378	increased circulating levels of ANGPTL8	Biomarker
+30072957_2424	1371	1378	ANGPTL8	Gene-protein
+30072957_2424	1410	1444	urine albumin-to- creatinine ratio	Biomarker
+30072957_2424	1416	1423	albumin	Gene-protein	HGNC:399
+30072957_2424	1428	1438	creatinine	Chemical
+30072957_2424	1486	1528	diabetic kidney disease in type 2 diabetes	Disease	Conjunction
+

@@ -1,0 +1,33 @@
+29875423_7279|t|RSS_IDENT_p_29875423_b_1_3_3
+29875423_7279|a| We additionally identified five patients with pathogenic variations in ARS genes (nomenclature according to Human Genome Variation Society [HGVS] guidelines): P1, female, died at age 4 months, compound heterozygous pathogenic variations in IARS (NM_002161.5): c.1305G>C p.(Trp435Cys) and c.3377dup p.(Asn1126fs) P2, male, now age 5 years, compound heterozygous pathogenic variations in IARS (NM_002161.5): c.1305G>C p.(Trp435Cys) and c.3377dup p.(Asn1126fs). The parents originate from the same region as P1, which may suggest a founder effect for their common pathogenic variation P3, female, now age 5.5 years, compound heterozygous pathogenic variations in LARS (NM_020117.10): c.3420del p.(Ile1141fs) and c.1283C>T p.(Pro428Leu) P4, male, died at age 4 years, compound heterozygous pathogenic variations in KARS (NM_001130089.1): c1732_1744delGGCATTGATCGAG, p.(Gly578SerfsX20) and c.683C>T p.(Pro228Leu) P5, male, now age 4 years, compound heterozygous pathogenic variations in QARS (NM_005051.2): c.2084+2_2084+3del p.(?) and c.793C>T p.(Arg25Cys)
+29875423_7279	101	104	ARS	Genefamily	family:130
+29875423_7279	270	274	IARS	Gene-protein	HGNC:5330
+29875423_7279	290	299	c.1305G>C	Variant
+29875423_7279	290	341	c.1305G>C p.(Trp435Cys) and c.3377dup p.(Asn1126fs)	Collection
+29875423_7279	300	313	p.(Trp435Cys)	Variant	p.Trp435Cys
+29875423_7279	318	327	c.3377dup	Variant
+29875423_7279	328	341	p.(Asn1126fs)	Variant	p.Asn1126fs
+29875423_7279	416	420	IARS	Gene-protein
+29875423_7279	436	445	c.1305G>C	Variant
+29875423_7279	436	486	c.1305G>C p.(Trp435Cys) and c.3377dup p.(Asn1126fs	Collection
+29875423_7279	446	458	p.(Trp435Cys	Variant
+29875423_7279	464	473	c.3377dup	Variant
+29875423_7279	474	487	p.(Asn1126fs)	Variant	p.Asn1126fs
+29875423_7279	690	694	LARS	Gene-protein	HGNC:6512
+29875423_7279	711	720	c.3420del	Variant
+29875423_7279	711	762	c.3420del p.(Ile1141fs) and c.1283C>T p.(Pro428Leu)	Collection
+29875423_7279	721	734	p.(Ile1141fs)	Variant	p.Ile1141fs
+29875423_7279	739	748	c.1283C>T	Variant
+29875423_7279	749	762	p.(Pro428Leu)	Variant	p.Pro428Leu
+29875423_7279	841	845	KARS	Gene-protein	HGNC:6215
+29875423_7279	864	890	c1732_1744delGGCATTGATCGAG	Variant
+29875423_7279	864	937	c1732_1744delGGCATTGATCGAG, p.(Gly578SerfsX20) and c.683C>T p.(Pro228Leu)	Collection
+29875423_7279	892	910	p.(Gly578SerfsX20)	Variant	p.Gly578SerfsTer20
+29875423_7279	915	923	c.683C>T	Variant
+29875423_7279	924	937	p.(Pro228Leu)	Variant	p.Pro228Leu
+29875423_7279	1012	1016	QARS	Gene-protein	HGNC:9751
+29875423_7279	1032	1050	c.2084+2_2084+3del	Variant
+29875423_7279	1032	1082	c.2084+2_2084+3del p.(?) and c.793C>T p.(Arg25Cys)	Collection
+29875423_7279	1061	1069	c.793C>T	Variant
+29875423_7279	1070	1082	p.(Arg25Cys)	Variant	p.Arg25Cys
+

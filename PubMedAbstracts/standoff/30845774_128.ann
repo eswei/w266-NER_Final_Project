@@ -1,0 +1,73 @@
+T1	Disease 89 101	pre-diabetic
+#1	AnnotatorNotes T1	D011236
+T11	Biomarker 330 358	low SIRT6 protein expression
+T12	Biomarker 363 583	high expression of nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB), peroxisome proliferator-activated receptor gamma (PPAR-γ), and sterol regulatory element-binding transcription factor 1 (SREBP-1)
+T13	Chemical 517 523	sterol
+T14	Disease 585 597	Obese pre-DM
+#4	AnnotatorNotes T14	DOID:9970,D011236
+T16	Biomarker 614 765	high values of glucose, insulin resistance (HOMA-IR), C reactive protein (CRP), nitrotyrosine, tumor necrosis factor-α (TNF-α) and interleukin 6 (IL-6)
+T17	Chemical 629 636	glucose
+T18	Chemical 694 707	nitrotyrosine
+T2	Disease 103 109	pre-DM
+#9	AnnotatorNotes T2	D011236
+T20	Biomarker 771 792	low values of insulin
+T22	Disease 838 850	obese pre-DM
+T27	Disease 992 998	pre-DM
+T28	Biomarker 1046 1051	SIRT6
+T30	Disease 1125 1137	obese pre-DM
+T5	Disease 202 220	obese pre-diabetic
+#21	AnnotatorNotes T5	DOID:9970,D011236
+T9	Disease 301 313	obese pre-DM
+#25	AnnotatorNotes T9	DOID:9970,D011236
+T33	Gene-Protein 40 49	sirtuin 6
+#2	AnnotatorNotes T33	HGNC:14934
+T34	Gene-Protein 51 56	SIRT6
+#3	AnnotatorNotes T34	HGNC:14934
+T35	Gene-Protein 156 161	SIRT6
+T36	Gene-Protein 908 913	SIRT6
+T37	Gene-Protein 1046 1051	SIRT6
+T38	GeneFamily 446 451	NF-κB
+T39	GeneFamily 382 444	nuclear factor kappa-light-chain-enhancer of activated B cells
+T40	Gene-Protein 454 502	peroxisome proliferator-activated receptor gamma
+T4	Collection 330 583	low SIRT6 protein expression and high expression of nuclear factor kappa-light-chain-enhancer of activated B cells (NF-κB), peroxisome proliferator-activated receptor gamma (PPAR-γ), and sterol regulatory element-binding transcription factor 1 (SREBP-1)
+T6	Gene-Protein 504 510	PPAR-γ
+T7	Gene-Protein 575 582	SREBP-1
+T8	Gene-Protein 517 573	sterol regulatory element-binding transcription factor 1
+R1	Association Arg1:T4 Arg2:T9	
+T10	Gene-Protein 334 339	SIRT6
+T15	Collection 614 792	high values of glucose, insulin resistance (HOMA-IR), C reactive protein (CRP), nitrotyrosine, tumor necrosis factor-α (TNF-α) and interleukin 6 (IL-6), and low values of insulin
+R2	Association Arg1:T15 Arg2:T14	
+T25	GeneFamily 935 940	NF-κB
+T26	GeneFamily 942 948	PPAR-γ
+T29	Gene-Protein 954 961	SREBP-1
+T24	Gene-Protein 638 645	insulin
+T31	Gene-Protein 688 691	CRP
+T32	Gene-Protein 668 686	C reactive protein
+T19	Gene-Protein 709 732	tumor necrosis factor-α
+T41	Gene-Protein 734 739	TNF-α
+T42	Gene-Protein 760 764	IL-6
+T43	Gene-Protein 745 758	interleukin 6
+T44	Gene-Protein 785 792	insulin
+A1	Conjunction T5
+A2	Conjunction T9
+T45	Drug 259 268	metformin
+#5	AnnotatorNotes T45	CHEMBL1431
+T3	Drug 873 882	metformin
+T23	Drug 1178 1187	metformin
+R4	Mediated-Response Arg1:T23 Arg2:T30	
+R5	Mediator Arg1:T23 Arg2:T28	
+#6	AnnotatorNotes T38	family:1254
+#7	AnnotatorNotes T39	family:1254
+#8	AnnotatorNotes T40	HGNC:9236
+#10	AnnotatorNotes T6	HGNC:9236
+#11	AnnotatorNotes T8	HGNC:11289
+#12	AnnotatorNotes T24	HGNC:6081
+#13	AnnotatorNotes T32	HGNC:2367
+#14	AnnotatorNotes T31	HGNC:2367
+#15	AnnotatorNotes T19	HGNC:11892
+#16	AnnotatorNotes T41	HGNC:11892
+#17	AnnotatorNotes T43	HGNC:6018
+#18	AnnotatorNotes T42	HGNC:6018
+#19	AnnotatorNotes T7	HGNC:11289
+T21	Biomarker 901 924	higher SIRT6 expression
+T46	Biomarker 929 979	lower NF-κB, PPAR-γ, and SREBP-1 expression levels

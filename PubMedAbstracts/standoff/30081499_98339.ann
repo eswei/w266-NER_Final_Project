@@ -1,0 +1,133 @@
+T0	Disease 89 91	AD
+#1	AnnotatorNotes T0	DOID:10652
+T10	Disease 437 440	DLB
+#3	AnnotatorNotes T10	DOID:12217
+T11	Gene-Protein 546 578	Embryonic Lethal Abnormal Vision
+T12	Gene-Protein 579 583	FMRP
+T13	Gene-Protein 584 620	Fragile-X Mental Retardation Protein
+T14	Disease 621 624	FTD
+#7	AnnotatorNotes T14	DOID:9255
+T15	Disease 625 648	Frontotemporal Dementia
+#8	AnnotatorNotes T15	DOID:9255
+T16	Disease 649 653	FTLD
+T17	Disease 654 686	Frontotemporallobar Degeneration
+#10	AnnotatorNotes T17	not found
+T19	Gene-Protein 687 690	FUS
+T2	Disease 92 111	Alzheimer’s Disease
+#13	AnnotatorNotes T2	DOID:10652
+T20	Gene-Protein 691 707	Fused in Sarcoma
+T21	Disease 708 711	FXS
+T23	Disease 731 736	FXTAS
+#17	AnnotatorNotes T23	DOID:0050879
+T27	Disease 841 843	HD
+#21	AnnotatorNotes T27	DOID:12858
+T29	Disease 844 864	Huntington’s Disease
+#23	AnnotatorNotes T29	DOID:12858
+T3	Disease 112 115	ALS
+#24	AnnotatorNotes T3	DOID:0060193
+T31	Disease 1357 1359	PD
+#25	AnnotatorNotes T31	DOID:14330
+T32	Disease 1360 1379	Parkinson’s Disease
+#26	AnnotatorNotes T32	DOID:14330
+T35	Disease 1384 1387	PSN
+T36	Disease 1388 1422	Paraneoplastic Encephalomyelopathy
+#30	AnnotatorNotes T36	not found
+T4	Disease 116 154	Familial Amyotrophic Lateral Sclerosis
+#34	AnnotatorNotes T4	DOID:0060193
+T41	Disease 1457 1460	PND
+T42	Disease 1461 1493	Paraneoplastic Neurodegeneration
+#36	AnnotatorNotes T42	not found
+T43	Disease 1494 1498	POMA
+T44	Disease 1499 1541	Paraneoplastic Opsoclonus Myoclonus Ataxia
+#38	AnnotatorNotes T44	D053578
+T45	Chemical 1675 1698	Reactive Oxygen Species
+T46	Disease 1782 1811	Spinocerebellar Ataxia type 1
+#40	AnnotatorNotes T46	DOID:0050954
+T47	Disease 1812 1815	SCI
+T48	Disease 1816 1834	Spinal Cord Injury
+#42	AnnotatorNotes T48	D013119
+T49	Disease 1857 1880	Spinal Muscular Atrophy
+#43	AnnotatorNotes T49	DOID:12377
+T5	Disease 187 190	ASD
+#44	AnnotatorNotes T5	DOID:0060041
+T51	Chemical 1885 1892	Staufen
+T52	GeneFamily 2021 2028	Staufen
+T6	Disease 191 215	Autism Spectrum Disorder
+#50	AnnotatorNotes T6	DOID:0060041
+T8	Chemical 261 267	Biotin
+T9	Chemical 290 297	Calcium
+T1	Gene-Protein 216 220	BDNF
+T7	Gene-Protein 221 254	Brain-Derived Neurotrophic Factor
+T55	Gene-Protein 283 289	CAMK2A
+T56	Gene-Protein 291 347	alcium/Calmodulin-Dependent Protein Kinase Type II alpha
+T57	GeneFamily 388 392	CPEB
+T58	GeneFamily 393 436	Cytoplasmic Polyadenylation Element Binding
+T59	Disease 441 466	Dementia with Lewy Bodies
+#2	AnnotatorNotes T59	DOID:12217
+T60	ProteinDomain 473 507	Double-stranded RNA-Binding Domain
+T61	ProteinDomain 467 472	dsRBD
+T62	GeneFamily 512 540	Eukaryotic Initiation Factor
+T63	GeneFamily 508 511	eIF
+T64	Gene-Protein 541 545	ELAV
+#4	AnnotatorNotes T16	not found
+T18	Disease 712 730	Fragile-X Syndrome
+#5	AnnotatorNotes T18	DOID:14261
+#6	AnnotatorNotes T21	DOID:14261
+T22	Disease 737 780	Fragile-X-Associated Tremor/Ataxia Syndrome
+#9	AnnotatorNotes T22	DOID:0050879
+T25	GeneFamily 942 981	Heterogeneous Nuclear Ribonucleoprotein
+T28	GeneFamily 936 941	HNRNP
+T65	GeneFamily 989 1038	Insulin-Like Growth Factor-2 mRNA-Binding Protein
+T66	Gene-Protein 982 988	IGF2BP
+T67	ProteinDomain 1050 1067	K-Homology Domain
+T68	ProteinDomain 1039 1049	KH (HNRNP)
+T69	Gene-Protein 1068 1075	KHDRBS1
+T70	Gene-Protein 1076 1143	KH Domain-Containing, RNA Binding, Signal Transduction Associated 1
+T71	Disease 1160 1180	Long-Term Depression
+#11	AnnotatorNotes T71	D036881
+T72	Disease 1156 1159	LTD
+#12	AnnotatorNotes T72	D036881
+T30	GeneFamily 1266 1270	NOVA
+T73	GeneFamily 1271 1304	Neuro-Oncological Ventral Antigen
+T33	Disease 1423 1456	Paraneoplastic Sensory Neuropathy
+#14	AnnotatorNotes T33	not found
+#15	AnnotatorNotes T35	not found
+T34	Disease 1380 1383	PEM
+#16	AnnotatorNotes T34	not found
+#18	AnnotatorNotes T41	not found
+#19	AnnotatorNotes T43	D053578
+T37	ProteinDomain 1584 1602	RNA-Binding Domain
+T38	ProteinDomain 1580 1583	RBD
+T39	Gene-Protein 1607 1626	RNA-Binding Protein
+T40	Gene-Protein 1603 1606	RBP
+T76	GeneFamily 1653 1670	Ribonucleoprotein
+T77	GeneFamily 1649 1652	RNP
+T78	Chemical 1671 1674	ROS
+T79	Gene-Protein 1725 1730	Sam68
+T80	Gene-Protein 1731 1776	Src-Associated Substrate in Mitosis of 68 kDa
+T81	Disease 1777 1781	SCA1
+#20	AnnotatorNotes T81	DOID:0050954
+#22	AnnotatorNotes T47	D013119
+T82	Disease 1853 1856	SMA
+#27	AnnotatorNotes T82	DOID:12377
+T50	GeneFamily 1941 1973	Small Nuclear Ribonucleoproteins
+T83	GeneFamily 1934 1940	snRNPs
+T84	Gene-Protein 1979 2015	Signal Transduction Activator of RNA
+T85	Gene-Protein 1974 1978	STAR
+T86	GeneFamily 2016 2020	Stau
+T87	Gene-Protein 2033 2053	TBP-Associated Facto
+T88	Gene-Protein 2029 2032	TAF
+T89	Gene-Protein 2061 2108	Transactive Response DNA Binding Protein 43 kDa
+T90	Gene-Protein 2055 2060	TDP43
+T91	Gene-Protein 2114 2144	T-cell Intracellular Antigen 1
+T92	Gene-Protein 2109 2113	TIA1
+T93	Gene-Protein 2150 2175	TIA1-Related/Like Protein
+T94	Gene-Protein 2145 2149	TIAR
+T95	Disease 2180 2202	Temporal Lobe Epilepsy
+#28	AnnotatorNotes T95	DOID:3328
+T96	Disease 2176 2179	TLE
+#29	AnnotatorNotes T96	DOID:3328
+T53	Gene-Protein 2207 2234	Translocated in Liposarcoma
+T97	Gene-Protein 2203 2206	TLS
+T24	GeneFamily 1572 1579	Pumilio
+T26	GeneFamily 1568 1571	PUM

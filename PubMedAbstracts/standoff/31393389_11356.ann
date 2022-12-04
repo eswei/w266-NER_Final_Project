@@ -1,0 +1,43 @@
+T0	Chemical 105 107	Mn
+T10	Chemical 348 350	Mn
+T11	Disease 361 364	HCC
+T12	Chemical 498 500	Mn
+T14	Disease 512 515	HCC
+T15	Chemical 530 532	Mn
+T17	Disease 543 546	HCC
+T18	Disease 671 684	breast cancer
+#8	AnnotatorNotes T18	DOID:1612
+T2	Disease 119 122	HCC
+T20	Chemical 707 713	nickel
+T21	Chemical 715 717	Ni
+T22	Disease 843 856	Breast cancer
+#12	AnnotatorNotes T22	DOID:1612
+T24	Chemical 878 882	Zinc
+T25	Chemical 884 886	Zn
+T27	Disease 1194 1199	tumor
+#16	AnnotatorNotes T27	DOID:162
+T4	Chemical 138 140	Mn
+T5	Disease 151 154	HCC
+T6	Chemical 221 223	Mn
+T8	Disease 234 240	tumors
+#20	AnnotatorNotes T8	DOID:162
+T1	Biomarker 105 114	Mn levels
+R1	Association Arg1:T1 Arg2:T2	
+#1	AnnotatorNotes T2	DOID:684
+T3	Biomarker 138 147	Mn levels
+R2	Association Arg1:T3 Arg2:T5	
+T7	Biomarker 221 230	Mn levels
+R3	Association Arg1:T7 Arg2:T8	
+T9	Biomarker 342 357	serum Mn levels
+R4	Association Arg1:T9 Arg2:T11	
+T13	Biomarker 498 507	Mn levels
+R5	Association Arg1:T13 Arg2:T14	
+T16	Biomarker 530 539	Mn levels
+R6	Association Arg1:T16 Arg2:T17	
+T19	Biomarker 700 733	higher nickel (Ni) level in serum
+R7	Association Arg1:T19 Arg2:T18	
+T23	Biomarker 872 901	lower Zinc (Zn) level in hair
+R8	Association Arg1:T23 Arg2:T22	
+T28	Drug 1033 1053	Zinc supplementation
+#2	AnnotatorNotes T28	not found
+R9	Protects-from Arg1:T28 Arg2:T27	

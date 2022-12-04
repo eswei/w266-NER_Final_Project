@@ -1,0 +1,60 @@
+T1	Disease 134 137	DPN
+T10	Disease 814 817	DPN
+T13	Disease 921 924	DPN
+T15	Drug 972 981	vitamin A
+T16	Disease 1053 1056	DPN
+T18	Chemical 1169 1176	glucose
+T19	Disease 1249 1252	DPN
+T21	Disease 1343 1346	DPN
+T23	Drug 1428 1437	diosgenin
+T24	Disease 1482 1524	diabetic peripheral neuropathy in diabetic
+#16	AnnotatorNotes T24	DOID:9743, not found
+T3	Disease 289 292	DPN
+T6	Disease 502 525	chronic pain conditions
+#20	AnnotatorNotes T6	not found
+T7	Disease 531 547	neuropathic pain
+#21	AnnotatorNotes T7	D009437
+T9	Disease 720 728	diabetes
+#22	AnnotatorNotes T9	not found
+T2	Biomarker 66 91	decreased serum NGF level
+R1	Association Arg1:T2 Arg2:T1	
+T4	Gene-Protein 82 85	NGF
+#1	AnnotatorNotes T4	HGNC:7808
+T5	Gene-Protein 139 142	NGF
+T8	Gene-Protein 301 304	NGF
+T11	Gene-Protein 580 583	NGF
+T12	Gene-Protein 889 892	NGF
+T14	Gene-Protein 1144 1147	NGF
+T17	Gene-Protein 1089 1092	NGF
+T20	Gene-Protein 452 455	NGF
+T22	Gene-Protein 1288 1291	NGF
+T26	Collection 502 547	chronic pain conditions like neuropathic pain
+T27	Biomarker 441 462	changes in NGF levels
+R2	Association Arg1:T27 Arg2:T26	
+T28	Biomarker 556 654	Decreased expression of NGF protein and its 2 receptors, TrkA and the neurotrophin receptor p75NTR
+R3	Association Arg1:T28 Arg2:T29	
+T29	Collection 720 817	diabetes, which further confirms that it is associated with the occurrence and development of DPN
+T30	Drug 878 898	increasing NGF level
+#2	AnnotatorNotes T30	not found
+R4	Protects-from Arg1:T30 Arg2:T13	
+T31	Disease 994 1011	injuries in nerve
+#3	AnnotatorNotes T31	not found
+#4	AnnotatorNotes T15	CHEMBL986
+R5	Response Arg1:T15 Arg2:T31	
+T32	Biomarker 1144 1147	NGF
+#5	AnnotatorNotes T32	D020932
+R7	Association Arg1:T32 Arg2:T19	
+T33	Drug 1278 1291	exogenous NGF
+#6	AnnotatorNotes T33	not found
+R8	Response Arg1:T33 Arg2:T21	
+T34	Gene-Protein 1423 1426	NFG
+#7	AnnotatorNotes T23	CHEMBL412437
+R9	Protects-from Arg1:T23 Arg2:T24	
+#8	AnnotatorNotes T1	DOID:9743
+T25	Gene-Protein 352 373	nociceptors receptors
+#9	AnnotatorNotes T25	not found
+T35	Gene-Protein 613 617	TrkA
+#10	AnnotatorNotes T35	HGNC:8031
+T36	Gene-Protein 648 654	p75NTR
+#11	AnnotatorNotes T36	HGNC:7809
+A1	Conjunction T24

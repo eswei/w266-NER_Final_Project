@@ -1,0 +1,106 @@
+T1	Biomarker 42 67	DOCK1 is highly expressed
+T10	Biomarker 610 631	high DOCK1 expression
+T12	Disease 858 862	TNBC
+T13	Disease 905 913	melanoma
+#2	AnnotatorNotes T13	DOID:1909
+T14	Disease 1042 1061	lung adenocarcinoma
+#3	AnnotatorNotes T14	DOID:3910
+T15	Biomarker 1063 1086	claudin-1 re-expression
+T19	Biomarker 1293 1492	down-regulation of invasion/metastasis enhancers (e.g., secreted phosphoprotein 1, cut-like homeobox 1, transforming growth factor alpha, solute carrier family 2 member 3, and placental growth factor
+T2	Disease 71 94	malignant breast cancer
+#7	AnnotatorNotes T2	DOID:1612
+T21	Drug 1596 1623	Overexpression of claudin-4
+T22	Disease 1736 1753	pancreatic cancer
+#9	AnnotatorNotes T22	DOID:1793
+T23	Disease 1768 1781	breast cancer
+#10	AnnotatorNotes T23	DOID:1612
+T27	Disease 1959 1964	tumor
+#13	AnnotatorNotes T27	DOID:162
+T3	Disease 116 120	TNBC
+T5	Disease 284 288	TNBC
+T6	Biomarker 320 329	claudin-1
+T7	Biomarker 479 504	DOCK1-regulated claudin-1
+T8	Disease 532 536	CLBC
+T9	Disease 592 596	CLBC
+T28	Gene-Protein 42 47	DOCK1
+#1	AnnotatorNotes T28	HGNC:2987
+T29	Gene-Protein 150 155	DOCK1
+T30	Gene-Protein 363 368	DOCK1
+T31	Gene-Protein 234 239	DOCK1
+T32	Gene-Protein 479 484	DOCK1
+T33	Gene-Protein 615 620	DOCK1
+T34	Gene-Protein 637 642	DOCK1
+T35	Gene-Protein 174 183	claudin-1
+#5	AnnotatorNotes T35	HGNC:2032
+T36	Gene-Protein 244 253	claudin-1
+T37	Collection 71 120	malignant breast cancer cells, especially in TNBC
+R1	Association Arg1:T1 Arg2:T37	
+T38	Gene-Protein 495 504	claudin-1
+T39	Gene-Protein 402 407	DOCK1
+#14	AnnotatorNotes T3	DOID:0060081
+T4	Biomarker 205 253	negative correlation between DOCK1 and claudin-1
+R2	Association Arg1:T4 Arg2:T5	
+T40	Biomarker 363 368	DOCK1
+T41	Gene-Protein 320 329	claudin-1
+T42	Gene-Protein 370 379	Claudin-1
+#15	AnnotatorNotes T42	HGNC:2032
+R4	Association Arg1:T10 Arg2:T9	
+T43	Gene-Protein 673 682	claudin-1
+T44	Gene-Protein 1931 1936	DOCK1
+T45	GeneFamily 720 727	caspase
+#16	AnnotatorNotes T45	family:468
+T46	Gene-Protein 990 999	claudin-1
+T47	Gene-Protein 823 832	claudin-1
+T48	Gene-Protein 1063 1072	claudin-1
+#17	AnnotatorNotes T6	D062445
+#18	AnnotatorNotes T40	C099818
+#19	AnnotatorNotes T8	not found
+T17	Drug 806 832	re-expression of claudin-1
+#20	AnnotatorNotes T17	not found
+T11	Disease 1003 1007	CLBC
+T16	Gene-Protein 1269 1277	occludin
+#4	AnnotatorNotes T16	HGNC:8104
+T49	Gene-Protein 1283 1287	ZO-1
+#21	AnnotatorNotes T49	HGNC:11827
+T50	Gene-Protein 1224 1240	thrombospondin 1
+#22	AnnotatorNotes T50	HGNC:11785
+T51	Gene-Protein 1242 1267	deleted in liver cancer 1
+#23	AnnotatorNotes T51	HGNC:2897
+T52	Gene-Protein 1191 1222	connective tissue growth factor
+#24	AnnotatorNotes T52	HGNC:2500
+T18	Biomarker 1128 1288	up-regulation of cancer invasion/metastasis suppressors (e.g., connective tissue growth factor, thrombospondin 1, deleted in liver cancer 1, occludin, and ZO-1)
+T53	Gene-Protein 1349 1374	secreted phosphoprotein 1
+#6	AnnotatorNotes T53	HGNC:11255
+T54	Gene-Protein 1376 1395	cut-like homeobox 1
+T55	Gene-Protein 1397 1429	transforming growth factor alpha
+#25	AnnotatorNotes T55	HGNC:11765
+T56	Gene-Protein 1431 1464	solute carrier family 2 member 3,
+#26	AnnotatorNotes T56	HGNC:11007
+T57	Gene-Protein 1469 1492	placental growth factor
+#27	AnnotatorNotes T57	HGNC:8893
+#28	AnnotatorNotes T54	HGNC:2557
+T20	GeneFamily 1523 1530	claudin
+#8	AnnotatorNotes T20	family:488
+T58	Gene-Protein 1614 1623	claudin-4
+T24	Disease 1800 1831	clear cell renal cell carcinoma
+#11	AnnotatorNotes T24	DOID:4467
+T25	Gene-Protein 1857 1862	CLDN1
+#12	AnnotatorNotes T25	HGNC:2032
+T59	Gene-Protein 1864 1869	CLDN3
+#29	AnnotatorNotes T59	HGNC:2045
+T60	Gene-Protein 1878 1883	CLDN7
+#30	AnnotatorNotes T60	HGNC:2049
+T61	Gene-Protein 1871 1876	CLDN4
+#31	AnnotatorNotes T61	HGNC:2046
+T62	Gene-Protein 1889 1892	ZO1
+#32	AnnotatorNotes T21	not found
+T63	Collection 1736 1831	pancreatic cancer cells [ 28 ], breast cancer cells [ 29 ], and clear cell renal cell carcinoma
+R7	Response Arg1:T21 Arg2:T63	
+T26	Drug 370 389	Claudin-1 knockdown
+#33	AnnotatorNotes T26	not found
+R8	Response Arg1:T26 Arg2:T8	
+T64	Drug 637 652	DOCK1 depletion
+#34	AnnotatorNotes T64	not found
+T65	Collection 637 832	DOCK1 depletion-induced increase in claudin-1 inhibited cell migration and induced caspase activation and cell death, which is consistent with the previous finding that re-expression of claudin-1
+R5	Response Arg1:T65 Arg2:T12	
+#35	AnnotatorNotes T62	HGNC: 11827

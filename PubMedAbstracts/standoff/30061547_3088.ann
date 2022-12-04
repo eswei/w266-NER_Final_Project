@@ -1,0 +1,43 @@
+T0	Disease 47 54	obesity
+#1	AnnotatorNotes T0	DOID:9970
+T10	Disease 712 728	maternal obesity
+#3	AnnotatorNotes T10	D000079262
+T11	Chemical 748 752	iron
+T12	Chemical 964 968	iron
+T13	Disease 1060 1076	maternal obesity
+T14	Chemical 1089 1093	iron
+T15	Chemical 1128 1132	iron
+T2	Chemical 129 133	iron
+T3	Disease 229 236	obesity
+T4	Chemical 329 333	iron
+T5	Chemical 357 361	iron
+T6	Chemical 397 401	iron
+T7	Chemical 546 550	iron
+T8	Disease 596 616	obesity in pregnancy
+T9	Chemical 659 663	iron
+T1	Disease 59 61	ID
+T16	GeneFamily 159 183	proinflammatory cytokine
+#2	AnnotatorNotes T16	not found
+T17	Gene-Protein 184 197	interleukin-6
+#4	AnnotatorNotes T17	HGNC:6018
+T18	Gene-Protein 199 203	IL-6
+#5	AnnotatorNotes T18	HGNC:6018
+T19	Gene-Protein 277 285	hepcidin
+#7	AnnotatorNotes T19	HGNC:15598
+T20	Gene-Protein 446 454	hepcidin
+T21	Gene-Protein 506 514	hepcidin
+T22	Gene-Protein 629 637	hepcidin
+T23	Disease 730 742	inflammation
+#6	AnnotatorNotes T23	D007249
+T24	Biomarker 159 225	proinflammatory cytokine interleukin-6 (IL-6), frequently elevated
+T25	Biomarker 446 469	hepcidin is upregulated
+R1	Association Arg1:T24 Arg2:T3	
+T26	Disease 420 438	non-pregnant obese
+T27	Biomarker 629 644	hepcidin excess
+T28	Biomarker 649 685	decreased iron transfer to the fetus
+T29	Collection 629 685	hepcidin excess and decreased iron transfer to the fetus
+R2	Association Arg1:T29 Arg2:T8	
+R3	Association Arg1:T25 Arg2:T26	
+#8	AnnotatorNotes T26	not found
+#9	AnnotatorNotes T8	D000079262
+#10	AnnotatorNotes T1	DOID:2355

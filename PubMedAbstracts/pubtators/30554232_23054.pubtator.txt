@@ -1,0 +1,46 @@
+30554232_23054|t|RSS_IDENT_p_30554232_b_1_4_7
+30554232_23054|a| In this study, a Mann-Whitney U test showed that the median progesterone level was significantly increased in the patient group with sexual dysfunction when compared with the patient group without sexual dysfunction. An independent sample t-test showed that the mean creatinine levels were significantly increased in the non-sexual dysfunction group compared with the sexual dysfunction group, but in both study groups, the progesterone and creatinine levels were in the normal range. These findings support that measurement of serum progesterone and creatinine might not be promising indicators of sexual dysfunction. An independent sample t-test showed that the number of red blood cells and hemoglobin level were significantly increased in patients with schizophrenia and without sexual dysfunction compared with patients with sexual dysfunction, but logistic regression analysis did not support a relationship between these two factors. Red blood cells contain a large amount of hemoglobin, and hemoglobin carries oxygen (O₂), which means that a high hemoglobin level might be a protective factor for sexual dysfunction. Also, following univariate analysis, testosterone levels were found to be significantly increased in patients without sexual dysfunction compared with patients with sexual dysfunction. However, logistic regression analysis did not indicate that a high testosterone level was a protective factor against sexual dysfunction. Therefore, further studies are required that include larger study sizes to determine the role of progesterone, creatinine, hemoglobin, and testosterone levels in patients with schizophrenia and sexual dysfunction. 
+30554232_23054	83	136	median progesterone level was significantly increased	Biomarker
+30554232_23054	90	102	progesterone	Chemical
+30554232_23054	163	181	sexual dysfunction	Disease	DOID:1876
+30554232_23054	227	245	sexual dysfunction	Disease
+30554232_23054	292	343	mean creatinine levels were significantly increased	Biomarker
+30554232_23054	297	307	creatinine	Chemical
+30554232_23054	398	416	sexual dysfunction	Disease
+30554232_23054	454	466	progesterone	Chemical
+30554232_23054	454	488	progesterone and creatinine levels	Biomarker
+30554232_23054	471	481	creatinine	Chemical
+30554232_23054	558	591	serum progesterone and creatinine	Biomarker
+30554232_23054	564	576	progesterone	Chemical
+30554232_23054	581	591	creatinine	Chemical
+30554232_23054	629	647	sexual dysfunction	Disease
+30554232_23054	694	769	number of red blood cells and hemoglobin level were significantly increased	Biomarker
+30554232_23054	724	734	hemoglobin	Genefamily	family:940
+30554232_23054	787	800	schizophrenia	Disease	DOID:5419
+30554232_23054	813	831	sexual dysfunction	Disease
+30554232_23054	860	878	sexual dysfunction	Disease
+30554232_23054	1013	1023	hemoglobin	Genefamily
+30554232_23054	1029	1039	hemoglobin	Genefamily
+30554232_23054	1048	1054	oxygen	Chemical
+30554232_23054	1056	1058	O₂	Chemical
+30554232_23054	1080	1101	high hemoglobin level	Drug	not found
+30554232_23054	1085	1095	hemoglobin	Genefamily
+30554232_23054	1135	1153	sexual dysfunction	Disease
+30554232_23054	1192	1204	testosterone	Chemical
+30554232_23054	1192	1252	testosterone levels were found to be significantly increased	Biomarker
+30554232_23054	1273	1291	sexual dysfunction	Disease
+30554232_23054	1320	1338	sexual dysfunction	Disease
+30554232_23054	1402	1425	high testosterone level	Biomarker
+30554232_23054	1407	1419	testosterone	Chemical
+30554232_23054	1458	1476	sexual dysfunction	Disease
+30554232_23054	1575	1587	progesterone	Chemical
+30554232_23054	1575	1587	progesterone	Biomarker	D011374
+30554232_23054	1589	1599	creatinine	Chemical
+30554232_23054	1589	1599	creatinine	Biomarker	D003404
+30554232_23054	1601	1611	hemoglobin	Biomarker	D006454
+30554232_23054	1601	1611	hemoglobin	Genefamily
+30554232_23054	1617	1629	testosterone	Chemical
+30554232_23054	1617	1629	testosterone	Biomarker	D013739
+30554232_23054	1654	1667	schizophrenia	Disease
+30554232_23054	1672	1690	sexual dysfunction	Disease
+

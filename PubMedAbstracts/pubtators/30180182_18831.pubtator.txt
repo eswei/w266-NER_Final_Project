@@ -1,0 +1,46 @@
+30180182_18831|t|RSS_IDENT_p_30180182_b_1_4_6
+30180182_18831|a| In this study, we revealed that the ZFHX3 SNP rs2106261 minor allele (T) is associated with high AF occurrence but low recurrence after AF ablation. The ZFHX3 SNP rs2106261 was linked to AF onset by a GWAS, but the precise mechanism of association with AF pathogenesis has not been elucidated. Similarly, the mechanisms underlying this discrepancy between onset risk and recurrence risk remain to be revealed. The minor allele of ZFHX3 SNP rs2106261 was also associated with high BMI [ 19 ], but in our study BMI was similar among ZFHX3 SNP rs2106261 genotypes. ZFHX3 knockdown in atrial myocytes was reported to dysregulate calcium homeostasis and increase atrial arrhythmogenesis, ultimately contributing to AF occurrence [ 20 ]. Huang et al. reported that interaction between ZFHX3 SNP and PITX2 SNP. They also reported that ZFHX3 positively regulated PITX2c expression [ 21 ]. The PITX2 regulates process that pulmonary mesenchyme differentiates in myocardium, initiates a phase of rapid proliferation and expands to form the myocardial sheet around the pulmonary vein branches. Overexpression of PITX2 may promote the proliferation of myocardial sleeve around the pulmonary vein branches and increase automaticity from there [ 22 ]. ZFHX3 SNP rs2106261 may modulate PITX2c expression levels and associate with high occurrence of AF. We performed PV isolation and paroxysmal AF patients with ZFHX3 SNP minor allele have lower AF recurrence rate than those without. Given that ZFHX3 SNP acts through PITX2c expression levels, AF trigger in paroxysmal AF patients with ZFHX3 SNP minor allele was related to PV and they easily cured by PVI. 
+30180182_18831	66	71	ZFHX3	Gene-protein	HGNC:777
+30180182_18831	66	102	ZFHX3 SNP rs2106261 minor allele (T)	Biomarker
+30180182_18831	127	129	AF	Disease	DOID:0060224
+30180182_18831	166	168	AF	Disease
+30180182_18831	183	188	ZFHX3	Gene-protein
+30180182_18831	183	202	ZFHX3 SNP rs2106261	Biomarker
+30180182_18831	217	219	AF	Disease
+30180182_18831	283	285	AF	Disease
+30180182_18831	444	479	minor allele of ZFHX3 SNP rs2106261	Biomarker
+30180182_18831	460	465	ZFHX3	Gene-protein
+30180182_18831	505	513	high BMI	Biomarker
+30180182_18831	561	566	ZFHX3	Gene-protein
+30180182_18831	571	580	rs2106261	Variant
+30180182_18831	592	597	ZFHX3	Gene-protein
+30180182_18831	592	607	ZFHX3 knockdown	Drug	not found
+30180182_18831	655	662	calcium	Chemical
+30180182_18831	740	742	AF	Disease
+30180182_18831	809	814	ZFHX3	Gene-protein
+30180182_18831	815	818	SNP	Variant
+30180182_18831	823	828	PITX2	Gene-protein	HGNC:9005
+30180182_18831	829	832	SNP	Variant
+30180182_18831	858	863	ZFHX3	Gene-protein
+30180182_18831	858	863	ZFHX3	Biomarker	C071660
+30180182_18831	885	891	PITX2c	Gene-protein	HGNC:9005
+30180182_18831	885	891	PITX2c	Biomarker	C102447
+30180182_18831	915	920	PITX2	Gene-protein
+30180182_18831	1113	1136	Overexpression of PITX2	Biomarker
+30180182_18831	1131	1136	PITX2	Gene-protein
+30180182_18831	1268	1273	ZFHX3	Gene-protein
+30180182_18831	1268	1287	ZFHX3 SNP rs2106261	Biomarker
+30180182_18831	1301	1307	PITX2c	Gene-protein
+30180182_18831	1364	1366	AF	Disease
+30180182_18831	1398	1411	paroxysmal AF	Disease	DOID:0060224
+30180182_18831	1426	1431	ZFHX3	Gene-protein
+30180182_18831	1426	1448	ZFHX3 SNP minor allele	Biomarker
+30180182_18831	1460	1462	AF	Disease
+30180182_18831	1510	1515	ZFHX3	Gene-protein
+30180182_18831	1516	1519	SNP	Variant
+30180182_18831	1533	1539	PITX2c	Gene-protein
+30180182_18831	1559	1561	AF	Disease
+30180182_18831	1573	1586	paroxysmal AF	Disease
+30180182_18831	1601	1606	ZFHX3	Gene-protein
+30180182_18831	1601	1623	ZFHX3 SNP minor allele	Biomarker
+

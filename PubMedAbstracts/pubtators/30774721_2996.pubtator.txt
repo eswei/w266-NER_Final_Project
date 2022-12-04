@@ -1,0 +1,53 @@
+30774721_2996|t|RSS_IDENT_p_30774721_b_1_1_3
+30774721_2996|a| Adipokines are a group of adipose tissue-derived bioactive molecules that are important in regulating diverse processes such as appetite, metabolism, fat distribution, insulin activity, and inflammation [ 8 ]. Adiponectin, leptin, and resistin are known adipokines. Adiponectin has anti-diabetic properties because it increases insulin sensitivity by reducing inflammation and oxidative stress [ 9 , 10 ]. The insulin-sensitizing properties of adiponectin are important in maintaining the homeostasis of glucose and lipid metabolism [ 9 ]. Low adiponectin levels are closely associated with type 2 diabetes, insulin resistance, obesity, and cardiovascular risk [ 11 ]. Leptin is an adipose tissue-specific adipokine, and it acts as a sensing factor to regulate appetite, glucose homeostasis, energy metabolism, and immune cell functions [ 10 , 12 ]. Leptin is a pro-inflammatory adipokine because it stimulates the activation of monocytes/macrophages and production of pro-inflammatory cytokines [ 12 ]. Leptin also increases ROS production and oxidative stress, which might explain the recently reported increases in cardiovascular disease among diabetic patients [ 12 ]. Elevated leptin levels are therefore considered a risk factor for cardiovascular disease. Resistin is an important mediator of cardiovascular and metabolic pathogenesis. High resistin levels are associated with inflammation [ 13 ], lead to vascular cell dysfunction, and induce ROS synthesis in various cells [ 14 ]. Indeed, a previous study found that poor clinical outcomes were associated with diabetic patients that had significantly elevated serum resistin levels [ 15 ].
+30774721_2996	30	40	Adipokines	Genefamily	not found
+30774721_2996	30	40	Adipokines	Biomarker	D054392
+30774721_2996	198	205	insulin	Gene-protein	HGNC:6081
+30774721_2996	220	232	inflammation	Disease	D007249
+30774721_2996	240	251	Adiponectin	Gene-protein	HGNC:13633
+30774721_2996	253	259	leptin	Gene-protein	HGNC:6553
+30774721_2996	265	273	resistin	Gene-protein	HGNC:20389
+30774721_2996	284	294	adipokines	Genefamily	not found
+30774721_2996	296	307	Adiponectin	Gene-protein
+30774721_2996	296	307	Adiponectin	Drug	D052242
+30774721_2996	358	365	insulin	Gene-protein
+30774721_2996	390	402	inflammation	Disease
+30774721_2996	407	423	oxidative stress	Disease	D018384
+30774721_2996	440	447	insulin	Gene-protein
+30774721_2996	474	485	adiponectin	Gene-protein	HGNC:13633
+30774721_2996	534	541	glucose	Chemical
+30774721_2996	546	551	lipid	Chemical
+30774721_2996	570	592	Low adiponectin levels	Biomarker
+30774721_2996	574	585	adiponectin	Gene-protein
+30774721_2996	621	636	type 2 diabetes	Disease	DOID:9352
+30774721_2996	621	690	type 2 diabetes, insulin resistance, obesity, and cardiovascular risk	Collection
+30774721_2996	638	645	insulin	Gene-protein
+30774721_2996	638	656	insulin resistance	Disease	D007333
+30774721_2996	658	665	obesity	Disease	DOID:9970
+30774721_2996	671	690	cardiovascular risk	Disease	DOID:1287
+30774721_2996	699	705	Leptin	Gene-protein	HGNC:6553
+30774721_2996	736	745	adipokine	Genefamily
+30774721_2996	801	808	glucose	Chemical
+30774721_2996	880	886	Leptin	Gene-protein
+30774721_2996	892	918	pro-inflammatory adipokine	Genefamily	not found
+30774721_2996	999	1025	pro-inflammatory cytokines	Genefamily	not found
+30774721_2996	1034	1040	Leptin	Gene-protein
+30774721_2996	1034	1040	Leptin	Biomarker	D020738
+30774721_2996	1056	1059	ROS	Chemical
+30774721_2996	1075	1091	oxidative stress	Disease
+30774721_2996	1075	1185	oxidative stress, which might explain the recently reported increases in cardiovascular disease among diabetic	Collection
+30774721_2996	1148	1170	cardiovascular disease	Disease	DOID:1287
+30774721_2996	1177	1185	diabetic	Disease	not found
+30774721_2996	1203	1225	Elevated leptin levels	Biomarker
+30774721_2996	1212	1218	leptin	Gene-protein
+30774721_2996	1269	1291	cardiovascular disease	Disease
+30774721_2996	1293	1301	Resistin	Gene-protein	HGNC:20389
+30774721_2996	1293	1301	Resistin	Biomarker	D052243
+30774721_2996	1373	1393	High resistin levels	Biomarker
+30774721_2996	1378	1386	resistin	Gene-protein
+30774721_2996	1414	1426	inflammation	Disease
+30774721_2996	1481	1484	ROS	Chemical
+30774721_2996	1600	1608	diabetic	Disease
+30774721_2996	1641	1671	elevated serum resistin levels	Biomarker
+30774721_2996	1656	1664	resistin	Gene-protein
+

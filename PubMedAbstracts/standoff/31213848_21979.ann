@@ -1,0 +1,54 @@
+T11	Disease 533 536	CRC
+T12	Disease 637 640	CRC
+T13	Disease 701 704	CRC
+T14	RNA-Noncoding 728 737	LINC00707
+T15	RNA-Noncoding 760 769	LINC00707
+T18	RNA-Noncoding 857 866	LINC00707
+T19	RNA-Noncoding 879 888	LINC00707
+T20	RNA-Noncoding 1029 1038	LINC00707
+T21	RNA-Noncoding 1066 1075	LINC00707
+T22	Disease 1079 1082	CRC
+T3	Disease 216 219	CRC
+T4	Disease 253 256	CRC
+T8	Disease 450 462	malignancies
+#14	AnnotatorNotes T8	DOID:162
+T9	Disease 475 478	CRC
+T1	RNA-Noncoding 119 122	H19
+#1	AnnotatorNotes T1	HGNC:4713
+T2	RNA-Noncoding 163 171	miR-200a
+#2	AnnotatorNotes T2	HGNC:31578
+T5	Biomarker 119 122	H19
+#3	AnnotatorNotes T5	C094335
+R1	Association Arg1:T5 Arg2:T3	
+T6	GeneFamily 192 201	β-catenin
+#4	AnnotatorNotes T6	family:1542
+#5	AnnotatorNotes T3	DOID:9256
+T10	RNA-Noncoding 231 234	FTX
+#6	AnnotatorNotes T10	HGNC:37190
+T16	Biomarker 231 234	FTX
+#7	AnnotatorNotes T16	C000620866
+R2	Association Arg1:T16 Arg2:T4	
+T17	RNA-Noncoding 313 320	miR-215
+#8	AnnotatorNotes T17	HGNC:31592
+T23	RNA-Noncoding 360 367	miR-206
+#9	AnnotatorNotes T23	HGNC:31584
+T7	Biomarker 360 432	miR-206 acts as a tumor suppressor, and its expression was downregulated
+R3	Association Arg1:T7 Arg2:T8	
+T24	RNA-Noncoding 480 489	miRNA-206
+T25	Biomarker 480 529	miRNA-206 levels were significantly downregulated
+R4	Association Arg1:T25 Arg2:T11	
+T27	RNA-Noncoding 558 565	miR-206
+T28	RNA-Noncoding 690 697	miR-206
+T29	Biomarker 690 697	miR-206
+R6	Association Arg1:T29 Arg2:T13	
+#11	AnnotatorNotes T14	 HGNC:44691
+T30	Biomarker 728 737	LINC00707
+R7	Association Arg1:T30 Arg2:T13	
+#12	AnnotatorNotes T29	C546087
+T31	RNA-Noncoding 795 802	miR-206
+T32	RNA-Noncoding 834 841	miR-206
+T33	RNA-Noncoding 957 964	miR-206
+T34	RNA-Noncoding 1007 1014	miR-206
+T35	Biomarker 1066 1075	LINC00707
+R8	Association Arg1:T35 Arg2:T22	
+T36	RNA-Noncoding 1200 1207	miR-206

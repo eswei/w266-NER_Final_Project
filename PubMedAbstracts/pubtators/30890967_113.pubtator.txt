@@ -1,0 +1,40 @@
+30890967_113|t|RSS_IDENT_p_30890967_a_1_1
+30890967_113|a| Metabotropic glutamate (mGlu) receptors are considered as candidate drug targets for the treatment of schizophrenia. These receptors form a family of eight subtypes (mGlu1 to −8), of which mGlu1 and −5 are coupled to Gq/₁₁, and all other subtypes are coupled to Gᵢ/ₒ. Here, we discuss the possibility that selective ligands of individual mGlu receptor subtypes may be effective in controlling the core symptoms of schizophrenia, and, in some cases, may impact mechanisms underlying the progression of the disorder. Recent evidence indicates that activation of mGlu1 receptors inhibits dopamine release in the meso-striatal system. Hence, selective positive allosteric modulators (PAMs) of mGlu1 receptors hold promise for the treatment of positive symptoms of schizophrenia. mGlu5 receptors are widely expressed in the CNS and regulate the activity of cells that are involved in the pathophysiology of schizophrenia, such as cortical GABAergic interneurons and microglial cells. mGlu5 receptor PAMs are under development for the treatment of schizophrenia and cater the potential to act as disease modifiers by restraining neuroinflammation. mGlu2 receptors have attracted considerable interest because they negatively modulate 5-HT₂A serotonin receptor signaling in the cerebral cortex. Both mGlu2 receptor PAMs and orthosteric mGlu2/3 receptor agonists display antipsychotic-like activity in animal models, and the latter drugs are inactive in mice lacking mGlu2 receptors. So far, mGlu3 receptors have been left apart as drug targets for schizophrenia. However, activation of mGlu3 receptors boosts mGlu5 receptor signaling, supports neuronal survival, and drives microglial cells toward an antiinflammatory phenotype. This strongly encourages research of mGlu3 receptors in schizophrenia. Finally, preclical studies suggest that mGlu4 receptors might be targeted by novel antipsychotic drugs, whereas studies of mGlu7 and mGlu8 receptors in animal models of psychosis are still at their infancy.
+30890967_113	28	67	Metabotropic glutamate (mGlu) receptors	Genefamily	family:281
+30890967_113	41	50	glutamate	Chemical
+30890967_113	130	143	schizophrenia	Disease	DOID:5419
+30890967_113	194	205	mGlu1 to −8	Gene-protein	HGNC:4593,HGNC:4594,HGNC:4595,HGNC:4596,HGNC:4597,HGNC:4598,HGNC:4599,HGNC:4600
+30890967_113	217	229	mGlu1 and −5	Gene-protein	HGNC:4593,HGNC:4594,HGNC:4595,HGNC:4596,HGNC:4597
+30890967_113	366	379	mGlu receptor	Genefamily	family:281
+30890967_113	442	455	schizophrenia	Disease
+30890967_113	588	603	mGlu1 receptors	Gene-protein	HGNC:4593
+30890967_113	613	621	dopamine	Chemical
+30890967_113	666	732	selective positive allosteric modulators (PAMs) of mGlu1 receptors	Drug-class
+30890967_113	717	732	mGlu1 receptors	Gene-protein	HGNC:4593
+30890967_113	788	801	schizophrenia	Disease
+30890967_113	803	818	mGlu5 receptors	Gene-protein	HGNC:4597
+30890967_113	803	839	mGlu5 receptors are widely expressed	Biomarker
+30890967_113	930	943	schizophrenia	Disease
+30890967_113	1007	1021	mGlu5 receptor	Gene-protein	HGNC:4597
+30890967_113	1070	1083	schizophrenia	Disease
+30890967_113	1151	1168	neuroinflammation	Disease	not found
+30890967_113	1170	1185	mGlu2 receptors	Gene-protein	HGNC:4594
+30890967_113	1256	1281	5-HT₂A serotonin receptor	Gene-protein	HGNC:5293
+30890967_113	1263	1272	serotonin	Chemical
+30890967_113	1321	1335	mGlu2 receptor	Gene-protein	HGNC:4594
+30890967_113	1357	1373	mGlu2/3 receptor	Gene-protein	HGNC:4594, HGNC:4595
+30890967_113	1357	1382	mGlu2/3 receptor agonists	Drug-class
+30890967_113	1487	1502	mGlu2 receptors	Gene-protein
+30890967_113	1512	1527	mGlu3 receptors	Gene-protein	HGNC:4595
+30890967_113	1569	1582	schizophrenia	Disease
+30890967_113	1593	1654	activation of mGlu3 receptors boosts mGlu5 receptor signaling	Biomarker
+30890967_113	1607	1622	mGlu3 receptors	Gene-protein
+30890967_113	1630	1644	mGlu5 receptor	Gene-protein
+30890967_113	1787	1802	mGlu3 receptors	Gene-protein
+30890967_113	1806	1819	schizophrenia	Disease
+30890967_113	1861	1876	mGlu4 receptors	Gene-protein	HGNC:4596
+30890967_113	1861	1876	mGlu4 receptors	Biomarker	C108823
+30890967_113	1904	1923	antipsychotic drugs	Drug-class
+30890967_113	1944	1969	mGlu7 and mGlu8 receptors	Gene-protein
+30890967_113	1990	1999	psychosis	Disease	not found
+

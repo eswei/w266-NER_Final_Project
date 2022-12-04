@@ -1,0 +1,51 @@
+31127154_17315|t|RSS_IDENT_p_31127154_b_1_3_3
+31127154_17315|a| The lack of increase in CSF YKL-40 in the whole DLB group agrees with previous findings in PD and DLB ³³ – ³⁷ , supporting the absence of an increase of this protein in CSF in synucleinopathies. This may suggest a lack of astroglial activation following the α-synuclein pathology. On the other hand, our group and others have shown an increase of CSF YKL-40 in AD and also FTLD-related syndromes early in the disease course ⁵ , ⁷ , ⁸ , ¹⁰ , ³⁵ , ³⁸ , ³⁹ . This contrast between synuclein- and tau-related neurodegenerative dementias suggests that YKL-40 is more involved with this second group of disorders. Moreover, we demonstrate an increase in YKL-40 in DLB patients with concomitant AD copathology when compared with DLB patients without AD copathology, suggesting that it is comorbid AD what is driving astrocytic activation in DLB. In agreement with this finding, we found that YKL-40 levels were highly correlated with t-tau and p-tau levels in DLB groups and that YKL-40 was increased in T+ DLB patients. One possible explanation to the difference in CSF YKL-40 between AD and DLB is that the α-synuclein inclusions observed in astrocytes in DLB may influence the astrocytic response toward neurodegeneration compared to tauopathies such as AD and FTLD ⁴⁰ , ⁴¹ . In addition, the astrocytic response against pathologic protein deposition in DLB seems to be linked to the presence of pathologic tau (p-tau) in the presence of concomitant AD pathology.
+31127154_17315	34	64	lack of increase in CSF YKL-40	Biomarker
+31127154_17315	58	64	YKL-40	Gene-protein	HGNC:1932
+31127154_17315	78	81	DLB	Disease	DOID:12217
+31127154_17315	121	123	PD	Disease	DOID:14330
+31127154_17315	128	131	DLB	Disease
+31127154_17315	206	223	synucleinopathies	Disease	DOID:0050890
+31127154_17315	288	299	α-synuclein	Gene-protein	HGNC:11138
+31127154_17315	365	387	increase of CSF YKL-40	Biomarker
+31127154_17315	381	387	YKL-40	Gene-protein
+31127154_17315	391	393	AD	Disease	DOID:10652
+31127154_17315	391	425	AD and also FTLD-related syndromes	Collection
+31127154_17315	403	425	FTLD-related syndromes	Disease	not found
+31127154_17315	508	517	synuclein	Genefamily	not found
+31127154_17315	508	562	synuclein- and tau-related neurodegenerative dementias	Disease	not found
+31127154_17315	523	526	tau	Gene-protein	HGNC:6893
+31127154_17315	577	583	YKL-40	Gene-protein
+31127154_17315	577	583	YKL-40	Biomarker	C084533
+31127154_17315	666	684	increase in YKL-40	Biomarker
+31127154_17315	678	684	YKL-40	Gene-protein
+31127154_17315	688	720	DLB patients with concomitant AD	Disease	DOID:12217, DOID:10652	Conjunction
+31127154_17315	752	755	DLB	Disease
+31127154_17315	773	775	AD	Disease
+31127154_17315	820	822	AD	Disease
+31127154_17315	864	867	DLB	Disease
+31127154_17315	915	921	YKL-40	Gene-protein
+31127154_17315	915	928	YKL-40 levels	Biomarker
+31127154_17315	957	979	t-tau and p-tau levels	Biomarker
+31127154_17315	959	962	tau	Gene-protein
+31127154_17315	969	972	tau	Gene-protein
+31127154_17315	983	986	DLB	Disease
+31127154_17315	1003	1009	YKL-40	Gene-protein
+31127154_17315	1003	1023	YKL-40 was increased	Biomarker
+31127154_17315	1027	1033	T+ DLB	Disease
+31127154_17315	1090	1100	CSF YKL-40	Biomarker	C084533
+31127154_17315	1094	1100	YKL-40	Gene-protein
+31127154_17315	1109	1111	AD	Disease
+31127154_17315	1109	1119	AD and DLB	Collection
+31127154_17315	1116	1119	DLB	Disease
+31127154_17315	1132	1143	α-synuclein	Gene-protein
+31127154_17315	1132	1177	α-synuclein inclusions observed in astrocytes	Biomarker
+31127154_17315	1181	1184	DLB	Disease
+31127154_17315	1260	1271	tauopathies	Disease	DOID:680
+31127154_17315	1280	1282	AD	Disease
+31127154_17315	1287	1291	FTLD	Disease	D057174
+31127154_17315	1380	1383	DLB	Disease
+31127154_17315	1433	1436	tau	Gene-protein
+31127154_17315	1440	1443	tau	Gene-protein
+31127154_17315	1476	1478	AD	Disease
+

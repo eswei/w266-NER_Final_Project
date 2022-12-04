@@ -1,0 +1,103 @@
+T1	Disease 28 86	Tuberous sclerosis complex–associated renal cell carcinoma
+#1	AnnotatorNotes T1	DOID:13515, DOID:4450
+T10	Biomarker 844 870	germline mutations of TSC2
+T11	Disease 895 902	TSC-RCC
+T12	Disease 935 941	cancer
+#3	AnnotatorNotes T12	DOID:162
+T13	Biomarker 1433 1478	ALK and CRLF2 mRNA expression was upregulated
+T14	Biomarker 1483 1554	CDH1, MAP3K1, RUNX1, SETBP1, and TSC1 mRNA expression was downregulated
+T16	Disease 1563 1571	TSC-RCCs
+T2	Disease 88 95	TSC-RCC
+#7	AnnotatorNotes T2	DOID:13515,DOID:4450
+T20	Disease 1666 1674	TSC-RCCs
+T21	Disease 1736 1743	TSC-RCC
+T3	Disease 188 191	RCC
+#10	AnnotatorNotes T3	DOID:4450
+T4	Biomarker 197 232	genetic alterations of TSC1 or TSC2
+T5	Disease 272 275	TSC
+T6	Disease 407 414	TSC-RCC
+T7	Disease 429 436	TSC-RCC
+T9	Disease 622 630	TSC-RCCs
+#15	AnnotatorNotes T9	DOID:13515,DOID:4450
+T22	Gene-Protein 308 312	mTOR
+#4	AnnotatorNotes T22	HGNC:3942
+T23	Gene-Protein 526 530	mTOR
+T24	Gene-Protein 812 816	mTOR
+T25	Gene-Protein 994 998	CHD8
+#6	AnnotatorNotes T25	HGNC:20153
+T26	Gene-Protein 1000 1008	CRISPLD1
+#11	AnnotatorNotes T26	HGNC:18206
+T27	Gene-Protein 1010 1018	EPB41L4A
+#14	AnnotatorNotes T27	HGNC:13278
+T28	Gene-Protein 1020 1025	GNA11
+#16	AnnotatorNotes T28	HGNC:4379
+T29	Gene-Protein 220 224	TSC1
+#17	AnnotatorNotes T29	HGNC:12362
+T30	Gene-Protein 228 232	TSC2
+#18	AnnotatorNotes T30	HGNC:12363
+#19	AnnotatorNotes T5	DOID:13515
+R1	Association Arg1:T4 Arg2:T5	
+T8	Gene-Protein 866 870	TSC2
+T31	Collection 812 870	mTOR pathway activation and the germline mutations of TSC2
+R2	Association Arg1:T31 Arg2:T11	
+T32	Biomarker 812 835	mTOR pathway activation
+T33	Gene-Protein 1027 1033	NOTCH3
+#2	AnnotatorNotes T33	HGNC:7883
+T34	Gene-Protein 1035 1040	PBRM1
+#12	AnnotatorNotes T34	HGNC:30064
+T35	Gene-Protein 1042 1047	PTPRU
+#13	AnnotatorNotes T35	HGNC:9683
+T36	Gene-Protein 1049 1054	RGS12
+#20	AnnotatorNotes T36	HGNC:9994
+T37	Gene-Protein 1056 1062	SETBP1
+#21	AnnotatorNotes T37	HGNC:15573
+T38	Gene-Protein 1064 1071	SMARCA4
+#22	AnnotatorNotes T38	HGNC:11100
+T39	Gene-Protein 1073 1078	STMN1
+#23	AnnotatorNotes T39	HGNC:6510
+T40	Gene-Protein 1084 1089	ZNRF3
+#24	AnnotatorNotes T40	HGNC:18126
+T41	Biomarker 971 1089	genetic alterations of CHD8, CRISPLD1, EPB41L4A, GNA11, NOTCH3, PBRM1, PTPRU, RGS12, SETBP1, SMARCA4, STMN1, and ZNRF3
+R3	Association Arg1:T41 Arg2:T11	
+T42	Gene-Protein 1141 1145	IWS1
+#25	AnnotatorNotes T42	HGNC:25467
+T43	Gene-Protein 1150 1154	TSC2
+T44	Biomarker 1118 1154	genetic alterations of IWS1 and TSC2
+R4	Association Arg1:T44 Arg2:T11	
+T45	Gene-Protein 1391 1395	mTOR
+T46	GeneFamily 1241 1267	G protein–coupled receptor
+#26	AnnotatorNotes T46	family:139
+T47	GeneFamily 1269 1274	Notch
+#27	AnnotatorNotes T47	family:1689
+T48	GeneFamily 1286 1289	Wnt
+#28	AnnotatorNotes T48	family:360
+T49	GeneFamily 1290 1299	β-catenin
+#29	AnnotatorNotes T49	family:1542
+T50	Gene-Protein 1301 1305	PP2A
+#30	AnnotatorNotes T50	HGNC:9299
+T51	GeneFamily 1382 1386	PI3K
+#31	AnnotatorNotes T51	family:831
+T52	GeneFamily 1387 1390	AKT
+#32	AnnotatorNotes T52	family:1900
+T53	Gene-Protein 1516 1520	TSC1
+T54	Gene-Protein 1504 1510	SETBP1
+T55	Gene-Protein 1441 1446	CRLF2
+#33	AnnotatorNotes T55	HGNC:14281
+T56	Gene-Protein 1433 1436	ALK
+T57	Gene-Protein 1483 1487	CDH1
+#34	AnnotatorNotes T57	HGNC:1748
+T58	Gene-Protein 1489 1495	MAP3K1
+#35	AnnotatorNotes T58	HGNC:6848
+T59	Gene-Protein 1497 1502	RUNX1
+#36	AnnotatorNotes T59	HGNC:10471
+T15	Collection 1433 1554	ALK and CRLF2 mRNA expression was upregulated and CDH1, MAP3K1, RUNX1, SETBP1, and TSC1 mRNA expression was downregulated
+T17	Gene-Protein 1584 1588	mTOR
+A1	Conjunction T1
+A2	Conjunction T2
+A3	Conjunction T7
+A4	Conjunction T9
+R5	Association Arg1:T15 Arg2:T16	
+A5	Conjunction T16
+A6	Conjunction T21
+A7	Conjunction T20
+#5	AnnotatorNotes T56	HGNC:427

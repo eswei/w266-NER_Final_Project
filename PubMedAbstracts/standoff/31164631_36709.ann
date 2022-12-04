@@ -1,0 +1,71 @@
+T1	Disease 560 564	LUSC
+T2	Disease 124 129	NSCLC
+#2	AnnotatorNotes T2	DOID:3908
+T3	Gene-Protein 56 62	SPINT2
+#1	AnnotatorNotes T3	HGNC:11247
+T4	Gene-Protein 170 176	SPINT2
+T5	Gene-Protein 231 237	SPINT2
+T6	Gene-Protein 952 958	SPINT2
+T7	Gene-Protein 331 337	SPINT2
+T8	Disease 543 548	NSCLC
+T9	Disease 252 257	NSCLC
+T10	Biomarker 321 348	Decreased SPINT2 expression
+T11	Disease 968 973	NSCLC
+T12	Gene-Protein 1026 1032	SPINT2
+T13	Biomarker 378 392	tumor invasion
+T14	Biomarker 394 412	distant metastasis
+T15	Biomarker 414 429	differentiation
+T16	Biomarker 435 449	AJCC 8th stage
+T17	Biomarker 470 491	low SPINT2 expression
+T18	Gene-Protein 474 480	SPINT2
+T19	Collection 543 564	NSCLC, LUAD, and LUSC
+R1	Prognostic-Poor Arg1:T17 Arg2:T19	
+T20	Gene-Protein 725 731	SPINT2
+T21	Gene-Protein 599 605	SPINT2
+T22	Biomarker 595 616	low SPINT2 expression
+T23	Gene-Protein 715 720	STYK1
+#3	AnnotatorNotes T23	HGNC:18889
+T24	Biomarker 820 830	high STYK1
+T25	Biomarker 831 841	low SPINT2
+T26	Gene-Protein 835 841	SPINT2
+T27	Collection 820 841	high STYK1/low SPINT2
+T28	Disease 869 874	NSCLC
+T29	Collection 869 889	NSCLC, LUAD and LUSC
+T30	Disease 885 889	LUSC
+R2	Prognostic-Poor Arg1:T27 Arg2:T29	
+T31	Disease 876 880	LUAD
+T32	Gene-Protein 932 937	STYK1
+T33	Biomarker 942 958	decreased SPINT2
+T34	Biomarker 923 937	elevated STYK1
+T35	Collection 923 958	elevated STYK1 and decreased SPINT2
+T36	Gene-Protein 1016 1021	STYK1
+T37	Disease 1002 1006	LUAD
+R3	Association Arg1:T35 Arg2:T11	
+T38	Gene-Protein 1228 1234	SPINT2
+T39	Gene-Protein 1120 1126	SPINT2
+T40	Biomarker 1104 1114	high STYK1
+T41	Biomarker 1115 1132	high SPINT2 group
+T42	Gene-Protein 1168 1174	SPINT2
+T43	Gene-Protein 1157 1162	STYK1
+T44	Disease 1409 1414	NSCLC
+T45	Gene-Protein 1306 1312	SPITN2
+T46	Gene-Protein 1296 1301	STYK1
+T47	Biomarker 1269 1312	expression and function of STYK1 and SPITN2
+T48	Disease 1204 1208	LUSC
+T49	Gene-Protein 1218 1223	STYK1
+T50	Biomarker 1225 1234	ow SPINT2
+T51	Biomarker 1214 1223	low STYK1
+T52	Collection 1214 1234	low STYK1/low SPINT2
+T53	Disease 1142 1146	LUSC
+T54	Biomarker 1023 1032	ow SPINT2
+T55	Biomarker 231 248	SPINT2 expression
+T56	Disease 550 554	LUAD
+#4	AnnotatorNotes T56	DOID:3910
+#5	AnnotatorNotes T1	DOID:3907
+T57	Biomarker 1012 1021	low STYK1
+T58	Biomarker 1152 1162	high STYK1
+T59	Collection 1152 1174	high STYK1/high SPINT2
+T60	Biomarker 1163 1174	high SPINT2
+R4	Prognostic-Good Arg1:T59 Arg2:T53	
+R5	Association Arg1:T55 Arg2:T9	
+R6	Association Arg1:T47 Arg2:T44	

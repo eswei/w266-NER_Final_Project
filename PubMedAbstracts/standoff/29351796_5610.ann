@@ -1,0 +1,82 @@
+T0	Disease 394 400	cancer
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 432 438	tumour
+#2	AnnotatorNotes T1	DOID:162
+T11	Disease 891 905	gastric cancer
+#3	AnnotatorNotes T11	DOID:10534
+T12	Disease 928 934	tumour
+T14	Disease 1005 1008	CRC
+T18	Disease 1110 1113	CRC
+T19	Drug 1186 1190	5-FU
+T2	RNA-Noncoding 483 491	oncomiRs
+T20	Drug 1195 1205	paclitaxel
+T22	Disease 1315 1318	CRC
+T24	Chemical 1373 1382	vitamin D
+T25	Disease 1441 1444	CRC
+T28	Disease 1544 1547	CRC
+T29	Disease 1601 1604	CRC
+T6	Disease 618 624	cancer
+T7	Disease 647 671	hepatocellular carcinoma
+#19	AnnotatorNotes T7	DOID:684
+T9	Disease 782 795	breast cancer
+#20	AnnotatorNotes T9	DOID:1612
+T10	RNA-Noncoding 1583 1589	miR-22
+T13	RNA-Noncoding 1265 1271	miR-22
+T15	RNA-Noncoding 797 803	miR-22
+T17	RNA-Noncoding 907 913	miR-22
+T21	RNA-Noncoding 1010 1016	miR-22
+T23	RNA-Noncoding 529 535	miR-22
+T26	RNA-Noncoding 1069 1075	miR-22
+T5	RNA-Noncoding 673 679	miR-22
+#6	AnnotatorNotes T23	HGNC:31599
+T16	Drug 797 803	miR-22
+T27	Gene-Protein 854 857	Sp1
+#8	AnnotatorNotes T27	HGNC:11205
+T30	Gene-Protein 859 864	CD147
+#9	AnnotatorNotes T30	HGNC:1116
+T31	Gene-Protein 869 874	GLUT1
+#10	AnnotatorNotes T31	HGNC:11005
+R1	Response Arg1:T16 Arg2:T9	
+T32	Drug 673 679	miR-22
+R2	Response Arg1:T32 Arg2:T7	
+T33	Drug 907 913	miR-22
+R3	Response Arg1:T33 Arg2:T11	
+T34	Gene-Protein 977 982	MMP14
+#4	AnnotatorNotes T34	HGNC:7160
+T35	Gene-Protein 987 992	Snail
+#11	AnnotatorNotes T35	HGNC:11128
+T36	Biomarker 1069 1106	miR-22 is significantly downregulated
+R4	Association Arg1:T36 Arg2:T18	
+#12	AnnotatorNotes T19	CHEMBL185
+T37	Drug-Class 1221 1233	chemotherapy
+#13	AnnotatorNotes T20	CHEMBL428647
+T38	GeneFamily 1292 1296	VEGF
+#14	AnnotatorNotes T38	family:1267
+T39	Gene-Protein 1281 1287	HIF-1α
+#15	AnnotatorNotes T39	HGNC:4910
+T40	Gene-Protein 1464 1469	TIAM1
+#16	AnnotatorNotes T40	HGNC:11805
+T41	Gene-Protein 1471 1476	MMP-2
+#17	AnnotatorNotes T41	HGNC:7166
+T42	Gene-Protein 1481 1486	MMP-9
+#18	AnnotatorNotes T42	HGNC:7176
+T43	Biomarker 529 535	miR-22
+R5	Association Arg1:T43 Arg2:T6	
+T44	Drug 1247 1271	Overexpression of miR-22
+#21	AnnotatorNotes T44	not found
+R6	Response Arg1:T44 Arg2:T22	
+T47	RNA-Noncoding 1345 1351	miR-22
+T48	RNA-Noncoding 593 599	miRNAs
+T49	RNA-Noncoding 1509 1515	miR-22
+#22	AnnotatorNotes T43	C548375
+#23	AnnotatorNotes T32	C548375
+#24	AnnotatorNotes T14	DOID:9256
+T50	Biomarker 1509 1515	miR-22
+R7	Association Arg1:T50 Arg2:T28	
+#25	AnnotatorNotes T2	not found
+T3	Drug 1010 1016	miR-22
+R8	Response Arg1:T3 Arg2:T14	
+T4	Collection 1186 1205	5-FU and paclitaxel
+R9	Synergy-Response Arg1:T4 Arg2:T18	
+T8	Drug 1069 1075	miR-22
+R11	Synergy-Response Arg1:T8 Arg2:T18	

@@ -1,0 +1,32 @@
+31110191_23915|t|RSS_IDENT_p_31110191_b_1_3_3
+31110191_23915|a| SNCA protein is one of the most promising therapeutic targets for the treatment of PD ³⁵ . We showed that ASOᴬ¹⁹ can target wild type and mutant hSNCA, indicating its applicability for both familial and sporadic PD. Moreover, reducing the level of SNCA expression is likely to protect against neuronal toxicities. We previously reported that reduction of SNCA expression enabled the survival of more TH-positive neurons in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine model rats ³⁶ . SNCA knockdown by shRNA attenuates the progression of motor deficits in rotenone-exposed rats ³⁷ , suggesting that reduction of SNCA expression might also be beneficial for PD. Benskey et al. reported that excessive reduction of SNCA within nigrostriatal neurons induced rapid up-regulation of the major histocompatibility complex class 1 (MHC-1) and resulted in the death of affected neurons ³⁸ . However, several studies have shown that normalization of overexpressed SNCA decreased neurodegeneration of dopaminergic neurons and improved motor function in animal models ³⁷ , ³⁹ . These data imply that adequate downregulation of SNCA can prevent neurodegeneration with little disadvantages. 
+31110191_23915	30	34	SNCA	Gene-protein	HGNC:11138
+31110191_23915	30	34	SNCA	Biomarker	C497604
+31110191_23915	113	115	PD	Disease	DOID:14330
+31110191_23915	136	142	ASOᴬ¹⁹	Drug-class
+31110191_23915	175	180	hSNCA	Gene-protein	HGNC:11138
+31110191_23915	220	244	familial and sporadic PD	Disease	not found, not found
+31110191_23915	256	293	reducing the level of SNCA expression	Drug	not found
+31110191_23915	278	282	SNCA	Gene-protein
+31110191_23915	323	342	neuronal toxicities	Disease	not found
+31110191_23915	372	400	reduction of SNCA expression	Drug
+31110191_23915	385	389	SNCA	Gene-protein
+31110191_23915	430	432	TH	Gene-protein
+31110191_23915	453	497	1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine	Chemical
+31110191_23915	514	518	SNCA	Gene-protein
+31110191_23915	514	537	SNCA knockdown by shRNA	Drug	not found
+31110191_23915	568	602	motor deficits in rotenone-exposed	Disease	not found
+31110191_23915	586	594	rotenone	Chemical
+31110191_23915	629	657	reduction of SNCA expression	Drug
+31110191_23915	642	646	SNCA	Gene-protein
+31110191_23915	687	689	PD	Disease
+31110191_23915	743	747	SNCA	Gene-protein
+31110191_23915	812	852	major histocompatibility complex class 1	Genefamily
+31110191_23915	854	859	MHC-1	Genefamily
+31110191_23915	953	988	normalization of overexpressed SNCA	Drug
+31110191_23915	984	988	SNCA	Gene-protein
+31110191_23915	999	1016	neurodegeneration	Disease	D009410
+31110191_23915	1127	1149	downregulation of SNCA	Drug
+31110191_23915	1145	1149	SNCA	Gene-protein
+31110191_23915	1162	1179	neurodegeneration	Disease
+

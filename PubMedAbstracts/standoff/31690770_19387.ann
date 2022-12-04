@@ -1,0 +1,42 @@
+T0	Disease 132 143	solid tumor
+#1	AnnotatorNotes T0	not found
+T1	Disease 228 235	gliomas
+#2	AnnotatorNotes T1	DOID:0060108
+T12	Disease 744 751	gliomas
+T13	Chemical 821 824	TMB
+T14	Disease 828 835	gliomas
+T15	Disease 884 891	gliomas
+T2	Disease 359 365	tumors
+#13	AnnotatorNotes T2	DOID:162
+T3	Disease 371 379	melanoma
+#14	AnnotatorNotes T3	DOID:1909
+T4	Disease 384 395	lung cancer
+#15	AnnotatorNotes T4	DOID:1324
+T5	Disease 495 498	GBM
+T8	Drug 648 651	TMZ
+T20	Gene-Protein 301 304	CD8
+#3	AnnotatorNotes T20	HGNC:1706
+T21	Disease 323 326	GBM
+#4	AnnotatorNotes T21	DOID:3073
+T22	Biomarker 285 319	infiltration of CD8 positive cells
+T23	Gene-Protein 469 474	PD-L1
+#6	AnnotatorNotes T23	HGNC:17635
+T24	Biomarker 450 491	intrinsically weak PD-L1 expression level
+T25	Drug-Class 564 577	immunotherapy
+T7	Drug-Class 1054 1067	immunotherapy
+T6	Disease 1127 1132	NSCLC
+#5	AnnotatorNotes T6	DOID:3908
+T10	Biomarker 1089 1097	high TMB
+T11	Biomarker 983 997	increasing TMB
+R1	Prognostic-Good Arg1:T10 Arg2:T6	
+T16	Biomarker 781 799	MMR gene mutations
+T17	Biomarker 814 824	higher TMB
+T18	Biomarker 708 718	higher TMB
+T19	Drug-Class 39 66	immune checkpoint inhibitor
+R3	Response Arg1:T19 Arg2:T0	
+R4	Association Arg1:T24 Arg2:T5	
+#7	AnnotatorNotes T8	CHEMBL810
+T9	Biomarker 665 682	high level of TMB
+R5	Association Arg1:T18 Arg2:T12	
+T26	Biomarker 579 582	TMB
+R6	Association Arg1:T22 Arg2:T21	

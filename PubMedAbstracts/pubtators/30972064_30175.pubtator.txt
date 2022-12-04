@@ -1,0 +1,47 @@
+30972064_30175|t|RSS_IDENT_p_30972064_b_1_3_3
+30972064_30175|a| VPA has been used in vitro at concentrations ranging from 0.5 to 10 mM ( 35 – 37 ). To study the modulation of MICA expression and release from tumor cells, Armeanu et al. used 1 mM VPA for human hepatoma cells. Their results showed a differential induction of NKG2D ligands by VPA on malignant and non-malignant cells ( 34 ). Yamanegi et al. also used VPA at 0.5- and 1-mM concentration for human osteosarcoma cells revealing increase in the cell-surface but not soluble form of MICA/B ( 38 ). In contrast, our study revealed only minor changes in the shedding of MICA from Panc89 cells and no changes at all in PC-3 cells after treatment with 1 mM VPA. In fact, NKG2D ligand (MICA/B and ULBP-2) gene expression was remarkably induced with 2.5 mM VPA both on malignant (pancreatic carcinoma cells Panc89 and prostate carcinoma cells PC-3) and non-malignant cells (PBMC and γδ T cells). The use of 2.5 mM VPA concentration to induce MICA protein expression is consistent with a previous study performed with Hodgkin lymphoma cells ( 39 ). The ULBP-1 expression is known to be associated with proteasome regulation ( 40 ). Remarkably, VPA failed to induce ULBP-1 expression on Panc89 and PC-3 cells. Nevertheless, the treatment of melanoma cells with 1 mM VPA has been shown to induce only MICA, MICB and ULBP-2, mediated by the ERK pathway ( 41 ), which is also consistent with our results using Panc89 and PC-3 tumor cells. The role of specific signaling pathways like ERK1/2 and AKT in cellular responses of Panc89 and PC-3 to VPA treatment remains to be investigated. 
+30972064_30175	30	33	VPA	Drug	CHEMBL109
+30972064_30175	141	145	MICA	Gene-protein	HGNC:7090
+30972064_30175	174	179	tumor	Disease	DOID:162
+30972064_30175	212	215	VPA	Drug
+30972064_30175	291	296	NKG2D	Gene-protein	HGNC:18788
+30972064_30175	308	311	VPA	Drug
+30972064_30175	315	324	malignant	Disease	DOID:162
+30972064_30175	383	386	VPA	Drug
+30972064_30175	428	440	osteosarcoma	Disease	DOID:3347
+30972064_30175	510	516	MICA/B	Gene-protein	HGNC:7090,HGNC:7091
+30972064_30175	595	599	MICA	Gene-protein
+30972064_30175	605	611	Panc89	Cellline
+30972064_30175	643	647	PC-3	Cellline
+30972064_30175	680	683	VPA	Drug
+30972064_30175	694	699	NKG2D	Gene-protein
+30972064_30175	708	714	MICA/B	Gene-protein
+30972064_30175	719	725	ULBP-2	Gene-protein	HGNC:14894
+30972064_30175	778	781	VPA	Drug
+30972064_30175	801	821	pancreatic carcinoma	Disease	DOID:4905
+30972064_30175	828	834	Panc89	Cellline
+30972064_30175	839	857	prostate carcinoma	Disease	DOID:10286
+30972064_30175	864	868	PC-3	Cellline
+30972064_30175	935	938	VPA	Drug
+30972064_30175	963	967	MICA	Gene-protein
+30972064_30175	1038	1054	Hodgkin lymphoma	Disease	DOID:8567
+30972064_30175	1073	1079	ULBP-1	Gene-protein	HGNC:14893
+30972064_30175	1164	1167	VPA	Drug
+30972064_30175	1185	1191	ULBP-1	Gene-protein
+30972064_30175	1206	1212	Panc89	Cellline
+30972064_30175	1217	1221	PC-3	Cellline
+30972064_30175	1260	1268	melanoma	Disease	DOID:1909
+30972064_30175	1285	1288	VPA	Drug
+30972064_30175	1319	1323	MICA	Gene-protein
+30972064_30175	1325	1329	MICB	Gene-protein	HGNC:7091
+30972064_30175	1334	1340	ULBP-2	Gene-protein
+30972064_30175	1358	1361	ERK	Genefamily	not found
+30972064_30175	1426	1432	Panc89	Cellline
+30972064_30175	1437	1441	PC-3	Cellline
+30972064_30175	1442	1447	tumor	Disease
+30972064_30175	1500	1506	ERK1/2	Gene-protein	HGNC:6877, HGNC:6871
+30972064_30175	1511	1514	AKT	Genefamily	family:1900
+30972064_30175	1540	1546	Panc89	Cellline
+30972064_30175	1551	1555	PC-3	Cellline
+30972064_30175	1559	1562	VPA	Drug
+

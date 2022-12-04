@@ -1,0 +1,27 @@
+T3	Disease 1027 1031	ESCC
+T1	RNA-Noncoding 321 335	hsa-miR-18b-5p
+T4	RNA-Noncoding 337 351	hsa-miR-503-5p
+T5	RNA-Noncoding 353 365	hsa-miR-9-3p
+T6	RNA-Noncoding 367 382	hsa-miR-133a-3p
+T7	RNA-Noncoding 384 398	hsa-miR-34b-5p
+T8	RNA-Noncoding 400 414	hsa-miR-34c-5p
+T9	RNA-Noncoding 416 430	hsa-miR-339-3p
+T10	RNA-Noncoding 432 443	hsa-miR-375
+T11	RNA-Noncoding 445 457	hsa-miR-133b
+T12	RNA-Noncoding 459 471	hsa-miR-203a
+T13	RNA-Noncoding 473 487	hsa-miR-150-5p
+T14	RNA-Noncoding 489 503	hsa-miR-493-3p
+T15	RNA-Noncoding 505 519	hsa-miR-18a-3p
+T16	RNA-Noncoding 521 536	hsa-miR-130b-3p
+T17	RNA-Noncoding 538 552	hsa-miR-431-5p
+T18	RNA-Noncoding 554 566	hsa-miR-7-5p
+T19	RNA-Noncoding 568 582	hsa-miR-382-5p
+T20	RNA-Noncoding 584 598	hsa-miR-182-3p
+T21	RNA-Noncoding 600 614	hsa-miR-424-5p
+T22	RNA-Noncoding 616 631	hsa-miR-146b-5p
+T23	RNA-Noncoding 701 715	hsa-miR-497-5p
+T24	RNA-Noncoding 680 695	hsa-miR-196b-3p
+T25	RNA-Noncoding 666 678	hsa-miR-1-3p
+T26	RNA-Noncoding 650 664	hsa-miR-183-5p
+T27	RNA-Noncoding 633 648	hsa-miR-196a-3p
+#1	AnnotatorNotes T3	DOID:3748

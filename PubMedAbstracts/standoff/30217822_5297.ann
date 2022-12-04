@@ -1,0 +1,94 @@
+T11	Chemical 267 270	His
+T12	Chemical 313 316	His
+T13	Disease 512 515	AMD
+T15	Biomarker 517 652	age-related changes in glycosaminoglycan structures such as a decrease in the sulfation of HS, together with the presence of FH His-402
+T16	Chemical 731 734	His
+T17	Chemical 979 998	sucrose octasulfate
+T18	Chemical 1075 1078	Tyr
+T19	Variant 1140 1145	Y402H
+T2	Disease 92 95	AMD
+#10	AnnotatorNotes T2	DOID:10871
+T20	Disease 1151 1154	AMD
+T22	Biomarker 1191 1244	complement variants in CFH and other complement genes
+T23	Disease 1265 1268	AMD
+T25	Disease 1286 1289	AMD
+T27	Disease 1416 1419	AMD
+T29	Variant 1438 1444	R1210C
+T30	Disease 1453 1456	AMD
+T32	Disease 1584 1587	AMD
+T34	Variant 1640 1644	V62I
+T4	Disease 118 121	AMD
+T6	Variant 140 145	Y402H
+T7	Biomarker 158 192	Individuals homozygous for His-402
+T8	Chemical 185 188	His
+T9	Disease 236 239	AMD
+T3	Gene-Protein 97 99	FH
+R1	Variant-Of Arg1:T3 Arg2:T6	
+R2	Risk-Factor Arg1:T6 Arg2:T4	
+#2	AnnotatorNotes T6	p.Tyr402His
+R3	Risk-Factor Arg1:T7 Arg2:T9	
+T5	Biomarker 254 288	2.5-fold for His-402 heterozygotes
+R4	Association Arg1:T5 Arg2:T9	
+T10	Gene-Protein 354 356	FH
+T35	Gene-Protein 381 383	FH
+T36	Gene-Protein 397 399	FH
+T37	Gene-Protein 411 414	CRP
+#3	AnnotatorNotes T37	HGNC:2367
+T38	Gene-Protein 444 446	FH
+T39	Chemical 458 460	HS
+T14	Gene-Protein 642 644	FH
+R5	Association Arg1:T15 Arg2:T13	
+T40	Gene-Protein 683 685	FH
+T41	Gene-Protein 728 730	FH
+T42	Chemical 790 792	HS
+T43	Chemical 608 610	HS
+T44	Chemical 852 854	HS
+T45	Chemical 871 874	His
+T46	Chemical 889 892	His
+R6	Association Arg1:T19 Arg2:T20	
+T21	Gene-Protein 1214 1217	CFH
+#4	AnnotatorNotes T21	HGNC:4883
+R7	Variant-Of Arg1:T21 Arg2:T19	
+R8	Association Arg1:T22 Arg2:T23	
+T24	Gene-Protein 1393 1395	FH
+R9	Variant-Of Arg1:T24 Arg2:T29	
+R10	Risk-Factor Arg1:T29 Arg2:T27	
+#5	AnnotatorNotes T29	p.Arg1210Cys
+T26	Biomarker 1487 1528	rare variants in FH in its signal peptide
+T28	Gene-Protein 1504 1506	FH
+R11	Association Arg1:T26 Arg2:T30	
+#6	AnnotatorNotes T34	p.Val62Ile
+T31	Biomarker 1689 1744	noncoding variants in a region overlapping the CFH gene
+T33	Gene-Protein 1736 1739	CFH
+R12	Variant-Of Arg1:T33 Arg2:T34	
+T47	Biomarker 1767 1818	genetic variants in complement C3, CFI, CFB, and C9
+T48	Gene-Protein 1798 1800	C3
+#7	AnnotatorNotes T48	HGNC:1318
+T49	Gene-Protein 1802 1805	CFI
+#8	AnnotatorNotes T49	HGNC:5394
+T50	Gene-Protein 1807 1810	CFB
+#9	AnnotatorNotes T50	HGNC:1037
+T51	Gene-Protein 1816 1818	C9
+#11	AnnotatorNotes T51	HGNC:1358
+T52	Collection 1689 1818	noncoding variants in a region overlapping the CFH gene ( 36 , 46 , 47 ), and genetic variants in complement C3, CFI, CFB, and C9
+R13	Risk-Reduce Arg1:T34 Arg2:T32	
+R14	Association Arg1:T52 Arg2:T32	
+T1	Chemical 952 969	glycosaminoglycan
+T53	Gene-Protein 50 52	FH
+#1	AnnotatorNotes T53	HGNC:4883
+T54	ProteinDomain 100 105	SCR-7
+T55	ProteinDomain 357 364	SCR-6/8
+T56	ProteinDomain 753 758	SCR-7
+T57	ProteinDomain 900 907	SCR-6/8
+T58	ProteinDomain 1397 1403	SCR-20
+T59	ProteinDomain 1535 1540	SCR-1
+T60	ProteinDomain 1542 1549	SCR-3/5
+T61	ProteinDomain 1551 1556	SCR-8
+T62	ProteinDomain 1558 1564	SCR-16
+T63	ProteinDomain 1569 1575	SCR-18
+T64	ProteinDomain 1648 1653	SCR-1
+T65	Chemical 330 337	heparin
+T66	Chemical 1369 1376	heparin
+T67	Biomarker 30 52	Genetic variants in FH
+R15	Association Arg1:T67 Arg2:T2	
+T68	Chemical 540 557	glycosaminoglycan

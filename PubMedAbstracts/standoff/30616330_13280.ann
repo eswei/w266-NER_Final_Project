@@ -1,0 +1,59 @@
+T0	Gene-Protein 30 36	CA-125
+T1	Disease 114 119	tumor
+#2	AnnotatorNotes T1	DOID:162
+T11	Disease 449 462	heart failure
+T13	Disease 560 573	heart failure
+T15	Gene-Protein 593 599	CA-125
+T16	Gene-Protein 618 624	CA-125
+T17	Disease 761 774	heart failure
+T18	Gene-Protein 881 887	CA-125
+T2	Disease 147 161	ovarian cancer
+#9	AnnotatorNotes T2	DOID:2394
+T20	Gene-Protein 1017 1023	CA-125
+T24	Disease 1341 1362	chronic heart failure
+#11	AnnotatorNotes T24	not found
+T25	Gene-Protein 1364 1370	CA-125
+T26	Gene-Protein 1463 1469	CA-125
+T28	Disease 1524 1555	acute and chronic heart failure
+#14	AnnotatorNotes T28	not found, not found
+T29	Gene-Protein 1569 1575	CA-125
+T3	Gene-Protein 193 199	CA-125
+T32	Disease 1779 1783	ADHF
+T4	Disease 211 224	heart failure
+#18	AnnotatorNotes T4	D006333
+T5	Biomarker 264 289	hemodynamic abnormalities
+T6	Disease 378 391	heart failure
+T7	Disease 400 422	valvular heart disease
+#21	AnnotatorNotes T7	DOID:4079
+T9	Disease 424 443	atrial fibrillation
+#22	AnnotatorNotes T9	DOID:0060224
+#1	AnnotatorNotes T0	HGNC:15582
+T8	Biomarker 30 36	CA-125
+#5	AnnotatorNotes T8	D018394
+T10	Collection 114 161	tumor marker used for diagnosing ovarian cancer
+R1	Diagnostic-of Arg1:T8 Arg2:T10	
+T12	Biomarker 193 199	CA-125
+T14	GeneFamily 721 743	inflammatory cytokines
+#3	AnnotatorNotes T14	not found
+T19	Drug-Class 1295 1310	medical therapy
+T21	Gene-Protein 1669 1678	NT-proBNP
+#4	AnnotatorNotes T21	not found
+T22	Biomarker 247 262	clinical status
+T23	Biomarker 295 323	echocardiographic parameters
+T27	Biomarker 578 605	elevated serum CA-125 level
+T30	Biomarker 721 743	inflammatory cytokines
+#6	AnnotatorNotes T30	D016207
+T31	Biomarker 618 624	CA-125
+T33	Biomarker 1017 1034	CA-125 was higher
+T34	Biomarker 1463 1469	CA-125
+#7	AnnotatorNotes T32	D006333
+R2	Association Arg1:T34 Arg2:T28	
+T35	Biomarker 1569 1575	CA-125
+T36	Biomarker 1669 1678	NT-proBNP
+#8	AnnotatorNotes T36	C109794
+R3	Association Arg1:T36 Arg2:T32	
+T37	Biomarker 1364 1386	CA-125 level decreased
+R4	Association Arg1:T12 Arg2:T4	
+R5	Association Arg1:T27 Arg2:T13	
+R6	Association Arg1:T35 Arg2:T32	
+R7	Association Arg1:T37 Arg2:T24	

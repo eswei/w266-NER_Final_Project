@@ -1,0 +1,68 @@
+T0	Biomarker 42 55	hyperglycemia
+#1	AnnotatorNotes T0	D006943
+T1	Disease 59 80	diabetes vasculopathy
+#2	AnnotatorNotes T1	not found
+T11	Chemical 568 573	NADPH
+T12	Chemical 617 627	superoxide
+T13	Disease 645 658	hyperglycemic
+T14	Chemical 807 812	NADPH
+T15	Chemical 853 863	superoxide
+T16	Disease 959 977	endothelial injury
+#8	AnnotatorNotes T16	not found
+T18	Chemical 1067 1072	NADPH
+T19	Disease 1084 1092	diabetic
+#10	AnnotatorNotes T19	not found
+T2	Disease 181 219	hyperglycemia-induced oxidative stress
+#11	AnnotatorNotes T2	not found
+T21	Disease 1203 1216	hyperglycemia
+#12	AnnotatorNotes T21	DOID:4195
+T22	Chemical 1507 1517	superoxide
+T23	Chemical 1540 1547	glucose
+T26	Chemical 1797 1802	NADPH
+T3	Disease 251 274	endothelial dysfunction
+#16	AnnotatorNotes T3	not found
+T5	Chemical 308 318	superoxide
+T6	Disease 357 396	hyperglycemia-mediated oxidative stress
+T7	Drug 452 455	STZ
+T8	Disease 452 464	STZ diabetic
+#20	AnnotatorNotes T8	not found
+R1	Association Arg1:T0 Arg2:T1	
+T4	Biomarker 221 243	superfluous ROS levels
+R2	Association Arg1:T4 Arg2:T3	
+T10	Biomarker 298 329	increased superoxide generation
+#3	AnnotatorNotes T6	not found
+R3	Association Arg1:T10 Arg2:T6	
+#4	AnnotatorNotes T7	CHEMBL1651906
+T9	Biomarker 486 508	elevated levels of ROS
+T17	Chemical 505 508	ROS
+R4	Association Arg1:T9 Arg2:T8	
+T20	Biomarker 546 581	increased activity of NADPH oxidase
+T24	GeneFamily 568 581	NADPH oxidase
+R5	Association Arg1:T20 Arg2:T13	
+#6	AnnotatorNotes T13	DOID:4195
+T25	Gene-Protein 713 718	NOX-4
+T27	Gene-Protein 763 768	NOX-4
+T28	GeneFamily 807 820	NADPH oxidase
+T29	Gene-Protein 914 919	NOX-4
+T30	Disease 931 947	oxidative damage
+#9	AnnotatorNotes T30	D018384
+T31	Collection 931 977	oxidative damage [ 27 ] and endothelial injury
+T32	Biomarker 914 919	NOX-4
+#13	AnnotatorNotes T32	C498910
+R6	Association Arg1:T32 Arg2:T31	
+T33	Biomarker 1057 1080	increased NADPH oxidase
+T34	GeneFamily 1067 1080	NADPH oxidase
+R7	Association Arg1:T33 Arg2:T19	
+T35	Biomarker 1156 1179	increased levels of ROS
+T36	Chemical 1176 1179	ROS
+T37	Gene-Protein 1225 1229	eNOS
+T38	Gene-Protein 1352 1357	NOX-4
+T39	Gene-Protein 1470 1475	NOX-4
+T40	Gene-Protein 1635 1640	NOX-4
+T41	Chemical 1649 1652	ROS
+T42	Gene-Protein 1732 1737	NOX-4
+T43	Gene-Protein 1788 1793	NOX-2
+T44	CellLine 418 424	HUVECs
+T45	CellLine 689 695	HUVECs
+T46	CellLine 1750 1756	HUVECs
+T47	CellLine 1868 1874	HUVECs

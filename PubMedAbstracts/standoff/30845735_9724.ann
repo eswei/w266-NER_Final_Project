@@ -1,0 +1,55 @@
+T0	Chemical 52 65	catecholamine
+T1	Biomarker 52 80	catecholamine overproduction
+T10	Disease 513 517	PHEO
+T12	Disease 559 581	essential hypertension
+#4	AnnotatorNotes T12	DOID:10825
+T14	Biomarker 634 672	reduction of cardiovascular remodeling
+T15	Chemical 681 694	Catecholamine
+T17	Biomarker 681 728	Catecholamine-induced cardiomyocyte hypertrophy
+T2	Chemical 132 145	Catecholamine
+T20	Disease 863 867	PHEO
+T22	Disease 1012 1016	PHEO
+T23	Biomarker 1039 1058	myocardial fibrosis
+T25	Biomarker 1063 1085	myocardial dysfunction
+T26	Disease 1105 1107	EH
+T28	Disease 1134 1150	cardiac fibrosis
+#15	AnnotatorNotes T28	not found
+T3	Disease 173 198	cardiomyocyte hypertrophy
+#16	AnnotatorNotes T3	not found
+T31	Chemical 1181 1194	catecholamine
+T32	Disease 1284 1288	PHEO
+T33	Biomarker 1300 1323	severe cardiac fibrosis
+T36	Disease 1380 1407	hypertrophic cardiomyopathy
+#21	AnnotatorNotes T36	DOID:11984
+T4	Disease 218 241	cardiac wall thickening
+#22	AnnotatorNotes T4	not found
+T6	Drug 296 309	catecholamine
+T8	Disease 344 363	cardiac hypertrophy
+T9	Disease 368 400	myocardial interstitial fibrosis
+#25	AnnotatorNotes T9	not found
+T5	Biomarker 132 145	Catecholamine
+#1	AnnotatorNotes T5	D002395
+T7	Collection 173 241	cardiomyocyte hypertrophy, which may lead to cardiac wall thickening
+R1	Association Arg1:T5 Arg2:T7	
+#2	AnnotatorNotes T6	D002395
+T11	Collection 344 400	cardiac hypertrophy and myocardial interstitial fibrosis
+R2	Causes Arg1:T6 Arg2:T11	
+T13	Biomarker 528 539	higher LVMI
+R3	Association Arg1:T13 Arg2:T10	
+#3	AnnotatorNotes T10	DOID:0050771
+T16	Biomarker 730 813	elevated cardiac wall thickness and collagen deposition in the extracellular matrix
+T18	GeneFamily 766 774	collagen
+#6	AnnotatorNotes T18	family:490
+T19	Collection 1039 1085	myocardial fibrosis and myocardial dysfunction
+R6	Association Arg1:T19 Arg2:T22	
+#9	AnnotatorNotes T26	DOID:10825
+R7	Association Arg1:T33 Arg2:T32	
+T21	Biomarker 1330 1346	reduction in GLS
+R8	Association Arg1:T21 Arg2:T36	
+T24	Biomarker 1416 1449	reductions in longitudinal strain
+R9	Association Arg1:T24 Arg2:T36	
+T27	Disease 1489 1491	EF
+#10	AnnotatorNotes T8	not found
+T29	Biomarker 1112 1128	elevated LV mass
+T30	Collection 681 813	Catecholamine-induced cardiomyocyte hypertrophy, elevated cardiac wall thickness and collagen deposition in the extracellular matrix
+T34	Biomarker 830 845	decrease in GLS

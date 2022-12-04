@@ -1,0 +1,90 @@
+T1	RNA-Noncoding 45 54	LOC646762
+T10	Biomarker 679 684	CCND3
+T11	Disease 706 709	AML
+T13	Chemical 784 792	carbonyl
+T14	Chemical 897 902	NADPH
+T15	Biomarker 969 991	low expression of CBR1
+T16	Disease 1029 1043	ovarian cancer
+#5	AnnotatorNotes T16	DOID:2394
+T17	Biomarker 1091 1113	overexpression of CBR1
+T18	Disease 1133 1136	AML
+T2	Disease 103 112	adult AML
+#8	AnnotatorNotes T2	DOID:9119
+T20	Disease 1308 1328	colorectal carcinoma
+#9	AnnotatorNotes T20	DOID:0080199
+T21	Biomarker 1341 1368	High expression of C10orf54
+T22	RNA-Noncoding 1442 1451	LOC646762
+T23	Biomarker 1498 1574	Overexpression of CD97, also known as adhesion G protein-coupled receptor E5
+T24	Disease 1592 1600	leukemia
+#11	AnnotatorNotes T24	DOID:1240
+T25	Disease 1615 1618	AML
+T26	Biomarker 1852 1878	High expression of BLOC1S1
+T27	Biomarker 1914 1936	BLOC1S1 overexpression
+T28	RNA-Noncoding 1983 1992	LOC646762
+T29	Disease 2081 2084	AML
+T4	RNA-Noncoding 226 235	LOC646762
+T5	Biomarker 226 265	LOC646762, regulating co-expressed mRNA
+T6	Disease 285 288	AML
+T7	Biomarker 549 570	high CCND3 expression
+T8	Disease 612 641	diffuse large B-cell lymphoma
+#18	AnnotatorNotes T8	DOID:0050745
+T30	Gene-Protein 2016 2023	BLOC1S1
+T31	Gene-Protein 1466 1470	CD97
+T32	Gene-Protein 2001 2005	CBR1
+T33	Gene-Protein 987 991	CBR1
+T34	Gene-Protein 679 684	CCND3
+T35	Gene-Protein 554 559	CCND3
+T36	Gene-Protein 806 810	CBR1
+T37	Gene-Protein 784 804	carbonyl reductase 1
+T38	Gene-Protein 1516 1520	CD97
+T39	GeneFamily 827 864	short-chain dehydrogenases/reductases
+T40	Gene-Protein 2007 2011	CD97
+T41	Gene-Protein 407 412	CCND3
+T42	Gene-Protein 1576 1582	ADGRE5
+T43	Gene-Protein 1781 1788	BLOC1S1
+T44	Gene-Protein 1536 1574	adhesion G protein-coupled receptor E5
+T45	Gene-Protein 1475 1482	BLOC1S1
+T46	Gene-Protein 1812 1817	BLOC1
+T47	Gene-Protein 1871 1878	BLOC1S1
+T48	Gene-Protein 1914 1921	BLOC1S1
+T49	Gene-Protein 1460 1464	CBR1
+T50	Gene-Protein 1453 1458	CCND3
+T51	GeneFamily 897 928	NADPH-dependent oxidoreductases
+T52	Gene-Protein 1994 1999	CCND3
+R1	Association Arg1:T5 Arg2:T6	
+T53	Gene-Protein 396 405	cyclin D3
+T54	GeneFamily 446 452	cyclin
+R2	Prognostic-Poor Arg1:T7 Arg2:T8	
+R3	Risk-Factor Arg1:T10 Arg2:T11	
+R5	Prognostic-Poor Arg1:T7 Arg2:T11	
+T9	GeneFamily 866 869	SDR
+R4	Association Arg1:T15 Arg2:T16	
+T12	Gene-Protein 1226 1230	VSIR
+T55	Gene-Protein 1193 1224	V-set immunoregulatory receptor
+T56	Biomarker 1167 1250	C10orf54 is also known as V-set immunoregulatory receptor (VSIR) and its expression
+T19	Biomarker 1284 1304	tumor immune evasion
+R6	Risk-Factor Arg1:T17 Arg2:T18	
+T57	Gene-Protein 1109 1113	CBR1
+T58	Gene-Protein 1167 1175	C10orf54
+T59	Gene-Protein 1405 1413	C10orf54
+T61	Gene-Protein 1360 1368	C10orf54
+T60	Collection 1592 1618	leukemia stem cells of AML
+R7	Prognostic-Poor Arg1:T23 Arg2:T60	
+T62	Gene-Protein 1725 1779	Biogenesis of lysosomal organelles complex 1 subunit 1
+#1	AnnotatorNotes T6	DOID:9119
+T3	Biomarker 45 54	LOC646762
+R8	Risk-Reduce Arg1:T3 Arg2:T2	
+#2	AnnotatorNotes T53	HGNC:1585
+#3	AnnotatorNotes T41	HGNC:1585
+#4	AnnotatorNotes T54	family:473
+#6	AnnotatorNotes T37	HGNC:1548
+#7	AnnotatorNotes T36	HGNC:1548
+#10	AnnotatorNotes T39	family:743
+#12	AnnotatorNotes T9	family:743
+#13	AnnotatorNotes T58	HGNC:30085
+#14	AnnotatorNotes T55	HGNC:30085
+#15	AnnotatorNotes T12	HGNC:30085
+#16	AnnotatorNotes T31	HGNC:1711
+#17	AnnotatorNotes T45	HGNC:4200
+#19	AnnotatorNotes T42	HGNC:1711
+#20	AnnotatorNotes T44	HGNC:1711

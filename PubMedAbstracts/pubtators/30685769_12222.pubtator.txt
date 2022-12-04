@@ -1,0 +1,47 @@
+30685769_12222|t|RSS_IDENT_p_30685769_b_1_4_3
+30685769_12222|a| LncRNAs are a large group of noncoding RNAs with no protein-coding ability. Increasing evidence indicates a close relationship between lncRNA expression and cancer development. For instance, lncRNA NEAT1 regulates ovarian cancer cell resistance to paclitaxel through promoting ZEB1 expression [ 22 ], and lncRNA ZFAS1 targets miR-484 to increase proliferation and metastasis of colorectal cancer [ 23 ]. Previous studies suggest HOTTIP is a key regulator of cancer development and drug resistance in various cancers, including thyroid carcinoma [ 15 ], small cell lung cancer [ 24 ], and colorectal cancer [ 16 ]. In addition, Fu et al. reported that HOTTIP regulates the stem cell property of pancreatic cancer cells [ 25 ]. Zhang et al. showed that HOTTIP accelerates epithelial-mesenchymal transition in glioma through the miR-101/ZEB1 pathway [ 26 ]. Lin et al. reported that HOTTIP promotes growth and invasion in esophageal squamous carcinoma [ 27 ]. This evidence demonstrates that HOTTIP serves as oncogene. However, the role of HOTTIP in NPC is unclear. We showed that HOTTIP promoted NPC cell proliferation, migration, and invasion, indicating HOTTIP also acts as an oncogene in NPC. Moreover, our results indicate that HOTTIP might be a potential prognostic marker for NPC patients.
+30685769_12222	165	182	lncRNA expression	Biomarker
+30685769_12222	187	193	cancer	Disease	DOID:162
+30685769_12222	228	233	NEAT1	Rna-noncoding	HGNC:30815
+30685769_12222	228	233	NEAT1	Biomarker	C577276
+30685769_12222	244	258	ovarian cancer	Disease	DOID:2394
+30685769_12222	278	288	paclitaxel	Drug	CHEMBL428647
+30685769_12222	307	311	ZEB1	Gene-protein	HGNC:11642
+30685769_12222	342	347	ZFAS1	Rna-noncoding	HGNC:33101
+30685769_12222	342	347	ZFAS1	Biomarker	C000611949
+30685769_12222	356	363	miR-484	Rna-noncoding	HGNC:32341
+30685769_12222	408	425	colorectal cancer	Disease	DOID:9256
+30685769_12222	459	465	HOTTIP	Rna-noncoding	HGNC:37461
+30685769_12222	459	465	HOTTIP	Biomarker	C000613830
+30685769_12222	488	494	cancer	Disease
+30685769_12222	488	635	cancer development and drug resistance in various cancers, including thyroid carcinoma [ 15 ], small cell lung cancer [ 24 ], and colorectal cancer	Collection
+30685769_12222	538	545	cancers	Disease	DOID:162
+30685769_12222	557	574	thyroid carcinoma	Disease	DOID:3963
+30685769_12222	583	605	small cell lung cancer	Disease	DOID:5409
+30685769_12222	618	635	colorectal cancer	Disease
+30685769_12222	681	687	HOTTIP	Rna-noncoding
+30685769_12222	681	687	HOTTIP	Biomarker
+30685769_12222	724	741	pancreatic cancer	Disease	DOID:1793
+30685769_12222	781	787	HOTTIP	Rna-noncoding
+30685769_12222	781	787	HOTTIP	Biomarker
+30685769_12222	837	843	glioma	Disease	DOID:0060108
+30685769_12222	856	863	miR-101	Rna-noncoding	HGNC:31488
+30685769_12222	864	868	ZEB1	Gene-protein
+30685769_12222	910	916	HOTTIP	Rna-noncoding
+30685769_12222	910	916	HOTTIP	Biomarker
+30685769_12222	949	978	esophageal squamous carcinoma	Disease	DOID:1107
+30685769_12222	1019	1025	HOTTIP	Rna-noncoding
+30685769_12222	1019	1025	HOTTIP	Biomarker
+30685769_12222	1067	1073	HOTTIP	Rna-noncoding
+30685769_12222	1067	1073	HOTTIP	Biomarker
+30685769_12222	1077	1080	NPC	Disease	DOID:9261
+30685769_12222	1108	1114	HOTTIP	Gene-protein
+30685769_12222	1108	1114	HOTTIP	Biomarker
+30685769_12222	1124	1127	NPC	Disease
+30685769_12222	1184	1190	HOTTIP	Rna-noncoding
+30685769_12222	1184	1190	HOTTIP	Biomarker
+30685769_12222	1219	1222	NPC	Disease
+30685769_12222	1260	1266	HOTTIP	Rna-noncoding
+30685769_12222	1260	1266	HOTTIP	Biomarker
+30685769_12222	1310	1313	NPC	Disease
+

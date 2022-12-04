@@ -1,0 +1,47 @@
+29938458_3533|t|RSS_IDENT_p_29938458_b_1_1_4
+29938458_3533|a| Lysyl oxidase (LOX) and its family members LOX-like (LOXL) 1–4 are copper-dependent amine oxidases that catalyze the covalent crosslinking of collagen and elastin, resulting in increased ECM stiffness. The aberrant expression of LOX family oxidases and/or deregulated oxidase activity is responsible for the pathogenesis of various diseases, including cancer. 12 , 13 Among the LOX family members, LOXL2 has been deemed an important regulator of tumor progression. 14 Early studies on breast cancers demonstrated that LOXL2 overexpression induced the formation of fibrotic foci within tumors with invasive properties 15 and that increased LOXL2 expression promoted the invasiveness of breast cancer cells and induced EMT. 15 – 17 In addition, increased LOXL2 expression was reported to be associated with tumor aggressiveness and poor prognosis in head and neck, lung, breast, stomach, and esophageal cancers. 18 – 20 Moreover, LOXL2-specific antibody was found to be effective in both primary and metastatic xenograft models of breast cancer. 21 In HCCs, Wong et al. 22 demonstrated that only LOXL2, among the LOX family members, was substantially overexpressed in human HCC tissues, when compared to non-tumoral liver tissues, and it was up-regulated by hypoxia and transforming growth factor β (TGF-β) signaling. In addition, they showed that LOXL2 promoted intrahepatic metastasis by increasing tissue stiffness and facilitated extrahepatic metastasis by enhancing recruitment of bone-marrow-derived cells to metastatic sites. 22 Therefore, LOXL2 is likely to contribute to HCC progression, especially under the hypoxic and inflammatory microenvironment, and may be a potential therapeutic target. However, the clinicopathologic relevance of LOXL2 expression in human HCC tissues remains unclear.
+29938458_3533	30	43	Lysyl oxidase	Gene-protein	HGNC:6664
+29938458_3533	45	48	LOX	Gene-protein	HGNC:6664
+29938458_3533	73	92	LOX-like (LOXL) 1–4	Gene-protein	HGNC:6665, HGNC:6666, HGNC:13869, HGNC:17171
+29938458_3533	97	103	copper	Chemical
+29938458_3533	114	119	amine	Chemical
+29938458_3533	172	180	collagen	Genefamily	family:490
+29938458_3533	185	192	elastin	Gene-protein	HGNC:3327
+29938458_3533	236	314	aberrant expression of LOX family oxidases and/or deregulated oxidase activity	Biomarker
+29938458_3533	259	278	LOX family oxidases	Gene-protein	HGNC:6664
+29938458_3533	382	388	cancer	Disease	DOID:162
+29938458_3533	408	411	LOX	Gene-protein
+29938458_3533	428	433	LOXL2	Gene-protein	HGNC:6666
+29938458_3533	428	433	LOXL2	Biomarker	C119091
+29938458_3533	476	481	tumor	Disease	DOID:162
+29938458_3533	515	529	breast cancers	Disease	DOID:1612
+29938458_3533	548	553	LOXL2	Gene-protein
+29938458_3533	548	568	LOXL2 overexpression	Biomarker
+29938458_3533	615	621	tumors	Disease	DOID:162
+29938458_3533	659	685	increased LOXL2 expression	Biomarker
+29938458_3533	669	674	LOXL2	Gene-protein
+29938458_3533	715	728	breast cancer	Disease	DOID:1612
+29938458_3533	773	799	increased LOXL2 expression	Biomarker
+29938458_3533	783	788	LOXL2	Gene-protein
+29938458_3533	835	855	tumor aggressiveness	Biomarker
+29938458_3533	878	939	head and neck, lung, breast, stomach, and esophageal cancers.	Disease	DOID:11934, DOID:1324,DOID:1612,DOID:10534,DOID:5041
+29938458_3533	958	963	LOXL2	Gene-protein
+29938458_3533	958	981	LOXL2-specific antibody	Drug	not found
+29938458_3533	1059	1072	breast cancer	Disease
+29938458_3533	1080	1084	HCCs	Disease	DOID:684
+29938458_3533	1124	1129	LOXL2	Gene-protein
+29938458_3533	1124	1129	LOXL2	Biomarker
+29938458_3533	1141	1144	LOX	Gene-protein
+29938458_3533	1202	1205	HCC	Disease	DOID:684
+29938458_3533	1286	1293	hypoxia	Disease	D000860
+29938458_3533	1298	1326	transforming growth factor β	Genefamily	family:1664
+29938458_3533	1328	1333	TGF-β	Genefamily	family:1664
+29938458_3533	1376	1381	LOXL2	Gene-protein
+29938458_3533	1575	1580	LOXL2	Gene-protein
+29938458_3533	1575	1580	LOXL2	Biomarker
+29938458_3533	1608	1611	HCC	Disease
+29938458_3533	1646	1653	hypoxic	Disease	D000860
+29938458_3533	1776	1781	LOXL2	Gene-protein
+29938458_3533	1776	1781	LOXL2	Biomarker
+29938458_3533	1802	1805	HCC	Disease
+

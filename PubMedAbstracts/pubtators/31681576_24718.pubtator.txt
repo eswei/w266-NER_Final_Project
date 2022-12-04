@@ -1,0 +1,50 @@
+31681576_24718|t|RSS_IDENT_p_31681576_b_1_4_5
+31681576_24718|a| FTO was originally reported as a demethylase for N3-methylthymidine in single-stranded DNA and for N3-methyluridine in single-stranded RNA in vitro. Depletion of FTO induces significant increase in total m6A levels of polyadenylated RNA. As FTO oxidizes m6A to A, it generates N6-hydroxymethyladenosine (hm6A) as an intermediate product, and N6-formyladenosine (f6A) as a further oxidized product. The potential function of these oxidized labile intermediates needs further exploration ( 17 ). Li et al. found that in acute myeloid leukemia (AML), high expression of FTO can reduce the level of m⁶A methylation in the mRNA of ASB2 and RARA genes, which leads to the occurrence and development of AML, and it was found that high expression of FTO could inhibit the differentiation of AML cells into normal blood cells mediated by all-trans-retinoic acid ( 33 ). This makes the FTO demethylation gene an oncogene for AML. Zhou et al. found a significant increase in the expression of FTO in tumor tissues of patients with cervical squamous cell carcinoma (CSCC), and found that these patients developed tolerance to radiotherapy and chemotherapy. This may be due to the fact that FTO reduces the m⁶A methylation level of certain genes, thereby activating the β-catenin pathway and affecting the expression of ERCC1 genes. In addition, it was also found that both FTO and β-catenin expression in CSCC patients showed a worse prognosis than patients who were elevated alone (P = 0.041). Thus, the expression of FTO and β-catenin has certain value in evaluating the clinical prognosis of CSCC ( 34 ). 
+31681576_24718	30	33	FTO	Gene-protein	HGNC:24678
+31681576_24718	79	97	N3-methylthymidine	Chemical
+31681576_24718	129	145	N3-methyluridine	Chemical
+31681576_24718	192	195	FTO	Gene-protein
+31681576_24718	234	237	m6A	Chemical
+31681576_24718	271	274	FTO	Gene-protein
+31681576_24718	284	287	m6A	Chemical
+31681576_24718	307	332	N6-hydroxymethyladenosine	Chemical
+31681576_24718	334	338	hm6A	Chemical
+31681576_24718	372	390	N6-formyladenosine	Chemical
+31681576_24718	392	395	f6A	Chemical
+31681576_24718	548	570	acute myeloid leukemia	Disease	DOID:9119
+31681576_24718	572	575	AML	Disease	DOID:9119
+31681576_24718	578	600	high expression of FTO	Biomarker
+31681576_24718	597	600	FTO	Gene-protein
+31681576_24718	616	675	level of m⁶A methylation in the mRNA of ASB2 and RARA genes	Biomarker
+31681576_24718	625	628	m⁶A	Chemical
+31681576_24718	656	660	ASB2	Gene-protein	HGNC:16012
+31681576_24718	665	669	RARA	Gene-protein	HGNC:9864
+31681576_24718	726	729	AML	Disease
+31681576_24718	753	775	high expression of FTO	Biomarker
+31681576_24718	772	775	FTO	Gene-protein
+31681576_24718	813	816	AML	Disease
+31681576_24718	859	882	all-trans-retinoic acid	Chemical
+31681576_24718	906	909	FTO	Gene-protein
+31681576_24718	945	948	AML	Disease
+31681576_24718	982	1015	increase in the expression of FTO	Biomarker
+31681576_24718	1012	1015	FTO	Gene-protein
+31681576_24718	1019	1024	tumor	Disease	DOID:162
+31681576_24718	1019	1082	tumor tissues of patients with cervical squamous cell carcinoma	Collection
+31681576_24718	1050	1082	cervical squamous cell carcinoma	Disease	DOID:3744
+31681576_24718	1084	1088	CSCC	Disease	DOID:3744
+31681576_24718	1144	1156	radiotherapy	Drug-class
+31681576_24718	1144	1173	radiotherapy and chemotherapy	Collection
+31681576_24718	1161	1173	chemotherapy	Drug-class
+31681576_24718	1208	1211	FTO	Gene-protein
+31681576_24718	1224	1227	m⁶A	Chemical
+31681576_24718	1287	1296	β-catenin	Genefamily	family:1542
+31681576_24718	1337	1342	ERCC1	Gene-protein	HGNC:3433
+31681576_24718	1391	1394	FTO	Gene-protein
+31681576_24718	1391	1419	FTO and β-catenin expression	Biomarker
+31681576_24718	1399	1408	β-catenin	Genefamily
+31681576_24718	1423	1427	CSCC	Disease
+31681576_24718	1523	1554	expression of FTO and β-catenin	Biomarker
+31681576_24718	1537	1540	FTO	Gene-protein
+31681576_24718	1545	1554	β-catenin	Genefamily
+31681576_24718	1613	1617	CSCC	Disease
+

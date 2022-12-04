@@ -1,0 +1,168 @@
+T10	Chemical 412 423	cholesterol
+T11	Variant 470 475	I148M
+T12	Variant 678 683	I148M
+T13	Biomarker 838 876	LXRα levels and signaling were reduced
+T14	Variant 888 893	I148M
+T15	Biomarker 983 1057	reduced expression of cholesterol efflux and enzymes generating oxysterols
+T16	Chemical 1005 1016	cholesterol
+T17	Chemical 1047 1057	oxysterols
+T18	Chemical 1100 1111	cholesterol
+T19	Chemical 1144 1155	cholesterol
+T2	Variant 96 101	I148M
+T20	Biomarker 1196 1201	I148M
+T21	Biomarker 1302 1307	I148M
+T22	Drug 1352 1360	T0901317
+T24	Chemical 1405 1427	adenosine triphosphate
+T25	Drug 1637 1650	rosiglitazone
+T26	Variant 1810 1815	I148M
+T27	Variant 1892 1897	I148M
+T29	Chemical 1945 1956	cholesterol
+T3	Disease 125 142	hepatic steatosis
+#12	AnnotatorNotes T3	DOID:9452
+T30	Disease 2090 2108	liver fibrogenesis
+T33	Chemical 2161 2183	adenosine triphosphate
+T34	Chemical 2231 2246	acyl‐coenzyme A
+T35	Chemical 2247 2258	cholesterol
+T36	Chemical 2339 2356	cholesterol ester
+T37	Chemical 2357 2362	CH25H
+T39	Chemical 2363 2389	cholesterol 25‐hydroxylase
+T4	Disease 162 183	advanced liver injury
+#22	AnnotatorNotes T4	not found
+T40	Chemical 2448 2454	sterol
+T41	Chemical 2476 2486	fatty acid
+T42	Chemical 2527 2538	cholesterol
+T44	Chemical 2545 2582	3‐hydroxy‐3‐methylglutaryl coenzyme A
+T47	Disease 2773 2805	nonalcoholic fatty liver disease
+#30	AnnotatorNotes T47	DOID:0080208
+T48	Disease 2806 2810	NASH
+#31	AnnotatorNotes T48	DOID:0080547
+T49	Disease 2811 2839	nonalcoholic steatohepatitis
+#32	AnnotatorNotes T49	DOID:0080547
+T5	Disease 204 212	fibrosis
+#33	AnnotatorNotes T5	D005355
+T51	Gene-Protein 2845 2913	Niemann‐Pick disease, type C intracellular cholesterol transporter 1
+T52	Chemical 2888 2899	cholesterol
+T53	Drug 3082 3095	rosiglitazone
+T54	Gene-Protein 3144 3176	stearoyl‐coenzyme A desaturase 1
+T55	Chemical 3183 3189	sterol
+T56	Chemical 3241 3258	total cholesterol
+T6	Disease 214 223	cirrhosis
+#41	AnnotatorNotes T6	D005355
+T7	Disease 229 235	cancer
+#42	AnnotatorNotes T7	DOID:162
+T8	Biomarker 323 363	lack of liver X receptor (LXR) signaling
+T1	Gene-Protein 88 94	PNPLA3
+#1	AnnotatorNotes T1	HGNC:18590
+T57	Gene-Protein 32 86	patatin‐like phospholipase domain‐containing protein 3
+#2	AnnotatorNotes T57	HGNC:18590
+R1	Variant-Of Arg1:T57 Arg2:T2	
+#3	AnnotatorNotes T2	p.Ile148Met
+T58	Collection 125 235	hepatic steatosis and progression to advanced liver injury with development of fibrosis, cirrhosis, and cancer
+R2	Association Arg1:T2 Arg2:T58	
+T59	GeneFamily 331 347	liver X receptor
+#4	AnnotatorNotes T59	not found
+T60	GeneFamily 349 352	LXR
+#5	AnnotatorNotes T60	not found
+T9	GeneFamily 530 533	LXR
+T62	CellLine 615 625	LX‐2 cells
+T65	Gene-Protein 639 645	PNPLA3
+R3	Variant-Of Arg1:T65 Arg2:T12	
+R4	Variant-Of Arg1:T65 Arg2:T11	
+T66	Gene-Protein 711 715	LXRα
+#6	AnnotatorNotes T66	HGNC:7966
+T67	Biomarker 711 733	LXRα protein increased
+T68	Biomarker 742 778	LXR target gene expression decreased
+T69	GeneFamily 742 745	LXR
+T71	Gene-Protein 838 842	LXRα
+T72	Biomarker 931 971	decreased expression of LXR target genes
+T73	GeneFamily 955 958	LXR
+R5	Variant-Of Arg1:T65 Arg2:T14	
+T74	Biomarker 1078 1124	higher total and free cholesterol accumulation
+T75	Biomarker 1133 1192	endogenous cholesterol synthesis and uptake were diminished
+T77	GeneFamily 1229 1232	LXR
+T78	Biomarker 1260 1298	decreased LXR transcriptional activity
+T79	GeneFamily 1270 1273	LXR
+T81	GeneFamily 1340 1343	LXR
+T82	Drug-Class 1340 1351	LXR agonist
+#7	AnnotatorNotes T22	CHEMBL62136
+T83	GeneFamily 1373 1376	LXR
+T23	Gene-Protein 1467 1472	ABCA1
+#8	AnnotatorNotes T23	HGNC:29
+T84	Gene-Protein 1405 1465	adenosine triphosphate‐binding cassette subfamily A member 1
+#9	AnnotatorNotes T84	HGNC:29
+T85	Gene-Protein 1497 1508	collagen1α1
+#11	AnnotatorNotes T85	HGNC:2197
+T87	Gene-Protein 1513 1543	chemokine (C‐C motif) ligand 5
+#15	AnnotatorNotes T87	HGNC:10632
+T88	Biomarker 1489 1554	reduced collagen1α1 and chemokine (C‐C motif) ligand 5 expression
+T89	Gene-Protein 1572 1620	peroxisome proliferator‐activated receptor gamma
+#16	AnnotatorNotes T89	HGNC:9236
+T90	Gene-Protein 1622 1627	PPARγ
+#17	AnnotatorNotes T90	HGNC:9236
+T91	Drug-Class 1572 1636	peroxisome proliferator‐activated receptor gamma (PPARγ) agonist
+#18	AnnotatorNotes T25	CHEMBL121
+T92	GeneFamily 1683 1686	LXR
+T93	Gene-Protein 1699 1704	ABCA1
+T94	GeneFamily 1743 1768	proinflammatory cytokines
+#20	AnnotatorNotes T94	not found
+T96	Gene-Protein 1862 1867	PPARγ
+T97	Biomarker 1854 1876	reduced PPARγ activity
+T99	Gene-Protein 1898 1904	PNPLA3
+R6	Variant-Of Arg1:T99 Arg2:T27	
+R7	Variant-Of Arg1:T99 Arg2:T26	
+T28	Biomarker 1910 1932	impaired LXR signaling
+T100	Biomarker 1945 1969	cholesterol accumulation
+T101	Drug-Class 1993 2004	LXR agonist
+T102	GeneFamily 1993 1996	LXR
+R8	Response Arg1:T101 Arg2:T30	
+T31	Disease 376 394	liver fibrogenesis
+#10	AnnotatorNotes T31	DOID:5082
+T32	Gene-Protein 2124 2129	α‐SMA
+T103	Gene-Protein 2130 2151	α‐smooth muscle actin
+T104	Gene-Protein 2152 2160	ABCA1/G1
+T105	Gene-Protein 2161 2224	adenosine triphosphate‐binding cassette subfamily A/G, member 1
+T106	Gene-Protein 2225 2230	ACAT1
+T107	Gene-Protein 2231 2276	acyl‐coenzyme A:cholesterol acyltransferase 1
+T108	Gene-Protein 2277 2281	AP‐1
+T109	Gene-Protein 2282 2301	activator protein 1
+T110	GeneFamily 2302 2305	CCL
+T111	GeneFamily 2306 2335	chemokine (C‐C motif), ligand
+T112	Chemical 2336 2338	CE
+T38	Gene-Protein 2390 2397	CYP27A1
+T113	Gene-Protein 2398 2446	cytochrome P450 family 27, subfamily A, member 1
+T114	Gene-Protein 2471 2475	FASN
+T115	Gene-Protein 2476 2495	fatty acid synthase
+T43	Gene-Protein 2545 2592	3‐hydroxy‐3‐methylglutaryl coenzyme A reductase
+T45	Gene-Protein 2539 2544	HMGCR
+T118	Gene-Protein 2624 2637	interleukin‐8
+T119	Gene-Protein 2619 2623	IL‐8
+T120	Gene-Protein 2655 2687	low‐density lipoprotein receptor
+T121	Gene-Protein 2650 2654	LDLR
+T122	Gene-Protein 2688 2691	LXR
+T123	Gene-Protein 2692 2708	liver X receptor
+T124	Gene-Protein 2714 2747	liver X receptor response element
+T125	Gene-Protein 2709 2713	LXRE
+T46	Disease 2767 2772	NAFLD
+#14	AnnotatorNotes T46	DOID:0080208
+T50	Gene-Protein 2840 2844	NPC1
+T126	Gene-Protein 2914 2920	PNPLA3
+T127	Gene-Protein 2921 2975	patatin‐like phospholipase domain‐containing protein 3
+T128	Gene-Protein 2976 2981	PPARγ
+T129	Gene-Protein 2982 3030	peroxisome proliferator‐activated receptor gamma
+T130	Gene-Protein 3031 3035	PPRE
+T131	Gene-Protein 3036 3076	peroxisome proliferator response element
+T132	Drug 3077 3081	ROSI
+T133	Gene-Protein 3139 3143	SCD1
+T134	Gene-Protein 3177 3182	SREBP
+T135	Gene-Protein 3183 3224	sterol regulatory element‐binding protein
+T136	Gene-Protein 3263 3289	transforming growth factor
+T137	Gene-Protein 3259 3262	TGF
+#21	AnnotatorNotes T132	CHEMBL121
+T138	Drug 3229 3237	T0901317
+#23	AnnotatorNotes T138	CHEMBL62136
+T139	Drug 3225 3228	T09
+#24	AnnotatorNotes T139	CHEMBL62136
+R9	Association Arg1:T8 Arg2:T31	
+T61	GeneFamily 1919 1922	LXR
+T63	Gene-Protein 2448 2469	sterol 27‐hydroxylase
+T64	Chemical 3238 3240	TC

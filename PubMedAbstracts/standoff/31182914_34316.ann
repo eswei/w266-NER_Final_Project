@@ -1,0 +1,89 @@
+T0	Disease 113 119	cancer
+#1	AnnotatorNotes T0	DOID:162
+T1	Drug 291 300	rapamycin
+T10	Drug 792 801	rapamycin
+T11	Drug 842 851	rapamycin
+T12	Disease 927 940	breast cancer
+#5	AnnotatorNotes T12	DOID:1612
+T13	Drug 1018 1027	rapamycin
+T14	Drug 1119 1128	rapamycin
+T15	Disease 1158 1164	cancer
+T16	Drug 1289 1297	LY294002
+T17	Drug 1374 1380	MK2206
+T18	Drug 1430 1436	RAD001
+T19	Drug 1606 1612	RAD001
+T2	Disease 323 329	cancer
+T20	Drug 1782 1788	RAD001
+T3	Drug 373 382	rapamycin
+T4	Drug 437 446	rapamycin
+T5	Disease 548 570	acute myeloid leukemia
+#17	AnnotatorNotes T5	DOID:9119
+T6	Disease 572 575	AML
+#18	AnnotatorNotes T6	DOID:9119
+T7	Drug 655 664	rapamycin
+T8	Disease 690 710	renal cell carcinoma
+#20	AnnotatorNotes T8	DOID:4450
+T9	Disease 712 715	RCC
+#21	AnnotatorNotes T9	DOID:4450
+T21	GeneFamily 54 60	mTORC1
+#2	AnnotatorNotes T21	family:1332
+T22	Gene-Protein 62 67	4EBP1
+#3	AnnotatorNotes T22	HGNC:3288
+T23	Gene-Protein 233 238	4EBP1
+#4	AnnotatorNotes T1	CHEMBL413
+T24	Gene-Protein 416 421	4EBP1
+T25	Gene-Protein 767 772	4EBP1
+R1	Mediated-Non-Response Arg1:T1 Arg2:T2	
+T26	Biomarker 214 254	weak inhibition of 4EBP1 phosphorylation
+R2	Mediator Arg1:T1 Arg2:T26	
+T27	Gene-Protein 518 523	4EBP1
+T28	Gene-Protein 592 597	4EBP1
+T29	Gene-Protein 1031 1036	4EBP1
+T30	Gene-Protein 1440 1445	4EBP1
+T31	Gene-Protein 1132 1137	4EBP1
+T32	Gene-Protein 874 879	4EBP1
+T33	Gene-Protein 1589 1594	4EBP1
+T34	Gene-Protein 1276 1281	4EBP1
+T35	Gene-Protein 1765 1770	4EBP1
+T36	GeneFamily 1315 1319	PI3K
+#6	AnnotatorNotes T36	family:831
+T37	GeneFamily 1544 1548	PI3K
+T38	GeneFamily 969 972	AKT
+#7	AnnotatorNotes T38	family:1900
+T39	GeneFamily 1057 1060	AKT
+T40	GeneFamily 1333 1336	AKT
+T41	GeneFamily 1634 1637	AKT
+T42	GeneFamily 1216 1219	AKT
+T43	GeneFamily 1385 1388	AKT
+T44	Gene-Protein 407 411	S6Ks
+#9	AnnotatorNotes T44	HGNC:10437
+T45	Gene-Protein 470 476	p70S6K
+#10	AnnotatorNotes T45	HGNC:10437
+T46	Gene-Protein 578 582	PIM2
+#11	AnnotatorNotes T46	 HGNC:8987
+T47	Gene-Protein 732 738	GSK-3β
+#12	AnnotatorNotes T47	HGNC:4617
+T48	Drug-Class 821 837	GSK-3β inhibitor
+R3	Synergy-Response Arg1:T48 Arg2:T8	
+R4	Synergy-Response Arg1:T11 Arg2:T8	
+T50	Drug 1057 1071	AKT inhibition
+#13	AnnotatorNotes T50	not found
+R6	Mediated-Non-Response Arg1:T7 Arg2:T5	
+R7	Synergy-Response Arg1:T50 Arg2:T12	
+R8	Synergy-Response Arg1:T14 Arg2:T12	
+R9	Mediated-Non-Response Arg1:T13 Arg2:T12	
+T51	Biomarker 946 972	feedback activation of AKT
+R10	Mediator Arg1:T13 Arg2:T51	
+#14	AnnotatorNotes T16	CHEMBL98350
+T52	Drug-Class 1302 1319	inhibitor of PI3K
+#15	AnnotatorNotes T17	CHEMBL1079175
+T53	Drug-Class 1385 1398	AKT inhibitor
+T54	Gene-Protein 1703 1707	SGK3
+#16	AnnotatorNotes T54	HGNC:10812
+T55	Biomarker 62 67	4EBP1
+#8	AnnotatorNotes T55	C087000
+#19	AnnotatorNotes T18	C53H83NO14
+R11	Association Arg1:T55 Arg2:T0	
+T56	Biomarker 578 613	PIM2-mediated 4EBP1 phosphorylation
+R12	Mediator Arg1:T7 Arg2:T56	
+T49	Gene-Protein 821 827	GSK-3β

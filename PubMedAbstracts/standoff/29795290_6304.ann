@@ -1,0 +1,99 @@
+T1	Variant 30 38	rs438811
+T12	Disease 676 678	AD
+#1	AnnotatorNotes T12	DOID:0110035
+T14	Variant 820 828	rs438811
+T16	Biomarker 957 996	carrying one minor allele T of rs438811
+T18	Disease 1043 1045	AD
+T19	Biomarker 1099 1125	minor allele T of rs438811
+T21	Variant 1225 1233	rs438811
+T22	Variant 1327 1335	rs438811
+T23	Disease 1386 1388	AD
+T25	Variant 1524 1532	rs438811
+T26	Variant 1694 1702	rs438811
+T27	Disease 1735 1737	AD
+#4	AnnotatorNotes T27	DOID:0110035
+T28	Variant 1882 1890	rs438811
+T29	Variant 2062 2070	rs438811
+T3	Disease 171 173	AD
+#5	AnnotatorNotes T3	DOID:10652
+T34	Biomarker 2138 2269	rs483082, a brain eQTL for APOE which is in complete linkage with rs438811 and was also identified can interact with APOE ε4 status
+T35	Disease 2280 2282	AD
+T36	Variant 2434 2442	rs483082
+T37	Biomarker 2434 2442	rs483082
+T4	Variant 270 278	rs438811
+T5	Disease 396 398	AD
+T6	Variant 463 471	rs438811
+T8	Disease 546 548	AD
+T39	Gene-Protein 55 62	APOE ε4
+#6	AnnotatorNotes T39	HGNC:613
+R1	Variant-Of Arg1:T39 Arg2:T1	
+R2	Association Arg1:T1 Arg2:T3	
+T2	Gene-Protein 205 209	APOE
+R3	Variant-Of Arg1:T2 Arg2:T4	
+R4	Association Arg1:T4 Arg2:T5	
+T40	Gene-Protein 447 454	APOE ε4
+R5	Variant-Of Arg1:T40 Arg2:T6	
+T7	Gene-Protein 615 622	APOE ε4
+T10	Gene-Protein 704 711	APOE ε4
+T11	Gene-Protein 858 865	APOE ε4
+R7	Variant-Of Arg1:T11 Arg2:T14	
+T43	Variant 646 654	rs438811
+R8	Variant-Of Arg1:T7 Arg2:T43	
+R9	Risk-Factor Arg1:T16 Arg2:T18	
+T44	Gene-Protein 1059 1066	APOE ε4
+T20	Biomarker 1146 1197	increased APOE expression level in substantia nigra
+T45	Gene-Protein 1203 1207	APOE
+R10	Variant-Of Arg1:T45 Arg2:T21	
+T46	Gene-Protein 1340 1344	APOE
+R11	Variant-Of Arg1:T46 Arg2:T22	
+T47	Gene-Protein 1469 1476	APOE ε4
+R12	Variant-Of Arg1:T47 Arg2:T25	
+T48	Gene-Protein 1707 1711	APOE
+R13	Variant-Of Arg1:T48 Arg2:T26	
+T50	Gene-Protein 1717 1724	APOE ε4
+T51	Biomarker 1748 1755	APOE ε4
+T52	Gene-Protein 1748 1752	APOE
+T53	Biomarker 1766 1773	APOE ε4
+T54	Gene-Protein 1766 1770	APOE
+T55	Biomarker 1794 1801	APOE ε4
+T56	Gene-Protein 1794 1798	APOE
+R14	Variant-Of Arg1:T56 Arg2:T28	
+R15	Variant-Of Arg1:T56 Arg2:T29	
+T57	Gene-Protein 2119 2125	POLR2A
+#2	AnnotatorNotes T57	HGNC:9187
+T58	Gene-Protein 2130 2136	RPC155
+#3	AnnotatorNotes T58	HGNC:30074
+T30	Gene-Protein 2165 2169	APOE
+R16	Association Arg1:T34 Arg2:T35	
+T31	Gene-Protein 2255 2262	APOE ε4
+T32	Gene-Protein 2353 2358	HNF4G
+#7	AnnotatorNotes T32	HGNC:5026
+T33	Gene-Protein 2360 2365	CEBPB
+#9	AnnotatorNotes T33	HGNC:1834
+T59	Gene-Protein 2367 2371	MXI1
+#10	AnnotatorNotes T59	HGNC:7534
+T60	Gene-Protein 2373 2378	HDAC2
+#11	AnnotatorNotes T60	HGNC:4853
+T61	Gene-Protein 2380 2383	SP1
+#12	AnnotatorNotes T61	HGNC:11205
+T62	Gene-Protein 2385 2389	RFX5
+#13	AnnotatorNotes T62	HGNC:9986
+T63	Gene-Protein 2391 2394	MAX
+#14	AnnotatorNotes T63	HGNC:6913
+T64	Gene-Protein 2396 2401	EP300
+#15	AnnotatorNotes T64	HGNC:3373
+T65	Gene-Protein 2403 2407	JUND
+#16	AnnotatorNotes T65	HGNC:6206
+T66	Gene-Protein 2409 2414	FOSL2
+#17	AnnotatorNotes T66	HGNC:3798
+T67	Gene-Protein 2416 2422	ZBTB7A
+#18	AnnotatorNotes T67	HGNC:18078
+T68	Gene-Protein 2427 2432	CEBPD
+#19	AnnotatorNotes T68	HGNC:1835
+R6	Risk-Factor Arg1:T43 Arg2:T12	
+R17	Risk-Factor Arg1:T14 Arg2:T18	
+T9	Gene-Protein 1156 1160	APOE
+#8	AnnotatorNotes T9	HGNC:613
+R18	Risk-Factor Arg1:T22 Arg2:T23	
+T13	Variant 595 603	rs438811
+R19	Variant-Of Arg1:T7 Arg2:T13	

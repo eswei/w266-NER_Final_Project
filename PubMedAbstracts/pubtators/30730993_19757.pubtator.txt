@@ -1,0 +1,48 @@
+30730993_19757|t|RSS_IDENT_p_30730993_b_1_4_6
+30730993_19757|a| Serum cardiac troponin is a specific and sensitive biomarker of cardiac injury that can detect even minor myocardial injury [ 19 ]. Cardiac troponin can neither cross the placenta, due to its molecular size, nor can it be produced in the placenta [ 20 , 21 ]. Therefore, the elevated cTnI after delivery could indicate myocardial injury during delivery. In the present study, PIH, placental abnormality, and decreased hemoglobin after delivery were the factors associated with elevated cTnI levels. PIH is a hypertensive disorder during pregnancy closely linked to preeclampsia. In pregnant women with preeclampsia, placental hypoperfusion caused by abnormalities in the development of the placental vasculature induces the release of antiangiogenic factors, which impair vascular endothelial function in the placental and maternal circulation [ 22 – 24 ]. Moreover, increased sensitivity to angiotensin II has been reported in preeclampsia [ 22 , 23 ]. These changes could lead to myocardial injury due to microcirculatory disorders in addition to hypertension’s effects. Indeed, previous articles reported elevated cTnI levels and increased risk of cardiovascular disease during postpartum follow-up in pregnant woman with PIH [ 20 , 25 ]. Additionally, the risk factors for placental abruption are advanced age, multiple gestation, and PIH, which are also risk factors for PPCM [ 26 – 29 ]. Additionally, placenta previa is related to increased bleeding during delivery and the subsequent anemia. In addition to bleeding, which increases the vascular resistance, increased blood pressure during pregnancy might lead to temporal hypoperfusion and subsequent myocardial injury [ 30 , 31 ]. These factors are closely linked and affect each other. Thus, subclinical myocardial injury might occur during the peripartum period if PIH, placental abnormality, and anemia after delivery are present. 
+30730993_19757	30	52	Serum cardiac troponin	Biomarker
+30730993_19757	44	52	troponin	Genefamily	family:1219
+30730993_19757	94	108	cardiac injury	Disease	D006335
+30730993_19757	94	153	cardiac injury that can detect even minor myocardial injury	Collection
+30730993_19757	136	153	myocardial injury	Disease	not found
+30730993_19757	170	178	troponin	Gene-protein
+30730993_19757	305	333	elevated cTnI after delivery	Biomarker
+30730993_19757	314	318	cTnI	Genefamily	not found
+30730993_19757	349	382	myocardial injury during delivery	Disease	not found
+30730993_19757	406	409	PIH	Disease	D046110
+30730993_19757	411	432	placental abnormality	Biomarker
+30730993_19757	438	473	decreased hemoglobin after delivery	Biomarker
+30730993_19757	448	458	hemoglobin	Genefamily	family:940
+30730993_19757	507	527	elevated cTnI levels	Biomarker
+30730993_19757	516	520	cTnI	Genefamily
+30730993_19757	529	532	PIH	Disease
+30730993_19757	538	559	hypertensive disorder	Disease	DOID:10763
+30730993_19757	595	607	preeclampsia	Disease	DOID:10591
+30730993_19757	632	644	preeclampsia	Disease
+30730993_19757	646	669	placental hypoperfusion	Disease	not found
+30730993_19757	680	741	abnormalities in the development of the placental vasculature	Biomarker
+30730993_19757	897	936	increased sensitivity to angiotensin II	Biomarker	D000804
+30730993_19757	922	936	angiotensin II	Gene-protein	HGNC:333
+30730993_19757	958	970	preeclampsia	Disease
+30730993_19757	1012	1029	myocardial injury	Disease
+30730993_19757	1037	1063	microcirculatory disorders	Biomarker
+30730993_19757	1037	1101	microcirculatory disorders in addition to hypertension’s effects	Collection
+30730993_19757	1079	1093	hypertension’s	Biomarker	D006973
+30730993_19757	1138	1158	elevated cTnI levels	Biomarker
+30730993_19757	1147	1151	cTnI	Gene-protein
+30730993_19757	1181	1258	cardiovascular disease during postpartum follow-up in pregnant woman with PIH	Disease	DOID:1287, D046110	Conjunction
+30730993_19757	1307	1326	placental abruption	Disease	DOID:9667
+30730993_19757	1331	1343	advanced age	Biomarker
+30730993_19757	1331	1372	advanced age, multiple gestation, and PIH	Collection
+30730993_19757	1345	1363	multiple gestation	Biomarker
+30730993_19757	1369	1372	PIH	Biomarker	D046110
+30730993_19757	1406	1410	PPCM	Disease	DOID:9997
+30730993_19757	1438	1453	placenta previa	Biomarker	D010923
+30730993_19757	1522	1528	anemia	Disease	DOID:2355
+30730993_19757	1596	1637	increased blood pressure during pregnancy	Biomarker
+30730993_19757	1652	1674	temporal hypoperfusion	Disease	not found
+30730993_19757	1652	1707	temporal hypoperfusion and subsequent myocardial injury	Collection
+30730993_19757	1690	1707	myocardial injury	Disease
+30730993_19757	1783	1812	subclinical myocardial injury	Disease	not found
+30730993_19757	1857	1910	PIH, placental abnormality, and anemia after delivery	Biomarker
+

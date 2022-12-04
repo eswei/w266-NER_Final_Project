@@ -1,0 +1,76 @@
+T0	Disease 42 56	breast cancers
+#1	AnnotatorNotes T0	DOID:1612
+T1	Chemical 101 110	oestrogen
+T10	Biomarker 484 498	TP53 mutations
+T11	Biomarker 578 630	expression of TP53 isoforms and other family members
+T12	Biomarker 701 731	elevated levels of Δ40TP53 RNA
+T13	Disease 735 740	TNBCs
+T14	Biomarker 753 784	elevated levels of Δ133TP53 RNA
+T15	Disease 794 808	breast cancers
+T16	Biomarker 825 851	elevated ΔNTP63 RNA levels
+T17	Disease 865 879	breast cancers
+T18	Disease 953 966	breast cancer
+T19	Biomarker 989 994	ΔNp63
+T2	Disease 174 178	TNBC
+T20	Disease 1006 1012	cancer
+#8	AnnotatorNotes T20	DOID:162
+T21	Disease 1031 1036	TNBCs
+T22	Disease 1087 1100	breast cancer
+T23	Biomarker 1112 1125	loss of TAp73
+T24	Disease 1202 1215	breast cancer
+T25	Biomarker 1329 1342	TP53 mutation
+T3	Biomarker 180 241	lacking expression of ER, progesterone receptor (PR) and HER2
+T4	Chemical 206 218	progesterone
+T5	Disease 267 281	breast cancers
+T6	Biomarker 292 325	somatic mutation in the TP53 gene
+T7	Biomarker 347 361	TP53 mutations
+T8	Disease 408 413	TNBCs
+T9	Disease 464 478	breast cancers
+T26	Biomarker 101 128	oestrogen receptor positive
+T27	Gene-Protein 101 119	oestrogen receptor
+#2	AnnotatorNotes T27	HGNC:3467
+T28	Biomarker 136 150	HER2 amplified
+T29	Gene-Protein 136 140	HER2
+#7	AnnotatorNotes T29	HGNC:3430
+T30	Biomarker 156 172	Triple Negatives
+T31	Collection 101 172	oestrogen receptor positive (ER+), HER2 amplified, and Triple Negatives
+R1	Association Arg1:T31 Arg2:T0	
+R2	Association Arg1:T3 Arg2:T2	
+#12	AnnotatorNotes T2	DOID:0060081
+T32	Gene-Protein 202 204	ER
+T33	Gene-Protein 237 241	HER2
+T34	Gene-Protein 206 227	progesterone receptor
+#17	AnnotatorNotes T34	HGNC:8910
+T35	Gene-Protein 229 231	PR
+#18	AnnotatorNotes T35	HGNC:8910
+R3	Association Arg1:T6 Arg2:T5	
+T36	Gene-Protein 316 320	TP53
+#13	AnnotatorNotes T36	HGNC:11998
+R4	Association Arg1:T7 Arg2:T8	
+T37	Gene-Protein 347 351	TP53
+#14	AnnotatorNotes T8	DOID:0060081
+R5	Prognostic-Poor Arg1:T10 Arg2:T9	
+T38	Gene-Protein 484 488	TP53
+T39	Gene-Protein 592 596	TP53
+R6	Prognostic-Poor Arg1:T11 Arg2:T9	
+R7	Association Arg1:T12 Arg2:T13	
+R8	Association Arg1:T14 Arg2:T15	
+R9	Association Arg1:T16 Arg2:T17	
+T40	Biomarker 924 931	Δ133p53
+R10	Association Arg1:T40 Arg2:T18	
+R11	Association Arg1:T19 Arg2:T21	
+T41	Drug 1056 1061	TAp63
+#3	AnnotatorNotes T41	not found
+R12	Protects-from Arg1:T41 Arg2:T22	
+T42	Gene-Protein 1056 1061	TAp63
+#4	AnnotatorNotes T42	HGNC:15979
+T43	Gene-Protein 1120 1125	TAp73
+#5	AnnotatorNotes T43	HGNC:12003
+#6	AnnotatorNotes T18	DOID:1612
+T44	Gene-Protein 1291 1295	TP53
+T45	Gene-Protein 1329 1333	TP53
+T46	Gene-Protein 129 132	(ER
+#9	AnnotatorNotes T46	HGNC:3467
+T47	Biomarker 1129 1150	upregulation of ΔNp73
+T48	Collection 1112 1150	loss of TAp73 or upregulation of ΔNp73
+R13	Association Arg1:T48 Arg2:T24	

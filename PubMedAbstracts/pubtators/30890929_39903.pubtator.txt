@@ -1,0 +1,32 @@
+30890929_39903|t|RSS_IDENT_p_30890929_b_1_4_5
+30890929_39903|a| Among these hyperphosphorylation sites induced by AD P-tau in vivo, phosphorylation of tau at Ser422 was very interesting. Increase of Ser422 phosphorylation was found in the contralateral hippocampus and the ipsilateral cortex, where very limited tau pathology were observed. Thus, Ser422 phosphorylation may be an early event in AD P-tau-induced tau pathology. Several kinases are able to phosphorylate Ser422, including Jnk/SAPK (Wang and Liu, 2008 ). PP2A and PP5 effectively dephosphorylate Ser422 (Liu et al., 2002 ). Treatment of brain slices with OA induces tau hyperphosphorylation at multiple sites, with the most increase at Ser422 (Gong et al., 2000 ; Qian et al., 2010 ). Ser422 is abnormally hyperphosphorylated in AD brain (Liu et al., 2009 ). Normal tau protein has been proposed to have a “paper clip” structure, in which the N- and C-terminal ends fold over the microtubule-binding domain to prevent the protein from self-aggregation (Mandelkow et al., 2007 ). Ser422 phosphorylation may make tau C-terminus to stretch out and expose the microtubule-binding domain, thereby leading to tau captured easily by AD P-tau. Specially, Ser422 was the only site to be hyperphosphorylated in the ipsilateral and contralateral hippocampi and the ipsilateral cortex of AD P-tau injected Tg/hTau mice. Thus, Ser422 phosphorylation may be critical in AD P-tau-induced aggregation/tau pathology, but this remains to be determined in future studies. 
+30890929_39903	80	88	AD P-tau	Gene-protein	HGNC:6893
+30890929_39903	117	120	tau	Gene-protein	GNC:6893
+30890929_39903	153	187	Increase of Ser422 phosphorylation	Biomarker
+30890929_39903	278	281	tau	Gene-protein
+30890929_39903	313	335	Ser422 phosphorylation	Biomarker
+30890929_39903	361	363	AD	Disease
+30890929_39903	364	369	P-tau	Gene-protein
+30890929_39903	378	381	tau	Gene-protein
+30890929_39903	453	456	Jnk	Gene-protein	HGNC:6881
+30890929_39903	457	461	SAPK	Gene-protein	HGNC:6886
+30890929_39903	485	489	PP2A	Gene-protein	HGNC:29302
+30890929_39903	494	497	PP5	Gene-protein	HGNC:9322
+30890929_39903	585	587	OA	Chemical
+30890929_39903	596	599	tau	Gene-protein
+30890929_39903	715	755	Ser422 is abnormally hyperphosphorylated	Biomarker
+30890929_39903	759	761	AD	Disease
+30890929_39903	796	799	tau	Gene-protein
+30890929_39903	910	936	microtubule-binding domain	Proteindomain
+30890929_39903	1041	1055	tau C-terminus	Proteindomain
+30890929_39903	1086	1112	microtubule-binding domain	Proteindomain
+30890929_39903	1133	1136	tau	Gene-protein
+30890929_39903	1156	1164	AD P-tau	Gene-protein
+30890929_39903	1177	1227	Ser422 was the only site to be hyperphosphorylated	Biomarker
+30890929_39903	1306	1308	AD	Disease
+30890929_39903	1309	1314	P-tau	Gene-protein
+30890929_39903	1344	1366	Ser422 phosphorylation	Biomarker
+30890929_39903	1386	1388	AD	Disease
+30890929_39903	1389	1394	P-tau	Gene-protein
+30890929_39903	1415	1418	tau	Gene-protein
+

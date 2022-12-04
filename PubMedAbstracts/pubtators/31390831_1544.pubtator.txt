@@ -1,0 +1,52 @@
+31390831_1544|t|RSS_IDENT_s_31390831_b_1_1
+31390831_1544|a| 1. Introduction Corneal dystrophies (CDs) are a diverse group of inherited disorders with a heterogeneous genetic background. Patients with various CDs are diagnosed according to the International Committee for Classification of Corneal Dystrophies (IC3D) guidelines through ophthalmologic examination, pathologic examination, and genetic analysis [ 1 ]. Posterior polymorphous corneal dystrophy (PPCD) is a rare, autosomal dominantly inherited, corneal endothelial dystrophy characterized by an abnormal transition of the corneal endothelium into stratified squamous epithelium and corneal edema [ 2 , 3 ]. PPCD is diagnosed based on ophthalmologic findings, but molecular genetic analysis can differentiate various clinically similar CDs [ 4 , 5 ]. Locus heterogeneity has been identified for PPCD with mutations in the COL8A2 (collagen type VIII alpha 2 chain) gene on chromosome 1p34.3 (PPCD2), the ZEB1 (zinc finger E-box binding homeobox 1) gene on chromosome 10p11.2 (PPCD3), and the GRHL2 (grainyhead like transcription factor 2) gene on chromosome 8q22.3 (PPCD4) [ 6 , 7 , 8 , 9 ]. A locus for PPCD1 maps to the pericentromeric region of chromosome 20. The phentotypes described as PPCD share similarities with a severe phenotype of CD that was originally termed congenital hereditary endothelial dystrophy (CHED). Patients with autosomal dominant CHED1 showed evident corneal opacity by 1 year of age and required corneal transplantation [ 10 ]. Previous studies demonstrated that these two disorders could be caused by mutations within the same gene but displayed variable phenotypic severity. This region was recently implicated in the transcriptional dysregulation of the OVOL2 (ovo like zinc finger 2) gene on chromosome 20p11.23 [ 11 ]. Therefore, CHED1 is no longer classified as a distinct disease entity but is considered a more severe form of PPCD1 in the updated 2015 IC3D. CHED2 is an autosomal recessive disease and presented with corneal opacity at birth or in the immediate newborn period. Mutations in SLC4A11 (solute carrier family 4 member 11), a transmembrane protein in the family of sbicarbonate transporters, are present in the majority of CHED2 patients [ 12 ]. However, not all genetic causes of endothelial CDs are known, thus, it is possible to identify novel candidate genes for CDs via continuous studies. Here, we report the identification of a novel heterozygous missense mutation in ZNF143 (zinc finger protein 143) found in three individuals of the same family with endothelial CD.
+31390831_1544	44	63	Corneal dystrophies	Disease	DOID:2566
+31390831_1544	65	68	CDs	Disease	DOID:2566
+31390831_1544	176	179	CDs	Disease
+31390831_1544	383	423	Posterior polymorphous corneal dystrophy	Disease	DOID:0060457
+31390831_1544	425	429	PPCD	Disease	DOID:0060457
+31390831_1544	474	503	corneal endothelial dystrophy	Disease	DOID:0060443
+31390831_1544	524	606	abnormal transition of the corneal endothelium into stratified squamous epithelium	Biomarker
+31390831_1544	524	624	abnormal transition of the corneal endothelium into stratified squamous epithelium and corneal edema	Collection
+31390831_1544	611	624	corneal edema	Biomarker	D015715
+31390831_1544	636	640	PPCD	Disease
+31390831_1544	764	767	CDs	Disease
+31390831_1544	823	827	PPCD	Disease
+31390831_1544	833	1099	mutations in the COL8A2 (collagen type VIII alpha 2 chain) gene on chromosome 1p34.3 (PPCD2), the ZEB1 (zinc finger E-box binding homeobox 1) gene on chromosome 10p11.2 (PPCD3), and the GRHL2 (grainyhead like transcription factor 2) gene on chromosome 8q22.3 (PPCD4)	Biomarker
+31390831_1544	850	856	COL8A2	Gene-protein	HGNC:2216
+31390831_1544	858	890	collagen type VIII alpha 2 chain	Gene-protein	HGNC:2216
+31390831_1544	919	924	PPCD2	Gene-protein	HGNC:2216
+31390831_1544	931	935	ZEB1	Gene-protein	HGNC:11642
+31390831_1544	937	941	zinc	Chemical
+31390831_1544	937	973	zinc finger E-box binding homeobox 1	Gene-protein	HGNC:11642
+31390831_1544	1003	1008	PPCD3	Gene-protein	HGNC:11642
+31390831_1544	1019	1024	GRHL2	Gene-protein	HGNC:2799
+31390831_1544	1026	1064	grainyhead like transcription factor 2	Gene-protein	HGNC:2799
+31390831_1544	1093	1098	PPCD4	Gene-protein	HGNC:2799
+31390831_1544	1131	1136	PPCD1	Gene-protein	HGNC:12723
+31390831_1544	1219	1223	PPCD	Disease
+31390831_1544	1270	1272	CD	Disease	DOID:2566
+31390831_1544	1300	1343	congenital hereditary endothelial dystrophy	Disease	DOID:0060649
+31390831_1544	1345	1349	CHED	Disease	DOID:0060649
+31390831_1544	1366	1390	autosomal dominant CHED1	Disease	DOID:0110855
+31390831_1544	1398	1438	evident corneal opacity by 1 year of age	Biomarker
+31390831_1544	1676	1718	transcriptional dysregulation of the OVOL2	Biomarker
+31390831_1544	1713	1718	OVOL2	Gene-protein	HGNC:15804
+31390831_1544	1720	1742	ovo like zinc finger 2	Gene-protein	HGNC:15804
+31390831_1544	1729	1733	zinc	Chemical
+31390831_1544	1791	1796	CHED1	Disease	DOID:0110855
+31390831_1544	1890	1895	PPCD1	Disease	DOID:0110855
+31390831_1544	1922	1927	CHED2	Disease	C536439
+31390831_1544	1981	2040	corneal opacity at birth or in the immediate newborn period	Biomarker	D003318
+31390831_1544	2042	2098	Mutations in SLC4A11 (solute carrier family 4 member 11)	Biomarker
+31390831_1544	2055	2062	SLC4A11	Gene-protein	HGNC:16438
+31390831_1544	2064	2097	solute carrier family 4 member 11	Gene-protein	HGNC:16438
+31390831_1544	2199	2204	CHED2	Disease
+31390831_1544	2257	2272	endothelial CDs	Disease	DOID:0060443
+31390831_1544	2343	2346	CDs	Disease
+31390831_1544	2417	2482	heterozygous missense mutation in ZNF143 (zinc finger protein 143	Biomarker
+31390831_1544	2451	2457	ZNF143	Gene-protein	HGNC:12928
+31390831_1544	2459	2463	zinc	Chemical
+31390831_1544	2459	2482	zinc finger protein 143	Gene-protein	HGNC:12928
+31390831_1544	2535	2549	endothelial CD	Disease	DOID:0060443
+

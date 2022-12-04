@@ -1,0 +1,64 @@
+T0	Drug-Class 37 42	ICI’s
+T1	Disease 125 130	tumor
+#2	AnnotatorNotes T1	DOID:162
+T11	Disease 809 814	tumor
+T14	Disease 986 998	osteosarcoma
+#4	AnnotatorNotes T14	DOID:3347
+T15	Disease 1004 1045	Metastatic, but not primary, osteosarcoma
+T17	Disease 1131 1151	primary osteosarcoma
+#6	AnnotatorNotes T17	DOID:3347
+T19	Disease 1193 1228	primary and metastatic osteosarcoma
+#8	AnnotatorNotes T19	DOID:3347
+T2	Disease 198 203	tumor
+T21	Drug 1298 1307	cisplatin
+T23	Disease 1365 1377	osteosarcoma
+T24	Disease 1486 1491	tumor
+T25	Disease 1597 1602	tumor
+T26	Disease 1643 1655	osteosarcoma
+T3	Disease 482 487	tumor
+T5	Disease 533 538	tumor
+T6	Disease 583 588	tumor
+T7	Drug-Class 628 631	ICI
+T8	Disease 673 678	tumor
+T4	Gene-Protein 232 237	PD-L1
+#1	AnnotatorNotes T4	HGNC:17635
+T9	Gene-Protein 242 247	PD-L2
+#9	AnnotatorNotes T9	HGNC:18731
+T10	Gene-Protein 330 344	PD-L1/PD-1 mAb
+#10	AnnotatorNotes T10	not found
+T12	Gene-Protein 435 439	PD-1
+#18	AnnotatorNotes T12	HGNC:8760
+T13	Gene-Protein 440 445	PD-L1
+T16	Biomarker 435 450	PD-1/PD-L1 axis
+R1	Association Arg1:T16 Arg2:T3	
+T20	Gene-Protein 498 502	PD-1
+T22	Gene-Protein 503 508	PD-L1
+T27	Gene-Protein 707 712	PD-L1
+T28	Gene-Protein 717 722	PD-L2
+T29	Gene-Protein 764 769	PD-L1
+T30	Gene-Protein 774 779	PD-L2
+T31	Biomarker 774 779	PD-L2
+#15	AnnotatorNotes T31	D061027
+T32	Biomarker 764 769	PD-L1
+T33	Collection 764 779	PD-L1 and PD-L2
+R4	Association Arg1:T33 Arg2:T11	
+#3	AnnotatorNotes T32	D061027
+T34	Gene-Protein 949 954	PD-L1
+T35	Biomarker 949 970	PD-L1 mRNA expression
+R5	Association Arg1:T35 Arg2:T14	
+T36	Biomarker 1061 1066	PD-L1
+T37	Gene-Protein 1061 1066	PD-L1
+#5	AnnotatorNotes T15	DOID:3347
+R6	Association Arg1:T36 Arg2:T15	
+T38	Gene-Protein 1110 1115	PD-L1
+T18	Biomarker 1110 1115	PD-L1
+R7	Association Arg1:T18 Arg2:T17	
+T39	Gene-Protein 1249 1254	PD-L1
+T40	Biomarker 1249 1254	PD-L1
+#7	AnnotatorNotes T21	CHEMBL11359
+R8	Mediated-Non-Response Arg1:T21 Arg2:T23	
+R9	Mediator Arg1:T21 Arg2:T40	
+T41	Gene-Protein 1439 1443	PD-L
+T42	Gene-Protein 1477 1482	PD-L2
+T43	Gene-Protein 1634 1639	PD-L2
+T44	Drug-Class 330 352	PD-L1/PD-1 mAb therapy

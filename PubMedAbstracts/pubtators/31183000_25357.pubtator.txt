@@ -1,0 +1,51 @@
+31183000_25357|t|RSS_IDENT_p_31183000_b_1_4_4
+31183000_25357|a| It has been widely demonstrated that inhibiting the activity of some HDAC molecules could alleviate liver failure. Our previous study showed that HDAC broad-spectrum inhibitor trichostatin A (TSA) could effectively suppress the release of some inflammatory factors, improve liver and small intestine injury, increase the survival rate, and provide a protective effect in ALF or ACLF rats [ 31 ]. Another specific histone deacetylase 6 inhibitor, CY-1215, also known as ricolinostat, has reported many other effects such as anti-cancer [ 32 ], improvement of pulmonary fibrosis [ 33 ], and alleviation of peripheral neuropathy [ 34 ]. Our previous study has also demonstrated that ACY-1215 could inhibit the inflammatory response through the TLR4-MAPK/NF-κB pathway in ALF rats [ 35 ]. A clinical study has shown that the activities of HDAC1 and HDAC2 are obviously elevated in the patients with chronic hepatitis B, especially in the patients with liver failure. The downregulated HDAC1 could reduce the production of inflammatory factors [ 36 ]. However, whether the HDAC inhibitor (HDACi) plays an anti-hepatocyte apoptosis role in liver failure is still kept unknown at present. Many evidences have demonstrated that HDACi can inhibit the apoptosis in some tissue parenchymal cells or functional cells apart from cancer cells. It has been shown that TSA could attenuate apoptosis during acute lung injury [ 37 ]. Similarly, HDAC broad-spectrum inhibitor sodium butyrate could improve cardiac function and suppress myocardial remodeling in diabetic mice through decreasing the active caspase 3 protein level and the amounts of apoptosis myocardial cells [ 38 ]. Another HDAC broad-spectrum inhibitor, sulforaphane (SFN), significantly inhibits the apoptosis of LPS-induced porcine monocyte-derived dendritic cells [ 39 ]. 
+31183000_25357	67	113	inhibiting the activity of some HDAC molecules	Drug-class
+31183000_25357	99	103	HDAC	Genefamily	family:937
+31183000_25357	130	143	liver failure	Disease	D017093
+31183000_25357	176	180	HDAC	Genefamily
+31183000_25357	176	205	HDAC broad-spectrum inhibitor	Drug-class
+31183000_25357	206	220	trichostatin A	Drug	 CHEMBL99
+31183000_25357	222	225	TSA	Drug	 CHEMBL99
+31183000_25357	401	404	ALF	Disease	D017114
+31183000_25357	401	412	ALF or ACLF	Collection
+31183000_25357	408	412	ACLF	Disease	D065290
+31183000_25357	443	464	histone deacetylase 6	Gene-protein	HGNC:14064
+31183000_25357	443	474	histone deacetylase 6 inhibitor	Drug-class
+31183000_25357	476	483	CY-1215	Drug	CHEMBL2364628
+31183000_25357	476	511	CY-1215, also known as ricolinostat	Collection
+31183000_25357	499	511	ricolinostat	Drug	CHEMBL2364628
+31183000_25357	588	606	pulmonary fibrosis	Disease	DOID:3770
+31183000_25357	588	655	pulmonary fibrosis [ 33 ], and alleviation of peripheral neuropathy	Collection
+31183000_25357	634	655	peripheral neuropathy	Disease	 D010523
+31183000_25357	710	718	ACY-1215	Drug	CHEMBL2364628
+31183000_25357	771	775	TLR4	Gene-protein
+31183000_25357	776	780	MAPK	Genefamily
+31183000_25357	781	786	NF-κB	Genefamily
+31183000_25357	798	801	ALF	Disease
+31183000_25357	851	903	activities of HDAC1 and HDAC2 are obviously elevated	Biomarker
+31183000_25357	865	870	HDAC1	Gene-protein	HGNC:4852
+31183000_25357	875	880	HDAC2	Gene-protein	HGNC:4853
+31183000_25357	925	944	chronic hepatitis B	Disease	D019694
+31183000_25357	925	991	chronic hepatitis B, especially in the patients with liver failure	Collection
+31183000_25357	978	991	liver failure	Disease
+31183000_25357	1011	1016	HDAC1	Gene-protein
+31183000_25357	1098	1102	HDAC	Genefamily
+31183000_25357	1098	1112	HDAC inhibitor	Drug-class
+31183000_25357	1114	1119	HDACi	Drug-class
+31183000_25357	1164	1177	liver failure	Disease
+31183000_25357	1250	1255	HDACi	Drug-class
+31183000_25357	1346	1352	cancer	Disease	DOID:162
+31183000_25357	1383	1386	TSA	Drug
+31183000_25357	1420	1437	acute lung injury	Disease	 D055371
+31183000_25357	1457	1461	HDAC	Genefamily
+31183000_25357	1457	1486	HDAC broad-spectrum inhibitor	Drug-class
+31183000_25357	1487	1502	sodium butyrate	Drug	CHEMBL62381
+31183000_25357	1547	1580	myocardial remodeling in diabetic	Disease	not found, not found	Conjunction
+31183000_25357	1616	1625	caspase 3	Gene-protein
+31183000_25357	1702	1706	HDAC	Genefamily
+31183000_25357	1702	1731	HDAC broad-spectrum inhibitor	Drug-class
+31183000_25357	1733	1745	sulforaphane	Drug	CHEMBL48802
+31183000_25357	1747	1750	SFN	Drug	CHEMBL48802
+31183000_25357	1793	1796	LPS	Chemical
+

@@ -1,0 +1,63 @@
+T0	Chemical 81 84	PO₂
+T1	Disease 457 479	pulmonary hypertension
+#2	AnnotatorNotes T1	DOID:6432
+T2	Disease 487 499	lung disease
+#3	AnnotatorNotes T2	DOID:850
+T3	Disease 636 643	COPD-PH
+T4	Disease 795 802	COPD-PH
+T5	Chemical 1021 1024	PO₂
+T6	Biomarker 86 90	FEV₁
+T7	RNA-Noncoding 96 107	miR-190a-5p
+#1	AnnotatorNotes T7	HGNC:31560
+T8	Biomarker 96 118	miR-190a-5p expression
+T9	Disease 162 196	mortality in patients with COPD-PH
+#6	AnnotatorNotes T9	D009026, DOID:3083, DOID:6432
+A1	Conjunction T4
+A2	Conjunction T9
+T10	Biomarker 81 84	PO₂
+T11	Collection 81 118	PO₂, FEV₁, and miR-190a-5p expression
+R1	Risk-Factor Arg1:T11 Arg2:T9	
+T12	Biomarker 211 238	lower levels of miR-190a-5p
+T13	RNA-Noncoding 227 238	miR-190a-5p
+T14	Disease 285 292	COPD-PH
+A3	Conjunction T14
+#7	AnnotatorNotes T14	DOID:3083, DOID:6432
+T15	Disease 325 327	PH
+#8	AnnotatorNotes T15	DOID:6432
+R2	Association Arg1:T12 Arg2:T14	
+T16	RNA-Noncoding 355 366	miR-190a-5p
+T17	Biomarker 355 366	miR-190a-5p
+T18	Disease 400 407	COPD-PH
+A4	Conjunction T18
+R3	Association Arg1:T17 Arg2:T18	
+T19	Disease 409 424	COPD-related PH
+A5	Conjunction T19
+#9	AnnotatorNotes T19	DOID:3083, DOID:6432
+T20	Disease 507 514	hypoxia
+#10	AnnotatorNotes T20	D000860
+T21	Biomarker 540 570	exposure to hypoxic conditions
+R4	Association Arg1:T21 Arg2:T3	
+A6	Conjunction T3
+T22	Disease 667 669	PH
+T23	RNA-Noncoding 728 739	miR-190a-5p
+T24	Biomarker 707 739	circulating level of miR-190a-5p
+R5	Association Arg1:T24 Arg2:T4	
+T25	Disease 850 852	PH
+T26	RNA-Noncoding 867 878	miR-190a-5p
+T27	Biomarker 913 923	KLF15 mRNA
+T28	Gene-Protein 913 918	KLF15
+#4	AnnotatorNotes T28	HGNC:14536
+T29	Biomarker 867 878	miR-190a-5p
+T30	Biomarker 963 991	higher levels of miR-190a-5p
+T31	RNA-Noncoding 980 991	miR-190a-5p
+T32	Biomarker 1015 1024	lower PO₂
+T33	Disease 941 948	COPD-PH
+A7	Conjunction T33
+T34	Disease 1049 1056	COPD-PH
+A8	Conjunction T34
+R6	Association Arg1:T30 Arg2:T34	
+T35	RNA-Noncoding 1088 1099	miR-190a-5p
+T36	Biomarker 1076 1099	circulating miR-190a-5p
+T37	Disease 1163 1170	COPD-PH
+A9	Conjunction T37
+R7	Diagnostic-of Arg1:T36 Arg2:T37	

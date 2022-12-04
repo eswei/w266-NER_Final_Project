@@ -1,0 +1,87 @@
+T0	Chemical 121 140	N-acetylglucosamine
+T10	Disease 896 902	asthma
+#2	AnnotatorNotes T10	DOID:2841
+T11	Disease 908 915	cancers
+#3	AnnotatorNotes T11	DOID:162
+T13	Disease 1076 1092	Th2 inflammation
+T14	Disease 1156 1174	pulmonary melanoma
+#6	AnnotatorNotes T14	not found
+T16	Disease 1187 1195	Melanoma
+#8	AnnotatorNotes T16	DOID:1909
+T18	Disease 1289 1307	pulmonary melanoma
+T2	Disease 360 381	inflammatory diseases
+#11	AnnotatorNotes T2	not found
+T22	Disease 1437 1442	tumor
+#13	AnnotatorNotes T22	DOID:162
+T25	Disease 1531 1538	allergy
+#14	AnnotatorNotes T25	not found
+T26	Disease 1543 1550	cancers
+T28	Disease 1590 1611	inflammatory diseases
+T29	Disease 1616 1623	cancers
+T3	Disease 386 392	tumors
+#18	AnnotatorNotes T3	DOID:162
+T30	Biomarker 1644 1660	Th2 inflammation
+T5	Disease 505 522	allergic diseases
+#22	AnnotatorNotes T5	DOID:1205
+T9	Disease 870 886	allergic disease
+#24	AnnotatorNotes T9	DOID:1205
+T1	GeneFamily 28 37	Chitinase
+#1	AnnotatorNotes T1	family:816
+T4	GeneFamily 235 244	chitinase
+#25	AnnotatorNotes T4	family:816
+T7	Collection 360 392	inflammatory diseases and tumors
+T8	Biomarker 235 348	chitinase and chitinase-like proteins (CLPs) have been identified in mammals, and their expression is upregulated
+R1	Association Arg1:T8 Arg2:T7	
+T17	Biomarker 394 416	Ym1/2 (Chi3l3, Chi3l4)
+T21	Gene-Protein 591 596	IL-17
+#26	AnnotatorNotes T21	HGNC:5981
+T23	Gene-Protein 648 674	Chitinase-3-like protein 1
+#27	AnnotatorNotes T23	HGNC:1932
+T24	Gene-Protein 401 407	Chi3l3
+#28	AnnotatorNotes T24	not found
+T27	Gene-Protein 676 682	Chi3l1
+#29	AnnotatorNotes T27	HGNC:1932
+T33	Gene-Protein 409 415	Chi3l4
+T34	Gene-Protein 394 399	Ym1/2
+#30	AnnotatorNotes T34	not found, not found
+T35	Gene-Protein 699 705	YKL-40
+#31	AnnotatorNotes T35	HGNC:1932
+T36	Gene-Protein 720 726	BRP-39
+#32	AnnotatorNotes T33	not found
+T37	Gene-Protein 808 814	Chi3l1
+T38	Collection 870 915	allergic disease, such as asthma, and cancers
+T39	Gene-Protein 1023 1029	Chi3l1
+R2	Association Arg1:T17 Arg2:T5	
+T40	Gene-Protein 917 923	Chi3l1
+T41	Biomarker 799 827	level of Chi3l1 in the blood
+T42	GeneFamily 249 272	chitinase-like proteins
+#33	AnnotatorNotes T42	not found
+T43	GeneFamily 274 278	CLPs
+#34	AnnotatorNotes T43	not found
+T44	Disease 628 646	parasite infection
+#35	AnnotatorNotes T44	D010272
+T6	GeneFamily 559 563	CLPs
+T45	GeneFamily 432 436	CLPs
+R3	Association Arg1:T41 Arg2:T38	
+T46	Gene-Protein 994 999	IL-13
+#23	AnnotatorNotes T46	HGNC:5973
+T47	Biomarker 1023 1029	Chi3l1
+T48	Gene-Protein 1104 1110	Chi3l1
+T15	Gene-Protein 1214 1220	Chi3l1
+T49	Gene-Protein 1257 1263	Chi3l1
+T19	Gene-Protein 1403 1409	Chi3l1
+T20	Gene-Protein 1420 1426	Chi3l1
+T50	Biomarker 1358 1426	cancer-associated fibroblast (CAF) expressed Chi3l1; secreted Chi3l1
+R4	Association Arg1:T50 Arg2:T22	
+T51	Gene-Protein 1521 1527	Chi3l1
+T52	Gene-Protein 1564 1570	Chi3l1
+T31	Collection 1590 1623	inflammatory diseases and cancers
+T32	Biomarker 1564 1570	Chi3l1
+R5	Association Arg1:T47 Arg2:T13	
+R7	Association Arg1:T32 Arg2:T31	
+T53	Chemical 65 71	chitin
+T12	Disease 948 964	Th2 inflammation
+#4	AnnotatorNotes T12	not found
+T54	Biomarker 1665 1681	tumor metastasis
+T55	Biomarker 1214 1231	Chi3l1 expression
+R6	Association Arg1:T55 Arg2:T16	

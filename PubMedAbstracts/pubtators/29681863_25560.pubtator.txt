@@ -1,0 +1,43 @@
+29681863_25560|t|RSS_IDENT_p_29681863_b_1_4_4
+29681863_25560|a| The efflux of free cholesterol from cells mediated by ABCA1 is the early step in reverse cholesterol transport, and ABCA1 promotes the solubilization of lipids and their release (Hassan et al., 2008 ). A molecular defect in the ABCA1 gene is the cause of Tangier disease, which leads to premature atherosclerosis, proteinuria, and HDL deficiency (Schaefer et al., 2010 ). Additionally, ABCA1 genetic variants are strongly associated with the risk of coronary artery disease (Willer et al., 2008 ). In patients with DN, the increased cholesterol accumulation was associated with ABCA1 downregulation in kidneys (Herman-Edelstein et al., 2014 ). In type 1 diabetes mellitus and diabetic apolipoprotein E knockout (apoE−/−) mice, the expression ABCA1 was downregulated in the kidney (Kruit et al., 2012 ; Yin et al., 2016 ). Our in vivo data demonstrated that the expression ABCA1 was downregulated in the kidneys of db/db mice, and treatment with TSF significantly decreased renal cholesterol levels and upregulated the expression of ABCA1. Silencing ABCA1 significantly suppressed the inhibitory effect of TSF on PA-induced total cholesterol levels in mTECs. Thus, we hypothesized that the ABCA1-mediated cholesterol efflux might play a major role in renal cholesterol accumulation that occurs in DN. 
+29681863_25560	49	60	cholesterol	Chemical
+29681863_25560	84	89	ABCA1	Gene-protein	HGNC:29
+29681863_25560	119	130	cholesterol	Chemical
+29681863_25560	146	151	ABCA1	Gene-protein
+29681863_25560	183	189	lipids	Chemical
+29681863_25560	234	268	molecular defect in the ABCA1 gene	Biomarker
+29681863_25560	258	263	ABCA1	Gene-protein
+29681863_25560	285	300	Tangier disease	Disease	DOID:1388
+29681863_25560	327	342	atherosclerosis	Biomarker	D050197
+29681863_25560	327	375	atherosclerosis, proteinuria, and HDL deficiency	Collection
+29681863_25560	344	355	proteinuria	Biomarker	D011507
+29681863_25560	361	375	HDL deficiency	Biomarker	C538394
+29681863_25560	416	421	ABCA1	Gene-protein
+29681863_25560	416	438	ABCA1 genetic variants	Biomarker
+29681863_25560	480	503	coronary artery disease	Disease	DOID:3393
+29681863_25560	545	547	DN	Disease	D003928
+29681863_25560	553	587	increased cholesterol accumulation	Biomarker
+29681863_25560	563	574	cholesterol	Chemical
+29681863_25560	608	613	ABCA1	Gene-protein
+29681863_25560	608	628	ABCA1 downregulation	Biomarker
+29681863_25560	677	740	type 1 diabetes mellitus and diabetic apolipoprotein E knockout	Disease	DOID:9744, not found
+29681863_25560	715	731	apolipoprotein E	Gene-protein
+29681863_25560	742	746	apoE	Gene-protein
+29681863_25560	761	809	expression ABCA1 was downregulated in the kidney	Biomarker
+29681863_25560	772	777	ABCA1	Gene-protein
+29681863_25560	902	907	ABCA1	Gene-protein
+29681863_25560	902	940	ABCA1 was downregulated in the kidneys	Biomarker
+29681863_25560	975	978	TSF	Drug	not found
+29681863_25560	1009	1020	cholesterol	Chemical
+29681863_25560	1062	1067	ABCA1	Gene-protein
+29681863_25560	1079	1084	ABCA1	Gene-protein
+29681863_25560	1135	1138	TSF	Drug
+29681863_25560	1142	1144	PA	Chemical
+29681863_25560	1159	1170	cholesterol	Chemical
+29681863_25560	1219	1224	ABCA1	Gene-protein
+29681863_25560	1219	1252	ABCA1-mediated cholesterol efflux	Biomarker
+29681863_25560	1234	1245	cholesterol	Chemical
+29681863_25560	1280	1310	renal cholesterol accumulation	Biomarker
+29681863_25560	1286	1297	cholesterol	Chemical
+29681863_25560	1326	1328	DN	Disease
+

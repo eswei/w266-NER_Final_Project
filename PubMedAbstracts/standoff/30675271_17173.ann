@@ -1,0 +1,79 @@
+T0	Gene-Protein 53 61	Borealin
+T1	Disease 200 205	tumor
+#2	AnnotatorNotes T1	DOID:162
+T10	Disease 743 764	endometrial carcinoma
+#3	AnnotatorNotes T10	DOID:2871
+T11	Disease 769 793	hepatocellular carcinoma
+#4	AnnotatorNotes T11	DOID:684
+T13	Gene-Protein 893 901	Borealin
+T14	Disease 987 993	cancer
+T16	Disease 1005 1050	head and neck, colon, liver and breast cancer
+#8	AnnotatorNotes T16	DOID:11934,DOID:219, DOID:3571, DOID:1612
+T19	Disease 1233 1237	OSCC
+T20	Disease 1291 1302	oral cancer
+#11	AnnotatorNotes T20	DOID:8618
+T23	Disease 1477 1481	OSCC
+T26	Disease 1703 1710	cancers
+#15	AnnotatorNotes T26	DOID:162
+T3	Disease 344 348	OSCC
+T5	Disease 447 451	OSCC
+T7	Disease 645 651	cancer
+#18	AnnotatorNotes T7	DOID:162
+T8	Disease 702 719	colorectal cancer
+#19	AnnotatorNotes T8	DOID:9256
+T9	Disease 721 741	head and neck cancer
+#20	AnnotatorNotes T9	DOID:11934
+T2	Gene-Protein 43 51	Survivin
+#1	AnnotatorNotes T2	HGNC:593
+T4	Gene-Protein 332 340	Survivin
+T6	Gene-Protein 883 891	Survivin
+T12	Gene-Protein 509 517	Survivin
+T18	Gene-Protein 388 396	Survivin
+T21	Gene-Protein 1200 1208	Survivin
+T24	Gene-Protein 1564 1572	Survivin
+T27	Gene-Protein 1390 1398	Survivin
+T28	Gene-Protein 63 71	Aurora-B
+#5	AnnotatorNotes T28	HGNC:11390
+T29	Gene-Protein 319 327	Aurora-B
+T30	Gene-Protein 375 383	Aurora-B
+T31	Gene-Protein 1577 1585	Aurora-B
+T32	Gene-Protein 811 819	Aurora-B
+T33	Gene-Protein 934 942	Aurora B
+#10	AnnotatorNotes T33	HGNC:11390
+T34	Gene-Protein 1187 1195	Aurora-B
+T35	Gene-Protein 1377 1385	Aurora-B
+#13	AnnotatorNotes T0	 HGNC:14629
+T36	Gene-Protein 76 82	INCENP
+#16	AnnotatorNotes T36	HGNC:6058
+T37	Gene-Protein 906 912	INCENP
+T38	GeneFamily 30 33	CPC
+#17	AnnotatorNotes T38	family:1338
+T39	Gene-Protein 265 270	USP22
+#21	AnnotatorNotes T39	HGNC:12621
+T40	Gene-Protein 368 373	USP22
+T41	Gene-Protein 1180 1185	USP22
+T42	Gene-Protein 1370 1375	USP22
+T15	Biomarker 30 33	CPC
+T17	Biomarker 265 270	USP22
+T43	Biomarker 332 340	Survivin
+T44	Biomarker 319 327	Aurora-B
+T45	Biomarker 363 407	high USP22, Aurora-B, or Survivin expression
+R1	Prognostic-Poor Arg1:T45 Arg2:T5	
+T46	Collection 645 793	cancer, which typically have a poor prognosis, including colorectal cancer, head and neck cancer, endometrial carcinoma and hepatocellular carcinoma
+T47	Biomarker 509 517	Survivin
+R2	Prognostic-Poor Arg1:T47 Arg2:T46	
+T48	Collection 987 1050	cancer, including head and neck, colon, liver and breast cancer
+T49	Biomarker 934 962	Aurora B is highly expressed
+R3	Association Arg1:T49 Arg2:T48	
+T50	Biomarker 1180 1229	USP22, Aurora-B and Survivin are highly expressed
+T51	Collection 1233 1302	OSCC, and serve an important role in the tumorigenesis of oral cancer
+R4	Association Arg1:T50 Arg2:T51	
+T52	Biomarker 1370 1409	USP22, Aurora-B and Survivin expression
+R5	Association Arg1:T52 Arg2:T23	
+T22	Biomarker 1549 1585	high levels of Survivin and Aurora-B
+R6	Association Arg1:T22 Arg2:T26	
+#6	AnnotatorNotes T3	DOID:0050866
+#7	AnnotatorNotes T17	C527170
+#9	AnnotatorNotes T44	C576921
+#12	AnnotatorNotes T43	D000077022
+R7	Association Arg1:T15 Arg2:T1	

@@ -1,0 +1,62 @@
+T0	Disease 126 128	AS
+#1	AnnotatorNotes T0	DOID:7147
+T10	Biomarker 743 748	B2747
+T11	Disease 779 781	AS
+T14	Disease 874 881	uveitis
+#4	AnnotatorNotes T14	DOID:13141
+T19	Disease 1065 1067	AS
+T2	Disease 371 373	AS
+T21	Disease 1184 1186	AS
+T23	Disease 1267 1269	AS
+T24	Disease 1355 1357	AS
+T4	Disease 442 444	AS
+T6	Disease 564 566	AS
+T8	Biomarker 719 724	B2707
+T9	Biomarker 726 731	B2727
+T1	Biomarker 381 388	HLA-B27
+R1	Association Arg1:T1 Arg2:T4	
+T3	Biomarker 488 546	expression of HLA-B27 was found to be significantly higher
+R2	Association Arg1:T3 Arg2:T6	
+T5	Biomarker 633 677	HLA-B27 genetic polymorphism B2704 and B2702
+T12	Biomarker 705 710	B2703
+T13	Biomarker 712 717	B2706
+T15	Biomarker 733 738	B2729
+T18	Collection 705 748	B2703, B2706, B2707, B2727, B2729 and B2747
+R3	Risk-Reduce Arg1:T18 Arg2:T11	
+R4	Risk-Factor Arg1:T5 Arg2:T11	
+T7	Biomarker 994 1001	HLA-B27
+R5	Diagnostic-of Arg1:T7 Arg2:T19	
+T16	Biomarker 1121 1128	HLA-B27
+T17	Gene-Protein 1369 1387	interleukin (IL)-8
+#2	AnnotatorNotes T17	HGNC:6025
+T20	Gene-Protein 1396 1425	tumor necrosis factor (TNF)-α
+#5	AnnotatorNotes T20	HGNC:11892
+T25	Gene-Protein 1434 1452	C-reactive protein
+#6	AnnotatorNotes T25	HGNC:2367
+T26	Gene-Protein 1454 1459	hsCRP
+#8	AnnotatorNotes T26	HGNC:2367
+T27	Gene-Protein 1496 1501	CCL11
+#12	AnnotatorNotes T27	 HGNC:10610
+T28	Gene-Protein 1472 1494	C-C motif chemokine 11
+#13	AnnotatorNotes T28	 HGNC:10610
+R6	Association Arg1:T16 Arg2:T21	
+T22	Gene-Protein 150 183	Human leukocyte antigen (HLA)-B27
+#7	AnnotatorNotes T22	not found
+T29	GeneFamily 237 269	major histocompatibility complex
+#9	AnnotatorNotes T29	family:588
+T30	GeneFamily 271 274	MHC
+#10	AnnotatorNotes T30	family:588
+T31	Biomarker 150 183	Human leukocyte antigen (HLA)-B27
+#11	AnnotatorNotes T31	D015796
+R7	Association Arg1:T31 Arg2:T2	
+T32	Gene-Protein 381 388	HLA-B27
+#14	AnnotatorNotes T32	not found
+#15	AnnotatorNotes T1	D015796
+T33	Gene-Protein 502 509	HLA-B27
+T34	Gene-Protein 633 640	HLA-B27
+T35	Gene-Protein 793 800	HLA-B27
+T36	Biomarker 793 800	HLA-B27
+T37	Gene-Protein 951 958	HLA-B27
+T38	Biomarker 951 959	HLA-B27-
+T39	Gene-Protein 994 1001	HLA-B27
+T40	Gene-Protein 1121 1128	HLA-B27

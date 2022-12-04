@@ -1,0 +1,149 @@
+T10	Drug-Class 746 758	chemotherapy
+T11	Biomarker 783 789	miRNAs
+T13	Disease 850 856	cancer
+T15	Disease 1021 1033	liver cancer
+#5	AnnotatorNotes T15	DOID:3571
+T16	Biomarker 1307 1333	miR-200a was overexpressed
+T17	Drug 1337 1348	gemcitabine
+T2	Biomarker 39 52	Breast cancer
+#9	AnnotatorNotes T2	D001943
+T20	Biomarker 1639 1649	miR-205-5p
+T21	Disease 1690 1703	breast cancer
+T24	Drug 1797 1807	miR-205-5p
+T25	Disease 1849 1867	prostate carcinoma
+#13	AnnotatorNotes T25	DOID:10286
+T26	Chemical 1881 1885	zinc
+T27	Disease 1993 1998	tumor
+T28	Disease 2022 2035	breast cancer
+T29	Biomarker 2057 2091	higher levels of miR-205-5p ( 22 )
+T30	Biomarker 2093 2116	miR-205-5p upregulation
+T31	Disease 2126 2132	cancer
+T32	Biomarker 2166 2255	erb-b2 receptor tyrosine kinase 2, tumor protein p63 and epidermal growth factor receptor
+T33	Chemical 2182 2190	tyrosine
+T35	Drug 2337 2348	gemcitabine
+T36	Drug 2368 2379	gemcitabine
+T38	Chemical 2488 2496	tyrosine
+T39	Drug 2593 2604	gemcitabine
+T4	Disease 166 179	breast cancer
+#26	AnnotatorNotes T4	DOID:1612
+T40	Disease 2619 2632	breast cancer
+T41	Drug 2761 2772	gemcitabine
+T42	Drug 2832 2843	gemcitabine
+T43	Disease 2859 2872	breast cancer
+T44	Drug 2880 2905	miR-205-5p overexpression
+T45	Drug 2916 2927	gemcitabine
+T46	Disease 2943 2956	breast cancer
+T47	Biomarker 2978 3006	miR-205-5p was downregulated
+T48	Drug 3094 3105	gemcitabine
+T49	Drug 3278 3289	gemcitabine
+T5	Disease 282 295	breast cancer
+T50	Biomarker 3324 3334	miR-205-5p
+T51	Disease 3338 3351	breast cancer
+T52	Drug 3352 3363	gemcitabine
+T6	Drug 313 324	Gemcitabine
+T7	Disease 410 432	advanced breast cancer
+#39	AnnotatorNotes T7	DOID:1612
+T8	Disease 472 478	cancer
+#40	AnnotatorNotes T8	DOID:162
+T1	Drug-Class 219 231	chemotherapy
+T53	Drug-Class 180 192	chemotherapy
+T54	Drug-Class 342 354	chemotherapy
+T55	Drug-Class 479 491	chemotherapy
+T56	RNA-Noncoding 3324 3334	miR-205-5p
+T57	RNA-Noncoding 3177 3187	miR-205-5p
+#1	AnnotatorNotes T6	CHEMBL888
+T12	Disease 85 112	cancer-associated mortality
+#2	AnnotatorNotes T12	not found
+R1	Risk-Factor Arg1:T2 Arg2:T12	
+R2	Response Arg1:T6 Arg2:T7	
+R3	Non-Response Arg1:T55 Arg2:T8	
+R4	Association Arg1:T11 Arg2:T13	
+T3	RNA-Noncoding 783 789	miRNAs
+T9	RNA-Noncoding 952 957	let-7
+T14	RNA-Noncoding 959 966	miR-122
+T58	RNA-Noncoding 968 975	miR-152
+T59	RNA-Noncoding 980 988	miR-1246
+T60	GeneFamily 1156 1159	Wnt
+T61	GeneFamily 1160 1169	β-catenin
+T62	GeneFamily 1181 1186	TGF-β
+T63	GeneFamily 1198 1201	JAK
+T64	GeneFamily 1202 1206	STAT
+T65	RNA-Noncoding 1307 1315	miR-200a
+T66	RNA-Noncoding 1388 1396	miR-200a
+T67	Disease 1337 1372	gemcitabine-resistant breast cancer
+T18	RNA-Noncoding 2074 2084	miR-205-5p
+T68	RNA-Noncoding 1797 1807	miR-205-5p
+T69	RNA-Noncoding 1639 1649	miR-205-5p
+T70	RNA-Noncoding 2308 2315	miR-205
+T71	Gene-Protein 2434 2440	ZEB1/2
+T72	Gene-Protein 2442 2470	E2F transcriptional factor 1
+T73	Gene-Protein 2510 2546	vascular endothelial growth factor A
+T74	Gene-Protein 2472 2505	erb-b2 receptor tyrosine kinase 3
+T75	RNA-Noncoding 2093 2103	miR-205-5p
+T76	Gene-Protein 2223 2255	epidermal growth factor receptor
+T77	Gene-Protein 2166 2199	erb-b2 receptor tyrosine kinase 2
+T78	Gene-Protein 2215 2218	p63
+T79	Gene-Protein 1881 1923	zinc finger E-box binding homeobox (ZEB) 1
+T80	RNA-Noncoding 3059 3069	miR-205-5p
+T81	RNA-Noncoding 2978 2988	miR-205-5p
+T82	RNA-Noncoding 2715 2725	miR-205-5p
+T83	RNA-Noncoding 2880 2890	miR-205-5p
+T84	RNA-Noncoding 2579 2589	miR-205-5p
+T85	CellLine 3026 3036	MDA-MB-231
+T87	RNA-Noncoding 1445 1453	miR-200a
+T88	Gene-Protein 1532 1556	Yes associated protein 1
+T86	Gene-Protein 1575 1606	p53 inducible nuclear protein 1
+R5	Synergy-Response Arg1:T45 Arg2:T46	
+T89	Biomarker 712 718	miRNAs
+T90	CellLine 3120 3130	MDA-MB-231
+T91	CellLine 3226 3236	MDA-MB-231
+R7	Mediated-Non-Response Arg1:T52 Arg2:T51	
+R8	Mediator Arg1:T52 Arg2:T50	
+T92	Drug 3177 3202	miR-205-5p overexpression
+R9	Synergy-Response Arg1:T49 Arg2:T51	
+T93	Drug 2715 2740	miR-205-5p overexpression
+#3	AnnotatorNotes T93	not found
+T94	Disease 2368 2396	gemcitabine-resistant cancer
+T23	Biomarker 2308 2328	miR-205 accumulation
+R11	Mediated-Response Arg1:T35 Arg2:T94	
+R12	Mediator Arg1:T35 Arg2:T23	
+R13	Association Arg1:T29 Arg2:T28	
+#4	AnnotatorNotes T24	not found
+R14	Association Arg1:T20 Arg2:T21	
+T19	Collection 952 989	let-7, miR-122, miR-152 and miR-1246,
+R15	Association Arg1:T19 Arg2:T15	
+T22	Biomarker 952 957	let-7
+T34	Biomarker 959 966	miR-122
+T37	Biomarker 968 975	miR-152
+T95	Biomarker 980 988	miR-1246
+T96	RNA-Noncoding 712 718	miRNAs
+R16	Response Arg1:T24 Arg2:T25	
+#6	AnnotatorNotes T27	DOID:162
+#7	AnnotatorNotes T89	D035683
+#8	AnnotatorNotes T96	family:476
+R17	Association Arg1:T16 Arg2:T67	
+#10	AnnotatorNotes T17	CHEMBL888
+T97	Drug 3037 3040	GEM
+#11	AnnotatorNotes T97	CHEMBL888
+T98	Drug 3237 3240	GEM
+#12	AnnotatorNotes T14	HGNC:31501
+#14	AnnotatorNotes T59	HGNC:35312
+#15	AnnotatorNotes T60	family:360
+#16	AnnotatorNotes T61	family:1542
+#17	AnnotatorNotes T62	family:1664
+#18	AnnotatorNotes T63	family:1459
+#19	AnnotatorNotes T65	HGNC:31578
+#20	AnnotatorNotes T88	HGNC:16262
+#21	AnnotatorNotes T86	HGNC:18022
+#22	AnnotatorNotes T79	HGNC:11642
+#23	AnnotatorNotes T77	HGNC:3430
+#24	AnnotatorNotes T78	HGNC:15979
+#25	AnnotatorNotes T76	HGNC:3236
+#27	AnnotatorNotes T71	HGNC:11642, HGNC:14881
+#28	AnnotatorNotes T72	HGNC:3113
+#29	AnnotatorNotes T74	HGNC:3431
+#30	AnnotatorNotes T73	HGNC:12680
+R6	Synergy-Response Arg1:T44 Arg2:T46	
+T99	Drug 3059 3084	miR-205-5p overexpression
+T100	Drug 3131 3134	GEM
+R10	Synergy-Response Arg1:T92 Arg2:T51	

@@ -1,0 +1,46 @@
+31436258_3053|t|RSS_IDENT_p_31436258_b_1_1_4
+31436258_3053|a| MNX1 is located on human chromosome 7q36.3 and is a member of the EHG homeobox genes family [ 11 , 12 ]. As a homeodomain-containing transcription factor, MNX1 is involved in numerous types of pathological progression. It is generally accepted that Currarino syndrome is primarily caused by MNX1 deletion or mutation, which suggests that MNX1 affects human development and cell transformation [ 13 , 14 ]. In addition, MNX1 was reported to be overexpressed in several cancers [ 15 , 16 ]. It was proposed that MNX1 is upregulated in poorly differentiated liver cancer [ 17 ]. In 2016, Das reported that MNX1 is a novel prostate cancer oncogene, acting partially via promoting lipid synthesis [ 18 ]. Consistent with the above findings, Zhang et al. reported MNX1 was oncogenically upregulated in African-American patients with prostate cancer [ 19 ]. In 2016, a study published in Nature performed an integrated genomic analysis in pancreatic adenocarcinoma and found that MNX1 was overexpressed in pancreatic progenitor tumors [ 20 ]. Chen et al. detected high MNX1 expression in bladder cancer cell lines and bladder cancer tissues and confirmed that high MNX1 was correlated with shorter 5-year overall survival [ 21 ]. Recently, it was reported that MNX1 was associated with tumor size, receptor status, lymph node metastasis, and poor prognosis in breast cancer [ 22 ]. Taken together, MNX1 upregulation is involved in progression of several cancers, which indicates MNX1 probably is an oncogene. Until now, the roles of MNX1 in cervical cancer have been unclear. 
+31436258_3053	30	34	MNX1	Gene-protein	HGNC:4979
+31436258_3053	96	108	EHG homeobox	Genefamily	not found
+31436258_3053	185	189	MNX1	Gene-protein
+31436258_3053	279	297	Currarino syndrome	Disease	DOID:0111546
+31436258_3053	321	325	MNX1	Gene-protein
+31436258_3053	321	346	MNX1 deletion or mutation	Biomarker
+31436258_3053	368	372	MNX1	Gene-protein
+31436258_3053	449	453	MNX1	Gene-protein
+31436258_3053	449	486	MNX1 was reported to be overexpressed	Biomarker
+31436258_3053	498	505	cancers	Disease	DOID:162
+31436258_3053	540	544	MNX1	Gene-protein
+31436258_3053	540	559	MNX1 is upregulated	Biomarker
+31436258_3053	563	597	poorly differentiated liver cancer	Disease	not found
+31436258_3053	633	637	MNX1	Gene-protein
+31436258_3053	633	637	MNX1	Biomarker	C490003
+31436258_3053	649	664	prostate cancer	Disease	DOID:10283
+31436258_3053	706	711	lipid	Chemical
+31436258_3053	788	792	MNX1	Gene-protein
+31436258_3053	788	822	MNX1 was oncogenically upregulated	Biomarker
+31436258_3053	857	872	prostate cancer	Disease
+31436258_3053	962	987	pancreatic adenocarcinoma	Disease	DOID:4074
+31436258_3053	1003	1007	MNX1	Gene-protein
+31436258_3053	1003	1025	MNX1 was overexpressed	Biomarker
+31436258_3053	1029	1057	pancreatic progenitor tumors	Disease	not found
+31436258_3053	1087	1107	high MNX1 expression	Biomarker
+31436258_3053	1092	1096	MNX1	Gene-protein
+31436258_3053	1111	1125	bladder cancer	Disease	DOID:11054
+31436258_3053	1141	1155	bladder cancer	Disease
+31436258_3053	1183	1192	high MNX1	Biomarker
+31436258_3053	1188	1192	MNX1	Gene-protein
+31436258_3053	1284	1288	MNX1	Gene-protein
+31436258_3053	1284	1288	MNX1	Biomarker
+31436258_3053	1309	1319	tumor size	Biomarker
+31436258_3053	1321	1336	receptor status	Biomarker
+31436258_3053	1338	1359	lymph node metastasis	Biomarker
+31436258_3053	1383	1396	breast cancer	Disease	DOID:1612
+31436258_3053	1421	1425	MNX1	Gene-protein
+31436258_3053	1421	1438	MNX1 upregulation	Biomarker
+31436258_3053	1477	1484	cancers	Disease
+31436258_3053	1502	1506	MNX1	Gene-protein
+31436258_3053	1556	1560	MNX1	Gene-protein
+31436258_3053	1556	1560	MNX1	Biomarker
+31436258_3053	1564	1579	cervical cancer	Disease	DOID:4362
+

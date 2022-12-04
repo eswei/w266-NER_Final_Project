@@ -1,0 +1,80 @@
+T1	Disease 60 79	autophagy disorders
+#1	AnnotatorNotes T1	not found
+T11	Gene-Protein 886 891	ATG9A
+T12	Gene-Protein 936 941	ATG9A
+T13	Biomarker 1052 1089	Mutations in other autophagy proteins
+T16	Disease 1215 1233	spastic paraplegia
+#4	AnnotatorNotes T16	DOID:2476
+T17	Biomarker 1244 1280	mutation of the TECPR2 gene encoding
+T19	Biomarker 1345 1365	thin corpus callosum
+T20	Biomarker 1370 1391	neuroaxonal dystrophy
+#7	AnnotatorNotes T20	D019150
+T21	Disease 1424 1437	Vici syndrome
+#8	AnnotatorNotes T21	DOID:0060356
+T22	Disease 1441 1461	multisystem disorder
+#9	AnnotatorNotes T22	not found
+T23	Biomarker 1472 1534	mutations in the autophagosome-lysosome tethering protein EPG5
+T24	Biomarker 1558 1575	callosal agenesis
+#10	AnnotatorNotes T24	D061085
+T25	Biomarker 1577 1596	developmental delay
+#11	AnnotatorNotes T25	not found
+T26	Biomarker 1598 1610	microcephaly
+#12	AnnotatorNotes T26	D008831
+T27	Biomarker 1616 1624	seizures
+#13	AnnotatorNotes T27	D012640
+T29	Drug 1710 1799	KO of genes encoding the autophagy proteins ATG5 [ 41 ], ATG7 [ 42 ], RB1CC1 29] or WDR45
+T3	Biomarker 177 227	mutations in components of the autophagy machinery
+T30	Disease 1830 1864	motor and behavioral abnormalities
+#15	AnnotatorNotes T30	not found, not found
+T32	Disease 1930 1949	axonal degeneration
+#17	AnnotatorNotes T32	not found
+T35	Disease 2024 2051	primary autophagy disorders
+T38	Disease 2152 2176	AP-4 deficiency syndrome
+#21	AnnotatorNotes T38	not found
+T39	Disease 2182 2214	congenital disorder of autophagy
+#22	AnnotatorNotes T39	not found
+T4	Gene-Protein 304 309	ATG9A
+T5	Biomarker 344 377	dysgenesis of the corpus callosum
+T6	Gene-Protein 541 546	ATG9A
+T7	Gene-Protein 562 567	ATG9A
+T8	Gene-Protein 616 621	ATG9A
+T9	Gene-Protein 773 778	ATG9A
+T2	Gene-Protein 97 101	AP-4
+T41	Gene-Protein 531 535	AP-4
+T42	Gene-Protein 596 608	AP-4 ε or β4
+T10	Gene-Protein 902 908	AP-4 ε
+T43	Gene-Protein 1046 1050	AP-4
+T14	Gene-Protein 1133 1137	AP-4
+T44	Disease 1178 1183	SPG49
+#2	AnnotatorNotes T44	DOID:0110801
+R1	Association Arg1:T17 Arg2:T44	
+T15	Gene-Protein 1260 1266	TECPR2
+#3	AnnotatorNotes T15	HGNC:19957
+T45	Gene-Protein 1284 1288	LC3B
+#24	AnnotatorNotes T45	HGNC:13352
+T46	Disease 1317 1322	SPG49
+T18	Collection 1345 1391	thin corpus callosum and neuroaxonal dystrophy
+R2	Association Arg1:T18 Arg2:T46	
+T47	Gene-Protein 1530 1534	EPG5
+#5	AnnotatorNotes T47	HGNC:29331
+T48	Collection 1472 1624	mutations in the autophagosome-lysosome tethering protein EPG5 [ 48 , 49 , 50 ], have callosal agenesis, developmental delay, microcephaly, and seizures
+R3	Association Arg1:T48 Arg2:T21	
+T49	Gene-Protein 1633 1637	EPG5
+T28	Gene-Protein 1754 1758	ATG5
+T50	Gene-Protein 1767 1771	ATG7
+T51	Gene-Protein 1780 1786	RB1CC1
+T52	Gene-Protein 1794 1799	WDR45
+T31	Collection 1830 1949	motor and behavioral abnormalities, axonal swellings, accumulation of neuronal inclusion bodies and axonal degeneration
+#14	AnnotatorNotes T29	not found
+R4	Causes Arg1:T29 Arg2:T31	
+T33	Gene-Protein 2004 2008	AP-4
+#16	AnnotatorNotes T35	not found
+#6	AnnotatorNotes T2	HGNC:11745
+T34	Gene-Protein 383 392	calbindin
+T36	Gene-Protein 444 450	AP-4 ε
+T37	Disease 2004 2019	AP-4 deficiency
+T40	Biomarker 318 342	poor roratod performance
+T53	Biomarker 383 411	calbindin-positive spheroids
+T54	Gene-Protein 2152 2156	AP-4
+T55	Disease 1866 1882	axonal swellings
+T56	Disease 1884 1925	accumulation of neuronal inclusion bodies

@@ -1,0 +1,91 @@
+T1	Biomarker 28 59	TERT promoter (TERTp) mutations
+T11	GeneFamily 409 412	IDH
+T12	Variant 497 502	V600E
+T13	Biomarker 552 565	TERTp mutants
+T14	Disease 581 594	TERTp-wt GBMs
+T16	Biomarker 808 833	PIK3CA or PIK3R1 mutation
+T17	Disease 947 960	TERTp-wt GBMs
+#3	AnnotatorNotes T17	not found
+T18	Biomarker 970 1047	mutations in the BAF complex gene family (ATRX, SMARCA4, SMARCB1, and ARID1A)
+T19	Biomarker 1113 1188	Mutations in BAF complex and PI3K pathway genes co-occurred more frequently
+T2	GeneFamily 136 139	IDH
+T20	Disease 1267 1274	cancers
+#5	AnnotatorNotes T20	DOID:14566|DOID:162
+T22	GeneFamily 1428 1431	IDH
+T23	Disease 1489 1512	BAF/PI3K-altered tumors
+T25	Disease 1568 1575	gliomas
+#8	AnnotatorNotes T25	DOID:0060108
+T3	Disease 121 162	grade IV adult IDH wild-type glioblastoma
+#9	AnnotatorNotes T3	not found
+T5	Gene-Protein 164 167	IDH
+T6	Disease 164 174	IDH-wt GBM
+#12	AnnotatorNotes T6	DOID:0080878
+T7	Disease 214 225	IDH-wt GBMs
+T8	Biomarker 243 258	TERTp mutations
+T9	Disease 279 301	adult grade IV gliomas
+#14	AnnotatorNotes T9	not found
+#2	AnnotatorNotes T2	family:1926
+R1	Association Arg1:T1 Arg2:T3	
+T4	Gene-Protein 28 41	TERT promoter
+#4	AnnotatorNotes T4	HGNC:11730
+T26	GeneFamily 214 217	IDH
+#6	AnnotatorNotes T7	DOID:0080878
+T10	Disease 321 332	IDH-wt GBMs
+T27	Biomarker 353 363	IDH-mutant
+T28	GeneFamily 353 356	IDH
+T29	GeneFamily 321 324	IDH
+T30	Biomarker 378 390	H3F3A -mutan
+T31	Gene-Protein 378 383	H3F3A
+#1	AnnotatorNotes T31	HGNC:4764
+T32	Gene-Protein 492 496	BRAF
+#10	AnnotatorNotes T32	HGNC:1097
+R2	Variant-Of Arg1:T32 Arg2:T12	
+T33	Gene-Protein 506 511	H3F3A
+T34	Variant 512 515	G34
+#11	AnnotatorNotes T12	p.Val600Glu
+T15	Disease 782 795	TERTp-wt GBMs
+R3	Association Arg1:T16 Arg2:T15	
+T35	Gene-Protein 808 814	PIK3CA
+#13	AnnotatorNotes T35	HGNC:8975
+T36	Gene-Protein 818 824	PIK3R1
+#15	AnnotatorNotes T36	HGNC:8979
+T37	Disease 861 878	TERTp-mutant GBMs
+#16	AnnotatorNotes T14	not found
+#17	AnnotatorNotes T37	not found
+R5	Association Arg1:T18 Arg2:T17	
+T38	GeneFamily 987 998	BAF complex
+#18	AnnotatorNotes T38	family:1604
+T39	Gene-Protein 1012 1016	ATRX
+#19	AnnotatorNotes T39	HGNC:886
+T40	Gene-Protein 1018 1025	SMARCA4
+#20	AnnotatorNotes T40	HGNC:11100
+T41	Gene-Protein 1027 1034	SMARCB1
+#21	AnnotatorNotes T41	HGNC:11103
+T42	Gene-Protein 1040 1046	ARID1A
+#22	AnnotatorNotes T42	HGNC:11110
+T43	Disease 1081 1098	TERTp-mutant GBMs
+T44	GeneFamily 1126 1137	BAF complex
+T45	GeneFamily 1142 1146	PI3K
+#23	AnnotatorNotes T45	family:831
+T46	Disease 1192 1205	TERTp-wt GBMs
+R4	Association Arg1:T19 Arg2:T47	
+T47	Collection 1192 1274	TERTp-wt GBMs (p = 0.0002), an association that has been observed in other cancers
+T21	Disease 1428 1446	IDH wild-type GBMs
+#24	AnnotatorNotes T23	not found
+T48	GeneFamily 1489 1492	BAF
+T49	GeneFamily 1493 1497	PI3K
+#7	AnnotatorNotes T34	p.Gly34Xaa
+R6	Variant-Of Arg1:T33 Arg2:T34	
+T24	Gene-Protein 43 48	TERTp
+#25	AnnotatorNotes T24	HGNC:11730
+T50	Gene-Protein 243 248	TERTp
+T51	Gene-Protein 445 450	TERTp
+T52	Gene-Protein 462 467	TERTp
+T53	Gene-Protein 552 557	TERTp
+T54	Gene-Protein 581 586	TERTp
+T55	Gene-Protein 947 952	TERTp
+T56	Gene-Protein 1192 1197	TERTp
+T57	Gene-Protein 1469 1474	TERTp
+T58	Gene-Protein 782 787	TERTp
+T59	Gene-Protein 861 866	TERTp
+T60	Gene-Protein 1081 1086	TERTp

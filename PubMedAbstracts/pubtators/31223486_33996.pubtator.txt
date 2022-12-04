@@ -1,0 +1,57 @@
+31223486_33996|t|RSS_IDENT_p_31223486_b_1_4_9
+31223486_33996|a| Ang II regulates ROS through upregulation of Nox [ 41 ]. Angiotensin II-induced ROS can cause vasoconstriction, inflammation, and vascular remodeling through activation of multiple pathways. In our study, Ang II increased the aortic expression of Nox1 and Nox2 mRNA but did not affect the expression of Nox4. The HDAC8-selective inhibitor did not decrease Nox1 and Nox2 expression. This result implies that HDACs other than HDAC8 modulate Nox expression. Cardiac Nox1, Nox2, and Nox4 mRNA levels significantly increased in SHR hypertensive rats compared to that in Wistar Kyoto (WKY) control rats [ 55 ]. Gallic acid, which inhibits HDAC5, HDAC7, HDAC8, and HDAC9, ameliorated Nox2 mRNA and protein levels in SHR [ 56 ]. Manea et al. reported that SAHA decreased the aortic expression of Nox1, Nox2, and Nox4 in diabetic mice by regulation of HDAC1 and HDAC2 [ 57 ]. In contrast, increased expression of HDAC3, HDAC4, and HDAC5 is associated with induction of Nox2 and Nox4 in pulmonary arterial hypertension, which was decreased by the HDAC inhibitor, valproic acid [ 58 ]. The results of the above study show that the expression of Nox varies depending on the type of disease; for example, arterial hypertension, pulmonary hypertension, or diabetes. The pan-HDAC inhibitor was more effective in reducing the expression of Nox than an HDAC isoform-specific inhibitor.
+31223486_33996	30	36	Ang II	Gene-protein	not found
+31223486_33996	47	50	ROS	Chemical
+31223486_33996	75	78	Nox	Genefamily	not found
+31223486_33996	87	101	Angiotensin II	Gene-protein	not found
+31223486_33996	110	113	ROS	Chemical
+31223486_33996	235	241	Ang II	Gene-protein
+31223486_33996	277	281	Nox1	Gene-protein	HGNC:7889
+31223486_33996	286	290	Nox2	Gene-protein	HGNC:2578
+31223486_33996	333	337	Nox4	Gene-protein	HGNC:7891
+31223486_33996	343	348	HDAC8	Gene-protein	HGNC:13315
+31223486_33996	343	368	HDAC8-selective inhibitor	Drug-class
+31223486_33996	386	390	Nox1	Gene-protein
+31223486_33996	395	399	Nox2	Gene-protein
+31223486_33996	437	442	HDACs	Genefamily	family:937
+31223486_33996	454	459	HDAC8	Gene-protein
+31223486_33996	469	472	Nox	Genefamily
+31223486_33996	485	549	Cardiac Nox1, Nox2, and Nox4 mRNA levels significantly increased	Biomarker
+31223486_33996	493	497	Nox1	Gene-protein
+31223486_33996	499	503	Nox2	Gene-protein
+31223486_33996	509	513	Nox4	Gene-protein
+31223486_33996	635	646	Gallic acid	Chemical
+31223486_33996	663	668	HDAC5	Gene-protein
+31223486_33996	670	675	HDAC7	Gene-protein
+31223486_33996	677	682	HDAC8	Gene-protein
+31223486_33996	688	693	HDAC9	Gene-protein
+31223486_33996	707	711	Nox2	Gene-protein
+31223486_33996	778	782	SAHA	Chemical
+31223486_33996	818	822	Nox1	Gene-protein
+31223486_33996	824	828	Nox2	Gene-protein
+31223486_33996	834	838	Nox4	Gene-protein
+31223486_33996	842	850	diabetic	Disease	not found
+31223486_33996	873	878	HDAC1	Gene-protein
+31223486_33996	883	888	HDAC2	Gene-protein
+31223486_33996	910	957	increased expression of HDAC3, HDAC4, and HDAC5	Biomarker
+31223486_33996	934	939	HDAC3	Gene-protein
+31223486_33996	941	946	HDAC4	Gene-protein
+31223486_33996	952	957	HDAC5	Gene-protein
+31223486_33996	990	994	Nox2	Gene-protein
+31223486_33996	999	1003	Nox4	Gene-protein
+31223486_33996	1007	1038	pulmonary arterial hypertension	Disease	D000081029
+31223486_33996	1067	1071	HDAC	Genefamily	family:937
+31223486_33996	1067	1081	HDAC inhibitor	Drug-class
+31223486_33996	1083	1096	valproic acid	Drug	 CHEMBL109
+31223486_33996	1150	1167	expression of Nox	Biomarker
+31223486_33996	1164	1167	Nox	Genefamily
+31223486_33996	1222	1243	arterial hypertension	Disease	not found
+31223486_33996	1222	1280	arterial hypertension, pulmonary hypertension, or diabetes	Collection
+31223486_33996	1245	1267	pulmonary hypertension	Disease	DOID:6432
+31223486_33996	1272	1280	diabetes	Disease	not found
+31223486_33996	1286	1304	pan-HDAC inhibitor	Drug-class
+31223486_33996	1290	1294	HDAC	Genefamily
+31223486_33996	1354	1357	Nox	Genefamily
+31223486_33996	1366	1370	HDAC	Genefamily
+31223486_33996	1366	1397	HDAC isoform-specific inhibitor	Drug-class
+

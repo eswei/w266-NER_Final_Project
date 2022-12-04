@@ -1,0 +1,45 @@
+31166546_11976|t|RSS_IDENT_p_31166546_b_1_4_4
+31166546_11976|a| Our results show that patterns of CSF biomarker levels differed in each group, with the AD group exhibiting significantly higher levels of p-Tau and t-Tau, lower Aβ₁₋₄₂ levels, and, consequently, a lower Aβ₁₋₄₂/p-Tau ratio, as expected. 4 In the AD group, cognitive performance correlated only with p-Tau levels. Increased levels of p-Tau are considered to strengthen sensitivity for differential diagnosis of AD 24 and were capable of differentiating AD from OD in our sample. Seppälä et al. 28 described a correlation between decreasing rates of p-Tau and MMSE scores in AD, which was interpreted as a sign of progressive neuronal loss. Rolstad et al. 9 described a more significant impact of CSF Aβ₁₋₄₂ levels in episodic memory and visuospatial abilities, while t-Tau levels correlated better with episodic memory in patients with dementia. In 2013, Rolstad et al. 26 replicated their study and confirmed that Aβ₁₋₄₂ and t-Tau levels in CSF were associated with semantic and working memory performance, with the effect size of t-Tau levels being larger than that of Aβ₁₋₄₂. Rami et al. 27 also found a correlation between memory performance and CSF Aβ₁₋₄₂ levels in AD. However, negative reports have also been published. 11 , 29 More recently, Mandecka et al. 30 described an association between the severity of verbal memory impairment and the degree of CSF abnormalities in AD. 
+31166546_11976	64	67	CSF	Biomarker
+31166546_11976	118	120	AD	Disease	DOID:10652
+31166546_11976	152	184	higher levels of p-Tau and t-Tau	Biomarker
+31166546_11976	152	252	higher levels of p-Tau and t-Tau, lower Aβ₁₋₄₂ levels, and, consequently, a lower Aβ₁₋₄₂/p-Tau ratio	Collection
+31166546_11976	171	174	Tau	Gene-protein	HGNC:6893
+31166546_11976	181	184	Tau	Gene-protein
+31166546_11976	186	205	lower Aβ₁₋₄₂ levels	Biomarker
+31166546_11976	192	198	Aβ₁₋₄₂	Gene-protein	not found
+31166546_11976	228	252	lower Aβ₁₋₄₂/p-Tau ratio	Biomarker
+31166546_11976	234	240	Aβ₁₋₄₂	Gene-protein
+31166546_11976	243	246	Tau	Gene-protein
+31166546_11976	276	278	AD	Disease
+31166546_11976	286	307	cognitive performance	Biomarker
+31166546_11976	329	341	p-Tau levels	Biomarker
+31166546_11976	331	334	Tau	Gene-protein
+31166546_11976	343	368	Increased levels of p-Tau	Biomarker
+31166546_11976	365	368	Tau	Gene-protein
+31166546_11976	440	442	AD	Disease
+31166546_11976	482	484	AD	Disease
+31166546_11976	490	492	OD	Disease	DOID:1307
+31166546_11976	558	583	decreasing rates of p-Tau	Biomarker
+31166546_11976	558	599	decreasing rates of p-Tau and MMSE scores	Collection
+31166546_11976	580	583	Tau	Gene-protein
+31166546_11976	588	599	MMSE scores	Biomarker
+31166546_11976	603	605	AD	Disease
+31166546_11976	654	667	neuronal loss	Disease	not found
+31166546_11976	725	742	CSF Aβ₁₋₄₂ levels	Biomarker
+31166546_11976	729	735	Aβ₁₋₄₂	Gene-protein
+31166546_11976	796	808	t-Tau levels	Biomarker
+31166546_11976	798	801	Tau	Gene-protein
+31166546_11976	865	873	dementia	Disease	DOID:1307
+31166546_11976	944	974	Aβ₁₋₄₂ and t-Tau levels in CSF	Biomarker
+31166546_11976	957	960	Tau	Gene-protein
+31166546_11976	1063	1066	Tau	Gene-protein
+31166546_11976	1100	1106	Aβ₁₋₄₂	Gene-protein
+31166546_11976	1156	1174	memory performance	Biomarker
+31166546_11976	1179	1196	CSF Aβ₁₋₄₂ levels	Biomarker
+31166546_11976	1183	1189	Aβ₁₋₄₂	Gene-protein
+31166546_11976	1200	1202	AD	Disease
+31166546_11976	1347	1371	verbal memory impairment	Biomarker
+31166546_11976	1390	1407	CSF abnormalities	Biomarker
+31166546_11976	1411	1413	AD	Disease
+

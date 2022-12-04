@@ -1,0 +1,63 @@
+30902882_21156|t|RSS_IDENT_p_30902882_b_1_4_4
+30902882_21156|a| Recent studies have shown that lincRNA-p21 regulates signaling transduction in tumor growth. Down-regulated lincRNA-p21 promotes gastric cancer development through activation of YAP independent of Hippo [ 21 ]. In hypoxic tumor cells, lincRNA-p21 knockdown represses the autophagy via regulating HIF-1/Akt/mTOR/P70S6K signaling pathway [ 22 ]. LincRNA-p21 negatively regulates miR-9/E-cadherin cascade to inhibit the invasion and metastasis of hepatocellular carcinoma [ 23 ]. Furthermore, lincRNA-p21 participates in dysregulated glucose metabolism in tumor cells. It binds with VHL and dissociates the HIF-1α from VHL–HIF-1α complex, leading to activation of glycolysis [ 24 ]. Here, we reported that glutamine catabolism was suppressed by lincRNA-p21. Intracellular glutamate and α-KG level were decreased in lincRNA-p21 overexpressed BC cells, while they were increased in lincRNA-p21 silenced cells. GLS was down-regulated and up-regulated in lincRNA-p21 overexpressed and silenced BC cells, respectively. These results suggest that lincRNA-p21 regulates glutamine catabolism through GLS. Importantly, the BC tissues which had lowly expressed lincRNA-p21 also showed up-regulated GLS, highlighting the clinical relevance of the lincRNA-p21 regulation of GLS in BC patients. Since GLS-dependent glutamine catabolism was positively regulated by Myc oncogene through its suppression of miR-23a and miR-23b [ 13 ], the potential link between lincRNA-p21 and c-Myc/miR-23a/b should be further explored. 
+30902882_21156	61	72	lincRNA-p21	Biomarker	C000629607
+30902882_21156	61	72	lincRNA-p21	Rna-noncoding	HGNC:43652
+30902882_21156	109	114	tumor	Disease	DOID:162
+30902882_21156	123	149	Down-regulated lincRNA-p21	Biomarker
+30902882_21156	138	149	lincRNA-p21	Rna-noncoding
+30902882_21156	159	173	gastric cancer	Disease	DOID:10534
+30902882_21156	208	211	YAP	Gene-protein	HGNC:30935
+30902882_21156	227	232	Hippo	Gene-protein	HGNC:11406
+30902882_21156	244	257	hypoxic tumor	Disease	not found
+30902882_21156	265	276	lincRNA-p21	Rna-noncoding
+30902882_21156	326	331	HIF-1	Gene-protein	HGNC:18420
+30902882_21156	332	335	Akt	Genefamily	family:1900
+30902882_21156	336	340	mTOR	Gene-protein	HGNC:3942
+30902882_21156	341	347	P70S6K	Gene-protein	HGNC:10436
+30902882_21156	374	385	LincRNA-p21	Rna-noncoding	HGNC:43652
+30902882_21156	374	385	LincRNA-p21	Drug	C000629607
+30902882_21156	407	412	miR-9	Rna-noncoding	family:1698
+30902882_21156	413	423	E-cadherin	Gene-protein	HGNC:1748
+30902882_21156	474	498	hepatocellular carcinoma	Disease	DOID:684
+30902882_21156	520	531	lincRNA-p21	Rna-noncoding
+30902882_21156	520	531	lincRNA-p21	Biomarker
+30902882_21156	548	579	dysregulated glucose metabolism	Disease	DOID:4194
+30902882_21156	561	568	glucose	Chemical
+30902882_21156	583	588	tumor	Disease
+30902882_21156	610	613	VHL	Gene-protein	HGNC:12687
+30902882_21156	634	640	HIF-1α	Gene-protein	HGNC:4910
+30902882_21156	646	649	VHL	Gene-protein
+30902882_21156	650	656	HIF-1α	Gene-protein
+30902882_21156	733	742	glutamine	Chemical
+30902882_21156	772	783	lincRNA-p21	Rna-noncoding
+30902882_21156	785	838	Intracellular glutamate and α-KG level were decreased	Biomarker
+30902882_21156	799	808	glutamate	Chemical
+30902882_21156	813	817	α-KG	Chemical
+30902882_21156	842	853	lincRNA-p21	Rna-noncoding
+30902882_21156	842	870	lincRNA-p21 overexpressed BC	Disease	not found
+30902882_21156	907	918	lincRNA-p21	Rna-noncoding
+30902882_21156	935	938	GLS	Gene-protein	HGNC:4331
+30902882_21156	935	974	GLS was down-regulated and up-regulated	Biomarker
+30902882_21156	978	989	lincRNA-p21	Rna-noncoding
+30902882_21156	978	1019	lincRNA-p21 overexpressed and silenced BC	Disease	not found, not found
+30902882_21156	1068	1079	lincRNA-p21	Rna-noncoding
+30902882_21156	1090	1099	glutamine	Chemical
+30902882_21156	1119	1122	GLS	Gene-protein
+30902882_21156	1141	1143	BC	Disease	DOID:11054
+30902882_21156	1162	1189	lowly expressed lincRNA-p21	Biomarker
+30902882_21156	1162	1218	lowly expressed lincRNA-p21 also showed up-regulated GLS	Collection
+30902882_21156	1178	1189	lincRNA-p21	Rna-noncoding
+30902882_21156	1202	1218	up-regulated GLS	Biomarker
+30902882_21156	1215	1218	GLS	Gene-protein
+30902882_21156	1263	1274	lincRNA-p21	Rna-noncoding
+30902882_21156	1289	1292	GLS	Gene-protein
+30902882_21156	1296	1298	BC	Disease
+30902882_21156	1315	1318	GLS	Gene-protein
+30902882_21156	1329	1338	glutamine	Chemical
+30902882_21156	1378	1381	Myc	Gene-protein	HGNC:7553
+30902882_21156	1418	1425	miR-23a	Rna-noncoding	HGNC:31605
+30902882_21156	1430	1437	miR-23b	Rna-noncoding	HGNC:31606
+30902882_21156	1473	1484	lincRNA-p21	Rna-noncoding
+30902882_21156	1489	1494	c-Myc	Gene-protein	HGNC:7553
+30902882_21156	1495	1504	miR-23a/b	Rna-noncoding	HGNC:31605, HGNC:31606
+

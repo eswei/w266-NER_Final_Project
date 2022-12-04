@@ -1,0 +1,61 @@
+T1	Chemical 42 46	4OHT
+T11	Chemical 706 710	NADH
+T12	Chemical 711 721	ubiquinone
+T13	Chemical 752 758	oxygen
+T14	Chemical 939 955	phosphoinositide
+T15	Chemical 970 979	succinate
+T16	Chemical 1002 1013	iron sulfur
+T2	Chemical 47 65	4-hydroxytamoxifen
+T3	Chemical 103 106	AMP
+T5	Chemical 427 435	tyrosine
+T6	Chemical 449 457	estrogen
+T7	Chemical 476 484	estrogen
+T8	Chemical 519 522	HCQ
+T9	Chemical 523 541	hydroxychloroquine
+T17	Gene-Protein 362 366	EGFR
+T18	Gene-Protein 367 399	epidermal growth factor receptor
+T19	GeneFamily 542 546	MAPK
+T20	GeneFamily 547 579	mitogen-activated protein kinase
+T21	Gene-Protein 411 444	erb-b2 receptor tyrosine kinase 2
+T22	Gene-Protein 400 405	ERBB2
+T23	Gene-Protein 406 410	HER2
+T24	Gene-Protein 66 70	ACTB
+T25	Gene-Protein 71 81	actin beta
+T26	GeneFamily 82 87	PRKAA
+T27	GeneFamily 88 140	protein kinase AMP-activated catalytic subunit alpha
+T28	GeneFamily 143 148	PRKAA
+T29	Gene-Protein 170 174	ATG7
+T30	Gene-Protein 175 194	autophagy related 7
+T31	GeneFamily 164 169	PRKAA
+T32	Gene-Protein 195 200	BCAS3
+T34	Gene-Protein 201 252	BCAS3, microtubule associated cell migration factor
+T35	Gene-Protein 303 309	COX4I1
+T33	Gene-Protein 476 495	estrogen receptor 1
+T36	Gene-Protein 467 471	ESR1
+T37	Gene-Protein 472 475	ERα
+T38	GeneFamily 449 466	estrogen receptor
+T39	GeneFamily 445 448	ESR
+T40	Gene-Protein 310 342	cytochrome c oxidase subunit 4I1
+T4	Gene-Protein 343 361	CYC1 cytochrome c1
+T41	Gene-Protein 831 837	p70S6K
+T42	Gene-Protein 580 586	MT-CO1
+T43	Gene-Protein 587 631	mitochondrially encoded cytochrome c oxidase
+T44	Gene-Protein 634 638	MTA1
+T45	Gene-Protein 639 662	metastasis associated 1
+T46	Gene-Protein 663 667	NBR1
+T10	Gene-Protein 838 868	ribosomal protein S6 kinase B1
+T47	Gene-Protein 871 878	RPS6KB1
+T48	Gene-Protein 881 887	p70S6K
+T49	Gene-Protein 903 933	ribosomal protein S6 kinase B1
+T50	GeneFamily 934 938	PI3K
+T51	GeneFamily 939 964	phosphoinositide 3-kinase
+T52	Gene-Protein 1024 1030	TFAP2C
+T53	Gene-Protein 699 705	NDUFB8
+T54	Gene-Protein 706 747	NADH:ubiquinone oxidoreductase subunit B8
+T55	Gene-Protein 668 698	NBR1, autophagy cargo receptor
+T56	Gene-Protein 823 830	RPS6KB1
+T57	Gene-Protein 965 969	SDHB
+T58	Gene-Protein 970 1023	succinate dehydrogenase complex iron sulfur subunit B
+T59	Gene-Protein 1031 1063	transcription factor AP2-2 gamma
+T60	Gene-Protein 1095 1101	UQCRC2
+T61	Gene-Protein 1102 1150	ubiquinol-cytochrome c reductase core protein II

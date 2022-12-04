@@ -1,0 +1,61 @@
+T0	Chemical 66 73	25(OH)D
+T1	Disease 150 156	myopia
+#2	AnnotatorNotes T1	DOID:11830
+T10	Disease 680 703	vitamin D insufficiency
+#3	AnnotatorNotes T10	not found
+T11	Chemical 782 791	vitamin D
+T12	Disease 782 802	vitamin D deficiency
+#5	AnnotatorNotes T12	D014808
+T17	Chemical 1011 1020	vitamin D
+T18	Chemical 1077 1084	calcium
+T19	Chemical 1174 1183	vitamin D
+T2	Disease 161 172	high myopia
+#10	AnnotatorNotes T2	not found
+T20	Disease 1174 1194	vitamin D deficiency
+T22	Disease 1237 1243	myopia
+T23	Chemical 1277 1286	vitamin D
+T24	Biomarker 1277 1297	vitamin D deficiency
+T26	Biomarker 1321 1384	impairment of relaxation and contraction of the ciliary muscles
+T27	Chemical 1426 1433	calcium
+T28	Disease 1467 1473	myopia
+T29	Chemical 1500 1509	vitamin D
+T30	Chemical 1545 1558	retinoic acid
+T31	Disease 1653 1673	myopic ocular growth
+T32	Chemical 1759 1769	vitamin D₃
+T35	Disease 1936 1942	myopia
+T4	Chemical 328 337	vitamin D
+T6	Chemical 455 464	vitamin D
+T7	Disease 497 529	low-to-moderate degree of myopia
+T8	Chemical 565 574	vitamin D
+T9	Chemical 680 689	vitamin D
+T3	Collection 150 172	myopia and high myopia
+T5	Biomarker 56 87	low serum 25(OH)D concentration
+R1	Association Arg1:T5 Arg2:T3	
+T13	Disease 289 295	myopes
+#1	AnnotatorNotes T13	DOID:11830
+T14	Biomarker 316 351	lower blood vitamin D concentration
+R2	Association Arg1:T14 Arg2:T13	
+T15	Biomarker 434 473	polymorphisms within vitamin D receptor
+T21	Gene-Protein 455 473	vitamin D receptor
+#4	AnnotatorNotes T21	HGNC:12679
+T25	Gene-Protein 475 478	VDR
+#6	AnnotatorNotes T25	HGNC:12679
+R3	Association Arg1:T15 Arg2:T7	
+T36	Biomarker 880 941	reduced sunlight exposure caused by high educational pressure
+T37	Biomarker 946 986	decreased intake of vitamin D-rich foods
+T38	Collection 880 986	reduced sunlight exposure caused by high educational pressure and decreased intake of vitamin D-rich foods
+T16	Collection 1277 1384	vitamin D deficiency can also result in the impairment of relaxation and contraction of the ciliary muscles
+R5	Association Arg1:T16 Arg2:T28	
+T39	Gene-Protein 1541 1544	VDR
+#9	AnnotatorNotes T31	DOID:11830
+T40	Biomarker 1524 1570	formation of the VDR/retinoic acid heterodimer
+R6	Association Arg1:T40 Arg2:T31	
+T41	Gene-Protein 1709 1727	cytochrome P450scc
+#11	AnnotatorNotes T41	HGNC:2590
+T42	Gene-Protein 1729 1736	CYP11A1
+#12	AnnotatorNotes T42	HGNC:2590
+#14	AnnotatorNotes T7	not found
+T44	Drug 1782 1834	20-hydroxyvitamin D₃ (20(OH)D₃), and its metabolites
+#15	AnnotatorNotes T44	not found
+R7	Protects-from Arg1:T44 Arg2:T35	
+R4	Association Arg1:T38 Arg2:T12	

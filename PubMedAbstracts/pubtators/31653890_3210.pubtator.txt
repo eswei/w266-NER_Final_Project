@@ -1,0 +1,70 @@
+31653890_3210|t|RSS_IDENT_p_31653890_b_1_1_3
+31653890_3210|a| Angiogenesis is a complex process that is mediated by various growth factors including vascular endothelial growth factor (VEGF) family ⁷ . VEGF family consists of seven secreted dimeric proteins, VEGF-A, B, C, D, E, F and the placental growth factor (PlGF). VEGF binds to at least two transmembrane tyrosine kinase receptors, named Flt1 (VEGF receptor-1 or VEGFR1) and Flk-1/KDR (VEGF receptor-2 or VEGFR2), on endothelial cells ⁸ . The levels of aqueous and vitreous VEGF-A were significantly elevated in patients with proliferative DR compared to the non-proliferative DR ⁹ . Unlike VEGF-A, VEGF-B possesses low angiogenic potential and does not induce vessel formation or sprouting. Signaling via VEGFR1 and neutropilin 1 (NRP-1), VEGF-B was considered as a potent survival factor of vascular cells which keeps the neo-vessels from apoptosis ¹⁰ , ¹¹ . PlGF, a member belonging to the VEGF family, was originally isolated from the human placenta and directly signals through VEGFR1. It was reported that the levels of PlGF were elevated in the vitreous and aqueous humor of patients with DR ¹² , ¹³ . A comparative research of vitreous PlGF levels in proliferative DR patients treated with or without anti-VEGF agent therapy revealed that PlGF levels were highly correlated with VEGF-A levels in active proliferative DR. This suggested that PlGF may also involve angiogenesis in the pathogenesis of DR possibly by amplifying the role of VEGF-A ¹⁴ . Some studies showed that stimulation of monocytes with PlGF or VEGF-A induced activation of several intracellular signaling molecules including phosphatidylinositol-3 kinase (PI3K), protein kinase B (Akt), extracellular signal-regulated kinase-1/2 (Erk1/2), and p38 mitogen-activated protein kinases (MAPK) ¹⁵ – ¹⁷ . Overproduction of nitric oxide synthase (NOS) induced by activated PKC is related to vasodilation and hyperpermeability ¹⁸ . STAT1 (signal transducer and activator of transcription 1) has been implicated as a mediator of a variety of biological responses such as apoptosis in response to stimulations of specific growth factors and cytokines ¹⁹ . However, the exact roles of VEGF and PlGF, and their distinct downstream signaling have not been understood completely in the pathogenesis of angiogenesis of DR.
+31653890_3210	117	151	vascular endothelial growth factor	Genefamily	family:1267
+31653890_3210	153	157	VEGF	Genefamily	family:1267
+31653890_3210	170	174	VEGF	Genefamily
+31653890_3210	227	248	VEGF-A, B, C, D, E, F	Gene-protein	HGNC:12680, HGNC:12681, HGNC:12682, HGNC:3708, not found, not found
+31653890_3210	257	280	placental growth factor	Gene-protein	HGNC:8893
+31653890_3210	282	286	PlGF	Gene-protein	HGNC:8893
+31653890_3210	289	293	VEGF	Genefamily
+31653890_3210	330	338	tyrosine	Chemical
+31653890_3210	330	355	tyrosine kinase receptors	Genefamily	family:321
+31653890_3210	363	367	Flt1	Gene-protein	HGNC:3763
+31653890_3210	369	384	VEGF receptor-1	Gene-protein	HGNC:3763
+31653890_3210	388	394	VEGFR1	Gene-protein	HGNC:3763
+31653890_3210	400	405	Flk-1	Gene-protein	HGNC:6307
+31653890_3210	406	409	KDR	Gene-protein	HGNC:6307
+31653890_3210	411	426	VEGF receptor-2	Gene-protein	HGNC:6307
+31653890_3210	430	436	VEGFR2	Gene-protein	HGNC:6307
+31653890_3210	468	533	levels of aqueous and vitreous VEGF-A were significantly elevated	Biomarker
+31653890_3210	499	505	VEGF-A	Gene-protein	HGNC:12680
+31653890_3210	551	567	proliferative DR	Disease	DOID:13207
+31653890_3210	584	604	non-proliferative DR	Disease	DOID:8946
+31653890_3210	616	622	VEGF-A	Gene-protein
+31653890_3210	624	630	VEGF-B	Gene-protein	HGNC:12681
+31653890_3210	731	737	VEGFR1	Gene-protein
+31653890_3210	742	755	neutropilin 1	Gene-protein	HGNC:8004
+31653890_3210	757	762	NRP-1	Gene-protein	HGNC:8004
+31653890_3210	765	771	VEGF-B	Gene-protein
+31653890_3210	886	890	PlGF	Gene-protein
+31653890_3210	918	922	VEGF	Genefamily
+31653890_3210	1008	1014	VEGFR1	Gene-protein
+31653890_3210	1041	1103	levels of PlGF were elevated in the vitreous and aqueous humor	Biomarker
+31653890_3210	1051	1055	PlGF	Gene-protein
+31653890_3210	1121	1123	DR	Disease	DOID:8947
+31653890_3210	1169	1173	PlGF	Gene-protein
+31653890_3210	1184	1200	proliferative DR	Disease
+31653890_3210	1234	1257	anti-VEGF agent therapy	Drug-class
+31653890_3210	1239	1243	VEGF	Genefamily	family:1267
+31653890_3210	1272	1276	PlGF	Gene-protein
+31653890_3210	1272	1283	PlGF levels	Biomarker
+31653890_3210	1312	1318	VEGF-A	Gene-protein
+31653890_3210	1312	1325	VEGF-A levels	Biomarker
+31653890_3210	1329	1353	active proliferative DR.	Disease	not found
+31653890_3210	1374	1378	PlGF	Gene-protein
+31653890_3210	1374	1378	PlGF	Biomarker	D000072483
+31653890_3210	1432	1434	DR	Disease
+31653890_3210	1470	1476	VEGF-A	Gene-protein
+31653890_3210	1537	1541	PlGF	Gene-protein
+31653890_3210	1545	1551	VEGF-A	Gene-protein
+31653890_3210	1626	1646	phosphatidylinositol	Chemical
+31653890_3210	1626	1655	phosphatidylinositol-3 kinase	Genefamily	family:831
+31653890_3210	1657	1661	PI3K	Genefamily	family:831
+31653890_3210	1664	1680	protein kinase B	Genefamily	family:1900
+31653890_3210	1682	1685	Akt	Genefamily	family:1900
+31653890_3210	1688	1729	extracellular signal-regulated kinase-1/2	Gene-protein	HGNC:6877, HGNC:6871
+31653890_3210	1731	1737	Erk1/2	Gene-protein	HGNC:6877, HGNC:6871
+31653890_3210	1744	1781	p38 mitogen-activated protein kinases	Gene-protein	HGNC:6876
+31653890_3210	1783	1787	MAPK	Genefamily	family:651
+31653890_3210	1799	1844	Overproduction of nitric oxide synthase (NOS)	Biomarker
+31653890_3210	1817	1829	nitric oxide	Chemical
+31653890_3210	1817	1838	nitric oxide synthase	Genefamily	not found
+31653890_3210	1840	1843	NOS	Genefamily	not found
+31653890_3210	1866	1869	PKC	Genefamily
+31653890_3210	1924	1929	STAT1	Gene-protein	HGNC:11362
+31653890_3210	1931	1981	signal transducer and activator of transcription 1	Gene-protein	HGNC:11362
+31653890_3210	2131	2140	cytokines	Genefamily	not found
+31653890_3210	2174	2178	VEGF	Genefamily
+31653890_3210	2183	2187	PlGF	Gene-protein
+31653890_3210	2304	2306	DR	Disease
+

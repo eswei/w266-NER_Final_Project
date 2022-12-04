@@ -1,0 +1,34 @@
+30962950_5081|t|RSS_IDENT_p_30962950_b_1_1_6
+30962950_5081|a| In the present study, our previous method was used to screen for HCC recurrence-related N-linked glycoproteins in the serum of HCC patients. A major challenge in the treatment of HCC is the identification of patients who are at a greater risk for tumor recurrence after treatment, particularly for patients with early stage disease who do not show significant vascular invasion, regional lymph node, or distant metastasis ²¹ . We screened serum samples, and identified a potential recurrence-related N-linked glycoprotein from HCC patients with BCLC 0 or A stage disease (cohort A). Serum core-fucosylated quiescin sulfhydryl oxidase 1 (cf-QSOX1) was found to be significantly associated with postoperative recurrence of HCC, and serum QSOX1 was shown to be completely represented by the 67 kDa short isoform of QSOX1 (QSOX1-S). We further validated the prognostic significance of QSOX1 in tumor tissues for HCC patients after curative resection. A significant positive correlation was found between serum cf-QSOX1 and tumor expressed QSOX1. The functional roles of QSOX1-S and its glycosylation in HCC metastasis were further investigated. We show that QSOX1-S expression can inhibit HCC tumor invasion and metastasis. Glycosylation at residue Asn-130 was further shown to be required for the inhibitory effects on invasion and metastasis of HCC. A flowchart of experimental plan is shown in Supplemental Fig. S1. 
+30962950_5081	95	140	HCC recurrence-related N-linked glycoproteins	Biomarker
+30962950_5081	118	119	N	Chemical
+30962950_5081	157	160	HCC	Disease	DOID:684
+30962950_5081	209	212	HCC	Disease
+30962950_5081	277	282	tumor	Disease	DOID:162
+30962950_5081	511	551	recurrence-related N-linked glycoprotein	Biomarker
+30962950_5081	530	531	N	Chemical
+30962950_5081	557	600	HCC patients with BCLC 0 or A stage disease	Disease	not found
+30962950_5081	613	665	Serum core-fucosylated quiescin sulfhydryl oxidase 1	Biomarker
+30962950_5081	613	665	Serum core-fucosylated quiescin sulfhydryl oxidase 1	Gene-protein	not found
+30962950_5081	645	655	sulfhydryl	Chemical
+30962950_5081	667	675	cf-QSOX1	Gene-protein	not found
+30962950_5081	751	754	HCC	Disease
+30962950_5081	766	771	QSOX1	Gene-protein	HGNC:9756
+30962950_5081	842	847	QSOX1	Gene-protein
+30962950_5081	849	856	QSOX1-S	Gene-protein	not found
+30962950_5081	911	916	QSOX1	Gene-protein
+30962950_5081	920	925	tumor	Disease
+30962950_5081	938	941	HCC	Disease
+30962950_5081	1030	1044	serum cf-QSOX1	Biomarker
+30962950_5081	1049	1070	tumor expressed QSOX1	Biomarker
+30962950_5081	1065	1070	QSOX1	Gene-protein
+30962950_5081	1096	1103	QSOX1-S	Gene-protein
+30962950_5081	1096	1125	QSOX1-S and its glycosylation	Biomarker
+30962950_5081	1129	1143	HCC metastasis	Disease	DOID:684
+30962950_5081	1184	1191	QSOX1-S	Gene-protein
+30962950_5081	1184	1202	QSOX1-S expression	Drug	not found
+30962950_5081	1215	1218	HCC	Disease
+30962950_5081	1219	1224	tumor	Disease
+30962950_5081	1250	1282	Glycosylation at residue Asn-130	Drug	not found
+30962950_5081	1373	1376	HCC	Disease
+

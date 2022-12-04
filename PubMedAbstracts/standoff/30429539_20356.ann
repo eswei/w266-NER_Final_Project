@@ -1,0 +1,32 @@
+T0	Disease 47 51	ESRD
+T1	Chemical 328 341	urea nitrogen
+T10	Disease 1060 1063	CKD
+T11	Disease 1154 1157	CKD
+T12	Drug 1240 1247	AST-120
+T3	Disease 556 559	CKD
+#7	AnnotatorNotes T3	DOID:784
+T4	Chemical 598 611	urea nitrogen
+T5	Drug 692 707	indoxyl sulfate
+T6	Disease 813 816	CKD
+T7	Drug 851 866	indoxyl sulfate
+T8	Chemical 961 976	indoxyl sulfate
+T9	Disease 987 990	CKD
+T2	Biomarker 219 293	rapid alteration of redox state of serum albumin before and after dialysis
+T13	Biomarker 308 348	alteration of serum urea nitrogen levels
+T14	Gene-Protein 432 439	albumin
+T15	Gene-Protein 260 267	albumin
+T16	Drug 925 932	AST-120
+T17	Gene-Protein 899 906	albumin
+T18	Biomarker 77 117	f(HNA) has been reported to be decreased
+T19	Drug 494 501	AST-120
+#1	AnnotatorNotes T19	CHEMBL2106049
+T20	Drug 1125 1132	AST-120
+#2	AnnotatorNotes T0	DOID:783
+T21	Biomarker 657 669	serum f(HNA)
+T22	Biomarker 592 611	blood urea nitrogen
+T23	Disease 727 743	oxidative stress
+#4	AnnotatorNotes T23	D018384
+#5	AnnotatorNotes T5	D007200
+R1	Causes Arg1:T5 Arg2:T23	
+#3	AnnotatorNotes T22	D001806
+#6	AnnotatorNotes T15	 HGNC:399

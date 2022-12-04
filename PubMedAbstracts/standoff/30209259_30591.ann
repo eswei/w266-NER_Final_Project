@@ -1,0 +1,70 @@
+T10	Disease 362 376	kidney disease
+#2	AnnotatorNotes T10	DOID:557
+T11	Disease 409 431	advanced renal disease
+#3	AnnotatorNotes T11	not found
+T13	Disease 452 465	renal disease
+#4	AnnotatorNotes T13	DOID:557
+T14	Biomarker 535 547	phosphaturia
+T15	Disease 599 612	renal disease
+T16	Disease 627 639	advanced CKD
+#7	AnnotatorNotes T16	not found
+T18	Chemical 669 678	phosphate
+T19	Disease 741 753	phosphaturia
+T2	Chemical 129 138	phosphate
+T20	Disease 774 791	hyperphosphatemia
+#12	AnnotatorNotes T20	DOID:0050459
+T23	Disease 853 870	CKD stages 2 to 3
+#15	AnnotatorNotes T23	not found, not found
+T24	Disease 905 917	phosphaturia
+T25	Disease 937 950	renal disease
+T26	Disease 1002 1014	advanced CKD
+T27	Disease 1033 1047	renal diseases
+T30	Disease 1107 1119	phosphaturia
+T31	Disease 1123 1136	renal disease
+T32	Disease 1207 1219	phosphaturia
+T37	Disease 1427 1450	end-stage renal disease
+#24	AnnotatorNotes T37	not found
+T4	Biomarker 164 176	phosphaturia
+T40	Chemical 1482 1486	FePi
+T41	Disease 1660 1663	CKD
+#29	AnnotatorNotes T41	DOID:784
+T45	Disease 1749 1763	kidney failure
+#31	AnnotatorNotes T45	DOID:1074
+T47	Biomarker 1786 1797	proteinuria
+#32	AnnotatorNotes T47	D011507
+T48	Biomarker 1802 1806	FePi
+T5	Disease 186 209	secondary kidney damage
+T50	Disease 1844 1857	renal disease
+T6	Disease 222 236	tubular injury
+#36	AnnotatorNotes T6	not found
+T7	Disease 241 262	interstitial fibrosis
+#37	AnnotatorNotes T7	DOID:0050855
+T9	Chemical 319 328	phosphate
+T3	Drug 93 114	high phosphate intake
+#1	AnnotatorNotes T3	not found
+R1	Causes Arg1:T3 Arg2:T5	
+#5	AnnotatorNotes T5	not found
+#9	AnnotatorNotes T4	 D007015
+R2	Association Arg1:T4 Arg2:T5	
+T1	Biomarker 308 328	high serum phosphate
+R3	Risk-Factor Arg1:T1 Arg2:T10	
+T8	Biomarker 645 699	fractional excretion of phosphate is already very high
+R4	Association Arg1:T8 Arg2:T16	
+T12	Disease 1081 1092	proteinuria
+T21	Biomarker 1297 1322	preserved kidney function
+T22	Biomarker 1324 1327	GFR
+T28	Biomarker 1367 1377	high FGF23
+T29	Gene-Protein 1372 1377	FGF23
+#6	AnnotatorNotes T29	HGNC:3680
+T33	Collection 1297 1377	preserved kidney function, GFR between 30 and 44 mL/min/1.73 m², that high FGF23
+R6	Risk-Factor Arg1:T33 Arg2:T37	
+T34	Gene-Protein 1459 1464	FGF23
+T35	Gene-Protein 1474 1477	PTH
+#8	AnnotatorNotes T35	HGNC:9606
+T36	Gene-Protein 1557 1562	FGF23
+T38	Biomarker 1669 1691	higher levels of FGF23
+T39	Gene-Protein 1686 1691	FGF23
+T42	Biomarker 1696 1730	more severe cardiovascular disease
+T43	Collection 1669 1730	higher levels of FGF23 and more severe cardiovascular disease
+R7	Association Arg1:T43 Arg2:T41	
+#10	AnnotatorNotes T12	DOID:576

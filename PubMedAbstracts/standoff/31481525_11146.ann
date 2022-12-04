@@ -1,0 +1,154 @@
+T1	Disease 39 45	Stroke
+#1	AnnotatorNotes T1	DOID:6713
+T11	Disease 550 552	IS
+T14	Biomarker 1588 1593	IL-17
+T15	Disease 1653 1668	atherosclerotic
+T17	Biomarker 1684 1699	atherosclerosis
+T19	Disease 1742 1744	IS
+T2	Disease 186 201	ischemic damage
+#9	AnnotatorNotes T2	DOID:326
+T20	Disease 1891 1893	IS
+T21	Biomarker 1947 2015	relative mRNA levels of IL-17, IL-17RC, IL-6, IL-8, G-CSF and GM-CSF
+T22	Disease 2019 2021	IS
+T23	Disease 2099 2101	IS
+T24	Disease 2292 2294	IS
+T25	Biomarker 2321 2346	IL-17RC gene polymorphism
+T26	Disease 2386 2388	IS
+T27	Variant 2434 2442	rs376511
+T29	Disease 2458 2460	IS
+T3	Biomarker 209 246	Highly expressed inflammatory markers
+T30	Biomarker 2509 2517	rs376511
+T32	Disease 2521 2523	IS
+T33	Biomarker 2591 2598	IL-17RC
+T34	Disease 2602 2604	IS
+T36	Disease 2710 2712	IS
+T37	Variant 2798 2806	rs376511
+T38	Variant 2985 2993	rs376511
+T39	Biomarker 3021 3036	IL-17RC and SNP
+T4	Disease 277 302	ischemic vascular disease
+#19	AnnotatorNotes T4	DOID:3393
+T40	Biomarker 3085 3093	rs376511
+T41	Chemical 3157 3160	SNP
+T5	Disease 341 356	atherosclerosis
+#21	AnnotatorNotes T5	DOID:1936
+T6	Biomarker 358 370	inflammation
+T8	Biomarker 402 417	Atherosclerosis
+T9	Disease 433 435	IS
+T42	Biomarker 136 160	acute local inflammation
+R1	Association Arg1:T42 Arg2:T2	
+R2	Association Arg1:T3 Arg2:T4	
+R3	Association Arg1:T6 Arg2:T5	
+T43	Gene-Protein 561 566	IL-17
+#3	AnnotatorNotes T43	HGNC:5981
+T44	Gene-Protein 632 637	IL-17
+T45	Gene-Protein 741 745	IL-6
+#5	AnnotatorNotes T45	HGNC:6018
+T46	GeneFamily 778 792	IL-17 receptor
+#6	AnnotatorNotes T46	not found
+T47	Gene-Protein 809 816	IL-17RA
+#20	AnnotatorNotes T47	HGNC:5985
+T48	Gene-Protein 818 825	IL-17RB
+#24	AnnotatorNotes T48	HGNC:18015
+T49	Gene-Protein 1120 1125	IL-17
+T50	Gene-Protein 827 834	IL-17RC
+#25	AnnotatorNotes T50	HGNC:18358
+T51	Gene-Protein 836 843	IL-17RD
+#26	AnnotatorNotes T51	HGNC:17616
+T52	Gene-Protein 848 855	IL-17RE
+#27	AnnotatorNotes T52	HGNC:18439
+T53	Gene-Protein 857 862	IL-17
+T54	Gene-Protein 981 986	IL-17
+T55	Gene-Protein 1004 1010	IL-17R
+T56	Gene-Protein 935 941	IL-17R
+#28	AnnotatorNotes T56	HGNC:5985
+T57	GeneFamily 1023 1028	NF-κβ
+#29	AnnotatorNotes T57	family:1254
+T58	Gene-Protein 1033 1037	P-38
+#30	AnnotatorNotes T58	HGNC:6873
+T59	Gene-Protein 1075 1079	IL-6
+T60	Gene-Protein 1084 1088	IL-8
+#31	AnnotatorNotes T60	HGNC:6025
+T61	Gene-Protein 1152 1156	IL-1
+#32	AnnotatorNotes T61	HGNC:5991
+T62	Gene-Protein 1161 1166	TNF-α
+#33	AnnotatorNotes T62	HGNC:11892
+T63	Gene-Protein 1195 1199	IL-6
+T64	Gene-Protein 1204 1208	IL-8
+T65	Gene-Protein 1244 1250	IL-17C
+#34	AnnotatorNotes T65	HGNC:5983
+T66	Gene-Protein 1460 1466	IL-17C
+T67	GeneFamily 1306 1328	inflammatory cytokines
+#35	AnnotatorNotes T67	not found
+T68	GeneFamily 1337 1359	antimicrobial peptides
+#36	AnnotatorNotes T68	not found
+T69	Gene-Protein 1520 1524	hBD2
+#37	AnnotatorNotes T69	HGNC:2767
+T70	Gene-Protein 1497 1518	human beta-defensin 2
+#38	AnnotatorNotes T70	HGNC:2767
+T71	Gene-Protein 1535 1542	S100A12
+#39	AnnotatorNotes T71	HGNC:10489
+T72	GeneFamily 1527 1530	CSF
+#40	AnnotatorNotes T72	not found
+T73	Gene-Protein 1588 1593	IL-17
+T74	Gene-Protein 1824 1829	IL-17
+T75	Gene-Protein 1840 1844	IL-6
+T76	Gene-Protein 1846 1850	IL-8
+T77	Gene-Protein 1831 1838	IL-17RC
+#41	AnnotatorNotes T77	HGNC:18358
+T78	Gene-Protein 1852 1857	G-CSF
+#42	AnnotatorNotes T78	HGNC:2438
+T79	Gene-Protein 1978 1985	IL-17RC
+T80	Gene-Protein 1999 2004	G-CSF
+T81	Gene-Protein 2281 2288	IL-17RC
+T82	Gene-Protein 1971 1976	IL-17
+T83	Gene-Protein 2271 2276	IL-17
+T84	Gene-Protein 2177 2181	IL-8
+T85	Gene-Protein 2171 2175	IL-6
+T86	Gene-Protein 1987 1991	IL-6
+T87	Gene-Protein 1993 1997	IL-8
+T88	Gene-Protein 2009 2015	GM-CSF
+T89	Gene-Protein 1862 1868	GM-CSF
+#43	AnnotatorNotes T89	HGNC:2434
+T91	Gene-Protein 2183 2188	G-CSF
+T92	Gene-Protein 2193 2199	GM-CSF
+T93	Gene-Protein 2321 2328	IL-17RC
+T90	Gene-Protein 3137 3144	IL-17RC
+T94	Gene-Protein 2591 2598	IL-17RC
+T95	Gene-Protein 2641 2648	IL-17RC
+T96	Gene-Protein 2761 2768	IL-17RC
+T97	Gene-Protein 2885 2892	IL-17RC
+T98	Gene-Protein 3021 3028	IL-17RC
+T99	Gene-Protein 2426 2433	IL-17RC
+T100	Gene-Protein 2115 2120	IL-17
+T101	Gene-Protein 2153 2160	IL-17RC
+#2	AnnotatorNotes T6	D007249
+#8	AnnotatorNotes T9	DOID:6713
+#10	AnnotatorNotes T8	D050197
+R4	Association Arg1:T8 Arg2:T9	
+T7	Biomarker 485 507	pro-inflammatory genes
+T10	Disease 451 463	inflammation
+#11	AnnotatorNotes T10	D007249
+T16	Disease 705 717	inflammation
+T18	Gene-Protein 750 776	leukemia inhibitory factor
+#12	AnnotatorNotes T18	HGNC:6596
+#4	AnnotatorNotes T15	DOID:1936
+T13	Biomarker 2239 2288	increased protein expression of IL-17 and IL-17RC
+R6	Association Arg1:T13 Arg2:T24	
+R7	Association Arg1:T27 Arg2:T29	
+R8	Association Arg1:T30 Arg2:T32	
+R9	Association Arg1:T33 Arg2:T34	
+T28	Variant 2649 2657	rs376511
+R10	Association Arg1:T28 Arg2:T36	
+R11	Prognostic-Poor Arg1:T38 Arg2:T36	
+R12	Association Arg1:T21 Arg2:T22	
+R13	Association Arg1:T7 Arg2:T11	
+#7	AnnotatorNotes T66	HGNC:5983
+#13	AnnotatorNotes T17	D050197
+R14	Association Arg1:T17 Arg2:T19	
+T12	Biomarker 1809 1885	mRNA levels of IL-17, IL-17RC, IL-6, IL-8, G-CSF and GM-CSF in serum samples
+R5	Variant-Of Arg1:T99 Arg2:T27	
+R15	Variant-Of Arg1:T95 Arg2:T28	
+R16	Variant-Of Arg1:T96 Arg2:T37	
+R17	Variant-Of Arg1:T98 Arg2:T38	
+R18	Prognostic-Poor Arg1:T40 Arg2:T36	
+R19	Association Arg1:T14 Arg2:T15	

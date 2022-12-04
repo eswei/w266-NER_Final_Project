@@ -1,0 +1,67 @@
+30420953_36|t|RSS_IDENT_p_30420953_a_1_1
+30420953_36|a| Dietary iron absorption and systemic iron traffic are tightly controlled by hepcidin, a liver-derived peptide hormone. Hepcidin inhibits iron entry into plasma by binding to and inactivating the iron exporter ferroportin in target cells, such as duodenal enterocytes and tissue macrophages. Hepcidin is induced in response to increased body iron stores to inhibit further iron absorption and prevent iron overload. The mechanism involves the BMP/SMAD signaling pathway, which triggers transcriptional hepcidin induction. Inactivating mutations in components of this pathway cause hepcidin deficiency, which allows inappropriately increased iron absorption and efflux into the bloodstream. This leads to hereditary hemochromatosis (HH), a genetically heterogenous autosomal recessive disorder of iron metabolism characterized by gradual buildup of unshielded non-transferrin bound iron (NTBI) in plasma and excessive iron deposition in tissue parenchymal cells. The predominant HH form is linked to mutations in the HFE gene and constitutes the most frequent genetic disorder in Caucasians. Other, more severe and rare variants are caused by inactivating mutations in HJV (hemojuvelin), HAMP (hepcidin) or TFR2 (transferrin receptor 2). Mutations in SLC40A1 (ferroportin) that cause hepcidin resistance recapitulate the biochemical phenotype of HH. However, ferroportin-related hemochromatosis is transmitted in an autosomal dominant manner. Loss-of-function ferroportin mutations lead to ferroportin disease, characterized by iron overload in macrophages and low transferrin saturation. Aceruloplasminemia and atransferrinemia are further inherited disorders of iron overload caused by deficiency in ceruloplasmin or transferrin, the plasma ferroxidase and iron carrier, respectively.
+30420953_36	36	40	iron	Chemical
+30420953_36	65	69	iron	Chemical
+30420953_36	104	112	hepcidin	Gene-protein	HGNC:15598
+30420953_36	147	155	Hepcidin	Gene-protein	HGNC:15598
+30420953_36	165	169	iron	Chemical
+30420953_36	223	227	iron	Chemical
+30420953_36	237	248	ferroportin	Gene-protein	HGNC:10909
+30420953_36	319	327	Hepcidin	Gene-protein
+30420953_36	369	373	iron	Chemical
+30420953_36	400	404	iron	Chemical
+30420953_36	428	432	iron	Chemical
+30420953_36	470	473	BMP	Genefamily	family:455
+30420953_36	474	478	SMAD	Genefamily	family:750
+30420953_36	529	537	hepcidin	Gene-protein
+30420953_36	608	616	hepcidin	Gene-protein
+30420953_36	608	627	hepcidin deficiency	Disease	not found
+30420953_36	642	715	inappropriately increased iron absorption and efflux into the bloodstream	Biomarker
+30420953_36	668	672	iron	Chemical
+30420953_36	731	757	hereditary hemochromatosis	Disease	DOID:0111028
+30420953_36	759	761	HH	Disease	DOID:0111028
+30420953_36	823	827	iron	Chemical
+30420953_36	856	929	gradual buildup of unshielded non-transferrin bound iron (NTBI) in plasma	Biomarker
+30420953_36	856	987	gradual buildup of unshielded non-transferrin bound iron (NTBI) in plasma and excessive iron deposition in tissue parenchymal cells	Collection
+30420953_36	890	901	transferrin	Gene-protein	HGNC:11740
+30420953_36	908	912	iron	Chemical
+30420953_36	934	987	excessive iron deposition in tissue parenchymal cells	Biomarker
+30420953_36	944	948	iron	Chemical
+30420953_36	1005	1007	HH	Disease
+30420953_36	1026	1051	mutations in the HFE gene	Biomarker
+30420953_36	1043	1046	HFE	Gene-protein	 HGNC:4886
+30420953_36	1086	1102	genetic disorder	Disease	DOID:630
+30420953_36	1169	1262	inactivating mutations in HJV (hemojuvelin), HAMP (hepcidin) or TFR2 (transferrin receptor 2)	Biomarker
+30420953_36	1195	1198	HJV	Gene-protein	HGNC:4887
+30420953_36	1200	1211	hemojuvelin	Gene-protein	HGNC:4887
+30420953_36	1214	1218	HAMP	Gene-protein	HGNC:15598
+30420953_36	1220	1228	hepcidin	Gene-protein
+30420953_36	1233	1237	TFR2	Gene-protein	HGNC:11762
+30420953_36	1239	1261	transferrin receptor 2	Gene-protein	HGNC:11762
+30420953_36	1264	1298	Mutations in SLC40A1 (ferroportin)	Biomarker
+30420953_36	1277	1284	SLC40A1	Gene-protein	HGNC:10909
+30420953_36	1286	1297	ferroportin	Gene-protein
+30420953_36	1310	1318	hepcidin	Gene-protein
+30420953_36	1310	1329	hepcidin resistance	Disease	not found
+30420953_36	1372	1374	HH	Disease
+30420953_36	1385	1396	ferroportin	Gene-protein
+30420953_36	1385	1420	ferroportin-related hemochromatosis	Disease	DOID:0111028
+30420953_36	1469	1507	Loss-of-function ferroportin mutations	Biomarker
+30420953_36	1486	1497	ferroportin	Gene-protein
+30420953_36	1516	1527	ferroportin	Gene-protein
+30420953_36	1516	1535	ferroportin disease	Disease	DOID:0111028
+30420953_36	1554	1558	iron	Chemical
+30420953_36	1554	1582	iron overload in macrophages	Biomarker
+30420953_36	1554	1613	iron overload in macrophages and low transferrin saturation	Collection
+30420953_36	1587	1613	low transferrin saturation	Biomarker
+30420953_36	1591	1602	transferrin	Gene-protein
+30420953_36	1615	1633	Aceruloplasminemia	Disease	DOID:0050711
+30420953_36	1615	1654	Aceruloplasminemia and atransferrinemia	Collection
+30420953_36	1638	1654	atransferrinemia	Disease	DOID:0050649
+30420953_36	1690	1694	iron	Chemical
+30420953_36	1714	1756	deficiency in ceruloplasmin or transferrin	Biomarker
+30420953_36	1728	1741	ceruloplasmin	Gene-protein	HGNC:2295
+30420953_36	1745	1756	transferrin	Gene-protein
+30420953_36	1769	1780	ferroxidase	Gene-protein	HGNC:2295
+30420953_36	1785	1789	iron	Chemical
+

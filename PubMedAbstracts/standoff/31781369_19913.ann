@@ -1,0 +1,95 @@
+T1	Disease 59 62	DOA
+T10	Biomarker 300 330	dilated peripheral capillaries
+T11	Biomarker 351 375	Pale temporal optic disc
+T13	Biomarker 380 420	bilateral central or paracentral scotoma
+T14	Disease 784 787	DOA
+T15	Disease 843 846	DOA
+T16	Disease 852 856	LHON
+T18	Disease 858 862	LHON
+T19	Disease 868 896	maternally inherited disease
+#9	AnnotatorNotes T19	not found
+T2	Disease 95 99	LHON
+T20	Biomarker 904 930	mitochondrial DNA mutation
+T21	Chemical 975 979	NADH
+T23	Variant 1047 1057	m.11778G>A
+T24	Variant 1063 1072	m.3460G>A
+T25	Variant 1082 1092	m.14484T>C
+T26	Disease 1137 1141	LHON
+T27	Biomarker 1213 1228	mtDNA mutations
+T28	Disease 1232 1236	LHON
+T29	Disease 1260 1263	DOA
+T3	Disease 117 144	hereditary optic neuropathy
+#15	AnnotatorNotes T3	not found
+T30	Disease 1270 1306	autosomal inherited optic neuropathy
+#16	AnnotatorNotes T30	not found
+T31	Biomarker 1325 1351	mutations of the OPA1 gene
+T33	Disease 1489 1505	nonsyndromic DOA
+#17	AnnotatorNotes T33	not found
+T35	Biomarker 1520 1536	six genetic loci
+T36	Disease 1578 1581	DOA
+T37	Biomarker 1593 1597	OPA2
+T38	Disease 1764 1767	DOA
+T39	Biomarker 1786 1804	280 OPA1 mutations
+T40	Disease 1843 1846	DOA
+T5	Disease 146 150	LHON
+T7	Biomarker 194 231	unilateral progression of vision loss
+T9	Biomarker 255 295	congested or hydropic optic disc borders
+#1	AnnotatorNotes T1	D029241
+#4	AnnotatorNotes T2	DOID:705
+R1	Association Arg1:T7 Arg2:T5	
+R2	Risk-Factor Arg1:T20 Arg2:T18	
+T4	Gene-Protein 975 1008	NADH dehydrogenase subunit (ND) 4
+#2	AnnotatorNotes T4	HGNC:7459
+T6	Gene-Protein 1010 1013	ND1
+#3	AnnotatorNotes T6	HGNC:7455
+T8	Gene-Protein 1019 1022	ND6
+#5	AnnotatorNotes T8	HGNC:7462
+T12	Biomarker 948 1028	mutations are found in the NADH dehydrogenase subunit (ND) 4, ND1, and ND6 genes
+T17	Gene-Protein 1043 1046	ND4
+#6	AnnotatorNotes T17	HGNC:7459
+R3	Variant-Of Arg1:T17 Arg2:T23	
+T22	Gene-Protein 1059 1062	ND1
+R4	Variant-Of Arg1:T22 Arg2:T24	
+T41	Gene-Protein 1078 1081	ND6
+R5	Variant-Of Arg1:T41 Arg2:T25	
+T42	Collection 1043 1092	ND4 m.11778G>A, ND1 m.3460G>A, and ND6 m.14484T>C
+R6	Association Arg1:T42 Arg2:T26	
+R8	Risk-Factor Arg1:T31 Arg2:T29	
+T43	Gene-Protein 1342 1346	OPA1
+#7	AnnotatorNotes T43	HGNC:8140
+T32	Gene-Protein 1374 1378	OPA1
+T34	Gene-Protein 1380 1384	OPA3
+#8	AnnotatorNotes T34	HGNC:8142
+T44	Gene-Protein 1393 1399	AFG3L2
+#10	AnnotatorNotes T44	HGNC:315
+T45	Gene-Protein 1408 1413	DNM1L
+#11	AnnotatorNotes T45	HGNC:2973
+T46	Gene-Protein 1426 1430	WFS1
+#12	AnnotatorNotes T46	HGNC:12762
+T47	Biomarker 1374 1378	OPA1
+#13	AnnotatorNotes T47	C415198
+T48	Biomarker 1380 1384	OPA3
+#14	AnnotatorNotes T48	C443108
+T49	Biomarker 1393 1399	AFG3L2
+#18	AnnotatorNotes T49	C120699
+T50	Biomarker 1408 1413	DNM1L
+#19	AnnotatorNotes T50	C110768
+T51	Biomarker 1426 1430	WFS1
+T52	Collection 1374 1430	OPA1, OPA3 [ 35 ], AFG3L2 [ 36 ], DNM1L [ 37 ], and WFS1
+R9	Association Arg1:T52 Arg2:T33	
+R10	Association Arg1:T35 Arg2:T36	
+T53	Biomarker 1615 1619	OPA4
+T54	Biomarker 1637 1641	OPA5
+T55	Biomarker 1659 1663	OPA6
+T56	Biomarker 1696 1700	OPA8
+T57	Collection 1593 1700	OPA2 (Xp11.4-p11.21), OPA4 (18q12.2-q12.3), OPA5 (22q12.1-q13.1), OPA6 (8q21-q22), OPA7 (11q14.1), and OPA8
+R11	Association Arg1:T57 Arg2:T36	
+T58	Gene-Protein 1736 1740	OPA1
+T59	Biomarker 1736 1740	OPA1
+R12	Association Arg1:T59 Arg2:T38	
+R13	Association Arg1:T39 Arg2:T40	
+T60	Gene-Protein 1790 1794	OPA1
+T61	Collection 255 330	congested or hydropic optic disc borders and dilated peripheral capillaries
+T62	Collection 351 420	Pale temporal optic disc and bilateral central or paracentral scotoma
+R7	Association Arg1:T62 Arg2:T5	
+R14	Association Arg1:T61 Arg2:T5	

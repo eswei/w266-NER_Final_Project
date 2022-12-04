@@ -1,0 +1,46 @@
+31300544_5900|t|RSS_IDENT_p_31300544_b_1_2_5
+31300544_5900|a| In addition to its role in CXCR4 regulation, FHC is well known as a subunit of the iron storage protein ferritin ( Knovich et al., 2009 ). As such, FHC protein expression is regulated by intracellular labile iron levels and iron-related stimuli including oxidative damage and inflammatory cytokines ( Torti and Torti, 2002 ; Wilkinson et al., 2003 ). Furthermore, clinical studies show that cognitive deficits in HAND are associated with increased levels of iron transport proteins in CSF ( Kallianpur et al., 2019 ), and that CSF iron and FHC levels are associated with CSF viral load and plasma virus detectability, respectively ( Patton et al., 2017 ). Therefore, increased CNS iron levels in HAND may drive the production of FHC, which could then lead to dendritic spine deficits and cognitive impairment. However, the mechanism by which morphine upregulates neuronal FHC is unclear. Since FHC is classically regulated by iron levels, and iron dysregulation is associated with HAND symptoms, we suspected that morphine may also upregulate FHC by modulating neuronal iron metabolism. Intriguingly, we found that morphine causes iron efflux from endolysosomes to the labile iron pool in the cytoplasm, which is required for FHC upregulation in cortical neurons. These results imply that opioid use and HIV infection may share a convergent mechanism leading to cognitive impairment, thus targeting brain-iron metabolism may be an effective approach for future HAND therapeutics. 
+31300544_5900	57	62	CXCR4	Gene-protein	HGNC:2561
+31300544_5900	75	78	FHC	Gene-protein	HGNC:3976
+31300544_5900	113	117	iron	Chemical
+31300544_5900	134	142	ferritin	Genefamily	family:1455
+31300544_5900	178	181	FHC	Gene-protein
+31300544_5900	238	242	iron	Chemical
+31300544_5900	254	258	iron	Chemical
+31300544_5900	306	328	inflammatory cytokines	Genefamily	not found
+31300544_5900	421	439	cognitive deficits	Biomarker	D003072,not found
+31300544_5900	443	447	HAND	Disease
+31300544_5900	468	518	increased levels of iron transport proteins in CSF	Biomarker
+31300544_5900	488	492	iron	Chemical
+31300544_5900	557	580	CSF iron and FHC levels	Biomarker
+31300544_5900	561	565	iron	Chemical
+31300544_5900	570	573	FHC	Gene-protein
+31300544_5900	601	615	CSF viral load	Biomarker
+31300544_5900	620	646	plasma virus detectability	Biomarker
+31300544_5900	697	722	increased CNS iron levels	Biomarker
+31300544_5900	711	715	iron	Chemical
+31300544_5900	726	730	HAND	Disease	not found
+31300544_5900	726	838	HAND may drive the production of FHC, which could then lead to dendritic spine deficits and cognitive impairment	Collection
+31300544_5900	759	762	FHC	Gene-protein
+31300544_5900	799	813	spine deficits	Disease	DOID:0060564
+31300544_5900	818	838	cognitive impairment	Disease	DOID:1561
+31300544_5900	872	880	morphine	Chemical
+31300544_5900	902	905	FHC	Gene-protein
+31300544_5900	924	927	FHC	Gene-protein
+31300544_5900	956	960	iron	Chemical
+31300544_5900	973	977	iron	Chemical
+31300544_5900	973	991	iron dysregulation	Biomarker
+31300544_5900	1011	1015	HAND	Disease
+31300544_5900	1044	1052	morphine	Chemical
+31300544_5900	1073	1076	FHC	Gene-protein
+31300544_5900	1100	1104	iron	Chemical
+31300544_5900	1145	1153	morphine	Drug	CHEMBL70
+31300544_5900	1161	1165	iron	Chemical
+31300544_5900	1206	1210	iron	Chemical
+31300544_5900	1256	1259	FHC	Gene-protein
+31300544_5900	1319	1325	opioid	Drug-class
+31300544_5900	1334	1347	HIV infection	Disease	DOID:526
+31300544_5900	1392	1412	cognitive impairment	Disease
+31300544_5900	1419	1450	targeting brain-iron metabolism	Drug
+31300544_5900	1491	1495	HAND	Disease
+

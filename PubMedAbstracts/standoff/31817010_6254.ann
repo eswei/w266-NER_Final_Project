@@ -1,0 +1,44 @@
+T0	Chemical 90 100	kynurenine
+T1	Chemical 129 139	tryptophan
+T11	Disease 671 679	ischemia
+T12	Chemical 696 706	kynurenine
+T14	Chemical 758 773	quinolinic acid
+T15	Disease 805 813	ischemia
+T16	Disease 909 915	stroke
+T17	Chemical 1143 1153	tryptophan
+T18	Chemical 1167 1177	kynurenine
+T19	Chemical 1200 1211	indoleamine
+T2	Disease 148 156	ischemia
+#11	AnnotatorNotes T2	DOID:326
+T20	Disease 1327 1333	stroke
+T3	Chemical 207 217	kynurenine
+T4	Chemical 234 250	aryl hydrocarbon
+T6	Chemical 252 254	Ah
+T7	Disease 343 360	cerebral ischemia
+#16	AnnotatorNotes T7	DOID:2316
+T9	Disease 472 478	stroke
+#17	AnnotatorNotes T9	D020521
+T5	Biomarker 81 100	level of kynurenine
+R1	Association Arg1:T5 Arg2:T2	
+T8	Gene-Protein 234 264	aryl hydrocarbon (Ah) receptor
+#1	AnnotatorNotes T8	HGNC:348
+T10	Biomarker 234 339	aryl hydrocarbon (Ah) receptor (ligand-activated transcription factor), and the activation is deleterious
+R2	Association Arg1:T10 Arg2:T7	
+T13	Gene-Protein 401 412	Ah receptor
+T21	Gene-Protein 588 599	Ah receptor
+T22	Biomarker 560 599	increased expression of the Ah receptor
+T23	Biomarker 401 430	Ah receptor was overexpressed
+R3	Association Arg1:T22 Arg2:T11	
+R4	Association Arg1:T23 Arg2:T9	
+T24	Biomarker 758 788	quinolinic acid, was increased
+R5	Association Arg1:T24 Arg2:T15	
+T25	GeneFamily 1143 1165	tryptophan hydroxylase
+#2	AnnotatorNotes T25	not found
+T26	GeneFamily 1167 1194	kynurenine aminotransferase
+#3	AnnotatorNotes T26	not found
+T27	GeneFamily 1200 1227	indoleamine 2,3-dioxygenase
+#4	AnnotatorNotes T27	not found
+T28	Biomarker 884 899	TRYCATs pathway
+T29	Collection 1143 1227	tryptophan hydroxylase, kynurenine aminotransferase, and indoleamine 2,3-dioxygenase
+T30	Variant 1046 1050	SNPs
+R6	Mediator Arg1:T29 Arg2:T30	

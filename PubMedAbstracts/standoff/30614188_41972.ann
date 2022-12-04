@@ -1,0 +1,60 @@
+T0	RNA-Noncoding 238 247	LINC01436
+T11	Disease 828 862	Krasᴳ¹²ᴰ‐driven murine lung tumors
+#2	AnnotatorNotes T11	DOID:1324
+T13	Disease 962 973	lung cancer
+T14	Disease 1037 1042	NSCLC
+T15	Disease 1134 1144	lung tumor
+T18	RNA-Noncoding 1321 1330	LINC01436
+T19	Disease 1352 1362	lung tumor
+T2	Disease 308 319	lung cancer
+#8	AnnotatorNotes T2	DOID:1324
+T20	Disease 1436 1446	lung tumor
+T21	Disease 1635 1640	NSCLC
+T4	Disease 437 444	cancers
+#11	AnnotatorNotes T4	DOID:162
+T5	Disease 456 467	lung cancer
+T7	Disease 609 614	NSCLC
+#13	AnnotatorNotes T7	DOID:3908
+T9	Disease 712 717	NSCLC
+T1	Gene-Protein 61 66	EPAS1
+#1	AnnotatorNotes T1	HGNC:3374
+T3	Gene-Protein 90 96	CREBBP
+#6	AnnotatorNotes T3	HGNC:2348
+T6	Gene-Protein 124 129	MECP2
+#15	AnnotatorNotes T6	HGNC:6990
+T8	Gene-Protein 158 166	TNFSF13B
+#16	AnnotatorNotes T8	HGNC:11929
+T10	RNA-Noncoding 209 219	miR‐30a‐3p
+#17	AnnotatorNotes T10	HGNC:31624
+#18	AnnotatorNotes T0	HGNC:50754
+T12	Gene-Protein 276 281	EPAS1
+T16	RNA-Noncoding 294 304	miR‐30a‐3p
+T17	Gene-Protein 321 326	EPAS1
+T22	Gene-Protein 339 345	HIF‐2α
+#19	AnnotatorNotes T22	HGNC:3374
+T23	Collection 437 467	cancers, including lung cancer
+T24	Biomarker 321 326	EPAS1
+#12	AnnotatorNotes T24	C105713
+R1	Prognostic-Poor Arg1:T24 Arg2:T23	
+T25	Biomarker 506 531	High EPAS1 protein levels
+T26	Gene-Protein 511 516	EPAS1
+R2	Prognostic-Poor Arg1:T25 Arg2:T7	
+T27	Gene-Protein 679 684	EPAS1
+T28	Biomarker 679 684	EPAS1
+R3	Association Arg1:T28 Arg2:T9	
+T29	Gene-Protein 772 777	EPAS1
+T30	GeneFamily 803 806	RAS
+T32	Biomarker 912 936	increased EPAS1 activity
+T33	Gene-Protein 922 927	EPAS1
+R5	Association Arg1:T32 Arg2:T13	
+T34	Gene-Protein 1028 1033	EPAS1
+T35	Biomarker 1157 1194	low EPAS1 mRNA and protein expression
+T36	Gene-Protein 1161 1166	EPAS1
+R6	Association Arg1:T35 Arg2:T15	
+T37	Gene-Protein 1267 1272	EPAS1
+T38	Gene-Protein 1403 1408	EPAS1
+T39	Biomarker 1403 1427	EPAS1 protein expression
+T40	Gene-Protein 1626 1631	EPAS1
+T31	Drug 731 786	Ectopic overexpression of non‐degradable EPAS1 proteins
+#3	AnnotatorNotes T31	not found
+R4	Causes Arg1:T31 Arg2:T11	

@@ -1,0 +1,75 @@
+T0	Disease 224 230	cancer
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 345 357	colon cancer
+#2	AnnotatorNotes T1	DOID:219
+T10	Disease 1068 1073	ccRCC
+T12	Chemical 1210 1211	N
+T14	Disease 1372 1375	CRC
+T2	Disease 437 449	colon cancer
+T3	Disease 559 587	chemo/radioresistant cancers
+#9	AnnotatorNotes T3	not found
+T5	Disease 632 637	ccRCC
+#11	AnnotatorNotes T5	DOID:4467
+T6	Disease 643 646	CRC
+T7	Disease 759 776	colorectal cancer
+#13	AnnotatorNotes T7	DOID:9256
+T8	Disease 796 801	ccRCC
+T9	Disease 902 922	renal cell carcinoma
+#15	AnnotatorNotes T9	DOID:4450
+T15	RNA-Noncoding 30 39	MicroRNAs
+#5	AnnotatorNotes T15	family:476
+T16	Biomarker 30 39	MicroRNAs
+#7	AnnotatorNotes T16	D035683
+R1	Association Arg1:T16 Arg2:T0	
+T17	RNA-Noncoding 285 293	miR-106b
+#12	AnnotatorNotes T17	HGNC:31495
+T18	RNA-Noncoding 317 322	miR93
+#16	AnnotatorNotes T18	HGNC:31645
+T19	Biomarker 270 341	members of the miR-106b ∼ 25 cluster, miR25and miR93 were downregulated
+R2	Association Arg1:T19 Arg2:T1	
+T20	Biomarker 366 392	low expression of miR93/25
+T21	RNA-Noncoding 384 392	miR93/25
+#17	AnnotatorNotes T21	HGNC:31645, HGNC:31609
+R3	Association Arg1:T20 Arg2:T2	
+T22	RNA-Noncoding 473 484	miR-106b-5p
+#8	AnnotatorNotes T22	HGNC:31495
+T23	RNA-Noncoding 508 516	miR-106b
+T24	Biomarker 473 547	miR-106b-5p, also as the member of miR-106b ∼ 25 cluster, is overexpressed
+T25	Disease 599 630	clear cell renal cell carcinoma
+#18	AnnotatorNotes T25	DOID:4467
+#10	AnnotatorNotes T6	DOID:9256
+T4	Collection 559 646	chemo/radioresistant cancers, including clear cell renal cell carcinoma (ccRCC) and CRC
+R4	Association Arg1:T24 Arg2:T4	
+T26	RNA-Noncoding 661 672	miR-106b-5p
+T27	Biomarker 661 687	miR-106b-5p overexpression
+T28	GeneFamily 725 729	PTEN
+#19	AnnotatorNotes T28	family:902
+T29	GeneFamily 730 734	PI3K
+#20	AnnotatorNotes T29	family:831
+T30	GeneFamily 735 738	AKT
+#21	AnnotatorNotes T30	family:1900
+T31	Gene-Protein 752 755	p21
+#22	AnnotatorNotes T31	HGNC:1784
+R5	Association Arg1:T27 Arg2:T7	
+T32	RNA-Noncoding 881 892	miR-106b-5p
+T33	Biomarker 881 892	miR-106b-5p
+#14	AnnotatorNotes T33	C542541
+R6	Association Arg1:T33 Arg2:T9	
+T34	GeneFamily 985 994	β-catenin
+#23	AnnotatorNotes T34	family:1542
+T35	GeneFamily 981 984	Wnt
+#24	AnnotatorNotes T35	family:360
+T36	RNA-Noncoding 1025 1036	miR-106b-5p
+T37	Biomarker 1025 1064	miR-106b-5p was found to be upregulated
+R7	Association Arg1:T37 Arg2:T10	
+T38	Gene-Protein 1122 1127	TRIM8
+#3	AnnotatorNotes T38	HGNC:15579
+T11	Gene-Protein 1170 1173	p53
+#4	AnnotatorNotes T11	HGNC:11998
+T39	Gene-Protein 1210 1215	N-Myc
+#25	AnnotatorNotes T39	HGNC:7559
+T40	Gene-Protein 1241 1252	miR-106b-5p
+T13	Drug-Class 853 862	radiation
+T41	Drug-Class 867 879	chemotherapy
+T42	Collection 853 879	radiation and chemotherapy
+R8	Non-Response Arg1:T42 Arg2:T8	

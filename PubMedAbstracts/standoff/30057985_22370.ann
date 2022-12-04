@@ -1,0 +1,81 @@
+T11	Disease 751 753	ET
+T13	Disease 829 831	PV
+T14	Disease 842 844	ET
+T17	Disease 954 956	PV
+T2	Disease 106 108	ET
+#5	AnnotatorNotes T2	DOID:2224
+T21	Disease 1176 1182	cancer
+#7	AnnotatorNotes T21	DOID:162
+T24	Disease 1244 1250	cancer
+T26	Disease 1455 1458	PMF
+T27	Disease 1532 1534	ET
+T28	Disease 1538 1540	PV
+T3	Disease 110 113	PMF
+T4	Disease 118 120	PV
+T6	Disease 254 257	MPN
+T8	Disease 646 649	MPN
+T9	Disease 672 675	PMF
+T1	GeneFamily 64 73	cytokines
+#2	AnnotatorNotes T1	not found
+T5	Gene-Protein 423 427	IL-4
+#4	AnnotatorNotes T5	HGNC:6014
+T7	Gene-Protein 432 437	IL-10
+#9	AnnotatorNotes T7	HGNC:5962
+T10	GeneFamily 262 271	cytokines
+T12	GeneFamily 78 88	chemokines
+#11	AnnotatorNotes T12	family:483
+T15	GeneFamily 276 286	chemokines
+T16	GeneFamily 412 421	cytokines
+T18	GeneFamily 589 597	cytokine
+T19	GeneFamily 598 607	chemokine
+T22	Gene-Protein 791 796	TNF-α
+#12	AnnotatorNotes T22	HGNC:11892
+T23	GeneFamily 987 1013	pro-inflammatory cytokines
+T25	GeneFamily 1218 1227	chemokine
+T29	Biomarker 685 745	exhibited higher plasma levels of IFN-γ, IL-12p70 and IL-17A
+R1	Association Arg1:T29 Arg2:T9	
+T30	Biomarker 767 823	higher plasma levels of TNF-α, IL-4, IL12-p70 and GM-CSF
+R2	Association Arg1:T30 Arg2:T9	
+T31	Gene-Protein 719 724	IFN-γ
+#1	AnnotatorNotes T31	HGNC:5438
+T32	Gene-Protein 739 745	IL-17A
+#10	AnnotatorNotes T32	HGNC:5981
+T33	Gene-Protein 888 894	RANTES
+#13	AnnotatorNotes T33	HGNC:10632
+T34	Biomarker 864 894	higher plasma levels of RANTES
+R3	Association Arg1:T34 Arg2:T14	
+T35	Disease 910 912	PV
+T36	Gene-Protein 942 948	MIP-1β
+#3	AnnotatorNotes T36	HGNC:10630
+T37	Gene-Protein 1197 1203	RANTES
+T38	Gene-Protein 1445 1451	RANTES
+T39	Gene-Protein 798 802	IL-4
+T40	Gene-Protein 967 972	IL-12
+#14	AnnotatorNotes T40	HGNC:5969
+T41	Gene-Protein 977 982	IL-17
+#15	AnnotatorNotes T41	HGNC:5981
+T20	Gene-Protein 1434 1440	IL-17A
+#6	AnnotatorNotes T20	HGNC:5981
+T42	Collection 106 120	ET, PMF and PV
+T43	Biomarker 30 87	Elevated plasma levels of several cytokines and chemokine
+R4	Association Arg1:T43 Arg2:T42	
+#8	AnnotatorNotes T3	DOID:4971
+#16	AnnotatorNotes T4	DOID:8997
+#17	AnnotatorNotes T6	DOID:2226
+T44	Biomarker 579 618	levels of cytokine/chemokine expression
+R5	Association Arg1:T44 Arg2:T8	
+T45	Biomarker 925 948	higher levels of MIP-1β
+R6	Association Arg1:T45 Arg2:T14	
+T46	Biomarker 977 982	IL-17
+#18	AnnotatorNotes T46	D020381
+T47	Biomarker 967 972	IL-12
+#19	AnnotatorNotes T47	D018664
+T48	Collection 967 982	IL-12 and IL-17
+R7	Association Arg1:T48 Arg2:T21	
+T49	Biomarker 1197 1203	RANTES
+#20	AnnotatorNotes T49	D018946
+R8	Association Arg1:T49 Arg2:T24	
+T50	Biomarker 1404 1451	increased levels of IL-12p70, IL-17A and RANTES
+R9	Association Arg1:T50 Arg2:T26	
+T51	Gene-Protein 804 812	IL12-p70
+#21	AnnotatorNotes T51	HGNC:5969:, HGNC:5970

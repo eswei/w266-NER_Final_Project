@@ -1,0 +1,71 @@
+T10	Disease 307 309	GS
+#3	AnnotatorNotes T10	DOID:0050450
+T13	Disease 643 645	BS
+T14	Chemical 732 743	aldosterone
+T16	Disease 804 821	renal dysfunction
+#7	AnnotatorNotes T16	DOID:1074
+T17	Disease 829 852	salt-losing nephropathy
+#8	AnnotatorNotes T17	not found
+T19	Biomarker 899 920	prolonged hypokalemia
+T22	Disease 933 944	hypertrophy
+#13	AnnotatorNotes T22	D006984
+T23	Disease 949 963	renal fibrosis
+#14	AnnotatorNotes T23	DOID:0050855
+T25	Biomarker 1123 1134	prematurity
+T26	Disease 1166 1169	CKD
+#16	AnnotatorNotes T26	DOID:784
+T28	Drug 1272 1284	indomethacin
+T29	Drug 1289 1303	spironolactone
+T3	Biomarker 207 211	FSGS
+T30	Chemical 1319 1329	creatinine
+T31	Disease 1344 1355	proteinuria
+#22	AnnotatorNotes T31	DOID:576
+T32	Disease 1422 1425	CKD
+T33	Drug 1545 1557	indomethacin
+T35	Drug 1587 1601	spironolactone
+T36	Disease 1657 1678	chronic renal failure
+#27	AnnotatorNotes T36	D007676
+T37	Disease 1804 1806	BS
+T4	Biomarker 223 260	juxtaglomerular apparatus hyperplasia
+T6	Biomarker 262 283	interstitial fibrosis
+T9	Disease 300 302	BS
+T7	Disease 93 168	CKD (eGFR 43 ml/min per 1.73 m2, Grade 3b) with nephrotic range proteinuria
+A1	Conjunction T7
+#5	AnnotatorNotes T7	DOID:784, not found
+#1	AnnotatorNotes T9	DOID:445
+T1	Collection 300 309	BS and GS
+T2	Collection 207 283	FSGS as well as juxtaglomerular apparatus hyperplasia, interstitial fibrosis
+R1	Association Arg1:T2 Arg2:T1	
+T5	GeneFamily 329 344	immunoglobulins
+#2	AnnotatorNotes T5	not found
+T8	Gene-Protein 346 349	IgM
+#6	AnnotatorNotes T8	not found
+T11	Gene-Protein 353 356	IgA
+#11	AnnotatorNotes T11	not found
+T15	Gene-Protein 395 397	C3
+#17	AnnotatorNotes T15	HGNC:1318
+T12	Gene-Protein 714 719	renin
+#4	AnnotatorNotes T12	HGNC:9958
+T18	Gene-Protein 720 731	angiotensin
+#9	AnnotatorNotes T18	HGNC:333
+T20	Biomarker 687 750	chronic stimulation of the renin-angiotensin-aldosterone system
+T21	Collection 933 963	hypertrophy and renal fibrosis
+R2	Association Arg1:T19 Arg2:T21	
+T24	GeneFamily 986 1014	transforming growth factor β
+#10	AnnotatorNotes T24	family:1664
+T39	Drug-Class 1082 1118	nonsteroidal anti-inflammatory drugs
+R3	Causes Arg1:T39 Arg2:T26	
+R4	Risk-Factor Arg1:T25 Arg2:T26	
+T40	Drug-Class 1249 1270	potassium supplements
+#12	AnnotatorNotes T28	CHEMBL6
+#15	AnnotatorNotes T29	 CHEMBL1393
+T27	Biomarker 1479 1502	serum electrolyte level
+T41	Drug-Class 1504 1543	angiotensin-converting enzyme inhibitor
+T42	GeneFamily 1504 1533	angiotensin-converting enzyme
+#18	AnnotatorNotes T42	not found
+T43	Drug-Class 1563 1584	aldosterone antagonis
+R5	Response Arg1:T33 Arg2:T36	
+R8	Response Arg1:T35 Arg2:T36	
+T34	Biomarker 1319 1339	creatinine clearance
+T38	Collection 1272 1303	indomethacin and spironolactone
+R6	Response Arg1:T38 Arg2:T31	

@@ -1,0 +1,35 @@
+T0	Chemical 702 712	Tyr202/204
+T1	Chemical 857 864	phospho
+T2	Chemical 873 883	Ser217/221
+T3	Chemical 1051 1066	Alexa Fluor‐680
+T4	Chemical 1089 1104	Alexa Fluor‐680
+T5	Chemical 1127 1142	Alexa Fluor‐488
+T6	Chemical 1148 1163	Alexa Fluor‐647
+T7	Chemical 1164 1174	Phalloidin
+T8	Gene-Protein 404 440	anti‐KLK14 catalytic domain antibody
+T9	Gene-Protein 681 700	anti‐phospho Erk1/2
+T10	Gene-Protein 793 804	anti‐Erk1/2
+T11	Gene-Protein 1111 1126	anti‐rabbit IgG
+T12	Gene-Protein 1073 1088	anti‐rabbit IgG
+T13	Gene-Protein 629 639	anti‐agrin
+T14	Gene-Protein 641 645	AGRN
+T15	Gene-Protein 932 943	anti‐Mek1/2
+T16	Gene-Protein 563 576	anti‐KLK3/PSA
+T17	Gene-Protein 510 520	anti‐GAPDH
+T19	Gene-Protein 490 505	anti‐beta actin
+T20	Gene-Protein 1273 1278	KLK14
+T21	Gene-Protein 1299 1310	thermolysin
+T22	Gene-Protein 1340 1344	AGRN
+T23	Gene-Protein 1374 1386	desmoglein‐2
+T24	Gene-Protein 1425 1435	cystatin‐C
+T25	Gene-Protein 1437 1441	CST3
+T26	Gene-Protein 1388 1392	DSG2
+T18	Gene-Protein 852 871	anti‐phospho Mek1/2
+T27	Gene-Protein 1036 1050	anti‐mouse IgG
+T28	Gene-Protein 995 1003	anti‐GFP
+#1	AnnotatorNotes T20	HGNC:6362
+#2	AnnotatorNotes T22	HGNC:329
+#3	AnnotatorNotes T23	HGNC:3049
+#4	AnnotatorNotes T26	HGNC:3049
+#5	AnnotatorNotes T24	HGNC:2475
+#6	AnnotatorNotes T25	HGNC:2475

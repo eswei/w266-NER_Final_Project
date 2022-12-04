@@ -1,0 +1,41 @@
+29879042_9047|t|RSS_IDENT_p_29879042_b_1_3_5
+29879042_9047|a| Small vessel vasculitis is the underlying pulmonary lesion in most cases of pulmonary renal syndrome. Previous studies demonstrated that in patients with ANCA-negative rapidly progressive glomerulonephritis, pulmonary findings occurred much less commonly than those with ANCA positive vasculitis.[ ⁹ , ¹⁰ ] Eisenberger et al[ ⁸ ] reported pulmonary involvement in 3 out of 20 patients with ANCA negative pauci immune renal vasculitis of which 2 had cavitary nodules. Farah et al[ ¹¹ ] reported one case of idiopathic bronchiolitis obliterans organizing pneumonia (BOOP) associated with pauci-immune renal vasculitis that terminated in rapidly progressive glomerulonephritis (RPGN). However, association of diffuse alveolar hemorrhage with ANCA negative glomerulonephritis is rare. The pathogenesis of this association is not clear, neutrophil infiltration was found in glomerular lesions in one study.[ ¹² ] Wang et al[ ¹⁴ ] found higher levels of serum neutrophil-gelatinase-associated lipocalin and lactoferrin in patients with ANCA-negative pauci-immune crescentic glomerulonephritis than in patients with ANCA-positive disease. The clinical presentation of pulmonary renal syndrome in ANCA negative vasculitis is non-specific and a high degree of clinical suspicion is essential for a prompt diagnosis. Patients present with cough and dyspnea which may or may not be accompanied by hemoptysis. Hemoptysis may be absent in up to 30% to 35% of patients with DAH and one half of these patients may require mechanical ventilation.[ ⁴ ] Renal involvement presents with hematuria, proteinuria, sometimes leading to end stage renal failure. 
+29879042_9047	30	53	Small vessel vasculitis	Biomarker	C565222
+29879042_9047	72	88	pulmonary lesion	Disease	not found
+29879042_9047	106	130	pulmonary renal syndrome	Disease	C538458
+29879042_9047	184	188	ANCA	Gene-protein	not found
+29879042_9047	184	236	ANCA-negative rapidly progressive glomerulonephritis	Disease	not found
+29879042_9047	301	305	ANCA	Gene-protein
+29879042_9047	301	325	ANCA positive vasculitis	Disease	not found
+29879042_9047	420	424	ANCA	Gene-protein
+29879042_9047	420	463	ANCA negative pauci immune renal vasculitis	Disease	not found
+29879042_9047	536	592	idiopathic bronchiolitis obliterans organizing pneumonia	Biomarker	D018549
+29879042_9047	594	598	BOOP	Disease	D018549
+29879042_9047	616	645	pauci-immune renal vasculitis	Biomarker
+29879042_9047	665	703	rapidly progressive glomerulonephritis	Disease	DOID:4776
+29879042_9047	705	709	RPGN	Disease	DOID:4776
+29879042_9047	736	763	diffuse alveolar hemorrhage	Biomarker
+29879042_9047	769	773	ANCA	Gene-protein
+29879042_9047	769	801	ANCA negative glomerulonephritis	Disease	not found
+29879042_9047	862	885	neutrophil infiltration	Biomarker	D020556
+29879042_9047	899	917	glomerular lesions	Disease	DOID:1312
+29879042_9047	961	1042	higher levels of serum neutrophil-gelatinase-associated lipocalin and lactoferrin	Biomarker
+29879042_9047	984	1026	neutrophil-gelatinase-associated lipocalin	Gene-protein	HGNC:6526
+29879042_9047	1031	1042	lactoferrin	Gene-protein	HGNC:6720
+29879042_9047	1060	1064	ANCA	Gene-protein
+29879042_9047	1060	1116	ANCA-negative pauci-immune crescentic glomerulonephritis	Disease	not found
+29879042_9047	1139	1143	ANCA	Gene-protein
+29879042_9047	1139	1160	ANCA-positive disease	Disease	not found
+29879042_9047	1191	1215	pulmonary renal syndrome	Biomarker	C538458
+29879042_9047	1219	1223	ANCA	Gene-protein
+29879042_9047	1219	1243	ANCA negative vasculitis	Disease	not found
+29879042_9047	1359	1364	cough	Disease	DOID:1116
+29879042_9047	1369	1376	dyspnea	Disease	D004417
+29879042_9047	1416	1426	hemoptysis	Disease	D006469
+29879042_9047	1428	1438	Hemoptysis	Biomarker	D006469
+29879042_9047	1490	1493	DAH	Disease	not found
+29879042_9047	1598	1607	hematuria	Biomarker	D006417
+29879042_9047	1598	1620	hematuria, proteinuria	Collection
+29879042_9047	1609	1620	proteinuria	Biomarker	D011507
+29879042_9047	1653	1666	renal failure	Disease	DOID:1074
+

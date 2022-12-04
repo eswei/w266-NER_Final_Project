@@ -1,0 +1,25 @@
+31247506_44540|t|RSS_IDENT_p_31247506_b_1_4_9
+31247506_44540|a| In summary, NOX4 expression and function are regulated in a cell compartment-specific manner in the context of CKD. We clearly demonstrate that although glomerular NOX4 expression may be enhanced in some nephropathies, loss of tubular NOX4 is a hallmark of all types of CKD. Overexpression of NOX4 in the tubular compartment did not induce injury or fibrosis and rather induced the NRF2 pathway mildly, further demonstrating that NOX4-derived ROS are not harmful in tubular cells, in contrast to what is known in podocytes. NOX4 overexpression did not modify the course of a fibrotic disease such as UUO. While NOX4 emerges as a potential therapeutic target, its functions appear to be cell compartment specific and caution should be taken with regard to systemic NOX4 inhibition. The role of tubular NOX4 as a marker of the severity and prognosis of kidney disease should be studied further. Abbreviations: αSMA Alpha smooth muscle actin BCL2 B-cell lymphoma 2 elF2 Eukaryotic Initiation Factor 2 Ccl5 C–C Motif Chemokine Ligand 5 or Rantes CKI Conditional knock-in cMyc Avian myelocytomatosis virus oncogene cellular homolog Epo Erythropoietin FSGS Focal segmental glomerulosclerosis Gstα Glutathione S-Transferase Alpha HIF1α Hypoxia Inducible Factor 1 alpha IgA nephropathy Immunoglobulin A (IgA) nephropathy Il18 Interleukin 18 Il1β Interleukin 1 Beta kDa Kilo Dalton Na,K-ATPase sodium-potassium adenosine triphosphatase NOX2 NADPH oxidase 2 Nqo1 NAD(P)H quinone oxidoreductase 1 NRF2 Nuclear factor (erythroid-derived 2)-like 2 Pax8 Paired box gene 8 PTC Proximal Tubular cells Tgfβ1 Transforming growth factor beta 1 Vegf Vascular endothelial growth factor
+31247506_44540	42	46	NOX4	Gene-protein	HGNC:7891
+31247506_44540	141	144	CKD	Disease	DOID:784
+31247506_44540	183	225	glomerular NOX4 expression may be enhanced	Biomarker
+31247506_44540	194	198	NOX4	Gene-protein
+31247506_44540	234	247	nephropathies	Disease	DOID:557
+31247506_44540	249	269	loss of tubular NOX4	Biomarker
+31247506_44540	265	269	NOX4	Gene-protein
+31247506_44540	300	303	CKD	Disease
+31247506_44540	305	327	Overexpression of NOX4	Biomarker
+31247506_44540	323	327	NOX4	Gene-protein
+31247506_44540	412	416	NRF2	Gene-protein	HGNC:4071
+31247506_44540	460	464	NOX4	Gene-protein
+31247506_44540	473	476	ROS	Chemical
+31247506_44540	554	558	NOX4	Gene-protein
+31247506_44540	554	573	NOX4 overexpression	Biomarker
+31247506_44540	605	621	fibrotic disease	Disease	not found
+31247506_44540	630	633	UUO	Disease	not found
+31247506_44540	641	645	NOX4	Gene-protein
+31247506_44540	794	798	NOX4	Gene-protein
+31247506_44540	823	835	tubular NOX4	Biomarker
+31247506_44540	831	835	NOX4	Gene-protein
+31247506_44540	881	895	kidney disease	Disease	DOID:557
+

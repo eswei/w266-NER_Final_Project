@@ -1,0 +1,31 @@
+31756185_42784|t|RSS_IDENT_p_31756185_b_1_4_10
+31756185_42784|a| miRNA-microarray expression data coupled with the IPA knowledge database identified associated signaling pathways and its interacting miRNAs such as miR-181a, miR130a, and miR-328 as predominant molecules associated with drug resistance drug efflux pathway in prostate cancer. The expression of 130a/b, miR-181a, (downregulated in early-stage, upregulated in advance-stage, and downregulated in CRPC) and miR-328 (upregulated in advance-stage). Moreover, the drug resistance-drug efflux pathway showed that miR-130a/b, and miR-181a were associated with member’s ABC transporter family including P-glycoprotein (P-gp/ABCB1), and breast cancer resistant protein-(BCRP) (S2 Fig). Overexpression of ABC transporter proteins is associated with the resistance of a variety of chemotherapeutic drugs [ 51 ]. Likewise, miR-146a was differentially upregulated in PC3 cells and was associated with Th1 and Th2 signaling pathway (S2 Fig). Considerable evidence showed that miR-146a was a potent inhibitor of Th1 differentiation and cell proliferation of human T cells, and dysregulation of miR-146a contributed to the pathogenesis [ 52 ].
+31756185_42784	180	188	miR-181a	Rna-noncoding	HGNC:31549
+31756185_42784	180	210	miR-181a, miR130a, and miR-328	Biomarker
+31756185_42784	190	197	miR130a	Rna-noncoding	HGNC:31514
+31756185_42784	203	210	miR-328	Rna-noncoding	HGNC:31770
+31756185_42784	291	306	prostate cancer	Disease	DOID:10283
+31756185_42784	312	422	expression of 130a/b, miR-181a, (downregulated in early-stage, upregulated in advance-stage, and downregulated	Biomarker
+31756185_42784	326	332	130a/b	Rna-noncoding	HGNC:31514,HGNC:31515
+31756185_42784	334	342	miR-181a	Rna-noncoding
+31756185_42784	426	430	CRPC	Disease	DOID:0080909
+31756185_42784	436	443	miR-328	Rna-noncoding	HGNC:31770
+31756185_42784	436	473	miR-328 (upregulated in advance-stage	Biomarker
+31756185_42784	538	548	miR-130a/b	Rna-noncoding	HGNC:31514,HGNC:31515
+31756185_42784	554	562	miR-181a	Rna-noncoding
+31756185_42784	593	615	ABC transporter family	Genefamily	family:417
+31756185_42784	626	640	P-glycoprotein	Gene-protein	HGNC:40
+31756185_42784	642	646	P-gp	Gene-protein	HGNC:40
+31756185_42784	647	652	ABCB1	Gene-protein	HGNC:40
+31756185_42784	659	690	breast cancer resistant protein	Genefamily	HGNC:74
+31756185_42784	692	696	BCRP	Genefamily	HGNC:74
+31756185_42784	708	750	Overexpression of ABC transporter proteins	Biomarker
+31756185_42784	726	750	ABC transporter proteins	Genefamily	family:417
+31756185_42784	801	823	chemotherapeutic drugs	Drug-class
+31756185_42784	842	850	miR-146a	Rna-noncoding	HGNC:31533
+31756185_42784	842	881	miR-146a was differentially upregulated	Biomarker
+31756185_42784	885	888	PC3	Cellline
+31756185_42784	993	1001	miR-146a	Drug	C542542
+31756185_42784	993	1001	miR-146a	Rna-noncoding
+31756185_42784	1093	1118	dysregulation of miR-146a	Biomarker
+

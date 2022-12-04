@@ -1,0 +1,94 @@
+31171972_20242|t|RSS_IDENT_s_31171972_b_1_5
+31171972_20242|a| Conclusion Our findings link Y-chromosomal genes known to be important and relevant for spermatogenesis in the curative hormonal treatment of cryptorchidism-induced infertility. Of note, our observation support data of global conservations of the epigenetic pattern associated with the sequences of the same origin (X-transposed, X-degenerate and ampliconic). This observations implicate Y-chromosomal genes, including USP9Y, UTY, TXLNGY, RBMY1B, RBMY1E, RBMY1J and TSPY4, some of which are known to be important for spermatogenesis, in the curative hormonal treatment of cryptorchidism-induced infertility. Abbreviations AZF Azoospermia Factor AZFa Azoospermia Factor region a AZFb Azoospermia Factor region b AZFc Azoospermia factor region c BCORP1 BCL6 corepressor pseudogene 1 BPY Basic charge, Y-linked, 2 CDY Chromodomain protein, Y-linked, DAZ Deleted in azoospermia dbGaP Database of Genotypes and Phenotypes DBY/DDX3Y DEAD-Box Helicase 3 Y-Linked EIF1AY Eukaryotic translation initiation factor 1A, Y-linked FAM197Y Family with sequence similarity 197, Y-linked FDR False discovery rate GBY Gonadoblastoma Y-locus GnRHa Gonadotropin-releasing hormone agonist H3K27me3 Trimethylated histone H3 protein of lysine 27 H3K4me3 Trimethylated histone H3 protein of lysine 4 HIR/Ad- High Infertility Risk group lacking Ad spermatogonia HPG Hypothalamic-pituitary-gonadal HSFY2 Heat shock transcription factor, Y linked 2 KDM5D Lysine (K)-specific demethylase 5D LH Luteinizing hormone LIR/Ad+ Low Infertility Risk group presenting Ad spermatogonia lncRNA Long non-coding RNA MSY Male-specific Y region NLGN4Y Neuroligin 4, Y-linked PBS Phosphate-buffered saline RBMY RNA binding motif protein, Y-linked RBMY2FP RNA binding motif protein, Y-linked, family 2, member F pseudogene RPS4Y1 Ribosomal protein S4, Y-linked 1 SCO Sertoli cell-only SRY Sex determining region of Y TGIF2LY TGFB-induced factor homeobox 2-like, Y-linked TSPY Testis-specific protein, Y-linked TTTY Testis-specific transcript, Y-linked TXLNGY Taxilin gamma pseudogene, Y-linked USP9Y Ubiquitin specific peptidase 9, Y-linked UTY Ubiquitously transcribed tetratricopeptide repeat containing, Y-linked VCY Variable charge, Y-linked XKRY XK, Kell blood group complex subunit-related, Y-linked ZFY Zinc finger protein, Y-linked Authors’ contributions
+31171972_20242	57	76	Y-chromosomal genes	Biomarker
+31171972_20242	170	204	cryptorchidism-induced infertility	Disease	not found
+31171972_20242	447	452	USP9Y	Gene-protein
+31171972_20242	447	452	USP9Y	Biomarker	C481724
+31171972_20242	447	499	USP9Y, UTY, TXLNGY, RBMY1B, RBMY1E, RBMY1J and TSPY4	Collection
+31171972_20242	454	457	UTY	Gene-protein
+31171972_20242	454	457	UTY	Biomarker	C484453
+31171972_20242	459	465	TXLNGY	Gene-protein
+31171972_20242	459	465	TXLNGY	Biomarker
+31171972_20242	467	473	RBMY1B	Gene-protein
+31171972_20242	467	473	RBMY1B	Biomarker	C000711709
+31171972_20242	475	481	RBMY1E	Gene-protein
+31171972_20242	475	481	RBMY1E	Biomarker
+31171972_20242	483	489	RBMY1J	Gene-protein
+31171972_20242	483	489	RBMY1J	Biomarker
+31171972_20242	494	499	TSPY4	Gene-protein
+31171972_20242	494	499	TSPY4	Biomarker	C586980
+31171972_20242	600	634	cryptorchidism-induced infertility	Disease
+31171972_20242	650	653	AZF	Gene-protein
+31171972_20242	654	672	Azoospermia Factor	Gene-protein
+31171972_20242	673	677	AZFa	Gene-protein
+31171972_20242	678	705	Azoospermia Factor region a	Gene-protein
+31171972_20242	706	710	AZFb	Gene-protein
+31171972_20242	711	738	Azoospermia Factor region b	Gene-protein
+31171972_20242	739	743	AZFc	Gene-protein
+31171972_20242	744	771	Azoospermia factor region c	Gene-protein
+31171972_20242	772	778	BCORP1	Gene-protein
+31171972_20242	779	808	BCL6 corepressor pseudogene 1	Gene-protein
+31171972_20242	809	812	BPY	Gene-protein
+31171972_20242	813	835	Basic charge, Y-linked	Gene-protein
+31171972_20242	839	842	CDY	Gene-protein
+31171972_20242	843	873	Chromodomain protein, Y-linked	Gene-protein
+31171972_20242	875	878	DAZ	Gene-protein
+31171972_20242	879	901	Deleted in azoospermia	Gene-protein
+31171972_20242	945	948	DBY	Gene-protein
+31171972_20242	949	954	DDX3Y	Gene-protein
+31171972_20242	955	983	DEAD-Box Helicase 3 Y-Linked	Gene-protein
+31171972_20242	984	990	EIF1AY	Gene-protein
+31171972_20242	991	1034	Eukaryotic translation initiation factor 1A	Gene-protein
+31171972_20242	1036	1052	Y-linked FAM197Y	Gene-protein
+31171972_20242	1053	1098	Family with sequence similarity 197, Y-linked	Gene-protein
+31171972_20242	1128	1142	Gonadoblastoma	Disease	DOID:3301
+31171972_20242	1151	1156	GnRHa	Drug-class
+31171972_20242	1157	1187	Gonadotropin-releasing hormone	Gene-protein
+31171972_20242	1157	1195	Gonadotropin-releasing hormone agonist	Drug-class
+31171972_20242	1219	1229	histone H3	Genefamily
+31171972_20242	1241	1247	lysine	Chemical
+31171972_20242	1273	1283	histone H3	Genefamily
+31171972_20242	1295	1301	lysine	Chemical
+31171972_20242	1317	1328	Infertility	Disease	DOID:5223
+31171972_20242	1400	1405	HSFY2	Gene-protein
+31171972_20242	1406	1449	Heat shock transcription factor, Y linked 2	Gene-protein
+31171972_20242	1450	1455	KDM5D	Gene-protein
+31171972_20242	1456	1462	Lysine	Chemical
+31171972_20242	1456	1490	Lysine (K)-specific demethylase 5D	Gene-protein
+31171972_20242	1491	1493	LH	Genefamily
+31171972_20242	1494	1513	Luteinizing hormone	Genefamily
+31171972_20242	1526	1537	Infertility	Disease
+31171972_20242	1604	1607	MSY	Gene-protein
+31171972_20242	1608	1630	Male-specific Y region	Gene-protein
+31171972_20242	1631	1637	NLGN4Y	Gene-protein
+31171972_20242	1638	1660	Neuroligin 4, Y-linked	Gene-protein
+31171972_20242	1665	1674	Phosphate	Chemical
+31171972_20242	1691	1695	RBMY	Gene-protein
+31171972_20242	1696	1731	RNA binding motif protein, Y-linked	Gene-protein
+31171972_20242	1732	1739	RBMY2FP	Gene-protein
+31171972_20242	1740	1806	RNA binding motif protein, Y-linked, family 2, member F pseudogene	Gene-protein
+31171972_20242	1807	1813	RPS4Y1	Gene-protein
+31171972_20242	1814	1846	Ribosomal protein S4, Y-linked 1	Gene-protein
+31171972_20242	1847	1850	SCO	Disease	DOID:0050457
+31171972_20242	1851	1868	Sertoli cell-only	Disease	DOID:0050457
+31171972_20242	1869	1872	SRY	Gene-protein
+31171972_20242	1873	1900	Sex determining region of Y	Gene-protein
+31171972_20242	1901	1908	TGIF2LY	Gene-protein
+31171972_20242	1909	1954	TGFB-induced factor homeobox 2-like, Y-linked	Gene-protein
+31171972_20242	1955	1959	TSPY	Gene-protein
+31171972_20242	1960	1993	Testis-specific protein, Y-linked	Gene-protein
+31171972_20242	1994	1998	TTTY	Gene-protein
+31171972_20242	1999	2035	Testis-specific transcript, Y-linked	Gene-protein
+31171972_20242	2036	2042	TXLNGY	Gene-protein
+31171972_20242	2043	2077	Taxilin gamma pseudogene, Y-linked	Gene-protein
+31171972_20242	2078	2083	USP9Y	Gene-protein
+31171972_20242	2084	2124	Ubiquitin specific peptidase 9, Y-linked	Gene-protein
+31171972_20242	2125	2128	UTY	Gene-protein
+31171972_20242	2129	2199	Ubiquitously transcribed tetratricopeptide repeat containing, Y-linked	Gene-protein
+31171972_20242	2200	2203	VCY	Gene-protein
+31171972_20242	2204	2229	Variable charge, Y-linked	Gene-protein
+31171972_20242	2230	2234	XKRY	Gene-protein
+31171972_20242	2235	2289	XK, Kell blood group complex subunit-related, Y-linked	Gene-protein
+31171972_20242	2290	2293	ZFY	Gene-protein
+31171972_20242	2294	2323	Zinc finger protein, Y-linked	Gene-protein
+

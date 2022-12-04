@@ -1,0 +1,44 @@
+29568868_4397|t|RSS_IDENT_p_29568868_b_1_1_4
+29568868_4397|a| The polo-like kinases (Plks), a family of serine/threonine protein kinases, are essential in cell cycle checkpoint and DNA damage signaling ( 15 ). Plk1 is essential for cell cycle regulation, and has been characterized with an oncogenic role in several types of cancer ( 16 ). However, the exact role of Plk2 in human cancer remains a topic of debate. A predominate suppression of the expression of Plk2 has been observed in B-cell lymphoma and ovarian cancer ( 17 , 18 ). Plk2 inhibited cell proliferation and promoted chemotherapeutic drug-induced apoptosis in cervical cancer ( 19 ). Furthermore, a lower expression of Plk2 was associated with poor prognosis in breast cancer treated by irradiation ( 20 ). These observations suggested that Plk2 may serve as a tumor suppressor. Plk2 has been reported to be essential for promoting survival and inhibiting apoptosis in other cancer cells, including non-small cell lung cancer, head and neck carcinoma, and osteosarcoma ( 21 – 23 ). Previously, Ou et al reported that the protein levels of Plk2 were significantly elevated in tumor tissues, and were associated with adverse prognosis in CRC ( 24 ). These data suggested that the mechanism of Plk2 in carcinogenesis and cancer progression is more complex than previously expected. Whether Plk2 is involved in the chemoresistance of CRC remains to be fully elucidated.
+29568868_4397	34	51	polo-like kinases	Genefamily	not found
+29568868_4397	53	57	Plks	Genefamily	not found
+29568868_4397	72	78	serine	Chemical
+29568868_4397	79	88	threonine	Chemical
+29568868_4397	178	182	Plk1	Gene-protein	HGNC:9077
+29568868_4397	178	182	Plk1	Biomarker	C090134
+29568868_4397	293	299	cancer	Disease	DOID:162
+29568868_4397	335	339	Plk2	Gene-protein	HGNC:19699
+29568868_4397	349	355	cancer	Disease
+29568868_4397	385	434	predominate suppression of the expression of Plk2	Biomarker
+29568868_4397	430	434	Plk2	Gene-protein
+29568868_4397	456	471	B-cell lymphoma	Disease	DOID:707
+29568868_4397	456	490	B-cell lymphoma and ovarian cancer	Collection
+29568868_4397	476	490	ovarian cancer	Disease	DOID:2394
+29568868_4397	504	508	Plk2	Gene-protein
+29568868_4397	504	508	Plk2	Biomarker	C496126
+29568868_4397	551	572	chemotherapeutic drug	Drug-class
+29568868_4397	594	609	cervical cancer	Disease	DOID:4362
+29568868_4397	633	657	lower expression of Plk2	Biomarker
+29568868_4397	653	657	Plk2	Gene-protein
+29568868_4397	696	709	breast cancer	Disease	DOID:1612
+29568868_4397	721	732	irradiation	Drug-class
+29568868_4397	775	779	Plk2	Gene-protein
+29568868_4397	775	779	Plk2	Biomarker
+29568868_4397	813	817	Plk2	Gene-protein
+29568868_4397	813	817	Plk2	Biomarker
+29568868_4397	909	915	cancer	Disease
+29568868_4397	909	1002	cancer cells, including non-small cell lung cancer, head and neck carcinoma, and osteosarcoma	Collection
+29568868_4397	933	959	non-small cell lung cancer	Disease	DOID:3908
+29568868_4397	961	984	head and neck carcinoma	Disease	DOID:1542
+29568868_4397	990	1002	osteosarcoma	Disease	DOID:3347
+29568868_4397	1055	1105	protein levels of Plk2 were significantly elevated	Biomarker
+29568868_4397	1073	1077	Plk2	Gene-protein
+29568868_4397	1109	1114	tumor	Disease	DOID:162
+29568868_4397	1170	1173	CRC	Disease	DOID:9256
+29568868_4397	1225	1229	Plk2	Gene-protein
+29568868_4397	1225	1229	Plk2	Biomarker
+29568868_4397	1252	1258	cancer	Disease
+29568868_4397	1321	1325	Plk2	Gene-protein
+29568868_4397	1321	1325	Plk2	Biomarker
+29568868_4397	1364	1367	CRC	Disease
+

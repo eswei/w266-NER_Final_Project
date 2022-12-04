@@ -1,0 +1,41 @@
+31534629_17948|t|RSS_IDENT_p_31534629_b_1_3_4
+31534629_17948|a| Overall these data show that the PSA expression level in prostate cancer cells is one of the strongest prognostic features in this tumor entity. This is not only demonstrated by the independent prognostic value of PSA staining in several models but also by its strong prognostic impact in PTEN deleted cancers. PTEN deletion is another highly prognostic feature, which has recently been recommended for measurement in routine praxis by several authors [ 19 – 22 ]. Most prognostic biomarkers lose their prognostic impact in the subgroup of PTEN deleted cancers which already are characterized by a poor prognosis [ 23 , 24 ]. The reason for higher tumor aggressiveness in cancers with reduced PSA expression is unclear. Some authors have suggested a tumor protective role of PSA. For example, Heidtmann et al. showed that PSA exerts antiangiogenic properties by converting Lys-plasminogen to biologically active angiostatin-like fragments [ 25 ]. Gkika et al. found that PSA reduces motility of PC-3 prostate cancer cells through stimulation of a particular ion channel at the plasma membrane [ 26 ]. Bindukumar et al. reported that PSA treatment modulated the expression of growth factors and suppressed the growth of prostate tumor xenografts in mice [ 27 ]. However, PSA production may be one of the most important functions of normal prostate glandular cells. One can thus speculate, that a measurable deficiency in this function might represent a subtle sign of cellular dedifferentiation. Normal prostatic glands exhibit a particular strong PSA staining at the apical cell border. That a loss of this physiological apical predominance of PSA staining is directly linked to poor prognosis, irrespective of the perceived overall staining intensity, is consistent with altered PSA representing “dedifferentiation”. 
+31534629_17948	63	66	PSA	Gene-protein	HGNC:6364
+31534629_17948	63	83	PSA expression level	Biomarker
+31534629_17948	87	102	prostate cancer	Disease	DOID:10283
+31534629_17948	161	166	tumor	Disease	DOID:162
+31534629_17948	244	247	PSA	Gene-protein
+31534629_17948	244	256	PSA staining	Biomarker
+31534629_17948	319	323	PTEN	Gene-protein	HGNC:9588
+31534629_17948	319	339	PTEN deleted cancers	Disease	not found
+31534629_17948	341	345	PTEN	Gene-protein
+31534629_17948	341	354	PTEN deletion	Biomarker
+31534629_17948	570	574	PTEN	Gene-protein
+31534629_17948	570	590	PTEN deleted cancers	Disease
+31534629_17948	678	683	tumor	Disease
+31534629_17948	702	737	cancers with reduced PSA expression	Disease	DOID:162
+31534629_17948	723	726	PSA	Gene-protein
+31534629_17948	780	785	tumor	Disease
+31534629_17948	805	808	PSA	Gene-protein
+31534629_17948	805	808	PSA	Drug	C512543
+31534629_17948	852	855	PSA	Gene-protein
+31534629_17948	852	855	PSA	Biomarker	C512543
+31534629_17948	903	906	Lys	Chemical
+31534629_17948	907	918	plasminogen	Gene-protein	HGNC:9071
+31534629_17948	942	953	angiostatin	Gene-protein	not found
+31534629_17948	1001	1004	PSA	Gene-protein
+31534629_17948	1001	1004	PSA	Drug
+31534629_17948	1025	1029	PC-3	Cellline
+31534629_17948	1030	1045	prostate cancer	Disease
+31534629_17948	1163	1166	PSA	Gene-protein
+31534629_17948	1163	1166	PSA	Drug
+31534629_17948	1249	1263	prostate tumor	Disease	DOID:10283
+31534629_17948	1300	1303	PSA	Gene-protein
+31534629_17948	1300	1303	PSA	Biomarker
+31534629_17948	1570	1589	strong PSA staining	Biomarker
+31534629_17948	1577	1580	PSA	Gene-protein
+31534629_17948	1674	1677	PSA	Gene-protein
+31534629_17948	1674	1686	PSA staining	Biomarker
+31534629_17948	1810	1813	PSA	Gene-protein
+31534629_17948	1810	1813	PSA	Biomarker
+

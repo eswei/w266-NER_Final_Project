@@ -1,0 +1,100 @@
+T11	Disease 594 599	HNSCC
+T12	Disease 606 623	colorectal cancer
+#5	AnnotatorNotes T12	DOID:9256
+T13	Disease 625 628	CRC
+T14	Disease 637 665	oral squamous cell carcinoma
+#7	AnnotatorNotes T14	DOID:0050866
+T15	Disease 667 671	OSCC
+T17	Disease 790 797	gliomas
+#9	AnnotatorNotes T17	DOID:0060108
+T18	Disease 803 815	colon cancer
+#10	AnnotatorNotes T18	DOID:219
+T19	Disease 821 835	breast cancers
+#11	AnnotatorNotes T19	DOID:1612
+T20	Disease 848 862	gastric cancer
+#12	AnnotatorNotes T20	DOID:10534
+T23	Disease 989 995	cancer
+T25	Disease 1200 1214	ovarian cancer
+T26	Disease 1223 1226	CRC
+T28	Disease 1266 1272	cancer
+T3	Disease 500 506	cancer
+#18	AnnotatorNotes T3	DOID:162
+T30	Disease 1407 1415	melanoma
+#19	AnnotatorNotes T30	DOID:1909
+T32	Disease 1506 1511	HNSCC
+T35	Disease 1640 1655	HBV-related HCC
+#21	AnnotatorNotes T35	not found
+T37	Disease 1704 1707	HCC
+T38	Disease 1804 1807	HCC
+T5	Disease 517 531	ovarian cancer
+#25	AnnotatorNotes T5	DOID:2394
+T6	Disease 537 549	osteosarcoma
+#26	AnnotatorNotes T6	DOID:3347
+T1	Biomarker 426 459	abnormal expression of miRNA-376c
+T2	Collection 500 672	cancer including ovarian cancer 10 , osteosarcoma 11 , head and neck squamous cell carcinoma (HNSCC) 12 , colorectal cancer (CRC) 13 and oral squamous cell carcinoma (OSCC)
+R1	Association Arg1:T1 Arg2:T2	
+T16	Disease 555 592	head and neck squamous cell carcinoma
+#1	AnnotatorNotes T16	DOID:5520
+#2	AnnotatorNotes T11	DOID:5520
+T4	RNA-Noncoding 1344 1352	miR-376c
+T8	RNA-Noncoding 1745 1756	miR-376c-3p
+T9	RNA-Noncoding 1609 1620	miR-376c-3p
+T10	RNA-Noncoding 1436 1447	miR-376c-3p
+T21	RNA-Noncoding 1228 1239	miR-376c-3p
+T24	RNA-Noncoding 1689 1700	miR-376c-3p
+T27	RNA-Noncoding 1017 1027	miRNA-376c
+T29	RNA-Noncoding 904 912	miR-376c
+T31	RNA-Noncoding 449 459	miRNA-376c
+#3	AnnotatorNotes T31	family:1777
+#4	AnnotatorNotes T21	family:1777
+#6	AnnotatorNotes T13	DOID:9256
+#8	AnnotatorNotes T15	DOID:0050866
+T7	RNA-Noncoding 713 721	miR-376c
+T33	Collection 790 864	gliomas 15 , colon cancer 16 , breast cancers 17 - 19 and gastric cancer 2
+T22	Biomarker 904 912	miR-376c
+T34	Biomarker 691 721	deregulation of serum miR-376c
+R2	Association Arg1:T22 Arg2:T23	
+R3	Association Arg1:T34 Arg2:T33	
+T36	Biomarker 1017 1040	miRNA-376c upregulation
+T39	Drug-Class 1108 1120	chemotherapy
+T40	Gene-Protein 1191 1195	ALK7
+#13	AnnotatorNotes T40	HGNC:18123
+T41	Gene-Protein 1159 1189	activin receptor-like kinase 7
+#14	AnnotatorNotes T41	HGNC:18123
+R4	Mediated-Non-Response Arg1:T39 Arg2:T25	
+R5	Mediator Arg1:T39 Arg2:T36	
+T42	Biomarker 1228 1239	miR-376c-3p
+R6	Association Arg1:T42 Arg2:T26	
+R7	Association Arg1:T42 Arg2:T28	
+T43	Biomarker 1344 1367	miR-376c overexpression
+R8	Association Arg1:T43 Arg2:T30	
+T44	Drug 1421 1458	Restoration of miR-376c-3p expression
+#16	AnnotatorNotes T44	not found
+R9	Response Arg1:T44 Arg2:T32	
+T45	Gene-Protein 1569 1574	RUNX2
+#17	AnnotatorNotes T45	HGNC:10472
+T46	Biomarker 1609 1636	miR-376c-3p is up-regulated
+T47	Biomarker 1689 1700	miR-376c-3p
+R10	Association Arg1:T46 Arg2:T35	
+R11	Association Arg1:T47 Arg2:T37	
+T48	Biomarker 1745 1756	miR-376c-3p
+#20	AnnotatorNotes T22	C573498
+#22	AnnotatorNotes T42	C573498
+T49	RNA-Noncoding 1322 1331	LINC00152
+#15	AnnotatorNotes T49	HGNC:28717
+T50	Gene-Protein 1532 1567	runt related transcription factor 2
+#23	AnnotatorNotes T50	HGNC:10472
+T51	RNA-Noncoding 30 39	MicroRNAs
+#24	AnnotatorNotes T51	family:476
+T52	Biomarker 30 39	MicroRNAs
+#27	AnnotatorNotes T52	D035683
+T53	Disease 77 90	tumorigenesis
+#28	AnnotatorNotes T53	DOID:162
+R12	Association Arg1:T52 Arg2:T53	
+T54	RNA-Noncoding 347 353	miRNAs
+#29	AnnotatorNotes T54	family:476
+T55	Biomarker 347 353	miRNAs
+#30	AnnotatorNotes T55	D035683
+T56	Disease 295 315	hepatocarcinogenesis
+#31	AnnotatorNotes T56	DOID:684
+R13	Association Arg1:T55 Arg2:T56	

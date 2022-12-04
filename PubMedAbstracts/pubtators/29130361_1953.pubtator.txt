@@ -1,0 +1,64 @@
+29130361_1953|t|RSS_IDENT_s_29130361_b_1_1
+29130361_1953|a| Abbreviations 4OHT 4-hydroxytamoxifen ACTB actin beta PRKAA protein kinase AMP-activated catalytic subunit alpha p-PRKAA phosphorylated PRKAA ATG7 autophagy related 7 BCAS3 BCAS3, microtubule associated cell migration factor ChIP-seq chromatin immunoprecipitation sequencing COX4I1 cytochrome c oxidase subunit 4I1 CYC1 cytochrome c1 EGFR epidermal growth factor receptor ERBB2/HER2 erb-b2 receptor tyrosine kinase 2 ESR estrogen receptor ESR1/ERα estrogen receptor 1 FBS fetal bovine serum HCQ hydroxychloroquine MAPK mitogen-activated protein kinase MT-CO1 mitochondrially encoded cytochrome c oxidase I MTA1 metastasis associated 1 NBR1 NBR1, autophagy cargo receptor NDUFB8 NADH:ubiquinone oxidoreductase subunit B8 OCR oxygen consumption rate OXPHOS mitochondrial oxidative phosphorylation RPS6KB1/p70S6K ribosomal protein S6 kinase B1 p-RPS6KB1/p-p70S6K phosphorylated ribosomal protein S6 kinase B1 PI3K phosphoinositide 3-kinase SDHB succinate dehydrogenase complex iron sulfur subunit B TFAP2C transcription factor AP2-2 gamma TSS transcriptional start site UQCRC2 ubiquinol-cytochrome c reductase core protein II
+29130361_1953	42	46	4OHT	Chemical
+29130361_1953	47	65	4-hydroxytamoxifen	Chemical
+29130361_1953	66	70	ACTB	Gene-protein
+29130361_1953	71	81	actin beta	Gene-protein
+29130361_1953	82	87	PRKAA	Genefamily
+29130361_1953	88	140	protein kinase AMP-activated catalytic subunit alpha	Genefamily
+29130361_1953	103	106	AMP	Chemical
+29130361_1953	143	148	PRKAA	Genefamily
+29130361_1953	164	169	PRKAA	Genefamily
+29130361_1953	170	174	ATG7	Gene-protein
+29130361_1953	175	194	autophagy related 7	Gene-protein
+29130361_1953	195	200	BCAS3	Gene-protein
+29130361_1953	201	252	BCAS3, microtubule associated cell migration factor	Gene-protein
+29130361_1953	303	309	COX4I1	Gene-protein
+29130361_1953	310	342	cytochrome c oxidase subunit 4I1	Gene-protein
+29130361_1953	343	361	CYC1 cytochrome c1	Gene-protein
+29130361_1953	362	366	EGFR	Gene-protein
+29130361_1953	367	399	epidermal growth factor receptor	Gene-protein
+29130361_1953	400	405	ERBB2	Gene-protein
+29130361_1953	406	410	HER2	Gene-protein
+29130361_1953	411	444	erb-b2 receptor tyrosine kinase 2	Gene-protein
+29130361_1953	427	435	tyrosine	Chemical
+29130361_1953	445	448	ESR	Genefamily
+29130361_1953	449	457	estrogen	Chemical
+29130361_1953	449	466	estrogen receptor	Genefamily
+29130361_1953	467	471	ESR1	Gene-protein
+29130361_1953	472	475	ERα	Gene-protein
+29130361_1953	476	484	estrogen	Chemical
+29130361_1953	476	495	estrogen receptor 1	Gene-protein
+29130361_1953	519	522	HCQ	Chemical
+29130361_1953	523	541	hydroxychloroquine	Chemical
+29130361_1953	542	546	MAPK	Genefamily
+29130361_1953	547	579	mitogen-activated protein kinase	Genefamily
+29130361_1953	580	586	MT-CO1	Gene-protein
+29130361_1953	587	631	mitochondrially encoded cytochrome c oxidase	Gene-protein
+29130361_1953	634	638	MTA1	Gene-protein
+29130361_1953	639	662	metastasis associated 1	Gene-protein
+29130361_1953	663	667	NBR1	Gene-protein
+29130361_1953	668	698	NBR1, autophagy cargo receptor	Gene-protein
+29130361_1953	699	705	NDUFB8	Gene-protein
+29130361_1953	706	710	NADH	Chemical
+29130361_1953	706	747	NADH:ubiquinone oxidoreductase subunit B8	Gene-protein
+29130361_1953	711	721	ubiquinone	Chemical
+29130361_1953	752	758	oxygen	Chemical
+29130361_1953	823	830	RPS6KB1	Gene-protein
+29130361_1953	831	837	p70S6K	Gene-protein
+29130361_1953	838	868	ribosomal protein S6 kinase B1	Gene-protein
+29130361_1953	871	878	RPS6KB1	Gene-protein
+29130361_1953	881	887	p70S6K	Gene-protein
+29130361_1953	903	933	ribosomal protein S6 kinase B1	Gene-protein
+29130361_1953	934	938	PI3K	Genefamily
+29130361_1953	939	955	phosphoinositide	Chemical
+29130361_1953	939	964	phosphoinositide 3-kinase	Genefamily
+29130361_1953	965	969	SDHB	Gene-protein
+29130361_1953	970	979	succinate	Chemical
+29130361_1953	970	1023	succinate dehydrogenase complex iron sulfur subunit B	Gene-protein
+29130361_1953	1002	1013	iron sulfur	Chemical
+29130361_1953	1024	1030	TFAP2C	Gene-protein
+29130361_1953	1031	1063	transcription factor AP2-2 gamma	Gene-protein
+29130361_1953	1095	1101	UQCRC2	Gene-protein
+29130361_1953	1102	1150	ubiquinol-cytochrome c reductase core protein II	Gene-protein
+

@@ -1,0 +1,46 @@
+30134003_23352|t|RSS_IDENT_p_30134003_b_1_4_5
+30134003_23352|a| One of the interesting cross‐regulatory mechanisms between lncRNAs and miRNAs is the function of a competing endogenous RNA or a molecular sponge.22 For instance, Wang et al. have found that DLEU1 contributes to ovarian carcinoma tumourigenesis and progression by interacting with miR‐490‐3p and altering CDK1 expression. Cui et al. have reported that lncRNA CCAT1 promotes glioma tumourigenesis by sponging miR‐181b, thereby leading to derepression of its endogenous targets FGFR3 and PDGFRα; these findings point to a potential therapeutic target in glioma.23, 24 A recent study verified that LINC00312 is associated with miR‐197‐3p and modulates the expression of a miR‐197‐3p target, p120, thereby providing powerful evidence that LINC00312 enhances gene expression at the post‐transcriptional level.20 Here, we revealed a potential binding site within LINC00312 and miR‐21 by bioinformatic prediction. Given that miR‐21 is overexpressed in CRC25, 26, 27 and promotes cell growth and invasion by repressing PTEN in CRC,15, 17 we hypothesized that LINC00312 might function as a miR‐21 sponge to enhance PTEN expression. Our luciferase reporter assay showed that miR‐21 is a direct interaction partner of LINC00312 in CRC cells. LINC00312 significantly suppressed miR‐21 expression, enhanced PTEN expression and decreased p‐AKT level. Furthermore, miR‐21 mimics attenuated the inhibitory effects of LINC00312 on CRC cell proliferation, migration and invasion; these phenomena were similar to the effects of PTEN siRNA on LINC00312‐overexpressing cells. These findings suggest that the miR‐21–PTEN pathway is involved in the LINC00312‐controlled malignant progression of CRC. 
+30134003_23352	221	226	DLEU1	Gene-protein	HGNC:13747
+30134003_23352	221	226	DLEU1	Biomarker	C109421
+30134003_23352	242	259	ovarian carcinoma	Disease	DOID:4001
+30134003_23352	311	321	miR‐490‐3p	Rna-noncoding	HGNC:32075
+30134003_23352	335	339	CDK1	Gene-protein	HGNC:1722
+30134003_23352	382	394	lncRNA CCAT1	Biomarker
+30134003_23352	389	394	CCAT1	Rna-noncoding	HGNC:45128
+30134003_23352	404	410	glioma	Disease	DOID:0060108
+30134003_23352	438	446	miR‐181b	Rna-noncoding	family:1718
+30134003_23352	506	511	FGFR3	Gene-protein	HGNC:3690
+30134003_23352	516	522	PDGFRα	Gene-protein	HGNC:8803
+30134003_23352	582	588	glioma	Disease
+30134003_23352	625	634	LINC00312	Rna-noncoding	HGNC:6662
+30134003_23352	654	664	miR‐197‐3p	Rna-noncoding	HGNC:31569
+30134003_23352	699	709	miR‐197‐3p	Rna-noncoding
+30134003_23352	718	722	p120	Gene-protein	HGNC:2515
+30134003_23352	765	774	LINC00312	Rna-noncoding
+30134003_23352	887	896	LINC00312	Rna-noncoding
+30134003_23352	901	907	miR‐21	Rna-noncoding	HGNC:31586
+30134003_23352	948	954	miR‐21	Rna-noncoding
+30134003_23352	948	971	miR‐21 is overexpressed	Biomarker
+30134003_23352	1041	1045	PTEN	Gene-protein	HGNC:9588
+30134003_23352	1049	1052	CRC	Disease
+30134003_23352	1081	1090	LINC00312	Rna-noncoding
+30134003_23352	1111	1117	miR‐21	Rna-noncoding
+30134003_23352	1136	1140	PTEN	Gene-protein
+30134003_23352	1195	1201	miR‐21	Rna-noncoding
+30134003_23352	1237	1246	LINC00312	Rna-noncoding
+30134003_23352	1250	1253	CRC	Disease
+30134003_23352	1261	1270	LINC00312	Rna-noncoding
+30134003_23352	1296	1302	miR‐21	Rna-noncoding
+30134003_23352	1324	1328	PTEN	Gene-protein
+30134003_23352	1356	1359	AKT	Genefamily	family:1900
+30134003_23352	1380	1386	miR‐21	Rna-noncoding
+30134003_23352	1431	1440	LINC00312	Rna-noncoding
+30134003_23352	1444	1447	CRC	Disease
+30134003_23352	1539	1543	PTEN	Gene-protein
+30134003_23352	1553	1562	LINC00312	Rna-noncoding
+30134003_23352	1617	1623	miR‐21	Rna-noncoding
+30134003_23352	1617	1636	miR‐21–PTEN pathway	Biomarker
+30134003_23352	1624	1628	PTEN	Gene-protein
+30134003_23352	1656	1665	LINC00312	Rna-noncoding
+30134003_23352	1702	1705	CRC	Disease
+

@@ -1,0 +1,62 @@
+T1	Disease 69 75	cancer
+#2	AnnotatorNotes T1	DOID:162
+T10	Chemical 671 680	glutamine
+T11	Disease 684 690	cancer
+T12	Disease 754 760	cancer
+T13	Chemical 873 882	glutamine
+T14	Disease 934 937	CRC
+T16	Disease 1027 1030	CRC
+T17	Disease 1094 1103	mucositis
+#10	AnnotatorNotes T17	DOID:0080178
+T18	Disease 1105 1124	intestinal toxicity
+#11	AnnotatorNotes T18	not found
+T19	Disease 1130 1140	neuropathy
+#12	AnnotatorNotes T19	DOID:870
+T2	Chemical 148 157	glutamine
+T21	Drug 1230 1243	glutamic acid
+T22	Disease 1262 1265	CRC
+T23	Disease 1318 1334	cancer mortality
+#17	AnnotatorNotes T23	not found
+T24	Chemical 1361 1370	glutamine
+T25	Disease 1408 1414	cancer
+T26	Chemical 1441 1450	glutamine
+T27	Chemical 1494 1503	glutamine
+T28	Chemical 1520 1529	glutamine
+T29	Disease 1540 1546	cancer
+T3	Disease 172 175	CRC
+T30	Disease 1580 1583	CRC
+T4	Chemical 185 194	glutamine
+T5	Disease 261 267	cancer
+T6	Chemical 356 365	glutamine
+T7	Disease 369 372	CRC
+T8	Chemical 473 482	glutamine
+T9	Chemical 507 516	glutamine
+T31	Chemical 30 39	Glutamine
+T32	Biomarker 148 168	glutamine metabolism
+R2	Association Arg1:T32 Arg2:T3	
+#3	AnnotatorNotes T3	DOID:9256
+T33	Biomarker 185 204	glutamine addiction
+T34	Biomarker 206 230	increased glutaminolysis
+T35	Biomarker 236 256	autophagy activation
+T36	Collection 185 256	glutamine addiction, increased glutaminolysis, and autophagy activation
+R3	Association Arg1:T36 Arg2:T3	
+T37	Biomarker 638 680	decreased concentration of serum glutamine
+R4	Association Arg1:T37 Arg2:T11	
+T38	Biomarker 850 888	low pretreatment serum glutamine level
+R5	Prognostic-Poor Arg1:T38 Arg2:T14	
+T39	Drug 998 1023	glutamine supplementation
+#4	AnnotatorNotes T39	not found
+T15	Drug 1209 1226	dietary glutamine
+#5	AnnotatorNotes T15	not found
+#6	AnnotatorNotes T21	 CHEMBL575060
+T20	Collection 1209 1243	dietary glutamine or glutamic acid
+T41	Collection 1262 1334	CRC incidence in non-overweight individuals, as well as cancer mortality
+R7	Protects-from Arg1:T20 Arg2:T41	
+T42	Biomarker 1361 1381	glutamine metabolism
+R8	Association Arg1:T42 Arg2:T25	
+T43	Biomarker 341 365	consumption of glutamine
+R9	Association Arg1:T43 Arg2:T7	
+T44	Drug-Class 1051 1063	chemotherapy
+T40	Biomarker 501 522	Serum glutamine level
+T45	Collection 1094 1140	mucositis, intestinal toxicity, and neuropathy
+R1	Protects-from Arg1:T39 Arg2:T45	

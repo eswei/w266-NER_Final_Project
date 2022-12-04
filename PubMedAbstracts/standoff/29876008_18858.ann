@@ -1,0 +1,61 @@
+T1	Disease 60 67	Obesity
+#1	AnnotatorNotes T1	DOID:9970
+T10	Disease 687 690	CRC
+T2	Disease 152 157	obese
+#3	AnnotatorNotes T2	DOID:9970
+T4	Disease 305 310	obese
+T6	Disease 503 509	Cancer
+#5	AnnotatorNotes T6	DOID:162
+T7	Biomarker 548 554	SLC2A3
+T9	Disease 675 682	obesity
+#6	AnnotatorNotes T9	DOID:9970
+T3	Gene-Protein 190 195	RGPD5
+#2	AnnotatorNotes T3	HGNC:32418
+T11	Gene-Protein 196 201	RGPD8
+#7	AnnotatorNotes T11	HGNC:9849
+T12	Gene-Protein 203 210	CTDSPL2
+#8	AnnotatorNotes T12	HGNC:26936
+T13	Gene-Protein 212 217	GCNT1
+#9	AnnotatorNotes T13	HGNC:4203
+T14	Gene-Protein 219 223	LMO2
+#10	AnnotatorNotes T14	HGNC:6642
+T15	Gene-Protein 225 232	PGPEP1L
+#11	AnnotatorNotes T15	HGNC:27080
+T16	Gene-Protein 234 238	LDHA
+#12	AnnotatorNotes T16	HGNC:6535
+T17	Gene-Protein 240 246	CYB5R2
+#13	AnnotatorNotes T17	HGNC:24376
+T18	Gene-Protein 248 254	SPACA1
+#14	AnnotatorNotes T18	HGNC:14967
+T19	Gene-Protein 256 261	PARVG
+#15	AnnotatorNotes T19	HGNC:14654
+T20	Gene-Protein 267 271	MSH6
+#16	AnnotatorNotes T20	HGNC:7329
+T5	Gene-Protein 380 384	LHX6
+#4	AnnotatorNotes T5	HGNC:21735
+T21	Gene-Protein 386 392	INPP5F
+#17	AnnotatorNotes T21	HGNC:17054
+T22	Gene-Protein 394 400	HIGD1A
+#18	AnnotatorNotes T22	HGNC:29527
+T23	Gene-Protein 402 408	SLC2A3
+#19	AnnotatorNotes T23	HGNC:11007
+T24	Gene-Protein 410 415	GLUT3
+#20	AnnotatorNotes T24	HGNC:11007
+T25	Gene-Protein 418 423	BLCAP
+#21	AnnotatorNotes T25	HGNC:1055
+T26	Gene-Protein 425 429	NNAT
+#22	AnnotatorNotes T26	HGNC:7860
+T27	Gene-Protein 431 436	MATR3
+#23	AnnotatorNotes T27	HGNC:6912
+T28	Gene-Protein 438 443	SNHG4
+#24	AnnotatorNotes T28	HGNC:32964
+T29	Gene-Protein 445 453	CCDC144B
+#25	AnnotatorNotes T29	HGNC:26704
+T30	Gene-Protein 459 463	DTX1
+#26	AnnotatorNotes T30	HGNC:3060
+T8	Gene-Protein 548 554	SLC2A3
+#27	AnnotatorNotes T7	C495687
+T31	Collection 675 690	obesity and CRC
+#28	AnnotatorNotes T10	DOID:9256
+R1	Association Arg1:T7 Arg2:T31	
+T32	Disease 607 613	Cancer

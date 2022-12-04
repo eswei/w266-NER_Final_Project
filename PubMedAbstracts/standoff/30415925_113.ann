@@ -1,0 +1,70 @@
+T10	Drug-Class 458 499	sodium-glucose transport (SGLT) inhibitor
+T11	Chemical 315 322	glucose
+T12	Chemical 345 352	glucose
+T13	Disease 359 385	glucagon secretion defects
+#4	AnnotatorNotes T13	DOID:14427
+T14	Drug 425 436	tolbutamide
+T17	Drug 500 509	phlorizin
+T18	Biomarker 527 540	hyperglycemia
+T19	Chemical 556 559	Na⁺
+T2	Disease 28 36	Diabetes
+#11	AnnotatorNotes T2	not found
+T20	Biomarker 578 628	acidification to impaired mitochondrial metabolism
+T21	Biomarker 630 652	reduced ATP production
+T22	Chemical 638 641	ATP
+T23	Biomarker 658 689	dysregulated glucagon secretion
+T25	Disease 781 794	hyperglycemic
+T27	Disease 896 911	type 2 diabetes
+#14	AnnotatorNotes T27	DOID:9352
+T30	Disease 989 1002	hyperglycemic
+T32	Disease 1129 1151	diabetic complications
+#18	AnnotatorNotes T32	D048909
+T33	Disease 1185 1206	Chronic hyperglycemia
+#19	AnnotatorNotes T33	DOID:4195
+T34	Disease 1261 1274	Hyperglycemia
+T35	Chemical 1329 1332	ATP
+T36	Chemical 1388 1391	ATP
+T37	Chemical 1433 1435	Na
+T38	Chemical 1467 1470	ATP
+T6	Disease 205 218	hyperglycemia
+#26	AnnotatorNotes T6	DOID:4195
+T7	Disease 223 254	dysregulated glucagon secretion
+#27	AnnotatorNotes T7	DOID:14427
+T9	Disease 279 287	diabetic
+#28	AnnotatorNotes T9	not found
+T1	Gene-Protein 86 93	insulin
+#1	AnnotatorNotes T1	HGNC:6081
+T39	Gene-Protein 139 147	fumarase
+T40	Gene-Protein 149 152	Fh1
+#2	AnnotatorNotes T17	CHEMBL245067
+#3	AnnotatorNotes T14	CHEMBL782
+T16	GeneFamily 830 842	KATP channel
+T15	Drug-Class 1346 1361	SGLT inhibitors
+T41	Biomarker 298 352	too much at high glucose and too little at low glucose
+T42	Biomarker 77 124	combined insulin and glucagon secretion defects
+R1	Risk-Factor Arg1:T42 Arg2:T2	
+R2	Response Arg1:T14 Arg2:T13	
+R3	Protects-from Arg1:T17 Arg2:T13	
+T3	Biomarker 542 572	intracellular Na⁺ accumulation
+T4	Collection 542 689	intracellular Na⁺ accumulation, and acidification to impaired mitochondrial metabolism, reduced ATP production, and dysregulated glucagon secretion
+T5	Gene-Protein 743 751	fumarase
+T8	Gene-Protein 1216 1224	fumarase
+T24	Gene-Protein 1408 1416	glucagon
+T26	Gene-Protein 1229 1237	glucagon
+T28	Gene-Protein 671 679	glucagon
+T29	Gene-Protein 359 367	glucagon
+T31	Gene-Protein 236 244	glucagon
+T43	Gene-Protein 98 106	glucagon
+#5	AnnotatorNotes T43	HGNC:4191
+#6	AnnotatorNotes T25	DOID:4195
+#7	AnnotatorNotes T18	D006943
+T44	Variant 808 812	V59M
+A1	Gain-of-funtion T44
+#8	AnnotatorNotes T44	p.Val59Met
+R4	Variant-Of Arg1:T16 Arg2:T44	
+T45	Disease 849 857	diabetic
+#9	AnnotatorNotes T45	not found
+T46	Biomarker 691 711	Protein succination,
+R5	Association Arg1:T46 Arg2:T25	
+T47	Biomarker 913 924	Succination
+R6	Association Arg1:T47 Arg2:T30	

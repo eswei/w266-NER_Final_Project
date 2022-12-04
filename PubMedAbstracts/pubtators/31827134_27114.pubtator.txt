@@ -1,0 +1,40 @@
+31827134_27114|t|RSS_IDENT_p_31827134_b_1_3_8
+31827134_27114|a| Several mechanisms of acquired and adaptive resistance are known to converge on MAPK pathway in NSCLC ²⁰ . We observed that erlotinib-resistant SCC-R cells were highly sensitive to MAP2K1/2 inhibitor (PD-0325901) compared to SCC-S cells. High efficacy of PD-0325901 towards SCC-R cells could be due to increased binding affinity of the drug to mutant MAP2K1. It has been reported that PD-0325901 has as increased potency towards activated MAP2K1 ⁶³ . Treatment with PD-0325901 resulted in decreased levels of pMAP2K1 and pMAPK1/3 in SCC-R cells indicating inhibition of MAPK pathway in these cells. Together, our results indicate that in erlotinib resistant SCC-R cells, activation of Ras/Raf/Mek/Erk signaling axis is an important survival mechanism. Genes related to MAPK pathway are altered at a frequency of 4–15% across HNSCC cohorts while mRNA overexpression of MAPK pathway genes is seen in around 30% of HNSCC patients. These results from TCGA data indicate that MAPK pathway might be a potential driver in a subset of HNSCC patients and targeting MAPK pathway might be a useful strategy in a subset of HNSCC patients.
+31827134_27114	110	114	MAPK	Genefamily	family:651
+31827134_27114	126	131	NSCLC	Disease	DOID:3908
+31827134_27114	154	163	erlotinib	Drug	CHEMBL553
+31827134_27114	154	179	erlotinib-resistant SCC-R	Disease	not found
+31827134_27114	211	219	MAP2K1/2	Gene-protein
+31827134_27114	211	229	MAP2K1/2 inhibitor	Drug-class
+31827134_27114	231	241	PD-0325901	Drug	CHEMBL507361
+31827134_27114	255	260	SCC-S	Disease	not found
+31827134_27114	285	295	PD-0325901	Drug
+31827134_27114	381	387	MAP2K1	Gene-protein
+31827134_27114	415	425	PD-0325901	Drug
+31827134_27114	469	475	MAP2K1	Gene-protein
+31827134_27114	496	506	PD-0325901	Drug
+31827134_27114	519	559	decreased levels of pMAP2K1 and pMAPK1/3	Biomarker
+31827134_27114	539	546	pMAP2K1	Gene-protein
+31827134_27114	551	559	pMAPK1/3	Gene-protein
+31827134_27114	563	568	SCC-R	Disease	not found
+31827134_27114	600	604	MAPK	Genefamily
+31827134_27114	668	677	erlotinib	Drug
+31827134_27114	668	693	erlotinib resistant SCC-R	Disease
+31827134_27114	701	745	activation of Ras/Raf/Mek/Erk signaling axis	Biomarker
+31827134_27114	715	718	Ras	Genefamily
+31827134_27114	719	722	Raf	Genefamily
+31827134_27114	723	726	Mek	Genefamily
+31827134_27114	727	730	Erk	Genefamily
+31827134_27114	782	847	Genes related to MAPK pathway are altered at a frequency of 4–15%	Biomarker
+31827134_27114	799	803	MAPK	Genefamily
+31827134_27114	855	860	HNSCC	Disease	DOID:5520
+31827134_27114	875	916	mRNA overexpression of MAPK pathway genes	Biomarker
+31827134_27114	898	902	MAPK	Genefamily
+31827134_27114	942	947	HNSCC	Disease
+31827134_27114	1001	1005	MAPK	Genefamily
+31827134_27114	1001	1013	MAPK pathway	Biomarker
+31827134_27114	1057	1062	HNSCC	Disease
+31827134_27114	1086	1090	MAPK	Genefamily
+31827134_27114	1086	1098	MAPK pathway	Biomarker
+31827134_27114	1141	1146	HNSCC	Disease
+

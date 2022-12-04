@@ -1,0 +1,31 @@
+31393389_11356|t|RSS_IDENT_p_31393389_b_1_4_4
+31393389_11356|a| In this meta-analysis, we also suggested a significant association between Mn levels and HCC. In serum, the Mn levels in HCC were significantly lower than in healthy controls. In tissue, the Mn levels in tumors were significantly lower than in adjacent normal tissues. Furthermore, in the study by Yu et al, the serum Mn levels in HCC increased significantly after treatment (SMD (95% CI): −0.561 (−1.020, −0.103)), which also indicated an inverse association between Mn levels and HCC. In hair, the Mn levels in HCC were slightly lower than in healthy controls, but not significant, which might contribute to tissue specificity. Similarly, breast cancer patients had a higher nickel (Ni) level in serum (SMD: 1.76, 95% CI: 0.82–2.70), but it was not significant in hair (SMD: 0.16, 95% CI: −1.08 to 1.40).[ ³⁵ ] Breast cancer patients had a lower Zinc (Zn) level in hair (SMD: −1.99, 95% CI: −3.46 to −0.52), but it was not significant in serum (SMD: −0.65, 95% CI: −1.42 to 0.13).[ ³⁶ ] Nevertheless, Zinc supplementation could significantly increase natural killer T (NKT) cells, which were involved in the direct killing of target cells and thus provided anti-tumor protection.[ ³⁷ ] 
+31393389_11356	105	107	Mn	Chemical
+31393389_11356	105	114	Mn levels	Biomarker
+31393389_11356	119	122	HCC	Disease	DOID:684
+31393389_11356	138	140	Mn	Chemical
+31393389_11356	138	147	Mn levels	Biomarker
+31393389_11356	151	154	HCC	Disease
+31393389_11356	221	223	Mn	Chemical
+31393389_11356	221	230	Mn levels	Biomarker
+31393389_11356	234	240	tumors	Disease	DOID:162
+31393389_11356	342	357	serum Mn levels	Biomarker
+31393389_11356	348	350	Mn	Chemical
+31393389_11356	361	364	HCC	Disease
+31393389_11356	498	500	Mn	Chemical
+31393389_11356	498	507	Mn levels	Biomarker
+31393389_11356	512	515	HCC	Disease
+31393389_11356	530	532	Mn	Chemical
+31393389_11356	530	539	Mn levels	Biomarker
+31393389_11356	543	546	HCC	Disease
+31393389_11356	671	684	breast cancer	Disease	DOID:1612
+31393389_11356	700	733	higher nickel (Ni) level in serum	Biomarker
+31393389_11356	707	713	nickel	Chemical
+31393389_11356	715	717	Ni	Chemical
+31393389_11356	843	856	Breast cancer	Disease	DOID:1612
+31393389_11356	872	901	lower Zinc (Zn) level in hair	Biomarker
+31393389_11356	878	882	Zinc	Chemical
+31393389_11356	884	886	Zn	Chemical
+31393389_11356	1033	1053	Zinc supplementation	Drug	not found
+31393389_11356	1194	1199	tumor	Disease	DOID:162
+

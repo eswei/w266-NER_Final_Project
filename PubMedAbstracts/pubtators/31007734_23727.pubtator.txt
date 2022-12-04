@@ -1,0 +1,33 @@
+31007734_23727|t|RSS_IDENT_p_31007734_b_1_4_3
+31007734_23727|a| RAB22A is a member of the RAS oncogene family that is amplified or expressed in specific tumors, including lung cancer, melanoma and osteosarcoma ( 32 – 34 ). Rabs serves as master regulator of transport between membrane compartments within cells, recruiting multiple effector molecules that recognize cargo, promote membrane fission and fusion, alter lipid composition, mediate transport along cytoskeletal elements and regulate other Rabs. ( 35 , 36 ). RAB22A is highly expressed in hepatocellular carcinoma ( 37 ). Furthermore, overexpression of RAB22A causes a prominent morphological enlargement of early and late endosomes, but hampers the transport between endosomes and the Golgi apparatus ( 38 , 39 ). RAB22A is associated with the co-localization of auto phagosomes, which is associated with another mechanism that leads to excessive RAB22A activation in tumor cells, including the interaction with early endosome antigen 1 and membrane transport ( 40 ). Previous research has indicated that RAB22A depletion may activate the RAF-mitogen-activated protein kinase-ERK signaling pathway, eventually leading to the occurrence of tumor development ( 41 ). The present study indicated that miR-193b targeted RAB22A through the Ras signaling pathway, resulting in the dephosphorylation of ERK1/2, repression of downstream factors and the inhibition of cell proliferation, migration, and other biological functions. 
+31007734_23727	30	36	RAB22A	Gene-protein	HGNC:9764
+31007734_23727	30	106	RAB22A is a member of the RAS oncogene family that is amplified or expressed	Biomarker
+31007734_23727	56	59	RAS	Genefamily	family:389
+31007734_23727	119	125	tumors	Disease	DOID:162
+31007734_23727	119	175	tumors, including lung cancer, melanoma and osteosarcoma	Collection
+31007734_23727	137	148	lung cancer	Disease	DOID:1324
+31007734_23727	150	158	melanoma	Disease	DOID:1909
+31007734_23727	163	175	osteosarcoma	Disease	DOID:3347
+31007734_23727	189	193	Rabs	Genefamily	family:388
+31007734_23727	466	470	Rabs	Genefamily
+31007734_23727	485	491	RAB22A	Gene-protein
+31007734_23727	485	511	RAB22A is highly expressed	Biomarker
+31007734_23727	515	539	hepatocellular carcinoma	Disease	DOID:684
+31007734_23727	561	585	overexpression of RAB22A	Biomarker
+31007734_23727	579	585	RAB22A	Gene-protein
+31007734_23727	741	747	RAB22A	Gene-protein
+31007734_23727	864	891	excessive RAB22A activation	Biomarker
+31007734_23727	874	880	RAB22A	Gene-protein
+31007734_23727	895	900	tumor	Disease	DOID:162
+31007734_23727	939	963	early endosome antigen 1	Gene-protein	HGNC:3185
+31007734_23727	1032	1038	RAB22A	Gene-protein
+31007734_23727	1032	1048	RAB22A depletion	Drug	not found
+31007734_23727	1066	1069	RAF	Genefamily	family:1157
+31007734_23727	1070	1102	mitogen-activated protein kinase	Genefamily	family:651
+31007734_23727	1103	1106	ERK	Genefamily	not found
+31007734_23727	1166	1171	tumor	Disease
+31007734_23727	1225	1233	miR-193b	Rna-noncoding	HGNC:32087
+31007734_23727	1243	1249	RAB22A	Gene-protein
+31007734_23727	1262	1265	Ras	Genefamily	family:389
+31007734_23727	1323	1329	ERK1/2	Gene-protein	HGNC:6877, HGNC:6871
+

@@ -1,0 +1,47 @@
+29372059_25210|t|RSS_IDENT_s_29372059_b_1_5
+29372059_25210|a| Conclusions This study is the first report that shows the prevalence and clinical impact of FVL and prothrombin G20210A mutations among Palestinian SCD patients. FVL was more prevalent among SS patients compared to normal subjects (control group). SCD patients with FVL showed a significantly higher incidence of pain in chest, abdomen and bone joints making these SCD patients dependent on regular blood transfusion to modify the vasoocclusive crises. The high frequency of FVL and its significant correlation with sickle cell anemia from Palestine could be an important risk factor for developing occlusive crisis. Studies that include a larger number of patients and controls are necessary to define specific guidelines. It is still possible that other inherited thrombophilic mutations may contribute to thrombotic complications in SCD. Mutations and polymorphisms in the fibrinogen gene, C677T mutation in the methylenetetrahydrofolate reductase (MTHFR) gene, C1565T mutation in the platelet glycoprotein IIIa (GPIIIa) gene, and factor VII gene and others should be analyzed to determine the contribution of inherited thrombophilic mutations to thrombotic complications in patients with SCD. Abbreviations AS Sickle cell trait AVN Avascular bone necrosis CI Confidence interval FVL Factor V Leiden GPIIIa Platelet glycoprotein IIIa gene MTHFR Methylene tetrahydrofolate reductase OR Odds ratio RDB-PCR Reverse dot blot polymerase chain reaction RFLP PCR Restriction fragment length polymorphism – polymerase chain reaction SCD Sickle cell disease SS Homozygote sickle cell anemia βS Hemoglobin S Authors’ contributions
+29372059_25210	120	123	FVL	Biomarker	C095381
+29372059_25210	120	123	FVL	Gene-protein	HGNC:3542
+29372059_25210	128	139	prothrombin	Gene-protein	HGNC:3535
+29372059_25210	140	147	G20210A	Variant
+29372059_25210	176	179	SCD	Disease	DOID:10923
+29372059_25210	190	193	FVL	Biomarker
+29372059_25210	190	193	FVL	Gene-protein
+29372059_25210	219	221	SS	Disease	DOID:10923
+29372059_25210	276	297	SCD patients with FVL	Disease	not found
+29372059_25210	294	297	FVL	Gene-protein
+29372059_25210	321	379	higher incidence of pain in chest, abdomen and bone joints	Biomarker
+29372059_25210	393	396	SCD	Disease
+29372059_25210	485	506	high frequency of FVL	Biomarker
+29372059_25210	503	506	FVL	Gene-protein
+29372059_25210	544	562	sickle cell anemia	Disease	DOID:10923
+29372059_25210	627	643	occlusive crisis	Disease	not found
+29372059_25210	784	817	inherited thrombophilic mutations	Biomarker
+29372059_25210	836	860	thrombotic complications	Biomarker
+29372059_25210	864	867	SCD	Disease
+29372059_25210	904	914	fibrinogen	Genefamily	not found
+29372059_25210	921	926	C677T	Variant
+29372059_25210	943	968	methylenetetrahydrofolate	Chemical
+29372059_25210	943	978	methylenetetrahydrofolate reductase	Gene-protein	HGNC:7436
+29372059_25210	980	985	MTHFR	Gene-protein	HGNC:7436
+29372059_25210	993	999	C1565T	Variant
+29372059_25210	1016	1042	platelet glycoprotein IIIa	Gene-protein	HGNC:6156
+29372059_25210	1044	1050	GPIIIa	Gene-protein	HGNC:6156
+29372059_25210	1062	1072	factor VII	Gene-protein	HGNC:3544
+29372059_25210	1141	1174	inherited thrombophilic mutations	Biomarker
+29372059_25210	1220	1223	SCD	Disease
+29372059_25210	1260	1263	AVN	Disease	DOID:10159
+29372059_25210	1264	1287	Avascular bone necrosis	Disease	DOID:10159
+29372059_25210	1311	1314	FVL	Gene-protein
+29372059_25210	1315	1330	Factor V Leiden	Gene-protein	HGNC:3542
+29372059_25210	1331	1337	GPIIIa	Gene-protein
+29372059_25210	1338	1364	Platelet glycoprotein IIIa	Gene-protein
+29372059_25210	1370	1375	MTHFR	Gene-protein
+29372059_25210	1376	1402	Methylene tetrahydrofolate	Chemical
+29372059_25210	1376	1412	Methylene tetrahydrofolate reductase	Gene-protein
+29372059_25210	1556	1559	SCD	Disease
+29372059_25210	1560	1579	Sickle cell disease	Disease	DOID:10923
+29372059_25210	1594	1612	sickle cell anemia	Disease	DOID:10923
+29372059_25210	1613	1615	βS	Gene-protein
+29372059_25210	1616	1628	Hemoglobin S	Gene-protein
+

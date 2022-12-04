@@ -1,0 +1,31 @@
+30406177_18476|t|RSS_IDENT_p_30406177_b_1_3_6
+30406177_18476|a| Given the profound loss of plaque-associated macrophages in TREM2-deficient amyloid mice, myeloid cell survival and proliferation were of interest in these models. It has been shown that TREM2-deficient mice have dramatically decreased numbers of proliferating plaque-associated macrophages as measured by proliferation markers Ki67, and BrdU in aging APPPS1 and 5XFAD mice [146] , [151] . In addition, it was shown by the Colonna lab that TREM2 deficiency results in increased cleaved caspase-3 activation, resulting in enhanced myeloid cell death [151] . Utilizing super resolution microscopy, Yuan et al. further demonstrated that haploinsufficiency of TREM2 in mice or humans harboring the R47H mutation results in altered plaque compaction with much more diffuse and fibrillar plaques present, and fewer thioflavin S⁺ dense core plaques [152] . In this situation, more neurotoxic oligomeric and fibrillar Aβ may be present leading to increased neuronal dystrophy and death. Along with plaque compaction issues, microglia and macrophages lacking TREM2 have been shown to have decreased capacity to phagocytose and clear Aβ, apoptotic cells, as well as other proteins and complexes [131] , [153] , [154] . TREM2-deficient myeloid cells also exhibit increased numbers of autophagy-associated phagolysosomes reflective of aberrant mTOR activation resulting in dysregulated metabolic homeostasis within the context of Aβ pathology [155] . 
+30406177_18476	49	86	loss of plaque-associated macrophages	Biomarker
+30406177_18476	90	95	TREM2	Gene-protein
+30406177_18476	90	113	TREM2-deficient amyloid	Disease	not found
+30406177_18476	217	222	TREM2	Gene-protein
+30406177_18476	217	232	TREM2-deficient	Disease
+30406177_18476	256	320	decreased numbers of proliferating plaque-associated macrophages	Biomarker
+30406177_18476	358	362	Ki67	Gene-protein
+30406177_18476	358	362	Ki67	Biomarker	D019394
+30406177_18476	368	372	BrdU	Chemical
+30406177_18476	368	372	BrdU	Biomarker	D001973
+30406177_18476	470	486	TREM2 deficiency	Disease	not found
+30406177_18476	498	536	increased cleaved caspase-3 activation	Biomarker
+30406177_18476	516	525	caspase-3	Gene-protein	HGNC:1504
+30406177_18476	686	691	TREM2	Gene-protein
+30406177_18476	724	728	R47H	Variant	p.Arg47His
+30406177_18476	839	852	thioflavin S⁺	Chemical
+30406177_18476	899	942	more neurotoxic oligomeric and fibrillar Aβ	Biomarker
+30406177_18476	940	942	Aβ	Gene-protein	not found
+30406177_18476	979	997	neuronal dystrophy	Disease	not found
+30406177_18476	1080	1085	TREM2	Gene-protein
+30406177_18476	1132	1143	phagocytose	Chemical
+30406177_18476	1154	1156	Aβ	Gene-protein
+30406177_18476	1239	1244	TREM2	Gene-protein
+30406177_18476	1239	1262	TREM2-deficient myeloid	Disease
+30406177_18476	1282	1338	increased numbers of autophagy-associated phagolysosomes	Biomarker
+30406177_18476	1353	1377	aberrant mTOR activation	Biomarker
+30406177_18476	1362	1366	mTOR	Gene-protein	HGNC:3942
+30406177_18476	1448	1450	Aβ	Gene-protein
+

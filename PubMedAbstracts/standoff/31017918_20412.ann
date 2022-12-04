@@ -1,0 +1,55 @@
+T0	Chemical 143 152	vitamin D
+T1	Disease 143 180	vitamin D deficiency or insufficiency
+#2	AnnotatorNotes T1	D014808, not found
+T11	Chemical 534 543	vitamin D
+T14	Disease 805 821	microalbuminuria
+T17	Chemical 849 858	vitamin D
+T21	Disease 955 971	macroalbuminuria
+T23	Chemical 988 997	vitamin D
+T28	Biomarker 1080 1092	hypertension
+#16	AnnotatorNotes T28	D006973
+T3	Disease 227 235	diabetic
+#17	AnnotatorNotes T3	not found
+T32	Biomarker 1152 1165	hyperuricemia
+#18	AnnotatorNotes T32	D033461
+T35	Chemical 1175 1180	25OHD
+T4	Chemical 281 286	25OHD
+T40	Chemical 1306 1315	vitamin D
+T41	Disease 1352 1363	albuminuria
+T42	Chemical 1379 1388	vitamin D
+T44	Chemical 1507 1516	vitamin D
+T45	Disease 1548 1559	albuminuria
+T46	Disease 1607 1621	kidney disease
+#29	AnnotatorNotes T46	DOID:557
+T48	Chemical 1786 1791	25OHD
+T49	Disease 1831 1846	type 2 diabetes
+T5	Chemical 403 412	vitamin D
+T6	Biomarker 403 440	vitamin D deficiency or insufficiency
+#33	AnnotatorNotes T6	D014808, not found
+T9	Disease 485 500	type 2 diabetes
+#35	AnnotatorNotes T9	DOID:9352
+R1	Association Arg1:T6 Arg2:T9	
+T7	Biomarker 1780 1798	serum 25OHD levels
+T10	Biomarker 1803 1813	UACR level
+T15	Biomarker 1503 1522	low vitamin D level
+R2	Association Arg1:T15 Arg2:T45	
+T16	Biomarker 1272 1322	type 2 diabetes patients with low vitamin D levels
+R3	Risk-Factor Arg1:T16 Arg2:T41	
+T22	Biomarker 1094 1127	increased systolic blood pressure
+T26	Biomarker 1129 1150	poor glycemic control
+T27	Biomarker 1171 1187	low 25OHD levels
+T29	Disease 1222 1252	albuminuria in type 2 diabetic
+T30	Collection 1072 1187	gender, hypertension, increased systolic blood pressure, poor glycemic control, hyperuricemia, and low 25OHD levels
+T31	Biomarker 1072 1078	gender
+R4	Risk-Factor Arg1:T30 Arg2:T29	
+T33	Biomarker 828 886	higher prevalence of vitamin D insufficiency or deficiency
+R5	Association Arg1:T33 Arg2:T14	
+T2	Disease 534 571	vitamin D deficiency or insufficiency
+#1	AnnotatorNotes T14	not found
+T8	Biomarker 981 1025	severe vitamin D insufficiency or deficiency
+#4	AnnotatorNotes T31	D005783
+#5	AnnotatorNotes T29	D000419,DOID:9352
+#6	AnnotatorNotes T45	D000419
+T12	Biomarker 73 87	elevated e-GFR
+#7	AnnotatorNotes T21	not found
+R6	Association Arg1:T8 Arg2:T21	

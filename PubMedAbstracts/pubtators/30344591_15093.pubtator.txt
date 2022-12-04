@@ -1,0 +1,63 @@
+30344591_15093|t|RSS_IDENT_p_30344591_b_1_4_3
+30344591_15093|a| It can be found in this study that levels of TSH, FPG and HbAIc in GDM and SCH pregnant women were significantly higher than those in normal pregnant group; the levels of 25-OH-D and Ca2+ in GDM and SCH pregnant women were significantly lower than those in normal pregnant group. With the increase of 25-OH-D level, through the comparison of levels of FPG, TSH, and Ca2+ in different groups, the levels of FPG, TSH, and HbAIc in the 25-OH-D deficient group were lower than those in the 25-OH-D sufficient group. However, Ca2+ levels reduced compared with those in 25-OH-D deficient group and sufficient group. The positive rates of TPOAb and TgAb in GDM and SCH pregnant women were higher than normal pregnant women. Pregnant women with TPOAb or TgAb positive have a higher rate of VitD deficiency than TPOAb or TgAb negative pregnant women. When the serum 25-OH-D of GDM and SCH pregnant women is at a low level, it may cause humoral immune function disorders, and increase the demand for VitD, to result in 25-OH-D level decline and VitD deficiency. It is the current situation that GDM and SCH pregnant women have VitD deficiency problem. Therefore, serum 25-OH-D can be used as an important monitoring index for GDM and SCH. 
+30344591_15093	65	93	levels of TSH, FPG and HbAIc	Biomarker
+30344591_15093	75	78	TSH	Genefamily	not found
+30344591_15093	97	100	GDM	Disease	DOID:11714
+30344591_15093	97	108	GDM and SCH	Collection
+30344591_15093	105	108	SCH	Disease	not found
+30344591_15093	191	217	levels of 25-OH-D and Ca2+	Biomarker
+30344591_15093	201	208	25-OH-D	Chemical
+30344591_15093	213	216	Ca2	Chemical
+30344591_15093	221	224	GDM	Disease
+30344591_15093	221	232	GDM and SCH	Collection
+30344591_15093	229	232	SCH	Disease
+30344591_15093	319	344	increase of 25-OH-D level	Biomarker
+30344591_15093	331	338	25-OH-D	Chemical
+30344591_15093	372	400	levels of FPG, TSH, and Ca2+	Biomarker
+30344591_15093	387	390	TSH	Genefamily
+30344591_15093	396	400	Ca2+	Chemical
+30344591_15093	426	455	levels of FPG, TSH, and HbAIc	Biomarker
+30344591_15093	441	444	TSH	Genefamily
+30344591_15093	463	470	25-OH-D	Chemical
+30344591_15093	463	480	25-OH-D deficient	Disease	not found
+30344591_15093	516	523	25-OH-D	Chemical
+30344591_15093	551	555	Ca2+	Chemical
+30344591_15093	551	570	Ca2+ levels reduced	Biomarker
+30344591_15093	594	601	25-OH-D	Chemical
+30344591_15093	594	611	25-OH-D deficient	Disease	not found
+30344591_15093	644	676	positive rates of TPOAb and TgAb	Biomarker
+30344591_15093	662	667	TPOAb	Gene-protein	not found
+30344591_15093	672	676	TgAb	Gene-protein	not found
+30344591_15093	680	683	GDM	Disease
+30344591_15093	680	691	GDM and SCH	Collection
+30344591_15093	688	691	SCH	Disease
+30344591_15093	767	772	TPOAb	Gene-protein
+30344591_15093	767	789	TPOAb or TgAb positive	Biomarker
+30344591_15093	776	780	TgAb	Gene-protein
+30344591_15093	812	816	VitD	Chemical
+30344591_15093	812	827	VitD deficiency	Disease	D014808
+30344591_15093	833	838	TPOAb	Gene-protein
+30344591_15093	833	855	TPOAb or TgAb negative	Biomarker
+30344591_15093	842	846	TgAb	Gene-protein
+30344591_15093	887	894	25-OH-D	Chemical
+30344591_15093	887	894	25-OH-D	Biomarker
+30344591_15093	898	901	GDM	Disease
+30344591_15093	898	990	GDM and SCH pregnant women is at a low level, it may cause humoral immune function disorders	Collection
+30344591_15093	906	909	SCH	Disease
+30344591_15093	957	990	humoral immune function disorders	Disease	DOID:2914
+30344591_15093	1020	1024	VitD	Chemical
+30344591_15093	1039	1046	25-OH-D	Chemical
+30344591_15093	1039	1060	25-OH-D level decline	Disease
+30344591_15093	1065	1069	VitD	Chemical
+30344591_15093	1065	1080	VitD deficiency	Disease	D014808
+30344591_15093	1115	1118	GDM	Disease
+30344591_15093	1115	1126	GDM and SCH	Collection
+30344591_15093	1123	1126	SCH	Disease
+30344591_15093	1147	1151	VitD	Chemical
+30344591_15093	1147	1162	VitD deficiency	Biomarker
+30344591_15093	1183	1196	serum 25-OH-D	Biomarker
+30344591_15093	1189	1196	25-OH-D	Chemical
+30344591_15093	1246	1249	GDM	Disease
+30344591_15093	1246	1257	GDM and SCH	Collection
+30344591_15093	1254	1257	SCH	Disease
+

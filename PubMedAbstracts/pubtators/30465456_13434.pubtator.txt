@@ -1,0 +1,47 @@
+30465456_13434|t|RSS_IDENT_p_30465456_b_1_4_4
+30465456_13434|a| Vitamin D is a key element in calcium metabolism, and previous studies have shown that reduced serum levels of 25 (OH) vitamin D are associated with musculoskeletal disorders, such as chronic low back-leg pain and fibromyalgia, however, data regarding vitamin D status and TMDs are limited. ¹⁴ , ¹⁵ In an experimental model, Shen et al. ¹⁶ reported that vitamin D deficiency was correlated with an erosive temporomandibular joint osteoarthritis through induction of DNA damage and production of inflammatory cytokines. Decreased vitamin D levels have also been associated with radiographic changes in the temporomandibular joint. ¹⁷ However, the relationships between TMDs and vitamin D status, parathyroid hormone levels and calcium metabolism have not yet been evaluated in detail. In the present study, patients with TMDs were revealed to have significantly higher parathyroid hormone levels compared with control patients, while serum levels of vitamin D were low in both groups, and phosphorus and calcium were within normal ranges. No significant differences were found between the groups regarding serum calcitonin, calcium, magnesium, and phosphorus levels. The similar vitamin D deficiency rates in both groups may be related to the lack of a significant difference between the groups regarding calcium, magnesium and phosphorus levels. 
+30465456_13434	30	39	Vitamin D	Chemical
+30465456_13434	60	67	calcium	Chemical
+30465456_13434	117	158	reduced serum levels of 25 (OH) vitamin D	Biomarker
+30465456_13434	141	158	25 (OH) vitamin D	Chemical
+30465456_13434	179	204	musculoskeletal disorders	Disease	DOID:17
+30465456_13434	179	256	musculoskeletal disorders, such as chronic low back-leg pain and fibromyalgia	Collection
+30465456_13434	214	239	chronic low back-leg pain	Disease	not found
+30465456_13434	244	256	fibromyalgia	Disease	DOID:631
+30465456_13434	282	291	vitamin D	Chemical
+30465456_13434	303	307	TMDs	Disease	D013705
+30465456_13434	384	393	vitamin D	Chemical
+30465456_13434	384	404	vitamin D deficiency	Biomarker	D014808
+30465456_13434	436	474	temporomandibular joint osteoarthritis	Disease	D013705
+30465456_13434	525	547	inflammatory cytokines	Genefamily	not found
+30465456_13434	549	575	Decreased vitamin D levels	Biomarker
+30465456_13434	559	568	vitamin D	Chemical
+30465456_13434	607	658	radiographic changes in the temporomandibular joint	Biomarker
+30465456_13434	698	702	TMDs	Disease
+30465456_13434	707	716	vitamin D	Chemical
+30465456_13434	707	723	vitamin D status	Biomarker
+30465456_13434	725	744	parathyroid hormone	Chemical
+30465456_13434	725	751	parathyroid hormone levels	Biomarker
+30465456_13434	756	763	calcium	Chemical
+30465456_13434	756	774	calcium metabolism	Biomarker
+30465456_13434	850	854	TMDs	Disease
+30465456_13434	877	924	significantly higher parathyroid hormone levels	Biomarker
+30465456_13434	898	917	parathyroid hormone	Chemical
+30465456_13434	963	997	serum levels of vitamin D were low	Biomarker
+30465456_13434	979	988	vitamin D	Chemical
+30465456_13434	1018	1028	phosphorus	Chemical
+30465456_13434	1018	1028	phosphorus	Biomarker
+30465456_13434	1033	1040	calcium	Chemical
+30465456_13434	1033	1040	calcium	Biomarker
+30465456_13434	1135	1194	serum calcitonin, calcium, magnesium, and phosphorus levels	Biomarker
+30465456_13434	1141	1151	calcitonin	Gene-protein	HGNC:1437
+30465456_13434	1153	1160	calcium	Chemical
+30465456_13434	1162	1171	magnesium	Chemical
+30465456_13434	1177	1187	phosphorus	Chemical
+30465456_13434	1208	1217	vitamin D	Chemical
+30465456_13434	1208	1228	vitamin D deficiency	Disease	D014808
+30465456_13434	1334	1341	calcium	Chemical
+30465456_13434	1334	1374	calcium, magnesium and phosphorus levels	Biomarker
+30465456_13434	1343	1352	magnesium	Chemical
+30465456_13434	1357	1367	phosphorus	Chemical
+

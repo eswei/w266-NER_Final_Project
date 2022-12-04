@@ -1,0 +1,54 @@
+31041876_3861|t|RSS_IDENT_p_31041876_b_1_1_4
+31041876_3861|a| Previous genetic studies have implicated voltage-gated sodium channels (Naᵥs) in neuropathic pain syndromes associated with peripheral neuropathies. ⁷ Classically, gain-of-function mutations in SCN9A, the gene that encodes the Naᵥ1.7 sodium channel isoform, are known to cause inherited erythromelalgia (IEM), ⁸ – ¹² paroxysmal extreme pain disorder (PEPD), ¹³ – ¹⁵ and other painful pain disorders including small-fiber neuropathy (SFN), ¹⁶ whereas loss-of-function mutations in this gene result in congenital insensitivity to pain. ¹⁷ – ¹⁹ However, other sodium channel isoforms have more recently been implicated in neuropathic pain states. ²⁰ – ²⁶ Naᵥ1.6 knockdown ameliorates mechanical allodynia after spared nerve injury, ²¹ and a gain-of-function Naᵥ1.6 mutation has been linked to trigeminal neuralgia. ²⁰ Gain-of-function mutations in Naᵥ1.8 were reported in three patients with painful peripheral neuropathies. ²² Further evidence has since followed linking Naᵥ1.8 mutations to SFN. ²⁴ , ²⁷ Like Naᵥ1.7 and −1.8, mutations in Naᵥ1.9 have been reported in patients with painful peripheral neuropathies. ²³ , ²⁵ , ²⁸ Although the contribution of these Naᵥs to painful neuropathies has been thoroughly investigated, no human data to date have shown a role of the β-subunits. 
+31041876_3861	71	100	voltage-gated sodium channels	Genefamily	family:184
+31041876_3861	71	100	voltage-gated sodium channels	Biomarker	D061566
+31041876_3861	85	91	sodium	Chemical
+31041876_3861	102	104	Na	Chemical
+31041876_3861	102	106	Naᵥs	Genefamily	family:184
+31041876_3861	111	177	neuropathic pain syndromes associated with peripheral neuropathies	Disease	not found
+31041876_3861	194	229	gain-of-function mutations in SCN9A	Biomarker
+31041876_3861	224	229	SCN9A	Gene-protein	HGNC:10597
+31041876_3861	257	259	Na	Chemical
+31041876_3861	257	278	Naᵥ1.7 sodium channel	Gene-protein	HGNC:10597
+31041876_3861	264	270	sodium	Chemical
+31041876_3861	307	332	inherited erythromelalgia	Disease	not found
+31041876_3861	307	467	inherited erythromelalgia (IEM), ⁸ – ¹² paroxysmal extreme pain disorder (PEPD), ¹³ – ¹⁵ and other painful pain disorders including small-fiber neuropathy (SFN)	Collection
+31041876_3861	334	337	IEM	Disease	not found
+31041876_3861	347	379	paroxysmal extreme pain disorder	Disease	DOID:0111537
+31041876_3861	381	385	PEPD	Disease	DOID:0111537
+31041876_3861	414	428	pain disorders	Disease	DOID:0060164
+31041876_3861	439	461	small-fiber neuropathy	Disease	D000071075
+31041876_3861	463	466	SFN	Disease	D000071075
+31041876_3861	480	506	loss-of-function mutations	Variant
+31041876_3861	530	562	congenital insensitivity to pain	Disease	D000699
+31041876_3861	587	593	sodium	Chemical
+31041876_3861	587	601	sodium channel	Genefamily	family:179
+31041876_3861	587	610	sodium channel isoforms	Biomarker
+31041876_3861	649	665	neuropathic pain	Disease	D009437
+31041876_3861	682	688	Naᵥ1.6	Gene-protein	HGNC:10596
+31041876_3861	682	698	Naᵥ1.6 knockdown	Drug	not found
+31041876_3861	711	731	mechanical allodynia	Disease	D006930
+31041876_3861	738	757	spared nerve injury	Disease	not found
+31041876_3861	768	800	gain-of-function Naᵥ1.6 mutation	Biomarker
+31041876_3861	785	791	Naᵥ1.6	Gene-protein
+31041876_3861	820	840	trigeminal neuralgia	Disease	DOID:12098
+31041876_3861	845	881	Gain-of-function mutations in Naᵥ1.8	Biomarker
+31041876_3861	875	877	Na	Chemical
+31041876_3861	875	881	Naᵥ1.8	Gene-protein	HGNC:10582
+31041876_3861	927	950	peripheral neuropathies	Disease	D010523
+31041876_3861	999	1001	Na	Chemical
+31041876_3861	999	1005	Naᵥ1.8	Gene-protein
+31041876_3861	999	1015	Naᵥ1.8 mutations	Biomarker
+31041876_3861	1019	1022	SFN	Disease
+31041876_3861	1037	1039	Na	Chemical
+31041876_3861	1037	1052	Naᵥ1.7 and −1.8	Gene-protein	HGNC:10597,HGNC:10582
+31041876_3861	1054	1073	mutations in Naᵥ1.9	Biomarker
+31041876_3861	1067	1069	Na	Chemical
+31041876_3861	1067	1073	Naᵥ1.9	Gene-protein	HGNC:10583
+31041876_3861	1118	1141	peripheral neuropathies	Disease
+31041876_3861	1191	1193	Na	Chemical
+31041876_3861	1191	1195	Naᵥs	Genefamily
+31041876_3861	1191	1195	Naᵥs	Biomarker	D061566
+31041876_3861	1199	1219	painful neuropathies	Disease	DOID:870
+31041876_3861	1301	1311	β-subunits	Genefamily	family:1204
+

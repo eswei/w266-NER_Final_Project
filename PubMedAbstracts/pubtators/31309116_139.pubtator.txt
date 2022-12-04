@@ -1,0 +1,68 @@
+31309116_139|t|RSS_IDENT_p_31309116_a_1_1
+31309116_139|a| This study aimed to screen the target miRNAs and to investigate the differential miR-3557/324-targeted signal mechanisms in the rats' model of Parkinson's disease (PD) with regular aerobic exercise. Rats were divided into sedentary control PD group (SED-PD, n = 18) and aerobic exercise PD group (EX-PD, n = 22). After 8 weeks of regular aerobic exercise, a 6-hydroxydopamine- (6-OHDA-) induced PD lesion model was constructed. Preregular aerobic exercises enhanced the injury resistance of rats with 6-OHDA-induced PD. The rotational behavior after injection of apomorphine hydrochloride was alleviated. Under the scanning electron microscopy, we found the neurons, axons, and villi of the striatum were clearly and tightly arranged, and neurons and axons significantly becoming larger. Tyrosine hydroxylase (TH) was increased significantly and α-synuclein protein expression was reduced in the EX-PD group compared to the SED-PD group. Screening from miRNA microarray chip, we further found upregulation of miR-3557 and downregulation of miR-324 were closely related to the calcium-modulating signaling pathway, remitting the progress of Parkinson's disease on aerobic exercise. Compared to the SED-PD group, Ca²⁺/calmodulin dependent protein kinase II (CaMK2α) was upregulated, but CaMKV and voltage-dependent anion-selective channel protein 1 (Vdac1) were significantly downregulated in the EX-PD group. Additionally, phosphatidylinositol-3-kinase (PI3K)/mammalian target of rapamycin (mTOR) expression were activated, and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) expression was upregulated in the EX-PD group. Conclusions: the adaptive mechanism of regular aerobic exercise delaying neurodegenerative diseases and lesions was that miR-3557/324 was activated to regulate one of its targets CaMKs signaling pathways. CaMKs, coordinated with mTOR pathway-related gene expression, improved UCH-L1 level to favor for delaying neurodegeneration or improving the pathogenesis of PD lesions.
+31309116_139	109	121	miR-3557/324	Rna-noncoding
+31309116_139	171	190	Parkinson's disease	Disease	DOID:14330
+31309116_139	192	194	PD	Disease	DOID:14330
+31309116_139	268	270	PD	Disease
+31309116_139	282	284	PD	Disease
+31309116_139	315	317	PD	Disease
+31309116_139	328	330	PD	Disease
+31309116_139	386	403	6-hydroxydopamine	Drug	CHEMBL337702
+31309116_139	386	432	6-hydroxydopamine- (6-OHDA-) induced PD lesion	Disease	not found
+31309116_139	406	412	6-OHDA	Drug	CHEMBL337702
+31309116_139	529	535	6-OHDA	Drug
+31309116_139	529	546	6-OHDA-induced PD	Disease	not found
+31309116_139	591	616	apomorphine hydrochloride	Drug	CHEMBL1616
+31309116_139	816	824	Tyrosine	Chemical
+31309116_139	816	836	Tyrosine hydroxylase	Gene-protein
+31309116_139	816	869	Tyrosine hydroxylase (TH) was increased significantly	Biomarker
+31309116_139	816	916	Tyrosine hydroxylase (TH) was increased significantly and α-synuclein protein expression was reduced	Collection
+31309116_139	838	840	TH	Gene-protein
+31309116_139	874	885	α-synuclein	Gene-protein
+31309116_139	874	916	α-synuclein protein expression was reduced	Biomarker
+31309116_139	924	929	EX-PD	Disease	not found
+31309116_139	956	958	PD	Disease
+31309116_139	1021	1045	upregulation of miR-3557	Biomarker
+31309116_139	1021	1075	upregulation of miR-3557 and downregulation of miR-324	Collection
+31309116_139	1035	1045	f miR-3557	Rna-noncoding
+31309116_139	1050	1075	downregulation of miR-324	Biomarker
+31309116_139	1068	1075	miR-324	Rna-noncoding
+31309116_139	1104	1111	calcium	Chemical
+31309116_139	1104	1140	calcium-modulating signaling pathway	Biomarker
+31309116_139	1168	1187	Parkinson's disease	Disease
+31309116_139	1229	1231	PD	Disease
+31309116_139	1239	1243	Ca²⁺	Chemical
+31309116_139	1239	1282	Ca²⁺/calmodulin dependent protein kinase II	Gene-protein
+31309116_139	1239	1307	Ca²⁺/calmodulin dependent protein kinase II (CaMK2α) was upregulated	Biomarker
+31309116_139	1239	1415	Ca²⁺/calmodulin dependent protein kinase II (CaMK2α) was upregulated, but CaMKV and voltage-dependent anion-selective channel protein 1 (Vdac1) were significantly downregulated	Collection
+31309116_139	1284	1290	CaMK2α	Gene-protein
+31309116_139	1313	1318	CaMKV	Gene-protein
+31309116_139	1313	1415	CaMKV and voltage-dependent anion-selective channel protein 1 (Vdac1) were significantly downregulated	Biomarker
+31309116_139	1323	1374	voltage-dependent anion-selective channel protein 1	Gene-protein
+31309116_139	1376	1381	Vdac1	Gene-protein
+31309116_139	1423	1428	EX-PD	Disease
+31309116_139	1450	1470	phosphatidylinositol	Chemical
+31309116_139	1450	1479	phosphatidylinositol-3-kinase	Genefamily
+31309116_139	1450	1549	phosphatidylinositol-3-kinase (PI3K)/mammalian target of rapamycin (mTOR) expression were activated	Biomarker
+31309116_139	1450	1630	phosphatidylinositol-3-kinase (PI3K)/mammalian target of rapamycin (mTOR) expression were activated, and ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) expression was upregulated	Collection
+31309116_139	1481	1485	PI3K	Genefamily
+31309116_139	1487	1516	mammalian target of rapamycin	Genefamily
+31309116_139	1507	1516	rapamycin	Chemical
+31309116_139	1518	1522	mTOR	Gene-protein
+31309116_139	1555	1594	ubiquitin carboxy-terminal hydrolase L1	Gene-protein
+31309116_139	1555	1630	ubiquitin carboxy-terminal hydrolase L1 (UCH-L1) expression was upregulated	Biomarker
+31309116_139	1565	1572	carboxy	Chemical
+31309116_139	1596	1602	UCH-L1	Gene-protein
+31309116_139	1638	1643	EX-PD	Disease
+31309116_139	1724	1750	neurodegenerative diseases	Disease	DOID:1289
+31309116_139	1772	1784	miR-3557/324	Rna-noncoding
+31309116_139	1772	1784	miR-3557/324	Drug	not found, C000705991
+31309116_139	1830	1835	CaMKs	Gene-protein
+31309116_139	1856	1861	CaMKs	Genefamily
+31309116_139	1856	1916	CaMKs, coordinated with mTOR pathway-related gene expression	Biomarker
+31309116_139	1880	1884	mTOR	Gene-protein
+31309116_139	1918	1939	improved UCH-L1 level	Biomarker
+31309116_139	1927	1933	UCH-L1	Gene-protein
+31309116_139	1962	1979	neurodegeneration	Disease	DOID:1289
+31309116_139	2013	2015	PD	Disease
+

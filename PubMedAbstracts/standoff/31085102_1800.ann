@@ -1,0 +1,52 @@
+T1	Chemical 101 115	leukotriene A4
+T10	Drug 523 531	bestatin
+T11	Disease 544 547	CRC
+T12	Drug 558 566	Bestatin
+T13	Drug 693 701	bestatin
+T14	Chemical 745 749	LTB4
+T15	Disease 826 829	CRC
+T16	Disease 862 866	SCID
+#8	AnnotatorNotes T16	DOID:627
+T17	Disease 1007 1010	CRC
+T19	Drug 1120 1128	bestatin
+T2	Disease 174 181	cancers
+#11	AnnotatorNotes T2	DOID:162
+T20	Disease 1141 1144	CRC
+T21	Gene-Protein 1194 1199	LTA4H
+T23	Disease 1235 1238	CRC
+T3	Disease 193 210	colorectal cancer
+#15	AnnotatorNotes T3	DOID:9256
+T4	Disease 212 215	CRC
+T6	Disease 268 274	cancer
+#17	AnnotatorNotes T6	DOID:162
+T8	Drug 396 404	bestatin
+T9	Chemical 430 434	LTB4
+T5	Gene-Protein 127 132	LTA4H
+#1	AnnotatorNotes T5	HGNC:6710
+T18	Gene-Protein 101 125	leukotriene A4 hydrolase
+#2	AnnotatorNotes T18	HGNC:6710
+T22	Biomarker 79 141	overactivation of the leukotriene A4 hydrolase (LTA4H) pathway
+#3	AnnotatorNotes T4	DOID:9256
+T24	Collection 174 210	cancers, including colorectal cancer
+R1	Association Arg1:T22 Arg2:T24	
+T25	Gene-Protein 229 234	LTA4H
+T7	Drug-Class 295 307	chemotherapy
+T26	Biomarker 229 234	LTA4H
+T27	Drug-Class 379 394	LTA4H inhibitor
+T28	Gene-Protein 379 384	LTA4H
+#4	AnnotatorNotes T8	CHEMBL29292
+T29	Chemical 447 451	LTB4
+T30	Gene-Protein 476 481	LTA4H
+#5	AnnotatorNotes T12	CHEMBL538595
+T31	Gene-Protein 605 610	LTA4H
+T32	Gene-Protein 673 678	Ki-67
+#6	AnnotatorNotes T32	HGNC:7107
+T33	Disease 764 788	colorectal tumorigenesis
+R2	Response Arg1:T13 Arg2:T33	
+#7	AnnotatorNotes T33	DOID:9256
+T34	Gene-Protein 987 992	LTA4H
+T35	Chemical 1080 1084	LTB4
+T36	Biomarker 1194 1199	LTA4H
+#9	AnnotatorNotes T36	C079315
+R3	Association Arg1:T36 Arg2:T23	
+R4	Association Arg1:T26 Arg2:T6	

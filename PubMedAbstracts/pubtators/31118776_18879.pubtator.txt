@@ -1,0 +1,48 @@
+31118776_18879|t|RSS_IDENT_p_31118776_b_1_4_5
+31118776_18879|a| High-density lipoprotein cholesterol (HDL) is well known as a protective lipid for atherosclerosis, and can transport excess cholesterol from the periphery to the liver. Studies have demonstrated that it has antioxidant, anti-inflammatory, and anti-thrombotic effects, but that it also has a correlation with cancer incidence 21 – 24 such that that HDL increases cancer risk by 36% per 10 mg/L increase. There is also a positive correlation between HDL level and the prognosis of numerous cancers. 21 – 24 Moreover, HDL may directly or indirectly affect the incidence of colorectal tumors through several possible mechanisms. 25 – 29 HDL has been associated with increased levels of anti-inflammatory cytokines such as interleukin 10 (IL-10), that reduce production of pro-inflammatory agents such as IL-6 and tumor necrosis factor receptors, thereby inhibiting cell growth and proliferation as well as promoting apoptosis. 25 – 27 In addition, HDL levels are closely related to age-related macular degeneration (AMD), 30 – 32 dry eye (DE), 33 , 34 and cardiovascular disease (CVD). 35 And some reports have suggested that high HDL levels are associated with an increased risk of AMD 30 – 32 whereas low HDL levels are relevant to DE and CVD. 33 – 35 In our study, the CRC patients with ocular metastases had increased serum levels of HDL, which is opposite to the correlation between HDL and the incidence of CRC, but in line with the changes in some ocular diseases.
+31118776_18879	30	66	High-density lipoprotein cholesterol	Drug	D008076
+31118776_18879	68	71	HDL	Chemical
+31118776_18879	113	128	atherosclerosis	Disease	DOID:1936
+31118776_18879	155	166	cholesterol	Chemical
+31118776_18879	339	345	cancer	Disease	DOID:162
+31118776_18879	379	382	HDL	Chemical
+31118776_18879	379	382	HDL	Biomarker	D008076
+31118776_18879	393	399	cancer	Disease
+31118776_18879	479	482	HDL	Chemical
+31118776_18879	479	488	HDL level	Biomarker
+31118776_18879	519	526	cancers	Disease	DOID:162
+31118776_18879	546	549	HDL	Chemical
+31118776_18879	546	549	HDL	Biomarker
+31118776_18879	601	618	colorectal tumors	Disease	DOID:9256
+31118776_18879	664	667	HDL	Chemical
+31118776_18879	664	667	HDL	Biomarker
+31118776_18879	693	771	increased levels of anti-inflammatory cytokines such as interleukin 10 (IL-10)	Biomarker
+31118776_18879	713	740	anti-inflammatory cytokines	Genefamily	not found
+31118776_18879	749	763	interleukin 10	Gene-protein	HGNC:5962
+31118776_18879	765	770	IL-10	Gene-protein	HGNC:5962
+31118776_18879	831	835	IL-6	Gene-protein	HGNC:6018
+31118776_18879	840	871	tumor necrosis factor receptors	Genefamily	family:782
+31118776_18879	975	978	HDL	Chemical
+31118776_18879	975	985	HDL levels	Biomarker
+31118776_18879	1009	1041	age-related macular degeneration	Disease	DOID:10871
+31118776_18879	1009	1111	age-related macular degeneration (AMD), 30 – 32 dry eye (DE), 33 , 34 and cardiovascular disease (CVD)	Collection
+31118776_18879	1043	1046	AMD	Disease	DOID:10871
+31118776_18879	1057	1064	dry eye	Disease	DOID:10140
+31118776_18879	1066	1068	DE	Disease	DOID:10140
+31118776_18879	1083	1105	cardiovascular disease	Disease	DOID:1287
+31118776_18879	1107	1110	CVD	Disease	DOID:1287
+31118776_18879	1153	1168	high HDL levels	Biomarker
+31118776_18879	1158	1161	HDL	Chemical
+31118776_18879	1210	1213	AMD	Disease
+31118776_18879	1230	1244	low HDL levels	Biomarker
+31118776_18879	1234	1237	HDL	Chemical
+31118776_18879	1261	1263	DE	Disease
+31118776_18879	1261	1271	DE and CVD	Collection
+31118776_18879	1268	1271	CVD	Disease
+31118776_18879	1299	1334	CRC patients with ocular metastases	Disease	DOID:9256, DOID:2174	Conjunction
+31118776_18879	1339	1368	increased serum levels of HDL	Biomarker
+31118776_18879	1365	1368	HDL	Chemical
+31118776_18879	1415	1418	HDL	Biomarker
+31118776_18879	1415	1418	HDL	Chemical
+31118776_18879	1440	1443	CRC	Disease
+

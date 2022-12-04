@@ -1,0 +1,67 @@
+T0	Chemical 183 194	amino acids
+T1	Chemical 342 349	glucose
+T2	Disease 425 467	diabetic kidney disease in type 2 diabetes
+#4	AnnotatorNotes T2	D003928, DOID:9352
+T4	Chemical 536 549	triglycerides
+T5	Chemical 916 923	glucose
+T6	Disease 1044 1059	type 2 diabetes
+T7	Chemical 1150 1157	glucose
+T8	Chemical 1428 1438	creatinine
+T9	Disease 1486 1528	diabetic kidney disease in type 2 diabetes
+T11	Gene-Protein 59 66	ANGPTL8
+#1	AnnotatorNotes T11	HGNC:24933
+T12	Gene-Protein 30 57	Angiopoietin-like protein 8
+#2	AnnotatorNotes T12	HGNC:24933
+T13	Gene-Protein 83 94	betatrophin
+#6	AnnotatorNotes T13	HGNC:24933
+T14	Gene-Protein 96 103	lipasin
+#7	AnnotatorNotes T14	HGNC:24933
+T15	Gene-Protein 105 109	TD26
+#9	AnnotatorNotes T15	HGNC:24933
+T16	Gene-Protein 114 145	refeeding-induced fat and liver
+#10	AnnotatorNotes T16	HGNC:24933
+T17	Gene-Protein 147 151	RIFL
+#12	AnnotatorNotes T17	HGNC:24933
+T18	Gene-Protein 312 319	insulin
+#13	AnnotatorNotes T18	HGNC:6081
+T19	Chemical 332 337	lipid
+T20	Gene-Protein 502 509	ANGPTL8
+T21	Biomarker 502 509	ANGPTL8
+#14	AnnotatorNotes T21	C576683
+T22	Biomarker 536 561	triglycerides (TG) levels
+#15	AnnotatorNotes T22	D014280
+T23	Biomarker 563 597	TG levels were significantly lower
+T24	Chemical 563 565	TG
+T25	Gene-Protein 614 621	ANGPTL8
+T26	Biomarker 661 686	overexpression of ANGPTL8
+T27	Gene-Protein 679 686	ANGPTL8
+T28	Biomarker 697 718	increase in TG levels
+T29	Chemical 709 711	TG
+T30	Biomarker 817 850	ANGPTL8 were significantly higher
+T31	Gene-Protein 817 824	ANGPTL8
+T32	Disease 854 869	type 2 diabetic
+R1	Association Arg1:T30 Arg2:T32	
+T33	Biomarker 1007 1028	ANGPTL8 was increased
+T34	Gene-Protein 1007 1014	ANGPTL8
+R2	Association Arg1:T33 Arg2:T6	
+T35	Biomarker 1144 1157	blood glucose
+T36	Biomarker 1159 1209	homeostasis model assessment of insulin resistance
+T37	Biomarker 1224 1231	ANGPTL8
+T38	Gene-Protein 1224 1231	ANGPTL8
+T39	Disease 1235 1250	type 2 diabetic
+T40	Biomarker 1339 1378	increased circulating levels of ANGPTL8
+T41	Gene-Protein 1371 1378	ANGPTL8
+T42	Gene-Protein 1416 1423	albumin
+#8	AnnotatorNotes T42	HGNC:399
+A1	Conjunction T9
+A2	Conjunction T2
+T3	Biomarker 1410 1444	urine albumin-to- creatinine ratio
+R3	Association Arg1:T40 Arg2:T9	
+T10	Biomarker 276 295	endocrine regulator
+T43	Chemical 551 553	TG
+T44	Gene-Protein 1191 1198	insulin
+T45	Biomarker 312 330	insulin resistance
+#3	AnnotatorNotes T45	D007333
+#5	AnnotatorNotes T32	DOID:9352
+#11	AnnotatorNotes T6	DOID:9352
+T46	Biomarker 332 360	lipid and glucose metabolism

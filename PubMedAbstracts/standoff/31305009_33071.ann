@@ -1,0 +1,180 @@
+T1	Biomarker 43 64	RAS pathway mutations
+T11	Disease 597 609	t(17;19)‐ALL
+T13	Disease 691 703	t(17;19)‐ALL
+T16	Disease 828 839	t(1;19)‐ALL
+T18	Disease 933 944	t(1;19)‐ALL
+T2	Disease 68 80	t(17;19)‐ALL
+T20	Disease 1014 1026	t(17;19)‐ALL
+T21	Disease 1046 1057	t(1;19)‐ALL
+T23	Variant 1226 1230	G12S
+T24	Variant 1255 1260	S502P
+T25	Variant 1290 1294	Q61L
+T26	Variant 1362 1366	G12R
+T27	Variant 1412 1416	G12S
+T28	Variant 1439 1444	T940A
+T29	Variant 1504 1508	G12V
+T3	Disease 173 186	childhood ALL
+T30	Variant 1539 1543	G60V
+T31	Variant 1573 1577	A18D
+T32	Variant 1615 1619	V14L
+T33	Variant 1642 1648	E1699D
+T34	Variant 1688 1692	G12D
+T35	Variant 1720 1724	V14I
+T36	Disease 1847 1859	t(17;19)‐ALL
+T39	Disease 1878 1889	t(1;19)‐ALL
+T4	Biomarker 228 260	gene mutation in the RAS pathway
+T41	Disease 1943 1955	t(17;19)‐ALL
+T42	Disease 1979 1990	t(1;19)‐ALL
+T43	Drug 2050 2061	Selumetinib
+T44	Drug 2086 2097	Selumetinib
+T45	Disease 2119 2131	t(17;19)‐ALL
+T48	Disease 2147 2158	t(1;19)‐ALL
+T49	Drug 2195 2206	Selumetinib
+T5	Disease 308 320	t(17;19)‐ALL
+T50	Disease 2415 2427	t(17;19)‐ALL
+T51	Disease 2432 2443	t(1;19)‐ALL
+T55	Disease 2501 2511	(1;19)‐ALL
+T57	Biomarker 2528 2548	RAS pathway mutation
+T58	Drug 2604 2609	L‐Asp
+T59	Drug 2629 2634	L‐Asp
+T60	Drug 2656 2660	Pred
+T61	Drug 2667 2672	L‐Asp
+T62	Disease 2715 2789	t(17;19)‐ ALL cell lines, t(1;19)‐ALL cell lines with RAS pathway mutation
+T7	Disease 399 411	t(17;19)‐ALL
+T9	Disease 416 427	t(1;19)‐ALL
+#53	AnnotatorNotes T9	not found
+#1	AnnotatorNotes T2	not found
+R1	Association Arg1:T1 Arg2:T2	
+T72	GeneFamily 43 46	RAS
+#3	AnnotatorNotes T72	family:389
+T73	Biomarker 107 139	gene mutation in the RAS pathway
+T74	GeneFamily 128 131	RAS
+#5	AnnotatorNotes T3	D054198
+R2	Association Arg1:T4 Arg2:T5	
+T6	GeneFamily 348 351	RAS
+T75	Gene-Protein 367 371	KRAS
+#6	AnnotatorNotes T75	HGNC:6407
+T76	Gene-Protein 373 377	NRAS
+#7	AnnotatorNotes T76	HGNC:7989
+T77	Gene-Protein 379 385	PTPN11
+#8	AnnotatorNotes T77	HGNC:9644
+T78	Gene-Protein 391 394	NF1
+#9	AnnotatorNotes T78	HGNC:7765
+T8	Gene-Protein 508 514	PTPN11
+T10	Gene-Protein 522 526	KRAS
+T79	Gene-Protein 516 520	NRAS
+T80	Gene-Protein 532 535	NF1
+T12	Biomarker 495 526	Mutations in PTPN11, NRAS, KRAS
+R3	Association Arg1:T12 Arg2:T11	
+T81	Biomarker 640 668	gene mutation in RAS pathway
+T82	GeneFamily 657 660	RAS
+R4	Association Arg1:T81 Arg2:T13	
+T14	Gene-Protein 742 748	PTPN11
+T83	Gene-Protein 750 754	NRAS
+T84	Gene-Protein 756 760	KRAS
+T85	Gene-Protein 766 769	NF1
+T15	Biomarker 750 754	NRAS
+#2	AnnotatorNotes T15	C579846
+T86	Biomarker 756 760	KRAS
+#4	AnnotatorNotes T86	C117307
+T87	Biomarker 766 769	NF1
+#10	AnnotatorNotes T87	C000630044
+T88	Collection 750 769	NRAS, KRAS, and NF1
+R5	Association Arg1:T88 Arg2:T16	
+T17	Biomarker 870 898	gene mutation in RAS pathway
+T89	GeneFamily 887 890	RAS
+R6	Association Arg1:T17 Arg2:T18	
+T19	Biomarker 970 1010	RAS pathway mutation tended to be higher
+T90	GeneFamily 970 973	RAS
+R7	Association Arg1:T19 Arg2:T20	
+T91	Biomarker 1109 1129	RAS pathway mutation
+T92	GeneFamily 1109 1112	RAS
+T22	Biomarker 1179 1196	Codon AA t(17;19)
+T93	CellLine 1197 1202	HALO1
+T94	Gene-Protein 1203 1207	NRAS
+#12	AnnotatorNotes T23	p.Gly12Ser
+T96	Gene-Protein 1231 1237	PTPN11
+#15	AnnotatorNotes T24	p.Ser502Pro
+T98	CellLine 1261 1266	YCUB2
+T99	Gene-Protein 1267 1271	NRAS
+#18	AnnotatorNotes T25	p.Gln61Leu
+T101	CellLine 1295 1302	Endokun
+T102	Gene-Protein 1303 1307	KRAS
+T104	Variant 1327 1332	G13VG
+T105	CellLine 1333 1337	UOCB
+T106	Gene-Protein 1339 1343	KRAS
+#19	AnnotatorNotes T26	p.Gly12Arg
+T108	Biomarker 1367 1374	t(1;19)
+T109	CellLine 1382 1388	KOPN34
+T110	Gene-Protein 1389 1393	NRAS
+#20	AnnotatorNotes T28	p.Thr940Ala
+T113	CellLine 1445 1451	KOPN36
+T114	CellLine 1452 1458	KOPN54
+T115	CellLine 1459 1465	KOPN60
+T116	CellLine 1466 1472	KOPN63
+T117	CellLine 1473 1480	YAMN90R
+T118	Gene-Protein 1481 1485	KRAS
+#21	AnnotatorNotes T29	p.Gly12Val
+T120	CellLine 1509 1515	YAMN92
+T121	Gene-Protein 1516 1520	NRAS
+#22	AnnotatorNotes T30	p.Gly60Val
+T123	CellLine 1544 1549	YCUB6
+T124	CellLine 1375 1381	KOPN‐K
+T125	Gene-Protein 1550 1554	KRAS
+#25	AnnotatorNotes T31	p.Ala18Asp
+T127	CellLine 1578 1583	YCUB8
+T128	CellLine 1584 1591	Kasumi2
+T129	Gene-Protein 1592 1596	KRAS
+#26	AnnotatorNotes T32	p.Val14Leu
+T131	Gene-Protein 1620 1623	NF1
+#27	AnnotatorNotes T33	p.Glu1699Asp
+T133	CellLine 1649 1653	THP4
+T134	CellLine 1654 1660	SCMCL1
+T135	Gene-Protein 1665 1669	NRAS
+#28	AnnotatorNotes T34	p.Gly12Asp
+T137	CellLine 1693 1696	RCH
+T138	Gene-Protein 1697 1701	KRAS
+#31	AnnotatorNotes T35	p.Val14Ile
+T140	Biomarker 1780 1800	RAS pathway mutation
+T141	GeneFamily 1780 1783	RAS
+T142	GeneFamily 1827 1830	RAS
+#14	AnnotatorNotes T43	CHEMBL1614701
+T37	Biomarker 2244 2257	KRAS mutation
+T38	Gene-Protein 2244 2248	KRAS
+T40	Biomarker 2328 2341	KRAS mutation
+T46	Gene-Protein 2328 2332	KRAS
+R22	Association Arg1:T57 Arg2:T55	
+T47	GeneFamily 2528 2531	RAS
+T52	Drug 2589 2593	Pred
+#16	AnnotatorNotes T52	CHEMBL131
+T53	Drug 2595 2598	VCR
+#17	AnnotatorNotes T53	CHEMBL90555
+#24	AnnotatorNotes T58	CHEMBL2108989
+T54	Drug 2624 2627	VCR
+T56	Drug 2618 2622	Pred
+T143	Drug 2640 2643	DNR
+#23	AnnotatorNotes T143	 CHEMBL178
+T144	Drug 2662 2665	VCR
+T145	Drug 2674 2677	DNR
+T146	Drug 2683 2686	MAF
+#29	AnnotatorNotes T146	CHEMBL59990
+T64	GeneFamily 2769 2772	RAS
+#30	AnnotatorNotes T62	not found
+T63	Gene-Protein 2826 2829	RAS
+T65	Disease 2795 2806	t(1;19)‐ALL
+T67	Biomarker 2769 2789	RAS pathway mutation
+R11	Variant-Of Arg1:T102 Arg2:T104	
+R8	Variant-Of Arg1:T94 Arg2:T23	
+R24	Variant-Of Arg1:T96 Arg2:T24	
+R9	Variant-Of Arg1:T99 Arg2:T25	
+R10	Variant-Of Arg1:T118 Arg2:T29	
+R15	Variant-Of Arg1:T121 Arg2:T30	
+R12	Variant-Of Arg1:T106 Arg2:T26	
+R13	Variant-Of Arg1:T110 Arg2:T27	
+T69	Gene-Protein 1417 1420	NF1
+R14	Variant-Of Arg1:T69 Arg2:T28	
+R16	Variant-Of Arg1:T125 Arg2:T31	
+R17	Variant-Of Arg1:T129 Arg2:T32	
+R18	Variant-Of Arg1:T131 Arg2:T33	
+R19	Variant-Of Arg1:T135 Arg2:T34	
+R20	Variant-Of Arg1:T138 Arg2:T35	

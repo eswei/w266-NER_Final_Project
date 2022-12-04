@@ -1,0 +1,60 @@
+31182914_34316|t|RSS_IDENT_p_31182914_b_1_4_3
+31182914_34316|a| As a major substrate of mTORC1, 4EBP1 plays an essential role in the regulation of cancer cell proliferation and survival by controlling translation initiation of oncogenic mRNAs. The weak inhibition of 4EBP1 phosphorylation has been reported to be involved in rapamycin resistance in certain cancer cells 33 . Choo et al. first reported that rapamycin differentially inhibits S6Ks and 4EBP1; specifically, rapamycin persistently represses p70S6K activity but only transiently attenuates 4EBP1 phosphorylation 34 . In acute myeloid leukemia (AML), PIM2-mediated 4EBP1 phosphorylation contributes to the limited repression of rapamycin on cell survival 35 . In renal cell carcinoma (RCC), overexpressed GSK-3β leads to weak inhibition of 4EBP1 phosphorylation by rapamycin and combination of GSK-3β inhibitor and rapamycin remarkably suppressed 4EBP1 phosphorylation and cell proliferation 36 . In breast cancer, the feedback activation of AKT is responsible for the limited inhibition of rapamycin on 4EBP1 phosphorylation and AKT inhibition dramatically enhances the inhibitory effect of rapamycin on 4EBP1 phosphorylation and cancer cell proliferation 16 . In contrast, we found that AKT only partially contributes to the re-phosphorylation of 4EBP1, since LY294002 the inhibitor of PI3K, upstream of AKT, exhibited the more potent role than MK2206 the AKT inhibitor in enhancing the repression of RAD001 on 4EBP1 phosphorylation. This observation suggested that there were other kinases acting as downstream of PI3K that mediated the re-phosphorylation of 4EBP1 induced by RAD001 in coordination with AKT. By taking advantage of phosphoproteomic analysis, we identified SGK3 as a potent kinase involved in the re-phosphorylation of 4EBP1 induced by RAD001.
+31182914_34316	54	60	mTORC1	Genefamily	family:1332
+31182914_34316	62	67	4EBP1	Gene-protein	HGNC:3288
+31182914_34316	62	67	4EBP1	Biomarker	C087000
+31182914_34316	113	119	cancer	Disease	DOID:162
+31182914_34316	214	254	weak inhibition of 4EBP1 phosphorylation	Biomarker
+31182914_34316	233	238	4EBP1	Gene-protein
+31182914_34316	291	300	rapamycin	Drug	CHEMBL413
+31182914_34316	323	329	cancer	Disease
+31182914_34316	373	382	rapamycin	Drug
+31182914_34316	407	411	S6Ks	Gene-protein	HGNC:10437
+31182914_34316	416	421	4EBP1	Gene-protein
+31182914_34316	437	446	rapamycin	Drug
+31182914_34316	470	476	p70S6K	Gene-protein	HGNC:10437
+31182914_34316	518	523	4EBP1	Gene-protein
+31182914_34316	548	570	acute myeloid leukemia	Disease	DOID:9119
+31182914_34316	572	575	AML	Disease	DOID:9119
+31182914_34316	578	582	PIM2	Gene-protein	 HGNC:8987
+31182914_34316	578	613	PIM2-mediated 4EBP1 phosphorylation	Biomarker
+31182914_34316	592	597	4EBP1	Gene-protein
+31182914_34316	655	664	rapamycin	Drug
+31182914_34316	690	710	renal cell carcinoma	Disease	DOID:4450
+31182914_34316	712	715	RCC	Disease	DOID:4450
+31182914_34316	732	738	GSK-3β	Gene-protein	HGNC:4617
+31182914_34316	767	772	4EBP1	Gene-protein
+31182914_34316	792	801	rapamycin	Drug
+31182914_34316	821	827	GSK-3β	Gene-protein
+31182914_34316	821	837	GSK-3β inhibitor	Drug-class
+31182914_34316	842	851	rapamycin	Drug
+31182914_34316	874	879	4EBP1	Gene-protein
+31182914_34316	927	940	breast cancer	Disease	DOID:1612
+31182914_34316	946	972	feedback activation of AKT	Biomarker
+31182914_34316	969	972	AKT	Genefamily	family:1900
+31182914_34316	1018	1027	rapamycin	Drug
+31182914_34316	1031	1036	4EBP1	Gene-protein
+31182914_34316	1057	1060	AKT	Genefamily
+31182914_34316	1057	1071	AKT inhibition	Drug	not found
+31182914_34316	1119	1128	rapamycin	Drug
+31182914_34316	1132	1137	4EBP1	Gene-protein
+31182914_34316	1158	1164	cancer	Disease
+31182914_34316	1216	1219	AKT	Genefamily
+31182914_34316	1276	1281	4EBP1	Gene-protein
+31182914_34316	1289	1297	LY294002	Drug	CHEMBL98350
+31182914_34316	1302	1319	inhibitor of PI3K	Drug-class
+31182914_34316	1315	1319	PI3K	Genefamily	family:831
+31182914_34316	1333	1336	AKT	Genefamily
+31182914_34316	1374	1380	MK2206	Drug	CHEMBL1079175
+31182914_34316	1385	1388	AKT	Genefamily
+31182914_34316	1385	1398	AKT inhibitor	Drug-class
+31182914_34316	1430	1436	RAD001	Drug	C53H83NO14
+31182914_34316	1440	1445	4EBP1	Gene-protein
+31182914_34316	1544	1548	PI3K	Genefamily
+31182914_34316	1589	1594	4EBP1	Gene-protein
+31182914_34316	1606	1612	RAD001	Drug
+31182914_34316	1634	1637	AKT	Genefamily
+31182914_34316	1703	1707	SGK3	Gene-protein	HGNC:10812
+31182914_34316	1765	1770	4EBP1	Gene-protein
+31182914_34316	1782	1788	RAD001	Drug
+

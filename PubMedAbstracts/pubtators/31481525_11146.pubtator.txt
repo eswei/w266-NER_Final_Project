@@ -1,0 +1,102 @@
+31481525_11146|t|RSS_IDENT_s_31481525_b_1_4
+31481525_11146|a| Discussion Stroke is an important reason for human disability, suffering and death. A lot of studies showed acute local inflammation is the characteristic of ischemic damage [ 8 ]. Highly expressed inflammatory markers can affect the development of ischemic vascular disease. In the occurrence and development of atherosclerosis, inflammation plays an important role [ 9 ]. Atherosclerosis often leads to IS because of the inflammation of blood vessels. So pro-inflammatory genes are quite important in the development of IS [ 10 ]. IL-17 consists of 155 amino acids and its molecular weight is ∼20 kDa. IL-17 can regulate inflammatory responses in many tissues. It can induce inflammation-related genes, such as IL-6 and leukemia inhibitory factor. IL-17 receptor family contains IL-17RA, IL-17RB, IL-17RC, IL-17RD and IL-17RE. IL-17 can play a physiological role only after binding to the receptor, while IL-17R can be expressed in endothelial cells. IL-17 can combine with IL-17R to activate NF-κβ and P-38, which then enhance the secretion of IL-6 and IL-8. Other studies have shown that IL-17 alone or combination with IL-1 and TNF-α can induce the synthesis of IL-6 and IL-8 in fibroblast-like synovial cells. IL-17C often acts on epithelial cells by secretion to enhance inflammatory cytokines levels, antimicrobial peptides and anti-apoptotic factors [ 11 ]. Studies have shown that respiratory epithelial cells can secrete IL-17C and promote the expression of human beta-defensin 2 (hBD2), CSF and S100A12 by autocrine and paracrine modes [ 6 , 12 ]. IL-17 can combined with its receptor to promote the formation of atherosclerotic plaques, while atherosclerosis is closely related with the occurrence of IS [ 13 ]. In our study, we used qRT-PCR to determine the relative mRNA levels of IL-17, IL-17RC, IL-6, IL-8, G-CSF and GM-CSF in serum samples from IS patients and the control healthy. Results showed the relative mRNA levels of IL-17, IL-17RC, IL-6, IL-8, G-CSF and GM-CSF in IS samples were significantly higher than those in the control, which indicated IS up-regulates IL-17 expression, which combined with IL-17RC to secret IL-6, IL-8, G-CSF and GM-CSF. Western blotting further verified the increased protein expression of IL-17 and IL-17RC in IS. Therefore, we speculated IL-17RC gene polymorphism may be related with the development of IS. Results of PCR amplification showed IL-17RC rs376511 was evident in IS group compared with the control. The percent of rs376511 in IS patients was markedly higher than that in the control group, while IL-17RC in IS patients was less. So we speculated IL-17RC rs376511 may influence the treatment effect and prognosis of IS. Our research showed treatment on patients with IL-17RC was well, while treatment on rs376511 was poor. The treatment effect on patients with SNP was between the effect of IL-17RC and SNP. After follow-up visits for 3 years, we obtained the death percent of patients with rs376511 which was much higher than IL-17RC and SNP, and the recrudescence percent of patients with rs376511 was 37.3%, which was higher than that with IL-17RC (18.1%) and SNP (17.2%).
+31481525_11146	39	45	Stroke	Disease	DOID:6713
+31481525_11146	136	160	acute local inflammation	Biomarker
+31481525_11146	186	201	ischemic damage	Disease	DOID:326
+31481525_11146	209	246	Highly expressed inflammatory markers	Biomarker
+31481525_11146	277	302	ischemic vascular disease	Disease	DOID:3393
+31481525_11146	341	356	atherosclerosis	Disease	DOID:1936
+31481525_11146	358	370	inflammation	Biomarker	D007249
+31481525_11146	402	417	Atherosclerosis	Biomarker	D050197
+31481525_11146	433	435	IS	Disease	DOID:6713
+31481525_11146	451	463	inflammation	Disease	D007249
+31481525_11146	485	507	pro-inflammatory genes	Biomarker
+31481525_11146	550	552	IS	Disease
+31481525_11146	561	566	IL-17	Gene-protein	HGNC:5981
+31481525_11146	632	637	IL-17	Gene-protein
+31481525_11146	705	717	inflammation	Disease
+31481525_11146	741	745	IL-6	Gene-protein	HGNC:6018
+31481525_11146	750	776	leukemia inhibitory factor	Gene-protein	HGNC:6596
+31481525_11146	778	792	IL-17 receptor	Genefamily	not found
+31481525_11146	809	816	IL-17RA	Gene-protein	HGNC:5985
+31481525_11146	818	825	IL-17RB	Gene-protein	HGNC:18015
+31481525_11146	827	834	IL-17RC	Gene-protein	HGNC:18358
+31481525_11146	836	843	IL-17RD	Gene-protein	HGNC:17616
+31481525_11146	848	855	IL-17RE	Gene-protein	HGNC:18439
+31481525_11146	857	862	IL-17	Gene-protein
+31481525_11146	935	941	IL-17R	Gene-protein	HGNC:5985
+31481525_11146	981	986	IL-17	Gene-protein
+31481525_11146	1004	1010	IL-17R	Gene-protein
+31481525_11146	1023	1028	NF-κβ	Genefamily	family:1254
+31481525_11146	1033	1037	P-38	Gene-protein	HGNC:6873
+31481525_11146	1075	1079	IL-6	Gene-protein
+31481525_11146	1084	1088	IL-8	Gene-protein	HGNC:6025
+31481525_11146	1120	1125	IL-17	Gene-protein
+31481525_11146	1152	1156	IL-1	Gene-protein	HGNC:5991
+31481525_11146	1161	1166	TNF-α	Gene-protein	HGNC:11892
+31481525_11146	1195	1199	IL-6	Gene-protein
+31481525_11146	1204	1208	IL-8	Gene-protein
+31481525_11146	1244	1250	IL-17C	Gene-protein	HGNC:5983
+31481525_11146	1306	1328	inflammatory cytokines	Genefamily	not found
+31481525_11146	1337	1359	antimicrobial peptides	Genefamily	not found
+31481525_11146	1460	1466	IL-17C	Gene-protein	HGNC:5983
+31481525_11146	1497	1518	human beta-defensin 2	Gene-protein	HGNC:2767
+31481525_11146	1520	1524	hBD2	Gene-protein	HGNC:2767
+31481525_11146	1527	1530	CSF	Genefamily	not found
+31481525_11146	1535	1542	S100A12	Gene-protein	HGNC:10489
+31481525_11146	1588	1593	IL-17	Biomarker
+31481525_11146	1588	1593	IL-17	Gene-protein
+31481525_11146	1653	1668	atherosclerotic	Disease	DOID:1936
+31481525_11146	1684	1699	atherosclerosis	Biomarker	D050197
+31481525_11146	1742	1744	IS	Disease
+31481525_11146	1809	1885	mRNA levels of IL-17, IL-17RC, IL-6, IL-8, G-CSF and GM-CSF in serum samples	Biomarker
+31481525_11146	1824	1829	IL-17	Gene-protein
+31481525_11146	1831	1838	IL-17RC	Gene-protein	HGNC:18358
+31481525_11146	1840	1844	IL-6	Gene-protein
+31481525_11146	1846	1850	IL-8	Gene-protein
+31481525_11146	1852	1857	G-CSF	Gene-protein	HGNC:2438
+31481525_11146	1862	1868	GM-CSF	Gene-protein	HGNC:2434
+31481525_11146	1891	1893	IS	Disease
+31481525_11146	1947	2015	relative mRNA levels of IL-17, IL-17RC, IL-6, IL-8, G-CSF and GM-CSF	Biomarker
+31481525_11146	1971	1976	IL-17	Gene-protein
+31481525_11146	1978	1985	IL-17RC	Gene-protein
+31481525_11146	1987	1991	IL-6	Gene-protein
+31481525_11146	1993	1997	IL-8	Gene-protein
+31481525_11146	1999	2004	G-CSF	Gene-protein
+31481525_11146	2009	2015	GM-CSF	Gene-protein
+31481525_11146	2019	2021	IS	Disease
+31481525_11146	2099	2101	IS	Disease
+31481525_11146	2115	2120	IL-17	Gene-protein
+31481525_11146	2153	2160	IL-17RC	Gene-protein
+31481525_11146	2171	2175	IL-6	Gene-protein
+31481525_11146	2177	2181	IL-8	Gene-protein
+31481525_11146	2183	2188	G-CSF	Gene-protein
+31481525_11146	2193	2199	GM-CSF	Gene-protein
+31481525_11146	2239	2288	increased protein expression of IL-17 and IL-17RC	Biomarker
+31481525_11146	2271	2276	IL-17	Gene-protein
+31481525_11146	2281	2288	IL-17RC	Gene-protein
+31481525_11146	2292	2294	IS	Disease
+31481525_11146	2321	2328	IL-17RC	Gene-protein
+31481525_11146	2321	2346	IL-17RC gene polymorphism	Biomarker
+31481525_11146	2386	2388	IS	Disease
+31481525_11146	2426	2433	IL-17RC	Gene-protein
+31481525_11146	2434	2442	rs376511	Variant
+31481525_11146	2458	2460	IS	Disease
+31481525_11146	2509	2517	rs376511	Biomarker
+31481525_11146	2521	2523	IS	Disease
+31481525_11146	2591	2598	IL-17RC	Biomarker
+31481525_11146	2591	2598	IL-17RC	Gene-protein
+31481525_11146	2602	2604	IS	Disease
+31481525_11146	2641	2648	IL-17RC	Gene-protein
+31481525_11146	2649	2657	rs376511	Variant
+31481525_11146	2710	2712	IS	Disease
+31481525_11146	2761	2768	IL-17RC	Gene-protein
+31481525_11146	2798	2806	rs376511	Variant
+31481525_11146	2885	2892	IL-17RC	Gene-protein
+31481525_11146	2985	2993	rs376511	Variant
+31481525_11146	3021	3028	IL-17RC	Gene-protein
+31481525_11146	3021	3036	IL-17RC and SNP	Biomarker
+31481525_11146	3085	3093	rs376511	Biomarker
+31481525_11146	3137	3144	IL-17RC	Gene-protein
+31481525_11146	3157	3160	SNP	Chemical
+

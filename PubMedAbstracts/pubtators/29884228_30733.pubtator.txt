@@ -1,0 +1,39 @@
+29884228_30733|t|RSS_IDENT_p_29884228_b_1_4_7
+29884228_30733|a| Although ADMA is emerging as a biomarker of CVD, the implications of elevated circulating SDMA are not well understood. Recent reports, including our group’s, have shown an association between elevated plasma SDMA levels and higher mortality in patients with CVD [ 17 – 19 ]. It has been shown that association of SDMA with CVD risk factors, in particular with hypertension, may arise from compromised renal function [ 17 – 19 ], given that SDMA is eliminated by renal excretion and has been shown to be a marker of estimated glomerular filtration rate [ 22 ]. However, multivariable logistic regression analysis (Table 3), adjusted for glomerular filtration rate and plasma creatinine level, demonstrated that elevated SDMA was associated with hypertension in the RA cohort independent of renal function. SDMA interquartile analysis (Table 4) further demonstrated that patients in the highest SDMA quartile had a significantly higher prevalence of hypertension and hyperlipidemia than those in the lowest SDMA quartile. ADMA, ArgMI, and GABR, which have recently emerged as candidate biomarkers of CV risk [ 14 , 16 , 18 , 20 , 23 ], failed to show significant changes in any of the traditional CVD risk factors analyzed. Our results suggest that SDMA potentially functions as a biomarker of cardiovascular risk factors in RA. More studies are needed to gain an understanding of the underlying mechanisms that link SDMA specifically to hypertension and hyperlipidemia in patients with RA. 
+29884228_30733	39	43	ADMA	Chemical
+29884228_30733	39	43	ADMA	Biomarker	C018524
+29884228_30733	74	77	CVD	Disease	DOID:1287
+29884228_30733	120	124	SDMA	Chemical
+29884228_30733	223	243	elevated plasma SDMA	Biomarker
+29884228_30733	239	243	SDMA	Chemical
+29884228_30733	289	292	CVD	Disease
+29884228_30733	344	348	SDMA	Chemical
+29884228_30733	344	348	SDMA	Biomarker	C024917
+29884228_30733	354	357	CVD	Disease
+29884228_30733	354	404	CVD risk factors, in particular with hypertension,	Collection
+29884228_30733	391	403	hypertension	Disease	DOID:10763
+29884228_30733	471	475	SDMA	Chemical
+29884228_30733	705	715	creatinine	Chemical
+29884228_30733	741	769	elevated SDMA was associated	Biomarker
+29884228_30733	750	754	SDMA	Chemical
+29884228_30733	775	787	hypertension	Disease
+29884228_30733	775	797	hypertension in the RA	Collection
+29884228_30733	795	797	RA	Disease	DOID:7148
+29884228_30733	836	840	SDMA	Chemical
+29884228_30733	924	928	SDMA	Chemical
+29884228_30733	979	991	hypertension	Disease
+29884228_30733	996	1010	hyperlipidemia	Disease	DOID:1168
+29884228_30733	1036	1040	SDMA	Chemical
+29884228_30733	1051	1055	ADMA	Chemical
+29884228_30733	1051	1055	ADMA	Biomarker
+29884228_30733	1057	1062	ArgMI	Biomarker
+29884228_30733	1068	1072	GABR	Biomarker
+29884228_30733	1226	1229	CVD	Disease
+29884228_30733	1278	1282	SDMA	Chemical
+29884228_30733	1278	1282	SDMA	Biomarker
+29884228_30733	1354	1356	RA	Disease
+29884228_30733	1446	1450	SDMA	Chemical
+29884228_30733	1467	1479	hypertension	Disease
+29884228_30733	1484	1498	hyperlipidemia	Disease
+29884228_30733	1516	1518	RA	Disease
+

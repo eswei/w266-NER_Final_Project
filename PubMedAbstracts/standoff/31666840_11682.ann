@@ -1,0 +1,48 @@
+T1	Disease 103 106	PHT
+T10	Disease 576 593	vascular diseases
+#2	AnnotatorNotes T10	DOID:178
+T12	Disease 754 776	pulmonary hypertension
+T14	Gene-Protein 824 835	pentraxin 3
+T15	Gene-Protein 907 918	pentraxin 3
+T17	Gene-Protein 1018 1028	Pentraxin3
+T22	Biomarker 1232 1235	PAP
+T3	Disease 193 215	pulmonary hypertension
+#12	AnnotatorNotes T3	DOID:6432
+T5	Gene-Protein 398 408	pentraxin3
+T8	Gene-Protein 533 544	pentraxin 3
+#1	AnnotatorNotes T5	HGNC:9692
+T2	Gene-Protein 490 501	pentraxin 3
+T4	Biomarker 66 99	hs-CRP was significantly elevated
+R1	Association Arg1:T4 Arg2:T1	
+T7	Biomarker 133 145	inflammation
+#4	AnnotatorNotes T7	D007249
+R2	Association Arg1:T7 Arg2:T3	
+T9	Biomarker 533 544	pentraxin 3
+R3	Association Arg1:T9 Arg2:T10	
+T11	Biomarker 840 846	hs-CRP
+T13	Biomarker 818 835	serum pentraxin 3
+T18	Biomarker 1143 1162	hs-CRP is increased
+T20	GeneFamily 253 269	short pentraxins
+#5	AnnotatorNotes T20	family:1143
+T25	Biomarker 484 501	serum pentraxin 3
+#3	AnnotatorNotes T1	DOID:6432
+T26	Disease 308 320	inflammation
+#6	AnnotatorNotes T26	D007249
+T27	Biomarker 1018 1028	Pentraxin3
+T23	Disease 622 634	inflammation
+T28	Gene-Protein 923 926	CRP
+#7	AnnotatorNotes T28	HGNC:2367
+T29	Gene-Protein 1074 1080	hs-CRP
+T30	Gene-Protein 66 72	hs-CRP
+T31	Gene-Protein 232 238	hs-CRP
+#8	AnnotatorNotes T9	C077657
+T24	Gene-Protein 840 846	hs-CRP
+T32	Biomarker 449 452	PAP
+T33	Disease 725 737	inflammation
+T34	Biomarker 1065 1068	PAP
+T35	Biomarker 1074 1080	hs-CRP
+#9	AnnotatorNotes T11	D002097
+#10	AnnotatorNotes T30	HGNC:2367
+T21	Biomarker 232 294	hs-CRP is one of the short pentraxins and is strongly released
+R4	Association Arg1:T21 Arg2:T3	
+T6	Biomarker 930 933	PAP

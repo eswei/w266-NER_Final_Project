@@ -1,0 +1,72 @@
+T10	Disease 600 614	thyroid cancer
+#2	AnnotatorNotes T10	DOID:1781
+T13	Disease 730 743	breast cancer
+#4	AnnotatorNotes T13	DOID:1612
+T16	Disease 866 883	colorectal cancer
+#6	AnnotatorNotes T16	DOID:9256
+T18	Disease 1014 1029	cervical cancer
+T2	Disease 185 201	prostatic cancer
+#8	AnnotatorNotes T2	DOID:10283
+T5	Disease 332 346	bladder cancer
+#9	AnnotatorNotes T5	DOID:11054
+T7	Disease 418 433	cervical cancer
+#10	AnnotatorNotes T7	DOID:4362
+T8	Drug 503 515	Tanshinone I
+T3	RNA-Noncoding 87 94	miR-326
+#11	AnnotatorNotes T3	HGNC:31769
+T4	RNA-Noncoding 146 153	miR-326
+T6	Gene-Protein 109 113	ELK1
+#12	AnnotatorNotes T6	HGNC:3321
+T9	Gene-Protein 302 306	ELK1
+T11	Gene-Protein 236 240	ELK1
+T1	Gene-Protein 1100 1104	ELK1
+T14	Gene-Protein 447 451	ELK1
+T17	Gene-Protein 778 782	ELK1
+T19	Gene-Protein 1352 1356	ELK1
+T20	Gene-Protein 1068 1072	ELK1
+T21	Gene-Protein 569 573	ELK1
+T12	Gene-Protein 267 272	c-Fos
+#1	AnnotatorNotes T12	HGNC:3796
+T22	Gene-Protein 388 392	ELK1
+T23	RNA-Noncoding 1344 1351	miR-326
+T24	Gene-Protein 221 227	Mucin1
+#3	AnnotatorNotes T24	HGNC:7508
+T25	Drug 146 153	miR-326
+T26	Biomarker 302 306	ELK1
+T27	Biomarker 388 408	ELK1 over-expression
+R1	Association Arg1:T26 Arg2:T5	
+R2	Association Arg1:T27 Arg2:T7	
+T28	CellLine 536 540	HeLa
+#13	AnnotatorNotes T8	CHEMBL363535
+T29	Drug 555 573	Inhibition of ELK1
+#14	AnnotatorNotes T29	not found
+T30	Drug 635 658	Down-regulation of ELK1
+T31	Gene-Protein 654 658	ELK1
+T32	RNA-Noncoding 718 728	miR-135a i
+T33	Drug 718 726	miR-135a
+T34	GeneFamily 774 777	ERK
+#15	AnnotatorNotes T34	not found
+T35	Gene-Protein 783 788	Snail
+#16	AnnotatorNotes T35	HGNC:11128
+T36	Gene-Protein 857 862	CXCL5
+#17	AnnotatorNotes T36	HGNC:10642
+T37	Biomarker 756 806	activation of the ERK/ELK1/Snail signaling pathway
+T38	Biomarker 843 862	tumor-derived CXCL5
+R3	Association Arg1:T38 Arg2:T16	
+T15	Drug 971 997	hsa_circ_0000515 silencing
+#5	AnnotatorNotes T15	not found
+R4	Response Arg1:T15 Arg2:T18	
+T39	RNA-Noncoding 1050 1057	miR-326
+T40	GeneFamily 1155 1187	mitogen-activated protein kinase
+#7	AnnotatorNotes T40	family:651
+T41	GeneFamily 1189 1193	MAPK
+#18	AnnotatorNotes T41	family:651
+T42	GeneFamily 1296 1300	MAPK
+T43	Biomarker 1100 1104	ELK1
+T44	Biomarker 1155 1213	mitogen-activated protein kinase (MAPK) signaling pathways
+#19	AnnotatorNotes T25	C545322
+#20	AnnotatorNotes T26	C494112
+T45	RNA-Noncoding 50 66	hsa_circ_0000515
+T46	RNA-Noncoding 971 987	hsa_circ_0000515
+T47	RNA-Noncoding 1327 1343	hsa_circ_0000515
+R5	Response Arg1:T29 Arg2:T10	

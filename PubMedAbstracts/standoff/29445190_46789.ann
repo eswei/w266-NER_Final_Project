@@ -1,0 +1,54 @@
+T0	Disease 77 80	HCC
+T1	Disease 193 198	NAFLD
+#2	AnnotatorNotes T1	DOID:0080208
+T11	Disease 1147 1156	HCC tumor
+T2	Disease 200 219	alcoholic cirrhosis
+#6	AnnotatorNotes T2	DOID:14018
+T3	Disease 225 248	chronic viral hepatitis
+#7	AnnotatorNotes T3	DOID:1884
+T4	Disease 268 286	liver inflammation
+#8	AnnotatorNotes T4	DOID:10690
+T5	Chemical 343 346	DEN
+T6	Chemical 359 363	CCl₄
+T7	Disease 389 398	hepatitis
+#11	AnnotatorNotes T7	DOID:2237
+T8	Disease 524 553	TNF-driven liver inflammation
+#12	AnnotatorNotes T8	not found
+T9	Disease 845 854	HCC tumor
+#13	AnnotatorNotes T9	DOID:684
+#1	AnnotatorNotes T0	DOID:684
+T13	Gene-Protein 804 809	CCR10
+#3	AnnotatorNotes T13	HGNC:4474
+T14	Gene-Protein 811 816	P2RY8
+#5	AnnotatorNotes T14	HGNC:15524
+T15	Gene-Protein 818 823	ARRB1
+#9	AnnotatorNotes T15	HGNC:711
+T16	Gene-Protein 829 834	RGS10
+#10	AnnotatorNotes T16	 HGNC:9992
+T17	Gene-Protein 103 106	TNF
+#4	AnnotatorNotes T17	HGNC:11892
+T18	Disease 149 189	inflammation-driven hepatocarcinogenesis
+#15	AnnotatorNotes T18	not found
+T19	Gene-Protein 336 339	TNF
+T20	Gene-Protein 400 405	TNF’s
+T21	Gene-Protein 524 527	TNF
+T22	Gene-Protein 714 717	TNF
+T23	GeneFamily 600 604	GPCR
+#16	AnnotatorNotes T23	family:139
+T24	GeneFamily 781 785	GPCR
+T25	GeneFamily 902 906	GPCR
+T26	Gene-Protein 1059 1064	CCR10
+T27	Gene-Protein 1287 1292	CCR10
+T28	Gene-Protein 1217 1222	CCR10
+T29	Disease 1255 1258	HCC
+T30	Biomarker 1059 1117	CCR10 expression was significantly elevated in hepatocytes
+R1	Association Arg1:T30 Arg2:T11	
+T34	Biomarker 1210 1233	strong CCR10 expression
+R2	Association Arg1:T34 Arg2:T29	
+T35	GeneFamily 673 699	pro-inflammatory cytokines
+#17	AnnotatorNotes T35	not found
+T36	Biomarker 654 718	elevated levels of pro-inflammatory cytokines (most notably TNF)
+T37	Biomarker 720 754	infiltration of inflammatory cells
+T38	Biomarker 760 835	upregulation of four GPCR-associated genes (CCR10, P2RY8, ARRB1, and RGS10)
+T39	Collection 654 835	elevated levels of pro-inflammatory cytokines (most notably TNF), infiltration of inflammatory cells, and upregulation of four GPCR-associated genes (CCR10, P2RY8, ARRB1, and RGS10)
+R3	Association Arg1:T39 Arg2:T9	

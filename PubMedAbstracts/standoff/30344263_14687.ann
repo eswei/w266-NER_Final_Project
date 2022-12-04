@@ -1,0 +1,50 @@
+T1	Disease 115 119	ADHD
+#1	AnnotatorNotes T1	DOID:1094
+T10	Disease 644 648	ADHD
+T11	Variant 714 720	rs6323
+T12	Variant 814 820	rs6323
+T14	Chemical 876 886	amino acid
+T15	Chemical 899 905	valine
+T16	Chemical 909 922	phenylalanine
+T17	Variant 961 967	rs6323
+T2	Disease 130 136	ADHD-C
+#6	AnnotatorNotes T2	not found
+T20	Disease 1142 1146	ADHD
+T23	Disease 1292 1296	ADHD
+T25	Chemical 1392 1400	dopamine
+T27	Disease 1416 1420	ADHD
+T29	Chemical 1502 1510	dopamine
+T30	Disease 1551 1555	ADHD
+T33	Disease 1652 1656	ADHD
+T4	Disease 376 380	ADHD
+T6	Disease 497 501	ADHD
+T9	Disease 632 636	ADHD
+T7	Biomarker 335 354	rs6323 polymorphism
+R1	Association Arg1:T7 Arg2:T4	
+T3	Gene-Protein 459 463	MAOA
+#3	AnnotatorNotes T3	HGNC:6833
+T13	Biomarker 459 488	MAOA gene rs6323 polymorphism
+T5	Biomarker 569 598	rs6323 TT genotype was higher
+R2	Variant-Of Arg1:T3 Arg2:T11	
+T8	Gene-Protein 850 854	MAOA
+R3	Variant-Of Arg1:T8 Arg2:T12	
+T19	Gene-Protein 1041 1045	MAOA
+R4	Variant-Of Arg1:T19 Arg2:T17	
+T21	Biomarker 1102 1138	rs6323 G allele frequency was higher
+R5	Risk-Factor Arg1:T21 Arg2:T20	
+T18	Biomarker 1233 1288	significantly increased transmission of rs6323 G allele
+R6	Risk-Factor Arg1:T18 Arg2:T23	
+T22	Biomarker 1354 1384	increased MAOA enzyme activity
+T24	Gene-Protein 1364 1368	MAOA
+T26	Disease 1392 1411	dopamine deficiency
+#2	AnnotatorNotes T26	not found
+T28	Collection 1392 1420	dopamine deficiency and ADHD
+R7	Association Arg1:T22 Arg2:T28	
+T32	Biomarker 1489 1517	imbalance of dopamine levels
+R8	Association Arg1:T32 Arg2:T30	
+T34	Biomarker 1596 1614	rs6323 TT genotype
+R9	Risk-Reduce Arg1:T34 Arg2:T33	
+R10	Association Arg1:T13 Arg2:T6	
+T31	Biomarker 105 111	rs6323
+T35	Collection 115 136	ADHD girls and ADHD-C
+R11	Association Arg1:T31 Arg2:T35	

@@ -1,0 +1,115 @@
+T0	Disease 151 171	congenital cataracts
+#1	AnnotatorNotes T0	not found
+T10	Variant 1010 1020	p.60_61del
+T12	Disease 1100 1120	congenital cataracts
+T13	Biomarker 1122 1149	mutations in the FOXE3 gene
+T14	Disease 1167 1194	anterior segment dysgenesis
+#3	AnnotatorNotes T14	DOID:0060648
+T15	Disease 1206 1227	posterior embryotoxon
+#4	AnnotatorNotes T15	not found
+T16	Disease 1229 1243	microphthalmia
+#5	AnnotatorNotes T16	DOID:10629
+T17	Disease 1249 1264	Peter’s anomaly
+#6	AnnotatorNotes T17	DOID:0060673
+T18	Disease 1307 1334	anterior segment dysgenesis
+T19	Variant 1391 1401	p.60_61del
+T2	Disease 248 268	congenital cataracts
+T20	Variant 1531 1541	p.60_61del
+T21	Disease 1732 1752	congenital cataracts
+T23	Disease 1963 1984	chamber angle defects
+#11	AnnotatorNotes T23	not found
+T25	Biomarker 2001 2025	mutations in mouse Foxe3
+T26	Variant 2171 2180	c.489dupC
+T27	Variant 2182 2190	p.V164fs
+T29	Disease 2220 2237	nuclear cataracts
+#14	AnnotatorNotes T29	not found
+T3	Variant 274 281	p.D129V
+T32	Disease 2329 2349	congenital cataracts
+T33	Biomarker 2353 2386	missense mutation in the MIP gene
+T34	Disease 2408 2435	cortical punctate cataracts
+#17	AnnotatorNotes T34	not found
+T35	Biomarker 2451 2484	nonsense mutation in the MIP gene
+T36	Disease 2494 2547	Y sutural associated with cortical punctate cataracts
+#18	AnnotatorNotes T36	not found
+T37	Disease 2605 2622	nuclear cataracts
+T38	Variant 2743 2750	p.P492L
+T39	Disease 2793 2809	zonular cataract
+#20	AnnotatorNotes T39	C535342
+T4	Variant 331 338	p.E161K
+T41	Chemical 2861 2865	COOH
+T5	Variant 401 408	p.D129V
+T6	Biomarker 428 457	posterior subcapsular opacity
+T7	Variant 515 521	p.H57R
+T8	Variant 576 582	p.H57R
+T9	Variant 996 1008	c.179_181del
+T42	Gene-Protein 115 121	CHMP4B
+#21	AnnotatorNotes T42	HGNC:16171
+T43	Gene-Protein 126 131	FOXE3
+#23	AnnotatorNotes T43	HGNC:3808
+T44	Biomarker 102 131	mutations in CHMP4B and FOXE3
+T1	Gene-Protein 208 214	CHMP4B
+T45	Collection 274 338	p.D129V mutation in an American Caucasian family and the p.E161K
+#24	AnnotatorNotes T3	p.Asp129Val
+#25	AnnotatorNotes T4	p.Glu61Lys
+R1	Association Arg1:T45 Arg2:T2	
+R2	Variant-Of Arg1:T1 Arg2:T45	
+T46	Gene-Protein 538 544	CHMP4B
+R3	Variant-Of Arg1:T46 Arg2:T7	
+R5	Variant-Of Arg1:T46 Arg2:T5	
+T47	ProteinDomain 653 664	SNF7 domain
+T48	Gene-Protein 672 678	CHMP4B
+R7	Variant-Of Arg1:T48 Arg2:T8	
+#8	AnnotatorNotes T7	p.His57Arg
+T49	GeneFamily 869 878	ESCRT-III
+#26	AnnotatorNotes T49	family:1118
+T50	GeneFamily 843 867	endosome-sorting complex
+#27	AnnotatorNotes T50	family:1111
+T51	Biomarker 812 887	gain-of-function defects in an endosome-sorting complex (ESCRT-III) subunit
+T52	Gene-Protein 990 995	FOXE3
+T53	Collection 996 1020	c.179_181del, p.60_61del
+R8	Variant-Of Arg1:T52 Arg2:T53	
+T11	ProteinDomain 1046 1061	forkhead domain
+T54	Gene-Protein 1069 1074	FOXE3
+T55	Gene-Protein 1139 1144	FOXE3
+R9	Association Arg1:T13 Arg2:T12	
+T56	Collection 1167 1264	anterior segment dysgenesis, including posterior embryotoxon, microphthalmia, and Peter’s anomaly
+R10	Association Arg1:T13 Arg2:T56	
+T57	Gene-Protein 1385 1390	FOXE3
+R11	Variant-Of Arg1:T57 Arg2:T19	
+T58	Gene-Protein 1525 1530	FOXE3
+R12	Variant-Of Arg1:T58 Arg2:T20	
+T59	Biomarker 1671 1692	mutation in the FOXE3
+T60	Gene-Protein 1687 1692	FOXE3
+R13	Association Arg1:T59 Arg2:T21	
+T61	Gene-Protein 1817 1822	FOXE3
+T62	Biomarker 1800 1827	mutations in the FOXE3 gene
+T63	Gene-Protein 1880 1887	f Foxe3
+T64	Biomarker 1857 1938	restricted expression of Foxe3 in the lens epithelia of developing and adult mice
+R14	Association Arg1:T25 Arg2:T23	
+T22	Gene-Protein 2020 2025	Foxe3
+T24	Gene-Protein 2055 2060	Pitx3
+T65	Gene-Protein 2103 2108	Foxe3
+T66	Gene-Protein 2207 2210	MIP
+#2	AnnotatorNotes T66	HGNC:7103
+T67	Collection 2169 2190	l c.489dupC, p.V164fs
+R15	Variant-Of Arg1:T66 Arg2:T67	
+#7	AnnotatorNotes T27	p.Val164fs
+R16	Association Arg1:T67 Arg2:T29	
+T28	ProteinDomain 2277 2286	domain H5
+T30	Gene-Protein 2294 2297	MIP
+T31	Gene-Protein 2378 2381	MIP
+R17	Association Arg1:T33 Arg2:T34	
+R18	Association Arg1:T35 Arg2:T36	
+T68	Gene-Protein 2476 2479	MIP
+T69	Biomarker 2562 2593	splice mutation in the MIP gene
+T70	Gene-Protein 2585 2588	MIP
+R19	Association Arg1:T69 Arg2:T37	
+T71	Gene-Protein 2678 2681	MIP
+T72	Gene-Protein 2767 2771	HSF4
+#9	AnnotatorNotes T72	HGNC:5227
+R20	Variant-Of Arg1:T72 Arg2:T38	
+#10	AnnotatorNotes T38	p.Pro492Leu
+R21	Association Arg1:T38 Arg2:T39	
+T40	Biomarker 896 921	loss of lens transparency
+T73	ProteinDomain 2861 2895	COOH-terminal intracellular domain
+R4	Association Arg1:T6 Arg2:T2	

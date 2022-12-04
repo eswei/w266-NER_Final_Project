@@ -1,0 +1,56 @@
+T1	Disease 60 67	CADASIL
+#1	AnnotatorNotes T1	DOID:13945
+T2	Disease 300 307	CADASIL
+T3	Biomarker 388 503	Protein levels of Notch3 transmembrane/cytosolic fragment (TMIC) and NOTCH3 receptor gene expression were increased
+T4	Disease 507 514	CADASIL
+T5	Chemical 839 848	glutamate
+T6	Biomarker 933 967	HEYL mRNA expression was increased
+T7	Disease 971 978	CADASIL
+T8	Disease 1036 1043	CADASIL
+T9	Gene-Protein 40 46	NOTCH3
+#4	AnnotatorNotes T9	HGNC:7883
+T10	Gene-Protein 95 101	NOTCH3
+T11	Gene-Protein 139 145	Notch3
+#7	AnnotatorNotes T11	HGNC:7883
+T13	Gene-Protein 182 197	Notch3 receptor
+#8	AnnotatorNotes T13	HGNC:7883
+T14	ProteinDomain 202 212	Notch3 ECD
+T15	ProteinDomain 214 223	Notch3ᴱCᴰ
+T16	Gene-Protein 243 249	NOTCH3
+T17	Disease 318 325	CADASIL
+T19	Biomarker 342 374	increased Notch3ᴱCᴰ accumulation
+T20	ProteinDomain 352 361	Notch3ᴱCᴰ
+T12	Gene-Protein 406 412	Notch3
+T21	Gene-Protein 457 472	NOTCH3 receptor
+T18	ProteinDomain 596 606	Notch3 ICD
+T22	ProteinDomain 608 617	Notch3ᴵCᴰ
+T23	GeneFamily 688 693	Notch
+T24	Gene-Protein 827 832	Nrip2
+T25	Gene-Protein 881 886	Grip2
+T26	Gene-Protein 839 879	glutamate receptor–interacting protein 2
+T27	Gene-Protein 787 825	nuclear receptor–interacting protein 2
+T28	Gene-Protein 780 784	HEYL
+T29	Gene-Protein 718 778	hairy/enhancer-of-split related with YRPW motif–like protein
+T30	Gene-Protein 933 937	HEYL
+R1	Association Arg1:T6 Arg2:T7	
+T31	Gene-Protein 1012 1018	NOTCH3
+T32	Gene-Protein 1023 1027	HEYL
+T33	Drug-Class 1116 1137	γ-secretase inhibitor
+T34	Drug-Class 1139 1142	GSI
+T35	Gene-Protein 1160 1166	Notch3
+T36	Gene-Protein 1240 1245	Nrip2
+T37	Gene-Protein 1250 1255	Grip2
+R2	Association Arg1:T3 Arg2:T4	
+R3	Association Arg1:T19 Arg2:T17	
+T38	Biomarker 95 110	NOTCH3 mutation
+T39	Biomarker 130 168	impaired Notch3 function and signaling
+T40	Biomarker 30 56	Increased NOTCH3 signaling
+R4	Association Arg1:T40 Arg2:T1	
+#2	AnnotatorNotes T28	HGNC:4882
+#3	AnnotatorNotes T29	HGNC:4882
+#5	AnnotatorNotes T27	HGNC:23078
+#6	AnnotatorNotes T24	HGNC:23078
+#9	AnnotatorNotes T26	HGNC:23841
+#10	AnnotatorNotes T25	HGNC:23841
+#11	AnnotatorNotes T23	not found
+T41	Biomarker 998 1032	Expression of NOTCH3 and HEYL mRNA

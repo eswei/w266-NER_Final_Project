@@ -1,0 +1,52 @@
+30309848_128|t|RSS_IDENT_p_30309848_a_1_1
+30309848_128|a| Hyper-IgE syndromes comprise a group of inborn errors of immunity. STAT3-deficient hyper-IgE syndrome is characterized by elevated serum IgE levels, recurrent infections and eczema, and characteristic skeletal anomalies. A loss-of-function biallelic mutation in IL6ST encoding the GP130 receptor subunit (p.N404Y) has very recently been identified in a singleton patient (herein referred to as Pᴺ⁴⁰⁴Y) as a novel etiology of hyper-IgE syndrome. Here, we studied a patient with hyper-IgE syndrome caused by a novel homozygous mutation in IL6ST (p.P498L; patient herein referred to as Pᴾ⁴⁹⁸ᴸ) leading to abrogated GP130 signaling after stimulation with IL-6 and IL-27 in peripheral blood mononuclear cells as well as IL-6 and IL-11 in fibroblasts. Extending the initial identification of selective GP130 deficiency, we aimed to dissect the effects of aberrant cytokine signaling on T-helper cell differentiation in both patients. Our results reveal the importance of IL-6 signaling for the development of CCR6-expressing memory CD4⁺ T cells (including T-helper 17-enriched subsets) and non-conventional CD8⁺T cells which were reduced in both patients. Downstream functional analysis of the GP130 mutants (p.N404Y and p.P498L) have shown differences in response to IL-27, with the p.P498L mutation having a more severe effect that is reflected by reduced T-helper 1 cells in this patient (Pᴾ⁴⁹⁸ᴸ) only. Collectively, our data suggest that characteristic features of GP130-deficient hyper-IgE syndrome phenotype are IL-6 and IL-11 dominated, and indicate selective roles of aberrant IL-6 and IL-27 signaling on the differentiation of T-cell subsets.
+30309848_128	28	47	Hyper-IgE syndromes	Disease	DOID:0080545
+30309848_128	34	37	IgE	Genefamily	not found
+30309848_128	68	93	inborn errors of immunity	Biomarker
+30309848_128	95	100	STAT3	Gene-protein	HGNC:11364
+30309848_128	95	129	STAT3-deficient hyper-IgE syndrome	Disease	DOID:3261
+30309848_128	117	120	IgE	Gene-protein
+30309848_128	150	175	elevated serum IgE levels	Biomarker
+30309848_128	150	247	elevated serum IgE levels, recurrent infections and eczema, and characteristic skeletal anomalies	Collection
+30309848_128	165	168	IgE	Gene-protein
+30309848_128	177	208	recurrent infections and eczema	Biomarker
+30309848_128	214	247	characteristic skeletal anomalies	Biomarker
+30309848_128	290	295	IL6ST	Gene-protein	HGNC:6021
+30309848_128	309	314	GP130	Gene-protein	HGNC:6021
+30309848_128	333	340	p.N404Y	Variant	p.Asn404Tyr	Loss-of-funtion
+30309848_128	453	471	hyper-IgE syndrome	Disease	DOID:0080545
+30309848_128	459	462	IgE	Genefamily
+30309848_128	505	523	hyper-IgE syndrome	Disease
+30309848_128	511	514	IgE	Genefamily
+30309848_128	565	570	IL6ST	Gene-protein
+30309848_128	572	579	p.P498L	Variant	p.Pro498Leu
+30309848_128	640	645	GP130	Gene-protein
+30309848_128	679	683	IL-6	Gene-protein	HGNC:6018
+30309848_128	688	693	IL-27	Gene-protein	HGNC:19157
+30309848_128	743	747	IL-6	Gene-protein
+30309848_128	752	757	IL-11	Gene-protein	HGNC:5966
+30309848_128	824	829	GP130	Gene-protein
+30309848_128	886	894	cytokine	Genefamily	not found
+30309848_128	993	997	IL-6	Gene-protein
+30309848_128	1031	1035	CCR6	Gene-protein	HGNC:1607
+30309848_128	1031	1107	CCR6-expressing memory CD4⁺ T cells (including T-helper 17-enriched subsets)	Biomarker
+30309848_128	1054	1057	CD4	Gene-protein	HGNC:1678
+30309848_128	1112	1159	non-conventional CD8⁺T cells which were reduced	Biomarker
+30309848_128	1129	1132	CD8	Gene-protein	HGNC:1706
+30309848_128	1216	1221	GP130	Gene-protein
+30309848_128	1231	1238	p.N404Y	Variant	Loss-of-funtion
+30309848_128	1231	1250	p.N404Y and p.P498L	Collection
+30309848_128	1243	1250	p.P498L	Variant
+30309848_128	1290	1295	IL-27	Gene-protein
+30309848_128	1306	1313	p.P498L	Variant
+30309848_128	1372	1396	reduced T-helper 1 cells	Biomarker
+30309848_128	1491	1496	GP130	Gene-protein
+30309848_128	1491	1525	GP130-deficient hyper-IgE syndrome	Disease	not found
+30309848_128	1513	1516	IgE	Genefamily
+30309848_128	1540	1544	IL-6	Gene-protein
+30309848_128	1540	1564	IL-6 and IL-11 dominated	Biomarker
+30309848_128	1549	1554	IL-11	Gene-protein
+30309848_128	1598	1631	aberrant IL-6 and IL-27 signaling	Biomarker
+30309848_128	1607	1611	IL-6	Gene-protein
+30309848_128	1616	1621	IL-27	Gene-protein
+

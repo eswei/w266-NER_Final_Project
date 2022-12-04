@@ -1,0 +1,26 @@
+30427934_11255|t|RSS_IDENT_p_30427934_b_1_4_4
+30427934_11255|a| As an approach for screening of at-risk populations, we analyzed serum iron status and HFE genotypes in patients with end-stage hip OA under the age of 70. Given the previous findings from epidemiological studies, we estimated a three-fold increase in C282Y homozygous mutations in our patient cohort compared to the general population. Nevertheless, our data did not reveal a significant increase in HFE mutations nor laboratory signs of iron overload in our study population compared to age- and sex-matched individuals. In fact, C282Y homozygosity was even lower in prevalence than in the control population, the latter being in the expected range. Thus, our study does not suggest a benefit from HFE screening in younger patients with severe OA of the hip. A possible reason for not detecting an increase in C282Y homozygotes in the OA group is that subjects in our study were not primarily selected by iron overload and few suffered from elevated serum ferritin and transferrin saturation levels. Further, it cannot be excluded that hemochromatosis patients with joint pain are being diagnosed and treated at earlier stages in Austria. In fact, many rheumatologists include full iron status in their diagnostic work-up of newly presenting patients. Also, a referral bias of certain patient groups cannot be fully excluded, although all recruiting centers are part of the social insurance system.
+30427934_11255	95	112	serum iron status	Biomarker
+30427934_11255	101	105	iron	Chemical
+30427934_11255	117	120	HFE	Gene-protein	HGNC:4886
+30427934_11255	117	130	HFE genotypes	Biomarker
+30427934_11255	148	164	end-stage hip OA	Disease	not found
+30427934_11255	259	308	three-fold increase in C282Y homozygous mutations	Biomarker
+30427934_11255	419	444	increase in HFE mutations	Biomarker
+30427934_11255	431	434	HFE	Gene-protein
+30427934_11255	469	473	iron	Chemical
+30427934_11255	469	482	iron overload	Biomarker
+30427934_11255	562	595	C282Y homozygosity was even lower	Biomarker
+30427934_11255	730	733	HFE	Gene-protein
+30427934_11255	776	789	OA of the hip	Disease	not found
+30427934_11255	830	859	increase in C282Y homozygotes	Biomarker
+30427934_11255	867	869	OA	Disease	DOID:8398
+30427934_11255	937	941	iron	Chemical
+30427934_11255	937	950	iron overload	Biomarker
+30427934_11255	973	1030	elevated serum ferritin and transferrin saturation levels	Biomarker
+30427934_11255	988	996	ferritin	Genefamily	family:1455
+30427934_11255	1001	1012	transferrin	Gene-protein	HGNC:11740
+30427934_11255	1068	1108	hemochromatosis patients with joint pain	Disease	DOID:2352, D018771	Conjunction
+30427934_11255	1214	1218	iron	Chemical
+30427934_11255	1214	1225	iron status	Biomarker
+

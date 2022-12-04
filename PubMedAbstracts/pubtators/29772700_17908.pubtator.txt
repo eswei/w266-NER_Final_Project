@@ -1,0 +1,60 @@
+29772700_17908|t|RSS_IDENT_p_29772700_b_1_3_3
+29772700_17908|a| Lipoxygenases are a group of closely related dioxygenases that are classified as 5-, 12-, and 12/15-lipoxygenases according to the site of oxygen insertion within arachidonic acid, which is also a target for other enzymatic pathways, including cyclooxygenase (COX2), and cytochrome P450 [ 39 , 40 , 41 ]. Alox12/15 modulates the inflammatory response and is involved in atherosclerosis [ 42 ]. Overexpression of Alox12/15 in mice promotes monocyte–endothelial cell interactions, leading to atherosclerotic formation [ 43 , 44 ]. In the heart, cardiac Alox12/15 has been reported to stimulate cardiac cell growth [ 45 ] and is involved in cardiac dysfunction and fibrosis in diabetic cardiomyopathy [ 37 ]. A recent study further showed that cardiac fibrosis was increased in Alox12/15 transgenic mice and was associated with the infiltration of macrophages, indicating its role in the pathogenesis of inflammation and fibrosis in heart failure [ 36 ]. TGFβ has been known to serve as a key mediator of fibrosis in various organs [ 46 ]. TIMP-1 promotes tissue fibrosis by inhibiting extracellular matrix degradation and has been used as a marker of fibrosis [ 47 ]. In the present study, our findings demonstrated Alox12/15 as the most upregulated factor in FC-iPSC-CMs carrying IVS4+919 G>A mutation. Meanwhile, these FC-iPSC-CMs chronologically exhibited several FC-specific features, downregulation of GLA, upregulation of TGFβ, TIMP-1, collagen-1 and Alox12/15, after a 40 to 60-day cardiac induction. The expression pattern of Alox12/15 was highly correlated with severe cardiomyocyte hypertrophy and several fibrosis-associated factors TGFβ, TIMP-1, and collagen-1 are upregulated in the late phase of cardiac induction. These data suggested that Alox12/15 may play a role in the pathogenesis and/or disease progression of FC with IVS4+919 G>A mutation.
+29772700_17908	30	43	Lipoxygenases	Genefamily	family:407
+29772700_17908	75	87	dioxygenases	Genefamily	not found
+29772700_17908	111	143	5-, 12-, and 12/15-lipoxygenases	Gene-protein	HGNC:429,HGNC:433
+29772700_17908	169	175	oxygen	Chemical
+29772700_17908	193	209	arachidonic acid	Chemical
+29772700_17908	274	288	cyclooxygenase	Gene-protein	HGNC:9605
+29772700_17908	290	294	COX2	Gene-protein	HGNC:9605
+29772700_17908	301	316	cytochrome P450	Genefamily	family:862
+29772700_17908	335	344	Alox12/15	Gene-protein	HGNC:429, HGNC:433
+29772700_17908	335	344	Alox12/15	Biomarker	C476558, C515716
+29772700_17908	400	415	atherosclerosis	Disease	DOID:1936
+29772700_17908	424	451	Overexpression of Alox12/15	Biomarker
+29772700_17908	442	451	Alox12/15	Gene-protein
+29772700_17908	520	535	atherosclerotic	Disease	D006332
+29772700_17908	573	590	cardiac Alox12/15	Biomarker
+29772700_17908	581	590	Alox12/15	Gene-protein
+29772700_17908	668	687	cardiac dysfunction	Disease	DOID:114
+29772700_17908	668	727	cardiac dysfunction and fibrosis in diabetic cardiomyopathy	Collection
+29772700_17908	692	700	fibrosis	Disease	D005355
+29772700_17908	704	727	diabetic cardiomyopathy	Disease	D058065
+29772700_17908	771	787	cardiac fibrosis	Disease	not found
+29772700_17908	805	814	Alox12/15	Gene-protein
+29772700_17908	859	886	infiltration of macrophages	Biomarker
+29772700_17908	931	943	inflammation	Disease	D007249
+29772700_17908	931	973	inflammation and fibrosis in heart failure	Collection
+29772700_17908	948	956	fibrosis	Disease
+29772700_17908	960	973	heart failure	Disease	D006333
+29772700_17908	982	986	TGFβ	Biomarker	D016212
+29772700_17908	982	986	TGFβ	Genefamily	family:1664
+29772700_17908	1032	1040	fibrosis	Disease
+29772700_17908	1067	1073	TIMP-1	Biomarker	D019715
+29772700_17908	1067	1073	TIMP-1	Gene-protein	HGNC:11820
+29772700_17908	1083	1098	tissue fibrosis	Disease	not found
+29772700_17908	1083	1187	tissue fibrosis by inhibiting extracellular matrix degradation and has been used as a marker of fibrosis	Collection
+29772700_17908	1179	1187	fibrosis	Disease
+29772700_17908	1244	1253	Alox12/15	Gene-protein
+29772700_17908	1244	1284	Alox12/15 as the most upregulated factor	Biomarker
+29772700_17908	1288	1290	FC	Disease
+29772700_17908	1309	1321	IVS4+919 G>A	Variant
+29772700_17908	1349	1351	FC	Disease
+29772700_17908	1395	1397	FC	Disease
+29772700_17908	1435	1438	GLA	Gene-protein
+29772700_17908	1456	1460	TGFβ	Genefamily
+29772700_17908	1462	1469	TIMP-1,	Gene-protein
+29772700_17908	1470	1480	collagen-1	Genefamily
+29772700_17908	1485	1494	Alox12/15	Gene-protein
+29772700_17908	1540	1571	expression pattern of Alox12/15	Biomarker
+29772700_17908	1562	1571	Alox12/15	Gene-protein
+29772700_17908	1606	1631	cardiomyocyte hypertrophy	Disease	D006332
+29772700_17908	1644	1652	fibrosis	Disease
+29772700_17908	1672	1676	TGFβ	Gene-protein
+29772700_17908	1672	1716	TGFβ, TIMP-1, and collagen-1 are upregulated	Biomarker
+29772700_17908	1678	1684	TIMP-1	Gene-protein
+29772700_17908	1690	1700	collagen-1	Genefamily
+29772700_17908	1783	1792	Alox12/15	Biomarker
+29772700_17908	1783	1792	Alox12/15	Gene-protein
+29772700_17908	1859	1879	FC with IVS4+919 G>A	Disease	not found
+

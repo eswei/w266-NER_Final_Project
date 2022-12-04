@@ -1,0 +1,54 @@
+T0	Drug 87 100	canagliflozin
+T1	Disease 129 133	NASH
+#2	AnnotatorNotes T1	DOID:0080547
+T10	Chemical 531 540	glutamine
+T11	Chemical 546 555	glutamate
+T12	Chemical 560 567	ammonia
+T13	Disease 610 615	tumor
+#6	AnnotatorNotes T13	DOID:162
+T14	Gene-Protein 685 687	GS
+T16	Gene-Protein 845 847	GS
+T17	Disease 1018 1023	tumor
+T18	Drug 1074 1087	canagliflozin
+T19	Drug 1230 1243	canagliflozin
+T2	Gene-Protein 179 182	GS-
+#13	AnnotatorNotes T2	HGNC:4341
+T20	Disease 1298 1306	diabetes
+#14	AnnotatorNotes T20	not found
+T21	Disease 1307 1311	NASH
+T22	Disease 1312 1315	HCC
+T3	Disease 179 197	GS-positive tumors
+#17	AnnotatorNotes T3	not found
+T4	Drug 242 255	canagliflozin
+T5	Gene-Protein 355 357	GS
+T6	Disease 374 386	liver tumors
+#20	AnnotatorNotes T6	DOID:3571
+T8	Disease 472 475	HCC
+T9	Gene-Protein 501 503	GS
+T23	Disease 137 157	hepatocarcinogenesis
+#1	AnnotatorNotes T23	DOID:3571
+R1	Protects-from Arg1:T0 Arg2:T23	
+T24	Gene-Protein 289 291	GS
+T25	Disease 307 310	HCC
+#3	AnnotatorNotes T25	DOID:684
+T26	Biomarker 289 291	GS
+#4	AnnotatorNotes T26	D005974
+R2	Association Arg1:T26 Arg2:T25	
+T27	Gene-Protein 421 423	GS
+T28	Biomarker 421 444	GS in the tumor nodules
+R3	Diagnostic-of Arg1:T28 Arg2:T8	
+T7	Biomarker 664 698	stepwise increase of GS expression
+T15	Disease 747 750	HCC
+R4	Association Arg1:T7 Arg2:T15	
+T29	Gene-Protein 759 761	GS
+T30	Gene-Protein 804 806	GS
+T31	Gene-Protein 988 991	AFP
+#5	AnnotatorNotes T31	HGNC:317
+T32	Gene-Protein 1121 1124	AFP
+R5	Protects-from Arg1:T19 Arg2:T36	
+#7	AnnotatorNotes T0	CHEMBL2048484
+T34	Disease 916 936	hepatocarcinogenesis
+#8	AnnotatorNotes T34	DOID:684
+T35	Biomarker 845 847	GS
+R6	Association Arg1:T35 Arg2:T34	
+T36	Disease 1254 1274	hepatocarcinogenesis

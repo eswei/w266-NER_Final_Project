@@ -1,0 +1,99 @@
+T12	Disease 446 460	CAD among T2DM
+T17	Disease 553 568	atherosclerosis
+#5	AnnotatorNotes T17	DOID:1936
+T19	Disease 648 651	CAD
+T2	Disease 114 122	T2DM_CAD
+#7	AnnotatorNotes T2	DOID:9352, DOID:3393
+T20	Disease 656 664	T2DM_CAD
+T23	Disease 723 731	T2DM_CAD
+T25	Disease 755 759	T2DM
+T26	Chemical 795 802	glucose
+T27	Disease 851 869	insulin resistance
+T29	Disease 948 951	CAD
+T31	Disease 1056 1076	chronic inflammation
+#17	AnnotatorNotes T31	not found
+T33	Disease 1098 1113	CAD in diabetes
+#19	AnnotatorNotes T33	DOID:3393, not found
+T35	Disease 1231 1252	myocardial infraction
+#20	AnnotatorNotes T35	DOID:5844
+T37	Disease 1412 1415	CAD
+T38	Disease 1471 1474	CAD
+T39	Disease 1493 1501	diabetes
+#23	AnnotatorNotes T39	not found
+T40	Disease 1540 1555	atherosclerosis
+#24	AnnotatorNotes T40	DOID:1936
+T5	Disease 213 231	insulin resistance
+#25	AnnotatorNotes T5	D007333
+T7	Disease 321 334	heart failure
+#26	AnnotatorNotes T7	DOID:14172
+T9	Disease 340 371	myocardial ischemia reperfusion
+#28	AnnotatorNotes T9	D017202
+T4	GeneFamily 40 66	pro-inflammatory cytokines
+#2	AnnotatorNotes T4	not found
+T6	Biomarker 73 110	TNF-α and IL-1β levels were increased
+T10	Gene-Protein 73 78	TNF-α
+#6	AnnotatorNotes T10	HGNC:11892
+T13	Gene-Protein 83 88	IL-1β
+#9	AnnotatorNotes T13	HGNC:5992
+A1	Conjunction T2
+R1	Association Arg1:T6 Arg2:T2	
+T1	Gene-Protein 199 204	TNF-α
+T3	Biomarker 199 204	TNF-α
+#1	AnnotatorNotes T3	D014409
+R2	Association Arg1:T3 Arg2:T5	
+T14	Gene-Protein 246 251	IRS-1
+#11	AnnotatorNotes T14	HGNC:6125
+T16	Gene-Protein 272 278	GLUT-4
+#13	AnnotatorNotes T16	HGNC:11009
+T8	Collection 321 371	heart failure, and myocardial ischemia reperfusion
+R3	Association Arg1:T3 Arg2:T8	
+T18	Biomarker 418 440	increased TNF-α levels
+T22	Gene-Protein 428 433	TNF-α
+A2	Conjunction T12
+#3	AnnotatorNotes T12	DOID:3393, DOID:9352
+T11	Biomarker 478 535	Increased TNF-α and IL-1β levels along with hyperglycemia
+T28	Gene-Protein 488 493	TNF-α
+T30	Gene-Protein 498 505	IL-1β l
+R4	Association Arg1:T11 Arg2:T17	
+A3	Conjunction T20
+#8	AnnotatorNotes T19	DOID:3393
+T21	Gene-Protein 625 629	IL-6
+#15	AnnotatorNotes T21	HGNC:6018
+T36	Biomarker 601 639	pro-inflammatory marker IL-6 increased
+T41	Collection 648 664	CAD and T2DM_CAD
+R5	Association Arg1:T36 Arg2:T41	
+A4	Conjunction T23
+T24	Biomarker 761 782	Increased IL-6 levels
+R6	Association Arg1:T24 Arg2:T27	
+R7	Association Arg1:T36 Arg2:T23	
+T42	Biomarker 904 915	IL-6 levels
+T43	Gene-Protein 904 908	IL-6
+#10	AnnotatorNotes T42	D015850
+R8	Association Arg1:T42 Arg2:T29	
+T44	Gene-Protein 1017 1022	TNF-α
+T45	Gene-Protein 1024 1029	IL-1β
+T46	Gene-Protein 1035 1039	IL-6
+A5	Conjunction T33
+T32	Collection 1056 1113	chronic inflammation condition to promote CAD in diabetes
+T47	Biomarker 1017 1048	TNF-α, IL-1β, and IL-6 together
+R9	Association Arg1:T47 Arg2:T32	
+A6	Conjunction T47
+T48	Drug 1167 1178	canakinumab
+#14	AnnotatorNotes T48	CHEMBL1201834
+T49	Gene-Protein 1219 1227	IL-1beta
+#16	AnnotatorNotes T49	HGNC:5992
+T50	Gene-Protein 1296 1300	IL-6
+T51	Biomarker 1315 1404	Serum markers like PDGF-BB, IP-10, resistin and PAI-1 levels were significantly increased
+T52	Gene-Protein 1343 1348	IP-10
+#18	AnnotatorNotes T52	HGNC:10637
+R10	Association Arg1:T18 Arg2:T12	
+T53	Gene-Protein 1350 1358	resistin
+#21	AnnotatorNotes T53	HGNC:20389
+T54	Gene-Protein 1363 1368	PAI-1
+#22	AnnotatorNotes T54	HGNC:8583
+R11	Association Arg1:T51 Arg2:T37	
+T55	Gene-Protein 1334 1341	PDGF-BB
+#12	AnnotatorNotes T55	HGNC:8800
+T15	Gene-Protein 213 220	insulin
+#4	AnnotatorNotes T15	HGNC:6081
+T34	Gene-Protein 851 858	insulin

@@ -1,0 +1,56 @@
+T0	Chemical 45 51	sodium
+T1	Disease 72 76	SIDS
+#2	AnnotatorNotes T1	DOID:9007
+T11	Disease 1055 1063	myotonia
+T12	Variant 1201 1211	Val1442Met
+T13	Variant 1241 1251	Glu1520Lys
+T14	Variant 1358 1368	Val1442Met
+T15	Disease 1384 1403	myasthenic syndrome
+#5	AnnotatorNotes T15	DOID:3635
+T16	Disease 1408 1427	congenital myopathy
+#6	AnnotatorNotes T16	DOID:0080100
+T17	Chemical 1547 1553	sodium
+T3	Variant 595 605	Arg1463Ser
+T4	Variant 610 619	Ser682Trp
+T5	Chemical 734 740	sodium
+T6	Disease 859 867	myotonia
+#10	AnnotatorNotes T6	D009222
+T7	Disease 895 927	severe respiratory complications
+#11	AnnotatorNotes T7	not found
+T9	Variant 955 965	Arg1463Ser
+T18	GeneFamily 45 59	sodium channel
+#1	AnnotatorNotes T18	family:179
+T19	Biomarker 191 243	gain-of-function and loss-of-function SCN4A variants
+T20	Gene-Protein 229 234	SCN4A
+#3	AnnotatorNotes T20	HGNC:10591
+T21	Gene-Protein 382 387	SCN4A
+T22	Gene-Protein 727 748	NaV1.4 sodium channel
+#7	AnnotatorNotes T22	HGNC:10591
+A1	Gain-of-funtion T3
+A2	Gain-of-funtion T4
+#8	AnnotatorNotes T3	p.Arg1463Ser
+#9	AnnotatorNotes T4	p.Ser682Trp
+T2	Collection 595 619	Arg1463Ser and Ser682Trp
+R1	Variant-Of Arg1:T22 Arg2:T2	
+T23	GeneFamily 1547 1561	sodium channel
+T24	Gene-Protein 1307 1313	NaV1.4
+A3	Loss-of-funtion T14
+R2	Variant-Of Arg1:T24 Arg2:T14	
+T25	Collection 1384 1427	myasthenic syndrome and congenital myopathy
+R3	Risk-Factor Arg1:T14 Arg2:T25	
+#12	AnnotatorNotes T12	p.Val1442Met
+T26	Biomarker 30 68	Alterations in sodium channel function
+R4	Association Arg1:T26 Arg2:T1	
+T27	Disease 414 418	SIDS
+T28	Biomarker 382 396	SCN4A variants
+T29	Gene-Protein 827 832	SCN4A
+T30	Collection 859 927	myotonia, including in infants with severe respiratory complications
+T31	Biomarker 827 841	SCN4A variants
+R5	Association Arg1:T31 Arg2:T30	
+R6	Variant-Of Arg1:T29 Arg2:T9	
+R7	Association Arg1:T9 Arg2:T11	
+T8	Disease 1129 1133	SIDS
+#4	AnnotatorNotes T13	p.Glu545Lys
+T10	Collection 1201 1251	Val1442Met) or reduced current density (Glu1520Lys
+R8	Variant-Of Arg1:T24 Arg2:T10	
+R9	Association Arg1:T28 Arg2:T27	

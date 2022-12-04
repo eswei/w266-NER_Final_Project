@@ -1,0 +1,73 @@
+T0	Disease 83 89	cancer
+#1	AnnotatorNotes T0	DOID:162
+T10	Disease 492 512	renal cell carcinoma
+#2	AnnotatorNotes T10	DOID:4450
+T11	Disease 514 517	RCC
+#3	AnnotatorNotes T11	DOID:4450
+T13	Disease 601 604	RCC
+T15	Disease 734 751	colorectal cancer
+#5	AnnotatorNotes T15	DOID:9256
+T16	Disease 777 814	oropharyngeal squamous cell carcinoma
+#6	AnnotatorNotes T16	DOID:5520
+T17	Disease 816 821	OPSCC
+T2	Disease 198 209	lung cancer
+#8	AnnotatorNotes T2	DOID:1324
+T21	Disease 986 992	cancer
+T24	Disease 1207 1210	RCC
+T3	Disease 220 245	colorectal adenocarcinoma
+#12	AnnotatorNotes T3	DOID:0050861
+T6	Disease 307 312	tumor
+#13	AnnotatorNotes T6	DOID:162
+T7	Disease 366 380	gastric cancer
+#14	AnnotatorNotes T7	DOID:10534
+T1	RNA-Noncoding 43 54	miR-193a-3p
+#7	AnnotatorNotes T1	HGNC:31563
+T4	RNA-Noncoding 56 66	miR-210-3p
+#15	AnnotatorNotes T4	HGNC:31587
+T5	RNA-Noncoding 71 79	miR-5100
+#16	AnnotatorNotes T5	HGNC:43540
+T8	Biomarker 71 79	miR-5100
+#17	AnnotatorNotes T8	C000598621
+T9	Biomarker 56 66	miR-210-3p
+#18	AnnotatorNotes T9	C543800
+T12	Biomarker 43 54	miR-193a-3p
+#19	AnnotatorNotes T12	C546818
+T14	Collection 43 79	miR-193a-3p, miR-210-3p and miR-5100
+R1	Association Arg1:T14 Arg2:T0	
+T18	RNA-Noncoding 122 133	miR-193a-3p
+T19	Collection 198 245	lung cancer cells and colorectal adenocarcinoma
+T22	Drug 122 133	miR-193a-3p
+#20	AnnotatorNotes T22	C546818
+R2	Response Arg1:T22 Arg2:T19	
+T23	Gene-Protein 265 270	K-ras
+#21	AnnotatorNotes T23	HGNC:6407
+T25	RNA-Noncoding 284 297	miRNA-193a-3p
+T26	Drug 284 297	miRNA-193a-3p
+R3	Response Arg1:T26 Arg2:T7	
+T27	Gene-Protein 399 403	PTEN
+#22	AnnotatorNotes T27	HGNC:9588
+T28	RNA-Noncoding 449 460	miR-193a-3p
+T29	Biomarker 440 488	level of miR-193a-3p was significantly increased
+R4	Association Arg1:T29 Arg2:T10	
+T30	RNA-Noncoding 543 554	miR-193a-3p
+T31	Biomarker 543 554	miR-193a-3p
+R5	Association Arg1:T31 Arg2:T13	
+T32	GeneFamily 646 649	Akt
+#4	AnnotatorNotes T32	family:1900
+T33	GeneFamily 641 645	PI3K
+#23	AnnotatorNotes T33	family:831
+T34	Biomarker 666 696	Lower expression of miR-193-3p
+T35	RNA-Noncoding 686 696	miR-193-3p
+R6	Prognostic-Poor Arg1:T34 Arg2:T15	
+R7	Prognostic-Good Arg1:T34 Arg2:T16	
+#24	AnnotatorNotes T17	DOID:5520
+T36	Biomarker 1033 1065	higher level of serum miR-210-3p
+T37	RNA-Noncoding 1055 1065	miR-210-3p
+T38	Biomarker 1152 1185	high level of miR-210-3p in urine
+T39	RNA-Noncoding 1166 1176	miR-210-3p
+R8	Association Arg1:T38 Arg2:T24	
+T40	Gene-Protein 628 636	ST3GalIV
+#10	AnnotatorNotes T40	HGNC:10864
+T41	RNA-Noncoding 887 897	miR-210-3p
+T42	RNA-Noncoding 874 885	miR-193a-3p
+T44	Collection 874 897	miR-193a-3p, miR-210-3p

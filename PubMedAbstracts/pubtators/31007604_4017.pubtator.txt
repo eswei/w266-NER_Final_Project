@@ -1,0 +1,39 @@
+31007604_4017|t|RSS_IDENT_p_31007604_b_1_1_4
+31007604_4017|a| Dysregulation of chemokines and cytokines may contribute to dysfunction of immune surveillance mechanisms assumed to be able to avoid autoimmunity. T cells can be divided into T helper cell (Th) 1 (IFN-γ), Th2 (IL-4, IL-6, and IL-10), Th9 (IL-9), Th17 (IL-17), and regulatory T cell (Treg) (IL-10 and TGF-β) lineages. Studies suggested that SLE has an impact on both the Th1/Th2 and the Th17/Treg paradigm [ 1 , 7 ]. Macrophage chemotactic protein- (MCP-) 1, also known as CCL2, potentially promotes migration of cells including T cells, basophils, dendritic cells, and monocytes to the site of tissue injury [ 8 ]. Previous studies demonstrated that serum levels of MCP-1 were correlated with active lupus nephritis [ 9 ]. High levels of sTNFR are indicative of frequent cleavage of the TNF receptors in some diseases, such as SLE-related autoimmune haemolytic anaemia (AIHA) [ 10 ]. CCL17 (thymus and activation-regulated chemokine, TARC) is a ligand for CC chemokine receptor 4 (CCR4), a chemokine receptor predominantly expressed by Th2 cells. It has been previously suggested that the elevation of plasma CCL17 levels is closely related to the development of SLE [ 11 , 12 ]. CCL20 (MIP-3a), produced by Th17 cells, recruits inflammatory cells including lymphocytes and macrophages. Th17 response is increased via producing this chemokine. Patients with new-onset SLE have high levels of CCL20 which is correlated with disease activity [ 13 ]. However, how these molecules behave in a regulatory network in the pathogenesis of SLE awaits further clarification.
+31007604_4017	30	71	Dysregulation of chemokines and cytokines	Biomarker
+31007604_4017	47	57	chemokines	Genefamily	family:483
+31007604_4017	62	71	cytokines	Genefamily	not found
+31007604_4017	228	233	IFN-γ	Gene-protein	HGNC:5438
+31007604_4017	241	245	IL-4	Gene-protein	HGNC:6014
+31007604_4017	241	346	IL-4, IL-6, and IL-10), Th9 (IL-9), Th17 (IL-17), and regulatory T cell (Treg) (IL-10 and TGF-β) lineages	Biomarker
+31007604_4017	247	251	IL-6	Gene-protein	HGNC:6018
+31007604_4017	257	262	IL-10	Gene-protein	HGNC:5962
+31007604_4017	270	274	IL-9	Gene-protein	HGNC:6029
+31007604_4017	283	288	IL-17	Gene-protein	HGNC:5981
+31007604_4017	321	326	IL-10	Gene-protein
+31007604_4017	331	336	TGF-β	Gene-protein	HGNC:11766
+31007604_4017	371	374	SLE	Disease	DOID:9074
+31007604_4017	447	487	Macrophage chemotactic protein- (MCP-) 1	Gene-protein	HGNC:10618
+31007604_4017	503	507	CCL2	Gene-protein	HGNC:10618
+31007604_4017	681	702	serum levels of MCP-1	Biomarker
+31007604_4017	697	702	MCP-1	Gene-protein	HGNC:10618
+31007604_4017	731	746	lupus nephritis	Disease	DOID:0080162
+31007604_4017	754	774	High levels of sTNFR	Biomarker
+31007604_4017	769	774	sTNFR	Genefamily	family:782
+31007604_4017	818	831	TNF receptors	Genefamily	family:782
+31007604_4017	858	905	SLE-related autoimmune haemolytic anaemia (AIHA	Disease	not found
+31007604_4017	915	920	CCL17	Gene-protein	HGNC:10615
+31007604_4017	965	969	TARC	Gene-protein	HGNC:10615
+31007604_4017	987	1010	CC chemokine receptor 4	Gene-protein	HGNC:1605
+31007604_4017	1012	1016	CCR4	Gene-protein	HGNC:1605
+31007604_4017	1021	1039	chemokine receptor	Genefamily	family:189
+31007604_4017	1120	1152	elevation of plasma CCL17 levels	Biomarker
+31007604_4017	1140	1145	CCL17	Gene-protein
+31007604_4017	1194	1197	SLE	Disease
+31007604_4017	1211	1216	CCL20	Gene-protein	HGNC:10619
+31007604_4017	1218	1224	MIP-3a	Gene-protein	HGNC:10619
+31007604_4017	1389	1402	new-onset SLE	Disease	DOID:9074
+31007604_4017	1408	1428	high levels of CCL20	Biomarker
+31007604_4017	1423	1428	CCL20	Gene-protein
+31007604_4017	1562	1565	SLE	Disease
+

@@ -1,0 +1,64 @@
+30906831_19567|t|RSS_IDENT_p_30906831_b_1_4_3
+30906831_19567|a| The PHD2/HIF-1A pathway in the pathogenesis of hypoxemia and CCHD have been described by many experimental and clinical studies. 14 , 15 Under hypoxic conditions, upregulating the adaptive gene (e.g. VEGF, EPO, and several glycolytic enzymes) by the accumulated HIF-1A protein plays an important role in response to hypoxia, and improves the outcome of CCHD patients. 16 , 17 , 18 , 19 , 20 Overexpression of VEGF increases neovascularization and peripheral oxygen delivery, improving hypoxic response in individuals with hypoxemia. 17 , 21 Likewise, EPO maintains oxygen homeostasis by stimulating the proliferation of erythroid progenitors for erythropoiesis under hypoxic conditions. Increased erythrocyte amounts facilitate O₂ transport in response to hypoxia. ²² These evidences demonstrate that overexpression of VEGF and EPO indeed could improve hypoxemia and CCHD prognosis in association with the PHD2/HIF-1A pathway. In this study, compared with wild-type individuals, the c.380G>C group showed a lower hypoxia incidence and a higher collateral vessel formation rate. Angiogenesis is one of the known mechanisms of hypoxia response. The current findings suggested that the c.380G>C mutation might benefit hypoxic response. In in vitro experiments, we found that the c.380G>C mutation increased HIF-1A protein accumulation. In addition VEGF and EPO were upregulated in the c.380G>C mutation group, in association with PHD2/HIF-1A signaling. Overexpression of VEGF and EPO enhances tolerance to hypoxia and improves the outcome of CCHD patients, as elucidated previously. Therefore, our findings suggested that the c.380G>C mutation protects patients with CCHD from hypoxia in association with the PHD2/HIF-1A pathway. This may provide a molecular mechanism for hypoxic response in patients with CCHD. 
+30906831_19567	34	38	PHD2	Gene-protein	HGNC:1232
+30906831_19567	34	53	PHD2/HIF-1A pathway	Biomarker
+30906831_19567	39	45	HIF-1A	Gene-protein	HGNC:4910
+30906831_19567	77	86	hypoxemia	Disease	D000860
+30906831_19567	77	95	hypoxemia and CCHD	Collection
+30906831_19567	91	95	CCHD	Disease	DOID:1682
+30906831_19567	173	180	hypoxic	Disease	DOID:1682
+30906831_19567	193	272	upregulating the adaptive gene (e.g. VEGF, EPO, and several glycolytic enzymes)	Drug	not found
+30906831_19567	230	234	VEGF	Genefamily	family:1267
+30906831_19567	236	239	EPO	Gene-protein	HGNC:3415
+30906831_19567	292	298	HIF-1A	Gene-protein
+30906831_19567	346	353	hypoxia	Disease	D000860
+30906831_19567	346	387	hypoxia, and improves the outcome of CCHD	Collection
+30906831_19567	383	387	CCHD	Disease
+30906831_19567	421	443	Overexpression of VEGF	Drug	not found
+30906831_19567	439	443	VEGF	Genefamily
+30906831_19567	488	494	oxygen	Chemical
+30906831_19567	515	522	hypoxic	Disease
+30906831_19567	515	561	hypoxic response in individuals with hypoxemia	Collection
+30906831_19567	552	561	hypoxemia	Disease
+30906831_19567	581	584	EPO	Gene-protein
+30906831_19567	595	601	oxygen	Chemical
+30906831_19567	697	704	hypoxic	Disease
+30906831_19567	758	760	O₂	Chemical
+30906831_19567	786	793	hypoxia	Disease
+30906831_19567	831	861	overexpression of VEGF and EPO	Biomarker
+30906831_19567	849	853	VEGF	Genefamily
+30906831_19567	858	861	EPO	Gene-protein
+30906831_19567	883	892	hypoxemia	Disease
+30906831_19567	883	901	hypoxemia and CCHD	Collection
+30906831_19567	897	901	CCHD	Disease
+30906831_19567	936	940	PHD2	Gene-protein
+30906831_19567	941	947	HIF-1A	Gene-protein
+30906831_19567	1013	1021	c.380G>C	Biomarker
+30906831_19567	1043	1050	hypoxia	Disease
+30906831_19567	1067	1106	higher collateral vessel formation rate	Biomarker
+30906831_19567	1155	1162	hypoxia	Disease
+30906831_19567	1213	1230	c.380G>C mutation	Biomarker
+30906831_19567	1245	1252	hypoxic	Disease
+30906831_19567	1306	1323	c.380G>C mutation	Biomarker
+30906831_19567	1334	1340	HIF-1A	Gene-protein
+30906831_19567	1375	1379	VEGF	Genefamily
+30906831_19567	1375	1404	VEGF and EPO were upregulated	Biomarker
+30906831_19567	1384	1387	EPO	Gene-protein
+30906831_19567	1412	1429	c.380G>C mutation	Biomarker
+30906831_19567	1457	1461	PHD2	Gene-protein
+30906831_19567	1462	1468	HIF-1A	Gene-protein
+30906831_19567	1480	1510	Overexpression of VEGF and EPO	Biomarker
+30906831_19567	1498	1502	VEGF	Genefamily
+30906831_19567	1507	1510	EPO	Gene-protein
+30906831_19567	1533	1540	hypoxia	Disease
+30906831_19567	1533	1573	hypoxia and improves the outcome of CCHD	Collection
+30906831_19567	1569	1573	CCHD	Disease
+30906831_19567	1653	1670	c.380G>C mutation	Biomarker
+30906831_19567	1694	1698	CCHD	Disease
+30906831_19567	1694	1711	CCHD from hypoxia	Collection
+30906831_19567	1704	1711	hypoxia	Disease
+30906831_19567	1736	1740	PHD2	Gene-protein
+30906831_19567	1741	1747	HIF-1A	Gene-protein
+30906831_19567	1800	1807	hypoxic	Disease
+30906831_19567	1834	1838	CCHD	Disease
+

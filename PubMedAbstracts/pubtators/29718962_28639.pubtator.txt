@@ -1,0 +1,34 @@
+29718962_28639|t|RSS_IDENT_p_29718962_b_1_4_6
+29718962_28639|a| It was reported that the annual growth rate of atheromas in the carotid arteries plateaus around the G3 stage in CKD patients [ 31 ]. Furthermore, the risk of atherosclerosis-related cardiovascular disease increases after CKD progresses to stage G3-G4. After the progression of CKD to stage G4-5, non-atherosclerotic disease becomes the leading risk factor for cardiovascular disease [ 32 ]. In this study, the relative serum HMW-ADPN level was found to be positively correlated with the serum HDL-C level, but negatively correlated with the serum levels of LDL-C and non-HDL-C. In addition, the patients with advanced calcification of the abdominal aorta displayed lower absolute and relative serum HMW-ADPN levels. Our results suggest that treating dyslipidemia might ameliorate arterial calcification by increasing the serum HMW-ADPN level in renal allograft recipients because the patients’ renal function improved from CKD stage G5D to stage G2-G3aT after the renal transplants. Otherwise, a recent report by Chen et al. found that repeated coronary artery calcification (CAC) imaging in 35 patients with end-stage renal disease showed that statin therapy was associated with greater progression of CAC. They also found that in vitro synthesis of menaquinone-4 by human vascular smooth muscle cells was significantly impaired by statins [ 33 ]. Hence, novel therapies to target lipids may be needed in patients with kidney disease in future. 
+29718962_28639	77	86	atheromas	Disease	D058226
+29718962_28639	143	146	CKD	Disease	DOID:784
+29718962_28639	189	235	atherosclerosis-related cardiovascular disease	Disease	not found
+29718962_28639	246	281	after CKD progresses to stage G3-G4	Biomarker
+29718962_28639	327	354	non-atherosclerotic disease	Biomarker
+29718962_28639	391	413	cardiovascular disease	Disease	DOID:1287
+29718962_28639	441	470	relative serum HMW-ADPN level	Biomarker
+29718962_28639	460	464	ADPN	Gene-protein	HGNC:13633
+29718962_28639	518	535	serum HDL-C level	Biomarker
+29718962_28639	524	529	HDL-C	Chemical
+29718962_28639	572	593	serum levels of LDL-C	Biomarker
+29718962_28639	588	593	LDL-C	Chemical
+29718962_28639	598	607	non-HDL-C	Biomarker
+29718962_28639	601	607	-HDL-C	Chemical
+29718962_28639	640	685	advanced calcification of the abdominal aorta	Biomarker
+29718962_28639	696	745	lower absolute and relative serum HMW-ADPN levels	Biomarker
+29718962_28639	734	738	ADPN	Gene-protein
+29718962_28639	781	793	dyslipidemia	Disease	DOID:3146
+29718962_28639	837	872	increasing the serum HMW-ADPN level	Biomarker
+29718962_28639	862	866	ADPN	Gene-protein
+29718962_28639	954	957	CKD	Disease
+29718962_28639	1076	1105	coronary artery calcification	Disease	not found
+29718962_28639	1107	1110	CAC	Disease	not found
+29718962_28639	1140	1163	end-stage renal disease	Disease	not found
+29718962_28639	1176	1182	statin	Drug-class
+29718962_28639	1234	1237	CAC	Disease
+29718962_28639	1282	1295	menaquinone-4	Chemical
+29718962_28639	1364	1371	statins	Drug-class
+29718962_28639	1413	1419	lipids	Chemical
+29718962_28639	1413	1419	lipids	Biomarker	D008055
+29718962_28639	1451	1465	kidney disease	Disease	DOID:557
+

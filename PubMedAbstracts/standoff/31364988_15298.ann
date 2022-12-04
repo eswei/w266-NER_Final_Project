@@ -1,0 +1,60 @@
+T10	Variant 1007 1015	W550stop
+T11	Variant 1142 1147	C341Y
+T12	Variant 1159 1165	L1355F
+T14	Disease 1337 1355	locomotion defects
+#3	AnnotatorNotes T14	not found
+T15	Variant 1367 1372	I970T
+T17	Variant 1452 1458	G1475D
+T19	Variant 1573 1578	D892N
+T3	Biomarker 212 254	unc-2(lf) mutants are also slightly longer
+T4	Biomarker 298 324	reduced muscle contraction
+T5	Variant 419 425	G1132R
+T6	Biomarker 490 535	loss-of-function mutations in the unc-2 locus
+T1	Gene-Protein 64 69	unc-2
+T13	Gene-Protein 100 105	unc-2
+T16	Gene-Protein 212 217	unc-2
+T22	Gene-Protein 377 382	unc-2
+T31	Gene-Protein 361 366	unc-2
+T32	Gene-Protein 1314 1319	zf130
+T33	Gene-Protein 1304 1309	zf134
+T34	Gene-Protein 966 971	unc-2
+T36	Gene-Protein 654 659	unc-2
+T38	Gene-Protein 612 617	unc-2
+T41	Gene-Protein 1983 1988	unc-2
+T42	Gene-Protein 1893 1898	unc-2
+T46	Gene-Protein 2018 2023	unc-2
+T48	Gene-Protein 2060 2065	unc-2
+T51	Gene-Protein 1782 1787	unc-2
+T52	Gene-Protein 1663 1668	unc-2
+T53	Gene-Protein 524 529	unc-2
+T54	Gene-Protein 1125 1130	unc-2
+T55	Biomarker 100 135	unc-2 loss-of-function (lf) mutants
+T58	Variant 1027 1036	M1369stop
+T59	Biomarker 161 185	reduced motor activities
+A1	Gain-of-funtion T5
+#1	AnnotatorNotes T5	p.Gly1132Arg
+T7	Gene-Protein 786 791	unc-2
+T8	Variant 972 975	e55
+A2	Loss-of-funtion T8
+#2	AnnotatorNotes T12	p.Leu1355Phe
+#4	AnnotatorNotes T11	p.Cys341Tyr
+#5	AnnotatorNotes T15	p.Ile970Thr
+#6	AnnotatorNotes T17	p.Gly1475Asp
+#7	AnnotatorNotes T19	p.Asp892ASN
+T9	ProteinDomain 1616 1626	domain III
+T21	ProteinDomain 1256 1271	domain I and IV
+#8	AnnotatorNotes T10	p.Trp550Ter
+#9	AnnotatorNotes T58	p.Met1369Ter
+A3	Loss-of-funtion T58
+A4	Loss-of-funtion T10
+R4	Variant-Of Arg1:T34 Arg2:T8	
+R2	Variant-Of Arg1:T22 Arg2:T5	
+T2	Collection 1006 1037	(W550stop) and zf124(M1369stop)
+R3	Variant-Of Arg1:T54 Arg2:T2	
+T18	Collection 1141 1166	(C341Y) and zf109(L1355F)
+R5	Variant-Of Arg1:T54 Arg2:T18	
+R6	Variant-Of Arg1:T52 Arg2:T19	
+T20	Collection 1366 1459	(I970T) mutation affects an amino acid in the conserved voltage sensor, and the zf130(G1475D)
+R7	Variant-Of Arg1:T52 Arg2:T20	
+T23	Biomarker 737 791	missense or non-sense secondary mutations in the unc-2
+R1	Association Arg1:T20 Arg2:T14	

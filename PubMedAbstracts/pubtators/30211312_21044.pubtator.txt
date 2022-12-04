@@ -1,0 +1,32 @@
+30211312_21044|t|RSS_IDENT_s_30211312_b_1_2_10
+30211312_21044|a| DTC gene expression profiles appear different from those of CTCs Next, we compared expression profiles of DTCs with CTC gene expression data recently reported by our group. ⁹ In a previous study, CTCs were isolated from blood of metastatic breast cancer patients using the same IE/FACS method, and profiled using the same microfluidic aQPCR platform. The merged data was normalized using the reference genes (RPS18 and ACTB). Unsupervised hierarchical clustering of CTCs (n = 105), DTCs (n = 30), blood (n = 76), and bone marrow leukocytes (n = 15) revealed four major clusters (Fig. 6a). The first cluster, which formed an entirely separate group, contained identical DTC samples from previously identified cluster 1. The second cluster contained samples that were predominantly CTCs. The third cluster contained a combination of blood and marrow leukocytes. The fourth cluster had seven subclusters, each with mostly the same cell types. Subcluster 6, for example, contained all but one of the DTC samples belonging to the previously identified cluster 2. Two-dimensional t-SNE analysis to identify clusters revealed similar results (Fig. 6b). In general, bone marrow and blood leukocytes clustered together, while CTCs formed a separate cluster. Moreover, DTC samples separated into two groups corresponding to the clusters identified above. Fig. 6 DTCs and CTCs exhibit expression profiles that are unique from each other. a Unsupervised hierarchical clustering analysis of CTCs (n = 105) and DTCs (n = 30) along with matched blood leukocytes (n = 76) and marrow leukocytes (n = 15). b t-SNE analysis to determine clusters based on similarities in gene expression. c A rose plot showing genes upregulated in DTCs and CTCs. Genes with an adjusted p-value < 0.05 were considered statistically significant. Relative quantification (RQ) is reported in the logarithmic scale (log10 RQ = log10^2-∆∆CT). A Log10 RQ = 1 or −1 means a gene is expressed 10 times or 1/10 as much, respectively Differential expression analysis revealed that, relative to DTCs, CTCs exhibit upregulation of epithelial (KRT7, KRT19, MUC1) and EMT (SNAI1) markers; upregulation of the androgen receptor (AR), estrogen-related genes (ESR1, AGR2, SCUBE2, SCGB2A2, SCGB2A1, TFF1, TFF3), as well as HER2-related genes (ERBB2, GRB7) (Fig. 6c). DTCs, on the other hand, displayed upregulation of mesenchymal (VIM) and epithelial markers (KRT6A, KRT6B, KRT18), and putative stem cell marker ALDH1A1.
+30211312_21044	260	284	metastatic breast cancer	Disease	DOID:1612
+30211312_21044	440	445	RPS18	Gene-protein	HGNC:10401
+30211312_21044	450	454	ACTB	Gene-protein	HGNC:132
+30211312_21044	2097	2167	upregulation of epithelial (KRT7, KRT19, MUC1) and EMT (SNAI1) markers	Biomarker
+30211312_21044	2125	2129	KRT7	Gene-protein	HGNC:6445
+30211312_21044	2131	2136	KRT19	Gene-protein	HGNC:6436
+30211312_21044	2138	2142	MUC1	Gene-protein	HGNC:7508
+30211312_21044	2153	2158	SNAI1	Gene-protein	HGNC:11128
+30211312_21044	2169	2331	upregulation of the androgen receptor (AR), estrogen-related genes (ESR1, AGR2, SCUBE2, SCGB2A2, SCGB2A1, TFF1, TFF3), as well as HER2-related genes (ERBB2, GRB7)	Biomarker
+30211312_21044	2189	2197	androgen	Chemical
+30211312_21044	2189	2206	androgen receptor	Gene-protein	HGNC:644
+30211312_21044	2208	2210	AR	Gene-protein	HGNC:644
+30211312_21044	2213	2221	estrogen	Chemical
+30211312_21044	2237	2241	ESR1	Gene-protein	HGNC:3467
+30211312_21044	2243	2247	AGR2	Gene-protein	HGNC:328
+30211312_21044	2249	2255	SCUBE2	Gene-protein	HGNC:30425
+30211312_21044	2257	2264	SCGB2A2	Gene-protein	HGNC:7050
+30211312_21044	2266	2273	SCGB2A1	Gene-protein	HGNC:7051
+30211312_21044	2275	2279	TFF1	Gene-protein	HGNC:11755
+30211312_21044	2281	2285	TFF3	Gene-protein	HGNC:11757
+30211312_21044	2299	2303	HER2	Gene-protein	HGNC:3430
+30211312_21044	2319	2324	ERBB2	Gene-protein	HGNC:3430
+30211312_21044	2326	2330	GRB7	Gene-protein	HGNC:4567
+30211312_21044	2378	2495	upregulation of mesenchymal (VIM) and epithelial markers (KRT6A, KRT6B, KRT18), and putative stem cell marker ALDH1A1	Biomarker
+30211312_21044	2407	2410	VIM	Gene-protein	HGNC:12692
+30211312_21044	2436	2441	KRT6A	Gene-protein	HGNC:6443
+30211312_21044	2443	2448	KRT6B	Gene-protein	HGNC:6444
+30211312_21044	2450	2455	KRT18	Gene-protein	HGNC:6430
+30211312_21044	2488	2495	ALDH1A1	Gene-protein	HGNC:402
+

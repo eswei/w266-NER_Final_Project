@@ -1,0 +1,41 @@
+31516228_17325|t|RSS_IDENT_p_31516228_b_1_4_3
+31516228_17325|a| In our study, the p-16 immunoexpression was identified in 47.4% of the premalignant cases and 37.3% of malignant cases with maximal positivity in OIN III lesions (77.8%). Hence, we found increased immunoexpression with increasing grades of dysplasia with OIN I lesions showing positive p-16 immunoexpression in only 16.7% of cases as compared to 25% in OIN II and 77.8% in OIN III. Majority of malignant lesions displayed lower p-16 immunoexpression than OIN III lesions. Only the poorly differentiated tumors had high proportion of cases with positive p-16 immunostaining. This is in contrast to other studies who have found low to absent p-16 immunoexpression at the level of the invasion front of poorly differentiated tumors.[ 11 12 ] Similar to our study, Angiero et al. have demonstrated an increase in p-16 expression in higher grades of dysplasia and invasive oral squamous cell tumors.[ 13 ] Dragomir et al., 2012[ 14 ] and Gologan et al.[ 15 ] found that the positivity index and the intensity of reaction were increased at the level of dysplastic epithelium for p-16 but reduced in tumor and their invasion front. Still, others have not found any correlation between p-16 immunoexpression and tumoral grade and stage.[ 16 17 ] Although the literature shows conflicting results for oral lesions without any consensus, our present study infers that p-16 immunoexpression and pattern correlates with the malignant transformation in oral and oropharyngeal lesions with increased immunoexpression in increasing degrees of dysplasia.
+31516228_17325	48	52	p-16	Gene-protein	HGNC:1787
+31516228_17325	48	69	p-16 immunoexpression	Biomarker
+31516228_17325	101	113	premalignant	Disease	D011230
+31516228_17325	101	191	premalignant cases and 37.3% of malignant cases with maximal positivity in OIN III lesions	Collection
+31516228_17325	133	142	malignant	Disease	DOID:162
+31516228_17325	176	191	OIN III lesions	Disease	not found
+31516228_17325	217	243	increased immunoexpression	Biomarker
+31516228_17325	270	298	dysplasia with OIN I lesions	Disease	not found, not found
+31516228_17325	307	337	positive p-16 immunoexpression	Biomarker
+31516228_17325	316	320	p-16	Gene-protein
+31516228_17325	383	389	OIN II	Disease	not found
+31516228_17325	403	410	OIN III	Disease	not found
+31516228_17325	424	441	malignant lesions	Disease	DOID:162
+31516228_17325	452	479	lower p-16 immunoexpression	Biomarker
+31516228_17325	458	462	p-16	Gene-protein
+31516228_17325	485	500	OIN III lesions	Disease
+31516228_17325	511	539	poorly differentiated tumors	Disease	not found
+31516228_17325	544	602	high proportion of cases with positive p-16 immunostaining	Biomarker
+31516228_17325	583	587	p-16	Gene-protein
+31516228_17325	656	691	low to absent p-16 immunoexpression	Biomarker
+31516228_17325	670	674	p-16	Gene-protein
+31516228_17325	730	758	poorly differentiated tumors	Disease	not found
+31516228_17325	827	854	increase in p-16 expression	Biomarker
+31516228_17325	839	843	p-16	Gene-protein
+31516228_17325	858	884	higher grades of dysplasia	Disease	not found
+31516228_17325	875	923	dysplasia and invasive oral squamous cell tumors	Collection
+31516228_17325	889	923	invasive oral squamous cell tumors	Disease	not found
+31516228_17325	1103	1107	p-16	Gene-protein
+31516228_17325	1123	1128	tumor	Disease	DOID:162
+31516228_17325	1208	1212	p-16	Gene-protein
+31516228_17325	1208	1229	p-16 immunoexpression	Biomarker
+31516228_17325	1234	1257	tumoral grade and stage	Biomarker
+31516228_17325	1322	1334	oral lesions	Disease	not found
+31516228_17325	1388	1392	p-16	Gene-protein
+31516228_17325	1388	1421	p-16 immunoexpression and pattern	Biomarker
+31516228_17325	1442	1451	malignant	Disease
+31516228_17325	1479	1500	oropharyngeal lesions	Disease	not found
+31516228_17325	1558	1567	dysplasia	Disease
+

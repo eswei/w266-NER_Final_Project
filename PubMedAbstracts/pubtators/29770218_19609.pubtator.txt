@@ -1,0 +1,51 @@
+29770218_19609|t|RSS_IDENT_p_29770218_b_1_4_5
+29770218_19609|a| Finding diagnostic markers of psychiatric illness is an interesting area of research. In many earlier studies, peripheral biomarkers were planned for different psychiatric diseases. Fındıklı et al. ⁴⁴ demonstrated that serum levels of G protein-coupled estrogen receptor 1 (GPER1) had a prognostic value for the existence of anxiety and GPER1 receptor action can be an applicant marker for generalized anxiety disorder (GAD). Bulut et al. ⁴⁵ examined paraoxonase action in patients with GAD, and the AUC value was 0.980. Camkurt et al. ⁸ indicated an AUC value of 1.0 for MDA in MDD patients. Moreover, Güneş et al. ⁴⁶ identified that prolidase was a decent marker for schizophrenia (AUC: 1.0). Selek et al. ⁴⁷ also stated very good diagnostic performance for both prolidase (AUC: 0.989) and catalase (AUC: 0.989). Now, a rising body of evidence occurs concerning the diagnostic performance of many peripheral biomarkers in mental illness. From this point of view, our study found that MDA and cortisol levels had significant diagnostic values for major depression (AUC: 0.853 and 0.819, p < 0.001). We do not make an interpretation from this; MDA and cortisol are unique diagnostic indicators for MDD. Nevertheless, as we clarified above, amplified MDA and cortisol look like a dependable result for MDD in most of the patients. By adding our findings to the earlier information, we prudently infer that MDA and cortisol levels could be the applicant markers for MDD. We recommend further works in the similar field should emphasis on greater and more similar samples to detect whether MDA and cortisol could be indicators for depression. The limitations of this study are the lack of food intake data of study population and the single measurement of cortisol. 
+29770218_19609	60	79	psychiatric illness	Disease	D001523
+29770218_19609	190	210	psychiatric diseases	Disease	D001523
+29770218_19609	249	310	serum levels of G protein-coupled estrogen receptor 1 (GPER1)	Biomarker
+29770218_19609	265	302	G protein-coupled estrogen receptor 1	Gene-protein	HGNC:4485
+29770218_19609	283	291	estrogen	Chemical
+29770218_19609	304	309	GPER1	Gene-protein	HGNC:4485
+29770218_19609	355	362	anxiety	Disease	DOID:2030
+29770218_19609	367	381	GPER1 receptor	Gene-protein	HGNC:4485
+29770218_19609	367	388	GPER1 receptor action	Biomarker
+29770218_19609	420	448	generalized anxiety disorder	Disease	DOID:14320
+29770218_19609	450	453	GAD	Disease	DOID:14320
+29770218_19609	481	492	paraoxonase	Genefamily	family:463
+29770218_19609	517	520	GAD	Disease
+29770218_19609	602	605	MDA	Chemical
+29770218_19609	609	612	MDD	Disease	DOID:1470
+29770218_19609	665	674	prolidase	Gene-protein	HGNC:8840
+29770218_19609	665	674	prolidase	Biomarker	DOID:1470
+29770218_19609	699	712	schizophrenia	Disease	DOID:5419
+29770218_19609	795	804	prolidase	Gene-protein
+29770218_19609	795	804	prolidase	Biomarker
+29770218_19609	822	830	catalase	Gene-protein	HGNC:1516
+29770218_19609	822	830	catalase	Biomarker	 D002374
+29770218_19609	954	968	mental illness	Disease	D001523
+29770218_19609	1016	1019	MDA	Chemical
+29770218_19609	1016	1039	MDA and cortisol levels	Biomarker
+29770218_19609	1024	1032	cortisol	Chemical
+29770218_19609	1078	1094	major depression	Disease	not found
+29770218_19609	1174	1177	MDA	Chemical
+29770218_19609	1174	1177	MDA	Biomarker	D008315
+29770218_19609	1174	1190	MDA and cortisol	Collection
+29770218_19609	1182	1190	cortisol	Chemical
+29770218_19609	1182	1190	cortisol	Biomarker	D006854
+29770218_19609	1228	1231	MDD	Disease
+29770218_19609	1270	1296	amplified MDA and cortisol	Biomarker
+29770218_19609	1280	1283	MDA	Chemical
+29770218_19609	1288	1296	cortisol	Chemical
+29770218_19609	1331	1334	MDD	Disease
+29770218_19609	1435	1438	MDA	Chemical
+29770218_19609	1435	1458	MDA and cortisol levels	Biomarker
+29770218_19609	1443	1451	cortisol	Chemical
+29770218_19609	1494	1497	MDD	Disease
+29770218_19609	1617	1620	MDA	Chemical
+29770218_19609	1617	1620	MDA	Biomarker
+29770218_19609	1625	1633	cortisol	Chemical
+29770218_19609	1625	1633	cortisol	Biomarker
+29770218_19609	1658	1668	depression	Disease	DOID:1596
+29770218_19609	1783	1791	cortisol	Chemical
+29770218_19609	1783	1791	cortisol	Biomarker
+

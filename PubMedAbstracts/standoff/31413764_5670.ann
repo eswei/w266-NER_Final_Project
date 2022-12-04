@@ -1,0 +1,64 @@
+T0	Disease 96 102	tumors
+#1	AnnotatorNotes T0	DOID:162
+T1	Disease 111 124	paraganglioma
+#2	AnnotatorNotes T1	DOID:0050773
+T10	Disease 462 465	CSS
+#3	AnnotatorNotes T10	DOID:0070042
+T13	Disease 553 566	paraganglioma
+T14	Disease 571 575	GIST
+T15	Gene-Protein 636 640	SDHB
+T16	Gene-Protein 682 686	SDHA
+T17	Disease 743 755	Carney triad
+#10	AnnotatorNotes T17	C565803
+T18	Disease 757 759	CT
+T2	Disease 129 145	pheochromocytoma
+#13	AnnotatorNotes T2	DOID:0050771
+T23	Gene-Protein 945 949	SDHC
+T25	Disease 1089 1103	Leigh syndrome
+#19	AnnotatorNotes T25	DOID:3652
+T27	Biomarker 1154 1203	neurodegenerative mitochondrial encephalomyopathy
+T3	Disease 258 287	paraganglioma syndrome type 5
+#22	AnnotatorNotes T3	not found
+T5	Disease 360 374	paragangliomas
+#24	AnnotatorNotes T5	DOID:0050773
+T6	Disease 376 393	pheochromocytomas
+#25	AnnotatorNotes T6	DOID:0050771
+T7	Disease 395 399	GIST
+#26	AnnotatorNotes T7	DOID:9253
+T8	Disease 404 422	pituitary adenomas
+#27	AnnotatorNotes T8	DOID:3829
+T9	Disease 435 460	Carney-Stratakis syndrome
+#28	AnnotatorNotes T9	DOID:0080533
+T28	Biomarker 30 53	SDHx germline mutations
+T29	Collection 96 145	tumors, mainly paraganglioma and pheochromocytoma
+R1	Risk-Factor Arg1:T28 Arg2:T29	
+T30	Biomarker 147 194	SDHA (5p15.33) heterozygous pathogenic variants
+T31	Collection 258 422	paraganglioma syndrome type 5 (PGL5, OMIM 614165) associated to an increase in the risk of developing paragangliomas, pheochromocytomas, GIST and pituitary adenomas
+R2	Risk-Factor Arg1:T30 Arg2:T31	
+T32	Biomarker 541 598	presence of paraganglioma and GIST in the same individual
+R3	Association Arg1:T32 Arg2:T9	
+T12	Biomarker 614 655	germline mutations in SDHB, SDHC and SDHD
+T33	Biomarker 682 707	SDHA pathogenic mutations
+T19	Biomarker 824 890	presence of gastric GISTs, paragangliomas and pulmonary chondromas
+T34	Biomarker 945 975	SDHC promoter hypermethylation
+T35	Collection 824 975	presence of gastric GISTs, paragangliomas and pulmonary chondromas, it’s almost always not inherited and it’s related to SDHC promoter hypermethylation
+R4	Association Arg1:T35 Arg2:T17	
+T36	Biomarker 992 1050	homozygous and compound heterozygous mutations in the SDHA
+R5	Association Arg1:T36 Arg2:T25	
+R6	Association Arg1:T27 Arg2:T25	
+T26	GeneFamily 30 34	SDHx
+#5	AnnotatorNotes T26	family:641
+T37	Gene-Protein 147 151	SDHA
+#8	AnnotatorNotes T37	HGNC:10680
+T38	Disease 289 293	PGL5
+#9	AnnotatorNotes T38	not found
+#4	AnnotatorNotes T15	HGNC:10681
+R7	Risk-Factor Arg1:T12 Arg2:T9	
+T4	Gene-Protein 642 646	SDHC
+#6	AnnotatorNotes T4	HGNC:10682
+T11	Gene-Protein 651 655	SDHD
+#7	AnnotatorNotes T11	HGNC:10683
+#11	AnnotatorNotes T18	C565803
+T24	Gene-Protein 1046 1050	SDHA
+T20	Disease 481 504	GIST-paraganglioma dyad
+#12	AnnotatorNotes T20	DOID:0080533

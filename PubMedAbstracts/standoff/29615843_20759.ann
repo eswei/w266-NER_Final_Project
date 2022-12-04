@@ -1,0 +1,60 @@
+T1	Disease 81 95	bladder cancer
+#1	AnnotatorNotes T1	DOID:11054
+T10	Disease 477 516	Lung ADC with EGFR-activating mutations
+#2	AnnotatorNotes T10	not found
+T12	Drug 535 544	gefitinib
+T13	Gene-Protein 557 561	EGFR
+T14	Disease 557 585	EGFR-non-mutated lung cancer
+#5	AnnotatorNotes T14	not found
+T17	Disease 701 714	breast cancer
+#6	AnnotatorNotes T17	DOID:1612
+T18	Disease 830 843	breast cancer
+T2	Disease 134 139	tumor
+#9	AnnotatorNotes T2	DOID:162
+T23	Disease 1090 1105	prostate cancer
+#11	AnnotatorNotes T23	DOID:10283
+T3	Disease 165 188	thanatophoric dysplasia
+#12	AnnotatorNotes T3	DOID:13481
+T5	Disease 241 272	low-grade or superficial tumors
+#13	AnnotatorNotes T5	not found
+T7	Disease 278 314	high-grade or muscle-invasive tumors
+#15	AnnotatorNotes T7	not found
+T4	Gene-Protein 52 57	ZWINT
+#3	AnnotatorNotes T4	HGNC:13195
+T9	Biomarker 52 73	ZWINT was upregulated
+R1	Association Arg1:T9 Arg2:T1	
+T11	Gene-Protein 116 121	FGFR3
+#4	AnnotatorNotes T11	HGNC:3690
+T15	Biomarker 189 237	mutations in FGFR3 gene was significantly higher
+T16	Gene-Protein 202 207	FGFR3
+R2	Association Arg1:T15 Arg2:T3	
+R3	Association Arg1:T15 Arg2:T5	
+T6	Gene-Protein 398 403	ZWINT
+T8	Biomarker 398 414	ZWINT was higher
+T24	Gene-Protein 422 426	EGFR
+#14	AnnotatorNotes T24	HGNC:3236
+T25	Gene-Protein 457 461	EGFR
+T26	Gene-Protein 491 495	EGFR
+#16	AnnotatorNotes T12	CHEMBL939
+R4	Response Arg1:T12 Arg2:T10	
+T27	Biomarker 596 620	high expression of ZWINT
+T28	Gene-Protein 615 620	ZWINT
+R5	Association Arg1:T27 Arg2:T14	
+T29	CellLine 715 719	MCF7
+T30	Biomarker 757 783	stable expression of ZWINT
+T31	Gene-Protein 778 783	ZWINT
+R6	Association Arg1:T30 Arg2:T17	
+T32	Drug-Class 798 816	romatase inhibitor
+T33	Gene-Protein 797 806	aromatase
+#17	AnnotatorNotes T33	HGNC:2594
+T19	Gene-Protein 892 897	ZWINT
+T34	Gene-Protein 947 952	ZWINT
+T35	Biomarker 933 966	expression of ZWINT was increased
+T36	Biomarker 1011 1056	AR gene amplification with high AR expression
+T22	Collection 933 1056	expression of ZWINT was increased in castration-resistant prostate containing AR gene amplification with high AR expression
+R8	Association Arg1:T22 Arg2:T23	
+T37	Drug-Class 1064 1080	COX-2 inhibitors
+R9	Response Arg1:T37 Arg2:T23	
+T38	Gene-Protein 1064 1069	COX-2
+#7	AnnotatorNotes T38	HGNC:9605
+T39	Gene-Protein 1174 1179	ZWINT

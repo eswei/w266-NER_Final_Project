@@ -1,0 +1,34 @@
+T1	Disease 143 146	SLE
+#1	AnnotatorNotes T1	DOID:9074
+T10	Chemical 601 605	acyl
+T11	Chemical 648 651	Cer
+T13	Chemical 769 772	Cer
+T14	Disease 833 836	SLE
+T17	Chemical 968 991	reactive oxygen species
+T19	Chemical 1052 1055	ATP
+T24	Chemical 1197 1200	dPE
+T25	Chemical 1216 1219	Cer
+T26	Disease 1343 1346	SLE
+T3	Disease 239 242	SLE
+T6	Chemical 293 300	calcium
+T8	Disease 461 464	SLE
+T9	Chemical 527 530	Cer
+T2	Biomarker 52 99	abnormalities in different types of lymphocytes
+R1	Association Arg1:T2 Arg2:T1	
+T4	Biomarker 215 235	B cells are abnormal
+R2	Association Arg1:T4 Arg2:T3	
+T5	Biomarker 745 780	altered compositions of Cer species
+R3	Association Arg1:T5 Arg2:T14	
+T7	Gene-Protein 838 843	IL-10
+#2	AnnotatorNotes T7	HGNC:5962
+T12	Gene-Protein 331 346	B-cell receptor
+#3	AnnotatorNotes T12	not found
+T15	Biomarker 1052 1065	ATP reduction
+T16	Biomarker 1070 1095	necrosis of lupus T cells
+T18	Collection 1052 1095	ATP reduction and necrosis of lupus T cells
+T20	Biomarker 1000 1031	Mitochondrial hyperpolarization
+T21	Disease 1123 1156	inflammation in patients with SLE
+#4	AnnotatorNotes T21	D007249, DOID:9074
+R4	Association Arg1:T18 Arg2:T21	
+T22	Biomarker 1173 1227	altered compositions of dPE species and of Cer species
+T23	Biomarker 1263 1309	abnormal lymphocytes activation and cell death

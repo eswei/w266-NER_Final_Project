@@ -1,0 +1,30 @@
+29564317_16540|t|RSS_IDENT_p_29564317_b_1_4_3
+29564317_16540|a| Since its discovery, some association has been established between visfatin and PCOS but with conflicting results [ 4 17 18 19 20 21 22 23 24 25 26 27 28 ]. A number of studies have reported that women with PCOS have higher visfatin levels than those in BMI-matched [ 17 21 34 35 ] or unmatched controls [ 18 36 37 38 ]. Moreover, visfatin levels in normal-weight PCOS patients has been found to be higher than those in obese controls [ 19 ]. On the other hand, serum visfatin levels have been reported to be similar between women with PCOS and BMI-matched [ 27 ] or unmatched controls [ 24 25 26 28 ]. Farshchian et al. [ 27 ] reported that serum visfatin levels were higher in obese women compared to those in normal-weight subjects, but there were no differences in serum visfatin levels between PCOS patients and the controls. Thus, to minimize the effect of obesity, the current study analyzed circulating visfatin levels in non-obese patients and BMI-matched controls and found no differences in serum visfatin levels between these groups. Although there is a possibility that the small differences in serum visfatin levels in lean patients and controls may require a larger number of subjects to demonstrate differences, the findings of this study seem to indicate that visfatin levels are not directly related with the pathophysiology of PCOS after controlling for the effect of obesity. 
+29564317_16540	97	105	visfatin	Gene-protein	HGNC:30092
+29564317_16540	110	114	PCOS	Disease	DOID:11612
+29564317_16540	237	241	PCOS	Disease
+29564317_16540	247	269	higher visfatin levels	Biomarker
+29564317_16540	254	262	visfatin	Gene-protein
+29564317_16540	361	369	visfatin	Gene-protein
+29564317_16540	361	369	visfatin	Biomarker	D054409
+29564317_16540	394	398	PCOS	Disease
+29564317_16540	450	455	obese	Disease	DOID:9970
+29564317_16540	492	506	serum visfatin	Biomarker
+29564317_16540	498	506	visfatin	Gene-protein
+29564317_16540	566	570	PCOS	Disease
+29564317_16540	672	705	serum visfatin levels were higher	Biomarker
+29564317_16540	678	686	visfatin	Gene-protein
+29564317_16540	709	714	obese	Disease
+29564317_16540	799	813	serum visfatin	Biomarker
+29564317_16540	805	813	visfatin	Gene-protein
+29564317_16540	829	833	PCOS	Disease
+29564317_16540	893	900	obesity	Disease	DOID:9970
+29564317_16540	941	949	visfatin	Gene-protein
+29564317_16540	1032	1046	serum visfatin	Biomarker
+29564317_16540	1038	1046	visfatin	Gene-protein
+29564317_16540	1138	1152	serum visfatin	Biomarker
+29564317_16540	1144	1152	visfatin	Gene-protein
+29564317_16540	1307	1315	visfatin	Gene-protein
+29564317_16540	1376	1380	PCOS	Disease
+29564317_16540	1417	1424	obesity	Disease
+

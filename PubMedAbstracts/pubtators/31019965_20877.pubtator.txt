@@ -1,0 +1,43 @@
+31019965_20877|t|RSS_IDENT_p_31019965_b_1_4_4
+31019965_20877|a| Many works have been done to unveil a group of cytokines known as type I interferon-regulated chemokines that plays a significant role in the development of IIM. With regard to cytokines, it has been demonstrated that CXCL9 and IP-10 are associated with anti-JO-1 antibody-associated ILD [ 26 ]. Bilgic H and Gono T individually reported that the serum levels of IL-6 were significantly correlated with dermatomyositis disease activity [ 27 , 28 ]. Consistent with previous studies, our data also demonstrated that the levels of IP-10, IL-6, MCP-1, and VEGF were significantly elevated in our patients with anti-EJ and were gradually decreased during disease remission of two patients. It is notable that the serum levels of IL-8 were obviously decreased in four patients positive with anti-EJ in the present study, but to a lesser extent. Gono T showed that IL-8 levels were significantly higher in the ILD subset of myositis especially in anti-MDA5-ILD, indicating that serum IL-8 is a useful predictor for fatal outcome due to ILD [ 28 ]. In the study of Bilgic H, the serum levels of IL-8 were also significantly lower in adult DM and juvenile DM than those in health controls [ 27 ]. The controversial data about serum IL-8 level of myositis patients may attribute to small number of patients, determination of myositis specific antibodies, and serum sampling time and so on. 
+31019965_20877	77	86	cytokines	Genefamily	not found
+31019965_20877	96	134	type I interferon-regulated chemokines	Biomarker
+31019965_20877	96	134	type I interferon-regulated chemokines	Genefamily	not found
+31019965_20877	187	190	IIM	Disease	DOID:633
+31019965_20877	207	216	cytokines	Genefamily
+31019965_20877	248	253	CXCL9	Gene-protein	HGNC:7098
+31019965_20877	248	253	CXCL9	Biomarker	D054370
+31019965_20877	248	263	CXCL9 and IP-10	Collection
+31019965_20877	258	263	IP-10	Gene-protein	HGNC:10637
+31019965_20877	258	263	IP-10	Biomarker	D054357
+31019965_20877	284	302	anti-JO-1 antibody	Gene-protein	not found
+31019965_20877	284	317	anti-JO-1 antibody-associated ILD	Disease	not found
+31019965_20877	377	397	serum levels of IL-6	Biomarker
+31019965_20877	393	397	IL-6	Gene-protein	HGNC:6018
+31019965_20877	433	456	dermatomyositis disease	Disease	DOID:10223
+31019965_20877	559	564	IP-10	Gene-protein
+31019965_20877	566	570	IL-6	Gene-protein
+31019965_20877	572	577	MCP-1	Gene-protein	HGNC:10618
+31019965_20877	583	587	VEGF	Gene-protein	family:1267
+31019965_20877	637	644	anti-EJ	Gene-protein	not found
+31019965_20877	755	759	IL-8	Gene-protein	HGNC:6025
+31019965_20877	816	823	anti-EJ	Gene-protein
+31019965_20877	889	893	IL-8	Gene-protein
+31019965_20877	889	926	IL-8 levels were significantly higher	Biomarker
+31019965_20877	934	937	ILD	Disease	DOID:3082
+31019965_20877	948	956	myositis	Disease	DOID:633
+31019965_20877	971	984	anti-MDA5-ILD	Disease	not found
+31019965_20877	1002	1012	serum IL-8	Biomarker
+31019965_20877	1008	1012	IL-8	Gene-protein	HGNC:6025
+31019965_20877	1060	1063	ILD	Disease
+31019965_20877	1102	1152	serum levels of IL-8 were also significantly lower	Biomarker
+31019965_20877	1118	1122	IL-8	Gene-protein
+31019965_20877	1156	1164	adult DM	Disease	DOID:9351
+31019965_20877	1156	1180	adult DM and juvenile DM	Collection
+31019965_20877	1169	1180	juvenile DM	Disease	DOID:9744
+31019965_20877	1248	1264	serum IL-8 level	Biomarker
+31019965_20877	1254	1258	IL-8	Gene-protein
+31019965_20877	1268	1276	myositis	Disease
+31019965_20877	1346	1354	myositis	Disease
+31019965_20877	1346	1374	myositis specific antibodies	Gene-protein	not found
+

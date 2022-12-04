@@ -1,0 +1,45 @@
+T0	Chemical 118 125	alcohol
+T10	Chemical 1091 1098	alcohol
+T2	Chemical 242 249	alcohol
+T4	Chemical 455 462	alcohol
+T5	Chemical 610 617	alcohol
+T6	Chemical 689 696	alcohol
+T7	Disease 711 739	myeloid cell TLR4 deficiency
+#9	AnnotatorNotes T7	not found
+T8	Chemical 904 911	ethanol
+T9	Chemical 1022 1029	alcohol
+T11	Disease 118 154	alcohol-induced hepatic inflammation
+#1	AnnotatorNotes T11	not found
+T1	Gene-Protein 90 94	TLR4
+#2	AnnotatorNotes T1	HGNC:11850
+T12	Gene-Protein 1103 1107	Tlr4
+T13	GeneFamily 1209 1231	inflammatory cytokines
+T14	Gene-Protein 972 976	IL-6
+T15	Disease 1006 1038	liver injury in alcohol-fed mice
+T16	Drug 972 976	IL-6
+R1	Response Arg1:T16 Arg2:T15	
+T17	Disease 904 937	ethanol-induced hepatic steatosis
+#3	AnnotatorNotes T17	not found
+T18	Biomarker 867 879	lacking IL-6
+R2	Association Arg1:T18 Arg2:T17	
+T19	Gene-Protein 875 879	IL-6
+T20	Gene-Protein 778 783	CD11c
+T21	Gene-Protein 819 823	IL-6
+T22	Gene-Protein 769 773	Tnfα
+T23	Biomarker 747 783	reduced expression of Tnfα and CD11c
+T24	Biomarker 810 834	elevated IL-6 expression
+T25	Collection 747 834	reduced expression of Tnfα and CD11c, as well as significantly elevated IL-6 expression
+R3	Association Arg1:T25 Arg2:T7	
+T26	Gene-Protein 562 566	TLR4
+T27	Gene-Protein 653 657	IL-6
+T28	Gene-Protein 662 667	IL-1β
+T3	Disease 426 434	necrosis
+#4	AnnotatorNotes T3	D009336
+T29	Disease 409 421	inflammation
+#5	AnnotatorNotes T29	D007249
+T30	Gene-Protein 724 728	TLR4
+T32	Biomarker 340 361	loss of Kupffer cells
+#6	AnnotatorNotes T16	D015850
+#7	AnnotatorNotes T15	not found
+#8	AnnotatorNotes T27	HGNC:6018
+#10	AnnotatorNotes T28	HGNC:5992

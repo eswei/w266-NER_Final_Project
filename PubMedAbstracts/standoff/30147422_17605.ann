@@ -1,0 +1,49 @@
+T0	Disease 160 173	aged diabetic
+#1	AnnotatorNotes T0	not found
+T1	Chemical 302 309	glucose
+T10	Chemical 902 907	NADPH
+T11	Chemical 994 1005	glutathione
+T12	Disease 1078 1086	diabetic
+T13	Chemical 1137 1140	GSH
+T14	Chemical 1160 1163	GSH
+T15	Disease 1226 1266	diabetes-associated tissue complications
+#8	AnnotatorNotes T15	not found
+T16	Disease 1429 1442	hyperglycemia
+#9	AnnotatorNotes T16	DOID:4195
+T17	Chemical 1447 1452	NADPH
+T18	Disease 1623 1636	aged diabetes
+T2	Chemical 452 455	PPP
+T3	Chemical 498 503	NADPH
+T4	Disease 528 549	chronic hyperglycemia
+#14	AnnotatorNotes T4	not found
+T5	Chemical 604 610	aldose
+T6	Chemical 723 728	NADPH
+T7	Chemical 732 737	NADPH
+T8	Chemical 827 830	GSH
+T9	Chemical 854 859	NADPH
+T19	Gene-Protein 64 69	G6PDH
+T20	Gene-Protein 74 79	6PGDH
+T21	Biomarker 64 134	G6PDH and 6PGDH were up-regulated along with increased or unchanged GR
+R1	Association Arg1:T21 Arg2:T0	
+T22	Biomarker 297 324	high glucose concentrations
+T23	Biomarker 334 356	overexpression of G6PD
+T24	Gene-Protein 352 356	G6PD
+T25	Biomarker 361 383	augmented PPP activity
+T26	Biomarker 434 455	overactivation of PPP
+T27	Biomarker 475 503	increased depletion of NADPH
+T28	Biomarker 554 587	increased polyol pathway activity
+T29	Biomarker 592 620	upregulated aldose reductase
+T30	Gene-Protein 604 620	aldose reductase
+#2	AnnotatorNotes T30	not found
+T31	Biomarker 660 691	long-term overactivation of PPP
+T32	GeneFamily 732 745	NADPH oxidase
+#3	AnnotatorNotes T32	not found
+T33	GeneFamily 854 867	NADPH oxidase
+T34	Gene-Protein 994 1015	glutathione reductase
+#4	AnnotatorNotes T34	HGNC:4623
+T35	Biomarker 1103 1140	decreased tissue concentration of GSH
+R2	Association Arg1:T35 Arg2:T12	
+T36	Biomarker 1149 1204	defects in GSH-dependent antioxidant enzymatic activity
+R3	Association Arg1:T36 Arg2:T15	
+#5	AnnotatorNotes T18	not found
+#6	AnnotatorNotes T24	HGNC:4057

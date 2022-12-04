@@ -1,0 +1,36 @@
+T0	Drug 91 96	ω3 FA
+T10	Chemical 702 716	ω3 fatty acids
+T12	Disease 786 799	breast cancer
+#4	AnnotatorNotes T12	DOID:1612
+T13	Chemical 820 834	ω3 fatty acids
+T16	Chemical 1316 1321	ω3 FA
+T17	Chemical 1389 1399	fatty acid
+T2	Disease 178 184	cancer
+#9	AnnotatorNotes T2	DOID:162
+T3	Chemical 249 254	ω3 FA
+T5	Chemical 423 426	EPA
+T7	Chemical 431 434	DHA
+T8	Chemical 531 536	PUFAs
+#1	AnnotatorNotes T0	CHEMBL4298065
+R1	Response Arg1:T0 Arg2:T2	
+T1	Gene-Protein 350 357	pFOXO3a
+#2	AnnotatorNotes T1	HGNC:3821
+T4	Gene-Protein 362 366	pBAD
+#3	AnnotatorNotes T4	HGNC:936
+T6	GeneFamily 318 321	AKT
+#5	AnnotatorNotes T6	family:1900
+T9	GeneFamily 659 662	AKT
+T11	GeneFamily 751 754	AKT
+T14	GeneFamily 755 760	NF-kB
+#7	AnnotatorNotes T14	family:1254
+T15	Gene-Protein 878 882	PTEN
+#6	AnnotatorNotes T15	HGNC:9588
+T18	GeneFamily 960 963	AKT
+T19	Gene-Protein 1043 1047	PTEN
+T20	Chemical 1006 1008	AA
+T21	Chemical 1098 1104	ω3 FAs
+T22	Chemical 1211 1217	ω6 FAs
+T23	GeneFamily 1344 1347	AKT
+T24	Biomarker 702 716	ω3 fatty acids
+T25	Biomarker 751 782	AKT/NF-kB cell survival pathway
+#8	AnnotatorNotes T24	D015525

@@ -1,0 +1,24 @@
+30581500_15481|t|RSS_IDENT_p_30581500_b_1_4_6
+30581500_15481|a| Although the CYS-C might be impacted by nonrenal factors such as age, gender, and race, this study found that baseline serum CYS-C concentration was significantly increased in acute pancreatitis patients with AKI compared to that without AKI, suggesting that the increased baseline serum CYS-C might be associated with AKI in patients with acute pancreatitis. Furthermore, baseline serum CYS-C is an independent and significant indicator for AKI in patients with acute pancreatitis according to multivariate logistic regression analysis. AKI in patients with acute pancreatitis could be identified with a sensitivity of 88.9% at specificity of 100% (AUC = 0.948, 95% CI 0.879–1.000) by serum baseline CYS-C (cut-off value = 1.865 mg/L) in our study group. Our finding suggested that baseline serum CYS-C can be a biomarker for AKI in patients with acute pancreatitis. Compared with RIFLE and KDIGO guideline, measurement of baseline serum CYS-C may be an early indicator predicting AKI in patients with acute pancreatitis and could be used routinely in clinical laboratories. If our results are confirmed by other groups, this marker can easily be applied to clinical practice for predicting the occurrence of AKI in patients with acute pancreatitis. 
+30581500_15481	43	48	CYS-C	Gene-protein	HGNC:2475
+30581500_15481	140	202	baseline serum CYS-C concentration was significantly increased	Biomarker
+30581500_15481	155	160	CYS-C	Gene-protein
+30581500_15481	206	242	acute pancreatitis patients with AKI	Disease	DOID:2913, D058186	Conjunction
+30581500_15481	268	271	AKI	Disease	D058186
+30581500_15481	293	323	increased baseline serum CYS-C	Biomarker
+30581500_15481	318	323	CYS-C	Gene-protein
+30581500_15481	349	388	AKI in patients with acute pancreatitis	Disease	D058186,DOID:2913	Conjunction
+30581500_15481	403	423	baseline serum CYS-C	Biomarker
+30581500_15481	418	423	CYS-C	Gene-protein
+30581500_15481	472	511	AKI in patients with acute pancreatitis	Disease	Conjunction
+30581500_15481	568	607	AKI in patients with acute pancreatitis	Disease	Conjunction
+30581500_15481	716	736	serum baseline CYS-C	Biomarker
+30581500_15481	731	736	CYS-C	Gene-protein
+30581500_15481	822	833	serum CYS-C	Biomarker
+30581500_15481	828	833	CYS-C	Gene-protein
+30581500_15481	857	896	AKI in patients with acute pancreatitis	Disease	Conjunction
+30581500_15481	963	974	serum CYS-C	Biomarker
+30581500_15481	969	974	CYS-C	Gene-protein
+30581500_15481	1012	1051	AKI in patients with acute pancreatitis	Disease	Conjunction
+30581500_15481	1240	1279	AKI in patients with acute pancreatitis	Disease	Conjunction
+

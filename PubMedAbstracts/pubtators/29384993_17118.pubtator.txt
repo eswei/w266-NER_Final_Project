@@ -1,0 +1,29 @@
+29384993_17118|t|RSS_IDENT_p_29384993_b_1_4_4
+29384993_17118|a| Balasubramaniyan et al. 17 reported that brain ADMA levels were significantly higher in adult rats 4 weeks after BDL and their ADMA levels were reduced after treatment with ornithine phenylacetate. Similarly, Bajaj et al. 18 reported that patients with liver cirrhosis showed cognition dysfunction and higher serum ADMA levels. We have previously shown that rats with BDL for 2 weeks had increased plasma ADMA levels as well as cognitive deficits 19 . Here, we replicate our previous findings, showing increased ADMA levels in the prefrontal cortex in rats 4 weeks after BDL 5 . The prefrontal cortex plays a role in memory, attentiveness, and perceptual awareness. The dorsal hippocampus and ventral hippocampus have distinct neuroanatomical profiles, whereas the dorsal hippocampus is primarily involved in cognition 20 . Spatial memory needs a wider network of inter-connected brain regions including the prefrontal cortex and the hippocampus. Rats with lesions of the prefrontal cortex or the hippocampus show spatial deficits 21 . In our previous study, the entire hippocampus did not show a significant difference in ADMA levels between controls and 4-week BDL rats 5 . Here, we found increased ADMA concentration in the dorsal hippocampus in 4-week BDL rats, that is, the BDL group, and melatonin infusion therapy prevented the increase in ADMA. In addition, IHC staining showed a protective effect of melatonin against increased hippocampal ADMA expression. To the best of our knowledge, this is the first report on the protective effect of melatonin against increases of ADMA levels in the dorsal hippocampus in a brain disorder. 
+29384993_17118	71	114	brain ADMA levels were significantly higher	Biomarker
+29384993_17118	77	81	ADMA	Chemical
+29384993_17118	157	161	ADMA	Chemical
+29384993_17118	203	226	ornithine phenylacetate	Drug	CHEMBL4297204
+29384993_17118	283	298	liver cirrhosis	Disease	DOID:5082
+29384993_17118	306	327	cognition dysfunction	Biomarker	D060825
+29384993_17118	306	356	cognition dysfunction and higher serum ADMA levels	Collection
+29384993_17118	332	356	higher serum ADMA levels	Biomarker
+29384993_17118	345	349	ADMA	Chemical
+29384993_17118	418	446	increased plasma ADMA levels	Biomarker
+29384993_17118	435	439	ADMA	Chemical
+29384993_17118	458	476	cognitive deficits	Disease	DOID:1561
+29384993_17118	532	553	increased ADMA levels	Biomarker
+29384993_17118	542	546	ADMA	Chemical
+29384993_17118	1044	1060	spatial deficits	Disease	not found
+29384993_17118	1139	1164	difference in ADMA levels	Biomarker
+29384993_17118	1153	1157	ADMA	Chemical
+29384993_17118	1221	1249	increased ADMA concentration	Biomarker
+29384993_17118	1231	1235	ADMA	Chemical
+29384993_17118	1324	1333	melatonin	Drug	CHEMBL45
+29384993_17118	1377	1381	ADMA	Chemical
+29384993_17118	1439	1448	melatonin	Drug
+29384993_17118	1479	1483	ADMA	Chemical
+29384993_17118	1579	1588	melatonin	Drug
+29384993_17118	1610	1614	ADMA	Chemical
+29384993_17118	1653	1667	brain disorder	Disease	DOID:936
+

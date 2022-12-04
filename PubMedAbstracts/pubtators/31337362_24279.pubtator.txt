@@ -1,0 +1,47 @@
+31337362_24279|t|RSS_IDENT_p_31337362_b_1_4_6
+31337362_24279|a| Several of the co-expressed genes have been linked to various other cancers. Down-regulation of Fc fragment of IgG binding protein (FCGBP) has been associated with decreased overall survival in gallbladder adenocarcinoma [ 41 ] and with progression of prostate cancer in Transgenic adenocarcinoma Mouse Prostate (TRAMP) [ 42 ]. Upregulation of ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1 (ST6GALNAC1) has been associated with good prognosis in breast cancer [ 43 ]. Additionally, siRNA-mediated silencing of ST6GALNAC1 has been shown to lead to reduced growth, migration and invasion of gastric cancer cells in vitro [ 44 ]. Estrogen-Induced Gene 121 Protein (KIAA1324), Long Intergenic Non-Protein Coding RNA 261 (LINC00261), and Intelectin 1 (ITLN1) have been shown to function as tumor suppressors in gastric cancer, with decreased expression associated with poor prognosis [ 45 – 47 ]. Low expression of Asparaginase-Like 1 Protein (ASRGL1) has been suggested as a marker for poor prognosis in endometrial carcinoma [ 48 ], whereas reduced levels of Solute carrier family 27 member 2 (SLC27A2) have been associated with poor survival in lung cancer [ 49 ]. SLIT and NTRK- like protein 6 (SLITRK6) is a known bladder tumor antigen, and is currently under investigation in clinical trials as a target for antibody-drug conjugate therapy [ 50 ]. HEPACAM family member 2 (HEPACAM2) is a paralog of Hepatocyte Cell Adhesion Molecule (HEPACAM), which is known to act as a tumor suppressor by promoting differentiation [ 51 ]. HEPACAM2, however, is a relatively newly-identified molecule and is not well-studied.
+31337362_24279	98	105	cancers	Disease	DOID:162
+31337362_24279	107	160	Down-regulation of Fc fragment of IgG binding protein	Biomarker
+31337362_24279	126	160	Fc fragment of IgG binding protein	Gene-protein	HGNC:13572
+31337362_24279	162	167	FCGBP	Gene-protein	HGNC:13572
+31337362_24279	224	250	gallbladder adenocarcinoma	Disease	DOID:3500
+31337362_24279	282	297	prostate cancer	Disease	DOID:10283
+31337362_24279	358	431	Upregulation of ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1	Biomarker
+31337362_24279	374	431	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1	Gene-protein	HGNC:23614
+31337362_24279	378	401	N-acetylgalactosaminide	Chemical
+31337362_24279	433	443	ST6GALNAC1	Gene-protein	HGNC:23614
+31337362_24279	488	501	breast cancer	Disease	DOID:1612
+31337362_24279	524	562	siRNA-mediated silencing of ST6GALNAC1	Drug	not found
+31337362_24279	552	562	ST6GALNAC1	Gene-protein
+31337362_24279	631	645	gastric cancer	Disease	DOID:10534
+31337362_24279	669	677	Estrogen	Chemical
+31337362_24279	669	694	Estrogen-Induced Gene 121	Gene-protein	HGNC:29618
+31337362_24279	669	694	Estrogen-Induced Gene 121	Biomarker	C491832
+31337362_24279	669	795	Estrogen-Induced Gene 121 Protein (KIAA1324), Long Intergenic Non-Protein Coding RNA 261 (LINC00261), and Intelectin 1 (ITLN1)	Collection
+31337362_24279	704	712	KIAA1324	Gene-protein	HGNC:29618
+31337362_24279	715	757	Long Intergenic Non-Protein Coding RNA 261	Rna-noncoding	HGNC:16189
+31337362_24279	715	757	Long Intergenic Non-Protein Coding RNA 261	Biomarker	C000623252
+31337362_24279	759	768	LINC00261	Rna-noncoding	HGNC:16189
+31337362_24279	775	787	Intelectin 1	Gene-protein	HGNC:18259
+31337362_24279	775	787	Intelectin 1	Biomarker	C432397
+31337362_24279	789	794	ITLN1	Gene-protein	HGNC:18259
+31337362_24279	848	862	gastric cancer	Disease
+31337362_24279	934	979	Low expression of Asparaginase-Like 1 Protein	Biomarker
+31337362_24279	952	971	Asparaginase-Like 1	Gene-protein	HGNC:16448
+31337362_24279	981	987	ASRGL1	Gene-protein	HGNC:16448
+31337362_24279	1042	1063	endometrial carcinoma	Disease	DOID:2871
+31337362_24279	1080	1131	reduced levels of Solute carrier family 27 member 2	Biomarker
+31337362_24279	1098	1131	Solute carrier family 27 member 2	Gene-protein	HGNC:10996
+31337362_24279	1133	1140	SLC27A2	Gene-protein	HGNC:10996
+31337362_24279	1185	1196	lung cancer	Disease	DOID:1324
+31337362_24279	1205	1234	SLIT and NTRK- like protein 6	Gene-protein	HGNC:23503
+31337362_24279	1205	1234	SLIT and NTRK- like protein 6	Biomarker	C581991
+31337362_24279	1236	1243	SLITRK6	Gene-protein	HGNC:23503
+31337362_24279	1256	1269	bladder tumor	Disease	DOID:11054
+31337362_24279	1351	1374	antibody-drug conjugate	Drug-class
+31337362_24279	1391	1414	HEPACAM family member 2	Gene-protein	HGNC:27364
+31337362_24279	1416	1424	HEPACAM2	Gene-protein	HGNC:27364
+31337362_24279	1442	1475	Hepatocyte Cell Adhesion Molecule	Gene-protein	HGNC:26361
+31337362_24279	1477	1484	HEPACAM	Gene-protein	HGNC:26361
+31337362_24279	1568	1576	HEPACAM2	Gene-protein	HGNC:26361
+

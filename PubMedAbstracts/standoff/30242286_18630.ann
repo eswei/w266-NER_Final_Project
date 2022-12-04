@@ -1,0 +1,43 @@
+T0	Gene-Protein 112 116	LTB4
+T1	Disease 173 181	diabetic
+#2	AnnotatorNotes T1	not found
+T10	Disease 1023 1031	diabetic
+T11	Biomarker 1082 1175	decreased frequency of alternatively activated macrophages (CD45⁺F4/80⁺CD206⁺) in the lesions
+T2	Disease 227 235	diabetic
+T3	Biomarker 246 344	increased levels of cytokines (IFN-γ, IL-12, IL-6, TNF-α and IL-10) were dependent on leukotrienes
+T4	Chemical 332 344	leukotrienes
+T5	Biomarker 438 477	increased frequency of the CD11b⁺Ly6Cʰⁱ
+T6	Disease 529 537	diabetic
+T7	Chemical 636 638	NO
+T8	Disease 671 686	diabetic 5LO−/−
+T9	Chemical 822 834	leukotrienes
+T12	Disease 79 82	LGI
+#1	AnnotatorNotes T12	not found
+T13	Biomarker 92 116	increased levels of LTB4
+T14	GeneFamily 266 275	cytokines
+T15	Gene-Protein 277 282	IFN-γ
+T16	Gene-Protein 284 289	IL-12
+T17	Gene-Protein 291 295	IL-6
+T18	Gene-Protein 297 302	TNF-α
+T19	Gene-Protein 307 312	IL-10
+T20	Gene-Protein 598 603	Stat1
+T21	Gene-Protein 608 612	Nos2
+T22	Biomarker 565 623	activated-like phenotype (higher Stat1 and Nos2 expression
+T23	Biomarker 629 645	higher NO levels
+T24	Biomarker 717 768	activated phenotype (higher Arg1 and Ym1 expression
+T25	Gene-Protein 754 757	Ym1
+T26	Gene-Protein 745 749	Arg1
+T27	Biomarker 774 801	higher activity of arginase
+T28	Gene-Protein 793 801	arginase
+T29	Gene-Protein 868 873	STAT6
+T30	Gene-Protein 908 913	STAT6
+T31	Gene-Protein 929 933	Arg1
+T32	Gene-Protein 935 941	Chi3l3
+T33	Gene-Protein 995 999	IL-4
+#3	AnnotatorNotes T8	not found
+T34	Collection 717 801	activated phenotype (higher Arg1 and Ym1 expression, and higher activity of arginase
+R1	Association Arg1:T34 Arg2:T8	
+T35	Collection 565 645	activated-like phenotype (higher Stat1 and Nos2 expression, and higher NO levels
+R2	Association Arg1:T35 Arg2:T6	
+R3	Association Arg1:T3 Arg2:T2	
+R4	Association Arg1:T5 Arg2:T2	

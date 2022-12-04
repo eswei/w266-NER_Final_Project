@@ -1,0 +1,52 @@
+30352407_3694|t|RSS_IDENT_p_30352407_b_1_1_4
+30352407_3694|a| The Cancer Genome Atlas (TCGA) molecular taxonomy divides PCC/PGL into four main clusters: pseudohypoxia, Wnt-signaling, kinase-signaling and cortical mixture ( 11 ). The pseudohypoxia group can be divided into at least two subgroups. The tricarboxylic acid (TCA) cycle-related subgroup contains germline mutations in succinate dehydrogenase subunits SDHA, SDHB, SDHC, SDHD as well as SDHAF2 (succinate dehydrogenase complex assembly factor 2), FH (fumarate hydratase), MDH2 (malate dehydrogenase 2) and GOT2 (glutamic-oxaloacetic transaminase 2) ( 12 , 13 ). The VHL/HIF2A-related subgroup shows both somatic and germline mutations ( 13 ). Germline mutations in SDH gene are responsible for 6–9% of sporadic PCC/PGLs, 29% of pediatric cases, 38% of malignant tumors and more than 80% of familial aggregations of PGL and PCC ( 14 ). Germline mutations in the SDHB gene are associated with hereditary paraganglioma syndrome type 4 (PGL4), while germline mutations of SDHD are present in hereditary paraganglioma syndrome type 1 (PGL1). The penetrance in SDHB and SDHD mutation-positive non-probands by age 60 years was only 21.8 and 43.2%, respectively ( 15 ). Furthermore, maternal transmission and genomic imprinting in SDHD could mask the hereditary nature of paraganglioma in rare cases ( 16 ). The difficulty of making a precise diagnosis delays appropriate treatment. Thus, hereditary PCC/PGL poses a significant challenge to clinicians.
+30352407_3694	88	91	PCC	Disease	DOID:0050771
+30352407_3694	92	95	PGL	Disease	DOID:0050773
+30352407_3694	136	139	Wnt	Genefamily	family:360
+30352407_3694	151	157	kinase	Genefamily	not found
+30352407_3694	269	287	tricarboxylic acid	Chemical
+30352407_3694	289	292	TCA	Chemical
+30352407_3694	326	403	germline mutations in succinate dehydrogenase subunits SDHA, SDHB, SDHC, SDHD	Biomarker
+30352407_3694	348	357	succinate	Chemical
+30352407_3694	348	371	succinate dehydrogenase	Genefamily	family:641
+30352407_3694	381	385	SDHA	Gene-protein	HGNC:10680
+30352407_3694	387	391	SDHB	Gene-protein	HGNC:10681
+30352407_3694	393	397	SDHC	Gene-protein	HGNC:10682
+30352407_3694	399	403	SDHD	Gene-protein	HGNC:10683
+30352407_3694	415	421	SDHAF2	Gene-protein	HGNC:26034
+30352407_3694	423	432	succinate	Chemical
+30352407_3694	423	472	succinate dehydrogenase complex assembly factor 2	Gene-protein	HGNC:26034
+30352407_3694	475	477	FH	Gene-protein	HGNC:3700
+30352407_3694	479	487	fumarate	Chemical
+30352407_3694	479	497	fumarate hydratase	Gene-protein	HGNC:3700
+30352407_3694	500	504	MDH2	Gene-protein	HGNC:6971
+30352407_3694	506	512	malate	Chemical
+30352407_3694	506	528	malate dehydrogenase 2	Gene-protein	HGNC:6971
+30352407_3694	534	538	GOT2	Gene-protein	HGNC:4433
+30352407_3694	540	548	glutamic	Chemical
+30352407_3694	540	575	glutamic-oxaloacetic transaminase 2	Gene-protein	HGNC:4433
+30352407_3694	594	597	VHL	Gene-protein	HGNC:12687
+30352407_3694	598	603	HIF2A	Gene-protein	HGNC:3374
+30352407_3694	632	662	somatic and germline mutations	Biomarker
+30352407_3694	671	701	Germline mutations in SDH gene	Biomarker
+30352407_3694	693	696	SDH	Genefamily
+30352407_3694	730	747	sporadic PCC/PGLs	Disease	not found, not found
+30352407_3694	730	854	sporadic PCC/PGLs, 29% of pediatric cases, 38% of malignant tumors and more than 80% of familial aggregations of PGL and PCC	Collection
+30352407_3694	780	796	malignant tumors	Disease	DOID:162
+30352407_3694	843	846	PGL	Disease	DOID:0050773
+30352407_3694	851	854	PCC	Disease	DOID:0050771
+30352407_3694	863	898	Germline mutations in the SDHB gene	Biomarker
+30352407_3694	889	893	SDHB	Gene-protein
+30352407_3694	919	959	hereditary paraganglioma syndrome type 4	Disease	C565335
+30352407_3694	961	965	PGL4	Disease	C565335
+30352407_3694	974	1000	germline mutations of SDHD	Biomarker
+30352407_3694	996	1000	SDHD	Gene-protein
+30352407_3694	1016	1056	hereditary paraganglioma syndrome type 1	Disease	D010235
+30352407_3694	1058	1062	PGL1	Disease	D010235
+30352407_3694	1083	1087	SDHB	Gene-protein
+30352407_3694	1083	1114	SDHB and SDHD mutation-positive	Biomarker
+30352407_3694	1092	1096	SDHD	Gene-protein
+30352407_3694	1251	1255	SDHD	Gene-protein
+30352407_3694	1292	1305	paraganglioma	Disease	DOID:0050773
+30352407_3694	1409	1427	hereditary PCC/PGL	Disease	not found, not found
+

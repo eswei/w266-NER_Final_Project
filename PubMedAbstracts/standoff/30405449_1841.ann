@@ -1,0 +1,55 @@
+T1	Chemical 142 150	dopamine
+T14	Chemical 692 696	GABA
+T15	Chemical 704 708	GABA
+T17	Disease 757 777	cognitive impairment
+#7	AnnotatorNotes T17	D060825
+T2	Chemical 346 369	Gamma-aminobutyric acid
+T21	Disease 822 860	spatial memory and learning impairment
+#11	AnnotatorNotes T21	DOID:8927
+T25	Chemical 1077 1084	alcohol
+T26	Disease 1077 1104	alcohol-induced memory loss
+#15	AnnotatorNotes T26	not found
+T27	Drug 1127 1151	chronic alcohol exposure
+T28	Chemical 1191 1195	GABA
+T31	Chemical 1317 1324	alcohol
+T32	Disease 1317 1355	alcohol-dependent cognitive impairment
+#20	AnnotatorNotes T32	not found
+T34	Chemical 1415 1422	alcohol
+T35	Disease 1415 1432	alcohol addiction
+T4	Chemical 371 375	GABA
+T5	Chemical 554 561	alcohol
+T6	Disease 554 571	alcohol addiction
+#26	AnnotatorNotes T6	DOID:0050741
+T9	Chemical 612 619	alcohol
+T3	Chemical 152 154	DA
+T7	GeneFamily 573 591	GABA (A) receptors
+#1	AnnotatorNotes T7	family:563
+T8	Gene-Protein 704 712	GABA-Aα5
+#2	AnnotatorNotes T8	HGNC:4079
+T10	GeneFamily 692 698	GABA-A
+#3	AnnotatorNotes T10	family:563
+T12	Biomarker 704 712	GABA-Aα5
+R2	Association Arg1:T12 Arg2:T17	
+T13	Gene-Protein 787 805	GABA-Aα5 receptors
+T16	Drug 779 805	Lack of GABA-Aα5 receptors
+#4	AnnotatorNotes T16	not found
+R3	Causes Arg1:T16 Arg2:T21	
+T18	Gene-Protein 961 969	GABA-Aα5
+T19	Drug-Class 961 996	GABA-Aα5 selective inverse agonists
+T20	Drug-Class 1049 1068	GABA-Aα5 inhibitors
+T22	Gene-Protein 1049 1057	GABA-Aα5
+R4	Response Arg1:T20 Arg2:T26	
+T23	Gene-Protein 1191 1199	GABA-Aα5
+T24	Disease 1204 1232	impaired learning and memory
+#5	AnnotatorNotes T27	CHEMBL545
+#6	AnnotatorNotes T24	DOID:8927, D008569
+R5	Causes Arg1:T27 Arg2:T24	
+T29	Gene-Protein 1259 1267	GABA-Aα5
+T30	Biomarker 1259 1267	GABA-Aα5
+R6	Association Arg1:T30 Arg2:T32	
+T36	Gene-Protein 1374 1382	GABA-Aα5
+T33	Biomarker 1374 1382	GABA-Aα5
+T37	Chemical 505 507	DA
+T11	Biomarker 612 657	alcohol tolerance, dependence, and withdrawal
+T38	Biomarker 573 591	GABA (A) receptors
+#8	AnnotatorNotes T38	D011963

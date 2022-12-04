@@ -1,0 +1,64 @@
+31516568_81|t|RSS_IDENT_p_31516568_a_1_1
+31516568_81|a| Breast cancer is the second leading cause of cancer-associated mortality among women worldwide, and the prevalence and mortality rates associated with this disease are high in Western countries. The melanoma-associated antigen (MAGE) family proteins are well-known tumor-specific antigens; this family includes >60 proteins that serve an important part in cell cycle withdrawal, neuronal differentiation and apoptosis. The aim of the present study was to identify a biomarker within the MAGE family that is specific for breast cancer. In the present study, the prognostic role of MAGE mRNA expression was investigated in patients with breast cancer using the Kaplan-Meier plotter database. The prognostic value of MAGE members in the different intrinsic subtypes of breast cancer was further investigated, as well as the clinicopathological features of the disease. The results of the present study indicated that patients with breast cancer that had high mRNA expression levels of MAGEA5, MAGEA8, MAGEB4 and MAGEB6 had an improved relapse-free survival, whereas those with high mRNA expression levels of MAGEB18 and MAGED4 did not. These results suggested that MAGEA5, MAGEA8, MAGEB4 and MAGEB6 may have roles as tumor suppressors in the occurrence and development of breast cancer, whereas MAGEB18 and MAGED4 may possess carcinogenic potential. MAGED2, MAGED3 and MAGEF1 had different effects depending on the type of breast cancer. In particular, high MAGEC3 mRNA expression was associated with worse RFS in lymph node-positive breast cancer, but with improved RFS in lymph node-negative breast cancer. In patients with wild-type TP53 and patients with different pathological grades of breast cancer, MAGEE2, MAGEH1 and MAGEL2 were more worthy of attention as potential prognostic factors. The results of the present study may help to elucidate the role of MAGE family members in the development of breast cancer, and may promote further research that identifies MAGE-targeting reagents for the treatment of breast cancer.
+31516568_81	28	41	Breast cancer	Biomarker	D001943
+31516568_81	73	100	cancer-associated mortality	Disease	not found
+31516568_81	227	254	melanoma-associated antigen	Genefamily	family:1136
+31516568_81	256	260	MAGE	Genefamily	family:1136
+31516568_81	293	298	tumor	Disease	DOID:162
+31516568_81	515	519	MAGE	Genefamily
+31516568_81	548	561	breast cancer	Disease	DOID:1612
+31516568_81	608	612	MAGE	Genefamily
+31516568_81	663	676	breast cancer	Disease
+31516568_81	742	746	MAGE	Genefamily
+31516568_81	794	807	breast cancer	Disease
+31516568_81	956	969	breast cancer	Disease
+31516568_81	979	1043	high mRNA expression levels of MAGEA5, MAGEA8, MAGEB4 and MAGEB6	Biomarker
+31516568_81	1010	1016	MAGEA5	Gene-protein	HGNC:6803
+31516568_81	1018	1024	MAGEA8	Gene-protein	HGNC:6806
+31516568_81	1026	1032	MAGEB4	Gene-protein	HGNC:6811
+31516568_81	1037	1043	MAGEB6	Gene-protein	HGNC:23796
+31516568_81	1102	1151	high mRNA expression levels of MAGEB18 and MAGED4	Biomarker
+31516568_81	1133	1140	MAGEB18	Gene-protein	HGNC:28515
+31516568_81	1145	1151	MAGED4	Gene-protein	HGNC:23793
+31516568_81	1190	1196	MAGEA5	Gene-protein
+31516568_81	1190	1196	MAGEA5	Biomarker
+31516568_81	1190	1223	MAGEA5, MAGEA8, MAGEB4 and MAGEB6	Collection
+31516568_81	1198	1204	MAGEA8	Gene-protein
+31516568_81	1198	1204	MAGEA8	Biomarker
+31516568_81	1206	1212	MAGEB4	Gene-protein
+31516568_81	1206	1212	MAGEB4	Biomarker	C000626007
+31516568_81	1217	1223	MAGEB6	Gene-protein
+31516568_81	1217	1223	MAGEB6	Biomarker
+31516568_81	1297	1310	breast cancer	Disease
+31516568_81	1320	1327	MAGEB18	Gene-protein
+31516568_81	1320	1327	MAGEB18	Biomarker
+31516568_81	1320	1338	MAGEB18 and MAGED4	Collection
+31516568_81	1332	1338	MAGED4	Gene-protein
+31516568_81	1332	1338	MAGED4	Biomarker	C430404
+31516568_81	1375	1381	MAGED2	Gene-protein	HGNC:16353
+31516568_81	1375	1381	MAGED2	Biomarker	C451414
+31516568_81	1375	1400	MAGED2, MAGED3 and MAGEF1	Collection
+31516568_81	1383	1389	MAGED3	Gene-protein	HGNC:12326
+31516568_81	1383	1389	MAGED3	Biomarker	C093649
+31516568_81	1394	1400	MAGEF1	Gene-protein	HGNC:29639
+31516568_81	1394	1400	MAGEF1	Biomarker	C429138
+31516568_81	1448	1461	breast cancer	Disease
+31516568_81	1478	1505	high MAGEC3 mRNA expression	Biomarker
+31516568_81	1483	1489	MAGEC3	Gene-protein	HGNC:23798
+31516568_81	1539	1572	lymph node-positive breast cancer	Disease	not found
+31516568_81	1599	1632	lymph node-negative breast cancer	Disease	not found
+31516568_81	1661	1665	TP53	Gene-protein	HGNC:11998
+31516568_81	1717	1730	breast cancer	Disease
+31516568_81	1732	1738	MAGEE2	Gene-protein	HGNC:24935
+31516568_81	1732	1738	MAGEE2	Biomarker
+31516568_81	1732	1757	MAGEE2, MAGEH1 and MAGEL2	Collection
+31516568_81	1740	1746	MAGEH1	Gene-protein	HGNC:24092
+31516568_81	1740	1746	MAGEH1	Biomarker	C076744
+31516568_81	1751	1757	MAGEL2	Gene-protein	HGNC:6814
+31516568_81	1751	1757	MAGEL2	Biomarker	C510822
+31516568_81	1888	1892	MAGE	Genefamily
+31516568_81	1930	1943	breast cancer	Disease
+31516568_81	1994	1998	MAGE	Genefamily
+31516568_81	1994	2017	MAGE-targeting reagents	Drug-class
+31516568_81	2039	2052	breast cancer	Disease
+

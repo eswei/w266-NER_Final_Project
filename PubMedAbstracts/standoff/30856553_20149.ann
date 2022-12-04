@@ -1,0 +1,42 @@
+T11	Disease 501 505	COPD
+#3	AnnotatorNotes T11	DOID:3083
+T14	Disease 633 661	metastatic colorectal cancer
+#5	AnnotatorNotes T14	DOID:9256
+T17	Disease 759 765	cancer
+#7	AnnotatorNotes T17	DOID:162
+T18	Disease 841 847	cancer
+T5	Disease 299 334	chronic and diabetic kidney disease
+#15	AnnotatorNotes T5	DOID:784, D003928
+T7	Disease 362 377	type 2 diabetic
+#17	AnnotatorNotes T7	DOID:9352
+T8	Biomarker 387 393	PRO-C6
+T2	GeneFamily 34 38	COL6
+#1	AnnotatorNotes T2	not found
+T6	Biomarker 261 267	PRO-C6
+R1	Association Arg1:T6 Arg2:T5	
+T12	Gene-Protein 429 433	PPAR
+#2	AnnotatorNotes T12	HGNC:9232
+T16	Drug-Class 429 451	PPAR agonist treatment
+T20	Biomarker 459 465	PRO-C6
+R2	Association Arg1:T20 Arg2:T11	
+T25	Biomarker 563 598	high pre-treatment levels of PRO-C6
+R3	Association Arg1:T25 Arg2:T14	
+T26	Drug-Class 680 692	chemotherapy
+T27	Biomarker 729 735	PRO-C6
+R4	Association Arg1:T27 Arg2:T17	
+T28	Biomarker 943 949	PRO-C6
+T29	GeneFamily 1114 1130	type VI collagen
+T22	Gene-Protein 1144 1150	MMP-11
+T24	Biomarker 858 871	PRO-C6 levels
+R5	Association Arg1:T24 Arg2:T18	
+T1	Biomarker 49 53	IC-6
+T3	Biomarker 58 64	PRO-C6
+T4	Biomarker 109 113	IC-6
+T9	Biomarker 147 158	muscle mass
+T10	Biomarker 184 190	PRO-C6
+T13	Biomarker 981 993	endothrophin
+T15	Biomarker 1038 1050	endothrophin
+T19	Biomarker 1213 1219	PRO-C6
+T21	Biomarker 1220 1232	endothrophin
+R6	Mediator Arg1:T16 Arg2:T8	
+R7	Mediated-Response Arg1:T16 Arg2:T7	

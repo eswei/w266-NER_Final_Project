@@ -1,0 +1,88 @@
+T1	Disease 50 56	autism
+#1	AnnotatorNotes T1	DOID:12849
+T10	Biomarker 817 841	High glutamate receptors
+T11	Chemical 822 831	glutamate
+T12	Disease 931 937	autism
+T13	Disease 1022 1024	AD
+#4	AnnotatorNotes T13	DOID:10652
+T14	Biomarker 1037 1122	upregulation of glutamate ionotropic receptor NMDA type subunit 1 (GRIN1), and MAP3K1
+T15	Chemical 1053 1062	glutamate
+T16	Chemical 1083 1087	NMDA
+T17	Biomarker 1210 1227	epigenetic stress
+T18	Biomarker 1242 1266	increased NMDA receptors
+T19	Chemical 1252 1256	NMDA
+T20	Biomarker 1271 1288	increased calcium
+T21	Chemical 1281 1288	calcium
+T22	Biomarker 1503 1586	Higher levels of sAPPα would then activate the PI3K/Akt/mTOR pathway also resulting
+T26	Biomarker 1905 1925	activation of ERK1/2
+T27	Disease 1977 1983	autism
+T3	Gene-Protein 386 391	gp130
+T4	Gene-Protein 414 419	gp130
+T6	Disease 523 547	entorhinal cortex lesion
+#17	AnnotatorNotes T6	not found
+T7	Biomarker 743 815	increase the expression of NMDA and glutamate receptors in the offspring
+T8	Chemical 770 774	NMDA
+T9	Chemical 779 788	glutamate
+T28	Biomarker 31 46	Increased sAPPα
+R1	Association Arg1:T28 Arg2:T1	
+T29	Gene-Protein 41 46	sAPPα
+#2	AnnotatorNotes T29	HGNC:620
+T30	Biomarker 110 155	upregulation of the non-amyloidogenic pathway
+T31	Gene-Protein 201 206	sAPPα
+T32	Biomarker 191 242	increased sAPPα, neuroinflammatory GFAP and gliosis
+T33	Gene-Protein 226 230	GFAP
+T35	Gene-Protein 286 291	sAPPα
+T2	Gene-Protein 325 329	GFAP
+T36	Biomarker 309 329	Upregulation of GFAP
+T37	Biomarker 350 403	elevations in Interleukin 6 (IL-6), gp130, and Notch1
+T38	Gene-Protein 364 377	Interleukin 6
+T39	Gene-Protein 379 383	IL-6
+T40	Gene-Protein 397 403	Notch1
+T41	Gene-Protein 409 413	IL-6
+T5	Gene-Protein 578 584	ADAM17
+T42	GeneFamily 770 798	NMDA and glutamate receptors
+T43	GeneFamily 822 841	glutamate receptors
+T44	GeneFamily 855 858	ERK
+T45	GeneFamily 1007 1012	NOTCH
+T46	GeneFamily 1014 1017	WNT
+T47	Gene-Protein 1053 1102	glutamate ionotropic receptor NMDA type subunit 1
+T48	Gene-Protein 1104 1109	GRIN1
+T49	Gene-Protein 1116 1122	MAP3K1
+T50	Gene-Protein 1144 1147	JNK
+T51	GeneFamily 1152 1155	ERK
+T52	Gene-Protein 1252 1266	NMDA receptors
+T53	GeneFamily 1310 1313	ERK
+T54	Gene-Protein 1324 1335	α-secretase
+T55	Gene-Protein 1360 1366	ADAM17
+T56	GeneFamily 1370 1373	ERK
+T57	Gene-Protein 1379 1393	P38 MAP kinase
+T59	Gene-Protein 1422 1434	EGF receptor
+T60	Gene-Protein 1520 1525	sAPPα
+T61	GeneFamily 1550 1554	PI3K
+T62	GeneFamily 1555 1558	Akt
+T63	Gene-Protein 1559 1563	mTOR
+T64	Gene-Protein 1711 1715	mTOR
+T23	Biomarker 1774 1807	disruption of upper mTOR pathways
+T65	Gene-Protein 1794 1798	mTOR
+T66	Biomarker 1951 1973	increased white matter
+R3	Association Arg1:T66 Arg2:T27	
+T67	Gene-Protein 1919 1925	ERK1/2
+#5	AnnotatorNotes T5	HGNC:195
+#6	AnnotatorNotes T42	family:1201, family:282
+#7	AnnotatorNotes T43	family:282
+#8	AnnotatorNotes T44	not found
+#9	AnnotatorNotes T45	family:1689
+#10	AnnotatorNotes T46	family:360
+#12	AnnotatorNotes T48	HGNC:4584
+#13	AnnotatorNotes T49	HGNC:6848
+#14	AnnotatorNotes T50	HGNC:6881
+#15	AnnotatorNotes T52	family:1201
+#16	AnnotatorNotes T54	not found
+#18	AnnotatorNotes T60	HGNC:620
+#19	AnnotatorNotes T61	family:831
+#20	AnnotatorNotes T62	family:1900
+#21	AnnotatorNotes T57	 HGNC:6876
+#22	AnnotatorNotes T63	HGNC:3942
+#23	AnnotatorNotes T59	HGNC:3236
+#24	AnnotatorNotes T67	HGNC:6877, HGNC:6871
+#3	AnnotatorNotes T47	HGNC:4584

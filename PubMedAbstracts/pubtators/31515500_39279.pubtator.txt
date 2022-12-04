@@ -1,0 +1,68 @@
+31515500_39279|t|RSS_IDENT_p_31515500_b_1_3_8
+31515500_39279|a| Evidence for altered KP metabolism in the pathophysiology of neurodevelopmental disorders, including ASD and ADHD, has been very limited to date. In this study, we found that the levels of KYN, AA, KYNA, and 3-HK and the KYN/TRP and KYNA/KYN ratios were significantly increased in the serum of adult Ptchd1 KO mice (Fig. 4A). The TPR breakdown index (KYN/TRP ratio) was significantly higher in Ptchd1 KO mice, and the findings are consistent with those in patients with ADHD and ASD. Moreover, significantly altered concentrations of KYN after ATX treatment correlated with behavioral improvements in Ptchd1 KO mice (Fig. 5A), suggesting that altered KP metabolites, particularly a high level of KYN, might be related to the pathological conditions of ADHD/ASD. Our findings also suggest that KP metabolism is activated in the periphery, and that activated KP metabolism increases the levels of KYN, which can cross the blood brain barrier and generate more neuroactive compounds affecting neuronal function or brain neurodevelopment. Imbalances in TRP metabolism ⁶⁶ and a lower serum levels of 3-HK ³⁰ have been observed in children with ADHD, and children with ADHD have higher levels of cytokines, including IL-6 and IFN-γ, which are known to activate KP and correlate with clinical parameters of attention, impulsivity, and hyperactivity ³¹ . In addition, shorter pregnancy durations and lower birth weights are linked to symptom severities and increased 3-HK and IFN-γ levels in children with ADHD ³² . Moreover, ADHD children with or without comorbidities show significantly reduced AA and KYNA serum levels and increased TRP and KYN levels ⁶⁷ . In contrast, ADHD is associated with lower concentrations of TRP, KYNA, and 3-HAA in the serum in adults ⁶⁸ , and mean serum levels of TRP and KYNA and KYNA/KYN ratio are significantly lower in patients with ASD ⁶⁹ . 
+31515500_39279	43	64	altered KP metabolism	Biomarker
+31515500_39279	91	119	neurodevelopmental disorders	Disease	D065886
+31515500_39279	131	134	ASD	Disease	DOID:0060041
+31515500_39279	139	143	ADHD	Disease	DOID:1094
+31515500_39279	219	222	KYN	Chemical
+31515500_39279	224	226	AA	Chemical
+31515500_39279	228	232	KYNA	Chemical
+31515500_39279	238	242	3-HK	Chemical
+31515500_39279	251	254	KYN	Chemical
+31515500_39279	255	258	TRP	Chemical
+31515500_39279	263	267	KYNA	Chemical
+31515500_39279	268	271	KYN	Chemical
+31515500_39279	330	336	Ptchd1	Gene-protein
+31515500_39279	360	363	TPR	Gene-protein
+31515500_39279	360	420	TPR breakdown index (KYN/TRP ratio) was significantly higher	Biomarker
+31515500_39279	381	384	KYN	Chemical
+31515500_39279	424	430	Ptchd1	Gene-protein
+31515500_39279	500	504	ADHD	Disease
+31515500_39279	500	512	ADHD and ASD	Collection
+31515500_39279	509	512	ASD	Disease
+31515500_39279	564	567	KYN	Chemical
+31515500_39279	574	577	ATX	Drug	CHEMBL641
+31515500_39279	631	637	Ptchd1	Gene-protein
+31515500_39279	673	695	altered KP metabolites	Biomarker
+31515500_39279	673	729	altered KP metabolites, particularly a high level of KYN	Collection
+31515500_39279	712	729	high level of KYN	Biomarker
+31515500_39279	726	729	KYN	Chemical
+31515500_39279	782	786	ADHD	Disease
+31515500_39279	782	790	ADHD/ASD	Collection
+31515500_39279	787	790	ASD	Disease
+31515500_39279	925	928	KYN	Chemical
+31515500_39279	1065	1093	Imbalances in TRP metabolism	Biomarker
+31515500_39279	1065	1129	Imbalances in TRP metabolism ⁶⁶ and a lower serum levels of 3-HK	Collection
+31515500_39279	1103	1129	lower serum levels of 3-HK	Biomarker
+31515500_39279	1125	1129	3-HK	Chemical
+31515500_39279	1169	1173	ADHD	Disease
+31515500_39279	1193	1197	ADHD	Disease
+31515500_39279	1203	1255	higher levels of cytokines, including IL-6 and IFN-γ	Biomarker
+31515500_39279	1220	1229	cytokines	Genefamily	not found
+31515500_39279	1241	1245	IL-6	Gene-protein	HGNC:6018
+31515500_39279	1250	1255	IFN-γ	Gene-protein	HGNC:5438
+31515500_39279	1390	1417	shorter pregnancy durations	Biomarker
+31515500_39279	1422	1441	lower birth weights	Biomarker
+31515500_39279	1479	1510	increased 3-HK and IFN-γ levels	Biomarker
+31515500_39279	1489	1493	3-HK	Chemical
+31515500_39279	1498	1503	IFN-γ	Gene-protein
+31515500_39279	1528	1532	ADHD	Disease
+31515500_39279	1548	1552	ADHD	Disease
+31515500_39279	1611	1643	reduced AA and KYNA serum levels	Biomarker
+31515500_39279	1611	1676	reduced AA and KYNA serum levels and increased TRP and KYN levels	Collection
+31515500_39279	1626	1630	KYNA	Chemical
+31515500_39279	1648	1676	increased TRP and KYN levels	Biomarker
+31515500_39279	1658	1661	TRP	Chemical
+31515500_39279	1666	1669	KYN	Chemical
+31515500_39279	1695	1699	ADHD	Disease
+31515500_39279	1719	1776	lower concentrations of TRP, KYNA, and 3-HAA in the serum	Biomarker
+31515500_39279	1743	1746	TRP	Chemical
+31515500_39279	1748	1752	KYNA	Chemical
+31515500_39279	1758	1763	3-HAA	Chemical
+31515500_39279	1801	1872	serum levels of TRP and KYNA and KYNA/KYN ratio are significantly lower	Biomarker
+31515500_39279	1817	1820	TRP	Chemical
+31515500_39279	1825	1829	KYNA	Chemical
+31515500_39279	1834	1838	KYNA	Chemical
+31515500_39279	1839	1842	KYN	Chemical
+31515500_39279	1890	1893	ASD	Disease
+

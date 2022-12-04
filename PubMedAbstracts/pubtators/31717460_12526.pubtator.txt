@@ -1,0 +1,68 @@
+31717460_12526|t|RSS_IDENT_s_31717460_b_1_3
+31717460_12526|a| 3. Discussion DOCK1 is highly expressed in malignant breast cancer cells, especially in TNBC [ 25 ]. Our data showed that DOCK1 depletion induced claudin-1 re-expression, and a negative correlation between DOCK1 and claudin-1 has been observed in clinical TNBC patients, which indicates that claudin-1 might be negatively regulated by DOCK1. Claudin-1 knockdown ameliorated DOCK1-mediated cell growth inhibition and migration, which demonstrates that DOCK1-regulated claudin-1 plays an important role in CLBC growth. It may also explain the high aggressiveness of CLBC results from high DOCK1 expression. The DOCK1 depletion-induced increase in claudin-1 inhibited cell migration and induced caspase activation and cell death, which is consistent with the previous finding that re-expression of claudin-1 causes cell apoptosis in TNBC [ 15 , 16 ] and modulates the mobility of melanoma cells [ 26 ]. However, apoptosis regulation-relevant molecules modulated by claudin-1 in CLBC require further investigation. In lung adenocarcinoma, claudin-1 re-expression-modulated cell growth is associated with up-regulation of cancer invasion/metastasis suppressors (e.g., connective tissue growth factor, thrombospondin 1, deleted in liver cancer 1, occludin, and ZO-1) and down-regulation of invasion/metastasis enhancers (e.g., secreted phosphoprotein 1, cut-like homeobox 1, transforming growth factor alpha, solute carrier family 2 member 3, and placental growth factor) [ 27 ]. Other members of the claudin family have also been reported to function as tumor suppressors. Overexpression of claudin-4 significantly reduces the invasive potential and clonogenic activity, as well as pulmonary metastasis, in human pancreatic cancer cells [ 28 ], breast cancer cells [ 29 ], and clear cell renal cell carcinoma [ 30 ]. Genes other than CLDN1, CLDN3, CLDN4, CLDN7, and ZO1 may also be coordinately regulated by DOCK1 and may contribute to tumor growth, but this remains to be investigated.
+31717460_12526	42	47	DOCK1	Gene-protein	HGNC:2987
+31717460_12526	42	67	DOCK1 is highly expressed	Biomarker
+31717460_12526	71	94	malignant breast cancer	Disease	DOID:1612
+31717460_12526	71	120	malignant breast cancer cells, especially in TNBC	Collection
+31717460_12526	116	120	TNBC	Disease	DOID:0060081
+31717460_12526	150	155	DOCK1	Gene-protein
+31717460_12526	174	183	claudin-1	Gene-protein	HGNC:2032
+31717460_12526	205	253	negative correlation between DOCK1 and claudin-1	Biomarker
+31717460_12526	234	239	DOCK1	Gene-protein
+31717460_12526	244	253	claudin-1	Gene-protein
+31717460_12526	284	288	TNBC	Disease
+31717460_12526	320	329	claudin-1	Biomarker	D062445
+31717460_12526	320	329	claudin-1	Gene-protein
+31717460_12526	363	368	DOCK1	Gene-protein
+31717460_12526	363	368	DOCK1	Biomarker	C099818
+31717460_12526	370	379	Claudin-1	Gene-protein	HGNC:2032
+31717460_12526	370	389	Claudin-1 knockdown	Drug	not found
+31717460_12526	402	407	DOCK1	Gene-protein
+31717460_12526	479	484	DOCK1	Gene-protein
+31717460_12526	479	504	DOCK1-regulated claudin-1	Biomarker
+31717460_12526	495	504	claudin-1	Gene-protein
+31717460_12526	532	536	CLBC	Disease	not found
+31717460_12526	592	596	CLBC	Disease
+31717460_12526	610	631	high DOCK1 expression	Biomarker
+31717460_12526	615	620	DOCK1	Gene-protein
+31717460_12526	637	642	DOCK1	Gene-protein
+31717460_12526	637	652	DOCK1 depletion	Drug	not found
+31717460_12526	637	832	DOCK1 depletion-induced increase in claudin-1 inhibited cell migration and induced caspase activation and cell death, which is consistent with the previous finding that re-expression of claudin-1	Collection
+31717460_12526	673	682	claudin-1	Gene-protein
+31717460_12526	720	727	caspase	Genefamily	family:468
+31717460_12526	806	832	re-expression of claudin-1	Drug	not found
+31717460_12526	823	832	claudin-1	Gene-protein
+31717460_12526	858	862	TNBC	Disease
+31717460_12526	905	913	melanoma	Disease	DOID:1909
+31717460_12526	990	999	claudin-1	Gene-protein
+31717460_12526	1003	1007	CLBC	Disease
+31717460_12526	1042	1061	lung adenocarcinoma	Disease	DOID:3910
+31717460_12526	1063	1072	claudin-1	Gene-protein
+31717460_12526	1063	1086	claudin-1 re-expression	Biomarker
+31717460_12526	1128	1288	up-regulation of cancer invasion/metastasis suppressors (e.g., connective tissue growth factor, thrombospondin 1, deleted in liver cancer 1, occludin, and ZO-1)	Biomarker
+31717460_12526	1191	1222	connective tissue growth factor	Gene-protein	HGNC:2500
+31717460_12526	1224	1240	thrombospondin 1	Gene-protein	HGNC:11785
+31717460_12526	1242	1267	deleted in liver cancer 1	Gene-protein	HGNC:2897
+31717460_12526	1269	1277	occludin	Gene-protein	HGNC:8104
+31717460_12526	1283	1287	ZO-1	Gene-protein	HGNC:11827
+31717460_12526	1293	1492	down-regulation of invasion/metastasis enhancers (e.g., secreted phosphoprotein 1, cut-like homeobox 1, transforming growth factor alpha, solute carrier family 2 member 3, and placental growth factor	Biomarker
+31717460_12526	1349	1374	secreted phosphoprotein 1	Gene-protein	HGNC:11255
+31717460_12526	1376	1395	cut-like homeobox 1	Gene-protein	HGNC:2557
+31717460_12526	1397	1429	transforming growth factor alpha	Gene-protein	HGNC:11765
+31717460_12526	1431	1464	solute carrier family 2 member 3,	Gene-protein	HGNC:11007
+31717460_12526	1469	1492	placental growth factor	Gene-protein	HGNC:8893
+31717460_12526	1523	1530	claudin	Genefamily	family:488
+31717460_12526	1596	1623	Overexpression of claudin-4	Drug	not found
+31717460_12526	1614	1623	claudin-4	Gene-protein
+31717460_12526	1736	1753	pancreatic cancer	Disease	DOID:1793
+31717460_12526	1736	1831	pancreatic cancer cells [ 28 ], breast cancer cells [ 29 ], and clear cell renal cell carcinoma	Collection
+31717460_12526	1768	1781	breast cancer	Disease	DOID:1612
+31717460_12526	1800	1831	clear cell renal cell carcinoma	Disease	DOID:4467
+31717460_12526	1857	1862	CLDN1	Gene-protein	HGNC:2032
+31717460_12526	1864	1869	CLDN3	Gene-protein	HGNC:2045
+31717460_12526	1871	1876	CLDN4	Gene-protein	HGNC:2046
+31717460_12526	1878	1883	CLDN7	Gene-protein	HGNC:2049
+31717460_12526	1889	1892	ZO1	Gene-protein	HGNC: 11827
+31717460_12526	1931	1936	DOCK1	Gene-protein
+31717460_12526	1959	1964	tumor	Disease	DOID:162
+

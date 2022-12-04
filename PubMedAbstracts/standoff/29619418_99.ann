@@ -1,0 +1,112 @@
+T1	Drug 147 176	Deficiency of Reg3g and Reg3b
+T10	Chemical 669 676	Glucose
+T12	Disease 719 737	insulin resistance
+#4	AnnotatorNotes T12	D007333
+T14	Disease 820 838	metabolic syndrome
+#6	AnnotatorNotes T14	D024821
+T15	Disease 840 847	Obesity
+#7	AnnotatorNotes T15	DOID:9970
+T16	Chemical 949 956	Glucose
+T17	Disease 949 968	Glucose intolerance
+#9	AnnotatorNotes T17	DOID:10603
+T18	Disease 970 982	liver injury
+#10	AnnotatorNotes T18	not found
+T19	Disease 984 1004	hepatic inflammation
+#11	AnnotatorNotes T19	not found
+T2	Chemical 189 196	alcohol
+T20	Disease 1006 1015	steatosis
+#13	AnnotatorNotes T20	DOID:9452
+T21	Disease 1017 1025	fibrosis
+#14	AnnotatorNotes T21	D005355
+T22	Biomarker 1178 1213	Plasma endotoxin levels were higher
+T23	Drug 1239 1255	Reg3b deficiency
+#15	AnnotatorNotes T23	not found
+T24	Chemical 1274 1281	glucose
+T25	Disease 1274 1293	glucose intolerance
+T26	Disease 1299 1312	liver disease
+#18	AnnotatorNotes T26	DOID:409
+T27	Disease 1576 1588	liver injury
+T28	Disease 1590 1599	steatosis
+T29	Disease 1605 1613	fibrosis
+T3	Disease 233 256	alcoholic liver disease
+#22	AnnotatorNotes T3	DOID:12351
+T30	Disease 1681 1704	alcoholic liver disease
+T31	Biomarker 1706 1737	loss of intestinal Reg3 lectins
+T32	Disease 1769 1789	diet‐induced obesity
+T33	Disease 1794 1798	NASH
+T34	Disease 1842 1846	NASH
+T35	Chemical 1853 1860	glucose
+T37	Chemical 1966 1975	aspartate
+T38	Chemical 2048 2055	glucose
+T39	Disease 2163 2168	NAFLD
+#31	AnnotatorNotes T39	DOID:0080208
+T4	Biomarker 258 292	Intestinal Reg3g is down‐regulated
+T40	Disease 2169 2201	nonalcoholic fatty liver disease
+#32	AnnotatorNotes T40	DOID:0080208
+T41	Disease 2202 2206	NASH
+T42	Disease 2207 2235	nonalcoholic steatohepatitis
+T5	Disease 313 333	diet‐induced obesity
+#36	AnnotatorNotes T5	not found
+T6	Disease 371 399	nonalcoholic steatohepatitis
+#37	AnnotatorNotes T6	DOID:0080547
+T7	Disease 401 405	NASH
+#38	AnnotatorNotes T7	DOID:0080547
+T8	Disease 489 493	NASH
+T9	Disease 495 499	NASH
+T45	GeneFamily 28 78	C‐type regenerating islet derived‐3 (Reg3) lectins
+#2	AnnotatorNotes T45	not found
+T46	Gene-Protein 161 166	Reg3g
+T47	Gene-Protein 171 176	Reg3b
+#1	AnnotatorNotes T1	not found
+R1	Protects-from Arg1:T1 Arg2:T3	
+R2	Association Arg1:T4 Arg2:T5	
+T48	Gene-Protein 269 274	Reg3g
+T49	GeneFamily 473 485	Reg3 lectins
+T50	Biomarker 473 485	Reg3 lectins
+T51	Gene-Protein 568 573	Reg3g
+T52	Gene-Protein 577 582	Reg3b
+T53	Gene-Protein 621 626	Reg3g
+T11	Gene-Protein 1120 1125	Reg3g
+T13	Gene-Protein 1217 1222	Reg3g
+T54	Gene-Protein 1239 1244	Reg3b
+R3	Protects-from Arg1:T23 Arg2:T25	
+T55	Gene-Protein 1424 1429	REG3G
+T56	Gene-Protein 1433 1438	REG3B
+T57	GeneFamily 1525 1529	REG3
+T58	Gene-Protein 1550 1555	Reg3g
+T59	GeneFamily 1725 1737	Reg3 lectins
+T60	Gene-Protein 1887 1892	Reg3b
+T36	GeneFamily 1966 1992	aspartate aminotransferase
+#3	AnnotatorNotes T36	not found
+T61	GeneFamily 1962 1965	AST
+#5	AnnotatorNotes T61	not found
+T62	GeneFamily 2074 2085	interleukin
+#8	AnnotatorNotes T62	family:601
+T63	GeneFamily 2071 2073	IL
+#12	AnnotatorNotes T63	family:601
+T64	Chemical 2113 2116	LPS
+T65	Chemical 2117 2135	lipopolysaccharide
+T66	Gene-Protein 2236 2241	Reg3b
+#16	AnnotatorNotes T66	not found
+T67	Gene-Protein 2242 2283	regenerating islet‐derived protein 3 beta
+#17	AnnotatorNotes T67	not found
+T68	Gene-Protein 2284 2289	Reg3g
+#19	AnnotatorNotes T68	HGNC:29595
+T43	Gene-Protein 2290 2332	regenerating islet‐derived protein 3 gamma
+#20	AnnotatorNotes T43	HGNC:29595
+T69	GeneFamily 2352 2380	transforming growth factor β
+#21	AnnotatorNotes T69	family:1664
+T70	GeneFamily 2347 2351	TGFβ
+#23	AnnotatorNotes T70	family:1664
+T71	Gene-Protein 2381 2386	TLR‐4
+#24	AnnotatorNotes T71	HGNC:11850
+T72	Gene-Protein 2387 2407	toll‐like receptor 4
+#25	AnnotatorNotes T72	HGNC:11850
+T73	Gene-Protein 2408 2413	TNF‐α
+#26	AnnotatorNotes T73	HGNC:11892
+T74	Gene-Protein 2414 2437	tumor necrosis factor α
+#27	AnnotatorNotes T74	HGNC:11892
+T44	Biomarker 1343 1366	plasma endotoxin levels
+T75	Gene-Protein 719 726	insulin
+T76	Gene-Protein 2090 2097	insulin
+#28	AnnotatorNotes T76	HGNC:6081

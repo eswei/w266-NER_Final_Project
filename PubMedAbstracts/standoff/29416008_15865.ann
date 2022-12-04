@@ -1,0 +1,64 @@
+T0	Disease 46 74	cholestatic neonatal disease
+#1	AnnotatorNotes T0	not found
+T1	Disease 93 106	liver disease
+T10	Chemical 875 882	glycine
+T11	Chemical 886 893	taurine
+T12	Chemical 906 911	TCDCA
+T13	Chemical 913 918	GCDCA
+T14	Chemical 920 923	TCA
+T15	Chemical 968 978	bile acids
+T16	Chemical 980 985	TCDCA
+T17	Chemical 987 992	GCDCA
+T18	Chemical 994 997	TCA
+T19	Disease 1010 1012	BA
+T2	Disease 240 242	BA
+T20	Chemical 1105 1110	TCDCA
+T21	Chemical 1112 1117	GCDCA
+T22	Chemical 1119 1122	TCA
+T23	Chemical 1128 1131	GCA
+T24	Chemical 1155 1165	bile acids
+T25	Disease 1264 1266	BA
+T26	Chemical 1334 1339	TCDCA
+T27	Chemical 1341 1346	GCDCA
+T28	Chemical 1348 1351	TCA
+T29	Chemical 1467 1472	GCDCA
+T3	Chemical 266 276	bile acids
+T30	Chemical 1477 1482	TCDCA
+T31	Chemical 1549 1565	bile acids GCDCA
+T32	Chemical 1570 1575	TCDCA
+T4	Disease 448 450	BA
+T5	Disease 625 627	BA
+T6	Disease 669 680	cholestasis
+#30	AnnotatorNotes T6	DOID:13580
+T7	Biomarker 700 741	increased-mitophagy in cholestatic livers
+T8	Disease 769 780	cholestasis
+T9	Chemical 836 846	bile acids
+T33	Biomarker 30 32	BA
+#3	AnnotatorNotes T33	D001656
+#2	AnnotatorNotes T1	DOID:409
+T34	Biomarker 160 202	strong mitochondrial structure alterations
+T35	Biomarker 207 236	loss of the MMP in the livers
+#4	AnnotatorNotes T2	DOID:13608
+T36	Collection 160 222	strong mitochondrial structure alterations and loss of the MMP
+R2	Association Arg1:T36 Arg2:T2	
+T37	Biomarker 377 434	autophagosomes and mitophagosomes increased significantly
+R3	Association Arg1:T37 Arg2:T4	
+T38	Biomarker 515 611	mRNA levels and the protein levels of the essential autophagy genes were significantly increased
+R4	Association Arg1:T38 Arg2:T5	
+R5	Association Arg1:T7 Arg2:T6	
+T39	Chemical 929 932	GCA
+T40	Chemical 1003 1006	GCA
+T41	Biomarker 968 978	bile acids
+#5	AnnotatorNotes T41	D001647
+T42	Biomarker 980 985	TCDCA
+#6	AnnotatorNotes T42	D013655
+T43	Biomarker 987 992	GCDCA
+#7	AnnotatorNotes T43	D005999
+T44	Biomarker 994 997	TCA
+#8	AnnotatorNotes T44	D014238
+T45	Biomarker 1003 1006	GCA
+T46	Collection 968 1006	bile acids, TCDCA, GCDCA, TCA, and GCA
+R6	Association Arg1:T46 Arg2:T19	
+T47	Biomarker 1105 1260	TCDCA, GCDCA, TCA, and GCA were the most abundant bile acids in the hepatic mitochondria, and they were increased significantly in the hepatic mitochondria
+R7	Association Arg1:T47 Arg2:T25	
+T48	Chemical 1357 1360	GCA

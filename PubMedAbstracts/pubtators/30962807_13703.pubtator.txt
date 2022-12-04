@@ -1,0 +1,33 @@
+30962807_13703|t|RSS_IDENT_p_30962807_b_1_4_5
+30962807_13703|a| Currently, HbA1C is the “gold standard” for identifying the overall blood glucose control; however, 1,5-AG which can reflect rapid changes in glycemia is more accurate than HbA1C [ 32 ]. Therefore, 1,5-AG as a blood glucose marker can provide complementary information to HbA1C. Moreover, in our previous observation, we demonstrated that serum 1,5-AG is a sensitive and specific glycemic control marker and can identify diabetes in populations [ 33 ]. However, unlike HbA1c, multiple factors such as diet and renal function may limit the comparison of 1,5-AG levels between individuals. Some researchers reported that 1,5-AG cannot be used to predicate blood glucose in patients that suffer from impaired renal function [ 34 ]. In the present study, the subjects were classified into different groups by eGFR, and we found that 1,5-AG was still negatively associated with HbA1c in T2DM subjects with eGFR ≥ 30 mL/min/1.73 m². Considering these results, we conclude that 1,5-AG remain a reliable glycemic control marker even if patients suffer mild or moderate renal dysfunction, which is consistent with a previous observation [ 35 ]. In addition, in the current study, we showed that serum 1,5-AG levels were not influenced by eGFR, whereas a previous study reported that 1,5-AG was negatively correlated with kidney function, which might be owing to an age-associated decrease in the renal glucose threshold [ 28 ].
+30962807_13703	41	46	HbA1C	Biomarker	D006442
+30962807_13703	104	111	glucose	Chemical
+30962807_13703	130	136	1,5-AG	Chemical
+30962807_13703	130	136	1,5-AG	Biomarker	C006584
+30962807_13703	203	208	HbA1C	Biomarker
+30962807_13703	228	234	1,5-AG	Biomarker
+30962807_13703	228	234	1,5-AG	Chemical
+30962807_13703	246	253	glucose	Chemical
+30962807_13703	302	307	HbA1C	Biomarker
+30962807_13703	369	381	serum 1,5-AG	Biomarker
+30962807_13703	375	381	1,5-AG	Chemical
+30962807_13703	451	459	diabetes	Disease	not found
+30962807_13703	499	504	HbA1c	Biomarker
+30962807_13703	583	589	1,5-AG	Chemical
+30962807_13703	583	596	1,5-AG levels	Biomarker
+30962807_13703	649	655	1,5-AG	Chemical
+30962807_13703	649	655	1,5-AG	Biomarker
+30962807_13703	690	697	glucose	Chemical
+30962807_13703	859	865	1,5-AG	Chemical
+30962807_13703	859	865	1,5-AG	Biomarker
+30962807_13703	903	908	HbA1c	Biomarker
+30962807_13703	912	916	T2DM	Disease	DOID:9352
+30962807_13703	1001	1007	1,5-AG	Chemical
+30962807_13703	1001	1007	1,5-AG	Biomarker
+30962807_13703	1091	1108	renal dysfunction	Disease	DOID:1074
+30962807_13703	1216	1235	serum 1,5-AG levels	Biomarker
+30962807_13703	1222	1228	1,5-AG	Chemical
+30962807_13703	1304	1310	1,5-AG	Chemical
+30962807_13703	1386	1440	age-associated decrease in the renal glucose threshold	Biomarker
+30962807_13703	1423	1430	glucose	Chemical
+

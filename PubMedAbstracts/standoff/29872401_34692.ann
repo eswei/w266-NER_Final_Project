@@ -1,0 +1,44 @@
+T1	Gene-Protein 154 162	hepcidin
+T10	Chemical 651 655	iron
+T11	Chemical 803 807	iron
+T13	Disease 876 880	HAPC
+T14	Chemical 905 909	iron
+T15	Chemical 957 961	iron
+T16	Chemical 976 980	iron
+T17	Disease 1042 1046	HAPC
+T18	Chemical 1063 1067	iron
+T19	Chemical 1128 1132	iron
+T20	Biomarker 1128 1143	iron deficiency
+#12	AnnotatorNotes T20	D018798
+T22	Disease 1208 1212	HAPC
+T23	Disease 1244 1248	HAPC
+T24	Chemical 1268 1272	iron
+T25	Chemical 1320 1324	iron
+T4	Disease 333 337	HAPC
+T6	Chemical 467 471	iron
+T8	Disease 508 520	polycythemia
+#20	AnnotatorNotes T8	DOID:8432
+T9	Disease 532 536	HAPC
+#1	AnnotatorNotes T1	 HGNC:15598
+T3	Gene-Protein 300 308	hepcidin
+T5	Biomarker 288 315	decrease in hepcidin levels
+#2	AnnotatorNotes T4	not found
+T12	Gene-Protein 411 419	hepcidin
+R1	Association Arg1:T5 Arg2:T4	
+T21	GeneFamily 1095 1105	hemoglobin
+R2	Association Arg1:T20 Arg2:T22	
+T26	Gene-Protein 864 872	hepcidin
+T27	Biomarker 843 872	greater decreases in hepcidin
+T28	Biomarker 895 920	excessive iron absorption
+R3	Association Arg1:T27 Arg2:T13	
+T29	Biomarker 929 961	reuse and release of stored iron
+T31	Gene-Protein 712 720	hepcidin
+T7	Gene-Protein 620 628	hepcidin
+T32	Biomarker 401 419	Decreased hepcidin
+T33	GeneFamily 675 685	hemoglobin
+#3	AnnotatorNotes T33	family:940
+R5	Association Arg1:T32 Arg2:T8	
+T2	Disease 203 243	chronic hypoxic exposure in long-term HA
+#4	AnnotatorNotes T2	D000532
+T34	Biomarker 154 195	hepcidin levels remained continuously low
+R6	Association Arg1:T34 Arg2:T2	

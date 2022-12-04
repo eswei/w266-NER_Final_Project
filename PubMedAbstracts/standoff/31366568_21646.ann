@@ -1,0 +1,125 @@
+T0	Disease 402 404	RA
+#1	AnnotatorNotes T0	DOID:7148
+T10	Disease 1008 1010	RA
+T12	Biomarker 1029 1127	indicated the −590 site and −174 site polymorphisms in the promoter of IL-4 and IL-6, respectively
+T13	Disease 1170 1172	RA
+T14	Disease 1259 1261	RA
+T15	Biomarker 1302 1344	TT genotype in IL-7 rs6897932 polymorphism
+T17	Disease 1379 1381	RA
+T19	Variant 1445 1454	+2199 A/C
+T20	Disease 1482 1484	RA
+T22	Variant 1555 1564	+ 1188A/C
+T23	Biomarker 1582 1605	IL-12p70 protein levels
+T24	Disease 1629 1631	RA
+T25	Collection 1686 1731	IL2A, IL4, IL-6, IL-7, IL-23R, IL-12 and IFNG
+T26	Disease 1769 1771	RA
+T27	Disease 2092 2119	influenza A virus infection
+#11	AnnotatorNotes T27	DOID:8469
+T3	Disease 779 781	RA
+T4	Gene-Protein 834 839	IL2RA
+T5	Biomarker 840 849	rs2104286
+T6	Biomarker 854 873	soluble IL2Rα-level
+T7	Disease 895 897	RA
+T8	Disease 965 983	multiple sclerosis
+#14	AnnotatorNotes T8	DOID:2377
+T9	Disease 985 1002	diabetes mellitus
+#15	AnnotatorNotes T9	DOID:9351
+T28	Gene-Protein 215 221	IL-21R
+#3	AnnotatorNotes T28	HGNC:6006
+T29	Gene-Protein 248 253	IL-6R
+#16	AnnotatorNotes T29	HGNC:6019
+T31	Gene-Protein 555 596	extracellular signal-regulated kinase 1/2
+#18	AnnotatorNotes T31	HGNC:6877, HGNC:6871
+T32	Gene-Protein 598 634	p38 mitogen-activated protein kinase
+#19	AnnotatorNotes T32	HGNC:6876
+T2	Gene-Protein 636 657	tumor necrosis factor
+#7	AnnotatorNotes T2	HGNC:11892
+T33	Gene-Protein 659 686	colony-stimulating factor 3
+#20	AnnotatorNotes T33	HGNC:2438
+T34	Gene-Protein 688 692	IL-6
+#21	AnnotatorNotes T34	 HGNC:6018
+T35	GeneFamily 697 712	interferon gene
+#22	AnnotatorNotes T35	family:598
+T36	GeneFamily 714 718	IFNG
+#23	AnnotatorNotes T36	family:598
+T1	Biomarker 555 596	extracellular signal-regulated kinase 1/2
+#24	AnnotatorNotes T1	D048052, D019950
+T37	Biomarker 598 634	p38 mitogen-activated protein kinase
+#25	AnnotatorNotes T37	D048051
+T38	Biomarker 636 657	tumor necrosis factor
+#26	AnnotatorNotes T38	D014409
+T39	Biomarker 659 686	colony-stimulating factor 3
+T40	Biomarker 688 692	IL-6
+#27	AnnotatorNotes T40	D015850
+T41	Biomarker 697 712	interferon gene
+#28	AnnotatorNotes T41	D007372
+T42	Biomarker 714 718	IFNG
+#29	AnnotatorNotes T42	D007372
+#12	AnnotatorNotes T4	HGNC:6008
+T44	Gene-Protein 862 867	IL2Rα
+#30	AnnotatorNotes T44	HGNC:6008
+R3	Association Arg1:T5 Arg2:T7	
+R4	Association Arg1:T6 Arg2:T7	
+T45	Collection 965 1010	multiple sclerosis, diabetes mellitus, and RA
+R7	Risk-Factor Arg1:T12 Arg2:T13	
+T11	Gene-Protein 1100 1104	IL-4
+#31	AnnotatorNotes T11	HGNC:6014
+T48	Gene-Protein 1109 1113	IL-6
+T16	Gene-Protein 1317 1321	IL-7
+#33	AnnotatorNotes T16	HGNC:6023
+R8	Risk-Factor Arg1:T15 Arg2:T17	
+T18	Gene-Protein 1455 1461	IL-23R
+#4	AnnotatorNotes T18	HGNC:19100
+R9	Variant-Of Arg1:T18 Arg2:T19	
+R10	Association Arg1:T19 Arg2:T20	
+T21	Gene-Protein 1546 1554	IL-12p40
+#5	AnnotatorNotes T21	HGNC:5970
+R11	Variant-Of Arg1:T21 Arg2:T22	
+R12	Association Arg1:T22 Arg2:T24	
+T49	Gene-Protein 1582 1590	IL-12p70
+#6	AnnotatorNotes T49	HGNC:5969, HGNC:5970
+R13	Association Arg1:T23 Arg2:T24	
+T50	Gene-Protein 1692 1695	IL4
+T51	Gene-Protein 1697 1701	IL-6
+T52	Gene-Protein 1703 1707	IL-7
+T53	Gene-Protein 1709 1715	IL-23R
+T54	Gene-Protein 1686 1690	IL2A
+#8	AnnotatorNotes T54	HGNC:6001
+T55	GeneFamily 1727 1731	IFNG
+T56	GeneFamily 1717 1722	IL-12
+#9	AnnotatorNotes T56	not found
+T57	GeneFamily 1661 1663	IL
+#34	AnnotatorNotes T57	family:601
+T58	Gene-Protein 1746 1751	IL-21
+#35	AnnotatorNotes T58	HGNC:6005
+R14	Association Arg1:T25 Arg2:T26	
+T59	Biomarker 1686 1690	IL2A
+T60	Biomarker 1692 1695	IL4
+#36	AnnotatorNotes T60	D015847
+T61	Biomarker 1697 1701	IL-6
+T62	Biomarker 1703 1707	IL-7
+#38	AnnotatorNotes T62	D015851
+T63	Biomarker 1717 1722	IL-12
+#39	AnnotatorNotes T63	D018664
+T64	Biomarker 1727 1731	IFNG
+T65	Biomarker 1709 1715	IL-23R
+T66	Biomarker 1746 1751	IL-21
+#40	AnnotatorNotes T66	C416243
+T67	Gene-Protein 1935 1941	IL-17A
+#10	AnnotatorNotes T67	HGNC:5981
+T68	Gene-Protein 1899 1904	IL-21
+T69	Gene-Protein 2010 2016	IL-21R
+#41	AnnotatorNotes T69	HGNC:6006
+T70	Gene-Protein 2042 2048	IL-17A
+T72	Gene-Protein 2164 2169	IL-21
+T73	Gene-Protein 2170 2176	IL-21R
+T74	Gene-Protein 2210 2216	IL-17A
+T75	Gene-Protein 2307 2313	IL-17A
+T76	Gene-Protein 2396 2402	IL-17A
+T77	Gene-Protein 2359 2364	IL-21
+T30	GeneFamily 509 517	cytokine
+#17	AnnotatorNotes T30	not found
+R5	Risk-Reduce Arg1:T6 Arg2:T45	
+R6	Risk-Reduce Arg1:T5 Arg2:T45	
+T43	Collection 555 719	extracellular signal-regulated kinase 1/2, p38 mitogen-activated protein kinase, tumor necrosis factor, colony-stimulating factor 3, IL-6 and interferon gene (IFNG)
+R1	Association Arg1:T43 Arg2:T3	

@@ -1,0 +1,53 @@
+T1	Disease 514 517	CRC
+T10	Disease 1352 1355	CRC
+T11	Disease 1489 1522	CRC invasion and liver metastasis
+T2	Disease 556 587	acute megakaryoblastic leukemia
+#6	AnnotatorNotes T2	D007947
+T3	Disease 589 616	early-stage cervical cancer
+#7	AnnotatorNotes T3	not found
+T4	Disease 621 658	head and neck squamous cell carcinoma
+#8	AnnotatorNotes T4	DOID:5520
+T6	Disease 714 719	tumor
+#10	AnnotatorNotes T6	DOID:162
+T7	Disease 927 930	CRC
+T8	Disease 1087 1092	tumor
+T9	Disease 1280 1283	CRC
+T13	RNA-Noncoding 71 79	MIR100HG
+#2	AnnotatorNotes T13	HGNC:39522
+T14	Biomarker 71 104	MIR100HG expression was increased
+T15	Disease 108 111	CRC
+#3	AnnotatorNotes T15	DOID:9256
+R1	Association Arg1:T14 Arg2:T15	
+T16	RNA-Noncoding 163 171	MIR100HG
+T17	Disease 186 213	advanced stage (III–IV) CRC
+#4	AnnotatorNotes T17	not found
+T18	Disease 264 284	low stage (I–II) CRC
+#11	AnnotatorNotes T18	not found
+T19	Biomarker 163 182	MIR100HG expression
+R2	Association Arg1:T19 Arg2:T17	
+T20	Biomarker 428 452	high MIR100HG expression
+T21	RNA-Noncoding 433 441	MIR100HG
+T5	RNA-Noncoding 678 686	MIR100HG
+T22	Biomarker 678 701	MIR100HG overexpression
+T23	Collection 556 658	acute megakaryoblastic leukemia, early-stage cervical cancer and head and neck squamous cell carcinoma
+R3	Prognostic-Poor Arg1:T22 Arg2:T23	
+T24	Biomarker 838 861	MIR100HG overexpression
+T25	RNA-Noncoding 838 846	MIR100HG
+R4	Prognostic-Poor Arg1:T24 Arg2:T7	
+T26	RNA-Noncoding 1015 1023	MIR100HG
+T27	RNA-Noncoding 1227 1235	MIR100HG
+T28	Biomarker 1321 1342	MIR100HG upregulation
+T29	RNA-Noncoding 1321 1329	MIR100HG
+R5	Association Arg1:T28 Arg2:T10	
+T30	RNA-Noncoding 1454 1462	MIR100HG
+T31	Biomarker 1454 1462	MIR100HG
+T32	Biomarker 1227 1235	MIR100HG
+#1	AnnotatorNotes T11	not found
+R6	Association Arg1:T31 Arg2:T11	
+T12	Biomarker 1015 1034	MIR100HG expression
+T33	Biomarker 1087 1108	tumor differentiation
+T34	Biomarker 1036 1046	AJCC stage
+T35	Biomarker 1048 1064	N classification
+T36	Biomarker 1066 1082	M classification
+T37	Collection 1015 1108	MIR100HG expression, AJCC stage, N classification, M classification and tumor differentiation
+R7	Association Arg1:T37 Arg2:T7	

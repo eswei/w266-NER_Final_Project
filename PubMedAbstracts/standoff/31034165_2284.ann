@@ -1,0 +1,71 @@
+T1	Disease 179 182	CRC
+T11	RNA-Noncoding 936 943	MiR‐143
+T15	Disease 1021 1024	CRC
+T16	Drug 1029 1036	MiR‐543
+T18	Disease 1047 1050	CRC
+T2	Disease 264 267	CRC
+T22	Disease 1272 1275	CRC
+T24	Disease 1359 1362	CRC
+T26	Disease 1406 1412	cancer
+#12	AnnotatorNotes T26	DOID:162
+T5	Disease 566 569	CRC
+T6	Disease 761 764	CRC
+T8	Disease 820 827	cancers
+#16	AnnotatorNotes T8	DOID:162
+T9	Disease 839 842	CRC
+T4	GeneFamily 61 89	transforming growth factor‐β
+#1	AnnotatorNotes T4	family:1664
+T7	GeneFamily 90 94	Smad
+#2	AnnotatorNotes T7	family:750
+T10	GeneFamily 96 99	Wnt
+#4	AnnotatorNotes T10	family:360
+T12	GeneFamily 100 109	β‐catenin
+#5	AnnotatorNotes T12	family:1542
+T14	GeneFamily 114 146	mitogen‐activated protein kinase
+#6	AnnotatorNotes T14	family:651
+T3	RNA-Noncoding 948 955	miR‐145
+#3	AnnotatorNotes T3	HGNC:31532
+#7	AnnotatorNotes T11	HGNC:31530
+T13	Gene-Protein 1101 1105	KRAS
+#9	AnnotatorNotes T13	 HGNC:6407
+T17	Gene-Protein 1107 1111	MTA1
+#10	AnnotatorNotes T17	HGNC:7410
+T19	Gene-Protein 1116 1121	HMGA2
+#11	AnnotatorNotes T19	HGNC:5009
+T20	Gene-Protein 849 855	miR‐21
+#13	AnnotatorNotes T20	HGNC:31586
+T23	RNA-Noncoding 1126 1136	MiR‐34a‐5p
+#14	AnnotatorNotes T23	HGNC:31635
+T25	RNA-Noncoding 1314 1324	miR‐625‐3p
+#15	AnnotatorNotes T25	HGNC:32881
+T27	Gene-Protein 1427 1437	E‐cadherin
+#17	AnnotatorNotes T27	HGNC:1748
+T28	Gene-Protein 1438 1464	matrix metalloproteinase‐9
+#18	AnnotatorNotes T28	HGNC:7176
+T29	Biomarker 33 146	signaling pathways, such as transforming growth factor‐β/Smad, Wnt/β‐catenin and mitogen‐activated protein kinase
+T30	Biomarker 245 260	non‐coding RNAs
+R1	Association Arg1:T29 Arg2:T1	
+R2	Association Arg1:T30 Arg2:T2	
+T31	RNA-Noncoding 245 260	non‐coding RNAs
+T32	Biomarker 537 562	abnormal miRNA expression
+R3	Association Arg1:T32 Arg2:T5	
+T33	Biomarker 784 811	highly expressed onco‐miRNA
+R4	Association Arg1:T33 Arg2:T8	
+T34	Drug-Class 886 898	chemotherapy
+T35	Biomarker 844 866	high miR‐21 expression
+R5	Mediated-Non-Response Arg1:T34 Arg2:T9	
+R6	Mediator Arg1:T34 Arg2:T35	
+T36	Biomarker 936 1017	MiR‐143 and miR‐145 can exert tumor‐suppressive functions and have low expression
+R7	Association Arg1:T36 Arg2:T15	
+T37	RNA-Noncoding 1029 1036	MiR‐543
+#19	AnnotatorNotes T37	HGNC:33664
+R8	Response Arg1:T16 Arg2:T18	
+T38	Biomarker 1262 1268	miRNAs
+R9	Association Arg1:T38 Arg2:T22	
+T39	Drug 1126 1136	MiR‐34a‐5p
+T40	Disease 1215 1231	stage II/III CRC
+R10	Response Arg1:T39 Arg2:T40	
+#8	AnnotatorNotes T1	DOID:9256
+#20	AnnotatorNotes T16	C577592
+#21	AnnotatorNotes T38	D035683
+#22	AnnotatorNotes T40	not found

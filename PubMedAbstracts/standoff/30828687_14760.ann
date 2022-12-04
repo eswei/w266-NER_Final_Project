@@ -1,0 +1,42 @@
+T0	Chemical 71 74	Ser
+T1	Disease 143 148	ADOII
+T3	Chemical 183 186	Ser
+T4	Chemical 541 544	Ser
+T5	Chemical 567 570	GTP
+T6	Disease 797 802	ADOII
+T7	Variant 1045 1050	G215R
+T8	Chemical 1093 1101	chloride
+T9	Gene-Protein 97 101	Rac1
+#1	AnnotatorNotes T9	HGNC:9801
+T10	Gene-Protein 102 107	Cdc42
+#2	AnnotatorNotes T10	HGNC:1736
+#3	AnnotatorNotes T1	DOID:0110938
+T11	Biomarker 62 115	enhanced Ser‐71 phosphorylation of Rac1/Cdc42 protein
+T12	Gene-Protein 161 166	ClC‐7
+#4	AnnotatorNotes T12	HGNC:2025
+R1	Association Arg1:T11 Arg2:T1	
+T2	Gene-Protein 205 209	Rac1
+T13	Gene-Protein 210 215	Cdc42
+T14	ProteinDomain 292 307	PAK CRIB‐domain
+T15	GeneFamily 312 319	Rho‐GDI
+#5	AnnotatorNotes T15	not found
+T16	Gene-Protein 328 332	Rac1
+T17	Gene-Protein 337 342	Cdc42
+T18	GeneFamily 368 371	Rho
+#6	AnnotatorNotes T18	family:390
+T19	GeneFamily 400 405	actin
+#7	AnnotatorNotes T19	family:929
+T20	Gene-Protein 533 537	Rac1
+T21	GeneFamily 551 554	Akt
+#8	AnnotatorNotes T21	family:1900
+T22	Gene-Protein 582 586	Rac1
+T23	Gene-Protein 646 650	Rac1
+T24	Gene-Protein 720 725	Cdc42
+T25	Biomarker 692 725	enhanced phosphorylation of Cdc42
+R2	Association Arg1:T25 Arg2:T6	
+T26	Gene-Protein 812 817	Cdc42
+T27	Gene-Protein 1051 1056	ClC‐7
+R3	Variant-Of Arg1:T27 Arg2:T7	
+#9	AnnotatorNotes T7	p.Gly215Arg
+T30	Gene-Protein 1156 1161	Cdc42
+T31	Gene-Protein 1166 1192	osteoclast differentiation

@@ -1,0 +1,70 @@
+T0	Gene-Protein 64 70	GDF-15
+T1	Disease 74 89	prostate cancer
+#2	AnnotatorNotes T1	DOID:10283
+T11	Gene-Protein 343 348	GDF15
+T12	Disease 379 402	primary prostate tumors
+#4	AnnotatorNotes T12	DOID:10283
+T16	Disease 626 681	low- and high-grade prostatic intraepithelial neoplasia
+#8	AnnotatorNotes T16	not found, not found
+T17	Disease 687 710	primary prostate cancer
+T20	Gene-Protein 752 757	GDF15
+T21	Disease 796 851	low- and high-grade prostatic intraepithelial neoplasia
+T22	Disease 859 874	prostate cancer
+T23	Disease 922 937	prostate cancer
+T25	Gene-Protein 953 958	GDF15
+T26	Gene-Protein 1113 1118	GDF15
+T28	Gene-Protein 1203 1208	GDF15
+T29	Disease 1217 1232	prostate cancer
+T3	Gene-Protein 140 145	GDF15
+T32	Gene-Protein 1286 1291	GDF15
+T33	Disease 1337 1352	adenocarcinomas
+#22	AnnotatorNotes T33	DOID:299
+T34	Disease 1381 1396	prostate cancer
+T35	Gene-Protein 1428 1433	GDF15
+T36	Disease 1437 1452	prostate cancer
+#25	AnnotatorNotes T36	DOID:10283
+T37	Disease 1562 1586	advanced prostate cancer
+#26	AnnotatorNotes T37	not found
+T38	Gene-Protein 1614 1619	GDF15
+T39	Disease 1699 1714	prostate cancer
+T4	Disease 160 192	early-stage of tumor development
+#29	AnnotatorNotes T4	not found
+T5	Disease 207 212	tumor
+#30	AnnotatorNotes T5	DOID:162
+T7	Gene-Protein 233 238	GDF15
+T8	Disease 270 286	metastatic CRPCs
+#32	AnnotatorNotes T8	not found
+T9	Disease 299 313	primary tumors
+#33	AnnotatorNotes T9	DOID:162
+#1	AnnotatorNotes T0	HGNC:30142
+T2	Biomarker 64 70	GDF-15
+#3	AnnotatorNotes T2	D055436
+R1	Association Arg1:T2 Arg2:T1	
+T6	Biomarker 117 156	biphasic regulation of GDF15 expression
+T10	Biomarker 233 266	GDF15 expression is downregulated
+#11	AnnotatorNotes T7	HGNC:30142
+R3	Association Arg1:T10 Arg2:T8	
+T19	Biomarker 333 375	levels of GDF15 RNA and protein are higher
+R4	Association Arg1:T19 Arg2:T12	
+T13	Biomarker 740 772	increase of GDF15 protein levels
+T14	Collection 796 874	low- and high-grade prostatic intraepithelial neoplasia and to prostate cancer
+R2	Association Arg1:T13 Arg2:T14	
+T15	Biomarker 947 969	lower GDF15 expression
+T18	Biomarker 989 1011	higher Gleason pattern
+T24	Biomarker 1016 1032	pathologic stage
+T27	Biomarker 1037 1062	increased risk of relapse
+T31	Biomarker 1187 1213	higher level of GDF15 mRNA
+R5	Association Arg1:T31 Arg2:T29	
+T30	Biomarker 1271 1296	lower level of GDF15 mRNA
+R6	Association Arg1:T30 Arg2:T33	
+T40	Biomarker 1428 1433	GDF15
+R7	Association Arg1:T40 Arg2:T36	
+#5	AnnotatorNotes T40	D055436
+T41	Chemical 1667 1670	MSA
+T42	Disease 411 434	benign prostate tissues
+#6	AnnotatorNotes T42	DOID:2883
+T43	Disease 601 624	benign prostate tissues
+T44	Disease 778 792	benign tissues
+#7	AnnotatorNotes T44	DOID:0060072
+T45	Disease 1241 1264	benign prostate tissues
+R8	Prognostic-Poor Arg1:T15 Arg2:T23	

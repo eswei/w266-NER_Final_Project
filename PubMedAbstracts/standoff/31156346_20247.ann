@@ -1,0 +1,56 @@
+T10	Biomarker 495 504	Bone pain
+T11	Disease 537 539	OP
+T15	Disease 717 719	OP
+T18	Disease 940 942	OP
+T20	Disease 1050 1054	pain
+#9	AnnotatorNotes T20	D010146
+T22	Disease 1203 1224	pain-related diseases
+#10	AnnotatorNotes T22	DOID:0060164
+T25	Disease 1313 1333	primary dysmenorrhea
+#11	AnnotatorNotes T25	D004412
+T28	Disease 1470 1482	fibromyalgia
+#13	AnnotatorNotes T28	DOID:631
+T29	Disease 1486 1507	chronic pain syndrome
+#14	AnnotatorNotes T29	not found
+T31	Disease 1566 1582	neuropathic pain
+#15	AnnotatorNotes T31	D009437
+T32	Disease 1656 1674	neuro-inflammation
+#16	AnnotatorNotes T32	not found
+T7	Disease 317 330	low back pain
+#20	AnnotatorNotes T7	D017116
+T8	Disease 357 359	OP
+T9	Disease 470 472	OP
+T3	Gene-Protein 61 66	CCL11
+#1	AnnotatorNotes T3	HGNC:10610
+T12	Gene-Protein 161 166	CCL11
+T16	Gene-Protein 1041 1046	CCL11
+T17	Gene-Protein 1150 1155	CCL11
+T19	Gene-Protein 1257 1262	CCL11
+T21	Gene-Protein 1546 1551	CCL11
+T23	Gene-Protein 1426 1431	CCL11
+T24	Gene-Protein 1647 1652	CCL11
+T1	Disease 198 231	inflammatory and neuropathic pain
+T2	Biomarker 161 166	CCL11
+R1	Association Arg1:T2 Arg2:T35	
+#5	AnnotatorNotes T1	not found, D009437
+R2	Association Arg1:T10 Arg2:T11	
+T4	Biomarker 1041 1046	CCL11
+R3	Association Arg1:T4 Arg2:T20	
+T5	Biomarker 1257 1295	CCL11 levels were significantly higher
+R4	Association Arg1:T5 Arg2:T25	
+T6	Biomarker 1379 1431	single nucleotide polymorphisms (SNPs) of gene CCL11
+T26	Collection 1470 1507	fibromyalgia, a chronic pain syndrome
+R5	Association Arg1:T6 Arg2:T26	
+T27	Biomarker 1529 1551	higher levels of CCL11
+R6	Association Arg1:T27 Arg2:T31	
+T30	Biomarker 1150 1155	CCL11
+R7	Association Arg1:T30 Arg2:T22	
+#2	AnnotatorNotes T2	D054413
+T33	Biomarker 55 73	serum CCL11 levels
+T34	Disease 673 688	bone pain in OP
+#4	AnnotatorNotes T34	not found,DOID:11476
+T13	Biomarker 1647 1652	CCL11
+R8	Association Arg1:T13 Arg2:T32	
+T14	Disease 235 237	OP
+#6	AnnotatorNotes T14	DOID:11476
+T35	Collection 198 237	inflammatory and neuropathic pain in OP

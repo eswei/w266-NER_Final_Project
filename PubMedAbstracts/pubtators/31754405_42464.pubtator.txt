@@ -1,0 +1,41 @@
+31754405_42464|t|RSS_IDENT_p_31754405_b_1_4_5
+31754405_42464|a| Current studies indicate that CD44 is an important marker for CSCs that contributes to the activation of stem cell regulatory genes and supports the maintenance of CSCs 30 - 32 . Ample evidence indicates that CSCs are enriched or activated during cancer therapies, and CD44 contributes to the drug resistance of CSCs 30 , 47 , 48 . For instance, CD44ʰⁱᵍʰ breast cancer cells that survive epirubicin treatment exhibit the growth and gene expression signatures of CSCs 49 . In the present study, we identified CD44 as a direct and functional target of miR-302a in the regulation of CTX resistance in CRC. We found that CD44 silencing sensitized CRC cells to CTX treatment, while CD44 overexpression induced CTX resistance, but this effect could be abrogated by the ectopic expression of miR-302a. We also found that CD44 was upregulated in stem cell-enriched tumor spheres, and miR-302a overexpression or CD44 silencing showed consistent inhibitory effects on tumor sphere growth and the expression of stem cell markers. In addition, we observed a negative correlation between miR-302a and CD44 in CRC tissues. These results suggest that miR-302a regulates the CTX resistance of CRC cells possibly though the suppression of CD44 and its effects on CSCs. 
+31754405_42464	60	64	CD44	Gene-protein	HGNC:1681
+31754405_42464	277	283	cancer	Disease	DOID:162
+31754405_42464	299	303	CD44	Gene-protein
+31754405_42464	376	398	CD44ʰⁱᵍʰ breast cancer	Disease	not found
+31754405_42464	418	428	epirubicin	Drug	CHEMBL417
+31754405_42464	538	542	CD44	Gene-protein
+31754405_42464	538	542	CD44	Biomarker	C497483
+31754405_42464	580	588	miR-302a	Rna-noncoding	HGNC:31623
+31754405_42464	580	588	miR-302a	Biomarker
+31754405_42464	610	613	CTX	Drug	CHEMBL1201577
+31754405_42464	628	631	CRC	Disease	DOID:9256
+31754405_42464	647	651	CD44	Gene-protein
+31754405_42464	647	661	CD44 silencing	Drug	not found
+31754405_42464	673	676	CRC	Disease
+31754405_42464	686	689	CTX	Drug
+31754405_42464	707	711	CD44	Gene-protein
+31754405_42464	707	726	CD44 overexpression	Biomarker
+31754405_42464	735	738	CTX	Drug
+31754405_42464	815	823	miR-302a	Rna-noncoding
+31754405_42464	844	848	CD44	Gene-protein
+31754405_42464	844	864	CD44 was upregulated	Biomarker
+31754405_42464	887	892	tumor	Disease	DOID:162
+31754405_42464	906	914	miR-302a	Rna-noncoding
+31754405_42464	906	929	miR-302a overexpression	Drug	not found
+31754405_42464	906	947	miR-302a overexpression or CD44 silencing	Collection
+31754405_42464	933	937	CD44	Gene-protein
+31754405_42464	933	947	CD44 silencing	Drug
+31754405_42464	988	993	tumor	Disease
+31754405_42464	1105	1113	miR-302a	Rna-noncoding
+31754405_42464	1105	1113	miR-302a	Biomarker	C532169
+31754405_42464	1118	1122	CD44	Biomarker
+31754405_42464	1118	1122	CD44	Gene-protein
+31754405_42464	1126	1129	CRC	Disease
+31754405_42464	1166	1174	miR-302a	Rna-noncoding
+31754405_42464	1166	1174	miR-302a	Biomarker
+31754405_42464	1189	1192	CTX	Drug
+31754405_42464	1207	1210	CRC	Disease
+31754405_42464	1252	1256	CD44	Gene-protein
+

@@ -1,0 +1,71 @@
+T0	Disease 63 71	fibrosis
+#1	AnnotatorNotes T0	D005355
+T1	Biomarker 103 122	Intestinal fibrosis
+T10	Disease 506 509	IBD
+T11	Disease 521 524	IBD
+T12	Drug 554 588	2,4,6-trinitrobenzenesulfonic acid
+T13	Drug 590 594	TNBS
+T14	Disease 660 679	intestinal fibrosis
+T15	Chemical 748 761	polyphosphate
+T17	Drug 890 901	pirfenidone
+T18	Disease 929 958	idiopathic pulmonary fibrosis
+#10	AnnotatorNotes T18	DOID:0050156
+T19	Drug 1034 1039	MA-35
+T20	Disease 1089 1108	intestinal fibrosis
+T21	Chemical 1153 1156	AOM
+T22	Chemical 1157 1160	DSS
+T23	Drug 1192 1197	MA-35
+T24	Disease 1250 1258	fibrosis
+T3	Disease 176 179	IBD
+#17	AnnotatorNotes T3	DOID:0050589
+T7	Disease 297 305	fibrosis
+T8	Disease 383 402	intestinal fibrosis
+#19	AnnotatorNotes T8	not found
+T2	Drug 49 54	MA-35
+#5	AnnotatorNotes T2	not found
+R1	Response Arg1:T2 Arg2:T0	
+T4	Disease 215 224	morbidity
+#2	AnnotatorNotes T4	D009017
+T5	Disease 229 238	mortality
+#6	AnnotatorNotes T5	D009026
+T6	Collection 176 238	IBD and is associated with significant morbidity and mortality
+R2	Association Arg1:T1 Arg2:T6	
+T9	Gene-Protein 249 255	TGF-β₁
+#8	AnnotatorNotes T9	HGNC:11766
+T16	GeneFamily 336 345	collagens
+#9	AnnotatorNotes T16	family:490
+T25	Biomarker 249 255	TGF-β₁
+#11	AnnotatorNotes T25	D053773
+R3	Association Arg1:T25 Arg2:T8	
+T26	Biomarker 408 488	serum levels of TGF-β₁ and its mRNA expression levels are also known to increase
+T27	Gene-Protein 424 430	TGF-β₁
+R4	Association Arg1:T26 Arg2:T10	
+T28	Drug 546 549	DSS
+#3	AnnotatorNotes T28	CHEMBL2108952
+#4	AnnotatorNotes T12	D014302
+#13	AnnotatorNotes T13	D014302
+T29	Collection 546 588	DSS- or 2,4,6-trinitrobenzenesulfonic acid
+T30	Gene-Protein 632 638	TGF-β₁
+T31	GeneFamily 639 643	Smad
+T32	MicroOrganism 719 739	Lactobacillus brevis
+T33	Gene-Protein 780 786	TGF-β₁
+T34	GeneFamily 787 791	Smad
+#15	AnnotatorNotes T17	CHEMBL1256391
+R6	Response Arg1:T17 Arg2:T18	
+T35	GeneFamily 999 1004	TGF-β
+#18	AnnotatorNotes T35	family:1664
+T36	Gene-Protein 1071 1076	Tgfb1
+T37	GeneFamily 1061 1070	cytokines
+T38	Gene-Protein 1081 1084	Fn1
+R7	Response Arg1:T19 Arg2:T20	
+T39	Gene-Protein 1127 1133	TGF-β₁
+T40	GeneFamily 1134 1138	Smad
+R8	Response Arg1:T23 Arg2:T44	
+T41	Drug-Class 906 924	antifibrotic agent
+R5	Causes Arg1:T29 Arg2:T11	
+T42	Drug 614 651	inhibition of the TGF-β₁/Smad pathway
+#7	AnnotatorNotes T42	not found
+R9	Response Arg1:T42 Arg2:T14	
+T43	Disease 1274 1286	inflammation
+#12	AnnotatorNotes T43	D007249
+T44	Collection 1250 1286	fibrosis, not just anti-inflammation

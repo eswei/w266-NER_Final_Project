@@ -1,0 +1,33 @@
+T0	Chemical 101 105	iron
+T10	Chemical 1214 1218	iron
+T2	Chemical 469 473	iron
+T3	Biomarker 469 482	iron overload
+T5	Disease 776 789	OA of the hip
+#5	AnnotatorNotes T5	not found
+T7	Chemical 937 941	iron
+T8	Biomarker 937 950	iron overload
+T9	Disease 1068 1108	hemochromatosis patients with joint pain
+#8	AnnotatorNotes T9	DOID:2352, D018771
+T11	Biomarker 95 112	serum iron status
+T12	Biomarker 117 130	HFE genotypes
+T13	Disease 148 164	end-stage hip OA
+#1	AnnotatorNotes T13	not found
+T14	Biomarker 259 308	three-fold increase in C282Y homozygous mutations
+T15	Biomarker 419 444	increase in HFE mutations
+T16	Biomarker 562 595	C282Y homozygosity was even lower
+T4	Biomarker 830 859	increase in C282Y homozygotes
+T17	Disease 867 869	OA
+#2	AnnotatorNotes T17	DOID:8398
+T18	Biomarker 973 1030	elevated serum ferritin and transferrin saturation levels
+T19	GeneFamily 988 996	ferritin
+#3	AnnotatorNotes T19	family:1455
+T20	Gene-Protein 1001 1012	transferrin
+#4	AnnotatorNotes T20	HGNC:11740
+R1	Association Arg1:T18 Arg2:T17	
+A1	Conjunction T9
+T21	Biomarker 1214 1225	iron status
+R2	Association Arg1:T4 Arg2:T17	
+T1	Gene-Protein 117 120	HFE
+#6	AnnotatorNotes T1	HGNC:4886
+T6	Gene-Protein 431 434	HFE
+T22	Gene-Protein 730 733	HFE

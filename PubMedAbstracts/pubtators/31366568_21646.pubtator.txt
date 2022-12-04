@@ -1,0 +1,78 @@
+31366568_21646|t|RSS_IDENT_p_31366568_b_1_5_5
+31366568_21646|a| In addition, we used the online analysis system String to predict potential and functional partners (Figure 10). Finally, ten genes were predicted. The highest score of association was IL-21R (Score = 0.996), however, IL-6R had the lowest scores (Score = 0.833). Tan et al. [ 35 ] employed RNA sequencing technology to explore the differentially expressed genes (DEGs) of RA patients compared with healthy volunteers. Combined DEGs and bioinformatics analysis indicated that the cytokine imbalance relevant to key molecules: extracellular signal-regulated kinase 1/2, p38 mitogen-activated protein kinase, tumor necrosis factor, colony-stimulating factor 3, IL-6 and interferon gene (IFNG) were responsible for the common comprehensive mechanism of RA [ 35 ]. van Steenbergen et al. [ 36 ] reported that IL2RA-rs2104286 and soluble IL2Rα-level were associated with RA-persistence, which was known to act as a protective factor against multiple sclerosis, diabetes mellitus, and RA. Li et al. [ 37 ] indicated the −590 site and −174 site polymorphisms in the promoter of IL-4 and IL-6, respectively, may be associated with increased risk of RA and could be used as genetic markers for assessing the susceptibility and severity of RA. O’Doherty et al. [ 38 ] suggested that TT genotype in IL-7 rs6897932 polymorphism was significantly associated with RA risk. Gomes da Silva et al. [ 39 ] suggested that the variants +2199 A/C IL-23R could contribute to RA development. Paradowska-Gorycka et al. [ 40 ] indicated that IL-12p40 + 1188A/C polymorphism and IL-12p70 protein levels may be associated with RA. Above information predicted IL family genes, such as IL2A, IL4, IL-6, IL-7, IL-23R, IL-12 and IFNG may influence IL-21 and regulate the RA development, which maybe become intervention and treatment target genes in the future. Besides, Do et al. [ 41 ] reported that IL-21 was dispensable for γδ T-cell IL-17A expression in lymph nodes, while Moser et al. [ 42 ] indicated that IL-21R signaling suppressed the IL-17A-producing γδ T-cell response in lung after influenza A virus infection. In addition, Huang et al. [ 43 ] suggested IL-21/IL-21R may act as a potent inhibitor of IL-17A-producing γδ T cells, controlling neutrophil-dependent inflammatory responses mediated by IL-17A-producing γδ T cells. From above we can see, IL-21 is a significant regulator for IL-17A.
+31366568_21646	215	221	IL-21R	Gene-protein	HGNC:6006
+31366568_21646	248	253	IL-6R	Gene-protein	HGNC:6019
+31366568_21646	402	404	RA	Disease	DOID:7148
+31366568_21646	509	517	cytokine	Genefamily	not found
+31366568_21646	555	596	extracellular signal-regulated kinase 1/2	Gene-protein	HGNC:6877, HGNC:6871
+31366568_21646	555	596	extracellular signal-regulated kinase 1/2	Biomarker	D048052, D019950
+31366568_21646	555	719	extracellular signal-regulated kinase 1/2, p38 mitogen-activated protein kinase, tumor necrosis factor, colony-stimulating factor 3, IL-6 and interferon gene (IFNG)	Collection
+31366568_21646	598	634	p38 mitogen-activated protein kinase	Gene-protein	HGNC:6876
+31366568_21646	598	634	p38 mitogen-activated protein kinase	Biomarker	D048051
+31366568_21646	636	657	tumor necrosis factor	Gene-protein	HGNC:11892
+31366568_21646	636	657	tumor necrosis factor	Biomarker	D014409
+31366568_21646	659	686	colony-stimulating factor 3	Gene-protein	HGNC:2438
+31366568_21646	659	686	colony-stimulating factor 3	Biomarker
+31366568_21646	688	692	IL-6	Gene-protein	 HGNC:6018
+31366568_21646	688	692	IL-6	Biomarker	D015850
+31366568_21646	697	712	interferon gene	Genefamily	family:598
+31366568_21646	697	712	interferon gene	Biomarker	D007372
+31366568_21646	714	718	IFNG	Genefamily	family:598
+31366568_21646	714	718	IFNG	Biomarker	D007372
+31366568_21646	779	781	RA	Disease
+31366568_21646	834	839	IL2RA	Gene-protein	HGNC:6008
+31366568_21646	840	849	rs2104286	Biomarker
+31366568_21646	854	873	soluble IL2Rα-level	Biomarker
+31366568_21646	862	867	IL2Rα	Gene-protein	HGNC:6008
+31366568_21646	895	897	RA	Disease
+31366568_21646	965	983	multiple sclerosis	Disease	DOID:2377
+31366568_21646	965	1010	multiple sclerosis, diabetes mellitus, and RA	Collection
+31366568_21646	985	1002	diabetes mellitus	Disease	DOID:9351
+31366568_21646	1008	1010	RA	Disease
+31366568_21646	1029	1127	indicated the −590 site and −174 site polymorphisms in the promoter of IL-4 and IL-6, respectively	Biomarker
+31366568_21646	1100	1104	IL-4	Gene-protein	HGNC:6014
+31366568_21646	1109	1113	IL-6	Gene-protein
+31366568_21646	1170	1172	RA	Disease
+31366568_21646	1259	1261	RA	Disease
+31366568_21646	1302	1344	TT genotype in IL-7 rs6897932 polymorphism	Biomarker
+31366568_21646	1317	1321	IL-7	Gene-protein	HGNC:6023
+31366568_21646	1379	1381	RA	Disease
+31366568_21646	1445	1454	+2199 A/C	Variant
+31366568_21646	1455	1461	IL-23R	Gene-protein	HGNC:19100
+31366568_21646	1482	1484	RA	Disease
+31366568_21646	1546	1554	IL-12p40	Gene-protein	HGNC:5970
+31366568_21646	1555	1564	+ 1188A/C	Variant
+31366568_21646	1582	1590	IL-12p70	Gene-protein	HGNC:5969, HGNC:5970
+31366568_21646	1582	1605	IL-12p70 protein levels	Biomarker
+31366568_21646	1629	1631	RA	Disease
+31366568_21646	1661	1663	IL	Genefamily	family:601
+31366568_21646	1686	1690	IL2A	Gene-protein	HGNC:6001
+31366568_21646	1686	1690	IL2A	Biomarker
+31366568_21646	1686	1731	IL2A, IL4, IL-6, IL-7, IL-23R, IL-12 and IFNG	Collection
+31366568_21646	1692	1695	IL4	Gene-protein
+31366568_21646	1692	1695	IL4	Biomarker	D015847
+31366568_21646	1697	1701	IL-6	Gene-protein
+31366568_21646	1697	1701	IL-6	Biomarker
+31366568_21646	1703	1707	IL-7	Gene-protein
+31366568_21646	1703	1707	IL-7	Biomarker	D015851
+31366568_21646	1709	1715	IL-23R	Gene-protein
+31366568_21646	1709	1715	IL-23R	Biomarker
+31366568_21646	1717	1722	IL-12	Genefamily	not found
+31366568_21646	1717	1722	IL-12	Biomarker	D018664
+31366568_21646	1727	1731	IFNG	Genefamily
+31366568_21646	1727	1731	IFNG	Biomarker
+31366568_21646	1746	1751	IL-21	Gene-protein	HGNC:6005
+31366568_21646	1746	1751	IL-21	Biomarker	C416243
+31366568_21646	1769	1771	RA	Disease
+31366568_21646	1899	1904	IL-21	Gene-protein
+31366568_21646	1935	1941	IL-17A	Gene-protein	HGNC:5981
+31366568_21646	2010	2016	IL-21R	Gene-protein	HGNC:6006
+31366568_21646	2042	2048	IL-17A	Gene-protein
+31366568_21646	2092	2119	influenza A virus infection	Disease	DOID:8469
+31366568_21646	2164	2169	IL-21	Gene-protein
+31366568_21646	2170	2176	IL-21R	Gene-protein
+31366568_21646	2210	2216	IL-17A	Gene-protein
+31366568_21646	2307	2313	IL-17A	Gene-protein
+31366568_21646	2359	2364	IL-21	Gene-protein
+31366568_21646	2396	2402	IL-17A	Gene-protein
+

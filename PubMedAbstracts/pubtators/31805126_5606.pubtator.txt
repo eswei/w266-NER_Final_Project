@@ -1,0 +1,45 @@
+31805126_5606|t|RSS_IDENT_p_31805126_b_1_1_5
+31805126_5606|a| Temozolomide (TMZ), an alkylating agent of the imidazotetrazine series, is a first-line chemotherapeutic drug for clinically treating malignant gliomas. Nevertheless, gradually increasing drug resistance to TMZ has obviously decreased its therapeutic effects in glioma patients. A previous study suggested that blockade of the Hedgehog/GLI1-regulated IGF-1 pathways countered the intrinsic and acquired resistance of glioma stem cells to TMZ [ 20 ]. The mechanisms of IGF-1-influenced TMZ resistance in glioma cells are still unclear. Furthermore, no studies have reported if IGF-1-regulated miRNAs participate in drug resistance or glioma progression. In the present study, we attempted to identify IGF-1-influenced miRNA networks in reducing glioma cell sensitivity to TMZ treatment. Using microarray and bioinformatic analyses, we found that miR-513a-5p was the most upregulated miRNA in IGF-1-treated U87-MG cells through PI3K pathways. NEDD4L, identified as a direct target gene of miR-513a-5p, was significantly downregulated in GBM patients and IGF-1-treated glioma cells. Overexpression of NEDD4L significantly reduced glioma cell viability. Finally, our results suggest that IGF-1-upregulated miR-513a-5p signaling attenuated glioma cell sensitivity to TMZ via inhibiting NEDD4L-inactivated WNT/β-catenin pathways. 
+31805126_5606	30	42	Temozolomide	Drug	CHEMBL810
+31805126_5606	44	47	TMZ	Drug	CHEMBL810
+31805126_5606	77	93	imidazotetrazine	Chemical
+31805126_5606	118	139	chemotherapeutic drug	Drug-class
+31805126_5606	164	181	malignant gliomas	Disease	DOID:0060108
+31805126_5606	237	240	TMZ	Drug
+31805126_5606	292	298	glioma	Disease	DOID:0060108
+31805126_5606	366	370	GLI1	Gene-protein	HGNC:4317
+31805126_5606	381	386	IGF-1	Gene-protein	HGNC:5464
+31805126_5606	447	453	glioma	Disease
+31805126_5606	468	471	TMZ	Drug
+31805126_5606	498	503	IGF-1	Gene-protein
+31805126_5606	498	503	IGF-1	Biomarker	D007334
+31805126_5606	515	518	TMZ	Drug
+31805126_5606	533	539	glioma	Disease
+31805126_5606	606	611	IGF-1	Gene-protein
+31805126_5606	663	669	glioma	Disease
+31805126_5606	730	735	IGF-1	Gene-protein
+31805126_5606	774	780	glioma	Disease
+31805126_5606	801	804	TMZ	Drug
+31805126_5606	875	886	miR-513a-5p	Rna-noncoding
+31805126_5606	921	926	IGF-1	Gene-protein
+31805126_5606	935	941	U87-MG	Cellline
+31805126_5606	956	960	PI3K	Genefamily	family:831
+31805126_5606	971	977	NEDD4L	Gene-protein	HGNC:7728
+31805126_5606	971	1061	NEDD4L, identified as a direct target gene of miR-513a-5p, was significantly downregulated	Biomarker
+31805126_5606	1017	1028	miR-513a-5p	Rna-noncoding
+31805126_5606	1065	1068	GBM	Disease	DOID:3068
+31805126_5606	1065	1102	GBM patients and IGF-1-treated glioma	Collection
+31805126_5606	1082	1087	IGF-1	Gene-protein
+31805126_5606	1082	1102	IGF-1-treated glioma	Disease
+31805126_5606	1110	1134	Overexpression of NEDD4L	Drug	not found
+31805126_5606	1128	1134	NEDD4L	Gene-protein
+31805126_5606	1157	1163	glioma	Disease
+31805126_5606	1214	1219	IGF-1	Gene-protein
+31805126_5606	1214	1253	IGF-1-upregulated miR-513a-5p signaling	Biomarker
+31805126_5606	1232	1243	miR-513a-5p	Rna-noncoding
+31805126_5606	1265	1271	glioma	Disease
+31805126_5606	1292	1295	TMZ	Drug
+31805126_5606	1311	1317	NEDD4L	Gene-protein
+31805126_5606	1330	1333	WNT	Genefamily	family:360
+31805126_5606	1334	1343	β-catenin	Genefamily	family:1542
+

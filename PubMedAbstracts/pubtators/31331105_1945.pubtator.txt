@@ -1,0 +1,89 @@
+31331105_1945|t|RSS_IDENT_s_31331105_b_1_1
+31331105_1945|a| 1. Introduction The human leukocyte antigen (HLA) class II heterodimeric molecules, composed by the alpha and beta chains, are encoded by many different alleles, which generate the high polymorphism characteristic of this locus. The genes encoding DR and DQ isotypes are the main risk factors associated with several autoimmune diseases. Type 1 diabetes (T1D) and celiac disease (CD) are autoimmune disorders, affecting between 0.5% and 1% of the general population. Very frequently, these two diseases co-occur in families, and approximately 4–9% of patients with T1D also have CD, while patients with CD are at increased risk of developing T1D [ 1 ]. CD and T1D share immunopathogenic mechanisms, although the autoreactive T cells and autoantibodies are directed against different autoantigens, such as insulin, GADA65, and IA-2 in T1D [ 2 ] and tissue transglutaminase in CD [ 3 ]. The HLA-DRB1, HLA-DQA1, and HLA-DQB1 genes display a major component of familial clustering in both T1D and CD. Subjects at high risk to develop T1D carry either DQ2.5 haplotype, encoded by DQA1*05:01 and DQB1*02:01 or DQ8 haplotype, encoded by DQA1*03:01 and DQB1*03:02 [ 4 ]., whereas the most prominent association of CD is with HLA-DQ2.5 molecules [ 5 ]. The alleles encoding DQ2.5 molecule are in linkage disequilibrium (LD) with HLA-DRB1*03, while the DQ8 alleles are in LD with HLA-DRB1*04. More specifically, considering the subtype specificity, the DRB1*03:01 is found coupled to DQA1*05:01 and DQB1*02:01 almost exclusively, thus creating the haplotype called “DR3”, while DRB1*04:01 is found in LD with DQA1*03:01 but can have either DQB1*03:01 or DQB1*03:02 included in the haplotype. Both are referred to as “DR4” haplotypes, although that carrying the DQB1*03:02 allele (DQ8 haplotype) predisposes to disease and that with DQB1*03:01 allele (DQ7 haplotype) is protective [ 4 , 5 ]. T1D risk depends not only on the haplotypic context but also on the genotypic assets of the risk alleles. In fact, the highest risk is conferred by DR3/DR4 heterozygous genotype. The contribution of DR3/DR4 is higher than the sum of the individual DR3 and DR4 haplotypes. This group comprised T1D subjects carrying DRB1*03:01-DQA1*05:01-DQB1*02 on one chromosome and DRB1*04:01-DQA1*03:01-DQB1*03:02 on the other chromosome. One hypothesis for the increased risk is the putative presence of DQ heterodimers encoded by alleles in trans, in addition to the DQ molecules encoded by alleles in cis, on the cell surface of immune cells [ 6 , 7 ].
+31331105_1945	48	86	human leukocyte antigen (HLA) class II	Genefamily	not found
+31331105_1945	261	294	genes encoding DR and DQ isotypes	Biomarker
+31331105_1945	276	278	DR	Genefamily	not found
+31331105_1945	283	285	DQ	Genefamily	not found
+31331105_1945	345	364	autoimmune diseases	Disease	DOID:417
+31331105_1945	366	381	Type 1 diabetes	Disease	DOID:9744
+31331105_1945	383	386	T1D	Disease	DOID:9744
+31331105_1945	392	406	celiac disease	Disease	DOID:10608
+31331105_1945	408	410	CD	Disease	DOID:10608
+31331105_1945	416	436	autoimmune disorders	Disease	DOID:417
+31331105_1945	593	596	T1D	Disease
+31331105_1945	607	609	CD	Biomarker	D002446
+31331105_1945	631	633	CD	Disease
+31331105_1945	670	673	T1D	Biomarker	D003922
+31331105_1945	681	683	CD	Disease
+31331105_1945	688	691	T1D	Disease
+31331105_1945	833	840	insulin	Gene-protein	HGNC:6081
+31331105_1945	842	848	GADA65	Gene-protein	HGNC:4093
+31331105_1945	854	858	IA-2	Gene-protein	HGNC:9676
+31331105_1945	862	865	T1D	Disease
+31331105_1945	883	899	transglutaminase	Genefamily	family:773
+31331105_1945	903	905	CD	Disease
+31331105_1945	917	925	HLA-DRB1	Gene-protein	HGNC:4948
+31331105_1945	917	1004	HLA-DRB1, HLA-DQA1, and HLA-DQB1 genes display a major component of familial clustering	Biomarker
+31331105_1945	927	935	HLA-DQA1	Gene-protein	HGNC:4942
+31331105_1945	941	949	HLA-DQB1	Gene-protein	HGNC:4944
+31331105_1945	1013	1016	T1D	Disease
+31331105_1945	1013	1023	T1D and CD	Collection
+31331105_1945	1021	1023	CD	Disease
+31331105_1945	1058	1061	T1D	Disease
+31331105_1945	1075	1090	DQ2.5 haplotype	Biomarker
+31331105_1945	1075	1145	DQ2.5 haplotype, encoded by DQA1*05:01 and DQB1*02:01 or DQ8 haplotype	Collection
+31331105_1945	1103	1107	DQA1	Gene-protein
+31331105_1945	1107	1113	*05:01	Variant
+31331105_1945	1118	1122	DQB1	Gene-protein
+31331105_1945	1122	1128	*02:01	Variant
+31331105_1945	1132	1145	DQ8 haplotype	Biomarker
+31331105_1945	1158	1162	DQA1	Gene-protein
+31331105_1945	1162	1168	*03:01	Variant
+31331105_1945	1173	1177	DQB1	Gene-protein
+31331105_1945	1177	1183	*03:02	Variant
+31331105_1945	1234	1236	CD	Disease
+31331105_1945	1245	1254	HLA-DQ2.5	Biomarker
+31331105_1945	1348	1356	HLA-DRB1	Gene-protein
+31331105_1945	1356	1359	*03	Variant
+31331105_1945	1398	1406	HLA-DRB1	Gene-protein
+31331105_1945	1406	1409	*04	Variant
+31331105_1945	1471	1475	DRB1	Gene-protein
+31331105_1945	1475	1481	*03:01	Variant
+31331105_1945	1502	1506	DQA1	Gene-protein
+31331105_1945	1506	1512	*05:01	Variant
+31331105_1945	1517	1521	DQB1	Gene-protein
+31331105_1945	1521	1527	*02:01	Variant
+31331105_1945	1596	1600	DRB1	Gene-protein
+31331105_1945	1600	1606	*04:01	Variant
+31331105_1945	1627	1631	DQA1	Gene-protein
+31331105_1945	1631	1637	*03:01	Variant
+31331105_1945	1658	1662	DQB1	Gene-protein
+31331105_1945	1662	1668	*03:01	Variant
+31331105_1945	1672	1676	DQB1	Gene-protein
+31331105_1945	1676	1682	*03:02	Variant
+31331105_1945	1779	1783	DQB1	Gene-protein
+31331105_1945	1783	1789	*03:02	Variant
+31331105_1945	1850	1854	DQB1	Gene-protein
+31331105_1945	1854	1860	*03:01	Variant
+31331105_1945	1909	1912	T1D	Disease
+31331105_1945	1942	1960	haplotypic context	Biomarker
+31331105_1945	1942	2013	haplotypic context but also on the genotypic assets of the risk alleles	Collection
+31331105_1945	1977	2013	genotypic assets of the risk alleles	Biomarker
+31331105_1945	2057	2086	DR3/DR4 heterozygous genotype	Biomarker
+31331105_1945	2202	2205	T1D	Disease
+31331105_1945	2224	2228	DRB1	Gene-protein
+31331105_1945	2224	2308	DRB1*03:01-DQA1*05:01-DQB1*02 on one chromosome and DRB1*04:01-DQA1*03:01-DQB1*03:02	Collection
+31331105_1945	2228	2234	*03:01	Variant
+31331105_1945	2235	2239	DQA1	Gene-protein
+31331105_1945	2239	2245	*05:01	Variant
+31331105_1945	2246	2250	DQB1	Gene-protein
+31331105_1945	2250	2253	*02	Variant
+31331105_1945	2276	2280	DRB1	Gene-protein
+31331105_1945	2280	2286	*04:01	Variant
+31331105_1945	2287	2291	DQA1	Gene-protein
+31331105_1945	2291	2297	*03:01	Variant
+31331105_1945	2298	2302	DQB1	Gene-protein
+31331105_1945	2302	2308	*03:02	Variant
+31331105_1945	2400	2402	DQ	Genefamily
+31331105_1945	2464	2466	DQ	Genefamily
+

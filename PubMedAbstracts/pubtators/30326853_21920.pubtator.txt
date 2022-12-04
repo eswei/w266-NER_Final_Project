@@ -1,0 +1,47 @@
+30326853_21920|t|RSS_IDENT_p_30326853_b_1_4_6
+30326853_21920|a| Erlotinib is known to be a substrate for adenosine triphosphate-binding cassette transporters (ABCB1, ABCG2, and ABCC10) [ 17 ]. ABCG2 and ABCB1 are expressed not only in tumor tissues but also in normal tissues including the liver [ 18 ]. PPIs and H2-antagonists are ABCG2 and ABCB1 inhibitors, which increase the concentration of ABCG2 and ABCB1 substrates such as erlotinib in the liver, resulting in hepatotoxicity. In our previous study on gefitinib, co-administration of PPIs and H2-antagonists showed significantly increased hepatotoxicity in NSCLC patients [ 13 ]. Another study evaluated the genetic polymorphism of ABC transporters on erlotinib-related adverse effects [ 19 ]. While the results did not reinforce the association between hepatotoxicity and genetic polymorphisms, they suggested that ABCG2 34G > A was a useful predictor of skin rash of grade 2 or higher level. Further, patients carrying ABCG2 -15,622 T/T polymorphism and ABCG2 (1143C/T, -15622C/T) haplotype developed significantly higher frequency of grade 2/3 diarrhea [ 20 ]. Based on the genetic results, ABCG2 represents a candidate marker of erlotinib-induced adverse reactions including hepatotoxicity. 
+30326853_21920	30	39	Erlotinib	Drug	CHEMBL553
+30326853_21920	71	93	adenosine triphosphate	Chemical
+30326853_21920	71	123	adenosine triphosphate-binding cassette transporters	Genefamily	family:417
+30326853_21920	125	130	ABCB1	Gene-protein	HGNC:40
+30326853_21920	132	137	ABCG2	Gene-protein	HGNC:74
+30326853_21920	143	149	ABCC10	Gene-protein	HGNC:52
+30326853_21920	159	164	ABCG2	Gene-protein
+30326853_21920	159	164	ABCG2	Biomarker	D000070997
+30326853_21920	169	174	ABCB1	Gene-protein
+30326853_21920	169	174	ABCB1	Biomarker	D020168
+30326853_21920	201	206	tumor	Disease	DOID:162
+30326853_21920	270	274	PPIs	Drug-class
+30326853_21920	279	293	H2-antagonists	Drug-class
+30326853_21920	298	303	ABCG2	Gene-protein
+30326853_21920	298	324	ABCG2 and ABCB1 inhibitors	Drug-class
+30326853_21920	308	313	ABCB1	Gene-protein
+30326853_21920	362	367	ABCG2	Gene-protein
+30326853_21920	372	377	ABCB1	Gene-protein
+30326853_21920	397	406	erlotinib	Drug	CHEMBL553
+30326853_21920	434	448	hepatotoxicity	Disease	D056486
+30326853_21920	475	484	gefitinib	Drug	CHEMBL939
+30326853_21920	507	511	PPIs	Drug-class
+30326853_21920	507	530	PPIs and H2-antagonists	Collection
+30326853_21920	516	530	H2-antagonists	Drug-class
+30326853_21920	562	585	hepatotoxicity in NSCLC	Disease	D056486,DOID:3908	Conjunction
+30326853_21920	639	651	polymorphism	Variant
+30326853_21920	655	671	ABC transporters	Genefamily	family:417
+30326853_21920	675	684	erlotinib	Drug
+30326853_21920	777	791	hepatotoxicity	Disease
+30326853_21920	839	844	ABCG2	Gene-protein
+30326853_21920	845	852	34G > A	Variant
+30326853_21920	879	915	skin rash of grade 2 or higher level	Disease	not found
+30326853_21920	944	949	ABCG2	Gene-protein
+30326853_21920	944	1005	ABCG2 -15,622 T/T polymorphism and ABCG2 (1143C/T, -15622C/T)	Collection
+30326853_21920	950	961	-15,622 T/T	Variant
+30326853_21920	979	984	ABCG2	Gene-protein
+30326853_21920	986	993	1143C/T	Variant
+30326853_21920	986	1004	1143C/T, -15622C/T	Collection
+30326853_21920	995	1004	-15622C/T	Variant
+30326853_21920	1060	1078	grade 2/3 diarrhea	Disease	not found
+30326853_21920	1117	1122	ABCG2	Gene-protein
+30326853_21920	1117	1122	ABCG2	Biomarker
+30326853_21920	1156	1165	erlotinib	Drug
+30326853_21920	1202	1216	hepatotoxicity	Disease
+

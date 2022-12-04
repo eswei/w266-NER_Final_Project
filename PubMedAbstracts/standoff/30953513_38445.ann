@@ -1,0 +1,63 @@
+T1	Disease 186 209	cardiovascular diseases
+#2	AnnotatorNotes T1	DOID:1287
+T10	Disease 1177 1185	diabetes
+T11	Disease 1339 1359	diabetic retinopathy
+#4	AnnotatorNotes T11	DOID:8947
+T2	Disease 256 258	DM
+T3	Disease 358 360	DM
+T4	Disease 372 374	DM
+T5	Disease 620 625	tumor
+#8	AnnotatorNotes T5	DOID:162
+T7	Disease 864 879	ischemic stroke
+#10	AnnotatorNotes T7	DOID:6713
+T9	Disease 1008 1010	DM
+T12	GeneFamily 71 75	MMPs
+#5	AnnotatorNotes T12	family:891
+T13	GeneFamily 271 275	MMPs
+T14	GeneFamily 350 354	MMPs
+T15	GeneFamily 783 787	MMPs
+T16	GeneFamily 1071 1075	MMPs
+T17	GeneFamily 1291 1295	MMPs
+T18	GeneFamily 1267 1271	MMPs
+T19	Gene-Protein 311 316	CD147
+#6	AnnotatorNotes T19	HGNC:1116
+T20	Gene-Protein 408 413	CD147
+T21	Gene-Protein 429 434	CD147
+T22	Gene-Protein 541 546	CD147
+T23	Gene-Protein 789 794	CD147
+T24	Gene-Protein 855 860	CD147
+T25	Gene-Protein 960 965	CD147
+T26	Gene-Protein 1039 1044	CD147
+T27	Gene-Protein 1233 1238	CD147
+T28	Gene-Protein 1285 1290	CD147
+T29	Gene-Protein 1472 1477	CD147
+T30	GeneFamily 487 490	MMP
+#7	AnnotatorNotes T30	family:891
+T31	GeneFamily 564 567	MMP
+T6	GeneFamily 1296 1300	VEGF
+#9	AnnotatorNotes T6	family:1267
+#3	AnnotatorNotes T2	DOID:9351
+T8	Disease 890 898	diabetic
+T32	Disease 104 135	vascular remodeling in diabetes
+#11	AnnotatorNotes T32	D066253, not found
+T33	Collection 104 209	vascular remodeling in diabetes, which is closely related to the comorbidities of cardiovascular diseases
+T34	Biomarker 71 75	MMPs
+#1	AnnotatorNotes T34	D020782
+R1	Association Arg1:T34 Arg2:T33	
+T35	Biomarker 311 316	CD147
+#12	AnnotatorNotes T35	D051926
+T36	Biomarker 350 354	MMPs
+T37	Biomarker 382 413	upregulated expression of CD147
+T38	Biomarker 1285 1308	CD147/MMPs/VEGF pathway
+R3	Association Arg1:T38 Arg2:T11	
+T39	GeneFamily 1117 1125	collagen
+#13	AnnotatorNotes T39	family:490
+T40	Biomarker 855 860	CD147
+T41	Biomarker 541 546	CD147
+R4	Association Arg1:T41 Arg2:T5	
+A1	Conjunction T32
+#14	AnnotatorNotes T8	not found
+T42	Biomarker 478 499	elevated MMP activity
+T43	Collection 382 499	upregulated expression of CD147, especially HG-CD147 on astrocytes and endothelium, followed by elevated MMP activity
+R2	Association Arg1:T43 Arg2:T4	
+#15	AnnotatorNotes T10	not found

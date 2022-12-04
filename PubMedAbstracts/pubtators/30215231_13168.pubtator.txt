@@ -1,0 +1,33 @@
+30215231_13168|t|RSS_IDENT_p_30215231_b_1_4_4
+30215231_13168|a| Importantly, our results showed that the frequencies of the C allele, the homozygous CC genotype, and the heterozygous CT genotype in miR-196a2 were significantly higher in HBV-positive HCC patients than in controls. In contrast, the frequencies of the T allele and the homozygous TT genotype were significantly lower in HBV-positive HCC patients than in controls. Our results showed that inheritance of the miR-196a2 C allele and the CC and CT genotypes may increase the risk of HCC in HBV-positive patients by affecting the expression of mature miR-196a2 and HOXC8, thereby enhancing cell migration/invasion. Our results provide evidence that the miR-196a2 polymorphism may be an indicator of HCC susceptibility in HBV-positive patients. Xu et al. [ 25 ] evaluated the relationship between the miR-196a2 SNP and the risk of HCC recurrence after liver transplantation. They revealed that inheritance of the homozygous CC genotype of miR-196a2 was associated with higher miR-196a2 expression than inheritance of the TT genotype. Polymorphisms in pre-miR-196a-2 have been associated with HCC susceptibility in a Turkish population [ 26 ]. Other studies have also demonstrated the relationship between this SNP and other cancers. For example, Song et al. [ 27 ] showed that individuals who inherited the CC genotype were more susceptible to epithelial ovarian cancer than those who inherited the TT or CT genotype. With the finding of increased expression of mature miR-196a in patients with the C allele, they concluded that the miR-196a2 CC genotype may increase the risk of ovarian cancer [ 27 ]. 
+30215231_13168	100	199	the homozygous CC genotype, and the heterozygous CT genotype in miR-196a2 were significantly higher	Biomarker
+30215231_13168	164	173	miR-196a2	Rna-noncoding	HGNC:31568
+30215231_13168	203	219	HBV-positive HCC	Disease	DOID:2043, DOID:684	Conjunction
+30215231_13168	264	347	frequencies of the T allele and the homozygous TT genotype were significantly lower	Biomarker
+30215231_13168	351	367	HBV-positive HCC	Disease	Conjunction
+30215231_13168	419	484	inheritance of the miR-196a2 C allele and the CC and CT genotypes	Biomarker
+30215231_13168	438	447	miR-196a2	Rna-noncoding
+30215231_13168	510	529	HCC in HBV-positive	Disease	DOID:684, DOID:2043	Conjunction
+30215231_13168	577	586	miR-196a2	Rna-noncoding
+30215231_13168	591	596	HOXC8	Gene-protein	HGNC:5129
+30215231_13168	679	688	miR-196a2	Rna-noncoding
+30215231_13168	679	701	miR-196a2 polymorphism	Biomarker
+30215231_13168	725	759	HCC susceptibility in HBV-positive	Disease	DOID:684, DOID:2043	Conjunction
+30215231_13168	826	835	miR-196a2	Rna-noncoding
+30215231_13168	826	839	miR-196a2 SNP	Biomarker
+30215231_13168	856	859	HCC	Disease	DOID:684
+30215231_13168	938	973	homozygous CC genotype of miR-196a2	Biomarker
+30215231_13168	964	973	miR-196a2	Rna-noncoding
+30215231_13168	994	1057	higher miR-196a2 expression than inheritance of the TT genotype	Biomarker
+30215231_13168	1001	1010	miR-196a2	Rna-noncoding
+30215231_13168	1059	1090	Polymorphisms in pre-miR-196a-2	Biomarker
+30215231_13168	1076	1090	pre-miR-196a-2	Rna-noncoding	not found
+30215231_13168	1117	1120	HCC	Disease
+30215231_13168	1249	1256	cancers	Disease	DOID:162
+30215231_13168	1318	1343	inherited the CC genotype	Biomarker
+30215231_13168	1369	1394	epithelial ovarian cancer	Disease	DOID:2152
+30215231_13168	1410	1441	inherited the TT or CT genotype	Biomarker
+30215231_13168	1558	1567	miR-196a2	Rna-noncoding
+30215231_13168	1558	1579	miR-196a2 CC genotype	Biomarker
+30215231_13168	1605	1619	ovarian cancer	Disease	DOID:2394
+

@@ -1,0 +1,75 @@
+30532554_2416|t|RSS_IDENT_s_30532554_b_1_1
+30532554_2416|a| Introduction Inflammation is the most important factor that contributes to colon cancer development and growth. Several studies have reported a close association between chronic inflammation and cancer involving Toll-like receptors (TLRs) and their signaling pathways. 1 , 2 Other studies showed that TLRs and their agonists can serve as therapeutic targets in several cancer and immune diseases to induce either apoptosis or anti-tumor responses. 3 These receptors are mainly expressed in normal human mature cells that play a role in innate immunity such as monocytes, neutrophils, macrophages, dendritic cells, T cells, B cells, and natural killer cells. 4 TLRs are also expressed on tumor cells in a wide variety of tissues, suggesting their important roles in tumor cell evasion from immune-surveillance. 1 , 3 , 5 These receptors act as innate immune sensors against endogenous and exogenous danger signals by recognizing pattern recognition molecules (damage-associated molecular pattern [DAMPs] and pathogen-associated molecular pattern [PAMPs]) 6 – 8 and driving an adaptive immune response through their signaling pathways, leading to nuclear factor-kappa B (NF-κB) and interferon regulatory factor 3 translocation and transactivation. 9 This activates various inflammatory cytokines 10 such as tumor necrosis factor and interleukin-6. TLR signaling consists of at least two distinct pathways: one is a myeloid differentiation primary-response protein-88 (MyD88)-dependent pathway, while the other is MYD88-independent. Most TLRs types activate MYD88 signaling pathways, 11 which requires TLRs adaptor proteins including MYD88, Toll-interleukin 1 receptor domain-containing adaptor protein, Toll/interleukin-1 receptor domain-containing adaptor protein inducing interferon beta, and Toll-interleukin 1 receptor domain-containing adapter molecule 2. 12 So far, more than 13 types of TLRs have been identified; 10 functional TLRs family members (TLRs 1–10) have been identified in humans, 13 while the other TLRs 11–13 are found in rodent species (rats and mice). 14 TLR polymorphisms influence dysregulation of the immune system and the development of different types of cancers. Recently, Slattery et al 15 and Semlali et al 16 reported that TLR4 single-nucleotide polymorphism (SNP) (rs11536898) is associated with colon cancer development. SNPs in the TLR1, TLR6, and TLR10 cluster increase prostate cancer susceptibility. 17 In addition, recent data revealed a strong link between the risk of gastric cancer development and presence of SNPs in TLR2 and TLR4. 18 , 19 These previous studies suggest an association between innate immunity gene polymorphism and inflammation process, which increases the susceptibility of gastric carcinogenesis development. 20 Recently, the TLR4 (Asp299Gly) SNP was found to be associated with an increased risk of prostate cancer development in a north Indian population. 21 A synthetic meta-analysis based on data from 22 studies also confirmed the association of the TLR4 Asp299Gly SNP with increased gastrointestinal cancer risk, but with decreased prostate cancer risk. 22 Additionally, Bhide et al 11 found a close association between novel mutations in TLR genes (TLR1-Ser150Gly and Val 220 Met; TLR2 – Phe 670Leu) and an increased susceptibility to Mycobacterium avium subsp. Para tuberculosis.
+30532554_2416	41	53	Inflammation	Biomarker	D007249
+30532554_2416	103	115	colon cancer	Disease	DOID:219
+30532554_2416	198	218	chronic inflammation	Biomarker
+30532554_2416	223	295	cancer involving Toll-like receptors (TLRs) and their signaling pathways	Disease	not found
+30532554_2416	240	259	Toll-like receptors	Genefamily	family:948
+30532554_2416	261	265	TLRs	Genefamily	family:948
+30532554_2416	329	333	TLRs	Genefamily
+30532554_2416	329	352	TLRs and their agonists	Biomarker
+30532554_2416	397	403	cancer	Disease
+30532554_2416	397	423	cancer and immune diseases	Collection
+30532554_2416	408	423	immune diseases	Disease	DOID:2914
+30532554_2416	688	692	TLRs	Genefamily
+30532554_2416	688	692	TLRs	Biomarker	D051193
+30532554_2416	715	720	tumor	Disease	DOID:162
+30532554_2416	793	798	tumor	Disease
+30532554_2416	1173	1195	nuclear factor-kappa B	Genefamily	family:1254
+30532554_2416	1197	1202	NF-κB	Genefamily	family:1254
+30532554_2416	1208	1238	interferon regulatory factor 3	Gene-protein	HGNC:6118
+30532554_2416	1299	1321	inflammatory cytokines	Genefamily	not found
+30532554_2416	1333	1354	tumor necrosis factor	Gene-protein	HGNC:11892
+30532554_2416	1359	1372	interleukin-6	Gene-protein	HGNC:6018
+30532554_2416	1374	1377	TLR	Genefamily	family:948
+30532554_2416	1441	1492	myeloid differentiation primary-response protein-88	Gene-protein	HGNC:7562
+30532554_2416	1494	1499	MyD88	Gene-protein	HGNC:7562
+30532554_2416	1539	1544	MYD88	Gene-protein	HGNC:7562
+30532554_2416	1563	1567	TLRs	Genefamily
+30532554_2416	1583	1588	MYD88	Gene-protein
+30532554_2416	1627	1631	TLRs	Genefamily
+30532554_2416	1659	1664	MYD88	Gene-protein
+30532554_2416	1666	1727	Toll-interleukin 1 receptor domain-containing adaptor protein	Gene-protein	HGNC:17192
+30532554_2416	1729	1790	Toll/interleukin-1 receptor domain-containing adaptor protein	Gene-protein	HGNC:17192
+30532554_2416	1800	1815	interferon beta	Gene-protein	HGNC:5434
+30532554_2416	1821	1885	Toll-interleukin 1 receptor domain-containing adapter molecule 2	Gene-protein	HGNC:21354
+30532554_2416	1920	1924	TLRs	Genefamily
+30532554_2416	1961	1965	TLRs	Genefamily
+30532554_2416	1982	1991	TLRs 1–10	Gene-protein	HGNC:11847, HGNC:11848, HGNC:11849, HGNC:11850, HGNC:11851, HGNC:16711, HGNC:15631, HGNC:15632, HGNC:15633, HGNC:15634
+30532554_2416	2044	2054	TLRs 11–13	Gene-protein
+30532554_2416	2103	2106	TLR	Gene-protein
+30532554_2416	2103	2120	TLR polymorphisms	Biomarker
+30532554_2416	2131	2165	dysregulation of the immune system	Biomarker
+30532554_2416	2208	2215	cancers	Disease	DOID:162
+30532554_2416	2280	2284	TLR4	Gene-protein	HGNC:11850
+30532554_2416	2323	2333	rs11536898	Variant
+30532554_2416	2354	2366	colon cancer	Disease
+30532554_2416	2380	2421	SNPs in the TLR1, TLR6, and TLR10 cluster	Biomarker
+30532554_2416	2392	2396	TLR1	Gene-protein	HGNC:11847
+30532554_2416	2398	2402	TLR6	Gene-protein	HGNC:16711
+30532554_2416	2408	2413	TLR10	Gene-protein	HGNC:15634
+30532554_2416	2431	2446	prostate cancer	Disease	DOID:10283
+30532554_2416	2534	2548	gastric cancer	Disease	DOID:10534
+30532554_2416	2577	2598	SNPs in TLR2 and TLR4	Biomarker
+30532554_2416	2585	2589	TLR2	Gene-protein	HGNC:11848
+30532554_2416	2594	2598	TLR4	Gene-protein
+30532554_2416	2662	2695	innate immunity gene polymorphism	Biomarker
+30532554_2416	2662	2712	innate immunity gene polymorphism and inflammation	Collection
+30532554_2416	2700	2712	inflammation	Biomarker
+30532554_2416	2760	2782	gastric carcinogenesis	Disease	DOID:10534
+30532554_2416	2813	2817	TLR4	Gene-protein
+30532554_2416	2819	2828	Asp299Gly	Variant	p.Asp299Gly
+30532554_2416	2887	2902	prostate cancer	Disease	DOID:10283
+30532554_2416	3042	3046	TLR4	Gene-protein
+30532554_2416	3047	3056	Asp299Gly	Variant
+30532554_2416	3076	3099	gastrointestinal cancer	Disease	DOID:3119
+30532554_2416	3125	3140	prostate cancer	Disease
+30532554_2416	3232	3235	TLR	Genefamily
+30532554_2416	3243	3247	TLR1	Gene-protein
+30532554_2416	3248	3257	Ser150Gly	Variant	p.Ser150Gly
+30532554_2416	3248	3273	Ser150Gly and Val 220 Met	Collection
+30532554_2416	3262	3273	Val 220 Met	Variant	p.Val220 Met
+30532554_2416	3275	3279	TLR2	Gene-protein
+30532554_2416	3282	3292	Phe 670Leu	Variant	p.Phe670Leu
+30532554_2416	3329	3373	Mycobacterium avium subsp. Para tuberculosis	Microorganism
+

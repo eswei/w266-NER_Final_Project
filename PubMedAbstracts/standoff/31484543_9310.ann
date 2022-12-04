@@ -1,0 +1,91 @@
+T1	Gene-Protein 94 97	KIT
+T4	Gene-Protein 569 576	giantin
+T5	Gene-Protein 745 750	GM130
+T7	GeneFamily 450 453	ERK
+T8	Gene-Protein 128 133	STAT5
+T9	Gene-Protein 532 535	TFR
+T10	Gene-Protein 537 557	transferrin receptor
+T11	Gene-Protein 559 566	ab84036
+T12	Gene-Protein 142 146	ERK2
+T13	Gene-Protein 155 159	ARF1
+T14	Gene-Protein 172 176	GBF1
+T15	Gene-Protein 270 273	KIT
+T16	Gene-Protein 292 295	KIT
+T17	Gene-Protein 196 201	SHP-1
+T18	Gene-Protein 214 219	SHP-2
+T19	Gene-Protein 66 76	antibodies
+T20	Gene-Protein 305 310	LAMP1
+T21	Gene-Protein 312 350	lysosome-associated membrane protein 1
+T22	GeneFamily 360 363	AKT
+T23	Gene-Protein 431 437	ERK1/2
+T24	Gene-Protein 863 866	KIT
+T25	Gene-Protein 693 701	calnexin
+T26	Gene-Protein 394 399	STAT5
+T27	Gene-Protein 409 414	STAT5
+T3	Gene-Protein 635 638	TFR
+T28	Gene-Protein 592 597	GM130
+T29	Gene-Protein 818 823	LAMP1
+T30	Gene-Protein 183 188	PTP1B
+T31	Gene-Protein 30 40	Antibodies
+T32	GeneFamily 372 375	AKT
+T2	Gene-Protein 107 118	cathepsin D
+#1	AnnotatorNotes T31	not found
+#2	AnnotatorNotes T19	not found
+#3	AnnotatorNotes T1	HGNC:6342
+#4	AnnotatorNotes T2	HGNC:2529
+#5	AnnotatorNotes T8	HGNC:11366
+#6	AnnotatorNotes T12	HGNC:6871
+#7	AnnotatorNotes T13	HGNC:652
+T6	Gene-Protein 161 169	ARFS 3F1
+#8	AnnotatorNotes T6	not found
+#9	AnnotatorNotes T14	HGNC:4181
+#10	AnnotatorNotes T30	HGNC:9642
+#11	AnnotatorNotes T17	HGNC:9658
+T33	Gene-Protein 203 207	D-11
+#12	AnnotatorNotes T33	not found
+T34	Gene-Protein 135 139	C-17
+#13	AnnotatorNotes T34	not found
+T36	Gene-Protein 148 152	K-23
+#14	AnnotatorNotes T36	not found
+T37	Gene-Protein 190 193	D-4
+#15	AnnotatorNotes T37	not found
+T38	Gene-Protein 221 224	B-1
+T39	Gene-Protein 283 289	D12E12
+T40	Gene-Protein 297 302	D13A2
+#17	AnnotatorNotes T40	not found
+T35	Gene-Protein 352 357	D4O1S
+#18	AnnotatorNotes T35	not found
+#19	AnnotatorNotes T20	HGNC:6499
+#20	AnnotatorNotes T21	HGNC:6499
+#21	AnnotatorNotes T22	family:1900
+T41	Gene-Protein 365 369	40D4
+T42	Gene-Protein 385 391	C31E5E
+T43	Gene-Protein 401 406	D2O6Y
+T44	Gene-Protein 423 428	D47E7
+#16	AnnotatorNotes T23	HGNC:6877, HGNC:6871
+T45	Gene-Protein 439 444	137F5
+T46	Gene-Protein 469 472	E10
+#22	AnnotatorNotes T46	not found
+T47	Gene-Protein 525 529	RL90
+#23	AnnotatorNotes T47	not found
+#24	AnnotatorNotes T10	HGNC:11763
+#25	AnnotatorNotes T9	HGNC:11763
+#26	AnnotatorNotes T11	not found
+#27	AnnotatorNotes T4	HGNC:4429
+T48	Gene-Protein 578 585	ab24586
+#28	AnnotatorNotes T48	not found
+#29	AnnotatorNotes T28	HGNC:4425
+T49	Gene-Protein 599 605	EP892Y
+#30	AnnotatorNotes T49	not found
+#31	AnnotatorNotes T25	 HGNC:1473
+T50	Gene-Protein 703 714	ADI-SPA-860
+#32	AnnotatorNotes T50	not found
+#33	AnnotatorNotes T5	HGNC:4425
+T51	Gene-Protein 752 760	clone 35
+#34	AnnotatorNotes T51	not found
+T52	Gene-Protein 825 830	L1418
+#35	AnnotatorNotes T52	not found
+T53	Gene-Protein 868 873	104D2
+#36	AnnotatorNotes T53	not found
+T54	Gene-Protein 907 939	HRP-labeled secondary antibodies
+#37	AnnotatorNotes T54	not found

@@ -1,0 +1,38 @@
+T0	Gene-Protein 43 48	CYS-C
+T11	Gene-Protein 418 423	CYS-C
+T17	Gene-Protein 731 736	CYS-C
+T19	Gene-Protein 828 833	CYS-C
+T2	Gene-Protein 155 160	CYS-C
+T24	Gene-Protein 969 974	CYS-C
+T5	Disease 268 271	AKI
+T7	Gene-Protein 318 323	CYS-C
+#1	AnnotatorNotes T0	HGNC:2475
+T1	Biomarker 963 974	serum CYS-C
+T6	Disease 1012 1051	AKI in patients with acute pancreatitis
+A1	Conjunction T6
+R1	Association Arg1:T1 Arg2:T6	
+T10	Biomarker 822 833	serum CYS-C
+T15	Disease 857 896	AKI in patients with acute pancreatitis
+A2	Conjunction T15
+R2	Association Arg1:T10 Arg2:T15	
+T18	Disease 568 607	AKI in patients with acute pancreatitis
+A3	Conjunction T18
+T14	Biomarker 716 736	serum baseline CYS-C
+T16	Disease 472 511	AKI in patients with acute pancreatitis
+A4	Conjunction T16
+R3	Association Arg1:T14 Arg2:T18	
+T13	Biomarker 403 423	baseline serum CYS-C
+R4	Diagnostic-of Arg1:T13 Arg2:T16	
+T12	Disease 1240 1279	AKI in patients with acute pancreatitis
+A5	Conjunction T12
+T20	Disease 349 388	AKI in patients with acute pancreatitis
+A6	Conjunction T20
+T21	Biomarker 293 323	increased baseline serum CYS-C
+R5	Association Arg1:T21 Arg2:T20	
+T8	Disease 206 242	acute pancreatitis patients with AKI
+A7	Conjunction T8
+T9	Biomarker 140 202	baseline serum CYS-C concentration was significantly increased
+R6	Association Arg1:T9 Arg2:T8	
+#2	AnnotatorNotes T8	DOID:2913, D058186
+#3	AnnotatorNotes T5	D058186
+#4	AnnotatorNotes T20	D058186,DOID:2913

@@ -1,0 +1,105 @@
+T1	Biomarker 30 54	Aberrant O-glycosylation
+T10	Chemical 630 631	O
+T11	Biomarker 661 705	Aberrant glycosylation resulting from GALNT1
+T12	Disease 718 726	melanoma
+#2	AnnotatorNotes T12	DOID:1909
+T13	Disease 735 742	ovarian
+#3	AnnotatorNotes T13	DOID:2394
+T14	Disease 755 770	bladder cancers
+#4	AnnotatorNotes T14	DOID:11054
+T15	Disease 866 879	neuroblastoma
+#5	AnnotatorNotes T15	DOID:769
+T16	Biomarker 894 900	GALNT3
+T17	Disease 954 975	renal cell carcinomas
+#6	AnnotatorNotes T17	DOID:4450
+T18	Biomarker 988 994	GALNT6
+T19	Disease 1020 1037	pancreatic cancer
+#7	AnnotatorNotes T19	DOID:1793
+T2	Chemical 39 40	O
+T20	Biomarker 1046 1068	Upregulation of GALNT5
+T21	Disease 1092 1106	hepatoblastoma
+#9	AnnotatorNotes T21	DOID:687
+T22	Biomarker 1127 1133	GALNT7
+T23	Chemical 1178 1184	GalNAc
+T24	Disease 1217 1250	laryngeal squamous cell carcinoma
+#11	AnnotatorNotes T24	DOID:2876
+T25	Disease 1333 1357	hepatocellular carcinoma
+#12	AnnotatorNotes T25	DOID:684
+T26	Disease 1369 1384	cervical cancer
+#13	AnnotatorNotes T26	DOID:4362
+T3	Disease 72 91	metabolic disorders
+#16	AnnotatorNotes T3	DOID:0014667
+T30	Disease 1506 1509	CRC
+T31	Biomarker 1525 1556	GALNT7 expression was increased
+T32	Disease 1571 1574	CRC
+T33	Disease 1585 1590	tumor
+#19	AnnotatorNotes T33	DOID:162
+T34	Biomarker 1611 1617	GALNT7
+T35	Disease 1679 1682	CRC
+T4	Disease 101 108	cancers
+#21	AnnotatorNotes T4	DOID:162
+T5	Biomarker 110 146	Altered cell-surface O-glycoproteins
+T6	Chemical 131 132	O
+T7	Disease 264 270	cancer
+#23	AnnotatorNotes T7	DOID:162
+T8	Chemical 476 477	O
+T9	Disease 510 523	colon cancers
+#25	AnnotatorNotes T9	DOID:219
+T36	Collection 72 108	metabolic disorders and many cancers
+R1	Association Arg1:T1 Arg2:T36	
+T37	GeneFamily 219 225	GALNTs
+#1	AnnotatorNotes T37	family:433
+T38	GeneFamily 289 294	GALNT
+#8	AnnotatorNotes T38	family:433
+T39	Gene-Protein 382 389	GALNT12
+#10	AnnotatorNotes T39	HGNC:19877
+T40	GeneFamily 584 590	GALNTs
+T41	GeneFamily 438 443	GALNT
+T42	Gene-Protein 699 705	GALNT1
+#15	AnnotatorNotes T42	HGNC:4123
+T44	Gene-Protein 797 803	GALNT2
+#17	AnnotatorNotes T44	HGNC:4124
+T45	Gene-Protein 894 900	GALNT3
+#18	AnnotatorNotes T45	HGNC:4125
+T43	Gene-Protein 988 994	GALNT6
+#20	AnnotatorNotes T43	HGNC:4128
+T46	Gene-Protein 1062 1068	GALNT5
+#22	AnnotatorNotes T46	HGNC:4127
+T47	Gene-Protein 1127 1133	GALNT7
+#24	AnnotatorNotes T47	HGNC:4129
+T48	Gene-Protein 1611 1617	GALNT7
+R2	Association Arg1:T34 Arg2:T35	
+T49	Gene-Protein 1525 1531	GALNT7
+T50	Collection 1571 1590	CRC cells and tumor
+R3	Association Arg1:T31 Arg2:T50	
+T51	Gene-Protein 1305 1311	GALNT7
+T52	Collection 1333 1384	hepatocellular carcinoma [ 41 ] and cervical cancer
+T53	Biomarker 1305 1311	GALNT7
+R4	Association Arg1:T53 Arg2:T52	
+T54	Gene-Protein 1178 1198	GalNAc-transferase 7
+R5	Association Arg1:T20 Arg2:T21	
+T55	RNA-Noncoding 1161 1168	miR-34a
+#26	AnnotatorNotes T55	HGNC:31635
+T56	Biomarker 219 225	GALNTs
+T57	Biomarker 289 301	GALNT levels
+R6	Association Arg1:T56 Arg2:T7	
+T58	GeneFamily 465 470	mucin
+#28	AnnotatorNotes T58	family:648
+T60	Biomarker 382 398	GALNT12 mutation
+T61	GeneFamily 619 624	mucin
+R7	Association Arg1:T60 Arg2:T9	
+T59	Collection 718 770	melanoma [ 34 ], ovarian [ 35 ], and bladder cancers
+T62	Drug 779 803	Overexpression of GALNT2
+#29	AnnotatorNotes T62	not found
+R8	Response Arg1:T62 Arg2:T15	
+R9	Association Arg1:T11 Arg2:T59	
+T63	Gene-Protein 814 819	IGF-l
+#30	AnnotatorNotes T63	HGNC:5464
+R10	Association Arg1:T16 Arg2:T17	
+R11	Association Arg1:T18 Arg2:T19	
+#31	AnnotatorNotes T16	C023218
+#32	AnnotatorNotes T18	C023218
+R12	Association Arg1:T22 Arg2:T24	
+#27	AnnotatorNotes T30	DOID:9256
+#14	AnnotatorNotes T54	HGNC:4129
+T27	Biomarker 1423 1461	genetic defects in the O-glycosylation

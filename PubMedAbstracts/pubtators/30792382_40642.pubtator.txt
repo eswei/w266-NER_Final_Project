@@ -1,0 +1,58 @@
+30792382_40642|t|RSS_IDENT_p_30792382_b_1_4_4
+30792382_40642|a| SUV420H2 specifically trimethylates Lys-20 of histone H4 causing transcriptional repression of associated genes ¹⁰ , ¹² , ⁴² , and loss of histone H4K20 trimethylation predicted poor prognosis in breast cancer and was associated with invasive activity ¹⁴ , ¹⁵ , suggesting that SUV420H2 and H4K20 trimethylation were involved in the progression of metastatic breast cancer. However, few studies provide the underlying mechanism for the phenomenon or the regulation of SUV420H2 in breast cancer. In this study, we first demonstrated that miR-29a targeted SUV420H2 and caused the loss of H4K20me3 by directly binding the 3′-UTR of the SUV420H2 mRNA, which was required for breast cancer cells migration and invasion both in vitro and in vivo. Our results demonstrated that miR-29a functioned as an oncogene in breast cancer by targeting SUV420H2 for the first time. Aberrant epigenetic alterations in the genome including DNA methylation, histone modification, non-coding RNA expression, and chromatin remodeling, play significant roles in breast cancer development ⁴³ and BCSC genes turn on ⁴⁴ . Methyltransferase such as DNA methyltransferases (DNMTs), demethylase such as Ten eleven translocation (TET) enzymes, histone-modifying enzymes such as histone lysine-specific demethylase 1 (LSD1) ⁴⁵ , and zeste homolog 2(EZH2) ⁴⁶ are important regulators associated with epigenetic silencing of tumor suppressor genes. Interestingly, miR-29a has been shown to target various types of epigenetics regulators in cancer cells. miR-29a down-regulates DNMT3A and −3B in lung cancer cells ⁴⁷ and hepatocytes ⁴⁸ while targets TET in malignant hematopoietic cells ⁴⁹ , hepatocellular carcinoma cells ⁵⁰ , breast cancer cells and embryonic stem cells ⁵¹ , ⁵² . These findings together with our data indicate that miR-29a-targeting epigenetics regulators was a critical approach to facilitate tumorigenesis.
+30792382_40642	30	38	SUV420H2	Gene-protein	HGNC:28405
+30792382_40642	66	69	Lys	Chemical
+30792382_40642	76	86	histone H4	Genefamily	family:1939
+30792382_40642	161	197	loss of histone H4K20 trimethylation	Biomarker
+30792382_40642	226	239	breast cancer	Disease	DOID:1612
+30792382_40642	308	316	SUV420H2	Biomarker	 C542918
+30792382_40642	308	316	SUV420H2	Gene-protein
+30792382_40642	308	341	SUV420H2 and H4K20 trimethylation	Collection
+30792382_40642	321	341	H4K20 trimethylation	Biomarker
+30792382_40642	378	402	metastatic breast cancer	Disease	DOID:1612
+30792382_40642	498	506	SUV420H2	Gene-protein
+30792382_40642	498	506	SUV420H2	Biomarker
+30792382_40642	510	523	breast cancer	Disease
+30792382_40642	567	574	miR-29a	Rna-noncoding	HGNC:31616
+30792382_40642	567	574	miR-29a	Drug	C532045
+30792382_40642	584	592	SUV420H2	Gene-protein
+30792382_40642	608	624	loss of H4K20me3	Biomarker
+30792382_40642	663	671	SUV420H2	Gene-protein
+30792382_40642	701	714	breast cancer	Disease
+30792382_40642	801	808	miR-29a	Rna-noncoding
+30792382_40642	801	808	miR-29a	Biomarker	C532045
+30792382_40642	838	851	breast cancer	Disease
+30792382_40642	865	873	SUV420H2	Gene-protein
+30792382_40642	894	939	Aberrant epigenetic alterations in the genome	Biomarker
+30792382_40642	894	1040	Aberrant epigenetic alterations in the genome including DNA methylation, histone modification, non-coding RNA expression, and chromatin remodeling	Collection
+30792382_40642	950	965	DNA methylation	Biomarker
+30792382_40642	967	974	histone	Genefamily	family:864
+30792382_40642	967	987	histone modification	Biomarker
+30792382_40642	989	1014	non-coding RNA expression	Biomarker
+30792382_40642	1020	1040	chromatin remodeling	Biomarker
+30792382_40642	1068	1081	breast cancer	Disease
+30792382_40642	1125	1142	Methyltransferase	Genefamily	family:1398
+30792382_40642	1151	1173	DNA methyltransferases	Genefamily	not found
+30792382_40642	1175	1180	DNMTs	Genefamily	not found
+30792382_40642	1203	1227	Ten eleven translocation	Genefamily	family:2049
+30792382_40642	1229	1232	TET	Genefamily	family:2049
+30792382_40642	1243	1250	histone	Genefamily
+30792382_40642	1277	1314	histone lysine-specific demethylase 1	Gene-protein	HGNC:29079
+30792382_40642	1285	1291	lysine	Chemical
+30792382_40642	1316	1320	LSD1	Gene-protein	HGNC:29079
+30792382_40642	1331	1346	zeste homolog 2	Gene-protein	HGNC:3527
+30792382_40642	1347	1351	EZH2	Gene-protein	HGNC:3527
+30792382_40642	1421	1426	tumor	Disease	DOID:162
+30792382_40642	1460	1467	miR-29a	Biomarker	C532045
+30792382_40642	1460	1467	miR-29a	Rna-noncoding
+30792382_40642	1536	1542	cancer	Disease	DOID:162
+30792382_40642	1550	1557	miR-29a	Rna-noncoding
+30792382_40642	1573	1587	DNMT3A and −3B	Gene-protein	HGNC:2978, HGNC:2979
+30792382_40642	1591	1602	lung cancer	Disease	DOID:1324
+30792382_40642	1645	1648	TET	Genefamily
+30792382_40642	1687	1711	hepatocellular carcinoma	Disease	DOID:684
+30792382_40642	1723	1736	breast cancer	Disease
+30792382_40642	1830	1837	miR-29a	Rna-noncoding
+30792382_40642	1830	1870	miR-29a-targeting epigenetics regulators	Biomarker
+30792382_40642	1909	1922	tumorigenesis	Disease	DOID:162
+

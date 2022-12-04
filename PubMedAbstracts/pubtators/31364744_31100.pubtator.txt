@@ -1,0 +1,39 @@
+31364744_31100|t|RSS_IDENT_p_31364744_b_1_4_3
+31364744_31100|a| A recently published study reported that Linc00961 encoded a novel polypeptide termed SPAAR, which is involved in mTOR complex 1 activation and muscle regeneration ( 14 , 24 ). Additionally, the expression profile and potential function of Linc00961 in genesis and progression of human cancers was preliminarily established; Linc00961 was shown to suppress the invasion and migration of NSCLC cells in vitro, and metastasis in vivo ( 25 ). Furthermore, Linc00961 was also reported to inhibit cell proliferation and promote cell apoptosis by upregulating the levels of proliferating cell nuclear antigen and suppressing the expression of Bax protein in NSCLC ( 17 ). Furthermore, Linc00961 was also downregulated in lung squamous cell carcinoma and demonstrated to be a capable diagnostic biomarker ( 26 ). In glioma, Linc00961 was revealed to be downregulated in tissues and cell lines, and its expression was inversely associated with pathological features, poor overall survival and unfavorable prognosis ( 16 ), indicating that Linc00961 functions as a tumor suppressor in glioma. In renal cell carcinoma (RCC), it was revealed that Linc00961 suppressed RCC progression by inhibiting the epithelial-mesenchymal transition signaling pathway ( 27 ). Consistent with these previous studies, the present study also demonstrated that Linc00961 functioned as a tumor suppressor gene in the carcinogenesis and development of SM. Linc00961 was demonstrated to inhibit the proliferation, and suppress the tumor growth of SM in vitro and in vivo. It also induced inhibitory effects on the migration and invasion of SM cells; however, the underlying mechanism of Linc00961's suppressive role in SM development is yet to be fully determined. 
+31364744_31100	71	80	Linc00961	Rna-noncoding	HGNC:27244
+31364744_31100	116	121	SPAAR	Rna-noncoding	HGNC:27244
+31364744_31100	144	158	mTOR complex 1	Genefamily	family:1332
+31364744_31100	270	279	Linc00961	Rna-noncoding
+31364744_31100	270	279	Linc00961	Biomarker	C000617133
+31364744_31100	316	323	cancers	Disease	DOID:162
+31364744_31100	355	364	Linc00961	Rna-noncoding
+31364744_31100	355	364	Linc00961	Drug	C000617133
+31364744_31100	417	422	NSCLC	Disease	DOID:3908
+31364744_31100	483	492	Linc00961	Rna-noncoding
+31364744_31100	483	492	Linc00961	Drug
+31364744_31100	667	670	Bax	Gene-protein	HGNC:959
+31364744_31100	682	687	NSCLC	Disease
+31364744_31100	709	718	Linc00961	Rna-noncoding
+31364744_31100	709	741	Linc00961 was also downregulated	Biomarker
+31364744_31100	745	773	lung squamous cell carcinoma	Disease	DOID:3907
+31364744_31100	839	845	glioma	Disease	DOID:0060108
+31364744_31100	847	856	Linc00961	Rna-noncoding
+31364744_31100	847	856	Linc00961	Biomarker
+31364744_31100	1061	1070	Linc00961	Rna-noncoding
+31364744_31100	1106	1112	glioma	Disease
+31364744_31100	1117	1137	renal cell carcinoma	Disease	DOID:4450
+31364744_31100	1139	1142	RCC	Disease	DOID:4450
+31364744_31100	1166	1175	Linc00961	Rna-noncoding
+31364744_31100	1166	1175	Linc00961	Drug
+31364744_31100	1187	1190	RCC	Disease
+31364744_31100	1362	1371	Linc00961	Rna-noncoding
+31364744_31100	1451	1453	SM	Disease	DOID:8923
+31364744_31100	1455	1464	Linc00961	Rna-noncoding
+31364744_31100	1455	1464	Linc00961	Drug
+31364744_31100	1529	1534	tumor	Disease	DOID:162
+31364744_31100	1529	1547	tumor growth of SM	Collection
+31364744_31100	1545	1547	SM	Disease
+31364744_31100	1638	1640	SM	Disease
+31364744_31100	1685	1694	Linc00961	Rna-noncoding
+31364744_31100	1717	1719	SM	Disease
+

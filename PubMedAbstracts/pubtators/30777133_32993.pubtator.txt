@@ -1,0 +1,102 @@
+30777133_32993|t|RSS_IDENT_s_30777133_b_1_6
+30777133_32993|a| Additional files Additional file 1: A more detailed description of the MS proteomic method is described. (PDF 289 kb) <url> Additional file 2: A more detailed description of the affinity-based proteomic method is described. (PDF 370 kb) <url> Additional file 3: Table S1. The number of missing data points for each variable is shown. (PDF 668 kb) <url> Additional file 4: Table S2. Medications for the patients are reported. (PDF 526 kb) <url> Additional file 5: Figure S1. The correlation between RF-IgM and all proteins analyzed. (PDF 284 kb) <url> Additional file 6: Table S3. The correlation between RF-IgM and the 25 proteins in Table 2 are shown. (PDF 256 kb) <url> Abbreviations Anti-dsDNA Anti-double stranded DNA Anti-La Anti-Sjögren’s-syndrome-related antigen B Anti-Ro Anti-Sjögren’s-syndrome-related antigen A APCS Serum amyloid P-component aPL Anti-phospholipid APS Anti-phospholipid syndrome ARID2 AT-rich interactive domain-containing protein 2 or BAF200 C1q Component 1q (in complement system) C2 Component 2 (in complement system) C3 Component 3 (in complement system) C3dg Component 3 degradation product (in complement system) C4 Component 4 (in complement system) CD40 Tumor necrosis factor receptor superfamily member 5 CERS5 Ceramide synthase 5 CLDN16 Claudin 16 CTSB Cathepsin B CYR61 Insulin-like growth factor-binding protein 10 EDTA Ethylenediaminetetraacetic acid EGF Pro-epidermal growth factor ELISA Enzyme-linked immunosorbent assay ETNPPL Ethanolamine-phosphate phospholysate ETV7 Transcription factor ETV7 F3 Tissue factor. Coagulation factor III FMO1 Dimethylaniline monooxygenase GOT1 Glutamic-oxaloacetic transaminase 1 HPA Human Protein Atlas Hs CRP High-sensitivity C-reactive protein HSP90AA1 Heat shock protein HSP 90α IgG Immunoglobulin G IgM Immunoglobulin M ITGB1 Integrin beta-1 KRT7 Keratin, type II cytoskeletal 7 LA Lupus anticoagulant LC-MS/MS Liquid chromatography tandem mass spectrometry m/z Mass to charge ratio MMP10 Stromelysin-2 MMP8 Metalloproteinase 8 MSX2 Homeobox protein MSX-2 PBAF Polybromo-associated barrier-to-autointegration factor REN Renin SAMD8 Sphingomyelin synthase-related protein 1 SELE E-selectin SLAM Systemic Lupus Activity Measurement SLC13A3 Solute carrier family 13 member 3 SLE Systemic lupus erythematosus SLEDAI-2K Systemic Lupus Erythematosus Disease Activity Index 2000 SLICC Systemic Lupus International Collaborating Clinics Sm/RNP Anti-Smith/ribonuclear SS Sjögren’s syndrome SSA/SSB Sjögren’s syndrome antigen A/B TG Triglycerides TYK2 Non-receptor tyrosine-protein kinase TYK2 YARS Tyrosine--tRNA ligase Authors’ contributions
+30777133_32993	750	757	Anti-La	Gene-protein
+30777133_32993	758	799	Anti-Sjögren’s-syndrome-related antigen B	Gene-protein
+30777133_32993	800	807	Anti-Ro	Gene-protein
+30777133_32993	808	849	Anti-Sjögren’s-syndrome-related antigen A	Gene-protein
+30777133_32993	850	854	APCS	Gene-protein
+30777133_32993	855	880	Serum amyloid P-component	Gene-protein
+30777133_32993	885	902	Anti-phospholipid	Gene-protein
+30777133_32993	903	906	APS	Disease	DOID:2988
+30777133_32993	907	933	Anti-phospholipid syndrome	Disease	DOID:2988
+30777133_32993	934	939	ARID2	Gene-protein
+30777133_32993	940	987	AT-rich interactive domain-containing protein 2	Gene-protein
+30777133_32993	991	997	BAF200	Gene-protein
+30777133_32993	998	1001	C1q	Genefamily
+30777133_32993	1002	1014	Component 1q	Genefamily
+30777133_32993	1038	1040	C2	Gene-protein
+30777133_32993	1041	1052	Component 2	Gene-protein
+30777133_32993	1076	1078	C3	Gene-protein
+30777133_32993	1079	1090	Component 3	Gene-protein
+30777133_32993	1174	1176	C4	Gene-protein
+30777133_32993	1177	1188	Component 4	Gene-protein
+30777133_32993	1212	1216	CD40	Gene-protein
+30777133_32993	1217	1268	Tumor necrosis factor receptor superfamily member 5	Gene-protein
+30777133_32993	1269	1274	CERS5	Gene-protein
+30777133_32993	1275	1283	Ceramide	Chemical
+30777133_32993	1275	1294	Ceramide synthase 5	Gene-protein
+30777133_32993	1295	1301	CLDN16	Gene-protein
+30777133_32993	1302	1312	Claudin 16	Gene-protein
+30777133_32993	1313	1317	CTSB	Gene-protein
+30777133_32993	1318	1329	Cathepsin B	Gene-protein
+30777133_32993	1330	1335	CYR61	Gene-protein
+30777133_32993	1336	1381	Insulin-like growth factor-binding protein 10	Gene-protein
+30777133_32993	1382	1386	EDTA	Chemical
+30777133_32993	1387	1418	Ethylenediaminetetraacetic acid	Chemical
+30777133_32993	1419	1422	EGF	Gene-protein
+30777133_32993	1423	1450	Pro-epidermal growth factor	Gene-protein
+30777133_32993	1491	1497	ETNPPL	Gene-protein
+30777133_32993	1498	1534	Ethanolamine-phosphate phospholysate	Gene-protein
+30777133_32993	1535	1560	ETV7 Transcription factor	Gene-protein
+30777133_32993	1561	1565	ETV7	Gene-protein
+30777133_32993	1566	1568	F3	Gene-protein
+30777133_32993	1569	1582	Tissue factor	Gene-protein
+30777133_32993	1584	1606	Coagulation factor III	Gene-protein
+30777133_32993	1607	1611	FMO1	Gene-protein
+30777133_32993	1612	1627	Dimethylaniline	Chemical
+30777133_32993	1612	1641	Dimethylaniline monooxygenase	Gene-protein
+30777133_32993	1642	1646	GOT1	Gene-protein
+30777133_32993	1647	1655	Glutamic	Chemical
+30777133_32993	1647	1682	Glutamic-oxaloacetic transaminase 1	Gene-protein
+30777133_32993	1707	1713	Hs CRP	Gene-protein
+30777133_32993	1714	1749	High-sensitivity C-reactive protein	Gene-protein
+30777133_32993	1750	1758	HSP90AA1	Gene-protein
+30777133_32993	1759	1777	Heat shock protein	Gene-protein
+30777133_32993	1778	1785	HSP 90α	Gene-protein
+30777133_32993	1786	1789	IgG	Gene-protein
+30777133_32993	1790	1806	Immunoglobulin G	Gene-protein
+30777133_32993	1807	1810	IgM	Gene-protein
+30777133_32993	1811	1827	Immunoglobulin M	Gene-protein
+30777133_32993	1828	1833	ITGB1	Gene-protein
+30777133_32993	1834	1849	Integrin beta-1	Gene-protein
+30777133_32993	1850	1854	KRT7	Gene-protein
+30777133_32993	1855	1862	Keratin	Gene-protein
+30777133_32993	1864	1886	type II cytoskeletal 7	Gene-protein
+30777133_32993	1887	1889	LA	Gene-protein
+30777133_32993	1890	1908	Lupus anticoagulan	Gene-protein
+30777133_32993	1991	1996	MMP10	Gene-protein
+30777133_32993	1997	2010	Stromelysin-2	Gene-protein
+30777133_32993	2011	2015	MMP8	Gene-protein
+30777133_32993	2016	2035	Metalloproteinase 8	Gene-protein
+30777133_32993	2036	2040	MSX2	Gene-protein
+30777133_32993	2041	2063	Homeobox protein MSX-2	Gene-protein
+30777133_32993	2064	2068	PBAF	Gene-protein
+30777133_32993	2069	2123	Polybromo-associated barrier-to-autointegration factor	Gene-protein
+30777133_32993	2124	2127	REN	Gene-protein
+30777133_32993	2128	2133	Renin	Gene-protein
+30777133_32993	2134	2139	SAMD8	Gene-protein
+30777133_32993	2140	2153	Sphingomyelin	Chemical
+30777133_32993	2140	2180	Sphingomyelin synthase-related protein 1	Gene-protein
+30777133_32993	2181	2185	SELE	Gene-protein
+30777133_32993	2186	2196	E-selectin	Gene-protein
+30777133_32993	2197	2201	SLAM	Biomarker
+30777133_32993	2202	2237	Systemic Lupus Activity Measurement	Biomarker
+30777133_32993	2238	2245	SLC13A3	Gene-protein
+30777133_32993	2246	2279	Solute carrier family 13 member 3	Gene-protein
+30777133_32993	2280	2283	SLE	Disease	DOID:9074
+30777133_32993	2284	2312	Systemic lupus erythematosus	Disease	DOID:9074
+30777133_32993	2313	2322	SLEDAI-2K	Biomarker
+30777133_32993	2323	2379	Systemic Lupus Erythematosus Disease Activity Index 2000	Biomarker
+30777133_32993	2467	2469	SS	Disease	DOID:12894
+30777133_32993	2470	2488	Sjögren’s syndrome	Disease	DOID:12894
+30777133_32993	2489	2496	SSA/SSB	Gene-protein
+30777133_32993	2497	2527	Sjögren’s syndrome antigen A/B	Gene-protein
+30777133_32993	2528	2530	TG	Chemical
+30777133_32993	2531	2544	Triglycerides	Chemical
+30777133_32993	2545	2549	TYK2	Gene-protein
+30777133_32993	2550	2586	Non-receptor tyrosine-protein kinase	Gene-protein
+30777133_32993	2563	2571	tyrosine	Chemical
+30777133_32993	2587	2591	TYK2	Gene-protein
+30777133_32993	2592	2596	YARS	Genefamily
+30777133_32993	2597	2605	Tyrosine	Chemical
+

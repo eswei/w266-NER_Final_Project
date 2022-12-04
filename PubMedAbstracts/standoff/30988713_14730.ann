@@ -1,0 +1,71 @@
+T1	Disease 49 57	diabetes
+#1	AnnotatorNotes T1	not found
+T10	Disease 721 743	diabetic complications
+T13	Chemical 766 773	glucose
+T15	Disease 843 864	diabetic complication
+T16	Disease 870 878	diabetic
+#6	AnnotatorNotes T16	not found
+T18	Disease 1083 1096	breast cancer
+#7	AnnotatorNotes T18	DOID:1612
+T19	Chemical 1156 1168	triglyceride
+T20	Disease 1195 1212	hepatic steatosis
+#9	AnnotatorNotes T20	DOID:9452
+T21	Disease 1263 1294	diabetic cardiovascular disease
+#10	AnnotatorNotes T21	DOID:11713
+T24	Disease 1439 1462	cardiovascular diseases
+#11	AnnotatorNotes T24	DOID:1287
+T26	Disease 1594 1633	type II diabetic cardiovascular disease
+#12	AnnotatorNotes T26	DOID:11713
+T6	Disease 369 391	diabetic kidney injury
+#16	AnnotatorNotes T6	D003928
+T9	Disease 560 583	diabetic cardiomyopathy
+#17	AnnotatorNotes T9	D058065
+T2	Disease 212 234	diabetic complications
+#3	AnnotatorNotes T2	D048909
+T3	Biomarker 166 173	lncRNAs
+R2	Association Arg1:T3 Arg2:T2	
+T8	Biomarker 267 348	lncRNA Erb-b2 receptor tyrosine kinase 4-intron region (Erbb4-IR) was upregulated
+R3	Association Arg1:T8 Arg2:T6	
+T12	Biomarker 1516 1543	plasma levels of lncRNA-SRA
+T17	RNA-Noncoding 274 321	Erb-b2 receptor tyrosine kinase 4-intron region
+T5	RNA-Noncoding 323 331	Erbb4-IR
+T22	RNA-Noncoding 429 437	Erbb4-IR
+T7	Biomarker 406 437	upregulation of lncRNA Erbb4-IR
+R4	Association Arg1:T7 Arg2:T6	
+T11	Biomarker 536 556	H19 is downregulated
+T23	RNA-Noncoding 536 539	H19
+#8	AnnotatorNotes T23	HGNC:4713
+T25	RNA-Noncoding 613 616	H19
+R5	Association Arg1:T11 Arg2:T9	
+T27	Gene-Protein 664 685	DIRAS family GTPase 3
+#14	AnnotatorNotes T27	HGNC:687
+T14	Biomarker 701 708	lncRNAs
+T29	RNA-Noncoding 166 173	lncRNAs
+T30	RNA-Noncoding 701 708	lncRNAs
+R6	Association Arg1:T14 Arg2:T10	
+T31	RNA-Noncoding 927 933	lncRNA
+T32	Biomarker 993 1023	Genetic variants of lncRNA SRA
+T33	Gene-Protein 934 937	SRA
+#4	AnnotatorNotes T33	HGNC:11281
+T34	Gene-Protein 1020 1023	SRA
+R7	Risk-Factor Arg1:T32 Arg2:T18	
+T35	Biomarker 1105 1115	lncRNA-SRA
+#5	AnnotatorNotes T35	not found
+R8	Association Arg1:T35 Arg2:T20	
+T36	Gene-Protein 1112 1115	SRA
+T37	RNA-Noncoding 1249 1255	lncRNA
+T38	Gene-Protein 1256 1259	SRA
+T39	RNA-Noncoding 1105 1111	lncRNA
+T40	Biomarker 1343 1353	lncRNA-SRA
+R9	Association Arg1:T40 Arg2:T24	
+T41	RNA-Noncoding 1013 1019	lncRNA
+T42	Gene-Protein 1540 1543	SRA
+R10	Association Arg1:T12 Arg2:T26	
+T43	RNA-Noncoding 1533 1539	lncRNA
+T44	Biomarker 1648 1672	expression of lncRNA-SRA
+T28	RNA-Noncoding 1662 1668	lncRNA
+T45	Gene-Protein 1669 1672	SRA
+#13	AnnotatorNotes T3	D062085
+#15	AnnotatorNotes T29	family:788
+T46	Biomarker 761 773	high glucose
+#2	AnnotatorNotes T15	D048909

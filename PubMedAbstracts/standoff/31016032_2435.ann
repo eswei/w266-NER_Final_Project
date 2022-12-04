@@ -1,0 +1,72 @@
+T10	Disease 434 459	esophageal adenocarcinoma
+#1	AnnotatorNotes T10	DOID:4914
+T14	Disease 579 582	CLL
+T15	Disease 665 707	PDAC patients with pancreaticoduodenectomy
+T17	Biomarker 715 747	higher miR-4521/miR-340-5p ratio
+T18	Disease 798 823	esophageal adenocarcinoma
+T20	Biomarker 919 945	miR-4521 was downregulated
+T21	Drug 953 962	sunitinib
+T22	CellLine 973 977	ACHN
+T23	CellLine 982 987	RCC23
+T24	Disease 1085 1090	ccRCC
+#12	AnnotatorNotes T24	DOID:4467
+T25	RNA-Noncoding 1106 1114	miR-4521
+T27	Disease 1146 1151	ccRCC
+T28	Biomarker 1195 1215	FAM129A upregulation
+T29	Disease 1269 1274	ccRCC
+T3	Disease 326 339	breast cancer
+#16	AnnotatorNotes T3	DOID:1612
+T30	Disease 1288 1293	ccRCC
+T32	Disease 1322 1328	cancer
+#19	AnnotatorNotes T32	DOID:162
+T4	Disease 341 369	chronic lymphocytic leukemia
+#20	AnnotatorNotes T4	DOID:1040
+T5	Disease 371 374	CLL
+#21	AnnotatorNotes T5	DOID:1040
+T6	Disease 377 388	lung cancer
+#22	AnnotatorNotes T6	DOID:1324
+T8	Disease 390 422	pancreatic ductal adenocarcinoma
+#24	AnnotatorNotes T8	DOID:3498
+T9	Disease 424 428	PDAC
+T1	RNA-Noncoding 302 310	miR-4521
+#5	AnnotatorNotes T1	HGNC:41813
+T2	Biomarker 302 310	miR-4521
+#8	AnnotatorNotes T2	C000612041
+T34	Collection 326 459	breast cancer, chronic lymphocytic leukemia (CLL), lung cancer, pancreatic ductal adenocarcinoma (PDAC) and esophageal adenocarcinoma
+#2	AnnotatorNotes T9	DOID:3498
+R1	Association Arg1:T2 Arg2:T34	
+T7	CellLine 490 495	MCF-7
+T11	Disease 587 598	lung cancer
+T12	Disease 528 535	hypoxia
+#3	AnnotatorNotes T12	D000860
+#4	AnnotatorNotes T15	not found
+R2	Association Arg1:T2 Arg2:T15	
+T13	RNA-Noncoding 722 730	miR-4521
+#6	AnnotatorNotes T13	HGNC:41813
+T16	RNA-Noncoding 731 741	miR-340-5p
+#9	AnnotatorNotes T16	HGNC:31777
+R3	Prognostic-Good Arg1:T17 Arg2:T18	
+T35	Drug-Class 838 867	neoadjuvant chemoradiotherapy
+T19	RNA-Noncoding 919 927	miR-4521
+#7	AnnotatorNotes T21	CHEMBL535
+T36	CellLine 1000 1007	SR-ACHN
+T37	CellLine 1012 1020	SR-RCC23
+T26	Gene-Protein 1195 1202	FAM129A
+#10	AnnotatorNotes T26	HGNC:16784
+R4	Association Arg1:T28 Arg2:T29	
+T31	Gene-Protein 1367 1373	TIMP-1
+#11	AnnotatorNotes T31	HGNC:11820
+T33	Gene-Protein 1374 1378	MMP2
+#13	AnnotatorNotes T33	HGNC:7166
+T38	Gene-Protein 1379 1383	MMP9
+#14	AnnotatorNotes T38	HGNC:7176
+T39	Gene-Protein 1388 1392	MDM2
+#15	AnnotatorNotes T39	HGNC:6973
+T40	Gene-Protein 1393 1396	p53
+#17	AnnotatorNotes T40	HGNC:11998
+T41	Gene-Protein 1397 1401	Bcl2
+#18	AnnotatorNotes T41	HGNC:990
+T42	Gene-Protein 1402 1405	Bax
+#23	AnnotatorNotes T42	HGNC:959
+R5	Association Arg1:T28 Arg2:T30	
+A1	Conjunction T15

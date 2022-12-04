@@ -1,0 +1,61 @@
+T0	Drug 30 33	VPA
+T1	Disease 174 179	tumor
+#2	AnnotatorNotes T1	DOID:162
+T11	Drug 778 781	VPA
+T13	Disease 801 821	pancreatic carcinoma
+#5	AnnotatorNotes T13	DOID:4905
+T15	Disease 839 857	prostate carcinoma
+#7	AnnotatorNotes T15	DOID:10286
+T16	Drug 935 938	VPA
+T17	Disease 1038 1054	Hodgkin lymphoma
+#9	AnnotatorNotes T17	DOID:8567
+T19	Drug 1164 1167	VPA
+T2	Drug 212 215	VPA
+T20	Disease 1260 1268	melanoma
+#12	AnnotatorNotes T20	DOID:1909
+T21	Drug 1285 1288	VPA
+T23	Disease 1442 1447	tumor
+T24	Drug 1559 1562	VPA
+T4	Drug 308 311	VPA
+T5	Drug 383 386	VPA
+T6	Disease 428 440	osteosarcoma
+#20	AnnotatorNotes T6	DOID:3347
+T7	Gene-Protein 510 516	MICA/B
+T8	Gene-Protein 595 599	MICA
+T9	Drug 680 683	VPA
+T10	Gene-Protein 141 145	MICA
+#1	AnnotatorNotes T10	HGNC:7090
+T18	Gene-Protein 291 296	NKG2D
+#3	AnnotatorNotes T18	HGNC:18788
+T25	Gene-Protein 694 699	NKG2D
+T14	Gene-Protein 708 714	MICA/B
+T26	GeneFamily 1511 1514	AKT
+#6	AnnotatorNotes T26	family:1900
+T27	Gene-Protein 1500 1506	ERK1/2
+#8	AnnotatorNotes T27	HGNC:6877, HGNC:6871
+T28	CellLine 1540 1546	Panc89
+T29	CellLine 1551 1555	PC-3
+T30	Gene-Protein 1319 1323	MICA
+T31	CellLine 1426 1432	Panc89
+T22	CellLine 605 611	Panc89
+T32	CellLine 643 647	PC-3
+T33	Gene-Protein 719 725	ULBP-2
+#10	AnnotatorNotes T33	HGNC:14894
+#11	AnnotatorNotes T7	HGNC:7090,HGNC:7091
+T34	Gene-Protein 1325 1329	MICB
+#13	AnnotatorNotes T34	HGNC:7091
+T35	Gene-Protein 963 967	MICA
+T36	Gene-Protein 1334 1340	ULBP-2
+T37	GeneFamily 1358 1361	ERK
+#14	AnnotatorNotes T37	not found
+T38	CellLine 1437 1441	PC-3
+T39	CellLine 1206 1212	Panc89
+T40	CellLine 1217 1221	PC-3
+T41	CellLine 828 834	Panc89
+T42	CellLine 864 868	PC-3
+T43	Gene-Protein 1073 1079	ULBP-1
+#16	AnnotatorNotes T43	HGNC:14893
+T44	Gene-Protein 1185 1191	ULBP-1
+#17	AnnotatorNotes T0	CHEMBL109
+T3	Disease 315 324	malignant
+#4	AnnotatorNotes T3	DOID:162

@@ -1,0 +1,52 @@
+29761918_20129|t|RSS_IDENT_p_29761918_b_1_4_5
+29761918_20129|a| The underlying mechanism by how HOXA11‐AS involved in HCC tumorigenesis still remains to be researched. Growing studies indicated that lncRNAs acted crucial roles in several biological processes by playing as ceRNAs (competing endogenous RNAs) or molecular sponges to modulate‐specific miRNAs.34, 37, 41, 42, 43 Previous study showed that HOXA11‐AS functions as an oncogenic gene which enhanced glioma cell metastasis and growth by inhibiting miR‐214‐3p/EZH2 expression.39 In this regard, we also found that ectopic expression of HOXA11‐AS suppressing the miR‐214‐3p expression in the HCC cell. miR‐214 was demonstrated to be one tumour suppressor miRNA in a lot of tumours including HCC.44, 45, 46, 47 Yang et al48 indicated that miR‐214 inhibited the HCC cell proliferation through targeting E2F3 expression. Wang et al49 also confirmed that the expression of miR‐214 was down‐regulated in HCC specimens and cells and overexpression of miR‐214 suppressed HCC cell proliferation by regulating β‐catenin expression. In addition, Li et al50 showed that the expression of miR‐214‐3p was down‐regulated in HCC tissues and miR‐214‐3p overexpression decreased HCC cell cycle, cell proliferation and induced cell apoptosis partly by regulating embryonic leucine zipper kinase (MELK) expression. Therefore, we focused on the miR‐214‐3p as a ceRNA of HOXA11‐AS. We demonstrated that miR‐214‐3p expression was down‐regulated in the HCC tissues and the expression of miR‐214‐3p was negatively correlated with the expression of HOXA11‐AS. HOXA11‐AS overexpression promoted HCC proliferation and invasion and induced EMT through inhibiting miR‐214‐3p expression. These results suggested that lncRNA HOXA11‐AS played an oncogene role in HCC through acting as ceRNA for miR‐214‐3p. 
+29761918_20129	62	71	HOXA11‐AS	Rna-noncoding	HGNC:24957
+29761918_20129	62	71	HOXA11‐AS	Biomarker
+29761918_20129	84	87	HCC	Disease	DOID:684
+29761918_20129	369	378	HOXA11‐AS	Gene-protein
+29761918_20129	369	378	HOXA11‐AS	Biomarker
+29761918_20129	425	431	glioma	Disease	D005910
+29761918_20129	473	483	miR‐214‐3p	Rna-noncoding	HGNC:31591
+29761918_20129	484	488	EZH2	Gene-protein	HGNC:3527
+29761918_20129	560	569	HOXA11‐AS	Rna-noncoding
+29761918_20129	560	569	HOXA11‐AS	Biomarker
+29761918_20129	586	596	miR‐214‐3p	Rna-noncoding
+29761918_20129	615	618	HCC	Disease
+29761918_20129	625	632	miR‐214	Rna-noncoding	HGNC:31591
+29761918_20129	625	632	miR‐214	Biomarker	C547397
+29761918_20129	696	703	tumours	Disease	DOID:162
+29761918_20129	714	717	HCC	Disease
+29761918_20129	761	768	miR‐214	Rna-noncoding
+29761918_20129	761	768	miR‐214	Drug
+29761918_20129	783	786	HCC	Disease
+29761918_20129	824	828	E2F3	Gene-protein	HGNC:3115
+29761918_20129	878	918	expression of miR‐214 was down‐regulated	Biomarker
+29761918_20129	892	899	miR‐214	Rna-noncoding
+29761918_20129	922	925	HCC	Disease
+29761918_20129	968	975	miR‐214	Rna-noncoding
+29761918_20129	987	990	HCC	Disease
+29761918_20129	1024	1033	β‐catenin	Genefamily	family:1542
+29761918_20129	1086	1129	expression of miR‐214‐3p was down‐regulated	Biomarker
+29761918_20129	1100	1110	miR‐214‐3p	Rna-noncoding
+29761918_20129	1133	1136	HCC	Disease
+29761918_20129	1149	1159	miR‐214‐3p	Gene-protein
+29761918_20129	1185	1188	HCC	Disease
+29761918_20129	1268	1299	embryonic leucine zipper kinase	Gene-protein	HGNC:16870
+29761918_20129	1278	1285	leucine	Chemical
+29761918_20129	1301	1305	MELK	Gene-protein	HGNC:16870
+29761918_20129	1348	1358	miR‐214‐3p	Rna-noncoding
+29761918_20129	1373	1382	HOXA11‐AS	Rna-noncoding
+29761918_20129	1405	1415	miR‐214‐3p	Rna-noncoding
+29761918_20129	1405	1445	miR‐214‐3p expression was down‐regulated	Biomarker
+29761918_20129	1453	1456	HCC	Disease
+29761918_20129	1487	1497	miR‐214‐3p	Rna-noncoding
+29761918_20129	1547	1556	HOXA11‐AS	Rna-noncoding
+29761918_20129	1558	1567	HOXA11‐AS	Rna-noncoding
+29761918_20129	1558	1582	HOXA11‐AS overexpression	Biomarker
+29761918_20129	1592	1595	HCC	Disease
+29761918_20129	1658	1668	miR‐214‐3p	Rna-noncoding
+29761918_20129	1710	1726	lncRNA HOXA11‐AS	Biomarker
+29761918_20129	1717	1726	HOXA11‐AS	Rna-noncoding
+29761918_20129	1754	1757	HCC	Disease
+29761918_20129	1786	1796	miR‐214‐3p	Rna-noncoding
+

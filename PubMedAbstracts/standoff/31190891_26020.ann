@@ -1,0 +1,116 @@
+T0	Biomarker 239 246	lncRNAs
+T1	Disease 282 288	cancer
+#1	AnnotatorNotes T1	DOID:162
+T10	Biomarker 669 677	DLX6-AS1
+T11	Disease 734 754	renal cell carcinoma
+#2	AnnotatorNotes T11	DOID:4450
+T12	Biomarker 816 824	DLX6-AS1
+T13	Disease 837 843	glioma
+#3	AnnotatorNotes T13	D005910
+T14	RNA-Noncoding 962 972	miR-27b-3p
+T15	RNA-Noncoding 1039 1049	miR-27b-3p
+T17	Disease 1094 1101	cancers
+#5	AnnotatorNotes T17	DOID:162
+T18	Biomarker 1135 1162	miR-27b-3p is downregulated
+T19	Disease 1166 1177	lung cancer
+#6	AnnotatorNotes T19	DOID:1324
+T2	Biomarker 390 429	prostate cancer-associated transcript 7
+T20	Disease 1229 1235	cancer
+T21	Biomarker 1313 1358	miR-27b-3p was also shown to be downregulated
+T22	Disease 1362 1367	NSCLC
+T23	Disease 1524 1529	NSCLC
+T24	Disease 1573 1587	gastric cancer
+#10	AnnotatorNotes T24	DOID:10534
+T25	Disease 1592 1609	colorectal cancer
+#11	AnnotatorNotes T25	DOID:9256
+T26	Disease 1618 1631	breast cancer
+#12	AnnotatorNotes T26	DOID:1612
+T27	Drug 1939 1947	nicotine
+T28	Disease 1983 1988	NSCLC
+T29	Disease 2177 2182	NSCLC
+T30	Biomarker 2192 2236	GSPT1 expression was significantly decreased
+T31	Disease 2240 2245	NSCLC
+T4	RNA-Noncoding 478 488	miR-134-5p
+T5	Disease 492 497	NSCLC
+#18	AnnotatorNotes T5	DOID:3908
+T7	Biomarker 547 556	LINC00339
+T8	Disease 588 593	NSCLC
+T9	RNA-Noncoding 632 639	miR-145
+R1	Association Arg1:T0 Arg2:T1	
+T32	RNA-Noncoding 239 246	lncRNAs
+#13	AnnotatorNotes T32	family:788
+#20	AnnotatorNotes T0	D062085
+T33	RNA-Noncoding 390 429	prostate cancer-associated transcript 7
+#21	AnnotatorNotes T33	HGNC:48824
+T34	RNA-Noncoding 431 436	PCAT7
+#22	AnnotatorNotes T34	HGNC:48824
+#23	AnnotatorNotes T2	C000622123
+R2	Prognostic-Poor Arg1:T2 Arg2:T5	
+#24	AnnotatorNotes T4	HGNC:31519
+R3	Association Arg1:T7 Arg2:T8	
+T6	RNA-Noncoding 547 556	LINC00339
+#25	AnnotatorNotes T6	HGNC:25011
+#26	AnnotatorNotes T7	C000629299
+T3	Gene-Protein 607 612	FOXM1
+#16	AnnotatorNotes T3	HGNC:3818
+#19	AnnotatorNotes T9	HGNC:31532
+T35	RNA-Noncoding 816 824	DLX6-AS1
+R4	Association Arg1:T12 Arg2:T13	
+T36	RNA-Noncoding 669 677	DLX6-AS1
+#27	AnnotatorNotes T36	HGNC:37151
+R5	Association Arg1:T10 Arg2:T11	
+T37	RNA-Noncoding 772 779	miR-26a
+#28	AnnotatorNotes T37	not found
+T38	Gene-Protein 780 784	PTEN
+#29	AnnotatorNotes T38	HGNC:9588
+T39	RNA-Noncoding 881 891	miR-197-5p
+#30	AnnotatorNotes T39	HGNC:31569
+T40	Gene-Protein 921 925	E2F1
+#31	AnnotatorNotes T40	HGNC:3113
+#32	AnnotatorNotes T14	HGNC:31614
+T41	RNA-Noncoding 989 997	DLX6-AS1
+T42	RNA-Noncoding 1135 1145	miR-27b-3p
+R6	Association Arg1:T18 Arg2:T19	
+T43	Gene-Protein 1290 1294	Fzd7
+#34	AnnotatorNotes T43	HGNC:4045
+T44	RNA-Noncoding 1313 1323	miR-27b-3p
+R7	Association Arg1:T21 Arg2:T22	
+T45	Biomarker 1426 1445	DLX6-AS1 expression
+T46	RNA-Noncoding 1426 1434	DLX6-AS1
+T47	RNA-Noncoding 1460 1470	miR-27b-3p
+T49	RNA-Noncoding 1512 1520	DLX6-AS1
+T50	Drug 1512 1520	DLX6-AS1
+#35	AnnotatorNotes T50	not found
+R8	Response Arg1:T50 Arg2:T23	
+T51	Gene-Protein 1531 1536	GSPT1
+#9	AnnotatorNotes T51	HGNC:4621
+T54	Gene-Protein 1636 1641	GSPT1
+T55	Gene-Protein 1704 1708	eRF1
+#37	AnnotatorNotes T55	HGNC:3477
+T56	Gene-Protein 1675 1702	eukaryotic Release Factor 1
+#38	AnnotatorNotes T56	HGNC:3477
+T57	Gene-Protein 1765 1770	GSPT1
+#39	AnnotatorNotes T27	D009538
+R11	Causes Arg1:T27 Arg2:T28	
+T58	Gene-Protein 2009 2014	STMN3
+#14	AnnotatorNotes T58	HGNC:15926
+T59	Gene-Protein 2019 2024	GSPT1
+T60	Gene-Protein 2051 2056	GSPT1
+T61	RNA-Noncoding 2093 2101	DLX6-AS1
+T62	Biomarker 2051 2056	GSPT1
+T63	RNA-Noncoding 2152 2162	miR-27b-3p
+T64	Biomarker 2152 2162	miR-27b-3p
+T65	Gene-Protein 2192 2197	GSPT1
+R12	Association Arg1:T30 Arg2:T31	
+T66	RNA-Noncoding 2258 2268	siDLX6-AS1
+#15	AnnotatorNotes T66	not found
+T67	RNA-Noncoding 2315 2323	DLX6-AS1
+T68	RNA-Noncoding 2368 2378	miR-27b-3p
+T69	Gene-Protein 2379 2384	GSPT1
+T70	GeneFamily 1647 1653	GTPase
+#17	AnnotatorNotes T70	not found
+#33	AnnotatorNotes T62	C087971
+#8	AnnotatorNotes T64	C000711187
+T48	Drug 1460 1477	miR-27b-3p mimics
+#36	AnnotatorNotes T48	not found
+R9	Non-Response Arg1:T48 Arg2:T23	

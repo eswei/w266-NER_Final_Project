@@ -1,0 +1,67 @@
+T0	Disease 60 67	obesity
+#1	AnnotatorNotes T0	DOID:9970
+T12	Chemical 397 416	phosphatidylcholine
+T13	Chemical 440 464	phosphatidylethanolamine
+T14	Chemical 473 492	Phosphatidylcholine
+T15	Chemical 539 552	triglycerides
+T16	Chemical 595 614	phosphatidylcholine
+T17	Chemical 711 724	triglycerides
+T19	Chemical 774 787	triglycerides
+T20	Chemical 808 821	cystathionine
+T22	Disease 872 892	hyperhomocysteinemia
+#15	AnnotatorNotes T22	DOID:9279
+T23	Chemical 909 921	homocysteine
+T24	Chemical 1058 1077	phosphatidylcholine
+T27	Chemical 1295 1301	folate
+T3	Biomarker 127 130	CFD
+T30	Chemical 1386 1396	fatty acid
+T31	Disease 1456 1459	CFD
+T34	Disease 1640 1658	insulin resistance
+#24	AnnotatorNotes T34	D007333
+T35	Disease 1680 1683	CFD
+T36	Biomarker 1720 1723	CFD
+T37	Disease 1732 1758	lipid metabolism disorders
+T38	Disease 1784 1802	insulin resistance
+T4	Disease 143 169	lipid metabolism disorders
+#29	AnnotatorNotes T4	DOID:3146
+T5	Chemical 194 200	folate
+T6	Chemical 205 224	phosphatidylcholine
+T7	Chemical 283 289	folate
+T9	Chemical 324 348	phosphatidylethanolamine
+R1	Risk-Factor Arg1:T3 Arg2:T4	
+T18	Drug 83 112	treatment of folate deficient
+#2	AnnotatorNotes T18	not found
+R2	Causes Arg1:T18 Arg2:T0	
+T2	Gene-Protein 324 368	phosphatidylethanolamine N-methyltransferase
+T10	Chemical 517 521	VLDL
+T11	Biomarker 585 621	decreased phosphatidylcholine levels
+T25	Biomarker 640 678	reduction of VLDL in the liver tissues
+T28	Chemical 653 657	VLDL
+T29	Biomarker 687 724	accumulation of hepatic triglycerides
+T33	Biomarker 758 803	increased serum triglycerides and VLDL levels
+T39	Chemical 792 796	VLDL
+T40	Gene-Protein 808 835	cystathionine beta-synthase
+T41	Biomarker 894 928	elevated serum homocysteine levels
+T42	Chemical 953 957	VLDL
+T43	Biomarker 982 1008	elevated serum VLDL levels
+T44	Chemical 997 1001	VLDL
+T8	Biomarker 1052 1077	lower phosphatidylcholine
+T21	Gene-Protein 1087 1093	Srebp1
+T45	Gene-Protein 1159 1163	Acc1
+T46	Gene-Protein 1168 1172	Fasn
+T47	Gene-Protein 1341 1345	Fasn
+T48	Gene-Protein 1409 1413	Cd36
+T49	Disease 1368 1371	CFD
+#3	AnnotatorNotes T49	not found
+T50	Biomarker 1589 1615	hepatic lipid accumulation
+T51	Chemical 1597 1602	lipid
+T52	Collection 1640 1683	insulin resistance, was observed in the CFD
+R3	Association Arg1:T50 Arg2:T52	
+R4	Association Arg1:T36 Arg2:T53	
+T53	Collection 1732 1802	lipid metabolism disorders, which may be related to insulin resistance
+T26	Gene-Protein 1640 1647	insulin
+#4	AnnotatorNotes T26	HGNC:6081
+T54	Gene-Protein 1784 1791	insulin
+T1	Biomarker 1460 1498	increased hepatic fatty acid synthesis
+T32	Biomarker 808 845	cystathionine beta-synthase-deficient
+R5	Association Arg1:T32 Arg2:T22	

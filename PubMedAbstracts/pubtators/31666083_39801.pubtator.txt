@@ -1,0 +1,47 @@
+31666083_39801|t|RSS_IDENT_p_31666083_b_1_8_5
+31666083_39801|a| Other adipose-released factors could be useful for GDM prediction and detection. The fatty acid-binding protein 4 (FABP4) has been correlated with obesity markers, such as high BMI and fat mass, and regulate lipid and glucose metabolism through fatty acid transport and uptake [ 131 ]. The retinol-binding protein 4 (RBP4) is a circulating retinol transporter that has been linked with cardiometabolic markers in inflammatory chronic diseases, including obesity, T2DM, metabolic syndrome, and atherosclerosis [ 132 ]. Interestingly, high levels of FABP4 were proposed as a predictive biomarker of GDM from at the 1st and 3rd trimester of gestation [ 133 – 135 ]. Also, an upregulation of plasma RBP4 at the 1st and 2nd trimester was modestly correlated with GDM risk, particularly among women with advanced age and obesity [ 115 , 136 ] (Table 3A). Finally, fibroblast growth factor-23 (FGF-23) is as a multi-functional cytokine with relevant implications in phosphate and vitamin-D metabolism. It also participates in cardiovascular disturbances, including atherosclerosis and left ventricular hypertrophy [ 137 , 138 ]. Notably, FGF-23 estimated adverse cardiovascular outcomes in women with T2DM [ 139 ], and also, high levels of FGF-23 (and low of adiponectin) diagnosed GDM at the 3rd trimester [ 140 ] (Table 4).ii. Placenta-secreted factors 
+31666083_39801	81	84	GDM	Disease	DOID:11714
+31666083_39801	115	125	fatty acid	Chemical
+31666083_39801	115	143	fatty acid-binding protein 4	Gene-protein	HGNC:3559
+31666083_39801	115	143	fatty acid-binding protein 4	Biomarker	C493410
+31666083_39801	145	150	FABP4	Gene-protein	HGNC:3559
+31666083_39801	177	184	obesity	Disease	DOID:9970
+31666083_39801	202	223	high BMI and fat mass	Biomarker
+31666083_39801	238	243	lipid	Chemical
+31666083_39801	248	255	glucose	Chemical
+31666083_39801	275	285	fatty acid	Chemical
+31666083_39801	320	327	retinol	Chemical
+31666083_39801	320	345	retinol-binding protein 4	Gene-protein	HGNC:9922
+31666083_39801	320	345	retinol-binding protein 4	Biomarker	C101326
+31666083_39801	347	351	RBP4	Gene-protein	HGNC:9922
+31666083_39801	370	377	retinol	Chemical
+31666083_39801	443	472	inflammatory chronic diseases	Disease	not found
+31666083_39801	484	491	obesity	Biomarker	D009765
+31666083_39801	493	497	T2DM	Biomarker	D003924
+31666083_39801	499	517	metabolic syndrome	Biomarker	D024821
+31666083_39801	523	538	atherosclerosis	Biomarker	D050197
+31666083_39801	563	583	high levels of FABP4	Biomarker
+31666083_39801	578	583	FABP4	Gene-protein
+31666083_39801	627	630	GDM	Disease
+31666083_39801	702	758	upregulation of plasma RBP4 at the 1st and 2nd trimester	Biomarker
+31666083_39801	725	729	RBP4	Gene-protein
+31666083_39801	788	791	GDM	Disease
+31666083_39801	828	840	advanced age	Biomarker
+31666083_39801	845	852	obesity	Biomarker
+31666083_39801	888	915	fibroblast growth factor-23	Gene-protein	HGNC:3680
+31666083_39801	917	923	FGF-23	Gene-protein	HGNC:3680
+31666083_39801	950	958	cytokine	Genefamily	not found
+31666083_39801	989	998	phosphate	Chemical
+31666083_39801	1003	1012	vitamin-D	Chemical
+31666083_39801	1088	1103	atherosclerosis	Disease	DOID:1936
+31666083_39801	1108	1136	left ventricular hypertrophy	Disease	D017379
+31666083_39801	1161	1167	FGF-23	Gene-protein
+31666083_39801	1161	1167	FGF-23	Biomarker	C416507
+31666083_39801	1178	1228	adverse cardiovascular outcomes in women with T2DM	Disease	not found, DOID:9352
+31666083_39801	1248	1269	high levels of FGF-23	Biomarker
+31666083_39801	1248	1294	high levels of FGF-23 (and low of adiponectin)	Collection
+31666083_39801	1263	1269	FGF-23	Gene-protein
+31666083_39801	1275	1293	low of adiponectin	Biomarker
+31666083_39801	1282	1293	adiponectin	Gene-protein	not found
+31666083_39801	1305	1308	GDM	Disease
+

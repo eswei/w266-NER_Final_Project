@@ -1,0 +1,66 @@
+T1	Variant 76 82	H1047R
+T10	Biomarker 589 677	phosphorylation of AKT at the Thr308 site and GSK-3β at Ser9 site was markedly increased
+T11	Chemical 619 625	Thr308
+T12	Chemical 645 649	Ser9
+T13	Variant 751 757	H1047R
+T14	Disease 828 842	mammary tumors
+#3	AnnotatorNotes T14	DOID:1612
+T15	Chemical 886 891	H1047
+T16	Disease 917 930	cardiac tumor
+T18	Variant 970 980	His1047Arg
+T19	Disease 1001 1006	tumor
+#7	AnnotatorNotes T19	DOID:162
+T2	Variant 119 125	H1047R
+T20	Biomarker 1038 1129	Phosphorylation of Akt Thr 308 site as well as GSK3-beta at Ser9 site was markedly enhanced
+T21	Chemical 1061 1064	Thr
+T22	Chemical 1098 1102	Ser9
+T23	Disease 1133 1146	cardiac tumor
+T3	Disease 167 174	cancers
+#11	AnnotatorNotes T3	DOID:162
+T4	Disease 190 204	breast cancers
+#12	AnnotatorNotes T4	DOID:1612
+T5	Biomarker 215 242	somatic mutations in PIK3CA
+T6	Disease 276 283	cancers
+T7	Variant 336 341	H1047
+T8	Variant 410 416	H1047R
+T9	Disease 547 560	cardiac tumor
+#15	AnnotatorNotes T9	DOID:117
+T24	Gene-Protein 68 74	PIK3CA
+#1	AnnotatorNotes T24	HGNC:8975
+#2	AnnotatorNotes T1	p.His1047Arg
+R1	Variant-Of Arg1:T24 Arg2:T1	
+T25	Gene-Protein 112 118	PI3KCA
+T26	Gene-Protein 328 334	PIK3CA
+T27	Gene-Protein 236 242	PIK3CA
+T28	Gene-Protein 402 408	PIK3CA
+T29	Gene-Protein 743 749	PIK3CA
+T30	Gene-Protein 878 884	PI3KCA
+T31	Gene-Protein 962 968	PIK3CA
+R2	Variant-Of Arg1:T25 Arg2:T2	
+T32	Collection 167 204	cancers, especially in breast cancers
+R3	Association Arg1:T2 Arg2:T32	
+R4	Association Arg1:T5 Arg2:T6	
+R5	Variant-Of Arg1:T28 Arg2:T8	
+T33	GeneFamily 452 455	Akt
+#4	AnnotatorNotes T33	family:1900
+T34	GeneFamily 435 451	protein kinase B
+#6	AnnotatorNotes T34	family:1900
+T35	GeneFamily 608 611	AKT
+T36	Gene-Protein 635 641	GSK-3β
+#8	AnnotatorNotes T36	HGNC:4617
+R6	Variant-Of Arg1:T29 Arg2:T13	
+R7	Association Arg1:T13 Arg2:T14	
+T37	Biomarker 860 892	Recurrent hotspot PI3KCA (H1047)
+R8	Association Arg1:T37 Arg2:T16	
+#5	AnnotatorNotes T18	p.His1047Arg
+R9	Variant-Of Arg1:T31 Arg2:T18	
+R10	Association Arg1:T20 Arg2:T23	
+T17	GeneFamily 1057 1060	Akt
+T38	Gene-Protein 1085 1094	GSK3-beta
+#9	AnnotatorNotes T38	HGNC:4617
+R11	Variant-Of Arg1:T26 Arg2:T7	
+#10	AnnotatorNotes T35	family:1900
+R12	Association Arg1:T10 Arg2:T9	
+T39	Disease 108 111	PCT
+#13	AnnotatorNotes T39	DOID:117
+R13	Association Arg1:T1 Arg2:T39	

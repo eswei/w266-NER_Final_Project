@@ -1,0 +1,44 @@
+29705815_23618|t|RSS_IDENT_s_29705815_b_1_4
+29705815_23618|a| Materials and methods Antibodies and reagents The following antibodies were obtained from Cell Signaling Technology (Beverly, MA): anti-pan-acetylated lysine (#9441), anti-MAP1LC3/LC3 (#4108), anti-RPS6KB/p70S6K (#9202), anti-phospho-RPS6KB/p70S6K (Thr389) (#9205), anti-TSC2 (#9442), anti-phospho-ULK1 (Ser 757) (#14202), anti-ULK1 (#8054), anti-phospho-DNM1L/Drp1 (Ser 616) (#3455), anti-phospho-MAPK3/ERK1-MAPK1/ERK2 (Thr 202/Tyr 204) (#9101), anti-MAPK3/ERK1-MAPK1/ERK2 (#9102), and anti-P-EIF2A/P-eIF2-α (Ser 51) (#9721). From Mitosciences: anti-RIESKE (MS305/C0183). From Abcam: anti-MFN2 (ab56889) and anti-HADHA (ab54477). From Sigma-Aldrich: anti-ACTB/β-actin (A5316). From Santa Cruz Biotechnology: anti-GFP (sc-9996), anti-TSC2 (sc-893), anti-TOMM20 (sc-17764), and anti-MFN1 (sc-50330). From Merck-Millipore: Nitrotyrosine 06-284. Other antibodies were used as follows: anti-mono- and polyubiquitinylated proteins FK2 conjugated with peroxidase (HRP) or FK2H from Enzo Life Sciences (BML-PW0150), anti-OPA1 (612606), and anti-DNM1L/Drp1 (611112) from BD Biosciences. Chloroquine C6628, propidium iodide (P4170), and thapsigargin (T9033) were from Sigma-Aldrich; rapamycin (553210) and resveratrol (R5010) were from Merck; and geneticin (G418) was from Santa Cruz (sc-29065).
+29705815_23618	164	185	pan-acetylated lysine	Chemical
+29705815_23618	195	211	anti-MAP1LC3/LC3	Gene-protein	not found
+29705815_23618	221	239	anti-RPS6KB/p70S6K	Gene-protein	not found
+29705815_23618	249	275	anti-phospho-RPS6KB/p70S6K	Gene-protein	not found
+29705815_23618	254	261	phospho	Chemical
+29705815_23618	277	283	Thr389	Chemical
+29705815_23618	294	303	anti-TSC2	Gene-protein	not found
+29705815_23618	313	330	anti-phospho-ULK1	Gene-protein	not found
+29705815_23618	318	325	phospho	Chemical
+29705815_23618	332	335	Ser	Chemical
+29705815_23618	351	360	anti-ULK1	Gene-protein	not found
+29705815_23618	370	393	anti-phospho-DNM1L/Drp1	Gene-protein	not found
+29705815_23618	375	382	phospho	Chemical
+29705815_23618	395	398	Ser	Chemical
+29705815_23618	413	447	anti-phospho-MAPK3/ERK1-MAPK1/ERK2	Gene-protein	not found
+29705815_23618	418	425	phospho	Chemical
+29705815_23618	449	452	Thr	Chemical
+29705815_23618	457	460	Tyr	Chemical
+29705815_23618	475	501	anti-MAPK3/ERK1-MAPK1/ERK2	Gene-protein	not found
+29705815_23618	515	536	anti-P-EIF2A/P-eIF2-α	Gene-protein	not found
+29705815_23618	538	541	Ser	Chemical
+29705815_23618	574	585	anti-RIESKE	Gene-protein	not found
+29705815_23618	613	622	anti-MFN2	Gene-protein	not found
+29705815_23618	637	647	anti-HADHA	Gene-protein	not found
+29705815_23618	679	696	anti-ACTB/β-actin	Gene-protein	not found
+29705815_23618	737	745	anti-GFP	Gene-protein	not found
+29705815_23618	757	766	anti-TSC2	Gene-protein	not found
+29705815_23618	777	788	anti-TOMM20	Gene-protein	not found
+29705815_23618	805	814	anti-MFN1	Gene-protein	not found
+29705815_23618	816	824	sc-50330	Chemical
+29705815_23618	849	862	Nitrotyrosine	Chemical
+29705815_23618	910	953	anti-mono- and polyubiquitinylated proteins	Gene-protein	not found
+29705815_23618	1028	1034	PW0150	Chemical
+29705815_23618	1037	1046	anti-OPA1	Gene-protein	not found
+29705815_23618	1061	1076	anti-DNM1L/Drp1	Gene-protein	not found
+29705815_23618	1107	1118	Chloroquine	Chemical
+29705815_23618	1126	1142	propidium iodide	Chemical
+29705815_23618	1156	1168	thapsigargin	Chemical
+29705815_23618	1202	1211	rapamycin	Chemical
+29705815_23618	1225	1236	resveratrol	Chemical
+29705815_23618	1266	1275	geneticin	Chemical
+

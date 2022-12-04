@@ -1,0 +1,36 @@
+30122983_16940|t|RSS_IDENT_p_30122983_b_1_4_4
+30122983_16940|a| This study also revealed that the lung metastasis of endometrial cancer is related to miR-1247, which may be related to the lung affinity of miR-1247. Studies have shown that silencing of miR-1247 by DNA methylation can promote the invasion and metastasis of non-small cell lung cancer, and STMN1 was found to be a direct target gene of miR-1247, whereas upregulation of miR-1247 can inhibit the metastasis of non-small cell lung cancer. 18 Furthermore, miR-1247-3P is known to be activated by fibroblasts leading to lung metastasis of hepatoma cells. 19 These findings suggest that miR-1247 may have lung affinity, and the elevated miR-1247 levels in pathological specimens may increase the detection rate of lung metastases. We have found that miR-1247 may be related to target genes such as NRP2, KLH17, SEMA6D, MYCBP2, MPP3, CARD14, TMEM184B, NHLH1, PFKFB3, MRPS23, SFRP5, and ALDH1A3. Target gene prediction can provide directions for further research on their roles and respective mechanisms of action in cancer.
+30122983_16940	83	101	endometrial cancer	Disease	DOID:1380
+30122983_16940	116	124	miR-1247	Biomarker	C000605548
+30122983_16940	116	124	miR-1247	Rna-noncoding	HGNC:35313
+30122983_16940	171	179	miR-1247	Rna-noncoding
+30122983_16940	205	245	silencing of miR-1247 by DNA methylation	Drug	not found
+30122983_16940	218	226	miR-1247	Rna-noncoding
+30122983_16940	289	315	non-small cell lung cancer	Disease	DOID:3908
+30122983_16940	321	326	STMN1	Gene-protein	HGNC:6510
+30122983_16940	367	375	miR-1247	Rna-noncoding
+30122983_16940	385	409	upregulation of miR-1247	Drug	not found
+30122983_16940	401	409	miR-1247	Rna-noncoding
+30122983_16940	440	466	non-small cell lung cancer	Disease
+30122983_16940	484	495	miR-1247-3P	Biomarker	C000605548
+30122983_16940	484	495	miR-1247-3P	Rna-noncoding	HGNC:35313
+30122983_16940	566	574	hepatoma	Disease	DOID:684
+30122983_16940	613	621	miR-1247	Rna-noncoding
+30122983_16940	654	678	elevated miR-1247 levels	Biomarker
+30122983_16940	663	671	miR-1247	Rna-noncoding
+30122983_16940	740	755	lung metastases	Disease	not found
+30122983_16940	776	784	miR-1247	Rna-noncoding
+30122983_16940	824	828	NRP2	Gene-protein	HGNC:8005
+30122983_16940	830	835	KLH17	Gene-protein	HGNC:24023
+30122983_16940	837	843	SEMA6D	Gene-protein	HGNC:16770
+30122983_16940	845	851	MYCBP2	Gene-protein	HGNC:23386
+30122983_16940	853	857	MPP3	Gene-protein	HGNC:7221
+30122983_16940	859	865	CARD14	Gene-protein	HGNC:16446
+30122983_16940	867	875	TMEM184B	Gene-protein	HGNC:1310
+30122983_16940	877	882	NHLH1	Gene-protein	HGNC:7817
+30122983_16940	884	890	PFKFB3	Gene-protein	HGNC:8874
+30122983_16940	892	898	MRPS23	Gene-protein	HGNC:14509
+30122983_16940	900	905	SFRP5	Gene-protein	HGNC:10779
+30122983_16940	911	918	ALDH1A3	Gene-protein	HGNC:409
+30122983_16940	1041	1047	cancer	Disease	DOID:162
+

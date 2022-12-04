@@ -1,0 +1,44 @@
+31702653_11895|t|RSS_IDENT_p_31702653_b_1_3_9
+31702653_11895|a| The mechanism by which IgAVN was exacerbated by bevacizumab or how bevacizumab transforms IgAN into IgAVN is unknown. Hyperpermeability of the intestinal mucosa caused by bevacizumab has been reported, indicating excessive IgA secretion and involvement in the onset of IgAN.[ ² ] Gd-IgA1 contributes to the pathogenesis of IgAVN,[ ⁶ ] but its role in causing vasculitis is still under investigation. IgA and anti-epithelial cell antibodies (AECA) bind to the vascular endothelium and promote the migration and activation of neutrophils; this has also been pointed out as one of the causes for the onset of IgAVN.[ ¹³ ] Recent investigations have demonstrated that the concentration of AECA decreases in patients receiving bevacizumab.[ ¹⁴ ] Moreover, high expression of VEGF was reported in patients with vasculitis and in children with acute-phase IgAV.[ ¹⁵ , ¹⁶ ] Some reports suggest that bevacizumab administration is unlikely to lead to the development of IgAVN. However, there are reports of bevacizumab inducing the onset of periaortitis and leading to an increase in the rate of thrombosis.[ ¹⁷ , ¹⁸ ] Vascular disease is caused by an imbalance between vascular injury and epithelial repair. Endothelial progenitor cells are recruited by angiogenic cytokines, especially VEGF, and are essential for epithelial repair.[ ¹⁹ ] Murakami et al postulated that the inability to mobilize endothelial progenitor cells due to the presence of anti-VEGF antibodies is a risk factor for the development of vascular disease, thereby highlighting the possibility of exacerbating chemotherapy-induced vascular damage.[ ¹⁷ ] 
+31702653_11895	53	58	IgAVN	Disease	not found
+31702653_11895	78	89	bevacizumab	Drug	CHEMBL1201583
+31702653_11895	97	108	bevacizumab	Drug
+31702653_11895	120	124	IgAN	Disease	DOID:2986
+31702653_11895	130	135	IgAVN	Disease
+31702653_11895	148	190	Hyperpermeability of the intestinal mucosa	Biomarker
+31702653_11895	201	212	bevacizumab	Drug
+31702653_11895	243	266	excessive IgA secretion	Biomarker
+31702653_11895	253	256	IgA	Gene-protein	not found
+31702653_11895	299	303	IgAN	Disease
+31702653_11895	310	317	Gd-IgA1	Biomarker
+31702653_11895	313	317	IgA1	Gene-protein	not found
+31702653_11895	353	358	IgAVN	Disease
+31702653_11895	389	399	vasculitis	Disease	DOID:865
+31702653_11895	430	433	IgA	Gene-protein
+31702653_11895	430	509	IgA and anti-epithelial cell antibodies (AECA) bind to the vascular endothelium	Biomarker
+31702653_11895	438	469	anti-epithelial cell antibodies	Gene-protein	not found
+31702653_11895	471	475	AECA	Gene-protein	not found
+31702653_11895	636	641	IgAVN	Disease
+31702653_11895	715	719	AECA	Gene-protein
+31702653_11895	752	763	bevacizumab	Drug
+31702653_11895	781	804	high expression of VEGF	Biomarker
+31702653_11895	800	804	VEGF	Genefamily	family:1267
+31702653_11895	835	845	vasculitis	Disease	DOID:865
+31702653_11895	835	883	vasculitis and in children with acute-phase IgAV	Collection
+31702653_11895	867	883	acute-phase IgAV	Disease	not found
+31702653_11895	922	933	bevacizumab	Drug
+31702653_11895	991	996	IgAVN	Disease
+31702653_11895	1028	1039	bevacizumab	Drug
+31702653_11895	1062	1074	periaortitis	Disease	not found
+31702653_11895	1062	1127	periaortitis and leading to an increase in the rate of thrombosis	Collection
+31702653_11895	1117	1127	thrombosis	Disease	DOID:0060903
+31702653_11895	1140	1156	Vascular disease	Disease	DOID:178
+31702653_11895	1173	1228	imbalance between vascular injury and epithelial repair	Biomarker
+31702653_11895	1276	1296	angiogenic cytokines	Genefamily	not found
+31702653_11895	1309	1313	VEGF	Genefamily
+31702653_11895	1397	1491	inability to mobilize endothelial progenitor cells due to the presence of anti-VEGF antibodies	Biomarker
+31702653_11895	1471	1491	anti-VEGF antibodies	Gene-protein	not found
+31702653_11895	1532	1548	vascular disease	Disease	DOID:178
+31702653_11895	1603	1615	chemotherapy	Drug-class
+31702653_11895	1603	1639	chemotherapy-induced vascular damage	Disease	not found
+

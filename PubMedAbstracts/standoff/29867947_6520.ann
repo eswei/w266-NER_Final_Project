@@ -1,0 +1,84 @@
+T1	Chemical 107 111	FITC
+T3	Chemical 460 463	APC
+T4	Chemical 634 638	FITC
+T6	Chemical 821 825	FITC
+T8	Gene-Protein 1008 1030	anti-mouse phospho-Syk
+T35	Gene-Protein 143 146	CD5
+T36	GeneFamily 157 160	IgD
+T37	Gene-Protein 174 181	CD21/35
+T38	Gene-Protein 189 193	CD44
+T39	Gene-Protein 201 205	CD40
+T40	Gene-Protein 219 223	CD69
+T41	Chemical 234 236	PE
+T42	GeneFamily 268 271	IgM
+T43	Gene-Protein 281 285	CD27
+T44	Gene-Protein 297 301	CD25
+T45	Gene-Protein 310 314	CD80
+T46	GeneFamily 326 338	MHC class II
+T47	Gene-Protein 367 373	CD45.2
+T2	Chemical 381 383	PE
+T48	Chemical 384 387	Cy5
+T49	Gene-Protein 419 429	CD45R/B220
+T50	Gene-Protein 444 448	CD19
+T51	Gene-Protein 495 500	CD138
+T52	Gene-Protein 510 514	CD86
+T53	Gene-Protein 523 529	CD45.1
+T54	Gene-Protein 541 548	CD21/35
+T55	Gene-Protein 670 677	CD21/35
+T56	Gene-Protein 688 692	CD93
+T5	Gene-Protein 743 747	CD23
+T57	Gene-Protein 855 859	GL-7
+T58	Chemical 874 876	PE
+T59	Gene-Protein 906 910	CD95
+T60	Gene-Protein 911 914	Fas
+T61	Gene-Protein 992 1006	anti-mouse Lyn
+T9	Gene-Protein 1041 1059	TRAF2/3/6 antibody
+T62	Gene-Protein 1128 1142	anti-mouse Akt
+T63	Gene-Protein 1144 1166	anti-mouse phospho-Akt
+T10	Gene-Protein 1177 1192	anti-mouse IκBa
+T11	Gene-Protein 1194 1210	anti-mouse PLCγ2
+T64	Gene-Protein 1212 1236	anti-mouse phospho-PLCγ2
+T12	Gene-Protein 1247 1262	anti-mouse JNK2
+T13	Gene-Protein 1264 1286	anti-mouse phospho-JNK
+T14	Gene-Protein 1304 1326	anti-mouse p44/42 MAPK
+T15	Gene-Protein 1337 1368	anti-mouse phospho- p44/42 MAPK
+T16	Gene-Protein 1328 1334	Erk1/2
+T17	Gene-Protein 1370 1376	Erk1/2
+T65	Gene-Protein 1395 1414	anti-mouse p38 MAPK
+T18	Gene-Protein 1420 1447	anti-mouse phospho-p38 MAPK
+T19	Gene-Protein 1545 1560	anti-mouse GRB2
+T20	Gene-Protein 1562 1585	anti-mouse phospho-IκBa
+T21	Gene-Protein 1595 1610	anti-mouse BLNK
+T22	Gene-Protein 1612 1626	anti-mouse Btk
+T23	Gene-Protein 1628 1651	anti-mouse phospho-GRB2
+T24	Gene-Protein 1662 1685	anti-mouse phospho-BLNK
+T25	Gene-Protein 1699 1721	anti-mouse phospho-Btk
+T26	Gene-Protein 1799 1813	anti-mouse Syk
+T27	Gene-Protein 1818 1833	anti-mouse NLAT
+T28	Gene-Protein 1897 1919	anti-mouse phospho-Lyn
+T29	Gene-Protein 1979 2002	anti-mouse phospho-NLAT
+T30	Gene-Protein 2089 2125	anti-mouse GAPDH monoclonal antibody
+T7	Gene-Protein 861 864	GL7
+T31	Gene-Protein 148 154	53-7.3
+T32	Gene-Protein 162 171	11-26c.2a
+T33	Gene-Protein 183 186	4E3
+T34	Gene-Protein 195 198	IM7
+T66	Gene-Protein 207 213	HM40-3
+T67	Gene-Protein 350 361	M5/114.15.2
+T68	Gene-Protein 225 231	H1.2F3
+T69	Gene-Protein 273 278	RMM-1
+T70	Gene-Protein 287 294	lg.3a10
+T71	Gene-Protein 303 307	PC61
+T72	Gene-Protein 316 323	16-10A1
+T73	Gene-Protein 340 347	I-A/I-E
+T74	Gene-Protein 375 378	104
+T75	Gene-Protein 431 438	RA3-6B2
+T76	Gene-Protein 450 453	6D5
+T77	Gene-Protein 502 507	281-2
+T78	Gene-Protein 516 520	GL-1
+T79	Gene-Protein 531 534	A20
+T80	Gene-Protein 550 553	4E3
+T81	Gene-Protein 916 919	Jo2
+T82	Gene-Protein 679 682	4E3
+T83	Gene-Protein 694 699	AA4.4
+T84	Gene-Protein 749 753	B3B4

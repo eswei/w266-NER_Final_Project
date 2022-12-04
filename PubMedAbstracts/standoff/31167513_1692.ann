@@ -1,0 +1,92 @@
+T1	Chemical 53 61	tyrosine
+T10	Disease 1982 1990	melanoma
+#2	AnnotatorNotes T10	DOID:1909
+T11	Chemical 2195 2211	phosphoinositide
+T3	Chemical 737 745	tyrosine
+T4	Chemical 1221 1250	heparin sulfate proteoglycans
+T5	Chemical 1437 1445	tyrosine
+T6	Biomarker 1831 1862	FRS2 was annotated as amplified
+T7	Disease 1866 1885	skin-derived tumors
+#7	AnnotatorNotes T7	not found
+T12	GeneFamily 71 75	RTKs
+#1	AnnotatorNotes T12	family:321
+T13	GeneFamily 44 69	Receptor tyrosine kinases
+#3	AnnotatorNotes T13	family:321
+T14	GeneFamily 161 194	Fibroblast Growth Factor Receptor
+#4	AnnotatorNotes T14	not found
+T15	GeneFamily 196 200	FGFR
+#5	AnnotatorNotes T15	not found
+T16	GeneFamily 218 222	RTKs
+T17	Gene-Protein 282 289	FGFR1–4
+#6	AnnotatorNotes T17	HGNC:3688, HGNC:3689, HGNC:3690, HGNC:3691
+T18	GeneFamily 299 311	FGF receptor
+#10	AnnotatorNotes T18	not found
+T19	Gene-Protein 345 350	FGFR5
+#11	AnnotatorNotes T19	not found
+T20	GeneFamily 353 358	FGFRs
+#12	AnnotatorNotes T20	not found
+T2	GeneFamily 540 545	FGFRs
+T21	ProteinDomain 613 650	immunoglobulin-like (Ig-like) domains
+T22	ProteinDomain 716 759	catalytically active tyrosine kinase domain
+T23	ProteinDomain 799 813	Ig-like domain
+T24	GeneFamily 838 842	FGFR
+T25	GeneFamily 899 903	FGFR
+T26	GeneFamily 1091 1116	fibroblast growth factors
+#13	AnnotatorNotes T26	family:1895
+T27	GeneFamily 1118 1122	FGFs
+#14	AnnotatorNotes T27	family:1895
+T28	GeneFamily 1163 1168	FGFRs
+T29	GeneFamily 1181 1185	FGFs
+T30	GeneFamily 1189 1194	FGFRs
+T31	Chemical 1252 1257	HSPGs
+T32	GeneFamily 1272 1275	FGF
+#15	AnnotatorNotes T32	family:1895
+T33	Gene-Protein 1290 1296	Klotho
+#16	AnnotatorNotes T33	HGNC:6344
+T34	ProteinDomain 1462 1487	cytoplasmic kinase domain
+T35	GeneFamily 1570 1591	phospholipase C gamma
+#17	AnnotatorNotes T35	not found
+T36	GeneFamily 1593 1597	PLCγ
+#18	AnnotatorNotes T36	not found
+T37	Gene-Protein 1600 1645	fibroblast growth factor receptor substrate 2
+#19	AnnotatorNotes T37	HGNC:16971
+T38	Gene-Protein 1647 1651	FRS2
+#20	AnnotatorNotes T38	HGNC:16971
+T39	GeneFamily 1654 1670	son of sevenless
+#21	AnnotatorNotes T39	not found
+T40	GeneFamily 1672 1675	SOS
+#22	AnnotatorNotes T40	not found
+T41	Gene-Protein 1682 1712	growth factor receptor-bound 2
+#23	AnnotatorNotes T41	HGNC:4566
+T42	Gene-Protein 1714 1718	GRB2
+#24	AnnotatorNotes T42	HGNC:4566
+T43	Gene-Protein 1721 1725	FRS2
+T44	GeneFamily 1803 1807	RTKs
+T45	GeneFamily 1819 1823	FGFR
+T46	GeneFamily 1831 1835	FRS2
+R1	Association Arg1:T6 Arg2:T8	
+T8	Collection 1866 1990	skin-derived tumors in the Cancer Genome Project dataset [ 7 , 8 ] and emerged as a potential therapeutic target in melanoma
+T9	GeneFamily 2088 2104	protein kinase C
+#8	AnnotatorNotes T9	not found
+T47	GeneFamily 2106 2109	PKC
+#9	AnnotatorNotes T47	not found
+T48	GeneFamily 2145 2182	extracellular signal-regulated kinase
+#25	AnnotatorNotes T48	not found
+T49	GeneFamily 2189 2192	ERK
+#26	AnnotatorNotes T49	not found
+T50	GeneFamily 2112 2144	mitogen-activated protein kinase
+#27	AnnotatorNotes T50	family:651
+T51	GeneFamily 2184 2188	MAPK
+#28	AnnotatorNotes T51	family:651
+T52	GeneFamily 2195 2220	phosphoinositide 3-kinase
+#29	AnnotatorNotes T52	family:831
+T53	GeneFamily 2221 2237	protein kinase B
+#30	AnnotatorNotes T53	family:1900
+T54	GeneFamily 2244 2247	AKT
+#31	AnnotatorNotes T54	family:1900
+T55	GeneFamily 2239 2243	PI3K
+#32	AnnotatorNotes T55	family:831
+T56	Gene-Protein 2308 2315	STAT3/5
+#33	AnnotatorNotes T56	HGNC:11364, HGNC:11366
+T57	Gene-Protein 2254 2306	signal transducer and activator of transcription 3/5
+#34	AnnotatorNotes T57	HGNC:11364, HGNC:11366

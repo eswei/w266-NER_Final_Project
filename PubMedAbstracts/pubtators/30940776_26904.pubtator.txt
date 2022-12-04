@@ -1,0 +1,51 @@
+30940776_26904|t|RSS_IDENT_p_30940776_b_1_4_4
+30940776_26904|a| Recent work showed lncRNA began to emerge as natural miRNA decoys. Although we have witnessed the discovery of numerous lncRNAs in the past two decades, only a small portion of them have been identified functionally, and very few of them have been validated to function as ceRNAs in cancers [ 25 ]. In PCa, the up-regulation of lncRNA GAS5 was reported to inactivate the AKT/mTOR signaling pathway through targetting miR-103. HOTAIR can target HER2 mRNA by binding miR-331-3p and then modulates the depression of HER2 to promote the development of PCa [ 26 ]. In addition, lncRNA PVT1 was shown to promote EMT via suppressing miR-186 to activate Twist1 in PCa. UCA1 has been extensively reported as a miRNA sponge in various cancer. For example, Wu et al., showed that UCA1 promotes lung cancer cell proliferation and migration through miRNA-193a/HMGB1 axis [ 27 ]. Moreover, UCA1 promotes mitochondrial function of bladder cancer via the miR-195/ARL2 signaling pathway [ 28 ]. In addition, UCA1 can interact with miR-182 to modulate glioma proliferation and migration by targetting iASPP [ 29 ]. In the present study, we used online prediction program to find candidate miRNAs, which reported previously as UCA1 target miRNA, in the 3′-UTR region of CXCR4. We identified miR-204 as potential miRNAs that links UCA1 and CXCR4. MiR-204 was demonstrated as tumor suppressor in various kind of cancer, and its functions involves cell growth, apoptosis, migration, and invasion [ 30 , 31 ]. Therefore, UCA1 may function, in part, through inhibition of miR-204 in PCa.
+30940776_26904	313	320	cancers	Disease	DOID:162
+30940776_26904	332	335	PCa	Disease	DOID:10283
+30940776_26904	341	369	up-regulation of lncRNA GAS5	Biomarker
+30940776_26904	365	369	GAS5	Rna-noncoding	HGNC:16355
+30940776_26904	401	404	AKT	Genefamily	family:1900
+30940776_26904	405	409	mTOR	Gene-protein	HGNC:3942
+30940776_26904	447	454	miR-103	Rna-noncoding	not found
+30940776_26904	456	462	HOTAIR	Rna-noncoding	HGNC:33510
+30940776_26904	456	462	HOTAIR	Biomarker	C561566
+30940776_26904	474	478	HER2	Gene-protein	HGNC:3430
+30940776_26904	495	505	miR-331-3p	Gene-protein	HGNC:31772
+30940776_26904	543	547	HER2	Gene-protein
+30940776_26904	578	581	PCa	Disease
+30940776_26904	603	614	lncRNA PVT1	Biomarker	C000609195
+30940776_26904	610	614	PVT1	Rna-noncoding	HGNC:9709
+30940776_26904	656	663	miR-186	Rna-noncoding	HGNC:31557
+30940776_26904	676	682	Twist1	Gene-protein	HGNC:12428
+30940776_26904	686	689	PCa	Disease
+30940776_26904	691	695	UCA1	Rna-noncoding	HGNC:37126
+30940776_26904	691	695	UCA1	Biomarker	C515159
+30940776_26904	755	761	cancer	Disease	DOID:162
+30940776_26904	799	803	UCA1	Rna-noncoding
+30940776_26904	799	803	UCA1	Biomarker
+30940776_26904	813	824	lung cancer	Disease	DOID:1324
+30940776_26904	866	876	miRNA-193a	Rna-noncoding	HGNC:31563
+30940776_26904	877	882	HMGB1	Gene-protein	HGNC:4983
+30940776_26904	906	910	UCA1	Rna-noncoding
+30940776_26904	906	910	UCA1	Biomarker
+30940776_26904	946	960	bladder cancer	Disease	DOID:11054
+30940776_26904	969	976	miR-195	Rna-noncoding	HGNC:31566
+30940776_26904	977	981	ARL2	Gene-protein	HGNC:693
+30940776_26904	1021	1025	UCA1	Rna-noncoding
+30940776_26904	1021	1025	UCA1	Biomarker
+30940776_26904	1044	1051	miR-182	Rna-noncoding	HGNC:31553
+30940776_26904	1064	1070	glioma	Disease	DOID:0060108
+30940776_26904	1113	1118	iASPP	Gene-protein	HGNC: 18838
+30940776_26904	1238	1242	UCA1	Rna-noncoding
+30940776_26904	1281	1286	CXCR4	Gene-protein	HGNC:2561
+30940776_26904	1302	1309	miR-204	Rna-noncoding	HGNC:31582
+30940776_26904	1341	1345	UCA1	Rna-noncoding
+30940776_26904	1350	1355	CXCR4	Gene-protein
+30940776_26904	1357	1364	MiR-204	Rna-noncoding	HGNC:31582
+30940776_26904	1357	1364	MiR-204	Biomarker	C549404
+30940776_26904	1421	1427	cancer	Disease
+30940776_26904	1528	1532	UCA1	Rna-noncoding
+30940776_26904	1528	1532	UCA1	Biomarker
+30940776_26904	1578	1585	miR-204	Rna-noncoding
+30940776_26904	1589	1592	PCa	Disease
+

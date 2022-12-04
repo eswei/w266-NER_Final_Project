@@ -1,0 +1,79 @@
+T1	Biomarker 131 144	very low MAFs
+T11	Chemical 633 636	Tis
+T12	Disease 845 851	Cancer
+#3	AnnotatorNotes T12	DOID:162
+T13	Chemical 874 882	tyrosine
+T14	Chemical 914 922	tyrosine
+T15	Chemical 1141 1147	lysine
+T18	Chemical 1309 1346	phosphatidylinositol‐4,5‐bisphosphate
+T19	Chemical 1439 1447	retinoid
+T2	Disease 177 180	UBC
+T21	Disease 1611 1625	bladder tumour
+T22	Disease 1626 1629	UBC
+T23	Disease 1630 1655	urothelial bladder cancer
+#15	AnnotatorNotes T23	DOID:4006
+T3	Disease 314 317	UBC
+T5	Chemical 342 348	serine
+T6	Chemical 349 358	threonine
+T7	Disease 373 387	Bladder Cancer
+#19	AnnotatorNotes T7	DOID:11054
+T8	Chemical 435 441	serine
+T9	Chemical 442 451	threonine
+T24	Biomarker 40 43	SMs
+#2	AnnotatorNotes T2	DOID:4006
+T4	Gene-Protein 338 367	AKT serine/threonine kinase 1
+T25	Gene-Protein 333 337	AKT1
+T26	Gene-Protein 408 412	BRAF
+T27	Gene-Protein 413 458	B‐Raf proto‐oncogene, serine/threonine kinase
+T28	Gene-Protein 459 466	C3orf70
+T29	Gene-Protein 467 501	chromosome 3 open reading frame 70
+T30	Gene-Protein 502 508	CDKN1A
+T31	Gene-Protein 509 545	cyclin‐dependent kinase inhibitor 1A
+T32	Gene-Protein 546 552	CDKN2A
+T33	Gene-Protein 553 589	cyclin‐dependent kinase inhibitor 2A
+T10	Disease 614 623	carcinoma
+#1	AnnotatorNotes T10	DOID:305
+T34	Gene-Protein 660 666	CREBBP
+T35	Gene-Protein 667 687	CREB binding protein
+T36	Gene-Protein 688 694	CTNNB1
+T37	Gene-Protein 695 705	catenin β1
+T38	Gene-Protein 742 746	ELF3
+T39	Gene-Protein 747 782	E74 like ETS transcription factor 3
+T40	Gene-Protein 852 857	ERBB2
+T41	Gene-Protein 858 891	Erb‐B2 receptor tyrosine kinase 2
+T42	Gene-Protein 892 897	ERBB3
+T43	Gene-Protein 898 931	Erb‐B2 receptor tyrosine kinase 3
+T44	Gene-Protein 932 937	ERCC2
+T45	Gene-Protein 939 997	RCC excision repair 2, TFIIH core complex helicase subunit
+T46	Gene-Protein 998 1003	FBXW7
+T47	Gene-Protein 1004 1043	F‐box and WD repeat domain containing 7
+T48	Gene-Protein 1044 1049	FGFR3
+T49	Gene-Protein 1050 1085	fibroblast growth factor receptor 3
+T50	Gene-Protein 1102 1106	HRAS
+T51	Gene-Protein 1107 1134	HRas proto‐oncogene, GTPase
+T52	Gene-Protein 1135 1140	KDM6A
+T53	Gene-Protein 1141 1162	lysine demethylase 6A
+T54	Gene-Protein 1168 1195	KRAS proto‐oncogene, GTPase
+T55	Gene-Protein 1163 1167	KRAS
+T56	Biomarker 1196 1199	MAF
+T57	Biomarker 1200 1223	mutant allele frequency
+T58	Disease 1232 1268	(non‐)muscle‐invasive bladder cancer
+#4	AnnotatorNotes T58	not found\
+T59	Disease 1224 1231	(N)MIBC
+#5	AnnotatorNotes T59	not found
+T16	Gene-Protein 1269 1273	NRAS
+T17	Gene-Protein 1274 1301	NRAS proto‐oncogene, GTPase
+T60	Gene-Protein 1302 1308	PIK3CA
+T61	Gene-Protein 1309 1376	phosphatidylinositol‐4,5‐bisphosphate 3‐kinase, catalytic subunit α
+T62	Gene-Protein 1401 1405	RHOB
+T63	Gene-Protein 1406 1433	Ras homolog family member B
+T64	Gene-Protein 1434 1438	RXRA
+T65	Gene-Protein 1439 1460	retinoid X receptor α
+T66	Gene-Protein 1461 1466	SF3B1
+T67	Gene-Protein 1467 1495	splicing factor 3b subunit 1
+T68	Biomarker 1499 1515	somatic mutation
+T69	Biomarker 1496 1498	SM
+T70	Gene-Protein 1516 1520	TERT
+T71	Gene-Protein 1521 1553	telomerase reverse transcriptase
+T72	Gene-Protein 1554 1558	TP53
+T73	Gene-Protein 1559 1577	tumour protein P53

@@ -1,0 +1,87 @@
+T0	Chemical 78 79	N
+T11	Disease 700 712	colon cancer
+#3	AnnotatorNotes T11	DOID:219
+T13	Disease 751 763	colon cancer
+T15	Disease 837 849	colon cancer
+T16	Disease 1007 1012	tumor
+#6	AnnotatorNotes T16	DOID:162
+T18	Disease 1139 1161	breast and lung cancer
+#7	AnnotatorNotes T18	DOID:1612, DOID:1324
+T2	Chemical 273 274	N
+T20	Disease 1297 1319	breast and lung cancer
+T22	Disease 1351 1364	breast cancer
+T25	Disease 1679 1684	tumor
+T27	Disease 1754 1768	primary tumors
+#13	AnnotatorNotes T27	DOID:162
+T3	Disease 365 376	lung cancer
+#15	AnnotatorNotes T3	DOID:1324
+T30	Disease 1795 1801	tumors
+#16	AnnotatorNotes T30	DOID:162
+T5	Disease 520 531	lung cancer
+T7	Disease 584 597	breast cancer
+#18	AnnotatorNotes T7	DOID:1612
+T8	Disease 603 620	colorectal cancer
+#19	AnnotatorNotes T8	DOID:9256
+T9	Disease 630 651	hepatocellular cancer
+#20	AnnotatorNotes T9	DOID:684
+T4	Gene-Protein 58 62	ARD1
+#1	AnnotatorNotes T4	HGNC:18704
+T6	Gene-Protein 30 56	Arrest-defective protein 1
+#2	AnnotatorNotes T6	HGNC:18704
+T10	Gene-Protein 78 102	N-α-acetyltransferase 10
+#8	AnnotatorNotes T10	HGNC:18704
+T12	Gene-Protein 104 110	Naa10p
+#21	AnnotatorNotes T12	HGNC:18704
+T14	Gene-Protein 177 199	NatA acetyltransferase
+#22	AnnotatorNotes T14	HGNC:18704
+T17	Gene-Protein 259 263	ARD1
+T19	Gene-Protein 284 325	α-protein and ε-protein acetyltransferase
+#23	AnnotatorNotes T19	not found, not found
+T21	Biomarker 259 263	ARD1
+#24	AnnotatorNotes T21	C504824
+R1	Association Arg1:T21 Arg2:T3	
+T24	GeneFamily 412 421	β-catenin
+#25	AnnotatorNotes T24	family:1542
+T26	Gene-Protein 461 465	ARD1
+T29	Biomarker 461 480	ARD1 overexpression
+R2	Prognostic-Poor Arg1:T29 Arg2:T5	
+T31	Biomarker 546 580	ARD1 was found to be overexpressed
+T32	Collection 584 651	breast cancer ¹¹ , colorectal cancer ¹² , and hepatocellular cancer
+T33	Gene-Protein 546 550	ARD1
+R3	Association Arg1:T31 Arg2:T32	
+T34	Gene-Protein 667 671	ARD1
+T35	Biomarker 667 671	ARD1
+R4	Association Arg1:T35 Arg2:T11	
+T36	Biomarker 724 747	high expression of ARD1
+T37	Gene-Protein 743 747	ARD1
+R5	Prognostic-Poor Arg1:T36 Arg2:T13	
+T38	Gene-Protein 821 825	ARD1
+T39	Gene-Protein 884 888	RelA
+#4	AnnotatorNotes T39	HGNC:9955
+T40	Gene-Protein 889 892	p65
+#5	AnnotatorNotes T40	HGNC:9955
+T41	Gene-Protein 903 907	MCL1
+#17	AnnotatorNotes T41	HGNC:6943
+T42	Gene-Protein 970 974	ARD1
+T43	Biomarker 970 974	ARD1
+R6	Risk-Factor Arg1:T43 Arg2:T16	
+T44	Gene-Protein 1030 1034	ARD1
+T45	Gene-Protein 1113 1117	ARD1
+T46	Drug 1113 1117	ARD1
+#26	AnnotatorNotes T46	C504824
+R7	Response Arg1:T46 Arg2:T18	
+T47	Gene-Protein 1209 1213	ARD1
+T48	Drug 1199 1224	increased ARD1 expression
+R8	Response Arg1:T48 Arg2:T20	
+T49	Drug 1321 1340	ARD1 overexpression
+#9	AnnotatorNotes T49	not found
+T50	Gene-Protein 1321 1325	ARD1
+R9	Response Arg1:T49 Arg2:T22	
+T51	Gene-Protein 1432 1436	ARD1
+T23	Gene-Protein 1636 1640	ARD1
+T52	Biomarker 1636 1640	ARD1
+R10	Association Arg1:T52 Arg2:T25	
+T28	Biomarker 1726 1750	ARD1 is highly expressed
+T53	Gene-Protein 1726 1730	ARD1
+R11	Association Arg1:T28 Arg2:T27	
+T54	ProteinDomain 273 283	N-terminal

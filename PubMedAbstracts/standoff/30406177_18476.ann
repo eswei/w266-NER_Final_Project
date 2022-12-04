@@ -1,0 +1,42 @@
+T0	Disease 90 113	TREM2-deficient amyloid
+#1	AnnotatorNotes T0	not found
+T12	Disease 979 997	neuronal dystrophy
+#4	AnnotatorNotes T12	not found
+T13	Chemical 1132 1143	phagocytose
+T14	Disease 1239 1262	TREM2-deficient myeloid
+T2	Disease 217 232	TREM2-deficient
+T3	Chemical 368 372	BrdU
+T5	Disease 470 486	TREM2 deficiency
+#11	AnnotatorNotes T5	not found
+T9	Chemical 839 852	thioflavin S⁺
+T1	Gene-Protein 90 95	TREM2
+T6	Gene-Protein 217 222	TREM2
+T11	Gene-Protein 1239 1244	TREM2
+T16	Gene-Protein 358 362	Ki67
+T4	Gene-Protein 516 525	caspase-3
+#3	AnnotatorNotes T4	HGNC:1504
+T17	Biomarker 498 536	increased cleaved caspase-3 activation
+R1	Association Arg1:T17 Arg2:T5	
+T18	Gene-Protein 686 691	TREM2
+T19	Gene-Protein 1080 1085	TREM2
+T20	Biomarker 256 320	decreased numbers of proliferating plaque-associated macrophages
+R2	Association Arg1:T20 Arg2:T2	
+T21	Gene-Protein 940 942	Aβ
+#5	AnnotatorNotes T21	not found
+T22	Biomarker 899 942	more neurotoxic oligomeric and fibrillar Aβ
+R3	Association Arg1:T22 Arg2:T12	
+T15	Gene-Protein 1448 1450	Aβ
+T25	Gene-Protein 1362 1366	mTOR
+#6	AnnotatorNotes T25	HGNC:3942
+T26	Biomarker 49 86	loss of plaque-associated macrophages
+T10	Gene-Protein 1154 1156	Aβ
+T23	Biomarker 1282 1338	increased numbers of autophagy-associated phagolysosomes
+R4	Association Arg1:T23 Arg2:T14	
+T24	Biomarker 1353 1377	aberrant mTOR activation
+T27	Biomarker 358 362	Ki67
+#2	AnnotatorNotes T27	D019394
+T28	Biomarker 368 372	BrdU
+#7	AnnotatorNotes T28	D001973
+T7	Variant 724 728	R47H
+#8	AnnotatorNotes T7	p.Arg47His
+R5	Variant-Of Arg1:T18 Arg2:T7	

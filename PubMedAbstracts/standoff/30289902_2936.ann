@@ -1,0 +1,69 @@
+T0	Drug 91 94	ATO
+T10	Variant 577 584	p.R217S
+T11	Disease 625 641	RA-resistant APL
+T13	Drug 901 903	RA
+#3	AnnotatorNotes T13	DOID:0060831
+T14	Variant 925 932	p.R217S
+T15	Disease 1061 1102	APL cells harboring the deletion mutation
+T18	Disease 1390 1393	APL
+T2	Drug 163 166	ATO
+T3	Disease 210 213	APL
+T5	Disease 310 313	APL
+T8	Chemical 502 512	amino acid
+T9	Variant 532 546	p.K227_T233del
+T1	Gene-Protein 126 129	PML
+#1	AnnotatorNotes T1	HGNC:9113
+T4	Gene-Protein 130 134	RARA
+#2	AnnotatorNotes T4	HGNC:9864
+T7	Gene-Protein 261 264	PML
+T12	Gene-Protein 265 269	RARA
+T6	Drug 426 428	RA
+T16	Gene-Protein 464 467	PML
+T19	Gene-Protein 468 472	RARA
+T20	Gene-Protein 608 611	PML
+T21	Gene-Protein 612 616	RARA
+T22	Gene-Protein 816 820	RARA
+T23	Gene-Protein 835 839	RARA
+T24	Gene-Protein 831 834	PML
+T25	Drug 81 83	RA
+T26	Drug 156 158	RA
+T27	Collection 156 166	RA and ATO
+R1	Mediated-Non-Response Arg1:T27 Arg2:T3	
+T28	Biomarker 113 134	mutations in PML-RARA
+R2	Mediator Arg1:T27 Arg2:T28	
+R3	Prognostic-Poor Arg1:T28 Arg2:T3	
+T29	Biomarker 248 269	mutations in PML-RARA
+R4	Association Arg1:T29 Arg2:T5	
+T31	Variant 791 808	deletion mutation
+R6	Variant-Of Arg1:T22 Arg2:T31	
+T32	Drug 998 1000	RA
+T33	Gene-Protein 1009 1012	PML
+#4	AnnotatorNotes T15	not found
+T34	Drug-Class 1236 1246	RA therapy
+T17	Biomarker 1135 1173	acquired deletion mutation in PML-RARA
+R7	Mediated-Non-Response Arg1:T34 Arg2:T18	
+R8	Mediator Arg1:T34 Arg2:T17	
+T35	Gene-Protein 1165 1168	PML
+T36	Gene-Protein 1169 1173	RARA
+#5	AnnotatorNotes T25	not found
+#7	AnnotatorNotes T0	CHEMBL2362016
+#6	AnnotatorNotes T3	DOID:0060318
+T37	Gene-Protein 593 597	RARA
+T38	Variant 832 839	ML-RARA
+R10	Variant-Of Arg1:T24 Arg2:T38	
+R11	Variant-Of Arg1:T23 Arg2:T38	
+R12	Variant-Of Arg1:T22 Arg2:T40	
+#8	AnnotatorNotes T10	p.Arg217Ser
+T39	Variant 866 883	deletion mutation
+T40	Collection 866 932	deletion mutation was critical for RA sensitivity, whereas p.R217S
+T41	Variant 464 472	PML-RARA
+R13	Variant-Of Arg1:T16 Arg2:T41	
+R5	Variant-Of Arg1:T19 Arg2:T41	
+T30	Variant 608 616	PML-RARA
+R16	Variant-Of Arg1:T20 Arg2:T30	
+R17	Variant-Of Arg1:T21 Arg2:T30	
+T42	Drug 625 627	RA
+T43	Collection 531 584	(p.K227_T233del) as well as a point mutation, p.R217S
+R14	Variant-Of Arg1:T37 Arg2:T43	
+#9	AnnotatorNotes T11	not found
+R9	Association Arg1:T43 Arg2:T11	

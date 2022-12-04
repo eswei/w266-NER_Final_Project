@@ -1,0 +1,33 @@
+T1	Disease 54 88	CAH-associated adrenal myelolipoma
+#1	AnnotatorNotes T1	not found
+T11	Biomarker 370 432	compound heterozygous mutation (c.293-13C>G/c.518T>A, p.I173N)
+T16	Disease 476 511	CAH-associated adrenal myelolipomas
+T17	Chemical 523 528	17-OH
+T18	Disease 523 539	17-OH deficiency
+T19	Biomarker 557 640	compound heterozygous mutation (c.1118A>T, p.H373L/c.1459_1467del9, p.D487_F489del)
+T2	Chemical 147 152	21-OH
+T25	Disease 706 709	CAH
+#8	AnnotatorNotes T25	DOID:0050811
+T26	Disease 759 778	adrenal myelolipoma
+#9	AnnotatorNotes T26	not found
+T27	Disease 1026 1046	adrenal myelolipomas
+#10	AnnotatorNotes T27	DOID:656
+T3	Biomarker 147 163	21-OH deficiency
+T4	Chemical 198 203	17-OH
+T5	Biomarker 198 214	17-OH deficiency
+T7	Disease 286 327	CAH-associated giant adrenal myelolipomas
+#15	AnnotatorNotes T7	not found
+T8	Chemical 341 346	21-OH
+T9	Disease 341 357	21-OH deficiency
+R1	Association Arg1:T3 Arg2:T1	
+R2	Association Arg1:T5 Arg2:T1	
+T6	Collection 341 432	21-OH deficiency caused by a compound heterozygous mutation (c.293-13C>G/c.518T>A, p.I173N)
+R3	Risk-Factor Arg1:T6 Arg2:T9	
+T10	Collection 523 639	17-OH deficiency resulting from a compound heterozygous mutation (c.1118A>T, p.H373L/c.1459_1467del9, p.D487_F489del
+R4	Risk-Factor Arg1:T10 Arg2:T18	
+T12	Biomarker 933 1011	compound heterozygous mutations, but not the single mutation, in the CYP genes
+R5	Association Arg1:T12 Arg2:T27	
+T13	GeneFamily 1002 1005	CYP
+#2	AnnotatorNotes T13	family:862
+#3	AnnotatorNotes T9	not found
+#4	AnnotatorNotes T18	not found

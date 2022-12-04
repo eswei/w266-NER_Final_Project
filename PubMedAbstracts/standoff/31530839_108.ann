@@ -1,0 +1,70 @@
+T1	Disease 72 133	colorectal cancer (CRC) with microsatellite instability (MSI)
+#1	AnnotatorNotes T1	not found
+T10	Disease 466 469	CRC
+T11	Biomarker 481 486	MSI-H
+T12	Biomarker 608 691	low expression of DNA repair genes (MLH1, MLH3, PMS1, PMS2, ATR, PRKDC, ATM, BRCA2)
+T13	Gene-Protein 656 660	PMS1
+T14	Biomarker 708 713	MSI-H
+T17	Biomarker 715 720	MSI-H
+T18	Disease 810 822	MSI-H tumors
+#8	AnnotatorNotes T18	not found
+T20	Biomarker 839 877	diminished intra-tumoral heterogeneity
+T21	Biomarker 889 964	higher expression of checkpoint molecules PD-1, PD-L1, CTLA4, LAG3 and TIM3
+T22	Biomarker 1017 1039	low ATM, PMS2 and MLH3
+T23	Disease 1053 1056	CRC
+T24	Biomarker 1065 1105	decreased expression of DNA repair genes
+T25	Biomarker 1129 1134	MSI-H
+T26	Biomarker 1181 1191	higher TIL
+T27	Biomarker 1196 1222	M1 macrophage infiltration
+T29	Biomarker 1296 1337	expression of immune checkpoint molecules
+T4	Biomarker 135 174	somatic mutations accumulate within DNA
+T5	Disease 212 217	tumor
+#14	AnnotatorNotes T5	DOID:162
+T31	Biomarker 39 68	loss of DNA repair mechanisms
+R2	Association Arg1:T31 Arg2:T1	
+R1	Association Arg1:T4 Arg2:T1	
+T2	Biomarker 343 373	increased tumor immunogenicity
+T3	Biomarker 286 294	MSI-High
+#2	AnnotatorNotes T3	not found
+T6	Biomarker 296 301	MSI-H
+#3	AnnotatorNotes T6	not found
+#4	AnnotatorNotes T10	DOID:9256
+T7	Gene-Protein 644 648	MLH1
+#5	AnnotatorNotes T7	HGNC:7127
+T8	Gene-Protein 650 654	MLH3
+#7	AnnotatorNotes T8	HGNC:7128
+#10	AnnotatorNotes T13	HGNC:9121
+T9	Gene-Protein 662 666	PMS2
+#11	AnnotatorNotes T9	HGNC:9122
+T30	Gene-Protein 668 671	ATR
+#15	AnnotatorNotes T30	HGNC:882
+T32	Gene-Protein 685 690	BRCA2
+#16	AnnotatorNotes T32	HGNC:1101
+T33	Gene-Protein 680 683	ATM
+#17	AnnotatorNotes T33	HGNC:795
+T34	Gene-Protein 673 678	PRKDC
+#18	AnnotatorNotes T34	HGNC:9413
+T16	Biomarker 781 795	M1 macrophages
+T19	Gene-Protein 931 935	PD-1
+#6	AnnotatorNotes T19	HGNC:8760
+T35	Gene-Protein 937 942	PD-L1
+#9	AnnotatorNotes T35	HGNC:17635
+T36	Gene-Protein 944 949	CTLA4
+#19	AnnotatorNotes T36	 HGNC:2505
+T37	Gene-Protein 951 955	LAG3
+#20	AnnotatorNotes T37	HGNC:6476
+T38	Gene-Protein 960 964	TIM3
+#21	AnnotatorNotes T38	HGNC:18437
+T39	Collection 839 964	diminished intra-tumoral heterogeneity as well as higher expression of checkpoint molecules PD-1, PD-L1, CTLA4, LAG3 and TIM3
+R5	Prognostic-Good Arg1:T22 Arg2:T18	
+T40	Gene-Protein 1021 1024	ATM
+T41	Gene-Protein 1026 1030	PMS2
+T42	Gene-Protein 1035 1039	MLH3
+R6	Association Arg1:T39 Arg2:T18	
+T43	Biomarker 1122 1127	MSI-H
+T28	Biomarker 1234 1267	lower intra-tumoral heterogeneity
+T45	Biomarker 1269 1274	MSI-H
+T46	Biomarker 491 512	microsatellite stable
+T47	Biomarker 514 517	MSS
+T48	Collection 286 373	MSI-High (MSI-H) patients have favorable survival due to increased tumor immunogenicity
+R4	Prognostic-Good Arg1:T25 Arg2:T23	

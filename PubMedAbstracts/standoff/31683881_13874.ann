@@ -1,0 +1,53 @@
+T0	Chemical 132 149	cholesteryl ester
+T1	Disease 213 216	CVD
+T10	Chemical 879 886	glucose
+T11	Chemical 975 985	adrenaline
+T12	Chemical 1035 1043	cortisol
+T13	Chemical 1084 1094	adrenaline
+T14	Chemical 1098 1111	catecholamine
+T16	Disease 1305 1321	pheochromocytoma
+#8	AnnotatorNotes T16	DOID:0050771
+T17	Disease 1373 1389	pheochromocytoma
+T19	Disease 1557 1573	pheochromocytoma
+T20	Chemical 1616 1630	catecholamines
+T3	Disease 344 347	CVD
+T5	Biomarker 431 458	impaired glucose metabolism
+T7	Chemical 440 447	glucose
+T8	Disease 482 485	CVD
+T9	Chemical 736 743	glucose
+T2	Chemical 75 80	HDL-C
+T4	Chemical 271 276	HDL-C
+T6	Chemical 421 426	HDL-C
+T15	Biomarker 416 426	high HDL-C
+T18	Collection 416 458	high HDL-C and impaired glucose metabolism
+R1	Risk-Factor Arg1:T18 Arg2:T8	
+T21	Chemical 546 551	HDL-C
+T22	Chemical 594 600	lipids
+T23	Biomarker 686 710	rare dysfunctional HDL-C
+T24	Disease 726 754	impairing glucose metabolism
+#1	AnnotatorNotes T24	DOID:4194
+T25	Gene-Protein 808 812	CETP
+#2	AnnotatorNotes T25	HGNC:1869
+T26	Gene-Protein 814 819	APOA1
+#3	AnnotatorNotes T26	 HGNC:600
+T27	Gene-Protein 821 825	LCAT
+#4	AnnotatorNotes T27	HGNC:6522
+T28	Gene-Protein 915 922	insulin
+#5	AnnotatorNotes T28	HGNC:6081
+R2	Association Arg1:T23 Arg2:T24	
+T29	Gene-Protein 987 995	glucagon
+#6	AnnotatorNotes T29	not found
+T30	GeneFamily 997 1013	thyroid hormones
+T31	Gene-Protein 1015 1029	growth hormone
+T32	Chemical 1244 1249	HDL-C
+T33	Chemical 1468 1473	HDL-C
+T34	Chemical 1534 1539	HDL-C
+T35	Biomarker 1525 1539	elevated HDL-C
+#7	AnnotatorNotes T1	DOID:1287
+R3	Association Arg1:T35 Arg2:T19	
+T36	Biomarker 541 558	high HDL-C levels
+T37	Biomarker 1191 1222	BMI was significantly increased
+T38	Biomarker 1228 1264	serum HbA₁c and HDL-C were decreased
+T39	Biomarker 1443 1473	significant reduction in HDL-C
+#9	AnnotatorNotes T31	HGNC:4261
+#10	AnnotatorNotes T30	not found

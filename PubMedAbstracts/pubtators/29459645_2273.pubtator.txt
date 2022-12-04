@@ -1,0 +1,42 @@
+29459645_2273|t|RSS_IDENT_p_29459645_b_1_1_3
+29459645_2273|a| MicroRNAs (miRNAs) are a class of small non-coding RNAs that regulate gene expression at the post-transcriptional level ² . Accumulating evidence suggests strong association between deregulated miRNAs and tumor radioresistance. For example, upregulation of let-7 miRNA is related to radioresistance in human glioma cell line ³ . MiR-34 is significantly upregulated in different human cell lines after radiation and associated with radioresistance in human prostate cancer cell lines ⁴ . MiR-21 is related to radioresistance in a variety of cancer cell lines, including breast ⁵ , lung ⁶ , ⁷ , glioblastoma ⁸ , and nasopharyngeal cancers ⁹ . Upregulation of miR-106b ¹⁰ and miR-100 ¹¹ can promote radioresistance in CRC. In our previous study, we found differentially expressed miRNAs in radiated CRC cells, such as miR-622 ¹² and miR-214. MiR-214, located in the chromosomal region 1q24.3, in intron 14 of the Dynamin-3 gene (DNM3), has been reported to be downregulated in several human cancers including breast cancer ¹³ , cervical cancer ¹⁴ , pancreatic cancer ¹⁵ , rhabdomyosarcoma ¹⁶ , and hepatocellular cancer ¹⁷ . Moreover, miR-214 modulates radiotherapy response of non-small cell lung cancer cells (NSCLC) via regulation of p38MAPK, apoptosis and senescence ¹⁸ . However, the function and mechanism of miR-214 on radioresistance in CRC remain unclear. 
+29459645_2273	212	230	deregulated miRNAs	Biomarker
+29459645_2273	224	230	miRNAs	Rna-noncoding
+29459645_2273	235	240	tumor	Disease	DOID:162
+29459645_2273	271	298	upregulation of let-7 miRNA	Biomarker
+29459645_2273	287	298	let-7 miRNA	Rna-noncoding	family:1697
+29459645_2273	338	344	glioma	Disease	DOID:0060108
+29459645_2273	359	365	MiR-34	Rna-noncoding
+29459645_2273	359	394	MiR-34 is significantly upregulated	Biomarker
+29459645_2273	486	501	prostate cancer	Disease	DOID:10283
+29459645_2273	517	523	MiR-21	Rna-noncoding	HGNC:31586
+29459645_2273	517	523	MiR-21	Biomarker	C524940
+29459645_2273	599	666	breast ⁵ , lung ⁶ , ⁷ , glioblastoma ⁸ , and nasopharyngeal cancers	Disease	DOID: 1612, DOID:1324, DOID:3068, DOID:9261
+29459645_2273	671	713	Upregulation of miR-106b ¹⁰ and miR-100 ¹¹	Biomarker
+29459645_2273	687	695	miR-106b	Rna-noncoding
+29459645_2273	703	710	miR-100	Rna-noncoding	HGNC:31487
+29459645_2273	745	748	CRC	Disease	DOID:9256
+29459645_2273	782	813	differentially expressed miRNAs	Biomarker
+29459645_2273	807	813	miRNAs	Rna-noncoding
+29459645_2273	826	829	CRC	Disease
+29459645_2273	845	852	miR-622	Rna-noncoding	HGNC:32878
+29459645_2273	860	867	miR-214	Rna-noncoding	HGNC:31591
+29459645_2273	869	876	MiR-214	Rna-noncoding	HGNC:31591
+29459645_2273	869	1000	MiR-214, located in the chromosomal region 1q24.3, in intron 14 of the Dynamin-3 gene (DNM3), has been reported to be downregulated	Biomarker
+29459645_2273	940	949	Dynamin-3	Gene-protein	HGNC:29125
+29459645_2273	956	960	DNM3	Gene-protein	HGNC:29125
+29459645_2273	1018	1025	cancers	Disease	DOID:162
+29459645_2273	1018	1146	cancers including breast cancer ¹³ , cervical cancer ¹⁴ , pancreatic cancer ¹⁵ , rhabdomyosarcoma ¹⁶ , and hepatocellular cancer	Collection
+29459645_2273	1036	1049	breast cancer	Disease	DOID:1612
+29459645_2273	1055	1070	cervical cancer	Disease	DOID:4362
+29459645_2273	1076	1093	pancreatic cancer	Disease	DOID:1793
+29459645_2273	1099	1115	rhabdomyosarcoma	Disease	DOID:3247
+29459645_2273	1125	1146	hepatocellular cancer	Disease	DOID:5015
+29459645_2273	1162	1169	miR-214	Rna-noncoding
+29459645_2273	1180	1192	radiotherapy	Drug-class
+29459645_2273	1205	1231	non-small cell lung cancer	Disease	DOID:3908
+29459645_2273	1239	1244	NSCLC	Disease	DOID:3908
+29459645_2273	1264	1271	p38MAPK	Gene-protein	HGNC:6876
+29459645_2273	1342	1349	miR-214	Rna-noncoding
+29459645_2273	1372	1375	CRC	Disease
+

@@ -1,0 +1,46 @@
+31792339_3428|t|RSS_IDENT_p_31792339_b_1_1_4
+31792339_3428|a| Recepteur d’Origine Nantais (RON), also known as the macrophage stimulating 1 receptor (MST1R), is mainly expressed in macrophages, osteoclasts, hematopoietic and epithelial cells ¹⁶ – ¹⁹ . As one member of the receptor tyrosine kinase (RTK) family, RON is involved in a series of biological functions such as immune response and wound healing ²⁰ , ²¹ . Aberrant expression of RON is associated with tumor stage, poor prognosis and invasiveness in many cancer types ²² . It is known that RON functions as a mediator of tumor progression in some cancers ²³ , ²⁴ . Once activated by its ligand, macrophage-stimulating protein (MSP), RON promotes the invasive growth of cancer cells mainly through activation of several signaling pathways such as β-catenin, PLCγ, PI3K/AKT and MAPK etc. ²⁵ – ²⁷ . RON also plays a role in immunosuppression by regulating the properties of tumor-associated macrophages in the tumor microenvironment ²⁸ . RON is highly expressed by osteoclasts and has been shown to participate in bone metastasis through mediating dysregulated bone absorption ²⁹ . It is also known that the functions of RON in cells can be independent of MSP ³⁰ . In lung cancer, recent studies indicate that RON may be a potent biomarker of tumor progression, metastasis and prognosis ³¹ . To date, however, the potential biological roles of RON in the tumorigenesis of NSCLC and downstream pathways have not been fully elucidated. 
+31792339_3428	30	57	Recepteur d’Origine Nantais	Gene-protein	HGNC:7381
+31792339_3428	59	62	RON	Gene-protein	HGNC:7381
+31792339_3428	83	116	macrophage stimulating 1 receptor	Gene-protein	HGNC:7381
+31792339_3428	118	123	MST1R	Gene-protein	HGNC:7381
+31792339_3428	241	265	receptor tyrosine kinase	Genefamily	family:321
+31792339_3428	250	258	tyrosine	Chemical
+31792339_3428	267	270	RTK	Genefamily	family:321
+31792339_3428	280	283	RON	Gene-protein
+31792339_3428	384	410	Aberrant expression of RON	Biomarker
+31792339_3428	407	410	RON	Gene-protein
+31792339_3428	430	435	tumor	Disease	DOID:162
+31792339_3428	430	489	tumor stage, poor prognosis and invasiveness in many cancer	Collection
+31792339_3428	483	489	cancer	Disease	DOID:162
+31792339_3428	518	521	RON	Gene-protein
+31792339_3428	518	521	RON	Biomarker	C080835
+31792339_3428	549	554	tumor	Disease
+31792339_3428	549	582	tumor progression in some cancers	Collection
+31792339_3428	575	582	cancers	Disease	DOID:162
+31792339_3428	623	653	macrophage-stimulating protein	Gene-protein	HGNC:7380
+31792339_3428	655	658	MSP	Gene-protein	HGNC:7380
+31792339_3428	661	664	RON	Gene-protein
+31792339_3428	661	664	RON	Biomarker
+31792339_3428	697	703	cancer	Disease
+31792339_3428	774	783	β-catenin	Genefamily	family:1542
+31792339_3428	785	789	PLCγ	Genefamily	not found
+31792339_3428	791	795	PI3K	Genefamily	family:831
+31792339_3428	796	799	AKT	Genefamily	family:1900
+31792339_3428	804	808	MAPK	Genefamily	family:651
+31792339_3428	824	827	RON	Gene-protein
+31792339_3428	824	827	RON	Biomarker
+31792339_3428	935	940	tumor	Disease
+31792339_3428	963	966	RON	Gene-protein
+31792339_3428	963	986	RON is highly expressed	Biomarker
+31792339_3428	1039	1054	bone metastasis	Disease	DOID:184
+31792339_3428	1146	1149	RON	Gene-protein
+31792339_3428	1181	1184	MSP	Gene-protein
+31792339_3428	1193	1204	lung cancer	Disease	DOID:1324
+31792339_3428	1235	1238	RON	Gene-protein
+31792339_3428	1235	1238	RON	Biomarker
+31792339_3428	1268	1273	tumor	Disease
+31792339_3428	1369	1372	RON	Gene-protein
+31792339_3428	1369	1372	RON	Biomarker
+31792339_3428	1397	1402	NSCLC	Disease	DOID:3908
+

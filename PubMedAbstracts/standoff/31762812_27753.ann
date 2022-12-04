@@ -1,0 +1,80 @@
+T0	Disease 448 480	high-grade serous ovarian cancer
+#1	AnnotatorNotes T0	not found
+T1	Disease 707 721	ovarian cancer
+#2	AnnotatorNotes T1	DOID:2394
+T10	Disease 1664 1685	III/IV ovarian cancer
+#3	AnnotatorNotes T10	not found
+T11	Disease 1863 1882	advanced serous EOC
+T2	Disease 733 760	benign gynecologic diseases
+#5	AnnotatorNotes T2	not found
+T3	Disease 768 779	adenomyosis
+#6	AnnotatorNotes T3	DOID:288
+T4	Disease 783 796	endometriosis
+#7	AnnotatorNotes T4	DOID:289
+T5	Disease 1160 1163	EOC
+T6	Disease 1475 1487	advanced EOC
+T7	Disease 1517 1529	advanced EOC
+T8	Drug 1557 1562	Taxol
+T12	GeneFamily 34 37	SIK
+#4	AnnotatorNotes T12	not found
+T13	Gene-Protein 93 97	SIK1
+#8	AnnotatorNotes T13	HGNC:11142
+T14	Gene-Protein 99 103	SIK2
+#9	AnnotatorNotes T14	HGNC:21680
+T15	Gene-Protein 108 112	SIK3
+#10	AnnotatorNotes T15	HGNC:29165
+T16	Gene-Protein 114 118	SIK1
+T17	Gene-Protein 160 164	ACTH
+#11	AnnotatorNotes T17	HGNC:9201
+T18	Gene-Protein 202 206	SIK2
+T19	Gene-Protein 248 255	insulin
+#12	AnnotatorNotes T19	 HGNC:6081
+T20	Gene-Protein 289 293	SIK2
+T21	Biomarker 359 382	High expression of SIK2
+T22	Gene-Protein 378 382	SIK2
+R1	Prognostic-Poor Arg1:T21 Arg2:T0	
+T23	Gene-Protein 491 495	SIK3
+T24	Gene-Protein 632 636	SIK3
+T25	Biomarker 632 636	SIK3
+R2	Association Arg1:T25 Arg2:T1	
+T26	Biomarker 803 824	elevated CA125 levels
+T27	Gene-Protein 812 817	CA125
+#13	AnnotatorNotes T27	HGNC:15582
+T28	Biomarker 826 854	Increased expression of SIK3
+T29	Gene-Protein 850 854	SIK3
+T30	GeneFamily 988 992	PI3K
+T31	GeneFamily 955 986	c-Src-phosphoinositide 3-kinase
+T32	Biomarker 1019 1049	downregulation of p21 Waf/Cip1
+T33	Gene-Protein 1037 1040	p21
+T34	Gene-Protein 1041 1049	Waf/Cip1
+T35	Biomarker 1178 1198	high SIK3 expression
+T36	Gene-Protein 1183 1187	SIK3
+#14	AnnotatorNotes T5	DOID:2152
+R3	Prognostic-Good Arg1:T35 Arg2:T5	
+T37	Disease 1291 1310	advanced serous EOC
+#15	AnnotatorNotes T37	not found
+R4	Prognostic-Good Arg1:T35 Arg2:T37	
+T38	Gene-Protein 1368 1373	CA125
+T39	Biomarker 1351 1373	presurgery serum CA125
+T40	Biomarker 1375 1387	tissue CA125
+T41	Gene-Protein 1382 1387	CA125
+T42	Biomarker 1393 1408	SIK3 expression
+T43	Gene-Protein 1393 1397	SIK3
+T44	Biomarker 1415 1442	high tissue SIK3 expression
+T45	Gene-Protein 1427 1431	SIK3
+#16	AnnotatorNotes T6	not found
+R5	Prognostic-Good Arg1:T44 Arg2:T6	
+#17	AnnotatorNotes T8	 CHEMBL428647
+T46	Drug-Class 1563 1584	platinum chemotherapy
+T9	Biomarker 1700 1723	high expression of SIK3
+T47	Gene-Protein 1719 1723	SIK3
+T48	Biomarker 1767 1789	low expression of SIK3
+T49	Gene-Protein 1785 1789	SIK3
+T51	Biomarker 1897 1917	high SIK3 expression
+T52	Gene-Protein 1902 1906	SIK3
+R7	Prognostic-Good Arg1:T51 Arg2:T11	
+T53	Disease 1077 1090	tumorigenesis
+#19	AnnotatorNotes T53	DOID:162
+R8	Association Arg1:T28 Arg2:T53	
+R6	Association Arg1:T9 Arg2:T10	
+#18	AnnotatorNotes T25	C509079

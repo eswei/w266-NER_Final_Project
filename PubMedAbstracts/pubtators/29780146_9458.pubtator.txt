@@ -1,0 +1,51 @@
+29780146_9458|t|RSS_IDENT_p_29780146_b_1_3_3
+29780146_9458|a| To our knowledge, three cases of MPO-ANCA-related SNHL induced by PTU have been reported ( 15 - 17 ); however, the concept of OMAAV associated with the administration of PTU has been hardly recognized so far. Regarding other drug-induced AAVs, hydralazine was found to be associated with ENT involvement ( 18 ), and one case report described atorvastatin-induced hearing loss and tinnitus ( 19 ). However, whether or not these inducible drugs affect the development of OMAAV is unclear. According to previous clinical studies, PTU-induced MPO-ANCA does not always induce symptomatic vasculitis, and mild involvements, such as arthralgia, myalgia, and cutaneous lesions, are common characteristics of PTU-induced AAV ( 11 , 12 , 20 - 22 ). Furthermore, a comparative study demonstrated that ear manifestations appear less frequently in patients with PTU-induced AAV than in those with primary AAV ( 22 ). However, the present case suggested that PTU could also induce OMAAV. Furthermore, trigeminal neuropathy was also shown in this patient. Only one other case of trigeminal neuropathy related to OMAAV has been reported ( 23 ), with HP and facial nerve palsy being more common complications and recognized as prognostic factors in OMAAV ( 7 , 9 ). In patients with GPA, cranial nerve involvements are commonly complicated, and trigeminal neuropathy can also be found ( 24 ). However, cranial nerve manifestations are significantly less frequent in PTU-induced AAV than in primary AAV ( 22 ); furthermore, it has never been shown that trigeminal neuropathy is specific to PTU-induced AAV. Therefore, the appearance of trigeminal neuropathy may be a possible complication in OMAAV. 
+29780146_9458	63	66	MPO	Gene-protein	HGNC:7218
+29780146_9458	63	84	MPO-ANCA-related SNHL	Disease	not found
+29780146_9458	67	71	ANCA	Gene-protein	not found
+29780146_9458	96	99	PTU	Drug	CHEMBL1518
+29780146_9458	156	161	OMAAV	Disease	not found
+29780146_9458	200	203	PTU	Drug
+29780146_9458	255	272	drug-induced AAVs	Disease	not found
+29780146_9458	274	285	hydralazine	Drug	CHEMBL276832
+29780146_9458	372	384	atorvastatin	Drug	CHEMBL1487
+29780146_9458	372	418	atorvastatin-induced hearing loss and tinnitus	Disease	not found, not found
+29780146_9458	499	504	OMAAV	Disease
+29780146_9458	557	560	PTU	Drug
+29780146_9458	557	577	PTU-induced MPO-ANCA	Disease	not found
+29780146_9458	569	572	MPO	Gene-protein
+29780146_9458	573	577	ANCA	Gene-protein
+29780146_9458	601	623	symptomatic vasculitis	Disease	not found
+29780146_9458	656	666	arthralgia	Biomarker	D018771
+29780146_9458	656	698	arthralgia, myalgia, and cutaneous lesions	Collection
+29780146_9458	668	675	myalgia	Biomarker	D063806
+29780146_9458	681	698	cutaneous lesions	Biomarker
+29780146_9458	730	733	PTU	Drug
+29780146_9458	730	745	PTU-induced AAV	Disease	not found
+29780146_9458	820	861	ear manifestations appear less frequently	Biomarker
+29780146_9458	879	882	PTU	Drug
+29780146_9458	879	894	PTU-induced AAV	Disease
+29780146_9458	914	925	primary AAV	Disease	not found
+29780146_9458	975	978	PTU	Drug
+29780146_9458	997	1002	OMAAV	Disease
+29780146_9458	1017	1038	trigeminal neuropathy	Biomarker	D020433
+29780146_9458	1094	1115	trigeminal neuropathy	Biomarker	D020433
+29780146_9458	1127	1132	OMAAV	Disease
+29780146_9458	1164	1166	HP	Biomarker	D014390
+29780146_9458	1164	1189	HP and facial nerve palsy	Collection
+29780146_9458	1171	1189	facial nerve palsy	Biomarker	D005158
+29780146_9458	1262	1267	OMAAV	Disease
+29780146_9458	1296	1299	GPA	Disease	DOID:12132
+29780146_9458	1301	1352	cranial nerve involvements are commonly complicated	Biomarker
+29780146_9458	1301	1379	cranial nerve involvements are commonly complicated, and trigeminal neuropathy	Collection
+29780146_9458	1358	1379	trigeminal neuropathy	Biomarker
+29780146_9458	1415	1475	cranial nerve manifestations are significantly less frequent	Biomarker
+29780146_9458	1479	1482	PTU	Drug
+29780146_9458	1479	1494	PTU-induced AAV	Disease
+29780146_9458	1503	1514	primary AAV	Disease
+29780146_9458	1565	1586	trigeminal neuropathy	Disease	D020433
+29780146_9458	1602	1605	PTU	Drug
+29780146_9458	1602	1617	PTU-induced AAV	Disease
+29780146_9458	1648	1669	trigeminal neuropathy	Biomarker
+29780146_9458	1704	1709	OMAAV	Disease
+

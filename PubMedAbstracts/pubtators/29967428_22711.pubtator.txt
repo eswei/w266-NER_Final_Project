@@ -1,0 +1,57 @@
+29967428_22711|t|RSS_IDENT_p_29967428_b_1_3_4
+29967428_22711|a| Additionally, we extended previous findings showing that elevated circulating activin A levels are associated with cIMT in subjects with prediabetes and those with normal glucose levels. cIMT has been used as a surrogate marker not only of carotid atherosclerosis, but also of coronary atherosclerosis ²⁵ . The cIMT has been reported to be greater in subjects with abnormal glucose homeostasis, including impaired glucose tolerance, impaired fasting glucose, and diabetes ²⁶ , ²⁷ . The cIMT was also associated positively with the incidence of cardiovascular events in individuals with diabetes ²⁸ . Several possible rationales could explain the association between activin A and atherosclerosis. In addition to above-mentioned effects of activin A in the pathogenesis of NAFLD and glucose homeostasis, some experimental cardiovascular studies have revealed potential roles of activin A in inflammation and ischemia/reperfusion injury ¹⁴ , ¹⁷ , ²⁹ – ³¹ . Association of activin A and atherosclerosis has already been demonstrated in human vascular tissue specimens of atherosclerosis ³² . Increasing evidence suggests that activin A exerts an anti-inflammatory effect on peripheral mononuclear cells in patients with angina ¹⁴ . Overexpression of activin A with an adenoviral vector or treatment with recombinant activin A protein protected cultured neonatal rat ventricular myocytes from ischemia/reperfusion injury ²⁹ . However, other studies have yielded contrasting findings ³⁰ , ³¹ . In a mouse cardiomyocyte ischemia/reperfusion model, activin A damaged cardiomyocytes independently of increased reactive oxygen species concentrations ³⁰ . Activin A was also shown to attenuate cardiomyocyte contractile function in adult rat cardiomyocyte cultures ³¹ . One could reasonably speculate that activin A plays similar roles in the development of NAFLD, diabetes, and atherosclerosis. 
+29967428_22711	87	124	elevated circulating activin A levels	Biomarker
+29967428_22711	108	117	activin A	Gene-protein	HGNC:6066
+29967428_22711	167	178	prediabetes	Disease	DOID:11716
+29967428_22711	201	208	glucose	Chemical
+29967428_22711	217	221	cIMT	Biomarker
+29967428_22711	270	293	carotid atherosclerosis	Disease	DOID:3407
+29967428_22711	270	331	carotid atherosclerosis, but also of coronary atherosclerosis	Collection
+29967428_22711	307	331	coronary atherosclerosis	Disease	DOID:3393
+29967428_22711	341	377	cIMT has been reported to be greater	Biomarker
+29967428_22711	395	423	abnormal glucose homeostasis	Disease	not found
+29967428_22711	395	501	abnormal glucose homeostasis, including impaired glucose tolerance, impaired fasting glucose, and diabetes	Collection
+29967428_22711	404	411	glucose	Chemical
+29967428_22711	435	461	impaired glucose tolerance	Disease	DOID:10603
+29967428_22711	444	451	glucose	Chemical
+29967428_22711	463	487	impaired fasting glucose	Disease	not found
+29967428_22711	480	487	glucose	Chemical
+29967428_22711	493	501	diabetes	Disease	not found
+29967428_22711	516	520	cIMT	Biomarker
+29967428_22711	574	624	cardiovascular events in individuals with diabetes	Disease	not found, not found	Conjunction
+29967428_22711	696	705	activin A	Biomarker	C422405
+29967428_22711	696	705	activin A	Gene-protein
+29967428_22711	710	725	atherosclerosis	Disease	DOID:1936
+29967428_22711	769	778	activin A	Gene-protein
+29967428_22711	769	778	activin A	Biomarker
+29967428_22711	802	807	NAFLD	Disease	DOID:0080208
+29967428_22711	812	819	glucose	Chemical
+29967428_22711	907	916	activin A	Gene-protein
+29967428_22711	907	916	activin A	Biomarker	C422405
+29967428_22711	920	932	inflammation	Disease	D007249
+29967428_22711	920	964	inflammation and ischemia/reperfusion injury	Collection
+29967428_22711	937	964	ischemia/reperfusion injury	Disease	D015427
+29967428_22711	1000	1009	activin A	Gene-protein
+29967428_22711	1000	1009	activin A	Biomarker
+29967428_22711	1014	1029	atherosclerosis	Disease
+29967428_22711	1098	1113	atherosclerosis	Disease
+29967428_22711	1153	1162	activin A	Gene-protein
+29967428_22711	1153	1162	activin A	Drug	C422405
+29967428_22711	1247	1253	angina	Disease	not found
+29967428_22711	1259	1312	Overexpression of activin A with an adenoviral vector	Drug	not found
+29967428_22711	1259	1352	Overexpression of activin A with an adenoviral vector or treatment with recombinant activin A	Collection
+29967428_22711	1277	1286	activin A	Gene-protein
+29967428_22711	1331	1352	recombinant activin A	Drug	not found
+29967428_22711	1419	1446	ischemia/reperfusion injury	Collection
+29967428_22711	1419	1446	ischemia/reperfusion injury	Disease
+29967428_22711	1530	1564	cardiomyocyte ischemia/reperfusion	Disease	not found
+29967428_22711	1572	1581	activin A	Gene-protein
+29967428_22711	1632	1655	reactive oxygen species	Chemical
+29967428_22711	1676	1685	Activin A	Gene-protein
+29967428_22711	1826	1835	activin A	Gene-protein
+29967428_22711	1826	1835	activin A	Biomarker
+29967428_22711	1878	1883	NAFLD	Disease
+29967428_22711	1878	1914	NAFLD, diabetes, and atherosclerosis	Collection
+29967428_22711	1885	1893	diabetes	Disease
+29967428_22711	1899	1914	atherosclerosis	Disease
+

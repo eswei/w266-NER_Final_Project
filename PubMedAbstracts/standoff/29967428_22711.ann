@@ -1,0 +1,86 @@
+T10	Chemical 404 411	glucose
+T11	Disease 435 461	impaired glucose tolerance
+#3	AnnotatorNotes T11	DOID:10603
+T13	Chemical 444 451	glucose
+T14	Disease 463 487	impaired fasting glucose
+#5	AnnotatorNotes T14	not found
+T16	Chemical 480 487	glucose
+T17	Disease 493 501	diabetes
+#8	AnnotatorNotes T17	not found
+T18	Biomarker 516 520	cIMT
+T2	Disease 167 178	prediabetes
+#10	AnnotatorNotes T2	DOID:11716
+T22	Disease 710 725	atherosclerosis
+#13	AnnotatorNotes T22	DOID:1936
+T23	Disease 802 807	NAFLD
+#14	AnnotatorNotes T23	DOID:0080208
+T24	Chemical 812 819	glucose
+T25	Disease 920 932	inflammation
+#16	AnnotatorNotes T25	D007249
+T29	Disease 1014 1029	atherosclerosis
+T3	Chemical 201 208	glucose
+T30	Disease 1098 1113	atherosclerosis
+T31	Disease 1247 1253	angina
+#22	AnnotatorNotes T31	not found
+T34	Disease 1530 1564	cardiomyocyte ischemia/reperfusion
+#25	AnnotatorNotes T34	not found
+T35	Chemical 1632 1655	reactive oxygen species
+T36	Disease 1878 1883	NAFLD
+T37	Disease 1885 1893	diabetes
+T38	Disease 1899 1914	atherosclerosis
+T5	Disease 270 293	carotid atherosclerosis
+#30	AnnotatorNotes T5	DOID:3407
+T6	Disease 307 331	coronary atherosclerosis
+#31	AnnotatorNotes T6	DOID:3393
+T8	Disease 395 423	abnormal glucose homeostasis
+#33	AnnotatorNotes T8	not found
+T4	Biomarker 87 124	elevated circulating activin A levels
+R1	Association Arg1:T4 Arg2:T2	
+T1	Collection 270 331	carotid atherosclerosis, but also of coronary atherosclerosis
+T9	Biomarker 217 221	cIMT
+R2	Association Arg1:T9 Arg2:T1	
+T12	Gene-Protein 108 117	activin A
+#1	AnnotatorNotes T12	HGNC:6066
+T19	Collection 395 501	abnormal glucose homeostasis, including impaired glucose tolerance, impaired fasting glucose, and diabetes
+T28	Biomarker 341 377	cIMT has been reported to be greater
+R3	Association Arg1:T28 Arg2:T19	
+T39	Disease 574 624	cardiovascular events in individuals with diabetes
+T40	Biomarker 696 705	activin A
+R4	Association Arg1:T40 Arg2:T22	
+T20	Gene-Protein 769 778	activin A
+T41	Gene-Protein 696 705	activin A
+T42	Gene-Protein 1826 1835	activin A
+T43	Collection 1878 1914	NAFLD, diabetes, and atherosclerosis
+T44	Biomarker 1826 1835	activin A
+R5	Association Arg1:T44 Arg2:T43	
+T45	Gene-Protein 1572 1581	activin A
+T32	Gene-Protein 1153 1162	activin A
+R6	Association Arg1:T18 Arg2:T39	
+#2	AnnotatorNotes T39	not found, not found
+T7	Gene-Protein 907 916	activin A
+T15	Biomarker 907 916	activin A
+T21	Collection 920 964	inflammation and ischemia/reperfusion injury
+R7	Association Arg1:T15 Arg2:T21	
+T46	Biomarker 769 778	activin A
+R8	Association Arg1:T46 Arg2:T23	
+T47	Gene-Protein 1000 1009	activin A
+T48	Biomarker 1000 1009	activin A
+R9	Association Arg1:T48 Arg2:T29	
+T49	Drug 1331 1352	recombinant activin A
+T50	Drug 1153 1162	activin A
+#6	AnnotatorNotes T50	C422405
+T51	Drug 1259 1312	Overexpression of activin A with an adenoviral vector
+T52	Gene-Protein 1277 1286	activin A
+T53	Collection 1259 1352	Overexpression of activin A with an adenoviral vector or treatment with recombinant activin A
+T33	Collection 1419 1446	ischemia/reperfusion injury
+R10	Protects-from Arg1:T53 Arg2:T33	
+#7	AnnotatorNotes T51	not found
+#11	AnnotatorNotes T49	not found
+#15	AnnotatorNotes T15	C422405
+#18	AnnotatorNotes T40	C422405
+T56	Gene-Protein 1676 1685	Activin A
+R11	Response Arg1:T50 Arg2:T31	
+A1	Conjunction T39
+T57	Disease 937 964	ischemia/reperfusion injury
+#9	AnnotatorNotes T57	D015427
+T26	Disease 1419 1446	ischemia/reperfusion injury

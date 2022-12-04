@@ -1,0 +1,38 @@
+30944639_18508|t|RSS_IDENT_p_30944639_b_1_4_3
+30944639_18508|a| miRNAs are involved in post-transcriptional gene regulation, and thus serve an essential role in numerous biological processes, including cancer cell proliferation ( 28 , 29 ). miR-371a-3p has been associated with tumor cell proliferation ( 30 ). Although previous studies have indicated that serum miR-371a-3p may be a novel biomarker for tumor cells ( 31 , 32 ), the association between miR-371a-3p and CRT sensitivity in LARC remains unknown. In the present study, the miRNA-target gene interaction analysis revealed that miR-371a-3p was downregulated. This result may indicate that miR-371a-3p is a potential factor for predicting CRT sensitivity in LARC. However, investigation of the mechanism of the effect of miR-371a-3p on CRT sensitivity is lacking. Notably, pathway analysis in the current study showed that thiamine metabolism was the pathway with the highest enrichment by miR-371a-3p. The role of thiamine in cancer is controversial according to previous studies. In one study, thiamine intake was inversely correlated with colon cancer risk ( 33 ). However, another study indicated that increased thiamine levels were beneficial for tumor cell survival, proliferation and chemotherapy resistance ( 34 ). Therefore, downregulated miR-371a-3p may affect CRT sensitivity in patients with LARC via the thiamine metabolism pathway. 
+30944639_18508	30	36	miRNAs	Rna-noncoding	family:476
+30944639_18508	30	36	miRNAs	Biomarker	D035683
+30944639_18508	168	174	cancer	Disease	DOID:162
+30944639_18508	207	218	miR-371a-3p	Rna-noncoding	HGNC:31785
+30944639_18508	207	218	miR-371a-3p	Biomarker	C554834
+30944639_18508	244	249	tumor	Disease	DOID:162
+30944639_18508	323	340	serum miR-371a-3p	Biomarker
+30944639_18508	329	340	miR-371a-3p	Rna-noncoding
+30944639_18508	370	375	tumor	Disease
+30944639_18508	419	430	miR-371a-3p	Rna-noncoding
+30944639_18508	435	438	CRT	Drug-class
+30944639_18508	454	458	LARC	Disease	not found
+30944639_18508	555	566	miR-371a-3p	Rna-noncoding
+30944639_18508	555	584	miR-371a-3p was downregulated	Biomarker
+30944639_18508	616	627	miR-371a-3p	Rna-noncoding
+30944639_18508	616	627	miR-371a-3p	Biomarker
+30944639_18508	665	668	CRT	Drug-class
+30944639_18508	684	688	LARC	Disease
+30944639_18508	747	758	miR-371a-3p	Rna-noncoding
+30944639_18508	762	765	CRT	Drug-class
+30944639_18508	849	857	thiamine	Chemical
+30944639_18508	916	927	miR-371a-3p	Rna-noncoding
+30944639_18508	941	949	thiamine	Chemical
+30944639_18508	953	959	cancer	Disease
+30944639_18508	1022	1037	thiamine intake	Drug	not found
+30944639_18508	1068	1080	colon cancer	Disease	DOID:219
+30944639_18508	1132	1157	increased thiamine levels	Biomarker
+30944639_18508	1142	1150	thiamine	Chemical
+30944639_18508	1178	1183	tumor	Disease
+30944639_18508	1217	1229	chemotherapy	Drug-class
+30944639_18508	1260	1285	downregulated miR-371a-3p	Biomarker
+30944639_18508	1274	1285	miR-371a-3p	Rna-noncoding
+30944639_18508	1297	1300	CRT	Rna-noncoding
+30944639_18508	1330	1334	LARC	Disease
+30944639_18508	1343	1351	thiamine	Chemical
+

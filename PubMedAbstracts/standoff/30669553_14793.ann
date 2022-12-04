@@ -1,0 +1,97 @@
+T0	Disease 180 183	PCa
+#1	AnnotatorNotes T0	DOID:10283
+T1	Disease 299 302	PCa
+T10	Chemical 1207 1210	ATP
+T11	Disease 1410 1460	PCa cells overexpressing Bcl-2 and Bcl-xL proteins
+T13	Disease 1664 1686	prostate cancer tumors
+#6	AnnotatorNotes T13	DOID:10283
+T2	Disease 336 339	PCa
+T3	Disease 388 413	mitochondrial dysfunction
+#8	AnnotatorNotes T3	not found
+T4	Chemical 415 438	reactive oxygen species
+T5	Chemical 455 462	calcium
+T6	Disease 500 503	PCa
+T8	Chemical 633 642	ceramides
+T9	Disease 954 959	tumor
+#14	AnnotatorNotes T9	DOID:162
+T14	RNA-Noncoding 105 118	microRNA-4719
+#3	AnnotatorNotes T14	HGNC:41807
+T15	RNA-Noncoding 123 139	microRNA-6756-5p
+#9	AnnotatorNotes T15	HGNC:49974
+T16	Gene-Protein 154 168	Interleukin-24
+#10	AnnotatorNotes T16	HGNC:11346
+T17	Gene-Protein 170 175	IL-24
+#13	AnnotatorNotes T17	HGNC:11346
+T18	Gene-Protein 217 222	IL-24
+T19	Drug 309 329	overexpressed, IL-24
+#2	AnnotatorNotes T19	not found
+T20	Gene-Protein 324 329	IL-24
+R1	Response Arg1:T19 Arg2:T2	
+T21	Gene-Protein 372 377	IL-24
+T23	Biomarker 415 449	reactive oxygen species production
+T24	Biomarker 455 475	calcium mobilization
+T25	Drug 372 377	IL-24
+#15	AnnotatorNotes T25	C097541
+R3	Response Arg1:T25 Arg2:T6	
+T26	Gene-Protein 523 528	IL-24
+T29	Gene-Protein 583 588	Bcl-2
+#11	AnnotatorNotes T29	HGNC:990
+T30	Gene-Protein 593 599	Bcl-xL
+#16	AnnotatorNotes T30	HGNC:992
+T7	Disease 712 715	PCa
+T31	Drug 523 528	IL-24
+R4	Response Arg1:T31 Arg2:T7	
+T32	Disease 763 766	PCa
+T33	Biomarker 779 784	IL-24
+T34	Gene-Protein 779 784	IL-24
+T35	Biomarker 799 835	levels of secreted soluble clusterin
+T36	Gene-Protein 826 835	clusterin
+T37	Gene-Protein 837 841	sCLU
+T38	Gene-Protein 1018 1023	IL-24
+T39	Drug 779 784	IL-24
+R5	Response Arg1:T39 Arg2:T32	
+T40	Gene-Protein 1145 1149	SOX2
+#12	AnnotatorNotes T40	HGNC:11195
+T41	Gene-Protein 1172 1176	CD44
+#17	AnnotatorNotes T41	HGNC:1681
+T42	Gene-Protein 1250 1255	ABCG2
+#18	AnnotatorNotes T42	HGNC:74
+T43	Gene-Protein 1207 1248	ATP Binding Cassette Subfamily G Member 2
+#19	AnnotatorNotes T43	HGNC:74
+T44	Gene-Protein 1286 1290	IL-3
+#20	AnnotatorNotes T44	HGNC:6011
+T45	Gene-Protein 1292 1296	IL-6
+#21	AnnotatorNotes T45	HGNC:6018
+T46	Gene-Protein 1301 1306	IL-11
+#22	AnnotatorNotes T46	HGNC:5966
+T47	Disease 1310 1313	PCa
+T48	Gene-Protein 1368 1373	IL-24
+T49	Drug 1368 1373	IL-24
+T51	Gene-Protein 1435 1440	Bcl-2
+T52	Gene-Protein 1445 1451	Bcl-xL
+T53	Gene-Protein 1503 1508	IL-24
+T54	Drug 1558 1568	Sabutoclax
+#4	AnnotatorNotes T54	CHEMBL1094250
+T55	Drug-Class 1573 1635	inhibitor of prosurvival myeloid cell leukemia (Mcl-1) protein
+T12	Gene-Protein 1598 1619	myeloid cell leukemia
+#5	AnnotatorNotes T12	HGNC:6943
+T56	Gene-Protein 1642 1647	IL-24
+T57	Drug 1642 1647	IL-24
+R8	Synergy-Response Arg1:T54 Arg2:T13	
+R9	Synergy-Response Arg1:T57 Arg2:T13	
+T58	Gene-Protein 1690 1695	IL-24
+T27	Gene-Protein 1621 1626	Mcl-1
+#23	AnnotatorNotes T27	HGNC:6943
+#7	AnnotatorNotes T33	C097541
+R2	Causes Arg1:T25 Arg2:T3	
+T22	Drug-Class 1348 1366	ionizing radiation
+R6	Synergy-Response Arg1:T22 Arg2:T11	
+R7	Synergy-Response Arg1:T49 Arg2:T11	
+T50	Drug-Class 885 897	chemotherapy
+T59	Drug-Class 902 911	radiation
+T60	Drug-Class 916 933	hormone therapies
+T28	Drug 1503 1518	IL-24 treatment
+#24	AnnotatorNotes T28	not found
+R10	Non-Response Arg1:T28 Arg2:T11	
+T61	GeneFamily 1275 1284	cytokines
+#25	AnnotatorNotes T61	not found

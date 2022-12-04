@@ -1,0 +1,54 @@
+30906837_22685|t|RSS_IDENT_p_30906837_b_1_4_4
+30906837_22685|a| Recent researches found serum Hcy levels may be associated with NAFLD susceptibility. 12 , 13 MTHFR 677CT and 677TT can lower the activity of the MTHFR, resulting in elevated Hcy levels. ⁹ In this study, we had also analyzed relationship between serum Hcy levels as well as MTHFR 677CT gene polymorphism with NAFLD. However, serum Hcy levels were significantly higher among NAFLD subjects (Table 2), But further analysis found that MTHFR 677CT polymorphism and serum Hcy level had no interaction effect on NAFLD (Table 3). Up to now, the relationship between serum Hcy levels and the susceptibility of NAFLD is inconclusive. One study shows higher Hcy levels existed in NAFLD patients and were correlated with the severity of insulin resistance, ¹² the mechanisms may be relevant to alter intracellular lipid metabolism and promote hepatic fat accumulation in subjects with HHcy. ³¹ But another study showed after adjustment for risk factors of NAFLD such as BMI, WC, gender, age, and log (HOMA-IR), there was no relationship between HHcy and the NAFLD susceptibility. ¹³ Therefore, the interaction effect of MTHFR 677CT polymorphism and serum Hcy level on NAFLD also need to be confirmed by animal experiments. 
+30906837_22685	54	70	serum Hcy levels	Biomarker
+30906837_22685	60	63	Hcy	Chemical
+30906837_22685	94	99	NAFLD	Disease	DOID:0080208
+30906837_22685	124	129	MTHFR	Gene-protein	HGNC:7436
+30906837_22685	130	135	677CT	Variant	Loss-of-funtion
+30906837_22685	130	145	677CT and 677TT	Collection
+30906837_22685	140	145	677TT	Variant	Loss-of-funtion
+30906837_22685	176	181	MTHFR	Gene-protein
+30906837_22685	196	215	elevated Hcy levels	Biomarker
+30906837_22685	205	208	Hcy	Chemical
+30906837_22685	276	292	serum Hcy levels	Biomarker
+30906837_22685	282	285	Hcy	Chemical
+30906837_22685	304	309	MTHFR	Gene-protein
+30906837_22685	310	315	677CT	Variant
+30906837_22685	339	344	NAFLD	Disease
+30906837_22685	355	397	serum Hcy levels were significantly higher	Biomarker
+30906837_22685	361	364	Hcy	Chemical
+30906837_22685	404	409	NAFLD	Disease
+30906837_22685	462	467	MTHFR	Gene-protein
+30906837_22685	468	473	677CT	Variant
+30906837_22685	491	506	serum Hcy level	Biomarker
+30906837_22685	497	500	Hcy	Chemical
+30906837_22685	536	541	NAFLD	Disease
+30906837_22685	589	605	serum Hcy levels	Biomarker
+30906837_22685	595	598	Hcy	Chemical
+30906837_22685	632	637	NAFLD	Disease
+30906837_22685	671	688	higher Hcy levels	Biomarker
+30906837_22685	678	681	Hcy	Chemical
+30906837_22685	700	705	NAFLD	Disease
+30906837_22685	700	774	NAFLD patients and were correlated with the severity of insulin resistance	Collection
+30906837_22685	756	763	insulin	Gene-protein	HGNC:6081
+30906837_22685	756	774	insulin resistance	Disease	D007333
+30906837_22685	813	849	alter intracellular lipid metabolism	Biomarker
+30906837_22685	813	886	alter intracellular lipid metabolism and promote hepatic fat accumulation	Collection
+30906837_22685	833	838	lipid	Chemical
+30906837_22685	862	886	hepatic fat accumulation	Biomarker
+30906837_22685	904	908	HHcy	Disease	DOID:9279
+30906837_22685	975	980	NAFLD	Disease
+30906837_22685	989	992	BMI	Biomarker	D015992
+30906837_22685	989	1028	BMI, WC, gender, age, and log (HOMA-IR)	Collection
+30906837_22685	994	996	WC	Biomarker	 D055105
+30906837_22685	998	1004	gender	Biomarker	D005783
+30906837_22685	1006	1009	age	Biomarker	D017677
+30906837_22685	1015	1028	log (HOMA-IR)	Biomarker
+30906837_22685	1064	1068	HHcy	Disease
+30906837_22685	1077	1082	NAFLD	Disease
+30906837_22685	1139	1144	MTHFR	Gene-protein
+30906837_22685	1145	1150	677CT	Variant
+30906837_22685	1168	1183	serum Hcy level	Biomarker
+30906837_22685	1174	1177	Hcy	Chemical
+30906837_22685	1187	1192	NAFLD	Disease
+

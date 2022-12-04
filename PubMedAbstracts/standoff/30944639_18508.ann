@@ -1,0 +1,51 @@
+T0	Disease 168 174	cancer
+#1	AnnotatorNotes T0	DOID:162
+T11	Chemical 941 949	thiamine
+T12	Disease 953 959	cancer
+T15	Disease 1068 1080	colon cancer
+#5	AnnotatorNotes T15	DOID:219
+T17	Chemical 1142 1150	thiamine
+T18	Disease 1178 1183	tumor
+T2	Disease 244 249	tumor
+#8	AnnotatorNotes T2	DOID:162
+T20	Disease 1330 1334	LARC
+T21	Chemical 1343 1351	thiamine
+T4	Disease 370 375	tumor
+T6	Disease 454 458	LARC
+T8	Disease 684 688	LARC
+T9	Chemical 849 857	thiamine
+T1	RNA-Noncoding 30 36	miRNAs
+#2	AnnotatorNotes T1	family:476
+T3	Biomarker 30 36	miRNAs
+#4	AnnotatorNotes T3	D035683
+R1	Association Arg1:T3 Arg2:T0	
+T5	RNA-Noncoding 207 218	miR-371a-3p
+#6	AnnotatorNotes T5	HGNC:31785
+T7	Biomarker 207 218	miR-371a-3p
+#9	AnnotatorNotes T7	C554834
+R2	Association Arg1:T7 Arg2:T2	
+T10	RNA-Noncoding 329 340	miR-371a-3p
+T14	Biomarker 323 340	serum miR-371a-3p
+R3	Association Arg1:T14 Arg2:T4	
+T16	RNA-Noncoding 419 430	miR-371a-3p
+#10	AnnotatorNotes T6	not found
+T19	Biomarker 555 584	miR-371a-3p was downregulated
+T22	RNA-Noncoding 555 566	miR-371a-3p
+T23	RNA-Noncoding 616 627	miR-371a-3p
+T24	Biomarker 616 627	miR-371a-3p
+T25	RNA-Noncoding 747 758	miR-371a-3p
+T26	RNA-Noncoding 916 927	miR-371a-3p
+T27	Drug 1022 1037	thiamine intake
+#3	AnnotatorNotes T27	not found
+R5	Response Arg1:T27 Arg2:T15	
+T13	Biomarker 1132 1157	increased thiamine levels
+T28	Drug-Class 1217 1229	chemotherapy
+R7	Mediated-Non-Response Arg1:T28 Arg2:T18	
+R8	Mediator Arg1:T28 Arg2:T13	
+T29	Biomarker 1260 1285	downregulated miR-371a-3p
+T30	RNA-Noncoding 1274 1285	miR-371a-3p
+T31	Drug-Class 435 438	CRT
+T32	Drug-Class 665 668	CRT
+T33	Drug-Class 762 765	CRT
+T34	RNA-Noncoding 1297 1300	CRT
+R9	Association Arg1:T29 Arg2:T20	

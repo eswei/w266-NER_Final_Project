@@ -1,0 +1,44 @@
+30678274_28265|t|RSS_IDENT_p_30678274_b_1_3_5
+30678274_28265|a| Moreover, in vivo, we found that SAF treatment markedly reduced tumor growth in an HCC xenograft mouse model. Here, we demonstrated that SAF affected the biomarkers of HCC tumors. The ADC value, derived from diffusion-weighted imaging (DWI), is a sensitive biomarker for predicting early treatment responses in various malignant tumors that was used to assess tumor cellularity, tumor necrosis, cell density and apoptosis [ 21 , 46 ]. Previous studies reported that ADC values were increased after cisplatin treatment in an ovarian cancer model [ 47 ], after sorafenib treatment in breast cancer xenografts [ 48 ], and after irinotecan treatment in colon carcinoma xenografts [ 49 ]. Hence, we used DW-MRI to monitor the ADC values in HCC xenografts in response to SAF therapy. Interestingly, our findings are consistent with previous studies. The ADC values were increased after SAF treatment in tumors. The increase in ADC values was attributed to tumor cell death and apoptosis. These results were supported by the H–E and western blotting assays. Increased tumor necrosis and less compact cell spaces were observed in SAF-treated tumors with H–E staining, and higher levels of the proapoptotic proteins cleaved caspase-3 and cleaved caspase-7 were detected in SAF-treated tumors by western blotting. Therefore, our findings further suggest that SAF plays a vital role in the antitumor effect of HCC. 
+30678274_28265	63	66	SAF	Drug	CHEBI:144227
+30678274_28265	94	99	tumor	Disease	DOID:162
+30678274_28265	94	116	tumor growth in an HCC	Collection
+30678274_28265	113	116	HCC	Disease	DOID:684
+30678274_28265	167	170	SAF	Drug
+30678274_28265	198	208	HCC tumors	Disease	DOID:684
+30678274_28265	214	223	ADC value	Biomarker
+30678274_28265	349	365	malignant tumors	Disease	DOID:162
+30678274_28265	390	395	tumor	Disease
+30678274_28265	409	414	tumor	Disease
+30678274_28265	496	506	ADC values	Biomarker
+30678274_28265	528	537	cisplatin	Drug	CHEMBL11359
+30678274_28265	554	568	ovarian cancer	Disease	DOID:2394
+30678274_28265	589	598	sorafenib	Drug	CHEMBL1336
+30678274_28265	612	625	breast cancer	Disease	DOID:1612
+30678274_28265	655	665	irinotecan	Drug	CHEMBL481
+30678274_28265	679	694	colon carcinoma	Disease	DOID:1520
+30678274_28265	751	761	ADC values	Biomarker
+30678274_28265	765	768	HCC	Disease
+30678274_28265	795	798	SAF	Drug
+30678274_28265	878	888	ADC values	Biomarker
+30678274_28265	910	913	SAF	Drug
+30678274_28265	927	933	tumors	Disease	DOID:162
+30678274_28265	939	961	increase in ADC values	Biomarker
+30678274_28265	980	985	tumor	Disease
+30678274_28265	1048	1049	H	Chemical
+30678274_28265	1050	1051	E	Chemical
+30678274_28265	1081	1134	Increased tumor necrosis and less compact cell spaces	Collection
+30678274_28265	1082	1105	ncreased tumor necrosis	Biomarker
+30678274_28265	1110	1134	less compact cell spaces	Biomarker
+30678274_28265	1152	1155	SAF	Drug
+30678274_28265	1152	1170	SAF-treated tumors	Disease	not found
+30678274_28265	1176	1177	H	Chemical
+30678274_28265	1178	1179	E	Chemical
+30678274_28265	1194	1276	higher levels of the proapoptotic proteins cleaved caspase-3 and cleaved caspase-7	Biomarker
+30678274_28265	1245	1254	caspase-3	Gene-protein	HGNC:1504
+30678274_28265	1267	1276	caspase-7	Gene-protein	HGNC:1508
+30678274_28265	1294	1297	SAF	Drug
+30678274_28265	1294	1312	SAF-treated tumors	Disease
+30678274_28265	1379	1382	SAF	Drug
+30678274_28265	1429	1432	HCC	Disease
+

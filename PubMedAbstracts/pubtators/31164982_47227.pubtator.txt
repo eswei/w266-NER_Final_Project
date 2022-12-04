@@ -1,0 +1,29 @@
+31164982_47227|t|RSS_IDENT_p_31164982_b_1_4_3
+31164982_47227|a| Based on previous reports suggesting that mitochondrial dysfunction and SDHB mutations promote EMT [ 4 , 37 ], we hypothesized that altered enzyme function of SDH may be a determining factor and possibly an integral part of EMT in human tumors, which could be linked to an overarching shift in mitochondrial function and dynamics. Thorough analyses in breast cancer patient cohorts revealed a relatively consistent inverse association between EMT and reduced expression of the SDHC subunit. Upon molecular and histological classification of the breast cancer cohorts, we found that the relationship between SDHC and EMT was stronger in the basal-like subgroup compared to the non-basal-like subgroup. Interestingly, when looking at overall survival, low SDHC level was associated with a worse outcome in basal-like breast carcinoma. This finding can imply that suppressed activity of SDH-linked mitochondrial pathways is associated with a worse prognosis in basal-like breast carcinomas. As mitochondrial function is challenging to assess in frozen and paraffin-embedded samples, there is an urgent need for indicative markers reflecting mitochondrial abnormalities. Our results suggest that SDHC expression could serve as a potential prognostic marker to enable further discrimination in the basal-like breast carcinoma subgroup. Furthermore, upon histological classification of the n = 204 breast cancer cohort, we found the inverse association between SDHC and EMT to be more pronounced in the ductal subgroup, compared to the lobular, but we did not see an impact on the overall survival. 
+31164982_47227	72	97	mitochondrial dysfunction	Biomarker
+31164982_47227	102	106	SDHB	Gene-protein	HGNC:10681
+31164982_47227	102	116	SDHB mutations	Biomarker
+31164982_47227	189	192	SDH	Genefamily	family:641
+31164982_47227	267	273	tumors	Disease	DOID:162
+31164982_47227	382	395	breast cancer	Disease	DOID:1612
+31164982_47227	473	476	EMT	Biomarker
+31164982_47227	481	519	reduced expression of the SDHC subunit	Biomarker
+31164982_47227	507	511	SDHC	Gene-protein	HGNC:10682
+31164982_47227	575	588	breast cancer	Disease
+31164982_47227	637	641	SDHC	Gene-protein
+31164982_47227	646	649	EMT	Biomarker
+31164982_47227	780	794	low SDHC level	Biomarker
+31164982_47227	784	788	SDHC	Gene-protein
+31164982_47227	834	861	basal-like breast carcinoma	Disease	not found
+31164982_47227	891	947	suppressed activity of SDH-linked mitochondrial pathways	Biomarker
+31164982_47227	914	917	SDH	Genefamily
+31164982_47227	988	1016	basal-like breast carcinomas	Disease	not found
+31164982_47227	1083	1091	paraffin	Chemical
+31164982_47227	1168	1195	mitochondrial abnormalities	Disease	not found
+31164982_47227	1222	1226	SDHC	Gene-protein
+31164982_47227	1222	1237	SDHC expression	Biomarker
+31164982_47227	1323	1350	basal-like breast carcinoma	Disease	not found
+31164982_47227	1422	1435	breast cancer	Disease
+31164982_47227	1485	1489	SDHC	Gene-protein
+31164982_47227	1494	1497	EMT	Biomarker
+

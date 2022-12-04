@@ -1,0 +1,32 @@
+T0	Drug 103 107	NMDA
+T1	Drug 194 198	NMDA
+T10	Chemical 807 810	GSH
+T11	Chemical 835 838	GSH
+T2	Chemical 281 288	calcium
+T5	Chemical 700 709	glutamate
+T6	Chemical 710 718	cysteine
+T7	Chemical 744 749	NADPH
+T8	Chemical 750 757	quinone
+T9	Chemical 794 805	glutathione
+#1	AnnotatorNotes T0	CHEMBL291278
+T12	GeneFamily 357 362	NMDAR
+#3	AnnotatorNotes T12	family:1201
+T3	Gene-Protein 438 455	protein kinase Cδ
+#4	AnnotatorNotes T3	HGNC:9399
+T13	Gene-Protein 464 481	protein kinase Cδ
+T4	Gene-Protein 504 507	p35
+#6	AnnotatorNotes T4	HGNC:1775
+T14	Gene-Protein 508 533	cyclin-dependent kinase-5
+#7	AnnotatorNotes T14	HGNC:1774
+T15	Gene-Protein 535 539	Cdk5
+#8	AnnotatorNotes T15	HGNC:1774
+T16	Gene-Protein 571 614	nuclear factor-erythroid 2-related factor-2
+#9	AnnotatorNotes T16	HGNC:7782
+T17	Gene-Protein 616 620	Nrf2
+#10	AnnotatorNotes T17	HGNC:7782
+T18	GeneFamily 700 725	glutamate-cysteine ligase
+#11	AnnotatorNotes T18	not found
+T19	Gene-Protein 727 742	hemeoxygenase-1
+#12	AnnotatorNotes T19	HGNC:5013
+T20	Gene-Protein 744 775	NADPH quinone oxidorreductase-1
+#13	AnnotatorNotes T20	HGNC:2874

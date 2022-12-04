@@ -1,0 +1,65 @@
+T0	Chemical 85 91	serine
+T1	Chemical 102 110	tyrosine
+T10	Disease 772 778	cancer
+#3	AnnotatorNotes T10	DOID:162
+T2	Chemical 249 257	tyrosine
+T3	Disease 300 305	tumor
+#5	AnnotatorNotes T3	DOID:162
+T4	Disease 329 334	tumor
+T5	Disease 456 463	cancers
+#7	AnnotatorNotes T5	DOID:162
+T8	Disease 635 641	tumors
+#10	AnnotatorNotes T8	DOID:162
+T9	Disease 650 657	cancers
+T11	Gene-Protein 121 126	STYK1
+#1	AnnotatorNotes T11	 HGNC:18889
+T12	Gene-Protein 562 565	NOK
+T13	Gene-Protein 85 119	serine threonine tyrosine kinase 1
+#2	AnnotatorNotes T13	HGNC:18889
+T14	Gene-Protein 65 68	NOK
+#4	AnnotatorNotes T14	HGNC:18889
+T15	Gene-Protein 30 63	Novel oncogene with kinase domain
+#12	AnnotatorNotes T15	HGNC:18889
+T16	Gene-Protein 418 421	NOK
+T17	Gene-Protein 1244 1247	NOK
+T18	Gene-Protein 796 799	NOK
+T19	Gene-Protein 978 981	NOK
+T20	Gene-Protein 734 737	NOK
+T21	Gene-Protein 206 209	NOK
+T22	Gene-Protein 1140 1143	NOK
+T23	Disease 475 542	lung, ovarian, breast, colorectal, prostate, and renal cell cancers
+#6	AnnotatorNotes T23	DOID:1324,DOID:2394, DOID:1612, DOID:9256,DOID:12083,DOID:263
+T24	Biomarker 395 421	Aberrant expression of NOK
+T25	Collection 456 542	cancers, including lung, ovarian, breast, colorectal, prostate, and renal cell cancers
+R1	Association Arg1:T24 Arg2:T25	
+T6	Biomarker 562 565	NOK
+T7	Collection 635 657	tumors in some cancers
+R2	Association Arg1:T6 Arg2:T7	
+T26	GeneFamily 676 680	PI3K
+#8	AnnotatorNotes T26	family:831
+T27	GeneFamily 681 684	AKT
+#9	AnnotatorNotes T27	family:1900
+T28	Biomarker 734 752	NOK overexpression
+T29	GeneFamily 833 836	Akt
+R3	Association Arg1:T28 Arg2:T10	
+T30	GeneFamily 1022 1025	Akt
+T31	Disease 1306 1311	NSCLC
+T32	Disease 1063 1068	NSCLC
+T33	Gene-Protein 884 887	NOK
+T34	Biomarker 884 887	NOK
+T35	Disease 923 928	NSCLC
+#11	AnnotatorNotes T35	DOID:3908
+T36	Biomarker 978 992	NOK expression
+T37	Biomarker 1244 1247	NOK
+T38	Biomarker 1022 1033	Akt pathway
+T39	Biomarker 1038 1048	EMT marker
+T40	Biomarker 1140 1143	NOK
+T41	ProteinDomain 143 156	kinase domain
+T42	ProteinDomain 158 178	intracellular domain
+T43	ProteinDomain 184 204	transmembrane domain
+T44	GeneFamily 227 276	receptor-type protein tyrosine kinase-like family
+#14	AnnotatorNotes T44	family:321
+T45	Biomarker 206 209	NOK
+#13	AnnotatorNotes T45	C482299
+R4	Association Arg1:T45 Arg2:T3	
+#15	AnnotatorNotes T29	family:1900

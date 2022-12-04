@@ -1,0 +1,52 @@
+30116794_5491|t|RSS_IDENT_p_30116794_b_1_2_3
+30116794_5491|a| McCoy et al first described the association between Fusobacterium and colorectal adenoma ⁴ ⁾. They compared the abundance of Fusobacterium in normal rectal mucosa isolated from subjects with adenoma (48 cases) and from subjects without adenoma (67 cases) and found that rectal mucosa from adenoma patients were significantly enriched in Fusobacterium compared with mucosa from subjects without adenoma ⁴ ⁾. In contrast to McCoy's study, Kostic et al directly quantified Fusobacterium spp. loads in adenomas and matched adjacent normal tissues from the same patient. They found significant enrichment of the Fusobacterium species in adenoma tissues (P < 0.004) ⁵ ⁾. Flanagan et al quantified Fn loads in 52 colorectal adenomas and nearby normal mucosa and found that there was a trend but no significant association between the Fn level and adenoma state. However, they found a significantly higher Fn load in high-grade dysplasia and in CRC, thus suggesting that the Fn level was associated with progression of adenoma to carcinoma ¹⁶ ⁾. Although a higher level of Fn load was detected in adenoma and carcinoma tissues compared with adjacent normal tissues, carcinoma tissues contained more Fn than adenoma tissues ¹⁶ ⁾. Similarly, Yu et al observed a gradual increase in the Fn load during the transition from adenoma to carcinoma ¹⁸ ⁾. Taken together, these results suggest that Fn infection may be involved in progression from adenoma to carcinoma in some CRC cases. 
+30116794_5491	82	95	Fusobacterium	Biomarker	D005673
+30116794_5491	82	95	Fusobacterium	Microorganism
+30116794_5491	100	118	colorectal adenoma	Disease	DOID:0050860
+30116794_5491	155	168	Fusobacterium	Microorganism
+30116794_5491	221	228	adenoma	Disease	DOID:657
+30116794_5491	266	273	adenoma	Disease
+30116794_5491	319	326	adenoma	Disease
+30116794_5491	367	380	Fusobacterium	Microorganism
+30116794_5491	424	431	adenoma	Disease
+30116794_5491	500	518	Fusobacterium spp.	Microorganism
+30116794_5491	528	536	adenomas	Disease	DOID:657
+30116794_5491	607	658	significant enrichment of the Fusobacterium species	Biomarker
+30116794_5491	637	650	Fusobacterium	Microorganism
+30116794_5491	662	669	adenoma	Disease
+30116794_5491	721	723	Fn	Microorganism
+30116794_5491	721	729	Fn loads	Biomarker
+30116794_5491	736	755	colorectal adenomas	Disease	DOID:0050860
+30116794_5491	857	859	Fn	Microorganism
+30116794_5491	857	865	Fn level	Biomarker
+30116794_5491	870	877	adenoma	Disease
+30116794_5491	921	935	higher Fn load	Biomarker
+30116794_5491	928	930	Fn	Microorganism
+30116794_5491	939	959	high-grade dysplasia	Disease	not found
+30116794_5491	939	970	high-grade dysplasia and in CRC	Collection
+30116794_5491	967	970	CRC	Disease	DOID:9256
+30116794_5491	997	999	Fn	Microorganism
+30116794_5491	997	1005	Fn level	Biomarker
+30116794_5491	1041	1048	adenoma	Disease
+30116794_5491	1041	1061	adenoma to carcinoma	Collection
+30116794_5491	1052	1061	carcinoma	Disease	DOID:305
+30116794_5491	1079	1102	higher level of Fn load	Biomarker
+30116794_5491	1095	1097	Fn	Microorganism
+30116794_5491	1119	1126	adenoma	Disease
+30116794_5491	1119	1140	adenoma and carcinoma	Collection
+30116794_5491	1131	1140	carcinoma	Disease
+30116794_5491	1188	1197	carcinoma	Disease
+30116794_5491	1216	1223	more Fn	Biomarker
+30116794_5491	1221	1223	Fn	Microorganism
+30116794_5491	1229	1236	adenoma	Disease
+30116794_5491	1282	1313	gradual increase in the Fn load	Biomarker
+30116794_5491	1306	1308	Fn	Microorganism
+30116794_5491	1341	1348	adenoma	Disease
+30116794_5491	1352	1361	carcinoma	Disease
+30116794_5491	1411	1413	Fn	Microorganism
+30116794_5491	1411	1423	Fn infection	Biomarker
+30116794_5491	1460	1467	adenoma	Disease
+30116794_5491	1471	1480	carcinoma	Disease
+30116794_5491	1471	1492	carcinoma in some CRC	Collection
+30116794_5491	1489	1492	CRC	Disease
+

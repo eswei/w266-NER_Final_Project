@@ -1,0 +1,68 @@
+T0	Drug 42 52	endostatin
+T10	Disease 534 539	tumor
+T11	Disease 582 587	tumor
+T12	Drug 672 682	endostatin
+T13	Disease 692 697	tumor
+T16	Disease 796 811	malignant tumor
+#9	AnnotatorNotes T16	DOID:162
+T18	Disease 914 921	cancers
+T19	Disease 930 949	soft tissue sarcoma
+#12	AnnotatorNotes T19	DOID:1115
+T2	Disease 80 87	cancers
+#13	AnnotatorNotes T2	DOID:162
+T20	Disease 951 971	renal cell carcinoma
+#14	AnnotatorNotes T20	DOID:4450
+T21	Disease 977 994	ovarian carcinoma
+#15	AnnotatorNotes T21	DOID:4001
+T24	Disease 1094 1100	tumors
+#17	AnnotatorNotes T24	DOID:162
+T25	Disease 1187 1194	cancers
+T3	Drug 130 140	Endostatin
+T30	Disease 1442 1472	colorectal and bladder cancers
+#23	AnnotatorNotes T30	DOID:9256, DOID:11054
+T33	Disease 1626 1633	cancers
+T35	Disease 1724 1741	head and neck SCC
+#27	AnnotatorNotes T35	DOID:5520
+T4	Chemical 166 167	C
+T5	Drug 358 368	endostatin
+T7	Disease 475 480	tumor
+T8	Drug 507 517	endostatin
+#1	AnnotatorNotes T0	CHEMBL4297747
+T6	ProteinDomain 166 203	C-terminal fragment of collagen XVIII
+#5	AnnotatorNotes T3	CHEMBL4297747
+R2	Response Arg1:T5 Arg2:T7	
+R3	Response Arg1:T8 Arg2:T10	
+R4	Response Arg1:T12 Arg2:T13	
+T9	Biomarker 672 682	endostatin
+R5	Association Arg1:T9 Arg2:T16	
+T14	Biomarker 1040 1056	endostatin level
+#4	AnnotatorNotes T14	D043169
+R6	Association Arg1:T14 Arg2:T24	
+T23	Biomarker 1200 1233	higher serum levels of endostatin
+R7	Prognostic-Poor Arg1:T23 Arg2:T25	
+T26	Biomarker 1365 1398	higher serum levels of endostatin
+R8	Prognostic-Poor Arg1:T26 Arg2:T30	
+T31	Biomarker 1528 1551	serum endostatin levels
+R9	Association Arg1:T31 Arg2:T33	
+T37	Biomarker 1697 1720	serum endostatin levels
+T38	Biomarker 874 891	endostatin levels
+T39	Biomarker 1777 1800	serum endostatin levels
+T40	Biomarker 42 52	endostatin
+#3	AnnotatorNotes T40	D043169
+R1	Association Arg1:T40 Arg2:T2	
+#2	AnnotatorNotes T7	DOID:162
+T63	Gene-Protein 42 52	endostatin
+T64	Gene-Protein 130 140	Endostatin
+T66	Gene-Protein 358 368	endostatin
+T67	Gene-Protein 507 517	endostatin
+T69	Gene-Protein 672 682	endostatin
+T70	Gene-Protein 874 884	endostatin
+T71	Gene-Protein 1040 1050	endostatin
+T72	Gene-Protein 1223 1233	endostatin
+T73	Gene-Protein 1310 1320	endostatin
+T74	Gene-Protein 1388 1398	endostatin
+T75	Gene-Protein 1534 1544	endostatin
+T76	Gene-Protein 1703 1713	endostatin
+T77	Gene-Protein 1783 1793	endostatin
+T1	Biomarker 1298 1327	circulating endostatin levels
+#6	AnnotatorNotes T63	HGNC:2195

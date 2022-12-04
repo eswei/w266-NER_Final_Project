@@ -1,0 +1,120 @@
+T0	Chemical 78 94	[³⁵S]-methionine
+T1	Gene-Protein 264 268	Ro52
+T11	Chemical 1333 1341	histidyl
+T12	Chemical 1364 1372	threonyl
+T13	Chemical 1396 1402	alanyl
+T14	Chemical 1424 1430	glycyl
+T15	Chemical 1452 1461	isoleucyl
+T16	Chemical 1483 1494	asparaginyl
+T17	Chemical 1516 1528	phenylalanyl
+T18	Chemical 1637 1648	deacetyalse
+T2	Gene-Protein 270 277	TRIM-21
+T3	Chemical 280 317	3-hydroxy-3-methylglutaryl-coenzyme A
+T4	Gene-Protein 821 825	PL12
+T5	Gene-Protein 859 861	OJ
+T6	Gene-Protein 881 885	KS 3
+T7	Gene-Protein 898 900	Zo
+T9	Gene-Protein 1121 1125	Ro60
+T20	CellLine 104 108	K562
+#1	AnnotatorNotes T1	HGNC:11312
+#2	AnnotatorNotes T2	HGNC:11312
+T21	Gene-Protein 329 334	HMGCR
+#3	AnnotatorNotes T21	HGNC:5006
+T22	Gene-Protein 280 327	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+#4	AnnotatorNotes T22	HGNC:5006
+T23	Gene-Protein 340 368	cytosolic 5’-nucleotidase 1A
+#5	AnnotatorNotes T23	HGNC:17819
+T24	Gene-Protein 673 677	Jo-1
+T25	Gene-Protein 678 681	PL7
+T26	Gene-Protein 682 686	PL12
+T27	Gene-Protein 687 689	EJ
+T28	Gene-Protein 690 692	OJ
+T29	Gene-Protein 693 695	KS
+T30	Gene-Protein 696 698	Zo
+T31	Gene-Protein 699 701	Ha
+T32	GeneFamily 702 705	SRP
+T33	GeneFamily 706 710	Mi-2
+T34	Gene-Protein 711 715	MDA5
+T35	Gene-Protein 716 720	NXP2
+T36	Gene-Protein 721 725	TIF1
+T37	GeneFamily 730 735	PMScl
+T38	Gene-Protein 726 729	SAE
+T39	GeneFamily 736 738	Ku
+T40	Gene-Protein 739 743	Ro60
+T41	Gene-Protein 744 746	La
+T42	RNA-Noncoding 747 752	snRNP
+T43	Gene-Protein 759 763	Jo-1
+T44	Gene-Protein 794 797	PL7
+T45	Gene-Protein 842 844	EJ
+T46	GeneFamily 924 927	SRP
+T47	Gene-Protein 911 913	Ha
+T8	GeneFamily 942 946	Mi-2
+T48	Gene-Protein 963 967	MDA5
+T49	Gene-Protein 980 984	NXP2
+T50	Gene-Protein 1005 1009	TIF1
+T51	Gene-Protein 1034 1037	SAE
+T52	GeneFamily 1054 1059	PMScl
+T53	GeneFamily 1082 1084	Ku
+T54	RNA-Noncoding 1220 1225	U1RNP
+T55	Gene-Protein 1184 1186	La
+T56	RNA-Noncoding 1226 1232	Sm 124
+T10	Gene-Protein 1327 1331	Jo-1
+T57	Gene-Protein 1333 1357	histidyl-tRNA-synthetase
+T58	Gene-Protein 1364 1388	threonyl-tRNA-synthetase
+T59	Gene-Protein 1359 1362	PL7
+T60	Gene-Protein 1390 1394	PL12
+T61	Gene-Protein 1396 1418	alanyl-tRNA-synthetase
+T62	Gene-Protein 1424 1446	glycyl-tRNA-synthetase
+T63	Gene-Protein 1420 1422	EJ
+T64	Gene-Protein 1452 1477	isoleucyl-tRNA-synthetase
+T65	Gene-Protein 1448 1450	OJ
+T66	Gene-Protein 1479 1481	KS
+T67	Gene-Protein 1483 1510	asparaginyl-tRNA-synthetase
+T68	Gene-Protein 1512 1514	Zo
+T69	Gene-Protein 1516 1544	phenylalanyl-tRNA-synthetase
+T70	Gene-Protein 1546 1548	Ha
+T71	Gene-Protein 1549 1572	tyrosyl-tRNA synthetase
+T72	GeneFamily 1574 1577	SRP
+T73	GeneFamily 1579 1606	signal recognition particle
+T74	GeneFamily 1614 1656	nucleosome-remodelling deacetyalse complex
+T75	GeneFamily 1608 1612	Mi-2
+T76	Gene-Protein 1664 1709	melanoma differentiation-associated protein 5
+T77	Gene-Protein 1658 1662	MDA5
+T78	Gene-Protein 1711 1715	NXP2
+T79	Gene-Protein 1717 1741	nuclear matrix protein 2
+T80	Gene-Protein 1743 1747	TIF1
+T81	Gene-Protein 1749 1814	transcriptional intermediary factor 1 alpha and/or gamma subunits
+T82	Gene-Protein 1821 1868	small ubiquitin-like modifier activating enzyme
+T83	Gene-Protein 1816 1819	SAE
+T84	GeneFamily 1870 1873	PM/
+T85	GeneFamily 1873 1876	Scl
+T86	GeneFamily 1878 1910	nucleolar macromolecular complex
+T87	GeneFamily 1916 1951	DNA-binding nuclear protein complex
+T88	GeneFamily 1912 1914	Ku
+T89	Gene-Protein 1976 1979	SSB
+T90	Gene-Protein 1973 1975	La
+T91	Gene-Protein 1969 1971	La
+T92	Gene-Protein 1963 1967	Ro60
+T93	Gene-Protein 1959 1962	SSA
+T94	Gene-Protein 1953 1957	Ro60
+T95	RNA-Noncoding 1991 2033	small nuclear RNA U1RNP and/or Sm subunits
+T96	RNA-Noncoding 1987 1989	Sm
+T97	RNA-Noncoding 1981 1986	U1RNP
+T98	RNA-Noncoding 2050 2055	U3RNP
+T99	RNA-Noncoding 2057 2085	small nuclear RNA U3 subunit
+T100	GeneFamily 2096 2119	RNA polymerase I/II/III
+T101	GeneFamily 2087 2094	RNA Pol
+T102	Gene-Protein 2150 2165	topoisomerase I
+T103	Gene-Protein 2121 2145	M2 mitochondrial antigen
+T104	Gene-Protein 2218 2227	anti-Jo-1
+T105	Gene-Protein 2244 2251	anti-OJ
+T106	Gene-Protein 2277 2286	anti-TIF1
+T107	Gene-Protein 2291 2298	anti-KS
+T108	Gene-Protein 2315 2323	anti-SAE
+T109	GeneFamily 2213 2216	MSA
+T110	Gene-Protein 2326 2336	Anti-PmScl
+T111	GeneFamily 2349 2352	MAA
+T112	GeneFamily 2388 2391	MSA
+T113	GeneFamily 669 672	MAA
+T114	GeneFamily 665 668	MSA
+T19	Gene-Protein 2253 2260	anti-KS

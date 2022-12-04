@@ -1,0 +1,40 @@
+31761784_4697|t|RSS_IDENT_p_31761784_b_1_1_4
+31761784_4697|a| In a breast cancer pilot study, MAP2K4 was recognized to be a candidate tumor suppressor [ 13 , 14 ]. Conversely, Wang et al. [ 15 ] found that MAP2K4 could act as an oncogene because it can help promote proliferation and inhibit apoptosis of breast cancer cells. Due to the controversial evidence regarding MAP2K4, we previously investigated the expression and clinical value of MAP2K4 in invasive breast cancer [ 16 ]. The results showed that MAP2K4 is an independent predictor of outcome. Here, we further explored MAP2K4 biological functions in the regulation of breast cancer signaling pathways. On this topic, we confirmed a new mechanism for MAP2K4 in breast cancer. Different from previous ovarian cancer and lung adenocarcinoma MAP2K4 studies, we confirmed the ability of MAP2K4 to promote breast cancer cells proliferation, invasion, and migration through a series of functional in vitro and in vivo experiments, demonstrating an oncogenic role for MAP2K4 in breast cancer. Regarding the mechanism of action, our study also was the first to show that MAP2K4 overexpression activates the PI3K/AKT pathway and interacts with Vimentin in breast cancer cells. From the above results, we showed that MAP2K4 could have an oncogenic role to promote the occurrence and development of breast cancer. 
+31761784_4697	35	48	breast cancer	Disease	DOID:1612
+31761784_4697	62	68	MAP2K4	Gene-protein	HGNC:6844
+31761784_4697	174	180	MAP2K4	Gene-protein
+31761784_4697	174	180	MAP2K4	Biomarker	C482559
+31761784_4697	273	286	breast cancer	Disease
+31761784_4697	338	344	MAP2K4	Gene-protein
+31761784_4697	338	344	MAP2K4	Biomarker
+31761784_4697	410	416	MAP2K4	Gene-protein
+31761784_4697	410	416	MAP2K4	Biomarker
+31761784_4697	420	442	invasive breast cancer	Disease	not found
+31761784_4697	475	481	MAP2K4	Gene-protein
+31761784_4697	475	481	MAP2K4	Biomarker
+31761784_4697	548	554	MAP2K4	Gene-protein
+31761784_4697	548	554	MAP2K4	Biomarker
+31761784_4697	597	610	breast cancer	Disease
+31761784_4697	679	685	MAP2K4	Gene-protein
+31761784_4697	679	685	MAP2K4	Biomarker
+31761784_4697	689	702	breast cancer	Disease
+31761784_4697	728	742	ovarian cancer	Disease	DOID:2394
+31761784_4697	747	766	lung adenocarcinoma	Disease	DOID:3910
+31761784_4697	767	773	MAP2K4	Gene-protein
+31761784_4697	767	773	MAP2K4	Biomarker
+31761784_4697	811	817	MAP2K4	Gene-protein
+31761784_4697	811	817	MAP2K4	Biomarker
+31761784_4697	829	842	breast cancer	Disease
+31761784_4697	989	995	MAP2K4	Gene-protein
+31761784_4697	989	995	MAP2K4	Biomarker
+31761784_4697	999	1012	breast cancer	Disease
+31761784_4697	1091	1097	MAP2K4	Gene-protein
+31761784_4697	1091	1097	MAP2K4	Biomarker
+31761784_4697	1127	1131	PI3K	Genefamily	family:831
+31761784_4697	1132	1135	AKT	Genefamily	family:1900
+31761784_4697	1163	1171	Vimentin	Gene-protein	HGNC:12692
+31761784_4697	1175	1188	breast cancer	Disease
+31761784_4697	1235	1241	MAP2K4	Gene-protein
+31761784_4697	1235	1241	MAP2K4	Biomarker
+31761784_4697	1316	1329	breast cancer	Disease
+

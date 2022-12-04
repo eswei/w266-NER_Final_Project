@@ -1,0 +1,45 @@
+29575757_6526|t|RSS_IDENT_s_29575757_b_1_2
+29575757_6526|a| Tissue RAS in Diabetic Retinopathy The initial step of circulatory RAS necessitates the indispensable process of proteolytic activation of prorenin, whereby prorenin is changed to its mature active form; that is, renin by the processing enzymes (e.g., cathepsin B) exclusively in juxtaglomerular cells in the kidney to digest the prorenin prosegment that folds into an active‐site cleft of renin. Renin is a rate‐limiting enzyme in circulatory RAS for the shedding of angiotensinogen to angiotensin I (Ang I), which angiotensin‐converting enzyme changes to angiotensin II (Ang II), the effector molecule that binds to its cognate receptors, Ang II type 1 receptor (AT1R) and Ang II type 2 receptor. By contrast, tissue RAS is characterized by independence from the processing enzyme‐based proteolytic activation of prorenin to acquire renin activity, and requires an alternative triggering step caused by (P)RR, as discussed below. Tissue RAS plays several important roles in pathological vascular events, such as angiogenesis and inflammation, and various organ abnormalities are shown to be caused by tissue RAS activation. Regarding its relationship with the eye, multiple clinical trials, such as the EUCLID study, DIRECT‐Prevent 1, ‐Protect 1 and ‐Protect 2, and the RAS study, showed that inhibition of AT1R or angiotensin‐converting enzyme resulted in blood pressure‐unrelated beneficial effects on the incidence and progression of DR13, 14, 15, 16. Ang II levels were reported to significantly increase in the vitreous fluid of PDR eyes, with its significant correlation with VEGF levels17, 18. Furthermore, we have shown the significant involvement of the AngII/AT1R signaling pathway in inflammation‐related ocular angiogenesis, which causes upregulated expression of VEGF‐A, C‐C chemokine ligand (CCL)2/monocyte chemotactic protein (MCP)‐1 and intercellular adhesion molecule‐119, 20, all of which were verified to be responsible for the pathogenesis of DR. These several reports indicate that the activation of tissue RAS in the diabetic eye is the major key event predisposing to the development and deterioration of DR.
+29575757_6526	42	62	Diabetic Retinopathy	Disease	DOID:8947
+29575757_6526	167	175	prorenin	Gene-protein	not found
+29575757_6526	185	193	prorenin	Gene-protein
+29575757_6526	241	246	renin	Gene-protein	HGNC:9958
+29575757_6526	280	291	cathepsin B	Gene-protein	HGNC:2527
+29575757_6526	358	366	prorenin	Gene-protein
+29575757_6526	418	423	renin	Gene-protein
+29575757_6526	425	430	Renin	Gene-protein	HGNC:9958
+29575757_6526	496	511	angiotensinogen	Gene-protein	HGNC:333
+29575757_6526	515	528	angiotensin I	Gene-protein	not found
+29575757_6526	530	535	Ang I	Gene-protein	not found
+29575757_6526	544	573	angiotensin‐converting enzyme	Gene-protein	HGNC:2707
+29575757_6526	585	599	angiotensin II	Gene-protein	not found
+29575757_6526	601	607	Ang II	Gene-protein	not found
+29575757_6526	669	691	Ang II type 1 receptor	Gene-protein	HGNC:336
+29575757_6526	693	697	AT1R	Gene-protein	HGNC:336
+29575757_6526	703	725	Ang II type 2 receptor	Gene-protein	HGNC:338
+29575757_6526	843	851	prorenin	Gene-protein
+29575757_6526	863	868	renin	Gene-protein
+29575757_6526	960	970	Tissue RAS	Biomarker
+29575757_6526	1059	1071	inflammation	Disease	D007249
+29575757_6526	1059	1104	inflammation, and various organ abnormalities	Collection
+29575757_6526	1085	1104	organ abnormalities	Disease	not found
+29575757_6526	1323	1374	inhibition of AT1R or angiotensin‐converting enzyme	Drug	not found
+29575757_6526	1337	1341	AT1R	Gene-protein
+29575757_6526	1345	1374	angiotensin‐converting enzyme	Gene-protein
+29575757_6526	1485	1491	Ang II	Gene-protein
+29575757_6526	1485	1560	Ang II levels were reported to significantly increase in the vitreous fluid	Biomarker
+29575757_6526	1564	1567	PDR	Disease	DOID:13207
+29575757_6526	1612	1616	VEGF	Genefamily	family:1267
+29575757_6526	1662	1765	significant involvement of the AngII/AT1R signaling pathway in inflammation‐related ocular angiogenesis	Biomarker
+29575757_6526	1674	1914	involvement of the AngII/AT1R signaling pathway in inflammation‐related ocular angiogenesis, which causes upregulated expression of VEGF‐A, C‐C chemokine ligand (CCL)2/monocyte chemotactic protein (MCP)‐1 and intercellular adhesion molecule	Collection
+29575757_6526	1693	1698	AngII	Gene-protein
+29575757_6526	1699	1703	AT1R	Gene-protein
+29575757_6526	1780	1914	upregulated expression of VEGF‐A, C‐C chemokine ligand (CCL)2/monocyte chemotactic protein (MCP)‐1 and intercellular adhesion molecule	Biomarker
+29575757_6526	1806	1812	VEGF‐A	Gene-protein	HGNC:12680
+29575757_6526	1814	1841	C‐C chemokine ligand (CCL)2	Gene-protein	HGNC:10618
+29575757_6526	1842	1878	monocyte chemotactic protein (MCP)‐1	Gene-protein	HGNC:10618
+29575757_6526	1883	1914	intercellular adhesion molecule	Genefamily	family:1410
+29575757_6526	1993	1995	DR	Disease	DOID:8947
+29575757_6526	2037	2081	activation of tissue RAS in the diabetic eye	Biomarker
+29575757_6526	2158	2160	DR	Disease
+

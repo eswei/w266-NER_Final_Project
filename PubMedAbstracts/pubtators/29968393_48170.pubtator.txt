@@ -1,0 +1,46 @@
+29968393_48170|t|RSS_IDENT_p_29968393_b_1_4_7
+29968393_48170|a| Furthermore, we identified a gene signature of SDC3 downstream and its expressions were significantly related to cancer aggressiveness. Among 26 downstream genes, several genes have already reported roles in RCC pathogenesis. ITGA4 promoted cancer cell metastasis and the kinesin family was related to cell proliferation, invasion, and migration in RCC.36, 37 Interestingly, high expression of 7 genes (SDC3, PLXDC1, IL18RAP, GZMH, ATP8B3, TBX15, and TMC8) significantly predicted poor prognosis of RCC patients according to TCGA datasets. PLXDC1 (also known as TEM7) was initially cloned as a high expression protein from vascular endothelium of human cancer.38 Several studies showed that its expression contributed to angiogenesis.39, 40 In gastric cancer, aberrant expression of PLXDC1 enhanced cancer cell migration and invasive abilities.41 TBX15 is a member of the T‐box family of transcription factors; dysregulated expression of some TBX members is involved in human disease and carcinogenesis.42 In thyroid cancer cells, expression of TBX15 induced Bcl2 and Bcl‐XL (anti‐apoptotic proteins) expression and its overexpression played a role of anti‐apoptosis.43 These studies showed that SDC3 and its regulatory network have potential to be therapeutic targets of RCC. Further analysis of SDC3 could contribute to the development of novel therapeutic strategies for RCC.44
+29968393_48170	59	112	gene signature of SDC3 downstream and its expressions	Biomarker
+29968393_48170	77	81	SDC3	Gene-protein	HGNC:10660
+29968393_48170	143	149	cancer	Disease	DOID:162
+29968393_48170	238	241	RCC	Disease	DOID:4450
+29968393_48170	256	261	ITGA4	Biomarker
+29968393_48170	256	261	ITGA4	Gene-protein	HGNC:6140
+29968393_48170	271	277	cancer	Disease
+29968393_48170	302	309	kinesin	Genefamily	family:622
+29968393_48170	379	382	RCC	Disease
+29968393_48170	405	486	high expression of 7 genes (SDC3, PLXDC1, IL18RAP, GZMH, ATP8B3, TBX15, and TMC8)	Biomarker
+29968393_48170	433	437	SDC3	Gene-protein
+29968393_48170	439	445	PLXDC1	Gene-protein	HGNC:20945
+29968393_48170	447	454	IL18RAP	Gene-protein	HGNC:5989
+29968393_48170	456	460	GZMH	Gene-protein	HGNC:4710
+29968393_48170	462	468	ATP8B3	Gene-protein	HGNC:13535
+29968393_48170	470	475	TBX15	Gene-protein	HGNC:11594
+29968393_48170	481	485	TMC8	Gene-protein	HGNC:20474
+29968393_48170	529	532	RCC	Disease
+29968393_48170	570	576	PLXDC1	Gene-protein
+29968393_48170	570	576	PLXDC1	Biomarker	C510620
+29968393_48170	570	597	PLXDC1 (also known as TEM7)	Collection
+29968393_48170	592	596	TEM7	Gene-protein	HGNC:20945
+29968393_48170	592	596	TEM7	Biomarker	C510620
+29968393_48170	683	688	cance	Disease	DOID:162
+29968393_48170	774	788	gastric cancer	Disease	DOID:10534
+29968393_48170	790	819	aberrant expression of PLXDC1	Biomarker
+29968393_48170	813	819	PLXDC1	Gene-protein
+29968393_48170	829	835	cancer	Disease
+29968393_48170	877	882	TBX15	Gene-protein
+29968393_48170	902	939	T‐box family of transcription factors	Genefamily	family:766
+29968393_48170	941	984	dysregulated expression of some TBX members	Biomarker
+29968393_48170	973	976	TBX	Genefamily	family:766
+29968393_48170	1039	1053	thyroid cancer	Disease	DOID:1781
+29968393_48170	1061	1164	expression of TBX15 induced Bcl2 and Bcl‐XL (anti‐apoptotic proteins) expression and its overexpression	Biomarker
+29968393_48170	1075	1080	TBX15	Gene-protein
+29968393_48170	1089	1093	Bcl2	Gene-protein	HGNC:990
+29968393_48170	1098	1104	Bcl‐XL	Gene-protein	HGNC:992
+29968393_48170	1226	1230	SDC3	Gene-protein
+29968393_48170	1226	1257	SDC3 and its regulatory network	Biomarker
+29968393_48170	1302	1305	RCC	Disease
+29968393_48170	1327	1331	SDC3	Biomarker	C508301
+29968393_48170	1327	1331	SDC3	Gene-protein
+29968393_48170	1404	1407	RCC	Disease
+

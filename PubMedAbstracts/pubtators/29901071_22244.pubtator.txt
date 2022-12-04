@@ -1,0 +1,49 @@
+29901071_22244|t|RSS_IDENT_p_29901071_b_1_4_3
+29901071_22244|a| Curcumin has been described to exhibit antineoplastic properties in various types of cancer, including the inhibition of cell growth and metastasis, and promotion of apoptosis, via interacting with numerous cell signaling molecules ( 28 , 34 ). Kamat et al found that curcumin enhanced the antitumor effects of Bacillus Calmette-Guerin on BC by reducing NF-κB and inducing tumor necrosis factor-related apoptosis-inducing ligand receptors ( 35 ). Curcumin has been found to inhibit cell proliferation and invasive ability and trigger apoptosis by the suppression of Skp2 and induction of p21 in pancreatic cancer cells ( 27 ). Curcumin enhances the effect of 5-fluorouracil by disrupting AMP-activated protein kinase/Unc-51 like autophagy activating kinase-dependent autophagy and inducing apoptotic death in colon cancer cells ( 36 ). Curcumin inhibits cell growth through increasing p21 and p27 cyclin-dependent kinase inhibitors and inhibiting cyclin D1 and phosphatidylinositol-3 kinase (PI3K)/Akt signaling ( 37 ). YAP/TAZ are markedly suppressed by curcumin treatment, and the expression of Notch-1 is also suppressed ( 38 ). Curcumin triggers the degradation of KLF5 by the suppression of YAP/TAZ in BC cells ( 30 ). It has been reported that curcumin inhibits the mobility of BC cells through modulating the level of β-catenin and abrogating epithelial-mesenchymal transition (EMT) ( 39 ). In the present study, curcumin notably inhibited BC cell growth, invasion and migration, and triggered apoptotic cell death and G2/M phase arrest (Figs. 1 and 2A and B). These findings suggested the therapeutic possibility of curcumin for treating BC. Furthermore, it was found that Trop2 was a target of curcumin in the BC cell lines. 
+29901071_22244	30	38	Curcumin	Drug	CHEMBL116438
+29901071_22244	115	121	cancer	Disease	DOID:162
+29901071_22244	298	306	curcumin	Drug	CHEMBL116438
+29901071_22244	341	365	Bacillus Calmette-Guerin	Drug	D001500
+29901071_22244	369	371	BC	Disease	DOID:11054
+29901071_22244	384	389	NF-κB	Genefamily	family:1254
+29901071_22244	403	424	tumor necrosis factor	Gene-protein	HGNC:11892
+29901071_22244	403	468	tumor necrosis factor-related apoptosis-inducing ligand receptors	Genefamily	not found
+29901071_22244	477	485	Curcumin	Drug
+29901071_22244	596	600	Skp2	Gene-protein	HGNC:10901
+29901071_22244	618	621	p21	Gene-protein	HGNC:42982
+29901071_22244	625	642	pancreatic cancer	Disease	DOID:1793
+29901071_22244	657	665	Curcumin	Drug
+29901071_22244	689	703	5-fluorouracil	Drug	CHEMBL185
+29901071_22244	718	721	AMP	Chemical
+29901071_22244	718	746	AMP-activated protein kinase	Genefamily	not found
+29901071_22244	747	753	Unc-51	Gene-protein	not found
+29901071_22244	839	851	colon cancer	Disease	DOID:219
+29901071_22244	866	874	Curcumin	Drug
+29901071_22244	915	961	p21 and p27 cyclin-dependent kinase inhibitors	Gene-protein	HGNC:1784,HGNC:1785
+29901071_22244	977	986	cyclin D1	Gene-protein	HGNC:1582
+29901071_22244	991	1011	phosphatidylinositol	Chemical
+29901071_22244	991	1020	phosphatidylinositol-3 kinase	Genefamily	family:831
+29901071_22244	1022	1026	PI3K	Genefamily	family:831
+29901071_22244	1028	1031	Akt	Genefamily	family:1900
+29901071_22244	1050	1053	YAP	Gene-protein	HGNC:30935
+29901071_22244	1050	1081	YAP/TAZ are markedly suppressed	Biomarker
+29901071_22244	1054	1057	TAZ	Gene-protein	HGNC:11577
+29901071_22244	1085	1093	curcumin	Drug
+29901071_22244	1113	1153	expression of Notch-1 is also suppressed	Biomarker
+29901071_22244	1127	1134	Notch-1	Gene-protein	HGNC:7881
+29901071_22244	1162	1170	Curcumin	Drug
+29901071_22244	1199	1203	KLF5	Gene-protein	HGNC:6349
+29901071_22244	1226	1229	YAP	Gene-protein
+29901071_22244	1230	1233	TAZ	Gene-protein
+29901071_22244	1237	1239	BC	Disease
+29901071_22244	1280	1288	curcumin	Drug
+29901071_22244	1314	1316	BC	Disease
+29901071_22244	1355	1364	β-catenin	Genefamily	family:1542
+29901071_22244	1450	1458	curcumin	Drug
+29901071_22244	1477	1479	BC	Disease
+29901071_22244	1654	1662	curcumin	Drug
+29901071_22244	1676	1678	BC	Disease
+29901071_22244	1711	1716	Trop2	Gene-protein	HGNC:11530
+29901071_22244	1733	1741	curcumin	Drug
+29901071_22244	1749	1751	BC	Disease
+

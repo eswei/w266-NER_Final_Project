@@ -1,0 +1,73 @@
+T0	Disease 141 163	cardiovascular disease
+#1	AnnotatorNotes T0	DOID:1287
+T1	Disease 165 185	rheumatoid arthritis
+#2	AnnotatorNotes T1	DOID:7148
+T10	Disease 564 568	COPD
+T13	Disease 740 744	COPD
+T14	Disease 1159 1163	COPD
+T15	Disease 1241 1245	COPD
+T17	Disease 1390 1427	COPD patients with acute exacerbation
+T18	Gene-Protein 1470 1474	CyPA
+T2	Disease 187 193	sepsis
+#12	AnnotatorNotes T2	D018805
+T3	Disease 195 210	viral infection
+#13	AnnotatorNotes T3	DOID:934
+T4	Disease 212 218	cancer
+#14	AnnotatorNotes T4	DOID:162
+T5	Disease 220 247	nervous system degeneration
+#15	AnnotatorNotes T5	DOID:863
+T6	Disease 249 255	asthma
+#16	AnnotatorNotes T6	DOID:2841
+T7	Disease 261 274	periodontitis
+#17	AnnotatorNotes T7	DOID:824
+T8	Disease 400 404	COPD
+#18	AnnotatorNotes T8	DOID:3083
+T9	Disease 455 459	COPD
+T19	Gene-Protein 69 73	CyPA
+#11	AnnotatorNotes T19	HGNC:9253
+T20	Gene-Protein 341 345	CyPA
+T21	Gene-Protein 447 451	CyPA
+T22	Gene-Protein 521 525	CyPA
+T23	Gene-Protein 718 722	CyPA
+T24	Gene-Protein 1340 1344	CyPA
+T25	Gene-Protein 868 872	CyPA
+T26	Collection 141 274	cardiovascular disease, rheumatoid arthritis, sepsis, viral infection, cancer, nervous system degeneration, asthma, and periodontitis
+T27	Biomarker 69 73	CyPA
+R1	Association Arg1:T27 Arg2:T26	
+T28	Biomarker 341 360	CyPA is upregulated
+R2	Association Arg1:T28 Arg2:T8	
+T29	Biomarker 426 451	alterations of serum CyPA
+T30	Biomarker 515 547	serum CyPA levels were increased
+R3	Association Arg1:T30 Arg2:T11	
+T31	Disease 632 669	COPD patients with acute exacerbation
+T11	Collection 564 669	COPD patients compared to healthy controls, and further elevated in COPD patients with acute exacerbation
+T12	Biomarker 696 736	upregulation of serum CyPA concentration
+T32	Gene-Protein 1050 1055	MMP-9
+#3	AnnotatorNotes T32	HGNC:7176
+T33	Gene-Protein 1060 1064	IL-6
+#4	AnnotatorNotes T33	HGNC:6018
+T34	Gene-Protein 939 944	CD147
+#5	AnnotatorNotes T34	HGNC:1116
+T35	Gene-Protein 930 937	EMMPRIN
+#6	AnnotatorNotes T35	HGNC:1116
+T36	GeneFamily 896 920	matrix metalloproteinase
+#7	AnnotatorNotes T36	family:891
+T37	Gene-Protein 1141 1145	IL-6
+T38	Gene-Protein 1150 1155	MMP-9
+T39	Gene-Protein 1190 1194	IL-6
+T40	Gene-Protein 1199 1204	MMP-9
+T41	Gene-Protein 1372 1376	IL-6
+T42	Gene-Protein 1381 1386	MMP-9
+T43	Gene-Protein 1526 1530	IL-6
+T44	Gene-Protein 1535 1540	MMP-9
+T45	Biomarker 1340 1344	CyPA
+T46	Biomarker 1372 1376	IL-6
+T47	Biomarker 1381 1386	MMP-9
+T48	Biomarker 1174 1224	Serum levels of IL-6 and MMP-9 were also increased
+R4	Association Arg1:T48 Arg2:T16	
+#8	AnnotatorNotes T27	D016572
+#9	AnnotatorNotes T31	not found
+R5	Association Arg1:T12 Arg2:T13	
+T49	Disease 1280 1296	exacerbated COPD
+#10	AnnotatorNotes T49	not found
+T16	Collection 1241 1296	COPD patients and further increased in exacerbated COPD

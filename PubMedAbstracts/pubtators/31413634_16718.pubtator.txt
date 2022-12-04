@@ -1,0 +1,44 @@
+31413634_16718|t|RSS_IDENT_p_31413634_b_1_4_3
+31413634_16718|a| Accumulating studies have demonstrated the essential functions of circRNAs in cancers, including CRC. 2 Several evidences reveal that circRNAs participate in regulating various life processes of CRC cells, such as differentiation, proliferation and migration. For example, hsa_circ_0136666 increases the growth and metastasis of CRC by modulating miR-136/SH2B1 pathway. 12 CircRNA_100290 contributes to CRC development via miR-516b/FZD4/Wnt/β-catenin signaling cascade. 13 Overexpression of hsa_circ_0000069 enhances the growth and metastasis of CRC. 14 However, the relationship between circRNA and CRC progression still remains poorly explored. And the roles of hsa_circRNA_102958 are largely unknown. In our study, we found that hsa_circRNA_102958 expression was significantly upregulated in CRC tissues. Through CCK8 and colony formation assays, we demonstrated that hsa_circRNA_102958 promotes CRC cell proliferation. By using Transwell assay, we revealed that hsa_circRNA_102958 silencing suppressed migration and invasion of CRC cells. Xenograft assay also demonstrated the oncogenic roles of hsa_circRNA_102958. Taken together, our work demonstrated that hsa_circRNA_102958 promoted CRC cell proliferation, migration and invasion in vitro and in vivo. 
+31413634_16718	96	104	circRNAs	Biomarker	D000079962
+31413634_16718	96	104	circRNAs	Rna-noncoding
+31413634_16718	108	115	cancers	Disease	DOID:162
+31413634_16718	108	130	cancers, including CRC	Collection
+31413634_16718	127	130	CRC	Disease	DOID:9256
+31413634_16718	164	172	circRNAs	Biomarker
+31413634_16718	164	172	circRNAs	Rna-noncoding
+31413634_16718	225	228	CRC	Disease
+31413634_16718	303	319	hsa_circ_0136666	Biomarker
+31413634_16718	303	319	hsa_circ_0136666	Rna-noncoding	not found
+31413634_16718	359	362	CRC	Disease
+31413634_16718	377	384	miR-136	Rna-noncoding	HGNC:31522
+31413634_16718	385	390	SH2B1	Gene-protein	HGNC:30417
+31413634_16718	403	417	CircRNA_100290	Biomarker
+31413634_16718	403	417	CircRNA_100290	Rna-noncoding	not found
+31413634_16718	433	436	CRC	Disease
+31413634_16718	453	461	miR-516b	Rna-noncoding	not found
+31413634_16718	462	466	FZD4	Gene-protein	HGNC:4042
+31413634_16718	467	470	Wnt	Genefamily	family:360
+31413634_16718	471	480	β-catenin	Genefamily	family:1542
+31413634_16718	503	537	Overexpression of hsa_circ_0000069	Biomarker
+31413634_16718	521	537	hsa_circ_0000069	Rna-noncoding	not found
+31413634_16718	576	579	CRC	Disease
+31413634_16718	618	625	circRNA	Rna-noncoding	not found
+31413634_16718	630	633	CRC	Disease
+31413634_16718	694	712	hsa_circRNA_102958	Biomarker
+31413634_16718	694	712	hsa_circRNA_102958	Rna-noncoding	not found
+31413634_16718	762	780	hsa_circRNA_102958	Rna-noncoding
+31413634_16718	762	821	hsa_circRNA_102958 expression was significantly upregulated	Biomarker
+31413634_16718	825	828	CRC	Disease
+31413634_16718	901	919	hsa_circRNA_102958	Biomarker
+31413634_16718	901	919	hsa_circRNA_102958	Rna-noncoding
+31413634_16718	929	932	CRC	Disease
+31413634_16718	996	1014	hsa_circRNA_102958	Rna-noncoding
+31413634_16718	996	1024	hsa_circRNA_102958 silencing	Drug	not found
+31413634_16718	1062	1065	CRC	Disease
+31413634_16718	1130	1148	hsa_circRNA_102958	Biomarker
+31413634_16718	1130	1148	hsa_circRNA_102958	Rna-noncoding
+31413634_16718	1193	1211	hsa_circRNA_102958	Biomarker
+31413634_16718	1193	1211	hsa_circRNA_102958	Rna-noncoding
+31413634_16718	1221	1224	CRC	Disease
+
